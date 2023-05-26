@@ -24,7 +24,7 @@
 
 ### Libraries / Go
 
-*   [gosnmp/gosnmp (⭐933)](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
+*   [gosnmp/gosnmp (⭐955)](https://github.com/gosnmp/gosnmp) - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
 
 ### Libraries / Java
 
@@ -33,7 +33,7 @@
 
 ### Libraries / JavaScript
 
-*   [node-net-snmp (⭐166)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
+*   [node-net-snmp (⭐169)](https://github.com/markabrahams/node-net-snmp) -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
 
 ### Tools / CLIs
 
@@ -76,7 +76,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [skrapeit/skrape.it (⭐622)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
+*   [skrapeit/skrape.it (⭐643)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
 
 ## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -90,18 +90,18 @@
 
 ### Native / Action
 
-*   [OpenTomb (⭐1.2k)](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
+*   [OpenTomb (⭐1.3k)](https://github.com/opentomb/OpenTomb) - Open-source Tomb Raider 1-5 engine remake.
 
 ### Native / MMORPG
 
-*   [Stendhal (⭐408)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
+*   [Stendhal (⭐464)](https://github.com/arianne/stendhal) - Fun friendly and free 2D multiplayer online adventure game with an old school feel.
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace (⭐81)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐174)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐102)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐218)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
 
@@ -109,14 +109,14 @@
 
 ### Server Applications
 
-*   [dummy (⭐169)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
+*   [dummy (⭐172)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [IPsec VPN Server Auto Setup Scripts (⭐21k)](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-*   [Innernet (⭐4.1k)](https://github.com/tonarino/innernet) - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
+*   [Innernet (⭐4.2k)](https://github.com/tonarino/innernet) - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
 *   [Nebula (⭐11k)](https://github.com/slackhq/nebula) - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
 *   [OpenVPN](https://openvpn.net/) - Longstanding Free Software traditional SSL/TLS-based virtual private network.
 *   [Tailscale](https://tailscale.com/) - Managed freemium mesh VPN service built on top of WireGuard.
@@ -132,7 +132,7 @@
 
 ### Plugins
 
-*   [tmux-power-zoom (⭐21)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
+*   [tmux-power-zoom (⭐25)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
 
 ---
 

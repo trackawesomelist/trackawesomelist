@@ -50,7 +50,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Web Content Extracting
 
-*   [toapi (⭐3.3k)](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+*   [toapi (⭐3.4k)](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -62,7 +62,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### CLI
 
-*   [CLI11 (⭐2.5k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
+*   [CLI11 (⭐2.6k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
 
 ## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -84,7 +84,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 ### Image Processing
 
-*   [ImageSharp (⭐6.3k)](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
+*   [ImageSharp (⭐6.5k)](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -116,10 +116,10 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ### Libraries / Command-line
 
 *   Progress
-    *   [a8m/pb (⭐518)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
-    *   [console-rs/indicatif (⭐3.4k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
-    *   [etienne-napoleone/spinach (⭐71)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
-    *   [FGRibreau/spinners (⭐444)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
+    *   [a8m/pb (⭐527)](https://github.com/a8m/pb) \[[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
+    *   [console-rs/indicatif (⭐3.5k)](https://github.com/console-rs/indicatif) \[[indicatif](https://crates.io/crates/indicatif)] — indicate progress to users
+    *   [etienne-napoleone/spinach (⭐72)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
+    *   [FGRibreau/spinners (⭐464)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
 ## [12. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

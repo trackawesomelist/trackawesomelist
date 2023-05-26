@@ -28,7 +28,7 @@
 
 ### Telegram
 
-*   [C# (⭐37)](https://github.com/MrRoundRobin/telegram.bot)
+*   [C# (⭐39)](https://github.com/MrRoundRobin/telegram.bot)
 
 ### Bot Stores / Go
 
@@ -39,7 +39,7 @@
 
 ### Probability and Statistics / Statistical Learning
 
-*   [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/\~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
+*   [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
 
 ## [5. Tips](/content/git-tips/tips/week/README.md)
 
@@ -172,21 +172,21 @@ git log --show-notes='*'
 
 ### Firebase
 
-- Name: [Friendlychat (⭐1.6k)](https://github.com/firebase/friendlychat)
+- Name: [Friendlychat (⭐1.7k)](https://github.com/firebase/friendlychat)
 
   Description: Firebase codelab for building a cross-platform chat app
 
   Link: 
 
 
-- Name: [Friendlypix (⭐730)](https://github.com/firebase/friendlypix)
+- Name: [Friendlypix (⭐727)](https://github.com/firebase/friendlypix)
 
   Description: FriendlyPix is a cross-platform Firebase example app
 
   Link: 
 
 
-- Name: [Firefeed (⭐460)](https://github.com/firebase/firefeed)
+- Name: [Firefeed (⭐459)](https://github.com/firebase/firefeed)
 
   Description: Firefeed is a web app that lets users post small messages called sparks to their feed.
 
@@ -255,7 +255,7 @@ git log --show-notes='*'
 
 ### Packages / Libraries
 
-*   [Tuna (⭐1.5k)](https://github.com/Theodeus/tuna) - An audio effects library.
+*   [Tuna (⭐1.6k)](https://github.com/Theodeus/tuna) - An audio effects library.
 
 ## [25. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -391,7 +391,7 @@ git log --show-notes='*'
 
 ### Open Source Repos / S3
 
-*   [owocki/s3\_disk\_util :fire: (⭐168)](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
+*   [owocki/s3\_disk\_util :fire: (⭐169)](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 
 ## [37. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -411,27 +411,27 @@ git log --show-notes='*'
 
 ### Software / Python
 
-*   [PyGraphistry (⭐1.7k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
+*   [PyGraphistry (⭐1.8k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 
 ## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Parsing
 
-*   [ref (⭐427)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐434)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [dataframe (⭐60)](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
+*   [dataframe (⭐61)](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
 
 ### Framework Components
 
-*   [filterable (⭐98)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
+*   [filterable (⭐100)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐511)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐516)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
@@ -571,7 +571,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Web Frameworks
 
-*   [FubuMVC (⭐422)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
+*   [FubuMVC (⭐421)](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ishan9299/modus-theme-vim (⭐121)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
+*   [ishan9299/modus-theme-vim (⭐132)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Themes
 
-*   [dracula/tmux (⭐401)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
+*   [dracula/tmux (⭐439)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 
 ### Plugins
 
-*   [tmux-notify (⭐70)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
+*   [tmux-notify (⭐82)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Projects / Libraries
 
-*   [Simple IO (⭐24)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
+*   [Simple IO (⭐26)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
 
 ### Projects / Package and Build Management
 
@@ -81,14 +81,14 @@
 
 ### Projects / Tools
 
-*   [hs-to-coq (⭐65)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
+*   [hs-to-coq (⭐69)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
 *   [Roosterize (⭐14)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐464)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐483)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
 ## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

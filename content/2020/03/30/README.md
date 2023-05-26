@@ -16,7 +16,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Stretto (⭐581)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
+*   [Stretto (⭐585)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
 ## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐9.5k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -40,19 +40,19 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐812)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐819)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Game Remakes (⭐368)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+*   [Game Remakes (⭐405)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Version Control / Git
 
-*   [semantic-git-commit-cli (⭐133)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
+*   [semantic-git-commit-cli (⭐139)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 
 ## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -65,13 +65,13 @@
 ### Finite Elements
 
 *   [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
-    (C, 2-clause BSD, [GitHub (⭐133)](https://github.com/CEED/libCEED))
+    (C, 2-clause BSD, [GitHub (⭐145)](https://github.com/CEED/libCEED))
 
 ## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Machine Learning
 
-*   [mxnet.cr (⭐20)](https://github.com/toddsundsted/mxnet.cr) - Bindings for [MXNet](https://mxnet.incubator.apache.org/)
+*   [mxnet.cr (⭐22)](https://github.com/toddsundsted/mxnet.cr) - Bindings for [MXNet](https://mxnet.incubator.apache.org/)
 
 ### Misc
 
@@ -79,12 +79,12 @@
 
 ### Science and Data analysis
 
-*   [ishi (⭐42)](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API and sensible defaults powered by gnuplot
+*   [ishi (⭐46)](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API and sensible defaults powered by gnuplot
 
 ### Third-party APIs
 
-*   [host\_meta (⭐2)](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (<https://tools.ietf.org/html/rfc6415>) client
-*   [web\_finger (⭐8)](https://github.com/toddsundsted/web_finger) - A WebFinger (<https://tools.ietf.org/html/rfc7033>) client
+*   [host\_meta (⭐3)](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (<https://tools.ietf.org/html/rfc6415>) client
+*   [web\_finger (⭐9)](https://github.com/toddsundsted/web_finger) - A WebFinger (<https://tools.ietf.org/html/rfc7033>) client
 
 ### Official Documentation Translations
 

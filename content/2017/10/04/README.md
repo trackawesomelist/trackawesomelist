@@ -21,7 +21,7 @@
 
 ### HTML Manipulation
 
-*   [selmer (⭐892)](https://github.com/yogthos/Selmer)
+*   [selmer (⭐926)](https://github.com/yogthos/Selmer)
 
 ## [3. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Free fonts / Collections
 
-*   [Zilla Slab (⭐363)](https://github.com/mozilla/zilla-slab) - Mozilla font
+*   [Zilla Slab (⭐375)](https://github.com/mozilla/zilla-slab) - Mozilla font
 
 ### Programming fonts / Fonts
 
@@ -79,7 +79,7 @@
 
 ### GIS
 
-*   [GeoJSON.NET (⭐397)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
+*   [GeoJSON.NET (⭐401)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
 ## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Laravel
 
-- Name: [Despark's igniCMS (⭐12)](https://github.com/despark/igni-core)
+- Name: [Despark's igniCMS (⭐13)](https://github.com/despark/igni-core)
 
   Description: Easy to use featherlight CMS, which provides you with a shortcut to bootstrapping the backend of PHP (Laravel), MySQL based projects.
 
@@ -140,8 +140,8 @@
 
 ### Packages / Apps
 
-*   [mod-synth.io (⭐49)](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
-*   [Super Oscillator (⭐33)](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
+*   [mod-synth.io (⭐50)](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
+*   [Super Oscillator (⭐34)](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
 
 ### Resources / Tutorials
 

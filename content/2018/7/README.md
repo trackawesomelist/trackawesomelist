@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 12 - Feb 18, 2018
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Miscellaneous
 
-*   [GDH (⭐30)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library built on top of Vert.x.
+*   [GDH (⭐29)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library built on top of Vert.x.
 
 ### Web Frameworks
 
@@ -93,13 +93,13 @@
 
 ### Music Notation
 
-*   [Tbon (⭐12)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
+*   [Tbon (⭐13)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 
 ### Related lists
 
-*   [Awesome Audio Visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
-*   [Awesome Python for Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐905)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome Audio Visualization (⭐4.2k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+*   [Awesome Python for Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
+*   [Awesome WebAudio (⭐923)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ## [13. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Go / Erlang
 
-*   [Enduro/X ASG (⭐35)](https://github.com/endurox-dev/endurox-go) - Enduro/X bindings for Go allows to effectively write XATMI based microservices in Go language. Uses Unix kernel IPC (queues) for fast process communications.
+*   [Enduro/X ASG (⭐38)](https://github.com/endurox-dev/endurox-go) - Enduro/X bindings for Go allows to effectively write XATMI based microservices in Go language. Uses Unix kernel IPC (queues) for fast process communications.
 
 ## [16. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -146,11 +146,11 @@
 ### Plugins and scripts / Godot version unknown
 
 *   [Easing Script (⭐45)](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
-*   [gdutils (⭐93)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+*   [gdutils (⭐92)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Syntax themes by Geequlim (⭐47)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
+*   [Syntax themes by Geequlim (⭐49)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 
 ## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -170,20 +170,14 @@
 
 *   [Silverpoint MultiInstaller](http://www.silverpointdevelopment.com/multiinstaller/index.htm). Multi component package installer for Embarcadero Delphi and C++Builder, it was created to ease the components installation on the IDE.
 
-## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Bootstrap
-
-*   [Introduction to Computer science using Java](http://www.programmedlessons.org/Java9/index.html) - Bradley Kjell
-
-## [23. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [22. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Videos
 
 *   [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
 *   [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
 
-## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -198,49 +192,49 @@
 
 *   [Angular.Schule (in Germany)](https://angular.schule/)
 
-## [25. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [24. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Video Courses
 
 *   [Framer Studio for Beginners: A Comprehensive Guide](https://www.youtube.com/playlist?list=PLIZVb6Yuw91yGUNbSNEHvWWHkdol6SJUW) - Series of videos that walk you through designing and coding in Framer using hands-on projects by [Cordova Putra](https://twitter.com/cordova)
 
-## [26. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [25. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [XO (⭐7.1k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [XO (⭐7.2k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 
-## [27. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [26. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Nix tools
 
 *   [bcc (⭐16k)](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
-*   [ConsoleTableExt (⭐295)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
+*   [ConsoleTableExt (⭐303)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
 
-## [29. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [28. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
 *   [PandwaRF](https://pandwarf.com/) - PandwaRF is a pocket-sized, portable RF analysis tool operating the sub-1 GHz range. It allows the capture, analysis and re-transmission of RF via an Android device or a Linux PC. Capture any data in ASK/OOK/MSK/2-FSK/GFSK modulation from the 300-928 MHz band.
 
-## [30. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [29. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Gamification / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Security Belt (⭐73)](https://github.com/otto-de/security-belt) - A framework for improving the IT-Security of your teams through gamification.
 
-## [31. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [30. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / React
 
 *   [React Svg Textures (⭐29)](https://github.com/finnfiddle/react-svg-textures) - Textures.js ported to React. Fully isomorphic.
 
-## [32. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
@@ -250,24 +244,24 @@
 
 *   [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) How Does The Machine Learning Library TensorFlow Work?
 
-## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [32. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [Next Plugin Graphql (⭐54)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-*   [Next With Apollo (⭐767)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+*   [Next With Apollo (⭐764)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
-## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Feeds
 
-*   [atomex (⭐38)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
+*   [atomex (⭐39)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 
 ### Validations
 
-*   [skooma (⭐134)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
+*   [skooma (⭐136)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 
-## [35. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [34. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### 2D / Firefox Specific Tools/Debugger
 
@@ -278,23 +272,23 @@
 *   [Ammo.js (⭐3.3k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 *   [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [replxx (⭐611)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
+*   [replxx (⭐626)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
 
 ### Static Code Analysis
 
 *   [CppDepend](https://www.cppdepend.com/) - Simplifies managing a complex C/C++ code base by analyzing and visualizing code dependencies, by defining design rules, by doing impact analysis, and comparing different versions of the code.
 
-## [37. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [36. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Imaging
 
 *   [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - JavaScript/HTML5-based DICOM viewer with standard tools and a focus on supporting various screen sizes.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -302,18 +296,18 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XMR Miner (⭐495)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
-*   [XMR Paper (⭐5)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
+*   [XMR Miner (⭐494)](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
+*   [XMR Paper (⭐6)](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
 *   [JoyProxy (⭐12)](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
 *   [activity-automation (⭐4)](https://github.com/mubaidr/activity-automation) - Manage daily activities and get reports on timely basis.
 
-## [39. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [38. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Scala / Git
 
 *   [tsec (⭐350)](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
 
-## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
@@ -338,14 +332,14 @@
 
 *   [CurlThin (⭐51)](https://github.com/stil/CurlThin) - Lightweight cURL binding library for C# with support for multiple simultaneous transfers through curl\_multi interface.
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
-*   [cl-svg (⭐35)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [Varjo (⭐203)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [cl-svg (⭐36)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Varjo (⭐202)](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / Misc
 
@@ -353,9 +347,9 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Parris (⭐320)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
+*   [Parris (⭐321)](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 
-## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -393,7 +387,7 @@
 
 *   [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)
 
-## [44. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [43. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@ctb](https://github.com/ctb) & [@mr-c](https://github.com/mr-c), [khmer (⭐692)](https://github.com/dib-lab/khmer)
     *   "Channeling Community Contributions to Scientific Software: A Sprint Experience" ([paper](https://doi.org/10.5334/jors.96))
@@ -405,11 +399,11 @@
 *   [@kennethreitz](https://github.com/kennethreitz), [requests (⭐48k)](https://github.com/requests/requests)
     *   "The Reality of Developer Burnout" ([post](https://www.kennethreitz.org/essays/the-reality-of-developer-burnout))
 
-## [45. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [44. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Libraries
 
-*   [Jaki (⭐16)](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
+*   [Jaki (⭐17)](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
 
 ---
 

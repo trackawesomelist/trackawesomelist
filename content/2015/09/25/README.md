@@ -30,7 +30,7 @@
 ### Go / Erlang
 
 *   [Gocraft (⭐1.5k)](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
-*   [Go kit (⭐24k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+*   [Go kit (⭐25k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 *   [Kite (⭐3.2k)](https://github.com/koding/kite) - Microservices framework in Go.
 *   [Negroni (⭐7.3k)](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 
@@ -45,12 +45,12 @@
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
 *   [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
 *   [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
-*   [System (⭐596)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-*   [Tesla (⭐189)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
+*   [System (⭐595)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+*   [Tesla (⭐188)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 ### Java VM / Java
 
-*   [Airlift (⭐522)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+*   [Airlift (⭐530)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 *   [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
@@ -65,7 +65,7 @@
 ### Node.js / Scala
 
 *   [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-*   [Baucis (⭐651)](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
+*   [Baucis (⭐653)](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 *   [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 *   [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 *   [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
@@ -109,11 +109,11 @@
 
 ### Packages / MIDI
 
-*   [midimessage (⭐31)](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
+*   [midimessage (⭐34)](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 
 ### Packages / Apps
 
-*   [LoopDrop App (⭐814)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+*   [LoopDrop App (⭐815)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
 ## [8. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

@@ -10,15 +10,15 @@
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐6.8k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐7.1k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
-*   [FieldVal (⭐137)](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
+*   [FieldVal (⭐136)](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
 
 ### Podcasts / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐522)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐571)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [2. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -32,7 +32,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Distributed Media Processing
 
-*   [StormCV (⭐170)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
+*   [StormCV (⭐171)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

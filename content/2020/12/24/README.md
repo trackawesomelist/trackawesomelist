@@ -22,9 +22,9 @@
 
 ### CLI
 
-*   [cpp-terminal (⭐307)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
-*   [FTXUI (⭐4.2k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
-*   [imtui (⭐2.1k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface \[MIT]
+*   [cpp-terminal (⭐337)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [FTXUI (⭐4.5k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
+*   [imtui (⭐2.4k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface. \[MIT]
 
 ## [4. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -50,12 +50,12 @@
 
 ### Memory managers
 
-*   [FastMM5 (⭐208)](https://github.com/pleriche/FastMM5). `[Delphi]` Fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files. Version 5 is a complete rewrite of FastMM.
+*   [FastMM5 (⭐222)](https://github.com/pleriche/FastMM5). `[Delphi]` Fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files. Version 5 is a complete rewrite of FastMM.
 
 ### Other non-visual
 
-*   [PascalUtils (⭐20)](https://github.com/isemenkov/pascalutils). `[Delphi]` `[FPC]` Delphi and object pascal library of utils data structures
-*   [libPasC-Algorithms (⭐16)](https://github.com/isemenkov/libpasc-algorithms). `[Delphi]` `[FPC]` Delphi and object pascal library of common data structures and algorithms. Library rewritten from c-algorithms repository and other sources.
+*   [PascalUtils (⭐24)](https://github.com/isemenkov/pascalutils). `[Delphi]` `[FPC]` Delphi and object pascal library of utils data structures
+*   [libPasC-Algorithms (⭐21)](https://github.com/isemenkov/libpasc-algorithms). `[Delphi]` `[FPC]` Delphi and object pascal library of common data structures and algorithms. Library rewritten from c-algorithms repository and other sources.
 
 ## [7. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

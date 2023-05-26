@@ -16,19 +16,19 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐430)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐435)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐936)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐955)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐610)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐623)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐706)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [node-module-boilerplate (⭐713)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 *   [generator-nm (⭐737)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [3. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
@@ -48,13 +48,13 @@
 
 ### Multimedia content processing
 
-*   [L-SMASH (⭐212)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
+*   [L-SMASH (⭐213)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Assembly Manipulation
 
-*   [Mono.Cecil (⭐2.4k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+*   [Mono.Cecil (⭐2.5k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -68,11 +68,11 @@
 ### Build Tools
 
 *   [active (⭐65)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
-*   [mad (⭐174)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
+*   [mad (⭐172)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐450)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐459)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Debugging
 
@@ -80,7 +80,7 @@
 
 ### Files and Directories
 
-*   [fs (⭐220)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐225)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### HTTP
 
@@ -100,7 +100,7 @@
 
 ### Version Control
 
-*   [gitex (⭐60)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
+*   [gitex (⭐61)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
 
 ---
 

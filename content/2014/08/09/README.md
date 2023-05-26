@@ -10,25 +10,25 @@
 
 ### Packages / Streams
 
-*   [peek-stream (⭐49)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
+*   [peek-stream (⭐56)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 
 ### Packages / Natural language processing
 
-*   [leven (⭐671)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐677)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
-*   [node-mac (⭐515)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
+*   [node-mac (⭐520)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
 
 ### Packages / Miscellaneous
 
-*   [strip-bom (⭐102)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+*   [strip-bom (⭐105)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Configuration / Language Processing
 
-*   [sdlang (⭐112)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+*   [sdlang (⭐113)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 
 ---
 

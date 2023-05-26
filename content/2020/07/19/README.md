@@ -16,7 +16,7 @@
 
 ### Software / Games
 
-*   [Quizmaster (⭐160)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
+*   [Quizmaster (⭐170)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
 
 ## [3. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -161,7 +161,7 @@ Language: English, Deutsch, français, español, 日本語, 한국어, portuguê
 
 ### Simultaneous Localization and Mapping / Visual
 
-*   [open\_vins (⭐1.4k)](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+*   [open\_vins (⭐1.6k)](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 
 ---
 

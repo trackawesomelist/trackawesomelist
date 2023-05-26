@@ -10,19 +10,19 @@
 
 ### Open Source Repos / Data
 
-*   [aws-data-wrangler :fire::fire::fire::fire::fire: (⭐3.3k)](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
+*   [aws-data-wrangler :fire::fire::fire::fire::fire: (⭐3.5k)](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Cryptography
 
-*   [NaCl.Core (⭐60)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
+*   [NaCl.Core (⭐65)](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Spotify
 
-*   [psst (⭐7.3k)](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
+*   [psst (⭐7.4k)](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 
 ## [4. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Applications
 
-*   [ipfs-chat (⭐98)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
+*   [ipfs-chat (⭐104)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -76,13 +76,13 @@
 
 ### Libraries / Scripting
 
-*   [metacall/core (⭐1.2k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
+*   [metacall/core (⭐1.3k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
 
 ## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Finance
 
-*   [ticker (⭐4.5k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [ticker (⭐4.6k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -104,8 +104,8 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Caching Prisma (⭐45)](https://github.com/joellefkowitz/cached-prisma)
-*   [prettier-plugin-prisma (⭐139)](https://github.com/umidbekk/prettier-plugin-prisma)
+*   [Caching Prisma (⭐50)](https://github.com/joellefkowitz/cached-prisma)
+*   [prettier-plugin-prisma (⭐162)](https://github.com/umidbekk/prettier-plugin-prisma)
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐320)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐362)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ---
 

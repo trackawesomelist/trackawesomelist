@@ -66,7 +66,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Prisma (⭐29k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+*   :octocat: [Prisma (⭐31k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
 
 ## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 

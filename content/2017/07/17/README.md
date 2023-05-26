@@ -11,7 +11,7 @@
 ### Concurrency
 
 *   [libdill (⭐1.6k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
-*   [libmill (⭐2.6k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
+*   [libmill (⭐2.7k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -23,15 +23,15 @@
 
 ### CLI Utilities
 
-*   [colorls (⭐4.4k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐4.5k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
-*   [Chamber (⭐195)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+*   [Chamber (⭐198)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
 ### Third-party APIs
 
-*   [Restforce (⭐753)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐760)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

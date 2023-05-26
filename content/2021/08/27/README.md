@@ -17,7 +17,7 @@
 
 ### Animations / Checkbox
 
-*   [svelte-typewriter (⭐203)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+*   [svelte-typewriter (⭐206)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Authorization / Open-source policy frameworks
 
-*   [Oso (⭐2.9k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+*   [Oso (⭐3k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
 ## [8. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐106)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐119)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -173,19 +173,19 @@
 
 ### Files and Directories / Files
 
-*   [RecoverPy (⭐572)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+*   [RecoverPy (⭐755)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ## [17. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
 ### Clarity Resources / Contracts
 
-*   [CityCoin (⭐69)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
+*   [CityCoin (⭐71)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 
 ## [18. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Template engine
 
-*   [handlebars (⭐23)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+*   [handlebars (⭐24)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ## [19. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)

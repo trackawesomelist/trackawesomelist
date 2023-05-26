@@ -2,15 +2,36 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 164 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 169 · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
+
+## [Apr 26, 2023](/content/2023/04/26/README.md)
+
+### Archives and primary sources / Asia
+
+*   [FOCAL](https://www.asia-directories.org/) - The Asia Directories and Chronicles is a reference work for foreign traders in the Asian region, published annually by the Hong Kong Daily Press, annually between 1863 and 1941.
+
+### Archives and primary sources / Global
+
+*   [Fxtop](https://fxtop.com/) - Forex rate history since 1953.
+
+### Archives and primary sources / North America
+
+*   [HathiTrust](https://www.hathitrust.org) - A not-for-profit collaborative of academic and research libraries preserving and making accessible millions of digitized items.
+
+### Archives and primary sources / Switzerland
+
+*   [Sammlung Schweizerischer Rechtsquellen online](https://www.ssrq-sds-fds.ch/projekte/ssrq-online/) - Retrodigitalisierte und digitale Editionseinheiten der Schweizerischen Rechtsquellen. Ediert wird rechtshistorisches Quellenmaterial vom Mittelalter bis in die Frühe Neuzeit (1798).
+
+### Learning / Switzerland
+
+*   [Crafting Digital History](http://workbook.craftingdigitalhistory.ca/) - A Workbook for Methods and Readings in Digital History.
 
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Archives and primary sources / Global
 
-*   [Fxtop.com](https://fxtop.com/) - Forex rate history since 1953.
 *   [Got Papers?](https://gotpapers.scene.org/?page_id=73) - Resources on the history of games, cracking, and the demoscene.
 
 ## [Sep 26, 2022](/content/2022/09/26/README.md)
@@ -21,7 +42,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Netherlands
 
-*   [Nationaal Archief](https://www.nationaalarchief.nl/) - The National Archives of the Netherlands consisting of 137 km of documents, 15 million photographs and nearly 300,000 historical maps and drawings and 800 terabyte of digital files.
+*   [Nationaal Archief](https://www.nationaalarchief.nl/) - Rich collection of the National Archives of the Netherlands.
 
 ### Archives and primary sources / North America
 
@@ -32,8 +53,8 @@ Find primary sources online and learn how to research history digitally.
 ### Archives and primary sources / Great Britain
 
 *   [British Library](https://www.bl.uk/catalogues-and-collections/digital-collections) - Maps, manuscripts and sounds.
+*   [National Records of Scotland](https://www.nrscotland.gov.uk/) - Repository for the public and legal records of Scotland.
 *   [The National Archives](https://www.nationalarchives.gov.uk/) - A non-ministerial department, and the official archive and publisher for the UK Government, and for England and Wales.
-*   [National Records of Scotland](https://www.nrscotland.gov.uk/) - Collect, preserve and produce information about Scotland's people and history and make it available to inform current and future generations.
 
 ### Learning / Switzerland
 
@@ -51,10 +72,6 @@ Find primary sources online and learn how to research history digitally.
 
 *   [Deutsches Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper) - Discover historical newspapers from 1671 to 1950.
 
-### Learning / Switzerland
-
-*   [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - Methods and Readings in Digital History by Shawn Graham at Carleton University.
-
 ### More Awesome / Switzerland
 
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
@@ -68,7 +85,7 @@ Find primary sources online and learn how to research history digitally.
 ### Archives and primary sources / North America
 
 *   [Digital Public Library of America](https://dp.la/) - Discovery tool, or union catalog, for public domain and openly licensed content held by the United States' archives, libraries, museums, and other cultural heritage institutions.
-*   [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - An International LGBTQ+ Linked Data Vocabulary.
+*   [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - Wide range of trans-related digitized historical materials, born-digital materials, and information on archival holdings throughout the world.
 
 ### Archives and primary sources / Switzerland
 
@@ -76,7 +93,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Learning / Switzerland
 
-*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - You will learn how to critically analyse historical conditions, developments, patterns and ruptures – or, alternatively, how to call these into question.
+*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -112,7 +129,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Switzerland
 
-*   [Année Politique Suisse](https://anneepolitique.swiss/) - Sources on developments in Swiss politics and society.
+*   [Année Politique Suisse](https://anneepolitique.swiss/) - Sources and database for swiss socio-political topics.
 
 ## [Dec 22, 2021](/content/2021/12/22/README.md)
 
@@ -138,7 +155,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Switzerland
 
-*   [histHub](https://histhub.ch/) - Search engine for all major standardized data APIs.
+*   [histHub](https://histhub.ch/) - The platform manages authority files on Swiss history.
 
 ## [May 06, 2021](/content/2021/05/06/README.md)
 
@@ -197,7 +214,7 @@ Find primary sources online and learn how to research history digitally.
 ### Archives and primary sources / North America
 
 *   [Chronicling America](https://chroniclingamerica.loc.gov/) - America's historic newspapers from 1777-1963.
-*   [David Rumsey Map Collection](https://www.davidrumsey.com/) - Over 94,000 maps and related images.
+*   [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical maps collection.
 *   [Eugenics Archive](https://eugenicsarchive.ca/) - Scholars, survivors, students, and community partners in challenging eugenics.
 
 ### Archives and primary sources / Switzerland
@@ -238,16 +255,16 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / Great Britain
 
-*   [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - London's Central Criminal Court, 1674 to 1913.
 *   [NLS](https://data.nls.uk/data/) - Data collections from the National Library of Scotland.
+*   [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - London's Central Criminal Court, 1674 to 1913.
 
 ### Archives and primary sources / Netherlands
 
-*   [Delpher](https://www.delpher.nl/) - More than 100 million pages from Dutch newspapers, books and magazines.
+*   [Delpher](https://www.delpher.nl/) - Dutch newspapers, books and magazines.
 
 ### Archives and primary sources / North America
 
-*   [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - More than 250,000 maps.
+*   [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - Online collection of scanned maps.
 *   [Women Working 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930) - An exploration of women's impact on the economic life of the United States between 1800 and the Great Depression.
 
 ### Archives and primary sources / Switzerland
@@ -261,7 +278,7 @@ Find primary sources online and learn how to research history digitally.
 *   [infoclio.ch Edition projects](http://www.infoclio.ch/en/edition-projects) - A database containing current historical edition projects in Switzerland.
 *   [Le Temps](https://www.letempsarchives.ch/) - Archive of Gazette de Lausanne et du Journal de Genève.
 *   [map.geo.admin.ch](https://map.geo.admin.ch/) - Journey through time via maps of Switzerland.
-*   [MEMOBASE](http://www.memobase.ch/) - Provides access to 415'634 audiovisual documents from 67 Swiss memory institutions.
+*   [MEMOBASE](http://www.memobase.ch/) - Provides access to audiovisual documents from Swiss memory institutions.
 
 ### Learning / Switzerland
 
@@ -271,15 +288,15 @@ Find primary sources online and learn how to research history digitally.
 ### More Awesome / Switzerland
 
 *   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
-*   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐520)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Data Visualization (⭐3.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Research Tools (⭐1.7k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐546)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 
 ### Learning / Switzerland
 
-*   [Local Linkages](https://locallinkages.org/) - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
+*   [Local Linkages](https://locallinkages.org/) - Professional development curriculum to introduce to historical research methods and digital history skills.
 
 ## [Aug 03, 2020](/content/2020/08/03/README.md)
 
@@ -302,18 +319,18 @@ Find primary sources online and learn how to research history digitally.
 
 ### Archives and primary sources / North America
 
-*   [Ad\*Access](https://repository.duke.edu/dc/adaccess) - Over 7,000 U.S. and Canadian advertisements covering five product categories - Beauty and Hygiene, Radio, Television, Transportation, and World War II propaganda - dated between 1911 and 1955.
+*   [Ad\*Access](https://repository.duke.edu/dc/adaccess) - U.S. and Canadian advertisements covering five product categories - Beauty and Hygiene, Radio, Television, Transportation, and World War II propaganda - dated between 1911 and 1955.
 
 ### Archives and primary sources / Switzerland
 
 *   [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV includes a digital edition of the events of the Zurich summer of 1968.
-*   [e-codices](http://e-codices.ch/) - Virtual manuscript library of Switzerland containing 2297 manuscripts from 92 different collections.
+*   [e-codices](http://e-codices.ch/) - Virtual manuscript library of Switzerland.
 *   [e-manuscripta](https://www.e-manuscripta.ch/) - Manuscript material from Swiss libraries and archives.
 *   [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - The Federal Council reports to parliament on income and expenditure for the past years.
 
 ### Learning / Switzerland
 
-*   [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Methods and Readings in Digital History by Cameron Blevins at Northeastern University.
+*   [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Online course for Methods and Readings in Digital History.
 *   [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - Overview on the field of Digital History and Digital Humanities.
 
 ## [Mar 29, 2020](/content/2020/03/29/README.md)
@@ -351,7 +368,7 @@ Find primary sources online and learn how to research history digitally.
 
 ### Learning / Switzerland
 
-*   [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - Introduction to the web for historians—teachers and students, archivists and museum curators, professors as well as amateur enthusiasts—who wish to produce online historical work, or to build upon and improve the projects they have already started in this important new medium.
+*   [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - Introduction to the web for historians, who wish to produce online historical work.
 
 ## [Oct 29, 2019](/content/2019/10/29/README.md)
 

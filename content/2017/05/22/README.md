@@ -36,13 +36,13 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐388)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐409)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Insomnia (⭐27k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+*   [Insomnia (⭐28k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
 ## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Open Source Repos / S3
 
-*   [schickling/git-s3 :fire::fire: (⭐228)](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
+*   [schickling/git-s3 :fire::fire: (⭐229)](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05, 2020
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,19 @@
 
 *   [Expose plugin (⭐8)](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
 
-## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Data Sources
+
+*   [yahooquery (⭐595)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
+
+## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shells
 
 *   [ion (⭐1.3k)](https://github.com/redox-os/ion) - A modern system shell that features a simple, yet powerful, syntax. It is written entirely in Rust.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Deployment / Isomorphic web frameworks
 
@@ -26,7 +32,7 @@
 
 ### Others / Third-party APIs
 
-*   [Petalisp (⭐281)](https://github.com/marcoheisig/Petalisp) - an attempt to
+*   [Petalisp (⭐291)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
     JIT-compiling array definitions. It works on a more
     fundamental level than NumPy, by providing even more powerful
@@ -35,11 +41,11 @@
 
 ### Matrix libraries / Third-party APIs
 
-*   [clem (⭐36)](https://github.com/slyrus/clem) - a matrix library. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [clem (⭐37)](https://github.com/slyrus/clem) - a matrix library. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### REPLs / Third-party APIs
 
-*   [magic-ed (⭐20)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT](https://opensource.org/licenses/MIT).
+*   [magic-ed (⭐21)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT](https://opensource.org/licenses/MIT).
 
 ### Developer utilities / Third-party APIs
 
@@ -48,35 +54,35 @@
 
 ### Security / Third-party APIs
 
-*   [cl-isolated (⭐34)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
+*   [cl-isolated (⭐35)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
 
-## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Web Apps (open source)
 
 *   [OpenTripPlanner.js (⭐19)](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner (no longer under development)
-*   [OTP-UI React Component Library (⭐38)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
+*   [OTP-UI React Component Library (⭐42)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
 
-## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Layout / Syntax Highlight
 
-*   [muuri-react (⭐284)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
+*   [muuri-react (⭐292)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Bitwarden](https://bitwarden.com) — The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
 *   [Keybase](https://keybase.io/) — Keybase is a cool FOSS alternative to Slack, it keeps everyone's chats and files safe, from families to communities to companies.
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Invoice / Generators
 
 *   [Refact](http://en.userstudio.fr/projects/refact/) - A design project trying to revamp a phone bill with infographics.
 
-## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Roles / CTO & VP of Engineering
 
@@ -87,85 +93,85 @@
 *   [Watson Text Tone Analyzer Demo](https://tone-analyzer-demo.ng.bluemix.net) - Analyzes text to get a sense of the overall tone of the document, or at the sentence level.
 *   [JStylo & Anonymouth](https://psal.cs.drexel.edu/index.php/JStylo-Anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
 
-## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Writing and Office Tools / Telegram
 
 *   [Citationsy](https://citationsy.com)
 
-## [10. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [11. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome JMeter (⭐584)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Taskade](https://www.taskade.com) - Realtime organization and collaboration tool for distributed teams with tasks, notes, and chat.
 
-## [12. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [13. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / .NET
 
 *   [Core.EventStore (⭐5)](https://github.com/younos1986/Core.EventStore) - A library to facilitate communication between CommandService and QueryService. The Idea is when any event occures in commandService, it should be persisted in QueryService in MongoDb.
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### General
 
-*   [Workshop (⭐3k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square\&cacheSeconds=86400) Build a complete Blazor app and learn about the various Blazor framework features along the way.
+*   [Workshop (⭐3.1k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square\&cacheSeconds=86400) Build a complete Blazor app and learn about the various Blazor framework features along the way.
 
 ### Tutorials
 
-*   [Blazor workshop (⭐3k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
+*   [Blazor workshop (⭐3.1k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
 
-## [14. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [15. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Related / Awesome Lists
 
-*   [Awesome Tsung (⭐16)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-*   [Awesome Gatling (⭐50)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
+*   [Awesome Tsung (⭐17)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+*   [Awesome Gatling (⭐52)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
-## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [16. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Tools / PGFPlots
 
 *   [sane\_tikz (⭐280)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
 
-## [16. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [17. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Tools / Dolby
 
-*   [slhck/ffmpeg-bitrate-stats (⭐57)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
-*   [slhck/ffmpeg-debug-qp (⭐63)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
-*   [slhck/ffmpeg-quality-metrics (⭐214)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
-*   [slhck/scenecut-extractor (⭐41)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
+*   [slhck/ffmpeg-bitrate-stats (⭐76)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+*   [slhck/ffmpeg-debug-qp (⭐71)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
+*   [slhck/ffmpeg-quality-metrics (⭐267)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+*   [slhck/scenecut-extractor (⭐45)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
 
-## [17. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [18. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Examples
 
 *   [Template for GUIs with seed+gotham](https://gitlab.com/liketechnik/local-gui-seed-gotham) - Electron like template for local/desktop GUIs with Gotham, rust-embed, web-view and Seed.
 
-## [18. Awesome List](/content/sindresorhus/awesome/README.md)
+## [19. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Related
 
-*   [StumbleUponAwesome (⭐264)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐275)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
-## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [20. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Bluetooth
 
 *   [BerkananSDK (⭐189)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [Klein (⭐646)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐655)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ---
 

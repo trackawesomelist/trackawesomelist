@@ -203,7 +203,6 @@
 
 ### Job boards
 
-*   [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
 *   [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
 *   [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
 *   [HN hiring](http://hnhiring.me/) – Filter REMOTE.
@@ -227,7 +226,6 @@
 
 ### Q&A
 
-*   Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
 *   Remote.co: [Q\&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
 
 ### Communities
@@ -269,13 +267,13 @@
 
 ### Open Source Repos / Machine Learning
 
-*   [machine-learning-samples :fire::fire::fire: (⭐862)](https://github.com/awslabs/machine-learning-samples) - Sample apps.
+*   [machine-learning-samples :fire::fire::fire: (⭐866)](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 
 ## [5. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [Dat desktop app (⭐647)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
+*   [Dat desktop app (⭐648)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 *   [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 *   [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
 
@@ -283,8 +281,8 @@
 
 *   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.2k)](https://github.com/kgryte/awesome-peer-to-peer)
 *   [https://github.com/retrohacker/awesome-p2p (⭐140)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐528)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐185)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐532)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐186)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.5k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 
@@ -292,7 +290,7 @@
 
 ### Libraries / Lenses
 
-*   [partial.lenses (⭐888)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+*   [partial.lenses (⭐900)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
 ## [7. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 

@@ -58,12 +58,12 @@
 
 ### Cheatsheet
 
-*   [Angular Performance Checklist (⭐3.9k)](https://github.com/mgechev/angular-performance-checklist)
+*   [Angular Performance Checklist (⭐4k)](https://github.com/mgechev/angular-performance-checklist)
 
 ### TypeScript Seed Projects / Components
 
 *   [Angular Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular apps
-*   [Angular NPM Module Seed (⭐52)](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
+*   [Angular NPM Module Seed (⭐51)](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

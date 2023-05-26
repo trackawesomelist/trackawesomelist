@@ -1,87 +1,92 @@
 # Awesome List Updates on Feb 15, 2017
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [1. Awesome Security](/content/sbilly/awesome-security/README.md)
+
+### Operating Systems / Online resources
+
+*   [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
+## [2. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### ES6 and above / Single Topics
 
 *   [Practical ES6 (⭐3k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 
-## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [3. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Online resources / Other
 
-*   [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 *   [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Coding Style
 
 *   [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 
-## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [Composer-Patches (⭐1.3k)](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
 
-## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐182)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐181)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
-## [6. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Language Identification / On-line APIs
 
 *   [scylla (⭐34)](https://github.com/hashwin/scylla) -
     Language Categorization and Identification.
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Web Programming • Libraries
 
 *   [Pixi.js](http://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Serialization
 
 *   [ZeroFormatter (⭐2.3k)](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET.
 
-## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [10. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Developer
 
 *   [ng (⭐44)](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 
-## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
 *   [notty (⭐2.2k)](https://github.com/withoutboats/notty) — A new kind of terminal
 
-## [12. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Articles
 
 *   [Styling React Applications with Ant.Design](https://medium.com/@yoniweisbrod/styling-react-applications-with-ant-design-92b742aab0b0)
 *   [Finding a User Interface library](http://waywardmonkeys.org/2016/03/14/finding-a-user-interface-library/)
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -132,7 +137,7 @@
 
 *   Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 
-## [14. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [15. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Bruteforcers
 
@@ -146,7 +151,7 @@
 
 *   [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 
-## [15. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [16. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Reinforcement Learning / Robotics
 
@@ -159,7 +164,7 @@
 *   What makes for effective detection proposals? (2016), J. Hosang et al. [\[pdf\]](https://arxiv.org/pdf/1502.05082)
 *   Trust Region Policy Optimization (2015), J. Schulman et al. [\[pdf\]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
 
-## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / C companies
 

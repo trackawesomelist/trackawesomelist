@@ -276,12 +276,12 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [essentia](http://essentia.upf.edu) [:octocat: (⭐2.2k)](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings.
+*   [essentia](http://essentia.upf.edu) [:octocat: (⭐2.4k)](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings.
 
 ### Audio Related Packages / Deep Learning
 
-*   [Kapre (⭐857)](https://github.com/keunwoochoi/kapre) [:octocat: (⭐857)](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
-*   [TorchAudio (⭐1.9k)](https://github.com/pytorch/audio) [:octocat: (⭐1.9k)](https://github.com/pytorch/audio) - PyTorch Audio Loaders
+*   [Kapre (⭐874)](https://github.com/keunwoochoi/kapre) [:octocat: (⭐874)](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
+*   [TorchAudio (⭐2k)](https://github.com/pytorch/audio) [:octocat: (⭐2k)](https://github.com/pytorch/audio) - PyTorch Audio Loaders
 
 ### Tutorials / Wrappers for Audio Plugins
 
@@ -316,7 +316,7 @@
 
 ### Browser Webextensions
 
-*   [Boilerplate with Webpack (⭐53)](https://github.com/fstanis/webextensions-webpack-boilerplate) Using Webpack JS module manager
+*   [Boilerplate with Webpack (⭐59)](https://github.com/fstanis/webextensions-webpack-boilerplate) Using Webpack JS module manager
 
 ### Websites
 
@@ -389,11 +389,11 @@
 
 ### App Routing
 
-*   [Linker (⭐137)](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
+*   [Linker (⭐138)](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
 
 ### Multi Database
 
-*   [Shallows (⭐620)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐622)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
@@ -401,11 +401,11 @@
 
 ### Images / Barcode
 
-*   [ImageScout (⭐971)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐972)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐280)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐281)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
@@ -417,27 +417,27 @@
 
 ### Alert / Barcode
 
-*   [PMAlertController (⭐2.4k)](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
+*   [PMAlertController (⭐2.5k)](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 
 ### Button / Barcode
 
-*   [PMSuperButton (⭐720)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
+*   [PMSuperButton (⭐724)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 
 ## [15. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐3.1k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐3.4k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
-*   [chromium-net-errors (⭐20)](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
+*   [chromium-net-errors (⭐21)](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 
 ## [16. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Related lists / Miscellaneous
 
-*   [awesome-npm (⭐4.2k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+*   [awesome-npm (⭐4.3k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
 *   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [17. Amas](/content/sindresorhus/amas/week/README.md)
@@ -480,12 +480,11 @@
 
 ### Books / Dissemination
 
-*   *[Linked: The New Science of Networks](http://barabasi.com/book/linked)*, by Albert-László Barabási (2002).
 *   *[Network Literacy: Essential Concepts and Core ideas](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)*, by the NetSciEd team (c. 2016) - Available in several languages ([paper](https://academic.oup.com/comnet/article-abstract/4/3/457/1745356)).
 
 ### Books / Method-specific
 
-*   *[Network Analysis in Archaeology](https://global.oup.com/academic/product/network-analysis-in-archaeology-9780199697090)*, edited by Carl Knappett (2013; [review in French](https://journals.openedition.org/nda/2383)).
+*   *[Network Analysis in Archaeology](https://global.oup.com/academic/product/network-analysis-in-archaeology-9780199697090)*, edited by Carl Knappett (2013; [review in French](https://doi.org/10.4000/nda.2383)).
 
 ### Datasets / Topic-specific
 
@@ -496,10 +495,6 @@
 *   *[Journal of Complex Networks](https://academic.oup.com/comnet)* (Oxford, gated).
 *   *[NETCOM. Networks and Communication Studies](https://journals.openedition.org/netcom/)*, in English and in French (Revues.org).
 
-### Professional Groups / Topic-specific
-
-*   [AFS RT 26 “Réseaux sociaux”](http://www.test-afs-socio.fr/drupal/RT26) - Thematic Network of the French Sociological Association (AFS), in French ([old website](https://web.archive.org/web/20160421164221/http://www.cmh.pro.ens.fr/reseaux-sociaux/)).
-
 ### Professional Groups / Research Groups (Other)
 
 *   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain ([official page](https://uclouvain.be/en/research-institutes/icteam/large-graphs-and-networks.html)).
@@ -508,7 +503,6 @@
 ### Review Articles / Network Modeling
 
 *   [Positional Analysis and Blockmodeling](http://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-1800-9_138) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/chapters/Positional_Analysis_and_Blockmodeling.pdf);  -->*Computational Complexity*, 2012).
-*   [Social Network Evolution and Actor Oriented Models](https://journals.openedition.org/msh/2750) (*Mathematics & Social Sciences*, 1997).
 
 ### Review Articles / Social, Economic and Political Networks
 
@@ -519,16 +513,10 @@
 ### Selected Papers / Social, Economic and Political Networks
 
 *   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm), by Pascal Cristofoli, in French - Reviews the current state of relational sociology and network analysis in light of the large-scale and online data (*Réseaux*, 2008).
-*   [La notion de réseau complexe : du réseau comme abstraction et outil à la masse de données des réseaux sociaux en ligne](https://journals.openedition.org/communicationorganisation/4093), by Alain Barrat, in French - Accessible introduction to the study of complex networks (*Communication & Organisation*, 2013).
-*   [Network Analysis, Culture, and the Problem of Agency](http://www.mustafaemirbayer.com/network-analysis-culture-and-the-pr), by Mustafa Emirbayer and Jeff Goodwin (*American Journal of Sociology*, 1994), and [Manifesto for a Relational Sociology](http://www.mustafaemirbayer.com/copy-3-of-bourdieu), by Mustafa Emirbayer (*American Journal of Sociology*, 1997) - Sociological foundations for a science of social ties.
-
-### Software / Algorithms
-
-*   [CONGA and CONGO](http://gregory.org/research/networks/software/conga.html) - Algorithms to detect overlapping communities in networks, written in Java.
 
 ### Software / C / C++
 
-*   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/\~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
+*   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
 
 ### Varia / Tutorials
 
@@ -554,7 +542,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐515)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐536)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [25. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
@@ -708,7 +696,7 @@
 *   [AC Transit RestroomFinder (⭐0)](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
 *   [AC Transit Training and Education Department (TED) application (⭐7)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
 *   [AC Transit Customer Relations application (CusRel) (⭐6)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
-*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐13)](https://github.com/camsys/transam_core).
+*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐12)](https://github.com/camsys/transam_core).
 
 ## [28. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -761,7 +749,7 @@
 
 ### Guides
 
-*   [Error message catalog (⭐437)](https://github.com/yogthos/clojure-error-message-catalog)
+*   [Error message catalog (⭐442)](https://github.com/yogthos/clojure-error-message-catalog)
 
 ## [34. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -769,7 +757,7 @@
 
 *   [geojson-id-streaming (⭐2)](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
 *   [geojson-mesh (⭐12)](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
-*   [geojson-polygon-labels (⭐73)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
+*   [geojson-polygon-labels (⭐76)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
 
 ## [35. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -788,11 +776,11 @@
 
 ### Open Source Repos / Elastic Container Service
 
-*   [amazon-ecs-init :fire: (⭐188)](https://github.com/aws/amazon-ecs-init) - RPM developed to support the Amazon ECS Container Agent.
+*   [amazon-ecs-init :fire: (⭐189)](https://github.com/aws/amazon-ecs-init) - RPM developed to support the Amazon ECS Container Agent.
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [devops-israel/aws-inventory :fire::fire: (⭐387)](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
+*   [devops-israel/aws-inventory :fire::fire: (⭐386)](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
 
 ## [38. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
@@ -1044,7 +1032,7 @@
 
 *   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
 *   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐381)](https://github.com/ssbc/patchbay).
-*   [PeerTube (⭐11k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
+*   [PeerTube (⭐12k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
 *   [Syncthing-GTK (⭐1.2k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
 
 ## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)

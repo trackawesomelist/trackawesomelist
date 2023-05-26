@@ -17,14 +17,6 @@
 *   [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) - Micro Focus cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly HP StormRunner Load).
 *   [Loadium](https://loadium.com/) - AWS-based load testing service with JMeter and Selenium support.
 
-### Results Processing / Results Analysis
-
-*   [JMeter Log Analysis](https://cwiki.apache.org/confluence/display/jmeter/LogAnalysis) - Suggestions and recipes for JMeter log analysis.
-*   [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) - Web-based application for collating, analysing and reporting JMeter test results.
-*   DB Results Collectors
-    *   [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.
-    *   [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
-
 ### Tools / Extending JMeter
 
 *   [How to create a plugin in JMeter](https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
@@ -47,7 +39,7 @@
 
 ### Templates
 
-*   [Create Yew App (⭐140)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
+*   [Create Yew App (⭐145)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
 
 ### Books / Frameworks
 
@@ -57,7 +49,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Snapcast (⭐5k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
+*   [Snapcast (⭐5.1k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
 
 ## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -74,9 +66,9 @@
 
 ### Subtitles and Captions / Web
 
-*   [glut23/webvtt-py (⭐129)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
-*   [opencoconut/webvtt-ruby (⭐53)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
-*   [osk/node-webvtt (⭐75)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
+*   [glut23/webvtt-py (⭐141)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
+*   [opencoconut/webvtt-ruby (⭐54)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
+*   [osk/node-webvtt (⭐83)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
 
 ### HDR10, HLG, Dolby Vision / Slack Groups
 
@@ -87,7 +79,7 @@
 *   [Perceptual Quantiser (PQ) to Hybrid Log-Gamma (HLG) Transcoding](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_PQ_HLG_Transcode_v2.pdf)  - In depth break down on converting from pq to hlg
 *   [Use of Look-Up Tables (LUTs) in FFmpeg](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_Use_of_LUTs_FFmpeg.pdf)  - How to use luts with ffmpeg for converting between differnt hdr encodes
 *   [Vittorio Giovara - Color Me Intrigued: A Jaunt Through Color Technology in Video](https://www.youtube.com/watch?v=XMnvY7a4-As\&feature=share)  - This talk aims to shed light on colorspaces - what they are, how and why they work, why we should care about handling edge cases properly. Starting with hist...
-*   [bbc/qtff-parameter-editor (⭐109)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
+*   [bbc/qtff-parameter-editor (⭐114)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
 *   [id3as/ffmpeg-libvpx-HDR-static (⭐13)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
 
 ## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)

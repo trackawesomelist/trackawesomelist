@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2021
 
-12 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,54 +18,37 @@
 
 *   [Drool](https://www.dns-oarc.net/tools/drool) - Replay DNS traffic from packet capture files and send it to a specified server, such as for simulating DDoS attacks on the DNS and measuring normal DNS querying.
 
-## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Tools / XML
-
-*   dvm
-    *   [justjavac/dvm (⭐532)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
-    *   [axetroy/dvm (⭐163)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
-    *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
-    *   [ghosind/dvm (⭐25)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
-
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Code Analysis
 
 *   [CakeDC/PHPStan](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/) - Sundeep Agarwal
-*   [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) - Al Sweigart
-
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Blogs
 
 *   [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
 
-## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Security / Scala
 
 *   [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol) - Grant Negotiation and Authorization Protocol defines a mechanism for delegating authorization to a piece of software, and conveying that delegation to the software. This delegation can include access to a set of APIs as well as information passed directly to the software.<sup>DRAFT</sup>
 
-## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Tools
 
-*   [upf-bpf (⭐135)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
+*   [upf-bpf (⭐149)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [pdfvuer (⭐785)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
+*   [pdfvuer (⭐826)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance
 
@@ -109,11 +92,11 @@
 
 
 
-## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [9. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Audio
 
-*   [Delphi-BASS (⭐25)](https://github.com/TDDung/Delphi-BASS). `[Delphi]` Delphi's FMX and VCL header/wrapper units for [BASS](https://www.un4seen.com) audio library plus add-ons.
+*   [Delphi-BASS (⭐28)](https://github.com/TDDung/Delphi-BASS). `[Delphi]` Delphi's FMX and VCL header/wrapper units for [BASS](https://www.un4seen.com) audio library plus add-ons.
 
 ### Graphic
 
@@ -123,16 +106,20 @@
 
 *   [Delphi3D Engine (⭐52)](https://github.com/BrokenGamesUG/delphi3d-engine). `[Delphi]` A 3D-graphic and game engine for Delphi and Windows
 
+### Event bus
+
+*   [VSoft.Messaging (⭐39)](https://github.com/VSoftTechnologies/VSoft.Messaging). `[Delphi]` Libary that provides an internal synchronous/asynchronous publish/subscribe messaging system for Delphi applications.
+
 ### Other GUI
 
-*   [BitMapEditor - Delphi (⭐3)](https://github.com/EverestSoftwareLLC/BitMapEdtior-Delphi). `[Delphi]` Single-form, simple bitmap editor for Delphi.
-*   [BearLibTerminal (⭐85)](https://github.com/cfyzium/bearlibterminal). `[Delphi]` Provides a pseudoterminal window with a grid of character cells and a simple yet powerful API for flexible textual output and uncomplicated input processing.
+*   [BitMapEditor - Delphi (⭐4)](https://github.com/EverestSoftwareLLC/BitMapEdtior-Delphi). `[Delphi]` Single-form, simple bitmap editor for Delphi.
+*   [BearLibTerminal (⭐90)](https://github.com/cfyzium/bearlibterminal). `[Delphi]` Provides a pseudoterminal window with a grid of character cells and a simple yet powerful API for flexible textual output and uncomplicated input processing.
     *// Multiplatform dynamic library that has Delphi bindings*
-*   [Dam (⭐85)](https://github.com/digao-dalpiaz/Dam). `[Delphi]` `[FPC]` Delphi and Lazarus Message Dialogs with Formatted Text.
+*   [Dam (⭐92)](https://github.com/digao-dalpiaz/Dam). `[Delphi]` `[FPC]` Delphi and Lazarus Message Dialogs with Formatted Text.
 
 ### Template
 
-*   [Sempare Template Engine (⭐56)](https://github.com/sempare/sempare-delphi-template-engine). `[Delphi]` The template engine allows for flexible text manipulation. It can be used for generating email, html, source code, xml, configuration, etc. It is very easy to use, flexible and extensible, where templates are readable and maintainable. It supports: conditions, looping, custom functions and referencing data via RTTI. XE4, XE8+
+*   [Sempare Template Engine (⭐77)](https://github.com/sempare/sempare-delphi-template-engine). `[Delphi]` The template engine allows for flexible text manipulation. It can be used for generating email, html, source code, xml, configuration, etc. It is very easy to use, flexible and extensible, where templates are readable and maintainable. It supports: conditions, looping, custom functions and referencing data via RTTI. XE4, XE8+
 
 ### Command-line
 
@@ -140,12 +127,11 @@
 
 ### Other non-visual
 
-*   [VSoft.Messaging (⭐37)](https://github.com/VSoftTechnologies/VSoft.Messaging). `[Delphi]` Libary that provides an internal synchronous/asynchronous publish/subscribe messaging system for Delphi applications.
 *   [Delphi-Hunspell (⭐14)](https://github.com/darianmiller/Delphi-Hunspell). `[Delphi]` Simple [Hunspell](http://hunspell.github.io) spell checking engine wrapper for Delphi.
 
 ### OS
 
-*   [ActiveDirectory4Delphi (⭐47)](https://github.com/EdZava/VCL-ActiveDirectory4Delphi). `[Delphi]` Delphi basic library for validation and authentication of LDAP users in Active Directory.
+*   [ActiveDirectory4Delphi (⭐53)](https://github.com/EdZava/VCL-ActiveDirectory4Delphi). `[Delphi]` Delphi basic library for validation and authentication of LDAP users in Active Directory.
 
 ### Code check/review, debug
 
@@ -159,25 +145,25 @@
 
 ### Other
 
-*   [DFMJSON (⭐28)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
+*   [DFMJSON (⭐29)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
-*   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
+*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
 
 ### CLI
 
-*   [popl (⭐126)](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
+*   [popl (⭐131)](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
 
 ### Data visualization
 
-*   [matplotplusplus (⭐3.1k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
+*   [matplotplusplus (⭐3.3k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ### Physics
 
-*   [Kratos (⭐797)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
+*   [Kratos (⭐837)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
 
 ---
 

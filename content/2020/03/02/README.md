@@ -22,7 +22,7 @@
 
 ### Runtime / Playground
 
-*   [type-plus (⭐197)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐233)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -40,21 +40,17 @@
 
 ### Learn
 
-*   [Learn Elm (⭐463)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
+*   [Learn Elm (⭐467)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 
 ### Community and Support / Games
 
-*   [Companies using Elm (⭐408)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
+*   [Companies using Elm (⭐416)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tools / React Development Tools
+### React Graphics and Animations
 
-*   [DataFormsJS JSX Loader (⭐156)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
-
-### React Tools / React Awesome Components
-
-*   [react-parallax-tilt (⭐595)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+*   [react-parallax-tilt (⭐711)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
 ## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

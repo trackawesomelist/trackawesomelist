@@ -22,7 +22,7 @@
 
 ### Integrations
 
-*   [Duo Security MFA Authentication for Keycloak (⭐27)](https://github.com/mulesoft-labs/keycloak-duo-spi)
+*   [Duo Security MFA Authentication for Keycloak (⭐29)](https://github.com/mulesoft-labs/keycloak-duo-spi)
 
 ## [4. Awesome](/content/craftcms/awesome/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐913)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐919)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Open Source / Other
 
-*   [Unsplash Wallpapers (⭐268)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+*   [Unsplash Wallpapers (⭐276)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
 ## [12. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 

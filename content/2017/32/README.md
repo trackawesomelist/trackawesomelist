@@ -78,7 +78,7 @@
 
 ### Testing
 
-*   [microtest (⭐29)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
+*   [microtest (⭐31)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
 
 ## [5. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -137,7 +137,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Open Source Repos / S3
 
-*   [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire: (⭐6.9k)](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
+*   [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire: (⭐7.2k)](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
 
 ### Open Source Repos / SES
 
@@ -206,7 +206,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Development Utilities
 
-*   [Auto Cache Flush (⭐21)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
+*   [Auto Cache Flush (⭐23)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 
 ## [18. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -326,11 +326,11 @@ Webpage: <http://www.26grados.com/>
 
 ### Crystal / General-Purpose Machine Learning
 
-*   [machine (⭐42)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+*   [machine (⭐43)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐63k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐66k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [27. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -380,11 +380,11 @@ git push -u origin <branch_name>
 
 ### Device
 
-*   [UIDeviceComplete (⭐410)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+*   [UIDeviceComplete (⭐411)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐137)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐144)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [33. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -435,7 +435,7 @@ git push -u origin <branch_name>
 ### Web / Playground
 
 *   :octocat: [excaliburjs/Excalibur (⭐1.3k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐361)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [Bobril (⭐360)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -475,14 +475,14 @@ git push -u origin <branch_name>
 
 ### Science and Data Analysis
 
-*   [sparklling (⭐431)](https://github.com/gorillalabs/sparkling)
-*   [flambo (⭐606)](https://github.com/yieldbot/flambo)
+*   [sparklling (⭐436)](https://github.com/gorillalabs/sparkling)
+*   [flambo (⭐609)](https://github.com/yieldbot/flambo)
 
 ## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### UI Automation
 
-*   [Atata (⭐452)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐463)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -494,7 +494,7 @@ git push -u origin <branch_name>
 
 ### Related lists
 
-*   [awesome (⭐240k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐243k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [gamedev (⭐11k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.

@@ -59,9 +59,9 @@
 
 ## [5. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Tools, Platforms, and Services / Repos for Specific Datasets
+### Tools, Platforms, and Services
 
-*   [SemEHR (⭐77)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
+*   [SemEHR (⭐82)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Database
 
-*   [LiteDB ★4245 (⭐6.8k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
+*   [LiteDB ★4245 (⭐7.5k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
 
 ## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

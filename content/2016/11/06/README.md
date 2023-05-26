@@ -18,15 +18,11 @@
 
 *   *[Dynamical Networks in Psychology: More Than A Pretty Picture?](https://www.researchgate.net/publication/308874807_Dynamical_networks_in_psychology_More_than_a_pretty_picture)*, by Laura Bringmann (2016; PhD dissertation).
 
-### Review Articles / Biological, Ecological and Disease Networks
-
-*   [Network Analysis: An Integrative Approach to the Structure of Psychopathology](http://www.annualreviews.org/doi/full/10.1146/annurev-clinpsy-050212-185608) (*Annual Review of Clinical Psychology*, 2013).
-
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
-*   [Jot (⭐562)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
+*   [Jot (⭐568)](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 
 ## [4. Awesome Redux](/content/brillout/awesome-redux/README.md)
 
@@ -95,11 +91,11 @@
 
 ### Babel Seed Projects / Components
 
-*   [angular2-es6-starter (⭐491)](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
+*   [angular2-es6-starter (⭐488)](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
 
 ### Babel Demo, Samples, and Examples / Components
 
-*   [angular2-es6-todomvc (⭐132)](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
+*   [angular2-es6-todomvc (⭐129)](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
 
 ### Meteor General Resources / Components
 
@@ -117,7 +113,7 @@
 
 ### Science
 
-*   [bcbio-nextgen (⭐915)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+*   [bcbio-nextgen (⭐923)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 *   [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 *   [Zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 

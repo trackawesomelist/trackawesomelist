@@ -196,7 +196,7 @@
 
 ### Text and Numbers
 
-*   [haikunator (⭐25)](https://github.com/knrz/Haikunator) - Generate Heroku-like memorable random names to use in your apps or anywhere else.
+*   [haikunator (⭐26)](https://github.com/knrz/Haikunator) - Generate Heroku-like memorable random names to use in your apps or anywhere else.
 
 ## [7. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
@@ -252,14 +252,14 @@
 
 ### E-commerce
 
-*   [alipay (⭐321)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
+*   [alipay (⭐322)](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
 
 ### HTML Manipulation
 
 *   [html5lib (⭐1k)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 *   [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 *   [pyquery (⭐2.2k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
-*   [xmltodict (⭐5k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
+*   [xmltodict (⭐5.1k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ### Processes
 
@@ -268,18 +268,18 @@
 ### Science
 
 *   [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
-*   [bccb (⭐560)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
+*   [bccb (⭐567)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
 *   [Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
 *   [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
-*   [PyMC (⭐7.2k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
-*   [statsmodels (⭐8k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
-*   [SymPy (⭐9.9k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [PyMC (⭐7.4k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
+*   [statsmodels (⭐8.3k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [SymPy (⭐10k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 
 ### Third-party APIs
 
-*   [google-api-python-client (⭐6.2k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
-*   [gspread (⭐6.2k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
+*   [google-api-python-client (⭐6.4k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
+*   [gspread (⭐6.4k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
 *   [twython (⭐1.9k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
 ## [9. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
@@ -326,11 +326,11 @@
 
 ### Machine Learning and Data Science
 
-*   [numl (⭐424)](https://github.com/sethjuarez/numl) - Designed to include the most popular supervised and unsupervised learning algorithms while minimizing the friction involved with creating the predictive models.
+*   [numl (⭐425)](https://github.com/sethjuarez/numl) - Designed to include the most popular supervised and unsupervised learning algorithms while minimizing the friction involved with creating the predictive models.
 
 ### SDK and API Clients
 
-*   [Azure PowerShell (⭐3.5k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+*   [Azure PowerShell (⭐3.6k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
 ## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -438,14 +438,14 @@
 
 ### Software for Creating APIs
 
-*   [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats (⭐185)](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
+*   [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats (⭐186)](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
 
 ### Web Apps (open source)
 
 *   [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
-*   [OpenTripPlanner Client GWT (⭐7)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
+*   [OpenTripPlanner Client GWT (⭐8)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
 *   [HRT BUS Web app (⭐18)](https://github.com/Code4HR/hrt-bus-api) - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
-*   [Transit-Map (⭐329)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
+*   [Transit-Map (⭐330)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
@@ -456,7 +456,7 @@
 
 ### GTFS Libraries / Java
 
-*   [OneBusAway GTFS Modules (⭐108)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
+*   [OneBusAway GTFS Modules (⭐111)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
 
 ### GTFS Converters / Ruby
 
@@ -552,17 +552,17 @@
 
 ### Containers
 
-*   [LSHBOX (⭐274)](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. \[GPL]
+*   [LSHBOX (⭐276)](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. \[GPL]
 
 ### Physics
 
-*   [Box2D (⭐6.3k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐6.5k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [react-native (⭐106k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
+*   [react-native (⭐109k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
 ## [22. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -721,7 +721,7 @@ git cherry -v master <branch-to-be-merged>
 
 ### Code Analysis and Metrics
 
-*   [Fasterer (⭐1.6k)](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
+*   [Fasterer (⭐1.7k)](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

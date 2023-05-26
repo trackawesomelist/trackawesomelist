@@ -18,8 +18,8 @@
 
 *   Awesome Collections
     *   📚 [Awesome Gamedev (⭐1.9k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
-    *   📚 [GameDev-Resources (⭐2.9k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
-    *   📚 [Magictools (⭐11k)](https://github.com/ellisonleao/magictools#readme) - List of game development resources to make magic happen.
+    *   📚 [GameDev-Resources (⭐3k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
+    *   📚 [Magictools (⭐12k)](https://github.com/ellisonleao/magictools#readme) - List of game development resources to make magic happen.
     *   🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 
 ### Learning / Graphical User Interface
@@ -34,23 +34,23 @@
 
 ### Security
 
-*   [Fingerprinter (⭐247)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐358)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐564)](https://github.com/digininja/pipal) - Password analyser and statistics generator
-*   [WhatWeb (⭐4.4k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
+*   [Fingerprinter (⭐248)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐393)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐576)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [WhatWeb (⭐4.5k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
-*   [react-photo-album (⭐140)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐192)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [httpie/httpie (⭐26k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+*   [httpie/httpie (⭐27k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
 
 ### Articles
 
@@ -58,13 +58,13 @@
 
 ### Tools
 
-*   [Common Readme (⭐373)](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
+*   [Common Readme (⭐372)](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [scicloj.ml (⭐149)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
+*   [scicloj.ml (⭐154)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -87,13 +87,13 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐6.3k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.6k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Email
 
-*   [go-email-normalizer (⭐55)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
+*   [go-email-normalizer (⭐56)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 

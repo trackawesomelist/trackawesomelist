@@ -2,7 +2,7 @@
 
 Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/LappleApple/awesome-leading-and-managing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) · ⭐ 6.3K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/LappleApple/awesome-leading-and-managing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) · ⭐ 6.8K · 🏷️ Business
 
 [ Daily / [Weekly](/content/LappleApple/awesome-leading-and-managing/week/README.md) / [Overview](/content/LappleApple/awesome-leading-and-managing/readme/README.md) ]
 
@@ -94,7 +94,7 @@ Awesome List of resources on leading people and being a manager. Geared toward t
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leading Leaders](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leading-Leaders.md)
-*   [Transitioning to Management (⭐6.3k)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+*   [Transitioning to Management (⭐6.8k)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
 ## [Feb 01, 2018](/content/2018/02/01/README.md)
 

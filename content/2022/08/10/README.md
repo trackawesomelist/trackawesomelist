@@ -46,7 +46,7 @@
 
 ### Display / LEDs
 
-*   [micropython-dotstar (⭐20)](https://github.com/mattytrentini/micropython-dotstar) - A MicroPython port of the Adafruit CircuitPython APA102/DotStar library.
+*   [micropython-dotstar (⭐21)](https://github.com/mattytrentini/micropython-dotstar) - A MicroPython port of the Adafruit CircuitPython APA102/DotStar library.
 
 ## [6. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
@@ -62,26 +62,26 @@
 
 ### System
 
-*   [Bluetooth Controller (⭐68)](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth status and device connectivity.
+*   [Bluetooth Controller (⭐84)](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth status and device connectivity.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐320)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
+*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐327)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 
 ### Software / E-commerce
 
-*   [Attendize](https://www.attendize.com/) - Ticket selling and event management platform. ([Source Code (⭐3.6k)](https://github.com/attendize/attendize)) `AAL` `Docker/PHP`
+*   [Attendize](https://www.attendize.com/) - Ticket selling and event management platform. ([Source Code (⭐3.7k)](https://github.com/attendize/attendize)) `AAL` `Docker/PHP`
 
 ### Software / Miscellaneous
 
-*   [asciinema (⭐2k)](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
-*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐3.1k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
-*   [OS.js](https://www.os-js.org/) - Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://demo.os-js.org/), [Source Code (⭐6.2k)](https://github.com/os-js/OS.js)) `BSD-2-Clause` `Nodejs`
+*   [asciinema (⭐2.1k)](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
+*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐3.8k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
+*   [OS.js](https://www.os-js.org/) - Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://demo.os-js.org/), [Source Code (⭐6.3k)](https://github.com/os-js/OS.js)) `BSD-2-Clause` `Nodejs`
 *   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐14k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go`
-*   [TeslaMate (⭐3.6k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir`
-*   [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code (⭐5.1k)](https://github.com/tmate-io/tmate)) `ISC` `C`
+*   [TeslaMate (⭐3.8k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir`
+*   [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code (⭐5.2k)](https://github.com/tmate-io/tmate)) `ISC` `C`
 
 ## [9. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -103,17 +103,17 @@
 
 ### Projects / API Design
 
-*   [Spectral (⭐1.7k)](https://github.com/stoplightio/spectral) - A JSON/YAML linter with out of the box support for OpenAPI 3.0 & 2.0 and AsyncAPI.
+*   [Spectral (⭐1.9k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 
 ### Projects / API Documentation
 
-*   [APITree](https://www.apitree.com/) - The central place for managing and sharing API specifications.
-*   [OpenAPI Explorer (⭐172)](https://github.com/Rhosys/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
-*   [RapiDoc (⭐1.2k)](https://github.com/rapi-doc/RapiDoc) - Create beautiful, customizable, interactive API documentation from OpenAPI Specification.
-*   [Redoc (⭐19k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
-*   [Slate (⭐35k)](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
-*   [SwaggerHub](https://swagger.io/tools/swaggerhub/) - An integrated API design and documentation platform, built for teams to drive consistency and discipline across the API development workflow.
-*   [Swagger UI (⭐23k)](https://github.com/swagger-api/swagger-ui) - Visualize OpenAPI specification definitions in an intuitive UI.
+*   [APITree](https://www.apitree.com/) - A tool for managing and sharing API specifications, with version control, API testing automation, and integration with popular API tools.
+*   [OpenAPI Explorer (⭐198)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+*   [RapiDoc (⭐1.3k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
+*   [Redoc (⭐20k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
+*   [Slate (⭐35k)](https://github.com/slatedocs/slate) - A powerful tool that creates static API documentation from markdown, with API reference docs and code samples.
+*   [SwaggerHub](https://swagger.io/tools/swaggerhub/) - An integrated API design and documentation platform built for teams, with versioning, testing automation, and integration with popular API tools.
+*   [Swagger UI (⭐24k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
 
 ## [12. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -134,26 +134,26 @@
 ### Reporters
 
 *   [playwright-tesults-reporter (⭐0)](https://github.com/tesults/playwright-tesults-reporter) - A library for uploading test results to Tesults from Playwright.
-*   [monocart-reporter (⭐14)](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
-*   [allure-playwright (⭐141)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
+*   [monocart-reporter (⭐46)](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
+*   [allure-playwright (⭐156)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
 
 ## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Text Editors
 
-*   [o (⭐229)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
+*   [o (⭐285)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 
 ## [16. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Probabilistic Methods / NLP
 
-*   [pomegranate (⭐3k)](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
+*   [pomegranate (⭐3.1k)](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 
 ## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [miversen33/import.nvim (⭐172)](https://github.com/miversen33/import.nvim) - A safe require replacement with niceties.
+*   [miversen33/import.nvim (⭐171)](https://github.com/miversen33/import.nvim) - A safe require replacement with niceties.
 
 ## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -165,33 +165,34 @@
 
 ### Time Series Data
 
-*   [mlforecast (⭐97)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
+*   [mlforecast (⭐355)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 
 ## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Automotive
 
-*   [mbr/socketcan (⭐62)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] — Linux SocketCAN library
+*   [mbr/socketcan (⭐73)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] — Linux SocketCAN library
 
 ### Libraries / Database
 
 *   ORM \[[orm](https://crates.io/keywords/orm)]
-    *   [Brendonovich/prisma-client-rust (⭐977)](https://github.com/Brendonovich/prisma-client-rust) — An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
-    *   [diesel-rs/diesel (⭐10k)](https://github.com/diesel-rs/diesel) — an ORM and Query builder for Rust [![Build Status](https://api.travis-ci.org/diesel-rs/diesel.svg?branch=master)](https://travis-ci.org/diesel-rs/diesel)
-    *   [ivanceras/rustorm (⭐238)](https://github.com/ivanceras/rustorm) — an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg?branch=master)](https://travis-ci.org/ivanceras/rustorm)
-    *   [rbatis/rbatis (⭐1.7k)](https://github.com/rbatis/rbatis) — Rust ORM Framework High Performance(JSON based) [![Build Status](https://api.travis-ci.org/zhuxiujia/rbatis.svg?branch=master)](https://travis-ci.org/zhuxiujia/rbatis)
-    *   [SeaQL/sea-orm (⭐3.8k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM for Rust [![Build Status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
+    *   [Brendonovich/prisma-client-rust (⭐1.2k)](https://github.com/Brendonovich/prisma-client-rust) — An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
+    *   [diesel-rs/diesel (⭐10k)](https://github.com/diesel-rs/diesel) — an ORM and Query builder for Rust
+    *   [ivanceras/rustorm (⭐241)](https://github.com/ivanceras/rustorm) — an ORM for Rust
+    *   [rbatis/rbatis (⭐1.8k)](https://github.com/rbatis/rbatis) — Rust ORM Framework High Performance(JSON based)
+    *   [SeaQL/sea-orm (⭐4.3k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM for Rust [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
+    *   [SeaQL/seaography (⭐181)](https://github.com/SeaQL/seaography) — 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml)
 
 ## [21. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 2
 
-*   [vitify-admin (⭐67)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
+*   [vitify-admin (⭐87)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-mpa-plus (⭐64)](https://github.com/yzydeveloper/vite-plugin-mpa-plus) - More flexible MPA (multi-page application) supports html templates, path rewriting.
-*   [vite-plugin-print-urls (⭐7)](https://github.com/yzydeveloper/vite-plugin-print-urls) - Vite hmr and page reload will print server urls.
+*   [vite-plugin-print-urls (⭐8)](https://github.com/yzydeveloper/vite-plugin-print-urls) - Vite hmr and page reload will print server urls.
 
 ## [22. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -217,11 +218,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [virtual-list (⭐8)](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
+*   [virtual-list (⭐11)](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
 
 ### Components & Libraries / Frameworks
 
-*   [Vitify Admin (⭐67)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
+*   [Vitify Admin (⭐86)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 
 ## [25. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 25K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 26K · 🏷️ Work
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / Overview ]
 
@@ -183,34 +183,33 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 34. [Remote Frontend Jobs](https://remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
 35. [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
 36. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
-37. [remote-es/remotes (⭐607)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
-38. [remote-jobs (⭐24k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+37. [remote-es/remotes (⭐621)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+38. [remote-jobs (⭐25k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 39. [Remotees](https://remotees.com/)
-40. [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
-41. [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay
-42. [Remote.co Jobs](https://remote.co/remote-jobs/)
-43. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
-44. [Remotive Jobs](https://remotive.io/)
-45. [Remote People](https://remotepeople.io/)
-46. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
-47. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
-48. [Skip the Drive](https://www.skipthedrive.com/)
-49. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-50. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
-51. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-52. [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
-53. [useWeb3](https://www.useweb3.xyz/jobs) - A curated blockchain, crypto and web3 job board and developer platform
-54. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-55. [Virtual Vocations](https://www.virtualvocations.com/)
-56. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-57. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
-58. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-59. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
-60. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-61. [We Work Remotely](https://weworkremotely.com/)
-62. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-63. [Working Nomads](https://www.workingnomads.co/jobs)
-64. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
+40. [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay
+41. [Remote.co Jobs](https://remote.co/remote-jobs/)
+42. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
+43. [Remotive Jobs](https://remotive.io/)
+44. [Remote People](https://remotepeople.io/)
+45. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
+46. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
+47. [Skip the Drive](https://www.skipthedrive.com/)
+48. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
+49. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
+50. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+51. [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
+52. [useWeb3](https://www.useweb3.xyz/jobs) - A curated blockchain, crypto and web3 job board and developer platform
+53. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+54. [Virtual Vocations](https://www.virtualvocations.com/)
+55. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+56. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
+57. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
+58. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+59. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
+60. [We Work Remotely](https://weworkremotely.com/)
+61. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+62. [Working Nomads](https://www.workingnomads.co/jobs)
+63. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
 
 ## Job boards aggregators
 
@@ -592,7 +591,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 6.  [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
 7.  [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
 8.  [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
-9.  [Matrix (⭐898)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+9.  [Matrix (⭐895)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 10. [Mumble](https://wiki.mumble.info/) Mumble is an open source voice chat software
 11. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
 12. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
@@ -643,8 +642,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Others
 
-1.  [awesome-digital-nomads (⭐776)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
-2.  [Established Remote (⭐6.1k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+1.  [awesome-digital-nomads (⭐780)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+2.  [Established Remote (⭐6.2k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 3.  [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
 4.  [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
 5.  [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.

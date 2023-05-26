@@ -36,7 +36,7 @@
 
 ### Miscellaneous
 
-*   [phone (⭐100)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+*   [phone (⭐104)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

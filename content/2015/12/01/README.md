@@ -56,7 +56,7 @@
 
 ### ORM
 
-*   [ServiceStack.OrmLite (⭐1.6k)](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM **\[[Free for OSS (⭐1.6k)](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **\[$]**
+*   [ServiceStack.OrmLite (⭐1.5k)](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM **\[[Free for OSS (⭐1.5k)](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **\[$]**
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 27, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -69,13 +69,19 @@
 
 *   [Rethinking rich text pipelines with Draft.js](https://wagtail.io/blog/rethinking-rich-text-pipelines-with-draft-js/)
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [fecon235 (⭐913)](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
+
+## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Exercises / YouTube
 
 *   [Codewars](https://www.codewars.com/kata/search/clojure)
 
-## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [10. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Architecture, Convention / Firmwares for ESP based Devices
 

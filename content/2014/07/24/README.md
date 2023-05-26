@@ -10,13 +10,13 @@
 
 ### Algorithms and Data Structures
 
-*   [OCamlgraph (⭐186)](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
+*   [OCamlgraph (⭐194)](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
 
 ### Application Libraries
 
-*   [Cmdliner (⭐229)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+*   [Cmdliner (⭐240)](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
 *   [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
-*   [easy-format (⭐36)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
+*   [easy-format (⭐38)](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 *   [ocaml-rpc (⭐90)](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 
 ### Books
@@ -39,7 +39,7 @@
 *   **2D**
     *   [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D plotting library.
     *   [cairo2 (⭐42)](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
-    *   [Vg (⭐78)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
+    *   [Vg (⭐80)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 *   **3D**
     *   [glMLite (⭐17)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
     *   [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
@@ -56,29 +56,29 @@
 
 ### Networking
 
-*   [ocaml-dns (⭐98)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
+*   [ocaml-dns (⭐101)](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 
 ### Online Courses
 
-*   [Princeton University - Functional programming in OCaml](http://www.cs.princeton.edu/\~dpw/courses/cos326-12/).
+*   [Princeton University - Functional programming in OCaml](http://www.cs.princeton.edu/~dpw/courses/cos326-12/).
 
 ### Security and Cryptography
 
-*   [ocaml-tls (⭐271)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+*   [ocaml-tls (⭐279)](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 
 ### Serialization
 
-*   [bencode (⭐19)](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
-*   [biniou (⭐43)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
+*   [bencode (⭐20)](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
+*   [biniou (⭐44)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 *   [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 *   [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 
 ### System Programming
 
-*   [Mirage OS (⭐2k)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-*   [ocaml-fat (⭐26)](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
-*   [ocaml-git (⭐342)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
-*   [ocaml-vchan (⭐45)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
+*   [Mirage OS (⭐2.1k)](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
+*   [ocaml-fat (⭐27)](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
+*   [ocaml-git (⭐346)](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
+*   [ocaml-vchan (⭐47)](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
 ### Web Development
 
@@ -89,8 +89,8 @@
 
 ### Mail
 
-*   [MailKit (⭐5.2k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
-*   [MimeKit (⭐1.5k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
+*   [MailKit (⭐5.4k)](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+*   [MimeKit (⭐1.6k)](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 
 ### Profiler
 
@@ -100,7 +100,7 @@
 
 ### Maps / Other
 
-*   [Cesium (⭐9.6k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
+*   [Cesium (⭐10k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
 
 ## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of research, applications and projects built using the H2O Machine Learning platform
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/h2oai/awesome-h2o/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o) · ⭐ 340 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/h2oai/awesome-h2o/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o) · ⭐ 345 · 🏷️ Computer Science
 
 [ [Daily](/content/h2oai/awesome-h2o/README.md) / [Weekly](/content/h2oai/awesome-h2o/week/README.md) / Overview ]
 
@@ -12,13 +12,13 @@ A curated list of research, applications and projects built using the H2O Machin
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://github.com/h2oai/h2o-3)
 
-Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use [H2O (⭐6.1k)](https://github.com/h2oai/h2o-3), an open source, distributed machine learning platform.  H2O offers parallelized implementations of many supervised and unsupervised machine learning algorithms such as Generalized Linear Models, Gradient Boosting Machines (including XGBoost), Random Forests, Deep Neural Networks (Deep Learning), Stacked Ensembles, Naive Bayes, Cox Proportional Hazards, K-means, PCA, Word2Vec, as well as a fully automatic machine learning algorithm (AutoML).
+Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use [H2O (⭐6.3k)](https://github.com/h2oai/h2o-3), an open source, distributed machine learning platform.  H2O offers parallelized implementations of many supervised and unsupervised machine learning algorithms such as Generalized Linear Models, Gradient Boosting Machines (including XGBoost), Random Forests, Deep Neural Networks (Deep Learning), Stacked Ensembles, Naive Bayes, Cox Proportional Hazards, K-means, PCA, Word2Vec, as well as a fully automatic machine learning algorithm (AutoML).
 
 [H2O.ai](http://www.h2o.ai/about/) produces many [tutorials (⭐1.4k)](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations (⭐410)](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but the list below is comprised of awesome content produced by the greater H2O user community.
 
 We are just getting started with this list, so pull requests are very much appreciated!  🙏  Please review the [contribution guidelines](https://github.com/h2oai/awesome-h2o/blob/master/README.md/contributing.md) before making a pull request.  If you're not a GitHub user and want to make a contribution, please send an email to [community@h2o.ai](https://github.com/h2oai/awesome-h2o/blob/master/README.md/mailto:community@h2o.ai).
 
-If you think H2O is awesome too, please ⭐ the [H2O GitHub repository (⭐6.1k)](https://github.com/h2oai/h2o-3/).
+If you think H2O is awesome too, please ⭐ the [H2O GitHub repository (⭐6.3k)](https://github.com/h2oai/h2o-3/).
 
 ## Contents
 
@@ -63,13 +63,14 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository (⭐6.1k)
 *   [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330) Karthik Ramasubramanian, Abhishek Singh. (2016)
 *   [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X) Darren Cook. (2016)
 *   [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) Thomas Dinsmore. (2016)
-*   [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/\~hastie/CASI/) Bradley Efron, Trevor Hastie. (2016)
+*   [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/) Bradley Efron, Trevor Hastie. (2016)
 *   [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials) Joshua F. Wiley. (2016)
 *   [Spark in Action](https://www.manning.com/books/spark-in-action) Petar Zečević, Marko Bonaći. (2016)
 *   [Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071) Peter Bühlmann, Petros Drineas, Michael Kane, Mark J. van der Laan (2015)
 
 ## Research Papers
 
+*   [Automated machine learning: AI-driven decision making in business analytics](https://www.sciencedirect.com/science/article/pii/S2667305323000133) Marc Schmitt. (2023)
 *   [Water-Quality Prediction Based on H2O AutoML and Explainable AI Techniques](https://www.mdpi.com/2073-4441/15/3/475) Hamza Ahmad Madni, Muhammad Umer, Abid Ishaq, Nihal Abuzinadah, Oumaima Saidani, Shtwai Alsubai, Monia Hamdi, Imran Ashraf. (2023)
 *   [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor) Padmavati Kulkarnia, V.Sreekantha, Adithi R.Upadhyab, Hrishikesh ChandraGautama.  (2022)
 *   [ Prospective validation of a transcriptomic severity classifier among patients with suspected acute infection and sepsis in the emergency department](https://pubmed.ncbi.nlm.nih.gov/35467566/) Noa Galtung, Eva Diehl-Wiesenecker, Dana Lehmann, Natallia Markmann, Wilma H Bergström, James Wacker, Oliver Liesenfeld, Michael Mayhew, Ljubomir Buturovic, Roland Luethy, Timothy E Sweeney , Rudolf Tauber, Kai Kappert, Rajan Somasundaram, Wolfgang Bauer. (2022)
@@ -110,15 +111,15 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository (⭐6.1k)
 *   [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490) Konstantinos N. Vougas, Thomas Jackson, Alexander Polyzos, Michael Liontos, Elizabeth O. Johnson, Vassilis Georgoulias, Paul Townsend, Jiri Bartek, Vassilis G. Gorgoulis. (2016)
 *   [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) Stéphanie Florence Visser. (2016)
 *   [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) Krzysztof Urbański, Stanisław Gruszczyńsk. (2016)
-*   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/\~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
+*   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
 *   [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) Rogerio Normand, Hugo Alexandre Ferreira. (2015)
-*   [Understanding random forests: from theory to practice (⭐499)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
+*   [Understanding random forests: from theory to practice (⭐500)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
 
 ## Benchmarks
 
 *   [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
 *   [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
-*   [Szilard's machine learning benchmark (⭐1.8k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
+*   [Szilard's machine learning benchmark (⭐1.9k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
 
 ## Presentations
 
@@ -129,8 +130,8 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository (⭐6.1k)
 
 *   [University of San Francisco (USF) Distributed Data System Class (MSDS 697)](https://github.com/dianewoodbridge/2020-msds697-example) - Master of Science in Data Science Program.
 *   [University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) - Research Bazaar 2019
-*   [UCLA: Tools in Data Science (STATS 418) (⭐129)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
-*   [GWU: Data Mining (Decision Sciences 6279) (⭐227)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
+*   [UCLA: Tools in Data Science (STATS 418) (⭐131)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
+*   [GWU: Data Mining (Decision Sciences 6279) (⭐228)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 
@@ -141,7 +142,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository (⭐6.1k)
 *   [splash R package (⭐5)](https://github.com/ML4LHS/splash): Splashing a User Interface onto H2O MOJO Files.  More info [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
 *   [h2oparsnip R package (⭐19)](https://github.com/stevenpawley/h2oparsnip): Set of wrappers to bind h2o algorthms with the [parsnip](https://parsnip.tidymodels.org/) package.
 *   [Spin up PySpark and PySparkling on AWS (⭐8)](https://github.com/kcrandall/EMR_Spark_Automation)
-*   [Forecast the US demand for electricity (⭐92)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
+*   [Forecast the US demand for electricity (⭐96)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
 *   [h2o3-pam (⭐1)](https://github.com/navdeep-G/h2o3-pam): Partition Around Mediods (PAM) clustering algorithm in H2O-3
 *   [h2o3-gapstat (⭐1)](https://github.com/navdeep-G/h2o3-gapstat): Gap Statistic algorithm in H2O-3
 

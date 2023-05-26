@@ -54,7 +54,7 @@
 
 ### Web Frameworks
 
-*   [Huma (⭐188)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [Huma (⭐200)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -77,13 +77,13 @@
 
 ### Libraries/Frameworks / Database
 
-*   [square/sqldelight (⭐5k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
+*   [square/sqldelight (⭐5.2k)](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Scanning / Pentesting
 
-*   [Scanmycode CE (Community Edition) (⭐303)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
+*   [Scanmycode CE (Community Edition) (⭐447)](https://github.com/marcinguy/scanmycode-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report. Currently supports: PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
 
 ## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

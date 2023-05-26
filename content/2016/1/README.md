@@ -85,7 +85,7 @@
 
 ### Exercises and Short Examples
 
-*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions (⭐81)](https://github.com/exercism/xocaml).
+*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions (⭐85)](https://github.com/exercism/xocaml).
 
 ## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Static Site Generation
 
-*   [Photish (⭐147)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+*   [Photish (⭐148)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -150,12 +150,12 @@
 
 ### SDKs and Samples / JavaScript SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐7.3k)](https://github.com/aws/aws-sdk-js)
+*   [Repo :fire::fire::fire::fire::fire: (⭐7.4k)](https://github.com/aws/aws-sdk-js)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [donnemartin/dev-setup :fire::fire::fire::fire: (⭐5.9k)](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
-*   [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
+*   [Netflix/asgard :fire::fire::fire::fire::fire: (⭐2.2k)](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
 
 ## [11. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Images / Barcode
 
-*   [PassportScanner (⭐443)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐447)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ### Utility / Barcode
 
@@ -788,7 +788,7 @@
 ### C++
 
 *   [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) - The Cap’n Proto C++ RPC implementation.
-*   [Enduro/X (⭐138)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
+*   [Enduro/X (⭐115)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 
 ### Node.js / Scala
 
@@ -882,7 +882,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐498)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐515)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
@@ -892,7 +892,7 @@
 
 ### Command Line Applications
 
-*   [table\_rex (⭐195)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐194)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 
@@ -904,7 +904,7 @@
 
 ### Utilities
 
-*   [quark (⭐318)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
+*   [quark (⭐321)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 
 ## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 

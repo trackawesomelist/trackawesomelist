@@ -16,7 +16,7 @@
 
 ### Firebase
 
-- Name: [PriceTrack (⭐94)](https://github.com/duyetdev/pricetrack)
+- Name: [PriceTrack (⭐100)](https://github.com/duyetdev/pricetrack)
 
   Description: API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
 
@@ -37,9 +37,9 @@
 *   [RecastNavigation (⭐19)](https://github.com/Kromster80/RecastNavigationDelphi). `[Delphi]` Navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
 *   [Asphyre aka Platform eXtended Library (PXL)](https://sourceforge.net/projects/asphyre). `[Delphi]` `[FPC]` Cross-platform framework for developing 2D/3D video games, interactive and scientific applications. It aids the developer with mathematics, hardware control, resource management, displaying real-time graphics and text, handle user input and network communication capabilities.
 *   [CrystalPathFinding (⭐39)](https://github.com/d-mozulyov/CrystalPathFinding). `[Delphi]` `[FPC]` Simple and effective library with an open source intended for the searching of the shortest paths by algorithms A\*/WA\* for maps based on tiles with 4 (simple), 8 (diagonal/diagonalex) or 6 (hexagonal) neighbors.
-*   [TileEngine](http://www.tilengine.org). ([GitHub (⭐36)](https://github.com/turric4n/PascalTileEngine)) `[Delphi]` `[FPC]` OOP Pascal Wrapper and bindings for Tilengine 2D retro graphics engine. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
-*   [SDL2](http://www.freepascal-meets-sdl.net/) ([GitHub (⭐109)](https://github.com/ev1313/Pascal-SDL-2-Headers)). `[Delphi]` `[FPC]` Pascal SDL 2 Headers. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
-*   [pasvulkan (⭐161)](https://github.com/BeRo1985/pasvulkan). `[Delphi]` `[FPC]` Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
+*   [TileEngine](http://www.tilengine.org). ([GitHub (⭐37)](https://github.com/turric4n/PascalTileEngine)) `[Delphi]` `[FPC]` OOP Pascal Wrapper and bindings for Tilengine 2D retro graphics engine. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
+*   [SDL2](http://www.freepascal-meets-sdl.net/) ([GitHub (⭐108)](https://github.com/ev1313/Pascal-SDL-2-Headers)). `[Delphi]` `[FPC]` Pascal SDL 2 Headers. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+*   [pasvulkan (⭐168)](https://github.com/BeRo1985/pasvulkan). `[Delphi]` `[FPC]` Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
 
 ### Math
 
@@ -70,7 +70,7 @@
 
 ### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐138)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐147)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 
 ## [9. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -89,17 +89,17 @@
 
 ### CLI
 
-*   [Clara (⭐647)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Clara (⭐648)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Memory Allocation
 
-*   [memory (⭐1.2k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
+*   [memory (⭐1.3k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Camera
 
-*   [CameraKit-iOS (⭐631)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐637)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐292)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Vue Org Chart (⭐297)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
 
 ## [15. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

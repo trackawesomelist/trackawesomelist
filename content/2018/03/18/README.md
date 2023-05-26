@@ -14,7 +14,7 @@
 
 ### Layout / Barcode
 
-*   [LayoutLess (⭐428)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
+*   [LayoutLess (⭐429)](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 
 ### Maps / Barcode
 
@@ -22,11 +22,11 @@
 
 ### Math / Barcode
 
-*   [Upsurge (⭐179)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
+*   [Upsurge (⭐178)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐984)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐986)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
@@ -77,7 +77,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐161)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐164)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-input-code (⭐66)](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
+*   [vue-input-code (⭐67)](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Contents / Boilerplates
 
-*   [TypeScript PWA Preact Starter (⭐6)](https://github.com/bmitchinson/preact-typescript-pwa-starter) - PWA Starter with TypeScript and SASS (131kb)
+*   [TypeScript PWA Preact Starter (⭐7)](https://github.com/bmitchinson/preact-typescript-pwa-starter) - PWA Starter with TypeScript and SASS (131kb)
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Open Source / Other
 
-*   [Franz (⭐4.3k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+*   [Franz (⭐4.4k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 
 ## [10. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -115,21 +115,21 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐566)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐595)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Configuration
 
-*   [inih (⭐1.9k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
-*   [inih (⭐406)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐1.9k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐852)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
-*   [libconfuse (⭐422)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
-*   [simpleini (⭐821)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
+*   [inih (⭐2k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
+*   [inih (⭐415)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
+*   [iniparser (⭐870)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [libconfuse (⭐435)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
+*   [simpleini (⭐850)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
 ### Font
 
 *   [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. \[MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 *   [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. \[FTL & GPLv2]
-*   [otfcc (⭐398)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
+*   [otfcc (⭐405)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
 
 ### Game Engine
 
@@ -146,7 +146,7 @@
 
 ### Serialization
 
-*   [Cap'n Proto (⭐9.7k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
+*   [Cap'n Proto (⭐9.9k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
 
 ### Machine Learning
 
@@ -154,11 +154,11 @@
 
 ### Memory Allocation
 
-*   [tgc (⭐788)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐828)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 
-*   [DPDK (⭐2.3k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
+*   [DPDK (⭐2.4k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
 *   [PF\_RING™ (⭐2.4k)](https://github.com/ntop/PF_RING) - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 
 ### Robotics
@@ -187,7 +187,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐682)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐698)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [14. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -312,7 +312,7 @@
 
 ### Security
 
-*   [caesium (⭐167)](https://github.com/lvh/caesium) (libsodium bindings)
+*   [caesium (⭐173)](https://github.com/lvh/caesium) (libsodium bindings)
 
 ## [23. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -552,18 +552,18 @@
 
 ### DNS
 
-*   [Th3inspector (⭐1.4k)](https://github.com/Moham3dRiahi/Th3inspector) - All in one CLI tool for information gathering.
+*   [Th3inspector (⭐1.8k)](https://github.com/Moham3dRiahi/Th3inspector) - All in one CLI tool for information gathering.
 *   [Partner Panel (⭐1.3k)](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - Tool for hosting partners to provide a DNS management panel for customers.
-*   [CFPMP (⭐241)](https://github.com/Netrvin/CFPMP) - Partner management panel.
-*   [Flares (⭐171)](https://github.com/lfaoro/flares) - DNS backup tool.
-*   [Block Bad Bot Ruleset (⭐164)](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - Collection of rulesets to block malicious crawlers with firewall rules.
-*   [Docker DDNS (⭐887)](https://github.com/oznu/docker-cloudflare-ddns) - Docker image to use the free DNS Service as a dynamic DNS provider.
-*   [Dynamic DNS Bash (⭐196)](https://github.com/yulewang/cloudflare-api-v4-ddns) - Dynamic DNS updater in bash script.
-*   [Dynamic DNS PHP (⭐151)](https://github.com/lyoshenka/cloudflare-ddns) - Dynamic DNS updater in PHP.
-*   [Dynamic DNS Python (⭐150)](https://github.com/adrienbrignon/cloudflare-ddns) - Dynamic DNS updater in python.
-*   [Argo Tunnel Client (⭐3.7k)](https://github.com/cloudflare/cloudflared) - CLI client for Argo tunnel, a tunneling daemon that proxies any local webserver through the Cloudflare network.
-*   [Upper (⭐97)](https://github.com/ostark/upper) - Speeds up craft dramatically using a cache proxy in front of your webserver.
-*   [Cloud Buster (⭐138)](https://github.com/SageHack/cloud-buster) - A comprehensive pentest tool that checks sites for origin IP leaks.
+*   [CFPMP (⭐243)](https://github.com/Netrvin/CFPMP) - Partner management panel.
+*   [Flares (⭐174)](https://github.com/lfaoro/flares) - DNS backup tool.
+*   [Block Bad Bot Ruleset (⭐179)](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - Collection of rulesets to block malicious crawlers with firewall rules.
+*   [Docker DDNS (⭐954)](https://github.com/oznu/docker-cloudflare-ddns) - Docker image to use the free DNS Service as a dynamic DNS provider.
+*   [Dynamic DNS Bash (⭐233)](https://github.com/yulewang/cloudflare-api-v4-ddns) - Dynamic DNS updater in bash script.
+*   [Dynamic DNS PHP (⭐152)](https://github.com/lyoshenka/cloudflare-ddns) - Dynamic DNS updater in PHP.
+*   [Dynamic DNS Python (⭐153)](https://github.com/adrienbrignon/cloudflare-ddns) - Dynamic DNS updater in python.
+*   [Argo Tunnel Client (⭐5.8k)](https://github.com/cloudflare/cloudflared) - CLI client for Argo tunnel, a tunneling daemon that proxies any local webserver through the Cloudflare network.
+*   [Upper (⭐99)](https://github.com/ostark/upper) - Speeds up craft dramatically using a cache proxy in front of your webserver.
+*   [Cloud Buster (⭐143)](https://github.com/SageHack/cloud-buster) - A comprehensive pentest tool that checks sites for origin IP leaks.
 
 ### Developers
 
@@ -579,35 +579,35 @@
 
 ### Workers / Tools
 
-*   [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - Plugin for [serverless framework (⭐44k)](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
-*   [GitHub Action (⭐17)](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
-*   [Workers KV Viewer (⭐37)](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
+*   [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - Plugin for [serverless framework (⭐45k)](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
+*   [GitHub Action (⭐19)](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
+*   [Workers KV Viewer (⭐38)](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 *   [Redirect Management](https://forwarding.app) - Generate redirect worker.
 
 ### Workers / Recipes
 
-*   [Examples Collection (⭐784)](https://github.com/cloudflare/worker-examples) - Collection of recipes.
-*   [Static (⭐12)](https://github.com/cloudflare/worker-template-static) - Generate a static HTML or JSON page from raw strings in your workers script.
-*   [Img-Color (⭐29)](https://github.com/xtuc/img-color-worker) - Retrieve the dominant color of a png or jpeg image.
-*   [Binast (⭐6)](https://github.com/xtuc/binast-cf-worker-template) - Serve binast via a worker.
-*   [Pwnage Protection (⭐143)](https://github.com/detroitenglish/pw-pwnage-cfworker) - Secure password scoring and user pwnage protection api - [Usage](https://community.cloudflare.com/t/estimate-strength-of-users-new-password-input-with-zxcvbn-and-query-haveibeenpwned-for-matches-against-known-hacked-accounts/26378).
+*   [Examples Collection (⭐932)](https://github.com/cloudflare/worker-examples) - Collection of recipes.
+*   [Static (⭐13)](https://github.com/cloudflare/worker-template-static) - Generate a static HTML or JSON page from raw strings in your workers script.
+*   [Img-Color (⭐36)](https://github.com/xtuc/img-color-worker) - Retrieve the dominant color of a png or jpeg image.
+*   [Binast (⭐7)](https://github.com/xtuc/binast-cf-worker-template) - Serve binast via a worker.
+*   [Pwnage Protection (⭐147)](https://github.com/detroitenglish/pw-pwnage-cfworker) - Secure password scoring and user pwnage protection api - [Usage](https://community.cloudflare.com/t/estimate-strength-of-users-new-password-input-with-zxcvbn-and-query-haveibeenpwned-for-matches-against-known-hacked-accounts/26378).
 *   [URL Router (⭐88)](https://github.com/berstend/service-worker-router) - Fast url router - [Usage](https://community.cloudflare.com/t/open-source-fast-url-router-for-workers-js-typescript/33406).
-*   [Blue / Green Deployments (⭐21)](https://github.com/DigitalOptimizationGroup/blue-green-cloudflare-workers) - Working example of blue / green deployments with canary releasing.
+*   [Blue / Green Deployments (⭐24)](https://github.com/DigitalOptimizationGroup/blue-green-cloudflare-workers) - Working example of blue / green deployments with canary releasing.
 *   [Preact PWA (⭐61)](https://github.com/DigitalOptimizationGroup/cloudflare-worker-preact-pwa) - Preact progressive web app.
 *   [Connecting to Google Storage](https://community.cloudflare.com/t/connecting-to-google-storage/32350) - Pull files from Google's cloud storage.
 *   [CSRF Protection](https://gist.github.com/simonerni/3501b8de6320ac37398d08d9d2d08561) - Protect any origin from CSRF by verifying origin/referer headers.
 *   [URL Query Strings Parser](https://community.cloudflare.com/t/parse-url-query-strings-with-cloudflare-workers/90286) - Parse url query strings.
 *   [Regrex Replacement and Injection](https://community.cloudflare.com/t/perform-regex-replacements-and-inject-css-javascript-with-cloudflare-workers/90279) - Perform regex replacements and inject CSS/JS.
-*   [Webpack Boilerplate (⭐119)](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - Boilerplate to build, bundle and deploy workers with webpack.
-*   [Basic Auth (⭐95)](https://github.com/dommmel/cloudflare-workers-basic-auth) - Protection using basic auth.
-*   [IP lookup service (⭐28)](https://github.com/matthewgall/beta.ipinfo.in) - IP lookup service using workers.
+*   [Webpack Boilerplate (⭐122)](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - Boilerplate to build, bundle and deploy workers with webpack.
+*   [Basic Auth (⭐102)](https://github.com/dommmel/cloudflare-workers-basic-auth) - Protection using basic auth.
+*   [IP lookup service (⭐33)](https://github.com/matthewgall/beta.ipinfo.in) - IP lookup service using workers.
 *   [TypeScript Workers (⭐139)](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested typescript worker.
-*   [Proxies (⭐83)](https://github.com/GitbookIO/proxies-on-cloudflare) - Makes it easy to build workers, by providing high-level proxying primitives addressing common needs.
+*   [Proxies (⭐88)](https://github.com/GitbookIO/proxies-on-cloudflare) - Makes it easy to build workers, by providing high-level proxying primitives addressing common needs.
 *   [Bannero (⭐5)](https://github.com/nondanee/bannero) - Bannero image API for simpledesktops.
 *   [Hasura (⭐18)](https://github.com/nathanwaters/hasura-cloudflare-worker) - Example using Facebook-based authorization and graphql proxy queries with hasura.
 *   [IP Redirects](https://community.cloudflare.com/t/ip-redirects/18285) - Redirect users based on their ip address.
 *   [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect short links.
-*   [Performance Optimized Workers (⭐137)](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
+*   [Performance Optimized Workers (⭐145)](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 
 ## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -634,8 +634,8 @@
 
 ### Platforms
 
-*   [WebExtensions (⭐1k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-*   [Cloudflare (⭐375)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [WebExtensions (⭐1.1k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+*   [Cloudflare (⭐398)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ### Programming Languages
 
@@ -643,8 +643,8 @@
 
 ### Front-End Development
 
-*   [Angular (⭐8.8k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-*   [Blazor (⭐7.5k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Angular (⭐8.9k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Blazor (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ### Back-End Development
 
@@ -656,18 +656,18 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐242)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐249)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.7k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [ameba (⭐455)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
+*   [ameba (⭐463)](https://github.com/crystal-ameba/ameba) - A static code analysis tool
 
 ### HTTP
 
-*   [Cable (⭐111)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐112)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [38. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -711,19 +711,19 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [td-cli (⭐158)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
+*   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 
 ### Utilities / macOS
 
-*   [dark-mode (⭐630)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+*   [dark-mode (⭐635)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Utilities / System Interaction Utilities
 
-*   [battery-level-cli (⭐25)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
-*   [brightness-cli (⭐192)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
+*   [battery-level-cli (⭐26)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
+*   [brightness-cli (⭐195)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
 *   [yank (⭐1.5k)](https://github.com/mptre/yank) - Yank terminal output to clipboard.
-*   [screensaver (⭐39)](https://github.com/gillstrom/screensaver) - Start the screensaver.
-*   [google-font-installer (⭐159)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+*   [screensaver (⭐40)](https://github.com/gillstrom/screensaver) - Start the screensaver.
+*   [google-font-installer (⭐163)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 
 ## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -736,7 +736,7 @@
 ### Sparse linear solvers / Mesh tools
 
 *   [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
-    (C, Apache 2.0/MIT, [GitHub (⭐436)](https://github.com/hypre-space/hypre))
+    (C, Apache 2.0/MIT, [GitHub (⭐475)](https://github.com/hypre-space/hypre))
 
 ## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -766,7 +766,6 @@
 ### DNS
 
 *   [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
-*   [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
 
 ## [45. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
@@ -787,13 +786,13 @@
 
 ## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
+### Paginator
+
+*   [react-laravel-paginex (⭐25)](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
+
 ### UI Layout / Syntax Highlight
 
 *   [react-spaces (⭐1.1k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
-
-### Paginator
-
-*   [react-laravel-paginex (⭐24)](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
 
 ## [47. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -815,8 +814,8 @@
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
-*   [Stronghold (⭐979)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-*   [macOS Fortress (⭐375)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+*   [Stronghold (⭐987)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
+*   [macOS Fortress (⭐380)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
 ## [49. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
@@ -887,51 +886,49 @@
 ### Bouncers / Hosted
 
 *   [IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
-    *   [iOS App (⭐259)](https://github.com/irccloud/ios) - Official. `Objective-C`
-    *   [Android App (⭐268)](https://github.com/irccloud/android) - Official. `Java`
-    *   [Nimbus (⭐151)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
+    *   [iOS App (⭐262)](https://github.com/irccloud/ios) - Official. `Objective-C`
+    *   [Android App (⭐275)](https://github.com/irccloud/android) - Official. `Java`
+    *   [Nimbus (⭐150)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
 
 ### Daemons / Self-hosted
 
-*   [ircd.js (⭐529)](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
+*   [ircd.js (⭐526)](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
 *   [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source (⭐1k)](https://github.com/inspircd/inspircd))
-*   [miniircd (⭐374)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
-*   [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source (⭐351)](https://github.com/ngircd/ngircd))
+*   [miniircd (⭐392)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
+*   [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source (⭐364)](https://github.com/ngircd/ngircd))
 
 ### Services / Self-hosted
 
-*   [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source (⭐353)](https://github.com/atheme/atheme))
-*   [anope](https://anope.org) - Designed for flexibility and ease of use. ([source (⭐279)](https://github.com/anope/anope))
+*   [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source (⭐362)](https://github.com/atheme/atheme))
+*   [anope](https://anope.org) - Designed for flexibility and ease of use. ([source (⭐282)](https://github.com/anope/anope))
 
 ### Bots / Self-hosted
 
-*   [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source (⭐921)](https://github.com/sopel-irc/sopel)) `Python`
-*   [Limnoria (⭐567)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
-*   [Twitch Plays (⭐263)](https://github.com/aidanrwt/twitch-plays) - Takes input from the chat and presses the corresponding key. `Python`
+*   [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source (⭐933)](https://github.com/sopel-irc/sopel)) `Python`
+*   [Limnoria (⭐591)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
+*   [Twitch Plays (⭐270)](https://github.com/aidanrwt/twitch-plays) - Takes input from the chat and presses the corresponding key. `Python`
 *   [Skybot (⭐242)](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
 *   [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source (⭐182)](https://github.com/jessamynsmith/talkbackbot)) `Python`
-*   [lazybot (⭐150)](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
+*   [lazybot (⭐151)](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
 *   [geordi (⭐183)](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
-*   [yossarian-bot (⭐29)](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
-*   [helga (⭐46)](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
+*   [yossarian-bot (⭐30)](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
+*   [helga (⭐48)](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
 
 ### Frameworks / Self-hosted
 
-*   [goirc (⭐472)](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
-*   [Hubot IRC Adapter (⭐307)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
-*   [go-ircevent (⭐445)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
-*   [pyaib (⭐338)](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python`
-*   [slate-irc (⭐203)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
-*   [PircBotX (⭐206)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
+*   [goirc (⭐475)](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
+*   [Hubot IRC Adapter (⭐304)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
+*   [go-ircevent (⭐456)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
+*   [slate-irc (⭐202)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
+*   [PircBotX (⭐212)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
 
 ### Frameworks / Bridges
 
-*   [discord-irc (⭐1.1k)](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
-*   [slack-irc (⭐592)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
-*   [irc-slack (⭐159)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
+*   [discord-irc (⭐1.2k)](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
+*   [slack-irc (⭐590)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
+*   [irc-slack (⭐171)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 *   [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
-*   [toxirc (⭐21)](https://github.com/endoffile78/toxirc) - Tox ↔ IRC. `C`
-*   [skyweb2irc (⭐4)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
+*   [skyweb2irc (⭐8)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 
 ### Channels / Discovery
 
@@ -956,10 +953,10 @@
 
 ### Protocol / Platforms
 
-*   [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source (⭐82)](https://github.com/ircv3/ircv3.github.io))
-*   [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source (⭐153)](https://github.com/ircdocs/modern-irc))
-*   [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source (⭐61)](https://github.com/ircdocs/irc-defs))
-*   [grawity's IRC docs (⭐50)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
+*   [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source (⭐85)](https://github.com/ircv3/ircv3.github.io))
+*   [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source (⭐167)](https://github.com/ircdocs/modern-irc))
+*   [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source (⭐60)](https://github.com/ircdocs/irc-defs))
+*   [grawity's IRC docs (⭐53)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
 *   [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source (⭐6)](https://github.com/ircdocs/irc-stats))
 *   [IRC Parser Tests (⭐34)](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
 

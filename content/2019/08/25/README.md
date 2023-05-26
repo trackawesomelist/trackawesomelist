@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 ### Developer Tools
 
 *   **Code coverage**:
-    *   [Bisect\_ppx (⭐263)](https://github.com/aantron/bisect_ppx)
+    *   [Bisect\_ppx (⭐274)](https://github.com/aantron/bisect_ppx)
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -57,13 +57,7 @@
 
 *   [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - Written by [Mariem](https://pentester.land/).
 
-## [5. Awesome Irc](/content/davisonio/awesome-irc/README.md)
-
-### Clients
-
-*   [Komanda](https://komanda.io) - Designed for people who write code (beta). ([source (⭐1.8k)](https://github.com/mephux/komanda)) `Linux`
-
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CLOS extensions
 
@@ -73,19 +67,19 @@
 
 ### Configuration / Third-party APIs
 
-*   [chameleon (⭐16)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
+*   [chameleon (⭐15)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Logging / Third-party APIs
 
 *   [a-cl-logger (⭐12)](https://github.com/AccelerationNet/a-cl-logger) - Logging library providing context sensitive logging of more than just strings to more than just local files or output streams. Features logstash support, json support, logger hierarchies, context sensitive logging, objects printed as an inspectable presentation,…
 
-## [7. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [6. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Frameworks / Agile
 
 *   [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk\&feature=youtu.be) - How "Agile" has moved away from the basic principles of agility, and what we need to do to fix things 🎥.
 
-## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Notification
 

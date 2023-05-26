@@ -22,15 +22,15 @@
 
 ### Algebra / Lie Algebras
 
-*   [Lie Algebras](http://www.math.harvard.edu/\~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
+*   [Lie Algebras](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
 
 ### Geometry and Topology / Graph Theory
 
-*   [Mathematical Illustrations](http://www.math.ubc.ca/\~cass/graphics/manual/) - Bill Casselman
+*   [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
 
 ### Analysis / Real Analysis
 
-*   [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/\~keisler/calc.html) - Professor H. Jerome Keisler
+*   [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
 *   [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 *   [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 
@@ -53,13 +53,13 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [pyroomacoustics (⭐999)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐999)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
+*   [pyroomacoustics (⭐1.1k)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐1.1k)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Events
 
-*   [Tempura (⭐695)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐696)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ## [5. Awesome Framer](/content/podo/awesome-framer/README.md)
 
@@ -71,7 +71,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐367)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐372)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

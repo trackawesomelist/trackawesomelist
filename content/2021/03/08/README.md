@@ -57,7 +57,7 @@
 ### Utilities / MIT
 
 *   [macos-sdks-vs-gcc (⭐1)](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
-*   [ux-strings (⭐9)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
+*   [ux-strings (⭐8)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 
 ## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -83,17 +83,17 @@
 
 ### Network and Middleware / Real-Time Kernel
 
-*   [mqtt\_bridge (⭐126)](https://github.com/groove-x/mqtt_bridge) - Provides a functionality to bridge between ROS and MQTT in bidirectional.
+*   [mqtt\_bridge (⭐139)](https://github.com/groove-x/mqtt_bridge) - Provides a functionality to bridge between ROS and MQTT in bidirectional.
 
 ### Network and Middleware / Controller Area Network
 
-*   [awesome CAN (⭐690)](https://github.com/iDoka/awesome-canbus) -  A curated list of awesome CAN bus tools, hardware and resources.
+*   [awesome CAN (⭐987)](https://github.com/iDoka/awesome-canbus) -  A curated list of awesome CAN bus tools, hardware and resources.
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Others
 
-*   [BlazorTypewriter (⭐13)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
+*   [BlazorTypewriter (⭐14)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
 
 ## [10. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
@@ -131,10 +131,10 @@
 
 ### Form Components / Rich Text Editor
 
-*   [edtr-io (⭐699)](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
-*   [remirror (⭐2.1k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
-*   [slate (⭐26k)](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
-*   [smartblock (⭐272)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
+*   [edtr-io (⭐706)](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
+*   [remirror (⭐2.2k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
+*   [slate (⭐27k)](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
+*   [smartblock (⭐275)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
 
 ### Meta Tags / Mouse Events
 

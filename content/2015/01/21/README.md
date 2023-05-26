@@ -10,7 +10,7 @@
 
 ### IDE
 
-*   [Vim Template (⭐360)](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
+*   [Vim Template (⭐365)](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
 ## [2. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

@@ -79,7 +79,7 @@
 ### Algorithms and Data structures
 
 *   [lz4 (⭐61)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
-*   [monadex (⭐298)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
+*   [monadex (⭐300)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 *   [parex (⭐61)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 
 ### Caching
@@ -88,16 +88,16 @@
 
 ### Command Line Applications
 
-*   [getopt (⭐242)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+*   [getopt (⭐244)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ### Framework Components
 
-*   [phoenix\_pubsub\_redis (⭐168)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
+*   [phoenix\_pubsub\_redis (⭐169)](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 *   [scaffold (⭐7)](https://github.com/gausby/scaffold) - A mix task for creating new projects based on templates fetched from a Git-repo.
 
 ### Frameworks
 
-*   [trot (⭐408)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐410)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
@@ -113,22 +113,22 @@
 
 ### Testing
 
-*   [proper (⭐844)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐856)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Text and Numbers
 
-*   [neotomex (⭐67)](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
+*   [neotomex (⭐66)](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
 
 ### Third Party APIs
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 *   [telephonist (⭐39)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐422)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [tentacat (⭐424)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 
 *   [ar2ecto (⭐12)](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
-*   [erlware\_commons (⭐215)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+*   [erlware\_commons (⭐216)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 
 ### YAML
 
@@ -142,27 +142,27 @@
 
 ### Template Engine
 
-*   [Nustache (⭐574)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐959)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐577)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐972)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
-*   [geojson-coords (⭐28)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
+*   [geojson-coords (⭐29)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-js-utils (⭐400)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-*   [geojson-merge (⭐219)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+*   [geojson-js-utils (⭐402)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
+*   [geojson-merge (⭐221)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 *   [geojson-normalize (⭐30)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 *   [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
-*   [geojson-rewind (⭐109)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
-*   [geojson-summary (⭐32)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
+*   [geojson-rewind (⭐110)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-summary (⭐33)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 *   [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
-*   [simplify-geojson (⭐162)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+*   [simplify-geojson (⭐165)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### validation
 
-*   [geojsonhint (⭐247)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+*   [geojsonhint (⭐251)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### services
 
@@ -172,10 +172,10 @@
 ### conversion
 
 *   [geojson-mapnikify (⭐38)](https://github.com/mapbox/geojson-mapnikify): Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.
-*   [geojson-vt (⭐1.6k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
+*   [geojson-vt (⭐1.7k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
 *   [geojson2rtree (⭐9)](https://github.com/maxogden/geojson2rtree): generate a static rtree (using terraformer) from a set of geojson features
 *   [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
-    *   [fiona (⭐988)](https://github.com/toblerity/fiona): nice python interface on top of ogr
+    *   [fiona (⭐1k)](https://github.com/toblerity/fiona): nice python interface on top of ogr
 *   [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
 
 ### data
@@ -190,8 +190,8 @@
 
 ### serialization
 
-*   [python-geojson (⭐764)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐177)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐792)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐190)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [10. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -210,7 +210,7 @@
 
 ### Project management
 
-*   [Redmine (⭐4.5k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
+*   [Redmine (⭐4.7k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
 *   [Phabricator (⭐12k)](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
 *   [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
@@ -309,7 +309,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### DevOps Tools
 
-*   [SSHKey (⭐268)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐269)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ### Error Handling
 

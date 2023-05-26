@@ -62,7 +62,7 @@
 
 ### Networking
 
-*   [cpr (⭐5.3k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
+*   [cpr (⭐5.5k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 
 ## [3. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -76,7 +76,7 @@
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)
 
-[English](http://git.io/git-tips) | [中文 (⭐14k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐586)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐965)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐20)](https://github.com/hprobotic/git-tips) | [日本語 (⭐227)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐4)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
+[English](http://git.io/git-tips) | [中文 (⭐15k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐599)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐989)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐22)](https://github.com/hprobotic/git-tips) | [日本語 (⭐226)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐5)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
 
 ### **Tools:**
 

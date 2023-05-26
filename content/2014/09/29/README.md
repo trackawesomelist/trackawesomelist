@@ -10,7 +10,7 @@
 
 ### Actors
 
-*   [exactor (⭐667)](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
+*   [exactor (⭐671)](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
 *   [poolboy (⭐1.5k)](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 *   [workex (⭐78)](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
@@ -20,12 +20,12 @@
 
 ### Caching
 
-*   [con\_cache (⭐854)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐866)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
-*   [coverex (⭐98)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
-*   [excoveralls (⭐761)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+*   [coverex (⭐99)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
+*   [excoveralls (⭐769)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Date and Time
 
@@ -38,25 +38,25 @@
 
 ### Frameworks
 
-*   [phoenix (⭐19k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
-*   [placid (⭐189)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
-*   [sugar (⭐420)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
+*   [phoenix (⭐20k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
+*   [placid (⭐188)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
+*   [sugar (⭐421)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 
 ### Geolocation
 
-*   [geo (⭐571)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐572)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Miscellaneous
 
-*   [exquisite (⭐77)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐893)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [exquisite (⭐78)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
+*   [porcelain (⭐910)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐41)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐3)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 ### Networking
 
 *   [reagent (⭐92)](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
-*   [socket (⭐670)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
+*   [socket (⭐677)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 *   [wpa\_supplicant (⭐5)](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa\_supplicant.
 
 ### Package Management
@@ -65,7 +65,7 @@
 
 ### Release Management
 
-*   [exrm (⭐925)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
+*   [exrm (⭐926)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 
 ### Static Page Generation
 
@@ -83,7 +83,7 @@
 
 ### Websites
 
-*   [Elixir Github Repository (⭐21k)](https://github.com/elixir-lang/elixir) - The project repository.
+*   [Elixir Github Repository (⭐22k)](https://github.com/elixir-lang/elixir) - The project repository.
 
 ## [2. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 

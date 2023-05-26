@@ -41,12 +41,12 @@ git reset <commit-ish>
 
 ### Single controls
 
-*   [EasyListView](http://code.google.com/p/mustangpeakeasylistview) (seems abandoned, active fork on GH [here (⭐34)](https://github.com/TurboPack/MustangpeakEasyListview)). `[Delphi]` Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
+*   [EasyListView](http://code.google.com/p/mustangpeakeasylistview) (seems abandoned, active fork on GH [here (⭐35)](https://github.com/TurboPack/MustangpeakEasyListview)). `[Delphi]` Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
     // *Feature-rich Listview implementing virtual (callback-based) MVC paradigm.*
 
 ### Scripting
 
-*   [SpiderMonkey (⭐724)](https://github.com/synopse/mORMot/blob/master/SynSM.pas). `[Delphi]` `[FPC]` Binding for Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
+*   [SpiderMonkey (⭐742)](https://github.com/synopse/mORMot/blob/master/SynSM.pas). `[Delphi]` `[FPC]` Binding for Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
     // *Spidermonkey DLL required*
 
 ### RAD Studio IDE plugins/wizards

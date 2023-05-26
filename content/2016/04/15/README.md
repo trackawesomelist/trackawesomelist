@@ -74,11 +74,11 @@
 
 ### RESTful API
 
-*   [yada (⭐726)](https://github.com/juxt/yada)
+*   [yada (⭐731)](https://github.com/juxt/yada)
 
 ### Dependency injection
 
-*   [mount (⭐1.1k)](https://github.com/tolitius/mount)
+*   [mount (⭐1.2k)](https://github.com/tolitius/mount)
 
 ---
 

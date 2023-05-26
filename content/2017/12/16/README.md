@@ -24,7 +24,7 @@
 
 ### Tools and Apps / Task Management
 
-*   [Pomolectron (⭐571)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐575)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 
 ## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [amazon-elasticsearch-lambda-samples :fire::fire: (⭐393)](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
+*   [amazon-elasticsearch-lambda-samples :fire::fire: (⭐394)](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
 
 ---
 

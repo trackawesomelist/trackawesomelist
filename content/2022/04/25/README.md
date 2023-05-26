@@ -44,29 +44,29 @@
 
 ### GUI
 
-*   [Taos.Studio (⭐77)](https://github.com/maikebing/Taos.Studio) - A GUI tool for viewing and editing data for TDengine.
+*   [Taos.Studio (⭐80)](https://github.com/maikebing/Taos.Studio) - A GUI tool for viewing and editing data for TDengine.
 *   [balloonfish (⭐8)](https://github.com/xielaoshi99/balloonfish) - Electron + Vue3 + Vite2.0 based TDengine time-series database visualized management tool.
 *   [tdengine-client (⭐3)](https://github.com/wurong1420/tdengine-client) - A simple TDengine interface.
 
 ### IoT
 
-*   [DG-IoT (⭐257)](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
+*   [DG-IoT (⭐264)](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
 *   [dgiot\_tdengine (⭐1)](https://github.com/dgiot/dgiot_tdengine) - TDengine adapter plugin.
-*   [node-red-contrib-tdengine (⭐9)](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
+*   [node-red-contrib-tdengine (⭐10)](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
 
 ### ORM
 
 *   [sqli (⭐1.9k)](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
 *   [TDengine ORM Framework (⭐3)](https://github.com/hxshun/TDengineORM) - ORM framework of TAOS Data's time-series database TDengine.
-*   [IoTSharp.EntityFrameworkCore.Taos (⭐146)](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
-*   [crown (⭐33)](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
+*   [IoTSharp.EntityFrameworkCore.Taos (⭐154)](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
+*   [crown (⭐34)](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 
 ### Connector
 
-*   [PDO\_TAOS (⭐39)](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
+*   [PDO\_TAOS (⭐40)](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
 *   [yii2-tdengine (⭐0)](https://github.com/bearlord/yii2-tdengine) - TDengine for yii2, pdo\_taos needed.
-*   [php-tdengine (⭐62)](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole.
-*   [tdengine-restful-connector (⭐13)](https://github.com/Yurunsoft/tdengine-restful-connector) - PHP extension of TDengine, support Swoole.
+*   [php-tdengine (⭐64)](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole.
+*   [tdengine-restful-connector (⭐14)](https://github.com/Yurunsoft/tdengine-restful-connector) - PHP extension of TDengine, support Swoole.
 *   [imi-tdengine (⭐4)](https://github.com/imiphp/imi-tdengine) - Encapsulated TDengine connection pools, used in imi framework.
 *   [pytaos (⭐2)](https://github.com/horennel/pytaos) - Python RESTful API of TDengine.
 *   [NestJS TDengine Driver (⭐2)](https://github.com/IricBing/nestjs-tdengine) - NestJS TDengine Driver(RESTful based).
@@ -77,7 +77,7 @@
 ### Stack
 
 *   [NewLife.Core (⭐1.6k)](https://github.com/NewLifeX/X) - NewLife.Core Database core.
-*   [NewLife.XCode (⭐28)](https://github.com/NewLifeX/NewLife.XCode) - NewLife.XCode Database Middle-ware.
+*   [NewLife.XCode (⭐34)](https://github.com/NewLifeX/NewLife.XCode) - NewLife.XCode Database Middle-ware.
 
 ### Plugin
 
@@ -103,13 +103,13 @@
 
 *   [auto\_taos\_cfg (⭐0)](https://github.com/glzhao89/auto_taos_cfg) - Auto generate TDengine log/data/cfg.
 *   [Sentinel Console (⭐0)](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDengine.
-*   [Davinci (⭐4.5k)](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform.
+*   [Davinci (⭐4.6k)](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### TypeScript Seed Projects / Components
 
-*   [Eoapi (⭐657)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
+*   [Eoapi (⭐3.4k)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
 
 ## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
@@ -119,17 +119,17 @@
 
 ### Demo apps / Case study
 
-*   [capacitor-updater-plugin-demo (⭐0)](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates.
+*   [capacitor-updater-plugin-demo (⭐1)](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates.
 
 ### Community / Case study
 
-*   [Proposal (⭐65)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐67)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [shuttle (⭐1.9k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐2.6k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
 
 ### Development tools / Build system
 
@@ -145,27 +145,27 @@
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐34)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [ViTauri (⭐36)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
-*   [iceoryx (⭐1.1k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
+*   [iceoryx (⭐1.2k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [junnplus/nvim-lsp-setup (⭐196)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+*   [junnplus/nvim-lsp-setup (⭐198)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐191)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐230)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐347)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐374)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ---
 

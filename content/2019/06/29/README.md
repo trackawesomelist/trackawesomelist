@@ -28,15 +28,15 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐6.4k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐6.6k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐426)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐441)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
-*   [nodenv (⭐1.9k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
+*   [nodenv (⭐2k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Cryptography
 
-*   [sodium.cr (⭐44)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
+*   [sodium.cr (⭐45)](https://github.com/didactic-drunk/sodium.cr) - Crystal wrapper for the libsodium crypto API
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

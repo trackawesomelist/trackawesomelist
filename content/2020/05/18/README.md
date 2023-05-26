@@ -34,15 +34,15 @@
 ### GTFS Libraries / C
 
 *   [CGTFS (⭐4)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
-*   [RRRR Rapid Real-time Routing (⭐151)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+*   [RRRR Rapid Real-time Routing (⭐152)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
 ### GTFS Libraries / Python
 
-*   [ESRI public-transit-tools (⭐137)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
-*   [gtfsdb (⭐131)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [ESRI public-transit-tools (⭐138)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐137)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
 *   [gtfsman (⭐19)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
-*   [gtfspy (⭐127)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐36)](https://github.com/CxAalto/gtfspy-webviz).
-*   [Make GTFS](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
+*   [gtfspy (⭐132)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐39)](https://github.com/CxAalto/gtfspy-webviz).
+*   [Make GTFS (⭐0)](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
 *   [Mapzen GTFS (⭐27)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
 *   [multigtfs (⭐50)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
 
@@ -60,7 +60,7 @@
 
 ### GTFS Libraries / Ruby
 
-*   [GTFS-viz (⭐81)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐329)](https://github.com/vasile/transit-map) web application)
+*   [GTFS-viz (⭐81)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐330)](https://github.com/vasile/transit-map) web application)
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Tools / Libraries
 
-*   [color2k (⭐518)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐533)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -91,11 +91,11 @@
 *   [RealWorld Example App - mongo (⭐393)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.3k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Python / General-Purpose Machine Learning
+### Machine Learning / General Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐624)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐643)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Software / Python
 
-*   [littleballoffur (⭐612)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
+*   [littleballoffur (⭐643)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
 ## [12. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Algorithms and Data structures
 
-*   [blurhash.cr (⭐17)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐13k)](https://github.com/woltapp/blurhash) implementation
+*   [blurhash.cr (⭐18)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐14k)](https://github.com/woltapp/blurhash) implementation
 
 ## [16. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -199,20 +199,20 @@
 
 *   [deno-context (⭐6)](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
 *   [invert-kv (⭐2)](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
-*   [online (⭐6)](https://github.com/denorg/online) - Check if you're currently online in Deno.
-*   [qrcode (⭐31)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
-*   [recursive-readdir (⭐7)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
+*   [online (⭐7)](https://github.com/denorg/online) - Check if you're currently online in Deno.
+*   [qrcode (⭐34)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
+*   [recursive-readdir (⭐8)](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 
 ### Modules / Web utils
 
-*   [status (⭐13)](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
+*   [status (⭐15)](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
 *   [up (⭐12)](https://github.com/denorg/up) - Check if a website is up in Deno.
 
 ### Tools / XML
 
 *   [dedep (⭐66)](https://github.com/egoist/dedep) - Manage dependency versions.
 *   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
-*   [starter (⭐21)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
+*   [starter (⭐24)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 
 ### Articles / XML
 

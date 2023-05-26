@@ -2,7 +2,7 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 25K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 26K · 🏷️ Work
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / Weekly / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
@@ -322,7 +322,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Job boards
 
 *   [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
-*   [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -596,7 +595,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Job boards
 
 *   [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-*   [remote-es/remotes (⭐607)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+*   [remote-es/remotes (⭐621)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 
 ### Companies with "remote DNA"
 
@@ -736,7 +735,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐898)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐895)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [May 06 - May 12, 2019](/content/2019/18/README.md)
 
@@ -779,7 +778,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐6.1k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐6.2k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 
@@ -1060,7 +1059,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [remote-jobs (⭐24k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐25k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 
 ## [Sep 11 - Sep 17, 2017](/content/2017/37/README.md)
 
@@ -1128,7 +1127,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐776)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐780)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 

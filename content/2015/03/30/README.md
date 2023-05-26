@@ -24,7 +24,7 @@
 
 ### Applications
 
-*   [tty2048 (⭐154)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
+*   [tty2048 (⭐155)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ### Files and Directories
 
@@ -35,11 +35,11 @@
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐100)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐102)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐311)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐315)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

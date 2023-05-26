@@ -36,14 +36,14 @@
   Link: 
 
 
-- Name: [Ribbbon (⭐652)](https://github.com/canvasowl/ribbbon)
+- Name: [Ribbbon (⭐653)](https://github.com/canvasowl/ribbbon)
 
   Description: A project management system for Artisans
 
   Link: 
 
 
-- Name: [SЁCU (⭐25)](https://github.com/secusu/secusu)
+- Name: [SЁCU (⭐28)](https://github.com/secusu/secusu)
 
   Description: SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms.
 

@@ -11,7 +11,7 @@
 ### ASM / Boilerplates and libraries
 
 *   [gb-boilerplate (⭐51)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-*   [gb-starter-kit (⭐36)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+*   [gb-starter-kit (⭐39)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 
 ## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -29,13 +29,13 @@
 
 ### Notification
 
-*   [react-hot-toast (⭐6.7k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
+*   [react-hot-toast (⭐7k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simultaneous Localization and Mapping / Lidar
 
-*   [LIO\_SAM (⭐2k)](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
+*   [LIO\_SAM (⭐2.4k)](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
 
 ## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 

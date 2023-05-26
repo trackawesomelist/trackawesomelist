@@ -2,9 +2,15 @@
 
 A curated list of research, applications and projects built using the H2O Machine Learning platform
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/h2oai/awesome-h2o/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o) · ⭐ 340 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/h2oai/awesome-h2o/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o) · ⭐ 345 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/h2oai/awesome-h2o/week/README.md) / [Overview](/content/h2oai/awesome-h2o/readme/README.md) ]
+
+## [May 19, 2023](/content/2023/05/19/README.md)
+
+### Research Papers
+
+*   [Automated machine learning: AI-driven decision making in business analytics](https://www.sciencedirect.com/science/article/pii/S2667305323000133) Marc Schmitt. (2023)
 
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
@@ -35,7 +41,7 @@ A curated list of research, applications and projects built using the H2O Machin
 
 ### Software
 
-*   [Forecast the US demand for electricity (⭐92)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
+*   [Forecast the US demand for electricity (⭐96)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
 
 ## [Sep 11, 2021](/content/2021/09/11/README.md)
 
@@ -245,8 +251,8 @@ A curated list of research, applications and projects built using the H2O Machin
 
 ### Courses
 
-*   [UCLA: Tools in Data Science (STATS 418) (⭐129)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
-*   [GWU: Data Mining (Decision Sciences 6279) (⭐227)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
+*   [UCLA: Tools in Data Science (STATS 418) (⭐131)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
+*   [GWU: Data Mining (Decision Sciences 6279) (⭐228)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 
@@ -286,7 +292,7 @@ A curated list of research, applications and projects built using the H2O Machin
 
 *   [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
 *   [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
-*   [Szilard's machine learning benchmark (⭐1.8k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
+*   [Szilard's machine learning benchmark (⭐1.9k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
 
 ### Presentations
 
@@ -299,7 +305,7 @@ A curated list of research, applications and projects built using the H2O Machin
 
 *   [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330) Karthik Ramasubramanian, Abhishek Singh. (2016)
 *   [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) Thomas Dinsmore. (2016)
-*   [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/\~hastie/CASI/) Bradley Efron, Trevor Hastie. (2016)
+*   [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/) Bradley Efron, Trevor Hastie. (2016)
 *   [Spark in Action](https://www.manning.com/books/spark-in-action) Petar Zečević, Marko Bonaći. (2016)
 
 ### Research Papers
@@ -318,8 +324,8 @@ A curated list of research, applications and projects built using the H2O Machin
 *   [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/) Ebberth L. Paula, Marcelo Ladeira, Rommel N. Carvalho, Thiago Marzagão. (2016)
 *   [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) Stéphanie Florence Visser. (2016)
 *   [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) Krzysztof Urbański, Stanisław Gruszczyńsk. (2016)
-*   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/\~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
-*   [Understanding random forests: from theory to practice (⭐499)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
+*   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
+*   [Understanding random forests: from theory to practice (⭐500)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
 
 ## [Oct 28, 2017](/content/2017/10/28/README.md)
 

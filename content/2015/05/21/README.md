@@ -1,6 +1,6 @@
 # Awesome List Updates on May 21, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,25 +31,19 @@
 *   [hips.seas.harvard.edu](http://hips.seas.harvard.edu/)
 *   [AI Weekly](http://aiweekly.co)
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Websites
-
-*   [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
-
-## [4. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
+## [3. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
 
 ### Hybrid Mobile / Resources-websites-projects
 
 *   [Meteor](https://www.meteor.com/)
 
-## [5. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [4. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2012
 
 *   [Douglas Crockford: **Principles of Security**](https://www.youtube.com/watch?v=ZVCPZTTlhiM) \[59:52]
 
-## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -60,7 +54,7 @@
 
 *   [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 
-## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Articles / Why Elm?
 
@@ -75,7 +69,7 @@
 *   <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a> by [**@sindresorhus**](https://github.com/sindresorhus)
 *   <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)
 
-## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Contour Detection and Image Segmentation / Edge-preserving image processing
 
@@ -88,7 +82,7 @@
 *   [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
 *   [Edge Boxes (⭐773)](https://github.com/pdollar/edges)
 
-## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [8. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Source Code Repos
 
@@ -101,11 +95,11 @@
 ### Collaboration Tools
 
 *   [SparkleShare (⭐4.8k)](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
-*   [lets chat (⭐9.6k)](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+*   [lets chat (⭐9.7k)](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 
 ### Code Quality
 
-*   [sonarqube (⭐7.2k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
+*   [sonarqube (⭐7.6k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
 *   [gerrit](https://gerrit.googlesource.com/) - Code Review
 
 ### CI / CD
@@ -116,16 +110,16 @@
 ### Security and PKI
 
 *   [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
-*   [OpenXPKI (⭐411)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
+*   [OpenXPKI (⭐440)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
 
 ### Bug trackers
 
-*   [Bugzilla (⭐475)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
-*   [Mantis (⭐1.4k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
+*   [Bugzilla (⭐527)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
+*   [Mantis (⭐1.5k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
 
 ### PaaS
 
-*   [OpenShift (⭐8.2k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+*   [OpenShift (⭐8.3k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
 
 ---
 

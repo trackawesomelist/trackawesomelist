@@ -16,7 +16,7 @@
 
 ### Contents / Frameworks
 
-*   [FHIR Server for Azure (⭐943)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+*   [FHIR Server for Azure (⭐988)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Platforms
 
-*   [Node.js (⭐50k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐51k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
@@ -75,7 +75,7 @@
 
 ### Atom / Third-party APIs
 
-*   [SLIMA (⭐61)](https://github.com/neil-lindquist/slima) allows you to
+*   [SLIMA (⭐62)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
 
@@ -89,11 +89,11 @@
 
 ### Boilerplates
 
-*   [Swift Module Template (⭐421)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
+*   [Swift Module Template (⭐425)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
 
 ### Key Value Store
 
-*   [SecureDefaults (⭐218)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
+*   [SecureDefaults (⭐220)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
 
 ---
 

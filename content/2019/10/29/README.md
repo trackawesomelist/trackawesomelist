@@ -50,11 +50,11 @@
 
 ### Software / Miscellaneous
 
-*   [Journal (⭐260)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
+*   [Journal (⭐288)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
 
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐700)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
+*   [OnTrack (⭐720)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Misc
 
-*   [CodableWrappers (⭐399)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐418)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Optimization / NLP
 
-*   [scikit-opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+*   [scikit-opt (⭐4.1k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 
 ## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 

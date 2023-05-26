@@ -31,7 +31,7 @@
 ### Books
 
 *   [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/) – In More OCaml John Whitington takes a meandering tour of functional programming with OCaml, introducing various language features and describing some classic algorithms. The book ends with a large worked example dealing with the production of PDF files. There are questions for each chapter together with worked answers and hints.
-*   [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here (⭐24)](https://github.com/MassD/pearls).
+*   [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here (⭐25)](https://github.com/MassD/pearls).
 *   [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
 *   [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) – This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
 *   [Purely Functional Data Structures](https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8\&qid=1406279836\&sr=8-1\&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
@@ -59,13 +59,13 @@
 
     *   [Opa Programming Language](http://opalang.org/)
 
-    *   [Rhine (⭐629)](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
+    *   [Rhine (⭐630)](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
 
     *   [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
 
-    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐127)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/\~nr/c--/qc--.html).
+    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐131)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
 
-    *   [tis-interpreter (⭐546)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
+    *   [tis-interpreter (⭐551)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
     *   [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
 
@@ -81,7 +81,7 @@
 
 ### Exercises and Short Examples
 
-*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here (⭐32)](https://github.com/MassD/99).
+*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here (⭐34)](https://github.com/MassD/99).
 
 ### Formal Software Verification
 
@@ -93,7 +93,7 @@
 
 ### User Interface
 
-*   [Lambda-Term (⭐194)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
+*   [Lambda-Term (⭐196)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
 
 ### Language-related
 
@@ -102,7 +102,7 @@
 
 ### Messaging
 
-*   [capnp-ocaml (⭐84)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
+*   [capnp-ocaml (⭐87)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
 
 ### Metaprogramming
 
@@ -117,11 +117,11 @@
 *   **Build Tools**:
     *   [dune (⭐1.3k)](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
     *   [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
-        *   [oasis2opam (⭐28)](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
-    *   [obuild (⭐51)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
+        *   [oasis2opam (⭐27)](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
+    *   [obuild (⭐52)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
     *   [ocaml-makefile (⭐73)](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
-    *   [topkg (⭐66)](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
-    *   [Bazel (⭐38)](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
+    *   [topkg (⭐67)](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
+    *   [Bazel (⭐37)](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
 
 ### Parallelism
 
@@ -151,7 +151,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [angular-app-example (⭐60)](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
+*   [angular-app-example (⭐59)](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

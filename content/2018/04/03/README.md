@@ -22,7 +22,7 @@
 
 ### Endpoint / Forensics
 
-*   [Logdissect (⭐122)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [Logdissect (⭐127)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

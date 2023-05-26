@@ -84,7 +84,7 @@
 
 ### Languages
 
-*   [Enterprise™ (⭐1.5k)](https://github.com/joaomilho/Enterprise) - Non deterministic unnecessarily statically typed language.
+*   [Enterprise™ (⭐1.6k)](https://github.com/joaomilho/Enterprise) - Non deterministic unnecessarily statically typed language.
 *   [Rockstar (⭐69)](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)

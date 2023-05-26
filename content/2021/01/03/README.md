@@ -1,30 +1,24 @@
 # Awesome List Updates on Jan 03, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh
-
-## [2. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [1. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Miscellaneous
 
 *   [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
 
-## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Official Resources
 
 *   [Documentation](https://vitejs.dev/)
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Auditing / Logging
 
@@ -34,13 +28,13 @@
 
 *   [CakephpWhoops plugin (⭐13)](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops).
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Browser Games
 
 *   [Monopoly](https://benbean.tech/monopoly-io/) - The classic boardgame recreated in a 3D video game.
 
-## [6. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Books
 
@@ -52,7 +46,7 @@
 *   [Seth Lloyd. Programming the Universe\_ A Quantum Computer Scientist Takes on the Cosmos](https://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist-ebook/dp/B000GCFBP6) - What if the universe is a giant quantum computer? It takes the reader throuogh a journey of computational model of the universe and its implications on physics.
 *   [The Fabric of Reality: The Science of Parallel Universes and Its Implications](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X) - It is of philosophical spirit, about revealing a unified fabric of reality explanation.
 
-## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 

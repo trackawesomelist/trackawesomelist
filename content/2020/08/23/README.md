@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐570)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐586)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -230,7 +230,7 @@
 
 ### GUI Development
 
-*   [Iu (⭐61)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐175)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
+*   [Iu (⭐61)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐176)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
 
 ### HTTP
 
@@ -280,7 +280,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pathfinding Visualizer ThreeJS (⭐373)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+*   [Pathfinding Visualizer ThreeJS (⭐383)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 
 ## [10. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -314,7 +314,7 @@
 
 ### Languages
 
-*   [Brackets (⭐3)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
+*   [Brackets (⭐4)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
 
 ## [13. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -326,7 +326,7 @@
 
 ### Contributing / Uncategorized
 
-*   Your contributions are always welcome! Please visit our [contributing.md (⭐402)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
+*   Your contributions are always welcome! Please visit our [contributing.md (⭐431)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
 
 ## [15. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -341,7 +341,7 @@
     *   [Python Cheatsheet](https://www.pythoncheatsheet.org/)
     *   [Real Python](https://realpython.com)
     *   [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-    *   [Ultimate Python study guide (⭐4k)](https://github.com/huangsam/ultimate-python)
+    *   [Ultimate Python study guide (⭐4.2k)](https://github.com/huangsam/ultimate-python)
 
 ## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

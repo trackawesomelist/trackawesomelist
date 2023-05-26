@@ -37,14 +37,14 @@
 
 ### Bit Resources / Components
 
-*   [Bit (⭐16k)](https://github.com/teambit/bit)
-*   [Bit-Javascript (⭐39)](https://github.com/teambit/bit-javascript)
+*   [Bit (⭐17k)](https://github.com/teambit/bit)
+*   [Bit-Javascript (⭐38)](https://github.com/teambit/bit-javascript)
 
 ## [6. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
-*   [Rachel Andrew (⭐314)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+*   [Rachel Andrew (⭐317)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 
 ## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

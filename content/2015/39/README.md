@@ -10,7 +10,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml.js (⭐2.3k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
+*   [ml.js (⭐2.4k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 
 ## [2. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Packages / MIDI
 
-*   [midimessage (⭐31)](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
+*   [midimessage (⭐34)](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 
 ### Packages / Apps
 
-*   [LoopDrop App (⭐814)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+*   [LoopDrop App (⭐815)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -139,7 +139,7 @@
 
 *   [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 *   [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
-*   [Microserver (⭐935)](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
+*   [Microserver (⭐940)](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 *   [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ### C
@@ -148,7 +148,7 @@
 
 ### C++
 
-*   [AnyRPC (⭐56)](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
+*   [AnyRPC (⭐58)](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
 *   [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
 
 ### D
@@ -162,13 +162,13 @@
 
 ### Erlang VM / Erlang
 
-*   [Cowboy (⭐6.8k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
+*   [Cowboy (⭐6.9k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 *   [Mochiweb (⭐1.8k)](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### Go / Erlang
 
 *   [Gocraft (⭐1.5k)](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
-*   [Go kit (⭐24k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+*   [Go kit (⭐25k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 *   [Kite (⭐3.2k)](https://github.com/koding/kite) - Microservices framework in Go.
 *   [Negroni (⭐7.3k)](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 
@@ -183,12 +183,12 @@
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
 *   [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
 *   [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
-*   [System (⭐596)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-*   [Tesla (⭐189)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
+*   [System (⭐595)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+*   [Tesla (⭐188)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 ### Java VM / Java
 
-*   [Airlift (⭐522)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+*   [Airlift (⭐530)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 *   [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
@@ -203,7 +203,7 @@
 ### Node.js / Scala
 
 *   [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-*   [Baucis (⭐651)](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
+*   [Baucis (⭐653)](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 *   [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 *   [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 *   [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
@@ -215,8 +215,8 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Denominator (⭐576)](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
-*   [Etcd (⭐42k)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
+*   [Denominator (⭐575)](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
+*   [Etcd (⭐43k)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 *   [SkyDNS (⭐2.2k)](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
 *   [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
@@ -225,8 +225,8 @@
 
 *   [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 *   [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-*   [Ordasity (⭐346)](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
-*   [Redisson (⭐20k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
+*   [Ordasity (⭐345)](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
+*   [Redisson (⭐21k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 
 ### Serialization / Scala
 
@@ -237,9 +237,9 @@
 *   [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 *   [Fastjson (⭐25k)](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 *   [Ffjson (⭐2.9k)](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
-*   [Jackson (⭐7.9k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+*   [Jackson (⭐8.1k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 *   [Jackson Afterburner (⭐91)](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
-*   [Kryo (⭐5.7k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+*   [Kryo (⭐5.8k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 *   [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 *   [SBinary (⭐75)](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 *   [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
@@ -363,7 +363,7 @@
 
 ### Ask these people anything!
 
-*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐328)](https://github.com/mourner/projects). Building the future of interactive maps.
+*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐361)](https://github.com/mourner/projects). Building the future of interactive maps.
 
 ### Ask these organizations anything!
 
@@ -492,12 +492,12 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Android Security Awesome (⭐6.4k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
-*   [Awesome CTF (⭐7.4k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
-*   [Awesome Hacking (⭐9.1k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
-*   [Awesome Honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
-*   [Awesome PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
-*   [Awesome Pentest (⭐17k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
+*   [Android Security Awesome (⭐6.9k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
+*   [Awesome CTF (⭐8.1k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
+*   [Awesome Hacking (⭐10k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
+*   [Awesome Honeypots (⭐7k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
+*   [Awesome PCAP Tools (⭐2.7k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+*   [Awesome Pentest (⭐18k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
 ## [23. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -537,7 +537,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐334)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐335)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -563,15 +563,15 @@
 ### Integrations / Components
 
 *   [nativescript-angular (⭐1.2k)](https://github.com/NativeScript/nativescript-angular)
-*   [react-native-renderer (⭐793)](https://github.com/angular/react-native-renderer)
+*   [react-native-renderer (⭐788)](https://github.com/angular/react-native-renderer)
 
 ### Universal General Resources / Components
 
-*   [Universal Angular 2 Repository (GitHub) (⭐3.9k)](https://github.com/angular/universal)
+*   [Universal Angular 2 Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
 
 ### TypeScript General Resources / Components
 
-*   [TypeScript Repository (GitHub) (⭐85k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+*   [TypeScript Repository (GitHub) (⭐90k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 
 ### TypeScript Seed Projects / Components
 
@@ -619,7 +619,7 @@
 
 ### React Native Projects / Components
 
-*   [Angular 2 React Native Renderer (GitHub) (⭐793)](https://github.com/angular/react-native-renderer)
+*   [Angular 2 React Native Renderer (GitHub) (⭐788)](https://github.com/angular/react-native-renderer)
 
 ## [27. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -648,7 +648,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 ### Static Site Generators
 
-*   [Pretzel (⭐600)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐599)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [29. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 

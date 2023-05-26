@@ -30,7 +30,7 @@
 
 ### Platforms
 
-*   [Adafruit IO (⭐40)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+*   [Adafruit IO (⭐41)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Misc
 
-*   [port\_midi (⭐4)](https://github.com/jimm/crystal_port_midi) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
+*   [port\_midi (⭐5)](https://github.com/jimm/crystal_port_midi) - Crystal C bindings for the PortMIDI cross-platform MIDI I/O library
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

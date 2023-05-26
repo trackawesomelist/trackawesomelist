@@ -39,14 +39,14 @@
 
 ### Scripting
 
-*   [CrystalLUA (⭐53)](https://github.com/d-mozulyov/CrystalLUA). `[Delphi]` Lua binding (Delphi6-2007).
+*   [CrystalLUA (⭐56)](https://github.com/d-mozulyov/CrystalLUA). `[Delphi]` Lua binding (Delphi6-2007).
     // *LUA DLL required*
-*   [lua4delphi (⭐27)](https://github.com/danieleteti/lua4delphi). `[Delphi]` Delphi binding for Lua 5.1 language.
+*   [lua4delphi (⭐29)](https://github.com/danieleteti/lua4delphi). `[Delphi]` Delphi binding for Lua 5.1 language.
     // *LUA DLL required*
 
 ### Memory managers
 
-*   [BrainMM (⭐91)](https://github.com/d-mozulyov/BrainMM). `[Delphi]` Extremely fast memory manager for Delphi.
+*   [BrainMM (⭐90)](https://github.com/d-mozulyov/BrainMM). `[Delphi]` Extremely fast memory manager for Delphi.
     // *Advanced memory allocation functions for faster aligned operations.*
 
 ## [6. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
@@ -80,7 +80,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
+*   [Netflix/ice :fire::fire::fire::fire::fire: (⭐2.8k)](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
 
 ## [10. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 

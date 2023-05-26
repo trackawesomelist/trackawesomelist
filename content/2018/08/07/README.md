@@ -38,7 +38,7 @@
 
 ### Services / Presentations
 
-*   [Dimer](https://dimerapp.com/) - Dimer generates a clean and beautiful documentation website from Markdown. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [Dimer](https://dimerapp.com/) - Dimer generates a clean and beautiful documentation website from Markdown. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -62,11 +62,11 @@
 
 ### Miscellaneous
 
-*   [CocoaInterface (⭐32)](https://github.com/plkrueger/CocoaInterface/) -
+*   [CocoaInterface (⭐31)](https://github.com/plkrueger/CocoaInterface/) -
     Cocoa interface for Clozure Common Lisp. Build Cocoa user interface
     windows dynamically using Lisp code and bypass the typical Xcode
     processes. It has
-    [good documentation and a tutorial (⭐32)](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
+    [good documentation and a tutorial (⭐31)](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
 
 ## [8. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 

@@ -10,43 +10,43 @@
 
 ### Packages / Command-line apps
 
-*   [speed-test (⭐3.8k)](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
-*   [David (⭐956)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-*   [normit (⭐237)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
+*   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
+*   [David (⭐962)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
+*   [normit (⭐236)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 
 ### Packages / Command-line utilities
 
-*   [log-update (⭐983)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
-*   [ansi-escapes (⭐414)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
-*   [log-symbols (⭐701)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
-*   [figures (⭐551)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
-*   [string-width (⭐369)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
-*   [yn (⭐242)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-*   [cli-cursor (⭐88)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
+*   [log-update (⭐994)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
+*   [ansi-escapes (⭐431)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+*   [log-symbols (⭐709)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+*   [figures (⭐555)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+*   [string-width (⭐393)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+*   [yn (⭐246)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
+*   [cli-cursor (⭐91)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 
 ### Packages / Filesystem
 
-*   [filenamify (⭐427)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
-*   [fs-extra (⭐8.9k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
+*   [filenamify (⭐451)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
+*   [fs-extra (⭐9.1k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 
 ### Packages / Streams
 
-*   [into-stream (⭐195)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
-*   [byline (⭐321)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
-*   [first-chunk-stream (⭐26)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
+*   [into-stream (⭐196)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
+*   [byline (⭐322)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
+*   [first-chunk-stream (⭐27)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 *   [pad-stream (⭐10)](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 
 ### Packages / Text
 
-*   [string-length (⭐138)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+*   [string-length (⭐139)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 *   [splice-string (⭐21)](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 
 ### Packages / Number
 
-*   [random-int (⭐83)](https://github.com/sindresorhus/random-int) - Generate a random integer.
-*   [random-float (⭐31)](https://github.com/sindresorhus/random-float) - Generate a random float.
-*   [unique-random (⭐108)](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
-*   [round-to (⭐148)](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
+*   [random-int (⭐84)](https://github.com/sindresorhus/random-int) - Generate a random integer.
+*   [random-float (⭐32)](https://github.com/sindresorhus/random-float) - Generate a random float.
+*   [unique-random (⭐111)](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
+*   [round-to (⭐149)](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
 
 ### Packages / Math
 
@@ -58,16 +58,16 @@
 
 ### Packages / Parsing
 
-*   [parse5 (⭐3.2k)](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
-*   [strip-json-comments (⭐564)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
+*   [parse5 (⭐3.3k)](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
+*   [strip-json-comments (⭐571)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 *   [strip-css-comments (⭐117)](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
-*   [neat-csv (⭐289)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
-*   [binary-extract (⭐150)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
-*   [js-yaml (⭐5.8k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+*   [neat-csv (⭐295)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
+*   [binary-extract (⭐152)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
+*   [js-yaml (⭐5.9k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 
 ### Packages / Compression
 
-*   [pako (⭐4.7k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
+*   [pako (⭐4.9k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 
 ### Packages / Testing
 
@@ -79,11 +79,11 @@
 
 ### Packages / Miscellaneous
 
-*   [hasha (⭐930)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
-*   [dot-prop (⭐704)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+*   [hasha (⭐931)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
+*   [dot-prop (⭐738)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 *   [onetime (⭐148)](https://github.com/sindresorhus/onetime) - Only run a function once.
-*   [os-locale (⭐218)](https://github.com/sindresorhus/os-locale) - Get the system locale.
-*   [file-type (⭐2.9k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
+*   [os-locale (⭐221)](https://github.com/sindresorhus/os-locale) - Get the system locale.
+*   [file-type (⭐3.1k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 
 ## [2. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -334,11 +334,11 @@ git add --all && git commit --amend --no-edit
 
 ### Logging
 
-*   [rollbax (⭐243)](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
+*   [rollbax (⭐242)](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
 
 ### Editors
 
-*   [Alchemist-Server (⭐195)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
+*   [Alchemist-Server (⭐194)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 *   [elixir\_generator (⭐9)](https://github.com/jadercorrea/elixir_generator.vim) - Vim plugin to generate Elixir module and test files with one command.
 
 ## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
@@ -352,9 +352,9 @@ git add --all && git commit --amend --no-edit
 *   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
 *   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
-*   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+*   [Cerberus (⭐4.7k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐684)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐688)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
 *   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 
@@ -400,16 +400,16 @@ git add --all && git commit --amend --no-edit
 
 ### Compilers, Transpilers and Languages
 
-*   [ClojureCLR (⭐1.4k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
-*   [Mono-basic (⭐100)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
-*   [Netjs (⭐946)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
+*   [ClojureCLR (⭐1.5k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
+*   [Mono-basic (⭐101)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
+*   [Netjs (⭐945)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 
 ### Testing
 
-*   [Machine.Specifications (⭐852)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
-*   [Moq (⭐5.1k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
+*   [Machine.Specifications (⭐864)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
+*   [Moq (⭐5.2k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
 *   [NBuilder (⭐52)](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
-*   [Rhino Mocks (⭐253)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
+*   [Rhino Mocks (⭐255)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -434,9 +434,9 @@ git add --all && git commit --amend --no-edit
 ### Scientific
 
 *   Data analysis/structures
-    *   [daru (⭐973)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
-    *   [Daru::View (⭐85)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐361)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+    *   [daru (⭐978)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
+    *   [Daru::View (⭐86)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Rgl (⭐362)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -453,7 +453,7 @@ git add --all && git commit --amend --no-edit
 ### Network / Scanning / Pentesting
 
 *   [OpenVAS](http://www.openvas.org/) - OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution.
-*   [Metasploit Framework (⭐29k)](https://github.com/rapid7/metasploit-framework) - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
+*   [Metasploit Framework (⭐30k)](https://github.com/rapid7/metasploit-framework) - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
 
 ### Network / Monitoring / Logging
 
@@ -465,25 +465,25 @@ git add --all && git commit --amend --no-edit
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS)created by Martin Roesch in 1998. Snort is now developed by Sourcefire, of which Roesch is the founder and CTO. In 2009, Snort entered InfoWorld's Open Source Hall of Fame as one of the "greatest \[pieces of] open source software of all time".
-*   [sshwatch (⭐34)](https://github.com/marshyski/sshwatch) - IPS for SSH similar to DenyHosts written in Python.  It also can gather information about attacker during the attack in a log.
+*   [sshwatch (⭐36)](https://github.com/marshyski/sshwatch) - IPS for SSH similar to DenyHosts written in Python.  It also can gather information about attacker during the attack in a log.
 
 ### Network / Honey Pot / Honey Net
 
 *   [Conpot](http://conpot.org/) - ICS/SCADA Honeypot. Conpot is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend. By providing a range of common industrial control protocols we created the basics to build your own system, capable to emulate complex infrastructures to convince an adversary that he just found a huge industrial complex. To improve the deceptive capabilities, we also provided the possibility to server a custom human machine interface to increase the honeypots attack surface. The response times of the services can be artificially delayed to mimic the behaviour of a system under constant load. Because we are providing complete stacks of the protocols, Conpot can be accessed with productive HMI's or extended with real hardware. Conpot is developed under the umbrella of the Honeynet Project and on the shoulders of a couple of very big giants.
-*   [Amun (⭐49)](https://github.com/zeroq/amun) - Amun Python-based low-interaction Honeypot.
+*   [Amun (⭐52)](https://github.com/zeroq/amun) - Amun Python-based low-interaction Honeypot.
 *   [Glastopf](http://glastopf.org/) - Glastopf is a Honeypot which emulates thousands of vulnerabilities to gather data from attacks targeting web applications. The principle behind it is very simple: Reply the correct response to the attacker exploiting the web application.
-*   [Kippo (⭐1.4k)](https://github.com/desaster/kippo) - Kippo is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
+*   [Kippo (⭐1.5k)](https://github.com/desaster/kippo) - Kippo is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 *   [Kojoney](http://kojoney.sourceforge.net/) - Kojoney is a low level interaction honeypot that emulates an SSH server. The daemon is written in Python using the Twisted Conch libraries.
 *   [HoneyDrive](http://bruteforce.gr/honeydrive) - HoneyDrive is the premier honeypot Linux distro. It is a virtual appliance (OVA) with Xubuntu Desktop 12.04.4 LTS edition installed. It contains over 10 pre-installed and pre-configured honeypot software packages such as Kippo SSH honeypot, Dionaea and Amun malware honeypots, Honeyd low-interaction honeypot, Glastopf web honeypot and Wordpot, Conpot SCADA/ICS honeypot, Thug and PhoneyC honeyclients and more. Additionally it includes many useful pre-configured scripts and utilities to analyze, visualize and process the data it can capture, such as Kippo-Graph, Honeyd-Viz, DionaeaFR, an ELK stack and much more. Lastly, almost 90 well-known malware analysis, forensics and network monitoring related tools are also present in the distribution.
 *   [Cuckoo Sandbox](http://www.cuckoosandbox.org/) - Cuckoo Sandbox is an Open Source software for automating analysis of suspicious files. To do so it makes use of custom components that monitor the behavior of the malicious processes while running in an isolated environment.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [tcpflow (⭐1.4k)](https://github.com/simsong/tcpflow) - tcpflow is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis and debugging. Each TCP flow is stored in its own file. Thus, the typical TCP flow will be stored in two files, one for each direction. tcpflow can also process stored 'tcpdump' packet flows.
+*   [tcpflow (⭐1.6k)](https://github.com/simsong/tcpflow) - tcpflow is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis and debugging. Each TCP flow is stored in its own file. Thus, the typical TCP flow will be stored in two files, one for each direction. tcpflow can also process stored 'tcpdump' packet flows.
 *   [Xplico](http://www.xplico.org/) - The goal of Xplico is extract from an internet traffic capture the applications data contained. For example, from a pcap file Xplico extracts each email (POP, IMAP, and SMTP protocols), all HTTP contents, each VoIP call (SIP), FTP, TFTP, and so on. Xplico isn’t a network protocol analyzer. Xplico is an open source Network Forensic Analysis Tool (NFAT).
 *   [OpenFPC](http://www.openfpc.org) - OpenFPC is a set of tools that combine to provide a lightweight full-packet network traffic recorder & buffering system. It's design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log management tools.
 *   [Dshell (⭐5.4k)](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
-*   [stenographer (⭐1.7k)](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
+*   [stenographer (⭐1.8k)](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
 
 ### Network / Sniffer
 
@@ -500,11 +500,11 @@ git add --all && git commit --amend --no-edit
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [android-security-awesome (⭐6.4k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
+*   [android-security-awesome (⭐6.9k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
 
 ### Endpoint / Forensics
 
-*   [grr (⭐4.2k)](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
+*   [grr (⭐4.4k)](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
 
 ### Threat Intelligence / Forensics
 
@@ -514,7 +514,7 @@ git add --all && git commit --amend --no-edit
 *   [DNS-BH](http://www.malwaredomains.com/) - The DNS-BH project creates and maintains a listing of domains that are known to be used to propagate malware and spyware. This project creates the Bind and Windows zone files required to serve fake replies to localhost for any requests to these, thus preventing many spyware installs and reporting.
 *   [AlienVault Open Threat Exchange](http://www.alienvault.com/open-threat-exchange/dashboard) - AlienVault Open Threat Exchange (OTX), to help you secure your networks from data loss, service disruption and system compromise caused by malicious IP addresses.
 *   [leakedin.com](http://www.leakedin.com/) - The primary purpose of leakedin.com is to make visitors aware about the risks of loosing data. This blog just compiles samples of data lost or disclosed on sites like pastebin.com.
-*   [FireEye OpenIOCs (⭐441)](https://github.com/fireeye/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
+*   [FireEye OpenIOCs (⭐454)](https://github.com/fireeye/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
 *   [OpenVAS NVT Feed](http://www.openvas.org/openvas-nvt-feed.html) - The public feed of Network Vulnerability Tests (NVTs). It contains more than 35,000 NVTs (as of April 2014), growing on a daily basis. This feed is configured as the default for OpenVAS.
 *   [Project Honey Pot](http://www.projecthoneypot.org/) - Project Honey Pot is the first and only distributed system for identifying spammers and the spambots they use to scrape addresses from your website. Using the Project Honey Pot system you can install addresses that are custom-tagged to the time and IP address of a visitor to your site. If one of these addresses begins receiving email we not only can tell that the messages are spam, but also the exact moment when the address was harvested and the IP address that gathered it.
 *   [virustotal](https://www.virustotal.com/) - VirusTotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners. At the same time, it may be used as a means to detect false positives, i.e. innocuous resources detected as malicious by one or more scanners.
@@ -527,28 +527,28 @@ git add --all && git commit --amend --no-edit
 
 *   [sqlmap](http://sqlmap.org/) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
 *   [w3af](http://w3af.org/) - w3af is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
-*   [PTF (⭐4.4k)](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
+*   [PTF (⭐4.7k)](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 
 ### Big Data / Development
 
-*   [data\_hacking (⭐738)](https://github.com/ClickSecurity/data_hacking) - Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.
-*   [hadoop-pcap (⭐202)](https://github.com/RIPE-NCC/hadoop-pcap) - Hadoop library to read packet capture (PCAP) files.
-*   [OpenSOC (⭐564)](https://github.com/OpenSOC/opensoc) - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [binarypig (⭐140)](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
+*   [data\_hacking (⭐746)](https://github.com/ClickSecurity/data_hacking) - Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.
+*   [hadoop-pcap (⭐201)](https://github.com/RIPE-NCC/hadoop-pcap) - Hadoop library to read packet capture (PCAP) files.
+*   [OpenSOC (⭐568)](https://github.com/OpenSOC/opensoc) - OpenSOC integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+*   [binarypig (⭐139)](https://github.com/endgameinc/binarypig) - Scalable Binary Data Extraction in Hadoop. Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch.
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [lists (⭐8.5k)](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
+*   [lists (⭐9k)](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
 
 ## [21. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Questions
 
-*   [oml (⭐115)](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
+*   [oml (⭐116)](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
 
 ### Testing
 
-*   [iTeML (⭐66)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
+*   [iTeML (⭐67)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
 *   [Pa\_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 
 ## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
@@ -641,7 +641,7 @@ git add --all && git commit --amend --no-edit
 
 ### Frameworks
 
-*   [OpenFrameworks (⭐9.3k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
+*   [OpenFrameworks (⭐9.4k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
 
 ### Database
 
@@ -649,11 +649,11 @@ git add --all && git commit --amend --no-edit
 
 ### Miscellaneous
 
-*   [semver.c (⭐171)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
+*   [semver.c (⭐173)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
 
 ### Articles
 
-*   [C++Now 2015 Presentations (⭐204)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
+*   [C++Now 2015 Presentations (⭐203)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 
 ## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -712,7 +712,7 @@ git add --all && git commit --amend --no-edit
 
 ### Templating Engines / Runner
 
-*   [marko (⭐12k)](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
+*   [marko (⭐13k)](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 
 ### RegExp / Runner
 

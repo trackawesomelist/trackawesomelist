@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23 - Nov 29, 2015
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,13 +22,13 @@
     *   [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
         *   [ppx\_pgsql (⭐51)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
     *   [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
-    *   [SQLite3 (⭐98)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
+    *   [SQLite3 (⭐102)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
     *   [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
-    *   [ocaml-redis (⭐72)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
+    *   [ocaml-redis (⭐73)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
     *   [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
-    *   [pgx (⭐117)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library
+    *   [pgx (⭐118)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library
         .
-    *   [mysql\_protocol (⭐12)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
+    *   [mysql\_protocol (⭐13)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 
 ## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Key Value Store
 
-*   [Prephirences (⭐559)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
+*   [Prephirences (⭐560)](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
 
 ### Logging / Barcode
 
@@ -186,7 +186,7 @@ Where hackers and security experts come to train.
 
 ### Contents / CLI
 
-*   [psql2csv (⭐171)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+*   [psql2csv (⭐173)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ## [17. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -247,7 +247,6 @@ Where hackers and security experts come to train.
 
 ### Articles
 
-*   [CSS class naming and BEM: Contemporary practice - Phil Baker](http://philbaker.me/2014/02/css-class-naming-and-bem-contemporary-practice/)
 *   [Expressive BEM with Sass: a different approach - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-a-different-approach)
 *   [Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins)
 
@@ -260,7 +259,6 @@ Where hackers and security experts come to train.
 *   [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
 *   [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
 *   [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
-*   [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
 *   [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
 *   [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
 *   [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
@@ -291,7 +289,7 @@ Where hackers and security experts come to train.
 
 ### Algorithms and Data structures
 
-*   [luhn (⭐14)](https://github.com/ma2gedev/luhn_ex) - Luhn algorithm in Elixir.
+*   [luhn (⭐16)](https://github.com/ma2gedev/luhn_ex) - Luhn algorithm in Elixir.
 
 ### Applications
 
@@ -300,9 +298,9 @@ Where hackers and security experts come to train.
 ### Authentication
 
 *   [ueberauth (⭐1.5k)](https://github.com/ueberauth/ueberauth) - An Elixir Authentication System for Plug-based Web Applications.
-*   [ueberauth\_facebook (⭐74)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
-*   [ueberauth\_github (⭐96)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
-*   [ueberauth\_google (⭐145)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
+*   [ueberauth\_facebook (⭐75)](https://github.com/ueberauth/ueberauth_Facebook) - Facebook OAuth2 Strategy for Überauth.
+*   [ueberauth\_github (⭐97)](https://github.com/ueberauth/ueberauth_github) - A GitHub strategy for Überauth.
+*   [ueberauth\_google (⭐149)](https://github.com/ueberauth/ueberauth_google) - A Google strategy for Überauth.
 *   [ueberauth\_identity (⭐78)](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 *   [ueberauth\_slack (⭐23)](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
 
@@ -312,7 +310,7 @@ Where hackers and security experts come to train.
 
 ### HTTP
 
-*   [scrape (⭐322)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
+*   [scrape (⭐324)](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 
 ### Third Party APIs
 
@@ -322,7 +320,7 @@ Where hackers and security experts come to train.
 ### Utilities
 
 *   [crutches (⭐124)](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
-*   [erlsh (⭐62)](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
+*   [erlsh (⭐61)](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 
 ## [24. Tips](/content/git-tips/tips/week/README.md)
 
@@ -332,47 +330,20 @@ Where hackers and security experts come to train.
 git help -g
 ```
 
-## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Cool / Non-X86
-
-*   [CoolAid: The Cool 2013 Reference Manual](https://www.eecis.udel.edu/~cavazos/cisc672/docs/cool-manual.pdf) (PDF)
-
-### Haxe / Spock Framework
-
-*   [Haxe and JavaScript](https://matthijskamstra.github.io/haxejs/) - Matthijs Kamstra (wikibook)
-
-### Sage / Sinatra
-
-*   [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
-
-### Scala / Sinatra
-
-*   [Pro Scala: Monadic Design Patterns for the Web (⭐90)](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-*   [Xtrace (⭐90)](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-
-### Scala / Lift
-
-*   [Lift (⭐163)](https://github.com/tjweir/liftbook)
-
-### VHDL / Deno
-
-*   [Free Range VHDL (⭐172)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
-
-## [26. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [25. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
 *   [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 *   [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
 
-## [27. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [26. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
 *   [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
 
-## [28. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [27. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -430,7 +401,7 @@ git help -g
 
 *   [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 
-## [29. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
@@ -498,7 +469,7 @@ git help -g
 *   Real Python <https://realpython.com/blog/>
 *   Rudy Huyn <http://www.rudyhuyn.com/blog/>
 
-## [30. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Websites / OpenOffice
 
@@ -508,13 +479,13 @@ git help -g
 
 *   [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 
-## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
-*   [debug-menu (⭐133)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
+*   [debug-menu (⭐132)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 
-## [32. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Payments
 
@@ -540,19 +511,19 @@ git help -g
 
 *   [Laravel China](https://phphub.org/)
 
-## [33. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [32. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Problem Child (⭐48)](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 
-## [34. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [33. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [neo4j-elasticsearch (⭐200)](https://github.com/neo4j-contrib/neo4j-elasticsearch) - Neo4j ElasticSearch Integration.
 
-## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -562,7 +533,7 @@ git help -g
 
 *   [Slack Notifier (⭐1.5k)](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 
-## [36. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [35. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### HTTP
 

@@ -10,7 +10,7 @@
 
 ### Functional Programming / Runner
 
-*   [preludejs (⭐95)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
+*   [preludejs (⭐96)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 
 ## [2. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -40,15 +40,15 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Applications
 
-*   [ExShop (⭐219)](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
+*   [ExShop (⭐220)](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
 
 ### Authorization
 
-*   [authorize (⭐98)](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
+*   [authorize (⭐99)](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
 
 ### Cloud Infrastructure and Management
 
-*   [ex\_riak\_cs (⭐4)](https://github.com/ayrat555/ex_riak_cs) - Riak CS API client.
+*   [ex\_riak\_cs (⭐5)](https://github.com/ayrat555/ex_riak_cs) - Riak CS API client.
 
 ### Email
 
@@ -56,7 +56,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐393)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐396)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 

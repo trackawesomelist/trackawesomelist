@@ -16,7 +16,7 @@
 
 ### PlayCanvas
 
-*   [Engine (⭐8.2k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8.3k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
@@ -32,13 +32,13 @@
 
 ### Learn
 
-*   [YouTubers (⭐4k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+*   [YouTubers (⭐4.1k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Real-Time Kernel
 
-*   [micro-ROS for Arduino (⭐223)](https://github.com/micro-ROS/micro_ros_arduino) - A experimental micro-ROS library for baremetal projects based on Arduino IDE or Arduino CLI.
+*   [micro-ROS for Arduino (⭐289)](https://github.com/micro-ROS/micro_ros_arduino) - A experimental micro-ROS library for baremetal projects based on Arduino IDE or Arduino CLI.
 
 ## [5. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
 
@@ -56,7 +56,7 @@
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐250)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐295)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ## [8. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 

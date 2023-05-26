@@ -21,13 +21,13 @@
 
 ### Articles
 
-*   [C++Now 2015 Presentations (⭐204)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
+*   [C++Now 2015 Presentations (⭐203)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
-*   [rollbax (⭐243)](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
+*   [rollbax (⭐242)](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [ClojureCLR (⭐1.4k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
+*   [ClojureCLR (⭐1.5k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

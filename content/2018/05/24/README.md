@@ -14,7 +14,7 @@
 
 ### Alert / Barcode
 
-*   [SwiftEntryKit (⭐6.1k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
+*   [SwiftEntryKit (⭐6.2k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -45,13 +45,13 @@
 
 ### Ask these people anything!
 
-*   [Byungjin Park (⭐13)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+*   [Byungjin Park (⭐15)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 
 ## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Scripting
 
-*   [VerySimple.Lua (⭐121)](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
+*   [VerySimple.Lua (⭐124)](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
     // *LUA DLL required*
 
 ### RAD Studio IDE plugins/wizards
@@ -86,7 +86,7 @@
 
 ### SDKs and Samples / JavaScript SDK
 
-*   [Repo with Samples :fire::fire: (⭐298)](https://github.com/awslabs/aws-nodejs-sample)
+*   [Repo with Samples :fire::fire: (⭐300)](https://github.com/awslabs/aws-nodejs-sample)
 
 ---
 

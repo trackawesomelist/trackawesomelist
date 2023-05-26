@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2020
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,26 +12,20 @@
 
 *   R: [RPostgreSQL (⭐59)](https://github.com/tomoakin/RPostgreSQL)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### OCaml / PicoLisp
-
-*   [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) - Michael R. Clarkson
-
-## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Testing
 
-*   [django-google-optimize (⭐39)](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
+*   [django-google-optimize (⭐41)](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Authentication
 
-*   [oxide-auth (⭐486)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-*   [yup-oauth2 (⭐177)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows [![Build Status](https://api.travis-ci.org/dermesser/yup-oauth2.svg?branch=master)](https://travis-ci.org/dermesser/yup-oauth2)
+*   [oxide-auth (⭐512)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
+*   [yup-oauth2 (⭐182)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows
 
-## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### Game Engines
 
@@ -174,25 +168,25 @@ Language: English
 Notable Channels: `#d3d9-users`, `#d3d9-dev`, `#d3d11-users`, `#d3d11-dev`, `#wine`, `#proton`, `#vkd3d-users`, `#vkd3d-dev`, `#winehackers`, `#trivial-anti-cheetah-users`, `#easy-anti-lobster-dev`, `#builds` \
 Language: English
 
-## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simulation / Version Control
 
-*   [simbody (⭐1.9k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
+*   [simbody (⭐2k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 
-## [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
-*   [RegExp (⭐202)](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regexp mistakes and style guide violations.
+*   [RegExp (⭐212)](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regexp mistakes and style guide violations.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vuesence-modal-window (⭐3)](https://github.com/altrusl/vuesence-modal-window) - Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 

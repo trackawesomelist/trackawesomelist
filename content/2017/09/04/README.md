@@ -74,7 +74,7 @@ Webpage: <https://www.facebook.com/cafelinne/>
 
 ### Example Projects
 
-*   [Monitor your keycloak with prometheus (⭐65)](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
+*   [Monitor your keycloak with prometheus (⭐64)](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
 
 ---
 

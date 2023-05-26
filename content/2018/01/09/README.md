@@ -14,19 +14,19 @@
 
 ### Libraries / Python
 
-*   [Python-Markdown (⭐3k)](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
+*   [Python-Markdown (⭐3.2k)](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
 
 ### Tools / Converters
 
-*   [turndown (⭐6.4k)](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
+*   [turndown (⭐6.9k)](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 
 ### Tools / Linters
 
-*   [Markdown Lint Tool (⭐1.4k)](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
+*   [Markdown Lint Tool (⭐1.5k)](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
 
 ### Tools / Miscellaneous
 
-*   [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Resources / Documentation
 
@@ -40,17 +40,17 @@
 
 ### Artificial Intelligence
 
-*   [frugally-deep (⭐938)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
+*   [frugally-deep (⭐956)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 
 ### Cryptography
 
-*   [Tiny AES in C (⭐3.5k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
+*   [Tiny AES in C (⭐3.6k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [ex\_prompt (⭐28)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
+*   [ex\_prompt (⭐29)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 
 ### Cryptography
 
@@ -58,7 +58,7 @@
 
 ### Debugging
 
-*   [rexbug (⭐223)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐226)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
@@ -78,16 +78,16 @@
 
 ### Templating
 
-*   [calliope (⭐191)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
-*   [slime (⭐343)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [calliope (⭐193)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [slime (⭐346)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
 
-*   [remove\_emoji (⭐7)](https://github.com/guanting112/elixir_remove_emoji) - Emoji text sanitizer in Elixir. It can remove any emoji symbol.
+*   [remove\_emoji (⭐8)](https://github.com/guanting112/elixir_remove_emoji) - Emoji text sanitizer in Elixir. It can remove any emoji symbol.
 
 ### Third Party APIs
 
-*   [gringotts (⭐442)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐451)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 
@@ -95,7 +95,7 @@
 
 ### Editors
 
-*   [vim-mix-format (⭐215)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
+*   [vim-mix-format (⭐216)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
 
 ### Screencasts
 

@@ -10,11 +10,11 @@
 
 ### Community Extensions
 
-*   [Keycloak Metrics based on Micrometer (⭐3)](https://github.com/kokuwaio/keycloak-event-metrics)
+*   [Keycloak Metrics based on Micrometer (⭐14)](https://github.com/kokuwaio/keycloak-event-metrics)
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history, maps, and definitions
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   \[🔥] [The landscape of generative AI landscape reports | by Ramsri Goutham | Jan, 2023 | Medium](https://ramsrigoutham.medium.com/the-landscape-of-generative-ai-landscape-reports-615a417b15d): a meta report on the reports published by 9 venture capital firms
 

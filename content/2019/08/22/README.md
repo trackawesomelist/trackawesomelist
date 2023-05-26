@@ -13,7 +13,7 @@
 *   [Literature Based Discovery: Models, methods, and trends](https://www.sciencedirect.com/science/article/pii/S1532046417301909) - A review of Literature Based Discovery (LBD), or the philosophy that meaningful connections may be found between seemingly unrelated scientific literature.
     *   For some historical context on LBD, see papers by University of Chicago's Don Swanson and Neil Smalheiser, including [*Undiscovered Public Knowledge*](https://www.jstor.org/stable/4307965) (paywalled) and [*Rediscovering Don Swanson: the Past, Present and Future of Literature-Based Discovery*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771422/).
 
-### Tutorials / Video Lectures and Online Courses
+### Video Lectures and Online Courses
 
 *   [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
 
@@ -39,25 +39,25 @@
 
 ### Graphic
 
-*   [OpenGL Pascal Toolkit (⭐26)](https://github.com/daar/GLPT). `[FPC]` Easy to use native pascal toolkit that allows to create and manage OpenGL contexts in a platform independent way.
-*   [BGRAbitmap (⭐12)](https://github.com/edivando-fpc/BGRABitmap). `[Delphi]` `[FPC]` Drawing routines with transparency and antialiasing with Lazarus. Offers also various transforms. These routines allow to manipulate 32bit images in BGRA format or RGBA format (depending on the platform).
+*   [OpenGL Pascal Toolkit (⭐27)](https://github.com/daar/GLPT). `[FPC]` Easy to use native pascal toolkit that allows to create and manage OpenGL contexts in a platform independent way.
+*   [BGRAbitmap (⭐13)](https://github.com/edivando-fpc/BGRABitmap). `[Delphi]` `[FPC]` Drawing routines with transparency and antialiasing with Lazarus. Offers also various transforms. These routines allow to manipulate 32bit images in BGRA format or RGBA format (depending on the platform).
 
 ### Control packs
 
-*   [KControls (⭐9)](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
+*   [KControls (⭐11)](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
     // *Most useful are TKGrid with its DB-aware heritage TKDBGrid — a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
 
 ### Single controls
 
-*   [zControls (⭐124)](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
-*   [DzHTMLText (⭐114)](https://github.com/digao-dalpiaz/DzHTMLText). `[Delphi]` `[FPC]` Visual component that allows you to specify a formatted text in a label, using almost the same syntax used in HTML code.
+*   [zControls (⭐131)](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
+*   [DzHTMLText (⭐125)](https://github.com/digao-dalpiaz/DzHTMLText). `[Delphi]` `[FPC]` Visual component that allows you to specify a formatted text in a label, using almost the same syntax used in HTML code.
 
 ### Command-line
 
-*   [TCommandLineReader (⭐24)](https://github.com/benibela/rcmdline). `[Delphi]` `[FPC]` This unit provides an advanced, platform-independent command line parser for Lazarus and Delphi. It checks for allowed options, automatically prints a help with a list of all of them, and - contrary to the parser in the rtl - behaves the same on Windows and Linux.
-*   [CommandLineParser (⭐76)](https://github.com/VSoftTechnologies/VSoft.CommandLineParser). `[Delphi]` Simple Command Line Options Parser - spawned from the DUnitX Project.
-*   [GpCommandLineParser (⭐140)](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). `[Delphi]` Attribute based command line parser.
-*   [JPL.CmdLineParser (⭐45)](https://github.com/jackdp/JPLib/blob/master/Base/JPL.CmdLineParser.pas). `[Delphi]` `[FPC]` Command-line parser for Delphi and Free Pascal
+*   [TCommandLineReader (⭐31)](https://github.com/benibela/rcmdline). `[Delphi]` `[FPC]` This unit provides an advanced, platform-independent command line parser for Lazarus and Delphi. It checks for allowed options, automatically prints a help with a list of all of them, and - contrary to the parser in the rtl - behaves the same on Windows and Linux.
+*   [CommandLineParser (⭐79)](https://github.com/VSoftTechnologies/VSoft.CommandLineParser). `[Delphi]` Simple Command Line Options Parser - spawned from the DUnitX Project.
+*   [GpCommandLineParser (⭐144)](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). `[Delphi]` Attribute based command line parser.
+*   [JPL.CmdLineParser (⭐48)](https://github.com/jackdp/JPLib/blob/master/Base/JPL.CmdLineParser.pas). `[Delphi]` `[FPC]` Command-line parser for Delphi and Free Pascal
 
 ### Other non-visual
 
@@ -69,12 +69,12 @@
 
 ### RAD Studio IDE plugins/wizards
 
-*   [RADSplit (⭐33)](https://github.com/LaKraven/RADSplit). Dockable Split-Screen Editors for RAD Studio (Delphi and C++ Builder).
-*   [DzNoteEditor (⭐18)](https://github.com/digao-dalpiaz/DzNoteEditor). Delphi Property Editor for TStrings supporting formatted languages with syntax highlight.
+*   [RADSplit (⭐34)](https://github.com/LaKraven/RADSplit). Dockable Split-Screen Editors for RAD Studio (Delphi and C++ Builder).
+*   [DzNoteEditor (⭐20)](https://github.com/digao-dalpiaz/DzNoteEditor). Delphi Property Editor for TStrings supporting formatted languages with syntax highlight.
 
 ### Other
 
-*   [Boss (⭐371)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
+*   [Boss (⭐418)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
 
 ## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

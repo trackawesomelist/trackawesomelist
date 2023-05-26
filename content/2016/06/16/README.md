@@ -94,7 +94,7 @@ git grep --heading --line-number 'foo bar'
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Spinnaker/spinnaker :fire::fire::fire::fire::fire: (⭐8.8k)](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
+*   [Spinnaker/spinnaker :fire::fire::fire::fire::fire: (⭐8.9k)](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
 
 ---
 

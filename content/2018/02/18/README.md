@@ -36,7 +36,7 @@
 
 ### Miscellaneous
 
-*   [GDH (⭐30)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library built on top of Vert.x.
+*   [GDH (⭐29)](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library built on top of Vert.x.
 
 ### Web Frameworks
 

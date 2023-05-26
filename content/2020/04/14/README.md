@@ -41,19 +41,15 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [TEN (⭐28)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
+*   [TEN (⭐31)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
 
 ### Writing, running scripts / Third-party APIs
 
-*   [clawk (⭐43)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
-
-### Command-line options parsers / Third-party APIs
-
-*   [Unix-opts (⭐100)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
+*   [clawk (⭐44)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [replic (⭐30)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
+*   [replic (⭐29)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-ansi-term (⭐23)](https://github.com/vindarel/cl-ansi-term) - print
     colorized text, horizontal lines, progress bars, (un)ordered lists
     and tables on ANSI-compliant terminals. [GPL3](http://www.gnu.org/copyleft/gpl.html).
@@ -67,7 +63,7 @@
 
 ### Date and time / Third-party APIs
 
-*   [periods (⭐26)](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [periods (⭐27)](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [5. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
@@ -80,7 +76,7 @@
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐8.2k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐8.7k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -107,7 +103,7 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [auto-size-transition (⭐8)](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
+*   [auto-size-transition (⭐9)](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
 
 ## [10. Awesome Standard](/content/standard/awesome-standard/README.md)
 

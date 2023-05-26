@@ -58,7 +58,6 @@
 
 *   [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.
 *   [RFC 2631: Diffie-Hellman Key Agreement](https://tools.ietf.org/html/rfc2631) - An explanation of the Diffie-Hellman methon in more engineering terms.
-*   [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf) -  Original paper introducing RSA algorithm.
 *   [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - Rather education explanation of every bit behind RSA.
 *   [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf) - Paper by R. Merkle,   predated "New directions in cryptography" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system.
 *   [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.
@@ -156,17 +155,17 @@
 
 ### Open Source Repos / Accompanying Repos
 
-*   [aws-big-data-blog :fire::fire::fire: (⭐891)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
+*   [aws-big-data-blog :fire::fire::fire: (⭐894)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [jarro2783/cxxopts (⭐3.4k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
+*   [jarro2783/cxxopts (⭐3.6k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
 
 ### Graphics
 
-*   [DirectXTK (⭐2.2k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
+*   [DirectXTK (⭐2.3k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
 
 ## [12. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 

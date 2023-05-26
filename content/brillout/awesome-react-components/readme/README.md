@@ -163,7 +163,7 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 *   [react-data-table (⭐1.8k)](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
 
-*   [react-table (⭐21k)](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
+*   [TanStack Table (⭐21k)](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
 
 *   [react-table-library (⭐541)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
 
@@ -177,7 +177,7 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 
 *   [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
-*   [Material-React-Table (⭐618)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+*   [Material-React-Table (⭐657)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 
 *   [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
@@ -693,7 +693,7 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [grommet (⭐8.2k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
 *   [Mantine (⭐19k)](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 *   [orbit (⭐1.3k)](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
-*   [flowbite-react (⭐916)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐981)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 *   [primereact (⭐3.8k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-bootstrap (⭐22k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
@@ -902,6 +902,7 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [crisp-react (⭐167)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 *   [cra-template-redux-auth-starter (⭐36)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 *   [electron-react-boilerplate (⭐21k)](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
+*   [elegant (⭐15)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 *   [generator-starhackit (⭐1.3k)](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 *   [nwb (⭐5.5k)](https://github.com/insin/nwb) - CLI tool and devDependency for React apps & components and npm modules.
 *   [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
@@ -941,7 +942,7 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [react-localized (⭐8)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 *   [react-translate-maker (⭐35)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 *   [react-intl-universal (⭐1.3k)](https://github.com/alibaba/react-intl-universal) - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
-*   [@tolgee/react (⭐183)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+*   [@tolgee/react (⭐187)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 *   [js-lingui (⭐3.7k)](https://github.com/lingui/js-lingui) - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 
 ### Framework bindings / integrations
@@ -1043,7 +1044,6 @@ Please review our [contributing guidelines (⭐35k)](https://github.com/brillout
 *   [component-controls (⭐75)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
 *   [cosmos-js (⭐7.8k)](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
 *   [react-demo-tab-cli (⭐51)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
-*   [react-heatpack (⭐352)](https://github.com/insin/react-heatpack) - A 'heatpack' command for quick React development with webpack hot reloading.
 *   [react-styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 *   [standard-react (⭐28k)](https://github.com/feross/standard) - JavaScript Standard Style Guide.
 *   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.

@@ -28,7 +28,7 @@
 
 ### Machine Learning and Data Science
 
-*   [Accord.NET Extensions (⭐333)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
+*   [Accord.NET Extensions (⭐334)](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -36,7 +36,7 @@
 
 *   [Bootstrappers (⭐312)](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
 *   [Hobo (⭐103)](https://github.com/Hobo/hobo) - The web app builder for Rails.
-*   [orats (⭐673)](https://github.com/nickjj/orats) - Opinionated rails application templates.
+*   [orats (⭐670)](https://github.com/nickjj/orats) - Opinionated rails application templates.
 *   [Rails Composer (⭐3.4k)](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
 *   [Raygun (⭐211)](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 *   [Suspenders (⭐3.9k)](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
@@ -47,7 +47,7 @@
 
 ### Third-party APIs
 
-*   [gmail (⭐382)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
+*   [gmail (⭐384)](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 
 ---
 

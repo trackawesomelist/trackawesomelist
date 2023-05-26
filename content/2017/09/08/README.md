@@ -10,13 +10,13 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐1.8k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐1.9k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [2. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Testing Utils
 
-*   [Preact Test Utils (⭐7)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
+*   [Preact Test Utils (⭐8)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -31,10 +31,6 @@
 *   [shields.io](https://shields.io) — Quality metadata badges for open source projects
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Articles & Posts
-
-*   [Why moonlighting will change your career](https://blog.landing.jobs/why-moonlighting-will-change-your-career-7e8aac3dc25f)
 
 ### Job boards aggregators
 

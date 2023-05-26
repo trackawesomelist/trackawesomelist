@@ -51,7 +51,7 @@
 
 ### Open Source Repos / Elastic Compute Cloud
 
-*   [alestic/ec2-consistent-snapshot :fire::fire: (⭐443)](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
+*   [alestic/ec2-consistent-snapshot :fire::fire: (⭐441)](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
 
 ## [7. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

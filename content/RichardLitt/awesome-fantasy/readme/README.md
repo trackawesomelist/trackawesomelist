@@ -2,7 +2,7 @@
 
 :european_castle: Fantasy literature worth reading
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1.1K · 🏷️ Entertainment
 
 [ [Daily](/content/RichardLitt/awesome-fantasy/README.md) / [Weekly](/content/RichardLitt/awesome-fantasy/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome (⭐243k)](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi (⭐3.7k)](https://github.com/sindresorhus/awesome-scifi).*
+*Inspired by the [awesome (⭐251k)](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi (⭐3.7k)](https://github.com/sindresorhus/awesome-scifi).*
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/README.md/contributing.md) before contributing.*
 
@@ -922,6 +922,12 @@ Beautiful and stunning film with strong female characters. Even if you're not fa
 
 > On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
 
+#### [Puss in Boots: The Last Wish](https://www.imdb.com/title/tt3915174/) \[7.9]
+
+A fun and thrilling sequel, I enjoyed this adventure of found family and figuring out what you want is already with you. Great cast of characters and villains, this movie makes good use of the motivations they all have. - \[@Shadowsarespooky] (<https://github.com/Shadowsarespooky>)
+
+> When Puss in Boots discovers that his passion for adventure has taken its toll and he has burned through eight of his nine lives, he launches an epic journey to restore them by finding the mythical Last Wish.
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) \[6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
@@ -982,7 +988,7 @@ It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is f
 
 ## TV Series
 
-#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) \[9.2]
+#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) (2005-2008) \[9.2]
 
 Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -994,43 +1000,43 @@ Reimagining of the Lady in the Lake with young King Arthur and Merlin by the leg
 
 > "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
 
-#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) \[9.5] :star2:
+#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) (2011-2019) \[9.5] :star2:
 
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
 
-#### [Good Omens](https://m.imdb.com/title/tt1869454/) \[8.2]
+#### [Good Omens](https://m.imdb.com/title/tt1869454/) (2019-2023) \[8.2]
 
 A great comedic mini-series with perfect casting wonderfully depicting the motifs of Gaiman and Pratchett's novel with the same name. - [@Djolo1802](https://github.com/djolo1802)
 
 > A tale of the bungling of Armageddon features an angel, a demon, an eleven-year-old Antichrist, and a doom-saying witch.
 
-#### [His Dark Materials](https://www.imdb.com/title/tt5607976/) \[7.9]
+#### [His Dark Materials](https://www.imdb.com/title/tt5607976/) (2019-2022) \[7.9]
 
 Excellent tv show. I love the books and I thought the adaptation was really good. - [@staelsabrina](https://github.com/staelsabrina)
 
 > A young girl is destined to liberate her world from the grip of the Magisterium which represses people's ties to magic and their animal spirits known as daemons.
 
-#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-ongoing) \[8.2]
+#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-2021) \[8.2]
 
 I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems HELL-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
 
 > Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
 
-#### [Outlander](https://www.imdb.com/title/tt3006802/) \[8.4]
+#### [Outlander](https://www.imdb.com/title/tt3006802/) (2014-ongoing) \[8.4]
 
 Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
 > An English combat nurse from 1945 is mysteriously swept back in time to 1743.
 
-#### [Supernatural](https://www.imdb.com/title/tt0460681/) \[8.4]
+#### [Supernatural](https://www.imdb.com/title/tt0460681/) (2005-2020) \[8.4]
 
 Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
 > Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
 
-#### [The Originals](https://www.imdb.com/title/tt2632424) \[8.2]
+#### [The Originals](https://www.imdb.com/title/tt2632424) (2013-2018) \[8.2]
 
 The Originals may overwhelm casual viewers with its myriad twists and bevy of supernatural beings, but this a sleek, atmospheric Vampire Diaries spinoff with potential. - [@TREXXX27](https://github.com/TREXXX27)
 
@@ -1047,6 +1053,12 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
+
+#### [Shadow and Bone](https://www.imdb.com/title/tt2403776/) (2021-2023) \[7.6]
+
+Shadow and Bone is one of the better fantasy shows to come out in the last few years. While it's not the best, it's up there! The show got me hooked from the first episode and I was pleasantly surprised by how much I enjoyed it. It has a little of something for everyone...fantasy, humor, action, drama, romance, etc. While it does take a few episodes to really get going, stay with it because it's worth it! If you like fantasy then give this show a chance, you won't be disappointed! [@Evy04](https://github.com/Evy04)
+
+> Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.
 
 ***
 

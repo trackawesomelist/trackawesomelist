@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2020
 
-25 awesome lists updated today.
+24 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,19 +10,19 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Godot (⭐57k)](https://github.com/godotengine/godot) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
+*   [Godot (⭐60k)](https://github.com/godotengine/godot) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Business
 
-*   [Social Enterprise (⭐53)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+*   [Social Enterprise (⭐59)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
-*   [2FAuth (⭐750)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
+*   [2FAuth (⭐829)](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`
 
 ## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -83,8 +83,8 @@
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo (⭐66k)](https://github.com/sveltejs/svelte)
-*   [Changelog (⭐66k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
+*   [GitHub Repo (⭐67k)](https://github.com/sveltejs/svelte)
+*   [Changelog (⭐67k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
 
 ### Community
 
@@ -110,19 +110,19 @@
 
 ### UI Libraries
 
-*   [carbon-components-svelte (⭐2k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
+*   [carbon-components-svelte (⭐2.1k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 
 ### Notification
 
-*   [svelte-favicon-badge (⭐95)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
+*   [svelte-favicon-badge (⭐98)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
 ### Calendar
 
-*   [svelte-calendar (⭐485)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+*   [svelte-calendar (⭐498)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 ### Docs / Checkbox
 
-*   [svelte-docs (⭐159)](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components.
+*   [svelte-docs (⭐163)](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components.
 
 ### Test / Checkbox
 
@@ -134,13 +134,13 @@
 
 ### Editors / Vim
 
-*   [vim-svelte (⭐273)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+*   [vim-svelte (⭐281)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 
 ## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Social Media
 
-*   [kirc (⭐504)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+*   [kirc (⭐508)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ## [14. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Gesture
 
-*   [Tactile (⭐715)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
+*   [Tactile (⭐713)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 
 ## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -182,7 +182,7 @@
 ### Deep Learning / Others
 
 *   [Tangent (⭐2.3k)](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
-*   [autograd (⭐6.2k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
+*   [autograd (⭐6.3k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 *   [Myia (⭐456)](https://github.com/mila-udem/myia) - Deep Learning framework (pre-alpha).
 *   [nnabla (⭐2.6k)](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 *   [Caffe (⭐33k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
@@ -192,27 +192,27 @@
 
 ### IOC/DI
 
-*   [DryIoc (⭐779)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
+*   [DryIoc (⭐861)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 
 ## [21. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Chart
 
-*   [react-muze (⭐15)](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
+*   [react-muze (⭐16)](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 
 ### Form Components / Select
 
-*   [react-functional-select (⭐181)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
+*   [react-functional-select (⭐189)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
 
 ## [22. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-env-notice (⭐257)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
+*   [django-admin-env-notice (⭐274)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 
 ### Third-Party Packages / Search Engine Optimisation
 
-*   [django-check-seo (⭐113)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
+*   [django-check-seo (⭐124)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
 ## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -220,50 +220,23 @@
 
 *   [Gooba](https://goobapp.com/) - Writing app and task manager with a simple and interactive design.
 
-## [24. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Flutter / Phoenix
-
-*   [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)
-
-### Haskell / Spock Framework
-
-*   [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - Stephen Diehl (PDF)
-
-### HTML and CSS / Spock Framework
-
-*   [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
-*   [Magic of CSS](https://adamschwartz.co/magic-of-css/) - Adam Schwartz (HTML) (:construction: *in process*)
-
-### PHP / PicoLisp
-
-*   [Clean Code PHP (⭐11k)](https://github.com/jupeter/clean-code-php)
-
-### PHP / Symfony
-
-*   [Symfony 5: The Fast Track](https://symfony.com/doc/5.0/the-fast-track/en/index.html)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)
-
-## [25. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [24. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Nautilus Terminal (⭐294)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Nautilus Terminal (⭐298)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ### Windows / Design Tooling
 
-*   [Coverflow Alt-Tab (⭐307)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+*   [Coverflow Alt-Tab (⭐315)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio / Design Tooling
 
-*   [Application Volume Mixer (⭐86)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
+*   [Application Volume Mixer (⭐90)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
 
 ### Visual Changes / Design Tooling
 
-*   [Transparent Shell (⭐13)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
+*   [Transparent Shell (⭐14)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
 
 ---
 

@@ -6,100 +6,7 @@
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Knowledge Management
-
-*   [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification)].
-
-## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
-
-### Network
-
-*   [MasterQ32/zig-network (⭐246)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
-*   [dantecatalfamo/zig-dns (⭐50)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
-
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
-
-### Security
-
-*   [teler-waf (⭐115)](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
-
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / Managed File Transfer
-
-*   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - Securely support all file transfer use cases from a single, centrally managed MFT platform.
-
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Design and Product / Screencapturing Software
-
-*   [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
-
-### Browsers / File Sharing
-
-*   [ungoogled-chromium (⭐16k)](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. \[![Open-Source Software](https://github.com/ungoogled-software/ungoogled-chromium)[OSS Icon](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Pirated software download site blacklist / Package Managers
-
-*   Appstorrent：~~`http://appstorrent.ru/`~~
-
-## [6. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
-
-### Resources / Other
-
-*   [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
-
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
-
-### Templates / React
-
-*   [leo-react-app (⭐2)](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
-
-### Framework-agnostic Plugins / Integrations
-
-*   [vite-plugin-graphql-server (⭐3)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
-
-### Framework-agnostic Plugins / Helpers
-
-*   [vite-plugin-auto-alias (⭐2)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
-
-### Open Source / Community
-
-*   [Compiiile (⭐73)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
-
-## [8. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Avatars
-
-- Name: [DreamPic](http://dreampic.ai)
-
-  Title: Dreampic.Ai.
-
-  Description: AI Generated Pictures Starring You.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [HeroPack](http://www.heropack.me)
-
-  Title: Heropack.
-
-  Description: Become a Hero with AI generated avatars inspired by your favorite video games.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Magic AI Avatars](http://magicaiavatars.com)
-
-  Title: .
-
-  Description: Get 200+ custom avatars made by artificial intelligence.
-
-  Offer Free Version: :grey\_question:
-
-
+## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Content Generation & Seo
 
@@ -108,138 +15,6 @@
   Title: Seo Content Optimization Software - Dashword.
 
   Description: Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow your organic traffic.
-
-  Offer Free Version: :x:
-
-
-
-### Customer Support
-
-- Name: [ResolveAI](http://resolveai.co)
-
-  Title: Resolveai.
-
-  Description: Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real-time.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Email Assistant
-
-- Name: [Quicklines](http://www.quicklines.ai)
-
-  Title: Quicklines Lifetime Access - Only $59.
-
-  Description: Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform.
-
-  Offer Free Version: :x:
-
-
-- Name: [Recruiting Emails AI by Dover](http://recruitingemails.ai)
-
-  Title: Dover - Generate Customized Recruiting Emails.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [superReply](http://superreply.co)
-
-  Title: Upgrade Your Email Game.
-
-  Description: The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Fashion
-
-- Name: [FashionAdvisorAI](http://www.fashionadvisorai.com)
-
-  Title: Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai.
-
-  Description: FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Gaming
-
-- Name: [charisma](https://charisma.ai/)
-
-  Title: Power Real-Time Digital Humans.
-
-  Description: For Games • Metaverses • VR • Education • TV & Film • Publishing and beyond!.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [hidden door](https://www.hiddendoor.co/)
-
-  Title: Hello, Worlds!.
-
-  Description: A new kind of social roleplaying experience, powered by narrative AI.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Gift Ideas
-
-- Name: [Elf Help](http://www.elfhelp.ai)
-
-  Title: Elf Help.
-
-  Description: Need some inspo for your holiday gifting? Elf help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [GiftBot](http://www.getgift.help)
-
-  Title: Get Gift Help.
-
-  Description: Struggling to figure out what to get someone for the holidays? GiftBot asks you questions to help recommend gift ideas!.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Human Resources & Resume
-
-- Name: [LazyApply](http://lazyapply.com)
-
-  Title: Automate Your Job Application Process.
-
-  Description: We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter.
-
-  Offer Free Version: :x:
-
-
-
-### Sales & Marketing
-
-- Name: [Octie.ai](http://octie.ai)
-
-  Title: Octie.Ai - Your A.I. Ecommerce Marketing Assistant.
-
-  Description: Write emails, product descriptions, and more, with A.I. Created by Octane AI.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Translation & Transcript
-
-- Name: [Scribebuddy](http://secure.scribebuddy.com)
-
-  Title: .
-
-  Description: Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More in Minutes.
 
   Offer Free Version: :x:
 
@@ -257,6 +32,65 @@
 
 
 
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Knowledge Management
+
+*   [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification)].
+
+## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+### Network
+
+*   [MasterQ32/zig-network (⭐282)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
+*   [dantecatalfamo/zig-dns (⭐50)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
+
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Security
+
+*   [teler-waf (⭐154)](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
+
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+### Projects / Managed File Transfer
+
+*   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - A centrally managed MFT platform with powerful automation capabilities and advanced security features, capable of supporting all file transfer use cases. It is an ideal choice for businesses that require a comprehensive MFT solution.
+
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Design and Product / Screencapturing Software
+
+*   [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
+
+### Pirated software download site blacklist / Package Managers
+
+*   Appstorrent：~~`http://appstorrent.ru/`~~
+
+## [7. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+
+### Resources / Other
+
+*   [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
+
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [leo-react-app (⭐2)](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-graphql-server (⭐5)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-auto-alias (⭐3)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
+
+### Open Source / Community
+
+*   [Compiiile (⭐79)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
+
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
@@ -265,13 +99,13 @@
 
 ### Integrations
 
-*   [NextJS + tailwind + keycloak integration (⭐3)](https://github.com/santiblanko/keycloak-nextjs-auth)
+*   [NextJS + tailwind + keycloak integration (⭐4)](https://github.com/santiblanko/keycloak-nextjs-auth)
 *   [Vault Keycloak Plugin (⭐4)](https://github.com/Serviceware/vault-plugin-secrets-keycloak)
 *
 
 ### Themes
 
-*   [TailwindUI theme (⭐6)](https://github.com/santiblanko/tailwind-keycloak-theme)
+*   [TailwindUI theme (⭐10)](https://github.com/santiblanko/tailwind-keycloak-theme)
 
 ## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -283,7 +117,7 @@
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
-*   [Matcha - Daily RSS Digest (⭐72)](https://github.com/piqoni/matcha) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)
+*   [Matcha - Daily RSS Digest (⭐242)](https://github.com/piqoni/matcha) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)
 
 ## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -299,11 +133,11 @@
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   \[🔥] [weihaox/awesome-gan-inversion (⭐900)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+*   \[🔥] [weihaox/awesome-gan-inversion (⭐945)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
-### Inbox: Video AI tools / Text-related Generative Tools
+### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐101)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐131)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 
 ### People and works / Artists and Artworks
 
@@ -323,7 +157,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.move (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
+*   [echasnovski/mini.nvim#mini.move (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
 
 ---
 

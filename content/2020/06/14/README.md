@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,65 +12,71 @@
 
 *   [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
 
-## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Data Sources
+
+*   [yliveticker (⭐117)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
+
+## [3. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Libraries
 
 *   [seed-icons](https://crates.io/crates/seed-icons) - Library with collections of icons to include in Seed-based application.
 
-## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Admin
 
-*   [impostor (⭐142)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐145)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
-## [4. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
-*   [tmux-power (⭐324)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐349)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐364)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐377)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
-## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Boilerplate / Other Tools
 
 *   [FastAPI Nano (⭐576)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
-*   [crystal-mqtt (⭐16)](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
+*   [crystal-mqtt (⭐17)](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
 
-## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Tutorials / Terraform
 
 *   [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 
-## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
 *   [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [tldr (⭐667)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 
-## [10. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
+## [11. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 
 ### Tutorials
 
 *   [Vagrant Online Courses at Classpert](https://classpert.com/vagrant) List of Vagrant Online Courses (free and paid)
 
-## [11. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
+## [12. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
 
 ### Commercial integrations
 

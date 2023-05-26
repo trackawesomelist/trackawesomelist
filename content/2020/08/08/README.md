@@ -28,7 +28,7 @@
 
 ### QA Tools / Runner
 
-*   [husky (⭐28k)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+*   [husky (⭐29k)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
 
 ### Modals and Popups / Other
 
@@ -44,7 +44,7 @@
 
 ### Software / Feed Readers
 
-*   [reader (⭐282)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+*   [reader (⭐295)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

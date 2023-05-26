@@ -10,7 +10,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [RacketScript (⭐10)](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
+*   [RacketScript (⭐11)](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
 
 ## [2. Awesome](/content/craftcms/awesome/README.md)
 

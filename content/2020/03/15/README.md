@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2020
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -74,12 +74,6 @@
 ### 2014
 
 *   [Mark Stuart: **Paypal: Web Security in Node.js and Javascript Apps (SPAs)**](http://youtu.be/vE5kCqwoSUg) \[29:11]
-
-## [7. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Customer Support
-
-*   [Support Driven Jobs](https://jobs.supportdriven.com/)
 
 ---
 

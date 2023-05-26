@@ -79,7 +79,7 @@
 
 ### Async
 
-*   [LinqToAwait ★99 (⭐112)](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
+*   [LinqToAwait ★99 (⭐114)](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
 
 ### MVVM
 
@@ -87,7 +87,7 @@
 
 ### UI
 
-*   [Essential UI Kit ★130 (⭐981)](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
+*   [Essential UI Kit ★130 (⭐1k)](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 
 ## [7. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 

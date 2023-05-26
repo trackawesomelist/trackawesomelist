@@ -16,7 +16,7 @@
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [OWASP Mobile Security Testing Guide (⭐9.5k)](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
+*   [OWASP Mobile Security Testing Guide (⭐10k)](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -29,7 +29,7 @@
 ### Foundations of Mathematics / Logic
 
 *   [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
-*   [Language, Proof, and Logic](http://homepages.uc.edu/\~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
+*   [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
 
 ### Algebra / Group Theory
 
@@ -37,22 +37,22 @@
 
 ### Algebra / Linear Algebra
 
-*   [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/\~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
+*   [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 
 ### Analysis / Real Analysis
 
 *   [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
-*   [Modern Real Analysis](http://www.math.purdue.edu/\~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
+*   [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
 
 ### Analysis / Complex Analysis
 
-*   [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/\~marshall/math_536/Notes.pdf) - Donald E. Marshall
+*   [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Scheduling
 
-*   [schedule.cr (⭐70)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+*   [schedule.cr (⭐72)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐373)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐390)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

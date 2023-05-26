@@ -263,7 +263,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Pipes / Components
 
-*   [angular2-camelcase (⭐2)](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
+*   [angular2-camelcase (⭐3)](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
 
 ### Cordova Seed Projects / Components
 

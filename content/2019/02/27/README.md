@@ -172,11 +172,11 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐642)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐675)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐493)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐515)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### UITableView / Barcode
 
@@ -216,7 +216,7 @@
 
 ### Metadata
 
-*   [libadm (⭐26)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
+*   [libadm (⭐28)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 
 ### Multimedia content processing
 
@@ -293,12 +293,12 @@
 
 ### Front-End Development
 
-*   [CSS (⭐4.3k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.4k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-    *   [Must-Watch Talks (⭐4.4k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
+    *   [Must-Watch Talks (⭐4.5k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐25k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐5.9k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐6.1k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 

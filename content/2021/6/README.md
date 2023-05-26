@@ -22,7 +22,7 @@
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐587)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐685)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐171)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
+*   [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code (⭐173)](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -149,10 +149,16 @@
 
 ### Loader
 
-*   [react-spinners (⭐2.5k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+*   [react-spinners (⭐2.6k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 *   [react-content-loader (⭐13k)](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
-## [11. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [11. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Development Tools
+
+*   [create-react-app (⭐100k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+
+## [12. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra Data Modeling / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -206,83 +212,83 @@
 
 *   [Tuning the Spark Cassandra Connector](https://www.slideshare.net/DataStax/maximum-overdrive-tuning-the-spark-cassandra-connector-russell-spitzer-datastax-c-summit-2016) - Slides by Russell Spitzer maintainer of the Spark Cassandra connector.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Presentations slides / Others
 
 *   [Using .NET 5 with the Raspberry Pi](https://www.slideshare.net/PGallagher69/using-net-5-with-the-raspberry-pi) - January 28, 2021 - Using .NET 5 with the Raspberry Pi, on Slideshare.
 
-## [13. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [14. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Academic Papers and Material / Third Party Hosts
 
 *   [LibGen](https://libgen.fun/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [Forest (⭐525)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+*   [Forest (⭐542)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools (⭐357)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐392)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
-## [15. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [16. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
 *   [Audi A2D2 Dataset](https://www.a2d2.audi) - The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data.
     *   [Paper :newspaper:](https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf)
 
-## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [17. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Applications / Web
 
 *   [Builder Book App (⭐3.5k)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
 
-## [17. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [18. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
 *   [Databunker](https://databunker.org/) - API based personal data or PII storage service built to comply with GDPR and CCPA.
 
-## [18. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [19. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [Vitesse (⭐6.9k)](https://github.com/antfu/vitesse) - Opinionated starter template.
-*   [vite-ts-tailwind-starter (⭐292)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+*   [Vitesse (⭐7.4k)](https://github.com/antfu/vitesse) - Opinionated starter template.
+*   [vite-ts-tailwind-starter (⭐312)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-rsw (⭐319)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
-*   [vite-imagetools (⭐485)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+*   [vite-plugin-rsw (⭐333)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
+*   [vite-imagetools (⭐577)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 ### React / Framework
 
-*   [vite-plugin-react-pages (⭐328)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+*   [vite-plugin-react-pages (⭐354)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-image (⭐3.1k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-*   [@rollup/plugin-strip (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
+*   [@rollup/plugin-image (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+*   [@rollup/plugin-strip (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
 
 ### Apps/Websites / Community
 
 *   [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [LogChimp (⭐410)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
+*   [LogChimp (⭐434)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ### Components & Libraries / UI Components
 
-*   [oh-vue-icons (⭐191)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
+*   [oh-vue-icons (⭐198)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
-## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -302,7 +308,7 @@
 *   [Laravel YouTube Channel](https://www.youtube.com/channel/UCfO2GiQwb-cwJTb1CuRSkwg) - The official Laravel YouTube channel.
 *   [SymfonyCasts](https://symfonycasts.com/) - Screencasts and tutorials about PHP and Symfony.
 
-## [21. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [22. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Containers
 
@@ -320,7 +326,7 @@
 
 *   [SXA.Platform.Assemblies (⭐0)](https://github.com/konabos/SXA.Platform.Assemblies) - the lists of assemblies for SXA back to v1.6 and Powershell script to generate your own.
 
-## [22. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [23. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -346,39 +352,34 @@
 
 *   [Addressing the NoSQL Criticism (2011)](https://www.bradley-holt.com/2011/07/addressing-the-nosql-criticism/) - Argues against nine criticisms to NoSQL databases as they apply to CouchDB, but may apply to others as well.
 
-## [23. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [24. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Games Showcase
 
 *   [Games made with Construct](https://www.madewithconstruct.com/) - A website that list all the games made with the engine.
 
-## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [25. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Shaders (⭐2k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
+*   [Godot Shaders (⭐2.1k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 
-## [25. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [26. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
-*   [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube (⭐54)](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
 *   [DAT](https://datproject.org) decentralized file system with live replication
-*   The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.[Redecentralise Video interview](http://redecentralize.org/#interviews)
 *   [IPFS](https://ipfs.io) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS is an open source project developed by the team at Interplanetary Networks and many contributors from the open source community.
 *   [ownCloud](http://www.owncloud.org/) is personal cloud software with a focus on ease of use and syncing, mobile clients and a wide range of applications.
 *   [Perkeep (was Camlistore)](http://perkeep.org/) is your personal storage system for life. It is an acronym for "Content-Addressable Multi-Layer Indexed Storage" and could be described as "Like git for all content in your life"
 *   [Seafile](http://seafile.com) is a cloud software similar to owncloud, with clients for Windows, Mac, Linux, Android and iOS. Server for Linux and Raspberry Pi.
 *   [Sia](https://sia.tech) is the leading decentralized cloud storage platform. No signups, no servers, no trusted third parties. Sia leverages blockchain technology to create a data storage marketplace that is more robust and more affordable than traditional cloud storage providers. Instead of using a centralized provider, peers on Sia rent storage from each other. Sia itself stores only the storage contracts formed between parties, using a Bitcoin-style blockchain.
-*   [Swarm](https://swarm.ethereum.org) is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack. It uses the ethereum economy to incentivize P2P storage.
 *   [Tahoe-LAFS](https://tahoe-lafs.org) is a Free and Open cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire filesystem continues to function correctly, preserving your privacy and security.
 *   [Thali](http://thaliproject.org/) is an open source personal data store that syncs across one or more of your devices, and (selectively, via one or more apps) to one or more more trusted peers. Data store: Couchbase Lite (open source, NoSQL, multi-master sync). Trust model: public key exchange, mutual SSL authentication. Network transport: HTTPS. P2P mechanisms: local/ad-hoc, or Tor (using hidden services).
-*   [VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.
 
 ### Cryptocurrencies and markets
 
 *   [BitCoin](http://bitcoin.org/en/) is a digital currency, a protocol, and a software that enables it. Decentralized crypto-currency
-*   [Bitmarkets (⭐110)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
 *   [Bitsquare](https://bitsquare.io) Bitsquare is a decentralized bitcoin exchange. It supports national currencies (fiat) with a variety of payment methods as well as alternative cryptocurrencie
 *   [Ethereum](https://ethereum.org/) is an enhanced cryptocurrency with support for Next-Generation Generalized Smart Contract and Smart Property.
 *   [PeerCoin/PPCoin](http://ppcoin.org/) is the first known cryptocurrency based on an implementation of a combined proof-of-stake/proof-of-work system
@@ -387,19 +388,15 @@
 
 *   [jIO](http://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages, in a modular way, such as LocalStorage, WebDAV, Amazon S3, you name it.
 *   [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
-*   [OpenDHT (⭐906)](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
-*   [P (⭐406)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
+*   [OpenDHT (⭐919)](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
 *   [Shark](http://sharksystem.net/) is an open source framework for building semantic P2P applications in Java. It facilitates building decentralized application based on the notion of ontologies. The name is an acronym for 'Shared Knowledge'.
-*   [Streisand (⭐23k)](https://github.com/jlund/streisand) sets up a new server running L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, or fellow activists.
 
 ### Messaging
 
-*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐296)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐519)](https://github.com/cabal-club/cabal), a [desktop client (⭐775)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐147)](https://github.com/cabal-club/cabal-mobile).
+*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐299)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐517)](https://github.com/cabal-club/cabal), a [desktop client (⭐784)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐147)](https://github.com/cabal-club/cabal-mobile).
 *   [Delta Chat](https://delta.chat) is a free software chat application and ecosystem based on IMAP and SMTP, which leverages end-to-end encryption via [autocrypt](https://autocrypt.org/). It piggybacks on top of the huge, already existing email infrastructure. All you need to get started is an email address. There's a client for Android and clients for iOS and desktop in the works. Follow the development on the [GitHub page](https://github.com/deltachat).
 *   [Meshtastic](https://www.meshtastic.org) as an open-source extendable mesh communication and location sharing device.  Based on off-the-shelf $30 modules from various vendors, 8 day battery life. Good for skiers, hikers, protestors, finding lost kids, etc...
-*   [OTRTalk (⭐49)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
 *   [PrivMX WebMail](https://privmx.com) is an alternative private mail system with independent, decentralized PKI and support for end-to-end encrypted web forms.
-*   [Quietnet (⭐2.9k)](https://github.com/Katee/quietnet) is a simple chat program using near ultrasonic frequencies. It works without Wi-Fi or Bluetooth and cannot be eavesdropped using conventional network capturing methods.
 *   [RetroShare](http://retroshare.sourceforge.net/) is an open source, decentralised communication platform. It lets you chat and share with friends and family, with a web-of-trust to authenticate peers.
 *   [Scramble](https://dcposch.github.io/scramble/) is easy-to-use, open source encrypted email. Scramble server has no knowledge of the message contents, since encryption is always performed end-to-end on the clients. Public keys are verified using a fedetared trust model based on multiple independent notaries.
 *   [Starkit](http://www.starkitsystems.com/) is a private cloud plug-n-play secure email server for private communication allowing you the benefits of secure email as soon as you turn it on. Bundled with Web-based interface for anywhere access. Apart from a Secure Mail Server You can use Starkit as your Secure Private Cloud storage to save important documents, photos and videos and access your stuff from anywhere. Requires zero maintenance.
@@ -430,9 +427,9 @@
 *   [PPNet (⭐118)](https://github.com/pixelpark/ppnet) is a middleware that can be used to create a social network, either temporarily or permanently for a group of users. Includes mobile client for Android.
 *   [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 *   [Synereo](http://www.synereo.com/) is an open source, decentralized **social network**. It is an **attention economy** that rewards popular content and participation with crypto-currency. Content is promoted or advertised in a way that fairly rewards the content's creator and those who choose to engage with that content. An automatic and transparent **reputation economy** assures that you experience content relevant to you. The privacy of your communications and contacts is baked-in to the structure of the network. Synereo is modeled in [π-calculus](https://en.wikipedia.org/wiki/%CE%A0-calculus) and functionally programmed in Scala.
-*   [Tonika](http://pdos.csail.mit.edu/\~petar/5ttt.org/) is a (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
+*   [Tonika](http://pdos.csail.mit.edu/~petar/5ttt.org/) is a (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
 *   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐174)](https://github.com/TrsstProject/trsst).
-*   [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service (⭐1.4k)](https://github.com/miguelfreitas/twister-core) or [HTML UI (⭐227)](https://github.com/miguelfreitas/twister-html)!
+*   [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service (⭐1.4k)](https://github.com/miguelfreitas/twister-core) or [HTML UI (⭐230)](https://github.com/miguelfreitas/twister-html)!
 *   [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
 
 ### Telephony
@@ -443,7 +440,19 @@
 
 *   [Smallest Federated Wiki](http://wardcunningham.github.io/) innovates in three ways. It shares through federation, composes by refactoring and wraps data with visualization. The project aims to demonstrate that wiki would have been better had it been effectively federated from the beginning, and explore federation policies necessary to sustain an open creative community.
 
-## [26. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+### Dead
+
+*   [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube (⭐54)](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
+*   The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.[Redecentralise Video interview](http://redecentralize.org/#interviews)
+*   [Swarm](https://swarm.ethereum.org) is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack. It uses the ethereum economy to incentivize P2P storage.
+*   [VirtKick](https://www.virtkick.io/) is your self-hosted DigitalOcean. Take cloud back to your computer, home network or a dedicated server. Manage virtual machines, Docker containers and create 1-click apps.
+*   [Bitmarkets (⭐110)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
+*   [P (⭐407)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
+*   [Streisand (⭐23k)](https://github.com/jlund/streisand) sets up a new server running L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, or fellow activists.
+*   [OTRTalk (⭐49)](https://github.com/mnaamani/otrtalk) Is a command line based chat application, uses BitTorrent P2P DHT Network for peer discovery and OTR (Off the Record) for secure messaging.
+*   [Quietnet (⭐2.9k)](https://github.com/Katee/quietnet) is a simple chat program using near ultrasonic frequencies. It works without Wi-Fi or Bluetooth and cannot be eavesdropped using conventional network capturing methods.
+
+## [27. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Tools / Binary
 
@@ -453,19 +462,19 @@
 
 *   [CI Fuzz](https://code-intelligence.com) - A CI/CD-agnostic platform for feedback-based fuzz testing of both native applications and Java web apps.
 
-## [27. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [28. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Build & Development / Navigation Demos
 
 *   [react-native-react-bridge (⭐109)](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 
-## [28. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [29. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### People Doing Open Source Work / Hardware related
 
 *   [Bailey Burnsed](https://www.patreon.com/BaileyBurnsed) - FOSS Nerd developing open source games in Godot and Rust
 
-## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Scheduling
 
@@ -475,7 +484,7 @@
 
 *   [Dash (⭐18k)](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. Built on top of plotly, no JS required
 
-## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Web frameworks / Isomorphic web frameworks
 
@@ -486,9 +495,9 @@
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐240)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐251)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
-## [31. Awesome Italy Events](/content/ildoc/awesome-italy-events/week/README.md)
+## [32. Awesome Italy Events](/content/ildoc/awesome-italy-events/week/README.md)
 
 ### January
 
@@ -525,13 +534,13 @@
 
 *   27-28 - [ItaliaSec](https://italy.cyberseries.io/) - Milano - This groundbreaking summit is designed for senior security leaders.
 
-## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Python
 
 *   [20 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
 
-## [33. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -575,49 +584,49 @@
 
 
 
-## [34. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [35. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Tutorials and Examples
 
 *   [Modern systems programming with scala native](https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/) book.
 
-## [35. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [36. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Forms
 
 *   [Static Forms](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server side code. After user submits the form we'll send you content of the form to your registered email.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
-*   [C++ Workflow (⭐10k)](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
+*   [C++ Workflow (⭐11k)](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
 
-## [37. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [38. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Web Hosting
 
 *   [Digital Ocean](https://www.digitalocean.com) \[CREDIT] - Digital Ocean provides $100 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
 
-## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [SwiftPlantUML (⭐398)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
+*   [SwiftPlantUML (⭐434)](https://github.com/MarcoEidinger/SwiftPlantUML) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
 
-## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### GUI
 
-*   [Ruby-GNOME (⭐358)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
+*   [Ruby-GNOME (⭐365)](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Hub (⭐5.3k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
+*   [Hub (⭐5.8k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch. Stream & version-control data. Store even petabyte-scale data in a single numpy-like array on the cloud accessible on any machine. Visit [activeloop.ai](https://activeloop.ai) for more info.
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
@@ -628,7 +637,7 @@
 *   [Bump](https://bump.email/) - Free 10 Bump email addresses, 1 custom domain
 *   [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
 
-## [42. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [43. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
@@ -640,7 +649,7 @@
 *   [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
 *   [Trello](https://www.trello.com) - Free Team Project Board
 
-## [43. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [44. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Official resources
 
@@ -679,7 +688,7 @@
 
 *   [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
 
-## [44. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [45. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Books
 
@@ -688,43 +697,6 @@
 ### Questions
 
 *   [ocephes (⭐12)](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special functions library.
-
-## [45. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Tools / React Starter Kits and Toolchains
-
-*   [create-react-app (⭐98k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
-*   [react-starter-kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
-*   [create-react-library (⭐4.7k)](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable, modern React libraries using Rollup and create-react-app.
-
-### React Tools / Autocomplete
-
-*   [react-autocomplete by @rackt (⭐2.2k)](https://github.com/rackt/react-autocomplete) - WAI-ARIA compliant React autocomplete (Archived, read-only)
-
-### React Tools / Maps
-
-*   [google-maps-react (⭐1.6k)](https://github.com/fullstackreact/google-maps-react) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.
-
-### Redux Tools / Charts
-
-*   [reselect (⭐19k)](https://github.com/reduxjs/reselect) - Selector library for Redux
-*   [redux-saga (⭐22k)](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
-
-### Redux Tutorials / Charts
-
-*   [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
-
-### GraphQL Tools / Charts
-
-*   [GraphQL Playground - GraphQL IDE for better development workflows (⭐8.3k)](https://github.com/graphql/graphql-playground)
-
-### GraphQL Implementations / Charts
-
-*   [sangria (⭐1.9k)](https://github.com/sangria-graphql/sangria) - **Scala** GraphQL client and server library
-
-### Relay General Resources / Charts
-
-*   [Relay Offical Site](https://relay.dev/)
 
 ## [46. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -740,7 +712,7 @@
 
 ### CSharp
 
-*   [Awesome Microservices .NET Core (⭐2.1k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) :star: - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for microservices in .NET Core.
+*   [Awesome Microservices .NET Core (⭐2.2k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) :star: - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for microservices in .NET Core.
 
 ### Rust / Scala
 
@@ -748,15 +720,15 @@
 
 ### Frontend / UI / Scala
 
-*   [Awesome Micro Frontends (⭐521)](https://github.com/ChristianUlbrich/awesome-microfrontends) :star: - A curated list of resources about Micro Frontends.
+*   [Awesome Micro Frontends (⭐526)](https://github.com/ChristianUlbrich/awesome-microfrontends) :star: - A curated list of resources about Micro Frontends.
 
 ### Resilience / Scala
 
-*   [Awesome Chaos Engineering (⭐5.3k)](https://github.com/dastergon/awesome-chaos-engineering) :star: - A curated list of awesome chaos engineering resources.
+*   [Awesome Chaos Engineering (⭐5.4k)](https://github.com/dastergon/awesome-chaos-engineering) :star: - A curated list of awesome chaos engineering resources.
 
 ### Continuous Integration & Delivery / Scala
 
-*   [Awesome CI/CD DevOps (⭐1.6k)](https://github.com/ciandcd/awesome-ciandcd) :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
+*   [Awesome CI/CD DevOps (⭐1.7k)](https://github.com/ciandcd/awesome-ciandcd) :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
 ## [48. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -778,7 +750,7 @@
 
 ### Plugins
 
-*   💼 [Downwind CSS Easings (⭐4)](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
+*   💼 [Downwind CSS Easings (⭐5)](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
 
 ### Learning
 
@@ -792,11 +764,11 @@
 
 ### Electronics and Mechanics / Version Control
 
-*   [Inkscape Ray Optics (⭐251)](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
+*   [Inkscape Ray Optics (⭐268)](https://github.com/damienBloch/inkscape-raytracing) - An extension for Inkscape that makes it easier to draw optical diagrams.
 
 ### Sensor Processing / Image Processing
 
-*   [libvips (⭐7.3k)](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [libvips (⭐7.9k)](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 
 ### Datasets / Sensor and Acuator Interfaces
 
@@ -833,12 +805,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐430)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐434)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐40)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐44)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -918,7 +890,7 @@
 
 ### Boilerplates / Individual Podcast episodes
 
-*   [Elm Batteries (⭐110)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
+*   [Elm Batteries (⭐111)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
 *   [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
 
 ### Inspired by Elm / Games

@@ -25,7 +25,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐57k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐172k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
+*   [keras (⭐58k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐174k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Boilerplates
 
-*   [NextJS TypeScript Starter Kit (⭐344)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
+*   [NextJS TypeScript Starter Kit (⭐343)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
 *   [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)

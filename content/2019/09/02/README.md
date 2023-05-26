@@ -62,17 +62,17 @@
 ### Visualization / General Purposes
 
 *   [chartify (⭐3.3k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
-*   [physt (⭐120)](https://github.com/janpipek/physt) - Improved histograms.
+*   [physt (⭐122)](https://github.com/janpipek/physt) - Improved histograms.
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐397)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
+*   [animatplot (⭐400)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [Verovio (⭐531)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐551)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
 

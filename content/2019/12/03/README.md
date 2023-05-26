@@ -10,7 +10,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐984)](https://github.com/josephernest/writing)) `MIT` `Javascript`
+*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐991)](https://github.com/josephernest/writing)) `MIT` `Javascript`
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐203)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐206)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ---
 

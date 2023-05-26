@@ -410,7 +410,7 @@ to this,
 
 ### Images
 
-*   [chunky\_svg (⭐29)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
+*   [chunky\_svg (⭐30)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 
 ## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -432,7 +432,7 @@ to this,
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MAChineLearning (⭐38)](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
+*   [MAChineLearning (⭐37)](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
 
 ---
 

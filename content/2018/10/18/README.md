@@ -124,9 +124,6 @@ Topics: Accessibility\
 **Jesse Beach**\
 Topics: Accessibility, React\
 <https://twitter.com/jessebeach>
-
-### South America / Argentina 🇦🇷
-
 ### Seattle
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DevWithTheHair" height="70px" width="70px" align="left" alt="" />
@@ -175,8 +172,8 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐192)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
-*   [transitr (⭐19)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
+*   [Peartree (⭐193)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [transitr (⭐20)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -262,7 +259,7 @@ Topics: Accessibility\
 
 ### Other Tools / Telegram
 
-*   [Photon (⭐9.5k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+*   [Photon (⭐9.6k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 
 ---
 

@@ -6,21 +6,7 @@
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
-
-### MATLAB / PicoLisp
-
-*   [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
-
-### Ruby / RSpec
-
-*   [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
-
-## [2. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [1. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Gateways / Bridges
 
@@ -51,6 +37,12 @@
 *   [Ripple Forum](http://rippleforum.org/)
 *   [Ripple Lounge](http://www.ripplelounge.com/)
 *   [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
+
+## [2. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### PHP / Svelte
+
+*   [PSR-2 – コーディングスタイルガイド (⭐33)](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

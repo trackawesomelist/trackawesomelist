@@ -10,7 +10,7 @@
 
 ### Misc. Tools
 
-*   [CaTeX (⭐8)](https://github.com/Alexis-benoist/CaTeX) - Concatenates LaTeX documents with attention for properly merging the preamble.
+*   [CaTeX (⭐9)](https://github.com/Alexis-benoist/CaTeX) - Concatenates LaTeX documents with attention for properly merging the preamble.
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Authentication Authorisation
 
-*   [Vert.x-Pac4j (⭐119)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
+*   [Vert.x-Pac4j (⭐117)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -288,23 +288,23 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [MLKit (⭐152)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
+*   [MLKit (⭐151)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Files
 
-*   [KZFileWatchers (⭐1k)](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote.
+*   [KZFileWatchers (⭐1.1k)](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote.
 
 ### Pagination / Barcode
 
-*   [PageController (⭐407)](https://github.com/hirohisa/PageController) - Infinite paging controller.
+*   [PageController (⭐412)](https://github.com/hirohisa/PageController) - Infinite paging controller.
 
 ## [16. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Monoid (⭐7.5k)](https://github.com/larsenwork/monoid)
+*   [Monoid (⭐7.6k)](https://github.com/larsenwork/monoid)
 
 ### JavaScript libs / Programming fonts with ligatures
 
@@ -355,21 +355,21 @@ git rev-list --count <branch-name>
 
 ### Concurrency
 
-*   [CUB (⭐67)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
-*   [moderngpu (⭐1.4k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐2k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [CUB (⭐73)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
+*   [moderngpu (⭐1.5k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
+*   [NCCL (⭐2.2k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
 ## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript Seed Projects / Components
 
-*   [Angular 2 Dashboard Starter (⭐98)](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
+*   [Angular 2 Dashboard Starter (⭐97)](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
 
 ## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [filehound (⭐209)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+*   [filehound (⭐213)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
 ## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -414,7 +414,7 @@ git rev-list --count <branch-name>
 
 ### Game
 
-*   [MonoGame (⭐9.2k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐9.5k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ### ORM
 
@@ -677,20 +677,20 @@ git flow init -d
 ### Chatting
 
 *   [chatty (⭐34)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
-*   [cog (⭐921)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
-*   [ExIrc (⭐145)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+*   [cog (⭐920)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+*   [ExIrc (⭐147)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 *   [Guri (⭐19)](https://github.com/elvio/guri) - Automate tasks using chat messages.
-*   [kaguya (⭐72)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
-*   [slacker (⭐81)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
+*   [kaguya (⭐73)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
+*   [slacker (⭐82)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 *   [yocingo (⭐39)](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐625)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐636)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
-*   [magnetissimo (⭐2.6k)](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
+*   [magnetissimo (⭐2.8k)](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
 ### Framework Components
 
@@ -718,11 +718,11 @@ git flow init -d
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐86)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐88)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Testing
 
-*   [bypass (⭐876)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐889)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -755,16 +755,16 @@ git flow init -d
 
 ### Configuration
 
-*   [cr-dotenv (⭐93)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐95)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Project Generators
 
-*   [crystal\_lib (⭐135)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐139)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 
-*   [Kilt (⭐144)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
-*   [Slang (⭐228)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
+*   [Kilt (⭐147)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
+*   [Slang (⭐231)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ### Web Frameworks
 
@@ -774,7 +774,7 @@ git flow init -d
 
 ### Developer
 
-*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐47k)](https://github.com/google/material-design-icons).
+*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐48k)](https://github.com/google/material-design-icons).
 
 ## [37. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 

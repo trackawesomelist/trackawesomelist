@@ -28,7 +28,7 @@
 
 ### Official
 
-*   [Adapty (⭐315)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+*   [Adapty (⭐301)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Functional Programming / Runner
 
-*   [rambda (⭐1.4k)](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
+*   [rambda (⭐1.5k)](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
 
 ## [8. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Homura (⭐267)](https://github.com/Saul-Mirone/homura) <sup>[866](https://t.me/s/aboutrss/866)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Saul-Mirone/homura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Homura (⭐266)](https://github.com/Saul-Mirone/homura) <sup>[866](https://t.me/s/aboutrss/866)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Saul-Mirone/homura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   咕咚订阅 (RSS Plus) <sup>[884](https://t.me/s/aboutrss/884)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://d.firim.pro/gulz)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
@@ -97,11 +97,11 @@
 *   [NodeRSSbot](https://rssbot.vercel.app/) <sup>[5](https://t.me/s/aboutrss/5), [118](https://t.me/s/aboutrss/118), [262](https://t.me/s/aboutrss/262), [280](https://t.me/s/aboutrss/280),  [547](https://t.me/s/aboutrss/547)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/NodeRSSBot)
 *   [TheFeedReaderBot](http://thefeedreaderbot.com/index.html)
 
-### specifically from (  *a certain platform*  ) / Twitter
+### specifically from (*a certain platform*) / Twitter
 
 *   [TwiSSR](http://www.twissr.com/) <sup>[875](https://t.me/s/aboutrss/875)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### specifically from (  *a certain platform*  ) / Docsify
+### specifically from (*a certain platform*) / Docsify
 
 *   tutorial <sup>[868](https://t.me/s/aboutrss/868)</sup>
 
@@ -114,23 +114,23 @@
 
 *   [Planet Pluto](https://feedreader.github.io/) <sup>[887](https://t.me/s/aboutrss/887)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedreader)
 
-### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [CyberSEO](https://www.cyberseo.net/) <sup>[869](https://t.me/s/aboutrss/869)</sup>
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Pipfeed news extract API](https://pipfeed.com/news-extract-api/) <sup>[874](https://t.me/s/aboutrss/874)</sup>
 
-### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [简悦](http://ksria.com/simpread/docs/#/RSSReader) <sup>[880](https://t.me/s/aboutrss/880)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Kenshin/simpread/)
 
-### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [蜜柑计划 - Mikan Project](https://mikanani.me/)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed picker for Microsoft products](https://support.microsoft.com/en-us/rss-feed-picker) <sup>[879](https://t.me/s/aboutrss/879)</sup>
 
@@ -187,7 +187,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vesselize (⭐22)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
+*   [vesselize (⭐23)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
 *   [vue-use-local-storage (⭐4)](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
 ## [13. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)

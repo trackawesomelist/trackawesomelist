@@ -34,7 +34,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Annon (⭐326)](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
+*   [Annon (⭐325)](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 
 ---
 

@@ -20,8 +20,8 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [union-type (⭐477)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
-*   [freeky (⭐171)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
+*   [union-type (⭐476)](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
+*   [freeky (⭐172)](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 
 ### Resources / Articles
 
@@ -47,7 +47,7 @@
 
 ### Messaging / Scala
 
-*   [Mist (⭐656)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
+*   [Mist (⭐659)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

@@ -32,7 +32,7 @@
 
 ### Foundations of Mathematics / Category Theory
 
-*   [Category Theory in Context](http://www.math.jhu.edu/\~eriehl/context/) - Emily Riehl (John Hopkins University)
+*   [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl (John Hopkins University)
 
 ## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Database
 
-*   [UnQLite (⭐1.8k)](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. \[BSD-2-Clause] [website](https://unqlite.org/)
+*   [UnQLite (⭐1.9k)](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. \[BSD-2-Clause] [website](https://unqlite.org/)
 
 ## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [k8s (⭐266)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
+*   [k8s (⭐271)](https://github.com/coryodaniel/k8s) - Kubernetes Elixir client with CRD support, multi-cluster support, pluggable auth, and configurable middleware.
 
 ## [11. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -92,14 +92,14 @@
 
 ### Non-deterministic, logic programming
 
-*   [Temperance (⭐52)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
+*   [Temperance (⭐51)](https://github.com/sjl/temperance) - logic programming. [MIT](https://opensource.org/licenses/MIT). A focus on performance, with General Game Playing in mind.
 
 ## [13. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Data augmentation
 
-*   [audiomentations (⭐1.1k)](https://github.com/iver56/audiomentations) [:octocat: (⭐1.1k)](https://github.com/iver56/audiomentations) [:package:](https://pypi.org/project/audiomentations/) -  Audio Data Augmentation.
-*   [muda](https://muda.readthedocs.io/en/latest/) [:octocat: (⭐213)](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
+*   [audiomentations (⭐1.3k)](https://github.com/iver56/audiomentations) [:octocat: (⭐1.3k)](https://github.com/iver56/audiomentations) [:package:](https://pypi.org/project/audiomentations/) -  Audio Data Augmentation.
+*   [muda](https://muda.readthedocs.io/en/latest/) [:octocat: (⭐215)](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 
 ## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
-*   🔌 [Firestore Queue System (⭐4)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
+*   🔌 [Firestore Queue System (⭐5)](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
 
 ## [16. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -123,14 +123,14 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-splide (⭐251)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
-*   [Vue Flow Form (⭐645)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
+*   [vue-splide (⭐273)](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
+*   [Vue Flow Form (⭐659)](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
 
 ## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
-*   [Newbe.Claptrap (⭐209)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
+*   [Newbe.Claptrap (⭐212)](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
 
 ### Code Snippets
 
@@ -138,11 +138,11 @@
 
 ### Graphics
 
-*   [RealTimeGraphX (⭐172)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
+*   [RealTimeGraphX (⭐186)](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
 
 ### Mathematics
 
-*   [MKL.NET (⭐65)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
+*   [MKL.NET (⭐67)](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 
 ### PDF
 

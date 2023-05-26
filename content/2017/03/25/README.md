@@ -10,7 +10,7 @@
 
 ### Tools / Libraries
 
-*   [Polychrome (⭐289)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+*   [Polychrome (⭐288)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
 
 ## [2. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 

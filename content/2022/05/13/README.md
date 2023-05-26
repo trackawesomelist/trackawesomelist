@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [Viact (⭐34)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
+*   [Viact (⭐36)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
 
 ## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -48,7 +48,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Schemix - Generate Prisma Schemas with TypeScript (⭐146)](https://github.com/ridafkih/schemix)
+*   [Schemix - Generate Prisma Schemas with TypeScript (⭐250)](https://github.com/ridafkih/schemix)
 
 ---
 

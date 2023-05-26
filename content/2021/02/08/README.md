@@ -1,34 +1,40 @@
 # Awesome List Updates on Feb 08, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [machine-learning-for-trading (⭐7.8k)](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading
+
+## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Learning
 
 *   🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
 
-## [2. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [3. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Image Processing
 
-*   [libvips (⭐7.3k)](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [libvips (⭐7.9k)](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 
 ### Datasets / Sensor and Acuator Interfaces
 
 *   [Papers With Code](https://www.paperswithcode.com/datasets) - Thousands of machine learning datasets provided by Papers With Code.
 
-## [3. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Reforestation
 
 *   [Reforestum](https://reforestum.com/) - Reforestum is an online marketplace to drive reforestation and forest conservation, incentivizing companies and individuals to easily offset their carbon footprint by acquiring and tracking forest shares and carbon credits. Reforestum offers transparency via remote sensing and AI, together with a comprehensible API for seamless integration.
 
-## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / Databases
 
@@ -38,7 +44,7 @@
 
 *   [Eventide](https://eventide-project.org) - Event Sourcing and Microservices Stack for Ruby. A set of libraries for writing event driven, autonomous services.
 
-## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [6. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Meta
 
@@ -53,12 +59,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐430)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐434)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐40)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐44)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -134,14 +140,14 @@
 
 *   [Falsehoods about Fonts (⭐91)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
-## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Boilerplates / Individual Podcast episodes
 
-*   [Elm Batteries (⭐110)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
+*   [Elm Batteries (⭐111)](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify
 *   [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - The IHP Haskell Framework provides a built-in Elm boilerplate, useful when working with elm in the frontend and haskell in the backend
 
-## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 

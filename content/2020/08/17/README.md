@@ -44,12 +44,12 @@
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [hardened\_malloc (⭐797)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
+*   [hardened\_malloc (⭐948)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 
 ### DevOps / Development
 
 *   [Securing DevOps](https://manning.com/books/securing-devops) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
-*   [ansible-os-hardening (⭐2.9k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
+*   [ansible-os-hardening (⭐3.2k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 
 ## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -65,15 +65,15 @@
 
 ### API Builder and Discovery
 
-*   [Blueprinter (⭐925)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Blueprinter (⭐944)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 
 ### GUI
 
-*   [Glimmer (⭐331)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐341)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
-*   [Kimurai (⭐961)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
+*   [Kimurai (⭐967)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
 ## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -114,13 +114,13 @@
 
 ### Development Environment / Debugging and Tracing
 
-*   [hotspot (⭐2.8k)](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
+*   [hotspot (⭐3.2k)](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-component-media-queries (⭐71)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
+*   [vue-component-media-queries (⭐74)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2017
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Networking
 
-*   [Seasocks (⭐631)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐655)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -53,27 +53,21 @@
 
 *   [mqtt-forget (⭐10)](https://github.com/hobbyquaker/mqtt-forget) - Command line tool to remove retained MQTT topics by wildcard.
 
-## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
-
-### Results Processing / Results Analysis
-
-*   [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
-
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Web / Playground
 
 *   :octocat: [ionic (⭐49k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
-*   :octocat: [Stencil (⭐11k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
-*   :octocat: [wretch (⭐3.5k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+*   :octocat: [Stencil (⭐12k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
+*   :octocat: [wretch (⭐3.9k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
 
-## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Project Management
 
 *   [Harvest](https://www.getharvest.com/) - Time tracking
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -81,26 +75,26 @@
 *   [Sysadministrivia](https://sysadministrivia.com/) - Linux, Lagers, and Late Nights.
 *   [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
 
-## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [Gank (⭐128)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
-## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [12. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / E-commerce
 
 *   [Brick\Money (⭐1.2k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 
-## [14. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [13. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Tutorials/Guides
 
 *   [Test your elements](https://www.polymer-project.org/2.0/docs/tools/tests)
 *   [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
 
-## [15. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [14. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Initiatives/Programs / Conferences/Talks
 

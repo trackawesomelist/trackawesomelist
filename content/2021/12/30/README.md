@@ -24,8 +24,8 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [RexMex (⭐260)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
-*   [ChemicalX (⭐610)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+*   [RexMex (⭐263)](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
+*   [ChemicalX (⭐630)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Community plugins
 
-*   [App-icon (⭐38)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
+*   [App-icon (⭐48)](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
 
 ### Other plugins
 
@@ -74,7 +74,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Remult (⭐1.7k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
+*   :octocat: [Remult (⭐2.1k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -85,7 +85,7 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [Chainsaw (⭐1.9k)](https://github.com/countercept/chainsaw) - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
+*   [Chainsaw (⭐2.1k)](https://github.com/countercept/chainsaw) - Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows event logs.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Foundations of Mathematics / Logic
 
-*   [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/\~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
+*   [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Contents / Components
 
-*   [Preact Component Console (⭐29)](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
+*   [Preact Component Console (⭐30)](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
 
 ## [2. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Concurrency
 
-*   [Cpp-Taskflow (⭐7.9k)](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ Parallel Programming with Task Dependencies. \[MIT]
+*   [Cpp-Taskflow (⭐8.3k)](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ Parallel Programming with Task Dependencies. \[MIT]
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Software / Ticketing
 
-*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐720)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
+*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐750)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 
 ---
 

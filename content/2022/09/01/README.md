@@ -10,7 +10,7 @@
 
 ### Editors / Native Editors
 
-*   [Merkaartor (⭐263)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt
+*   [Merkaartor (⭐271)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [pearxteam/kasechange (⭐68)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
+*   [pearxteam/kasechange (⭐72)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Messaging / Scala
 
-*   [Redpanda (⭐6k)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
+*   [Redpanda (⭐6.4k)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
 
 ## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [aws2tf (⭐242)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
+*   [aws2tf (⭐261)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 
 ### Terraform Enterprise / Vendor supported providers
 

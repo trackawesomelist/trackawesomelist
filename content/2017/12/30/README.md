@@ -26,7 +26,7 @@
 
 ### Contents / Components
 
-*   [Preact Feather Icons (⭐30)](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact.
+*   [Preact Feather Icons (⭐33)](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact.
 
 ## [4. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

@@ -45,7 +45,7 @@
 
 ### Java VM / Java
 
-*   [HTTP Remoting (⭐76)](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
+*   [HTTP Remoting (⭐75)](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 
 ### API Gateways / Edge Services / Scala
 
@@ -53,7 +53,7 @@
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐791)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐793)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

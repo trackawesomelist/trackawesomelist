@@ -58,7 +58,7 @@
 
 ### Math / Barcode
 
-*   [SigmaSwiftStatistics (⭐660)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
+*   [SigmaSwiftStatistics (⭐666)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -77,7 +77,14 @@
 *   Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind \[[Web](http://torch.ch/)]
     *   Torch-based deep learning libraries: \[[torchnet (⭐994)](https://github.com/torchnet/torchnet)],
 
-## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [7. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [pythalesians (⭐56)](https://github.com/thalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc.
+*   [pybacktest (⭐752)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Books / Hash functions
 
@@ -121,12 +128,6 @@
 ### Web-sites / Git
 
 *   [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
-
-## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
-
-### Mobile / Playground
-
-*   [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ---
 

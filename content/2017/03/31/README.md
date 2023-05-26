@@ -19,14 +19,14 @@
 
 ### Contents / Libraries
 
-*   [fhir.js (⭐362)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
-*   [Node HL7 (⭐48)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Ruby FHIR (⭐140)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+*   [fhir.js (⭐375)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+*   [Node HL7 (⭐50)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
+*   [Ruby FHIR (⭐146)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
 *   [Ruby HL7 (⭐96)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications
 
-*   [SMART Pediatric Growth Chart (⭐66)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
+*   [SMART Pediatric Growth Chart (⭐67)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
 ### Contents / Research
 
@@ -132,21 +132,9 @@
 
 *   [Cambridge Networks Network (CNN)](http://www.cnn.group.cam.ac.uk/) - Research network on complex networks.
 
-### Review Articles / Bibliographic, Citation and Semantic Networks
-
-*   [Assessing Impact and Quality from Local Dynamics of Citation Networks](http://www.sciencedirect.com/science/article/pii/S1751157711000770) (*Journal of Informetrics*, 2012).
-
-### Review Articles / Complex and Multilayer Networks
-
-*   [The Architecture of Complexity](http://barabasi.com/f/226.pdf) - From network theory to complexity theory (*IEEE Control Systems Magazine*, 2007).
-
-### Review Articles / Ethics of Network Analysis
-
-*   [A Cautionary Note on Data Inputs and Visual Outputs in Social Network Analysis (SNA)](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8551.2012.00835.x/abstract) ([preprint](https://lra.le.ac.uk/bitstream/2381/36068/2/Draft%20BJM%20Revised%20\(3rd%20iteration\)%20Manuscript.pdf); *British Journal of Management*, 2014).
-
 ### Review Articles / Network Modeling
 
-*   [A Brief History of Statistical Models for Network Analysis and Open Challenges](http://www.stat.cmu.edu/\~brian/780/hw01/Fienberg%20\(2012\)%20A%20Brief%20History%20of%20Statistical%20Models%20for%20Network%20Analysis%20and%20Open%20Challenges.pdf) (*Journal of Computational and Graphical Statistics*, 2012).
+*   [A Brief History of Statistical Models for Network Analysis and Open Challenges](http://www.stat.cmu.edu/~brian/780/hw01/Fienberg%20\(2012\)%20A%20Brief%20History%20of%20Statistical%20Models%20for%20Network%20Analysis%20and%20Open%20Challenges.pdf) (*Journal of Computational and Graphical Statistics*, 2012).
 
 ### Review Articles / Network Visualization
 
@@ -158,15 +146,11 @@
 
 ### Software / Algorithms
 
-*   [algo.graph (⭐15)](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
+*   [algo.graph (⭐16)](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
 
 ### Software / C / C++
 
 *   [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
-
-### Software / JavaScript
-
-*   [Cytoscape.js](http://js.cytoscape.org/) - Network analysis and visualization library.
 
 ### Software / MATLAB
 

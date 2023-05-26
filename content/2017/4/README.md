@@ -32,7 +32,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐853)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐337)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐858)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐338)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -44,7 +44,7 @@
 
 ### ORM and SQL generation
 
-*   [Toucan (⭐534)](https://github.com/metabase/toucan)
+*   [Toucan (⭐564)](https://github.com/metabase/toucan)
 
 ## [7. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Contents / High-Availability
 
-*   [SkyTools (⭐249)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
+*   [SkyTools (⭐250)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ## [12. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
@@ -238,12 +238,12 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Open Source / Other
 
-*   [Cerebro (⭐7.7k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐7.8k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Samples / Other
 
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐387)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐390)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -502,7 +502,6 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 *   [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
 *   [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
 *   [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
-*   [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](https://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
 *   [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/why-we-still-believe-in-working-remotely/)
 *   [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
 
@@ -512,7 +511,6 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Job boards
 
-*   [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
 *   [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
 *   [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
 *   [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
@@ -531,7 +529,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Interviewing
 
-*   [awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐55k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 
 ### Podcasts
 
@@ -551,7 +549,6 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Q&A
 
-*   Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
 *   Remote.co: [Q\&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
 
 ### Communities
@@ -603,14 +600,14 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Open Source Repos / Machine Learning
 
-*   [machine-learning-samples :fire::fire::fire: (⭐862)](https://github.com/awslabs/machine-learning-samples) - Sample apps.
+*   [machine-learning-samples :fire::fire::fire: (⭐866)](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 
 ## [32. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
-*   [Dat desktop app (⭐647)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
+*   [Dat desktop app (⭐648)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 *   [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 *   [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 *   [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
@@ -626,8 +623,8 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.2k)](https://github.com/kgryte/awesome-peer-to-peer)
 *   [https://github.com/retrohacker/awesome-p2p (⭐140)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐528)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐185)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐532)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐186)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.5k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 
@@ -635,7 +632,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Libraries / Lenses
 
-*   [partial.lenses (⭐888)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+*   [partial.lenses (⭐900)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
 ## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -717,7 +714,7 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐779)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐791)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
@@ -728,13 +725,13 @@ Free
 
 ### Code Highlighting
 
-*   [CodeRay (⭐835)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
-*   [pygments.rb (⭐562)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+*   [CodeRay (⭐838)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [pygments.rb (⭐568)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 *   [Rouge (⭐3.2k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐729)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐730)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -742,8 +739,8 @@ Free
 
 ### Feature Flippers and A/B Testing
 
-*   [Motorhead (⭐181)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
-*   [flipper (⭐3.2k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
+*   [Motorhead (⭐182)](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
+*   [flipper (⭐3.3k)](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 *   [Rollout (⭐2.8k)](https://github.com/FetLife/rollout) - Feature flippers.
 *   [Split (⭐2.6k)](https://github.com/splitrb/split) - Rack Based AB testing framework.
 *   [Vanity (⭐1.5k)](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.

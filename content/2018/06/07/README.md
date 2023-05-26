@@ -116,13 +116,13 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [ESLint (⭐22k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
+*   [ESLint (⭐23k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
 
 ## [11. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Algebra / Linear Algebra
 
-*   [Introduction to Applied Linear Algebra](https://web.stanford.edu/\~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
+*   [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 
 ## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

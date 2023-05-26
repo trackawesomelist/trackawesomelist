@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 12, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 ### Utility / Diagnostics
 
-*   [jghauser/fold-cycle.nvim (⭐48)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
+*   [jghauser/fold-cycle.nvim (⭐55)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 
 ## [3. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -43,32 +43,25 @@
 
 *   [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Domain
-
-*   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐319)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
-
-## [7. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [Typetta (⭐78)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
+*   [Typetta (⭐86)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 
-## [8. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [7. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Type Theory and Mathematics
 
-*   [Four Color Theorem (⭐122)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
+*   [Four Color Theorem (⭐126)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
 
-## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web framework
 
-*   [faster (⭐20)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐21)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -84,33 +77,32 @@
 
 
 
-## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube Music
 
-*   [th-ch/youtube-music (⭐2.9k)](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+*   [th-ch/youtube-music (⭐3k)](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
 
 ### Overview / Reddit
 
-*   [Dawn (⭐437)](https://github.com/Tunous/Dawn): Open-source Reddit app
+*   [Dawn (⭐439)](https://github.com/Tunous/Dawn): Open-source Reddit app
     *   Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
-    *   Forked from Dank: [https://github.com/saket/Dank (⭐809)](https://github.com/saket/Dank)
+    *   Forked from Dank: [https://github.com/saket/Dank (⭐808)](https://github.com/saket/Dank)
 *   [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
     *   Official instance: <https://kddit.kalli.st>
-    *   `[Proxy]`
 
 ### Overview / Reuters
 
-*   [Neuters (⭐40)](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
+*   [Neuters (⭐41)](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
     *   Official instance: <https://neuters.de>
 
-## [12. Awesome Go](/content/avelino/awesome-go/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [goblin (⭐52)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
+*   [goblin (⭐54)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
 
-## [13. GoBooks](/content/dariubs/GoBooks/README.md)
+## [12. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Web Development** / [Wasm Cooking with Golang](https://k33g.gumroad.com/l/wasmcooking)
 

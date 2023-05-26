@@ -22,7 +22,7 @@
 
 ### Laravel
 
-- Name: [Antvel (⭐645)](https://github.com/ant-vel/App)
+- Name: [Antvel (⭐652)](https://github.com/ant-vel/App)
 
   Description: Laravel eCommerce
 
@@ -60,7 +60,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [JSON Editor (⭐217)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [JSON Editor (⭐221)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 

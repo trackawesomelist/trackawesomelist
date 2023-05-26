@@ -25,17 +25,17 @@
 
 *   [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_\(2019\)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of University of Arkansas at Little Rock by Robert Belford
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
-### Projects Using Vue.js / Commercial Products
+### Closed Source / Other
 
-*   [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare and many more.
+*   [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare, and more.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐91)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐96)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 

@@ -2,9 +2,317 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 2.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 4.9K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
+
+## [May 26, 2023](/content/2023/05/26/README.md)
+
+### Art & Image Generator
+
+- Name: [CoverDesignAI](http://coverdesignai.com)
+
+  Title: CoverDesignAI - A Tool to Create Tailored Book Cover Ideas/Prompts/Images/Mockups for Indie Authors and Designers.
+
+  Description: CoverDesignAI is an AI-powered service offering a unique way for indie authors and designers to create the perfect book cover.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [caspa AI](https://www.caspa.ai/?ref=aicollection)
+
+  Title: Caspa AI Is a Platform to Create and Customise AI Images in Minutes.
+
+  Description: Unlock the potential of AI-powered image creation and editing with this free tool, producing unique visuals quickly and cost-effectively for various applications.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Chat Bot
+
+- Name: [ChatBotKit](https://chatbotkit.com/?via=aicollection)
+
+  Title: The Fastest Way to Build Advanced AI Chat Bots.
+
+  Description: ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, Discord and WhatsApp.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Code & Database Assistant
+
+- Name: [DocuWriter.ai](https://www.docuwriter.ai)
+
+  Title: ✨ the Ultimate AI for Code Documentation.
+
+  Description: A powerful tool that automatically generates comprehensive and accurate documentation from source code files.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Content Generation & Seo
+
+- Name: [Netus.ai](https://netus.ai/?utm_source=aff\&utm_campaign=aicollection)
+
+  Title: AI-Driven Bypasser, Paraphraser and Detector.
+
+  Description: NetusAI is a powerful AI-driven technology designed to help content creators generate unique, high-quality content up to 10x faster than traditional methods.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [TweetStorm.ai](https://www.tweetstorm.ai)
+
+  Title: AI-Powered Tweet Generator.
+
+  Description: Generate Tweets, Bios, Hashtags and Usernames using AI GPT4.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Fun
+
+- Name: [AI Story Generator](https://www.aistorygenerator.org?ref=aicollection)
+
+  Title: AI Story Generator.
+
+  Description: A free AI story generator that writes creative short stories for you on any topic.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Gift Ideas
+
+- Name: [Kindred Tales](https://kindredtales.net/?ref=aicollection)
+
+  Title: Online Platform That Helps People Capture and Preserve Their Life Stories in a Beautiful Hardcover Book.
+
+  Description: For anyone who wants to create a memoir but doesn't know where to start or has difficulty writing. With the help of AI, users can easily answer questions about their life, and we'll turn it into a professionally designed book that they can cherish for generations to come.
+
+  Offer Free Version: :x:
+
+
+
+### Human Resources & Resume
+
+- Name: [Uniglobal Careers](https://uniglobalcareers.com/cv-generator)
+
+  Title: Unlock the World of International Education With UniGlobal Careers – Your Superhero Powers Deserve a Global Stage! 💪🌎.
+
+  Description: Introducing UniGlobal CV and Cover Letter Generator, the AI-powered super-tool for job seekers in the international education realm! UniGlobal Careers harnesses cutting-edge AI to empower you with captivating CVs and cover letters tailored for international opportunities. 🌍✨.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Music & Audio Generation
+
+- Name: [TuneFlow](https://tuneflow.com?ref=aicollection)
+
+  Title: Next-Gen Music-Making Tool With a Suite of AI Superpowers.
+
+  Description: Helps you generate melody, beats, or even a whole song while still being able to edit them like any other professional DAW.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Organization & Automation
+
+- Name: [guidde](https://www.guidde.com/?ref=aicollection)
+
+  Title: Magically Create Stunning Training Meterial, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI.
+
+  Description: guidde is the generative AI platform for business that helps your team create video documentation 11x faster.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Photo & Image Editing
+
+- Name: [HitPaw Online Photo Enhancer](https://online.hitpaw.com/online-photo-enhancer.html?ref=aicollection)
+
+  Title: Unblur Images and Say Goodbye to Low-Quality Photos.
+
+  Description: HitPaw Online AI Photo Enhancer uses advanced AI technology to remove noise, sharpen details and improve photo quality.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Productivity & Personal Growth
+
+- Name: [Chivvy](https://chivvy.app?ref=aicollection)
+
+  Title: AI Powered Anti-Procrastination App.
+
+  Description: Chivvy uses negative reinforcement to get you to do things. Creates accountability on social media. Keeps you on track with smart prompts. All powered by AI.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Search Engines
+
+- Name: [namefinder.ai](https://namefinder.ai/?ref=aicollection)
+
+  Title: AI-Powered Business & Domain Name Generator.
+
+  Description: We, at Namefinder, aim to save people time by coming up with domain names for their businesses. We do it by proposing the names based on their website needs, and before that we check the domain registry to only give the available domain names to choose from. All powered by Chat Gpt.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Slides & Presentations
+
+- Name: [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides?ref=aicollection)
+
+  Title: Create AI-powered Presentations in Google Slides.
+
+  Description: Build presentations in minutes with Plus AI. Starting with a blank deck is one of the most challenging parts of building a presentation. Plus AI helps you create an outline, build a first draft, and suggest additional edits to your slides.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Video
+
+- Name: [Eightify](https://tinyurl.com/ai-8fy)
+
+  Title: Eightify — Extract key insights from YouTube videos.
+
+  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [HitPaw Online Video Enhancer](https://online.hitpaw.com/online-video-enhancer.html?ref=aicollection)
+
+  Title: One-Click to Unblur and Upscale Your Video by Trained AI.
+
+  Description: HitPaw Online Video Enhancer is the best solution for low resolution videos, increase video solution up to 1080P/4K with no efforts.
+
+  Offer Free Version: :x:
+
+
+
+### Web Design
+
+- Name: [Stunning.so](https://stunning.so/?ref=aicollection)
+
+  Title: Build Websites With AI.
+
+  Description: Build stunning websites in 30 seconds including copy & even images powered by AI.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Uizard](https://get.uizard.io/SH7)
+
+  Title: Uizard - App, Web, & Ui Design Made Easy - Powered by AI.
+
+  Description: Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Writing Assistant
+
+- Name: [Instascribe](https://instascribe.app/)
+
+  Title: Instascribe Is an AI-powered App That Creates Personalised Captions for Your Instagram Photos.
+
+  Description: Just select an image, pick from an array of caption styles or define your own, and adjust options such as tone of voice, language, and message length. The app's AI then generates a unique caption that suits your image and preferences, streamlining your social media posting process.
+
+  Offer Free Version: :grey\_question:
+
+
+
+## [Apr 30, 2023](/content/2023/04/30/README.md)
+
+### Content Generation & Seo
+
+- Name: [CopyGen](https://copygen.pro/?ref=aicollection)
+
+  Title: AI-Powered Content Writing Assistant.
+
+  Description: Your go-to AI writing tool for creating high-quality, SEO-optimized content in seconds, without writer's block.
+
+  Offer Free Version: :x:
+
+
+
+## [Apr 29, 2023](/content/2023/04/29/README.md)
+
+### Content Generation & Seo
+
+- Name: [Jasper.ai](https://jasper.ai?utm_source=partner\&fpr=aicollection)
+
+  Title: Jasper - AI Copywriter - AI Content Generator for Teams.
+
+  Description: Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Education & Learning
+
+- Name: [QUIZGECKO](https://quizgecko.com/?via=aicollection)
+
+  Title: Stop Wasting Time Manually Creating Quizzes.
+
+  Description: Create and share quiz questions, flashcards, and notes instantly, from any text. Ideal for businesses, educators, and students alike.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [Apr 27, 2023](/content/2023/04/27/README.md)
+
+### Code & Database Assistant
+
+- Name: [Anania](https://anania.ai/?ref=aicollection)
+
+  Title: AI Assistant for Analytics.
+
+  Description: Ask questions on your data and documents.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Human Resources & Resume
+
+- Name: [resumator](https://www.resumator.ai/?ref=aicollection)
+
+  Title: Looking for a Job? We've Got You Covered.
+
+  Description: Get hired faster with our AI-powered personalized cover letter. It takes just a few seconds!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Productivity & Personal Growth
+
+- Name: [Voilà](https://www.getvoila.ai/?ref=aicollection)
+
+  Title: Personal ChatGPT Assistant for Supercharged Productivity.
+
+  Description: Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ## [Apr 23, 2023](/content/2023/04/23/README.md)
 
@@ -153,6 +461,36 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ## [Apr 08, 2023](/content/2023/04/08/README.md)
+
+### Accounting & Finance
+
+- Name: [StockGPT](https://www.askstockgpt.com/?ref=aicollection)
+
+  Title: AI-Powered Search Engine.
+
+  Description: StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Stocknews AI](http://stocknewsai.com?ref=aicollection)
+
+  Title: Stocknews AI - AI Picked Stock News.
+
+  Description: .
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Torto.ai](http://torto.ai?ref=aicollection)
+
+  Title: Stock Market Made Simple.
+
+  Description: .
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ### Animation & 3D Modeling
 
@@ -1713,15 +2051,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Jasper.ai](http://www.jasper.ai?ref=aicollection)
-
-  Title: Jasper - AI Copywriter - AI Content Generator for Teams.
-
-  Description: Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Katteb](http://katteb.com?ref=aicollection)
 
   Title: Write Fact-Checked Content.
@@ -2781,15 +3110,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [timeMaster](https://www.timemaster.ai/?ref=aicollection)
-
-  Title: Supercharge Your Focus and Productivity.
-
-  Description: TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 
 ### Photo & Image Editing
 
@@ -3049,6 +3369,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Productivity & Personal Growth
+
+- Name: [timeMaster](https://www.timemaster.ai/?ref=aicollection)
+
+  Title: Supercharge Your Focus and Productivity.
+
+  Description: TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Research Assistant
 
 - Name: [Elicit](http://elicit.org?ref=aicollection)
@@ -3294,15 +3626,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [StockGPT](https://www.askstockgpt.com/?ref=aicollection)
-
-  Title: AI-Powered Search Engine.
-
-  Description: StockGPT is an AI-powered search engine that was trained on all of Teslas quarterly earnings call transcripts dating back to Q2 2011.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [You](http://you.com?ref=aicollection)
 
   Title: The AI Search Engine You Control.
@@ -3313,7 +3636,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
-### Slides & Web Design
+### Slides & Presentations
 
 - Name: [ChatBA](https://www.chatba.com/?ref=aicollection)
 
@@ -3324,47 +3647,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Durable](http://durable.co?ref=aicollection)
-
-  Title: Durable: AI Website Builder and Service Business Software.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Genius by Diagram](https://www.genius.design/?ref=aicollection)
-
-  Title: Genius - Your AI Design Companion.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Glimmer AI](https://glimmerai.tech?ref=aicollection)
 
   Title: AI-Powered Presentation Magic.
 
   Description: Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Magician](http://magician.design?ref=aicollection)
-
-  Title: Magician for Figma.
-
-  Description: A magical design tool for Figma powered by AI.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Piggy](https://piggy.to/magic?ref=aicollection)
-
-  Title: Mobile Content Creator.
-
-  Description: Creating stunning content on your phone just got easy.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -3551,11 +3838,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [ChatGPT Writer](http://chatgptwriter.ai?ref=aicollection)
 
-  Title: .
+  Title: ChatGPT Writer Chrome Extension.
 
-  Description: .
+  Description: Write emails & messages, fix grammar mistakes, rephrase text, change writing tone, summarize text, and much more using ChatGPT AI. Works on all sites. Free to use.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Childbook](http://www.childbook.ai?ref=aicollection)
@@ -4281,15 +4568,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Eightify](https://eightify.app/?ref=aicollection)
-
-  Title: Get 8 Key Ideas From YouTube Videos.
-
-  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Elai](http://elai.io?ref=aicollection)
 
   Title: Create AI Videos From Just Text.
@@ -4405,6 +4683,54 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: WZRD augments your audio with immersive video powered by artificial intelligence.
 
   Offer Free Version: :grey\_question:
+
+
+
+### Web Design
+
+- Name: [Designs AI](http://designs.ai?ref=aicollection)
+
+  Title: Create Logos, Videos, Banners, Voiceovers With AI.
+
+  Description: Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Durable](http://durable.co?ref=aicollection)
+
+  Title: Durable: AI Website Builder and Service Business Software.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Genius by Diagram](https://www.genius.design/?ref=aicollection)
+
+  Title: Genius - Your AI Design Companion.
+
+  Description: .
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Magician](http://magician.design?ref=aicollection)
+
+  Title: Magician for Figma.
+
+  Description: A magical design tool for Figma powered by AI.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Piggy](https://piggy.to/magic?ref=aicollection)
+
+  Title: Mobile Content Creator.
+
+  Description: Creating stunning content on your phone just got easy.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -5266,15 +5592,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: .
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [Designs AI](http://designs.ai?ref=aicollection)
-
-  Title: Create Logos, Videos, Banners, Voiceovers With AI.
-
-  Description: Create anything online in 2 minutes! Make a logo, video, social media banner, business card, flyer, mockup and more with AI.
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [DetangleAI](http://detangle.ai?ref=aicollection)
@@ -6321,15 +6638,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Quizgecko](http://quizgecko.com?ref=aicollection)
-
-  Title: The AI Powered Quiz Generator - Quizgecko.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Quizwhiz](http://www.quizwhiz.ai?ref=aicollection)
 
   Title: Quizwhiz - Generate McQs From Any Text.
@@ -6600,15 +6908,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Stocknews AI](http://stocknewsai.com?ref=aicollection)
-
-  Title: Stocknews AI - AI Picked Stock News.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [StoriesbyAI](http://storiesby.ai?ref=aicollection)
 
   Title: Stories by AI - Substack.
@@ -6861,15 +7160,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Torto.ai](http://torto.ai?ref=aicollection)
-
-  Title: Stock Market Made Simple.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Traq.ai](http://www.traq.ai?ref=aicollection)
 
   Title: .
@@ -6922,15 +7212,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Uizard](http://uizard.io?ref=aicollection)
-
-  Title: Uizard - App, Web, & Ui Design Made Easy - Powered by AI.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection)

@@ -49,13 +49,13 @@
 
 ### Webdriver automation
 
-*   [Etaoin (⭐804)](https://github.com/igrishaev/etaoin)
+*   [Etaoin (⭐854)](https://github.com/igrishaev/etaoin)
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
-*   [Brian2](http://briansimulator.org/) [:octocat: (⭐699)](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
+*   [Brian2](http://briansimulator.org/) [:octocat: (⭐746)](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
 
 ## [7. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

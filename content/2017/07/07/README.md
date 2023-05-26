@@ -40,7 +40,7 @@
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐42)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐44)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -52,7 +52,7 @@
 
 ## [7. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
-### Community / Gradient boosting
+### Community / Vector search
 
 *   [SciRuby Mailing List](https://groups.google.com/forum/#!forum/sciruby-dev)
 *   [SciRuby Slack](https://sciruby.slack.com/)
@@ -104,9 +104,9 @@
 
 *   Node.js
     *   Slush
-        *   [TheVelourFog/slush-angular2 (⭐45)](https://github.com/RyanMetin/slush-angular2)
+        *   [TheVelourFog/slush-angular2 (⭐44)](https://github.com/RyanMetin/slush-angular2)
     *   Yeoman
-        *   [swirlycheetah/generator-angular2 (⭐256)](https://github.com/chrisdwheatley/generator-angular2)
+        *   [swirlycheetah/generator-angular2 (⭐254)](https://github.com/chrisdwheatley/generator-angular2)
     *   ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
         *   [ngx-rocket/generator-ngx-rocket (⭐1.5k)](https://github.com/ngx-rocket/generator-ngx-rocket)
         *   [ngx-rocket/cli (⭐13)](https://github.com/ngx-rocket/cli)

@@ -46,7 +46,7 @@
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐744)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐780)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [4. Awesome Json](/content/burningtree/awesome-json/README.md)
 

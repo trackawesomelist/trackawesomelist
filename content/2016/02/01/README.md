@@ -19,7 +19,7 @@
 
 ### Logging
 
-*   [gelf\_logger (⭐28)](https://github.com/jschniper/gelf_logger) - A Logger backend that will generate Graylog Extended Log Format (GELF) messages.
+*   [gelf\_logger (⭐29)](https://github.com/jschniper/gelf_logger) - A Logger backend that will generate Graylog Extended Log Format (GELF) messages.
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -53,7 +53,7 @@
 
 ### services
 
-*   [geojsonio-cli (⭐158)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
+*   [geojsonio-cli (⭐162)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
 
 ### data
 

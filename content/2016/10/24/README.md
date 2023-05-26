@@ -113,7 +113,7 @@ git diff --ignore-all-space | git apply --cached
 
 ### Language Support
 
-*   [Grooveex (⭐14)](https://github.com/aesteve/grooveex) - Syntactic sugar + utilities (DSL builders, etc.) on top of [vertx-lang-groovy (⭐15)](https://github.com/vert-x3/vertx-lang-groovy).
+*   [Grooveex (⭐14)](https://github.com/aesteve/grooveex) - Syntactic sugar + utilities (DSL builders, etc.) on top of [vertx-lang-groovy (⭐13)](https://github.com/vert-x3/vertx-lang-groovy).
 
 ### Examples
 

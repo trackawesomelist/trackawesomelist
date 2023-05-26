@@ -16,13 +16,13 @@
 
 ### Host-based tools / Tarpits
 
-*   [USB Keystroke Injection Protection (⭐427)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
+*   [USB Keystroke Injection Protection (⭐442)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Self-hosted
 
-*   [Memos (⭐10k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐14k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -57,31 +57,31 @@
 
 ### View components
 
-*   [Phlex (⭐727)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐847)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Data Validation / NLP
 
-*   [great\_expectations (⭐8k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-*   [pandera (⭐2k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
-*   [deepchecks (⭐2.4k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [evidently (⭐3.1k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐699)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [great\_expectations (⭐8.4k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+*   [pandera (⭐2.3k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
+*   [deepchecks (⭐2.6k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [evidently (⭐3.5k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
+*   [TensorFlow Data Validation (⭐720)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Algorithm
 
-*   [swift-algorithm-club (⭐27k)](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
+*   [swift-algorithm-club (⭐28k)](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
 
 ### Chart
 
-*   [SwiftCharts (⭐2.4k)](https://github.com/ivanschuetz/SwiftCharts) - Highly customizable charts for iOS.
+*   [SwiftCharts (⭐2.5k)](https://github.com/ivanschuetz/SwiftCharts) - Highly customizable charts for iOS.
 
 ### MongoDB
 
-*   [MongoKitten (⭐649)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐659)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -89,15 +89,15 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐352)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐356)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐47)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐52)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 
-*   [SwiftIconFont (⭐1.1k)](https://github.com/segecey/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
+*   [SwiftIconFont (⭐1.2k)](https://github.com/segecey/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
 
 ### Localization / Barcode
 
@@ -165,15 +165,6 @@
 
 
 ### Festivals & Conferences
-
-- Name: [**Eyeo**](https://www.eyeofestival.com/)
-
-  Locations: \[Melbourne]
-
-  Keywords: a gathering for the creative technology community
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.eyeofestival.com%2F)
-
 
 - Name: [**ISEA**](https://isea2022.isea-international.org/)
 
@@ -246,7 +237,7 @@
 
 ### Contents / Tools
 
-*   [RSA Encryption (⭐24)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+*   [RSA Encryption (⭐26)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
 ## [14. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -264,25 +255,25 @@
 
 ## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
+### Inbox: Large Language Models / ChatGPT
+
+*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+
+### Inbox: Large Language Models / Text-related Generative Tools
+
+*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
+
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
 *   [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480)
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [camenduru/stable-diffusion-webui-colab (⭐2.2k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+*   [camenduru/stable-diffusion-webui-colab (⭐11k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
 
 ### Image Synthesis / Promptism
 
-*   [openai/point-e (⭐4.5k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
-
-### Inbox: Text and Natural Language Processing / ChatGPT
-
-*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
-
-### Inbox: Text and Natural Language Processing / Text-related Generative Tools
-
-*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
+*   [openai/point-e (⭐5.4k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ## [17. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -294,7 +285,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐12k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
+*   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐13k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -315,7 +306,7 @@
 
 ### Front-End Development
 
-*   [Web Components (⭐2.1k)](https://github.com/web-padawan/awesome-web-components#readme)
+*   [Web Components (⭐2.2k)](https://github.com/web-padawan/awesome-web-components#readme)
 
 ## [21. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
@@ -338,7 +329,7 @@
 
 ### Resources / Examples
 
-*   [h5 (⭐0)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
+*   [h5 (⭐4)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
 
 ### Projects Using Vue.js / Commercial Products
 

@@ -16,7 +16,7 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐26)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐42)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ### I18n And L10n / Runner
 
@@ -27,16 +27,16 @@
 ### Packages / Mad science
 
 *   [peerflix (⭐6k)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-*   [peerwiki (⭐308)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐309)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐384)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-*   [bcat (⭐331)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [is-up (⭐386)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [bcat (⭐333)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Debugging / Profiling
 
-*   [stackman (⭐243)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
+*   [stackman (⭐244)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 ### Packages / Build tools
 
@@ -79,7 +79,6 @@
 
 ### Image Processing
 
-*   [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - Generic Image Library.
 *   [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 *   [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. \[BSD]
 

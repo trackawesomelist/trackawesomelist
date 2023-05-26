@@ -40,10 +40,8 @@
 
 ### Regional Connectivity Reports and Data
 
-*   GSMA Mobile Economy - Sub-Saharan Africa ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
 *   GSMA Mobile Economy - Asia Pacific ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/08/GSMA_ME_APAC_2021_Web_Singles.pdf)) [2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf)
 *   GSMA Mobile Economy - Africa [2016](https://www.gsma.com/mobileeconomy/africa/)
-*   African Telecommunications Infrastructure Development @manypossibilities.net - [2014-2021](https://manypossibilities.net/series/africa-telecom-infrastructure/)
 *   RIA Africa Mobile Pricing (RAMP) Indices Portal - ([Q4 2021](https://researchictafrica.net/ramp_indices_portal/)) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
 *   Opera - State of the Mobile Web Africa - ([2019](https://blogs.opera.com/news/wp-content/uploads/sites/2/2019/06/SMW_2019.pdf)) ([2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)).
 *   Ericsson Mobility Report - Sub-Saharan Africa - ([2015](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf))
@@ -52,17 +50,17 @@
 
 ### Utility / Diagnostics
 
-*   [rgroli/other.nvim (⭐125)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
+*   [rgroli/other.nvim (⭐141)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [terraform (ptavares) (⭐1)](https://github.com/ptavares/zsh-terraform) - Adds aliases, functions and tab completions. Also installs [terraform-docs (⭐3.3k)](https://github.com/terraform-docs/terraform-docs), [tfsec (⭐5.6k)](https://github.com/aquasecurity/tfsec) and [tflint (⭐3.7k)](https://github.com/terraform-linters/tflint).
+*   [terraform (ptavares) (⭐1)](https://github.com/ptavares/zsh-terraform) - Adds aliases, functions and tab completions. Also installs [terraform-docs (⭐3.5k)](https://github.com/terraform-docs/terraform-docs), [tfsec (⭐5.9k)](https://github.com/aquasecurity/tfsec) and [tflint (⭐3.9k)](https://github.com/terraform-linters/tflint).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [yuyuko (⭐0)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐12)](https://github.com/hylwxqwq/yuyuko.vim).
+*   [yuyuko (⭐0)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐13)](https://github.com/hylwxqwq/yuyuko.vim).
 
 ## [7. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 
@@ -195,19 +193,19 @@
 
 ### Applications / Utilities
 
-*   [1History (⭐348)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
+*   [1History (⭐368)](https://github.com/1History/1History) — Command line interface to backup Firefox/Chrome/Safari history to one SQLite file [![Build Status](https://github.com/1History/1History/actions/workflows/CI.yml/badge.svg)](https://github.com/1History/1History/actions/workflows/CI.yml)
 
 ### Libraries / Command-line
 
 *   Other
-    *   [mgrachev/update-informer (⭐168)](https://github.com/mgrachev/update-informer) \[[update-informer](https://crates.io/crates/update-informer)] — Update informer for CLI applications. It checks for a new version on Crates.io and GitHub [![build badge](https://github.com/mgrachev/update-informer/workflows/CI/badge.svg)](https://github.com/mgrachev/update-informer/actions)
+    *   [mgrachev/update-informer (⭐179)](https://github.com/mgrachev/update-informer) \[[update-informer](https://crates.io/crates/update-informer)] — Update informer for CLI applications. It checks for a new version on Crates.io and GitHub [![build badge](https://github.com/mgrachev/update-informer/workflows/CI/badge.svg)](https://github.com/mgrachev/update-informer/actions)
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [yew-ssr-tide (⭐1)](https://github.com/zzy/yew-ssr-tide) - The example demonstrates Yew server-side rendering with tide & surf, it needs the **development version** of Yew.
-*   [yew-ssr-actix-web (⭐9)](https://github.com/zzy/yew-ssr-actix-web) - The example demonstrates Yew server-side rendering with actix-web & reqwest, it needs the **development version** of Yew.
+*   [yew-ssr-actix-web (⭐8)](https://github.com/zzy/yew-ssr-actix-web) - The example demonstrates Yew server-side rendering with actix-web & reqwest, it needs the **development version** of Yew.
 
 ## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

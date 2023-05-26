@@ -22,9 +22,9 @@ Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer
 
 ### Productivity
 
-*   [Google Calendar View (⭐204)](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
-*   [PDF Tools (⭐118)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
-*   [Things (⭐335)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+*   [Google Calendar View (⭐217)](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
+*   [PDF Tools (⭐131)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
+*   [Things (⭐352)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
 ## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

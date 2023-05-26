@@ -75,17 +75,17 @@
 
 ### Contents / Games
 
-*   [Solitaire (⭐229)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
+*   [Solitaire (⭐235)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
 
 ### Contents / Productivity
 
-*   [Habbit (⭐136)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐136)](https://github.com/lzyy/habbit).
+*   [Habbit (⭐137)](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong (⭐137)](https://github.com/lzyy/habbit).
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
-*   [MySQL (⭐2k)](https://github.com/shlomi-noach/awesome-mysql#readme)
+*   [MySQL (⭐2.1k)](https://github.com/shlomi-noach/awesome-mysql#readme)
 
 ## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐98)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐109)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ---
 

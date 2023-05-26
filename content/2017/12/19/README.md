@@ -99,7 +99,7 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐348)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐361)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [simplebeerservice :fire::fire: (⭐316)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
+*   [simplebeerservice :fire::fire: (⭐317)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
 ---
 

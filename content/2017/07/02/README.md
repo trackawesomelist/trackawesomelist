@@ -26,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-flatpickr-component (⭐919)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐15k)](https://github.com/chmln/flatpickr) datetime picker
+*   [vue-flatpickr-component (⭐923)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐16k)](https://github.com/chmln/flatpickr) datetime picker
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

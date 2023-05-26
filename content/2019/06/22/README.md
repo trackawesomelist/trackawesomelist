@@ -10,7 +10,7 @@
 
 ### Memory Allocation
 
-*   [mimalloc (⭐7.9k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
+*   [mimalloc (⭐8.2k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

@@ -66,7 +66,7 @@ Language: English
 
 ### Languages
 
-*   [AlmostBinary (⭐5)](https://github.com/wsdt/AlmostBinary) - Code in binary and run on any platform.
+*   [AlmostBinary (⭐6)](https://github.com/wsdt/AlmostBinary) - Code in binary and run on any platform.
 
 ## [4. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -114,7 +114,7 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [vue-card-stack (⭐68)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
+*   [vue-card-stack (⭐70)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -151,7 +151,7 @@ Language: English
 
 ### Contents / Entertainment
 
-*   [TV Randshow (⭐121)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
+*   [TV Randshow (⭐137)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
 ## [14. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 

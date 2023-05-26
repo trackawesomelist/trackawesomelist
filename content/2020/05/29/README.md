@@ -55,7 +55,7 @@ Language: English
 ### :books: Docs
 
 *   [Prisma Docs](https://www.prisma.io/docs/)
-*   [Prisma Examples (⭐4.2k)](https://github.com/prisma/prisma-examples)
+*   [Prisma Examples (⭐4.9k)](https://github.com/prisma/prisma-examples)
 
 ### :studio_microphone: Events
 
@@ -65,10 +65,10 @@ Language: English
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma 2 Scratchpad (⭐12)](https://github.com/ctrlplusb/prisma2-template)
-*   [nx-nest-graphql (⭐11)](https://github.com/beeman/nx-nest-graphql)
-*   [Prisma plugin for the IntelliJ Platform (⭐42)](https://github.com/gabrielcolson/intellij-prisma)
-*   [Gatsby with prisma-client (⭐11)](https://github.com/LekoArts/gatsby-with-prisma-client)
+*   [Prisma 2 Scratchpad (⭐13)](https://github.com/ctrlplusb/prisma2-template)
+*   [nx-nest-graphql (⭐12)](https://github.com/beeman/nx-nest-graphql)
+*   [Prisma plugin for the IntelliJ Platform (⭐43)](https://github.com/gabrielcolson/intellij-prisma)
+*   [Gatsby with prisma-client (⭐13)](https://github.com/LekoArts/gatsby-with-prisma-client)
 
 ### :thinking: How Tos / :gear: Schema Visualization Tools
 
@@ -87,23 +87,23 @@ Language: English
 *   [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 *   [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
 
-### :trophy: Tutorials / Tutorials with   [Nexus](https://www.nexusjs.org/#/)
+### :trophy: Tutorials / Tutorials with [Nexus](https://www.nexusjs.org/#/)
 
 *   [Improve Your GraphQL performance with Prisma](https://dev.to/ahmedelywa/improve-your-graphql-performance-with-prisma-2jia)
 *   [Let's take Prisma 2 for a test drive on AWS Lambda with GraphQL](https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc)
 
-### :family_man_woman_girl_boy: Community / Tutorials with   [NestJS](https://nestjs.com/)
+### :family_man_woman_girl_boy: Community / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [GitHub (⭐26k)](https://github.com/prisma/prisma/)
+*   [GitHub (⭐30k)](https://github.com/prisma/prisma/)
 *   [Website](https://prisma.io)
 *   [Docs](https://prisma.io/docs/)
 *   [Blog](https://prisma.io/blog)
 *   [Slack](https://slack.prisma.io/)
 *   [Twitter](https://twitter.com/prisma)
 
-### :space_invader: Projects Using Prisma / Tutorials with   [NestJS](https://nestjs.com/)
+### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Tottem (⭐874)](https://github.com/poulainv/tottem)
+*   [Tottem (⭐921)](https://github.com/poulainv/tottem)
 *   [Tomorrow](https://www.tomorrowapp.io/)
 *   [Predict Covid](https://predictcovid.com/)
 
@@ -144,11 +144,11 @@ Language: English
 
 ### IO / GPIO
 
-*   [micropython-debounce-switch (⭐7)](https://github.com/selfhostedhome/micropython-debounce-switch) - MicroPython Class for Debouncing Switches.
+*   [micropython-debounce-switch (⭐8)](https://github.com/selfhostedhome/micropython-debounce-switch) - MicroPython Class for Debouncing Switches.
 
 ### Debugging / SRAM
 
-*   [esp32-backtrace (⭐17)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
+*   [esp32-backtrace (⭐18)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
 ## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -186,21 +186,21 @@ Language: English
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb-typescript (⭐902)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
+*   [Airbnb-typescript (⭐928)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Canonical (⭐499)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐17)](https://github.com/gajus/canonical).
-*   [Standard (⭐2.4k)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style (⭐28k)](https://github.com/feross/standard).
-*   [XO (⭐240)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐7k)](https://github.com/xojs/xo).
+*   [Canonical (⭐515)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐17)](https://github.com/gajus/canonical).
+*   [Standard (⭐2.5k)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style (⭐28k)](https://github.com/feross/standard).
+*   [XO (⭐243)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐7.2k)](https://github.com/xojs/xo).
 
 ### Configs / Other Configs
 
 *   [Ash-Nazg (⭐6)](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
-*   [Cecilia (⭐6)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
-*   [ES (⭐28)](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
-*   [Hardcore (⭐228)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
-*   [Problems (⭐59)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
+*   [Cecilia (⭐7)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
+*   [ES (⭐30)](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
+*   [Hardcore (⭐265)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
+*   [Problems (⭐62)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 *   [Supermind (⭐4)](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 
 ## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)

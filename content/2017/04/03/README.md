@@ -38,7 +38,7 @@
 ### Developer
 
 *   [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-*   [DevDocs (⭐620)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+*   [DevDocs (⭐637)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
 
 ### Text Manipulation
 
@@ -46,7 +46,7 @@
 
 ### Scientific
 
-*   [Scientific Workflow (⭐99)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+*   [Scientific Workflow (⭐102)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 
 ### Miscellaneous
 

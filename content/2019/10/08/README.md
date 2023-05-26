@@ -93,7 +93,7 @@
 
 ### E-Books / Others
 
-*   [Archives (⭐7.5k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.5k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -106,11 +106,11 @@
 
 ### Games
 
-*   [Binbo (⭐100)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐107)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐274)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐275)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐6.7k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐7.2k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

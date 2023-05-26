@@ -2,7 +2,7 @@
 
 A curated list of resources on software architecture
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/simskij/awesome-software-architecture/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) · ⭐ 1.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/simskij/awesome-software-architecture/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) · ⭐ 1.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/simskij/awesome-software-architecture/README.md) / [Weekly](/content/simskij/awesome-software-architecture/week/README.md) / Overview ]
 
@@ -105,6 +105,7 @@ contain some resources that are also present in more niche lists.
 *   [PlantUML](http://plantuml.com/) - Like markdown for diagrams, PlantUML renders an english-like grammer into diagrams.
 *   [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud\&tab=overview) - Adds support for PlantUML-based diagrams in the atlassian suite.
 *   [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
+*   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ## Frameworks
 
@@ -134,11 +135,12 @@ contain some resources that are also present in more niche lists.
 *   [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) - Developers, Digital Disruption and Thriving in the Age of Data :orange\_book:.
 *   [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - How BPDTS use the CALMS model as a reference for their devops adaptations.
 *   [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) - Chaos Engineering is a new discipline within Software Engineering, building confidence in the behavior of distributed systems at scale 🎥.
-*   [Adidas DevOps Maturity Framework (⭐508)](https://github.com/adidas/adidas-devops-maturity-framework) - Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and guidelines that when adopted, increases efficiency, effectiveness and happiness of the team.
+*   [Adidas DevOps Maturity Framework (⭐538)](https://github.com/adidas/adidas-devops-maturity-framework) - Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and guidelines that when adopted, increases efficiency, effectiveness and happiness of the team.
 
 ## Bonus
 
 *   [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - Additional things helpful to learn to get a firm understanding of software architecture.
+*   [Software Architect Roadmap](https://roadmap.sh/software-architect) - A complete and structured guide to become a Software Architect.
 
 ## Contributing
 

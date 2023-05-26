@@ -8,20 +8,16 @@
 
 ## [1. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
-### Professional Groups / Topic-specific
-
-*   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://www.asanet.org/asa-communities/sections/mathematical-sociology).
-
 ### Professional Groups / Research Groups (Other)
 
 *   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
 
 ### Software / Julia
 
-*   [EcologicalNetwork.jl (⭐65)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
-*   [MatrixNetworks.jl (⭐100)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
+*   [EcologicalNetwork.jl (⭐66)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
+*   [MatrixNetworks.jl (⭐105)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 *   [NetworkFlows.jl (⭐3)](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
-*   [PhyloNetworks.jl (⭐126)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
+*   [PhyloNetworks.jl (⭐134)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
 
 ## [2. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -59,7 +55,7 @@
 
 ### Open Source Repos / Elastic Container Service
 
-*   [blox :fire::fire::fire: (⭐953)](https://github.com/blox/blox) - Open source tools for building custom schedulers on ECS.
+*   [blox :fire::fire::fire: (⭐952)](https://github.com/blox/blox) - Open source tools for building custom schedulers on ECS.
 
 ---
 

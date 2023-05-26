@@ -16,8 +16,8 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome ARM Exploitation (⭐190)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
-*   [Awesome Threat Modeling (⭐90)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
+*   [Awesome ARM Exploitation (⭐217)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
+*   [Awesome Threat Modeling (⭐97)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 

@@ -23,7 +23,7 @@
 ### Podcasts / Other
 
 *   [willianjusten/awesome-svg (⭐4.4k)](https://github.com/willianjusten/awesome-svg)
-*   [davidsonfellipe/awesome-wpo (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo)
+*   [davidsonfellipe/awesome-wpo (⭐7.9k)](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

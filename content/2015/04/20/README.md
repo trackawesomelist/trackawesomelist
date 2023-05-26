@@ -10,13 +10,13 @@
 
 ### Natural Language Processing
 
-*   [pocketsphinx-ruby (⭐254)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
+*   [pocketsphinx-ruby (⭐256)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Text and Numbers
 
-*   [expr (⭐11)](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
+*   [expr (⭐12)](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

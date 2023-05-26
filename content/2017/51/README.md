@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 18 - Dec 24, 2017
 
-33 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Machine Learning
 
-*   [shainet (⭐169)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐175)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -41,24 +41,24 @@
 
 ### Text / Barcode
 
-*   [Sprinter (⭐168)](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
+*   [Sprinter (⭐167)](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐459)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐465)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
-*   [GrijjyFoundation (⭐209)](https://github.com/grijjy/GrijjyFoundation). `[Delphi]` Foundation classes and utilities that are used throughout the other Grijjy Repositories.
+*   [GrijjyFoundation (⭐220)](https://github.com/grijjy/GrijjyFoundation). `[Delphi]` Foundation classes and utilities that are used throughout the other Grijjy Repositories.
     // *BSON/JSON, IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.*
 
 ## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Optimization / NLP
 
-*   [Bayesian Optimization (⭐6.6k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐6.8k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 
@@ -114,13 +114,19 @@
 
 *   [vue-storefront (⭐10k)](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 
-## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### CSharp / Data Visualization
+
+*   [QuantConnect (⭐7.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+
+## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Ingestion
 
 *   [Apache NiFi](https://nifi.apache.org/) - Apache NiFi is an integrated data logistics platform for automating the movement of data between disparate systems.
 
-## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -135,19 +141,19 @@
 *   [GCeasy](http://gceasy.io/) - Machine learning guided Garbage collection log analysis tool. Auto-detect problems in the JVM GC logs and recommend solutions to it.
 *   [osquery](https://osquery.io/) - osquery is an instrumentation framework that expose the operating system as a high-performance relational database.
 
-## [18. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [19. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Open Source Projects
 
 *   [Ionic Soundboard (⭐13)](https://github.com/rkalis/ionic-soundboard)
 
-## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Products/Technologies / K technologies
 
 *   Kotlin <https://blog.jetbrains.com/kotlin/>
 
-## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -176,7 +182,7 @@
 *   [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework (⭐8.4k)](https://github.com/caffe2/caffe2)
 *   [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web (⭐8.5k)](https://github.com/PAIR-code/deeplearnjs)
 
-## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [22. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Startpages / Telegram
 
@@ -186,7 +192,7 @@
 
 *   [Calculist](https://app.calculist.io/)
 
-## [22. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [23. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -234,13 +240,13 @@
 *   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 *   [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 
-## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [24. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [Chimp (⭐789)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
-## [24. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [25. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
@@ -263,13 +269,13 @@
 *   [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 *   [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
 
-## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [simplebeerservice :fire::fire: (⭐316)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
+*   [simplebeerservice :fire::fire: (⭐317)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
-## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [27. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / String
 
@@ -279,24 +285,24 @@
 
 *   [uuid (⭐13k)](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 
-## [27. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### CLI and REPL
 
-*   Use [ts-node (⭐11k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
+*   Use [ts-node (⭐12k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
 *   How to make executable typescript scripts:
     1.  Make sure you have `npx` (shipped with `npm >= 5.2`) and `typescript` package is installed
     2.  Add this [shebang](https://en.wikipedia.org/wiki/Shebang_\(Unix\)) as first line to your script: `#!npx ts-node`
     3.  Make script executable: `chmod +x script.ts`
     4.  Run directly: `./script.ts` :)
 
-## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
 
-## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
@@ -318,13 +324,13 @@
 
 *   [xBehave.net (⭐387)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. <http://xbehave.github.io>
 
-## [30. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [31. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Read-Write
 
-*   [stempeg (⭐71)](https://github.com/faroit/stempeg) [:octocat: (⭐71)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
+*   [stempeg (⭐75)](https://github.com/faroit/stempeg) [:octocat: (⭐75)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
 
-## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
@@ -334,7 +340,7 @@
 
 *   [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -342,18 +348,18 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐348)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐361)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐878)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐899)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐464)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
-*   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
+*   [C++Now 2017 Presentations (⭐470)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2016 Presentations (⭐80)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐570)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐586)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -270,7 +270,7 @@
 
 ### Languages
 
-*   [Brackets (⭐3)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
+*   [Brackets (⭐4)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
 
 ## [8. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [hcledit (⭐280)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐309)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [11. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Schema SDL (⭐64)](https://github.com/amplication/prisma-schema-dsl)
+*   [Prisma Schema SDL (⭐85)](https://github.com/amplication/prisma-schema-dsl)
 
 ## [13. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -332,19 +332,19 @@
 
 ### Traditional Market / Crypto Currencies
 
-*   [lean (⭐6.7k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+*   [lean (⭐7.4k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 ## [15. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Official Resources
 
-*   [GitHub Repo (⭐53k)](https://github.com/vitejs/vite)
-*   [Awesome Vue (⭐68k)](https://github.com/vuejs/awesome-vue)
+*   [GitHub Repo (⭐56k)](https://github.com/vitejs/vite)
+*   [Awesome Vue (⭐69k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐3k)](https://github.com/antfu/icones) - Icon explorer with instant search.
-*   [Awesome CN Café (⭐66)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Icônes (⭐3.5k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐75)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 *   [Todo Example (⭐28)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
 ## [16. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
@@ -368,24 +368,24 @@
 
 ### Contents / Business
 
-*   [Minsk8 (⭐58)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
+*   [Minsk8 (⭐61)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
 
 ### Contents / Finance
 
-*   [Money Tracker (⭐47)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
-*   [Piggyvault (⭐372)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Money Tracker (⭐48)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
+*   [Piggyvault (⭐400)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐834)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐885)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
-*   [TuneIN (⭐142)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
+*   [TuneIN (⭐146)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐622)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐636)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [18. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -626,20 +626,19 @@
 
 ### Open Source Repos / Security
 
-*   [cloudsploit/scans :fire::fire::fire::fire: (⭐2.5k)](https://github.com/cloudsploit/scans) - Detects security risks.
+*   [cloudsploit/scans :fire::fire::fire::fire: (⭐2.6k)](https://github.com/cloudsploit/scans) - Detects security risks.
 
 ## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
 *   [Find "Hidden" Remote Jobs with Google Search](https://medium.com/ft-remote-job/how-to-find-hidden-remote-jobs-using-google-search-12ebaa2ea8ea?source=friends_link\&sk=3bc251fed25dddd4c1a024ae4dd58e30)
-*   [How I Got a Full Time Remote Job in Two Weeks](https://igotpassion.net/get-remote-job/)
 
 ## [21. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Database
 
-*   [Datalevin (⭐818)](https://github.com/juji-io/datalevin)
+*   [Datalevin (⭐927)](https://github.com/juji-io/datalevin)
 
 ## [22. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
@@ -651,12 +650,12 @@
 
 ### Framework Components
 
-*   [graphql (⭐118)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
-*   [graphql-crystal (⭐215)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
+*   [graphql (⭐123)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql-crystal (⭐216)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### GUI Development
 
-*   [Iu (⭐61)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐175)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
+*   [Iu (⭐61)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐176)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
 
 ### HTTP
 
@@ -670,7 +669,7 @@
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible playbook for Linux machine setup (⭐30)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+*   [Ansible playbook for Linux machine setup (⭐34)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
 ## [25. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
@@ -691,7 +690,7 @@
 *   [Zr 孜然](https://www.coolapk.com/apk/176794) <sup>[457](https://t.me/s/aboutrss/457)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.coolapk.com/apk/176794)
 *   [Newsflow](https://www.microsoft.com/store/apps/9nblggh58s5r/) <sup>[611](https://t.me/s/aboutrss/611)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.microsoft.com/store/apps/9nblggh58s5r/)
 
-### specifically from (  *a certain platform*  ) / GitHub
+### specifically from (*a certain platform*) / GitHub
 
 *   [Feed the Star](https://feed-the-star.herokuapp.com/) <sup>[626](https://t.me/s/aboutrss/626)</sup> : Feed you with someone's GitHub star [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/geekdada/feed-the-star)
 *   [Banditore](https://bandito.re/) <sup>[629](https://t.me/s/aboutrss/629)</sup> : Gather new releases from your starred GitHub repositories and generate an Atom feed with them. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/j0k3r/banditore)
@@ -705,11 +704,11 @@
 
 *   [Blog post workflow](https://github.com/marketplace/actions/blog-post-workflow) <sup>[764](https://t.me/s/aboutrss/764)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gautamkrishnar/blog-post-workflow)
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Inoreader browser extension](https://www.inoreader.com/blog/2020/08/inoreaders-browser-extension-got-a-big-update-today.html) [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/rss-reader-extension-inoreader/)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://microsoftedge.microsoft.com/addons/detail/rss-reader-extension-by-/lbjfhdjlblncekgomhadnnpampcahhal)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [前端开发/互联网数码/各种软件](https://t.me/s/aboutrss/767) by 「RSS 交流群」管理员 [@lengthmin](https://github.com/lengthmin) <sup>[768](https://t.me/s/aboutrss/768)</sup>
 
@@ -741,7 +740,7 @@
 
 ### Bug trackers
 
-*   [Trac (⭐440)](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
+*   [Trac (⭐450)](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
 
 ## [29. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -755,19 +754,19 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐72)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐83)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [31. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Image Processing
 
-*   [pywal (⭐6.9k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
+*   [pywal (⭐7.1k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 
 ### Penetration Testing
 
-*   [fsociety (⭐8.2k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
-*   [setoolkit (⭐8.4k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
-*   [sqlmap (⭐26k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+*   [fsociety (⭐8.4k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
+*   [setoolkit (⭐8.7k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+*   [sqlmap (⭐27k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ### Static Site Generator
 
@@ -780,7 +779,7 @@
     *   [Python Cheatsheet](https://www.pythoncheatsheet.org/)
     *   [Real Python](https://realpython.com)
     *   [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-    *   [Ultimate Python study guide (⭐4k)](https://github.com/huangsam/ultimate-python)
+    *   [Ultimate Python study guide (⭐4.2k)](https://github.com/huangsam/ultimate-python)
 
 ## [32. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
@@ -798,7 +797,7 @@
 
 ### GitHub
 
-*   [github-stats-box (⭐88)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+*   [github-stats-box (⭐94)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
 ## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -821,17 +820,17 @@
 
 ### Communities of Practice / Uncategorized
 
-*   [TidyTuesday (⭐5.2k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
+*   [TidyTuesday (⭐5.5k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
 ### Contributing / Uncategorized
 
-*   Your contributions are always welcome! Please visit our [contributing.md (⭐402)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
+*   Your contributions are always welcome! Please visit our [contributing.md (⭐431)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
 
 ## [37. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Type Theory and Mathematics
 
-*   [Puiseuxth (⭐3)](https://github.com/roglo/puiseuxth) - Proof of Puiseux's theorem and computation of roots of polynomials of Puiseux's series.
+*   [Puiseuxth (⭐4)](https://github.com/roglo/puiseuxth) - Proof of Puiseux's theorem and computation of roots of polynomials of Puiseux's series.
 
 ### Resources / Community
 
@@ -857,7 +856,7 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐377)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐384)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [41. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -880,7 +879,7 @@
 
 ### Tools / Dolby
 
-*   [IENT/YUView (⭐1.2k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
+*   [IENT/YUView (⭐1.4k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
 
 ## [44. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -898,10 +897,10 @@
 
 ### Python / Computer Vision
 
-*   [Scikit-Opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+*   [Scikit-Opt (⭐4k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 *   [Deep High-Resolution-Net (⭐4k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
-*   [dream-creator (⭐56)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
-*   [Lucent (⭐528)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
+*   [dream-creator (⭐59)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
+*   [Lucent (⭐537)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 
 ### Python / Reinforcement Learning
 
@@ -999,9 +998,9 @@
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [hardened\_malloc (⭐797)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
+*   [hardened\_malloc (⭐948)](https://github.com/GrapheneOS/hardened_malloc) - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
 *   [AMExtractor (⭐10)](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
-*   [frida (⭐11k)](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+*   [frida (⭐12k)](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
 ### Endpoint / Forensics
 
@@ -1010,7 +1009,7 @@
 ### DevOps / Development
 
 *   [Securing DevOps](https://manning.com/books/securing-devops) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
-*   [ansible-os-hardening (⭐2.9k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
+*   [ansible-os-hardening (⭐3.2k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 
 ### Operating Systems / Privacy & Security
 
@@ -1066,15 +1065,15 @@
 
 ### API Builder and Discovery
 
-*   [Blueprinter (⭐925)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Blueprinter (⭐944)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 
 ### GUI
 
-*   [Glimmer (⭐331)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐341)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 
-*   [Kimurai (⭐961)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
+*   [Kimurai (⭐967)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
 ## [57. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -1094,7 +1093,7 @@
 
 ### Mobile
 
-*   [cl-json-pointer (⭐7)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-json-pointer (⭐9)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT](https://opensource.org/licenses/MIT).
 
 ## [59. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -1130,25 +1129,25 @@
 
 ### Development Environment / Debugging and Tracing
 
-*   [hotspot (⭐2.8k)](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
+*   [hotspot (⭐3.2k)](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 
 ## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Go-echo-vuejs-boilerplate (⭐3)](https://github.com/faisaltheparttimecoder/go-echo-vuejs-boilerplate) - Boilerplate that uses go with echo framework as a backend and vuejs that serve the web traffic.
+*   [Go-echo-vuejs-boilerplate (⭐4)](https://github.com/faisaltheparttimecoder/go-echo-vuejs-boilerplate) - Boilerplate that uses go with echo framework as a backend and vuejs that serve the web traffic.
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pathfinding Visualizer ThreeJS (⭐373)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+*   [Pathfinding Visualizer ThreeJS (⭐383)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-toast-snackbar (⭐128)](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
+*   [vuetify-toast-snackbar (⭐126)](https://github.com/eolant/vuetify-toast-snackbar) - Vue.JS toast service with queue support that uses Vuetify's "Snackbar" component.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-component-media-queries (⭐71)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
+*   [vue-component-media-queries (⭐74)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
 
 ### Components & Libraries / Utilities
 

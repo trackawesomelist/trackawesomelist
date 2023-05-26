@@ -56,7 +56,7 @@
 
 ### Patterns
 
-*   [StateViewController (⭐308)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
+*   [StateViewController (⭐310)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
 
 ### Concurrency
 
@@ -64,15 +64,15 @@
 
 ### Other Data
 
-*   [CoreXLSX (⭐694)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
+*   [CoreXLSX (⭐719)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
 
 ### Auto Layout / Barcode
 
-*   [EasySwiftLayout (⭐350)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
+*   [EasySwiftLayout (⭐346)](https://github.com/Pimine/EasySwiftLayout) - Lightweight Swift framework for Apple's Auto-Layout.
 
 ### Payment / Barcode
 
-*   [AnimatedCardInput (⭐39)](https://github.com/netguru/AnimatedCardInput) - Customisable and easy to use Credit Card UI.
+*   [AnimatedCardInput (⭐38)](https://github.com/netguru/AnimatedCardInput) - Customisable and easy to use Credit Card UI.
 
 ## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -197,11 +197,11 @@ Language: English
 
 ### Plugins / Security
 
-*   [no-secrets (⭐101)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
-*   [no-unsanitized (⭐179)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
-*   ScanJS [config (⭐90)](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin (⭐28)](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
-*   [Security (⭐1.9k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
-*   [xss (⭐51)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
+*   [no-secrets (⭐107)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
+*   [no-unsanitized (⭐190)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
+*   ScanJS [config (⭐89)](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin (⭐28)](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
+*   [Security (⭐2k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
+*   [xss (⭐54)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

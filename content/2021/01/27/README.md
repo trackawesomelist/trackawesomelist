@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2021
 
-21 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,20 +40,14 @@ Language: English
 Notable Channels: `#tokio-users`, `#tokio-dev`, `#tokio-docs`, `#ecosystem`, `#butte`, `#hyper`, `#h3`, `#kube`, `#mio`, `#prost`, `#reqwest`, `#tonic`, `#tower`, `#tracing`, `#warp`, `#loom`, `#rdbc`, `#metrics` \
 Language: English
 
-## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
-
-### Tools / Vendor supported providers
-
-*   [Cloudrail (⭐22)](https://github.com/indeni/cloudrail-demo) - Terraform and Live Cloud context-based analysis tool for terraform>=0.12 :heavy\_dollar\_sign:
-
-## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Ada Lovelace Day](https://findingada.com/) [iTunes](https://podcasts.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
 *   [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - British podcast about Software Testing practices
 
-## [4. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
@@ -80,7 +74,7 @@ Language: English
 *   [Just keeping it real... old skool style - Scali's OpenBlog](https://scalibq.wordpress.com/2011/11/23/just-keeping-it-real-old-skool-style/) - Blog post about Scali's journey of doing CGA, EGA and VGA programming.
 *   [Alex Russell's Dos Game Programming in C for Beginners](https://web.archive.org/web/20201112023702/http://www3.telus.net/alexander_russell/course/introduction.htm) - DOS game programming tutorial series including a primer on C, graphics, animation, input handling and collision detection. This series contains a tutorial for making [buffered input handling](https://web.archive.org/web/20200203195410/http://www3.telus.net/alexander_russell/course/chapter_4.htm). Last chapter contains full source code of a Break Out game on DOS.
 *   [The Artevida Game Programming Tutorials](http://web.archive.org/web/20201031021650/http://atrevida.comprenica.com/) - Kevin Matz's almost book-length treatment of DOS system programming and VGA programming fundamentals using C/C++ and 80x86 assembly. Unfortunately it is incomplete and was abandoned since 2001.
-*   [PC Game Programmer's Encyclopedia](https://web.archive.org/web/20201111164240/http://bespin.org/\~qz/pc-gpe/) - Collection of guides covering assembly, sound (Sound Blaster, Gravis UltraSound, PC Speaker, GameBlaster, Adlib), input, memory (EMS, XMS, DMA Transfers), PIT, VGA, SVGA, algorithms and file formats.
+*   [PC Game Programmer's Encyclopedia](https://web.archive.org/web/20201111164240/http://bespin.org/~qz/pc-gpe/) - Collection of guides covering assembly, sound (Sound Blaster, Gravis UltraSound, PC Speaker, GameBlaster, Adlib), input, memory (EMS, XMS, DMA Transfers), PIT, VGA, SVGA, algorithms and file formats.
 *   [The Art of Demomaking by flipcode](http://web.archive.org/web/20190123060222/http://www.flipcode.com/archives/The_Art_of_Demomaking-Issue_02_Introduction_To_Computer_Graphics.shtml) - Series from 1999 that introduces to graphics programming under DOS. The home site contains other late 90s/early 2000s game programming articles as well.
 *   [Programming MS-DOS with Power - DOS Programming, Undocumented DOS, and DOS Secrets](http://web.archive.org/web/20200626182822/http://www.fysnet.net/) - System programming tutorials like disk handling, interrupts, inputs, sound, graphics.
 
@@ -91,7 +85,7 @@ Language: English
 
 ### Video
 
-*   [Values for standard video mode](https://web.archive.org/web/20200214123701/http://www.columbia.edu/\~em36/wpdos/videomodes.txt) - List of all known video modes including BIOS interrupt numbers, text/pixel resolution, number of colors and video memory addresses.
+*   [Values for standard video mode](https://web.archive.org/web/20200214123701/http://www.columbia.edu/~em36/wpdos/videomodes.txt) - List of all known video modes including BIOS interrupt numbers, text/pixel resolution, number of colors and video memory addresses.
 
 ### Video / CGA
 
@@ -112,8 +106,8 @@ Language: English
 
 ### Sound / PC Speaker
 
-*   [Making some noise with the PC speaker! - by Mark Feldman](https://web.archive.org/web/20150302161648/http://heim.ifi.uio.no/\~inf3150/grupper/1/pcspeaker.html) - Very short tutorial on using the PIT for generating PC speaker frequency.
-*   [Frequencies of Musical Notes](https://web.archive.org/web/20201129091353/https://pages.mtu.edu/\~suits/notefreqs.html) - Freqency table usable to parameterize the PC speaker.
+*   [Making some noise with the PC speaker! - by Mark Feldman](https://web.archive.org/web/20150302161648/http://heim.ifi.uio.no/~inf3150/grupper/1/pcspeaker.html) - Very short tutorial on using the PIT for generating PC speaker frequency.
+*   [Frequencies of Musical Notes](https://web.archive.org/web/20201129091353/https://pages.mtu.edu/~suits/notefreqs.html) - Freqency table usable to parameterize the PC speaker.
 *   [Sound Programming with PC Speaker - Chapter 23 of A to Z of C](https://web.archive.org/web/20171115162742/http://guideme.itgo.com/atozofc/ch23.pdf) - PC speaker programming chapter of the "A to Z of C" book with source code.
 
 ### Sound / AdLib/OPL2
@@ -123,8 +117,8 @@ Language: English
 
 ### Sound / Sound Blaster/OPL3
 
-*   [Programmer's Guide to the Yamaha YMF 262/OPL3 FM Music Synthesizer](https://web.archive.org/web/20200509082459/http://www.fit.vutbr.cz/\~arnost/opl/opl3.html) - Reverse-engineered reference on OPL3.
-*   [Sound Blaster 16 Programming Document 3.5 by Ethan Brodsky](https://web.archive.org/web/20201130110457/http://homepages.cae.wisc.edu/\~brodskye/sb16doc/sb16doc.html) - Programming the Sound Blaster 16 DSP CT1341 chip for recording and playback of digitized audio.
+*   [Programmer's Guide to the Yamaha YMF 262/OPL3 FM Music Synthesizer](https://web.archive.org/web/20200509082459/http://www.fit.vutbr.cz/~arnost/opl/opl3.html) - Reverse-engineered reference on OPL3.
+*   [Sound Blaster 16 Programming Document 3.5 by Ethan Brodsky](https://web.archive.org/web/20201130110457/http://homepages.cae.wisc.edu/~brodskye/sb16doc/sb16doc.html) - Programming the Sound Blaster 16 DSP CT1341 chip for recording and playback of digitized audio.
     *   version 3.4 on [GameDev.net archive](https://web.archive.org/web/20180507161514/http://archive.gamedev.net/archive/reference/articles/article444.html)
 *   [Soundblaster Programming Information v0.90](https://web.archive.org/web/20191020222313/http://www.intel-assembler.it/portale/5/soundblaster-programming-information/sb-reference-for-programming-sound.asp) - List of Sound Blaster models and registers.
 
@@ -151,29 +145,29 @@ Language: English
 ### Open source DOS libraries / Sound Blaster/OPL3
 
 *   [Allegro 4.2](https://www.allegro.cc/files/?v=4.2) - Game development library for DOS, Windows and Linux.
-*   [LoveDOS (⭐633)](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
+*   [LoveDOS (⭐641)](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 *   [DOS-VGA-Game (⭐11)](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
 
 ### Homebrew games with source code / Sound Blaster/OPL3
 
-*   [DOS Defender (⭐111)](https://github.com/skeeto/dosdefender-ld31) - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
-*   [Dungeons of Noudar (⭐36)](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
+*   [DOS Defender (⭐113)](https://github.com/skeeto/dosdefender-ld31) - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
+*   [Dungeons of Noudar (⭐37)](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
 *   [Emeritus Pong](https://sourceforge.net/projects/empong/) - Pong clone for DOS, Windows and Linux. Uses PC speaker for sound on DOS.
-*   [Floppy Bird (⭐879)](https://github.com/icebreaker/floppybird) - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
-*   [George M. Tzoumas's collection of MS-DOS games and utilities](http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/\~geotz/dos/) - Turbo Pascal with few games in C and C++. Games include Nibbles, Connect Four, Ms Pacman clone and two arcade/platform games. One of them (ra2) was written using Allegro. Utilities are all written in Turbo Pascal, these include game system routines, file and disk utilities and terminate-and-stay-resident programs (TSR).
+*   [Floppy Bird (⭐885)](https://github.com/icebreaker/floppybird) - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
+*   [George M. Tzoumas's collection of MS-DOS games and utilities](http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/~geotz/dos/) - Turbo Pascal with few games in C and C++. Games include Nibbles, Connect Four, Ms Pacman clone and two arcade/platform games. One of them (ra2) was written using Allegro. Utilities are all written in Turbo Pascal, these include game system routines, file and disk utilities and terminate-and-stay-resident programs (TSR).
 *   [Gridfighter 3D](https://porta2note.itch.io/gridfighter-3d) - '80s style arcade shooter written in Quickbasic. Also the very first known DOS game that supports Oculus Rift VR headset.
     *   [GitHub repository (⭐3)](https://github.com/porta2note/gridfighter3d)
 *   [Hangman](https://sourceforge.net/projects/hangman-dos/) - Hangman clone written in Basic. Runs on at least 80286 processors and uses EGA graphics.
 *   [Magenta's Maze](https://archive.org/details/MAGSMAZE) - 3D maze game using CGA graphics with algebra as theme.
     *   [Source code download link](http://www.doshaven.eu/downloads/537)
-*   [NetHack (⭐2.2k)](https://github.com/NetHack/NetHack) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
+*   [NetHack (⭐2.3k)](https://github.com/NetHack/NetHack) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 *   [Piskworks (⭐8)](https://github.com/berk76/piskworks) - Gomoku clone written in C. Works on DOS, ZX Spectrum, ZX81, ZX80, APPLE1, AS400 and Windows.
 *   [Ptakovina (⭐14)](https://github.com/berk76/tetris) - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
 *   [sudoku86](https://sourceforge.net/projects/sudoku86/) - Sudoku clone written in C. Runs on 8086/8088 CPU, uses CGA, MCGA or VGA graphics and uses a mouse.
 *   [Tetris](http://www.doshaven.eu/game/tetris/) - Tetris clone written in assembly.
     *   [Source code download link](http://www.doshaven.eu/downloads/373)
-*   [Towers of Hanoi (⭐3)](https://github.com/sblendorio/hanoi-dos) - [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) puzzle game written in Turbo Pascal. Originally released in 1996.
-*   [x86 pong (⭐8)](https://github.com/spacerace/x86-pong) - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
+*   [Towers of Hanoi (⭐4)](https://github.com/sblendorio/hanoi-dos) - [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) puzzle game written in Turbo Pascal. Originally released in 1996.
+*   [x86 pong (⭐7)](https://github.com/spacerace/x86-pong) - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
 *   [zmiy](https://sourceforge.net/projects/zmiy/) - Text-mode Snake clone written in C. Runs on 8086 DOS.
 
 ### Freeware games with source code / Sound Blaster/OPL3
@@ -189,29 +183,29 @@ Language: English
 *   [Beneath a Steel Sky](https://web.archive.org/web/20200721064209/https://www.classicdosgames.com/game/Beneath_a_Steel_Sky.html) - Point-and-click adventure game set in a dystopian future. Written in assembly.
     *   [Source code download link](https://web.archive.org/web/20200721083621/https://www.classicdosgames.com/files/source/sky-source.zip)
 *   [Catacomb (⭐135)](https://github.com/CatacombGames/Catacomb) - 2D top-down shooter developed by Softdisk (later becoming id Software). Supports EGA and CGA graphics. Written in Turbo Pascal and assembly.
-*   [Catacomb 3D (⭐176)](https://github.com/CatacombGames/Catacomb3D) - First-person shooter in fantasy setting developed by Softdisk (later becoming id Software). Features pseudo-3D graphics with raycasting technique. Supports EGA graphics. Written in C and assembly. Compiled with Borland C++ 3.1.
+*   [Catacomb 3D (⭐181)](https://github.com/CatacombGames/Catacomb3D) - First-person shooter in fantasy setting developed by Softdisk (later becoming id Software). Features pseudo-3D graphics with raycasting technique. Supports EGA graphics. Written in C and assembly. Compiled with Borland C++ 3.1.
 *   [Commander Keen in Keen Dreams (⭐1.9k)](https://github.com/keendreams/keen) - Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered "Keen 3.5"), but was not widely released. Written in C and assembly.
-*   [Descent (⭐333)](https://github.com/videogamepreservation/descent) - First sci-fi FPS/space shooter to feature entirely true 3D graphics. Written in C and assembly.
-*   [Descent II (⭐67)](https://github.com/videogamepreservation/descent2) - Sequel to Descent. Written in C and assembly.
-*   [Doom (⭐9.8k)](https://github.com/id-Software/DOOM) - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
+*   [Descent (⭐341)](https://github.com/videogamepreservation/descent) - First sci-fi FPS/space shooter to feature entirely true 3D graphics. Written in C and assembly.
+*   [Descent II (⭐72)](https://github.com/videogamepreservation/descent2) - Sequel to Descent. Written in C and assembly.
+*   [Doom (⭐10k)](https://github.com/id-Software/DOOM) - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
 *   [Duke Nukem 3D](https://web.archive.org/web/20190304015745/https://www.classicdosgames.com/game/Duke_Nukem_3D.html) - FPS developed by Apogee featuring the iconic character Duke Nukem. Written in C. Compiled with Watcom C/C++ 10.0.
     *   [Source code download link](https://web.archive.org/web/20160403223736/http://www.classicdosgames.com/files/source/duke3dsource.zip)
-*   [Heretic (⭐32)](https://github.com/OpenSourcedGames/Heretic) - Dark fantasy FPS running on id Software's Doom engine.
-*   [Hovertank 3D (⭐223)](https://github.com/FlatRockSoft/Hovertank3D) - FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.
-*   [Quake (⭐3.9k)](https://github.com/id-Software/Quake) - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
+*   [Heretic (⭐33)](https://github.com/OpenSourcedGames/Heretic) - Dark fantasy FPS running on id Software's Doom engine.
+*   [Hovertank 3D (⭐228)](https://github.com/FlatRockSoft/Hovertank3D) - FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.
+*   [Quake (⭐4.1k)](https://github.com/id-Software/Quake) - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
     *   [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
-*   [Rise of the Triad: Dark War (⭐73)](https://github.com/videogamepreservation/rott) - FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.
+*   [Rise of the Triad: Dark War (⭐76)](https://github.com/videogamepreservation/rott) - FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.
 *   [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - Side-scrolling shoot 'em up created by David L. Clark in 1984. The game involves piloting a Sopwith biplane, attempting to bomb enemy buildings while avoiding fire from enemy planes and various other obstacles.
     *   [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - Code analysis by MaiZure.
-*   [Wolfenstein 3D (⭐1.8k)](https://github.com/id-Software/wolf3d) - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
+*   [Wolfenstein 3D (⭐1.9k)](https://github.com/id-Software/wolf3d) - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
 
-## [5. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [4. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Integrating with Cassandra / Spark
 
 *   [Spark + Cassandra Best Practices](https://blog.pythian.com/spark-cassandra-best-practices/) - Outlines general use cases and best practices of Spark & Cassandra together.
 
-## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Python / Angular
 
@@ -225,7 +219,7 @@ Language: English
 
 *   [Kleroteria](https://www.kleroteria.org). A free, unique "lottery" newsletter where a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 
-## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [6. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### General analytics
 
@@ -243,7 +237,7 @@ Language: English
 *   [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
 *   [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 
-## [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [7. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -261,7 +255,7 @@ Language: English
 
 
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
@@ -272,25 +266,25 @@ Language: English
 
 *   [Krisp](https://krisp.ai/) - Mute background noise in any communication app.
 
-## [10. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Hardware / Plotters
 
 *   [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 
-## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [WebGL Tutorial: Directional Shadow Mapping without extensions](https://www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
 
-## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Synthia (⭐33)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
+*   [Synthia (⭐37)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -300,51 +294,45 @@ Language: English
 
 *   [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
 
-## [14. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Development Tools
-
-*   [Divjoy](https://divjoy.com) - React codebase and UI generator to speed up development (paid)
-
-## [15. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [RightsTech Women](https://rightstech.org) - Switzerland-based nonprofit that combines robotics, technology and human rights training for girls and women.
 
-## [16. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [14. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Frameworks and Stacks
 
-*   [ArduPilot (⭐7.7k)](https://github.com/ArduPilot/ardupilot) - Open source control software for autonomous vehicles - copters/planes/rovers/boats/submersibles.
+*   [ArduPilot (⭐8.4k)](https://github.com/ArduPilot/ardupilot) - Open source control software for autonomous vehicles - copters/planes/rovers/boats/submersibles.
 
 ### Data Visualization and Mission Control / Command Line Interface
 
-*   [ipygany (⭐468)](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
+*   [ipygany (⭐476)](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-bottom-sheet (⭐126)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+*   [vue-bottom-sheet (⭐138)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 
 ### Components & Libraries / Scaffold
 
 *   [vuejs-generate (⭐2)](https://github.com/tomosterlund/generate-vue-component) - An easy CLI for generating Vue components, stores, store modules & unit tests.
 
-## [18. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+## [16. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
 ### Contests, conferences, and events
 
 *   [OzSecCon](https://ozseccon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
 
-## [19. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [17. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Data / CSV <-> JSON
 
 *   [United Nations data](https://data.un.org) - Data from the UN
 
-## [20. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -374,11 +362,11 @@ Language: English
 
 
 
-## [21. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [19. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [CSG Mesh Exporter (.OBJ) (⭐44)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
+*   [CSG Mesh Exporter (.OBJ) (⭐47)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
 
 ---
 

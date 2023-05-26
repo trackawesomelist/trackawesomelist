@@ -22,7 +22,7 @@
 
 ### Template Engine
 
-*   [teeplate (⭐15)](https://github.com/mosop/teeplate) - A library for rendering multiple template files
+*   [teeplate (⭐16)](https://github.com/mosop/teeplate) - A library for rendering multiple template files
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

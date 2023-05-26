@@ -1,41 +1,18 @@
 # Awesome List Updates on Feb 06, 2023
 
-11 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Chat Bot
-
-- Name: [HUMATA](https://www.humata.ai/)
-
-  Title: ChatGPT for Your Files.
-
-  Description: Learn 100X Faster, Create Reports 100X Faster, Analyze Legal Documents 100X Faster, Understand Technical Papers 100X Faster. Ask Questions & Get Answers About Any File Instantly.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Keepi](https://www.keepi.ai/)
-
-  Title: AI Over WhatsApp.
-
-  Description: Access the most advanced AI available today on the go. Keepi will keep you smart and ready with relevant knowledge.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [2. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
 ### Using ChatGPT in other apps
 
 *   [a ChatGPT like writing assistant for Chrome](https://chrome.google.com/webstore/detail/writingmate-1-chatgpt-wri/iihamopomflffiecicbgelncanmfionp)
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
@@ -45,22 +22,22 @@
 
 ### System administration / Third-party APIs
 
-*   [cl-unix-cybernetics (⭐174)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
+*   [cl-unix-cybernetics (⭐177)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
     *   You describe your systems (hosts) using resources having properties. The properties are then probed and synchronized using only /bin/sh on the remote host, and /usr/bin/ssh on the control host.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Image Processing
 
-*   [BitmapPlusPLus (⭐12)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
+*   [BitmapPlusPLus (⭐14)](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. \[MIT]
 
-## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Distributed Systems
 
-*   [Dragonfly (⭐1.1k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+*   [Dragonfly (⭐1.4k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
@@ -70,7 +47,7 @@
 
 *   [hmeyer/stl\_io](https://crates.io/crates/stl_io) - A parser for STL (STereoLithography) files
 
-## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for Windows applications
 
@@ -84,7 +61,7 @@
 
 *   [appdwarf (⭐12)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
-## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Clearnet & Anonymous Networking / Wireguard
 
@@ -94,27 +71,21 @@
 
 *   [Mullvad VPN (DEB10 + OVPN)](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy-first VPN provider's guide for Qubes OS.
 
-## [9. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [8. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Softwares / Servers
 
 *   [Minestom](https://minestom.net/) - Lightweight from-scratch server implementation.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [svrana/neosolarized.nvim (⭐86)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
+*   [svrana/neosolarized.nvim (⭐102)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
 
 ### Editing Support / Diagnostics
 
-*   [altermo/ultimate-autopair.nvim (⭐59)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
-
-## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
-
-### Lecture Videos Playlists / Monograph
-
-*   [Madhur Tulsiani. Mathematical Toolkit](https://www.youtube.com/playlist?list=PLk-BCMYCWSzW-nPNnw19Y6oQJnvaAcp1I) - Things prof. Madhur wish he knew in first year of grad school.
+*   [altermo/ultimate-autopair.nvim (⭐90)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
 
 ---
 

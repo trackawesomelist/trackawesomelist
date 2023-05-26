@@ -45,7 +45,7 @@
 
 ### HTTP
 
-*   [sse.cr (⭐18)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
+*   [sse.cr (⭐22)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -58,17 +58,17 @@
 
 ### Code check/review, debug
 
-*   [AsmProfiler (⭐111)](https://github.com/andremussche/asmprofiler). `[Delphi]` Full tracing 32bit profiler (instrumenting and sampling), written in Delphi and some assembly
+*   [AsmProfiler (⭐113)](https://github.com/andremussche/asmprofiler). `[Delphi]` Full tracing 32bit profiler (instrumenting and sampling), written in Delphi and some assembly
 
 ## [8. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md)
 
 ### Apps / Open Source
 
-*   [Logflare (⭐34)](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
+*   [Logflare (⭐38)](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
 
 ### Workers / Recipes
 
-*   [Repo Hunt (⭐39)](https://github.com/signalnerve/repo-hunt) - Find cool open-source projects daily.
+*   [Repo Hunt (⭐40)](https://github.com/signalnerve/repo-hunt) - Find cool open-source projects daily.
 
 ## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [react-formawesome (⭐5)](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
+*   [react-formawesome (⭐6)](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 
 ## [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 

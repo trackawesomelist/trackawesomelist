@@ -10,13 +10,13 @@
 
 ### Contents / Example Apps
 
-*   [Code and Comment (⭐16)](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)).
+*   [Code and Comment (⭐17)](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)).
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [emel (⭐93)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
+*   [emel (⭐94)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

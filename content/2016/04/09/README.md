@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -71,7 +71,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 ### Documentation
 
-*   [DocFX (⭐3.3k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
+*   [DocFX (⭐3.5k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -87,42 +87,42 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 ### Django
 
-- Name: [Django-CMS (⭐8.9k)](https://github.com/divio/django-cms)
+- Name: [Django-CMS (⭐9.3k)](https://github.com/divio/django-cms)
 
   Description: Easy to use and developer friendly CMS
 
   Link: <http://www.django-cms.org>
 
 
-- Name: [Django-fiber (⭐665)](https://github.com/ridethepony/django-fiber)
+- Name: [Django-fiber (⭐672)](https://github.com/ridethepony/django-fiber)
 
   Description: A simple, user-friendly CMS for all your Django projects
 
   Link: <http://ridethepony.org>
 
 
-- Name: [Feincms (⭐842)](https://github.com/feincms/feincms)
+- Name: [Feincms (⭐862)](https://github.com/feincms/feincms)
 
   Description: A Django-based CMS with a focus on extensibility and concise code
 
   Link: <http://www.feincms.org>
 
 
-- Name: [Mezzanine (⭐4.5k)](https://github.com/stephenmcd/mezzanine)
+- Name: [Mezzanine (⭐4.6k)](https://github.com/stephenmcd/mezzanine)
 
   Description: CMS framework for Django
 
   Link: <http://mezzanine.jupo.org>
 
 
-- Name: [Wagtail (⭐13k)](https://github.com/torchbox/wagtail)
+- Name: [Wagtail (⭐15k)](https://github.com/torchbox/wagtail)
 
   Description: A Django content management system focused on flexibility and user experience
 
   Link: <http://wagtail.io>
 
 
-- Name: [Django-leonardo (⭐96)](https://github.com/django-leonardo/django-leonardo)
+- Name: [Django-leonardo (⭐98)](https://github.com/django-leonardo/django-leonardo)
 
   Description: CMS for everyone, easy to deploy and scale, robust modular system with many packages
 
@@ -141,14 +141,6 @@ A **must-read** for anyone looking to build their own cryptography features.
 ### Unofficial
 
 *   [fluxter (⭐99)](https://github.com/lexmag/fluxter) - An InfluxDB writer for Elixir
-
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Spark / Play Scala
-
-*   [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
-*   [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
-*   [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
 ---
 

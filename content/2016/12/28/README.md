@@ -65,20 +65,6 @@
 
 *   [Northeastern University Center for Complex Network Research](https://www.northeastern.edu/research/centers/center-for-complex-network-research-ccnr/) - Led by Albert-László Barabási.
 
-### Review Articles / Biological, Ecological and Disease Networks
-
-*   [Interactome Networks and Human Disease](http://barabasi.com/f/326.pdf) (*Cell*, 2011).
-*   [Network Biology: Understanding the Cell’s Functional Organization](http://barabasi.com/f/147.pdf) - Accessible introduction to (cellular) network analysis (*Nature Reviews Genetics*, 2004).
-*   [Network Medicine: A Network-based Approach to Human Disease](http://barabasi.com/f/320.pdf) (*Nature Review Genetics*, 2011).
-
-### Review Articles / Complex and Multilayer Networks
-
-*   [Statistical Mechanics of Complex Networks](http://barabasi.com/f/103.pdf) (*Reviews of Modern Physics*, 2002).
-
-### Selected Papers / Social, Economic and Political Networks
-
-*   [Scale-Free Networks](http://barabasi.com/f/124.pdf), by Albert-László Barabási and Eric Bonabeau - Early, accessible formulation of the “networks are everywhere” argument (*Scientific American*, 2003).
-
 ---
 
 - Prev: [Dec 29, 2016](/content/2016/12/29/README.md)

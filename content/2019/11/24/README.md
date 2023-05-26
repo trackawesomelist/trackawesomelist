@@ -35,11 +35,11 @@
 
 ### Custom Scrollbar
 
-*   [react-shadow-scroll (⭐26)](https://github.com/andrelmlins/react-shadow-scroll) - Component that customizes the image and inserts shadow when scrolling exists.
+*   [react-shadow-scroll (⭐28)](https://github.com/andrelmlins/react-shadow-scroll) - Component that customizes the image and inserts shadow when scrolling exists.
 
 ### Boilerplate / Mouse Events
 
-*   [create-react-dependency (⭐25)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
+*   [create-react-dependency (⭐26)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

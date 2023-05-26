@@ -11,11 +11,11 @@
 ### Tools / Online Analyzers
 
 *   [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details including app author, signature, build and manifest information. 3 Analysis/day free quota.
-*   [BitBaan](https://malab.bitbaan.com/)
+*   ~~[BitBaan](https://malab.bitbaan.com/)~~
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐252)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis.
+*   [AndroPyTool (⭐278)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis.
 
 ### Academic/Research/Publications/Books / Others
 
@@ -38,7 +38,7 @@
 
 ### Mock / Barcode
 
-*   [Mocker (⭐913)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+*   [Mocker (⭐942)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -83,11 +83,11 @@
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
-### :trophy: Tutorials / Tutorials with   [Nexus](https://www.nexusjs.org/#/)
+### :trophy: Tutorials / Tutorials with [Nexus](https://www.nexusjs.org/#/)
 
 *   [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
 
-### :trophy: Tutorials / Tutorials with   [NestJS](https://nestjs.com/)
+### :trophy: Tutorials / Tutorials with [NestJS](https://nestjs.com/)
 
 *   [How to query your database using Prisma with NestJS](https://notiz.dev/blog/how-to-connect-nestjs-with-prisma)
 

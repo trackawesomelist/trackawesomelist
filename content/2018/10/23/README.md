@@ -10,18 +10,18 @@
 
 ### Extensions
 
-*   [next-mdx-blog (⭐68)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+*   [next-mdx-blog (⭐69)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Dashboards
 
-*   [Blazer (⭐3.5k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
+*   [Blazer (⭐3.6k)](https://github.com/ankane/blazer) - Simple data viewer using only SQL. Output to table, chart, and maps.
 
 ### Measurements
 
-*   [Measured (⭐271)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐444)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Measured (⭐274)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Ruby Units (⭐450)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -80,17 +80,17 @@
 
 ### UI / Barcode
 
-*   [DockProgress (⭐967)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+*   [DockProgress (⭐1k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐477)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐487)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Media
 
-*   [SupportMediaXF ★2 (⭐24)](https://github.com/bulubuloa/SupportMediaXF) - Simple cross platform plugin to take photos or pick them from a gallery from shared code
+*   [SupportMediaXF ★2 (⭐27)](https://github.com/bulubuloa/SupportMediaXF) - Simple cross platform plugin to take photos or pick them from a gallery from shared code
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -218,13 +218,9 @@
 
 ## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Internet of Things (IoT)
-
-*   [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code (⭐1k)](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`
-
 ### Software / Media Streaming - Video Streaming
 
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.1k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP`
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐4.2k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP`
 
 ---
 

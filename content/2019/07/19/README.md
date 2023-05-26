@@ -20,7 +20,7 @@
 
 ### Software / Automation
 
-*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
+*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐451)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 
 ## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐1.8k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐1.9k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 

@@ -16,7 +16,7 @@
 
 ### Open Source / Other
 
-*   [Sqlectron (⭐4.2k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
+*   [Sqlectron (⭐4.3k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Application Frameworks
 
-*   [peasy (⭐478)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
+*   [peasy (⭐484)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 
 ### IoC
 
@@ -80,7 +80,7 @@
 
 ### Testing
 
-*   [FsCheck (⭐1k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
+*   [FsCheck (⭐1.1k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

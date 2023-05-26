@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Third-Party Packages / Configuration
 
-*   [django-configurations (⭐945)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
+*   [django-configurations (⭐994)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 
 ## [2. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 
@@ -84,13 +84,13 @@
 
 ### Packages / Authentication
 
-*   [Grant (⭐3.8k)](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
+*   [Grant (⭐3.9k)](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Excision Mail (⭐143)](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
+*   [Excision Mail (⭐146)](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -98,7 +98,7 @@
 
 ### Software / Pastebins
 
-*   [PurritoBin (⭐188)](https://github.com/PurritoBin/PurritoBin) - Ultra fast, minimalistic, encrypted command line paste-bin, where the server has no knowledge of the paste data. `ISC` `C++`
+*   [PurritoBin (⭐187)](https://github.com/PurritoBin/PurritoBin) - Ultra fast, minimalistic, encrypted command line paste-bin, where the server has no knowledge of the paste data. `ISC` `C++`
 
 ### Software / Software Development - Project Management
 
@@ -120,17 +120,6 @@
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR (⭐45)](https://github.com/gagoar/use-herald-action)
-
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Raku / Tornado
-
-*   [Perl 6 at a Glance](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) - Andrew Shitov (PDF)
-*   [Raku Guide](https://raku.guide) (HTML) [(PDF) (⭐177)](https://github.com/hankache/rakuguide)
-*   [Raku One-Liners](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) - Andrew Shitov (PDF)
-*   [Raku Programming](https://en.wikibooks.org/wiki/Raku_Programming) - Wikibooks (HTML)
-*   [Using Perl 6 (⭐284)](https://github.com/perl6/book/) (:construction: *project is dead*)
-*   [X=Raku](https://learnxinyminutes.com/docs/raku/) - Learn X in Y minutes (HTML)
 
 ---
 

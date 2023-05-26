@@ -87,7 +87,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [PeachPie (⭐2.1k)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
+*   [PeachPie (⭐2.2k)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 
 ### Web Frameworks
 

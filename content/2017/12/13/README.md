@@ -16,17 +16,17 @@
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐418)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
+*   [ocaml-containers (⭐439)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Next Express Bootstrap Boilerplate (⭐112)](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
+*   [Next Express Bootstrap Boilerplate (⭐111)](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
 
 ### Apps
 
-*   [Snape (⭐788)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+*   [Snape (⭐794)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
@@ -53,13 +53,13 @@
 
 ### Contents / Monitoring
 
-*   [pgwatch2 (⭐1.3k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.
+*   [pgwatch2 (⭐1.5k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Other Data
 
-*   [LeetCode-Swift (⭐4.5k)](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
+*   [LeetCode-Swift (⭐4.6k)](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
 
 ---
 

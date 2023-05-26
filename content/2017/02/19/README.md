@@ -8,10 +8,6 @@
 
 ## [1. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 
-### Companies / Hosting
-
-*   [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
-
 ### CouchApps / Hosting
 
 *   [Ddoc Lab](http://ddoc.me/) - Create couchapps and CouchDB design docs right in your browser.
@@ -66,7 +62,7 @@
 
 ### Testing
 
-*   [Expecto (⭐593)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐600)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ---
 

@@ -20,7 +20,7 @@
 
 ### Open Source / Other
 
-*   [Stacer (⭐8.2k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐8.4k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -32,7 +32,7 @@
 
 ### ReactJS
 
-- Name: [MERNMAP (⭐9)](https://github.com/iamraphson/mernmap)
+- Name: [MERNMAP (⭐10)](https://github.com/iamraphson/mernmap)
 
   Description: An interactive map for MERN(MongoDB, ExpressJS, ReactJS, NodeJS) Stack Developers
 

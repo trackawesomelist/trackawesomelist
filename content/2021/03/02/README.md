@@ -10,7 +10,7 @@
 
 ### State Management / Components
 
-*   [ngx-liquid-cache (⭐84)](https://github.com/luckyseven/ngx-liquid-cache) - A powerful, automatic and optimized Angular 2 cache system that fits everywhere!
+*   [ngx-liquid-cache (⭐82)](https://github.com/luckyseven/ngx-liquid-cache) - A powerful, automatic and optimized Angular 2 cache system that fits everywhere!
 
 ## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -39,13 +39,13 @@
 
 ### Simulation / Version Control
 
-*   [gym-pybullet-drones (⭐583)](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
+*   [gym-pybullet-drones (⭐739)](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [emailwiz (⭐1.2k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Bash`
+*   [emailwiz (⭐1.3k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Bash`
 
 ## [7. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

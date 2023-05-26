@@ -19,7 +19,7 @@
 *   [AC Transit RestroomFinder (⭐0)](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
 *   [AC Transit Training and Education Department (TED) application (⭐7)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
 *   [AC Transit Customer Relations application (CusRel) (⭐6)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
-*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐13)](https://github.com/camsys/transam_core).
+*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐12)](https://github.com/camsys/transam_core).
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Guides
 
-*   [Error message catalog (⭐437)](https://github.com/yogthos/clojure-error-message-catalog)
+*   [Error message catalog (⭐442)](https://github.com/yogthos/clojure-error-message-catalog)
 
 ## [10. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -90,7 +90,7 @@
 
 *   [geojson-id-streaming (⭐2)](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
 *   [geojson-mesh (⭐12)](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
-*   [geojson-polygon-labels (⭐73)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
+*   [geojson-polygon-labels (⭐76)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Open Source Repos / Elastic Container Service
 
-*   [amazon-ecs-init :fire: (⭐188)](https://github.com/aws/amazon-ecs-init) - RPM developed to support the Amazon ECS Container Agent.
+*   [amazon-ecs-init :fire: (⭐189)](https://github.com/aws/amazon-ecs-init) - RPM developed to support the Amazon ECS Container Agent.
 
 ---
 

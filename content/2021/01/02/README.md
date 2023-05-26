@@ -18,7 +18,7 @@
 
 *   Language agnostic
     *   [by @kennyledet (⭐2.2k)](https://github.com/kennyledet/Algorithm-Implementations)
-    *   [by @indy256 (⭐1.7k)](https://github.com/indy256/codelibrary)
+    *   [by @indy256 (⭐1.8k)](https://github.com/indy256/codelibrary)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
     *   [by @patmorin (⭐1.1k)](https://github.com/patmorin/ods)
     *   [by @btjanaka (⭐3)](https://github.com/btjanaka/algorithm-problems)
@@ -27,12 +27,12 @@
 
 ### Actors
 
-*   [bpe (⭐239)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
+*   [bpe (⭐242)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 
 ### Applications
 
 *   [chat (⭐22)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐258)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -41,15 +41,15 @@
 ### Frameworks
 
 *   [n2o (⭐1.3k)](https://github.com/synrc/n2o) - Distributed Application Server.
-*   [nitro (⭐52)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
+*   [nitro (⭐53)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 
 ### ORM and Datamapping
 
-*   [kvs (⭐171)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
+*   [kvs (⭐172)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 
 ### Security
 
-*   [ca (⭐11)](https://github.com/synrc/ca) - Certificate Authority.
+*   [ca (⭐12)](https://github.com/synrc/ca) - Certificate Authority.
 
 ### Validations
 
@@ -65,7 +65,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [attranslate (⭐279)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐285)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 

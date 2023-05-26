@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2016
 
-25 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -63,7 +63,7 @@
 
 ### Music Notation
 
-*   [OpenLilyLib (⭐106)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
+*   [OpenLilyLib (⭐111)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 
 ## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -79,11 +79,11 @@
 
 ### C++ / Gesture Detection
 
-*   [grt (⭐800)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+*   [grt (⭐812)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 ### Python / General-Purpose Machine Learning
 
-*   [pgmpy (⭐2.3k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
+*   [pgmpy (⭐2.4k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -124,11 +124,11 @@
 
 ### C++
 
-*   [Pion (⭐292)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
+*   [Pion (⭐295)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 
 ### Messaging / Scala
 
-*   [Malamute (⭐305)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
+*   [Malamute (⭐306)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
 
 ### REST / Scala
 
@@ -162,41 +162,35 @@
 
 *   [Day of Action (⭐8)](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
 
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### COBOL / Non-X86
-
-*   [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
-
-## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
-*   [Sprint Poker (⭐176)](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
+*   [Sprint Poker (⭐175)](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 
 ### Images
 
 *   [elixir\_exif (⭐12)](https://github.com/sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
 
-## [18. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [17. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Graphics
 
 *   [GameIcons](http://game-icons.net/) - SVG icons for board and video games.
 
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
 
-## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [20. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
@@ -206,7 +200,7 @@
 
 *   [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -216,7 +210,7 @@
 
 *   [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. \[MIT]
 
-## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -272,7 +266,7 @@
 
 *   [BroYara (⭐32)](https://github.com/hempnall/broyara) - Use Yara rules from Bro.
 
-## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / P individuals
 
@@ -282,7 +276,7 @@
 
 *   Robin Wilson <http://blog.rtwilson.com/>
 
-## [25. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Fuzz Testing
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17 - Oct 23, 2016
 
-51 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -102,19 +102,13 @@
 
 *   [Cryptography](https://www.coursera.org/learn/cryptography) - A practical oriented course in Cryptography by University of Maryland College Park.
 
-## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
-
-### Results Processing / Results Analysis
-
-*   [JMeter Result Analysis Plugin (⭐56)](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
-
-## [12. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [11. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Tutorials
 
 *   [Learn Relay](https://learnrelay.org/) - Shows you how to make a Pokemon-themed CRUD app, providing a personal, cloud-based GraphQL backend so you can focus on the client-side code.
 
-## [13. ElixirBooks](/content/sger/ElixirBooks/week/README.md)
+## [12. ElixirBooks](/content/sger/ElixirBooks/week/README.md)
 
 ### **Web Development** / [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
 
@@ -123,7 +117,7 @@
 *   [Elixir Koans](http://elixirkoans.io)
 *   [Awesome Elixir (⭐12k)](https://github.com/h4cc/awesome-elixir)
 
-## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Resources
 
@@ -157,13 +151,13 @@
 *   [CL React (⭐179)](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Camera / Barcode
 
 *   [BarcodeScanner (⭐1.6k)](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
 
-## [16. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
+## [15. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
 ### Tools
 
@@ -223,7 +217,7 @@
 *   [`#drupal-contribute` on Freenode](http://webchat.freenode.net/?channels=drupal-contribute)
 *   [`#drupal-support` on Freenode](http://webchat.freenode.net/?channels=drupal-support)
 
-## [17. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [16. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Tools / OpenOffice
 
@@ -233,7 +227,7 @@
 
 *   [Russian Forum](http://autoit-script.ru/)
 
-## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [17. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Maps
 
@@ -243,7 +237,7 @@
 
 *   [BEMSimpleLineGraph (⭐2.7k)](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
 
-## [19. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [18. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -258,19 +252,19 @@
 
 *   [dropwizard-riak (⭐1)](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak
 
-## [20. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [19. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   [Video series from Data School, about Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y). "Reference guide to 30 common pandas tasks (plus 6 hours of supporting video)."
 
-## [21. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [20. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Examples
 
 *   [Youtube (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Youtube.md): A case study of OKRs for Youtube.
 
-## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [21. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
@@ -280,38 +274,38 @@
 
 *   [C# Samples (⭐28)](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk (⭐140)](https://github.com/FacticiusVir/SharpVk) \[MIT]
 
-## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [22. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-scale-cluster (⭐129)](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 
-## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
 *   [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
 *   [Odroid](http://www.hardkernel.com/) - The ODROID means Open + Droid. It is a development platform for the hardware as well as the software.
 
-## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
 *   [wagtailnews (⭐64)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 
-## [26. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [25. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Podcasts / Individual Podcast episodes
 
 *   [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - Elm Revisited.
 
-## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [26. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Add Citations to Your Code / HTML+CSS+JS
 
 *   [duecredit (⭐216)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
 
-## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [27. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
@@ -330,19 +324,13 @@
 *   Marek Majkowski <https://idea.popcount.org/>
 *   Mary Rose Cook <https://maryrosecook.com/blog/>
 
-## [29. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
-
-### Software / JavaScript
-
-*   [GoJS](http://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
-
-## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [28. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tutorials / iOS
 
 *   [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
 
-## [31. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
+## [29. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
 ### Books
 
@@ -381,13 +369,13 @@
 *   [Working backward to solve problems](https://www.youtube.com/watch?v=v34NqCbAA1c) - Talk on working backward to solve problems by Maurice Ashley
 *   [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on why chess is boring by Bobby Fischer
 
-## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
-*   [Jest (⭐41k)](https://github.com/facebook/jest) - Painless JavaScript testing.
+*   [Jest (⭐42k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 
-## [33. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [31. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -403,7 +391,7 @@
 
 *   [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -421,25 +409,25 @@
 
 *   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
 
-## [35. Bots](/content/hackerkid/bots/week/README.md)
+## [33. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tutorials / Go
 
 *   [How to create a chatbot without coding a single line](https://chatbotsmagazine.com/how-to-create-a-chatbot-without-coding-a-single-line-e716840c7245#.kimh0igkz)
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐322)](https://github.com/jayway/vue-js-workshop)
 
-## [37. Computer Science](/content/ossu/computer-science/week/README.md)
+## [35. Computer Science](/content/ossu/computer-science/week/README.md)
 
 ### How to show your progress / Which programming languages should I use?
 
 *   `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
 
-## [38. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [36. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Security / Links
 
@@ -450,26 +438,26 @@
     *   [Architecting Containers Part 2: Why the User Space Matters](http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/)
     *   [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 
-## [39. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [37. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Websites
 
-*   [Jekyll Starter Kit (⭐143)](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
+*   [Jekyll Starter Kit (⭐146)](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 
-## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Docker Related
 
 *   [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
 *   [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
 
-## [41. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [39. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Boostnote (⭐17k)](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers.
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
@@ -477,13 +465,13 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Suiron (⭐706)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
+*   [Suiron (⭐705)](https://github.com/kendricktan/suiron/) - Machine Learning for RC Cars.
 
 ### R / General-Purpose Machine Learning
 
-*   [TDSP-Utilities (⭐364)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
+*   [TDSP-Utilities (⭐366)](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
 
-## [43. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [41. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### Bolt
 
@@ -506,7 +494,7 @@
 
 *   [Hardware Sizing Calculator](https://neo4j.com/hardware-sizing-calculator/)
 
-## [44. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [42. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -594,7 +582,7 @@
 *   [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) - 13 May 2015.
 *   [Software Engineering Radio Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)](http://www.se-radio.net/2015/01/episode-218-udi-dahan-on-cqrs-command-query-responsibility-segregation/) - 30 January 2015.
 
-## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -613,7 +601,7 @@
 
 *   [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 
-## [46. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [44. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Gaming
 
@@ -659,7 +647,7 @@
 
 *   [Public APIs (⭐565)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
-## [47. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [45. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -673,7 +661,7 @@
 
 *   [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
 
-## [48. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [46. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Tools using the   *SSH*   protocol
 
@@ -717,7 +705,7 @@
 *   [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - Integer Overflow `CVE 2016 077[7-8]`.
 *   [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - `sshd\_config` for `6.7+`, `5.3`.
 
-## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -729,11 +717,11 @@
 
 ### Functional programming
 
-*   [language-ext (⭐5.3k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
+*   [language-ext (⭐5.5k)](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 
 ### Graphics
 
-*   [LibTessDotNet (⭐261)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
+*   [LibTessDotNet (⭐267)](https://github.com/speps/LibTessDotNet) - .NET port of the famous GLU Tessellator, triangulates polygons
 
 ### IDE
 
@@ -749,17 +737,17 @@
 
 ### Office
 
-*   [ClosedXML (⭐3.6k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
+*   [ClosedXML (⭐3.8k)](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
 
 ### WebSocket
 
-*   [Websockets.PCL (⭐99)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
+*   [Websockets.PCL (⭐98)](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
 
 ### Source Generator
 
-*   [Awesome Unity (⭐5.6k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐5.8k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
-## [50. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [48. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
@@ -792,7 +780,7 @@
 *   Mixing Convolutional and Adversarial Networks
     *   Alec Radford, Luke Metz, Soumith Chintala, "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks", ICLR 2016. \[[Paper](http://arxiv.org/pdf/1511.06434.pdf)]
 
-## [51. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [49. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 

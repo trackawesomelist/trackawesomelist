@@ -2,7 +2,7 @@
 
 Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/LappleApple/awesome-leading-and-managing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) · ⭐ 6.3K · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/LappleApple/awesome-leading-and-managing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) · ⭐ 6.8K · 🏷️ Business
 
 [ [Daily](/content/LappleApple/awesome-leading-and-managing/README.md) / [Weekly](/content/LappleApple/awesome-leading-and-managing/week/README.md) / Overview ]
 
@@ -12,9 +12,9 @@ Awesome List of resources on leading people and being a manager. Geared toward t
 
 ## What This Is, and Where It Comes From
 
-Since 2013-ish, [Joe Goldberg](https://twitter.com/tenaciousjoe), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to open-source it. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
+Starting in 2013-ish, [Joe Greenheron](https://babka.social/@tenaciousjoe), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to share it as open source. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
 
-In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Joe's docs via [Software Lead Weekly](http://softwareleadweekly.com/) and asked Joe about posting the contents to GitHub. He gave the greenlight. Lauri changed up the format (very brief blurbs), turned the doc into an [Awesome List (⭐223k)](https://github.com/sindresorhus/awesome), and has continued adding new entries ever since. Helping out with the initial upload were a team of Lauri's former colleagues at [Zalando](https://jobs.zalando.com/tech/). These days the list receives [contributions](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/CONTRIBUTING.md) from people around the world.
+In summer 2017 Lauri Apple found out about Joe's docs via [Software Lead Weekly](http://softwareleadweekly.com/) and asked Joe about posting the contents to GitHub. He gave the greenlight. Lauri changed up the format (very brief blurbs), turned the doc into an [Awesome List (⭐246k)](https://github.com/sindresorhus/awesome), and has continued adding new entries ever since. Helping out with the initial upload were a team of Lauri's former colleagues at [Zalando](https://jobs.zalando.com/tech/). These days the list receives [contributions](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/CONTRIBUTING.md) from people around the world.
 
 *   "An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
 *   "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
@@ -58,7 +58,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauri_apple) found out about Jo
 *   [Postmortems and Retrospectives](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Postmortems-Retrospectives.md)
 *   [Productivity and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Productivity-and-Time-Management.md)
 *   [Tools to Define Your Leadership Style](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Tools-to-Define-Your-Leadership-Style.md)
-*   [Transitioning to Management (⭐6.3k)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+*   [Transitioning to Management (⭐6.8k)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 *   [The VP Engineering Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/The-VP-Engineering-Role.md)
 
 ## FAQ

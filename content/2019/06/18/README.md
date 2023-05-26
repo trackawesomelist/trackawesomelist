@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2019
 
-9 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Developer utilities / Third-party APIs
 
-*   [repl-utilities (⭐48)](https://github.com/m-n/repl-utilities) - Ease
+*   [repl-utilities (⭐49)](https://github.com/m-n/repl-utilities) - Ease
     common tasks at the REPL (print documentation, print external symbols,
     call hooks when loading a package,…). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
@@ -18,19 +18,19 @@
 
 ### Algorithms and Data structures
 
-*   [nary\_tree (⭐14)](https://github.com/medhiwidjaja/nary_tree) - An Elixir implementation of generic n-ary tree data structure.
+*   [nary\_tree (⭐16)](https://github.com/medhiwidjaja/nary_tree) - An Elixir implementation of generic n-ary tree data structure.
 
 ### Cloud Infrastructure and Management
 
-*   [aws (⭐427)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
+*   [aws (⭐449)](https://github.com/aws-beam/aws-elixir) - AWS clients for Elixir.
 
 ### Framework Components
 
-*   [phoenix\_meta\_tags (⭐28)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
+*   [phoenix\_meta\_tags (⭐29)](https://github.com/hlongvu/phoenix_meta_tags) - Generate meta tags for a website.
 
 ### Games
 
-*   [vim\_snake (⭐18)](https://github.com/theanht1/vim_snake) - A classical multiplayer snake game with Vim-style keybinding built with Phoenix framework.
+*   [vim\_snake (⭐19)](https://github.com/theanht1/vim_snake) - A classical multiplayer snake game with Vim-style keybinding built with Phoenix framework.
 
 ### HTTP
 
@@ -38,7 +38,7 @@
 
 ### Office
 
-*   [elixlsx (⭐235)](https://github.com/xou/elixlsx) - A writer for XLSX files.
+*   [elixlsx (⭐238)](https://github.com/xou/elixlsx) - A writer for XLSX files.
 
 ### Security
 
@@ -50,36 +50,30 @@
 
 ### Testing
 
-*   [fake\_server (⭐70)](https://github.com/bernardolins/fake_server) - FakeServer is an HTTP server that simulates response and makes testing external APIs easier.
+*   [fake\_server (⭐71)](https://github.com/bernardolins/fake_server) - FakeServer is an HTTP server that simulates response and makes testing external APIs easier.
 
 ### Utilities
 
 *   [ex\_progress (⭐2)](https://github.com/acj/ex_progress) - A library for tracking progress across many tasks and sub-tasks.
-*   [vert.x (⭐15)](https://github.com/PharosProduction/ExVertx) - Elixir event bus bridge to Vert.x services using TCP socket.
+*   [vert.x (⭐14)](https://github.com/PharosProduction/ExVertx) - Elixir event bus bridge to Vert.x services using TCP socket.
 
 ### Validations
 
 *   [ex\_nric (⭐2)](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### TEI / Vapor
-
-*   [What is the Text Encoding Initiative?](https://books.openedition.org/oep/426) - Lou Bernard
-
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Security
 
 *   [Netflix/bless :fire::fire::fire::fire::fire: (⭐2.7k)](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Knowledge Management Tools
 
 *   [My Mind (⭐3.1k)](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Hiring
 
@@ -89,20 +83,14 @@
 
 *   [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
-## [7. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tutorials / React General Tutorials
-
-*   [Setup Flow with React](https://flow.org/en/docs/react/)
-
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Abp vNext (⭐8.7k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
     Follows best practices and conventions to provide you a SOLID development experience.
 
-## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Books
 
@@ -116,7 +104,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐833)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐884)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ---
 

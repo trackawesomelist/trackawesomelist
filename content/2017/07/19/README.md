@@ -41,18 +41,18 @@
 
 ### Web / Web Application Firewall
 
-*   [ironbee (⭐287)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+*   [ironbee (⭐294)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Big Data / Development
 
-*   [Apache Metron (incubating) (⭐835)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Apache Spot (incubating) (⭐336)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
+*   [Apache Metron (incubating) (⭐837)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+*   [Apache Spot (incubating) (⭐340)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
-*   [MessageKit (⭐5.4k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
+*   [MessageKit (⭐5.6k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 
 ### UI / Barcode
 
@@ -62,7 +62,7 @@
 
 ### QA Tools / Runner
 
-*   [prettier (⭐44k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [prettier (⭐45k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## [7. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [dynamodb-transactions :fire::fire: (⭐351)](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
+*   [dynamodb-transactions :fire::fire: (⭐352)](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

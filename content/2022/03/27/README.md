@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 27, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Deployment / Distribution / Collection View Layout
 
-*   [ios-uploader (⭐110)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
+*   [ios-uploader (⭐114)](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -32,20 +32,19 @@
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Knowledge Management Tools
+### Software / Database Management
 
-*   [Weaviate](https://weaviate.io/) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo (⭐202)](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/), [Source Code (⭐3.5k)](https://github.com/semi-technologies/weaviate), [Clients](https://weaviate.io/developers/weaviate/current/client-libraries/index.html)) `BSD-3-Clause` `Go`
+*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.2k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [CloudBeaver](https://cloudbeaver.io/) - Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ([Source Code (⭐2.1k)](https://github.com/dbeaver/cloudbeaver)) `Apache-2.0` `Nodejs`
-*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐273)](https://github.com/koillection/koillection)) `MIT` `PHP`
+*   [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code (⭐308)](https://github.com/koillection/koillection)) `MIT` `PHP`
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Dev Tools
 
-*   [vue-unicorn-log (⭐6)](https://github.com/webdevnerdstuff/vue-unicorn-log) - A magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible.
+*   [vue-unicorn-log (⭐7)](https://github.com/webdevnerdstuff/vue-unicorn-log) - A Vue 2 magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible. [Vue 3 version (⭐1)](https://github.com/webdevnerdstuff/vue3-unicorn-log) version also available..
 
 ### Components & Libraries / Scaffold
 
@@ -55,13 +54,41 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [shaunsingh/nyoom.nvim (⭐731)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
+*   [shaunsingh/nyoom.nvim (⭐878)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 
-## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Financial Instruments and Pricing
+
+*   [Q-Fin (⭐303)](https://github.com/RomanMichaelPaolucci/Q-Fin) - A Python library for mathematical finance.
+*   [Quantsbin (⭐363)](https://github.com/quantsbin/Quantsbin) - Tools for pricing and plotting of vanilla option prices, greeks and various other analysis around them.
+
+### Python / Trading & Backtesting
+
+*   [TuneTA (⭐257)](https://github.com/jmrichardson/tuneta) - TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return.
+*   [AutoTrader (⭐587)](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
+*   [qf-lib (⭐318)](https://github.com/quarkfin/qf-lib) - QF-Lib is a Python library that provides high quality tools for quantitative finance.
+
+### JavaScript / Data Visualization
+
+*   [QUANTAXIS\_Webkit (⭐38)](https://github.com/yutiansut/QUANTAXIS_Webkit) - An awesome visualization center based on quantaxis.
+
+### Scala / Data Visualization
+
+*   [Scala Quant (⭐10)](https://github.com/frankcash/Scala-Quant) - Scala library for working with stock data from IFTTT recipes or Google Finance.
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [QuantFinance (⭐214)](https://github.com/PythonCharmers/QuantFinance) - Training materials in quantitative finance.
+*   [MarketAnalysis](https://github.com/Poseyy/MarketAnalysis) - Implementing many different methods and popular analysis tools in Python.
+*   [IPythonScripts (⭐109)](https://github.com/mgroncki/IPythonScripts) - Tutorials about Quantitative Finance in Python and QuantLib: Pricing, xVAs, Hedging, Portfolio Optimisation, Machine Learning and Deep Learning.
+*   [Computational-Finance-Course (⭐229)](https://github.com/LechGrzelak/Computational-Finance-Course) - Materials for the course of Computational Finance.
+
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Databases
 
-*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐46k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐46k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐51k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐51k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
 
 ### Home Assistants
 
@@ -70,13 +97,13 @@
 *   [Mycroft](https://mycroft.ai/) - The Private and Open Voice Assistant.
 *   [Home Assistant](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first.
 
-## [9. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go18ds (⭐31)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
+*   [go18ds (⭐32)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
 
-## [10. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Supplement: Troubleshooting / Production, Deployment,   [MLOps](https://ml-ops.org/)
 

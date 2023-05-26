@@ -10,19 +10,19 @@
 
 ### Network Protocols
 
-*   [telnet.cr (⭐9)](https://github.com/spider-gazelle/telnet.cr) - Telnet protocol
+*   [telnet.cr (⭐10)](https://github.com/spider-gazelle/telnet.cr) - Telnet protocol
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Data Manipulation / Data Frames
 
-*   [pandas\_flavor (⭐272)](https://github.com/Zsailer/pandas_flavor) - A package that allows writing your own flavor of Pandas easily.
+*   [pandas\_flavor (⭐276)](https://github.com/Zsailer/pandas_flavor) - A package that allows writing your own flavor of Pandas easily.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐356)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐364)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
 
 ## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 16, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,72 +10,66 @@
 
 ### Gaming
 
-*   [Godot (⭐4.2k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+*   [Godot (⭐4.3k)](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Nim / PicoLisp
-
-*   [Computer Programming with the Nim Programming Language](http://ssalewski.de/nimprogramming.html) - Dr. Stefan Salewski
-
-## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [terraformize (⭐139)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint.
+*   [terraformize (⭐144)](https://github.com/naorlivne/terraformize) - Apply\Destroy Terraform modules via a simple REST API endpoint.
 
-## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Java / Git
 
 *   [Password4j (⭐231)](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
 
-## [5. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
+## [4. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
 ### Miscellaneous
 
 *   [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
 
-## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Template
 
 *   [DVD Chief Template Engine (⭐6)](https://github.com/Fr0sT-Brutal/TemplateEngine). `[Delphi]` `[FPC]` Fork of abandoned implementation of PHP Smarty template engine for Delphi by [DVD Chief](http://dvdchief.com/delphi).
-*   [liquid-delphi (⭐6)](https://github.com/arimateia/liquid-delphi). `[Delphi]` Delphi port of the popular [Ruby Liquid templating language](https://shopify.github.io/liquid) and dotLiquid implementation. It is a separate project that aims to retain the same template syntax as the original, while using delphi coding conventions where possible.
+*   [liquid-delphi (⭐9)](https://github.com/arimateia/liquid-delphi). `[Delphi]` Delphi port of the popular [Ruby Liquid templating language](https://shopify.github.io/liquid) and dotLiquid implementation. It is a separate project that aims to retain the same template syntax as the original, while using delphi coding conventions where possible.
 
 ### Code check/review, debug
 
-*   [Delphi Code Coverage (⭐40)](https://github.com/DelphiCodeCoverage/DelphiCodeCoverage). `[Delphi]` Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
+*   [Delphi Code Coverage (⭐54)](https://github.com/DelphiCodeCoverage/DelphiCodeCoverage). `[Delphi]` Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Translation Management
 
 *   [Texterify](https://texterify.com/) - Free for a single user
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Dependency Management
 
 *   [Phive](https://phar.io/) - A PHAR manager.
 
-## [9. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Books / Uncategorized
 
 *   [Modern Statistics with R](http://www.modernstatisticswithr.com/) - From wrangling and exploring data to inference and predictive modelling. The book includes plenty of examples and more than 200 exercises with worked solutions. Author: Måns Thulin.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [interBTC (⭐197)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
+*   [interBTC (⭐207)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
 
 ### Libraries / Game development
 
-*   [Awesome Quads (⭐120)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
+*   [Awesome Quads (⭐128)](https://github.com/ozkriff/awesome-quads) — A curated list of links to miniquad/macroquad-related code & resources
 
-## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Tutorial
 
@@ -93,7 +87,7 @@
 
 *   [Audio Service](https://pub.dev/packages/audio_service) - System background audio support by [Ryan Heise](https://github.com/ryanheise). [Tutorial](https://suragch.medium.com/background-audio-in-flutter-with-audio-service-and-just-audio-3cce17b4a7d?sk=0837a1b1773e27a4f879ff3072e90305) by [Suragch](https://twitter.com/Suragch1).
 
-## [12. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [11. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage consumption tools / Package managers
 
@@ -103,7 +97,7 @@
 
 *   [ferion11/Wine\_Appimage (⭐34)](https://github.com/ferion11/Wine_Appimage) - AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.
 
-## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
@@ -120,14 +114,14 @@
 *   [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o) - A cyberpunk hack for Ironsworn
 *   [Winsome](https://elstiko.itch.io/winsome) - Stripped-down, setting-less hack of Ironsworn
 
-## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Historic Preservation
 
 *   [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - The National Register of Historic Places is the official list of the Nation's historic places worthy of preservation.
 *   [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - A World Heritage Site is a site on a list of properties maintained by the World Heritage Committee of UNESCO and called the World Heritage List "which it considers as having outstanding universal value".
 
-## [15. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [14. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Qubes OS Websites
 
@@ -136,11 +130,11 @@
 
 ### Clearnet & Anonymous Networking / Wireguard
 
-*   [WireGuard (⭐212)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
+*   [WireGuard (⭐227)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
 ### Clearnet & Anonymous Networking / OpenVPN
 
-*   [How To make a VPN Gateway in Qubes (⭐212)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+*   [How To make a VPN Gateway in Qubes (⭐227)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 
 ### Optics and Extra Info / Unikernel-like
 

@@ -10,13 +10,13 @@
 
 ### Open Source Repos / CLI
 
-*   [awscli-aliases :fire::fire: (⭐425)](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
+*   [awscli-aliases :fire::fire: (⭐435)](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
 
 ## [2. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
 ### Utilities
 
-*   [gifski (⭐2.8k)](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
+*   [gifski (⭐3k)](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 
 ## [3. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
 

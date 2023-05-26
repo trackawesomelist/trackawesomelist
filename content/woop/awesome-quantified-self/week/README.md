@@ -6,6 +6,12 @@
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / Weekly / [Overview](/content/woop/awesome-quantified-self/readme/README.md) ]
 
+## [May 01 - May 07, 2023](/content/2023/18/README.md)
+
+### Applications and Platforms / Habits
+
+*   [Conjure](https://conjure.so) - Habits, goals and time tracker with rules engine, data layer, API, dashboards and more. (Web, Desktop, iOS, Android).
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Articles & Blogs
@@ -18,7 +24,7 @@
 
 ### Applications and Platforms / Wealth
 
-*   [Firefly III (⭐9.5k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐10k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -48,7 +54,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [health-records (⭐14)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
+*   [health-records (⭐19)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -128,7 +134,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Awesome Biomarkers (⭐230)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [Awesome Biomarkers (⭐254)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
@@ -147,7 +153,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Heedy (⭐357)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐363)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -181,7 +187,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐833)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐884)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -418,7 +424,7 @@
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.4k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐4.6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
 
@@ -537,4 +543,4 @@
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐143)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Fluxtream (⭐145)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.

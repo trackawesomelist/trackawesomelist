@@ -74,7 +74,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Trilium Notes (⭐20k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
+*   [Trilium Notes (⭐21k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
 
 ## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -105,18 +105,18 @@
 
 ### Development / Release
 
-*   [release-it (⭐6.1k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [np (⭐7k)](https://github.com/sindresorhus/np) - A better `npm publish`.
+*   [release-it (⭐6.5k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [np (⭐7.1k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 
 ### Utilities / Network Utilities
 
-*   [get-port-cli (⭐129)](https://github.com/sindresorhus/get-port-cli) - Get an available port.
+*   [get-port-cli (⭐131)](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 *   [is-reachable-cli (⭐22)](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
 
 ### Data Manipulation / JSON
 
 *   [fx (⭐16k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
-*   [vj (⭐68)](https://github.com/busyloop/vj) - Makes JSON human readable.
+*   [vj (⭐71)](https://github.com/busyloop/vj) - Makes JSON human readable.
 
 ### Data Manipulation / Text
 

@@ -60,30 +60,20 @@
 ### Software / R
 
 *   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
-*   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGM).
+*   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGMs).
     *   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.com/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
-*   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of ggplot2. See also: `tidygraph` R package.
-*   [levelnet (⭐8)](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
-*   [netrankr](https://cran.r-project.org/package=netrankr) - Up-to-date collection of network centrality indices, with lots of documentation.
-    *   [Network Centrality in R: An Introduction](http://blog.schochastics.net/post/network-centrality-in-r-introduction/) - Includes a review of relevant R packages.
-    *   [Network Centrality in R: Neighborhood Inclusion](http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/).
-    *   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
+*   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of `ggplot2`. See also: `tidygraph` R package.
+*   [levelnet (⭐9)](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
 
 ### Varia / Tutorials
 
 *   [Psych Networks](http://psych-networks.com/) - Website with news, references and [tutorials](https://psych-networks.com/tutorials/) about network modeling for psychological data.
 
-### Varia / Blog Series
-
-*   Daniel Little’s blog posts on the philosophy of social science:
-    *   [Networks](http://understandingsociety.blogspot.com/search/label/networks).
-    *   [Social Networks](http://understandingsociety.blogspot.com/search/label/social%20networks).
-
 ## [6. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / CLI utils
 
-*   [cac (⭐2.2k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐2.3k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ## [7. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
@@ -148,7 +138,7 @@
 *   [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 *   [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
 *   [FAQ (⭐9.3k)](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-*   ['Hello World' sample (⭐7.6k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
+*   ['Hello World' sample (⭐7.7k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 
 ### Tooling / Others
 
@@ -168,8 +158,8 @@
 *   [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
 *   [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
 *   [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
-*   [Practical samples of Blazor (⭐7.6k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
-*   [Practical samples of Blazor Server-Side (⭐7.6k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
+*   [Practical samples of Blazor (⭐7.7k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
+*   [Practical samples of Blazor Server-Side (⭐7.7k)](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 *   [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 *   [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
@@ -259,7 +249,7 @@ git commit -m "submodule updated"
 
 ### CSV / Third-party APIs
 
-*   [auto-text (⭐10)](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT](https://opensource.org/licenses/MIT). See also [inquisitor (⭐34)](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
+*   [auto-text (⭐10)](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT](https://opensource.org/licenses/MIT). See also [inquisitor (⭐33)](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
 
 ## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -271,7 +261,7 @@ git commit -m "submodule updated"
 
 ### Dataset / Web
 
-*   [StarData (⭐555)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐556)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
 ## [23. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -283,12 +273,12 @@ git commit -m "submodule updated"
 
 ### Cartridges / Custom cartridges
 
-*   [Nekocart (⭐80)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+*   [Nekocart (⭐83)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 *   [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/) - Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.
 
 ### Testing / Misc
 
-*   [Mealybug Tearoom Tests (⭐43)](https://github.com/mattcurrie/mealybug-tearoom-tests)
+*   [Mealybug Tearoom Tests (⭐45)](https://github.com/mattcurrie/mealybug-tearoom-tests)
 
 ### Compilers / Experimental/Proof of Concepts
 
@@ -302,7 +292,7 @@ git commit -m "submodule updated"
 
 ### Boilerplates / Other
 
-*   [angular-electron (⭐5.3k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+*   [angular-electron (⭐5.4k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 ## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -332,7 +322,7 @@ git commit -m "submodule updated"
 
 ### Resources / Tutorials
 
-*   [pg-utils (⭐665)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pg-utils (⭐722)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ## [29. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -359,7 +349,7 @@ git commit -m "submodule updated"
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐449)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐495)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -377,12 +367,12 @@ git commit -m "submodule updated"
 
 ### Networking
 
-*   [librdkafka (⭐6.5k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
-*   [ZeroMQ (⭐8.3k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
+*   [librdkafka (⭐6.7k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [ZeroMQ (⭐8.5k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
 
 ### Reflection
 
-*   [meta (⭐466)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐475)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -390,8 +380,8 @@ git commit -m "submodule updated"
 
 ### Miscellaneous
 
-*   [CPPItertools (⭐1.2k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
-*   [mio (⭐1.4k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
+*   [CPPItertools (⭐1.3k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
+*   [mio (⭐1.5k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 
 ## [34. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -414,18 +404,18 @@ git commit -m "submodule updated"
 
 ### Monitoring & Quality Control
 
-*   [LTC-tools (⭐56)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
+*   [LTC-tools (⭐57)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 
 ### Multimedia content processing
 
-*   [AvTranscoder (⭐152)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
+*   [AvTranscoder (⭐153)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
 *   [FFmpeg](http://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
 *   [VideoContext (⭐1.2k)](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
-*   [Voctomix (⭐544)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
+*   [Voctomix (⭐545)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
 
 ### Network & Storage Testing
 
-*   [SMPTE 2110-20 Analyzer (⭐48)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
+*   [SMPTE 2110-20 Analyzer (⭐50)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
 
 ### Software-defined radio
 
@@ -433,12 +423,12 @@ git commit -m "submodule updated"
 
 ### Subtitling
 
-*   [EBU-TT-D Subtitling within dash.js (⭐12)](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js (⭐12)](https://github.com/ebu/dash.js).
+*   [EBU-TT-D Subtitling within dash.js (⭐11)](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js (⭐11)](https://github.com/ebu/dash.js).
 *   [EBU-TT Live Interoperability Toolkit (⭐23)](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
 *   [GStreamer TTML subtitling package (⭐18)](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
 *   [IRT EBU-TT-D Application Samples (⭐13)](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
 *   [Subtitling Conversion Framework (SCF) (⭐49)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
-*   [Timed Text Toolkit (ttt) (⭐72)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
+*   [Timed Text Toolkit (ttt) (⭐73)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
 
 ### Video Production
 
@@ -449,27 +439,27 @@ git commit -m "submodule updated"
 
 ### Project Management
 
-*   [milestones (⭐110)](https://github.com/turbopape/milestones)
+*   [milestones (⭐111)](https://github.com/turbopape/milestones)
 
 ### Terminal UI
 
-*   [triki (⭐137)](https://github.com/lambdaisland/trikl)
-*   [zaffre (⭐96)](https://github.com/aaron-santos/zaffre)
+*   [triki (⭐142)](https://github.com/lambdaisland/trikl)
+*   [zaffre (⭐98)](https://github.com/aaron-santos/zaffre)
 *   [closh (⭐1.6k)](https://github.com/dundalek/closh)
 
 ### Graphviz
 
-*   [zipper-viz (⭐7)](https://github.com/lambdaisland/zipper-viz)
-*   [dorothy (⭐230)](https://github.com/daveray/dorothy)
-*   [viz.cljc (⭐30)](https://github.com/jebberjeb/viz.cljc)
+*   [zipper-viz (⭐8)](https://github.com/lambdaisland/zipper-viz)
+*   [dorothy (⭐236)](https://github.com/daveray/dorothy)
+*   [viz.cljc (⭐31)](https://github.com/jebberjeb/viz.cljc)
 *   [fsmviz (⭐49)](https://github.com/jebberjeb/fsmviz)
-*   [rhizome (⭐445)](https://github.com/ztellman/rhizome)
+*   [rhizome (⭐450)](https://github.com/ztellman/rhizome)
 
 ## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
-*   [mardix/flask-cloudy :fire::fire: (⭐238)](https://github.com/mardix/flask-cloudy) - Flask extension.
+*   [mardix/flask-cloudy :fire::fire: (⭐239)](https://github.com/mardix/flask-cloudy) - Flask extension.
 
 ## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -479,14 +469,14 @@ git commit -m "submodule updated"
 
 ### Music and Sound
 
-*   [Maestro (⭐120)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
-*   [Sonic Pi (⭐9.8k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
+*   [Maestro (⭐121)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
+*   [Sonic Pi (⭐10k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
 ## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐4.6k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐4.9k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 *   [numpy-ML (⭐12k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 
 ## [39. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
@@ -619,7 +609,7 @@ git commit -m "submodule updated"
 
 ### Extensions
 
-*   [Next UserAgent (⭐322)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+*   [Next UserAgent (⭐326)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
 ## [47. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 

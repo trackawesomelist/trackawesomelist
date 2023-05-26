@@ -28,58 +28,58 @@
 
 
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Raku / Tornado
-
-*   [Metagenomics](https://kyclark.gitbooks.io/metagenomics) - Ken Youens-Clark
-
-## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Teddit](https://teddit.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teddit/teddit) - Alternative Reddit front-end focused on privacy.
 
-## [5. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [4. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / Security
 
 *   [k9-cdk (⭐6)](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
 
-## [6. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
+## [5. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Prompts
 
-*   [Tide (⭐1.7k)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish.
+*   [Tide (⭐2k)](https://github.com/IlanCosman/tide) - A modern prompt manager for Fish
 
 ### Plugins
 
-*   [Fishtape (⭐314)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
+*   [Fishtape (⭐324)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Blog posts / Ruby
 
 *   ["How to use GTFS data to track transit vehicles in realtime" by Tom Camp](https://www.ably.io/blog/gtfs-data-track-transit-vehicles-realtime) - Using GTFS and GTFS Realtime to provide continuous realtime updates.
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Web frameworks
 
 *   [Marble.js (⭐2.1k)](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 
-## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
 *   [IconPark (⭐7k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
 *   [Remix Icon (⭐5.2k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Visualization
+
+*   [mplfinance (⭐2.8k)](https://github.com/matplotlib/mplfinance) - matplotlib utilities for the visualization, and visual analysis, of financial data.
+
 ## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Documentation and Presentation
 
-*   [mkdocs (⭐15k)](https://github.com/mkdocs/mkdocs/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
+*   [mkdocs (⭐16k)](https://github.com/mkdocs/mkdocs/) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

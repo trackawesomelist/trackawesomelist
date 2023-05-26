@@ -29,13 +29,13 @@
 
 ### GitHub Actions / Bare metal / kernel development
 
-*   [setup-dlang (⭐44)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+*   [setup-dlang (⭐45)](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
 *   [dub-upgrade (⭐1)](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
 
 ### Testing Frameworks / Bare metal / kernel development
 
 *   [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
-*   [dunit (⭐62)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+*   [dunit (⭐63)](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
 *   [unit-threaded (⭐120)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
@@ -47,26 +47,26 @@
 
 ### Grid
 
-*   [svelte-grid-responsive (⭐46)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+*   [svelte-grid-responsive (⭐49)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
 
 ### Form / Checkbox
 
-*   [svelte-forms-lib (⭐555)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+*   [svelte-forms-lib (⭐566)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
 
 ### WebGL / Checkbox
 
-*   [svelthree (⭐416)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+*   [svelthree (⭐430)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
 ### Portal / Checkbox
 
-*   [svelte-portal (⭐303)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-portal (⭐328)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 *   [svelte-teleport (⭐22)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
 ### Routers / Checkbox
 
-*   [svelte-router-spa (⭐457)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
-*   [svelte-routing (⭐1.7k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐654)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [svelte-router-spa (⭐471)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-routing (⭐1.8k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
+*   [tinro (⭐664)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 *   [svelte-spa-router (⭐1.3k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 *   [svelte-client-router (⭐13)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 
@@ -79,13 +79,13 @@
 
 ### Docs / Checkbox
 
-*   [svelte-docster (⭐7)](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
+*   [svelte-docster (⭐8)](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
 
 ## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for Electron applications
 
-*   [Appnativefy (⭐139)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
+*   [Appnativefy (⭐140)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -147,23 +147,23 @@
 
 ### Documentation and Presentation
 
-*   [Zotero (⭐6k)](https://github.com/zotero/zotero) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+*   [Zotero (⭐6.9k)](https://github.com/zotero/zotero) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 
 ### Sensor Processing / Calibration and Transformation
 
-*   [e2calib (⭐100)](https://github.com/uzh-rpg/e2calib) - Contains code that implements video reconstruction from event data for calibration.
+*   [e2calib (⭐115)](https://github.com/uzh-rpg/e2calib) - Contains code that implements video reconstruction from event data for calibration.
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐6.9k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
+*   [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code (⭐7.4k)](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`
 
 ## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
-*   [easy\_perception\_deployment (⭐50)](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy\_perception\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
+*   [easy\_perception\_deployment (⭐51)](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy\_perception\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 *   [easy\_manipulation\_deployment (⭐45)](https://github.com/ros-industrial/easy_manipulation_deployment) - Package that integrates perception elements to establish an end-to-end pick and place task. ![easy\_manipulation\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 
 ## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
@@ -178,12 +178,10 @@
 ### CI/CD
 
 *   [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
-*   [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 
 ### Documentation
 
 *   [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
-*   [readme](https://readme.com/) - Personalized and dynamic developer docs.
 
 ### Environment & Secret Management
 
@@ -203,7 +201,7 @@
 
 ### Form Components / Image Editing
 
-*   [react-avatar-generator (⭐53)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+*   [react-avatar-generator (⭐54)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 
 ## [16. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 

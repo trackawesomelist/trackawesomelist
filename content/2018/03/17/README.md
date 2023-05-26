@@ -10,25 +10,13 @@
 
 ### Encryption
 
-*   [Sym (⭐138)](https://github.com/kigster/sym) - A time-saving symmetric encryption gem based on OpenSSL that uses 256bit (password-encrypted) keys. Read the key from STDIN, a file, ENV or, on a Mac: OS-X Keychain.
+*   [Sym (⭐137)](https://github.com/kigster/sym) - A time-saving symmetric encryption gem based on OpenSSL that uses 256bit (password-encrypted) keys. Read the key from STDIN, a file, ENV or, on a Mac: OS-X Keychain.
 
 ## [2. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
-### Utilities
-
-*   [Gifsicle (⭐957)](https://github.com/kornelski/giflossy) - lossy GIF compressor
-
-### Libraries / Swift
-
-*   [SwiftGif (⭐1.3k)](https://github.com/swiftgif/SwiftGif) - UIImage extension with GIF support
-
 ### Online Tools / Swift
 
-*   [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur
-
-### Scripts / Youtube video to GIF
-
-*   with [vid2gif](https://imgur.com/vidgif) online - [source (⭐1)](https://github.com/jimgur/gif)
+*   [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

@@ -19,7 +19,7 @@
 
 ### CSV
 
-*   [cesso (⭐26)](https://github.com/meh/cesso) - CSV handling library for Elixir.
+*   [cesso (⭐27)](https://github.com/meh/cesso) - CSV handling library for Elixir.
 *   [csvlixir (⭐33)](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
 *   [ex\_csv (⭐46)](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 
@@ -29,14 +29,14 @@
 
 ### JSON
 
-*   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐701)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
-*   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
+*   [jazz (⭐62)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
+*   [joken (⭐711)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [jsxn (⭐27)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐20)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐772)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐789)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### OTP
 
@@ -54,8 +54,8 @@
 
 ### XML
 
-*   [quinn (⭐47)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐158)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [quinn (⭐49)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
+*   [xml\_builder (⭐160)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ---
 

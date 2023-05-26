@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15, 2023
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,7 +52,7 @@
 
 ### IR Tools Collection / Linux Evidence Collection
 
-*   [MAGNET DumpIt (⭐52)](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
+*   [MAGNET DumpIt (⭐71)](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
 
 ### IR Tools Collection / Memory Imaging Tools
 
@@ -62,51 +62,37 @@
 
 ### Utility
 
-*   [VInstall (⭐30)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
+*   [VInstall (⭐32)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### AI
 
-*   [OpenAI (⭐234)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
+*   [OpenAI (⭐507)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Blazor
 
-*   [blazork8s (⭐66)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
+*   [blazork8s (⭐101)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 
 ### Source Generator
 
 *   [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core) - A complete guide to become a ASP.NET Developer.
 
-## [10. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Slides & Web Design
-
-- Name: [Glimmer AI](https://glimmerai.tech)
-
-  Title: AI-Powered Presentation Magic.
-
-  Description: Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [11. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [10. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Reporting Systems
 
 *   [EMPRES-i+ Global Animal Disease Information System](https://empres-i.apps.fao.org/) - A web platform maintained by FAO that provides geolocated data on animal diseases such as rabies, foot-and-mouth disease, or MERS coronavirus. This is a tracking service in which countries and veterinarians can opt-in to reporting.
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Miscellaneous / Jobs in Generative AI
 
 *   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -116,7 +102,7 @@
 
 *   [Feathery](https://feathery.io) - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. Free plan allows up to 250 submissions / month and 5 active forms.
 
-## [14. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [13. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Validating / Symfony2
 
@@ -126,7 +112,7 @@
 
 *   [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
 
-## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 

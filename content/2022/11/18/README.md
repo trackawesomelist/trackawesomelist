@@ -16,13 +16,13 @@
 
 ### Extensions
 
-*   [Next-Sitemap (⭐2.3k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
+*   [Next-Sitemap (⭐2.5k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Terraform Enterprise / Vendor supported providers
 
-*   [OTF (⭐265)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+*   [OTF (⭐313)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 
 ## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

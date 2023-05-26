@@ -1,6 +1,6 @@
 # Awesome List Updates on May 12, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -77,38 +77,32 @@
 
 *   [rebash (⭐66)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 
-## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
-
-### Experiments
-
-*   [D159](http://www.simppa.fi/demo/d159/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
-
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Ruby SDK
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐3.4k)](https://github.com/aws/aws-sdk-ruby)
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Examples and funny stuff
 
-*   [oop (⭐281)](https://github.com/wojtekmach/oop) - OOP in Elixir!
+*   [oop (⭐292)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
-## [8. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
     and also has SVG-to-canvas (and canvas-to-SVG) parser
 
-## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [Flexbox layout (⭐18k)](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 
-## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Social, Economic and Political Networks
 

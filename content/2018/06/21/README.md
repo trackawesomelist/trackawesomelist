@@ -28,7 +28,7 @@
 
 ### Converters
 
-*   [money (⭐26)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
+*   [money (⭐27)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
 
 ## [5. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐426)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐439)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -101,8 +101,8 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐248)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-*   [PgHero (⭐6.8k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
+*   [pganalyze collector (⭐256)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [PgHero (⭐6.9k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 
 ### DevOps / Zabbix
 

@@ -17,8 +17,8 @@
 
 ### Courses / Topic-specific
 
-*   [Complex Networks](https://www.uvm.edu/\~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016; Twitter: [@networksvox](https://twitter.com/networksvox)).
-    *   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/\~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
+*   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016; Twitter: [@networksvox](https://twitter.com/networksvox)).
+    *   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 
 ### Professional Groups / Research Groups (Other)
 
@@ -42,50 +42,43 @@
     *   [Introduction to Network Analysis and Visualization with Gephi](http://www.martingrandjean.ch/gephi-introduction/) (2015).
     *   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
 *   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
-    *   [IGraph/M (⭐76)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
+    *   [IGraph/M (⭐79)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
 *   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
     *   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - Series of blog posts on using NodeXL (2013).
 *   [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) - Windows program for large network analysis, free for noncommercial use.
-    *   [Analyse des réseaux : une introduction à Pajek](http://quanti.hypotheses.org/512/), in French (2011).
-    *   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544), in French (2012).
+    *   [Analyse des réseaux : une introduction à Pajek](https://quanti.hypotheses.org/512/), in French (2011).
+    *   [La détection de communautés avec Pajek 3.6](https://groupefmr.hypotheses.org/544), in French (2012).
 *   [Uberlink](http://www.uberlink.com/) - Software suite for online (hyperlink) network analysis, by the [VOSON](http://vosonlab.net/) research project.
     *   [VOSON System](http://www.uberlink.com/software#voson) - Web-based software for the collection and analysis of online network data.
     *   [VOSON Data Provider for NodeXL](http://www.uberlink.com/software#voson-nodexl) ([quick tutorial](https://blogs.k-state.edu/it-news/2013/04/09/the-nodexl-series-using-voson-for-hyperlink-network-analysis-part-9/); to be discontinued in 2016).
     *   [vosonR](http://vosonlab.net/tools) - R client for the VOSON software (in development).
 *   [VennMaker: An Actor-Centered Interactive Network Mapping Tool](http://www.vennmaker.com/?lang=en) - Cross-platform Java program for ego network analysis.
     *   [VennMaker for Historians: Sources, Social Networks and Software](http://revistes.uab.cat/redes/article/view/v21-during-bixier-kronenwett-stark) (also available in Spanish; 2011).
-*   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
-    *   [Network Analysis with Visone Tutorial](http://visone.info/wiki/images/8/8f/VisoneTutorial-archeology.zip) - Illustrated through an archaeological case study (2015).
 
 ### Software / JavaScript
 
 *   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
-    *   [d3-force: Force-directed graph layout (⭐1.4k)](https://github.com/d3/d3-force) using velocity Verlet integration.
+    *   [d3-force: Force-directed graph layout (⭐1.6k)](https://github.com/d3/d3-force) using velocity Verlet integration.
     *   [d3-vector: Define connections between nodes as directional vectors (⭐4)](https://github.com/thepeoplesbourgeois/d3-vector), consisting of angles and magnitudes.
 
 ### Software / Julia
 
-*   [BayesNets.jl (⭐205)](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
+*   [BayesNets.jl (⭐215)](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
     *   [Smile.jl (⭐2)](https://github.com/sisl/Smile.jl) - Julia wrapper for the [Smile C++ library](http://www.bayesfusion.com/smile-engine), which covers Bayesian networks and influence diagrams.
-*   [EvolvingGraphs (⭐49)](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
+*   [EvolvingGraphs (⭐50)](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
     *   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
-*   [Graphs.jl (⭐209)](https://github.com/JuliaLang/Graphs.jl) - Package to manipulate graph objects in Julia.
+*   [Graphs.jl (⭐206)](https://github.com/JuliaLang/Graphs.jl) - Package to manipulate graph objects in Julia.
     *   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
+    *   [MetaGraphs (⭐48)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 *   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
-    *   [GraphVisualize.jl (⭐4)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐247)](https://github.com/JuliaGL/GLVisualize.jl).
-    *   [LightGraphs.jl (⭐678)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+    *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐247)](https://github.com/JuliaGL/GLVisualize.jl).
+    *   [LightGraphs.jl (⭐675)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
     *   [LightGraphsExtras.jl (⭐22)](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
-    *   [NetworkLayout.jl (⭐80)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
+    *   [NetworkLayout.jl (⭐84)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
     *   [Networks.jl (⭐3)](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
     *   [GraphCentrality.jl (⭐4)](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
-*   [NetworkViz.jl (⭐28)](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl (⭐53)](https://github.com/rohitvarkey/ThreeJS.jl).
+*   [NetworkViz.jl (⭐29)](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl (⭐53)](https://github.com/rohitvarkey/ThreeJS.jl).
     *   [Video presentation of the package](https://youtu.be/kY5te9NwXo8?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S) by its author at JuliaCon 2016.
-
-### Software / Python
-
-*   [networkx](http://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
-    *   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
-    *   [nxviz (⭐408)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
 
 ### Software / R
 
@@ -95,35 +88,18 @@
     *   [Network Model Selection Using qgraph 1.3](http://psychosystems.org/network-model-selection-using-qgraph-1-3-10/) (2014).
     *   [qgraph Examples](http://sachaepskamp.com/qgraph/examples).
     *   [qgraph: Network Visualizations of Relationships in Psychometric Data](https://www.jstatsoft.org/article/view/v048i04) (2012).
-*   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help), [wiki](https://statnet.org/trac)).
-    *   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
-    *   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
-    *   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
 *   [tidygraph](https://CRAN.R-project.org/package=tidygraph) - ‘Tidy’ approach to building graph structures. See also: `ggraph` R package.
     *   [Introducing tidygraph](https://www.data-imaginist.com/2017/introducing-tidygraph/)
-    *   [Tidying up your network analysis with tidygraph and ggraph](https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
+    *   [Tidying up your network analysis with tidygraph and ggraph](https://posit.co/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
 
 ### Software / Syntaxes
 
 *   [PGF/TikZ](http://www.ctan.org/tex-archive/graphics/pgf/) - [Tandem](https://en.wikipedia.org/wiki/PGF/TikZ) of vector graphics languages that can be used to draw graphs in the [LaTeX](https://latex-project.org/) typesetting environment.
-    *   [Awesome LaTeX: TiKZ (⭐1.1k)](https://github.com/egeerardyn/awesome-LaTeX#tikz).
+    *   [Awesome LaTeX: TiKZ (⭐1.2k)](https://github.com/egeerardyn/awesome-LaTeX#tikz).
     *   [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex)
     *   [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/graphs/).
     *   [TikZ & PGF Manual](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/graphics/pgf/base/doc/pgfmanual.pdf).
     *   [TKZ](http://altermundus.com/pages/tkz/index.html) - Packages based on TikZ.
-
-### Varia / Tutorials
-
-*   [Visualizing Historical Networks](https://www.fas.harvard.edu/\~histecon/visualizing/index.html) - Historical network research projects at Harvard University.
-    *   [Angoulême in 1764](https://www.fas.harvard.edu/\~histecon/visualizing/angouleme/index.html).
-    *   [Economists in Cambridge](https://www.fas.harvard.edu/\~histecon/visualizing/graphing/economists.html).
-    *   [The Inner Life of Empires: An Eighteenth Century History](https://www.fas.harvard.edu/\~histecon/visualizing/graphing/innerlife.html).
-
-### Varia / Network Science
-
-*   From [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
-    *   [Taming Complexity](http://barabasi.com/f/182.pdf).
-    *   [The Network Takeover](http://barabasi.com/f/362.pdf).
 
 ## [2. Amas](/content/sindresorhus/amas/README.md)
 
@@ -135,7 +111,7 @@
 
 ### Multimedia content processing
 
-*   [FFmbc (⭐179)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
+*   [FFmbc (⭐180)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
 
 ## [4. Guitarspecs](/content/gitfrage/guitarspecs/README.md)
 
@@ -167,14 +143,14 @@
 
 *   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐5k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 *   [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code (⭐97)](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
-*   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐26k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
+*   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐27k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
 *   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐81)](https://github.com/factor-io/factor)) `MIT` `Ruby`
 *   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
-*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.7k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
-*   [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code (⭐54)](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
-*   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐20k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐249)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
-*   [PHP Censor (⭐663)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
+*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.8k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
+*   [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code (⭐57)](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
+*   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐21k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
+*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐255)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
+*   [PHP Censor (⭐661)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 
@@ -188,16 +164,16 @@
 
 ### Development / Npm
 
-*   [npm-name-cli (⭐271)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [npm-name-cli (⭐272)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
 *   [npm-user-cli (⭐28)](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
-*   [npm-home (⭐182)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+*   [npm-home (⭐183)](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 *   [pkg-dir-cli (⭐21)](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-*   [npm-check-updates (⭐7.9k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
+*   [npm-check-updates (⭐8.2k)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 
 ### Utilities / Theming and Customization
 
-*   [wallpaper-cli (⭐152)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
-*   [themer (⭐5k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
+*   [wallpaper-cli (⭐162)](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
+*   [themer (⭐5.1k)](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
 
 ### Files and Directories / Files
 
@@ -340,7 +316,7 @@
 
 ### SDKs and Samples / Unity SDK
 
-*   [Repo with Samples :fire: (⭐157)](https://github.com/awslabs/aws-sdk-unity-samples)
+*   [Repo with Samples :fire: (⭐159)](https://github.com/awslabs/aws-sdk-unity-samples)
 
 ---
 

@@ -57,17 +57,9 @@
 *   [NetSci - International School and Conference on Social Networks](http://www.netscisociety.net/) - Organized by the Network Science Society (NetSci).
     *   [Large-scale Structures in Networks: Hidden Communities and Latent Hierarchies](http://danlarremore.com/CommunityDetection_and_Ranking_Larremore_2019.pdf) - Talk by [Dan Larremore](http://danlarremore.com/) at NetSci 2019.
 
-### Courses / Topic-specific
-
-*   [Network Science (Physics)](https://www.barabasilab.com/course), by Albert-László Barabási, Sean Cornelius and Roberta Sinatra (Northeastern University, 2015).
-
-### Datasets / Topic-specific
-
-*   [Manlio De Domenico’s Complex Multilayer Networks](https://comunelab.fbk.eu/data.php).
-
 ### Professional Groups / Topic-specific
 
-*   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)).
+*   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)). Twitter: [@SocNetAnalysts](https://twitter.com/SocNetAnalysts).
 
 ### Review Articles / Biological, Ecological and Disease Networks
 
@@ -75,7 +67,7 @@
 
 ### Software / Algorithms
 
-*   [Linkcomm - Link Communities in Complex Networks (⭐87)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://cran.r-project.org/package=linkcomm).
+*   [Linkcomm - Link Communities in Complex Networks (⭐87)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 
 ### Software / Python
 

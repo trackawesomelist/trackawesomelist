@@ -16,7 +16,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [devops-israel/aws-inventory :fire::fire: (⭐387)](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
+*   [devops-israel/aws-inventory :fire::fire: (⭐386)](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
 
 ## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -40,20 +40,15 @@
 
 ### Books / Method-specific
 
-*   *[Network Analysis in Archaeology](https://global.oup.com/academic/product/network-analysis-in-archaeology-9780199697090)*, edited by Carl Knappett (2013; [review in French](https://journals.openedition.org/nda/2383)).
+*   *[Network Analysis in Archaeology](https://global.oup.com/academic/product/network-analysis-in-archaeology-9780199697090)*, edited by Carl Knappett (2013; [review in French](https://doi.org/10.4000/nda.2383)).
 
 ### Journals / Topic-specific
 
 *   *[NETCOM. Networks and Communication Studies](https://journals.openedition.org/netcom/)*, in English and in French (Revues.org).
 
-### Review Articles / Network Modeling
-
-*   [Social Network Evolution and Actor Oriented Models](https://journals.openedition.org/msh/2750) (*Mathematics & Social Sciences*, 1997).
-
 ### Selected Papers / Social, Economic and Political Networks
 
 *   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm), by Pascal Cristofoli, in French - Reviews the current state of relational sociology and network analysis in light of the large-scale and online data (*Réseaux*, 2008).
-*   [La notion de réseau complexe : du réseau comme abstraction et outil à la masse de données des réseaux sociaux en ligne](https://journals.openedition.org/communicationorganisation/4093), by Alain Barrat, in French - Accessible introduction to the study of complex networks (*Communication & Organisation*, 2013).
 
 ### Varia / Network Science
 
@@ -74,7 +69,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐515)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐536)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

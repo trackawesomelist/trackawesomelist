@@ -54,7 +54,7 @@
 
 ### Libraries
 
-*   [omg-curry (⭐133)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
+*   [omg-curry (⭐134)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 
 ## [4. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Image Processing
 
-*   [ImageProcessing (⭐754)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐778)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -85,13 +85,13 @@
 
 ### Tools
 
-*   [Excel Ansible Inventory (⭐87)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
+*   [Excel Ansible Inventory (⭐92)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 
 ## [7. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Schematics to add Prisma support to a NestJS application (⭐14)](https://github.com/marcjulian/nestjs-prisma)
+*   [Schematics to add Prisma support to a NestJS application (⭐16)](https://github.com/marcjulian/nestjs-prisma)
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

@@ -28,10 +28,10 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensor\_stream (⭐505)](https://github.com/jedld/tensor_stream) -
+*   [tensor\_stream (⭐506)](https://github.com/jedld/tensor_stream) -
     Ground-up and standalone reimplementation of TensorFlow for Ruby.
 
-### Articles, Posts, Talks, and Presentations / Gradient boosting
+### Articles, Posts, Talks, and Presentations / Vector search
 
 *   2018
     *   *Deep Learning Programming on Ruby* by [Kenta Murata](https://twitter.com/mrkn)
@@ -39,7 +39,7 @@
         [page](https://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
     *   *How to use trained Keras and TensorFlow machine learning models within Ruby on Rails* by [Denis Sellu](https://twitter.com/denis_sellu) <sup>\[[post](https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails)]</sup>
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
 *   [scikit-learn algorithm cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
@@ -79,7 +79,7 @@
 
 ### Testing / Misc
 
-*   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+*   [MailHog (⭐12k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
 *   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)

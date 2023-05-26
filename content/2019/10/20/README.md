@@ -11,7 +11,7 @@
 ### Languages
 
 *   [Lazy K](https://tromp.github.io/cl/lazy-k.html) - Minimal, turing-complete pure functional language without extra features.
-*   [Unlambda](http://www.madore.org/\~david/programs/unlambda) - Obfuscated functional programming.
+*   [Unlambda](http://www.madore.org/~david/programs/unlambda) - Obfuscated functional programming.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Web Application Framework
 
-*   [C++ REST SDK (⭐7.2k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
+*   [C++ REST SDK (⭐7.4k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
 
 ## [4. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐305)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐314)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -113,11 +113,11 @@
 
 ### Build Automation and Package management
 
-*   [shadow-cljs (⭐2k)](https://github.com/thheller/shadow-cljs) (Clojurescript)
+*   [shadow-cljs (⭐2.1k)](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
 ### Pattern Matching
 
-*   [Meander (⭐789)](https://github.com/noprompt/meander)
+*   [Meander (⭐866)](https://github.com/noprompt/meander)
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -151,11 +151,11 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐83)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐87)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
-*   [Kyapchar (⭐58)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kyapchar (⭐62)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -169,7 +169,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-client-nodejs :fire::fire: (⭐283)](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
+*   [amazon-kinesis-client-nodejs :fire::fire: (⭐287)](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
 
 ---
 

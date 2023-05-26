@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -53,19 +53,25 @@
 
 *   Ariejan de Vroom <https://ariejan.net/>
 
-## [8. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Data Sources
+
+*   [findatapy (⭐1.3k)](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
+
+## [9. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Community
 
 *   [Slack](https://slackcommunity.fusetools.com/) - The official Slack channel.
 
-## [9. Bots](/content/hackerkid/bots/README.md)
+## [10. Bots](/content/hackerkid/bots/README.md)
 
 ### Telegram
 
-*   [Node.js (⭐6.1k)](https://github.com/telegraf/telegraf)
+*   [Node.js (⭐6.6k)](https://github.com/telegraf/telegraf)
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 

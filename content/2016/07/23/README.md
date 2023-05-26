@@ -28,7 +28,7 @@
 
 ### Text and Numbers
 
-*   [stemmer (⭐144)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [stemmer (⭐145)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ### Third Party APIs
 

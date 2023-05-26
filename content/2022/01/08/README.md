@@ -47,42 +47,42 @@
 
 ### Tools / Vendor supported providers
 
-*   [hcldump (⭐3)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
-*   [hclgrep (⭐79)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
+*   [hcldump (⭐4)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
+*   [hclgrep (⭐84)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
 ## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### CLI
 
-*   [SQLLine (⭐550)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐554)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 
 ### Backup / Samples
 
 *   [BaRMan (⭐1.5k)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
-*   [pgbackrest (⭐1.5k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+*   [pgbackrest (⭐1.6k)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 
 ### SQL / Language Server Protocol
 
-*   [SQLLanguageServer (⭐425)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
-*   [sqls (⭐685)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+*   [SQLLanguageServer (⭐450)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [sqls (⭐697)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Validation / Runner
 
-*   [vest (⭐2k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+*   [vest (⭐2.1k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
 ## [8. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Other plugins
 
-*   [Data Storage SQlite (⭐66)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
+*   [Data Storage SQlite (⭐68)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Vaex (⭐7.8k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
+*   [Vaex (⭐7.9k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Languages / Python
 
-*   [tinyman-py-sdk (⭐117)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 *   [algofi-py-sdk (⭐42)](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
 
 ### Languages / JavaScript & TypeScript
@@ -117,7 +117,6 @@
 
 *   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
 *   [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
-*   [split](https://www.split.io/) - Feature flags platform with data analytics.
 
 ---
 

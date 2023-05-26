@@ -16,7 +16,7 @@
 
 ### Game Engine
 
-*   [EnTT (⭐7.8k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐8.2k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -26,7 +26,7 @@
 
 ## [4. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017)   *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))*   \[3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
+### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0) (2013, 2014, 2015, 2017) *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))* [3.9] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
 *   [Off to Be the Wizard](https://www.goodreads.com/book/show/18616975-off-to-be-the-wizard) \[3.98]
 *   [Spell or High Water](https://www.goodreads.com/book/show/21483760-spell-or-high-water) \[4.02]
@@ -35,7 +35,7 @@
 
 ## [5. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
-### Satire / [Discworld](https://en.wikipedia.org/wiki/Discworld)     *by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)*
+### Satire / [Discworld](https://en.wikipedia.org/wiki/Discworld) *by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)*
 
 *   [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) \[3.9]
     This is the first book of the series Discworld. The books can be read in order or independently. There are several narrative threads that cross quite often creating a funny and enjoyable reading experience.

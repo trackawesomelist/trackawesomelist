@@ -10,7 +10,7 @@
 
 ### Caching
 
-*   [IdentityCache (⭐1.8k)](https://github.com/Shopify/identity_cache) - A blob level caching solution to plug into ActiveRecord.
+*   [IdentityCache (⭐1.9k)](https://github.com/Shopify/identity_cache) - A blob level caching solution to plug into ActiveRecord.
 
 ## [2. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Spreadsheet / Runner
 
-*   [HANDSONTABLE (⭐17k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
+*   [HANDSONTABLE (⭐18k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
 
 ### Podcasts / Other
 
-*   [How to Write an Open Source JavaScript Library (⭐174)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+*   [How to Write an Open Source JavaScript Library (⭐176)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 
 ## [5. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

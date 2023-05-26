@@ -10,13 +10,13 @@
 
 ### Form Components / Date / Time picker
 
-*   [date-range-picker (⭐98)](https://github.com/almogtavor/date-range-picker) - [demo](https://almogtavor.github.io/date-range-picker/) - A calendar component that supports date, range & ranges picks.
+*   [date-range-picker (⭐100)](https://github.com/almogtavor/date-range-picker) - [demo](https://almogtavor.github.io/date-range-picker/) - A calendar component that supports date, range & ranges picks.
 
 ## [2. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md)
 
 ### Workers / Recipes
 
-*   [Google reCAPTCHA verification (⭐30)](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
+*   [Google reCAPTCHA verification (⭐33)](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -75,24 +75,24 @@
 
 ### Entertainment / Video
 
-*   [editly (⭐3.9k)](https://github.com/mifi/editly) - Declarative video editing.
+*   [editly (⭐4.1k)](https://github.com/mifi/editly) - Declarative video editing.
 
 ### Data Manipulation / Processors
 
-*   [jq (⭐24k)](https://github.com/stedolan/jq) - JSON processor.
-*   [yq (⭐2.1k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐4k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
-*   [yaml-cli (⭐79)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
-*   [ramda-cli (⭐550)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
+*   [jq (⭐25k)](https://github.com/stedolan/jq) - JSON processor.
+*   [yq (⭐2.2k)](https://github.com/kislyuk/yq) - YAML processor.
+*   [dasel (⭐4.2k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [yaml-cli (⭐83)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
+*   [ramda-cli (⭐553)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
 ### Data Manipulation / JSON
 
-*   [jp (⭐42)](https://github.com/therealklanni/jp) - JSON parser.
+*   [jp (⭐48)](https://github.com/therealklanni/jp) - JSON parser.
 *   [underscore-cli (⭐1.7k)](https://github.com/ddopson/underscore-cli) - Utility-belt for hacking JSON and Javascript.
 
 ### Data Manipulation / Columns
 
-*   [parse-columns-cli (⭐59)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
+*   [parse-columns-cli (⭐60)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
 *   [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
@@ -122,7 +122,7 @@
 
 ### Packages / Storage
 
-*   [Delta Lake (⭐5.7k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
+*   [Delta Lake (⭐5.9k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
 
 ## [11. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -392,13 +392,13 @@
 
 ### Official Documentation Translations
 
-*   [Invidious (⭐9.4k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [Invidious (⭐9.7k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐6.2k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐6.4k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 

@@ -22,7 +22,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Portal 2D (⭐53)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+*   [Portal 2D (⭐60)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Libraries/Frameworks / Serialization
 
-*   [lectra-tech/koson (⭐77)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
+*   [lectra-tech/koson (⭐79)](https://github.com/lectra-tech/koson) - A concise and lightweight Kotlin DSL to build JSON objects and render their String representations
 
 ## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Database
 
-*   [xtdb (⭐2k)](https://github.com/xtdb/xtdb): bitemporal database for SQL, Datalog & graph queries
+*   [xtdb (⭐2.3k)](https://github.com/xtdb/xtdb): bitemporal database for SQL, Datalog & graph queries
 
 ## [10. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

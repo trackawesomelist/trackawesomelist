@@ -77,7 +77,7 @@
 
 ## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
-### Epic Fantasy / [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_\(N.K._Jemisin\))     *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
+### Epic Fantasy / [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_\(N.K._Jemisin\)) *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
 
 *   [The Hundred Thousand Kingdoms](http://www.goodreads.com/book/show/6437061-the-hundred-thousand-kingdoms) \[4.2]
 

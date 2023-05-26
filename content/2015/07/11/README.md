@@ -17,14 +17,14 @@
 ### Android Development
 
 *   [Android Bootstrap (⭐1)](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
-*   [Android Material Drawer Template (⭐681)](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
-*   [material-design-icons-adt-template (⭐437)](https://github.com/intrications/material-design-icons-adt-template) Android Studio / Eclipse ADT template for material-design-icons resources.
-*   [AndroidKickststarter (⭐611)](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.
+*   [Android Material Drawer Template (⭐680)](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
+*   [material-design-icons-adt-template (⭐435)](https://github.com/intrications/material-design-icons-adt-template) Android Studio / Eclipse ADT template for material-design-icons resources.
+*   [AndroidKickststarter (⭐609)](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.
 *   [Android Annotations (⭐11k)](https://github.com/excilys/androidannotations) Fast Android Development. Easy maintainance.
-*   [Android Cookbook Examples (⭐981)](https://github.com/IanDarwin/Android-Cookbook-Examples) Collected code examples from the O'Reilly Android Cookbook.
-*   [Android Basic Samples (⭐954)](https://github.com/playgameservices/android-basic-samples) Mostly game oriented samples.
+*   [Android Cookbook Examples (⭐988)](https://github.com/IanDarwin/Android-Cookbook-Examples) Collected code examples from the O'Reilly Android Cookbook.
+*   [Android Basic Samples (⭐956)](https://github.com/playgameservices/android-basic-samples) Mostly game oriented samples.
 *   [Android Webview Sample App (⭐64)](https://github.com/tscolari/android-webview-sample-app) Webview Sample App
-*   [Android Quickstart (⭐236)](https://github.com/googledrive/android-quickstart) Quickstart application showing the Google Drive API for Android.
+*   [Android Quickstart (⭐237)](https://github.com/googledrive/android-quickstart) Quickstart application showing the Google Drive API for Android.
 
 ### IOS Development.
 
@@ -34,9 +34,9 @@
 ### Python
 
 *   [Django Hackathon Starter (⭐1.6k)](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
-*   [bootstrapy (⭐290)](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
+*   [bootstrapy (⭐292)](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
 *   [Fbone (⭐1.7k)](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
-*   [Flask-Bootstrap (⭐203)](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
+*   [Flask-Bootstrap (⭐204)](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
 *   [Flask Boilerplate (⭐9)](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
 *   [Flask Foundation (⭐1.3k)](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
 *   [GoogleAppEngine Webapp2 Boilerplate (⭐686)](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
@@ -60,7 +60,7 @@
 
 ### Packages / Hardware
 
-*   [i2c-bus (⭐322)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
+*   [i2c-bus (⭐327)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

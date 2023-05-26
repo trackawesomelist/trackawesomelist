@@ -32,17 +32,17 @@
 
 ### Slides & Videos / Other Awesome Lists
 
-*   [A curated list of awesome lists - @sindresorhus (⭐223k)](https://github.com/sindresorhus/awesome)
+*   [A curated list of awesome lists - @sindresorhus (⭐246k)](https://github.com/sindresorhus/awesome)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Templating
 
-*   [EJS (⭐6.9k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.1k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 
-*   [Stylecow (⭐156)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+*   [Stylecow (⭐159)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
 ## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

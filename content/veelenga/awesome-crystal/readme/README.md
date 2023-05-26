@@ -322,6 +322,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 *   [blueprint (⭐27)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
 *   [form\_builder.cr (⭐32)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+*   [Water (⭐24)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## HTML/XML Parsing
 
@@ -533,7 +534,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 *   [Kilt (⭐147)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
 *   [Slang (⭐231)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 *   [teeplate (⭐16)](https://github.com/mosop/teeplate) - A library for rendering multiple template files
-*   [Water (⭐24)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## Testing
 

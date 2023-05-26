@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,37 +29,31 @@
     *   [SPIR-V Legalization and Size Reduction with spirv-opt](https://www.lunarg.com/news-insights/white-papers/spir-v-legalization-and-size-reduction-with-spirv-opt/)
     *   [All White Papers](https://www.lunarg.com/vulkan-white-papers/)
 
-## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
-
-### Scraping
-
-*   [proxycrawl](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
-
-## [4. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [smug (⭐477)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐505)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
-## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
 *   [Prometheus FastAPI Instrumentator (⭐469)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
-## [6. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [5. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / Monitoring
 
 *   [aws-cdk-billing-alarm (⭐19)](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Automotive
 
 *   [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Image Picker
 
@@ -70,19 +64,19 @@
 
 *   [Raspberry Pi Embedder (⭐1.1k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
-## [9. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Videos / NumPyro
 
 *   [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX intro presentation in [*Program Transformations for Machine Learning*](https://program-transformations.github.io) workshop.
 
-## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Videos
 
 *   [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
 
-## [11. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
@@ -92,7 +86,7 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository :octocat: (⭐8.2k)](https://github.com/PointCloudLibrary/pcl)
+    *   [GitHub repository :octocat: (⭐8.3k)](https://github.com/PointCloudLibrary/pcl)
 *   [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
     *   [GitHub repository :octocat: (⭐17k)](https://github.com/rusty1s/pytorch_geometric)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
@@ -148,14 +142,11 @@
 
 *   [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
-*   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
+*   [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
     *   [GitHub repository :octocat: (⭐8.9k)](https://github.com/carla-simulator/carla)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
-*   [LGSVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
-    *   [GitHub repository :octocat: (⭐2k)](https://github.com/lgsvl/simulator)
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/c/LGSVLSimulator)
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Data Visualization on Maps
 
@@ -169,28 +160,28 @@
 
 *   [CurrencyFreaks](https://currencyfreaks.com/) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
 
-## [13. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
+## [12. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Prompts
 
-*   [Pure (⭐993)](https://github.com/rafaelrinaldi/pure) - One-to-one port of [*that*](https://github.com/sindresorhus/pure) ZSH prompt to Fish.
-*   [Hydro (⭐415)](https://github.com/jorgebucaran/hydro) - Minimal, lag-free prompt with async Git status.
+*   [Pure (⭐1.1k)](https://github.com/rafaelrinaldi/pure) - [*That*](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
+*   [Hydro (⭐466)](https://github.com/jorgebucaran/hydro) - Lag-free prompt with async Git status (ooh la la)
 
 ### Plugins
 
-*   [Fisher (⭐6.3k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
-*   [Fundle (⭐340)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager.
-*   [Autopair (⭐201)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐250)](https://github.com/laughedelic/pisces)).
-*   [Async Prompt (⭐291)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
-*   [Abbreviation Tips (⭐181)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
+*   [Fisher (⭐6.6k)](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI
+*   [Fundle (⭐357)](https://github.com/danhper/fundle) - `config.fish`-based plugin manager
+*   [Autopair (⭐234)](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative (⭐258)](https://github.com/laughedelic/pisces))
+*   [Async Prompt (⭐323)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
+*   [Abbreviation Tips (⭐208)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them
 
-## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/spikecodes/libreddit) - Private Reddit front-end written in Rust.
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Dependency Injection / Collection View Layout
 

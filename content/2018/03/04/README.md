@@ -52,12 +52,12 @@
 
 ### Foundations of Mathematics / Set Theory
 
-*   [Sets, Relations, Functions](http://www.cosc.brocku.ca/\~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
+*   [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
 
 ### Foundations of Mathematics / Logic
 
-*   [Predictive Arithmetic](https://web.math.princeton.edu/\~nelson/books/pa.pdf) - Edward Nelson
-*   [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/\~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
+*   [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
+*   [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
 *   [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) - Ted Sundstrom
 
 ### Foundations of Mathematics / Category Theory
@@ -81,29 +81,29 @@
 
 ### Algebra / Linear Algebra
 
-*   [Linear Algebra](https://www.math.ucdavis.edu/\~linear/) - David Cherney, Tom Denton, Andrew Waldron
+*   [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
 *   [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
 *   [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
 
 ### Geometry and Topology / Differential Geometry
 
-*   [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/\~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
+*   [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
 
 ### Analysis / Real Analysis
 
 *   [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
-*   [Advanced Calculus](http://www.math.harvard.edu/\~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
-*   [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/\~baggett/analysis.html) - Lawerence Baggett
+*   [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
+*   [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
 *   [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
-*   [A ProblemText in Advanced Calculus](http://web.pdx.edu/\~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
+*   [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
 *   [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
 *   [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - Wilfred Kaplan, Donald J. Lewis
-*   [Introduction to Calculus I and II](http://www.math.odu.edu/\~jhh/counter10.html) - J.H. Heinbockel
+*   [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) - J.H. Heinbockel
 *   [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
 
 ### Analysis / Functional Analysis
 
-*   [Functional Analysis](http://spot.colorado.edu/\~baggett/functional.html) - Lawerence Baggett
+*   [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) - Lawerence Baggett
 
 ### Analysis / Ordinary Differential Equations
 
@@ -115,18 +115,18 @@
 
 ### Probability and Statistics / Statistics
 
-*   [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/\~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
+*   [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
 
 ### Mathematics for Computer Science / Stochastic processes
 
 *   [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
 *   [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
-*   [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/\~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
+*   [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 *   [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
 
 ### Mathematical Biology / Stochastic processes
 
-*   [Mathematical Biology](http://www.math.ust.hk/\~machas/mathematical-biology.pdf) - Jeffrey Chasnov
+*   [Mathematical Biology](http://www.math.ust.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov
 
 ### Mathematical Physics / Stochastic processes
 
@@ -142,7 +142,7 @@
 
 ### Authentication
 
-*   [pas.plugins.authomatic (⭐6)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
+*   [pas.plugins.authomatic (⭐7)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
 
 ### Official resources
 
@@ -177,7 +177,7 @@
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
-*   [Awesome Icons (⭐996)](https://github.com/vkarampinis/awesome-icons)
+*   [Awesome Icons (⭐1.1k)](https://github.com/vkarampinis/awesome-icons)
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -188,13 +188,13 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vuegg (⭐2.3k)](https://github.com/vuegg/vuegg) - vue GUI generator: Create mockups and code in one go! It leverages the creation of pages, components and styles with its visual editor. Generate all scaffolding code for your next vuejs project.
-*   [Podlove Web Player (⭐355)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
+*   [Podlove Web Player (⭐354)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 
-*   [openebs/openebs :fire::fire::fire::fire::fire: (⭐8k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
+*   [openebs/openebs :fire::fire::fire::fire::fire: (⭐8.1k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 
 ---
 

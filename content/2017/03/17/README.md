@@ -16,13 +16,13 @@
 
 ### Miscellaneous
 
-*   [{fmt} (⭐16k)](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD]
+*   [{fmt} (⭐17k)](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 
-*   [anomalizer/ngx\_aws\_auth :fire::fire: (⭐452)](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
+*   [anomalizer/ngx\_aws\_auth :fire::fire: (⭐455)](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
 
 ## [4. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

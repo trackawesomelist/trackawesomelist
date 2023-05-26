@@ -44,17 +44,17 @@
 
 ### Others / Others
 
-*   [EventHorizon Blazor TypeScript Interop Generator (⭐112)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
+*   [EventHorizon Blazor TypeScript Interop Generator (⭐119)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
 
 ## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Documentation and Presentation
 
-*   [foam (⭐13k)](https://github.com/foambubble/foam) - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
+*   [foam (⭐14k)](https://github.com/foambubble/foam) - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
 
 ### Network and Middleware / Real-Time Kernel
 
-*   [ros2arduino (⭐156)](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
+*   [ros2arduino (⭐169)](https://github.com/ROBOTIS-GIT/ros2arduino) - This library helps the Arduino board communicate with the ROS2 using XRCE-DDS.
 
 ### Network and Middleware / Ethernet and Wireless Networking
 
@@ -63,25 +63,25 @@
 
 ### Network and Middleware / Controller Area Network
 
-*   [opendbc (⭐1.2k)](https://github.com/commaai/opendbc) - The project to democratize access to the decoder ring of your car.
+*   [opendbc (⭐1.4k)](https://github.com/commaai/opendbc) - The project to democratize access to the decoder ring of your car.
 
 ### Network and Middleware / Sensor and Acuator Interfaces
 
-*   [pacmod3 (⭐17)](https://github.com/astuff/pacmod3) - This ROS node is designed to allow the user to control a vehicle with the PACMod drive-by-wire system, board revision 3.
-*   [ros2\_intel\_realsense (⭐122)](https://github.com/intel/ros2_intel_realsense) - These are packages for using Intel RealSense cameras (D400 series) with ROS2.
-*   [sick\_scan (⭐120)](https://github.com/SICKAG/sick_scan) - This stack provides a ROS2 driver for the SICK TiM series of laser scanners.
-*   [ouster\_example (⭐379)](https://github.com/ouster-lidar/ouster_example) - Sample code for connecting to and configuring the OS1, reading and visualizing data, and interfacing with ROS.
-*   [sick\_safetyscanners (⭐49)](https://github.com/SICKAG/sick_safetyscanners) - A ROS Driver which reads the raw data from the SICK Safety Scanners and publishes the data as a laser\_scan msg.
+*   [pacmod3 (⭐21)](https://github.com/astuff/pacmod3) - This ROS node is designed to allow the user to control a vehicle with the PACMod drive-by-wire system, board revision 3.
+*   [ros2\_intel\_realsense (⭐131)](https://github.com/intel/ros2_intel_realsense) - These are packages for using Intel RealSense cameras (D400 series) with ROS2.
+*   [sick\_scan (⭐123)](https://github.com/SICKAG/sick_scan) - This stack provides a ROS2 driver for the SICK TiM series of laser scanners.
+*   [ouster\_example (⭐410)](https://github.com/ouster-lidar/ouster_example) - Sample code for connecting to and configuring the OS1, reading and visualizing data, and interfacing with ROS.
+*   [sick\_safetyscanners (⭐51)](https://github.com/SICKAG/sick_safetyscanners) - A ROS Driver which reads the raw data from the SICK Safety Scanners and publishes the data as a laser\_scan msg.
 
 ## [8. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Open Source / Casual
 
-*   [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
+*   [Ant Squash (⭐13)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 
 ### Non-English Content / Roguelike
 
-*   [Mandarin Chinese (中文) (⭐676)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Mandarin Chinese (中文) (⭐704)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
 ---
 

@@ -52,19 +52,19 @@
 
 ### Data Visualization
 
-*   [diagrams (⭐28k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
+*   [diagrams (⭐29k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
-### Template Engine
+### HTML Builders
 
-*   [Water (⭐23)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
+*   [Water (⭐24)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### UI Testing
 
-*   [AutoMate (⭐275)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
+*   [AutoMate (⭐276)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 
 ## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Build Automation
 
-*   [FlubuCore (⭐841)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐853)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ### CLI
 
@@ -97,20 +97,20 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [IronScheme (⭐340)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
-*   [VisualFSharp (⭐3.4k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
+*   [IronScheme (⭐344)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+*   [VisualFSharp (⭐3.5k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 
 ### Database
 
-*   [Event Store (⭐4.8k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
+*   [Event Store (⭐4.9k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
 
 ### Documentation
 
-*   [SourceBrowser (⭐930)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
+*   [SourceBrowser (⭐962)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
 
 ### E-Commerce and Payments
 
-*   [SmartStoreNET (⭐2.5k)](https://github.com/smartstore/SmartStoreNET) - Free ASP.NET MVC e-commerce Shopping Cart Solution
+*   [SmartStoreNET (⭐2.6k)](https://github.com/smartstore/SmartStoreNET) - Free ASP.NET MVC e-commerce Shopping Cart Solution
 
 ### Extensions
 

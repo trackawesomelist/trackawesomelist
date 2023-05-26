@@ -10,7 +10,7 @@
 
 ### Development / Npm
 
-*   [updates (⭐82)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
+*   [updates (⭐87)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Tools / Editors
 
-*   [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

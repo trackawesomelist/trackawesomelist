@@ -16,7 +16,7 @@
 
 ### C bindings
 
-*   [ssh2.cr (⭐35)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
+*   [ssh2.cr (⭐36)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
 
 ### HTTP
 

@@ -12,23 +12,17 @@
 
 *   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Odin / PicoLisp
-
-*   [Overview | Odin Programming Language](https://odin-lang.org/docs/overview/)
-
-## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
-*   [Atlas (⭐2.4k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Atlas (⭐2.6k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 *   [Reshape (⭐1.4k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
-*   [sqldef (⭐1.4k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
+*   [sqldef (⭐1.5k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
 ### Schema / Diagrams
 
-*   [ERAlchemy (⭐994)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+*   [ERAlchemy (⭐1k)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 
 ### Schema / Documentations
 
@@ -36,7 +30,7 @@
 *   [DBML (⭐1.7k)](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
 *   [SchemaCrawler (⭐1.3k)](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
 *   [Schema Spy (⭐2.5k)](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
-*   [tbls (⭐1.9k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
+*   [tbls (⭐2.2k)](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 
 ### Schema / Design
 
@@ -48,97 +42,89 @@
 
 ### Schema / Samples
 
-*   [Oracle Database Sample Schemas (⭐562)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+*   [Oracle Database Sample Schemas (⭐575)](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgbadger (⭐22)](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
+*   [pgbadger (⭐23)](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
 *   [Promscale (⭐1.3k)](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL.
 
 ### Testing / Zabbix
 
-*   [SQLancer (⭐1.1k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
+*   [SQLancer (⭐1.2k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [pgslice (⭐888)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
+*   [pgslice (⭐907)](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 
-### Data / Generators
+### Data / Generation/Masking/Subsetting
 
-*   [Benerator (⭐89)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
+*   [Benerator (⭐103)](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 *   [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 *   [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 *   [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
-*   [Faker (⭐8.7k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
-*   [Noisia (⭐673)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+*   [Faker (⭐9k)](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
+*   [Noisia (⭐675)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
-## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [Tachidesk-Sorayomi (⭐180)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
+*   [Tachidesk-Sorayomi (⭐247)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 
 ### Contents / Media
 
-*   [Stream Music Player (⭐37)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
+*   [Stream Music Player (⭐42)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
 
-## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [OpenVideoDownloader aka jely2002/youtube-dl-gui (⭐5.5k)](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
-*   [LibreTube (⭐4.4k)](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
-*   [BlackHole (⭐4.5k)](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
+*   [OpenVideoDownloader aka jely2002/youtube-dl-gui (⭐5.6k)](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
+*   [LibreTube (⭐4.6k)](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
+*   [BlackHole (⭐4.7k)](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
 
 ### Overview / Imgur
 
-*   [Omgur](https://git.geraldwu.com/gerald/omgur): `[Proxy]` Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
-    *   No JavaScript or ads
-    *   All requests go through the Omgur backend, client never talks to Imgur
-    *   Prevents Imgur from tracking your IP or JavaScript fingerprint
-    *   Lightweight
-    *   Self-hostable
-    *   Mirror of the original repository on Github: [https://github.com/geraldwuhoo/omgur (⭐10)](https://github.com/geraldwuhoo/omgur)
 *   [imgrs](https://git.geraldwu.com/gerald/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
     *   Mirror of the original repository on Github: [https://github.com/geraldwuhoo/imgrs (⭐2)](https://github.com/geraldwuhoo/imgrs)
 
 ### Overview / Spotify
 
-*   [spotube (⭐2.4k)](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
-*   [SpotX (⭐5.3k)](https://github.com/amd64fox/SpotX): Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
+*   [spotube (⭐2.5k)](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
+*   [SpotX (⭐5.8k)](https://github.com/amd64fox/SpotX): Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
 *   [kotify (⭐24)](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
 
 ### Overview / Apple Music
 
-*   [Cider (⭐6.1k)](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
+*   [Cider (⭐6.2k)](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
 
 ### Overview / Twitch
 
 *   [streamlink-twitch-gui (⭐2.4k)](https://github.com/streamlink/streamlink-twitch-gui): Multi platform Twitch.tv browser for Streamlink
-*   [Twire (⭐789)](https://github.com/twireapp/Twire): Alternative and open source Twitch client for Android
-*   [Xtra (⭐523)](https://github.com/crackededed/Xtra): Twitch player and browser for Android
-*   [ElectronPlayer (⭐416)](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
+*   [Twire (⭐798)](https://github.com/twireapp/Twire): Alternative and open source Twitch client for Android
+*   [Xtra (⭐553)](https://github.com/crackededed/Xtra): Twitch player and browser for Android
+*   [ElectronPlayer (⭐417)](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
 
 ### Overview / Google Search
 
-*   [SearXNG (⭐4.1k)](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
-*   [LibreX (⭐429)](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
+*   [SearXNG (⭐4.2k)](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
+*   [LibreX (⭐475)](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
     *   Small and simple meta search engine, fetches and anonymizes results from Google only, has API support, allows redirects to Invidious/ Bibliogram/ Nitter/ Libreddit
 
 ### Overview / Facebook Messenger
 
-*   [fb-messenger-cli (⭐737)](https://github.com/Alex-Rose/fb-messenger-cli): Use your Facebook account to chat with your friends sneakily in the command line, it's as easy as logging in, choosing a convo and chatting away
 *   [Caprine (⭐6.6k)](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
 
 ### Overview / Shazam
 
-*   [SongRec (⭐868)](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
+*   [SongRec (⭐888)](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
 
 ### Overview / Other services
 
 *   [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
-    *   Official instance: <https://librarian.bcow.xyz>
+    *   Public instances: <https://codeberg.org/librarian/librarian#instances>
 
 ### Related projects / Other services
 
@@ -146,7 +132,13 @@
     *   Official website with install instructions: <https://vancedapp.com>
     *   Note: The source code of Youtube Vanced is not available under a free/open-source license.
     *   For an explanation about the origin of Youtube Vanced see here: <https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/>
-    *   Vanced was forced to shut down by Google due to legal reasons. The project <https://github.com/ReVancedTeam> tries to continue its legacy
+    *   Vanced was forced to shut down by Google due to legal reasons. The project <https://github.com/revanced> tries to continue its legacy
+
+## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Time Series
+
+*   [gluon-ts (⭐3.6k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

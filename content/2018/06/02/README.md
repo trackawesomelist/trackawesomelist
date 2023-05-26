@@ -23,7 +23,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Basys (⭐117)](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
+*   [Basys (⭐118)](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
 
 ## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

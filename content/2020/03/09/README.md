@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09, 2020
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,30 +10,30 @@
 
 ### Generators / Other
 
-*   [Docusaurus (⭐40k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
+*   [Docusaurus (⭐44k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Techniques / Language Models
+### Language Models / BERT models
 
-*   [SciBERT (⭐1.2k)](https://github.com/allenai/scibert) - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
+*   [SciBERT (⭐1.3k)](https://github.com/allenai/scibert) - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐479)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐522)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Integrations
 
-*   [CodeceptJS (⭐3.8k)](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
+*   [CodeceptJS (⭐3.9k)](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
 
 ### Utils
 
 *   [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
-*   [query-selector-shadow-dom (⭐197)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
+*   [query-selector-shadow-dom (⭐204)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -79,16 +79,16 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Reference Projects
 
-*   [k6-performance-test-websocket (⭐3)](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
+*   [k6-performance-test-websocket (⭐4)](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 
 ### Tools
 
-*   [k6-to-junit (⭐15)](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
+*   [k6-to-junit (⭐17)](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
 *   [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 
 ### Stacks
 
-*   [CloudPosse's Load Testing Stack (⭐50)](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
+*   [CloudPosse's Load Testing Stack (⭐52)](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -128,31 +128,25 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐345)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐363)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
 *   [VarTypes (⭐14)](https://github.com/szi/vartypes) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. \[LGPL]
 
-## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [BRYTER](https://bryter.io/) - No-code platform for decision automation; Kotlin, Typescript, Vue.js, k8s
-
-## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [microfft](https://crates.io/crates/microfft): Embedded-friendly (`no_std`, no-`alloc`) fast fourier transforms - ![crates.io](https://img.shields.io/crates/v/microfft.svg)
 
-## [14. Awesome List](/content/sindresorhus/awesome/README.md)
+## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Related
 
-*   [Awesome CLI (⭐385)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐398)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
-## [15. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
+## [14. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
 ### Books
 
@@ -168,29 +162,29 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 *   [A Survey on the Security of Stateful SDN Data Planes](https://ieeexplore.ieee.org/document/7890396)
 *   [SDN A Comprehensive Survey](https://arxiv.org/pdf/1406.0440.pdf)
 
-## [16. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [15. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Map / Image Picker
 
 *   [AMap (⭐513)](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
 
-## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [caniuse.rs (⭐156)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐157)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 
-## [18. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [17. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Talks and Podcasts
 
 *   [Michaela Greiler on Code Reviews - SE Radio 2020](https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/) Michaela Greiler discusses the importance of code reviews and how to conduct them on the Software Engineering Radio podcast.
 
-## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [18. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Maps
 
-*   [WhirlyGlobe-Maply (⭐786)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+*   [WhirlyGlobe-Maply (⭐792)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 ---
 

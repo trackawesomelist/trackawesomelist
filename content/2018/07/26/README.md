@@ -36,7 +36,7 @@
 
 ### Threat intelligence / Threat hunting
 
-*   [GRASSMARLIN (⭐778)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
+*   [GRASSMARLIN (⭐804)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

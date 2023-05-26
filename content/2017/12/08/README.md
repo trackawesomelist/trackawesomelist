@@ -16,7 +16,7 @@
 
 ### Audio Related Packages / Music Information Retrieval
 
-*   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐368)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
+*   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐396)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 
 ## [3. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Android
 
-- Name: [Easy Password (⭐31)](https://github.com/hanjoongcho/aaf-easypassword)
+- Name: [Easy Password (⭐32)](https://github.com/hanjoongcho/aaf-easypassword)
 
   Description: A password manager using a single lock pattern for various type passwords management.
 

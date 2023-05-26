@@ -98,30 +98,30 @@
 
 ### Application Frameworks
 
-*   [Mono-Addins (⭐155)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
+*   [Mono-Addins (⭐157)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
 
 ### Compression
 
-*   [SharpCompress (⭐1.9k)](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
+*   [SharpCompress (⭐2k)](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
 
 ### Game
 
-*   [CocosSharp (⭐493)](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
+*   [CocosSharp (⭐488)](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
 
 ### Git Tools
 
-*   [NGit (⭐255)](https://github.com/mono/ngit) - NGit is a port of JGit to C#
+*   [NGit (⭐256)](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 
 ### GUI
 
 *   [XWT (⭐1.3k)](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
-*   [Gtk# (⭐413)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
+*   [Gtk# (⭐414)](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 
 ### Interoperability
 
 *   [CppSharp (⭐2.6k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
-*   [Sharpen (⭐364)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
-*   [CXXI (⭐197)](https://github.com/mono/cxxi) - C++ interop framework
+*   [Sharpen (⭐366)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
+*   [CXXI (⭐196)](https://github.com/mono/cxxi) - C++ interop framework
 
 ### Media
 

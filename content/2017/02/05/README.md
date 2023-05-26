@@ -76,7 +76,7 @@
 
 ### Interactive / Other
 
-*   [Bubble Breakdown](http://mrl.nyu.edu/\~perlin/bubble_breakdown/) - Shader breakdown by Perlin.
+*   [Bubble Breakdown](http://mrl.nyu.edu/~perlin/bubble_breakdown/) - Shader breakdown by Perlin.
 
 ---
 

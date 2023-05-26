@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [react-swipeable-list (⭐66)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+*   [react-swipeable-list (⭐74)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
 
 ## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Yacht (⭐2.5k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+*   [Yacht (⭐2.6k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 
 ### Components & Libraries / UI Utilities
 
@@ -84,7 +84,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [swrv (⭐1.8k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
+*   [swrv (⭐1.9k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Multimedia
 
-*   [Spot (⭐1.7k)](https://github.com/xou816/spot) - Spotify Client.
+*   [Spot (⭐2k)](https://github.com/xou816/spot) - Spotify Client.
 
 ## [11. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -287,7 +287,7 @@
 
 ### Plugins
 
-*   💼 [Content Placeholder (⭐102)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
+*   💼 [Content Placeholder (⭐105)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 
 ---
 

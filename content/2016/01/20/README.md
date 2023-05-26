@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 20, 2016
 
-37 awesome lists updated today.
+36 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -173,13 +173,7 @@
 *   [Broadcom - WICED™ Sense Development Kit](http://www.broadcom.com/application/internet_of_things.php)
 *   [Dialog Semiconductor](http://www.dialog-semiconductor.com/bluetooth-smart)
 
-## [9. Awesome Gif](/content/davisonio/awesome-gif/README.md)
-
-### Community / Swift
-
-*   [Reactionsgifs](http://www.reactiongifs.com/)
-
-## [10. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [9. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Open-source host-it-yourself:
 
@@ -189,7 +183,7 @@
 
 *   [Where@ (⭐38)](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
 
-## [11. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [10. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Databases
 
@@ -203,13 +197,13 @@
 
 *   [What is JSON and how to use it](https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it) - Video tutorial for beginners.
 
-## [12. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [11. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Tutorials/Guides
 
 *   [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64)
 
-## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Distributed Programming
 
@@ -232,7 +226,7 @@
 
 *   [Redash (⭐22k)](https://github.com/getredash/redash) - open-source platform to query and visualize data.
 
-## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Computational Photography
 
@@ -270,7 +264,7 @@
 
 *   [awesome-deep-learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-## [15. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [14. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Communities
 
@@ -280,13 +274,13 @@
 
 *   [Haskell Must Watch (⭐1.1k)](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 
-## [16. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [15. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### Active Record / Omniauth
 
 *   [paranoia (⭐2.8k)](https://github.com/rubysherpas/paranoia) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
 
-## [17. BEM Resources](/content/sturobson/BEM-resources/README.md)
+## [16. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
 ### Articles
 
@@ -300,9 +294,9 @@
 
 ### With Pre-processors / PostCSS
 
-*   [PostCSS BEM Linter (⭐541)](https://github.com/postcss/postcss-bem-linter)
+*   [PostCSS BEM Linter (⭐548)](https://github.com/postcss/postcss-bem-linter)
 
-## [18. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [17. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Learn / Videos
 
@@ -317,7 +311,7 @@
 
 *   [Gitter chat](https://gitter.im/cyclejs/cycle-core) - Ask 'how do I ...?'
 
-## [19. Awesome Material](/content/sachin1092/awesome-material/README.md)
+## [18. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
 ### Icons, Fonts and Colors
 
@@ -327,7 +321,7 @@
 
 *   [md-timepicker (⭐12)](https://github.com/dotlouis/md-timepicker) — A Polymer Timepicker element in Material Design.
 
-## [20. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/README.md)
+## [19. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/README.md)
 
 ### Node modules
 
@@ -350,19 +344,19 @@
 
 *   [UnCSS (⭐9.3k)](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt (⭐3.9k)](https://github.com/addyosmani/grunt-uncss), [Gulp (⭐960)](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
-## [21. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [20. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Official Documentation Translations
 
 *   [carc.in](https://carc.in/) - A web service that runs your code and displays the result
 
-## [22. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [21. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [om-tools (⭐437)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 
-## [23. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [22. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 
@@ -372,14 +366,14 @@
 
 *   [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 
-## [24. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [23. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
 *   [pcollections (⭐700)](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
 *   [RoaringBitmap (⭐2.8k)](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
 
-## [25. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [24. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Standards / \- [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
@@ -394,19 +388,19 @@
 
 *   [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 
-## [26. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md)
+## [25. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md)
 
 ### Backoffice extensions
 
 *   [refinerycms-tinymce (⭐7)](https://github.com/ghoppe/refinerycms-tinymce) - TinyMCE Visual Editing
 
-## [27. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [26. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
-*   [cross-env (⭐6k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+*   [cross-env (⭐6.1k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 
-## [28. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [27. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Security
 
@@ -419,13 +413,13 @@
     *   [Labs (⭐5k)](https://github.com/RPISEC/MBE/tree/master/src)
     *   [Projects (⭐5k)](https://github.com/RPISEC/MBE/tree/master/src)
 
-## [29. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [28. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 
-*   [serverless/serverless :fire::fire::fire::fire::fire: (⭐44k)](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
+*   [serverless/serverless :fire::fire::fire::fire::fire: (⭐45k)](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 
-## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [29. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / S companies
 
@@ -439,35 +433,35 @@
 
 *   Raymond Chen <https://blogs.msdn.microsoft.com/oldnewthing/>
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐3.6k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐3.7k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### Protocols
 
 *   [ex\_marshal (⭐38)](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 
-## [32. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Tools
 
 *   [mqtt-admin (⭐119)](https://github.com/hobbyquaker/mqtt-admin/) - Web based MQTT frontend. [Direct Link](https://hobbyquaker.github.io/mqtt-admin/).
 
-## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Bioinformatics
 
 *   [Rust-Bio](https://github.com/rust-bio) — bioinformatics libraries in Rust.
 
-## [34. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
+## [33. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
 ### Miscellaneous / Ruby
 
 *   [What is your most productive shortcut with Vim?](http://stackoverflow.com/a/1220118)
 
-## [35. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [34. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -484,7 +478,7 @@
 
 *   [EditArea](http://www.cdolivet.com/editarea/editarea/exemples/exemple_full.html)
 
-## [36. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
+## [35. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
 ### Resources / Documentation
 
@@ -498,7 +492,7 @@
 
 *   [graphql-lua (⭐171)](https://github.com/bjornbytes/graphql-lua) - Lua implementation of [GraphQL](http://graphql.org/).
 
-## [37. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [36. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 

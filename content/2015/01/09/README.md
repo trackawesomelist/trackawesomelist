@@ -24,7 +24,7 @@
 
 ### Build Tools
 
-*   [reaxt (⭐364)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐365)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -56,11 +56,11 @@
 
 ### Testing
 
-*   [pavlov (⭐129)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
+*   [pavlov (⭐128)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 
 ### Text and Numbers
 
-*   [hexate (⭐29)](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
+*   [hexate (⭐30)](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
 
 ### Third Party APIs
 

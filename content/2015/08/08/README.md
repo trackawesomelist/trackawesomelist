@@ -22,14 +22,14 @@
 
 *   [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 *   [AntennaPod](http://antennapod.org) - (Android and Open Source)
-*   [Soundwaves (⭐141)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+*   [Soundwaves (⭐140)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 *   [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 
 ## [3. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Market Crawlers
 
-*   [Google play crawler (Java) (⭐521)](https://github.com/Akdeniz/google-play-crawler)
+*   [Google play crawler (Java) (⭐537)](https://github.com/Akdeniz/google-play-crawler)
 
 ## [4. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 

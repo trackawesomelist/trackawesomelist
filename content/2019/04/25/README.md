@@ -83,15 +83,16 @@
 *   **Distribution**:
     *   [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
     *   [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
-    *   [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows.
+    *   [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
+    *   [Diskuv OCaml (⭐37)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
     *   [makorel (⭐8)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
-    *   [esy (⭐789)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
+    *   [esy (⭐804)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 ## [8. Bots](/content/hackerkid/bots/README.md)
 
 ### Telegram
 
-*   [Java (⭐1.3k)](https://github.com/pengrad/java-telegram-bot-api)
+*   [Java (⭐1.4k)](https://github.com/pengrad/java-telegram-bot-api)
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -131,7 +132,7 @@
 
 ### Example Projects
 
-*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐25)](https://github.com/dteleguin/keycloak-dynamic-branding)
+*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐28)](https://github.com/dteleguin/keycloak-dynamic-branding)
 
 ## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -153,7 +154,7 @@
 
 ### Guides, Books, Documentation, and Training / Books
 
-*   AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire: (⭐273)](https://github.com/danilop/AWS_Lambda_in_Action)
+*   AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire: (⭐279)](https://github.com/danilop/AWS_Lambda_in_Action)
 
 ---
 

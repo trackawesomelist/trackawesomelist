@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -555,7 +555,7 @@
 
 ### Username Check / Telegram
 
-*   [Sherlock (⭐40k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐41k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### DNS / Telegram
 
@@ -581,14 +581,14 @@
 
 ### Transition
 
-*   [DropdownTransition (⭐64)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
+*   [DropdownTransition (⭐67)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
 
 ## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [bee-grid-table (⭐45)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
-*   [vnodes (⭐81)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
+*   [vnodes (⭐89)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 
 ## [16. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -600,17 +600,7 @@
 
 *   [WrapperValueObject (⭐42)](https://github.com/martinothamar/WrapperValueObject) - Creates boilerplate free wrappers around types. Especially useful for creating [strongly typed wrappers around primitive types](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/).
 
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Java / Spring Boot
-
-*   [Building modern Web Apps with Spring Boot and Vaadin](https://v.vaadin.com/hubfs/Pdfs/Building%20Modern%20Web%20Apps%20with%20Spring%20Boot%20and%20Vaadin.pdf) (PDF)
-
-### JavaScript / Wicket
-
-*   [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
-
-## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
@@ -650,7 +640,6 @@
 
 ### Housing
 
-*   [Agora space](http://www.agora-space.com/) - Coworking & coliving space in Shanghai in China
 *   [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
 *   [Common](https://www.hicommon.com/) - Coliving House in New York
 *   [Coworking in the Sun](https://www.coworkinginthesun.com/) - Coliving & coworking space in Tenerife island in Spain
@@ -685,7 +674,6 @@
 *   [Cadasta](https://cadasta.org/about-us-3/careers-2/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
 *   [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
 *   [Clevertech](https://clevertech.biz/careers) - We build incredible, game-changing technology.
-*   [Collage](https://www.collage.com/careers) - We provide the easiest and most versatile tools to help you turn your photos into memories. 100% remote team.
 *   [Continu](https://www.continu.co/) - Continuous learning software for modern teams.
 *   [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
 *   [DataStax](https://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
@@ -708,7 +696,6 @@
 
 ### Conferences
 
-*   [DNX Global](https://www.dnxfestival.com/) - Digital Nomad Conference.
 *   [Yonder](https://www.yonder.io/events) - A round table conference bringing together leaders of distributed companies.
 *   [9punto5](https://www.9punto5.cl/) - Remote work conference in Latin America.
 *   [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere

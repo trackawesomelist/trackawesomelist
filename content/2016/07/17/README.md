@@ -33,7 +33,7 @@
 ### Bluetooth
 
 *   [BluetoothKit (⭐2.2k)](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
-*   [RxBluetoothKit (⭐1.3k)](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
+*   [RxBluetoothKit (⭐1.4k)](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
 
 ### Camera
 

@@ -213,7 +213,7 @@ TBD - PR Welcome!
 ### API Gateways / Edge Services / Scala
 
 *   [Fabio (⭐7.1k)](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
-*   [Neutrino (⭐300)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
+*   [Neutrino (⭐301)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
 ### Web APIs / Scala
 
@@ -293,7 +293,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### WebSocket
 
-*   [Firehose (⭐724)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐726)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
 ## [14. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
@@ -315,20 +315,20 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### API
 
-*   [Mobius: C# API for Spark (⭐935)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+*   [Mobius: C# API for Spark (⭐941)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
 ## [17. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
-- Name: [Larasocial (⭐272)](https://github.com/msalom28/Larasocial)
+- Name: [Larasocial (⭐271)](https://github.com/msalom28/Larasocial)
 
   Description: A Social Network Application
 
   Link: <http://larasocial.info>
 
 
-- Name: [Aimeos (⭐5.8k)](https://github.com/aimeos/aimeos-laravel)
+- Name: [Aimeos (⭐6.3k)](https://github.com/aimeos/aimeos-laravel)
 
   Description: Ecommerce package for high performance online shops
 
@@ -338,7 +338,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Rails
 
-- Name: [Copycopter (⭐684)](https://github.com/copycopter/copycopter-server)
+- Name: [Copycopter (⭐681)](https://github.com/copycopter/copycopter-server)
 
   Description: A service for editing the copy text of a Rails application.
 
@@ -374,7 +374,7 @@ By the end of this book, you will have learned about text manipulation using str
 ### Miscellaneous
 
 *   [exldap (⭐57)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
-*   [phone (⭐100)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+*   [phone (⭐104)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ### Testing
 
@@ -382,7 +382,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Third Party APIs
 
-*   [pay (⭐27)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
+*   [pay (⭐26)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 
 ## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -492,7 +492,6 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [Adventure Machine](http://www.madeon.fr/adventuremachine/) - Campaign for Madeon's "Adventure" album.
 *   [BBNG](https://uberviz.io/viz/bbng/) - WebGL Visualizer for "Confessions" (feat. Leland Whitty) by BADBADNOTGOOD.
-*   [Born in the Echoes](http://bornintheechoes.com/) - Campaign for The Chemical Brothers' "Born in the Echoes" album.
 *   [DENNIS](http://www.dennis.video/) - An interactive and audio responsive music video for "Dennis" by popcorn\_10's.
 *   [Fluctus](http://jojo.ninja/fluctus/) - Experimental 3D Audio Visualizer by Jordan Machado.
 *   [George & Jonathan III](http://www.georgeandjonathan.com/) - Campaign for George & Jonathan's "III" album.
@@ -501,24 +500,17 @@ By the end of this book, you will have learned about text manipulation using str
 *   [Nero](https://www.uberviz.io/viz/nero/) - WebGL Visualizer for "In The Way" by Nero.
 *   [Pareidolia](https://www.uberviz.io/viz/pareidolia/) - WebGL Visualizer for "Szerencsétlen" by Venetian Snares.
 *   [Yume](http://unseen-music.com/yume/) - Campaign for Helios' "Yume" album.
-*   [Spins](http://mattdesl.github.io/spins/) - Audio Visualizer rendering Waveforms in Polar Coordinates by Matt DesLauriers.
 *   [Silk](http://mattdesl.github.io/codevember/21.html) - 3D Audio Visualizer by Matt DesLauriers.
 *   [Wave](http://mattdesl.github.io/codevember/3.html) - 3D Audio Visualizer by Matt DesLauriers.
 *   [Binaural](http://mattdesl.github.io/codevember/6.html) - Experiment using Binaural and Reverb audio effects by Matt DesLauriers.
-*   [Beatgrid](http://mattdesl.github.io/codevember/8.html) - Experiment using Audio Beat Detection by Matt DesLauriers.
-*   [Party](http://mattdesl.github.io/codevember/13.html) - 2D Audio Visualizer by Matt DesLauriers.
 *   [Word Problems](https://www.uberviz.io/viz/word-problems/) - WebGL Visualizer for "Word Problems" by Harmonic 313.
 *   [Glitch](http://naivesound.com/glitch/) - An algorithmic synthesizer to make music from math.
 *   [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) - A Doodle for the Birthday of Clara Rockmore.
 *   [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - Sound driven fireworks by Ondřej Žára.
-*   [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio\&repository=web-audio-api) - Create music from your github repository by Alejandro Mantecon Guillen.
-*   [Play a cornet to Donald Trump](http://trumpdonald.org/) - A funny site to play a cornet to Donald Trump by Animal Agency.
-*   [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) - A web app that turns the song Bohemian Rhapsody into a musical instrument by Paul Lamere.
 *   [Scrollsound](http://zya.github.io/scrollsound/) - Scrolling as a method of interaction with audio on the web by Ehsan Ziya.
 *   [Experiment #8](http://brunoimbrizi.com/experiments/#/08) - Music Experiment by Bruno Imbrizi.
 *   [Draw and Music](http://rugs.grindselect.com/) - Campaign for Rugs new album by Sam Greens.
 *   [Moogfest Substrate](http://www.moogfest.com/_substrate) - Experimental site to Moogfest.
-*   [Flame Gradient](http://rickycodes.github.io/audio-visualizer/gradient/) - Audio visualizer built with HTML5 web audio API by rickycodes.
 *   [3D Grid](http://rickycodes.github.io/audio-visualizer/three/) - Audio visualizer built with HTML5 web audio API by rickycodes.
 *   [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
 
@@ -544,8 +536,8 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Libraries Visualization
 
-*   [The Force (⭐238)](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
-*   [Hylogen (⭐470)](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
+*   [The Force (⭐251)](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
+*   [Hylogen (⭐472)](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 
 ### People to Follow
 
@@ -563,19 +555,19 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Open Source / Featured
 
-*   [WebTorrent (⭐9.1k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐143k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐9.3k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Visual Studio Code (⭐146k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
-*   [Git-it (⭐4.3k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
-*   [Caprine (⭐6.6k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-*   [Simplenote (⭐4.3k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
+*   [Git-it (⭐4.4k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+*   [Caprine (⭐6.7k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+*   [Simplenote (⭐4.4k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.6k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
 *   [SmartMirror (⭐2.7k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
-*   [Google Play Music Desktop Player (⭐8.4k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐360)](https://github.com/m0g/ansel) - Image organizer.
+*   [Google Play Music Desktop Player (⭐8.3k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
+*   [Ansel (⭐377)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -585,16 +577,16 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### For Electron / Other
 
-*   [electron-is-dev (⭐407)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐397)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
-*   [electron-dl (⭐1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
+*   [electron-is-dev (⭐408)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+*   [electron-localshortcut (⭐402)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-dl (⭐1.1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 *   [electron-release-server (⭐1.8k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-*   [electron-download (⭐300)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [ember-electron (⭐807)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [electron-download (⭐302)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+*   [ember-electron (⭐808)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other
 
-*   [nativefier (⭐33k)](https://github.com/jiahaog/nativefier) - Create an app of any website.
+*   [nativefier (⭐34k)](https://github.com/jiahaog/nativefier) - Create an app of any website.
 *   [electron-pdf (⭐1.2k)](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
 
 ### Components / Other
@@ -609,8 +601,8 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Libraries
 
-*   [fn-curry (⭐6)](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
-*   [date-fp (⭐123)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
+*   [fn-curry (⭐5)](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
+*   [date-fp (⭐122)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 
 ## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -646,7 +638,6 @@ By the end of this book, you will have learned about text manipulation using str
 ### Books / General Overviews
 
 *   *[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)*, edited by Reda Alhajj and Jon Rokne (2014).
-*   *[The SAGE Handbook of Social Network Analysis](http://www.sagepub.in/books/Book232753/)*, edited by John Scott and Peter J. Carrington (2011).
 
 ### Books / Method-specific
 
@@ -657,7 +648,6 @@ By the end of this book, you will have learned about text manipulation using str
 *   *[Knoten und Kanten 2.0. Soziale Netzwerkanalyse in Medienforschung und Kulturanthropologie](http://www.transcript-verlag.de/978-3-8376-1927-0/knoten-und-kanten-2.0)*, edited by Markus Gamper, Linda Reschke and Michael Schönhuth, in German (2012).
 *   *[Knoten und Kanten III. Soziale Netzwerkanalyse in Geschichts- und Politikforschung](https://github.com/briatte/awesome-network-analysis/blob/master/README.md/)*, edited by Markus Gamper, Linda Reschke and Marten Düring, in German and English (2015).
 *   *[Multivariate Network Visualization](https://www.springer.com/us/book/9783319067926)*, edited by Andreas Kerren, Helen C. Purchase and Matthew O. Ward (2014).
-*   *[Understanding Large Temporal Networks and Spatial Networks](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470714522.html)*, by Vladimir Batagelj *et al.* (2014).
 
 ### Books / Software-specific
 
@@ -689,26 +679,25 @@ By the end of this book, you will have learned about text manipulation using str
 ### Courses / Topic-specific
 
 *   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes (Penn State University, 2012).
-*   [Network Analysis and Modeling (Computer Science)](http://tuvalu.santafe.edu/\~aaronc/courses/5352/), by Aaron Clauset - Full lecture slides and readings (University of Colorado, 2014).
-*   [Network Science (Computer Science)](http://www.cc.gatech.edu/\~dovrolis/Courses/NetSci/), by Constantine Dovrolis - Mostly open access readings (Georgia Tech, 2015).
+*   [Network Science (Computer Science)](http://www.cc.gatech.edu/~dovrolis/Courses/NetSci/), by Constantine Dovrolis - Mostly open access readings (Georgia Tech, 2015).
+    <!-- -   [Network Science (Physics)](https://www.barabasilab.com/course), by Albert-László Barabási, Sean Cornelius and Roberta Sinatra (Northeastern University, 2015). -->
 *   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2016).
 
 ### Datasets / Topic-specific
 
-*   [Bill Cosponsorship Networks in European Parliaments (⭐13)](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
+*   [Bill Cosponsorship Networks in European Parliaments (⭐14)](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
 *   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
-*   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](http://arxiv.org/abs/1402.5500)).
-*   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm).
+*   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](https://arxiv.org/abs/1402.5500)).
+    <!-- -   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm). -->
 *   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
-*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](http://biorxiv.org/content/early/2015/02/24/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐11)](https://github.com/mangal-wg/rmangal)).
-*   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/\~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/\~mejn/networks/)).
+*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐11)](https://github.com/mangal-wg/rmangal)).
+*   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 *   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - Two-mode and one-mode data on gender representation in Norwegian firms.
 *   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 
 ### Professional Groups / Topic-specific
 
-*   [GDR ARSHS - GDR Analyse de réseaux en sciences humaines et sociales](http://arshs.hypotheses.org/), in French - Research group based in Paris.
-*   [NetSci - Network Science Society](http://www.netscisociety.net/).
+*   [NetSci - Network Science Society](http://www.netscisociety.net/). Twitter: [@netscisociety](https://twitter.com/netscisociety).
 
 ### Professional Groups / Research Groups (USA)
 
@@ -719,7 +708,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 *   [Complex Networks](http://www.complexnetworks.fr/) - Research group based in Paris.
 *   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
-*   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).
+*   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/). Twitter: [@melnetsna](https://twitter.com/melnetsna).
 *   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 *   [Redes-Sociales](http://www.redes-sociales.net/), in Spanish - Information network based at the Universitat Autònoma de Barcelona.
 *   [SoNAR-C - Social Network Analysis Research Center, University of Italian Switzerland (USi)](http://www.sonarcenter.eco.usi.ch/).
@@ -728,30 +717,12 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Review Articles / Archeological and Historical Networks
 
-*   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? \[Formal Network Methods in History: Why and How?\]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier\&download=yes), in German ([preprint in English](http://halshs.archives-ouvertes.fr/halshs-00521527); *Österreichische Zeitschrift für Geschichtswissenschaften*, 2012).
-*   [Introduction à la visualisation de données : l’analyse de réseau en histoire](http://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/), in French (*Geschichte und Informatik*, 2015).
-*   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) (*Complexity*, 2002).
-*   [Networks of Power in Archaeology](http://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-102313-025901) (*Annual Review of Anthropology*, 2014).
-*   [Netzwerkanalyse in den Geschichtswissenschaften. Historische Netzwerkanalyse als Methode für die Erforschung von historischen Prozessen](https://www.academia.edu/449150/Netzwerkanalyse_in_den_Geschichtswissenschaften._Historische_Netzwerkanalyse_als_Methode_f%C3%BCr_die_Erforschung_von_historischen_Prozessen), in German (*[Prozesse. Formen, Dynamiken, Erklärungen](https://www.springer.com/de/book/9783531176604)*, 2015).
+*   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? \[Formal Network Methods in History: Why and How?\]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier\&download=yes), in German ([preprint in English](https://shs.hal.science/halshs-00521527); *Österreichische Zeitschrift für Geschichtswissenschaften*, 2012).
 *   [The Roots and Shoots of Archaeological Network Analysis: A Citation Analysis and Review of the Archaeological Use of Formal Network Methods](https://www.academia.edu/6925120/Brughmans_T._2014_._The_roots_and_shoots_of_archaeological_network_analysis_A_citation_analysis_and_review_of_the_archaeological_use_of_formal_network_methods._Archaeological_Review_from_Cambridge_29_1_) (*Archaeological Review from Cambridge*, 2014).
-*   [Thinking Through Networks: A Review of Formal Network Methods in Archaeology](http://link.springer.com/article/10.1007/s10816-012-9133-8) (*Journal of Archaeological Method and Theory*, 2013).
-
-### Review Articles / Biological, Ecological and Disease Networks
-
-*   [Structure and Dynamics of Molecular Networks: A Novel Paradigm of Drug Discovery. A Comprehensive Review](http://www.sciencedirect.com/science/article/pii/S0163725813000284) - Also includes an impressive list of network analysis software (*Pharmacology & Therapeutics*, 2013).
-
-### Review Articles / Complex and Multilayer Networks
-
-*   [Complex Systems and Networks](http://science.sciencemag.org/content/325/5939) (special issue of *Science*, 2009).
-*   [The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480) (*SIAM Review*, 2003).
 
 ### Review Articles / Network Modeling
 
-*   [Introduction to Stochastic Actor-Based Models for Network Dynamics](http://www.sciencedirect.com/science/article/pii/S0378873309000069) ([preprint](http://www.stats.ox.ac.uk/\~snijders/SnijdersSteglichVdBunt2009.pdf); *Social Networks*, 2010).
-*   Navigating the Range of Statistical Tools for Inferential Network Analysis (*American Journal of Political Science*, forthcoming 2016).
-*   [Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709) (*Annual Review of Sociology*, 2011).
-*   [A Survey of Statistical Network Models](https://dl.acm.org/citation.cfm?id=1734795) - Book-length review ([preprint](http://arxiv.org/abs/0912.5410); *Foundations and Trends in Machine Learning*, 2010).
-*   [A Unified View of Generative Models for Networks: Models, Methods, Opportunities, and Challenges](http://arxiv.org/abs/1411.4070) ([video presentation](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos/watch/201504200944-Jacobs.html); [NIPS 2014 workshop](https://nips.cc/Conferences/2014/Schedule?type=Workshop) on “[Networks: From Graphs to Rich Data](https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/)”).
+*   [A Survey of Statistical Network Models](https://dl.acm.org/citation.cfm?id=1734795) - Book-length review ([preprint](https://arxiv.org/abs/0912.5410); *Foundations and Trends in Machine Learning*, 2010).
 
 ### Review Articles / Network Visualization
 
@@ -759,24 +730,17 @@ By the end of this book, you will have learned about text manipulation using str
 *   [Methods of Social Network Visualization](http://moreno.ss.uci.edu/90.pdf) (*Encyclopedia of Complexity and Systems Science*, 2009; [poster version](http://www.pfeffer.at/data/visposter/)).
 *   [Social Networks](http://moreno.ss.uci.edu/93.pdf) (*Handbook of Graph Drawing and Visualization*, 2013).
 
-### Review Articles / Social, Economic and Political Networks
-
-*   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (*Annual Review of Sociology*, 2012).
-*   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (*Annual Review of Sociology*, 2001).
-
 ### Selected Papers / Social, Economic and Political Networks
 
 *   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/), by Steven M. Goodreau, James A. Kitts and Martina Morris - Accessible introduction to the logic and application of exponential random graph modeling (*Demography*, 2001).
-*   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/\~jmoody77/chains.pdf), by Peter S. Bearman, James Moody and Katherine Stovel - Classic example of topological network analysis applied to a network of affective and sexual ties (*American Journal of Sociology*, 2004).
-*   [Coauthorship and Citation Patterns in the *Physical Review*](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012814), by Travis Martin *et al.* - Highly typical study of scientific publishing productivity and collaboration through temporal network analysis ([preprint](http://arxiv.org/abs/1304.0473); *Physical Review E*, 2013).
+*   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf), by Peter S. Bearman, James Moody and Katherine Stovel - Classic example of topological network analysis applied to a network of affective and sexual ties (*American Journal of Sociology*, 2004).
 *   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf), by Jon Kleinberg - Discusses small-world effects and social contagion within the context of the Internet and social media (*Communications of the ACM*, 2008).
 *   [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328971/), by Cosma R. Shalizi and Andrew C. Thomas - Makes a very important point for the analysis of network diffusion and influence (*Sociological Methods and Research*, 2011).
 *   [Network Theory, Plot Analysis](https://sydney.edu.au/intellectual-history/documents/moretti_network_theory_plot_analysis.pdf), by Franco Moretti - Example applications of (fictional) network analysis in literary studies (*New Left Review*, 2011).
 *   [Social Networks and Causal Inference](http://link.springer.com/chapter/10.1007/978-94-007-6094-3_17), by Tyler J. VanderWeele and Weihua An - Reviews the different ways in which network analysis can produce meaningful causal statements, as well as the inherent limits of network analysis for doing so (*[Handbook of Causal Analysis for Social Research](http://link.springer.com/book/10.1007/978-94-007-6094-3)*, 2013).
-*   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf), by Kieran Healy - Network analysis meets science studies: social networks, like financial markets, are highly subject to performativity, i.e. the possibility that reality might be altered by its theoretical inquiry (*European Journal of Sociology*, 2015).
-*   [Robust Action and the Rise of the Medici, 1400-1434](http://home.uchicago.edu/\~jpadgett/papers/published/robust.pdf), by John F. Padgett and Christopher K. Ansell - Classic analysis of power relations in the Renaissance Florentine state (*American Journal of Sociology*, 1993).
+*   [Robust Action and the Rise of the Medici, 1400-1434](http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf), by John F. Padgett and Christopher K. Ansell - Classic analysis of power relations in the Renaissance Florentine state (*American Journal of Sociology*, 1993).
 *   [The Strength of Weak Ties](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf), by Mark Granovetter - Arch-classic example of applying network analysis to a social issue: jobseeking (*American Journal of Sociology*, 1973).
-*   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/\~snijders/FlandreauJobst2005.pdf) (*The Journal of Economic History*, 2005) and [The Empirics of International Currencies: Network Externalities, History and Persistence](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0297.2009.02219.x/abstract) (*The Economic Journal*, 2009), both by Marc Flandreau and Clemens Jobst - Network analysis of the foreign exchange system in the late 19th century ([data](http://eh.net/database/international-currencies-1890-1910/)).
+*   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/~snijders/FlandreauJobst2005.pdf) (*The Journal of Economic History*, 2005) and [The Empirics of International Currencies: Network Externalities, History and Persistence](https://doi.org/10.1111/j.1468-0297.2009.02219.x) (*The Economic Journal*, 2009), both by Marc Flandreau and Clemens Jobst - Network analysis of the foreign exchange system in the late 19th century ([data](http://eh.net/database/international-currencies-1890-1910/)).
 
 ### Software / Social, Economic and Political Networks
 
@@ -785,55 +749,37 @@ By the end of this book, you will have learned about text manipulation using str
 *   [E-Net](https://sites.google.com/site/enetsoftware1/) - Windows program for ego network analysis.
 *   [easyN](http://www.esyn.org/) - Online tool aimed at representing and sharing gene interaction networks as well as Petri net models.
 *   [Nodegoat](http://nodegoat.net/) - Web-based data management, network analysis and visualisation environment ([blog](http://nodegoat.net/blog)).
-*   [Palladio](http://palladio.designhumanities.org/) - Web-based spatial network visualization tool by the [Humanities + Design research lab at Stanford University](http://hdlab.stanford.edu/projects/palladio/).
-*   [PIGALE - Public Implementation of a Graph Algorithm Library and Editor](http://pigale.sourceforge.net/) - Windows program and C++ library to analyze planar graphs.
 *   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of (one-mode and multilevel) exponential random graph models (ERGMs), written in Java for Windows.
-*   [Segrada](http://segrada.org/) - Cross-platform tool to build and visualize semantic graph databases.
-*   [SocNetV - Social Network Visualizer](http://socnetv.sourceforge.net/) - Cross-platform program that includes a [simple Web crawler](http://socnetv.sourceforge.net/news/?post=socnetv-v16-released-with-a-working-web-crawler) to construct hyperlink networks.
-*   [SoNIA - Social Network Image Animator](http://web.stanford.edu/group/sonia/) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/) ([example movies](http://www.soc.duke.edu/\~jmoody77/NetMovies/index.htm)), now developed as the ndtv R package.
+*   [SoNIA - Social Network Image Animator](http://web.stanford.edu/group/sonia/) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/) ([example movies](http://www.soc.duke.edu/~jmoody77/NetMovies/index.htm)), now developed as the ndtv R package.
 *   [SPaTo Visual Explorer](http://www.spato.net/) - Cross-platform program for the visualization and exploration of complex networks.
-*   [StOCNET](http://www.gmw.rug.nl/\~stocnet/StOCNET.htm) - Several Windows programs developed by the same team as Siena.
+*   [StOCNET](http://www.gmw.rug.nl/~stocnet/StOCNET.htm) - Several Windows programs developed by the same team as Siena.
 
 ### Software / Algorithms
 
-*   [MixNet - Erdös-Rényi Mixture Model for Networks](http://ssbgroup.fr/mixnet.html) - Community detection method, available in C++ and R.
 *   [OSLOM2 - Order Statistics Local Optimization Method](http://www.oslom.org/) - Clustering algorithm.
-
-### Software / C / C++
-
-*   [BGL - Boost Graph Library](http://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
-*   [MapEquation](http://www.mapequation.org/) - C++ code for the Infomap method of multilevel community detection.
-*   [OGDF - Open Graph Drawing Framework](http://www.ogdf.net/) - Self-contained C++ class library for diagram, network and tree layouts.
-
-### Software / JavaScript
-
-*   [Popoto.js](http://www.popotojs.com/) - Library based on d3.js that provides a graph based search interface.
 
 ### Software / MATLAB
 
 *   [Complex Networks Package for MatLab](http://www.levmuchnik.net/Content/Networks/ComplexNetworksPackage.html).
 *   [CONTEST](http://www.maths.strath.ac.uk/research/groups/numerical_analysis/contest) - Random network toolbox that implements nine network models.
 *   [Generalized Louvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain) - Variant of the Louvain community detection algorithm.
-*   [MatlabBGL](http://dgleich.github.io/matlab-bgl/) - Graph library based on the C++ Boost Graph Library.
 
 ### Software / Python
 
 *   [npartite (⭐12)](https://github.com/ike002jp/npartite) - Python algorithms for community detection in n-partite networks.
-*   [python-louvain](http://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 *   [TQ (Temporal Quantities)](http://vladowiki.fmf.uni-lj.si/doku.php?id=tq) - Python 3 library for temporal network analysis.
 
 ### Software / R
 
-*   [CCAS (⭐4)](https://github.com/matthewjdenny/CCAS) - Statistical model for communication networks.
+*   [CCAS (⭐5)](https://github.com/matthewjdenny/CCAS) - Statistical model for communication networks.
 *   [concoR (⭐8)](https://github.com/aslez/concoR) - Implementation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
-*   [ContentStructure (⭐3)](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
+*   [ContentStructure (⭐5)](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 *   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 *   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Computes the spectral goodness of fit (SGOF), a measure of how well a network model explains the structure of an observed network.
 
 ### Software / Syntaxes
 
 *   [GraphML](http://graphml.graphdrawing.org/) - Comprehensive and easy-to-use file format for graphs ([handbook chapter](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/BrEiLe10.pdf)).
-*   [JUNG - Java Universal Network/Graph Framework](http://jung.sourceforge.net/) - Extensible library to represent network objects.
 *   [TLP - Tulip Software Graph Format](http://tulip.labri.fr/TulipDrupal/?q=tlp-file-format) - Graph syntax used by the Tulip software framework.
 *   [Cypher](http://neo4j.com/docs/stable/cypher-query-lang.html) - Graph query language used by [Neo4j](http://neo4j.com/).
 
@@ -860,41 +806,21 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Varia / Blog Series
 
-*   [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/\~aaron/blog/archives/networks/index.htm).
+*   [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/~aaron/blog/archives/networks/index.htm).
 *   [Blog Posts About Networks by Cosma R. Shalizi](http://bactra.org/weblog/cat_networks.html).
 *   Blog posts about networks on [R-Bloggers](http://www.r-bloggers.com/), an aggregator of R blogs:
     *   [Networks](http://www.r-bloggers.com/?s=networks).
     *   [Social Network Analysis](http://www.r-bloggers.com/?s=social+network+analysis).
-*   Martin Grandjean’s blog posts about (mostly) network visualization, in English and French:
-    *   [Network Analysis](http://www.martingrandjean.ch/tag/analyse-de-reseau/).
-    *   [Social Networks](http://www.martingrandjean.ch/tag/reseaux-sociaux/).
-*   [Netze und Netzwerke](http://netzeundnetzwerke.de/), in English and German - Blog on the history of network analysis, by Sebastian Gießmann ([old blog](http://www.netzeundnetzwerke.de/old/)).
-*   Yannick Rochat’s blog posts about digital humanities, in English and French:
-    *   [Character Networks](http://yro.ch/tag/character-network/).
-    *   [Network Analysis](http://yro.ch/tag/network-analysis/).
 
 ### Varia / Fictional Networks
 
-*   [Character Co-Occurrences in Victor Hugo’s *Les Misérables*](http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html), plotted as an adjacency matrix, written in Python (+ Javascript).
-*   [Events in the *Game of Thrones*](http://www.jeromecukier.net/projects/agot/events.html) and [Places in the *Game of Thrones*](http://www.jeromecukier.net/projects/agot/places.html) - Networked chronologies of character alliances, kills and travels in the book series, drawn with d3.js.
 *   [Lessons on Exponential Random Graph Modeling from *Grey’s Anatomy* hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/) (using R).
 *   [Network Analysis of Shakespeare’s *Macbeth*](https://mboudour.github.io/2015/10/28/Shakespeare's-Macbeth-Network.html) (using Python).
 *   [The Network and Trajectories of Transitions among Sentential Co-Occurrences of Characters of Arthur Conan Doyle’s *A Study in Scarlet*](https://mboudour.github.io/2016/04/17/Arthur-Conan-Doyle's-A-Study-in-Scarlet-Network-&-Trajectories.html) (using Python; [code (⭐6)](https://github.com/mboudour/WordNets/blob/master/ArthurConanDoyle_AStudyInScarlet_Network%26Trajectories.ipynb)).
-*   [Network Visualization: Mapping Shakespeare’s Tragedies](http://www.martingrandjean.ch/network-visualization-shakespeare/).
-*   [Social Network Analysis of *Alice in Wonderland*](http://www.cs.columbia.edu/\~apoorv/Homepage/Publications_files/naacl2012.pdf).
 *   [*Star Wars* Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - Also an example of a social network analysis written in F#.
-*   [Universal Properties of Mythological Networks](http://epljournal.edpsciences.org/articles/epl/abs/2012/14/epl14724/epl14724.html) ([preprint](http://arxiv.org/abs/1205.4324)).
-
-### Varia / Network Science
-
-*   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network *science*” came up.
-*   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/\~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of “network science” as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
 
 ### Varia / Two-Mode Networks
 
-*   [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/\~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/\~latapy/Bip/); *Social Networks*, 2008).
-*   [Generalized Blockmodeling of Two-mode Network Data](http://www.sciencedirect.com/science/article/pii/S0378873304000036) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
-*   [Generalized Two-Mode Cores](http://www.sciencedirect.com/science/article/pii/S0378873315000271).
 *   [Working with Bipartite/Affiliation Network Data in R](https://solomonmessing.wordpress.com/2012/09/30/working-with-bipartiteaffiliation-network-data-in-r/) (2012).
 
 ---

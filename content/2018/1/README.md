@@ -28,27 +28,27 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Infection Monkey (⭐6k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
+*   [Infection Monkey (⭐6.2k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
 
 ## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Editors
 
-*   [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Tools / Miscellaneous
 
-*   [GitDown (⭐440)](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
-*   [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
-*   [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [GitDown (⭐445)](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
+*   [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
+*   [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Tools / Presentations
 
-*   [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Services / Presentations
 
-*   [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Resources / Tutorials
 
@@ -116,7 +116,7 @@
 
 ### Integrations
 
-*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐859)](https://github.com/zmartzone/mod_auth_openidc)
+*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐880)](https://github.com/zmartzone/mod_auth_openidc)
 
 ## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -124,20 +124,20 @@
 
 *   [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 *   **Editor Integration**:
-    *   [ocaml-lsp (⭐529)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐141k)](https://github.com/microsoft/vscode), Vim and Emacs.
-    *   [merlin (⭐1.4k)](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
-    *   [tuareg (⭐330)](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+    *   [ocaml-lsp (⭐589)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐147k)](https://github.com/microsoft/vscode), Vim and Emacs.
+    *   [merlin (⭐1.5k)](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
+    *   [tuareg (⭐341)](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
     *   [merlin-eldoc (⭐41)](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
-    *   [vscode-ocaml (⭐173)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐141k)](https://github.com/microsoft/vscode)
-    *   [OCaml Debugger (⭐143)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐141k)](https://github.com/microsoft/vscode)
+    *   [vscode-ocaml (⭐173)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐147k)](https://github.com/microsoft/vscode)
+    *   [OCaml Debugger (⭐150)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐147k)](https://github.com/microsoft/vscode)
     *   [Sublime better ocaml (⭐23)](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
         *   [Sublime text package (⭐12)](https://github.com/def-lkb/sublime-text-merlin)
     *   [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
         *   [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – Small ncurses-based API and documentation browser.
-        *   [ocp-index-top (⭐19)](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
+        *   [ocp-index-top (⭐20)](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
         *   [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
     *   [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
-        *   [Vim plugin (⭐27)](https://github.com/def-lkb/ocp-indent-vim).
+        *   [Vim plugin (⭐28)](https://github.com/def-lkb/ocp-indent-vim).
 
 ## [16. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -194,7 +194,7 @@
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐820)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐837)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 
 ## [25. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -225,12 +225,12 @@
 
 ### Mobile
 
-*   👍 [serapeum (⭐355)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [serapeum (⭐365)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 
 ### CLOS extensions
 
-*   [defclass-std (⭐34)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [defclass-std (⭐35)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Reference
 
@@ -244,7 +244,7 @@
 
 ### Date and time / Third-party APIs
 
-*   [chronicity (⭐62)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [chronicity (⭐63)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Files and directories / Third-party APIs
 
@@ -257,7 +257,7 @@
 
 ### GUI
 
-*   [QtSharp (⭐560)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
+*   [QtSharp (⭐562)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 
 ### IDE
 
@@ -265,13 +265,13 @@
 
 ### Protocols
 
-*   [DNS (⭐364)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
+*   [DNS (⭐374)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
 ## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
-*   [Beak (⭐568)](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
+*   [Beak (⭐571)](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
 
 ### Animation
 
@@ -284,7 +284,7 @@
 
 ### Images / Barcode
 
-*   [MCScratchImageView (⭐359)](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
+*   [MCScratchImageView (⭐358)](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
 
 ### Network / Barcode
 
@@ -292,16 +292,16 @@
 
 ### Styling / Barcode
 
-*   [Stylist (⭐283)](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
+*   [Stylist (⭐285)](https://github.com/yonaskolb/Stylist) - Define UI styles in a hot-loadable external yaml or json file.
 
 ### UI / Barcode
 
-*   [Shiny (⭐770)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
+*   [Shiny (⭐778)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 
 ### Alert / Barcode
 
-*   [StatusAlert (⭐841)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
-*   [Zingle (⭐109)](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
+*   [StatusAlert (⭐840)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
+*   [Zingle (⭐111)](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
 
 ## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -367,7 +367,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ### Internationalization
 
-*   [Tolk (⭐580)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
+*   [Tolk (⭐581)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
 
 ## [36. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -413,21 +413,21 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 ### Lua / General-Purpose Machine Learning
 
 *   [Torch7](http://torch.ch/)
-    *   [cephes (⭐45)](https://github.com/deepmind/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy. **\[Deprecated]**
-    *   [autograd (⭐545)](https://github.com/twitter/torch-autograd) - Autograd automatically differentiates native Torch code. Inspired by the original Python version.
-    *   [graph (⭐36)](https://github.com/torch/graph) - Graph package for Torch. **\[Deprecated]**
-    *   [randomkit (⭐35)](https://github.com/deepmind/torch-randomkit) - Numpy's randomkit, wrapped for Torch. **\[Deprecated]**
-    *   [signal (⭐47)](https://github.com/soumith/torch-signal) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft.
+    *   [cephes (⭐46)](https://github.com/deepmind/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy. **\[Deprecated]**
+    *   [autograd (⭐543)](https://github.com/twitter/torch-autograd) - Autograd automatically differentiates native Torch code. Inspired by the original Python version.
+    *   [graph (⭐35)](https://github.com/torch/graph) - Graph package for Torch. **\[Deprecated]**
+    *   [randomkit (⭐34)](https://github.com/deepmind/torch-randomkit) - Numpy's randomkit, wrapped for Torch. **\[Deprecated]**
+    *   [signal (⭐46)](https://github.com/soumith/torch-signal) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft.
     *   [nn (⭐1.3k)](https://github.com/torch/nn) - Neural Network package for Torch.
-    *   [torchnet (⭐993)](https://github.com/torchnet/torchnet) - framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming.
-    *   [nngraph (⭐297)](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
+    *   [torchnet (⭐994)](https://github.com/torchnet/torchnet) - framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming.
+    *   [nngraph (⭐296)](https://github.com/torch/nngraph) - This package provides graphical computation for nn library in Torch7.
     *   [nnx (⭐96)](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library.
-    *   [rnn (⭐933)](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
+    *   [rnn (⭐932)](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
     *   [dpnn (⭐193)](https://github.com/Element-Research/dpnn) - Many useful features that aren't part of the main nn package.
-    *   [dp (⭐344)](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns. **\[Deprecated]**
-    *   [optim (⭐197)](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
+    *   [dp (⭐342)](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns. **\[Deprecated]**
+    *   [optim (⭐198)](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
     *   [unsup (⭐85)](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA). **\[Deprecated]**
-    *   [manifold (⭐134)](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
+    *   [manifold (⭐135)](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds.
     *   [svm (⭐43)](https://github.com/koraykv/torch-svm) - Torch-SVM library. **\[Deprecated]**
     *   [lbfgs (⭐2)](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs. **\[Deprecated]**
     *   [vowpalwabbit (⭐2)](https://github.com/clementfarabet/vowpal_wabbit) - An old vowpalwabbit interface to torch. **\[Deprecated]**
@@ -435,29 +435,29 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
     *   [spaghetti (⭐2)](https://github.com/MichaelMathieu/lua---spaghetti) - Spaghetti (sparse linear) module for torch7 by @MichaelMathieu **\[Deprecated]**
     *   [LuaSHKit (⭐3)](https://github.com/ocallaco/LuaSHkit) - A Lua wrapper around the Locality sensitive hashing library SHKit **\[Deprecated]**
     *   [kernel smoothing (⭐5)](https://github.com/rlowrance/kernel-smoothers) - KNN, kernel-weighted average, local linear regression smoothers. **\[Deprecated]**
-    *   [cutorch (⭐335)](https://github.com/torch/cutorch) - Torch CUDA Implementation.
-    *   [cunn (⭐209)](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation.
+    *   [cutorch (⭐337)](https://github.com/torch/cutorch) - Torch CUDA Implementation.
+    *   [cunn (⭐211)](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation.
     *   [imgraph (⭐22)](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images. **\[Deprecated]**
     *   [videograph (⭐9)](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos. **\[Deprecated]**
     *   [saliency (⭐6)](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms. **\[Deprecated]**
     *   [stitch (⭐4)](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence. **\[Deprecated]**
     *   [sfm (⭐3)](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package. **\[Deprecated]**
     *   [fex (⭐10)](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules. **\[Deprecated]**
-    *   [OverFeat (⭐594)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
+    *   [OverFeat (⭐596)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
     *   [wav2letter (⭐6.2k)](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
 ## [39. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Documentation tools / Components
 
-*   [Storybook (⭐75k)](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
+*   [Storybook (⭐78k)](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
 
 ## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [fd-vue (⭐63)](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
-*   [wildfire (⭐177)](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
+*   [wildfire (⭐179)](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
 *   [vue-chrome-extension-boilerplate (⭐249)](https://github.com/mubaidr/vue-chrome-extension-boilerplate) - Boilerplate for Chrome extension using Vue.js and Webpack
 
 ### Components & Libraries / UI Components

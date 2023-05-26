@@ -26,7 +26,7 @@
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐1.6k)](https://github.com/apple/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐1.7k)](https://github.com/apple/cups)) `GPL-2.0` `C`
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -67,7 +67,7 @@
 
 ### ReactJS
 
-- Name: [react-handsontable (⭐520)](https://github.com/handsontable/react-handsontable)
+- Name: [react-handsontable (⭐517)](https://github.com/handsontable/react-handsontable)
 
   Description: A React wrapper for the the Handsontable spreadsheet component.
 
@@ -83,7 +83,7 @@
 
 ### VueJS
 
-- Name: [vue-handsontable-official (⭐754)](https://github.com/handsontable/vue-handsontable-official)
+- Name: [vue-handsontable-official (⭐749)](https://github.com/handsontable/vue-handsontable-official)
 
   Description: Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components.
 
@@ -107,11 +107,11 @@
 
 ### Application Frameworks
 
-*   [.NET Boxed Framework (⭐650)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
+*   [.NET Boxed Framework (⭐664)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 
 ### Application Templates
 
-*   [.NET Boxed Templates (⭐3.1k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
+*   [.NET Boxed Templates (⭐3.2k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

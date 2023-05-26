@@ -16,7 +16,7 @@
 
 ### ReactJS
 
-- Name: [docue (⭐9)](https://github.com/kevgathuku/docue)
+- Name: [docue (⭐10)](https://github.com/kevgathuku/docue)
 
   Description: Document Management System With React Frontend
 

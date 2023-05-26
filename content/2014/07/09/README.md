@@ -24,7 +24,7 @@
 
 ### Date and Time
 
-*   [clj-time (⭐727)](https://github.com/clj-time/clj-time)
+*   [clj-time (⭐736)](https://github.com/clj-time/clj-time)
 
 ### Audio
 
@@ -36,9 +36,9 @@
 
 ### ORM and SQL generation
 
-*   [stch-library/sql (⭐39)](https://github.com/stch-library/sql)
-*   [sqlingvo (⭐206)](https://github.com/r0man/sqlingvo)
-*   [honeysql (⭐1.5k)](https://github.com/jkk/honeysql)
+*   [stch-library/sql (⭐40)](https://github.com/stch-library/sql)
+*   [sqlingvo (⭐209)](https://github.com/r0man/sqlingvo)
+*   [honeysql (⭐1.6k)](https://github.com/jkk/honeysql)
 
 ### RESTful API
 
@@ -56,11 +56,11 @@
 ### Async processing
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/)
-*   [pulsar (⭐893)](https://github.com/puniverse/pulsar)
+*   [pulsar (⭐900)](https://github.com/puniverse/pulsar)
 
 ### Monads
 
-*   [algo.monads (⭐432)](https://github.com/clojure/algo.monads)
+*   [algo.monads (⭐433)](https://github.com/clojure/algo.monads)
 
 ### WebSocket
 
@@ -68,7 +68,7 @@
 
 ### Code Analysis and Linter
 
-*   [Slamhound (⭐420)](https://github.com/technomancy/slamhound)
+*   [Slamhound (⭐442)](https://github.com/technomancy/slamhound)
 
 ### Science and Data Analysis
 
@@ -251,12 +251,12 @@
 
 ### Editors / Runner
 
-*   [ace (⭐25k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐397)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
-*   [quill (⭐34k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+*   [ace (⭐26k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
+*   [esprima (⭐399)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [quill (⭐35k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 *   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-*   [ckeditor-releases (⭐520)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
+*   [ckeditor-releases (⭐518)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 *   [editor (⭐2.8k)](https://github.com/lepture/editor) - A markdown editor. still on development.
 *   [EpicEditor (⭐4.3k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 *   [jsoneditor (⭐10k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.

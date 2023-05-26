@@ -10,7 +10,7 @@
 
 ### Math
 
-*   [MIRACL (⭐535)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐559)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ## [2. Tips](/content/git-tips/tips/README.md)
 
@@ -78,7 +78,7 @@ git ls-files --others -i --exclude-standard
 
 ### Ask these people anything!
 
-*   [Rob Furlong (⭐1)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
+*   [Rob Furlong (⭐0)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
 
 ## [7. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 

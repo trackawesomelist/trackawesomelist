@@ -57,28 +57,28 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-paho-mqtt (⭐4)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
-*   [VueFinder File Library (⭐86)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
+*   [VueFinder File Library (⭐91)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 
 ### Components & Libraries / UI Components
 
 *   [vue-maplibre-gl (⭐27)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-*   [1llest-waveform-vue (⭐8)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
-*   [vue3-calendar-heatmap (⭐36)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
+*   [1llest-waveform-vue (⭐10)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
+*   [vue3-calendar-heatmap (⭐40)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
 *   [vue3-code-block (⭐4)](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
-*   [Everright-formEditor (⭐79)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐198)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ### Components & Libraries / UI Layout
 
-*   [fit-screen (⭐22)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
+*   [fit-screen (⭐23)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 
 ### Components & Libraries / Frameworks
 
 *   [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
-*   [îles (⭐949)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
+*   [îles (⭐958)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
 
 ### Components & Libraries / UI Utilities
 
-*   [v-privacy (⭐4)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content
+*   [v-privacy (⭐7)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -90,55 +90,23 @@
 
 ### ChatGPT
 
-*   [LocalAI (⭐308)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
+*   [LocalAI (⭐4.9k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Images
 
-*   [color-extractor (⭐55)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
+*   [color-extractor (⭐57)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 
 ### Web Frameworks
 
-*   [Pulse (⭐20)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
+*   [Pulse (⭐36)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [Ahoo-Wang/Simba (⭐11)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐32)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐84)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐569)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐323)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
 ## [10. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -154,13 +122,12 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Webarchive (⭐0)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
+*   [Webarchive (⭐8)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ## [12. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Screeb
 
-*   [It’s Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 *   [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
 ## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
@@ -170,6 +137,10 @@
 *   [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
 
 ## [14. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React State Management and Data Fetching
+
+*   [tanstack-query (⭐34k)](https://github.com/TanStack/query) - Powerful asynchronous state management
 
 ### React Routing
 
@@ -196,10 +167,6 @@
 *   [react-qrcode (⭐3.3k)](https://github.com/zpao/qrcode.react) - QR component for use with React
 *   [react-icons (⭐9.5k)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
 
-### React State Management
-
-*   [tanstack-query (⭐34k)](https://github.com/TanStack/query) - Powerful asynchronous state management
-
 ### React Tables and Grids
 
 *   [react-grid-layout (⭐18k)](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
@@ -210,44 +177,37 @@
 *   [formatjs (⭐14k)](https://github.com/formatjs/formatjs) - Internationalize your web apps
 *   [typesafe-i18n (⭐1.5k)](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library
 
-### React Integration / React Data Managing
+### React Integration
 
 *   [rescript-compiler (⭐6.1k)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
 *   [react-rails (⭐6.6k)](https://github.com/reactjs/react-rails) - Integrate React with Rails
 *   [reagent (⭐4.6k)](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
 *   [fulcro (⭐1.4k)](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
+
+### React Real Apps
+
 *   [mattermost-server (⭐25k)](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
 *   [webamp (⭐9k)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-
-### React Native Development Tools / React Data Managing
-
-*   [flipper (⭐13k)](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers
 
 ## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Bars and Lines / Diagnostics
 
-*   [luukvbaal/statuscol.nvim (⭐257)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
+*   [luukvbaal/statuscol.nvim (⭐286)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 
 ## [16. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [twm (⭐1)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
+*   [twm (⭐4)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 
 ## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
-*   [clifm (⭐935)](https://github.com/leo-arch/clifm) - The command line file manager.
+*   [clifm (⭐943)](https://github.com/leo-arch/clifm) - The command line file manager.
 
 ## [18. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
-
-### Tools / Scripts / Commercial Enterprise Platforms
-
-*   [Convert WM format to JSON](https://wardleymapsai.streamlit.app/wm2json_\(beta\)) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
-*   [Chat with your Map](https://wardleymapsai.streamlit.app/chat_with_your_map) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
-*   [Chat with Simon Wardley Video](https://wardleymapsai.streamlit.app/intro_wardley_maps) - An OpenAI/Streamlit/Python application to chat to a Wardley Mapping YouTube video. It pulls the transscript from YouTube and you can have an AI chat with the video.
 
 ### Templates / Commercial Enterprise Platforms
 
@@ -255,4 +215,5 @@
 
 ---
 
+- Prev: [Apr 23, 2023](/content/2023/04/23/README.md)
 - Next: [Apr 21, 2023](/content/2023/04/21/README.md)

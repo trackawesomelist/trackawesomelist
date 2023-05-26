@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2018
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Serverless Computing
 
-*   [crystal\_openfaas (⭐22)](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
+*   [crystal\_openfaas (⭐23)](https://github.com/TPei/crystal_openfaas/) - Template to enable crystal as first class citizens in OpenFaaS
 
 ### Official Documentation Translations
 
@@ -20,11 +20,11 @@
 
 ### Cryptography
 
-*   [libhydrogen (⭐475)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐493)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Serialization
 
-*   [YAS (⭐608)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐628)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Other Tools / Telegram
 
-*   [Zen (⭐475)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+*   [Zen (⭐493)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Key Value Store
 
-*   [Defaults (⭐1.4k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
+*   [Defaults (⭐1.5k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -115,13 +115,7 @@
 
 *   [react-native-segment-control ★7 (⭐21)](https://github.com/ainurb/react-native-segment-control) - A swipeable SegmentedControl component for React Native apps.
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Ember.js
-
-*   [Ember.js - Getting started](https://guides.emberjs.com/release/)
-
-## [13. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -221,11 +215,11 @@
 *   [EiskaltDC++ (⭐329)](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support
 *   [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 
-*   [NeuroNER (⭐1.6k)](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks providing state-of-the-art-results
+*   [NeuroNER (⭐1.7k)](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks providing state-of-the-art-results
 
 ---
 

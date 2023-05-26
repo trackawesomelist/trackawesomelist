@@ -28,10 +28,6 @@
 
 *   [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code (⭐13k)](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`
 
-### Software / Proxy
-
-*   [Redbird (⭐4.4k)](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt, and Docker support. `BSD-2-Clause` `Javascript`
-
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Awesome TypeScript Essential Resources
@@ -42,7 +38,7 @@
 
 ### Cryptography
 
-*   [digestpp (⭐159)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐166)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

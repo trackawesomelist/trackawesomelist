@@ -89,7 +89,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Framework Components
 
-*   [device\_detector (⭐21)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+*   [device\_detector (⭐22)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
 
 ### Official Documentation Translations
 
@@ -99,7 +99,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgstats (⭐104)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
+*   [pgstats (⭐106)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
 ## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -130,7 +130,7 @@ Webpage: <http://ogniwo.org/>
 ### Components & Libraries / UI Utilities
 
 *   [vue-page-visibility-awesome (⭐11)](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
-*   [vue-authplugin (⭐6)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
+*   [vue-authplugin (⭐7)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
 
 ## [15. Awesome Java](/content/akullpp/awesome-java/README.md)
 

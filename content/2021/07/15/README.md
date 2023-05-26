@@ -10,7 +10,7 @@
 
 ### GUI
 
-*   [Jailer (⭐1.5k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
+*   [Jailer (⭐1.6k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -57,14 +57,14 @@
 
 *   [rsstodolist](https://rsstodolist.eu/) <sup>[905](https://t.me/s/aboutrss/905)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/paulgreg/rsstodolist-appengine)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### specifically from (  *a certain platform*  ) / Wechat Subscription Accounts (微信公众号)
+### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
 *   ~~[WeChat-Feeds](https://wechat.privacyhide.com/)~~ <sup>[821](https://t.me/s/aboutrss/821)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### RSS2TelegramChannel / Docsify
 
 *   [Newspopper (⭐12)](https://github.com/rzkmak/newspopper) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/newspopper)
-*   [Rui (⭐5)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
+*   [Rui (⭐6)](https://github.com/rzkmak/rui) (`Demo Soon`!) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/rzkmak/rui)
 
 ### RSS2WIDGET / For website
 
@@ -88,7 +88,7 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐322)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐487)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -165,7 +165,7 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐355)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐395)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [9. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

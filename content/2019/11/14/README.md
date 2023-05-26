@@ -10,8 +10,8 @@
 
 ### Dev Tools / Bare metal / kernel development
 
-*   [D-Scanner (⭐235)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
-*   [dfmt (⭐189)](https://github.com/dlang-community/dfmt) - formatter for D source code
+*   [D-Scanner (⭐236)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
+*   [dfmt (⭐190)](https://github.com/dlang-community/dfmt) - formatter for D source code
 
 ### IDEs & Editors / Bare metal / kernel development
 
@@ -19,7 +19,7 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [dlang-requests (⭐145)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
+*   [dlang-requests (⭐148)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 
 ## [2. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
@@ -37,14 +37,14 @@
 
 ### Projects / Boilerplate
 
-*   [django-project-template (⭐637)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+*   [django-project-template (⭐672)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 
-*   [PicGo (⭐20k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
-*   [uPic (⭐3k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
+*   [PicGo (⭐21k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
+*   [uPic (⭐3.1k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -52,32 +52,32 @@
 
 *   [`efm32pg12-pac`](https://crates.io/crates/efm32pg12-pac) - Peripheral access API for Silicon Labs EFM32PG12 microcontrollers - ![crates.io](https://img.shields.io/crates/v/efm32pg12-pac)
 
-## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
+
+### Web / Scanning / Pentesting
+
+*   [Spyse](https://spyse.com/) - Spyse is an OSINT search engine that provides fresh data about the entire web. All the data is stored in its own DB for instant access and interconnected with each other for flexible search.
+    Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technologies, OS, AS, wide SSL/TLS DB and more.
+
+## [8. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
-*   [Spyse](https://spyse.com/) -  Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.
 *   [Findsubdomains](https://findsubdomains.com/) - A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.
 
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐251)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [WordPress-Gatsby (⭐254)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 
-## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Questions and Answers
 
 *   [subreddit-ada](https://www.reddit.com/r/ada/) - Ada at Reddit.
 *   [subreddit-spark](https://www.reddit.com/r/spark/) - Spark at Reddit.
 *   [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
-
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Pastebins
-
-*   [snipt (⭐67)](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Software / IT Asset Management
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3k)](https://github.com/glpi-project/glpi))
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.1k)](https://github.com/glpi-project/glpi))
 
 ---
 

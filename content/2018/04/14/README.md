@@ -48,10 +48,10 @@
     [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo (⭐90)](https://github.com/sonots/cumo).
     Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of
     examples and utilities.
-*   [Deep NeuroEvolution (⭐127)](https://github.com/giuse/DNE) -
+*   [Deep NeuroEvolution (⭐126)](https://github.com/giuse/DNE) -
     Experimental setup based on the [machine\_learning\_workbench (⭐18)](https://github.com/giuse/machine_learning_workbench)
     towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
-    [OpenAI Gym (⭐29k)](https://github.com/openai/gym) using [PyCall (⭐866)](https://github.com/mrkn/pycall.rb).
+    [OpenAI Gym (⭐31k)](https://github.com/openai/gym) using [PyCall (⭐894)](https://github.com/mrkn/pycall.rb).
 
 ### Machine Learning Libraries / Neural networks
 
@@ -67,7 +67,7 @@
     Separable NES (sNES), Block-Diagonal NES (BDNES) and more.
     Applications include neural network search/training (neuroevolution).
 
-### Articles, Posts, Talks, and Presentations / Gradient boosting
+### Articles, Posts, Talks, and Presentations / Vector search
 
 *   2015
     *   *Machine Learning made simple with Ruby* by [Lorenzo Masini](https://twitter.com/rugginoso) <sup>\[[post](https://www.leanpanda.com/blog/2015-08-24-machine-learning-automatic-classification/)]</sup>
@@ -93,7 +93,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Testura.Code (⭐265)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
+*   [Testura.Code (⭐274)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 
 ## [8. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 

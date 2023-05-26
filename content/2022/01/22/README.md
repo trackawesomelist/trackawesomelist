@@ -10,7 +10,7 @@
 
 ### Libraries / Text processing
 
-*   [cpc (⭐85)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
+*   [cpc (⭐92)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
 ## [2. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Overview / YouTube
 
-*   [mps-youtube (⭐7.3k)](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
+*   [mps-youtube (⭐7.4k)](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

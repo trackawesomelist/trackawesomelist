@@ -38,15 +38,15 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Database Drivers/Clients
 
-*   [crystal-redis (⭐376)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+*   [crystal-redis (⭐377)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
 
 ### Misc
 
-*   [emoji.cr (⭐45)](https://github.com/veelenga/emoji.cr) - Emoji library
+*   [emoji.cr (⭐46)](https://github.com/veelenga/emoji.cr) - Emoji library
 
 ### Testing
 
-*   [minitest.cr (⭐141)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
+*   [minitest.cr (⭐145)](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
 
 ## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

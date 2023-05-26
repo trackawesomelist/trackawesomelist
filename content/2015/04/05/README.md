@@ -50,7 +50,7 @@
 
 ### Repos, CodePens and Things / Repos
 
-*   [BEM Constructor (⭐547)](https://github.com/danielguillan/bem-constructor)
+*   [BEM Constructor (⭐545)](https://github.com/danielguillan/bem-constructor)
 
 ### Slides & Videos / Slides
 

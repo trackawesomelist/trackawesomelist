@@ -45,11 +45,6 @@
 
 *   [Digital Humanities](http://cmb.huma-num.fr/) - Interdisciplinary group of researchers at the Marc Bloch Centre in Berlin, with many network science projects.
 
-### Review Articles / Bibliographic, Citation and Semantic Networks
-
-*   [Atypical Combinations and Scientific Impact](http://science.sciencemag.org/content/342/6157/468) (*Science*, 2013).
-*   [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (*Scientometrics*, 2013).
-
 ## [6. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Constituency Parsing

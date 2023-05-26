@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,7 @@
 
 *   [Express Gateway (⭐2.8k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Companies with "remote DNA"
-
-*   [digitalminds.io](https://www.digitalminds.io/careers/) - Freelance platform, open for Developers, IT-consultants and Digital Experts
-
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 
@@ -38,19 +32,19 @@
 
 *   [AspNetCore.Proxy (⭐399)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 
-## [5. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Containers / Kubernetes
 
 *   [Moon (⭐176)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 
-## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Podcasts / Other Tools
 
 *   [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) - Another episode with Justin Fagnani as a guest.
 
-## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
@@ -58,19 +52,19 @@
 *   [Using Mobile Execution Commands to Continuously Stream Device Logs with Appium](https://appiumpro.com/editions/55)
 *   [What Appium Users Need to Know about Android Activities and Intents](https://appiumpro.com/editions/56)
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Form / Barcode
 
-*   [Carbon (⭐1.2k)](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
+*   [Carbon (⭐1.3k)](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
 
-## [9. Amas](/content/sindresorhus/amas/README.md)
+## [8. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these organizations anything!
 
-*   [Nikita Voloboev (⭐31)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+*   [Nikita Voloboev (⭐33)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

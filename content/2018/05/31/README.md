@@ -14,7 +14,7 @@
 
 ### Probability and Statistics / Stochastic processes
 
-*   [Convergence of Stochastic Processes](http://www.stat.yale.edu/\~pollard/Books/1984book/pollard1984.pdf) - David Pollard
+*   [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
 
 ## [2. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

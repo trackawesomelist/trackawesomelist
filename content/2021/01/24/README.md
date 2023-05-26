@@ -16,13 +16,13 @@
 
 ### Simultaneous Localization and Mapping / Lidar
 
-*   [M-LOAM (⭐324)](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration.
+*   [M-LOAM (⭐370)](https://github.com/gogojjh/M-LOAM) - Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Dashboard (⭐775)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [Dashboard (⭐814)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Cards / Barcode
 
-*   [CardNavigation (⭐43)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
+*   [CardNavigation (⭐44)](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
 
 ## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐124)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
+*   [Sindre Sorhus (⭐128)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Sorbet (⭐3.4k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
+*   [Sorbet (⭐3.5k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 
 ## [2. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐279)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐284)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -97,11 +97,11 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐347)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐363)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
-*   [RadioGroup (⭐187)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
+*   [RadioGroup (⭐190)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
 ## [11. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

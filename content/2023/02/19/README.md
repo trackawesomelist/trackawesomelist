@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2023
 
-24 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -66,30 +66,30 @@
 
 ### Applications
 
-*   [utils (⭐6)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
+*   [utils (⭐5)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
 
 ### Podcasts
 
-*   [Thinking Elixir](https://podcast.thinkingelixir.com)
+*   [Thinking Elixir](https://podcast.thinkingelixir.com) - The Thinking Elixir podcast.
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Web Servers
 
-*   [emanuele-em/man-in-the-middle-proxy (⭐155)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
+*   [emanuele-em/man-in-the-middle-proxy (⭐254)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐49)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐59)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ### Libraries / Filesystem
 
 *   Operations
-    *   [ParthJadhav/Rust\_Search (⭐77)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
-    *   [pop-os/dbus-udisks2 (⭐15)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
-    *   [pop-os/sys-mount (⭐34)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
-    *   [vitiral/path\_abs (⭐45)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods. [![build badge](https://api.travis-ci.org/vitiral/path_abs.svg?branch=master)](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_abs)
-    *   [webdesus/fs\_extra (⭐171)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io [![build badge](https://api.travis-ci.org/webdesus/fs_extra.svg?branch=master)](https://travis-ci.org/webdesus/fs_extra)
+    *   [ParthJadhav/Rust\_Search (⭐85)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [pop-os/dbus-udisks2 (⭐16)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [pop-os/sys-mount (⭐36)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
+    *   [vitiral/path\_abs (⭐46)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
+    *   [webdesus/fs\_extra (⭐189)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -97,43 +97,29 @@
 
 *   [PVS-Studio](https://pvs-studio.com/en/pvs-studio/) - PVS-Studio is a static analyzer on guard of code quality, security (SAST), and code safety. **\[[Free for OSS](https://pvs-studio.com/en/order/open-source-license/)]** **\[$]**
 
-## [11. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Sales & Marketing
-
-- Name: [SimplePhones.ai](https://simplephones.ai/)
-
-  Title: Never Miss a Call From a Customer.
-
-  Description: Forward your missed calls, or get a new number, and Simple Phones will answer it using AI. You'll get a phone agent created for your business for free. You just pay 19¢/min for any incoming calls.
-
-  Offer Free Version: :x:
-
-
-
-## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Machine Learning
 
 *   [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
 
-## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
 *   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 
-### Inbox: Developing + AI / Text-related Generative Tools
+### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Matchering (⭐846)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
+*   [Matchering (⭐945)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
@@ -143,7 +129,7 @@
 
 *   [Gamefresco.com](https://gamefresco.com/) — Discover, collect and share free game assets from game artists everywhere.
 
-## [16. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Libraries and Tools
 
@@ -153,28 +139,19 @@
 
 *   [MQTT File Uploader (⭐3)](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
 
-## [17. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [16. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### RPG
 
-*   [Zelda3 (⭐3.5k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
-*   [Shipwright (⭐1.8k)](https://github.com/HarbourMasters/Shipwright) - A PC port of Zelda Ocarina of Time allowing you to enjoy the game with modern controls, widescreen, high-resolution, gyroscopy and other great features!
+*   [Zelda3 (⭐3.7k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
 
-### Platformer
-
-*   [sm64-port (⭐791)](https://github.com/sm64-port/sm64-port) - A port of Super Mario 64 for modern devices.
-
-### Racing
-
-*   [REDRIVER2 (⭐792)](https://github.com/OpenDriver2/REDRIVER2) - A Driver 2 open source reimplementation, dissasembled and translated to C.
-
-## [18. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
+## [17. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
 ### Support Tables
 
 *   [iOS PWA Compatibility](https://firt.dev/notes/pwa-ios/) - Support table for PWA features including service worker, manifest, background sync and push notifications (Unofficial, maintained by Maximiliano Firtman).
 
-## [19. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [18. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Learning Platforms:
 
@@ -182,25 +159,25 @@
 
 
 
-## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Remote Development / Diagnostics
 
-*   [miversen33/netman.nvim (⭐232)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+*   [miversen33/netman.nvim (⭐251)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 
-## [21. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [20. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Transition To Pure Rigour Math / Monograph
 
 *   [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - Classic papers by thinkers ranging from Aristotle and Leibniz to Norbert Wiener and Gordon Moore that chart the evolution of computer science.
 
-## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Qwiet AI](https://qwiet.ai/) :copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
 
-## [23. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [22. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 📖 Articles / 🌱 Third Party
 
@@ -208,11 +185,11 @@
 *   [Build a fullstack app with Go Fiber, Docker, and Postgres](https://dev.to/divrhino/build-a-fullstack-app-with-go-fiber-docker-and-postgres-1jg6)
 *   [Create a CRUD app with Go Fiber, docker, and Postgres](https://dev.to/divrhino/create-a-crud-app-with-go-fiber-docker-and-postgres-47e3)
 
-## [24. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [23. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Base Tools / Other
 
-*   [dockerize (⭐158)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
+*   [dockerize (⭐167)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
 
 ---
 

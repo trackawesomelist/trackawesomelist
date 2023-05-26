@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 22 - Jul 28, 2019
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -66,7 +66,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-realworld-example-app (⭐4k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐12k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [Daily (⭐13k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
@@ -76,7 +76,7 @@
 
 ### Testing Frameworks / Frameworks
 
-*   [jest (⭐41k)](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
+*   [jest (⭐42k)](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
 *   [mocha (⭐22k)](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 
 ### Package Managers
@@ -86,7 +86,7 @@
 ### Loaders
 
 *   [script.js (⭐2.9k)](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
-*   [LodJS (⭐293)](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
+*   [LodJS (⭐291)](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
 
 ### Testing Frameworks / Coverage
 
@@ -96,16 +96,16 @@
 
 *   [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
 *   [meteor (⭐43k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
-*   [espresso.js (⭐533)](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
+*   [espresso.js (⭐534)](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
 *   [nativescript (⭐22k)](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript.
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [KeystoneJS (⭐7.3k)](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
+*   [KeystoneJS (⭐7.8k)](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
 *   [Reaction Commerce (⭐12k)](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design.
-*   [Ghost (⭐42k)](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
-*   [Apostrophe (⭐3.9k)](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
-*   [We.js (⭐208)](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
+*   [Ghost (⭐43k)](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
+*   [Apostrophe (⭐4k)](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
+*   [We.js (⭐209)](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
 *   [Nodizecms (⭐176)](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
 *   [Cody (⭐669)](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
 *   [PencilBlue (⭐1.6k)](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
@@ -113,23 +113,23 @@
 ### Templating Engines / Runner
 
 *   [doT (⭐4.9k)](https://github.com/olado/doT) - The fastest + concise JavaScript template engine for nodejs and browsers.
-*   [t.js (⭐822)](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in \~400 bytes gzipped.
+*   [t.js (⭐824)](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in \~400 bytes gzipped.
 
 ### Data Visualization / Runner
 
-*   [fabric.js (⭐23k)](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
+*   [fabric.js (⭐25k)](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 *   [processing.js](http://processingjs.org/) - Processing.js makes your data visualizations work using web standards and without any plug-ins.
 *   [nvd3 (⭐7.2k)](https://github.com/novus/nvd3) - Build re-usable charts and chart components for d3.js.
 *   [jquery.sparkline (⭐1.2k)](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery JavaScript library to generate small sparkline charts directly in the browser.
 *   [trianglify (⭐10k)](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js.
 *   [dimple.js](http://dimplejs.org) - Easy charts for business analytics powered by d3.
-*   [recharts (⭐19k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
+*   [recharts (⭐20k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 *   [mxGraph (⭐6.5k)](https://github.com/jgraph/mxgraph) - Diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
 ### Editors / Runner
 
 *   [vim.js (⭐4.5k)](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent `~/.vimrc`.
-*   [popline (⭐1k)](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
+*   [popline (⭐1.1k)](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 
 ### Functional Programming / Runner
 
@@ -145,29 +145,29 @@
 
 ### String / Runner
 
-*   [selecting (⭐87)](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
+*   [selecting (⭐89)](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
 *   [underscore.string (⭐3.4k)](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js JavaScript library.
 *   [URI.js (⭐6.2k)](https://github.com/medialize/URI.js/) - JavaScript URL mutation library.
-*   [url-pattern (⭐560)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
+*   [url-pattern (⭐567)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
 
 ### Number / Runner
 
-*   [Numeral-js (⭐9.3k)](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
-*   [chance.js (⭐6.1k)](https://github.com/chancejs/chancejs) - Random generator helper in JavaScript. Can generate numbers, strings etc.
+*   [Numeral-js (⭐9.4k)](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
+*   [chance.js (⭐6.2k)](https://github.com/chancejs/chancejs) - Random generator helper in JavaScript. Can generate numbers, strings etc.
 *   [money.js (⭐11)](https://github.com/josscrowcroft/money.js) - A tiny (1kb) JavaScript currency conversion library, for web & nodeJS.
-*   [Fraction.js (⭐402)](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
-*   [Complex.js (⭐209)](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
-*   [Polynomial.js (⭐110)](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
+*   [Fraction.js (⭐412)](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
+*   [Complex.js (⭐216)](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
+*   [Polynomial.js (⭐112)](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
 
 ### Storage / Runner
 
 *   [basil.js (⭐2k)](https://github.com/Wisembly/basil.js) - The missing JavaScript smart persistent layer.
-*   [js-cookie (⭐20k)](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies.
-*   [DB.js (⭐790)](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
+*   [js-cookie (⭐21k)](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies.
+*   [DB.js (⭐792)](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
 
 ### I18n And L10n / Runner
 
-*   [i18next (⭐6.5k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
+*   [i18next (⭐6.8k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
 
 ### Security / Runner
 
@@ -175,7 +175,7 @@
 
 ### Log / Runner
 
-*   [Conzole (⭐208)](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
+*   [Conzole (⭐209)](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
 *   [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends.
 
 ### Vision Detection / Runner
@@ -184,7 +184,7 @@
 
 ### Machine Learning / Runner
 
-*   [ConvNetJS (⭐10k)](https://github.com/karpathy/convnetjs) - Deep Learning in JavaScript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+*   [ConvNetJS (⭐11k)](https://github.com/karpathy/convnetjs) - Deep Learning in JavaScript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 
 ### Browser Detection / Runner
 
@@ -205,8 +205,8 @@
 
 ### Notifications / Runner
 
-*   [toastr (⭐11k)](https://github.com/CodeSeven/toastr) - Simple JavaScript toast notifications.
-*   [smoke.js (⭐933)](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
+*   [toastr (⭐12k)](https://github.com/CodeSeven/toastr) - Simple JavaScript toast notifications.
+*   [smoke.js (⭐932)](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
 
 ### Sliders / Runner
 
@@ -214,11 +214,11 @@
 
 ### Range Sliders / Runner
 
-*   [jQRangeSlider (⭐676)](https://github.com/ghusse/jQRangeSlider) - A JavaScript slider selector that supports dates.
+*   [jQRangeSlider (⭐677)](https://github.com/ghusse/jQRangeSlider) - A JavaScript slider selector that supports dates.
 
 ### Form Widgets / Input
 
-*   [vanilla-masker (⭐7)](https://github.com/BankFacil/vanilla-masker) - A pure JavaScript mask input.
+*   [vanilla-masker (⭐8)](https://github.com/BankFacil/vanilla-masker) - A pure JavaScript mask input.
 
 ### Form Widgets / File Uploader
 
@@ -238,7 +238,7 @@
 
 ### Table/Grid / Other
 
-*   [flexboxgrid (⭐9.3k)](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
+*   [flexboxgrid (⭐9.4k)](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
 
 ### Frameworks / Other
 
@@ -247,26 +247,26 @@
 
 ### Boilerplates / Other
 
-*   [full-page-intro-and-navigation (⭐45)](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation.
+*   [full-page-intro-and-navigation (⭐46)](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation.
 *   [Mobile-First-RWD (⭐68)](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design.
 *   [this-is-responsive (⭐1.6k)](https://github.com/bradfrost/this-is-responsive) - This Is Responsive.
 
 ### Gesture / Other
 
-*   [hammer.js (⭐23k)](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
-*   [Dragula (⭐21k)](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts.
+*   [hammer.js (⭐24k)](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
+*   [Dragula (⭐22k)](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts.
 
 ### Video/Audio / Other
 
-*   [Play-em JS (⭐90)](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
-*   [polyplayer (⭐41)](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
+*   [Play-em JS (⭐93)](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
+*   [polyplayer (⭐40)](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
 *   [video.js (⭐35k)](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
-*   [Ion.Sound (⭐704)](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
-*   [photobooth-js (⭐576)](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
+*   [Ion.Sound (⭐711)](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
+*   [photobooth-js (⭐577)](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
 
 ### Typography / Other
 
-*   [circletype (⭐621)](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web.
+*   [circletype (⭐649)](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web.
 *   [slabText (⭐1.3k)](https://github.com/freqDec/slabText/) - A jQuery plugin for producing big, bold & responsive headlines.
 *   [simple-text-rotator (⭐754)](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup.
 *   [FitText.js (⭐6.8k)](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type.
@@ -274,7 +274,7 @@
 
 ### Animations / Other
 
-*   [TransitionEnd (⭐96)](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitioned event.
+*   [TransitionEnd (⭐95)](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitioned event.
 *   [Dynamic.js (⭐7.5k)](https://github.com/michaelvillar/dynamics.js) - JavaScript library to create physics-based CSS animations.
 *   [textillate (⭐3.6k)](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations.
 *   [move.js (⭐4.7k)](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework.
@@ -286,14 +286,14 @@
 
 ### Podcasts / Other
 
-*   [braziljs/js-the-right-way (⭐8.5k)](https://github.com/braziljs/js-the-right-way/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
+*   [braziljs/js-the-right-way (⭐8.6k)](https://github.com/braziljs/js-the-right-way/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 *   [JSbooks (⭐2.5k)](https://github.com/revolunet/JSbooks) - Directory of free JavaScript ebooks.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Lambda shorthands
 
-*   [cl-punch (⭐19)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-punch (⭐21)](https://github.com/windymelt/cl-punch/) - Scala-like anonymous lambda literals. `(mapcar ^(* 2 _) '(1 2 3 4 5))`. [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐1.8k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐1.9k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 
@@ -354,7 +354,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Contents / Components
 
-*   [Preact Translate (⭐59)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
+*   [Preact Translate (⭐62)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 
 ## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
@@ -420,23 +420,17 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [web-component-analyzer (⭐426)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Email
-
-*   [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
-
-## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.
 
-## [21. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [20. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Automation
 
-*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
+*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐451)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 
 ### Software / Backups
 
@@ -445,19 +439,19 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [easy-rsa (⭐3.5k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
+*   [easy-rsa (⭐3.6k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 
 ### Repositories / Web
 
 *   [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
 
-## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with data warehouse (AWS, BigQuery) integration.
 
-## [23. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [22. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra
 
@@ -536,7 +530,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Stack Overflow: cql](https://stackoverflow.com/questions/tagged/cql)
 *   [Stack Overflow: spark-cassandra-connector](https://stackoverflow.com/questions/tagged/spark-cassandra-connector)
 
-## [24. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [23. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Software / Genetic Perturbations
 
@@ -568,7 +562,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Minimum redundancy feature selection from microarray gene expression data](https://doi.org/10.1142/S0219720005001004) - Minimum redundancy - maximum relevance feature selection framework.
 *   [Weakly supervised learning of single-cell feature embeddings](https://doi.org/10.1109/CVPR.2018.00970) - Training CNNs using a weakly supervised approach for feature learning.
 
-## [25. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
+## [24. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
 
 ### Guides
 
@@ -593,13 +587,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Adafruit IO tagged on Reddit](https://www.reddit.com/search?q=adafruit%20io\&t=year) - Reddit posts relating to Adafruit IO.
 
-## [26. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [25. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
 
-## [27. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [26. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
@@ -611,17 +605,17 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [htm (⭐7.9k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
-## [28. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [27. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [MalwareAnalyser.io](https://malwareanalyser.io/) - Online malware anomaly-based static analyser with heuristic detection engine powered by data mining and machine learning.
 
-## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [SYM (⭐529)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
+*   [SYM (⭐536)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
 ### Developer Tools / Command Line Tools
 
@@ -631,7 +625,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
 
-## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [29. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -641,37 +635,37 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [rn-action-picker (⭐1)](https://github.com/akshit5230/rn-action-picker) - A simple action picker for iOS and Android. Renders Native ActionSheetIOS Component in iOS and custom ActionSheet lookalike component in Android.
 *   [rn-collapsible-section (⭐1)](https://github.com/akshit5230/React-Native-Collapsible-Section) - A collapsible section / section list with customizable section body and child body. Supports both iOS and Android.
 
-## [31. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [30. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
 *   [sylkie](https://dlrobertson.github.io/sylkie/) - Command line tool and library for testing networks for common address spoofing security vulnerabilities in IPv6 networks using the Neighbor Discovery Protocol.
 
-## [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [31. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Boilerplate
 
-*   [yo (⭐3.6k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
+*   [yo (⭐3.7k)](https://github.com/yeoman/yo) - Scaffolding tool for running Yeoman generators.
 *   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - Create projects from boilerplate templates.
-*   [cookiecutter (⭐19k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
-*   [mevn-cli (⭐796)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
-*   [scaffold-static (⭐117)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
+*   [cookiecutter (⭐20k)](https://github.com/audreyr/cookiecutter) - Create projects from templates.
+*   [mevn-cli (⭐805)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+*   [scaffold-static (⭐119)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
 ### Utilities / Shell Utilities
 
-*   [has (⭐498)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
+*   [has (⭐524)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 *   [Ultimate Plumber (⭐7.9k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
 *   [fkill-cli (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
-*   [undollar (⭐123)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
-*   [pipe\_exec (⭐49)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+*   [undollar (⭐135)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
+*   [pipe\_exec (⭐54)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
-## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
 *   [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - This book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 
-## [34. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [33. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Platforms
 
@@ -695,19 +689,19 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ### Resilience / Scala
 
-*   [Resilience4j (⭐8.5k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
+*   [Resilience4j (⭐8.7k)](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 
 ### HTTP/1.1 / Scala
 
 *   [RFC7807](https://tools.ietf.org/html/rfc7807) - Problem Details for HTTP APIs.
 
-## [35. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [34. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 
 *   [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - Car racing simulator.
 
-## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
@@ -726,7 +720,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 *   [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 
-## [37. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [36. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -738,31 +732,31 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 *   [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 
-## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐910)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐928)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
-## [39. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) - This early-access book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 
-## [40. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [39. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Infrastructure / Transactions
 
 *   [HBase-QoD (⭐1)](https://github.com/algarecu/hbase-0.94.8-qod) - Vector-field consistency for HBase fine-grained transactional inter-DC replication.
 
-## [41. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [40. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Projects / Open Source Projects
 
 *   [Bootcamp: An enterprise social network (⭐2.2k)](https://github.com/vitorfs/bootcamp)
 
-## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -797,7 +791,7 @@ Webpage: <http://www.cafevitoria.com/>
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ✔    | ✔     | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am |
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Logging and monitoring
 
@@ -809,13 +803,13 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Testing
 
-*   [vcr (⭐56)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
+*   [vcr (⭐57)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
 
 ### Third-party APIs
 
-*   [kube-client.cr (⭐21)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
+*   [kube-client.cr (⭐22)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
 
-## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 
@@ -831,17 +825,13 @@ Webpage: <http://www.cafevitoria.com/>
 
 
 
-## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐268)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐277)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
-### Software / Proxy
-
-*   [SOCKS5Engine (⭐41)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
-
-## [46. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -878,7 +868,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
 
-## [47. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [46. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Other
 
@@ -908,75 +898,34 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [Waves Community Portal](https://wavescommunity.com/) - Official portal features some of the tools and projects that make up Waves ecosystem.
 
-## [48. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [47. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Tools / React Development Tools
+### React Development Tools
 
-*   [react-devtools (⭐11k)](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
-*   [react-hot-loader (⭐12k)](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
-*   [react-loadable (⭐16k)](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
-*   [loadable-components (⭐7k)](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 *   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-*   [storybook (⭐75k)](https://github.com/storybookjs/storybook) - UI component dev & test
-*   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-*   [react-cosmos (⭐7.7k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-*   [eslint-plugin-react (⭐8.2k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+*   [eslint-plugin-react (⭐8.4k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 
-### React Tools / React Frameworks
+### React Component Libraries
 
-*   [gatsby.js (⭐54k)](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
-
-### React Tools / React Styling
-
-*   [styled-components (⭐38k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
-*   [radium (⭐7.4k)](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
-*   [jss (⭐6.9k)](https://github.com/cssinjs/jss) - Authoring tool for CSS
-
-### React Tools / React Routing
-
-*   [react-router (⭐49k)](https://github.com/ReactTraining/react-router) - Declarative routing for React
-*   [navi (⭐2.1k)](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
-*   [curi (⭐270)](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
-
-### React Tools / React Component Libraries
-
-*   [material-ui (⭐83k)](https://github.com/mui-org/material-ui) - React components for faster and easier web development
-*   [blueprint (⭐19k)](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
+*   [blueprint (⭐20k)](https://github.com/palantir/blueprint) - A React-based Palantir's UI toolkit for the web
 *   [semantic-ui-react (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 
-### React Tools / React Awesome Components
+### React Styling
 
-*   [react-resizable-and-movable (⭐3.1k)](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
-*   [react-resizable-box (⭐1.9k)](https://github.com/bokuweb/react-resizable-box) - A resizable component for React
-*   [react-sortable-pane (⭐614)](https://github.com/bokuweb/react-sortable-pane) - A sortable and resizable pane component for React
-*   [react-dates (⭐12k)](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
-*   [react-big-calendar (⭐6.2k)](https://github.com/intljusticemission/react-big-calendar) - Calendar component
-*   [react-datepicker (⭐7k)](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
-*   [react-hotkeys (⭐2k)](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
-*   [react-keydown (⭐502)](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
-*   [react-joyride (⭐5.1k)](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
-*   [react-virtualized (⭐24k)](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
-*   [react-window (⭐13k)](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
-*   [react-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React
-*   [react-loading-skeleton (⭐3.1k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
-*   [react-spinkit (⭐1.5k)](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
-*   [rheostat (⭐1.7k)](https://github.com/airbnb/rheostat) - Accessible slider component built with React
-*   [qrcode.react (⭐3.2k)](https://github.com/zpao/qrcode.react) - QR component for use with React
+*   [styled-components (⭐39k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+*   [jss (⭐6.9k)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
-### React Tools / React Testing
+### React Awesome Components
 
-*   [enzyme (⭐20k)](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+*   [react-datepicker (⭐7.3k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
+*   [react-loading-skeleton (⭐3.3k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 
-### React Tools / React Libraries
+### React Components Sandboxes
 
-*   [react-instantsearch (⭐2k)](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
-*   [uppy (⭐26k)](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
-*   [react-motion (⭐21k)](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
-
-### React Native Development Tools / Charts
-
-*   [react-native-code-push (⭐8.3k)](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
+*   [storybook (⭐78k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+*   [react-cosmos (⭐7.8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
 ---
 

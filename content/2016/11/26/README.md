@@ -32,7 +32,7 @@
 
 ### Ahead-of-Time Compilation / Components
 
-*   [Code Example with Webpack (⭐317)](https://github.com/blacksonic/angular2-aot-webpack)
+*   [Code Example with Webpack (⭐315)](https://github.com/blacksonic/angular2-aot-webpack)
 *   [Code Example with Rollup (⭐81)](https://github.com/mgechev/angular2-ngc-rollup-build)
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)

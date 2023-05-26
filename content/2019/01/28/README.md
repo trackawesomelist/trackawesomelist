@@ -156,7 +156,7 @@ Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
 
 ### Contents / Language bindings
 
-*   Clojure: [clj-postgresql (⭐154)](https://github.com/remodoy/clj-postgresql)
+*   Clojure: [clj-postgresql (⭐157)](https://github.com/remodoy/clj-postgresql)
 
 ## [15. Public Apis](/content/public-apis/public-apis/README.md)
 

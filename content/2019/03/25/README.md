@@ -118,7 +118,7 @@
 
 ### Open Source Repos / Code Deploy
 
-*   [aws-codedeploy-samples :fire::fire::fire: (⭐619)](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
+*   [aws-codedeploy-samples :fire::fire::fire: (⭐620)](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
 
 ## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

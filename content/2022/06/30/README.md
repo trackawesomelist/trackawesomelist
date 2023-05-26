@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 30, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Data / Compare
 
-*   [data-diff (⭐2.1k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
+*   [data-diff (⭐2.2k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 ## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -22,26 +22,21 @@
 
 ### Applications / Cryptocurrencies
 
-*   [ethabi (⭐402)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
-*   [ethers-rs (⭐1.6k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
-*   [etk (⭐266)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
-*   [Foundry (⭐5.5k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
-*   [Lighthouse (⭐2.2k)](https://github.com/sigp/lighthouse) — Rust Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
-*   [mev-inspect-rs (⭐443)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
-*   [opensea-rs (⭐227)](https://github.com/gakonst/opensea-rs) - Rust bindings & CLI to the Opensea API and Contracts.
-*   [revm (⭐597)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine written in rust.
-*   [svm-rs (⭐119)](https://github.com/roynalnaruto/svm-rs) - Solidity-Compiler Version Manager.
+*   [ethabi (⭐432)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
+*   [ethers-rs (⭐1.8k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
+*   [etk (⭐285)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
+*   [Foundry (⭐6k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
+*   [Lighthouse (⭐2.4k)](https://github.com/sigp/lighthouse) — Rust Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
+*   [mev-inspect-rs (⭐473)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
+*   [opensea-rs (⭐234)](https://github.com/gakonst/opensea-rs) - Rust bindings & CLI to the Opensea API and Contracts.
+*   [revm (⭐744)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine written in rust.
 
 ### Libraries / Command-line
 
 *   Prompt
-    *   [hashmismatch/terminal\_cli.rs (⭐48)](https://github.com/hashmismatch/terminal_cli.rs) \[[terminal\_cli](https://crates.io/crates/terminal_cli)]  — build an interactive command prompt [![build badge](https://api.travis-ci.org/hashmismatch/terminal_cli.rs.svg?branch=master)](https://travis-ci.org/hashmismatch/terminal_cli.rs)
+    *   [hashmismatch/terminal\_cli.rs (⭐48)](https://github.com/hashmismatch/terminal_cli.rs) \[[terminal\_cli](https://crates.io/crates/terminal_cli)]  — build an interactive command prompt
     *   [starship/starship](https://starship.rs/) \[[starship](https://crates.io/crates/starship)]  — A minimal, blazing fast, and extremely customizable prompt for any shell [![Build status](https://github.com/starship/starship/workflows/Main%20workflow/badge.svg?branch=master)](https://github.com/starship/starship/actions)
-    *   [ynqa/promkit (⭐74)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)]  — A toolkit for building interactive command-line tools [![Build status](https://github.com/ynqa/promkit/workflows/promkit/badge.svg?branch=master)](https://github.com/ynqa/promkit/actions)
-
-### Libraries / Cryptography
-
-*   [gakonst/ark-circom (⭐156)](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
+    *   [ynqa/promkit (⭐79)](https://github.com/ynqa/promkit) \[[promkit](https://crates.io/crates/promkit)]  — A toolkit for building interactive command-line tools [![Build status](https://github.com/ynqa/promkit/workflows/promkit/badge.svg?branch=master)](https://github.com/ynqa/promkit/actions)
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -53,27 +48,33 @@
 
 ### Integrations
 
-*   [Keycloak Python Client (⭐11)](https://github.com/keycloak-client/keycloak-client)
+*   [Keycloak Python Client (⭐14)](https://github.com/keycloak-client/keycloak-client)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [dirty\_cat (⭐672)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
+*   [dirty\_cat (⭐708)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [argon-dashboard-vue3 (⭐134)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
+*   [argon-dashboard-vue3 (⭐139)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Data Sources
+
+*   [market-prices (⭐41)](https://github.com/maread99/market_prices) - Create meaningful OHLCV datasets from knowledge of [exchange-calendars (⭐268)](https://github.com/gerrymanoim/exchange_calendars) (works out-the-box with data from Yahoo Finance).
+
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [3 reasons why I've created yet another library for the downloading on Blazor apps](https://dev.to/j_sakamoto/3-reasons-why-ive-created-yet-another-library-for-the-downloading-on-blazor-apps-2cpk) - June 29, 2022 - 3 reasons why I've created yet another library for the downloading on Blazor apps.
 
-## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Health
 
@@ -83,13 +84,13 @@
 
 *   [Regrid](https://regrid.com/) - A leading provider of land parcels and location context data for your maps, apps and spatial analysis.
 
-## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [11. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Articles / Misc
 
 *   [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

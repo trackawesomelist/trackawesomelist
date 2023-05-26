@@ -22,14 +22,14 @@
 
 ### Libraries / C#
 
-*   [sharpSNMP (⭐303)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
-*   [SnmpSharpNet (⭐57)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
+*   [sharpSNMP (⭐311)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET/Xamarin/Mono.
+*   [SnmpSharpNet (⭐59)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
 ### Libraries / Java
 
 *   [joeSNMP](https://sourceforge.net/projects/joesnmp/) - joeSNMP is an open-source Java SNMP class library published under the LGPL.
 *   [Westhawk's SNMP](https://snmp.westhawk.co.uk/) - An open-sourced Java library that can be used for SNMP v1/v2c/v3. Supports traps, authentication and privacy. As authentication protocols it offers MD5 and SHA1.
-*   [mibble (⭐100)](https://github.com/cederberg/mibble) - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
+*   [mibble (⭐105)](https://github.com/cederberg/mibble) - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
 
 ### Tools / GUIs
 
@@ -41,7 +41,7 @@
 
 ### Driver crates / Other
 
-*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐3)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
+*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐4)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
 
 ## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -77,8 +77,8 @@
 
 ### Open Source / Other
 
-*   [Browserosaurus (⭐1.2k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐658)](https://github.com/lostdesign/linked) - Daily journal.
+*   [Browserosaurus (⭐1.3k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
+*   [linked (⭐703)](https://github.com/lostdesign/linked) - Daily journal.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -104,7 +104,7 @@
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Theory of Mind / Science Education
+### Theory of Mind / Democratization
 
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 
@@ -112,7 +112,7 @@
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐372)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies [![build badge](https://api.travis-ci.org/dan-t/rusty-tags.svg?branch=master)](https://travis-ci.org/dan-t/rusty-tags)
+*   [dan-t/rusty-tags (⭐375)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
 
 ---
 

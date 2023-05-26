@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Python / Natural Language Processing
 
-*   [NALP (⭐23)](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
+*   [NALP (⭐22)](https://github.com/gugarosa/nalp) - A Natural Adversarial Language Processing framework built over Tensorflow.
 
 ### Python / General-Purpose Machine Learning
 
@@ -30,13 +30,13 @@
 
 ### Libraries / PHP
 
-*   [commonmark (⭐2.4k)](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+*   [commonmark (⭐2.5k)](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Petra (⭐27)](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
+*   📁 [Petra (⭐29)](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - Free landing page template built with Nuxt.js & Tailwind CSS.
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Plugins / Languages and Environments
 
-*   [YAML (⭐49)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
+*   [YAML (⭐64)](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -134,13 +134,13 @@
 
 ### Architecture and Design
 
-*   [Architecture\_Decision\_Record (⭐7.9k)](https://github.com/joelparkerhenderson/architecture_decision_record) - A document that captures an important architectural decision made along with its context and consequences.
+*   [Architecture\_Decision\_Record (⭐9.1k)](https://github.com/joelparkerhenderson/architecture_decision_record) - A document that captures an important architectural decision made along with its context and consequences.
 
 ## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 
-*   [FireEye's Sunburst Countermeasures (⭐548)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
+*   [FireEye's Sunburst Countermeasures (⭐550)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 
 ## [15. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -150,27 +150,21 @@
 
 ## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### OCaml / PicoLisp
-
-*   [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) (:construction: *in process*)
-
-## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-toasts (⭐132)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
-*   [vue-use-sound (⭐334)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
-*   [@vueform/multiselect (⭐603)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
+*   [vue-my-toasts (⭐133)](https://github.com/Tahul/vue-my-toasts) - Provide your component and let us toast the rest.
+*   [vue-use-sound (⭐359)](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
+*   [@vueform/multiselect (⭐646)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 
 ### Components & Libraries / Frameworks
 
-*   [element3 (⭐3.2k)](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
+*   [element3 (⭐3.3k)](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
 
 ### Components & Libraries / Utilities
 

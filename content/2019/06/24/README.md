@@ -37,14 +37,14 @@
 
 ### DNS
 
-*   [DNS Zone Files (⭐43)](https://github.com/irazasyed/dns-zone-files) - Ready to import common config zone files for easy configuration of various services.
-*   [Lexicon (⭐1.3k)](https://github.com/AnalogJ/lexicon) - CLI tool to manipulate DNS records on various DNS providers in a standardized way.
-*   [DDNS script for Synology (⭐382)](https://github.com/joshuaavalon/SynologyCloudflareDDNS) - DDNS script for Synology NAS.
-*   [Multi-Provider DDNS Script (⭐48)](https://github.com/phuslu/ddns) - Multiple providers ddns script without dependencies.
-*   [CLI Tool (⭐170)](https://github.com/danielpigott/cloudflare-cli) - CLI tool for interacting with Cloudflare.
-*   [Detector (⭐16)](https://github.com/k4m4/cloudflare-detect) - Detect whether a site is running behind Cloudflare.
-*   [Scrape (⭐2.9k)](https://github.com/Anorov/cloudflare-scrape) - Python module to bypass anti-bot page.
-*   [CloudFlair (⭐1.7k)](https://github.com/christophetd/CloudFlair) - Tool to find origin servers of websites protected by CloudFlare who are publicly exposed.
+*   [DNS Zone Files (⭐46)](https://github.com/irazasyed/dns-zone-files) - Ready to import common config zone files for easy configuration of various services.
+*   [Lexicon (⭐1.4k)](https://github.com/AnalogJ/lexicon) - CLI tool to manipulate DNS records on various DNS providers in a standardized way.
+*   [DDNS script for Synology (⭐450)](https://github.com/joshuaavalon/SynologyCloudflareDDNS) - DDNS script for Synology NAS.
+*   [Multi-Provider DDNS Script (⭐49)](https://github.com/phuslu/ddns) - Multiple providers ddns script without dependencies.
+*   [CLI Tool (⭐184)](https://github.com/danielpigott/cloudflare-cli) - CLI tool for interacting with Cloudflare.
+*   [Detector (⭐18)](https://github.com/k4m4/cloudflare-detect) - Detect whether a site is running behind Cloudflare.
+*   [Scrape (⭐3.1k)](https://github.com/Anorov/cloudflare-scrape) - Python module to bypass anti-bot page.
+*   [CloudFlair (⭐1.9k)](https://github.com/christophetd/CloudFlair) - Tool to find origin servers of websites protected by CloudFlare who are publicly exposed.
 
 ### Developers
 
@@ -55,7 +55,7 @@
 *   [Apps Directory](https://www.cloudflare.com/apps)
 *   [Documentation](https://www.cloudflare.com/apps/developer/docs/getting-started)
 *   [Developer Fund](https://www.cloudflare.com/fund)
-*   [App Ideas (⭐38)](https://github.com/cloudflare-apps/ideas)
+*   [App Ideas (⭐41)](https://github.com/cloudflare-apps/ideas)
 
 ### Workers / Reference
 
@@ -68,22 +68,22 @@
 
 *   [Wrangler (⭐3.2k)](https://github.com/cloudflare/wrangler) - `wrangler` is a CLI tool designed for folks who are interested in using Cloudflare workers.
 *   [Playground](https://www.cloudflareworkers.com) - Simple, instant way to preview and test code directly in the browser against any site.
-*   [Worker App Kit (⭐81)](https://github.com/postlight/cloudflare-worker-app-kit) - Handy set of tools for creating, developing, testing, and deploying worker app.
+*   [Worker App Kit (⭐82)](https://github.com/postlight/cloudflare-worker-app-kit) - Handy set of tools for creating, developing, testing, and deploying worker app.
 
 ### Workers / Recipes
 
-*   [Hello World JS Boilerplate (⭐136)](https://github.com/cloudflare/worker-template) - Template for kick starting a worker project in JS.
-*   [Hello World Rust Boilerplate (⭐304)](https://github.com/cloudflare/rustwasm-worker-template) - Template for kick starting a worker project using wasm-pack.
-*   [Router (⭐207)](https://github.com/cloudflare/worker-template-router) - Router that can be used with REST APIs or apps for basic routing logic.
-*   [Fetch (⭐16)](https://github.com/cloudflare/worker-template-fetch) - Examples of making fetch requests and generating JSON post requests.
+*   [Hello World JS Boilerplate (⭐151)](https://github.com/cloudflare/worker-template) - Template for kick starting a worker project in JS.
+*   [Hello World Rust Boilerplate (⭐350)](https://github.com/cloudflare/rustwasm-worker-template) - Template for kick starting a worker project using wasm-pack.
+*   [Router (⭐216)](https://github.com/cloudflare/worker-template-router) - Router that can be used with REST APIs or apps for basic routing logic.
+*   [Fetch (⭐17)](https://github.com/cloudflare/worker-template-fetch) - Examples of making fetch requests and generating JSON post requests.
 *   [Incoming Request (⭐0)](https://github.com/ashleygwilliams/worker-template-requests) - Examples of reading in a POST request body of type JSON and form-data.
-*   [Redirect (⭐8)](https://github.com/cloudflare/worker-template-redirect) - Examples of sending single and bulk redirects from a Worker script.
+*   [Redirect (⭐9)](https://github.com/cloudflare/worker-template-redirect) - Examples of sending single and bulk redirects from a Worker script.
 *   [Cache Purger Proxy](https://gist.github.com/vdbelt/20f116236d2ebffa92f131e679c0551a) - Proxies purge cache requests - [Usage](https://community.cloudflare.com/t/worker-recipe-cache-purge-proxy/29978).
-*   [Edge Proxy (⭐66)](https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy) - Enable A/B testing, canary releasing, gatekeeping, and SEO A/B/N testing.
-*   [CURL Interceptor (⭐41)](https://github.com/Gaafar/curl-worker) - Intercepts requests from `curl` command and returns something different.
-*   [Worker with built-in Router (⭐38)](https://github.com/anderly/cloudflare-worker-routing) - Allows you to separate your worker logic into different functions and/or controllers.
-*   [Send Logs to Logdna (⭐26)](https://github.com/boynet/cf-logdna-worker) - Simple recipe to send logs to logdna.
-*   [Airtable Proxy (⭐118)](https://github.com/portable-cto/airtable-proxy-worker) - Allows you to make secure requests to the Airtable API from your frontend.
+*   [Edge Proxy (⭐72)](https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy) - Enable A/B testing, canary releasing, gatekeeping, and SEO A/B/N testing.
+*   [CURL Interceptor (⭐44)](https://github.com/Gaafar/curl-worker) - Intercepts requests from `curl` command and returns something different.
+*   [Worker with built-in Router (⭐40)](https://github.com/anderly/cloudflare-worker-routing) - Allows you to separate your worker logic into different functions and/or controllers.
+*   [Send Logs to Logdna (⭐25)](https://github.com/boynet/cf-logdna-worker) - Simple recipe to send logs to logdna.
+*   [Airtable Proxy (⭐124)](https://github.com/portable-cto/airtable-proxy-worker) - Allows you to make secure requests to the Airtable API from your frontend.
 *   [Static Worker (⭐9)](https://github.com/manatarms/static-worker) - Provides functions that make it easy to host a static website.
 *   [Switch Image to WebP](https://github.com/vidaxl-com/cloudflare_webworkers/blob/master/examples/webp.js) - Reroute image to webp when supported.
 *   [Geographic Routing and Load Balancer](https://community.cloudflare.com/t/geographic-routing-and-load-balancing-with-cloudflare-workers/21900) - Geographic routing and load balancing with workers.

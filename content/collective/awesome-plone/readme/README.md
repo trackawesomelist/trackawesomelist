@@ -2,7 +2,7 @@
 
 Add-ons and resources for the CMS Plone
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 27 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 29 · 🏷️ Content Management Systems
 
 [ [Daily](/content/collective/awesome-plone/README.md) / [Weekly](/content/collective/awesome-plone/week/README.md) / Overview ]
 
@@ -23,6 +23,8 @@ Add-ons and resources for the CMS Plone
 There are over [3000 add-ons for Plone on pypi](https://pypi.org/search/?q=\&o=\&c=Framework+%3A%3A+Plone) and over 1500 repositories in the [collective](https://github.com/collective/). If you want to know if there is already a add-on for Plone that fits your needs, searching for it on GitHub or pypi can be hard. It's hard to understand which one could be a good solution or not.
 
 This list is intended to fill that gap, and create a shared knowledge about common products and techniques.
+
+For a filterable list of addons aggreating all Plone related packages from PyPi see <https://pag.derico.tech>.
 
 This list only covers add-ons that work with the latest major versions of Plone (currently 5.2 and 6) and only those that support Python 3.
 
@@ -99,9 +101,9 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *Products and resources that help developers and users to create and manage site layouts.*
 
-*   [plone.app.mosaic (⭐31)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+*   [plone.app.mosaic (⭐32)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
 *   [collective.cover (⭐47)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-*   [collective.contentsections (⭐5)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+*   [collective.contentsections (⭐6)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 
 ## Tiles
 
@@ -127,7 +129,7 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 *   [collective.easyform (⭐14)](https://github.com/collective/collective.easyform) - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 *   [collective.fieldedit (⭐3)](https://github.com/collective/collective.fieldedit) - A flexible form to edit selected fields of a content type.
 *   [collective.honeypot (⭐3)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
-*   [collective.z3cform.datagridfield (⭐10)](https://github.com/collective/collective.z3cform.datagridfield) - A field with a datagrid (table), where each row is a sub form.
+*   [collective.z3cform.datagridfield (⭐8)](https://github.com/collective/collective.z3cform.datagridfield) - A field with a datagrid (table), where each row is a sub form.
 *   [collective.z3cform.norobots (⭐5)](https://github.com/collective/collective.z3cform.norobots) - A "human" captcha widget based on a list of questions/answers.
 *   [plone.formwidgets.hcaptcha (⭐0)](https://github.com/plone/plone.formwidget.hcaptcha) - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
 *   [yafowil.plone (⭐2)](https://github.com/bluedynamics/yafowil.plone) - Yafowil is a form library for Python. This is its Plone Integration package.
@@ -163,13 +165,14 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 *   [bda.plone.gtm (⭐2)](https://github.com/bluedynamics/bda.plone.gtm) - Google Tag Manager Integration.
 *   [collective.behavior.seo (⭐2)](https://github.com/collective/collective.behavior.seo) - Adds extra fields used for SEO optimisation.
+*   [collective.splitsitemap (⭐0)](https://github.com/collective/collective.splitsitemap) - Provides a cached split sitemap on big public sites.
 
 ## Authentication
 
 *A list of authentication plugins, to integrate Plone with external user , Importsources and Migrations.import*
 
 *   [pas.plugins.ldap (⭐13)](https://github.com/collective/pas.plugins.ldap) - Provides users and groups from a LDAP directory.
-*   [pas.plugins.authomatic (⭐6)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
+*   [pas.plugins.authomatic (⭐7)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
 *   [iw.rejectanonymous (⭐4)](https://github.com/collective/iw.rejectanonymous) - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
 *   [pas.plugins.headers (⭐1)](https://github.com/collective/pas.plugins.headers) - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 *   [dm.zope.saml2](https://pypi.org/project/dm.zope.saml2/) - Supports SAML2 based Single Sign-On.
@@ -178,12 +181,12 @@ Plone 6 comes with a new default frontend called Volto, which is written in Reac
 
 ## Shop
 
-*   [bda.plone.productshop (⭐4)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
+*   [bda.plone.productshop (⭐5)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
 
 ## Export, Import and Migrations
 
-*   [collective.exportimport (⭐13)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
-*   [collective.migrationhelpers (⭐14)](https://github.com/collective/collective.migrationhelpers/) - Helpers and examples to use during migrations.
+*   [collective.exportimport (⭐15)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
+*   [collective.migrationhelpers (⭐15)](https://github.com/collective/collective.migrationhelpers/) - Helpers and examples to use during migrations.
 *   [collective.jsonify (⭐12)](https://github.com/collective/collective.jsonify) - Export Plone content to JSON.
 *   [collective.transmogrifier (⭐5)](https://github.com/collective/collective.transmogrifier) - A configurable pipeline, aimed at transforming content for import and export.
 

@@ -22,7 +22,7 @@
 
 ### GitHub
 
-*   [GitHub Template Guidelines (⭐196)](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
+*   [GitHub Template Guidelines (⭐214)](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 
 ---
 

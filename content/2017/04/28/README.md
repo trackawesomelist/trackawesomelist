@@ -55,13 +55,13 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐824)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
+*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐937)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / GUI
 
-*   [temBoard (⭐303)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐340)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 

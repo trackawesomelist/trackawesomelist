@@ -17,7 +17,7 @@
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐910)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐928)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -84,11 +84,11 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Testing
 
-*   [vcr (⭐56)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
+*   [vcr (⭐57)](https://github.com/spoved/vcr.cr) - A HTTP capture and replay implementation for crystal
 
 ### Third-party APIs
 
-*   [kube-client.cr (⭐21)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
+*   [kube-client.cr (⭐22)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -110,7 +110,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐268)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐277)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -156,74 +156,36 @@ Webpage: <http://www.cafevitoria.com/>
 
 ## [12. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tools / React Development Tools
+### React Development Tools
 
-*   [react-devtools (⭐11k)](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
-*   [react-hot-loader (⭐12k)](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
-*   [react-loadable (⭐16k)](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
-*   [loadable-components (⭐7k)](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 *   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-*   [storybook (⭐75k)](https://github.com/storybookjs/storybook) - UI component dev & test
-*   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-*   [react-cosmos (⭐7.7k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
-*   [eslint-plugin-react (⭐8.2k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+*   [eslint-plugin-react (⭐8.4k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 
-### React Tools / React Frameworks
+### React Component Libraries
 
-*   [gatsby.js (⭐54k)](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
-
-### React Tools / React Styling
-
-*   [styled-components (⭐38k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
-*   [radium (⭐7.4k)](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
-*   [jss (⭐6.9k)](https://github.com/cssinjs/jss) - Authoring tool for CSS
-
-### React Tools / React Routing
-
-*   [react-router (⭐49k)](https://github.com/ReactTraining/react-router) - Declarative routing for React
-*   [navi (⭐2.1k)](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
-*   [curi (⭐270)](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
-
-### React Tools / React Component Libraries
-
-*   [material-ui (⭐83k)](https://github.com/mui-org/material-ui) - React components for faster and easier web development
-*   [blueprint (⭐19k)](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
+*   [blueprint (⭐20k)](https://github.com/palantir/blueprint) - A React-based Palantir's UI toolkit for the web
 *   [semantic-ui-react (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 
-### React Tools / React Awesome Components
+### React Styling
 
-*   [react-resizable-and-movable (⭐3.1k)](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
-*   [react-resizable-box (⭐1.9k)](https://github.com/bokuweb/react-resizable-box) - A resizable component for React
-*   [react-sortable-pane (⭐614)](https://github.com/bokuweb/react-sortable-pane) - A sortable and resizable pane component for React
-*   [react-dates (⭐12k)](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
-*   [react-big-calendar (⭐6.2k)](https://github.com/intljusticemission/react-big-calendar) - Calendar component
-*   [react-datepicker (⭐7k)](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
-*   [react-hotkeys (⭐2k)](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
-*   [react-keydown (⭐502)](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
-*   [react-joyride (⭐5.1k)](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
-*   [react-virtualized (⭐24k)](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
-*   [react-window (⭐13k)](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
-*   [react-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React
-*   [react-loading-skeleton (⭐3.1k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
-*   [react-spinkit (⭐1.5k)](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
-*   [rheostat (⭐1.7k)](https://github.com/airbnb/rheostat) - Accessible slider component built with React
-*   [qrcode.react (⭐3.2k)](https://github.com/zpao/qrcode.react) - QR component for use with React
+*   [styled-components (⭐39k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
+*   [jss (⭐6.9k)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
-### React Tools / React Testing
+### React Testing
 
-*   [jest (⭐41k)](https://github.com/facebook/jest) - Delightful JavaScript Testing Framework
-*   [enzyme (⭐20k)](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+*   [jest (⭐42k)](https://github.com/facebook/jest) - Delightful JavaScript Testing
 
-### React Tools / React Libraries
+### React Awesome Components
 
-*   [react-instantsearch (⭐2k)](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
-*   [uppy (⭐26k)](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
-*   [react-motion (⭐21k)](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
+*   [react-datepicker (⭐7.3k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
+*   [react-loading-skeleton (⭐3.3k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 
-### React Native Development Tools / Charts
+### React Components Sandboxes
 
-*   [react-native-code-push (⭐8.3k)](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
+*   [storybook (⭐78k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+*   [react-cosmos (⭐7.8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
 ---
 

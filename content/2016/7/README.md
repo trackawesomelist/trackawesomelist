@@ -33,7 +33,7 @@
 
 ### Scripting
 
-*   [ChakraCore (⭐8.8k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
+*   [ChakraCore (⭐8.9k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
 
 ### Compiler
 
@@ -128,7 +128,7 @@
 ### Scheduling
 
 *   [FluentScheduler (⭐2.5k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
-*   [NCrontab (⭐766)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [NCrontab (⭐786)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
 ## [12. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -147,16 +147,16 @@
 
 ### Programming fonts / Fonts
 
-*   [Fantasque Sans Mono (⭐6.2k)](https://github.com/belluzj/fantasque-sans)
+*   [Fantasque Sans Mono (⭐6.4k)](https://github.com/belluzj/fantasque-sans)
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Hasklig (⭐5.3k)](https://github.com/i-tu/Hasklig)
+*   [Hasklig (⭐5.4k)](https://github.com/i-tu/Hasklig)
 
 ### JavaScript libs / Event listeners for fonts loading on a web page
 
 *   [Font Face Observer (⭐4.1k)](https://github.com/bramstein/fontfaceobserver)
-*   [Web Font Loader (⭐9k)](https://github.com/typekit/webfontloader)
+*   [Web Font Loader (⭐9.1k)](https://github.com/typekit/webfontloader)
 
 ## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -168,11 +168,11 @@
 
 ### Messaging / Scala
 
-*   [Aeron (⭐6.3k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+*   [Aeron (⭐6.4k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 
 ### Data Formats / Scala
 
-*   [SBE (⭐198)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
+*   [SBE (⭐202)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
 
 ## [16. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
@@ -361,7 +361,7 @@
 
 ### Authentication
 
-*   [goth (⭐255)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐259)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Examples and funny stuff
 
@@ -369,7 +369,7 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐792)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐814)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ### Editors
 
@@ -381,7 +381,7 @@
 
 *   [PFQ (⭐514)](https://github.com/pfq/PFQ) - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
 *   [PF\_RING](http://www.ntop.org/products/packet-capture/pf_ring/) - PF\_RING is a new type of network socket that dramatically improves the packet capture speed.
-*   [netmap](http://info.iet.unipi.it/\~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
+*   [netmap](http://info.iet.unipi.it/~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
 
 ## [35. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -413,16 +413,16 @@
 
 ### Developer
 
-*   [caniuse (⭐403)](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
+*   [caniuse (⭐408)](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
 *   [CDN (⭐65)](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 *   [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
-*   [Font Awesome (⭐796)](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
-*   [Package Managers (⭐687)](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
+*   [Font Awesome (⭐803)](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
+*   [Package Managers (⭐689)](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
 *   [VagrantUP (⭐40)](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
 ### System
 
-*   [Copy Paths to Clipboard (⭐93)](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
+*   [Copy Paths to Clipboard (⭐95)](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
 *   [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 
 ### Other Lists
@@ -443,7 +443,7 @@
 
 ### Packages / Data validation
 
-*   [property-validator (⭐159)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
+*   [property-validator (⭐157)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 
 ## [41. Amas](/content/sindresorhus/amas/week/README.md)
 

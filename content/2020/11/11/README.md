@@ -16,7 +16,7 @@
 
 ### Packages / Miscellaneous
 
-*   [editly (⭐3.9k)](https://github.com/mifi/editly) - Declarative video editing API.
+*   [editly (⭐4.1k)](https://github.com/mifi/editly) - Declarative video editing API.
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -28,7 +28,7 @@
 
 ### UI
 
-*   [TEdito2 (⭐9)](https://github.com/bulubuloa/TEditor2) - TEditor2 is a HTML editor for Xamarin, it has so many build-in features and easy to use.
+*   [TEdito2 (⭐12)](https://github.com/bulubuloa/TEditor2) - TEditor2 is a HTML editor for Xamarin, it has so many build-in features and easy to use.
 
 ## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -67,7 +67,7 @@
 
 *   [Cloudsplaining (⭐1.7k)](https://github.com/salesforce/cloudsplaining) - Security assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 *   [Principal Mapper (⭐1.2k)](https://github.com/nccgroup/PMapper) - Quickly evaluates permissions.
-*   [PolicyUniverse (⭐359)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
+*   [PolicyUniverse (⭐364)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
 
 ### Privacy / Profanity
 
@@ -107,7 +107,7 @@
 
 ### Test / Checkbox
 
-*   [@testing-library/svelte (⭐542)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
+*   [@testing-library/svelte (⭐551)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 
 ## [13. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Third Party APIs
 
-*   [ex\_changerate (⭐3)](https://github.com/81dr/ex_changerate) - Elixir client for [exchangerate.host](https://exchangerate.host) API.
+*   [ex\_changerate (⭐4)](https://github.com/81dr/ex_changerate) - Elixir client for [exchangerate.host](https://exchangerate.host) API.
 
 ## [17. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Tools / Collection View Layout
 
-*   [SkrybaMD (⭐16)](https://github.com/robertherdzik/SkrybaMD) - Markdown Documentation generator. If your team needs an easy way to maintain and create documentation, this generator is for you.
+*   [SkrybaMD (⭐17)](https://github.com/robertherdzik/SkrybaMD) - Markdown Documentation generator. If your team needs an easy way to maintain and create documentation, this generator is for you.
 
 ---
 

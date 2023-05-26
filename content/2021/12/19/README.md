@@ -10,7 +10,7 @@
 
 ### Projects / Messaging
 
-*   [Redpanda (⭐5.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform for mission critical workloads. Kafka® compatible, No Zookeeper®, no JVM, and no code changes required.
+*   [Redpanda (⭐6.8k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐344)](https://github.com/novitae/sterraxcyl)
+*   [Sterra (⭐370)](https://github.com/novitae/sterraxcyl)
 
 ---
 

@@ -10,13 +10,13 @@
 
 ### Date and Time
 
-*   [Chronyk (⭐339)](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates.
+*   [Chronyk (⭐340)](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [njsTrace (⭐355)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
+*   [njsTrace (⭐356)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 
 ### Packages / Testing
 
@@ -30,9 +30,9 @@
 
 ### Structural Migrations
 
-*   [Lobos (⭐268)](https://github.com/budu/lobos)
-*   [Ragtime (⭐573)](https://github.com/weavejester/ragtime)
-*   [Drift (⭐120)](https://github.com/macourtney/drift)
+*   [Lobos (⭐267)](https://github.com/budu/lobos)
+*   [Ragtime (⭐583)](https://github.com/weavejester/ragtime)
+*   [Drift (⭐122)](https://github.com/macourtney/drift)
 
 ### Type System
 

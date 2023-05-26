@@ -14,7 +14,7 @@
 
 ### Scheduling
 
-*   [Simple Scheduler (⭐132)](https://github.com/simplymadeapps/simple_scheduler) - An enhancement for Heroku Scheduler + Sidekiq for scheduling jobs at specific times with a readable YML file.
+*   [Simple Scheduler (⭐130)](https://github.com/simplymadeapps/simple_scheduler) - An enhancement for Heroku Scheduler + Sidekiq for scheduling jobs at specific times with a readable YML file.
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -28,7 +28,7 @@
 
 *   Go
     *   [by @arnauddri (⭐1.8k)](https://github.com/arnauddri/algorithms)
-    *   [by @floyernick (⭐2.6k)](https://github.com/floyernick/Data-Structures-and-Algorithms)
+    *   [by @floyernick (⭐2.7k)](https://github.com/floyernick/Data-Structures-and-Algorithms)
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -70,30 +70,30 @@
 
 *   [n8n.io](https://n8n.io/) <sup>[901](https://t.me/s/aboutrss/901)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/n8n-io/n8n)
 
-### specifically from (  *a certain platform*  ) / ProductHunt
+### specifically from (*a certain platform*) / ProductHunt
 
-*   [ProductHunt daily RSS feed (⭐27)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
+*   [ProductHunt daily RSS feed (⭐28)](https://github.com/headllines/producthunt-daily-rss) <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines/producthunt-daily-rss)
 
-### specifically from (  *a certain platform*  ) / YouTube
+### specifically from (*a certain platform*) / YouTube
 
 *   [Userscript: Export YouTube Subscriptions to RSS OPML](https://greasyfork.org/scripts/418574) <sup>[915](https://t.me/s/aboutrss/915)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/theborg3of5/Userscripts/tree/master/youtubeRSSExport)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Youtube RSS Extractor](https://jeffkeeling.github.io/youtube_rss_extractor/) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/jeffkeeling/youtube_rss_extractor)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### specifically from (  *a certain platform*  ) / Spotify
+### specifically from (*a certain platform*) / Spotify
 
 *   [Spotifeed](https://spotifeed.timdorr.com/) <sup>[898](https://t.me/s/aboutrss/898)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/timdorr/spotifeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed Control](https://feedcontrol.fivefilters.org/) <sup>[919](https://t.me/s/aboutrss/919)</sup>
 
-### Obtain translated RSS feed / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Obtain translated RSS feed / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [by Using Javascript](https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/) <sup>[904](https://t.me/s/aboutrss/904)</sup>
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSAid (⭐561)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [RSSAid (⭐641)](https://github.com/lt94/RSSAid/) <sup>[911](https://t.me/s/aboutrss/911)</sup> : Android-version RSSHub Radar [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://github.com/lt94/RSSAid/releases)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lt94/RSSAid/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
@@ -121,7 +121,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Your Spotify (⭐1.4k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+*   [Your Spotify (⭐1.6k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
 
 ## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Frameworks and Stacks
 
-*   [JdeRobot Academy (⭐185)](https://github.com/JdeRobot/RoboticsAcademy) - JdeRobot Academy is an open source collection of exercises to learn robotics in a practical way.
+*   [JdeRobot Academy (⭐222)](https://github.com/JdeRobot/RoboticsAcademy) - JdeRobot Academy is an open source collection of exercises to learn robotics in a practical way.
 
 ## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -155,15 +155,15 @@
 
 ### Content Management Systems
 
-*   [Silverstripe CMS (⭐43)](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
+*   [Silverstripe CMS (⭐44)](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 
 ### Hardware
 
-*   [Robotic Tooling (⭐2.4k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+*   [Robotic Tooling (⭐2.5k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 
 ### Miscellaneous
 
-*   [Biological Visualizations (⭐115)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
+*   [Biological Visualizations (⭐121)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
 ## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

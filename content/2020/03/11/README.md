@@ -42,13 +42,13 @@
 
 ### Automation / Frameworks
 
-*   [Performance testing framework (⭐354)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
+*   [Performance testing framework (⭐363)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 
 ## [4. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [StringSifter (⭐601)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+*   [StringSifter (⭐612)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -58,7 +58,7 @@
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [IBI Data Tools (⭐92)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐25)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐130)](https://github.com/conveyal/gtfs-editor).)
+*   [IBI Data Tools (⭐93)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐25)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐130)](https://github.com/conveyal/gtfs-editor).)
 
 ## [6. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
@@ -70,9 +70,8 @@
 
 ### Economics on GitHub / Projects
 
-*   [econsieve (⭐8)](https://github.com/gboehl/econsieve) - Filter for large-scale nonlinear models.
-*   [macro\_puzzles (⭐67)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
-*   [pydsge (⭐33)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
+*   [macro\_puzzles (⭐72)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
+*   [pydsge (⭐37)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -84,19 +83,19 @@
 
 ### UI Layout / Syntax Highlight
 
-*   [react-colrow (⭐4)](https://github.com/phphe/react-colrow) - Responsive grid layout components. Based on css flexbox. Support fraction width, auto grow.
+*   [react-colrow (⭐5)](https://github.com/phphe/react-colrow) - Responsive grid layout components. Based on css flexbox. Support fraction width, auto grow.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Boilerplates / Other
 
-*   [secure-electron-template (⭐1.4k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
+*   [secure-electron-template (⭐1.5k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 
 ## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [futil-js (⭐780)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
+*   [futil-js (⭐825)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 
 ## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
@@ -140,7 +139,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐70k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐72k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Taxes / Currencies
 
@@ -164,7 +163,7 @@
 
 ### Business Intelligence / Tools
 
-*   [Metabase (⭐31k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
+*   [Metabase (⭐32k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
 
 ### Competitive Analysis / Cloud providers
 

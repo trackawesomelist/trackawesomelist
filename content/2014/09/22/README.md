@@ -16,7 +16,7 @@
 
 ### E-Commerce and Payments
 
-*   [ServiceStack.Stripe (⭐195)](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
+*   [ServiceStack.Stripe (⭐194)](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 
 ---
 

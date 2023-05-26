@@ -25,7 +25,7 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐400)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust [![Build Status](https://api.travis-ci.org/boxtown/statrs.svg?branch=master)](https://travis-ci.org/boxtown/statrs)
+    *   [statrs-dev/statrs (⭐426)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust
 
 ### Libraries / Cryptography
 
@@ -40,28 +40,28 @@
 ### Productivity / Note Taking and Lists
 
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐609)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐645)](https://github.com/simeg/eureka) - Input and store your ideas.
 
 ### Command Line Learning / Internet Speedtest
 
 *   [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
-*   [howdoi (⭐9.9k)](https://github.com/gleitz/howdoi) - Instant coding answers.
+*   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers.
 *   [how2 (⭐5.6k)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
-*   [teachcode (⭐348)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
+*   [teachcode (⭐353)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 
 ## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
-### Official Resources
+### Resources / Offical
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
-*   [GitHub Repository (⭐19k)](https://github.com/directus/directus)
+*   [GitHub Repository (⭐21k)](https://github.com/directus/directus)
 *   [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 
 ## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Tools
 
-*   [Amazing GitHub Template (⭐295)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+*   [Amazing GitHub Template (⭐311)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

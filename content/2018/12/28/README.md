@@ -10,7 +10,7 @@
 
 ### Software / DNS - Servers
 
-*   [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go.
+*   [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code (⭐11k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Varia / Tutorials
 
-*   [Awesome community detection (⭐2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
+*   [Awesome community detection (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
 
 ## [4. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

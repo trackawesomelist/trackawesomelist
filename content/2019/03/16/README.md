@@ -10,19 +10,19 @@
 
 ### Extensions
 
-*   [Serverless Framework plugin for Next.js (⭐4k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
+*   [Serverless Framework plugin for Next.js (⭐4.1k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Automation / Code libraries and bindings
 
-*   [censys-python (⭐305)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
+*   [censys-python (⭐313)](https://github.com/censys/censys-python) - Python wrapper to the Censys REST API.
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Social Media
 
-*   [irssi (⭐2.6k)](https://github.com/irssi/irssi) - IRC chat client.
+*   [irssi (⭐2.7k)](https://github.com/irssi/irssi) - IRC chat client.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -34,7 +34,7 @@
 
 ### SDKs and Samples / Haskell SDK
 
-*   [aristidb/aws :fire::fire: (⭐228)](https://github.com/aristidb/aws)
+*   [aristidb/aws :fire::fire: (⭐229)](https://github.com/aristidb/aws)
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

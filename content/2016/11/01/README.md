@@ -51,11 +51,11 @@
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐546)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐554)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Miscellaneous
 
-*   [elixir-browser (⭐87)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
+*   [elixir-browser (⭐94)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 
 ## [7. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 

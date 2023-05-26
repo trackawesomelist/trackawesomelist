@@ -10,7 +10,7 @@
 
 ### Programming Languages
 
-*   [Imba (⭐128)](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
+*   [Imba (⭐129)](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 
 ## [2. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -22,19 +22,19 @@
 
 ### Applications
 
-*   [jedisct1/flowgger (⭐753)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
+*   [jedisct1/flowgger (⭐769)](https://github.com/awslabs/flowgger) — A fast, simple and lightweight data collector
 
 ### Libraries / GUI
 
 *   [Flutter](https://flutter.dev/)
     *   [flutter-rs (⭐2k)](https://github.com/flutter-rs/flutter-rs) — Build flutter desktop app in dart & rust.
-    *   [fzyzcjy/flutter\_rust\_bridge (⭐2.4k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
+    *   [fzyzcjy/flutter\_rust\_bridge (⭐2.6k)](https://github.com/fzyzcjy/flutter_rust_bridge) — High-level memory-safe binding generator for Flutter/Dart <-> Rust
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Fastai (⭐23k)](https://github.com/fastai/fastai) - High-level wrapper built on the top of Pytorch which supports vision, text, tabular data and collaborative filtering.
+*   [Fastai (⭐24k)](https://github.com/fastai/fastai) - High-level wrapper built on the top of Pytorch which supports vision, text, tabular data and collaborative filtering.
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [MalConfScan (⭐445)](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
+*   [MalConfScan (⭐450)](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
 
 ## [10. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
 
@@ -133,7 +133,7 @@
 
 ### GUI Development
 
-*   [enaml (⭐1.4k)](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
+*   [enaml (⭐1.5k)](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
 
 ### News Feed
 
@@ -157,7 +157,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [apk-mitm (⭐2.2k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
+*   [apk-mitm (⭐2.7k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -183,7 +183,7 @@
 
 ### Code Loaders
 
-*   [Zeitwerk (⭐1.7k)](https://github.com/fxn/zeitwerk) - An efficient and thread-safe Ruby code loader.
+*   [Zeitwerk (⭐1.8k)](https://github.com/fxn/zeitwerk) - An efficient and thread-safe Ruby code loader.
 
 ## [20. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -239,7 +239,7 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Canvas-sketch (⭐4.4k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+*   [Canvas-sketch (⭐4.5k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 
 ### Sound Programming Languages
 
@@ -398,11 +398,11 @@
 
 ### Keyboard
 
-*   [Ribbon (⭐294)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐295)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
-*   [nef (⭐188)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐191)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ## [37. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
@@ -472,26 +472,26 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐59)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐60)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ### Audio Related Packages / Speech Processing
 
-*   [deepspeech (⭐20k)](https://github.com/mozilla/DeepSpeech) [:octocat: (⭐20k)](https://github.com/mozilla/DeepSpeech) [:package:](https://pypi.org/project/deepspeech/) - Pretrained automatic speech recognition.
-*   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐146)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
-*   [pypesq (⭐263)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐263)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
-*   [pystoi (⭐245)](https://github.com/mpariente/pystoi) [:octocat: (⭐245)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
+*   [deepspeech (⭐22k)](https://github.com/mozilla/DeepSpeech) [:octocat: (⭐22k)](https://github.com/mozilla/DeepSpeech) [:package:](https://pypi.org/project/deepspeech/) - Pretrained automatic speech recognition.
+*   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐148)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
+*   [pypesq (⭐278)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐278)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
+*   [pystoi (⭐259)](https://github.com/mpariente/pystoi) [:octocat: (⭐259)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
 *   [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) [:package:](https://pypi.python.org/pypi/SIDEKIT/) - Speaker and Language recognition.
 
 ### Audio Related Packages / Environmental Sounds
 
-*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐111)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
+*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐112)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
-*   [cochlea (⭐97)](https://github.com/mrkrd/cochlea) [:octocat: (⭐97)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
-*   [Loudness (⭐33)](https://github.com/deeuu/loudness) [:octocat: (⭐33)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
-*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐352)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
-*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐59)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [cochlea (⭐101)](https://github.com/mrkrd/cochlea) [:octocat: (⭐101)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
+*   [Loudness (⭐34)](https://github.com/deeuu/loudness) [:octocat: (⭐34)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
+*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐428)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
+*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐60)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ## [41. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -507,9 +507,9 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐59)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐63)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐41)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐43)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [43. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
@@ -521,7 +521,7 @@
 
 ### QA Tools / Runner
 
-*   [Pre-evaluate code at buildtime (⭐117)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
+*   [Pre-evaluate code at buildtime (⭐120)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 
 ### String / Runner
 
@@ -529,15 +529,15 @@
 
 ### Control Flow / Runner
 
-*   [sporadic (⭐16)](https://github.com/marcoonroad/sporadic) - Composable concurrency abstractions (such as streams, coroutines and Go-like channels) on top of promises, for Node and browser engines.
+*   [sporadic (⭐17)](https://github.com/marcoonroad/sporadic) - Composable concurrency abstractions (such as streams, coroutines and Go-like channels) on top of promises, for Node and browser engines.
 
 ### Routing / Runner
 
-*   [navaid (⭐731)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
+*   [navaid (⭐739)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
 
 ### API / Runner
 
-*   [wretch (⭐2.5k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+*   [wretch (⭐3.9k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## [45. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -576,19 +576,19 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐147)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐149)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ### Software / Polls and Events
 
-*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐292)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐299)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
-*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐1k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
+*   [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ([Demo](https://demo.uvdesk.com/), [Source Code (⭐1.4k)](https://github.com/uvdesk/community-skeleton)) `MIT` `PHP`
 
 ### External Links / Wikis
 
-*   Mirrors: [GitHub.com (⭐123k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+*   Mirrors: [GitHub.com (⭐133k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
 
 ## [50. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -614,7 +614,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Uncategorised
 
-*   [git-bug (⭐7.5k)](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
+*   [git-bug (⭐7.7k)](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
 
 ## [53. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -670,7 +670,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Data Store / Mouse Events
 
-*   [react-3ducks (⭐6)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
+*   [react-3ducks (⭐7)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
 
 ### Form Logic / Mouse Events
 
@@ -686,7 +686,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.1k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.2k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 
@@ -698,7 +698,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 ### Resources / Educational
 
 *   [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
-*   [Classy Django Forms (⭐20)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
+*   [Classy Django Forms (⭐22)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 *   [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 
 ### Resources / Community
@@ -731,21 +731,21 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Projects / Boilerplate
 
-*   [cookiecutter-django (⭐9.9k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
-*   [DRFx (⭐395)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+*   [cookiecutter-django (⭐11k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
+*   [DRFx (⭐424)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 *   [docker-django (⭐177)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
-*   [wemake-django-template (⭐1.6k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
-*   [django-webpack-starter (⭐55)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
+*   [wemake-django-template (⭐1.7k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+*   [django-webpack-starter (⭐57)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
 ### Projects / Open Source Projects
 
-*   [Blog app with users and forms (⭐822)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
-*   [Behavior-Driven Development with Aloe (⭐27)](https://github.com/testdrivenio/django-aloe-bdd/)
+*   [Blog app with users and forms (⭐933)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
+*   [Behavior-Driven Development with Aloe (⭐28)](https://github.com/testdrivenio/django-aloe-bdd/)
 
 ### Django REST Framework / DRF Resources
 
 *   [Official Documentation](https://www.django-rest-framework.org/)
-*   [awesome-django-rest-framework (⭐1k)](https://github.com/nioperas06/awesome-django-rest-framework)
+*   [awesome-django-rest-framework (⭐1.2k)](https://github.com/nioperas06/awesome-django-rest-framework)
 
 ### Django REST Framework / DRF Tutorials
 
@@ -755,7 +755,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### CI / Tools & Plugins
 
-*   [JMeter Maven Plugin (⭐410)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+*   [JMeter Maven Plugin (⭐419)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -827,15 +827,15 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pychat (⭐212)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
+*   [Pychat (⭐217)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-html-to-paper (⭐279)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-html-to-paper (⭐285)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 ### Components & Libraries / Utilities
 
-*   [vue-uuid (⭐65)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
+*   [vue-uuid (⭐68)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
 ## [65. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -981,7 +981,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Email
 
-*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
+*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 800 free API requests/month
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 

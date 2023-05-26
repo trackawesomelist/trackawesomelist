@@ -10,7 +10,7 @@
 
 ### Libraries / JavaScript
 
-*   [Snarkdown (⭐2k)](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
+*   [Snarkdown (⭐2.1k)](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
 
 ## [2. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Cryptography
 
-*   [OpenSSL (⭐21k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
+*   [OpenSSL (⭐22k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Companies
 
-*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐306)](https://github.com/eHealthAfrica/couchdb-best-practices).
+*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐311)](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 ### Misc/Technical / Hosting
 
@@ -86,7 +86,7 @@
 
 ### Endpoint / Forensics
 
-*   [ir-rescue (⭐392)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [ir-rescue (⭐426)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

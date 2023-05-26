@@ -130,8 +130,8 @@
 
 ### For Electron / Other
 
-*   [debugtron (⭐921)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-chrome-extension (⭐120)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
+*   [debugtron (⭐973)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-chrome-extension (⭐123)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

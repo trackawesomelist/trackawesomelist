@@ -1074,6 +1074,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 *   Audio
     *   [audioread (⭐430)](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    *   [audioFlux (⭐392)](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
     *   [dejavu (⭐6k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
     *   [kapre (⭐874)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
     *   [librosa (⭐5.8k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
@@ -1176,7 +1177,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
     *   [copier (⭐948)](https://github.com/pykong/copier) - A library and command-line utility for rendering projects templates.
     *   [cookiecutter (⭐19k)](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
     *   [doitlive (⭐3.3k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-    *   [howdoi (⭐9.9k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
+    *   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
     *   [Invoke (⭐3.9k)](https://github.com/pyinvoke/invoke#readme) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
     *   [PathPicker (⭐4.9k)](https://github.com/facebook/PathPicker) - Select files out of bash output.
     *   [percol (⭐3.2k)](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.

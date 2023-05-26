@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,12 +28,12 @@
 
 ### IoT
 
-*   [WumeiSmart (⭐781)](https://github.com/kerwincui/wumei-smart) - WumeiSmart is an intelligent life IoT platform.
-*   [JetLinks (⭐3.5k)](https://github.com/jetlinks/jetlinks-community) - JetLinks is a fully responsive, enterprise-class IoT platform.
+*   [WumeiSmart (⭐13)](https://github.com/kerwincui/wumei-smart) - WumeiSmart is an intelligent life IoT platform.
+*   [JetLinks (⭐3.7k)](https://github.com/jetlinks/jetlinks-community) - JetLinks is a fully responsive, enterprise-class IoT platform.
 
 ### Connector
 
-*   [taos-odbc (⭐3)](https://github.com/freemine/taos_odbc) - ODBC Driver for TDengine 3.0, very much early stage.
+*   [taos-odbc (⭐6)](https://github.com/freemine/taos_odbc) - ODBC Driver for TDengine 3.0, very much early stage.
 
 ## [5. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -86,27 +86,17 @@
 
 ## [10. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [GitHub Recommender (⭐32)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [GitHub Recommender (⭐34)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Lists repositories that are similar to the one being viewed
 
-Installs: 260 | Stars: 32 | Last update: 10 Aug 2022
+Installs: 274 | Stars: 34 | Last update: 10 Aug 2022
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### IDEs / Visual Studio
 
-*   [Algorand Visual Studio Extension (⭐12)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
-
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### PHP / Laravel
-
-*   [Learning Laravel](https://riptutorial.com/Download/laravel.pdf) - Compiled from StackOverflow Documentation (PDF)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
+*   [Algorand Visual Studio Extension (⭐14)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
 
 ---
 

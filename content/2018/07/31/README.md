@@ -58,34 +58,34 @@
 
 ### Honeypots / Supply chain security
 
-*   [CanaryTokens (⭐1.2k)](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
+*   [CanaryTokens (⭐1.3k)](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 
 ### Host-based tools / Tarpits
 
-*   [Artillery (⭐942)](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
+*   [Artillery (⭐949)](https://github.com/BinaryDefense/artillery) - Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
-*   [DumpsterFire (⭐889)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
+*   [DumpsterFire (⭐904)](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.
 
 ### Tor Onion service defenses / Threat signature packages and collections
 
 *   [OnionBalance](https://onionbalance.readthedocs.io/) - Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.
-*   [Vanguards (⭐152)](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
+*   [Vanguards (⭐166)](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [NotRuler (⭐83)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.9k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
+*   [NotRuler (⭐85)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.9k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
-*   [OmniDB (⭐2.9k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
+*   [OmniDB (⭐3k)](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 
 ### API / Samples
 
-*   [DreamFactory (⭐1.3k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
+*   [DreamFactory (⭐1.4k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -145,8 +145,8 @@
 
 ### Algorithms and Data structures
 
-*   [jumper (⭐5)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐469)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [jumper (⭐7)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
+*   [matrex (⭐472)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -163,7 +163,7 @@
 
 ### Static Page Generation
 
-*   [glayu (⭐74)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
+*   [glayu (⭐75)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 
 ### Third Party APIs
 
@@ -171,7 +171,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐394)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐405)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
@@ -198,7 +198,7 @@
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐137)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐136)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -332,7 +332,7 @@
 
 ### Resources / Examples
 
-*   [Vue + TypeScript Cookbook (⭐269)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
+*   [Vue + TypeScript Cookbook (⭐271)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 
 ## [23. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

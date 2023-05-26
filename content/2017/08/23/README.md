@@ -47,7 +47,7 @@
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐220)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+*   [ZImageCropper (⭐222)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ## [7. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Email
 
-*   [Maily (⭐685)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐686)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### Form Builder
 

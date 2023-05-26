@@ -28,15 +28,15 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Day/Night Cycle (⭐262)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
+*   [2D Day/Night Cycle (⭐271)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 
 ### Plugins and scripts / Godot version unknown
 
-*   [GDSerCommPlugin (⭐52)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
+*   [GDSerCommPlugin (⭐57)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 
 ### Modules / Various Godot versions
 
-*   [godot-voxel (⭐1.5k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
+*   [godot-voxel (⭐1.7k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
 
 ## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -49,9 +49,9 @@
 
 ### Database Drivers
 
-*   SQlite - [awesome-sqlite (⭐206)](https://github.com/planetopendata/awesome-sqlite)
+*   SQlite - [awesome-sqlite (⭐218)](https://github.com/planetopendata/awesome-sqlite)
     *   [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0
-    *   [SuperSQLite (⭐703)](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw (⭐606)](https://github.com/rogerbinns/apsw).
+    *   [SuperSQLite (⭐705)](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw (⭐629)](https://github.com/rogerbinns/apsw).
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -277,13 +277,13 @@
 
 ### Software / DNS
 
-*   [blocky (⭐2.4k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
+*   [blocky (⭐2.6k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`
 
 ## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Tools
 
-*   [Keycloak Pulumi (⭐24)](https://github.com/pulumi/pulumi-keycloak)
+*   [Keycloak Pulumi (⭐25)](https://github.com/pulumi/pulumi-keycloak)
 
 ## [11. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

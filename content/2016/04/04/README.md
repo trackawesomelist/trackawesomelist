@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,13 +19,19 @@
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-dark.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-light.png" width="725">
 
-## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [2. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### Perl / Svelte
+
+*   [Perl でのデータベース操作 (⭐2.2k)](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md) - はてな教科書
+
+## [3. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Use / Platforms
 
 *   **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
 
-## [3. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [4. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Studying / Useful Materials
 
@@ -52,19 +58,19 @@
 
 *   [Job Openings for Economists](https://www.aeaweb.org/joe/) - The job board by the American Economic Association.
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### JSON
 
 *   [Alembic (⭐117)](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
 *   [ueberauth\_vk (⭐18)](https://github.com/sobolevn/ueberauth_vk) - [vk.com](https://vk.com) Strategy for Überauth.
 
-## [6. Awesome Charting](/content/zingchart/awesome-charting/README.md)
+## [7. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 
 ### Free and Open Source Libraries
 
@@ -74,7 +80,7 @@
 *   [Smoothie Charts (⭐2.2k)](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 *   [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 
-## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tutorials
 
@@ -94,44 +100,44 @@
 ### Tools and session management
 
 *   [powerline (⭐14k)](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
-*   [tmuxifier (⭐861)](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
+*   [tmuxifier (⭐962)](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 *   [tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
 *   [tmuxomatic (⭐1k)](https://github.com/oxidane/tmuxomatic) Intelligent tmux session management
 
 ### Plugins
 
-*   [tmux2html (⭐660)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
+*   [tmux2html (⭐665)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 *   [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
-    *   [tmux-continuum (⭐2.6k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-    *   [tmux-copycat (⭐984)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
-    *   [tmux-fpp (⭐261)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
-    *   [tmux-logging (⭐905)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
-    *   [tmux-open (⭐533)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
-    *   [tmux-pain-control (⭐625)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
-    *   [tmux-resurrect (⭐9.6k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
-    *   [tmux-sessionist (⭐337)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
-    *   [tmux-sidebar (⭐449)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
-    *   [tmux-tpm (⭐9k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-    *   [tmux-urlview (⭐232)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
+    *   [tmux-continuum (⭐2.7k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+    *   [tmux-copycat (⭐999)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
+    *   [tmux-fpp (⭐266)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
+    *   [tmux-logging (⭐915)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
+    *   [tmux-open (⭐546)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
+    *   [tmux-pain-control (⭐633)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
+    *   [tmux-resurrect (⭐9.8k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
+    *   [tmux-sessionist (⭐348)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
+    *   [tmux-sidebar (⭐462)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+    *   [tmux-tpm (⭐9.4k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
+    *   [tmux-urlview (⭐234)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
     *   [tmux-yank (⭐2.2k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 
 ### Plugins / Development and testing
 
-*   [tmux-example-plugin (⭐36)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
+*   [tmux-example-plugin (⭐35)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 *   [tmux-test (⭐15)](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
 ### Miscellaneous / Development and testing
 
 *   [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
-*   [vim-tmux (⭐323)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
+*   [vim-tmux (⭐325)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / A individuals
 
 *   Abu Ashraf Masnun <http://masnun.com/>
 
-## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [10. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -377,7 +383,7 @@
 
 *   [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
-## [10. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
+## [11. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 
 ### Articles
 

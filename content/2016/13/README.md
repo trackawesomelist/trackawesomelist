@@ -205,7 +205,7 @@
 *   [GitHub](https://github.com/) - A repository for code and data. Publishing research here is not a common practice, but it's more convenient that alternatives (university home page, DropBox, etc.).
     *   [GitHub Pages](https://pages.github.com/) - Simple static websites.
     *   [GitHub LFS](https://git-lfs.github.com/) - Large file storage.
-*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 *   [Most common programs used by Economists](http://economics.stackexchange.com/questions/5853/most-common-programs-used-by-economists) - A community-managed list of common software.
 *   [Software for Researchers: New Data and Applications](https://antontarasenko.com/2016/01/14/software-for-research/) - Covers software mentioned above and some more.
 
@@ -240,7 +240,6 @@
 
 ### Career / Faculty
 
-*   [Econ Jobs Postings](https://econjobmarket.org/postings.php) - List of academic job openings.
 *   [Economics Job Market Rumors](http://www.econjobrumors.com/wiki.php) - List of job openings for economists. Informal.
 
 ### Economics on GitHub / Economists
@@ -250,7 +249,7 @@
 
 ### Economics on GitHub / Projects
 
-*   [quantecon\_nyu\_2016 (⭐107)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
+*   [quantecon\_nyu\_2016 (⭐112)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 
 ## [13. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
@@ -284,7 +283,7 @@
 
 ### Machine Learning
 
-*   [weka (⭐66)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
+*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -329,7 +328,7 @@
 
 *   [bootstrap-wysihtml5 (⭐4.2k)](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
 *   [wysihtml5 (⭐6.5k)](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
-*   [raptor-editor (⭐533)](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
+*   [raptor-editor (⭐532)](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 
 ### Date / Runner
 
@@ -350,9 +349,9 @@
 
 ### Modals and Popups / Other
 
-*   [baguetteBox.js (⭐2.3k)](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
+*   [baguetteBox.js (⭐2.4k)](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
 *   [colorbox (⭐4.8k)](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery.
-*   [fancyBox (⭐7.2k)](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+*   [fancyBox (⭐7.3k)](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 *   [swipebox (⭐2k)](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
 *   [jBox (⭐1.4k)](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 
@@ -360,8 +359,8 @@
 
 *   [html5-boilerplate (⭐54k)](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 *   [mobile-boilerplate (⭐3.9k)](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
-*   [webplate (⭐560)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
-*   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
+*   [webplate (⭐561)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
+*   [Cerberus (⭐4.7k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
 *   [Fluid-Squares (⭐32)](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
 
 ### Video/Audio / Other
@@ -371,14 +370,14 @@
 ### Typography / Other
 
 *   [FlowType.JS (⭐4.6k)](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
-*   [BigText (⭐884)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
-*   [novacancy.js (⭐185)](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
+*   [BigText (⭐888)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
+*   [novacancy.js (⭐184)](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
 *   [jquery-responsive-text (⭐123)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
 
 ### Animations / Other
 
-*   [the-cube (⭐10)](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
-*   [animate.css (⭐77k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [the-cube (⭐11)](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
+*   [animate.css (⭐78k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ### Misc / Other
 
@@ -388,7 +387,7 @@
 
 ### Podcasts / Other
 
-*   [sotayamashita/awesome-css (⭐4.1k)](https://github.com/sotayamashita/awesome-css)
+*   [sotayamashita/awesome-css (⭐4.4k)](https://github.com/sotayamashita/awesome-css)
 
 ## [23. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -441,7 +440,7 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐345)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐358)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ### Libraries / Virtualization
 
@@ -476,29 +475,29 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Tools
 
-*   [ShareX (⭐23k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+*   [ShareX (⭐24k)](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 
 ## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Bittorrent
 
-*   [bento (⭐77)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐78)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 
-*   [bamboo (⭐1.8k)](https://github.com/thoughtbot/bamboo) - Composable, testable and adapter based email library. Out of the box support for rendering with Phoenix and a plug for previewing sent emails in dev.
+*   [bamboo (⭐1.9k)](https://github.com/thoughtbot/bamboo) - Composable, testable and adapter based email library. Out of the box support for rendering with Phoenix and a plug for previewing sent emails in dev.
 
 ### Geolocation
 
-*   [ip2location (⭐17)](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
+*   [ip2location (⭐18)](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
 
 ### Queue
 
-*   [verk (⭐714)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
+*   [verk (⭐711)](https://github.com/edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
 
 ### Editors
 
-*   [Alchemist.vim (⭐656)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐655)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ### Websites
 
@@ -563,14 +562,14 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Laravel
 
-- Name: [Koel (⭐14k)](https://github.com/phanan/koel)
+- Name: [Koel (⭐15k)](https://github.com/phanan/koel)
 
   Description: A personal music streaming server that works
 
   Link: <http://koel.phanan.net>
 
 
-- Name: [Laravel Tricks (⭐970)](https://github.com/CodepadME/laravel-tricks)
+- Name: [Laravel Tricks (⭐974)](https://github.com/CodepadME/laravel-tricks)
 
   Description: Laravel Tips and Tricks
 
@@ -584,21 +583,21 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
   Link: <https://www.larasites.com>
 
 
-- Name: [Flarum (⭐13k)](https://github.com/flarum/flarum)
+- Name: [Flarum (⭐14k)](https://github.com/flarum/flarum)
 
   Description: Delightfully simple forum software
 
   Link: <http://flarum.org>
 
 
-- Name: [LavaliteCMS (⭐2.5k)](https://github.com/LavaLite/cms)
+- Name: [LavaliteCMS (⭐2.6k)](https://github.com/LavaLite/cms)
 
   Description: CMS built on Laravel 5.2
 
   Link: <http://www.lavalite.org>
 
 
-- Name: [AsgardCMS (⭐764)](https://github.com/AsgardCms/Platform)
+- Name: [AsgardCMS (⭐781)](https://github.com/AsgardCms/Platform)
 
   Description: A modular multilingual CMS built with Laravel 5
 
@@ -619,7 +618,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
   Link: 
 
 
-- Name: [Quarx (⭐494)](https://github.com/YABhq/Quarx)
+- Name: [Quarx (⭐496)](https://github.com/YABhq/Quarx)
 
   Description: A CMS for Laravel Apps
 
@@ -633,7 +632,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
   Link: 
 
 
-- Name: [Deployer (⭐884)](https://github.com/REBELinBLUE/deployer)
+- Name: [Deployer (⭐896)](https://github.com/REBELinBLUE/deployer)
 
   Description: A free and open source deployment tool
 
@@ -647,14 +646,14 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
   Link: <http://phphub.org>
 
 
-- Name: [Techademia (⭐15)](https://github.com/andela-fokosun/Checkpoint4)
+- Name: [Techademia (⭐16)](https://github.com/andela-fokosun/Checkpoint4)
 
   Description: Organize Your Youtube Videos to Learn
 
   Link: <http://techademia.herokuapp.com>
 
 
-- Name: [Laravel.com (⭐457)](https://github.com/laravel/laravel.com)
+- Name: [Laravel.com (⭐502)](https://github.com/laravel/laravel.com)
 
   Description: Official Website and Documentation of Laravel
 
@@ -664,7 +663,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Rails
 
-- Name: [SprintApp (⭐302)](https://github.com/macfanatic/SprintApp)
+- Name: [SprintApp (⭐301)](https://github.com/macfanatic/SprintApp)
 
   Description: Time tracking and Project Management App
 
@@ -674,7 +673,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Meteor
 
-- Name: [Rocket.Chat (⭐34k)](https://github.com/RocketChat/Rocket.Chat)
+- Name: [Rocket.Chat (⭐36k)](https://github.com/RocketChat/Rocket.Chat)
 
   Description: A web chat platform
 
@@ -695,14 +694,14 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
   Link: <https://reactioncommerce.com>
 
 
-- Name: [CoderMania (⭐48)](https://github.com/Elfoslav/codermania)
+- Name: [CoderMania (⭐49)](https://github.com/Elfoslav/codermania)
 
   Description: An E-Learning Platform
 
   Link: <http://www.codermania.com>
 
 
-- Name: [Telescope (⭐172)](https://github.com/TelescopeJS/Telescope)
+- Name: [Telescope (⭐174)](https://github.com/TelescopeJS/Telescope)
 
   Description: Lauch Sites Easily
 

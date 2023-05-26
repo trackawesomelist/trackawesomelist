@@ -46,7 +46,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Android Malware Sandbox (⭐230)](https://github.com/Areizen/Android-Malware-Sandbox)
+*   [Android Malware Sandbox (⭐247)](https://github.com/Areizen/Android-Malware-Sandbox)
 
 ## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
 

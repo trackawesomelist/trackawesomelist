@@ -29,7 +29,7 @@
 
 ### Packages / Libraries
 
-*   [Tuna (⭐1.5k)](https://github.com/Theodeus/tuna) - An audio effects library.
+*   [Tuna (⭐1.6k)](https://github.com/Theodeus/tuna) - An audio effects library.
 
 ## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Algorithms and Data structures
 
-*   [dataframe (⭐60)](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
+*   [dataframe (⭐61)](https://github.com/JordiPolo/dataframe) - Package providing functionality similar to Python's Pandas or R's data.frame().
 
 ### Third Party APIs
 

@@ -22,11 +22,11 @@
 
 ### Loaders
 
-*   [systemjs (⭐12k)](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
+*   [systemjs (⭐13k)](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
 
 ### Control Flow / Runner
 
-*   [when (⭐3.4k)](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
+*   [when (⭐3.5k)](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
 
 ## [3. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

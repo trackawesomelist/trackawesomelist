@@ -31,7 +31,7 @@
 
 ### API / Runner
 
-*   [axios (⭐98k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+*   [axios (⭐100k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 
 ### Animations / Other
 

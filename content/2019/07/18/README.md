@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2019
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,13 +20,7 @@
 *   [rn-placeholder ★1139 (⭐2k)](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web!)
 *   [action-sheet-rn ★1 (⭐32)](https://github.com/mfrachet/action-sheet-rn) - Probably the most declarative API for ActionSheets in React Native
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Proxy
-
-*   [SOCKS5Engine (⭐41)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
-
-## [4. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
+## [3. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
 ### More
 
@@ -40,26 +34,26 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
-## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [4. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Components
 
-*   [Preact Translate (⭐59)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
+*   [Preact Translate (⭐62)](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 
-## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Theming / Themes
 
 *   [ant-design-dark-theme (⭐466)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
 *   [ant-dark-theme (⭐13)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### SIRI / Ruby
 
 *   [Edwig (⭐17)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
 
-## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Reference
 
@@ -97,32 +91,32 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [sancta (⭐1)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
-## [9. Tools](/content/lvwzhen/tools/README.md)
+## [8. Tools](/content/lvwzhen/tools/README.md)
 
 ### Image compression
 
 *   [Compress-Or-Die](https://compress-or-die.com/)
 
-## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [Minerva (⭐25)](https://github.com/bdchain/Minerva) - Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
 *   [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source (⭐6)](https://github.com/smwa/wistfulbooks)
 
-## [11. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [10. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Similar libraries / Other Tools
 
 *   [htm (⭐7.9k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
-## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Tools
 
 *   [web-component-analyzer (⭐426)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -147,13 +141,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Email
-
-*   [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
-
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 

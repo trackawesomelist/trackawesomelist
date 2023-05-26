@@ -87,7 +87,7 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat: (⭐68)](https://github.com/Muges/audiotsm) [:package:](https://pypi.python.org/pypi/audiotsm/) - real-time audio time-scale modification procedures.
+*   [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat: (⭐75)](https://github.com/Muges/audiotsm) [:package:](https://pypi.python.org/pypi/audiotsm/) - real-time audio time-scale modification procedures.
 
 ## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -95,8 +95,8 @@
 
 *   [yagni (⭐218)](https://github.com/venantius/yagni)
 *   [lein-bikeshed (⭐176)](https://github.com/dakrone/lein-bikeshed)
-*   [spectrum (⭐590)](https://github.com/arohner/spectrum)
-*   [cloverage (⭐476)](https://github.com/cloverage/cloverage)
+*   [spectrum (⭐593)](https://github.com/arohner/spectrum)
+*   [cloverage (⭐490)](https://github.com/cloverage/cloverage)
 
 ---
 

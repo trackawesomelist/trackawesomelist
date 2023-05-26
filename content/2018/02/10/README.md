@@ -34,7 +34,7 @@
 
 ### Contents / Components
 
-*   [Preact Async Route (⭐136)](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
+*   [Preact Async Route (⭐137)](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
 
 ## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

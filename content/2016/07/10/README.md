@@ -26,7 +26,7 @@
 
 ### Laravel
 
-- Name: [Gitamin (⭐347)](https://github.com/GitaminHQ/Gitamin)
+- Name: [Gitamin (⭐349)](https://github.com/GitaminHQ/Gitamin)
 
   Description: A self-hosted git repository management software
 
@@ -43,13 +43,13 @@
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐279)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐283)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
-*   [benchee (⭐1.2k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir!
-*   [benchfella (⭐502)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
-*   [bmark (⭐68)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
+*   [benchee (⭐1.3k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
+*   [benchfella (⭐505)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
+*   [bmark (⭐69)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography
 

@@ -17,7 +17,7 @@
 ### Foundations of Mathematics / Category Theory
 
 *   [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
-*   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/\~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
+*   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
 
 ## [3. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [ConDroid (⭐47)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
+*   [ConDroid (⭐52)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
 
 ### Tools / Dynamic Analysis Tools
 
@@ -37,7 +37,6 @@
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
-*   [Drebin](https://www.sec.cs.tu-bs.de/\~danarp/drebin/)
 *   ~~[Admire](http://admire.necst.it/)~~
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
@@ -48,7 +47,7 @@
 
 ### Podcasts / Other
 
-*   [You Don't Know JS (⭐162k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐167k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -147,20 +146,20 @@
 
 ### IDE
 
-*   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+*   [Visual Studio Code (⭐144k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 
 ## [16. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Monads
 
-*   [Fluokitten (⭐436)](https://github.com/uncomplicate/fluokitten)
+*   [Fluokitten (⭐443)](https://github.com/uncomplicate/fluokitten)
 
 ### Science and Data Analysis
 
-*   [Bayadera - Bayesian Data Analysis on the GPU (⭐354)](https://github.com/uncomplicate/bayadera)
-*   [ClojureCUDA (⭐165)](https://github.com/uncomplicate/clojurecuda)
-*   [Neanderthal - fast matrix and linear algebra (⭐979)](https://github.com/uncomplicate/neanderthal)
-*   [ClojureCL - parallel computations with OpenCL (⭐272)](https://github.com/uncomplicate/clojurecl)
+*   [Bayadera - Bayesian Data Analysis on the GPU (⭐355)](https://github.com/uncomplicate/bayadera)
+*   [ClojureCUDA (⭐168)](https://github.com/uncomplicate/clojurecuda)
+*   [Neanderthal - fast matrix and linear algebra (⭐1k)](https://github.com/uncomplicate/neanderthal)
+*   [ClojureCL - parallel computations with OpenCL (⭐276)](https://github.com/uncomplicate/clojurecl)
 
 ## [17. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

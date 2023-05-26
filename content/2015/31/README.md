@@ -83,12 +83,12 @@
 
 ### Single controls
 
-*   [EasyListView](http://code.google.com/p/mustangpeakeasylistview) (seems abandoned, active fork on GH [here (⭐34)](https://github.com/TurboPack/MustangpeakEasyListview)). `[Delphi]` Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
+*   [EasyListView](http://code.google.com/p/mustangpeakeasylistview) (seems abandoned, active fork on GH [here (⭐35)](https://github.com/TurboPack/MustangpeakEasyListview)). `[Delphi]` Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
     // *Feature-rich Listview implementing virtual (callback-based) MVC paradigm.*
 
 ### Scripting
 
-*   [SpiderMonkey (⭐724)](https://github.com/synopse/mORMot/blob/master/SynSM.pas). `[Delphi]` `[FPC]` Binding for Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
+*   [SpiderMonkey (⭐742)](https://github.com/synopse/mORMot/blob/master/SynSM.pas). `[Delphi]` `[FPC]` Binding for Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
     // *Spidermonkey DLL required*
 
 ### RAD Studio IDE plugins/wizards
@@ -107,7 +107,7 @@
 
 ### Math
 
-*   [MIRACL (⭐535)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
+*   [MIRACL (⭐559)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ### Miscellaneous
 
@@ -155,7 +155,7 @@
 
 ### Ask these people anything!
 
-*   [Rob Furlong (⭐1)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
+*   [Rob Furlong (⭐0)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
 
 ## [17. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -181,23 +181,23 @@
 
 ### Text and Numbers
 
-*   [inet\_cidr (⭐41)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
+*   [inet\_cidr (⭐42)](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 
 ### Third Party APIs
 
-*   [coinbase (⭐12)](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
+*   [coinbase (⭐13)](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 
 ### YAML
 
-*   [yaml\_elixir (⭐150)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
+*   [yaml\_elixir (⭐154)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
 ## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
-*   :octocat: [Microsoft/TypeScript on Github (⭐88k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
-*   :octocat:[The official TypeScript Roadmap (⭐88k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+*   :octocat: [Microsoft/TypeScript on Github (⭐91k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
+*   :octocat:[The official TypeScript Roadmap (⭐91k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 *   :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 
 ### Build Systems / Playground
@@ -212,7 +212,7 @@
 
 ### Mobile / Playground
 
-*   :octocat: [NativeScript (⭐22k)](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+*   :octocat: [NativeScript (⭐23k)](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
 
 ### Web / Playground
 
@@ -394,11 +394,11 @@ git worktree add --detach <path> HEAD
 
 ### Java / General-Purpose Machine Learning
 
-*   [H2O (⭐6.2k)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
+*   [H2O (⭐6.3k)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 
 ### Scala / General-Purpose Machine Learning
 
-*   [H2O Sparkling Water (⭐939)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+*   [H2O Sparkling Water (⭐943)](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
 
 ---
 

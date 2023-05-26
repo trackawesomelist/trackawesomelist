@@ -70,7 +70,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐86k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐88k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -204,7 +204,7 @@
 
 ### Libraries
 
-*   [zen-signals (⭐44)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
+*   [zen-signals (⭐46)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -214,29 +214,29 @@
 
 ### Contents / Boilerplates
 
-*   [Official Boilerplate (⭐966)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
-*   [Preact Simple Starter (⭐64)](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
+*   [Official Boilerplate (⭐975)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
+*   [Preact Simple Starter (⭐65)](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
 *   [Preact PWA (⭐506)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Contents / Routing
 
-*   [Preact Router (⭐894)](https://github.com/developit/preact-router) - URL router for Preact.
+*   [Preact Router (⭐953)](https://github.com/developit/preact-router) - URL router for Preact.
 
 ### Contents / Components
 
-*   [Preact Token Input (⭐57)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
-*   [Preact Virtual List (⭐210)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
+*   [Preact Token Input (⭐58)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
+*   [Preact Virtual List (⭐215)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
 *   [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
-*   [Preact Socrates (⭐15)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐579)](http://github.com/matthewmueller/socrates).
-*   [Preact Flyd (⭐9)](https://github.com/xialvjun/preact-flyd) - Use [flyd (⭐1.5k)](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
-*   [Preact I18nline (⭐36)](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js (⭐8)](https://github.com/everydayhero/i18n-js) with Preact via [i18nline (⭐16)](https://github.com/download/i18nline).
-*   [Preact Classless Component (⭐42)](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
-*   [Preact Hyperscript (⭐29)](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
-*   [Shallow Compare (⭐32)](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
-*   [Preact Codemod (⭐39)](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
-*   [Preact Helmet (⭐76)](https://github.com/download/preact-helmet) - A document head manager for Preact.
-*   [Preact Delegate (⭐17)](https://github.com/NekR/preact-delegate) - Delegate DOM events.
-*   [Preact No SSR (⭐6)](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
+*   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐578)](http://github.com/matthewmueller/socrates).
+*   [Preact Flyd (⭐11)](https://github.com/xialvjun/preact-flyd) - Use [flyd (⭐1.6k)](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
+*   [Preact I18nline (⭐38)](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js (⭐9)](https://github.com/everydayhero/i18n-js) with Preact via [i18nline (⭐18)](https://github.com/download/i18nline).
+*   [Preact Classless Component (⭐43)](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
+*   [Preact Hyperscript (⭐30)](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
+*   [Shallow Compare (⭐33)](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
+*   [Preact Codemod (⭐40)](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
+*   [Preact Helmet (⭐78)](https://github.com/download/preact-helmet) - A document head manager for Preact.
+*   [Preact Delegate (⭐18)](https://github.com/NekR/preact-delegate) - Delegate DOM events.
+*   [Preact No SSR (⭐7)](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
 
 ### Contents / Articles
 
@@ -245,12 +245,12 @@
 
 ### Contents / Example Apps
 
-*   [Colors App (⭐95)](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
-*   [Tracks (⭐15)](https://github.com/jordic/tracks_preact/) - PWA for tracking things in general. Gdrive Sync.
+*   [Colors App (⭐96)](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
+*   [Tracks (⭐16)](https://github.com/jordic/tracks_preact/) - PWA for tracking things in general. Gdrive Sync.
 
 ### Contents / Related Libraries
 
-*   [Rax (⭐7.8k)](https://github.com/alibaba/rax) - A universal React-compatible render engine.
+*   [Rax (⭐7.9k)](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 
 ## [11. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -427,8 +427,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐873)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
-*   [value-category-cheatsheet (⭐397)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐883)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [value-category-cheatsheet (⭐398)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -530,7 +530,7 @@
 
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐468)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-guard (⭐470)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [31. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
@@ -609,7 +609,7 @@
 
 ### CMS
 
-*   [mojoPortal  (⭐173)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
+*   [mojoPortal  (⭐176)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 
 ### Code Analysis and Metrics
 
@@ -621,15 +621,15 @@
 
 ### Image Processing
 
-*   [Magick.NET (⭐2.7k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+*   [Magick.NET (⭐2.8k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
 
 ### JavaScript Engines
 
-*   [ClearScript (⭐1.4k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
+*   [ClearScript (⭐1.5k)](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
 
 ### Logging
 
-*   [Essential Diagnostics (⭐63)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
+*   [Essential Diagnostics (⭐62)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 *   [Semantic Logging Application Block (SLAB) (⭐214)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
@@ -790,7 +790,7 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐778)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐783)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 *   [Gemini (⭐3.1k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ### Network / Barcode
@@ -887,7 +887,7 @@
 
 ### Endpoint / Content Disarm & Reconstruct
 
-*   [DocBleach (⭐130)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
+*   [DocBleach (⭐133)](https://github.com/docbleach/DocBleach) - An open-source Content Disarm & Reconstruct software sanitizing Office, PDF and RTF Documents.
 
 ## [50. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 

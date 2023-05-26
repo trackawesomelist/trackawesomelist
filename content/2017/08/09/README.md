@@ -48,7 +48,7 @@
 
 ### Development Utilities
 
-*   [Auto Cache Flush (⭐21)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
+*   [Auto Cache Flush (⭐23)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 
 ## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Crystal / General-Purpose Machine Learning
 
-*   [machine (⭐42)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+*   [machine (⭐43)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 

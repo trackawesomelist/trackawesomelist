@@ -10,7 +10,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐34)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [AgonesSDK (⭐37)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.3k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -63,14 +63,14 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐93)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐88)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐120)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐96)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [OpenInWSL (⭐66)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [OpenInWSL (⭐80)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [5. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -156,12 +156,12 @@
 
 *   [Google News](https://news.google.com/) <sup>[623](https://t.me/s/aboutrss/623), [695](https://t.me/s/aboutrss/695), [774](https://t.me/s/aboutrss/774), [1028](https://t.me/s/aboutrss/1028)</sup>
 
-### specifically from (  *a certain platform*  ) / Annotation / Bookmarking
+### specifically from (*a certain platform*) / Annotation / Bookmarking
 
 *   [Raindrop](https://raindrop.io)
 *   [wallabag](https://wallabag.org/en) <sup>[1057](https://t.me/s/aboutrss/1057)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/wallabag/wallabag)
 
-### specifically from (  *a certain platform*  ) / Google Sheet
+### specifically from (*a certain platform*) / Google Sheet
 
 *   [Crssnt](https://crssnt.com/) <sup>[1050](https://t.me/s/aboutrss/1050)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -169,30 +169,30 @@
 
 *   [RSS feed in your Notion pages](https://notion-widget-rss.vercel.app/) <sup>[1025](https://t.me/s/aboutrss/1025)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/antoinechalifour/notion-embed-rss)
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSHub with RSS-Parser](https://telegra.ph/Use-reverse-proxy-to-filter-source-feed-contents-07-01) <sup>[1060](https://t.me/s/aboutrss/1060)</sup>
 
-### Obtain translated RSS feed / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Obtain translated RSS feed / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Use Google Sheet translate RSS item content](https://twitter.com/LorandBodo/status/1414887449189396510) <sup>[1070](https://t.me/s/aboutrss/1070)</sup>
 
-### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [RSSBud (⭐746)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
+*   [RSSBud (⭐811)](https://github.com/Cay-Zhang/RSSBud) <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064)</sup> : iOS-version RSSHub Radar [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Cay-Zhang/RSSBud)
 
-### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [OPML Checklist](http://this.how/opmlChecklist/) <sup>[1055](https://t.me/s/aboutrss/1055)</sup>
 
-### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [SHOWRSS: for Broadcatching](https://showrss.info/)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Mac iOS Tech Blogs By Women](https://inessential.com/2015/11/16/blogs_by_women)
-*   [Software Engineering Blogs (⭐23k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
+*   [Software Engineering Blogs (⭐24k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
 *   [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
 ### ⏬ Utilize RSS to automate downloading / Broadcatching / Crypto or Blockchain relevant
@@ -224,13 +224,13 @@
 
 ### Clients
 
-*   [gamja](https://sr.ht/\~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/\~emersion/gamja)) `Web`
+*   [gamja](https://sr.ht/~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/~emersion/gamja)) `Web`
 
 ## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐51)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐55)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
 ---
 

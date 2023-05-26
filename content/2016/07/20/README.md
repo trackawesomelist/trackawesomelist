@@ -83,7 +83,7 @@
 
 ### Network / Barcode
 
-*   [Heimdallr.swift (⭐630)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
+*   [Heimdallr.swift (⭐634)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 
 ### UI / Barcode
 
@@ -107,8 +107,8 @@
 
 ### Data Visualization / Runner
 
-*   [d3 (⭐104k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
-*   [c3 (⭐9.2k)](https://github.com/c3js/c3) - D3-based reusable chart library.
+*   [d3 (⭐105k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
+*   [c3 (⭐9.3k)](https://github.com/c3js/c3) - D3-based reusable chart library.
 
 ### Documentation / Runner
 
@@ -124,11 +124,11 @@
 
 ### Date / Runner
 
-*   [timeago.js (⭐4.9k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
+*   [timeago.js (⭐5k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 
 ### String / Runner
 
-*   [jsurl (⭐502)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
+*   [jsurl (⭐521)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 
 ### Sliders / Runner
 
@@ -145,8 +145,7 @@
 
 ### Podcasts / Other
 
-*   [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
-*   [MaximAbramchuck/awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+*   [MaximAbramchuck/awesome-interviews (⭐55k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## [9. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -197,7 +196,7 @@
 *   [NgKeyboardTracker (⭐805)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 *   [MMNumberKeyboard (⭐957)](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
 *   [TPKeyboardAvoiding (⭐5.8k)](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
-*   [YYKeyboardManager (⭐480)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
+*   [YYKeyboardManager (⭐481)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
 
 ### Utility / Collection View Layout
 
@@ -207,10 +206,10 @@
 *   [ObjectiveSugar (⭐2.2k)](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
 *   [OpinionatedC (⭐52)](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
 *   [YOLOKit (⭐662)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
-*   [BFKit (⭐804)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
+*   [BFKit (⭐803)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
 *   [AppVersionMonitor (⭐257)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [libextobjc (⭐4.5k)](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
-*   [YAML.framework (⭐236)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
+*   [YAML.framework (⭐237)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
 
 ---
 

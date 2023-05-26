@@ -2,7 +2,7 @@
 
 🚀 Awesome (free) web apps that work without login
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 2.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/aviaryan/awesome-no-login-web-apps/README.md) / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / Overview ]
 
@@ -144,7 +144,6 @@ To save the world from creating user accounts and installing software applicatio
 ### File Hosting/Sharing
 
 *   [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
-*   [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
 *   [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 *   [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 *   [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
@@ -213,7 +212,7 @@ To save the world from creating user accounts and installing software applicatio
 *   [Jango Radio](http://www.jango.com/) - Free Internet radio, listen to hundreds of genre stations or create your own with your favorite music.
 *   [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 *   [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
-*   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐21)](https://github.com/Anshuman-Verma/ongaku-desktop).
+*   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐22)](https://github.com/Anshuman-Verma/ongaku-desktop).
 *   [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
 
 ### Notepads and Notebooks

@@ -54,7 +54,7 @@
 
 ### Typing
 
-*   👍 [Coalton (⭐711)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Coalton (⭐776)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [6. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Tools / Testing Tools
 
-*   [eslint-dashboard (⭐13)](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
+*   [eslint-dashboard (⭐14)](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Applications / Operating systems
 
-*   [0x59616e/SteinsOS (⭐88)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
+*   [0x59616e/SteinsOS (⭐90)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
 
 ## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 

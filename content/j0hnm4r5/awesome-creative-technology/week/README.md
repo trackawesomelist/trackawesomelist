@@ -2,9 +2,83 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 284 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 289 · 🏷️ Miscellaneous
 
 [ [Daily](/content/j0hnm4r5/awesome-creative-technology/README.md) / Weekly / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [May 22 - May 28, 2023](/content/2023/21/README.md)
+
+### Creative Technology
+
+- Name: [**DE-YAN**](https://de-yan.com/)
+
+  Locations: \[NYC]
+
+  Keywords: creative concepting, experiential, motion, graphic & interactive design within luxury, fashion, beauty, & lifestyle
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fde-yan.com%2F)
+
+
+- Name: [**Domestic Data Streamers**](https://domesticstreamers.com/)
+
+  Locations: \[Barcelona]
+
+  Keywords: fighting indifference towards data
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdomesticstreamers.com%2F)
+
+
+- Name: [**OIO**](https://oio.studio/)
+
+  Locations: \[London]
+
+  Keywords: creative company working on future products and tools for a less boring future
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Foio.studio%2F)
+
+
+
+### Collectives & Practices
+
+- Name: [**Brooklyn Research**](https://brooklynresearch.com/)
+
+  Locations: \[NYC]
+
+  Keywords: we build interactive systems for a range of clients including museums, artists, and leading technology firms
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fbrooklynresearch.com%2F)
+
+
+- Name: [**Hypersonic**](https://www.hypersonic.cc/)
+
+  Locations: \[NYC]
+
+  Keywords: groundbreaking new media sculptures and physical installations
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.hypersonic.cc%2F)
+
+
+
+### Creative Agencies
+
+- Name: [**AKQA**](https://www.akqa.com/)
+
+  Locations: \[London] \[SF] \[São Paulo] \[Melbourne] \[Aarhus] \[Miami] \[Amsterdam] \[Atlanta] \[Auckland] \[Berlin] \[Cairo] \[Cape Town] \[Copenhagen] \[Dubai] \[Gothenburg] \[Gurgaon] \[Johannesburg] \[Milan] \[NYC] \[Paris] \[Portland, OR] \[Riyadh] \[Shanghai] \[Stockholm] \[Sydney] \[Tokyo] \[Venice] \[DC] \[Wellington]
+
+  Keywords: the most powerful force in the universe isn’t technology, it’s imagination
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.akqa.com%2F)
+
+
+- Name: [**Weber Shandwick**](https://www.webershandwick.com/)
+
+  Locations: \[Atlanta] \[Baltimore] \[Bogotá] \[Boston] \[Brasilia] \[Buenos Aires] \[Buffalo] \[Chicago] \[Dallas] \[Detroit] \[Lima] \[LA] \[Mexico City] \[Minneapolis] \[Montreal] \[Nashville, TN] \[NYC] \[Philadelphia] \[Rio de Janeiro] \[SF] \[Santiago] \[Seattle] \[St. Louis] \[São Paulo] \[Toronto] \[Vancouver] \[DC]
+
+  Keywords: we work at the intersection of technology, society, policy and media, adding value to culture — to shape and re-shape it
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.webershandwick.com%2F)
+
+
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
@@ -207,15 +281,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 
 ### Festivals & Conferences
-
-- Name: [**Eyeo**](https://www.eyeofestival.com/)
-
-  Locations: \[Melbourne]
-
-  Keywords: a gathering for the creative technology community
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.eyeofestival.com%2F)
-
 
 - Name: [**ISEA**](https://isea2022.isea-international.org/)
 

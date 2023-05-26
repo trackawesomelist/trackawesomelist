@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -87,7 +87,7 @@
 
 ### Non-deterministic, logic programming
 
-*   [cl-prolog2 (⭐25)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-prolog2 (⭐24)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -124,20 +124,6 @@
 ### Tutorials
 
 *   [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
-
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Firefox OS / Phoenix
-
-*   [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
-
-### Julia / Vue.js
-
-*   [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
-
-### Linux / TeX
-
-*   [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
 
 ---
 

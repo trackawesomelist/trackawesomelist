@@ -25,7 +25,7 @@ git log --all --grep='<given-text>'
 ### Tools / Libraries
 
 *   [Color Thief (⭐11k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐813)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colorify.js (⭐811)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐622)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
@@ -51,13 +51,13 @@ git log --all --grep='<given-text>'
 
 ### General
 
-*   [Qtypes (⭐157)](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+*   [Qtypes (⭐159)](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
 *   [BotKit (⭐11k)](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 *   [Claudia Bot Builder (⭐1.8k)](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 
 ### Facebook Messenger
 
-*   [Go (⭐276)](https://github.com/paked/messenger)
+*   [Go (⭐275)](https://github.com/paked/messenger)
 
 ### Slack
 
@@ -65,7 +65,7 @@ git log --all --grep='<given-text>'
 
 ### Telegram
 
-*   [Node.js (⭐6.6k)](https://github.com/yagop/node-telegram-bot-api)
+*   [Node.js (⭐7k)](https://github.com/yagop/node-telegram-bot-api)
 
 ### Bot Stores / Go
 

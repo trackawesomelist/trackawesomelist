@@ -30,31 +30,31 @@
 
 *   [Youtube-viewer (⭐1k)](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 *   [Invidious-viewer (⭐13)](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
-*   [Youtube-dl (⭐118k)](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+*   [Youtube-dl (⭐119k)](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 *   [Alltube (⭐2.8k)](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
-*   [Vividl (⭐262)](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
-*   [Tartube (⭐1.3k)](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+*   [Vividl (⭐274)](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
+*   [Tartube (⭐1.4k)](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 *   [Plumber (⭐48)](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
-*   [ViewTube (⭐656)](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
+*   [ViewTube (⭐665)](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
 
 ### Overview / Twitter
 
-*   [Shitter (⭐144)](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
+*   [Shitter (⭐151)](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
 *   [Harpy (⭐1.9k)](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
-*   [Twidere X (⭐920)](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
+*   [Twidere X (⭐921)](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
 *   [Tweeterr (⭐4)](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
-*   [Tweet-app (⭐61)](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
+*   [Tweet-app (⭐60)](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
 *   [Tweepy (⭐9.5k)](https://github.com/tweepy/tweepy): Twitter for Python
 
 ### Overview / Reddit
 
 *   [RedditClient (⭐13)](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
 *   [Eddrit (⭐18)](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
-*   [Top of Reddit (⭐22)](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
+*   [Top of Reddit (⭐23)](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
 ### Overview / Hacker News
 
-*   [HNTopLinks (⭐27)](https://github.com/eguller/hntoplinks): Top Links on Hacker News
+*   [HNTopLinks (⭐28)](https://github.com/eguller/hntoplinks): Top Links on Hacker News
 
 ### Redirection / Other services
 
@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dd-form (⭐77)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
+*   [vue-dd-form (⭐79)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -85,10 +85,10 @@
 ### Plugins / Languages and Environments
 
 *   JSON
-    *   [JSON (⭐168)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
+    *   [JSON (⭐172)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
     *   [JSON, package.json (⭐35)](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
-    *   [JSON with Comments (⭐71)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
-    *   [JSON Schema (⭐38)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
+    *   [JSON with Comments (⭐88)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
+    *   [JSON Schema (⭐42)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [peterkh/cumulus :fire::fire: (⭐206)](https://github.com/peterkh/cumulus) - Manages stacks.
+*   [peterkh/cumulus :fire::fire: (⭐205)](https://github.com/peterkh/cumulus) - Manages stacks.
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐348)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐364)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ---
 

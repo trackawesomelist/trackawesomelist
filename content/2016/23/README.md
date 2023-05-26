@@ -23,13 +23,13 @@
 
 ### Web Apps (open source)
 
-*   [Transitive.js (⭐657)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+*   [Transitive.js (⭐658)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
-*   [LeeGo (⭐969)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐968)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -39,7 +39,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-aggregators :fire: (⭐151)](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
+*   [amazon-kinesis-aggregators :fire: (⭐150)](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐220)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐231)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐427)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐429)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [16. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -147,17 +147,17 @@
 
 ### Artificial Intelligence
 
-*   [ANNetGPGPU (⭐93)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐5.3k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [ANNetGPGPU (⭐99)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
+*   [Recast/Detour (⭐5.5k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Veles (⭐900)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐8.5k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐8.7k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
-*   [Duktape (⭐5.5k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
+*   [Duktape (⭐5.6k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
 
 ### Web Application Framework
 
@@ -219,14 +219,14 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐446)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐449)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
-*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐10k)](https://github.com/zaproxy/zaproxy)
+*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐11k)](https://github.com/zaproxy/zaproxy)
 *   `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
 *   `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
 *   `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
@@ -554,7 +554,7 @@ git config core.fileMode false
 
 ### Packages / Debugging / Profiling
 
-*   [ctrace (⭐118)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+*   [ctrace (⭐120)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 
 ### Resources / Tutorials
 

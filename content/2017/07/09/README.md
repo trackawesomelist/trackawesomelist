@@ -30,9 +30,9 @@
 
 ## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Learning / More Awesome
+### Learning / Check Also
 
-*   📚 [Awesome JS Books (⭐55)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   [Awesome JS Books (⭐56)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 
 ## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

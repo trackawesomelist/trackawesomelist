@@ -10,7 +10,7 @@
 
 ### Images / Barcode
 
-*   [Rough (⭐96)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
+*   [Rough (⭐97)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 
 ## [2. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Contents / Utilities
 
-*   [pgbadger (⭐2.8k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
+*   [pgbadger (⭐2.9k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 
 ## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

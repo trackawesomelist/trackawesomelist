@@ -97,7 +97,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Web Scraping / Others
 
-*   [Pattern (⭐8.4k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
+*   [Pattern (⭐8.5k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
 
 ### Deployment / NLP
 
@@ -106,20 +106,20 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Reinforcement Learning / NLP
 
-*   [TF-Agents (⭐2.4k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [TF-Agents (⭐2.5k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Apps/Websites / Community
 
-*   [Layoutit Grid (⭐1.4k)](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
+*   [Layoutit Grid (⭐1.5k)](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 
 ## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / "System" bindings
 
 *   [ROS2-Integration-Service (⭐12)](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
-*   [soss (⭐57)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
+*   [soss (⭐59)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -129,13 +129,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Components & Libraries / Utilities
 
-*   [vue-axillo (⭐8)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
+*   [vue-axillo (⭐9)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
 
 ## [14. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### YAML
 
-*   [ymlr (⭐12)](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
+*   [ymlr (⭐15)](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
 
 ## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -151,7 +151,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Showcases / XML
 
-*   [GitHub Profile Trophy (⭐3.4k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+*   [GitHub Profile Trophy (⭐3.7k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 
 ## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -172,13 +172,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Networking
 
-*   [Boost.Beast (⭐3.7k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
+*   [Boost.Beast (⭐3.8k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
 
 ## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 
-*   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.6k)](https://github.com/antonbabenko/terraform-best-practices)
+*   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.7k)](https://github.com/antonbabenko/terraform-best-practices)
 *   [The Terraform Book](https://terraformbook.com/)
 
 ### Community Modules / Miscellaneous
@@ -187,8 +187,8 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Tools / Vendor supported providers
 
-*   [flora (⭐19)](https://github.com/ketchoop/flora) - Terraform version manager.
-*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐501)](https://github.com/antonbabenko/serverless.tf).
+*   [flora (⭐20)](https://github.com/ketchoop/flora) - Terraform version manager.
+*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐525)](https://github.com/antonbabenko/serverless.tf).
 *   [terraspace](https://terraspace.cloud) - The Terraform Framework
 
 ---

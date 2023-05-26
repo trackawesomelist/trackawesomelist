@@ -20,7 +20,7 @@
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐474)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐481)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Third Party APIs
 
-*   [dnsimple (⭐49)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
+*   [dnsimple (⭐48)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
 
 ### Editors
 
@@ -42,7 +42,7 @@
 
 ### Open Source Repos / Code Deploy
 
-*   [aws-codedeploy-plugin :fire: (⭐151)](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
+*   [aws-codedeploy-plugin :fire: (⭐153)](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
 
 ---
 

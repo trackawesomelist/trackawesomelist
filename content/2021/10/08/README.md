@@ -90,61 +90,67 @@
 
 ### Accounting / Bookkeeping
 
-*   [Ledger (⭐585)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
-*   [Akaunting (⭐5.9k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Ledger (⭐627)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Akaunting (⭐6.1k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Account Management
 
-*   [SuperTokens (⭐8k)](https://github.com/supertokens/supertokens-core) - Open-source project for login and session management which supports passwordless, social login, email and phone logins.
+*   [SuperTokens (⭐8.6k)](https://github.com/supertokens/supertokens-core) - Open-source project for login and session management which supports passwordless, social login, email and phone logins.
 *   [UserFrosting (⭐1.6k)](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework.
 
 ### Authentication / Multi-Factor
 
-*   [Authelia (⭐15k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
+*   [Authelia (⭐16k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
 ### Authentication / JWT
 
 *   [jwtXploiter (⭐219)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### Scala / Flask
+
+*   [ScalaによるWebアプリケーション開発 (⭐2.2k)](https://github.com/hatena/Hatena-Textbook/blob/master/web-application-development-scala.md) - はてな教科書
+
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Configuration
 
-*   [uchuhimo/konf (⭐294)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
+*   [uchuhimo/konf (⭐293)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 
-## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
-*   [CrowdSec (⭐5.7k)](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
+*   [CrowdSec (⭐6.6k)](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
 
-## [12. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / jQuery
 
 *   [Top JQuery Interview Questions and Answers](https://www.techgeekbuzz.com/top-jquery-interview-questions/)
 
-## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [14. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / VPN
 
 *   [Yagna httpx client (⭐2)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
 
-## [14. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [15. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Operating systems / Build system (ROS2)
 
-*   [ReconROS (⭐12)](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS (⭐26)](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
+*   [ReconROS (⭐15)](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS (⭐27)](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
 
-## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [Umbraco (⭐3.7k)](https://github.com/umbraco/umbraco-cms) - An extensible and friendly Open source ASP.NET Core CMS
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -243,16 +249,6 @@
   CORS: Unknown
 
 
-
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / React
-
-*   [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content) - Krasimir Tsonev
-
-### Python / Django
-
-*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.2.x/django.pdf) (PDF) (3.2)
 
 ---
 

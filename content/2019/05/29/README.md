@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [CSV (⭐488)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+*   [CSV (⭐504)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 
 ## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Networking
 
-*   [libhttpserver (⭐731)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+*   [libhttpserver (⭐760)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [dark-mode (⭐633)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [dark-mode (⭐635)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/klaussinani/taskbook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
@@ -113,7 +113,7 @@
 
 ### Notification
 
-*   🚀 [react-toastify (⭐10k)](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
+*   🚀 [react-toastify (⭐11k)](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 
 ## [15. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
@@ -127,22 +127,22 @@
 
 ### Resources / Services
 
-*   [steamworks4j (⭐407)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
+*   [steamworks4j (⭐411)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 
 ### Resources / User Interface
 
 *   [gdx-dialogs (⭐77)](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
-*   [InGameConsole (⭐125)](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
+*   [InGameConsole (⭐126)](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
 
 ### Resources / Visual Effects
 
-*   [Box2DLights (⭐241)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
-*   [Particle Park (⭐53)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
+*   [Box2DLights (⭐245)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
+*   [Particle Park (⭐57)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 
 ### Resources / Others
 
 *   [gdxGifRecorder (⭐38)](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
-*   [noise4j (⭐88)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
+*   [noise4j (⭐89)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 
 ---
 

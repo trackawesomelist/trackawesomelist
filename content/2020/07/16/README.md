@@ -10,7 +10,7 @@
 
 ### Packages / Middleware
 
-*   [Livy (⭐745)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
+*   [Livy (⭐763)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -44,8 +44,8 @@ git switch -c <branch-name>
 
 ### Third-Party Packages / Security
 
-*   [django-csp (⭐441)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
-*   [django-feature-policy (⭐76)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+*   [django-csp (⭐474)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
+*   [django-feature-policy (⭐83)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -85,7 +85,7 @@ git switch -c <branch-name>
 
 ### CSharp
 
-*   [Tye (⭐5k)](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+*   [Tye (⭐5.1k)](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -120,7 +120,7 @@ git switch -c <branch-name>
 
 ### Open Source Repos / Cognito
 
-*   [rahulpsd18/cognito-backup-restore :fire: (⭐184)](https://github.com/rahulpsd18/cognito-backup-restore) - Tool for backing up and restoring Cognito user pools.
+*   [rahulpsd18/cognito-backup-restore :fire: (⭐187)](https://github.com/rahulpsd18/cognito-backup-restore) - Tool for backing up and restoring Cognito user pools.
 
 ---
 

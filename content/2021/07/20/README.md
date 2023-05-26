@@ -10,7 +10,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [camspiers/snap (⭐392)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
+*   [camspiers/snap (⭐397)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Tools & Software / Utilities
 
-*   [gowarcserver (⭐8)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐12k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
+*   [gowarcserver (⭐10)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐12k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Form Components / Color Picker
 
-*   [react-color (⭐79)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
+*   [react-color (⭐89)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Templates / React
 
-*   [Tropical (⭐110)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+*   [Tropical (⭐122)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
 
 ## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

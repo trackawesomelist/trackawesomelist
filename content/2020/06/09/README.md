@@ -8,10 +8,13 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
+### GTFS Merge Tools / Ruby
+
+*   [GTFS Kit (⭐1)](https://github.com/mrcagney/gtfs_kit) - A Python 3.8+ tool kit for analyzing and merging General Transit Feed Specification (GTFS) data. [Info on how to aggregate and clean feeds provided here](https://mrcagney.github.io/gtfs_kit_docs/index.html#module-gtfs_kit.cleaners).
+
 ### GTFS Libraries / Python
 
-*   [GTFS Kit (⭐4)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
-*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐4)](https://github.com/mrcagney/gtfs_kit).
+*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐1)](https://github.com/mrcagney/gtfs_kit).
 
 ### GTFS Analysis Tools / Ruby
 
@@ -166,7 +169,7 @@
 
 ### Telegram
 
-*   [vgram (⭐126)](https://github.com/dariotarantini/vgram) - Telegram bot library.
+*   [vgram (⭐133)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

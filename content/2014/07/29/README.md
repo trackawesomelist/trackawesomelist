@@ -16,7 +16,7 @@
 
 ### General
 
-*   [camlPDF (⭐174)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+*   [camlPDF (⭐179)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -42,12 +42,12 @@
 ### Voice Command / Runner
 
 *   [annyang (⭐6.4k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-*   [voix.js (⭐548)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+*   [voix.js (⭐550)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 ### API / Runner
 
-*   [bottleneck (⭐1.4k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
-*   [oauth-signature-js (⭐230)](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
+*   [bottleneck (⭐1.5k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+*   [oauth-signature-js (⭐229)](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 
 ## [5. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
@@ -69,8 +69,8 @@
 
 ### Static Code Analysis
 
-*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐4.6k)](https://github.com/danmar/cppcheck)
-*   [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source (⭐3.6k)](https://github.com/oclint/oclint)
+*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐4.8k)](https://github.com/danmar/cppcheck)
+*   [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source (⭐3.7k)](https://github.com/oclint/oclint)
 
 ### Websites
 

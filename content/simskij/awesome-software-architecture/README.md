@@ -2,9 +2,19 @@
 
 A curated list of resources on software architecture
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/simskij/awesome-software-architecture/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) · ⭐ 1.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/simskij/awesome-software-architecture/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) · ⭐ 1.8K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/simskij/awesome-software-architecture/week/README.md) / [Overview](/content/simskij/awesome-software-architecture/readme/README.md) ]
+
+## [May 03, 2023](/content/2023/05/03/README.md)
+
+### Tools / Scalability and Resilience
+
+*   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+
+### Bonus / DevOps
+
+*   [Software Architect Roadmap](https://roadmap.sh/software-architect) - A complete and structured guide to become a Software Architect.
 
 ## [Oct 04, 2022](/content/2022/10/04/README.md)
 
@@ -58,7 +68,7 @@ A curated list of resources on software architecture
 
 ### Frameworks / DevOps
 
-*   [Adidas DevOps Maturity Framework (⭐508)](https://github.com/adidas/adidas-devops-maturity-framework) - Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and guidelines that when adopted, increases efficiency, effectiveness and happiness of the team.
+*   [Adidas DevOps Maturity Framework (⭐538)](https://github.com/adidas/adidas-devops-maturity-framework) - Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and guidelines that when adopted, increases efficiency, effectiveness and happiness of the team.
 
 ## [Dec 25, 2019](/content/2019/12/25/README.md)
 

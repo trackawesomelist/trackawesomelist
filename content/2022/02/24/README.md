@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 24, 2022
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,8 +35,8 @@
 *   [MOTIS](https://motis-project.de/) - Intermodal Mobility Information System including [visualization](https://europe.motis-project.de/)
 *   [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) - Frequency visualization of subways and buses in New York City built using [Transitland](https://transit.land/).
 *   [SEPTA Rail OTP Report](https://apps.phor.net/septa/) - An online on-time performance reporing & drill down tool using GTFS.
-*   [Toronto Transit Explorer (⭐34)](https://github.com/sidewalklabs/totx) - A Java application that visualizes transit, biking and walking accessibility across the city of Toronto. Live version hosted [here](https://totx.sidewalklabs.com/). Uses a modified version of [R5 (⭐209)](https://github.com/conveyal/r5) for routing.
-*   [TransitFlow (⭐266)](https://github.com/transitland/transitland-processing-animation) Animate GTFS data around the world using Processing and Transitland.
+*   [Toronto Transit Explorer (⭐34)](https://github.com/sidewalklabs/totx) - A Java application that visualizes transit, biking and walking accessibility across the city of Toronto. Live version hosted [here](https://totx.sidewalklabs.com/). Uses a modified version of [R5 (⭐218)](https://github.com/conveyal/r5) for routing.
+*   [TransitFlow (⭐268)](https://github.com/transitland/transitland-processing-animation) Animate GTFS data around the world using Processing and Transitland.
 *   [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
 *   [Traze](https://traze.app/) by [Veridict](https://www.veridict.com) - Visualization of public transport vehicles from all over the world. Collaborate with other users to get real-time updates even when it is not available from the agency. Based on a number of sources, including GTFS and GTFS-RT. (Previously known as [Livemap24](https://www.livemap24.com)).
 *   [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
@@ -45,13 +45,13 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐156k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
+*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐159k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / Data Mapping Solution
 
-*   [Altova MapForce](https://www.altova.com/mapforce) - A graphical data mapping tool for any-to-any conversion and integration.
+*   [Altova MapForce](https://www.altova.com/mapforce) - A graphical data mapping tool that can handle any-to-any conversion and integration tasks. It simplifies complex mapping tasks, enabling software engineers to complete projects faster.
 
 ## [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -59,13 +59,29 @@
 
 *   [Keploy (⭐1.6k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [fast-trade (⭐250)](https://github.com/jrmeier/fast-trade) - Low code backtesting library utilizing pandas and technical analysis indicators.
+*   [Lean (⭐7.4k)](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#).
+
+### Java / FrameWorks
+
+*   [ta4j (⭐1.8k)](https://github.com/ta4j/ta4j) - A Java library for technical analysis.
+
+### Haskell / Data Visualization
+
+*   [Haxcel (⭐26)](https://github.com/MarcusRainbow/Haxcel) - Excel Addin for Haskell.
+*   [Ffinar (⭐2)](https://github.com/MarcusRainbow/Ffinar) - A financial maths library in Haskell.
+
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [SaturnCloud](https://saturncloud.io/) - Data science cloud environment, that allows to run Jupyter notebooks and Dask clusters. 30 hours free computation and 3 hours of Dask per month.
 
-## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Libraries / Lua
 
@@ -75,13 +91,13 @@
 
 *   [ireasoning/SNMP Agent Simulator](http://ireasoning.com/snmpsimulator.shtml) - Free SNMP Agent Simulator Java based application that can simulate SNMPv1/v2c/v3 agents.
 
-## [10. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [11. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Rights of the data subject (art. 12 - 23)
 
 *   [Open source privacy notice template (Juro) (⭐160)](https://github.com/juro-privacy/free-privacy-notice)
 
-## [11. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [12. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Code
 
@@ -99,39 +115,39 @@
 
 *   [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 
-## [12. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Vector Creation
 
 *   [SVG.js](https://svgjs.dev/) - Dependency-free lightweight library for creating, manipulating, and animating SVG.
 *   [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
-*   [DrawingBotV3 (⭐185)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
+*   [DrawingBotV3 (⭐203)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 
 ### Software / Vector Utilities
 
 *   [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Cognitive Development / Commonsense Knowledgebase
 
 *   [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?start=10\&hl=en\&as_sdt=0,5\&cluster=9247917261616759689)].
 
-## [14. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [15. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Resources / Books
 
 *   [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 
-## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Get Started
 
-*   [create-vitawind (⭐116)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
+*   [create-vitawind (⭐123)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-tailwind-v3 (⭐24)](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
+*   [vite-vanilla-tailwind-v3 (⭐30)](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
 
 ### Templates / Vue 3
 
@@ -139,11 +155,11 @@
 
 ### Templates / React
 
-*   [vite-react-ts-extended (⭐73)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [vite-react-ts-extended (⭐84)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-image-presets (⭐199)](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
+*   [vite-plugin-image-presets (⭐211)](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Web Servers
 
-*   [XSP (⭐197)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
+*   [XSP (⭐192)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## [2. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Inter-process communication
 
-*   [gRPC (⭐37k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
+*   [gRPC (⭐38k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
 
 ### Compiler
 
-*   [8cc (⭐5.8k)](https://github.com/rui314/8cc) - A Small C Compiler.
+*   [8cc (⭐5.9k)](https://github.com/rui314/8cc) - A Small C Compiler.
 *   [c (⭐2k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
 ---

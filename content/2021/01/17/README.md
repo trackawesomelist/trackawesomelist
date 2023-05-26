@@ -31,11 +31,11 @@
 
 ### Apps / Automated translation
 
-*   [LibreTranslate (⭐3.8k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+*   [LibreTranslate (⭐3.9k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ### Apps / Translation software
 
-*   [Argos Translate (⭐1.7k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+*   [Argos Translate (⭐1.8k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Front-End Development
 
-*   [Design systems (⭐546)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+*   [Design systems (⭐564)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Paginator
 
-*   [paginated (⭐20)](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
+*   [paginated (⭐21)](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
 
 ## [6. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -71,7 +71,7 @@
 ### Learn
 
 *   [Elm patterns](https://sporto.github.io/elm-patterns/) - A collection of coding patterns.
-*   [Codings hints (⭐7k)](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
+*   [Codings hints (⭐7.2k)](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
 *   [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - A Collection of small example in Ellie.
 *   [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
 

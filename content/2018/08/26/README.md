@@ -1,18 +1,12 @@
 # Awesome List Updates on Aug 26, 2018
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Ruby / Tornado
-
-*   [Rubyfu](https://rubyfu.net)
-
-## [2. Awesome C](/content/inputsh/awesome-c/README.md)
+## [1. Awesome C](/content/inputsh/awesome-c/README.md)
 
 ### Build Systems
 
@@ -162,7 +156,7 @@
 *   [cpu\_features (⭐2.1k)](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 *   [pblog (⭐24)](https://github.com/google/pblog) - Small, low overhead, structured logging library intended for logging formware events.[`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 
-## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [2. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Maps and Visualizations / Particles
 
@@ -172,13 +166,13 @@
 
 *   [Primrose (⭐505)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
 
-## [4. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [3. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Tools
 
 *   [json2dart](https://javiercbk.github.io/json_to_dart) - Given a json, it generates the dart classes to parse and generate json with given structure.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 

@@ -178,20 +178,20 @@
 
 ### Miscellaneous
 
-*   [WebScreenshot (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
+*   [WebScreenshot (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ### System
 
-*   [AppFreeze (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
+*   [AppFreeze (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
 
 ### Web
 
-*   [BugNot (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
-*   [IncognitoClone (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
+*   [BugNot (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
+*   [IncognitoClone (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
 
 ### Helpers
 
-*   [OneUpdater (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
+*   [OneUpdater (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
 
 ## [8. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 

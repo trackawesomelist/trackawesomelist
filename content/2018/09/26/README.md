@@ -24,7 +24,7 @@ Webpage: <https://www.facebook.com/TEKTURAcafe/>
 
 ### Miscellaneous / Development and testing
 
-*   [tmux-tail-f (⭐31)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+*   [tmux-tail-f (⭐30)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -80,7 +80,7 @@ Webpage: <https://www.facebook.com/TEKTURAcafe/>
 
 ### Open Source Repos / Elastic Container Service
 
-*   [ecs-refarch-continuous-deployment :fire::fire::fire: (⭐833)](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
+*   [ecs-refarch-continuous-deployment :fire::fire::fire: (⭐836)](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
 
 ---
 

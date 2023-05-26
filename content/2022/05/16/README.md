@@ -46,7 +46,7 @@
 
 ### Modules / Various Godot versions
 
-*   [GodotHook (⭐12)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
+*   [GodotHook (⭐19)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine (Godot 3.x, 4.x).
 
 ## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐39)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐52)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ### Framework-agnostic Plugins / Transformers
 

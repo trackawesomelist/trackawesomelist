@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 14 - Sep 20, 2020
 
-68 awesome lists updated this week.
+67 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Clocks & Studio Screens
 
-*   [OnAirScreen (⭐74)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
+*   [OnAirScreen (⭐76)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
 *   [PiClock (⭐20)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 *   [PiRSClock-Full (⭐14)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
 
@@ -49,13 +49,13 @@
 
 *   [HTML2RSS](https://html2rss.github.io) <sup>[795](https://t.me/s/aboutrss/795)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gildesmarais/html2rss)
 
-### specifically from (  *a certain platform*  ) / Hacker News
+### specifically from (*a certain platform*) / Hacker News
 
 *   [Realtime RSS feeds for *Hacker News*](https://hnrss.org) <sup>[465](https://t.me/s/aboutrss/465)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/edavis/hnrss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Headllines](https://headllines.com/) <sup>[796](https://t.me/s/aboutrss/796)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Hacker News Digest](http://hackernews.betacat.io/) <sup>[802](https://t.me/s/aboutrss/802)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/polyrabbit/hacker-news-digest)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### specifically from (  *a certain platform*  ) / Last.fm
+### specifically from (*a certain platform*) / Last.fm
 
 *   [Last.fm RSS Feeds](https://lfm.xiffy.nl/) <sup>[807](https://t.me/s/aboutrss/807)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xiffy/lfm)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -66,7 +66,7 @@
 *   [PushAlert](https://pushalert.co/blog/introducing-automated-rss-push-and-newsletter-push-notifications/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 *   [PushEngage](https://blog.pushengage.com/fully-automate-your-browser-push-campaigns-with-wordpress-or-rss-feed/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 
-### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [PressForward](https://pressforward.org/) <sup>[804](https://t.me/s/aboutrss/804)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/PressForward/pressforward)
 
@@ -127,7 +127,7 @@
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐221)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐224)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ### Software / Task Management & To-do Lists
 
@@ -180,7 +180,7 @@
 
 ### Apps/Websites / Community
 
-*   [npmview (⭐119)](https://github.com/pd4d10/npmview) - A web application to view npm package files.
+*   [npmview (⭐120)](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 
 ## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -191,9 +191,9 @@
 ### Python / General-Purpose Machine Learning
 
 *   [ML/DL project template (⭐1.1k)](https://github.com/PyTorchLightning/deep-learning-project-template)
-*   [PyTorch Lightning (⭐22k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
+*   [PyTorch Lightning (⭐23k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
 *   [PyTorch Lightning Bolts (⭐1.5k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
-*   [Determined (⭐2.1k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
+*   [Determined (⭐2.3k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
 ## [15. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -312,17 +312,17 @@
 
 ### Projects / Libraries
 
-*   [TLC (⭐28)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐27)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
-*   [coq2html (⭐24)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
+*   [coq2html (⭐26)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Completeness and Decidability of Modal Logic Calculi (⭐5)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
-*   [CoqPrime (⭐25)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
-*   [Finmap (⭐44)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
+*   [Completeness and Decidability of Modal Logic Calculi (⭐8)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
+*   [CoqPrime (⭐29)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
+*   [Finmap (⭐46)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
 *   [Gaia (⭐21)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 
 ### Resources / Community
@@ -331,7 +331,7 @@
 
 ### Resources / Books
 
-*   [Program Logics for Certified Compilers](https://www.cs.princeton.edu/\~appel/papers/plcc.pdf) - Book that explains how to construct program logics using separation logic, accompanied by a formal model in Coq which is applied to the Clight programming language and other examples.
+*   [Program Logics for Certified Compilers](https://www.cs.princeton.edu/~appel/papers/plcc.pdf) - Book that explains how to construct program logics using separation logic, accompanied by a formal model in Coq which is applied to the Clight programming language and other examples.
 
 ### Resources / Course Material
 
@@ -408,7 +408,7 @@
 
 ### Contents / Personalization
 
-*   [Wallbay (⭐106)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
+*   [Wallbay (⭐107)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 
 ## [29. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -427,15 +427,15 @@
 
 ### Testing / Misc
 
-*   [MBC3 RTC test ROM (⭐19)](https://github.com/aaaaaa123456789/rtc3test)
+*   [MBC3 RTC test ROM (⭐21)](https://github.com/aaaaaa123456789/rtc3test)
 
 ### Tools / Music drivers and trackers
 
-*   [DevSound (⭐48)](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
+*   [DevSound (⭐49)](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
 *   [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
-*   [GBT PLAYER (⭐244)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
-*   [mmlgb (⭐35)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
-*   [XPMCK (⭐25)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
+*   [GBT PLAYER (⭐255)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
+*   [mmlgb (⭐38)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
+*   [XPMCK (⭐26)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
 
 ## [32. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -475,7 +475,7 @@
 
 ### Component Management
 
-*   [Bit (⭐16k)](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
+*   [Bit (⭐17k)](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
 
 ### Form Widgets / Select
 
@@ -507,9 +507,9 @@
 
 ## [40. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
-### Techniques / Language Models
+### Language Models / BERT models
 
-*   [BlueBERT (⭐429)](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
+*   [BlueBERT (⭐473)](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 
 ## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -525,18 +525,18 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ultimate-skeleton-cards (⭐87)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
-*   [vue-router-tab (⭐425)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-ultimate-skeleton-cards (⭐88)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
+*   [vue-router-tab (⭐437)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ### Components & Libraries / Frameworks
 
-*   [Wave UI (⭐444)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
+*   [Wave UI (⭐464)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 
 ## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Testing
 
-*   [definject (⭐50)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
+*   [definject (⭐52)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 
 ## [44. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -841,7 +841,7 @@
 
 ### Misc
 
-*   [Fugen (⭐70)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
+*   [Fugen (⭐74)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
 
 ### GraphQL
 
@@ -849,40 +849,34 @@
 
 ### Events
 
-*   [Tokamak (⭐2k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
+*   [Tokamak (⭐2.1k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
 
 ### Fonts
 
-*   [SwiftUI-FontIcon (⭐81)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
+*   [SwiftUI-FontIcon (⭐88)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
 
 ### TextField / Barcode
 
-*   [FloatingLabelTextFieldSwiftUI (⭐354)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
+*   [FloatingLabelTextFieldSwiftUI (⭐379)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
 
-## [47. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
-
-### Utilities
-
-*   [LibreSelery (⭐119)](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions.
-
-## [48. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [47. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Template
 
-*   [VS Code ROS2 Workspace Template (⭐448)](https://github.com/athackst/vscode_ros2_workspace) -  Template for using VSCode as an IDE for ROS2 development.
+*   [VS Code ROS2 Workspace Template (⭐568)](https://github.com/athackst/vscode_ros2_workspace) -  Template for using VSCode as an IDE for ROS2 development.
 
-## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [cl-ssh-keys (⭐13)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-ssh-keys (⭐14)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-bcrypt (⭐10)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   see also [cl-pass (⭐25)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 
 ### Python
 
-*   [burgled-batteries (⭐107)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
+*   [burgled-batteries (⭐108)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -894,9 +888,9 @@
 
 ### Data validation / Third-party APIs
 
-*   [json-schema (⭐12)](https://github.com/fisxoj/json-schema) - A library for validating data against schemas of drafts 4, 6, 7, and 2019-09 of the [JSON Schema](https://json-schema.org/) standard. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [json-schema (⭐13)](https://github.com/fisxoj/json-schema) - A library for validating data against schemas of drafts 4, 6, 7, and 2019-09 of the [JSON Schema](https://json-schema.org/) standard. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [50. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [49. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Cheat Sheets / Randomized Algorithms
 
@@ -905,27 +899,27 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Python
-    *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
+    *   [by @nryoung (⭐2.8k)](https://github.com/nryoung/algorithms)
     *   [by @prakhar1989 (⭐2.9k)](https://github.com/prakhar1989/Algorithms)
-    *   [by @laurentluce (⭐264)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐50)](https://github.com/nbro/ands)
+    *   [by @laurentluce (⭐265)](https://github.com/laurentluce/python-algorithms)
+    *   [by @nbro (⭐51)](https://github.com/nbro/ands)
     *   [by @keon (⭐22k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐615)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐622)](https://github.com/vinta/fuck-coding-interviews)
 
-## [51. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [50. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain and distributed web technologies to deliver educational content, even to those without broadband internet. [Source (⭐5)](https://github.com/edchainio/edchain-client-gui)
 *   [QuestNetwork Messenger (⭐22)](https://github.com/QuestNetwork/quest-messenger-js) - Multi-Platform End-To-End Encrypted Messenger on IPFS PubSub. Emulates Servers/Community with folders that can be shared using invitation codes. It's free and open source. On track to become the most comprehensive and user-friendly messenger on IPFS.
 
-## [52. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [51. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [terraform-operator](https://github.com/isaaguilar/terraform-operator.git) - A Kubernetes CRD to handle Terraform operations.
 
-## [53. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [52. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -943,38 +937,38 @@
 
 *   [Tracking Exposed](https://tracking.exposed/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tracking-exposed) - Research, browser addons on tracking, profiling, and influence of algorithms.
 
-## [54. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [53. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### CLI & Editor / iOS
 
-*   🔧 [Firecode (⭐35)](https://github.com/ChFlick/firecode) -  VS Code Firestore Rules Extension.
-*   🔧 [VSFire (⭐75)](https://github.com/toba/vsfire) - Deprecated ~~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~~
+*   🔧 [Firecode (⭐34)](https://github.com/ChFlick/firecode) -  VS Code Firestore Rules Extension.
+*   🔧 [VSFire (⭐74)](https://github.com/toba/vsfire) - Deprecated ~~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~~
 
-## [55. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Game Development
 
-*   [crystal-chipmunk (⭐39)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-chipmunk (⭐40)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐47k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐54)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐55)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐47k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
-## [56. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [55. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Debugging Tools
 
 *   [tapping\_device (⭐447)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
-## [57. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [56. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 *   🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
 
-## [58. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [57. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -988,33 +982,33 @@
 
 *   [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
 
-## [59. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [58. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [AHT20](https://crates.io/crates/aht20) - I2C - Humidity and temperature sensor - [github (⭐2)](https://github.com/chocol4te/aht20) - ![crates.io](https://img.shields.io/crates/v/aht20.svg)
 *   [embedded-ccs811](https://crates.io/crates/embedded-ccs811) - I2C - Gas and VOC sensor driver for monitoring indoor air quality - [Intro blog post](https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/embedded-ccs811.svg)
 
-## [60. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [59. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Books / Uncategorized
 
 *   [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. Authors: Emil Hvitfeldt and Julia Silge.
 
-## [61. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [60. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence / Mobile
 
 *   [Habitica (⭐1.1k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
 
-## [62. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+## [61. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
 ### Restaurants
 
 *   Bonn, Germany
     *   [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria.
 
-## [63. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [62. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Audio and Video
 
@@ -1056,7 +1050,7 @@
 
 *   [Randommer](https://randommer.io/) - Random data generator and validator.
 
-## [64. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [63. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Conventions
 
@@ -1087,29 +1081,29 @@
 
 *   [Normal distributions transform :red\_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
 
-## [65. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [64. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Meaning of Symbols:
 
 *   :warning: means that this tool was not updated for more than 1 year, or the repo was archived.
 
-## [66. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [65. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
-*   [react-customizable-chat-bot (⭐9)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
+*   [react-customizable-chat-bot (⭐10)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐578)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐580)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
-## [67. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
+## [66. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 
 ### Feedback on your CV
 
 *   [TopCV](https://www.topcv.com) - Get detailed feedback from experts.
 
-## [68. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [67. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Code Pipeline
 

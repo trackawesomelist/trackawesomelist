@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Community
 
-*   [OpenTripPlanner (⭐1.8k)](https://github.com/opentripplanner/OpenTripPlanner) Community
+*   [OpenTripPlanner (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner) Community
     *   [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
     *   [OpenTripPlanner Developers mailing list](https://groups.google.com/forum/#!forum/opentripplanner-dev)
 *   OneBusAway
@@ -33,12 +33,12 @@
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [Ember (⭐756)](https://github.com/elastic/ember) - Collection of features from PE files that serve as a benchmark dataset for researchers.
+*   [Ember (⭐792)](https://github.com/elastic/ember) - Collection of features from PE files that serve as a benchmark dataset for researchers.
 *   [MalShare](https://malshare.com) - Free Malware repository providing researchers access to samples, malicious feeds, and Yara results.
-*   [MalwareGallery (⭐36)](https://github.com/BaRRaKudaRain/MalwareGallery) - Yet another malware collection in the Internet.
+*   [MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery) - Yet another malware collection in the Internet.
 *   [PackingData (⭐4)](https://github.com/chesvectain/PackingData) - Original dataset with sample PE files packed with a large variety of packers, including ASPack, BeRoEXEPacker, exe32pack, eXpressor, FSG, JDPack, MEW, Molebox, MPRESS, Neolite, NSPack, Pckman, PECompact, PEtite, RLPack, UPX, WinUpack, Yoda's Crypter and Yoda's Protector.
-*   [SOREL (⭐504)](https://github.com/sophos-ai/SOREL-20M) - Sophos-ReversingLabs 20 Million dataset.
-*   [theZoo (⭐9.3k)](https://github.com/ytisf/theZoo) - Project created to make the possibility of malware analysis open and available to the public.
+*   [SOREL (⭐533)](https://github.com/sophos-ai/SOREL-20M) - Sophos-ReversingLabs 20 Million dataset.
+*   [theZoo (⭐9.7k)](https://github.com/ytisf/theZoo) - Project created to make the possibility of malware analysis open and available to the public.
 *   [WildList](http://www.wildlist.org/CurrentList.txt) - Cooperative listing of malwares reported as being in the wild by security professionals.
 
 ### :package: Packers / After 2010
@@ -47,14 +47,14 @@
 *   [BIN-crypter](https://www.autoitscript.com/forum/topic/129383-bin-crypter/) - EXE protection software against crackers and decompilers.
 *   [ELFuck (⭐29)](https://github.com/timhsutw/elfuck) - ELF packer for i386 original version from sk2 by sd.
 *   [LM-X License Manager](https://www.x-formation.com/lm-x-license-manager) - LM-X License Manager lets you protect your products against piracy by enforcing various levels of security, save time, and reduce business risks.
-*   [m0dern\_p4cker (⭐36)](https://github.com/n4sm/m0dern_p4cker) - Just a modern packer for elf binaries ( works on linux executables only ).
-*   [MidgetPack (⭐181)](https://github.com/arisada/midgetpack) - Midgetpack is a binary packer for ELF binaries, such as burneye, upx or other tools.
+*   [m0dern\_p4cker (⭐37)](https://github.com/n4sm/m0dern_p4cker) - Just a modern packer for elf binaries ( works on linux executables only ).
+*   [MidgetPack (⭐184)](https://github.com/arisada/midgetpack) - Midgetpack is a binary packer for ELF binaries, such as burneye, upx or other tools.
 *   [Obsidium](http://www.obsidium.de/show.php?home) - Feature-rich professional software protection and licensing system designed as a cost effective and easy to implement, yet reliable and non-invasive way to protect your 32- and 64-bit Windows software applications and games from reverse engineering.
-*   [PE-Packer (⭐170)](https://github.com/czs108/PE-Packer) - Simple packer for Windows 32-bits PE files.
-*   [PE-Toy (⭐3)](https://github.com/r0ngwe1/petoy) - A PE file packer.
-*   [Silent-Packer (⭐29)](https://github.com/SilentVoid13/Silent_Packer) - Silent Packer is an ELF / PE packer written in pure C.
+*   [PE-Packer (⭐205)](https://github.com/czs108/PE-Packer) - Simple packer for Windows 32-bits PE files.
+*   [PE-Toy (⭐4)](https://github.com/r0ngwe1/petoy) - A PE file packer.
+*   [Silent-Packer (⭐34)](https://github.com/SilentVoid13/Silent_Packer) - Silent Packer is an ELF / PE packer written in pure C.
 *   [Simple-PE32-Packer (⭐7)](https://github.com/z3r0d4y5/Simple-PE32-Packer) - Simple PE32 Packer with aPLib compression library.
-*   [theArk (⭐38)](https://github.com/aaaddress1/theArk) - Windows x86 PE Packer In C++.
+*   [theArk (⭐39)](https://github.com/aaaddress1/theArk) - Windows x86 PE Packer In C++.
 *   [UPX](https://upx.github.io/) - Ultimate Packer for eXecutables.
 *   [xorPacker (⭐10)](https://github.com/nqntmqmqmb/xorPacker) - Simple packer working with all PE files which cipher your exe with a XOR implementation.
 
@@ -66,30 +66,30 @@
 
 *   [Android Unpacker (⭐1k)](https://github.com/strazzere/android-unpacker) - Android Unpacker presented at Defcon 22: Android Hacker Protection Level 0.
 *   [aPLib](https://ibsensoftware.com/products_aPLib.html) - Compression library based on the algorithm used in aPACK.
-*   [AppSpear (⭐35)](https://github.com/UchihaL/AppSpear) - Universal and automated unpacking system suitable for both Dalvik and ART.
-*   [Bintropy (⭐14)](https://github.com/dhondta/bintropy) - Prototype analysis tool that estimates the likelihood that a binary file contains compressed or encrypted bytes.
+*   [AppSpear (⭐36)](https://github.com/UchihaL/AppSpear) - Universal and automated unpacking system suitable for both Dalvik and ART.
+*   [Bintropy (⭐25)](https://github.com/dhondta/bintropy) - Prototype analysis tool that estimates the likelihood that a binary file contains compressed or encrypted bytes.
 *   [BitBlaze](http://bitblaze.cs.berkeley.edu/release/index.html) - Analysis platform that features a novel fusion of static and dynamic analysis techniques, mixed concrete and symbolic execution, and whole-system emulation and binary instrumentation, all to facilitate state-of-the art research on real security problems.
 *   [Clamscan Unpacker](https://clamunpacker.sourceforge.io/) - Unpacker derived from ClamAV.
-*   [de4js (⭐996)](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker.
-*   [EXEInfo-PE (⭐353)](https://github.com/ExeinfoASL/ASL) - Fast detector for executable PE files.
+*   [de4js (⭐1.1k)](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker.
+*   [EXEInfo-PE (⭐411)](https://github.com/ExeinfoASL/ASL) - Fast detector for executable PE files.
 *   [GUnpacker](http://qunpack.ahteam.org/?p=327) - Shell tool that performs OEP positioning and dumps decrypted code.
-*   [Manalyze (⭐889)](https://github.com/JusticeRage/Manalyze) - Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.
-*   [PackerAttacker (⭐250)](https://github.com/BromiumLabs/PackerAttacker) - Tool that uses memory and code hooks to detect packers.
+*   [Manalyze (⭐906)](https://github.com/JusticeRage/Manalyze) - Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.
+*   [PackerAttacker (⭐254)](https://github.com/BromiumLabs/PackerAttacker) - Tool that uses memory and code hooks to detect packers.
 *   [PackerBreaker](https://www.portablefreeware.com/forums/viewtopic.php?t=21555) - Tool for helping unpack, decompress and decrypt most of the programs packed, compressed or encrypted using advanced emulation technology.
-*   [PackerGrind (⭐26)](https://github.com/rewhy/adaptiveunpacker) - Adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps.
-*   [Packing-Box (⭐19)](https://github.com/dhondta/docker-packing-box) - Docker image gathering many packing-related tools and for making datasets of packed executables for use with machine learning.
-*   [PEFrame (⭐547)](https://github.com/guelfoweb/peframe) - Tool for performing static analysis on PE malware and generic suspicious files.
+*   [PackerGrind (⭐28)](https://github.com/rewhy/adaptiveunpacker) - Adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps.
+*   [Packing-Box (⭐29)](https://github.com/dhondta/docker-packing-box) - Docker image gathering many packing-related tools and for making datasets of packed executables for use with machine learning.
+*   [PEFrame (⭐564)](https://github.com/guelfoweb/peframe) - Tool for performing static analysis on PE malware and generic suspicious files.
 *   [PEiD](http://www.secretashell.com/codomain/peid/) - Packed Executable iDentifier.
 *   [PEiD (yara) (⭐12)](https://github.com/K-atc/PEiD) - Yet another implementation of PEiD with yara.
-*   [PeLib (⭐57)](https://github.com/avast/pelib) - PE file manipulation library.
-*   [PEPack (⭐538)](https://github.com/merces/pev) - PE file packer detection tool, part of the Unix package "pev".
-*   [PINdemonium (⭐222)](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
-*   [PolyUnpack (⭐10)](https://github.com/PlatonovIvan/PolyUnpack) - Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions.
+*   [PeLib (⭐60)](https://github.com/avast/pelib) - PE file manipulation library.
+*   [PEPack (⭐0)](https://github.com/merces/pev) - PE file packer detection tool, part of the Unix package "pev".
+*   [PINdemonium (⭐224)](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
+*   [PolyUnpack (⭐11)](https://github.com/PlatonovIvan/PolyUnpack) - Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions.
 *   [PyPackerDetect (⭐27)](https://github.com/cylance/PyPackerDetect) - Small python script/library to detect whether an executable is packed.
-*   [PyPackerDetect (refactored) (⭐9)](https://github.com/dhondta/PyPackerDetect) - A complete refactoring of the original project to a Python package with a console script to detect whether an executable is packed.
+*   [PyPackerDetect (refactored) (⭐12)](https://github.com/dhondta/PyPackerDetect) - A complete refactoring of the original project to a Python package with a console script to detect whether an executable is packed.
 *   [PyPeid (⭐3)](https://github.com/FFRI/pypeid) - Yet another implementation of PEiD with yara-python.
 *   [Quick Unpack](http://qunpack.ahteam.org/?p=458) - Generic unpacker that facilitates the unpacking process.
-*   [Unipacker (⭐516)](https://github.com/unipacker/unipacker) - Automatic and platform-independent unpacker for Windows binaries based on emulation.
+*   [Unipacker (⭐544)](https://github.com/unipacker/unipacker) - Automatic and platform-independent unpacker for Windows binaries based on emulation.
 *   [Uunp (IDA Pro plugin)](https://www.hex-rays.com/blog/unpacking-mpressed-pe-dlls-with-the-bochs-plugin/) - IDA Pro debugger plug-in module automating the analysis and unpacking of packed binaries.
 *   [VirusTotal](https://www.virustotal.com/gui/) - File analysis Web service for detecting malware.
 *   [VMUnpacker](https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - Unpacker based on the technology of virtual machine.
@@ -98,23 +98,23 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐33)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
+*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐36)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Editors
 
-*   [Neovim (⭐9.2k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
+*   [Neovim (⭐10k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
-*   [dzr (⭐120)](https://github.com/yne/dzr) - deezer.com player.
+*   [dzr (⭐130)](https://github.com/yne/dzr) - deezer.com player.
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐355)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐422)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -141,13 +141,13 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-vuetify-starter (⭐65)](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
+*   [vite-vue2-ts-vuetify-starter (⭐75)](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Misc
 
-*   [Surmagic (⭐271)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
+*   [Surmagic (⭐278)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 
 ## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -185,20 +185,14 @@
 
 
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Standard ML / Play Scala
-
-*   [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf) - Anthony L. Shipman (PDF)
-
-## [13. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [12. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Tools and Apps / File Management
 
 *   [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 *   [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 
-## [14. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [13. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Automation / Ruby
 

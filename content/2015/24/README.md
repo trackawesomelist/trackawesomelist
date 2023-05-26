@@ -198,7 +198,7 @@
 
 ### Distributed Media Processing
 
-*   [StormCV (⭐170)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
+*   [StormCV (⭐171)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## [7. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -302,11 +302,11 @@
 
 ### :hammer_and_wrench:   Libraries and SDKs / Python
 
-*   [django-slack-oauth (⭐51)](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
+*   [django-slack-oauth (⭐53)](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
 
 ### :hammer_and_wrench:   Libraries and SDKs / Scala
 
-*   [slack-scala-client (⭐183)](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
+*   [slack-scala-client (⭐186)](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
 
 ## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -397,19 +397,19 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### QA Tools / Runner
 
-*   [JSLint (⭐3.5k)](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
+*   [JSLint (⭐3.6k)](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐6.8k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐7.1k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
-*   [FieldVal (⭐137)](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
+*   [FieldVal (⭐136)](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
 
 ### Podcasts / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐522)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐571)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [20. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 

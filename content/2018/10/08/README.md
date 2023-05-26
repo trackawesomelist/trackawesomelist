@@ -22,7 +22,7 @@
 
 ### Playbooks, Roles and Collections / French
 
-*   [Openstack Ansible (⭐1.3k)](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
+*   [Openstack Ansible (⭐1.4k)](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 *   [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 
 ## [4. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
@@ -60,7 +60,7 @@
 
 ### Utility / Barcode
 
-*   [Lumos (⭐146)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
+*   [Lumos (⭐151)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Operating systems / Build system (ROS2)
 
-*   [RIOT (⭐4.4k)](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
+*   [RIOT (⭐4.5k)](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
 
 ### Papers / ROSCon 2015
 
@@ -113,7 +113,7 @@
 
 ### Miscellaneous
 
-*   [Software Patreons (⭐450)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
+*   [Software Patreons (⭐456)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 ## [17. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/system76-power (⭐477)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
+*   [pop-os/system76-power (⭐504)](https://github.com/pop-os/system76-power/) — Linux power management daemon (DBus-interface) with CLI tool.
 
 ---
 

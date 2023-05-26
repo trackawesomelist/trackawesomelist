@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -160,7 +160,7 @@
 
 ### Code check/review, debug
 
-*   [Spider (⭐108)](https://github.com/yavfast/dbg-spider). `[Delphi]` Real time profiler for Delphi applications
+*   [Spider (⭐116)](https://github.com/yavfast/dbg-spider). `[Delphi]` Real time profiler for Delphi applications
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -171,15 +171,15 @@
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐630)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐662)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
-*   [firecracker-microvm/firecracker (⭐21k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload  [Firecracker Microvm](https://firecracker-microvm.github.io/)
+*   [firecracker-microvm/firecracker (⭐22k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐827)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐892)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ### Development tools / Debugging
 
@@ -189,7 +189,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐509)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐514)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -197,50 +197,42 @@
 
 ### Development tools / Static analysis
 
-*   [static\_assertions](https://crates.io/crates/static_assertions) — Compile-time assertions to ensure that invariants are met [![Build Status](https://api.travis-ci.org/nvzqz/static-assertions-rs.svg?branch=master)](https://travis-ci.org/nvzqz/static-assertions-rs/)
+*   [static\_assertions](https://crates.io/crates/static_assertions) — Compile-time assertions to ensure that invariants are met
 
 ### Libraries / Automotive
 
-*   [oefd/tokio-socketcan (⭐30)](https://github.com/oefd/tokio-socketcan) [\[tokio-socketcan\]](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
-
-### Libraries / Command-line
-
-*   Style
-    *   [LukasKalbertodt/bunt (⭐210)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
-    *   [LukasKalbertodt/term-painter (⭐75)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output [![build badge](https://api.travis-ci.org/LukasKalbertodt/term-painter.svg?branch=master)](https://travis-ci.org/LukasKalbertodt/term-painter)
-    *   [mackwic/colored (⭐1.2k)](https://github.com/mackwic/colored) \[[colored](https://crates.io/crates/colored)] — Coloring terminal so simple, you already know how to do it!
-    *   [ogham/rust-ansi-term (⭐420)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals [![build badge](https://api.travis-ci.org/ogham/rust-ansi-term.svg?branch=master)](https://travis-ci.org/ogham/rust-ansi-term)
-    *   [SergioBenitez/yansi (⭐172)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
+*   [oefd/tokio-socketcan (⭐32)](https://github.com/oefd/tokio-socketcan) [\[tokio-socketcan\]](https://crates.io/crates/tokio-socketcan)] — Linux SocketCAN support for tokio based on the socketcan crate
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐51)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐52)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
 *   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
-    *   [Kiss-ui (⭐342)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP [![Build Status](https://api.travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
+    *   [Kiss-ui (⭐343)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP
 
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐7.7k)](https://github.com/actix/actix) — Actor library for Rust [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
-    *   [dylanmckay/protocol (⭐166)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
-    *   [libpnet/libpnet (⭐1.8k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking [![build badge](https://api.travis-ci.org/libpnet/libpnet.svg?branch=master)](https://travis-ci.org/libpnet/libpnet)
-    *   [smoltcp-rs/smoltcp (⭐2.9k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems [![build badge](https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master)](https://travis-ci.org/smoltcp-rs/smoltcp)
-    *   [tokio-rs/tokio (⭐19k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
+    *   [actix/actix (⭐7.9k)](https://github.com/actix/actix) — Actor library for Rust
+    *   [dylanmckay/protocol (⭐168)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
+    *   [libpnet/libpnet (⭐1.9k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
+    *   [smoltcp-rs/smoltcp (⭐3k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [tokio-rs/tokio (⭐21k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
 
 ### Libraries / Parsing
 
-*   [ptal/oak (⭐139)](https://github.com/ptal/oak) — A typed PEG parser generator (compiler plugin)
+*   [ptal/oak (⭐140)](https://github.com/ptal/oak) — A typed PEG parser generator (compiler plugin)
 
 ### Libraries / Web programming
 
 *   Client-side / WASM
-    *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web [![Build Status](https://api.travis-ci.org/koute/cargo-web.svg?branch=master)](https://travis-ci.org/koute/cargo-web)
-    *   [sauron (⭐1.7k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture. [![Build Status](https://api.travis-ci.org/ivanceras/sauron.svg?branch=master)](https://travis-ci.org/ivanceras/sauron)
+    *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
+    *   [leptos (⭐9k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [sauron (⭐1.8k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed](https://seed-rs.org/) — A Rust framework for creating web apps
-    *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web [![Build Status](https://api.travis-ci.org/koute/stdweb.svg?branch=master)](https://travis-ci.org/koute/stdweb)
+    *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
     *   [yew](https://crates.io/crates/yew) — Rust framework for making client web apps
 
 ### Resources / Web programming
@@ -251,11 +243,11 @@
 
 ### Game Engine
 
-*   [Spring (⭐3k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3.2k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Reflection
 
-*   [Magic Enum (⭐3.5k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐3.7k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
@@ -291,13 +283,7 @@
 
 *   [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
 
-## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Job boards
-
-*   [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - Remote OK Jobs for Full-Stack Developer Jobs
-
-## [12. Awesome Math](/content/rossant/awesome-math/README.md)
+## [11. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Category Theory
 
@@ -310,17 +296,17 @@
 
 ### Algebra / Linear Algebra
 
-*   [Linear Algebra Done Wrong](https://www.math.brown.edu/\~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
+*   [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
 
 ### Analysis / Real Analysis
 
-*   [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/\~gbergman/ug.hndts/#Rudin) - George M. Bergman
+*   [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
 
 ### Analysis / Functional Analysis
 
-*   [Theory of Functions of a Real Variable](http://www.math.harvard.edu/\~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
+*   [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
 
-## [13. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### MOOCs
 

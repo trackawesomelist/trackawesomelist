@@ -10,7 +10,7 @@
 
 ### Security
 
-*   [bundler-audit (⭐2.5k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
+*   [bundler-audit (⭐2.6k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 
 ## [2. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Scroll / Other
 
-*   [fullPage (⭐34k)](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
+*   [fullPage (⭐35k)](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 
 ## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

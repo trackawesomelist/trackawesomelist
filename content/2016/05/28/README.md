@@ -20,8 +20,8 @@
 
 ### Containers / Bare metal / kernel development
 
-*   [memutils (⭐39)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-*   [dlib.container (⭐212)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+*   [memutils (⭐40)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+*   [dlib.container (⭐209)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 *   [std.rcstring (⭐9)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ### GUI Libs / XML
@@ -30,8 +30,8 @@
 
 ### Image Processing / XML
 
-*   [dlib.image (⭐212)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
-*   [color.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+*   [dlib.image (⭐209)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+*   [color.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ### Logging / Language Processing
 
@@ -39,14 +39,13 @@
 
 ### Configuration / Language Processing
 
-*   [inifile-D (⭐24)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+*   [inifile-D (⭐23)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Datasets / Topic-specific
 
 *   [Network Repository](http://networkrepository.com/) - Fully searchable database containing hundreds of real-world networks.
-*   [Nexus](http://nexus.igraph.org/) - Repository of network datasets in GraphML and igraph formats.
 *   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - Network data obtained through the [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
 *   [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets) - Network data in UCINET format.
 
@@ -54,7 +53,7 @@
 
 ### CLI Builders
 
-*   [commander (⭐124)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐126)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ### Web Frameworks
 

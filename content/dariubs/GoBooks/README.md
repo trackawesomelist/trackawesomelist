@@ -45,7 +45,7 @@ List of Golang books
 
 ## [May 31, 2022](/content/2022/05/31/README.md)
 
-### **Starter Books** / [Go, from the beginning](https://leanpub.com/go-from-the-beginning)     *Free*
+### **Starter Books** / [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
 
 *   Build Console apps
 *   Create Web APIs

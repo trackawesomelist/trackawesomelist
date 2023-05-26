@@ -10,11 +10,11 @@
 
 ### Contents / Components
 
-*   [Preact Country Picker (⭐2)](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
+*   [Preact Country Picker (⭐3)](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
 
 ### Contents / Libraries
 
-*   [FPreact (⭐47)](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
+*   [FPreact (⭐46)](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
 
 ## [2. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

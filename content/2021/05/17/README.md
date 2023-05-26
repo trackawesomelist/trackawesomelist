@@ -10,7 +10,7 @@
 
 ### Front-End Development
 
-*   [Inertia.js (⭐200)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+*   [Inertia.js (⭐205)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 
 ## [2. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [folke/zen-mode.nvim (⭐810)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
+*   [folke/zen-mode.nvim (⭐923)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

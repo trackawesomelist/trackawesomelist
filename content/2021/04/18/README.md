@@ -30,11 +30,11 @@
 
 ### Decorators
 
-*   [ShowFor (⭐469)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
+*   [ShowFor (⭐468)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
 
 ### Email
 
-*   [MailForm (⭐875)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐876)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
@@ -66,17 +66,17 @@
 
 ### User Interaction / Acoustic User Interface
 
-*   [TTS (⭐6.8k)](https://github.com/coqui-ai/TTS) - A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
+*   [TTS (⭐11k)](https://github.com/coqui-ai/TTS) - A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Darkwire.io (⭐781)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
+*   [Darkwire.io (⭐804)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1k)](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
+*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1.1k)](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -84,24 +84,23 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [b2evolution CMS](https://b2evolution.net/) - The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community. ([Source Code (⭐164)](https://github.com/b2evolution/b2evolution)) `GPL-2.0` `PHP`
+*   [b2evolution CMS](https://b2evolution.net/) - The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community. ([Source Code (⭐168)](https://github.com/b2evolution/b2evolution)) `GPL-2.0` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [goploader (⭐245)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
+*   [goploader (⭐253)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
 
 ### Software / Note-taking & Editors
 
-*   [Markdown Edit (⭐204)](https://github.com/georgeOsdDev/markdown-edit/) - Online markdown editor/viewer. `MIT` `HTML5`
+*   [Markdown Edit (⭐206)](https://github.com/georgeOsdDev/markdown-edit/) - Online markdown editor/viewer. `MIT` `HTML5`
 
 ### Software / Pastebins
 
-*   [MokinToken (⭐5)](https://github.com/nexus-uw/mokintoken) - Clientside encrypted pastebin using tweetnacl. `Unlicense` `PHP`
-*   [SocksBin (⭐10)](https://github.com/magnumdingusedu/socksbin) - Simple and fast terminal based pastebin, with optional code highlighting. No specific client required, all you need is netcat. `GPL-3.0` `Python`
+*   [MokinToken (⭐6)](https://github.com/nexus-uw/mokintoken) - Clientside encrypted pastebin using tweetnacl. `Unlicense` `PHP`
 
 ### Software / Photo and Video Galleries
 
-*   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐1.2k)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
+*   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐1.3k)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -115,7 +114,7 @@
 
 ### Text / Barcode
 
-*   [TextBuilder (⭐183)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+*   [TextBuilder (⭐193)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -139,46 +138,32 @@
 
 ### Contents / Libraries
 
-*   [Evil-DICOM (⭐144)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
-*   [Python SMART on FHIR client (⭐475)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
+*   [Evil-DICOM (⭐148)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
+*   [Python SMART on FHIR client (⭐490)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
 
 ### Contents / Applications
 
-*   [Intervention Engine (⭐28)](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
+*   [Intervention Engine (⭐29)](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
 
 ### Contents / Datasets
 
-*   [Medical Data for Machine Learning (⭐5.4k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+*   [Medical Data for Machine Learning (⭐5.5k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
 ## [10. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tutorials / React General Tutorials
+### React Forms
 
-*   [React Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
-
-### React Tutorials / React Hooks
-
-*   [Awesome React Hooks (⭐8.8k)](https://github.com/rehooks/awesome-react-hooks)
-*   [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
-*   [React Hooks Video Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
-
-### React Tools / Forms
-
+*   [react-hook-form (⭐34k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
 *   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
-*   [react-hook-form (⭐32k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
-*   [react-final-form (⭐7.1k)](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
-*   [unform (⭐4.5k)](https://github.com/Rocketseat/unform) - Performance-focused API for React forms
-*   [formily (⭐8.9k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
-*   [uniforms (⭐1.7k)](https://github.com/vazco/uniforms) - A React library for building forms from any schema
-*   [formsy-react (⭐752)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
-*   [react-formal (⭐524)](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
+*   [react-final-form (⭐7.2k)](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
+*   [formily (⭐9.5k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [Vuetify Swipeout (⭐136)](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
-*   [Vuetify Todo PWA (⭐191)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
+*   [Vuetify Todo PWA (⭐192)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 
 ---
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome information retrieval resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/harpribot/awesome-information-retrieval/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) · ⭐ 855 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/harpribot/awesome-information-retrieval/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) · ⭐ 894 · 🏷️ Computer Science
 
 [ [Daily](/content/harpribot/awesome-information-retrieval/README.md) / [Weekly](/content/harpribot/awesome-information-retrieval/week/README.md) / Overview ]
 
@@ -20,7 +20,7 @@ Curated list of information retrieval and web search resources from all around t
 
 ## Contributing
 
-Please feel free to send me [pull requests (⭐852)](https://github.com/harpribot/awesome-information-retrieval/pulls) or \[email] (mailto:[harshal.priyadarshi@utexas.edu](https://github.com/harpribot/awesome-information-retrieval/blob/master/README.md/mailto:harshal.priyadarshi@utexas.edu)) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/README.md/contributing.md).
+Please feel free to send me [pull requests (⭐894)](https://github.com/harpribot/awesome-information-retrieval/pulls) or \[email] (mailto:[harshal.priyadarshi@utexas.edu](https://github.com/harpribot/awesome-information-retrieval/blob/master/README.md/mailto:harshal.priyadarshi@utexas.edu)) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/README.md/contributing.md).
 
 ## Contents
 
@@ -37,7 +37,7 @@ Please feel free to send me [pull requests (⭐852)](https://github.com/harpribo
 
 *   [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008. (First book for getting started with Information Retrieval).
 *   [Search Engines: Information Retrieval in Practice](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf) - Bruce Croft, Don Metzler, and Trevor Strohman. 2009. (Great book for readers interested in knowing how Search Engines work. The book is very detailed).
-*   [Modern Information Retrieval](http://people.ischool.berkeley.edu/\~hearst/irbook/) - R. Baeza-Yates, B. Ribeiro-Neto. Addison-Wesley, 1999.
+*   [Modern Information Retrieval](http://people.ischool.berkeley.edu/~hearst/irbook/) - R. Baeza-Yates, B. Ribeiro-Neto. Addison-Wesley, 1999.
 *   [Information Retrieval in Practice](http://www.search-engines-book.com/) - B. Croft, D. Metzler, T. Strohman. Pearson Education, 2009.
 *   [Mining the Web: Analysis of Hypertext and Semi Structured Data](http://www.cse.iitb.ac.in/%7Esoumen/mining-the-web/) - S. Chakrabarti. Morgan Kaufmann, 2002.
 *   [Language Modeling for Information Retrieval](http://www.springer.com/prod/b/1-4020-1216-0?referer=www.wkap.nl) - W\.B. Croft, J. Lafferty. Springer, 2003. (Handles Language Modeling aspect of Information Retrieval. It also extensively details probabilistic perspective in this domain, which is interesting).
@@ -49,14 +49,13 @@ Please feel free to send me [pull requests (⭐852)](https://github.com/harpribo
 
 *   [INF384H / CS395T / INF350E: Concepts of Information Retrieval (and Web Search)](http://courses.ischool.utexas.edu/Lease_Matt/2016/Fall/INF384H/) - Matthew Lease (University of Texas at Austin).
 *   [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/) - Chris Manning and Pandu Nayak (Stanford University).
-*   [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/\~mooney/ir-course/) - Raymond J. Mooney (University of Texas at Austin).
-*   [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/\~vagelis/classes/CS172/) - Vagelis Hristidis (University of California - Riverside).
+*   [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/~mooney/ir-course/) - Raymond J. Mooney (University of Texas at Austin).
+*   [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/~vagelis/classes/CS172/) - Vagelis Hristidis (University of California - Riverside).
 *   [SIMS 240: Principles of Information Retrieval](http://www2.sims.berkeley.edu/academics/courses/is240/s06/) - Ray R. Larson (UC berkeley).
 *   [11-442 / 11-642: Search Engines](http://boston.lti.cs.cmu.edu/classes/11-642/) - Jamie Callan (CMU).
 *   [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky (John Hopkins University).
 *   [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) - Andrea LaPaugh (Princeton University).
 *   [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/) - Dr. Jilles Vreeken , Prof. Dr. Gerhard Weikum (MPI).
-*   [COMP6714 Information Retrieval and Web Search](http://www.cse.unsw.edu.au/\~cs6714/17s2/index.html) - Prof. Wei Wang (University of New South Wales).
 *   [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
 
 ## Software

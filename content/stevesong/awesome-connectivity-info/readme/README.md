@@ -2,7 +2,7 @@
 
 Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 77 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 80 · 🏷️ Miscellaneous
 
 [ [Daily](/content/stevesong/awesome-connectivity-info/README.md) / [Weekly](/content/stevesong/awesome-connectivity-info/week/README.md) / Overview ]
 
@@ -23,7 +23,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 
 ## Contents
 
-*   [![Awesome](https://awesome.re)](#awesomehttpsawesomerebadge-flatsvghttpsawesomere)
+*   [](#)
     *   [Contents](#contents)
     *   [Global Connectivity Indexes](#global-connectivity-indexes)
     *   [Connectivity Maps](#connectivity-maps)
@@ -39,7 +39,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 **[`^        back to top        ^`](#)**
 
 *   ITU Global Connectivity Report - ([2022](https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/)) - a detailed assessment of the current state of connectivity.
-*   ITU Measuring digital development: Contains a snapshot of the most important ICT indicators, including estimates for the current year. ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf))
+*   [ITU Measuring digital development](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) - Facts and Figures. ([2023](https://www.itu.int/hub/publication/d-ind-ict_mdd-2023/)) ([2022](https://www.itu.int/hub/publication/d-ind-ict_mdd-2022/)) ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf))
 *   Network Readiness Index - ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
 *   [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2021) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 *   A4AI Affordability Drivers Index - ([2021](https://a4ai.org/affordability-report/data/?_year=2021\&indicator=INDEX))([2020](https://a4ai.org/affordability-report/data/?_year=2020\&indicator=INDEX)) - Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
@@ -55,6 +55,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 *   [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
 *   [Speedtest Global Index](http://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
 *   cable.co.uk's Worldwide Broadband Price Comparison - ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
+*   [Internet Poverty Index](https://internetpoverty.io/) - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/)
 
 ## Connectivity Maps
 
@@ -78,7 +79,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 *   We Are Social ([2022](https://wearesocial.com/uk/blog/2022/01/digital-2022-another-year-of-bumper-growth-2/)) ([2021](https://wearesocial.com/uk/blog/2021/01/digital-2021-uk/)) Annual report by Hootsuite on internet and social media adoption.
 *   Mobile Gender Gap Report from GSMA - ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
 *   Mozilla Internet Health Report - ([2020](https://2020.internethealthreport.org/)) ([2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
-*   [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
+*   [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/03/270223-The-Mobile-Economy-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
 *   Broadband Commission: The State of Broadband - ([2021](https://broadbandcommission.org/publication/state-of-broadband-2021/)) ([2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 *   ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 *   GSMA - State of Mobile Internet Connectivity ([2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
@@ -97,14 +98,15 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 
 **[`^        back to top        ^`](#)**
 
+*   Development and Access to Information (DA2i) [Regional Reports](https://public.tableau.com/app/profile/da2i.reports/viz/DA2iRegionalReports/Introduction) - Dashboards profiling Connectivity, Freedom, and Gender Equity by the [TASCHA group](https://tascha.uw.edu/) at the University of Washington. Funded by [IFLA](https://www.ifla.org/).
 *   [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy): Africa’s $180 Billion Internet Economy Future - IFC/Google sponsored report on Africa's internet economy
 *   GSMA Mobile Economy - Middle East & North Africa ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/05/GSMA_MENA_ME2022_R_WebSingles.pdf))
 *   GSMA Mobile Economy - West Africa ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
-*   GSMA Mobile Economy - Sub-Saharan Africa ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
+*   GSMA Mobile Economy - Sub-Saharan Africa ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/10/The-Mobile-Economy-Sub-Saharan-Africa-2022.pdf))([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
 *   GSMA Mobile Economy - Latin America ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/11/GSMA_LATAM_ME2022_R_Web.pdf)) ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/11/GSMA_ME_LATAM_2021.pdf))
 *   GSMA Mobile Economy - Asia Pacific ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/08/GSMA_ME_APAC_2021_Web_Singles.pdf)) [2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf)
 *   GSMA Mobile Economy - Africa [2016](https://www.gsma.com/mobileeconomy/africa/)
-*   African Telecommunications Infrastructure Development @manypossibilities.net - [2014-2021](https://manypossibilities.net/series/africa-telecom-infrastructure/)
+*   African Telecommunications Infrastructure Development @manypossibilities.net - [2014-2022](https://manypossibilities.net/series/africa-telecom-infrastructure/)
 *   RIA Africa Mobile Pricing (RAMP) Indices Portal - ([Q4 2021](https://researchictafrica.net/ramp_indices_portal/)) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
 *   Opera - State of the Mobile Web Africa - ([2019](https://blogs.opera.com/news/wp-content/uploads/sites/2/2019/06/SMW_2019.pdf)) ([2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)).
 *   Ericsson Mobility Report - Sub-Saharan Africa - ([2015](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf))

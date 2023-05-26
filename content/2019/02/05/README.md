@@ -11,13 +11,13 @@
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
-*   [Geany (⭐17)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
+*   [Geany (⭐18)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 *   [Gedit (⭐16)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
 *   [Sublime Text (⭐65)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐25)](https://github.com/Calinou/base16-godot) - All [base16 (⭐155)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐26)](https://github.com/Calinou/base16-godot) - All [base16 (⭐222)](https://github.com/chriskempson/base16) themes.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -39,7 +39,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_shortuuid (⭐23)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐36)](https://github.com/gpedic/ex_shortuuid).
+*   [ecto\_shortuuid (⭐24)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐38)](https://github.com/gpedic/ex_shortuuid).
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

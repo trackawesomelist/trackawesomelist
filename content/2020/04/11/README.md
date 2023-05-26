@@ -286,7 +286,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.1k)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐1.2k)](https://github.com/megadose/toutatis)
 
 ## [4. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -314,7 +314,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐243)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐254)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
 ## [8. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -345,7 +345,7 @@
 
 ### Go / Data Analysis / Data Visualization
 
-*   [dataframe-go (⭐940)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
+*   [dataframe-go (⭐979)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 
 ---
 

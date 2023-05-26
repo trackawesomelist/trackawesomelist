@@ -41,7 +41,7 @@
 
 ### Packages / Libraries
 
-*   [virtual-audio-graph (⭐336)](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
+*   [virtual-audio-graph (⭐343)](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 
 ## [7. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 

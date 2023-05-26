@@ -10,22 +10,22 @@
 
 ### Spreadsheets and Documents
 
-*   [CAXLSX (⭐401)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
+*   [CAXLSX (⭐415)](https://github.com/caxlsx/caxlsx) - A community maintained excel xlsx generation library. [AXLSX (⭐2.6k)](https://github.com/randym/axlsx) - The original.
 
 ## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Newsletters
 
-*   [deadnix (⭐211)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐250)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history, maps, and definitions
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT | arxiv](https://arxiv.org/abs/2303.04226)
 *   [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT | arxiv](https://arxiv.org/abs/2302.09419)
 
-### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
+### Inbox: Large Language Models / Embeddings and Semantic Search
 
 *   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
 
@@ -42,7 +42,7 @@
 
 ### Projects
 
-*   [Macige (⭐5)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
+*   [Macige (⭐68)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 
 ## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -68,14 +68,15 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-azapi (⭐115)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
-*   [terraform-provider-azuredevops (⭐281)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
-*   [terraform-provider-terracurl (⭐68)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unamanged API calls to your target endpoint.
+*   [terraform-provider-azapi (⭐119)](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
+*   [terraform-provider-azuredevops (⭐295)](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
+*   [terraform-provider-terracurl (⭐96)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 
 ### Tools / Vendor supported providers
 
-*   [aztfexport (⭐1k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
+*   [aztfexport (⭐1.2k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
 
 ---
 
+- Prev: [Mar 12, 2023](/content/2023/03/12/README.md)
 - Next: [Mar 10, 2023](/content/2023/03/10/README.md)

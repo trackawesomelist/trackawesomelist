@@ -2,7 +2,7 @@
 
 curated list of awesome resources, pointers, and tips related to veganism
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 44 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 53 · 🏷️ Miscellaneous
 
 [ [Daily](/content/sdassow/awesome-veganism/README.md) / [Weekly](/content/sdassow/awesome-veganism/week/README.md) / Overview ]
 
@@ -46,14 +46,20 @@ This list is an attempt to create a community driven approach to guarantee no-no
 *   Berlin, Germany
     *   [Brammibal's Donuts](https://www.brammibalsdonuts.com/) - The most tasty high quality vegan donuts in Berlin.
 
+*   Midvale, UT, USA
+    *   [Sweet Hazel & Co](https://sweethazelandco.com/) - Tasty candy bars, food and more. LGBTQ+ friendly!
+
 *   Monster, Netherlands
     *   [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - Amazing selection of cakes, macarons, dutch specialties, and more.
 
-*   Zaandijk, Netherlands
-    *   [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
-
 *   Portland, OR, USA
     *   [Shoofly bakery](https://www.shooflyveganbakery.com/) - Vegan items delivered.
+
+*   Salt Lake City, UT, USA
+    *   [Yumz Vegan Bakery & Cafe](https://www.toasttab.com/yumz-llc-3490-s-state-st/v3/) - Mexican vegan bakery with excellent food options.
+
+*   Zaandijk, Netherlands
+    *   [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
 
 ## Restaurants
 
@@ -69,6 +75,9 @@ This list is an attempt to create a community driven approach to guarantee no-no
     *   [Trevi's Plant Based Italian Food](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing and authentic food, feels and tastes like in Italy.
     *   [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more.
     *   [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts.
+
+*   Ashland, OR, USA
+    *   [NW Raw](https://nwraw.com/) - Juices and snacks, vegan ice cream.
 
 *   Berkeley, CA, USA
     *   [The Butcher's Son](https://www.thebutchersveganson.com/) - Comfort food spilling off of your plate. Grab a main, a couple of sides and a plenty of napkins.
@@ -97,8 +106,8 @@ This list is an attempt to create a community driven approach to guarantee no-no
 *   Oakland, USA
     *   [Millennium Restaurant](https://www.millenniumrestaurant.com/) - Far cry from your ordinary vegan spot in that it takes a hands on, from scratch approach to food which assures a fresh, local, organic and homemade product every time.
 
-*   Ashland, OR, USA
-    *   [NW Raw](https://nwraw.com/) - Juices and snacks, vegan ice cream.
+*   Salt Lake City, UT, USA
+    *   [Mark of the Beastro](https://markofthebeastro.com/) - Excellent vegan food and dining.
 
 *   Utrecht, Netherlands
     *   [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food.

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 16 - May 22, 2016
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [doctest (⭐4.6k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐4.9k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -140,13 +140,13 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐644)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
-    *   [mrhooray/torch (⭐126)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐651)](https://github.com/llogiq/flame) —
+    *   [mrhooray/torch (⭐128)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
 *   [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) \[[blas](https://crates.io/keywords/blas)]
-    *   [mikkyang/rust-blas (⭐77)](https://github.com/mikkyang/rust-blas) — BLAS bindings
+    *   [mikkyang/rust-blas (⭐78)](https://github.com/mikkyang/rust-blas) — BLAS bindings
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -187,7 +187,7 @@
 
 ### Online / Playground
 
-*   [TypeScript playground-on-ace (⭐88)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript playground-on-ace (⭐87)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
 *   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 *   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 *   [Codepen](http://codepen.io/) (Select TypeScript)
@@ -729,7 +729,7 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐6.4k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐6.6k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ### Open Source / Other
 
@@ -821,13 +821,7 @@ git rebase --interactive HEAD~2
 
 *   [JMDUnoconvBundle (⭐0)](https://github.com/mops1k/JMDUnoconvBundle) - Bundle which provides gate for converting files from one format to another via unoconv (LibreOffice) thru php-unoconv library.
 
-## [36. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
-
-### Experiments
-
-*   [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
-
-## [37. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [36. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Machine Learning
 
@@ -841,7 +835,7 @@ The book is organized as a step-by-step practical guide to using R. Starting wit
 
 The book pragmatically introduces both the quantitative finance concepts and their modeling in R, enabling you to build a tailor-made trading system on your own. By the end of the book, you will be well versed with various financial techniques using R and will be able to place good bets while making financial decisions.
 
-## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -871,13 +865,13 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [exsolr (⭐21)](https://github.com/dcarneiro/exsolr) - A Solr wrapper written in Elixir.
 
-## [39. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [38. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Articles
 
 *   [Everywhereness as a foundation](http://staltz.com/everywhereness-as-a-foundation.html) - Benefits of using Observables everywhere.
 
-## [40. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [39. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -887,16 +881,16 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [GraphX](https://spark.apache.org/graphx/) - [Apache Spark](https://spark.apache.org/) module to perform graph-related parallel computation.
 
-## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐33k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐34k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
 *   [PXGoogleDirections (⭐268)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
-*   [reddift (⭐236)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+*   [reddift (⭐238)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
 
@@ -904,7 +898,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐635)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐637)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -912,7 +906,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐513)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐515)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ### HTML / Barcode
 
@@ -920,13 +914,13 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐843)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐842)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ### Utility / Barcode
 
 *   [SwiftTweaks (⭐1.4k)](https://github.com/khan/swifttweaks) - Tweak your iOS app without recompiling.
 
-## [42. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [41. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -940,7 +934,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [RxKotlin/Pocket (⭐30)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 
-## [43. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [42. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### Tutorials and articles
 
@@ -1008,7 +1002,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 *   [A Better Router for Backbone and Marionette Applications (⭐70)](https://github.com/Betterment/backbone.blazer)
 *   [Marionette.Toolkit (⭐69)](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
 
-## [44. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [43. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -1039,7 +1033,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 *   [VLC MQTT Module](https://wiki.videolan.org/Documentation:Modules/mqtt/) - Control VLC via MQTT.
 *   [xbmc2mqtt (⭐5)](https://github.com/gordonjcp/xbmc-mqtt) - A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message.
 
-## [45. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [44. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
@@ -1049,7 +1043,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 *   [Doom](https://en.wikipedia.org/wiki/Doom_\(2016_video_game\)) - by id Software.
 
-## [46. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [45. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 

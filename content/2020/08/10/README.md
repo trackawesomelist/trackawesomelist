@@ -60,9 +60,9 @@
 
 ### Languages
 
-*   [Dots (⭐4)](https://github.com/josconno/dots) - A turing-complete language using "." symbol only.
-*   [Japt (⭐71)](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
-*   [Jelly (⭐732)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
+*   [Dots (⭐5)](https://github.com/josconno/dots) - A turing-complete language using "." symbol only.
+*   [Japt (⭐72)](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
+*   [Jelly (⭐763)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Packages / Testing
 
-*   [testen (⭐176)](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
+*   [testen (⭐175)](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
 
 ## [4. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 

@@ -28,8 +28,8 @@
 
 ### Libraries
 
-*   [fn-curry (⭐6)](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
-*   [date-fp (⭐123)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
+*   [fn-curry (⭐5)](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
+*   [date-fp (⭐122)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -48,10 +48,6 @@
 *   Rachel Kroll <https://rachelbythebay.com/w/>
 
 ## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
-
-### Books / General Overviews
-
-*   *[The SAGE Handbook of Social Network Analysis](http://www.sagepub.in/books/Book232753/)*, edited by John Scott and Peter J. Carrington (2011).
 
 ### Books / Method-specific
 
@@ -79,7 +75,7 @@
 
 ### Professional Groups / Research Groups (Other)
 
-*   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).
+*   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/). Twitter: [@melnetsna](https://twitter.com/melnetsna).
 *   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 *   [Redes-Sociales](http://www.redes-sociales.net/), in Spanish - Information network based at the Universitat Autònoma de Barcelona.
 *   [SoNAR-C - Social Network Analysis Research Center, University of Italian Switzerland (USi)](http://www.sonarcenter.eco.usi.ch/).
@@ -87,32 +83,14 @@
 
 ### Review Articles / Archeological and Historical Networks
 
-*   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? \[Formal Network Methods in History: Why and How?\]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier\&download=yes), in German ([preprint in English](http://halshs.archives-ouvertes.fr/halshs-00521527); *Österreichische Zeitschrift für Geschichtswissenschaften*, 2012).
-*   [Introduction à la visualisation de données : l’analyse de réseau en histoire](http://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/), in French (*Geschichte und Informatik*, 2015).
-*   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) (*Complexity*, 2002).
-*   [Networks of Power in Archaeology](http://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-102313-025901) (*Annual Review of Anthropology*, 2014).
+*   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? \[Formal Network Methods in History: Why and How?\]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier\&download=yes), in German ([preprint in English](https://shs.hal.science/halshs-00521527); *Österreichische Zeitschrift für Geschichtswissenschaften*, 2012).
 *   [The Roots and Shoots of Archaeological Network Analysis: A Citation Analysis and Review of the Archaeological Use of Formal Network Methods](https://www.academia.edu/6925120/Brughmans_T._2014_._The_roots_and_shoots_of_archaeological_network_analysis_A_citation_analysis_and_review_of_the_archaeological_use_of_formal_network_methods._Archaeological_Review_from_Cambridge_29_1_) (*Archaeological Review from Cambridge*, 2014).
-*   [Thinking Through Networks: A Review of Formal Network Methods in Archaeology](http://link.springer.com/article/10.1007/s10816-012-9133-8) (*Journal of Archaeological Method and Theory*, 2013).
-
-### Review Articles / Complex and Multilayer Networks
-
-*   [Complex Systems and Networks](http://science.sciencemag.org/content/325/5939) (special issue of *Science*, 2009).
-*   [The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480) (*SIAM Review*, 2003).
-
-### Review Articles / Network Modeling
-
-*   Navigating the Range of Statistical Tools for Inferential Network Analysis (*American Journal of Political Science*, forthcoming 2016).
-*   [Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709) (*Annual Review of Sociology*, 2011).
 
 ### Review Articles / Network Visualization
 
 *   [Graphical Techniques for Exploring Social Network Data](http://moreno.ss.uci.edu/87.pdf) (*Models and Methods in Social Network Analysis*, 2005).
 *   [Methods of Social Network Visualization](http://moreno.ss.uci.edu/90.pdf) (*Encyclopedia of Complexity and Systems Science*, 2009; [poster version](http://www.pfeffer.at/data/visposter/)).
 *   [Social Networks](http://moreno.ss.uci.edu/93.pdf) (*Handbook of Graph Drawing and Visualization*, 2013).
-
-### Review Articles / Social, Economic and Political Networks
-
-*   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (*Annual Review of Sociology*, 2001).
 
 ### Software / Social, Economic and Political Networks
 
@@ -138,12 +116,10 @@
 
 ### Varia / Blog Series
 
-*   [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/\~aaron/blog/archives/networks/index.htm).
-*   [Netze und Netzwerke](http://netzeundnetzwerke.de/), in English and German - Blog on the history of network analysis, by Sebastian Gießmann ([old blog](http://www.netzeundnetzwerke.de/old/)).
+*   [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/~aaron/blog/archives/networks/index.htm).
 
 ### Varia / Fictional Networks
 
-*   [Events in the *Game of Thrones*](http://www.jeromecukier.net/projects/agot/events.html) and [Places in the *Game of Thrones*](http://www.jeromecukier.net/projects/agot/places.html) - Networked chronologies of character alliances, kills and travels in the book series, drawn with d3.js.
 *   [*Star Wars* Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - Also an example of a social network analysis written in F#.
 
 ### Varia / Two-Mode Networks

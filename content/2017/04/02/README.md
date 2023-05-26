@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02, 2017
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -133,7 +133,7 @@
 *   [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
 *   [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Looks at the use of visualization to understand, explain and debug algorithms.
 *   [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
-*   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/\~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
+*   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
 
 ### Quick References • Cheatsheets / Other
 
@@ -199,28 +199,22 @@
 
 ### Related / Other
 
-*   [Awesome webgl (⭐1.1k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-*   [Awesome visualization research (⭐880)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
-*   [Awesome graphics (⭐950)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
+*   [Awesome webgl (⭐1.2k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+*   [Awesome visualization research (⭐886)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
+*   [Awesome graphics (⭐969)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 *   [Graphics resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
 *   [Magic tools (⭐11k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 *   [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-*   [Awesome public datasets (⭐53k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+*   [Awesome public datasets (⭐54k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Django
-
-*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) (PDF) (1.10)
-
-## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [2. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Community / Particles
 
 *   [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
 
-## [4. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [3. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Articles
 

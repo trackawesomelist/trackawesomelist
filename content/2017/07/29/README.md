@@ -10,7 +10,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐86k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐88k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 

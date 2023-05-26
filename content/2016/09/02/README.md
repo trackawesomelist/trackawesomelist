@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 02, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐376)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐399)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -35,23 +35,17 @@
 
 *   [aurelia-mdl-plugin (⭐19)](https://github.com/arabsight/aurelia-mdl-plugin) \* Material Design Lite plugin for Aurelia
 
-## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
-
-### Experiments
-
-*   [Braille Face: Kōya](https://koya.brailleface.co/) - Navigate a unique interactive environment in your browser while listening to Kōya, the debut album from Melbourne musician Braille Face.
-
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Instrumenting / Monitoring
 
 *   [elixometer (⭐818)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
-*   [erlang-metrics (⭐69)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
-*   [exometer (⭐520)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
+*   [erlang-metrics (⭐68)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
+*   [exometer (⭐519)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
 *   [folsom\_ddb (⭐5)](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
-*   [instream (⭐211)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
+*   [instream (⭐213)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 *   [instrumental (⭐9)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
-*   [prometheus (⭐323)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
+*   [prometheus (⭐330)](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
 
 ---
 

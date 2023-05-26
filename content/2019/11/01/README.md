@@ -11,11 +11,11 @@
 ### Languages
 
 *   [Fugue](https://esolangs.org/wiki/Fugue) - Music as source code.
-*   [Monicelli (⭐1.2k)](https://github.com/esseks/monicelli) - Programming using Italian-like gibberish.
+*   [Monicelli (⭐1.3k)](https://github.com/esseks/monicelli) - Programming using Italian-like gibberish.
 
 ### Algorithms
 
-*   [πfs (⭐6k)](https://github.com/philipl/pifs) - Pi-based storage system, store your data by searching a matching sequence in pi.
+*   [πfs (⭐6.1k)](https://github.com/philipl/pifs) - Pi-based storage system, store your data by searching a matching sequence in pi.
 *   [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ### Resources
@@ -36,7 +36,7 @@
 
 ### Other
 
-*   [Fragment (⭐166)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
+*   [Fragment (⭐165)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
 
 ## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐5.4k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. [![Build Status](https://api.travis-ci.org/phiresky/ripgrep-all.svg?branch=master)](https://travis-ci.org/phiresky/ripgrep-all)
+*   [phiresky/ripgrep-all (⭐5.5k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

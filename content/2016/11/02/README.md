@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Fractalide (⭐796)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
+*   [Fractalide (⭐809)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -86,13 +86,13 @@
 ### Core Data
 
 *   [CoreStore (⭐3.7k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
-*   [DataKernel (⭐16)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
-*   [Graph (⭐874)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
+*   [DataKernel (⭐17)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
+*   [Graph (⭐876)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 
 ### UI / Barcode
 
-*   [AECoreDataUI (⭐305)](https://github.com/tadija/AERecord) - Core Data driven UI.
+*   [AECoreDataUI (⭐304)](https://github.com/tadija/AERecord) - Core Data driven UI.
 
 ---
 

@@ -59,7 +59,7 @@
 
 ### Video / Barcode
 
-*   [MMPlayerView (⭐724)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
+*   [MMPlayerView (⭐726)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
 ## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Microservices
 
-*   [Resilience4j (⭐8.6k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
+*   [Resilience4j (⭐8.8k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 
 ## [11. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐879)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐915)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 ## [13. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

@@ -22,7 +22,7 @@
 
 ### IR Tools Collection / Disk Image Creation Tools
 
-*   [Bitscout (⭐415)](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
+*   [Bitscout (⭐423)](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
 
 ## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -90,7 +90,7 @@ Topics: Tooling, Standards, webpack\
 
 *   [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330) Karthik Ramasubramanian, Abhishek Singh. (2016)
 *   [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) Thomas Dinsmore. (2016)
-*   [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/\~hastie/CASI/) Bradley Efron, Trevor Hastie. (2016)
+*   [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/) Bradley Efron, Trevor Hastie. (2016)
 *   [Spark in Action](https://www.manning.com/books/spark-in-action) Petar Zečević, Marko Bonaći. (2016)
 
 ### Research Papers
@@ -109,8 +109,8 @@ Topics: Tooling, Standards, webpack\
 *   [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/) Ebberth L. Paula, Marcelo Ladeira, Rommel N. Carvalho, Thiago Marzagão. (2016)
 *   [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) Stéphanie Florence Visser. (2016)
 *   [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) Krzysztof Urbański, Stanisław Gruszczyńsk. (2016)
-*   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/\~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
-*   [Understanding random forests: from theory to practice (⭐499)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
+*   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
+*   [Understanding random forests: from theory to practice (⭐500)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
 
 ---
 

@@ -28,7 +28,7 @@
 
 ### Editors / Runner
 
-*   [trix (⭐17k)](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
+*   [trix (⭐18k)](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
 
 ## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -50,13 +50,13 @@
 
 ### Other
 
-*   [Delphi.gitignore (⭐141k)](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
+*   [Delphi.gitignore (⭐147k)](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Core Extensions
 
-*   [Finishing Moves (⭐197)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
+*   [Finishing Moves (⭐199)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -83,7 +83,7 @@
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐202k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐204k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -92,7 +92,7 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐202k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐204k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 
 ---
 

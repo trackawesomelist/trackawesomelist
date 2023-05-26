@@ -38,7 +38,7 @@
 
 ### Social / Conferences
 
-*   [Contribute (⭐11k)](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+*   [Contribute (⭐12k)](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Appendix of Core Services / Services in Plain English
 
@@ -64,13 +64,13 @@
 
 ### Development Tools
 
-*   [Vert.x Hot (⭐48)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
+*   [Vert.x Hot (⭐47)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Markdown Processors
 
-*   [CommonMark.NET (⭐989)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
+*   [CommonMark.NET (⭐990)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
 
 ## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

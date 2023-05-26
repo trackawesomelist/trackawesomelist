@@ -94,7 +94,7 @@
 
 ### serialization
 
-*   [rgeo-geojson (⭐178)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐179)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [7. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -123,8 +123,8 @@
 
 ### Benchmark / Runner
 
-*   [benchmark.js (⭐5.3k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐557)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [benchmark.js (⭐5.4k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+*   [matcha (⭐558)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## [11. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

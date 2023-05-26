@@ -10,18 +10,18 @@
 
 ### Blur / Barcode
 
-*   [VisualEffectView (⭐960)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
+*   [VisualEffectView (⭐968)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
-*   [fix-path (⭐252)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐483)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [fix-path (⭐261)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐494)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 
 ### Components / Other
 
-*   [React Desktop (⭐9.4k)](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React.
+*   [React Desktop (⭐9.5k)](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React.
 
 ### Articles / Other
 
@@ -32,7 +32,7 @@
 
 ### Packages / Filesystem
 
-*   [chokidar (⭐9.7k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
+*   [chokidar (⭐9.9k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 
 ## [4. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [garnaat/kappa :fire::fire::fire: (⭐901)](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
+*   [garnaat/kappa :fire::fire::fire: (⭐902)](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
 
 ## [10. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

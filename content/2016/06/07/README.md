@@ -47,14 +47,14 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐446)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐449)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
-*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐10k)](https://github.com/zaproxy/zaproxy)
+*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐11k)](https://github.com/zaproxy/zaproxy)
 *   `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
 *   `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
 *   `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)

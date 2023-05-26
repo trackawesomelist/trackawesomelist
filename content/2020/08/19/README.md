@@ -18,13 +18,13 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐72)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐83)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Image Processing
 
-*   [pywal (⭐6.9k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
+*   [pywal (⭐7.1k)](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 
 ## [4. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -42,7 +42,7 @@
 
 ### GitHub
 
-*   [github-stats-box (⭐88)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+*   [github-stats-box (⭐94)](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -64,13 +64,13 @@
 
 ### Communities of Practice / Uncategorized
 
-*   [TidyTuesday (⭐5.2k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
+*   [TidyTuesday (⭐5.5k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
 
 ## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Type Theory and Mathematics
 
-*   [Puiseuxth (⭐3)](https://github.com/roglo/puiseuxth) - Proof of Puiseux's theorem and computation of roots of polynomials of Puiseux's series.
+*   [Puiseuxth (⭐4)](https://github.com/roglo/puiseuxth) - Proof of Puiseux's theorem and computation of roots of polynomials of Puiseux's series.
 
 ### Resources / Community
 
@@ -103,7 +103,7 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐377)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐384)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Tools / Dolby
 
-*   [IENT/YUView (⭐1.2k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
+*   [IENT/YUView (⭐1.4k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
 
 ---
 

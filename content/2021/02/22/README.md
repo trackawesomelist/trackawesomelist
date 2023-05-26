@@ -166,7 +166,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Shell Fur (⭐230)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
+*   [Shell Fur (⭐240)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -255,7 +255,7 @@
 
 ### Libraries / Text processing
 
-*   [becheran/wildmatch (⭐45)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
+*   [becheran/wildmatch (⭐52)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
 
 ## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

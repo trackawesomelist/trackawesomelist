@@ -10,11 +10,11 @@
 
 ### HTTP
 
-*   [HttpClientGoodies (⭐61)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
+*   [HttpClientGoodies (⭐62)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 
 ### Queue
 
-*   [RawRabbit (⭐728)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
+*   [RawRabbit (⭐730)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
 
 ## [2. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 

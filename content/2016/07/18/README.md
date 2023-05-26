@@ -18,7 +18,7 @@
 
 *   [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
 *   [Gopencils (⭐440)](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
-*   [Neutrino (⭐133)](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
+*   [Neutrino (⭐134)](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
 *   [Sleepy (⭐678)](https://github.com/dougblack/sleepy) - REST for go.
 
 ### Haskell / Erlang
@@ -62,15 +62,9 @@
 
 ### Text Manipulation
 
-*   [hl (⭐92)](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
+*   [hl (⭐97)](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
 
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
-
-### Awesome TypeScript Essential Resources
-
-*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐43k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
-
-## [7. Typography](/content/deanhume/typography/README.md)
+## [6. Typography](/content/deanhume/typography/README.md)
 
 ### Articles
 
@@ -88,11 +82,21 @@
 
 *   This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
-## [8. Bots](/content/hackerkid/bots/README.md)
+## [7. Bots](/content/hackerkid/bots/README.md)
 
 ### General
 
 *   [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
+
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Excel Integration
+
+*   [xlwt (⭐1k)](https://github.com/python-excel/xlwt) - Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform.
+*   [DataNitro](https://datanitro.com/) - DataNitro also offers full-featured Python-Excel integration, including UDFs. Trial downloads are available, but users must purchase a license.
+*   [xlloop](http://xlloop.sourceforge.net) - XLLoop is an open source framework for implementing Excel user-defined functions (UDFs) on a centralised server (a function server).
+*   [expy](http://www.bnikolic.co.uk/expy/expy.html) - The ExPy add-in allows easy use of Python directly from within an Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions.
+*   [pyxll](https://www.pyxll.com) - PyXLL is an Excel add-in that enables you to extend Excel using nothing but Python code.
 
 ---
 

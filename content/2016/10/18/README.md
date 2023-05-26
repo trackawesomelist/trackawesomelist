@@ -1,24 +1,18 @@
 # Awesome List Updates on Oct 18, 2016
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
-
-### Software / JavaScript
-
-*   [GoJS](http://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
-
-## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [1. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tutorials / iOS
 
 *   [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
 
-## [3. Awesome Chess](/content/hkirat/awesome-chess/README.md)
+## [2. Awesome Chess](/content/hkirat/awesome-chess/README.md)
 
 ### Books
 
@@ -57,13 +51,13 @@
 *   [Working backward to solve problems](https://www.youtube.com/watch?v=v34NqCbAA1c) - Talk on working backward to solve problems by Maurice Ashley
 *   [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on why chess is boring by Bobby Fischer
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Testing
 
-*   [Jest (⭐41k)](https://github.com/facebook/jest) - Painless JavaScript testing.
+*   [Jest (⭐42k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 
-## [5. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
+## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
 ### NASA
 
@@ -73,7 +67,7 @@
 
 *   [Public APIs (⭐565)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
-## [6. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Developer Tools
 
@@ -85,43 +79,43 @@
 *   [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 *   [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 
-## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Community / Meetups
 
 *   [Paris Meetup](https://www.meetup.com/fr-FR/Paris-Laravel-Meetup/)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Testing
 
 *   [moq.netcore (⭐4.8k)](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
 
-## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
 *   [Scritchy (⭐67)](https://github.com/ToJans/Scritchy) - CQRS without the Plumbing, [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
 
-## [10. Bots](/content/hackerkid/bots/README.md)
+## [9. Bots](/content/hackerkid/bots/README.md)
 
 ### Tutorials / Go
 
 *   [How to create a chatbot without coding a single line](https://chatbotsmagazine.com/how-to-create-a-chatbot-without-coding-a-single-line-e716840c7245#.kimh0igkz)
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐322)](https://github.com/jayway/vue-js-workshop)
 
-## [12. Computer Science](/content/ossu/computer-science/README.md)
+## [11. Computer Science](/content/ossu/computer-science/README.md)
 
 ### How to show your progress / Which programming languages should I use?
 
 *   `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
 
-## [13. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [12. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Links
 
@@ -132,13 +126,13 @@
     *   [Architecting Containers Part 2: Why the User Space Matters](http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/)
     *   [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 
-## [14. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [13. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### Websites
 
-*   [Jekyll Starter Kit (⭐143)](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
+*   [Jekyll Starter Kit (⭐146)](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IDE
 
@@ -148,7 +142,7 @@
 
 *   [Loupe](https://onloupe.com) - Centralized .NET logging and monitoring. **\[Proprietary]** **\[Free Tier]**
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Docker Related
 

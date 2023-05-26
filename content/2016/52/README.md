@@ -35,7 +35,7 @@
 
 ### Open Source Repos / Elastic Container Service
 
-*   [blox :fire::fire::fire: (⭐953)](https://github.com/blox/blox) - Open source tools for building custom schedulers on ECS.
+*   [blox :fire::fire::fire: (⭐952)](https://github.com/blox/blox) - Open source tools for building custom schedulers on ECS.
 
 ## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -244,10 +244,6 @@
 
 ## [22. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
-### Professional Groups / Topic-specific
-
-*   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://www.asanet.org/asa-communities/sections/mathematical-sociology).
-
 ### Professional Groups / Research Groups (USA)
 
 *   [Northeastern University Center for Complex Network Research](https://www.northeastern.edu/research/centers/center-for-complex-network-research-ccnr/) - Led by Albert-László Barabási.
@@ -256,27 +252,13 @@
 
 *   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
 
-### Review Articles / Biological, Ecological and Disease Networks
-
-*   [Interactome Networks and Human Disease](http://barabasi.com/f/326.pdf) (*Cell*, 2011).
-*   [Network Biology: Understanding the Cell’s Functional Organization](http://barabasi.com/f/147.pdf) - Accessible introduction to (cellular) network analysis (*Nature Reviews Genetics*, 2004).
-*   [Network Medicine: A Network-based Approach to Human Disease](http://barabasi.com/f/320.pdf) (*Nature Review Genetics*, 2011).
-
-### Review Articles / Complex and Multilayer Networks
-
-*   [Statistical Mechanics of Complex Networks](http://barabasi.com/f/103.pdf) (*Reviews of Modern Physics*, 2002).
-
-### Selected Papers / Social, Economic and Political Networks
-
-*   [Scale-Free Networks](http://barabasi.com/f/124.pdf), by Albert-László Barabási and Eric Bonabeau - Early, accessible formulation of the “networks are everywhere” argument (*Scientific American*, 2003).
-
 ### Software / Julia
 
-*   [EcologicalNetwork.jl (⭐65)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
-*   [MatrixNetworks.jl (⭐100)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
+*   [EcologicalNetwork.jl (⭐66)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
+*   [MatrixNetworks.jl (⭐105)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 *   [NetworkFlows.jl (⭐3)](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
-*   [PhyloNetworks.jl (⭐126)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
-*   [TikzGraphs (⭐70)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
+*   [PhyloNetworks.jl (⭐134)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
+*   [TikzGraphs (⭐73)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
 
 ### Varia / Tutorials
 
@@ -292,7 +274,7 @@
 
 ### Music Notation
 
-*   [Lyp (⭐67)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+*   [Lyp (⭐68)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
 ## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -335,7 +317,7 @@
 
 ### Algorithms and Data structures
 
-*   [qex (⭐26)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
+*   [qex (⭐27)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 
 ### Date and Time
 
@@ -357,9 +339,9 @@
 
 ### System
 
-*   [Keyboard Maestro (⭐375)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
+*   [Keyboard Maestro (⭐384)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
 
 ---
 
-- Prev: [Mar 06 - Mar 12, 2017](/content/2017/10/README.md)
+- Prev: [Jan 09 - Jan 15, 2017](/content/2017/2/README.md)
 - Next: [Dec 19 - Dec 25, 2016](/content/2016/51/README.md)

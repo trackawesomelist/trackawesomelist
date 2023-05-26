@@ -27,7 +27,7 @@
 
 ### Others / Others
 
-*   [Remote Working (⭐8.5k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐8.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -39,23 +39,23 @@
 
 ### Examples
 
-*   [Vert.x Gentics Mesh Example (⭐17)](https://github.com/gentics/mesh-vertx-example) - Example on how to build a template-based web server with Gentics Mesh and handlebars.
+*   [Vert.x Gentics Mesh Example (⭐16)](https://github.com/gentics/mesh-vertx-example) - Example on how to build a template-based web server with Gentics Mesh and handlebars.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Text Processing
 
-*   [postagga (⭐157)](https://github.com/turbopape/postagga)
+*   [postagga (⭐156)](https://github.com/turbopape/postagga)
 
 ### Debugging
 
-*   [debugger (⭐260)](https://github.com/razum2um/clj-debugger)
+*   [debugger (⭐262)](https://github.com/razum2um/clj-debugger)
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [FPO.js (⭐451)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
+*   [FPO.js (⭐450)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

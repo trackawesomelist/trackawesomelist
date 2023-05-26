@@ -28,9 +28,9 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy Link Cable Breakout Board (⭐57)](https://github.com/Palmr/gb-link-cable)
-*   [GBCartFlasher firmware (⭐22)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐388)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [Game Boy Link Cable Breakout Board (⭐62)](https://github.com/Palmr/gb-link-cable)
+*   [GBCartFlasher firmware (⭐23)](https://github.com/Tauwasser/GBCartFlasher)
+*   [VerilogBoy (⭐402)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

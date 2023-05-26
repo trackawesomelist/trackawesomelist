@@ -10,13 +10,13 @@
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
-*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐3.8k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
+*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐4k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐383)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐384)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### .NET / General-Purpose Machine Learning
 
@@ -25,15 +25,15 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MLPNeuralNet (⭐897)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
+*   [MLPNeuralNet (⭐895)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
 
 ### Python / Natural Language Processing
 
-*   [DeepPavlov (⭐6.1k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
+*   [DeepPavlov (⭐6.2k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [pastalog (⭐417)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+*   [pastalog (⭐418)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 
 ### Tools / Misc
 
@@ -129,7 +129,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Packages / Utilities
 
-*   [pyspark-stubs (⭐114)](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
+*   [pyspark-stubs (⭐113)](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -189,7 +189,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Game Engine
 
-*   [nCine (⭐803)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐839)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -201,7 +201,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Machine Learning
 
-*   [gym (⭐29k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+*   [gym (⭐31k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
 ## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -219,7 +219,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries
 
-*   [Rambdax (⭐192)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
+*   [Rambdax (⭐203)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 
 ## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -249,7 +249,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Analysis / Harmonic Analysis
 
-*   [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/\~jos/mdft) - Julius O. Smith III (Stanford University)
+*   [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
 
 ## [26. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -322,38 +322,37 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Web
 
-*   [apollographql/apollo-android (⭐3.4k)](https://github.com/apollographql/apollo-android) - Typesafe GraphQL client for the JVM and Kotlin native
+*   [apollographql/apollo-android (⭐3.5k)](https://github.com/apollographql/apollo-android) - Typesafe GraphQL client for the JVM and Kotlin native
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/assertk (⭐530)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
+*   [willowtreeapps/assertk (⭐622)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
 
 ### Libraries/Frameworks / Dependency Injection
 
-*   [JLLeitschuh/kotlin-guiced (⭐17)](https://github.com/JLLeitschuh/kotlin-guiced) - Convenience Kotlin API over the Google Guice DI Library.
-*   [authzee/kotlin-guice (⭐64)](https://github.com/authzee/kotlin-guice) - Guice DSL extensions for Kotlin
+*   [JLLeitschuh/kotlin-guiced (⭐18)](https://github.com/JLLeitschuh/kotlin-guiced) - Convenience Kotlin API over the Google Guice DI Library.
+*   [authzee/kotlin-guice (⭐65)](https://github.com/authzee/kotlin-guice) - Guice DSL extensions for Kotlin
 
 ### Libraries/Frameworks / Coroutines
 
-*   [konrad-kaminski/spring-kotlin-coroutine (⭐415)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
-*   [marcoferrer/kroto-plus (⭐481)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
+*   [konrad-kaminski/spring-kotlin-coroutine (⭐424)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
+*   [marcoferrer/kroto-plus (⭐484)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [pardom/redux-kotlin (⭐269)](https://github.com/pardom/redux-kotlin) - Direct port of Redux for Kotlin.
-*   [reactor/reactor-core (⭐4.4k)](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Streams Foundation for the JVM. Natively supports Kotlin, since 3.1.0.M3.
+*   [pardom/redux-kotlin (⭐270)](https://github.com/pardom/redux-kotlin) - Direct port of Redux for Kotlin.
+*   [reactor/reactor-core (⭐4.5k)](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Streams Foundation for the JVM. Natively supports Kotlin, since 3.1.0.M3.
 
 ### Libraries/Frameworks / Serialization
 
 *   [Shengaero/kotlin-json (⭐7)](https://github.com/Shengaero/kotlin-json) - A lightweight, stylistic, optimized, and multiplatform JSON library for Kotlin-JVM and Kotlin-JS
-*   [fboldog/ext4klaxon (⭐8)](https://github.com/fboldog/ext4klaxon) - Type Extensions (Long, Int, Enum, Date) for Klaxon.
 *   [s4kibs4mi/kotlin-jsonq (⭐30)](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
 
 ### Libraries/Frameworks / Database
 
 *   [shyiko/levelkt (⭐14)](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
-*   [SubiyaCryolite/jds (⭐19)](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
-*   [fluidsonic/fluid-mongo (⭐29)](https://github.com/fluidsonic/fluid-mongo) - Coroutine support for MongoDB built on top of the official Reactive Streams Java Driver
+*   [SubiyaCryolite/jds (⭐20)](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
+*   [fluidsonic/fluid-mongo (⭐31)](https://github.com/fluidsonic/fluid-mongo) - Coroutine support for MongoDB built on top of the official Reactive Streams Java Driver
 
 ### Libraries/Frameworks / Tools
 
@@ -363,16 +362,16 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Compiler Plugins
 
-*   [aafanasev/sekret (⭐86)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
-*   [AhmedMourad0/no-copy (⭐138)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
+*   [aafanasev/sekret (⭐89)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
+*   [AhmedMourad0/no-copy (⭐143)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
 
 ### Libraries/Frameworks / Continuous Integration
 
-*   [danger/kotlin (⭐419)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
+*   [danger/kotlin (⭐428)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
 
 ### Libraries/Frameworks / Code Generators
 
-*   [jhipster/jhipster-kotlin (⭐432)](https://github.com/jhipster/jhipster-kotlin) - A scaffold generator to generate web apps or APIs using springboot and angularJS or React
+*   [jhipster/jhipster-kotlin (⭐434)](https://github.com/jhipster/jhipster-kotlin) - A scaffold generator to generate web apps or APIs using springboot and angularJS or React
 
 ### Libraries/Frameworks / Desktop
 
@@ -384,7 +383,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Misc
 
-*   [KotlinNLP/SimpleDNN (⭐91)](https://github.com/KotlinNLP/SimpleDNN) - SimpleDNN is a machine learning lightweight open-source library part of KotlinNLP and has been designed to support relevant neural network architectures in natural language processing tasks.
+*   [KotlinNLP/SimpleDNN (⭐93)](https://github.com/KotlinNLP/SimpleDNN) - SimpleDNN is a machine learning lightweight open-source library part of KotlinNLP and has been designed to support relevant neural network architectures in natural language processing tasks.
 
 ### Libraries/Frameworks / Parsers
 
@@ -393,23 +392,23 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries/Frameworks / Extensions
 
 *   [hankdavidson/ktime (⭐24)](https://github.com/hankdavidson/ktime) - Extensions to the java8 time library
-*   [LukasForst/katlib (⭐69)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
+*   [LukasForst/katlib (⭐70)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/Vulkan (⭐49)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐8.2k)](https://github.com/SaschaWillems/Vulkan)
-*   [nwillc/ksvg (⭐74)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-*   [markaren/three.kt (⭐183)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
+*   [java-opengl-labs/Vulkan (⭐49)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐8.6k)](https://github.com/SaschaWillems/Vulkan)
+*   [nwillc/ksvg (⭐73)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
+*   [markaren/three.kt (⭐186)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [breandan/kotlingrad (⭐486)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [breandan/kotlingrad (⭐491)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 
 ### Libraries/Frameworks / Command Line Interface
 
-*   [leprosus/kotlin-cli (⭐38)](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
+*   [leprosus/kotlin-cli (⭐37)](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
 *   [jimschubert/kopper (⭐40)](https://github.com/jimschubert/kopper) - A simple Kotlin option parser
 
 ### Projects / Web
@@ -426,16 +425,16 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Kotlin JavaScript / Frontend
 
-*   [olegcherr/Aza-Kotlin-CSS (⭐82)](https://github.com/olegcherr/Aza-Kotlin-CSS) - Kotlin DSL for CSS
+*   [olegcherr/Aza-Kotlin-CSS (⭐83)](https://github.com/olegcherr/Aza-Kotlin-CSS) - Kotlin DSL for CSS
 
 ### Kotlin JavaScript / Build Tools
 
-*   [huston007/kotlin-loader (⭐26)](https://github.com/huston007/kotlin-loader) - Kotlin webpack loader.
+*   [huston007/kotlin-loader (⭐25)](https://github.com/huston007/kotlin-loader) - Kotlin webpack loader.
 
 ### Kotlin Native / Projects
 
 *   [perses-games/konan-sfml (⭐18)](https://github.com/perses-games/konan-sfml) - Kotlin native with SFML example
-*   [JetBrains/kotlinconf-spinner (⭐602)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
+*   [JetBrains/kotlinconf-spinner (⭐612)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
 
 ---
 

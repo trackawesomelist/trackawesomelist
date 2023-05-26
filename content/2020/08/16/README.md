@@ -38,7 +38,7 @@
 
 ### Libraries Visualization
 
-*   [Cava (⭐2.8k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
+*   [Cava (⭐3.1k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -65,7 +65,7 @@
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [.NET Core AppImage example (⭐37)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
+*   [.NET Core AppImage example (⭐39)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 
 ## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [Boofuzz (⭐1.6k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
+*   [Boofuzz (⭐1.8k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
@@ -85,7 +85,7 @@
 
 ### Endpoint / Forensics
 
-*   [Rekall (⭐1.8k)](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
+*   [Rekall (⭐1.9k)](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Software / Wikis
 
-*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.6k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
+*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.7k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -136,7 +136,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-routisan (⭐207)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
+*   [vue-routisan (⭐206)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
 
 ---
 

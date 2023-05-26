@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -71,7 +71,7 @@
 
 ### Audio Related Packages / Read-Write
 
-*   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐1.7k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
+*   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐1.8k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
 
 ## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -88,34 +88,28 @@
 
 *   [Wirefly](https://www.wirefly.world/) - The first tech & arts festival of its kind in Germany ⪢ 4 days of ✓ talks ✓ music ✓ events ✓ food ✓ camping - all that and more at a unique venue on the beach! **(August)**
 
-## [10. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / Graphics
-
-*   [react-svg-pan-zoom (⭐642)](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
-
-## [11. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [10. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
 *   [Boxicons (⭐2.2k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 *   ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Chemistry
 
-*   [Reaktoro (⭐113)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
+*   [Reaktoro (⭐123)](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
 
 ### Math
 
-*   [autodiff (⭐1.2k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
+*   [autodiff (⭐1.3k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
 
-## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [React App (⭐99k)](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - Sharable config for [React](https://reactjs.org) projects.
+*   [React App (⭐100k)](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - Sharable config for [React](https://reactjs.org) projects.
 
 ---
 

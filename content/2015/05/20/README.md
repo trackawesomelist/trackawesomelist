@@ -20,10 +20,6 @@
 
 ## [3. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
-### Articles
-
-*   [CSS Architecture: BEMCSS — Block, Element &  Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
-
 ### Slides & Videos / Videos
 
 *   [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)

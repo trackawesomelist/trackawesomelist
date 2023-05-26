@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Scala/Java
 
-*   [scala-polars for Scala and Java (⭐2)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+*   [scala-polars for Scala and Java (⭐8)](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Utilities
 
-*   [contextplus (⭐16)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
+*   [contextplus (⭐17)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -62,18 +62,18 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-clean (⭐2)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
+*   [vite-plugin-clean (⭐7)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
 
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-find-image-duplicates (⭐1)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
-*   [@froxz/vite-plugin-s3 (⭐6)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
+*   [@froxz/vite-plugin-s3 (⭐8)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Presentations
 
-*   [slides (⭐6.9k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
+*   [slides (⭐7.3k)](https://github.com/maaslalani/slides) - A markdown presentation tool.
 
 ## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -83,8 +83,8 @@
 
 ### End-user applications / XML
 
-*   [Literate (⭐616)](https://github.com/zyedidia/Literate) - A literate programming tool for any language
-*   [onedrive (⭐7.4k)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
+*   [Literate (⭐623)](https://github.com/zyedidia/Literate) - A literate programming tool for any language
+*   [onedrive (⭐7.8k)](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [MarcHamamji/runner.nvim (⭐4)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
+*   [MarcHamamji/runner.nvim (⭐18)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 
 ### Game / Diagnostics
 
@@ -122,4 +122,5 @@
 
 ---
 
+- Prev: [Mar 21, 2023](/content/2023/03/21/README.md)
 - Next: [Mar 19, 2023](/content/2023/03/19/README.md)

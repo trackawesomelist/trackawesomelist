@@ -14,16 +14,16 @@
 
 ### Machine Learning
 
-*   [rb-libsvm (⭐275)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
+*   [rb-libsvm (⭐277)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 
 ### Scientific
 
 *   Numerical arrays
-    *   [NMatrix (⭐464)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
-    *   [Numo::NArray (⭐369)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
+    *   [NMatrix (⭐463)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
+    *   [Numo::NArray (⭐374)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
     *   [mdarray (⭐36)](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
-*   [SciRuby (⭐977)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
-    *   [IRuby (⭐756)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
+*   [SciRuby (⭐981)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+    *   [IRuby (⭐762)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
     *   [statsample (⭐94)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
     *   [statsample-timeseries (⭐13)](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
     *   [statsample-glm (⭐22)](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
@@ -44,7 +44,7 @@
 
 ### Podcasts / Other
 
-*   [peterkokot/awesome-dojo (⭐75)](https://github.com/peterkokot/awesome-dojo)
+*   [peterkokot/awesome-dojo (⭐80)](https://github.com/peterkokot/awesome-dojo)
 
 ## [4. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 

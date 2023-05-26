@@ -28,7 +28,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [Angular 2 webpack (⭐3)](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
+*   [Angular 2 webpack (⭐5)](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
 
 ## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

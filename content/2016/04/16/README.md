@@ -15,7 +15,7 @@
 
 ### Books / Software-specific
 
-*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐258)](https://github.com/kolaczyk/sand); 2014).
+*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐264)](https://github.com/kolaczyk/sand); 2014).
 
 ### Datasets / Topic-specific
 
@@ -41,7 +41,7 @@
 *   [Camilo Nova (⭐3)](https://github.com/camilonova/ama) - Full stack software developer in Colombia.
 *   [William Oliveira](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
 *   [Danilo Vaz (⭐1)](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at [mLabs](https://www.mlabs.com.br/) with JavaScript, EmberJS, APIs and other cool stuffs. I'm also [BeerJS/SJC (⭐18)](https://github.com/beerjs/sjc) organizer.
-*   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack" (⭐149)](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
+*   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack" (⭐150)](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Tools / Linters
 
-*   [Markdownlint (⭐583)](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
+*   [Markdownlint (⭐668)](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
 
 ### Resources / Documentation
 
@@ -56,7 +56,7 @@
 
 ### Documentation tools / Components
 
-*   [Compodoc (⭐3.7k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
+*   [Compodoc (⭐3.8k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
 
 ### TypeScript Seed Projects / Components
 
@@ -76,7 +76,7 @@
 
 ### Logging
 
-*   [Blackhole (⭐192)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
+*   [Blackhole (⭐194)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐445)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐451)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

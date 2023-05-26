@@ -88,7 +88,7 @@
 
 ### Text Processing
 
-*   [beagle (⭐50)](https://github.com/tokenmill/beagle)
+*   [beagle (⭐49)](https://github.com/tokenmill/beagle)
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

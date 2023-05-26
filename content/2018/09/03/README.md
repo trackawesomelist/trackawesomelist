@@ -16,7 +16,7 @@
 
 ### Open Source Repos / S3
 
-*   [danilop/yas3fs :fire::fire::fire: (⭐636)](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
+*   [danilop/yas3fs :fire::fire::fire: (⭐639)](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 
 ## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
@@ -40,7 +40,7 @@
 
 ### DevOps
 
-*   [DPPM (⭐108)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
+*   [DPPM (⭐110)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -49,11 +49,6 @@
 *   [Cat-or-dog (⭐31)](https://github.com/punksta/Cat-or-dog) - Simple game with drag'n'drops and animations.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Email
-
-*   [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
-*   [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
 
 ### CDN and Protection
 

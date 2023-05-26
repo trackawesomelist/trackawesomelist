@@ -10,7 +10,7 @@
 
 ### Programming Languages / Node.js
 
-*   [node2nix (⭐424)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
+*   [node2nix (⭐444)](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails. ([Source Code (⭐19)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
+*   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails. ([Source Code (⭐21)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
 
 ### Software / Groupware
 
-*   [Tracim (⭐188)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
+*   [Tracim (⭐190)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -68,7 +68,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [botocore :fire::fire::fire::fire: (⭐1.2k)](https://github.com/boto/botocore)
+*   [botocore :fire::fire::fire::fire: (⭐1.3k)](https://github.com/boto/botocore)
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

@@ -76,9 +76,9 @@
 
 ### Machine Learning
 
-*   [clj-bigml (⭐50)](https://github.com/bigmlcom/clj-bigml)
+*   [clj-bigml (⭐49)](https://github.com/bigmlcom/clj-bigml)
 *   [Deeplearning4j (⭐13k)](https://github.com/deeplearning4j/deeplearning4j)
-*   [Enclog (⭐136)](https://github.com/jimpil/enclog)
+*   [Enclog (⭐137)](https://github.com/jimpil/enclog)
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -175,7 +175,7 @@
 
 ### Web Servers
 
-*   [XSP (⭐197)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
+*   [XSP (⭐192)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## [17. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
@@ -209,11 +209,11 @@
 
 ### Inter-process communication
 
-*   [gRPC (⭐37k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
+*   [gRPC (⭐38k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
 
 ### Compiler
 
-*   [8cc (⭐5.8k)](https://github.com/rui314/8cc) - A Small C Compiler.
+*   [8cc (⭐5.9k)](https://github.com/rui314/8cc) - A Small C Compiler.
 *   [c (⭐2k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
 ## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
@@ -230,7 +230,7 @@
 
 ### Date and Time Processing
 
-*   [biz (⭐469)](https://github.com/zendesk/biz) - Time calculations using business hours.
+*   [biz (⭐475)](https://github.com/zendesk/biz) - Time calculations using business hours.
 
 ## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

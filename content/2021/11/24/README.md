@@ -10,7 +10,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-simple-gql (⭐19)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
+*   [vite-plugin-simple-gql (⭐20)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -45,7 +45,7 @@
 
 ### CMS
 
-*   [Umbraco9 & Blazor WASM Starter Site (⭐32)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
+*   [Umbraco9 & Blazor WASM Starter Site (⭐35)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -67,13 +67,13 @@
 
 ### Plugins
 
-*   💼🧬 [Radix (⭐1.4k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   💼🧬 [Radix (⭐1.6k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
 ## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐9.9k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -264,7 +264,7 @@
 
 ### UI Layout / Syntax Highlight
 
-*   [react-schematic (⭐4)](https://github.com/umeshmk/react-schematic) - [demo](https://umeshmk.github.io/react-schematic) - Build responsive layouts using styled schematics without an overhead of any theme configuration
+*   [react-schematic (⭐5)](https://github.com/umeshmk/react-schematic) - [demo](https://umeshmk.github.io/react-schematic) - Build responsive layouts using styled schematics without an overhead of any theme configuration
 
 ## [14. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -306,7 +306,7 @@
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Oversecured Vulnerable Android App (OVAA) (⭐391)](https://github.com/oversecured/ovaa)
+*   [Oversecured Vulnerable Android App (OVAA) (⭐460)](https://github.com/oversecured/ovaa)
 
 ---
 

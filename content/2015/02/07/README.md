@@ -10,42 +10,25 @@
 
 ### Framework Components
 
-*   [scrivener (⭐545)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐552)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
-*   [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. \[Boost] [website](http://www.boost.org/)
-
-### Networking
-
-*   [Boost.Asio](http://think-async.com/) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost]
-*   [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. \[Boost] [website](http://pocoproject.org/)
-
-### Compression
-
-*   [LZMA](http://www.7-zip.org/sdk.html) :zap: - The default and general compression method of 7z format. \[PublicDomain]
-
-### Graphics
-
-*   [Ogre 3D](http://www.ogre3d.org/) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. \[MIT]
-
-### Image Processing
-
-*   [OpenCV](http://opencv.org/) :zap: - Open source computer vision. \[BSD]
+*   [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. \[Boost] [website](https://www.boost.org)
 
 ### JSON
 
-*   [RapidJSON (⭐13k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT]
+*   [RapidJSON (⭐13k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
 
 ### Machine Learning
 
-*   [OpenCV (⭐67k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐69k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
-### Multimedia
+### Networking
 
-*   [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. \[zlib]
+*   [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. \[Boost] [website](http://pocoproject.org/)
 
 ### Talks
 

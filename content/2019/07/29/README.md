@@ -11,7 +11,6 @@
 ### DNS
 
 *   [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
-*   [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
 
 ## [2. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -36,8 +35,8 @@
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
-*   [Stronghold (⭐979)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
-*   [macOS Fortress (⭐375)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+*   [Stronghold (⭐987)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
+*   [macOS Fortress (⭐380)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
 ## [6. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
@@ -81,51 +80,49 @@
 ### Bouncers / Hosted
 
 *   [IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
-    *   [iOS App (⭐259)](https://github.com/irccloud/ios) - Official. `Objective-C`
-    *   [Android App (⭐268)](https://github.com/irccloud/android) - Official. `Java`
-    *   [Nimbus (⭐151)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
+    *   [iOS App (⭐262)](https://github.com/irccloud/ios) - Official. `Objective-C`
+    *   [Android App (⭐275)](https://github.com/irccloud/android) - Official. `Java`
+    *   [Nimbus (⭐150)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
 
 ### Daemons / Self-hosted
 
-*   [ircd.js (⭐529)](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
+*   [ircd.js (⭐526)](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
 *   [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source (⭐1k)](https://github.com/inspircd/inspircd))
-*   [miniircd (⭐374)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
-*   [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source (⭐351)](https://github.com/ngircd/ngircd))
+*   [miniircd (⭐392)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
+*   [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source (⭐364)](https://github.com/ngircd/ngircd))
 
 ### Services / Self-hosted
 
-*   [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source (⭐353)](https://github.com/atheme/atheme))
-*   [anope](https://anope.org) - Designed for flexibility and ease of use. ([source (⭐279)](https://github.com/anope/anope))
+*   [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source (⭐362)](https://github.com/atheme/atheme))
+*   [anope](https://anope.org) - Designed for flexibility and ease of use. ([source (⭐282)](https://github.com/anope/anope))
 
 ### Bots / Self-hosted
 
-*   [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source (⭐921)](https://github.com/sopel-irc/sopel)) `Python`
-*   [Limnoria (⭐567)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
-*   [Twitch Plays (⭐263)](https://github.com/aidanrwt/twitch-plays) - Takes input from the chat and presses the corresponding key. `Python`
+*   [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source (⭐933)](https://github.com/sopel-irc/sopel)) `Python`
+*   [Limnoria (⭐591)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
+*   [Twitch Plays (⭐270)](https://github.com/aidanrwt/twitch-plays) - Takes input from the chat and presses the corresponding key. `Python`
 *   [Skybot (⭐242)](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
 *   [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source (⭐182)](https://github.com/jessamynsmith/talkbackbot)) `Python`
-*   [lazybot (⭐150)](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
+*   [lazybot (⭐151)](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
 *   [geordi (⭐183)](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
-*   [yossarian-bot (⭐29)](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
-*   [helga (⭐46)](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
+*   [yossarian-bot (⭐30)](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
+*   [helga (⭐48)](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
 
 ### Frameworks / Self-hosted
 
-*   [goirc (⭐472)](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
-*   [Hubot IRC Adapter (⭐307)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
-*   [go-ircevent (⭐445)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
-*   [pyaib (⭐338)](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python`
-*   [slate-irc (⭐203)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
-*   [PircBotX (⭐206)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
+*   [goirc (⭐475)](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
+*   [Hubot IRC Adapter (⭐304)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
+*   [go-ircevent (⭐456)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
+*   [slate-irc (⭐202)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
+*   [PircBotX (⭐212)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
 
 ### Frameworks / Bridges
 
-*   [discord-irc (⭐1.1k)](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
-*   [slack-irc (⭐592)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
-*   [irc-slack (⭐159)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
+*   [discord-irc (⭐1.2k)](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
+*   [slack-irc (⭐590)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
+*   [irc-slack (⭐171)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 *   [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
-*   [toxirc (⭐21)](https://github.com/endoffile78/toxirc) - Tox ↔ IRC. `C`
-*   [skyweb2irc (⭐4)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
+*   [skyweb2irc (⭐8)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 
 ### Channels / Discovery
 
@@ -150,10 +147,10 @@
 
 ### Protocol / Platforms
 
-*   [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source (⭐82)](https://github.com/ircv3/ircv3.github.io))
-*   [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source (⭐153)](https://github.com/ircdocs/modern-irc))
-*   [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source (⭐61)](https://github.com/ircdocs/irc-defs))
-*   [grawity's IRC docs (⭐50)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
+*   [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source (⭐85)](https://github.com/ircv3/ircv3.github.io))
+*   [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source (⭐167)](https://github.com/ircdocs/modern-irc))
+*   [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source (⭐60)](https://github.com/ircdocs/irc-defs))
+*   [grawity's IRC docs (⭐53)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
 *   [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source (⭐6)](https://github.com/ircdocs/irc-stats))
 *   [IRC Parser Tests (⭐34)](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
 

@@ -10,7 +10,7 @@
 
 ### Browser Webextensions
 
-*   [Boilerplate with Webpack (⭐53)](https://github.com/fstanis/webextensions-webpack-boilerplate) Using Webpack JS module manager
+*   [Boilerplate with Webpack (⭐59)](https://github.com/fstanis/webextensions-webpack-boilerplate) Using Webpack JS module manager
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Applications
 
-*   [PeerTube (⭐11k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
+*   [PeerTube (⭐12k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -294,12 +294,12 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [essentia](http://essentia.upf.edu) [:octocat: (⭐2.2k)](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings.
+*   [essentia](http://essentia.upf.edu) [:octocat: (⭐2.4k)](https://github.com/MTG/essentia) - Music related low level and high level feature extractor, C++ based, includes Python bindings.
 
 ### Audio Related Packages / Deep Learning
 
-*   [Kapre (⭐857)](https://github.com/keunwoochoi/kapre) [:octocat: (⭐857)](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
-*   [TorchAudio (⭐1.9k)](https://github.com/pytorch/audio) [:octocat: (⭐1.9k)](https://github.com/pytorch/audio) - PyTorch Audio Loaders
+*   [Kapre (⭐874)](https://github.com/keunwoochoi/kapre) [:octocat: (⭐874)](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
+*   [TorchAudio (⭐2k)](https://github.com/pytorch/audio) [:octocat: (⭐2k)](https://github.com/pytorch/audio) - PyTorch Audio Loaders
 
 ### Tutorials / Wrappers for Audio Plugins
 

@@ -22,7 +22,7 @@
 
 ### Testing
 
-*   [Expectations (⭐388)](https://github.com/clojure-expectations/expectations)
+*   [Expectations (⭐392)](https://github.com/clojure-expectations/expectations)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Visualizations
 
-*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐342)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
+*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐344)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

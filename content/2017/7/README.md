@@ -1,16 +1,12 @@
 # Awesome List Updates on Feb 13 - Feb 19, 2017
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
 ## [1. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
-
-### Companies / Hosting
-
-*   [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
 
 ### CouchApps / Hosting
 
@@ -49,7 +45,7 @@
 
 ### Testing
 
-*   [Expecto (⭐593)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐600)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ## [6. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -65,7 +61,17 @@
     Parse CSS,SCSS, LESS and add vendor prefixes automatically.
     ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
 
-## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [8. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### iOS / Spock Framework
+
+*   [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
+
+### Objective-C / Svelte
+
+*   [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
+
+## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other useful repositories
 
@@ -75,41 +81,35 @@
 
 
 
-## [9. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [10. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 
 *   [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 
-## [10. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [11. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### conversion
 
 *   [supercluster (⭐1.6k)](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
 
-## [11. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [12. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
 *   [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
 
-## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use TensorFlow from the basics of graph computing, to deep learning models to using it in production environments - Bleeding Edge Press
 
-## [13. Awesome Security](/content/sbilly/awesome-security/week/README.md)
-
-### Other Awesome Lists / Other Security Awesome Lists
-
-*   [Awesome Pentest Cheat Sheets (⭐3k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
-
 ## [14. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 
-*   [any\_hash.cr (⭐32)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
+*   [any\_hash.cr (⭐33)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
 
 ### Official Documentation Translations
 
@@ -192,26 +192,35 @@ git checkout @{-1}
 
 *   [Vert.x Dependent Verticle Deployer (⭐6)](https://github.com/juanavelez/vertx-dependent-verticle-deployer) - A Vert.x Verticle intended to deploy verticles and their dependent verticles.
 
-## [23. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [23. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+
+### Operating Systems / Online resources
+
+*   [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
+### Other Awesome Lists / Other Security Awesome Lists
+
+*   [Awesome Pentest Cheat Sheets (⭐3.2k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
+
+## [24. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### ES6 and above / Single Topics
 
 *   [Practical ES6 (⭐3k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 
-## [24. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [25. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Online resources / Other
 
-*   [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 *   [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
 
-## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Coding Style
 
 *   [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 
-## [26. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [27. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -221,13 +230,13 @@ git checkout @{-1}
 
 *   [ComposerRequireChecker (⭐701)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 
-## [27. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐182)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐181)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
-## [28. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [29. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Pipeline Generation
 
@@ -239,7 +248,7 @@ git checkout @{-1}
 *   [scylla (⭐34)](https://github.com/hashwin/scylla) -
     Language Categorization and Identification.
 
-## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Serialization
 
@@ -249,32 +258,32 @@ git checkout @{-1}
 
 *   [Storyteller (⭐270)](https://github.com/storyteller/Storyteller) - Executable Specifications for .NET <http://storyteller.github.io>.
 
-## [30. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [31. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
 *   [ng (⭐44)](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 
-## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [32. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 
-## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
 *   [notty (⭐2.2k)](https://github.com/withoutboats/notty) — A new kind of terminal
 
-## [33. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [34. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Articles
 
 *   [Styling React Applications with Ant.Design](https://medium.com/@yoniweisbrod/styling-react-applications-with-ant-design-92b742aab0b0)
 *   [Finding a User Interface library](http://waywardmonkeys.org/2016/03/14/finding-a-user-interface-library/)
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -325,7 +334,7 @@ git checkout @{-1}
 
 *   Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 
-## [35. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [36. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Bruteforcers
 
@@ -339,7 +348,7 @@ git checkout @{-1}
 
 *   [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 
-## [36. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / C companies
 
@@ -349,13 +358,13 @@ git checkout @{-1}
 
 *   jOOQ <https://blog.jooq.org/>
 
-## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
 
-## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [39. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Guimarães
 
@@ -381,7 +390,7 @@ Webpage: <http://www.denizlihs.org/>
 | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z) | 24/7       |
 
-## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### REST and API
 
@@ -391,7 +400,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [jeaux (⭐11)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 
-## [40. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [41. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Cloud Services
 
@@ -401,7 +410,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [ActivityStarter (⭐428)](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 
-## [41. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [42. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Awesome list criteria
 
@@ -606,7 +615,7 @@ Webpage: <http://www.denizlihs.org/>
 *   WildML [\[Web\]](http://www.wildml.com/)
 *   FastML [\[web\]](http://www.fastml.com/)
 
-## [42. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -614,13 +623,13 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Pipes / Components
 
-*   [angular2-camelcase (⭐2)](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
+*   [angular2-camelcase (⭐3)](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
 
 ### Cordova Seed Projects / Components
 
 *   [Angular 2 Seed CLI Admin (Template) (⭐66)](https://github.com/jvitor83/angular-pwa-seed) Multi-platform Angular 2 project (Web/PWA, Mobile and Desktop) with Ionic 2 (and optionally Bootstrap).
 
-## [43. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [44. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -646,9 +655,9 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐2.1k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.2k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
-## [44. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [45. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Android
 
@@ -688,13 +697,13 @@ Webpage: <http://www.denizlihs.org/>
 *   [cmprss (⭐4)](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
 *   [lolcat (⭐5.2k)](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 
-## [45. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [46. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Typography
 
 *   [Typewolf](https://www.typewolf.com/): Comprehensive web typography info, suggestions for font alternatives, and links to usage in the wild.
 
-## [46. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [47. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -704,13 +713,13 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [Norway](https://www.meetup.com/dddnorway/)
 
-## [47. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [48. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Related Lists / Provided by the Host
 
 *   [Awesome Static Hosting (⭐245)](https://github.com/b-long/awesome-static-hosting)
 
-## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [49. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -721,11 +730,11 @@ Webpage: <http://www.denizlihs.org/>
 ### C++ / Natural Language Processing
 
 *   [frog (⭐72)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-*   [ucto (⭐59)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
+*   [ucto (⭐60)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition
 
-*   [Kaldi (⭐12k)](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+*   [Kaldi (⭐13k)](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
 ### Java / General-Purpose Machine Learning
 
@@ -782,17 +791,17 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [ML\_Tables (⭐123)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
 *   [enlighten-apply (⭐123)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
-*   [enlighten-integration (⭐60)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
+*   [enlighten-integration (⭐59)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
 *   [enlighten-deep (⭐20)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
 *   [dm-flow (⭐55)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
 
-## [49. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [50. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Containers / Docker
 
 *   [zalando/zalenium (⭐2.4k)](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 
-## [50. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [51. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
@@ -808,7 +817,7 @@ Webpage: <http://www.denizlihs.org/>
 *   [awesome-fish (⭐3.2k)](https://github.com/jorgebucaran/awsm.fish)
 *   [awesome-zsh (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins)
 
-## [51. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [52. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -824,7 +833,7 @@ Webpage: <http://www.denizlihs.org/>
 *   [Draft Convert (⭐472)](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 *   [HTML to DraftJS (⭐150)](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
 
-## [52. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [53. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Research Papers
 

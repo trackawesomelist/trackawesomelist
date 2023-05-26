@@ -42,20 +42,20 @@
 
 ### Tools
 
-*   [Ansible Later (⭐77)](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
-*   [Ansible Doctor (⭐75)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
+*   [Ansible Later (⭐82)](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
+*   [Ansible Doctor (⭐91)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
-*   [pytessarct (⭐4.7k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐49k)](https://github.com/tesseract-ocr/tesseract).
+*   [pytessarct (⭐4.8k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐51k)](https://github.com/tesseract-ocr/tesseract).
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Validation / Playground
 
-*   [json-schema-to-ts (⭐972)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+*   [json-schema-to-ts (⭐1.1k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 
 ## [7. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -96,6 +96,10 @@
 
 ## [10. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
+### UI Elements
+
+*   [Creative Designs Guru](https://creativedesignsguru.com) - Themes for React, Nextjs and Eleventy, built with Tailwind CSS.
+
 ### Booking
 
 *   [OnceHub](https://www.oncehub.com/) - Scheduling via ScheduleOnce and meeting management via InviteOnce.
@@ -122,10 +126,10 @@
 
 ### Schematics / Components
 
-*   [Cypress (⭐162)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
-*   [Jest (⭐296)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
-*   [Prettier (⭐142)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
-*   [Tailwind CSS (⭐599)](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
+*   [Cypress (⭐159)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
+*   [Jest (⭐307)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
+*   [Prettier (⭐141)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
+*   [Tailwind CSS (⭐601)](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
 
 ## [13. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -145,15 +149,11 @@
 
 *   [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 
-### Payments
+### Payments & Pricing
 
 *   [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
 ## [14. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
-
-### Jamstack Sites Showcase
-
-*   [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
 
 ### API / Forms
 
@@ -163,7 +163,7 @@
 
 ### Audio Tools
 
-*   [Cecilia (⭐155)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
+*   [Cecilia (⭐161)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
 
 ## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -187,7 +187,7 @@
 *   [RSS 2.0](https://www.rssboard.org/rss-specification) <sup>[823](https://t.me/s/aboutrss/823)</sup>
 *   [Atom](http://www.atomenabled.org/) <sup>[711](https://t.me/s/aboutrss/711), [823](https://t.me/s/aboutrss/823)</sup>
 
-### specifically from (  *a certain platform*  ) / Wechat Subscription Accounts (微信公众号)
+### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
 *   [FreeRss](http://www.freerss.top/) <sup>[778](https://t.me/s/aboutrss/778)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -267,7 +267,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Web Scraping / Others
 
-*   [Pattern (⭐8.4k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
+*   [Pattern (⭐8.5k)](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
 
 ### Deployment / NLP
 
@@ -276,36 +276,36 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Reinforcement Learning / NLP
 
-*   [TF-Agents (⭐2.4k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [TF-Agents (⭐2.5k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
 ## [25. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Apps/Websites / Community
 
-*   [Layoutit Grid (⭐1.4k)](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
+*   [Layoutit Grid (⭐1.5k)](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 
 ## [26. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / "System" bindings
 
 *   [ROS2-Integration-Service (⭐12)](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
-*   [soss (⭐57)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
+*   [soss (⭐59)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
 
 ## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### HTTP
 
-*   [finch (⭐1k)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+*   [finch (⭐1.1k)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ### YAML
 
-*   [ymlr (⭐12)](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
+*   [ymlr (⭐15)](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
 
 ## [28. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Showcases / XML
 
-*   [GitHub Profile Trophy (⭐3.4k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+*   [GitHub Profile Trophy (⭐3.7k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 
 ## [29. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -317,13 +317,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Networking
 
-*   [Boost.Beast (⭐3.7k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
+*   [Boost.Beast (⭐3.8k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
 
 ## [31. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 
-*   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.6k)](https://github.com/antonbabenko/terraform-best-practices)
+*   [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook (⭐1.7k)](https://github.com/antonbabenko/terraform-best-practices)
 *   [The Terraform Book](https://terraformbook.com/)
 
 ### Community Modules / Miscellaneous
@@ -332,8 +332,8 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Tools / Vendor supported providers
 
-*   [flora (⭐19)](https://github.com/ketchoop/flora) - Terraform version manager.
-*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐501)](https://github.com/antonbabenko/serverless.tf).
+*   [flora (⭐20)](https://github.com/ketchoop/flora) - Terraform version manager.
+*   [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more (⭐525)](https://github.com/antonbabenko/serverless.tf).
 *   [terraspace](https://terraspace.cloud) - The Terraform Framework
 
 ## [32. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
@@ -346,19 +346,18 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Serialization
 
-*   [vproto (⭐48)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+*   [vproto (⭐49)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ## [34. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
-*   [Nigiri (⭐200)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
-*   [Nigiri in Travis (⭐2)](https://github.com/vulpemventures/nigiri-travis) - Travis template for adding Nigiri to your Travis (or Github Action) pipeline.
-*   [hal (⭐103)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
+*   [Nigiri (⭐203)](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
+*   [hal (⭐114)](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 
 ### Blockchain API and Web services
 
-*   [Esplora (⭐750)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
+*   [Esplora (⭐772)](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 
 ### Blockchain Explorers
 
@@ -366,7 +365,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Full nodes
 
-*   [btcd (⭐5.2k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
+*   [btcd (⭐5.3k)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 
 ## [35. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -376,9 +375,9 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ## [36. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
-### :space_invader: Projects Using Prisma / Tutorials with   [NestJS](https://nestjs.com/)
+### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [NestJS Crud Prisma (⭐46)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐3.2k)](https://github.com/nestjsx/crud))
+*   [NestJS Crud Prisma (⭐53)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐3.5k)](https://github.com/nestjsx/crud))
 
 ## [37. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
@@ -425,13 +424,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Development tools / IDEs
 
 *   [Kakoune](http://kakoune.org/)
-    *   [kak-lsp/kak-lsp (⭐510)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [kak-lsp/kak-lsp (⭐516)](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
 
 ## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐57)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.1k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐61)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.2k)](https://github.com/seek-oss/capsize).
 
 ## [40. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -444,16 +443,16 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Code Analysis
 
 *   Static Type Annotations Generators
-    *   [MonkeyType (⭐4.1k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
-    *   [pytype (⭐4k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
+    *   [MonkeyType (⭐4.2k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
+    *   [pytype (⭐4.2k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
 ### GraphQL
 
-*   [graphene (⭐7.5k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
+*   [graphene (⭐7.6k)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
 
 ### Shell
 
-*   [xonsh (⭐6.7k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
+*   [xonsh (⭐6.9k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
 
 ### Websites
 
@@ -520,7 +519,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Packages / Utilities
 
-*   [Optimus (⭐1.3k)](https://github.com/ironmussa/Optimus/) <img src="https://img.shields.io/github/last-commit/ironmussa/Optimus.svg"> - Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
+*   [Optimus (⭐1.4k)](https://github.com/ironmussa/Optimus/) <img src="https://img.shields.io/github/last-commit/ironmussa/Optimus.svg"> - Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
 
 ### Resources / Papers
 
@@ -548,19 +547,19 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [SRT Alliance](https://www.srtalliance.org/)  - Home page for the SRT protocol
 *   [SRT Cookbook](https://srtlab.github.io/srt-cookbook/)  - More in-depth technical documentaion on the SRT protocol and library.
-*   [SRT Open Source project (⭐2.4k)](https://github.com/Haivision/srt)  -
+*   [SRT Open Source project (⭐2.6k)](https://github.com/Haivision/srt)  -
 *   [Streaming With SRT Protocol in OBS](https://obsproject.com/wiki/Streaming-With-SRT-Protocol)  -
 
 ### Players / MPEG
 
-*   [adrg/libvlc-go (⭐326)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
+*   [adrg/libvlc-go (⭐351)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
 
 ## [51. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
-*   [Preact Dock (⭐20)](https://github.com/TimDaub/preact-touchable-dock) - Simple DnD and touch-enabled Dock for Preact apps.
-*   [Preact Particles (⭐4.3k)](https://github.com/matteobruni/tsparticles#preact) - Lightweight component to easily add cool particles animations to websites.
+*   [Preact Dock (⭐21)](https://github.com/TimDaub/preact-touchable-dock) - Simple DnD and touch-enabled Dock for Preact apps.
+*   [Preact Particles (⭐5.4k)](https://github.com/matteobruni/tsparticles#preact) - Lightweight component to easily add cool particles animations to websites.
 
 ## [52. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -584,7 +583,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Schema / Changes
 
-*   [Prisma Migrate (⭐771)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
+*   [Prisma Migrate (⭐770)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
 
 ## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -598,9 +597,9 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Components & Libraries / UI Components
 
-*   [vue3-highcharts (⭐41)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
-*   [echarts-for-vue (⭐66)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
-*   [tsParticles (⭐5k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [vue3-highcharts (⭐44)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
+*   [echarts-for-vue (⭐73)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
+*   [tsParticles (⭐5.4k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ### Components & Libraries / Frameworks
 
@@ -608,12 +607,12 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Components & Libraries / UI Utilities
 
-*   [v-aspect-ratio (⭐27)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
+*   [v-aspect-ratio (⭐29)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
 
 ### Components & Libraries / Utilities
 
-*   [rexios (⭐5)](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
-*   [vue-axillo (⭐8)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
+*   [rexios (⭐6)](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
+*   [vue-axillo (⭐9)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
 *   [v-bucket (⭐42)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 
 ### Components & Libraries / Integrations
@@ -634,13 +633,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Buttons
 
-*   [reactive-button (⭐102)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
+*   [reactive-button (⭐110)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
 ## [57. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Pipe (⭐29)](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
+*   [Pipe (⭐30)](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
 
 ## [58. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -699,7 +698,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Cost Forecast / Market Research
 
-*   [Forecasting with sktime (⭐6.1k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
+*   [Forecasting with sktime (⭐6.4k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
 
 ### Invoice / Generators
 
@@ -714,15 +713,15 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 ### Notifications
 
 *   [Noticed (⭐1.9k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
-*   [Ruby Push Notifications (⭐399)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
+*   [Ruby Push Notifications (⭐401)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 *   [Rpush (⭐2.1k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
-*   [webpush (⭐364)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+*   [webpush (⭐368)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
 ## [64. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Debugging and Tracing
 
-*   [action-tmate (⭐1.6k)](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
+*   [action-tmate (⭐2k)](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 
 ## [65. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -732,11 +731,11 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Framework Components
 
-*   [Shield (⭐50)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
+*   [Shield (⭐51)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
 
 ### Misc
 
-*   [wafalyzer (⭐30)](https://github.com/NeuraLegion/wafalyzer) - Web Application Firewall (WAF) Detector - shard + cli
+*   [wafalyzer (⭐32)](https://github.com/NeuraLegion/wafalyzer) - Web Application Firewall (WAF) Detector - shard + cli
 
 ## [66. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -780,11 +779,11 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Third-Party Packages / Security
 
-*   [django-protected-media (⭐45)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
+*   [django-protected-media (⭐53)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
 
 ### Resources / Conferences
 
-*   [Django Day Copenhagen (⭐6.2k)](https://github.com/wsvincent/awesome-django#conferences)
+*   [Django Day Copenhagen (⭐7k)](https://github.com/wsvincent/awesome-django#conferences)
 
 ## [70. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -814,8 +813,8 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Books / Editors
 
-*   [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) - By Emily H. Halili ([Packt Publishing](https://www.packtpub.com/product/apache-jmeter/9781847192950)).
-*   [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-second-edition/9781784394813)).
+*   [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) - By Emily H. Halili (Packt Publishing).
+*   [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter/9781784394813)).
 *   [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-3-third-edition/9781787285774)).
 *   [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280)); 70 insightful and practical recipes to help successfully use Apache JMeter.
 *   [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) - By Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/product/master-apache-jmeter-from-load-testing-to-devops/9781839217647)).
@@ -824,7 +823,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Developer Tools / Command Line Tools
 
-*   [xxh (⭐4.2k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [xxh (⭐4.4k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [xonsh](https://xon.sh/contents.html) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Reading and Writing Tools / RSS
@@ -839,7 +838,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### CMS
 
-*   [BlazorShop (⭐230)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
+*   [BlazorShop (⭐234)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
 
 ## [75. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -1000,7 +999,7 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 ### Contents / Business
 
-*   [Open E-Commerce App (⭐687)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
+*   [Open E-Commerce App (⭐714)](https://github.com/4seer/openflutterecommerceapp) - Open Flutter Project E-commerce App by [4seer](https://github.com/4seer).
 
 ---
 

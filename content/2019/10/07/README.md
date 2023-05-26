@@ -10,7 +10,7 @@
 
 ### Email
 
-*   [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
+*   [Sender](https://www.sender.net) Up to 15 000 emails/month, up to 2,500 subscribers
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -45,7 +45,7 @@
 
 ### GUI
 
-*   [trikl (⭐137)](https://github.com/lambdaisland/trikl)
+*   [trikl (⭐142)](https://github.com/lambdaisland/trikl)
 
 ## [7. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 

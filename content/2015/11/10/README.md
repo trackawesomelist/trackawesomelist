@@ -32,7 +32,7 @@
 
 ### Caching
 
-*   [Kashmir (⭐265)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
+*   [Kashmir (⭐266)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
 
 ## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -50,7 +50,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [ng2-play (⭐539)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
+*   [ng2-play (⭐538)](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -64,7 +64,7 @@
 
 *   [MK Yuan (⭐3)](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
 *   [Hong Liu (⭐0)](https://github.com/honglio/ama) - Freelance full stack web developer and founder of [PresentBook](http://www.niukj.com).
-*   [Arnaud Benard (⭐1)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
+*   [Arnaud Benard (⭐2)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 
 ---
 

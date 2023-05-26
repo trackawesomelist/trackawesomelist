@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10 - Jul 16, 2017
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 *   [aws-sdk-machinelearning (⭐3.4k)](https://github.com/aws/aws-sdk-ruby) -
     Machine Learning API of the Amazon Web Services.
-*   [azure\_mgmt\_machine\_learning (⭐272)](https://github.com/Azure/azure-sdk-for-ruby) -
+*   [azure\_mgmt\_machine\_learning (⭐273)](https://github.com/Azure/azure-sdk-for-ruby) -
     Machine Learning API of the Microsoft Azure.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
@@ -36,18 +36,18 @@
 
 ### Miscellaneous
 
-*   [stb (⭐21k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
+*   [stb (⭐22k)](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
 
 ### Other Awesome Projects
 
-*   [awesome (⭐240k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-*   [nothings/single\_file\_libs (⭐7.9k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+*   [awesome (⭐254k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [nothings/single\_file\_libs (⭐8.1k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
-*   [git-secret (⭐3.1k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
+*   [git-secret (⭐3.2k)](https://github.com/sobolevn/git-secret) - Store your private data inside a git repository.
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [PyWorldVocoder (⭐563)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐563)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
+*   [PyWorldVocoder (⭐608)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐608)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
 
 ## [9. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
@@ -113,7 +113,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐279)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [LDA.js (⭐281)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
 *   [Node-SVM (⭐295)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
@@ -122,15 +122,58 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐446)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐448)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
-## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+
+### Datasets / Topic-specific
+
+*   [igraphdata](https://CRAN.R-project.org/package=igraphdata) - R data-centric package.
+
+### Software / R
+
+*   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
+*   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM). Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA).
+*   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
+*   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
+*   [btergm](https://CRAN.R-project.org/package=btergm) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
+*   [GERGM](https://CRAN.R-project.org/package=GERGM) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
+*   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with `ggplot2`.
+*   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with `ggplot2`.
+*   [hergm](https://CRAN.R-project.org/package=hergm) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
+*   [hierformR](https://CRAN.R-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
+*   [influenceR](https://CRAN.R-project.org/package=influenceR) - Compute various node centrality network measures by Burt, Borgatti and others.
+*   [keyplayer](https://CRAN.R-project.org/package=keyplayer) - Implements several network centrality measures.
+*   [latentnet](https://CRAN.R-project.org/package=latentnet) - Latent position and cluster models for network objects.
+*   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
+*   [netdiffuseR](https://CRAN.R-project.org/package=netdiffuseR) - Tools to analyze the network diffusion of innovations.
+*   [network](https://CRAN.R-project.org/package=network) - Basic tools to manipulate relational data in R.
+*   [networkDynamic](https://CRAN.R-project.org/package=networkDynamic) - Support for dynamic, (inter)temporal networks.
+*   [networksis](https://CRAN.R-project.org/package=networksis) - Tools to simulate bipartite networksgraphs with the degrees of the nodes fixed and specified.
+*   [PAFit](https://CRAN.R-project.org/package=PAFit) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
+*   [PCIT](https://CRAN.R-project.org/package=PCIT) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
+*   [rem](https://CRAN.R-project.org/package=rem) - Estimate endogenous network effects in event sequences and fit relational event models (REM), which measure how networks form and evolve over time.
+*   [rgexf](https://CRAN.R-project.org/package=rgexf) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
+*   [sna](https://CRAN.R-project.org/package=sna) - Basic network constructors, measures and visualization tools.
+*   [SocialMediaLab](https://CRAN.R-project.org/package=SocialMediaLab) - Tools for collecting social media data and generating networks from it ([companion website](http://vosonlab.net/SocialMediaLab), [github repo](https://github.com/voson-labSocialMediaLab)).
+*   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for visualizing spatial networks on maps in the `sp` class.
+*   [tergm](https://CRAN.R-project.org/package=tergm) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
+*   [tnam](https://CRAN.R-project.org/package=tnam) - Tools to fit temporal and cross-sectional network autocorrelation models (TNAM).
+*   [tnet](https://CRAN.R-project.org/package=tnet) - Network measures for weighted, two-mode and longitudinal networks.
+*   [tsna](https://CRAN.R-project.org/package=tsna) - Tools for temporal social network analysis.
+*   [xergm](https://CRAN.R-project.org/package=xergm) - Extensions of exponential random graph models (ERGM, GERGM, TERGM, TNAM and REM).
+
+### Varia / Tutorials
+
+*   [Tutorial Paper on New Methods for Estimating Psychological Networks](http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/).
+
+## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Clients
 
-*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
-## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -155,13 +198,13 @@
 *   [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 *   [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind (⭐651)](https://github.com/kristjankorjus/Replicating-DeepMind)
 
-## [14. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+## [15. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
 ### How-to lockpicking guides
 
 *   [CIA Lock Picking Field Operative Training Manual](https://archive.org/details/CIA_Lock_Picking_Field_Operative_Training_Manual) - Guidebook covering terminology, tool use, and techniques for picking the vast majority of pin and wafer tumbler locks.
 
-## [15. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [16. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Certification
 
@@ -169,7 +212,7 @@
 *   [Symfony 3 certification guide (⭐141)](https://github.com/raulconti/symfony-3-certification-guide)
 *   [Symfony certification preparation list (⭐548)](https://github.com/ThomasBerends/symfony-certification-preparation-list)
 
-## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
@@ -178,23 +221,17 @@
 *   [iOS Developer and Designer Interview Questions (⭐1.6k)](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech)
 *   [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
 
-## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
 *   [Comdb2 (⭐1.2k)](https://github.com/bloomberg/comdb2) - a clustered RDBMS built on optimistic concurrency control techniques.
 
-## [18. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [19. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Forms
 
 *   [Avoiding Entities in Forms](https://stovepipe.systems/post/avoiding-entities-in-forms) \[2016]
-
-## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### JavaScript / Node.js
-
-*   [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 
 ## [20. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
@@ -234,60 +271,13 @@
 *   [Data Science Python (⭐4.6k)](https://github.com/ujjwalkarn/DataSciencePython)
 *   [Machine Learning Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-## [21. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
-
-### Datasets / Topic-specific
-
-*   [igraphdata](https://CRAN.R-project.org/package=igraphdata) - R data-centric package.
-
-### Software / Java
-
-*   [GraphStream](http://graphstream-project.org/) - Java library for the modeling and analysis of dynamic graphs.
-
-### Software / R
-
-*   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
-*   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).
-*   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
-*   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
-*   [btergm](https://CRAN.R-project.org/package=btergm) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
-*   [GERGM](https://CRAN.R-project.org/package=GERGM) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
-*   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with ggplot2.
-*   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with ggplot2.
-*   [hergm](https://CRAN.R-project.org/package=hergm) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
-*   [hierformR](https://CRAN.R-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
-*   [influenceR](https://CRAN.R-project.org/package=influenceR) - Compute various node centrality network measures by Burt, Borgatti and others.
-*   [keyplayer](https://CRAN.R-project.org/package=keyplayer) - Implements several network centrality measures.
-*   [latentnet](https://CRAN.R-project.org/package=latentnet) - Latent position and cluster models for network objects.
-*   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
-*   [netdiffuseR](https://CRAN.R-project.org/package=netdiffuseR) - Tools to analyze the network diffusion of innovations.
-*   [network](https://CRAN.R-project.org/package=network) - Basic tools to manipulate relational data in R.
-*   [networkDynamic](https://CRAN.R-project.org/package=networkDynamic) - Support for dynamic, (inter)temporal networks.
-*   [networksis](https://CRAN.R-project.org/package=networksis) - Tools to simulate bipartite networksgraphs with the degrees of the nodes fixed and specified.
-*   [PAFit](https://CRAN.R-project.org/package=PAFit) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
-*   [PCIT](https://CRAN.R-project.org/package=PCIT) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
-*   [rem](https://CRAN.R-project.org/package=rem) - Estimate endogenous network effects in event sequences and fit relational event models (REM), which measure how networks form and evolve over time.
-*   [rgexf](https://CRAN.R-project.org/package=rgexf) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
-*   [sna](https://CRAN.R-project.org/package=sna) - Basic network constructors, measures and visualization tools.
-*   [SocialMediaLab](https://CRAN.R-project.org/package=SocialMediaLab) - Tools for collecting social media data and generating networks from it ([companion website](http://vosonlab.net/SocialMediaLab), [github repo](https://github.com/voson-labSocialMediaLab)).
-*   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for dealing with spatial social networks.
-*   [tergm](https://CRAN.R-project.org/package=tergm) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
-*   [tnam](https://CRAN.R-project.org/package=tnam) - Tools to fit temporal and cross-sectional network autocorrelation models (TNAM).
-*   [tnet](https://CRAN.R-project.org/package=tnet) - Network measures for weighted, two-mode and longitudinal networks.
-*   [tsna](https://CRAN.R-project.org/package=tsna) - Tools for temporal social network analysis.
-*   [xergm](https://CRAN.R-project.org/package=xergm) - Extensions of exponential random graph models (ERGM, GERGM, TERGM, TNAM and REM).
-
-### Varia / Tutorials
-
-*   [Tutorial Paper on New Methods for Estimating Psychological Networks](http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/).
-
-## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [21. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [GL\_vs\_VK (⭐76)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
 
-## [23. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [22. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
@@ -305,7 +295,7 @@
 
 *   [libsodium-laravel (⭐21)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 
-## [24. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [23. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
@@ -319,52 +309,52 @@
 
 *   [Medusa (⭐1k)](https://github.com/wisk/medusa) - Open source, cross-platform interactive disassembler.
 
-## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Converters
 
-*   [sass.cr (⭐30)](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass (⭐4.3k)](https://github.com/sass/libsass/) binding)
+*   [sass.cr (⭐32)](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass (⭐4.3k)](https://github.com/sass/libsass/) binding)
 
 ### Email
 
-*   [crystal-email (⭐111)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
+*   [crystal-email (⭐112)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
 
 ### Science and Data analysis
 
-*   [linalg (⭐42)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
+*   [linalg (⭐43)](https://github.com/konovod/linalg) - Linear algebra library inspired by MATLAB and SciPy.linalg
 
 ### Third-party APIs
 
-*   [awscr-s3 (⭐80)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+*   [awscr-s3 (⭐82)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
 
 ### Official Documentation Translations
 
 *   [Crystal \[ANN\]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Data Pipeline
 
-*   [data-pipeline-samples :fire::fire: (⭐460)](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
+*   [data-pipeline-samples :fire::fire: (⭐461)](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
 
 ### Open Source Repos / S3
 
 *   [jubos/fake-s3 :fire::fire::fire::fire::fire: (⭐2.9k)](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands.
 
-## [27. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Slack / Other
 
 *   [Creative Coding](http://the-mccc-project.github.io/creative-coding-sign-up/) - Creative Coding Slack.
 *   [openFrameworks](https://ofslack.herokuapp.com/) - openFrameworks Slack.
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
 *   [confluent-kafka-dotnet (⭐2.4k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
 
-## [29. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [28. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Syntax
 
@@ -372,13 +362,13 @@
 *   [Markdown](https://atom.io/packages/language-markdown)
 *   [Pug](https://atom.io/packages/language-pug)
 
-## [30. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [29. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Free Content
 
 *   [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
 
-## [31. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [30. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Animation
 
@@ -390,19 +380,19 @@
 
 
 
-## [32. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [31. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Sample Applications / Miscellaneous
 
 *   [eta-2048 (⭐28)](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
 
-## [33. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [32. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Software
 
 *   [Spin up PySpark and PySparkling on AWS (⭐8)](https://github.com/kcrandall/EMR_Spark_Automation)
 
-## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Books
 
@@ -413,7 +403,7 @@
 
 *   [LearnPhoenix.tv](https://www.learnphoenix.tv/) - Learn how to build fast, dependable web apps with Phoenix.
 
-## [35. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [34. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
@@ -421,17 +411,17 @@
 *   [Giving Feedback, Praise, and Advice](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Giving-Feedback-Praise-and-Advice.md)
 *   [Motivation and “Retention”](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Motivation-Retention.md)
 
-## [36. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [35. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
-*   [Preact CLI PostCSS (⭐15)](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
+*   [Preact CLI PostCSS (⭐16)](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
 
 ### Contents / Testing Utils
 
-*   [Preact Render Spy (⭐178)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
+*   [Preact Render Spy (⭐179)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
-## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
@@ -449,7 +439,7 @@
 
 *   [SwiftValidator (⭐1.4k)](https://github.com/SwiftValidatorCommunity/SwiftValidator) - A rule-based validation library.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -463,9 +453,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-money (⭐747)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
+*   [v-money (⭐751)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
-## [39. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
+## [38. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
 ### Principles within bigger Design Systems
 
@@ -475,17 +465,17 @@
 *   [Shopify Polaris Principles](https://polaris.shopify.com/principles/principles#app)
 *   [U.S. Web Design Principles](https://standards.usa.gov/design-principles/)
 
-## [40. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Community Resources
 
 *   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐102)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
 
-## [41. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [40. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
-- Name: [Voten (⭐1.2k)](https://github.com/voten-co/voten)
+- Name: [Voten (⭐1.3k)](https://github.com/voten-co/voten)
 
   Description: Voten.co is a real-time social bookmarking platform for the 21st century
 
@@ -495,7 +485,7 @@
 
 ### ReactJS
 
-- Name: [How to GraphQL (⭐8.4k)](https://github.com/howtographql/howtographql)
+- Name: [How to GraphQL (⭐8.5k)](https://github.com/howtographql/howtographql)
 
   Description: The Fullstack Tutorial for GraphQL
 
@@ -505,7 +495,7 @@
 
 ### Firebase
 
-- Name: [Fun Retro (⭐914)](https://github.com/funretro/distributed)
+- Name: [Fun Retro (⭐911)](https://github.com/funretro/distributed)
 
   Description: Fun Retro is a distributed retrospective app that is easy and simple to use.
 
@@ -513,13 +503,13 @@
 
 
 
-## [42. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [41. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
 *   [GTFS.html](https://gtfs.pleasantprogrammer.com) - An entirely browser-based tool to view GTFS feeds. Use it to view routes, stops, timetables, etc.
 
-## [43. Guides](/content/NARKOZ/guides/week/README.md)
+## [42. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / API
 

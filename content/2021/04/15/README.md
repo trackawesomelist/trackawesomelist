@@ -83,7 +83,7 @@
 ### Social Networks
 
 *   [FoxQL](https://foxql.com) is a social network that runs on your browser as peer to peer. It does not require any setup or registration.
-    There is no management stuff for checking the content. Users can decide which topics and content will stay in foxql cycle. [foxql-core (⭐167)](https://github.com/foxql/foxql)
+    There is no management stuff for checking the content. Users can decide which topics and content will stay in foxql cycle. [foxql-core (⭐166)](https://github.com/foxql/foxql)
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-it-bigger (⭐184)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
+*   [vue-it-bigger (⭐188)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [ONNX-Scala (⭐115)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
+*   [ONNX-Scala (⭐123)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
 
 ## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

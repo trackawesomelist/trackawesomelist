@@ -25,7 +25,7 @@
 
 ### Scheduling
 
-*   [tasker (⭐44)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
+*   [tasker (⭐45)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ### Shell plugins
 
@@ -59,7 +59,7 @@
 
 ### Images / Barcode
 
-*   [ATGMediaBrowser (⭐201)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+*   [ATGMediaBrowser (⭐204)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

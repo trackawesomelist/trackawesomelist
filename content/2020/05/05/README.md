@@ -20,7 +20,7 @@
 
 ### Browsers / File Sharing
 
-*   [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brave/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brave/brave-browser/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -33,7 +33,7 @@
 ### Bouncers / Self-hosted
 
 *   [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source (⭐1.9k)](https://github.com/znc/znc)) `C++`
-*   [soju](https://git.sr.ht/\~emersion/soju) - A user-friendly IRC bouncer. `Go`
+*   [soju](https://git.sr.ht/~emersion/soju) - A user-friendly IRC bouncer. `Go`
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -116,20 +116,20 @@
 
 ### Date and Time Processing
 
-*   [holidays (⭐754)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐769)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ## [10. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
-*   [HomePWN (⭐730)](https://github.com/ElevenPaths/HomePWN) - Swiss Army Knife for Pentesting of IoT Devices.
+*   [HomePWN (⭐764)](https://github.com/ElevenPaths/HomePWN) - Swiss Army Knife for Pentesting of IoT Devices.
 
 ### Software Tools / Misc Tools
 
-*   [Cotopaxi (⭐313)](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
-*   [dumpflash (⭐245)](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility.
-*   [flashrom (⭐593)](https://github.com/flashrom/flashrom) - Tool for detecting, reading, writing, verifying and erasing flash chips.
-*   [Samsung Firmware Magic (⭐164)](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates.
+*   [Cotopaxi (⭐331)](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
+*   [dumpflash (⭐261)](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility.
+*   [flashrom (⭐679)](https://github.com/flashrom/flashrom) - Tool for detecting, reading, writing, verifying and erasing flash chips.
+*   [Samsung Firmware Magic (⭐178)](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates.
 
 ### Hardware Tools / Misc Tools
 

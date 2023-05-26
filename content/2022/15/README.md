@@ -10,7 +10,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema (⭐26)](https://github.com/omar-dulaimi/prisma-yup-generator)
+*   [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema (⭐35)](https://github.com/omar-dulaimi/prisma-yup-generator)
 
 ## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -30,15 +30,15 @@
 
 ### Applications / System tools
 
-*   [orhun/systeroid (⭐812)](https://github.com/orhun/systeroid) — A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
+*   [orhun/systeroid (⭐969)](https://github.com/orhun/systeroid) — A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐195)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
+*   [orhun/rustypaste (⭐369)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
 
 ### Development tools / Web Servers
 
-*   [git-cliff (⭐5.3k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
+*   [git-cliff (⭐5.6k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -52,7 +52,7 @@
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Text and Natural Language Processing / GPT-3
+### Inbox: Large Language Models / GPT-3
 
 *   [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/)
 
@@ -94,14 +94,13 @@
 *   :earth\_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf\(5\))
 *   :earth\_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 *   :pushpin: [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
-*   :earth\_americas: [Mach-O file format reference (⭐601)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
+*   :earth\_americas: [Mach-O file format reference (⭐636)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 *   :earth\_americas: [MITRE ATT\&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 *   :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 
 ### :books: Literature / Scientific Research
 
 *   :mortar\_board: [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A25193) (June 2020)  :star:
-*   :newspaper: [A close look at a daily dataset of malware samples](https://doi.org/10.1145/3291061) (January 2019)  :star:
 *   :notebook: [Collective classification for packed executable identification](https://doi.org/10.1145/2030376.2030379) (June 2012)
 *   :notebook: [Detection of metamorphic malware packers using multilayered LSTM networks](https://www.springerprofessional.de/en/detection-of-metamorphic-malware-packers-using-multilayered-lstm/18635334) (November 2020)  :star:
 *   :notebook: [DexHunter: Toward extracting hidden code from packed Android applications](https://link.springer.com/chapter/10.1007/978-3-319-24177-7_15) (September 2015)
@@ -113,14 +112,13 @@
 *   :notebook: [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) (November 2007)  :star:
 *   :notebook: RePEF — A system for restoring packed executable file for malware analysis (July 2011)
 *   :mortar\_board: [Robust static analysis of portable executable malware](https://repo.zenk-security.com/Virus-Infections-Detections-Preventions/Robust%20Static%20Analysis%20ofPortable%20ExecutableMalware.pdf) (December 2014)
-*   :notebook: [SATURN - Software deobfuscation framework based on LLVM](https://doi.org/10.1145/3338503.3357721) (November 2019)  :star:
 *   :newspaper: [SCORE: Source code optimization & reconstruction](https://ieeexplore.ieee.org/document/9139493) (July 2020)  :star:
 *   :notebook: [A study of the packer problem and its solutions](https://link.springer.com/chapter/10.1007/978-3-540-87403-4_6) (September 2008)
 *   :newspaper: [UnThemida: Commercial obfuscation technique analysis with a fully obfuscated program](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2622) (July 2018)  :star:
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [MaleX (⭐16)](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
+*   [MaleX (⭐21)](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
 
 ### :package: Packers / Before 2000
 
@@ -150,17 +148,17 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [darkweak/souin (⭐408)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+*   [darkweak/souin (⭐443)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
 ## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [kvrohit/rasmus.nvim (⭐69)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐171)](https://github.com/rsms/sublime-theme) theme.
+*   [kvrohit/rasmus.nvim (⭐82)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme written in Lua ported from [rsms/sublime-theme (⭐179)](https://github.com/rsms/sublime-theme) theme.
 
 ### Utility / Diagnostics
 
-*   [nkakouros-original/numbers.nvim (⭐20)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
+*   [nkakouros-original/numbers.nvim (⭐23)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
 
 ## [17. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -174,11 +172,11 @@
 
 ### Python / Reinforcement Learning
 
-*   [DI-engine (⭐2.3k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+*   [DI-engine (⭐2.5k)](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 
 ### Tools / Misc
 
-*   [milvus](https://milvus.io) – Milvus is [open source (⭐15k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+*   [milvus](https://milvus.io) – Milvus is [open source (⭐18k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
 ## [19. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -209,7 +207,7 @@
 ### Learning / Computer Graphics
 
 *   Awesome Collections
-    *   📚 [Awesome Graphics Libraries (⭐257)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
+    *   📚 [Awesome Graphics Libraries (⭐283)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Curated list of 3D graphics libraries and resources.
 
 ### Libraries / C
 
@@ -229,7 +227,7 @@
 
 ### Libraries / Haxe
 
-*   🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. \[[GitHub (⭐5.4k)](https://github.com/HaxeFoundation/haxe)]
+*   🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. \[[GitHub (⭐5.5k)](https://github.com/HaxeFoundation/haxe)]
 
 ### Libraries / JavaScript
 
@@ -275,17 +273,17 @@
 ### Tools / Software / Audio Tools
 
 *   Music
-    *   🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source (⭐2.9k)](https://github.com/Ardour/ardour)]
-    *   🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source (⭐9.1k)](https://github.com/audacity/audacity)]
+    *   🆓 [Ardour](https://ardour.org) - Record, edit, and mix. \[[Source (⭐3k)](https://github.com/Ardour/ardour)]
+    *   🆓 [Audacity](https://www.audacityteam.org) - Multi-track audio editor and recorder. \[[Source (⭐9.3k)](https://github.com/audacity/audacity)]
     *   🆓 [Bosca Ceoil](https://boscaceoil.net) - Easy to use tool for creating music.
     *   🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
     *   🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. \[[Source (⭐1.2k)](https://github.com/BleuBleu/FamiStudio)]
     *   💸 [fmod](https://www.fmod.com) - Popular (Hades, Celeste, Untitled Goose Game) audio software for games.
-    *   🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. \[[Source (⭐6.5k)](https://github.com/lmms/lmms)]
+    *   🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. \[[Source (⭐6.7k)](https://github.com/lmms/lmms)]
     *   🆓 [PixiTracker](https://warmplace.ru/soft/pixitracker/) - Quickly create musical sketches, chiptunes and sound experiments.
-    *   🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. \[[Source (⭐407)](https://github.com/mbitsnbites/soundbox)]
+    *   🆓 [Sound Box](https://sb.bitsnbites.eu) - Compose synthetic music in your browser, good for small demos. \[[Source (⭐411)](https://github.com/mbitsnbites/soundbox)]
     *   🆓 [SunVox](https://warmplace.ru/soft/sunvox/) - Powerful [modular synthesizer](https://en.wikipedia.org/wiki/Modular_synthesizer) with pattern-based sequencer ([tracker](https://en.wikipedia.org/wiki/Music_tracker)).
-    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source (⭐363)](https://github.com/keithclark/ZzFXM)]
+    *   🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. \[[Source (⭐369)](https://github.com/keithclark/ZzFXM)]
 
 ### Tools / Software / Color / Palettes
 
@@ -293,11 +291,11 @@
 
 ### Tools / Software / Image Editors
 
-*   🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source (⭐3.8k)](https://github.com/GNOME/gimp)]
+*   🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. \[[Source (⭐3.9k)](https://github.com/GNOME/gimp)]
 
 ### Tools / Software / Materials / Textures
 
-*   🆓 [ArmorLab](https://armorlab.org) - Generate PBR materials by drag & dropping your photos. \[[Source (⭐176)](https://github.com/armory3d/armorlab)]
+*   🆓 [ArmorLab](https://armorlab.org) - Generate PBR materials by drag & dropping your photos. \[[Source (⭐173)](https://github.com/armory3d/armorlab)]
 
 ### Tools / Software / Modeling Tools
 
@@ -309,11 +307,11 @@
 
 ### Tools / Software / Pixel Art
 
-*   💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source (⭐20k)](https://github.com/aseprite/aseprite)]
+*   💸 [Aseprite](https://www.aseprite.org) - Animated sprite editor and pixel art tool. \[[Source (⭐21k)](https://github.com/aseprite/aseprite)]
 
 ### Tools / Software / Vector Editors
 
-*   🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source (⭐1.5k)](https://github.com/inkscape/inkscape)]
+*   🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. \[[Source (⭐1.6k)](https://github.com/inkscape/inkscape)]
 
 ### Video Game Assets / Graphic Assets
 
@@ -338,21 +336,19 @@
 ### Overview / YouTube
 
 *   [YouTube.js (⭐2.5k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
-*   [oleksis/youtube-dl-gui (⭐912)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+*   [oleksis/youtube-dl-gui (⭐974)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### Overview / Google Translate
 
-*   [Crow Translate (⭐1.1k)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+*   [Crow Translate (⭐1.2k)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
 ### Overview / Mastodon
 
-*   [Pinafore (⭐1k)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
-*   [Sengi (⭐419)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
-*   [TheDesk (⭐235)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
-*   [Tootle (⭐405)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+*   [Sengi (⭐427)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
+*   [TheDesk (⭐238)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
 *   [Tusky (⭐2k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
-*   [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
-*   [Hyperspace (⭐177)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+*   [Pinafore (⭐1k)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity **[Unmaintained](https://nolanlawson.com/2023/01/09/retiring-pinafore/)**
+*   [Hyperspace (⭐178)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **[In maintenance mode (⭐178)](https://github.com/hyperspacedev/hyperspace/issues/232)**
 
 ### Overview / Telegram
 
@@ -389,11 +385,11 @@
 
 ### Changeset Tools / Web Services
 
-*   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐37)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
+*   [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code (⭐38)](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
 *   [Osm Change Viz](https://resultmaps.neis-one.org/osm-change-viz) - Changeset visualizer displaying information about added/modified/deleted elements in different panels.
 *   [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changes in selected changesets. Used in OsmCha. ([Source Code (⭐31)](https://github.com/osmlab/changeset-map))
-*   [OSM History Viewer](https://osmhv.openstreetmap.de/) - Changeset visualization. ([Source Code (⭐7)](https://github.com/osmrmhv/osmrmhv))
-*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐64)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
+*   [OSM History Viewer](https://osmhv.openstreetmap.de/) - Changeset visualization. ([Source Code (⭐8)](https://github.com/osmrmhv/osmrmhv))
+*   [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.  ([Source Code (⭐63)](https://github.com/simon04/whodidit) / [Wiki](https://wiki.openstreetmap.org/wiki/Quality_assurance#WhoDidIt))
 *   [Osm Change Tiles](https://resultmaps.neis-one.org/osm-change-tiles) - Map highlighting recent edits per tile. Provides RSS feeds for watching changes in custom bounding boxes.
 *   [Analytic OSM Tracker (⭐37)](https://github.com/MichaelVL/osm-analytic-tracker)[^selfhosted-only] - Tracker for changesets in your region.
 *   [Suspicious OSM Changesets](https://resultmaps.neis-one.org/osm-suspicious) - Find suspicious OSM changesets.
@@ -420,7 +416,7 @@
 
 ### IR Tools Collection / Evidence Collection
 
-*   [UAC (⭐370)](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+*   [UAC (⭐411)](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 
 ## [27. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -436,19 +432,19 @@
 
 ### Communication
 
-*   [Mailsy (⭐17)](https://github.com/BalliAsghar/mailsy-alfred) - Quickly generate a disposable email.
-*   [Slack (⭐306)](https://github.com/yannickglt/alfred-slack) - Alfred workflow to interact, and perform various functions with the service Slack.
-*   [TemporaryEmail (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox.
+*   [Mailsy (⭐19)](https://github.com/BalliAsghar/mailsy-alfred) - Quickly generate a disposable email.
+*   [Slack (⭐317)](https://github.com/yannickglt/alfred-slack) - Alfred workflow to interact, and perform various functions with the service Slack.
+*   [TemporaryEmail (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox.
 
 ### Developer
 
-*   [AWS Console Services (⭐287)](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
-*   [Bootstrap Icons (⭐17)](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - Quickly look up Bootstrap Icons and add the desired one to your clipboard.
-*   [caniuse.rs (⭐6)](https://github.com/robjtede/alfred-caniuse-rs) - Rust feature support and version info from [caniuse.rs](https://caniuse.rs).
+*   [AWS Console Services (⭐304)](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
+*   [Bootstrap Icons (⭐19)](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - Quickly look up Bootstrap Icons and add the desired one to your clipboard.
+*   [caniuse.rs (⭐7)](https://github.com/robjtede/alfred-caniuse-rs) - Rust feature support and version info from [caniuse.rs](https://caniuse.rs).
 
 ### Productivity
 
-*   [Timing (⭐27)](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
+*   [Timing (⭐30)](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
 
 ### Other Lists
 
@@ -458,11 +454,11 @@
 
 ### Proprietary (non-standard) vendor APIs
 
-*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia (⭐391)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
+*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia (⭐395)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
 
 ### Software for Creating APIs
 
-*   [Navitia (⭐391)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
+*   [Navitia (⭐395)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
 
 ### GTFS Converters / Ruby
 
@@ -510,13 +506,13 @@
 ### Libraries/Frameworks / Graphics
 
 *   [java-opengl-labs/learn-OpenGL (⭐35)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
-*   [kotlin-graphics/bullet (⭐39)](https://github.com/kotlin-graphics/bullet) - bullet port
+*   [kotlin-graphics/bullet (⭐38)](https://github.com/kotlin-graphics/bullet) - bullet port
 
 ## [33. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
-### Integration
+### Integration / Community
 
-*   [PHP SDK (⭐21)](https://github.com/alantiller/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
+*   [PHP SDK (⭐24)](https://github.com/alantiller/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
 
 ## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -561,13 +557,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [nodo (⭐4)](https://github.com/nicolodiamante/nodo) - This plugin helps you prevent `node_modules` directories from filling your iCloud storage by un-syncing the directory or can save even more space by removing all `node_modules` directories within the chosen root directory.
-*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
-*   [silverstein-quotes (⭐0)](https://github.com/silversteinsoftware/silverstein_quotes) - Show a random quote from a Silverstein song during shell startup.
+*   [nodo (⭐5)](https://github.com/nicolodiamante/nodo) - This plugin helps you prevent `node_modules` directories from filling your iCloud storage by un-syncing the directory or can save even more space by removing all `node_modules` directories within the chosen root directory. This is particularly useful for cleaning up a project that has multiple node\_modules trees
+*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
+*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 *   [ortiz (andres-ortizl) (⭐4)](https://github.com/andres-ortizl/ortiz-zsh-theme) - Fork of [eriner (⭐13)](https://github.com/zimfw/eriner) with decorations for the interval between commands and k8s context.
 
 ## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
@@ -591,19 +586,19 @@
 
 ### Templates / React
 
-*   [chrome-extension-boilerplate-react-vite (⭐389)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
-*   [vite-ant-design-pro (⭐48)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
-*   [vite-react-proste (⭐8)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
+*   [chrome-extension-boilerplate-react-vite (⭐600)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
+*   [vite-ant-design-pro (⭐66)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [vite-react-proste (⭐10)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ### Electron / Integrations
 
-*   [electron-vite (⭐616)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+*   [electron-vite (⭐937)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 ## [40. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Desktop
 
-*   [Whoami Project (⭐1.5k)](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.
+*   [Whoami Project (⭐1.6k)](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.
 
 ### Decentralized
 
@@ -616,15 +611,15 @@
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
 *   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
-*   [Kernel (⭐72)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐3)](https://github.com/slow/discord-utilities) package to block trackers.
-*   [WebCord (⭐978)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐2.1k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐2.1k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
+*   [Kernel (⭐74)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐3)](https://github.com/slow/discord-utilities) package to block trackers.
+*   [WebCord (⭐1.2k)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐2.4k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐2.4k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
 ## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [ydl\_api\_ng (⭐54)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
+*   [ydl\_api\_ng (⭐69)](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 
 ### Software / Blogging Platforms
 
@@ -632,11 +627,11 @@
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 
-*   [AgenDAV](https://agendav.github.io/agendav/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code (⭐547)](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
+*   [AgenDAV](https://agendav.github.io/agendav/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code (⭐561)](https://github.com/agendav/agendav)) `GPL-3.0` `PHP`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([Source Code (⭐9.5k)](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`
+*   [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([Source Code (⭐10k)](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -648,23 +643,23 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code (⭐13k)](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`
+*   [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code (⭐14k)](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`
 
 ### Software / Note-taking & Editors
 
-*   [Livebook](https://livebook.dev) - Realtime collaborative notebook app based on Markdown that supports running Elixir codesnippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir. ([Source Code (⭐3.4k)](https://github.com/livebook-dev/livebook)) `Apache-2.0` `Elixir`
+*   [Livebook](https://livebook.dev) - Realtime collaborative notebook app based on Markdown that supports running Elixir codesnippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir. ([Source Code (⭐3.5k)](https://github.com/livebook-dev/livebook)) `Apache-2.0` `Elixir`
 
 ### Software / Photo and Video Galleries
 
-*   [MediaHut (⭐17)](https://github.com/Fortyseven/MediaHut/) - A truly single-file, no-database, drop-in PHP media gallery. ([Demo](https://media.Network47.org/)) `MIT` `PHP`
+*   [MediaHut (⭐19)](https://github.com/Fortyseven/MediaHut/) - A truly single-file, no-database, drop-in PHP media gallery. ([Demo](https://media.Network47.org/)) `MIT` `PHP`
 
 ### Software / Software Development - Localization
 
-*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. ([Source Code (⭐649)](https://github.com/tolgee/server)) `Apache-2.0` `Docker/Java`
+*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. ([Source Code (⭐719)](https://github.com/tolgee/server)) `Apache-2.0` `Docker/Java`
 
 ### Software / Ticketing
 
-*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐167)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl`
+*   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐179)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl`
 *   [Roundup Issue Tracker](https://www.roundup-tracker.org/) - A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ([Source Code](https://www.roundup-tracker.org/code.html)) `MIT/ZPL-2.0` `Python`
 
 ## [42. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
@@ -679,17 +674,17 @@
 
 ### Other Tools / Telegram
 
-*   [Sub3 Suite (⭐329)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Sub3 Suite (⭐342)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [43. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
-*   [zx (⭐36k)](https://github.com/google/zx) - Write shell scripts JavaScript.
+*   [zx (⭐37k)](https://github.com/google/zx) - Write shell scripts JavaScript.
 
 ### Packages / Job queues
 
-*   [bullmq (⭐3.3k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
+*   [bullmq (⭐3.8k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
 ## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -718,7 +713,7 @@
 
 ### Contents / Media
 
-*   [Movies App (⭐146)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
+*   [Movies App (⭐158)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 
 ## [46. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -758,16 +753,16 @@
 
 ### Projects
 
-*   [Crabtyper (⭐187)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
+*   [Crabtyper (⭐186)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 
 ### Templates
 
-*   [axum-yew-setup (⭐99)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
-*   [rust-yew-axum-tauri-desktop (⭐65)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
+*   [axum-yew-setup (⭐102)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
+*   [rust-yew-axum-tauri-desktop (⭐67)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 
 ### Crates / Component Libraries
 
-*   [tailyew (⭐13)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+*   [tailyew (⭐14)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
 ## [48. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 

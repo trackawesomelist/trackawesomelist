@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,6 @@
 
 ### Computer Vision
 
-*   [clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
 *   [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 *   [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 
@@ -27,8 +26,8 @@
 
 ### Community
 
-*   [GitHub (⭐102k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐102k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐106k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐106k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -36,7 +35,7 @@
 
 ### Extensions
 
-*   [Next-Pkg (⭐59)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐23k)](https://github.com/vercel/pkg) support.
+*   [Next-Pkg (⭐62)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐23k)](https://github.com/vercel/pkg) support.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -48,45 +47,37 @@
 
 ### Applications / Utilities
 
-*   [vamolessa/verco (⭐216)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] — A simple Git/Hg tui client focused on keyboard shortcuts
+*   [vamolessa/verco (⭐220)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] — A simple Git/Hg tui client focused on keyboard shortcuts
 
 ## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Icons
 
 *   [svelte-simple-icons (⭐13)](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
-*   [svelte-awesome (⭐376)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
+*   [svelte-awesome (⭐397)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### BETA / Non-X86
-
-*   [MIA 90-02: BETA Compiler - Reference Manual](https://beta.cs.au.dk/Manuals/latest/compiler/index.html) - Mjølner Informatics
-*   [MIA 94-26: BETA Language Introduction - Tutorial](https://beta.cs.au.dk/Manuals/latest/beta-intro/index.html) - Mjølner Informatics
-*   [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
-
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Svelte (⭐849)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+*   [Svelte (⭐901)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 
-## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Infinite Scroll
 
-*   [@egjs/react-infinitegrid (⭐1.5k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
+*   [@egjs/react-infinitegrid (⭐1.6k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
 
 ### Notification
 
-*   [react-toast (⭐59)](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs (⭐59)](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
+*   [react-toast (⭐63)](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs (⭐63)](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 
 ### Miscellaneous
 
-*   [fastcomments-react (⭐4)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
-*   [react-pulse-text (⭐12)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
+*   [fastcomments-react (⭐6)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
+*   [react-pulse-text (⭐13)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
 
-## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Computer Vision
 
@@ -96,37 +87,37 @@
 
 *   [jsweet (⭐1.4k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
 *   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 
-## [11. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [10. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Articles / XML
 
 *   [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### LSP Language Server Protocol Implementations
 
-*   [scry (⭐331)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+*   [scry (⭐335)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
-## [14. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Miscellaneous
 
-*   [termd (⭐54)](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [termd (⭐59)](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
-## [15. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [14. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Tutorials / Other Tools
 

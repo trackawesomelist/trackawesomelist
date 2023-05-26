@@ -21,7 +21,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Streamz (⭐1.1k)](https://github.com/python-streamz/streamz) \[Python] - A lightweight library for building pipelines to manage continuous streams of data; supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on.
+*   [Streamz (⭐1.2k)](https://github.com/python-streamz/streamz) \[Python] - A lightweight library for building pipelines to manage continuous streams of data; supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on.
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐104)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐111)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -67,22 +67,22 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐288)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐300)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Text Editors
 
-*   [micro (⭐21k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
+*   [micro (⭐22k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 
 ### Productivity / Time Tracking
 
-*   [Timewarrior (⭐915)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
-*   [Watson (⭐2.2k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
+*   [Timewarrior (⭐973)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+*   [Watson (⭐2.3k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 
 ### Files and Directories / Search
 
-*   [fd (⭐26k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+*   [fd (⭐27k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## [9. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
@@ -103,11 +103,11 @@
 
 ### Multimedia content processing
 
-*   [libear (⭐17)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
+*   [libear (⭐18)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
 
 ### Radio Production
 
-*   [Rivendell (⭐152)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
+*   [Rivendell (⭐154)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
 ## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -540,7 +540,7 @@
 
 ### Resources / Controllers
 
-*   [sdl2gdx (⭐58)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
+*   [sdl2gdx (⭐60)](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
 
 ### Resources / Setup and Deployment
 
@@ -548,13 +548,13 @@
 
 ### Resources / Visual Effects
 
-*   [Shape Drawer (⭐162)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+*   [Shape Drawer (⭐163)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
 ## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Large scale Vue.js application boilerplate + Vuex (⭐262)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
+*   [Large scale Vue.js application boilerplate + Vuex (⭐263)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
 
 ## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -574,7 +574,7 @@
 
 ### Software Tools / Support Tools
 
-*   [JTAGenum (⭐526)](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
+*   [JTAGenum (⭐591)](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
 *   [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing.
 
 ### Hardware Tools / Misc Tools
@@ -585,9 +585,9 @@
 
 ### Free Training / RFID NFC Tools
 
-*   [Hardware Hacking 101 (⭐35)](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
-*   [IoTGoat (⭐170)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
-*   [Rhme-2015 (⭐99)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
+*   [Hardware Hacking 101 (⭐36)](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
+*   [IoTGoat (⭐173)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
+*   [Rhme-2015 (⭐103)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 
 ## [19. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -613,11 +613,11 @@
 
 ### Icons
 
-*   [iconify-react (⭐184)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐186)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
-*   [react-awesome-stars-rating (⭐21)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+*   [react-awesome-stars-rating (⭐22)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
 ## [21. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -629,7 +629,7 @@
 
 ### General Libraries
 
-*   [Alcinoe](http://sourceforge.net/projects/alcinoe) ([mirror at GH (⭐831)](https://github.com/Zeus64/alcinoe)). `[Delphi]` Library of visual and non-visual components for Delphi.
+*   [Alcinoe](http://sourceforge.net/projects/alcinoe) ([mirror at GH (⭐866)](https://github.com/Zeus64/alcinoe)). `[Delphi]` Library of visual and non-visual components for Delphi.
     // *Network: FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients; DB: Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL; XML/JSON Parser; ZLIB; Cryptography: AES, Blowfish, MD5, SHA, secure keyed MD5/SHA; opengl video player; FireMonkey controls; Other: Self-Balancing Binary Trees, expression evaluator*
 
 ## [23. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
@@ -734,7 +734,7 @@
 
 ### Async
 
-*   [LinqToAwait ★99 (⭐112)](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
+*   [LinqToAwait ★99 (⭐114)](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
 
 ### MVVM
 
@@ -742,11 +742,11 @@
 
 ### Tools
 
-*   [IconFont2Code ★52 (⭐235)](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
+*   [IconFont2Code ★52 (⭐253)](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
 
 ### UI
 
-*   [Essential UI Kit ★130 (⭐981)](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
+*   [Essential UI Kit ★130 (⭐1k)](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 
 ## [32. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
@@ -763,8 +763,8 @@
 
 ### Automation / Code libraries and bindings
 
-*   [MultiScanner (⭐573)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
-*   [libcrafter (⭐287)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
+*   [MultiScanner (⭐583)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
+*   [libcrafter (⭐288)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
 
 ### Security monitoring / Service and performance monitoring
 
@@ -784,7 +784,7 @@
 
 ### Files / Runner
 
-*   [PDF.js (⭐41k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐42k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

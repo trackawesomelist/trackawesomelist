@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,14 +22,14 @@
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [VAST (⭐432)](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
+*   [VAST (⭐463)](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
 *   [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
 
 ## [4. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Code Libraries / Video Lectures and Online Courses
+### Code Libraries
 
-*   [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code (⭐154)](https://github.com/kormilitzin/med7) - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
+*   [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code (⭐168)](https://github.com/kormilitzin/med7) - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Tools
 
-*   [k6 generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [k6 generator (⭐16k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -90,25 +90,19 @@
 
 *   [WslShortcut](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL `git`/`node`/etc. in **Visual Studio Code** or another software. Combines functionality of utilities like [`wslgit`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/andy-5/wslgit), [`wslnodejs`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/snooopcatt/wslnodejs), [`wslexec`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/int128/wslexec) etc. with simpler usage. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [11. Awesome Preact](/content/preactjs/awesome-preact/README.md)
-
-### Contents / Example Apps
-
-*   [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) *([GitHub Project (⭐6)](https://github.com/safdarjamal/vanilla-preact/))*.
-
-## [12. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [11. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Networks
 
 *   [Corda Pre-Production Network](https://corda.network/participation/preprod.html) - A UAT network providing a pre-production environment run by the Corda Network Foundation.
 
-## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Tutorials / Terraform
 
 *   [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Weather
 
@@ -124,13 +118,13 @@
 
 
 
-## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
 
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Graphics
 

@@ -22,7 +22,7 @@
 
 ### UI / Barcode
 
-*   [GMStepper (⭐916)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [GMStepper (⭐924)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

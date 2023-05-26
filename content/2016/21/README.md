@@ -23,7 +23,6 @@
 ### Datasets / Topic-specific
 
 *   [Network Repository](http://networkrepository.com/) - Fully searchable database containing hundreds of real-world networks.
-*   [Nexus](http://nexus.igraph.org/) - Repository of network datasets in GraphML and igraph formats.
 *   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - Network data obtained through the [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
 *   [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets) - Network data in UCINET format.
 
@@ -125,15 +124,15 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 ### Build Tools / Bare metal / kernel development
 
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-*   [reggae (⭐160)](https://github.com/atilaneves/reggae) - meta build system in D
-*   [Makefile (⭐21)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐59)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [reggae (⭐163)](https://github.com/atilaneves/reggae) - meta build system in D
+*   [Makefile (⭐20)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
+*   [cmake-d (⭐63)](https://github.com/dcarp/cmake-d) - CMake D Projects
 *   [cook2 (⭐25)](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 
 ### Containers / Bare metal / kernel development
 
-*   [memutils (⭐39)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-*   [dlib.container (⭐212)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+*   [memutils (⭐40)](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+*   [dlib.container (⭐209)](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 *   [std.rcstring (⭐9)](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ### Data serialization / XML
@@ -147,8 +146,8 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Image Processing / XML
 
-*   [dlib.image (⭐212)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
-*   [color.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐481)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+*   [dlib.image (⭐209)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+*   [color.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐489)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ### Logging / Language Processing
 
@@ -156,7 +155,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Configuration / Language Processing
 
-*   [inifile-D (⭐24)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+*   [inifile-D (⭐23)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -168,7 +167,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### CLI Builders
 
-*   [commander (⭐124)](https://github.com/mrrooijen/commander) - Command-line interface builder
+*   [commander (⭐126)](https://github.com/mrrooijen/commander) - Command-line interface builder
 
 ### Misc
 
@@ -176,7 +175,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐751)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐754)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ### Web Frameworks
 
@@ -586,7 +585,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Framework Components
 
-*   [dayron (⭐156)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐158)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

@@ -27,16 +27,16 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐413)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
+*   [Androwarn (⭐441)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
-*   [Androl4b (⭐993)](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+*   [Androl4b (⭐1k)](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 
 ### Tools / Market Crawlers
 
-*   [Google play crawler (Node) (⭐265)](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
+*   [Google play crawler (Node) (⭐264)](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
 
 ### Academic/Research/Publications/Books / Research Papers
 
@@ -44,26 +44,17 @@
 
 ### Academic/Research/Publications/Books / Others
 
-*   [OWASP Mobile Security Testing Guide Manual (⭐9.5k)](https://github.com/OWASP/owasp-mstg)
+*   [OWASP Mobile Security Testing Guide Manual (⭐10k)](https://github.com/OWASP/owasp-mstg)
 
 ## [4. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### General Tools
 
 *   [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
-*   [MoviePy](http://zulko.github.io/moviepy/) - Python module for video editing.
 
 ### Utilities
 
-*   [Gifshot (⭐3.9k)](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
-
-### GUI / Swift
-
-*   [VineGifR (⭐83)](https://github.com/caraesten/VineGifR) - Mac app to turn Vine videos into GIFs
-
-### License / Grabbing each frame of an HTML5 Canvas
-
-*   Copyright © 2017+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+*   [Gifshot (⭐3.9k)](https://github.com/yahoo/gifshot) - Create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
 
 ## [5. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -106,8 +97,8 @@
 
 *   [Gophish](https://getgophish.com/) - Powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing.
 *   [King Phisher (⭐1.9k)](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
-*   [NotifySecurity (⭐118)](https://github.com/certsocietegenerale/NotifySecurity) - Outlook add-in used to help your users to report suspicious e-mails to security teams.
-*   [Swordphish (⭐198)](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails.
+*   [NotifySecurity (⭐121)](https://github.com/certsocietegenerale/NotifySecurity) - Outlook add-in used to help your users to report suspicious e-mails to security teams.
+*   [Swordphish (⭐205)](https://github.com/certsocietegenerale/swordphish-awareness) - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails.
 
 ## [9. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
@@ -307,13 +298,13 @@
 
 ### Software Tools / Analysis Tools
 
-*   [Firmadyne (⭐1.5k)](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
-*   [Trommel (⭐190)](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
+*   [Firmadyne (⭐1.6k)](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
+*   [Trommel (⭐196)](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
 ### Software Tools / Extraction Tools
 
-*   [FACT Extractor (⭐52)](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
-*   [Firmware Mod Kit (⭐599)](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
+*   [FACT Extractor (⭐62)](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
+*   [Firmware Mod Kit (⭐686)](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
 
 ### Hardware Tools / Misc Tools
 
@@ -329,7 +320,7 @@
 *   2017, Costin et al: [Towards Automated Classification of Firmware Images and Identification of Embedded Devices](http://s3.eurecom.fr/docs/ifip17_costin.pdf)
 *   2016, Chen et al: [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.dcddcc.com/docs/2016_paper_firmadyne.pdf)
 *   2016, Costin et al: [Automated Dynamic Firmware Analysis at Scale: A Case Study on Embedded Web Interfaces](http://s3.eurecom.fr/docs/asiaccs16_costin.pdf)
-*   2015, Papp et al: [Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy](http://www.cse.psu.edu/\~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf)
+*   2015, Papp et al: [Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy](http://www.cse.psu.edu/~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf)
 *   2014, Alimi et al: [Analysis of embedded applications by evolutionary fuzzing](http://ieeexplore.ieee.org/document/6903734/)
 *   2013, Davidson et al: [FIE on Firmware: Finding Vulnerabilities in Embedded Systems using Symbolic Execution](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf)
 
@@ -386,11 +377,11 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐444)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐453)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ### Web Servers
 
-*   [Agoo (⭐826)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐837)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [19. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -402,7 +393,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [kitty (⭐18k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [kitty (⭐19k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
 
@@ -410,7 +401,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Dozer (⭐6.9k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
+*   [Dozer (⭐7k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
 
 ### Utilities / File Organization Tools
 
@@ -475,13 +466,20 @@
 *   [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
 *   [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
 
-## [25. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [25. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Component Libraries
+
+*   [react-bootstrap (⭐22k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
+*   [reactstrap (⭐10k)](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap components
+
+## [26. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Tables / Paid Books
 
 *   [jquery.table-shrinker (⭐29)](https://github.com/VagnerDomingues/jquery.table-shrinker) - make HTML Table responsive across all devices, the right way!
 
-## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [27. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / HTTP
 
@@ -523,7 +521,7 @@
 
 *   [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 
-## [27. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [28. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Components
 
@@ -533,7 +531,7 @@
 
 *   [Guide - Real World Halogen](https://thomashoneyman.com/guides/real-world-halogen)
 
-## [28. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [29. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Network Traffic Replay and Editing Tools
 
@@ -549,7 +547,7 @@
 
 *   [Vulmon](https://vulmon.com/) - Vulnerability search engine with vulnerability intelligence features that conducts full text searches in its database.
 
-## [29. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [30. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Datasets / Raw Images
 
@@ -567,19 +565,19 @@
 *   Unpublished - Cell painting profiles of 596 overexpressed alleles from 53 genes in A549 cells (Access from public S3 bucket: `s3://cytodata/datasets/LUAD-BBBC043-Caicedo/profiles_cp/LUAD-BBBC043-Caicedo/`)
 *   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐29)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
-## [30. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [31. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Comments
 
 *   [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
 
-## [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [32. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Artificial Intelligence / Machine Learning / Big Data / Angular
 
 *   [The ML Engineer Newsletter](https://ethical.institute/mle.html). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 
-## [32. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [33. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Libraries and Frameworks
 
@@ -593,7 +591,7 @@
 
 *   [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 
-## [33. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [34. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Introductions
 
@@ -649,19 +647,19 @@
 *   [kody (⭐134)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 
-## [34. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### SDK / Other
 
-*   [Square Node.js SDK (⭐82)](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
+*   [Square Node.js SDK (⭐81)](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
 
-## [35. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [36. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [The Quantum Katas (⭐4k)](https://github.com/Microsoft/QuantumKatas)
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### General
 
@@ -685,17 +683,6 @@
 
 *   [Atata (⭐441)](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. <https://atata.io>
 *   [SpecFlow (⭐2k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
-
-## [37. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Tools / React Component Libraries
-
-*   [react-bootstrap (⭐21k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-*   [reactstrap (⭐10k)](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
-
-### React Tools / React Libraries
-
-*   [react-esi (⭐631)](https://github.com/dunglas/react-esi) - React Edge Side Includes
 
 ## [38. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -722,7 +709,7 @@
 
 ### Software / Wikis
 
-*   [django-wiki (⭐1.6k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
+*   [django-wiki (⭐1.7k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
 
 ## [41. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -781,11 +768,11 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Analytics (⭐119)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
+*   [Blazor Analytics (⭐121)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 *   [BlazorPrettyCode (⭐35)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
-*   [Blazor.EventAggregator (⭐101)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
-*   [Blazor Gamepad (⭐20)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
-*   [Blazor.LocalFiles (⭐45)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
+*   [Blazor.EventAggregator (⭐104)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
+*   [Blazor Gamepad (⭐23)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
+*   [Blazor.LocalFiles (⭐46)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 *   [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) – A barcode library for Blazor using barcode fonts.
 
 ## [44. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
@@ -798,11 +785,11 @@
 
 ### Development / Database
 
-*   [sqlline (⭐546)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐566)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐5.4k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐5.8k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [46. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -821,7 +808,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Laravel File Manager (⭐958)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
+*   [Laravel File Manager (⭐978)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
 ## [48. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
@@ -839,13 +826,13 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [brooklin (⭐814)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
+*   [brooklin (⭐825)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
 
 ### Table of Contents / Online Machine Learning
 
-*   [streamDM (⭐480)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
+*   [streamDM (⭐483)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
 *   [StormCV (⭐170)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
-*   [trident-ml (⭐382)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
+*   [trident-ml (⭐381)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐104)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
 
 ## [51. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
@@ -865,8 +852,8 @@
 ### Inspired by Elm / Games
 
 *   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
-*   [Elmish (⭐714)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
-*   [Fabulous (⭐975)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
+*   [Elmish (⭐745)](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
+*   [Fabulous (⭐1k)](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
 *   [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 
 ### Beyond the DOM / Games

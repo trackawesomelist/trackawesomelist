@@ -65,7 +65,7 @@
 
 ### 3D / MIT
 
-*   [ada-doom-3 (⭐240)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+*   [ada-doom-3 (⭐242)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Multimedia / MIT
 

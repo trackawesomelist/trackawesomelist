@@ -12,14 +12,14 @@
 
 *   General
     *   [gensim (⭐14k)](https://github.com/RaRe-Technologies/gensim) - Topic Modeling for Humans.
-    *   [langid.py (⭐2k)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
+    *   [langid.py (⭐2.1k)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
     *   [nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
     *   [pattern (⭐8.4k)](https://github.com/clips/pattern) - A web mining module.
     *   [polyglot (⭐2.1k)](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
     *   [pytext (⭐6.4k)](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
-    *   [PyTorch-NLP (⭐2.1k)](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
+    *   [PyTorch-NLP (⭐2.2k)](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
     *   [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
-    *   [Stanza (⭐6.4k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
+    *   [Stanza (⭐6.5k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 
 ## [2. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Network Protocols
 
-*   [amqp-client.cr (⭐61)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
+*   [amqp-client.cr (⭐62)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Miscellaneous
 
-*   [Web Archiving (⭐1.4k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+*   [Web Archiving (⭐1.5k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
 ---
 

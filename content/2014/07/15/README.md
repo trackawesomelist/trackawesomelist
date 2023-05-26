@@ -25,11 +25,11 @@
 
 ### Python / Natural Language Processing
 
-*   [SnowNLP (⭐6k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
+*   [SnowNLP (⭐6.1k)](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 
 ### Python / General-Purpose Machine Learning
 
-*   [pattern (⭐8.4k)](https://github.com/clips/pattern) - Web mining module for Python.
+*   [pattern (⭐8.5k)](https://github.com/clips/pattern) - Web mining module for Python.
 *   [NuPIC (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 *   [PyBrain (⭐2.8k)](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 *   [python-recsys (⭐1.5k)](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
@@ -37,10 +37,10 @@
 ### Python / Data Analysis / Data Visualization
 
 *   [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
-*   [PyMC (⭐7.3k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
+*   [PyMC (⭐7.5k)](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 *   [zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
-*   [SymPy (⭐10k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
-*   [statsmodels (⭐8.2k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
+*   [SymPy (⭐11k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [statsmodels (⭐8.4k)](https://github.com/statsmodels/statsmodels) - Statistical modelling and econometrics in Python.
 *   [Kartograph.py (⭐1k)](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
@@ -49,8 +49,8 @@
 *   [thinking stats 2 (⭐8)](https://github.com/Wavelets/ThinkStats2)
 *   [hyperopt (⭐1.4k)](https://github.com/hyperopt/hyperopt-sklearn)
 *   [numpic (⭐6.3k)](https://github.com/numenta/nupic)
-*   [ipython-notebooks (⭐555)](https://github.com/ogrisel/notebooks)
-*   [decision-weights (⭐32)](https://github.com/CamDavidsonPilon/decision-weights)
+*   [ipython-notebooks (⭐554)](https://github.com/ogrisel/notebooks)
+*   [decision-weights (⭐33)](https://github.com/CamDavidsonPilon/decision-weights)
 
 ### Ruby / Data Analysis / Data Visualization
 
@@ -60,11 +60,11 @@
 
 *   [ScalaNLP](http://www.scalanlp.org/) - ScalaNLP is a suite of machine learning and numerical computing libraries.
 *   [Breeze (⭐3.4k)](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
-*   [FACTORIE (⭐553)](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
+*   [FACTORIE (⭐555)](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐158k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐167k)](https://github.com/vinta/awesome-python)
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Packages / Command-line utilities
 
-*   [drawille (⭐979)](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
+*   [drawille (⭐987)](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 
 ---
 

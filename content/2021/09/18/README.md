@@ -34,7 +34,7 @@
 
 ### Games / Text
 
-*   [Dynamic Dark Mode (⭐451)](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Dynamic Dark Mode (⭐461)](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ## [6. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -62,19 +62,19 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [prisma-sequelize-generator (⭐8)](https://github.com/floydspace/prisma-sequelize-generator)
+*   [prisma-sequelize-generator (⭐12)](https://github.com/floydspace/prisma-sequelize-generator)
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Username Check / Telegram
 
-*   [Snoop (⭐1.8k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [Snoop (⭐1.9k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Sources
 
-*   [DeadCScroll (⭐6)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
+*   [DeadCScroll (⭐11)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

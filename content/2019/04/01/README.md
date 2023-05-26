@@ -138,7 +138,7 @@
 
 ### Ask these people anything!
 
-*   [Even Stensberg (⭐0)](https://github.com/evenstensberg/ama) - OSS contributor and developer.
+*   [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Network / Monitoring / Logging
 
-*   [opensnitch (⭐7.9k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+*   [opensnitch (⭐8.8k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
 ## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

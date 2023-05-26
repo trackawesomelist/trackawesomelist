@@ -26,24 +26,23 @@
 
     <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
 
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [4. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Libraries
+
+*   [react-uploady (⭐828)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React
+
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### General
 
 *   [themesof.net](https://themesof.net/) - .NET 6 planning process.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CSV
 
-*   [Csv::Parser (⭐15)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
-
-## [6. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Libraries
-
-*   [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) - Adobe's library of React Hooks that provides accessible UI primitives for your design system
-*   [react-uploady (⭐764)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
+*   [Csv::Parser (⭐19)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

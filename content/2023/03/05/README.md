@@ -8,7 +8,7 @@
 
 ## [1. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
-### Platforms and Software Resources / Urban Design Tools and Platforms
+### Platforms and Software Resources / Immersive Planning and Design Platforms
 
 *   [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion is an easy to use real-time visualization software that creates offline renderer-quality images, animations, and panoramas, together with interactive 360° videos and VR presentations built on Unreal Engine.
 
@@ -22,21 +22,21 @@
 
 ### Discord
 
-*   [kitten (⭐6)](https://github.com/geniushq/kitten) - Simple Discord API library for writing bots.
+*   [kitten (⭐10)](https://github.com/geniushq/kitten) - Simple Discord API library for writing bots.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Internationalization
 
-*   [uni-algo (⭐119)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
+*   [uni-algo (⭐170)](https://github.com/uni-algo/uni-algo) - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Text and Natural Language Processing / Generative Adversarial Networks (GANs)
+### Inbox: Large Language Models / Contribute to Our Repository
 
 *   [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
 
-### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+### Inbox: Large Language Models / Text-related Generative Tools
 
 *   [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/): upload a PDF file and make questions about it #semanticsearch
 

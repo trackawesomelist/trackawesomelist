@@ -64,7 +64,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [aPureBase/KGraphQL (⭐270)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
+*   [aPureBase/KGraphQL (⭐274)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
 
 ## [7. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -88,24 +88,24 @@
 
 ### Projects / Frameworks
 
-*   [Q\*cert (⭐50)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
+*   [Q\*cert (⭐52)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
 
 ### Projects / Libraries
 
-*   [Bignums (⭐20)](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
+*   [Bignums (⭐21)](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
 
 ### Projects / Package and Build Management
 
-*   [Coq Nix Toolbox (⭐24)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
+*   [Coq Nix Toolbox (⭐26)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
 
 ### Projects / Tools
 
 *   [Autosubst 2 (⭐13)](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
-*   [coq-scripts (⭐6)](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
+*   [coq-scripts (⭐7)](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
 
 ### Projects / Verified Software
 
-*   [RISC-V Specification in Coq (⭐82)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
+*   [RISC-V Specification in Coq (⭐83)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
 *   [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 
 ## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
@@ -124,18 +124,18 @@
 
 ### Contents / Imaging
 
-*   [DICOMcloud (⭐191)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
-*   [DICOM Server (⭐312)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
+*   [DICOMcloud (⭐196)](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+*   [DICOM Server (⭐334)](https://github.com/microsoft/dicom-server) - OSS Implementation of DICOMweb standard.
 *   [Fiji](https://imagej.net/software/fiji/) - Open-source platform for biological-image analysis.
 
 ### Contents / Frameworks
 
-*   [FHIR Proxy (⭐60)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
-*   [FHIR Works on AWS (⭐280)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
+*   [FHIR Proxy (⭐65)](https://github.com/microsoft/fhir-proxy) - secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.
+*   [FHIR Works on AWS (⭐291)](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
 
 ### Contents / Integration
 
-*   [FHIR Converter (⭐280)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
+*   [FHIR Converter (⭐305)](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
 
 ### Contents / Hardware
 
@@ -149,23 +149,23 @@
 
 ### Contents / Games
 
-*   [Space Empires (⭐68)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+*   [Space Empires (⭐77)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 ## [15. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 
-*   [Awesome Elm PLTD (⭐43)](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
+*   [Awesome Elm PLTD (⭐44)](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
 
 ### Beyond the DOM / Games
 
-*   [elm-posix (⭐85)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
+*   [elm-posix (⭐87)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 
 ## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 
-*   [jeremydaly/lambda-api :fire::fire::fire::fire: (⭐1.2k)](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
+*   [jeremydaly/lambda-api :fire::fire::fire::fire: (⭐1.3k)](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
 
 ---
 

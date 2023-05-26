@@ -10,11 +10,11 @@
 
 ### Framework Components
 
-*   [plug (⭐2.6k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
+*   [plug (⭐2.7k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
 
 ### Text and Numbers
 
-*   [uuid (⭐345)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [uuid (⭐347)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
@@ -129,7 +129,7 @@
 ### Date / Runner
 
 *   [moment-timezone (⭐3.7k)](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
-*   [timezone-js (⭐830)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+*   [timezone-js (⭐827)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 
 ### String / Runner
 

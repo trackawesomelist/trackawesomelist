@@ -28,19 +28,19 @@
 
 ### Audio Related Packages / Read-Write
 
-*   [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat: (⭐10)](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
+*   [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat: (⭐11)](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat: (⭐409)](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
+*   [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat: (⭐439)](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
 
 ### Audio Related Packages / Music Information Retrieval
 
-*   [librosa](http://librosa.github.io/librosa/) [:octocat: (⭐5.5k)](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
+*   [librosa](http://librosa.github.io/librosa/) [:octocat: (⭐5.8k)](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
 
 ### Audio Related Packages / Audio Dataset and Dataloaders
 
-*   [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: (⭐114k)](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+*   [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: (⭐119k)](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 
 ## [5. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
@@ -52,7 +52,7 @@
 
 ### SDKs and Samples / Scala SDK
 
-*   [seratch/AWScala :fire::fire::fire: (⭐740)](https://github.com/seratch/AWScala)
+*   [seratch/AWScala :fire::fire::fire: (⭐741)](https://github.com/seratch/AWScala)
 
 ---
 

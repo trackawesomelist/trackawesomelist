@@ -16,7 +16,7 @@
 
 ### Tools / Playground
 
-*   [SweetIQ/schemats (⭐991)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
+*   [SweetIQ/schemats (⭐1k)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

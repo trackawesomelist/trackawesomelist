@@ -36,7 +36,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Droidbox (⭐654)](https://github.com/pjlantz/droidbox)
+*   [Droidbox (⭐683)](https://github.com/pjlantz/droidbox)
 
 ## [3. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Wikimedia (⭐20)](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
+*   [Wikimedia (⭐23)](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
 
 ### Plugins / Libraries
 
@@ -75,7 +75,7 @@
 
 ### Plugins / Testing Tools
 
-*   [AVA (⭐226)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
+*   [AVA (⭐227)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -94,11 +94,11 @@
 
 ### Framework Components
 
-*   [surface (⭐1.8k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
+*   [surface (⭐1.9k)](https://github.com/msaraiva/surface) - A server-side rendering component library for Phoenix.
 
 ### Queue
 
-*   [broadway (⭐2k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+*   [broadway (⭐2.1k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Component bundles
 
-*   [DevExpress Blazor UI Components (⭐325)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
+*   [DevExpress Blazor UI Components (⭐331)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -132,25 +132,25 @@
 
 ### Extensions
 
-*   [next-connect (⭐1.3k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+*   [next-connect (⭐1.4k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 
 ### Apps
 
-*   [Tottem (⭐909)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐928)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ## [15. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Client libraries
 
-*   [ros2\_rust (⭐505)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
+*   [ros2\_rust (⭐566)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
 ## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [book-box (⭐10)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
+*   [book-box (⭐12)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 *   [covid-box (⭐12)](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
-*   [shortcut-box (⭐7)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
+*   [shortcut-box (⭐8)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
 *   [youtube-box (⭐6)](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 
 ---

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Varia / Tutorials
 
-*   [Awesome graph classification (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
+*   [Awesome graph classification (⭐4.6k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Notification
 
-*   [simple-react-notifications (⭐60)](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
+*   [simple-react-notifications (⭐61)](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -53,7 +53,7 @@
 
 ### REST / Scala
 
-*   [ReDoc (⭐19k)](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger-generated API Documentation.
+*   [ReDoc (⭐20k)](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger-generated API Documentation.
 
 ### Enterprise & Verticals / Scala
 
@@ -136,13 +136,19 @@
 *   [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant.
 *   [FreeDOS](https://www.patreon.com/freedos) - MS-DOS compatible operating system.
 
-## [10. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
+
+## [11. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
 *   [Optimizing WebDriverAgent Startup Performance](https://appiumpro.com/editions/77)
 
-## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Programming / JavaScript
 

@@ -10,7 +10,7 @@
 
 ### Use ChatGPT Anywhere / Chatbots
 
-*   [wechat-chatgpt (⭐3.6k)](https://github.com/fuergaosi233/wechat-chatgpt): Use ChatGPT On Wechat via wechaty.
+*   [wechat-chatgpt (⭐9.2k)](https://github.com/fuergaosi233/wechat-chatgpt): Use ChatGPT On Wechat via wechaty.
 
 ## [2. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 

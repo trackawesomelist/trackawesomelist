@@ -26,9 +26,9 @@
 
 *   [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) - Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project.
 
-### Code Libraries / Video Lectures and Online Courses
+### Code Libraries
 
-*   [ScispaCy (⭐1.2k)](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
+*   [ScispaCy (⭐1.3k)](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 
 ## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐50k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐51k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -74,7 +74,7 @@
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐930)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐933)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐664)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐695)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [aws-lambda-go :fire::fire::fire::fire::fire: (⭐3.2k)](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions.
+*   [aws-lambda-go :fire::fire::fire::fire::fire: (⭐3.3k)](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions.
 
 ---
 

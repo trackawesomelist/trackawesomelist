@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07, 2023
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,61 +8,59 @@
 
 ## [1. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
 
-### Contents / Companies
+### Companies
 
-*   [Grafana Labs](https://github.com/grafana) - Grafana Labs is behind leading open source projects Grafana and Loki, and the creator of the first open & composable observability platform.
+*   [Grafana Labs](https://github.com/grafana) - Grafana Labs is behind leading open source projects Grafana and Loki and the creator of the first open & composable observability platform.
 *   [Vercel](https://github.com/vercel) - Develop. Preview. Ship. Creators of Next.js.
 *   [Prisma](https://github.com/prisma) - Prisma makes working with databases easy.
 *   [Microsoft](https://github.com/microsoft) - Open source projects and samples from Microsoft.
 *   [HashiCorp](https://github.com/hashicorp) - Consistent workflows to provision, secure, connect, and run any infrastructure for any application.
 *   [GitHub](https://github.com/github) - How people build software.
 
-### Contents / Cloud
+### Cloud
 
-*   [Kong](https://github.com/Kong) - The Cloud Connectivity Company. Community Driven & Enterprise Adopted.
-*   [Kubernetes](https://github.com/kubernetes)
+*   [Kong](https://github.com/Kong) - The cloud connectivity company. Community-driven & enterprise-adopted.
+*   [Kubernetes](https://github.com/kubernetes) - Open source system for automating deployment, scaling, and management of containerized applications.
 *   [Docker](https://github.com/docker) - Docker helps developers bring their ideas to life by conquering the complexity of app development.
 
-### Contents / Web
+### Web
 
-*   [unified](https://github.com/unifiedjs) - content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!
 *   [Hono](https://github.com/honojs) - Ultrafast web framework for the Edge.
-*   [Oven](https://github.com/oven-sh) - The company behind Bun, the incredibly fast JavaScript runtime, bundler, transpiler and package manager.
-*   [Vue](https://github.com/vuejs)
+*   [Oven](https://github.com/oven-sh) - The company behind Bun, the swift JavaScript runtime, bundler, transpiler, and package manager.
+*   [Vue](https://github.com/vuejs) - An approachable, performant and versatile framework for building web user interfaces.
 *   [Nuxt](https://github.com/nuxt) - The Intuitive Vue Framework.
-*   [Nest](https://github.com/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications 🚀
+*   [Nest](https://github.com/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications 🚀.
 *   [TanStack](https://github.com/TanStack) - Open source software for building better UI and UX.
-*   [Deno](https://github.com/denoland)
-*   [UnJS](https://github.com/unjs) - Unified JavaScript Tools.
+*   [Deno](https://github.com/denoland) - A modern runtime for JavaScript and TypeScript.
+*   [UnJS](https://github.com/unjs) - Unified JavaScript tools.
 *   [Poimandres](https://github.com/pmndrs) - Open source developer collective.
-*   [Cypress.io](https://github.com/cypress-io) - Fast, easy and reliable testing for anything that runs in a browser.
+*   [Cypress.io](https://github.com/cypress-io) - Fast, easy, and reliable testing for anything that runs in a browser.
 *   [CodeSandbox](https://github.com/codesandbox) - An online editor tailored for web applications.
-*   [choo](https://github.com/choojs) - (very) small browser tools. Choo choo.
-*   [Fiber](https://github.com/gofiber) - 🚀 Fiber is an Express inspired web framework written in Go with 💖
+*   [Fiber](https://github.com/gofiber) - Fiber is an Express-inspired web framework written in Go with 💖.
 
-### Contents / Database
+### Database
 
 *   [EdgeDB](https://github.com/edgedb) - A next-generation graph-relational database.
 *   [Supabase](https://github.com/supabase) - The open source Firebase alternative.
-*   [SurrealDB](https://github.com/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web.
+*   [SurrealDB](https://github.com/surrealdb) - A scalable, distributed, collaborative, document-graph database for the real-time web.
 
-### Contents / User Interface
+### User Interface
 
 *   [Storybook](https://github.com/storybookjs) - Build bulletproof user interfaces.
 *   [Tailwind Labs](https://github.com/tailwindlabs) - Creators of Tailwind CSS and Headless UI, and authors of Refactoring UI.
 
-### Contents / Analytics
+### Analytics
 
-*   [PostHog](https://github.com/PostHog) - Open-source product analytics platform.
+*   [PostHog](https://github.com/PostHog) - Open source product analytics platform.
 
-### Contents / Other
+### Other
 
 *   [Charm](https://github.com/charmbracelet) - We build tools to make the command line glamorous.
-*   [TheAlgorithms](https://github.com/thealgorithms) - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language.
+*   [TheAlgorithms](https://github.com/thealgorithms) - Open source resource for learning data structures & algorithms and their implementation in any programming language.
 *   [Hugging Face](https://github.com/huggingface) - The AI community building the future.
-*   [Nrwl](https://github.com/nrwl) - We are a team of engineers building software and open source: Nx and Nx Cloud.
-*   [Z-Shell](https://github.com/z-shell) - Open-source society passionate about Zsh.
-*   [ReadMe](https://github.com/readmeio) - Beautiful, personalized, interactive developer hubs 🦉
+*   [Nrwl](https://github.com/nrwl) - We are a team of engineers building open-source software: Nx and Nx Cloud.
+*   [Z-Shell](https://github.com/z-shell) - Open source society passionate about Zsh.
+*   [ReadMe](https://github.com/readmeio) - Beautiful, personalized, interactive developer hubs 🦉.
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -74,7 +72,7 @@
 
 ### Libraries / Image processing
 
-*   [marekm4/dominant\_color (⭐16)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
+*   [marekm4/dominant\_color (⭐19)](https://github.com/marekm4/dominant_color) \[[dominant\_color](https://crates.io/crates/dominant_color)] — Dominant color extractor ![build badge](https://github.com/marekm4/dominant_color/actions/workflows/rust.yml/badge.svg?branch=master)
 
 ## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -88,7 +86,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [utilyre/sentiment.nvim (⭐8)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
+*   [utilyre/sentiment.nvim (⭐51)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -100,17 +98,17 @@
 
 ### Graphics
 
-*   [mpv-v (⭐7)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+*   [mpv-v (⭐15)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 
 ## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history, maps, and definitions
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   \[🔥🔥] [Toward General Design Principles for Generative AI Applications](https://arxiv.org/abs/2301.05578): this paper presents a set of seven principles for the design of generative AI applications
 
-### Inbox: Text and Natural Language Processing / Embeddings and Semantic Search
+### Papers and References / AI Tools for Searching
 
-*   \[🔥] [whitead/paper-qa (⭐1.2k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
+*   [whitead/paper-qa (⭐2.4k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Image Synthesis / Promptism
 
@@ -118,21 +116,15 @@
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### PaaS
+### Web Hosting
 
-*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.
+*   [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers hosting 3 static sites for free.
 
 ## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Utilities
 
 *   [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
-
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Elixir / Phoenix
-
-*   [Versioned APIs with Phoenix](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf) - Elvio Vicosa (PDF) *(:card\_file\_box: archived)*
 
 ---
 

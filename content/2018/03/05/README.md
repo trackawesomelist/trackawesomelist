@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05, 2018
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,7 +68,7 @@
 
 ### Free fonts / Collections
 
-*   [Plex (⭐8.1k)](https://github.com/IBM/plex) - IBM's open source font
+*   [Plex (⭐8.4k)](https://github.com/IBM/plex) - IBM's open source font
 
 ### Iconic fonts / Fonts
 
@@ -84,7 +84,7 @@
 
 ### Packages / Security
 
-*   [upash (⭐510)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐512)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 ## [4. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -113,11 +113,11 @@
 
 ### Algorithms and Data structures
 
-*   [machinery (⭐466)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
+*   [machinery (⭐478)](https://github.com/joaomdmoura/machinery) - A state machine library for structs in general, it integrates with Phoenix out of the box.
 
 ### Miscellaneous
 
-*   [codec-beam (⭐170)](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
+*   [codec-beam (⭐169)](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
 
 ### Books
 
@@ -134,7 +134,7 @@
 
 ### Pagination / Barcode
 
-*   [SlideController (⭐411)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
+*   [SlideController (⭐413)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
 ## [10. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 
@@ -154,13 +154,19 @@
 
 *   [Digitized Speech in Game Boy Games](https://youtube.com/watch?v=1lzHfLYzyRM)
 
-## [13. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [13. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### R / Time Series
+
+*   [tibbletime (⭐178)](https://github.com/business-science/tibbletime) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
+
+## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Nocode (⭐10)](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
 
-## [14. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+## [15. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
 ### Code
 
@@ -174,7 +180,7 @@
 
 *   [XRP Tip Bot for Reddit, Twitter & Discord](https://xrptipbot.com)
 
-## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -561,11 +567,11 @@
 
 
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [laravel-vue-boilerplate (⭐533)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
+*   [laravel-vue-boilerplate (⭐537)](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
 *   [Vue Design System (⭐2.1k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
 
 ### Projects Using Vue.js / Open Source

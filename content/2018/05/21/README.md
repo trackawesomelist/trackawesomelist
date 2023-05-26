@@ -10,13 +10,13 @@
 
 ### Libraries Visualization
 
-*   [wavebell (⭐41)](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone
+*   [wavebell (⭐42)](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone
 
 ## [2. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
-*   [Rishi Pithadiya (⭐0)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
+*   [Rishi Pithadiya (⭐1)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
 
 ## [3. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Open Source Repos / S3
 
-*   [weavejester/clj-aws-s3 :fire: (⭐197)](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
+*   [weavejester/clj-aws-s3 :fire: (⭐199)](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
 
 ---
 

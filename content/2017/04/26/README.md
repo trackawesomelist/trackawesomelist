@@ -41,13 +41,13 @@
 
 ## [5. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
-### Heroku buildpacks / Gradient boosting
+### Heroku buildpacks / Vector search
 
 *   [GSL and Ruby buildpack (⭐3)](https://github.com/tomwolfe/heroku-buildpack-gsl-ruby)
 *   [OpenCV and Ruby buildpack (⭐3)](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
 *   [ImageMagick buildpack (⭐46)](https://github.com/mcollina/heroku-buildpack-imagemagick)
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
 *   <a name="empty-lines-around-access-modifier"></a>
     [Graphviz](http://www.graphviz.org/)

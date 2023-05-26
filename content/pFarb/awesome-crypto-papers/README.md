@@ -2,9 +2,15 @@
 
 A curated list of cryptography papers, articles, tutorials and howtos.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) · ⭐ 1.4K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) · ⭐ 1.5K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/pFarb/awesome-crypto-papers/week/README.md) / [Overview](/content/pFarb/awesome-crypto-papers/readme/README.md) ]
+
+## [May 02, 2023](/content/2023/05/02/README.md)
+
+### Specific topics / Public key cryptography: General and DLP
+
+*   [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://web.williams.edu/Mathematics/lg5/302/RSA.pdf) -  Original paper introducing RSA algorithm.
 
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 
@@ -241,7 +247,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 *   [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.
 *   [RFC 2631: Diffie-Hellman Key Agreement](https://tools.ietf.org/html/rfc2631) - An explanation of the Diffie-Hellman methon in more engineering terms.
-*   [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf) -  Original paper introducing RSA algorithm.
 *   [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - Rather education explanation of every bit behind RSA.
 *   [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf) - Paper by R. Merkle,   predated "New directions in cryptography" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system.
 *   [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.

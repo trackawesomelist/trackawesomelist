@@ -16,7 +16,7 @@
 
 ### services
 
-*   [featureserver (⭐95)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐96)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -32,7 +32,7 @@
 
 ### GIS
 
-*   [GeoJSON4EntityFramework (⭐17)](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
+*   [GeoJSON4EntityFramework (⭐18)](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐153)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.5k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐154)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.6k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

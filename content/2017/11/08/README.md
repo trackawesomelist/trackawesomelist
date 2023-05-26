@@ -20,7 +20,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Hubaga (⭐23)](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
+*   [Hubaga (⭐22)](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Cartridges / Opcodes
 
-*   [AntonioND's docs (⭐171)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
+*   [AntonioND's docs (⭐178)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
 
 ### Related projects / Syntax highlighting packages
 
@@ -64,7 +64,7 @@
 
 ### HTTP
 
-*   [raxx (⭐395)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+*   [raxx (⭐396)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 
 ### Third Party APIs
 

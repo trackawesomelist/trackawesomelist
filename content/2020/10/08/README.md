@@ -19,7 +19,7 @@
 
 ### Server-Side Rendering
 
-*   [ng-web-apis/universal — an opensource set of native API fallbacks and stubs (⭐107)](https://github.com/ng-web-apis/universal)
+*   [ng-web-apis/universal — an opensource set of native API fallbacks and stubs (⭐113)](https://github.com/ng-web-apis/universal)
 
 ### Books / Components
 
@@ -27,13 +27,13 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [TinkoffCreditSystems/angular-open-source-starter (⭐217)](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
+*   [TinkoffCreditSystems/angular-open-source-starter (⭐237)](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Editors
 
-*   [django-summernote (⭐928)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-summernote (⭐961)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ## [3. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Software / Automation
 
-*   [MeTube (⭐1.5k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐1.7k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -170,19 +170,13 @@
 
 ### C, C++
 
-*   [with-c-syntax (⭐119)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
+*   [with-c-syntax (⭐122)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 
 ### Function extensions
 
 *   [cl-advice (⭐1)](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md) - an attempt of portable layer advice library for SBCL, CCL, LispWorks and Allegro. Not in Quicklisp.
 
-## [10. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Routing
-
-*   [universal-router (⭐1.6k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
-
-## [11. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [10. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Images
 
@@ -192,11 +186,17 @@
 
 *   [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software on Wikipedia.
 
+## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Financial Instruments and Pricing
+
+*   [gs-quant (⭐1.8k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
+
 ## [12. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 
-*   [GitHub collapse markdown (⭐1.5k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
+*   [GitHub collapse markdown (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
 
 ## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

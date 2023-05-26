@@ -106,11 +106,11 @@
 
 ### :hammer_and_wrench:   Libraries and SDKs / Python
 
-*   [django-slack-oauth (⭐51)](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
+*   [django-slack-oauth (⭐53)](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
 
 ### :hammer_and_wrench:   Libraries and SDKs / Scala
 
-*   [slack-scala-client (⭐183)](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
+*   [slack-scala-client (⭐186)](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
 
 ## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

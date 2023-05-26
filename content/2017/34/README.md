@@ -101,7 +101,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [peterkh/cumulus :fire::fire: (⭐206)](https://github.com/peterkh/cumulus) - Manages stacks.
+*   [peterkh/cumulus :fire::fire: (⭐205)](https://github.com/peterkh/cumulus) - Manages stacks.
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐348)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐364)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -238,14 +238,14 @@
 
 ### Laravel
 
-- Name: [Handesk (⭐1.2k)](https://github.com/BadChoice/handesk)
+- Name: [Handesk (⭐1.3k)](https://github.com/BadChoice/handesk)
 
   Description: A Powerful Laravel Help Desk and Lead Management App.
 
   Link: 
 
 
-- Name: [Multitrust (⭐1.2k)](https://github.com/BadChoice/handesk)
+- Name: [Multitrust (⭐1.3k)](https://github.com/BadChoice/handesk)
 
   Description: Latest roles and permission for multi-auth or single-auth.
 
@@ -255,7 +255,7 @@
 
 ### Android
 
-- Name: [Easy Diary (⭐309)](https://github.com/hanjoongcho/aaf-easydiary)
+- Name: [Easy Diary (⭐347)](https://github.com/hanjoongcho/aaf-easydiary)
 
   Description: This is a diary application optimized to user experience.
 
@@ -302,7 +302,7 @@
 
 ### AI
 
-*   [CoreML-Models (⭐5.7k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+*   [CoreML-Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
 ### Events
 
@@ -310,11 +310,11 @@
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐220)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+*   [ZImageCropper (⭐222)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ### UITableView / Barcode
 
-*   [AZTableViewController (⭐73)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
+*   [AZTableViewController (⭐72)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
 *   [HGPlaceholders (⭐2.2k)](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
 
 ## [27. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
@@ -474,7 +474,7 @@
 
 ### Email
 
-*   [Maily (⭐685)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐686)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### File Upload
 
@@ -487,7 +487,7 @@
 
 ### Profiler and Optimization
 
-*   [batch-loader (⭐964)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+*   [batch-loader (⭐972)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
 ## [34. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -499,7 +499,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐7)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
+*   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐8)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 
 ## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -509,11 +509,11 @@
 
 ### Examples and funny stuff
 
-*   [exercism-crystal (⭐66)](https://github.com/exercism/crystal) - Exercism exercises
+*   [exercism-crystal (⭐67)](https://github.com/exercism/crystal) - Exercism exercises
 
 ### Game Development
 
-*   [CrSFML (⭐328)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
+*   [CrSFML (⭐330)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
 
 ### HTTP
 
@@ -525,16 +525,16 @@
 
 ### Network Protocols
 
-*   [jwt (⭐198)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
-*   [msgpack-crystal (⭐129)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
+*   [jwt (⭐199)](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
+*   [msgpack-crystal (⭐128)](https://github.com/crystal-community/msgpack-crystal) - MessagePack library
 
 ### Package Management
 
-*   [shards (⭐721)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
+*   [shards (⭐733)](https://github.com/crystal-lang/shards) - Dependency manager for the Crystal
 
 ### Web Frameworks
 
-*   [kemal (⭐3.4k)](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
+*   [kemal (⭐3.5k)](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
 *   [Crystal weekly newsletters](http://crystalweekly.com/)
 *   [Reddit](https://www.reddit.com/r/crystal_programming/)
 *   [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
@@ -545,19 +545,19 @@
 
 ### Official Documentation Translations
 
-*   [icr (⭐488)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+*   [icr (⭐493)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
 
 ### Editor Plugins
 
 *   Sublime
-    *   [sublime-crystal (⭐83)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
+    *   [sublime-crystal (⭐82)](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
 *   TextMate
     *   [Crystal.tmbundle (⭐18)](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
 *   Vim
-    *   [vim-crystal (⭐394)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+    *   [vim-crystal (⭐396)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐12)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
-    *   [vscode-crystal-lang (⭐246)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+    *   [vscode-crystal-lang (⭐249)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 

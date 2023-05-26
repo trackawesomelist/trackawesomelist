@@ -90,7 +90,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vodal (⭐376)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
+*   [vodal (⭐379)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
 ---
 

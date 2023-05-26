@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2021
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,7 +46,7 @@
 
 *   Language agnostic
     *   [by @kennyledet (⭐2.2k)](https://github.com/kennyledet/Algorithm-Implementations)
-    *   [by @indy256 (⭐1.7k)](https://github.com/indy256/codelibrary)
+    *   [by @indy256 (⭐1.8k)](https://github.com/indy256/codelibrary)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
     *   [by @patmorin (⭐1.1k)](https://github.com/patmorin/ods)
     *   [by @btjanaka (⭐3)](https://github.com/btjanaka/algorithm-problems)
@@ -55,12 +55,12 @@
 
 ### Actors
 
-*   [bpe (⭐239)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
+*   [bpe (⭐242)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 
 ### Applications
 
 *   [chat (⭐22)](https://github.com/synrc/chat) - A tiny text chat sample based on N2O.
-*   [exchat (⭐258)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
+*   [exchat (⭐257)](https://github.com/tony612/exchat) - A Slack-like app by Elixir, Phoenix & React (redux).
 
 ### CSV
 
@@ -69,15 +69,15 @@
 ### Frameworks
 
 *   [n2o (⭐1.3k)](https://github.com/synrc/n2o) - Distributed Application Server.
-*   [nitro (⭐52)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
+*   [nitro (⭐53)](https://github.com/synrc/nitro) - Nitrogen-compatible Web Framework.
 
 ### ORM and Datamapping
 
-*   [kvs (⭐171)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
+*   [kvs (⭐172)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 
 ### Security
 
-*   [ca (⭐11)](https://github.com/synrc/ca) - Certificate Authority.
+*   [ca (⭐12)](https://github.com/synrc/ca) - Certificate Authority.
 
 ### Validations
 
@@ -87,7 +87,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [attranslate (⭐279)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [attranslate (⭐285)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Model Explanation / NLP
 
-*   [Shapley (⭐190)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+*   [Shapley (⭐197)](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 
 ## [13. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -164,13 +164,13 @@
 
 ### Plugins
 
-*   [Spark (⭐286)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish.
+*   [Spark (⭐296)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
 
 ## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### API Gateways / Edge Services / Scala
 
-*   [Bunkerized-nginx (⭐2.8k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
+*   [Bunkerized-nginx (⭐2.9k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
 
 ## [19. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -194,7 +194,7 @@
 
 ### Graphics
 
-*   [vRayTracer (⭐43)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
+*   [vRayTracer (⭐45)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -228,7 +228,7 @@
 
 ### Tools
 
-*   🎨🔧💼 [babel-plugin-tailwind-dark (⭐6)](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
+*   🎨🔧💼 [babel-plugin-tailwind-dark (⭐7)](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
 
 ### UI Libraries, Components & Templates
 
@@ -244,11 +244,11 @@
 
 ### Tools / Music drivers and trackers
 
-*   [hUGETracker (⭐189)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
+*   [hUGETracker (⭐212)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
 
 ### ASM / Boilerplates and libraries
 
-*   [gb-vwf (⭐30)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
+*   [gb-vwf (⭐33)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
 
 ## [27. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -276,8 +276,8 @@
 
 ### Utilities / Text
 
-*   [MonitorControl (⭐19k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [DevUtils.app (⭐3.6k)](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [MonitorControl (⭐21k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [DevUtils.app (⭐3.7k)](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator... ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Browser
 
@@ -285,19 +285,19 @@
 
 ### Database
 
-*   [Redis Desktop Manager (⭐21k)](https://github.com/uglide/RedisDesktopManager) - Cross-platform open source database management tool for Redis ® ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Redis Desktop Manager (⭐22k)](https://github.com/uglide/RedisDesktopManager) - Cross-platform open source database management tool for Redis ® ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
 
 ### Development / Git
 
-*   [osagitfilter (⭐27)](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files. ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[applescript\_icon]
+*   [osagitfilter (⭐28)](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files. ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[applescript\_icon]
 
 ### Downloader / iOS / macOS
 
-*   [Extream Download Manager (⭐4.5k)](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500% ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
+*   [Extream Download Manager (⭐5k)](https://github.com/subhra74/xdm) - a powerful tool to increase download speeds up to 500% ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
 
 ### Extensions / Text
 
-*   [Is It Private? (⭐10)](https://github.com/ffittschen/IsItPrivate) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Is It Private? (⭐11)](https://github.com/ffittschen/IsItPrivate) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ## [30. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -315,7 +315,7 @@
 
 ### Network / Barcode
 
-*   [TermiNetwork (⭐91)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
+*   [TermiNetwork (⭐90)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 
 ## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Software Tools / Analysis Tools
 
-*   [emba (⭐1.4k)](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
+*   [emba (⭐1.9k)](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
 
 ## [36. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
@@ -349,7 +349,7 @@
 
 ### Concurrency
 
-*   [concurrencpp (⭐1.3k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
+*   [concurrencpp (⭐1.5k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
 ## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -436,7 +436,7 @@
 
 ### Languages
 
-*   [C Flat (⭐8)](https://github.com/NicksterSand/Cflat) - Musical language focused on sound rather than notation with creative freedom in mind.
+*   [C Flat (⭐13)](https://github.com/NicksterSand/Cflat) - Musical language focused on sound rather than notation with creative freedom in mind.
 *   [Watson (⭐270)](https://github.com/genkami/watson) - Stack-based Turing-incomplete configuration files.
 
 ## [41. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
@@ -482,29 +482,19 @@
 *   [kalman-jax (⭐85)](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
 *   [jaxns (⭐78)](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### BETA / Non-X86
-
-*   [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh
-
-## [44. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [43. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### AutoHotkey_H / Web
 
 *   [AutoHotkey\_H](https://hotkeyit.github.io/v2/) - AHK\_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of v1 changes](https://hotkeyit.github.io/v1/docs/AutoHotkey.htm) + [Full list of v2 changes](https://hotkeyit.github.io/v2/docs/AutoHotkey.htm)
 
-## [45. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [44. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Tutorials / Wrappers for Audio Plugins
 
 *   [Live-coding a music synthesizer](https://www.youtube.com/watch?v=SSyQ0kRHzis) Live-coding video showing how to use the SoundDevice library to reproduce realistic sounds. [Code (⭐16)](https://github.com/cool-RR/python_synthesizer).
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -512,19 +502,19 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-lang-router (⭐59)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
+*   [vue-lang-router (⭐64)](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
 
 ### Components & Libraries / Utilities
 
 *   [vuex-overlay-tools (⭐11)](https://github.com/Mirazex/vuex-overlay) - 🛠 A Vue 3 plugin for monitoring Vuex store (time-travel is also supported)
 
-## [47. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [46. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Casual
 
 *   Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
-## [48. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [47. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Community
 
@@ -534,13 +524,13 @@
 
 *   [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs.
 
-## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / File Organization Tools
 
 *   [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 
-## [50. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [49. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Vector Creation
 
@@ -560,5 +550,5 @@
 
 ---
 
-- Prev: [Mar 08 - Mar 14, 2021](/content/2021/10/README.md)
+- Prev: [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 - Next: [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)

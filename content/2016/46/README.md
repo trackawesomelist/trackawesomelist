@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14 - Nov 20, 2016
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [Modern Information Retrieval](http://people.ischool.berkeley.edu/\~hearst/irbook/) - R. Baeza-Yates, B. Ribeiro-Neto. Addison-Wesley, 1999.
+*   [Modern Information Retrieval](http://people.ischool.berkeley.edu/~hearst/irbook/) - R. Baeza-Yates, B. Ribeiro-Neto. Addison-Wesley, 1999.
 *   [Information Retrieval in Practice](http://www.search-engines-book.com/) - B. Croft, D. Metzler, T. Strohman. Pearson Education, 2009.
 *   [Mining the Web: Analysis of Hypertext and Semi Structured Data](http://www.cse.iitb.ac.in/%7Esoumen/mining-the-web/) - S. Chakrabarti. Morgan Kaufmann, 2002.
 
@@ -18,8 +18,8 @@
 
 *   [INF384H / CS395T / INF350E: Concepts of Information Retrieval (and Web Search)](http://courses.ischool.utexas.edu/Lease_Matt/2016/Fall/INF384H/) - Matthew Lease (University of Texas at Austin).
 *   [CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/) - Chris Manning and Pandu Nayak (Stanford University).
-*   [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/\~mooney/ir-course/) - Raymond J. Mooney (University of Texas at Austin).
-*   [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/\~vagelis/classes/CS172/) - Vagelis Hristidis (University of California - Riverside).
+*   [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/~mooney/ir-course/) - Raymond J. Mooney (University of Texas at Austin).
+*   [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/~vagelis/classes/CS172/) - Vagelis Hristidis (University of California - Riverside).
 *   [SIMS 240: Principles of Information Retrieval](http://www2.sims.berkeley.edu/academics/courses/is240/s06/) - Ray R. Larson (UC berkeley).
 *   [11-442 / 11-642: Search Engines](http://boston.lti.cs.cmu.edu/classes/11-642/) - Jamie Callan (CMU).
 *   [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky (John Hopkins University).
@@ -121,7 +121,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [somoclu (⭐244)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
+*   [somoclu (⭐249)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 
 ## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -142,7 +142,7 @@
 ### For Electron / Other
 
 *   [electron-is-accelerator (⭐15)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
-*   [electron-pdf-window (⭐266)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐267)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -292,7 +292,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐367)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐369)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [21. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -328,24 +328,18 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐8.7k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐9k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Compilers, Transpilers and Languages
 
 *   [P (⭐2.7k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐706)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [Roslyn-linq-rewrite (⭐708)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ### Visual Studio Plugins
 
 *   [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet is the package manager for the Microsoft development platform including .NET
 
-## [24. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
-
-### Experiments
-
-*   [Beat](http://experiments.kevinboudot.me/canvas-beat/) - Beat is a HTML5 audio/canvas experiment inspired by Propellerheads Figure iOS App.
-
-## [25. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [24. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
@@ -356,25 +350,25 @@
 
 *   Deepgaze: A computer vision library for human-computer interaction based on CNNs \[[Web (⭐1.6k)](https://github.com/mpatacchiola/deepgaze)]
 
-## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Examples and funny stuff
 
-*   [try.cr (⭐27)](https://github.com/maiha/try.cr) - Try monad
+*   [try.cr (⭐26)](https://github.com/maiha/try.cr) - Try monad
 
-## [27. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [26. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
 
-## [28. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [27. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
 *   [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
 
-## [29. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [28. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -385,8 +379,8 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐88k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
-*   [regl (⭐4.8k)](https://github.com/regl-project/regl) - Functional WebGL.
+*   [three.js (⭐90k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [regl (⭐4.9k)](https://github.com/regl-project/regl) - Functional WebGL.
 *   [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 *   [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
@@ -406,10 +400,10 @@
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐305)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
+*   [WebGL Lessons — Fragment Shaders (⭐307)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
-*   [GLSL lighting walkthrough (⭐442)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+*   [GLSL lighting walkthrough (⭐447)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 
 ### Interactive / Other
 
@@ -425,13 +419,13 @@
 *   [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 *   [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
-## [30. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 
-## [31. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [30. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Reddit
 
@@ -479,7 +473,7 @@
 *   Tech Map - <http://thetechmap.com/>
 *   Vator - <http://www.vator.tv/>
 
-## [32. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [31. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Tools / Miscellaneous
 
@@ -498,30 +492,30 @@
 *   [Series of Sass tutorials showing the installing of, the basics, and using key features](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 *   [Sass or LESS? What should you use?](https://www.youtube.com/watch?v=lJclQekSfSM)
 
-## [33. Amas](/content/sindresorhus/amas/week/README.md)
+## [32. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) and passionate photographer.
-*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐114)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
+*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐124)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 
-## [34. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [33. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [pglistend (⭐26)](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 
-## [35. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Chat Clients
 
 *   [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg)](http://quassel-irc.org/) ![Freeware](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg)
 
-## [36. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
-- Name: [Cerebro (⭐7.5k)](https://github.com/KELiON/cerebro)
+- Name: [Cerebro (⭐7.8k)](https://github.com/KELiON/cerebro)
 
   Description: One-input productivity booster
 
@@ -529,13 +523,13 @@
 
 
 
-## [37. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
 *   [TestCafe (⭐9.6k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
-## [38. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [37. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
@@ -546,13 +540,13 @@
 
 *   [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 
-## [39. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [38. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [Rakam (⭐792)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
-## [40. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [39. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / E companies
 
@@ -572,13 +566,13 @@
 
 *   Brujo Benavides <https://medium.com/@elbrujohalcon>
 
-## [41. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [40. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 
 *   \[Inspect iOS app's with Appium 1.6] (<https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo>) - The options of inspecting iOS 10 app with Appium 1.6
 
-## [42. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [41. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Documents and Shellcode / Other Resources
 
@@ -591,13 +585,13 @@
     framework with extensive plugin support, from input to output, and everything
     in between.
 
-## [43. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [42. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
 
-## [44. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -613,19 +607,19 @@ Webpage: <https://www.facebook.com/wishslowcoffeehouse>
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
-## [45. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [44. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 
-## [46. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [45. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Podcasts
 
 *   [Python Bytes](https://pythonbytes.fm)
 
-## [47. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [46. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 

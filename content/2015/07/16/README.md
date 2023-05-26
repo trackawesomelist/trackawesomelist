@@ -75,26 +75,21 @@
 
 ### Testing
 
-*   [Shouldly (⭐1.8k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
+*   [Shouldly (⭐1.9k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 
-## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [5. Tips](/content/git-tips/tips/README.md)
 
-### Individuals/Group Contributors / P individuals
-
-*   Petr Mitrichev <http://petr-mitrichev.blogspot.com/>
-
-## [6. Tips](/content/git-tips/tips/README.md)
-
-## Undo local changes with the last content in head
-
-```sh
-git checkout -- <file_name>
-```
 ## Stage parts of a changed file, instead of the entire file
 
 ```sh
 git add -p
 ```
+
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / P individuals
+
+*   Petr Mitrichev <http://petr-mitrichev.blogspot.com/>
 
 ## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 

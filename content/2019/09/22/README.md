@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [Gmail Desktop (⭐656)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Gmail Desktop (⭐693)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source / Other
 
@@ -36,17 +36,17 @@
 
 ### For Electron / Other
 
-*   [adblocker-electron (⭐606)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [adblocker-electron (⭐641)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Development Environment
 
-*   [Git Hooks (⭐840)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐866)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1.1k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.2k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Cascadia Code (⭐21k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
+*   [Cascadia Code (⭐22k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
 *   [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
 
 ### Other / Event listeners for fonts loading on a web page

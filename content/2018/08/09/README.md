@@ -23,7 +23,7 @@
 
 ### Extensions
 
-*   [Nextein (⭐898)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
+*   [Nextein (⭐897)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 
 ## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Platforms
 
-*   [Fuse (⭐319)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐322)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Cheatsheet
 
-*   [List of 100 Angular Interview questions and answers (⭐2.8k)](https://github.com/sudheerj/angular-interview-questions)
+*   [List of 100 Angular Interview questions and answers (⭐3.1k)](https://github.com/sudheerj/angular-interview-questions)
 
 ## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

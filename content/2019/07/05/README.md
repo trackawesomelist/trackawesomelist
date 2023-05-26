@@ -95,20 +95,20 @@
 
 ### HTTP
 
-*   [Crawly (⭐655)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [Crawly (⭐706)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐20)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / macOS
 
-*   [open-pip-cli (⭐191)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
+*   [open-pip-cli (⭐192)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
 
 ## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Routing
 
-*   [Wouter (⭐4.6k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
+*   [Wouter (⭐5.1k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
 
 ## [8. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

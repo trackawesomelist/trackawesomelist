@@ -16,17 +16,17 @@
 
 ### Projects
 
-*   [hurlurl (⭐26)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
+*   [hurlurl (⭐27)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
 
 ### Crates / Component Libraries
 
-*   [yew-duskmoon-ui (⭐3)](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
+*   [yew-duskmoon-ui (⭐4)](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 
 ## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Spotify
 
-*   [spotifyd (⭐8.6k)](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
+*   [spotifyd (⭐8.7k)](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
 
 ### Overview / Medium
 
@@ -35,21 +35,21 @@
 
 ### Overview / IMDb
 
-*   [libremdb (⭐131)](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
+*   [libremdb (⭐133)](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
     *   Official instance: <https://libremdb.iket.me/>
-    *   Public Instances: [https://github.com/zyachel/libremdb#instances (⭐131)](https://github.com/zyachel/libremdb#instances)
+    *   Public Instances: [https://github.com/zyachel/libremdb#instances (⭐133)](https://github.com/zyachel/libremdb#instances)
 
 ### Overview / Quora
 
-*   [Quetre (⭐217)](https://github.com/zyachel/quetre): A libre front-end for Quora
+*   [Quetre (⭐227)](https://github.com/zyachel/quetre): A libre front-end for Quora
     *   Official website: <https://quetre.iket.me/>
-    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐217)](https://github.com/zyachel/quetre#instances)
+    *   Public instances: [https://github.com/zyachel/quetre#instances (⭐227)](https://github.com/zyachel/quetre#instances)
 
 ## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Media
 
-*   [TMDBM (⭐3)](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
+*   [TMDBM (⭐5)](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
 
 ## [5. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Libreddit (⭐4.2k)](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
+*   [Libreddit (⭐4.4k)](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
 
 ### Software / Communication - XMPP - Web Clients
 
@@ -85,20 +85,16 @@
 
 *   [Magento Open Source (⭐11k)](https://github.com/magento/magento2) - Leading provider of open omnichannel innovation. `OSL-3.0` `PHP`
 *   [Mailchimp Open Commerce](https://mailchimp.com/developer/open-commerce/) - Customizable, real-time reactive, Javascript commerce platform (formerly Reaction Commerce). ([Source Code (⭐12k)](https://github.com/reactioncommerce/reaction)) `GPL-3.0` `Nodejs`
-*   [Open Source POS (⭐2.8k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
-*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐211)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
+*   [Open Source POS (⭐2.9k)](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale system. `MIT` `PHP`
+*   [OXID eShop](https://oxidforge.org/en/) - OXID eShop is a flexible open source e-commerce software with a wide range of functionalities. ([Source Code (⭐214)](https://github.com/OXID-eSales/oxideshop_ce)) `GPL-3.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Kriss Feed (⭐269)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
+*   [Kriss Feed (⭐272)](https://github.com/tontof/kriss_feed) - Simple and smart (or stupid) feed reader. `CC0-1.0` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Picsur (⭐158)](https://github.com/rubikscraft/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
-
-### Software / Ticketing
-
-*   [Helpy (⭐2.3k)](https://github.com/helpyio/helpy) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io/en)) `MIT` `Ruby`
+*   [Picsur (⭐204)](https://github.com/rubikscraft/Picsur) - A simple imaging hosting playtfom that allows you to easily host, edit, and share images. `GPL-3.0` `Docker`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -118,7 +114,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Wwise (⭐123)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+*   [Wwise (⭐135)](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 
 ## [10. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -141,7 +137,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [Phormal (⭐1)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
+*   [Phormal (⭐2)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
 
 ## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

@@ -8,46 +8,32 @@
 
 ## [1. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tools / React Frameworks
+### React Frameworks
 
-*   [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
+*   [remix](https://remix.run/) - Full stack web Framework that lets you focus on the user interface
 
-### React Tools / React Styling
-
-*   [aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
-
-### React Tools / React Routing
-
-*   [reach (⭐6.9k)](https://github.com/reach/router) - Next Generation Routing for React
-
-### React Native Awesome Components / Charts
+### React Native Awesome Components
 
 *   [react-native-gifted-chat (⭐12k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
-*   [recyclerlistview (⭐4.7k)](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
-*   [react-native-largelist (⭐2.3k)](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
-*   [react-native-gesture-handler (⭐5.2k)](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
-*   [rn-placeholder (⭐2k)](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
 
-### React Native Libraries / Charts
+### React Native Libraries
 
-*   [sentry-react-native (⭐1.3k)](https://github.com/getsentry/sentry-react-native) - Real-time crash reporting for your web apps, mobile apps, and games.
-*   [realm-js (⭐5k)](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
-*   [react-native-device-info (⭐5.9k)](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
+*   [realm-js (⭐5.2k)](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### ORMs
 
-*   [cl-dbi (⭐182)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-dbi (⭐185)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
     *   [dbd-oracle (⭐4)](https://github.com/sergadin/dbd-oracle) - an Oracle database driver for CL-DBI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions
 
-*   [fast-generic-functions (⭐82)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-generic-functions (⭐84)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
 
 ### Macro helpers / Third-party APIs
 
-*   [trivial-with-current-source-from (⭐27)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [trivial-with-current-source-from (⭐28)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -63,7 +49,7 @@
 
 *   [RSS.app](https://rss.app/) <sup>[110](https://t.me/s/aboutrss/110), [192](https://t.me/s/aboutrss/192)</sup>
 
-### specifically from (  *a certain platform*  ) / Telegram
+### specifically from (*a certain platform*) / Telegram
 
 *   [TelegramRSS](https://tg.i-c-a.su/) <sup>[569](https://t.me/s/aboutrss/569)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xtrime-ru/TelegramRSS)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -71,7 +57,7 @@
 
 *   [a Python script](https://www.sharpgan.com/receive-email-from-solidot-ithome-linuxcn/) <sup>[565](https://t.me/s/aboutrss/565)</sup> ![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)
 
-### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [KOTOMI RSS](https://moe4sale.in/) <sup>[18](https://t.me/s/aboutrss/18)</sup> : Anime RSS 索引站，将你的搜索结果订阅为 RSS 源 [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/greensea/rssindexer)
 *   [Comics RSS](https://www.comicsrss.com/) <sup>[566](https://t.me/s/aboutrss/566)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ArtskydJ/comicsrss.com)
@@ -125,7 +111,7 @@
 
 ### Alert / Barcode
 
-*   [PopupView (⭐2k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐2.2k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -138,7 +124,7 @@
 
 ### Command Line / XML
 
-*   [luneta (⭐54)](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
+*   [luneta (⭐56)](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
 
 ---
 

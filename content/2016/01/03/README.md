@@ -22,13 +22,13 @@
 
 ### C++
 
-*   [Pion (⭐292)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
+*   [Pion (⭐295)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [pgmpy (⭐2.3k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
+*   [pgmpy (⭐2.4k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

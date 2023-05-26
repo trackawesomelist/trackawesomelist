@@ -10,7 +10,7 @@
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐177)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐183)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ## [2. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Development tools / IDEs
 
-*   [lapce (⭐24k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
+*   [lapce (⭐26k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Node-RED (⭐354)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐361)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -58,24 +58,24 @@
 
 ### no-std crates / WIP
 
-*   [lorawan-encoding (⭐98)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
-*   [lorawan-device (⭐98)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
+*   [lorawan-encoding (⭐111)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
+*   [lorawan-device (⭐111)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
-*   [openrndr/orx (⭐91)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
+*   [openrndr/orx (⭐97)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Unge UI (⭐54)](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
+*   [Unge UI (⭐55)](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐120)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐147)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot Game Of Life (⭐18)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
+*   [Godot Game Of Life (⭐25)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐98)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐112)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [15. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -146,7 +146,7 @@
 
 ### Communications / IR
 
-*   [pico-ir (⭐3)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+*   [pico-ir (⭐4)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 ### Frameworks / SRAM
 

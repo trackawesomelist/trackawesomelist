@@ -10,7 +10,6 @@
 
 ### Articles
 
-*   [CSS class naming and BEM: Contemporary practice - Phil Baker](http://philbaker.me/2014/02/css-class-naming-and-bem-contemporary-practice/)
 *   [Expressive BEM with Sass: a different approach - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-a-different-approach)
 *   [Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins)
 
@@ -23,7 +22,6 @@
 *   [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
 *   [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
 *   [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
-*   [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
 *   [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
 *   [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
 *   [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)

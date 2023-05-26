@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [lambda-refarch-iotbackend :fire::fire: (⭐252)](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
+*   [lambda-refarch-iotbackend :fire::fire: (⭐254)](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
 
 ## [2. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Streaming / Barcode
 
-*   [HaishinKit (⭐2.4k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+*   [HaishinKit (⭐2.5k)](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Platforms
 
-*   [Home Assistant (⭐4.5k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐4.7k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Xamarin.Forms
 
-*   [XamarinControls ★17 (⭐104)](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
+*   [XamarinControls ★17 (⭐103)](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
 
 ## [10. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
@@ -120,27 +120,27 @@
 ### RESTful API
 
 *   [Compojure-api (⭐1.1k)](https://github.com/metosin/compojure-api)
-*   [reitit (⭐1.2k)](https://github.com/metosin/reitit)
+*   [reitit (⭐1.3k)](https://github.com/metosin/reitit)
 
 ### Web Framework
 
-*   [Reitit (⭐1.2k)](https://github.com/metosin/reitit)
+*   [Reitit (⭐1.3k)](https://github.com/metosin/reitit)
 
 ### JSON
 
-*   [jsonista (⭐361)](https://github.com/metosin/jsonista)
+*   [jsonista (⭐381)](https://github.com/metosin/jsonista)
 
 ### Async processing
 
-*   [manifold (⭐930)](https://github.com/ztellman/manifold)
+*   [manifold (⭐969)](https://github.com/ztellman/manifold)
 
 ### WebSocket
 
-*   [aleph (⭐2.4k)](https://github.com/ztellman/aleph)
+*   [aleph (⭐2.5k)](https://github.com/ztellman/aleph)
 
 ### Editor Plugins
 
-*   [Calva (VSCode) (⭐1.2k)](https://github.com/BetterThanTomorrow/calva)
+*   [Calva (VSCode) (⭐1.3k)](https://github.com/BetterThanTomorrow/calva)
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

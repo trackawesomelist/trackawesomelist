@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [dayron (⭐156)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐158)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [3. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md)
 
@@ -81,9 +81,9 @@
 ### Build Tools / Bare metal / kernel development
 
 *   [premake (⭐2)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-*   [reggae (⭐160)](https://github.com/atilaneves/reggae) - meta build system in D
-*   [Makefile (⭐21)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-*   [cmake-d (⭐59)](https://github.com/dcarp/cmake-d) - CMake D Projects
+*   [reggae (⭐163)](https://github.com/atilaneves/reggae) - meta build system in D
+*   [Makefile (⭐20)](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
+*   [cmake-d (⭐63)](https://github.com/dcarp/cmake-d) - CMake D Projects
 
 ### Data serialization / XML
 
@@ -104,7 +104,7 @@
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐751)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐754)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

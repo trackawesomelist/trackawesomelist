@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08 - Jun 14, 2015
 
-23 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,11 +30,11 @@
 
 ### I18n And L10n / Runner
 
-*   [babelfish (⭐246)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
+*   [babelfish (⭐249)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
 ### Image Processing / Other
 
-*   [pica (⭐3.2k)](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
+*   [pica (⭐3.3k)](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 
 ## [4. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
@@ -125,24 +125,13 @@
 
 *   `--and`, `--or` and `--not` Combine multiple patterns.
 
-## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Elixir / Non-X86
-
-*   [30 Days of Elixir (⭐3k)](https://github.com/seven1m/30-days-of-elixir) - Tim Morgan (HTML)
-
-### Erlang / Phoenix
-
-*   [Getting Started with Erlang User's Guide](http://www.erlang.org/doc/getting_started/users_guide.html) (HTML)
-*   [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) - Joe Armstrong (PDF)
-
-## [10. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [9. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Functional Programming
 
 *   [What is (functional) reactive programming?](http://stackoverflow.com/a/1030631/1766338)
 
-## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [10. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### CMS & Blogs
 
@@ -152,7 +141,7 @@
 
 *   [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
 
-## [12. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [11. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -162,21 +151,21 @@
 
 *   [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
 
-## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Miscellaneous
 
 *   [The original code from the DeepMind article + tweaks (⭐1.8k)](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
-*   [zlib-ng (⭐13)](https://github.com/Dead2/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
+*   [zlib-ng (⭐14)](https://github.com/Dead2/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
 
 ### Miscellaneous
 
-*   [ub-canaries (⭐163)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
+*   [ub-canaries (⭐165)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 
 ### Debugger
 
@@ -191,7 +180,7 @@
 *   [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - Will It Optimize?
 *   [Embedded in Academia](http://blog.regehr.org/)
 
-## [15. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [14. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -201,17 +190,17 @@
 
 *   [Cool examples of flexbox layout](http://codepen.io/collection/KegmA/) - A codepen a collection.
 
-## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
-*   [Dragablz (⭐1.9k)](https://github.com/ButchersBoy/Dragablz) - Dragable, tearable WPF tab control (similar to Chrome) which supports layouts and is full themeable, including themese compatible with MahApps and Material Design.
+*   [Dragablz (⭐2k)](https://github.com/ButchersBoy/Dragablz) - Dragable, tearable WPF tab control (similar to Chrome) which supports layouts and is full themeable, including themese compatible with MahApps and Material Design.
 
 ### Visual Studio Plugins
 
-*   [Git Diff Margin (⭐279)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
+*   [Git Diff Margin (⭐280)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 
-## [17. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [16. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Diagnostics
 
@@ -237,7 +226,7 @@
 
 *   [homebrew](http://brew.sh) - Makes it easy to install open source packages on an `OS X` system with a single command.
 
-## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [17. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Open Source Wallets
 
@@ -254,19 +243,19 @@
 
 ### Ruby Libraries
 
-*   [Bitcoin-ruby (⭐907)](https://github.com/lian/bitcoin-ruby)
+*   [Bitcoin-ruby (⭐905)](https://github.com/lian/bitcoin-ruby)
 
 ### Python Libraries
 
 *   [BlockTrail SDK Python (⭐21)](https://github.com/blocktrail/blocktrail-sdk-python)
 
-## [19. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [18. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### IoT / OS
 
 *   [Project Brillo](https://developers.google.com/brillo/)
 
-## [20. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [19. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Resource link collection / Image Deblurring
 
@@ -280,7 +269,7 @@
 
 *   [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
 
-## [21. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [20. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
@@ -290,7 +279,7 @@
 
 *   [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
 
-## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
@@ -308,7 +297,7 @@
 
 *   [MaterialKit (⭐2.5k)](https://github.com/nghialv/MaterialKit) - Material design components.
 
-## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -318,7 +307,7 @@
 
 ### Debugging
 
-*   [beaker (⭐281)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+*   [beaker (⭐282)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 
 ### Documentation
 
@@ -330,7 +319,7 @@
 
 ### Frameworks
 
-*   [rackla (⭐263)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
+*   [rackla (⭐264)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 
 ### Images
 
@@ -343,7 +332,7 @@
 ### ORM and Datamapping
 
 *   [caylir (⭐22)](https://github.com/mneudert/caylir) - Cayley driver for Elixir.
-*   [mysql (⭐343)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
+*   [mysql (⭐347)](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – MySQL driver for Erlang/OTP.
 *   [mysqlex (⭐7)](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
 
 ### Third Party APIs
@@ -352,7 +341,7 @@
 
 ### Reading
 
-*   [xElixir (⭐536)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
+*   [xElixir (⭐554)](https://github.com/exercism/xelixir) - Exercism Exercises in Elixir.
 
 ---
 

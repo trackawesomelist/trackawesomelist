@@ -15,7 +15,7 @@
 
 ### Cartridges / Custom cartridges
 
-*   [Nekocart (⭐80)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+*   [Nekocart (⭐83)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 *   [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/) - Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.
 
 ## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
@@ -74,30 +74,20 @@
 ### Software / R
 
 *   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
-*   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGM).
+*   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGMs).
     *   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.com/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
-*   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of ggplot2. See also: `tidygraph` R package.
-*   [levelnet (⭐8)](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
-*   [netrankr](https://cran.r-project.org/package=netrankr) - Up-to-date collection of network centrality indices, with lots of documentation.
-    *   [Network Centrality in R: An Introduction](http://blog.schochastics.net/post/network-centrality-in-r-introduction/) - Includes a review of relevant R packages.
-    *   [Network Centrality in R: Neighborhood Inclusion](http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/).
-    *   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
+*   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of `ggplot2`. See also: `tidygraph` R package.
+*   [levelnet (⭐9)](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
 
 ### Varia / Tutorials
 
 *   [Psych Networks](http://psych-networks.com/) - Website with news, references and [tutorials](https://psych-networks.com/tutorials/) about network modeling for psychological data.
 
-### Varia / Blog Series
-
-*   Daniel Little’s blog posts on the philosophy of social science:
-    *   [Networks](http://understandingsociety.blogspot.com/search/label/networks).
-    *   [Social Networks](http://understandingsociety.blogspot.com/search/label/social%20networks).
-
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / CLI utils
 
-*   [cac (⭐2.2k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐2.3k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ---
 

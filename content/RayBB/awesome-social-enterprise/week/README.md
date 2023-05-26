@@ -2,9 +2,15 @@
 
 📗Resources to dive into the world of social enterprises 🌼 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 56 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 59 · 🏷️ Business
 
 [ [Daily](/content/RayBB/awesome-social-enterprise/README.md) / Weekly / [Overview](/content/RayBB/awesome-social-enterprise/readme/README.md) ]
+
+## [May 08 - May 14, 2023](/content/2023/19/README.md)
+
+### Institutions 🏫 / Articles
+
+*   [Centre for Social Impact Swinburne](https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-social-impact-swinburne/)
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 

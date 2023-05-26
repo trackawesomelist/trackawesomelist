@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modal-dialogs (⭐294)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+*   [vue-modal-dialogs (⭐296)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
 
 ## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
@@ -77,7 +77,7 @@
 
 ### SDKs and Samples / IoT SDK
 
-*   [Repo for JavaScript :fire::fire::fire: (⭐945)](https://github.com/aws/aws-iot-device-sdk-js)
+*   [Repo for JavaScript :fire::fire::fire: (⭐952)](https://github.com/aws/aws-iot-device-sdk-js)
 
 ---
 

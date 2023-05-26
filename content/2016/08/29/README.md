@@ -28,7 +28,7 @@
 
 ### Internationalization
 
-*   [Termit (⭐508)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
+*   [Termit (⭐509)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [HoneyPy (⭐426)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
+*   [HoneyPy (⭐435)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
 
 ## [7. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

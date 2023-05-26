@@ -16,7 +16,7 @@
 
 ### Libraries / Python
 
-*   [Scapy (⭐8.4k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐8.4k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets.
+*   [Scapy (⭐8.7k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Scapy has a [module (⭐8.7k)](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) to build/dissect SNMP packets.
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Miscellaneous
 
-*   [Emoji picker (⭐11)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
+*   [Emoji picker (⭐14)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐564)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐581)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -53,11 +53,11 @@
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐45)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐65)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐204)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐270)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
 

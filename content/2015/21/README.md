@@ -6,26 +6,32 @@
 
 
 
-## [1. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Books
+
+*   [cppbestpractices (⭐7k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+
+## [2. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Leanote (⭐1.5k)](https://github.com/leanote/desktop-app) - Cloud notepad.
 
-## [2. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [3. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Online tools
 
 *   [ObjGen](http://www.objgen.com/json) - Online live JSON generator.
 
-## [3. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [4. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### IDEs, Editors, and Plugins
 
 *   [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 *   [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 
-## [4. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [5. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
@@ -42,13 +48,13 @@
 *   [Chit Chats](http://www.chitchats.co/)
 *   [The Evangelist Collective](https://github.com/evangelistcollective/)
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [6. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Navigation
 
 *   [MaterialDrawer (⭐12k)](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
 
-## [6. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Misc
 
@@ -57,7 +63,7 @@
     *   Topics include memoization, recurrence closed forms, string matching (sorting, hash tables, radix tries, and suffix tries), dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch), Bayesian statistics (e.g. the envelope paradox), graphical models (HMMs, Viterbi, junction tree, belief propagation), FFT, and the probabilistic convolution tree.
     *   [Lecture videos on Youtube](https://www.youtube.com/user/fillwithlight/videos) and for direct [download](http://mlecture.uni-bremen.de/ml/index.php?option=com_content\&view=article\&id=233)
 
-## [7. Tools](/content/lvwzhen/tools/week/README.md)
+## [8. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Favicon
 
@@ -73,21 +79,11 @@
 
 *   [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
 
-## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
 *   [Normalizando bugs no flexbox em diversos navegadores (pt-br)](http://imasters.com.br/front-end/css/normalizando-bugs-no-flexbox-em-diversos-navegadores/?trace=1519021197\&source=single)
-
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
-
-### Books
-
-*   [cppbestpractices (⭐6.8k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
-
-### Websites
-
-*   [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
 
 ## [10. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
@@ -153,11 +149,11 @@
 ### Collaboration Tools
 
 *   [SparkleShare (⭐4.8k)](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
-*   [lets chat (⭐9.6k)](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+*   [lets chat (⭐9.7k)](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 
 ### Code Quality
 
-*   [sonarqube (⭐7.2k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
+*   [sonarqube (⭐7.6k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
 *   [gerrit](https://gerrit.googlesource.com/) - Code Review
 
 ### CI / CD
@@ -168,16 +164,16 @@
 ### Security and PKI
 
 *   [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
-*   [OpenXPKI (⭐411)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
+*   [OpenXPKI (⭐440)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
 
 ### Bug trackers
 
-*   [Bugzilla (⭐475)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
-*   [Mantis (⭐1.4k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
+*   [Bugzilla (⭐527)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
+*   [Mantis (⭐1.5k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
 
 ### PaaS
 
-*   [OpenShift (⭐8.2k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+*   [OpenShift (⭐8.3k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
 
 ## [16. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -223,27 +219,23 @@
 
 ## [21. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
-### Articles
-
-*   [CSS Architecture: BEMCSS — Block, Element &  Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
-
 ### Slides & Videos / Videos
 
 *   [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)
 
 ### Slides & Videos / Other Awesome Lists
 
-*   [A curated list of awesome lists - @sindresorhus (⭐223k)](https://github.com/sindresorhus/awesome)
+*   [A curated list of awesome lists - @sindresorhus (⭐246k)](https://github.com/sindresorhus/awesome)
 
 ## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Templating
 
-*   [EJS (⭐6.9k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.1k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 
-*   [Stylecow (⭐156)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+*   [Stylecow (⭐159)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
 ## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 

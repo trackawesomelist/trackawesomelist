@@ -67,19 +67,19 @@
 
 ### Coordination & Governance / Scala
 
-*   [Conductor (⭐7.7k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
+*   [Conductor (⭐8.4k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 
 ### Job Schedulers / Workload Automation / Scala
 
 *   [Chronos (⭐4.3k)](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
-*   [Fenzo (⭐704)](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
+*   [Fenzo (⭐703)](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 *   [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
 *   [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 *   [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 
 ### Logging / Scala
 
-*   [Bunyan (⭐6.9k)](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
+*   [Bunyan (⭐7k)](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
 *   [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
 *   [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 *   [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
@@ -94,7 +94,7 @@
 *   [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
 *   [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
 *   [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
-*   [Parallec (⭐806)](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
+*   [Parallec (⭐807)](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
 *   [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
 *   [REST Commander (⭐904)](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
 *   [Riemann](http://riemann.io/) - Monitors distributed systems.
@@ -120,10 +120,10 @@
 
 ### Security / Scala
 
-*   [Dex (⭐7.8k)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
+*   [Dex (⭐7.9k)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
 *   [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 *   [Keycloak (⭐15k)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
-*   [Light OAuth2 (⭐293)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
+*   [Light OAuth2 (⭐295)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
 *   [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 *   [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
 *   [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.

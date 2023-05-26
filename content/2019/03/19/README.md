@@ -10,7 +10,7 @@
 
 ### Package Repositories
 
-*   [bandersnatch (⭐347)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐364)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ## [2. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐195)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐198)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Realm
 
-*   [RealmWrapper (⭐72)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
+*   [RealmWrapper (⭐73)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Transport-layer defenses / Threat signature packages and collections
 
-*   [MITMEngine (⭐631)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
+*   [MITMEngine (⭐678)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [libsndfile (⭐1.1k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
+*   [libsndfile (⭐1.2k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 
 ---
 

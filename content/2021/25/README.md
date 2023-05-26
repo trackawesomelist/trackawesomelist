@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 21 - Jun 27, 2021
 
-58 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Sklearn-genetic-opt (⭐192)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
+*   [Sklearn-genetic-opt (⭐204)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
 
 ## [2. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Motion / Diagnostics
 
-*   [phaazon/hop.nvim (⭐2k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [phaazon/hop.nvim (⭐2.2k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 *   [ggandor/lightspeed.nvim (⭐1.5k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
@@ -54,21 +54,21 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsondiffpatch-react (⭐5)](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
+*   [jsondiffpatch-react (⭐7)](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
-*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐135)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐60)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐138)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐67)](https://github.com/alexyakunin/BoardGames)
 
 ### Caching
 
-*   [FusionCache (⭐449)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
+*   [FusionCache (⭐647)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 
 ### E-Commerce and Payments
 
-*   [GrandNode (⭐688)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
+*   [GrandNode (⭐753)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -86,9 +86,9 @@
 
 ### Scripting languages and interpreters for DOS
 
-*   [DOjS (⭐511)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
+*   [DOjS (⭐601)](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
 *   [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
-*   [Micropython for FreeDOS (⭐17)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐16k)](https://github.com/micropython/micropython).
+*   [Micropython for FreeDOS (⭐21)](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython (⭐17k)](https://github.com/micropython/micropython).
 *   [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 *   [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
 
@@ -102,7 +102,7 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Polygon 2D Fracture (⭐197)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
+*   [Godot Polygon 2D Fracture (⭐212)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 
 ### GDScript/C# editor support / Godot version unknown
 
@@ -134,13 +134,13 @@
 
 ### Packages / RMW (ROS middleware)
 
-*   [rmw\_iceoryx (⭐103)](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
+*   [rmw\_iceoryx (⭐113)](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
 
 ## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Playbooks
 
-*   [AWS Incident Response Runbook Samples (⭐715)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
+*   [AWS Incident Response Runbook Samples (⭐760)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 
 ## [18. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -171,14 +171,14 @@
 
 ### Math
 
-*   [CXXGraph (⭐201)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
-*   [NumCpp (⭐2.8k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
+*   [CXXGraph (⭐242)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [NumCpp (⭐2.9k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
 
 ## [21. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [gaia (⭐662)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
+*   [gaia (⭐720)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
 
 ## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -210,23 +210,23 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [budgetzero (⭐525)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
+*   [budgetzero (⭐560)](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`
 
 ### Software / Note-taking & Editors
 
-*   [Notes'n'Todos (⭐16)](https://github.com/larspontoppidan/notesntodos) - Write notes and todos online in markdown with tag filtering and date sorting. ([Demo](https://lpss.dk/nnt-playground/)) `MIT` `Python`
+*   [Notes'n'Todos (⭐18)](https://github.com/larspontoppidan/notesntodos) - Write notes and todos online in markdown with tag filtering and date sorting. ([Demo](https://lpss.dk/nnt-playground/)) `MIT` `Python`
 
 ### External Links / Wikis
 
-*   [Awesome Sysadmin (⭐17k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+*   [Awesome Sysadmin (⭐18k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 
 ## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
 *   Data visualization
-    *   [nukesor/comfy-table (⭐583)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
-    *   [zhiburt/tabled (⭐1.3k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums.  [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
+    *   [nukesor/comfy-table (⭐642)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+    *   [zhiburt/tabled (⭐1.4k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
 ## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -300,23 +300,23 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Java
-    *   [by @jpa99 (⭐106)](https://github.com/jpa99/Algorithms)
+    *   [by @jpa99 (⭐110)](https://github.com/jpa99/Algorithms)
     *   [by @phishman3579 (⭐4.2k)](https://github.com/phishman3579/java-algorithms-implementation)
     *   [by @asmolich (⭐14)](https://github.com/asmolich/algorithms)
     *   [by @psjava (⭐70)](https://github.com/psjava/psjava)
     *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
     *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
-    *   [by @Erdos-Graph-Framework (⭐111)](https://github.com/Erdos-Graph-Framework/Erdos)
+    *   [by @Erdos-Graph-Framework (⭐112)](https://github.com/Erdos-Graph-Framework/Erdos)
     *   [by @deepak-malik (⭐131)](https://github.com/deepak-malik/Data-Structures-In-Java)
-    *   [by @yusufcakal (⭐22)](https://github.com/yusufcakal/algorithms)
-    *   [by @FarheenB (⭐131)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
+    *   [by @yusufcakal (⭐23)](https://github.com/yusufcakal/algorithms)
+    *   [by @FarheenB (⭐132)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 
 ## [36. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [WAIL (⭐296)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐108)](https://github.com/n0tan3rd/wail). *(Stable)*
-*   [Warcprox (⭐331)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
+*   [WAIL (⭐314)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐112)](https://github.com/n0tan3rd/wail). *(Stable)*
+*   [Warcprox (⭐339)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
 
 ## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -357,23 +357,37 @@
 
 *   [TLA Black Women In Tech](https://theblackwomenintech.com/) - Not-for-profit organisation dedicated to building bridges of opportunities in tech by enabling black female talents to excel and companies to have access to black women of talent.
 
-## [42. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [42. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### C / 理論計算機科学
+
+*   [C言語のドキュメント](https://docs.microsoft.com/ja-jp/cpp/c-language) - Microsoft Docs
+
+### JavaScript / Spock Framework
+
+*   [とほほのJavaScriptリファレンス](https://www.tohoho-web.com/js) - 杜甫々
+
+### Julia / Svelte
+
+*   [物理で使う数値計算入門：Julia言語による簡単数値計算 (⭐7)](https://github.com/cometscome/Julianotes) - 永井佑紀
+
+## [43. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### PHP
 
 *   [Assert true (⭐19)](https://github.com/joubertredrat/assert-true) - A lot of ways to you set your assert as true.
 
-## [43. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [44. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### validation
 
-*   [gjf (⭐91)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
+*   [gjf (⭐96)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
 
 ### serialization
 
 *   [geojson-serializer (⭐6)](https://github.com/ancore/geojson-serializer): serialize Java with annotations as GeoJSON
 
-## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [45. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -381,31 +395,31 @@
 
 ### Starters & Themes
 
-*   📟 [new-tailwind-app (⭐242)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+*   📟 [new-tailwind-app (⭐245)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 
-## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [46. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Solarus](https://www.solarus-games.org/) - Cross-platform 2D Action/Adventure C++ game engine with Lua API and game editor.
 
-## [46. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [47. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
-*   [Casdoor (⭐5.1k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
+*   [Casdoor (⭐5.8k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
 ### Authorization / Open-source policy frameworks
 
 *   [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
 
-## [47. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [48. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [Vortice.Vulkan (⭐195)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -448,24 +462,24 @@
 
 *   [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.
 
-## [49. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [50. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-interpolate-path (⭐294)](https://github.com/pbeshai/d3-interpolate-path) - Interpolates paths with different number of points
 
-## [50. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [51. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
-*   [ipychart (⭐71)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐72)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
 *   [Ganimede (⭐3)](https://github.com/manugraj/ganimede) - Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.
-*   [Voila (⭐4.6k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
+*   [Voila (⭐4.7k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
 
-## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
@@ -474,7 +488,7 @@
 *   \#clschool on Libera Chat - IRC channel for learning Common Lisp.
 *   \#lispcafe on Libera Chat - IRC channel for off-topic discussions.
 
-## [52. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [53. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Network Statistics
 
@@ -492,23 +506,23 @@
 
 *   [Reddit Golem Stat Bot (⭐3)](https://github.com/figurestudios/golem-stat-bot) - Scrapes Reddit posts on /r/GolemProject, and replies if specific keywords/commands are found.
 
-## [53. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [54. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Docker
 
 *   [Top 50 Docker Interview Questions & Answers](https://www.wissenhive.com/blogs/top-50-docker-interview-questions-and-answers)
 
-## [54. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [55. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Quick Start
 
 *   [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA) - A basic introduction to change in the IT industry using the concept of Wardley maps by Simon Wardley (9:56).
 
-## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [56. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐3.1k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐3.2k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -517,33 +531,33 @@
 ### Components & Libraries / UI Components
 
 *   [@egjs/vue-flicking (⭐2.3k)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
-*   [vue3-openlayers (⭐410)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
+*   [vue3-openlayers (⭐455)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 
 ### Components & Libraries / Frameworks
 
-*   [Qui-max (⭐227)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
+*   [Qui-max (⭐239)](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 
 ### Components & Libraries / Utilities
 
-*   [v-google-translate (⭐268)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
+*   [v-google-translate (⭐278)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 
 ### Components & Libraries / Integrations
 
-*   [vue-tweet (⭐28)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+*   [vue-tweet (⭐30)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
-## [56. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [57. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
-*   [SCIM for keycloak (⭐134)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
+*   [SCIM for keycloak (⭐147)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
-## [57. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [58. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mods / Performance
 
 *   [Sodium (for Fabric) (⭐3.9k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
-## [58. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [59. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Transportation
 

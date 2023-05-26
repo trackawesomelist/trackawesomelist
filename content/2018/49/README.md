@@ -71,10 +71,10 @@
 ### Endpoint / Mobile / Android / iOS
 
 *   [Mobile Security Wiki](https://mobilesecuritywiki.com/) - A collection of mobile security resources.
-*   [Apktool (⭐15k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
-*   [jadx (⭐32k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
-*   [enjarify (⭐828)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
-*   [Android Storage Extractor (⭐10)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
+*   [Apktool (⭐16k)](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+*   [jadx (⭐35k)](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+*   [enjarify (⭐866)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
+*   [Android Storage Extractor (⭐12)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
 ## [10. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Image Processing
 
-*   [stb-image (⭐21k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
+*   [stb-image (⭐22k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
 
 ## [13. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Contents / High-Availability
 
-*   [pglookout (⭐153)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+*   [pglookout (⭐159)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 
 ### Contents / Backups
 
@@ -175,7 +175,7 @@
 
 ### Contents / Extensions
 
-*   [pg\_partman (⭐1.4k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+*   [pg\_partman (⭐1.5k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 *   [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 
 ### Contents / Optimization
@@ -184,7 +184,7 @@
 
 ### Contents / Utilities
 
-*   [PostgREST (⭐19k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
+*   [PostgREST (⭐20k)](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
 *   [sqitch (⭐2.5k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 
 ### Contents / Language bindings
@@ -210,13 +210,13 @@
 
 ### Bindings / MIT
 
-*   [svd2ada (⭐52)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐51)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
 ## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [SCM Breeze (⭐2.6k)](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/scmbreeze/scm_breeze)
+*   [SCM Breeze (⭐2.7k)](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/scmbreeze/scm_breeze)
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐639)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐643)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ## [23. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -508,7 +508,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [is-wsl for Node (⭐168)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [is-wsl for Node (⭐175)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [35. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -560,7 +560,7 @@
 
 ### Languages
 
-*   [Charcoal (⭐178)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
+*   [Charcoal (⭐190)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
 
 ## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

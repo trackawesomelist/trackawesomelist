@@ -11,7 +11,7 @@
 ### Storage / Runner
 
 *   [lawnchair.js (⭐2.1k)](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-*   [sql.js (⭐94)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+*   [sql.js (⭐100)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 ### Color / Runner
 
@@ -47,7 +47,7 @@
 
 ### Tools and Apps / Task Management
 
-*   [Pomolectron (⭐571)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐575)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 
 ## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -67,8 +67,8 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐244)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [jingle (⭐38)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+*   [ningle (⭐246)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐43)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
         *   includes an OpenAPI and Swagger UI demo.
 
 ### Other / Third-party APIs
@@ -153,7 +153,7 @@
     Flexible Ruby ANN implementation with backprop (through-time, for recurrent
     nets), gradient checking, adagrad, and parallel batch execution.
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
 *   <a name="opencv"></a>
     [OpenCV](https://opencv.org/)
@@ -191,18 +191,18 @@
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐418)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
+*   [ocaml-containers (⭐439)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
 
 ## [21. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [NextJS in Firebase with Bootstrap (⭐26)](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
-*   [Next Express Bootstrap Boilerplate (⭐112)](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
+*   [NextJS in Firebase with Bootstrap (⭐25)](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
+*   [Next Express Bootstrap Boilerplate (⭐111)](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
 
 ### Apps
 
-*   [Snape (⭐788)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+*   [Snape (⭐794)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
 ## [22. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
@@ -229,13 +229,13 @@
 
 ### Contents / Monitoring
 
-*   [pgwatch2 (⭐1.3k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.
+*   [pgwatch2 (⭐1.5k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.
 
 ## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Data
 
-*   [LeetCode-Swift (⭐4.5k)](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
+*   [LeetCode-Swift (⭐4.6k)](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
 
 ## [26. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -257,17 +257,17 @@
 
 ### Security
 
-*   [VPN Manager (⭐144)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
+*   [VPN Manager (⭐148)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
 
 ## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
-*   [BlogEngine.NET (⭐911)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐916)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 
-*   [Valit (⭐313)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
+*   [Valit (⭐314)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 
 ## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -313,8 +313,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modal-dialogs (⭐294)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
-*   [vue-cleave-component (⭐284)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+*   [vue-modal-dialogs (⭐296)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+*   [vue-cleave-component (⭐285)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 ## [36. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -357,11 +357,11 @@
 
 ### SDKs and Samples / IoT SDK
 
-*   [Repo for JavaScript :fire::fire::fire: (⭐945)](https://github.com/aws/aws-iot-device-sdk-js)
+*   [Repo for JavaScript :fire::fire::fire: (⭐952)](https://github.com/aws/aws-iot-device-sdk-js)
 
 ### Open Source Repos / Lambda
 
-*   [amazon-elasticsearch-lambda-samples :fire::fire: (⭐393)](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
+*   [amazon-elasticsearch-lambda-samples :fire::fire: (⭐394)](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
 
 ---
 

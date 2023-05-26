@@ -10,13 +10,13 @@
 
 ### Data Visualization
 
-*   [Ruby/GraphViz (⭐599)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
+*   [Ruby/GraphViz (⭐603)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### QA Tools / Runner
 
-*   [ESLint (⭐22k)](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+*   [ESLint (⭐23k)](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

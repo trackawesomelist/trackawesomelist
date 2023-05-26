@@ -29,7 +29,7 @@
 ### Libraries / Scripting
 
 *   [gluon-lang/gluon (⭐2.8k)](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
-*   [murarth/ketos (⭐722)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
+*   [murarth/ketos (⭐731)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

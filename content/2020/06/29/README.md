@@ -15,7 +15,7 @@
 
 ### Tools
 
-*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐473)](https://github.com/adorsys/keycloak-config-cli)
+*   [keycloak-config-cli: Configuration as Code for Keycloak (⭐513)](https://github.com/adorsys/keycloak-config-cli)
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -25,7 +25,7 @@
 
 ### Calendar / Barcode
 
-*   [ElegantCalendar (⭐572)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐627)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ### Label / Barcode
 
@@ -47,14 +47,14 @@
 
 ### Contents / Tools
 
-*   [Jagnik (⭐35)](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool  in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
+*   [Jagnik (⭐35)](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Authentication
 
-*   [TheIdServer (⭐535)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐57)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [TheIdServer (⭐560)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [Blorc.OpenIdConnect (⭐63)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 
 ### Courses / Others
 
@@ -70,7 +70,7 @@
 
 ### Software / VPN
 
-*   [Nebula (⭐11k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
+*   [Nebula (⭐12k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 
 ## [9. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -143,19 +143,19 @@
 
 ### Architecture and Design
 
-*   [rqt\_launchtree (⭐44)](https://github.com/pschillinger/rqt_launchtree) - An RQT plugin for hierarchical launchfile configuration introspection.
+*   [rqt\_launchtree (⭐46)](https://github.com/pschillinger/rqt_launchtree) - An RQT plugin for hierarchical launchfile configuration introspection.
 
 ### Frameworks and Stacks
 
-*   [mod\_vehicle\_dynamics\_control (⭐141)](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
+*   [mod\_vehicle\_dynamics\_control (⭐165)](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
 
 ### Sensor Processing / Radar Processing
 
-*   [CameraRadarFusionNet (⭐295)](https://github.com/TUMFTM/CameraRadarFusionNet) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
+*   [CameraRadarFusionNet (⭐330)](https://github.com/TUMFTM/CameraRadarFusionNet) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
 
 ### Planning and Control / Vector Map
 
-*   [global\_racetrajectory\_optimization (⭐244)](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
+*   [global\_racetrajectory\_optimization (⭐293)](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

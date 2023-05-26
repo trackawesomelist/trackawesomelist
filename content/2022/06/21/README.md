@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 21, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,7 +32,7 @@
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [Canopas/Intro-showcase-view (⭐250)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
+*   [Canopas/Intro-showcase-view (⭐270)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
 
 ## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
@@ -59,13 +59,19 @@
 
 ### RPC
 
-*   [gRPCurl (⭐8.3k)](https://github.com/fullstorydev/grpcurl) - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
+*   [gRPCurl (⭐8.7k)](https://github.com/fullstorydev/grpcurl) - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
 
 ### Serialization
 
 *   [F# Data](https://fsprojects.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Financial Instruments and Pricing
+
+*   [OpenBB Terminal (⭐22k)](https://github.com/OpenBB-finance/OpenBBTerminal) - Terminal for investment research for everyone.
+
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### JavaScript / React
 
@@ -74,25 +80,25 @@
 *   [React Native Newsletter](https://reactnativenewsletter.com/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 *   [React Native Now](https://reactnativenow.com/). Hand picking the best React Native news, tutorials, libraries, articles, and videos.
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS-Bridge / Outline Processor Markup Language
 
 *   [Public Hosts](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html) <sup>[576](https://t.me/s/aboutrss/576)</sup>
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [Test-Driving CSS Styles in Blazor](https://www.youtube.com/watch?v=06chSzVeuls) - ![duration](https://img.shields.io/badge/Duration:%20-32%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=microsoft) June 20, 2022 - This video is about test-driving CSS styles in Blazor.
 
-## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Follow / Community
 
 *   📹 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - A YouTube channel by Jeff Delaney, a Google Firebase expert and creator of the famous "X in 100 Seconds" videos.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Game Development
 

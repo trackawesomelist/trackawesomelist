@@ -10,7 +10,7 @@
 
 ### API
 
-*   [Telegram.Bot (⭐2.6k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
+*   [Telegram.Bot (⭐2.7k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ### Business Intelligence
 
@@ -18,7 +18,7 @@
 
 ### Machine Learning and Data Science
 
-*   [ML.NET (⭐8.3k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
+*   [ML.NET (⭐8.4k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
 
 ### Protocols
 

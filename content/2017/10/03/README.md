@@ -1,18 +1,12 @@
 # Awesome List Updates on Oct 03, 2017
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/README.md)
-
-### Courses
-
-*   [COMP6714 Information Retrieval and Web Search](http://www.cse.unsw.edu.au/\~cs6714/17s2/index.html) - Prof. Wei Wang (University of New South Wales).
-
-## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [1. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -22,7 +16,7 @@
 
 *   [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Utilities
 
@@ -38,7 +32,7 @@
 
 ### Networking
 
-*   [RubyDNS (⭐690)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+*   [RubyDNS (⭐689)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 
 ### State Machines
 
@@ -46,11 +40,11 @@
 
 ### View helpers
 
-*   [Bh (⭐832)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
+*   [Bh (⭐831)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 *   [gon (⭐3k)](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 *   [PluggableJs (⭐53)](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 
-## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### GLSL Editors
 
@@ -66,19 +60,19 @@
 
 *   [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [Mac-CLI (⭐8.4k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac-CLI (⭐8.5k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Machine Learning
 
-*   [ai4cr (⭐26)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐712)](https://github.com/SergioFierens/ai4r))
+*   [ai4cr (⭐27)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐710)](https://github.com/SergioFierens/ai4r))
 
-## [7. Bots](/content/hackerkid/bots/README.md)
+## [6. Bots](/content/hackerkid/bots/README.md)
 
 ### Tools For Building Bots
 
@@ -107,14 +101,14 @@
 
 ### Discord / Node.js
 
-*   [Eris (⭐1.3k)](https://github.com/abalabahaha/eris)
-*   [Discord.js (⭐21k)](https://github.com/hydrabolt/discord.js)
+*   [Eris (⭐1.4k)](https://github.com/abalabahaha/eris)
+*   [Discord.js (⭐22k)](https://github.com/hydrabolt/discord.js)
 *   [Discordie (⭐192)](https://github.com/qeled/discordie)
 *   [Discord.io (⭐529)](https://github.com/izy521/discord.io)
 
 ### Discord / C#
 
-*   [Discord.Net (⭐2.8k)](https://github.com/RogueException/Discord.Net)
+*   [Discord.Net (⭐2.9k)](https://github.com/RogueException/Discord.Net)
 
 ### Discord / Python
 
@@ -122,20 +116,20 @@
 
 ### Discord / Java
 
-*   [JDA (⭐3.3k)](https://github.com/DV8FromTheWorld/JDA/)
+*   [JDA (⭐3.6k)](https://github.com/DV8FromTheWorld/JDA/)
 
 ### Discord / Rust
 
-*   [Serenity (⭐3k)](https://github.com/zeyla/serenity)
+*   [Serenity (⭐3.5k)](https://github.com/zeyla/serenity)
 
 ### Discord / Lua
 
-*   [Discordia (⭐552)](https://github.com/SinisterRectus/Discordia)
+*   [Discordia (⭐586)](https://github.com/SinisterRectus/Discordia)
 
 ### Kik / Go
 
-*   [Python (⭐66)](https://github.com/kikinteractive/kik-python)
-*   [Node.JS (⭐96)](https://github.com/kikinteractive/kik-node)
+*   [Python (⭐68)](https://github.com/kikinteractive/kik-python)
+*   [Node.JS (⭐95)](https://github.com/kikinteractive/kik-node)
 
 ### Bot Stores / Go
 
@@ -163,7 +157,7 @@
 *   [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
 *   [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
 
-## [8. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [7. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Events/Meetups / Ruby
 
@@ -231,7 +225,7 @@
 
     Connecting women with jobs that actually lead to work-life balance. Specializing in remote work for women. In addition to job boards, it contains information about time-management, self-efficacy etc.
 
-## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [8. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -2117,42 +2111,42 @@
 
 
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Testing / Barcode
 
-*   [Nimble (⭐4.6k)](https://github.com/Quick/Nimble) - A matcher framework.
+*   [Nimble (⭐4.7k)](https://github.com/Quick/Nimble) - A matcher framework.
 
 ### Alert / Barcode
 
-*   [Swift-Prompts (⭐736)](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
+*   [Swift-Prompts (⭐734)](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
 
-## [11. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [10. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Other
 
 *   [framer-bootstrap (⭐31)](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment.
 
-## [12. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [11. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Gitential.com](https://gitential.com) - Measure and visualize coding hours, productivity, efficiency of projects, teams, repos or individual developers.
 
-## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [12. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Research Papers
 
 *   [A Car Hacking Experiment: When Connectivity Meets Vulnerability](http://ieeexplore.ieee.org/abstract/document/7413993/)
 *   [Security issues and vulnerabilities in connected car systems](http://ieeexplore.ieee.org/abstract/document/7223297/)
 
-## [14. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [13. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Services / Nice-to-have :thumbsup:
 
 *   [Abstract](https://www.goabstract.com/) - Version control and collaboration for Sketch files.
 
-## [15. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [14. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Backup
 

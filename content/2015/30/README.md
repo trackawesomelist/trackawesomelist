@@ -16,7 +16,7 @@
 
 ### Audio
 
-*   [SELA (⭐208)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
+*   [SELA (⭐207)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
 ## [3. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Cryptography
 
-*   [StreamCryptor (⭐123)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
+*   [StreamCryptor (⭐126)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 
 ### ORM
 
-*   [LINQ to DB (⭐2.5k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
+*   [LINQ to DB (⭐2.6k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 
 ## [6. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐721)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐741)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [8. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -113,13 +113,13 @@
 
 ### conversion
 
-*   [esri2open (⭐247)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+*   [esri2open (⭐248)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 
 ## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Podcasts / Other
 
-*   [enaqx/awesome-react (⭐53k)](https://github.com/enaqx/awesome-react)
+*   [enaqx/awesome-react (⭐55k)](https://github.com/enaqx/awesome-react)
 
 ## [12. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -324,7 +324,7 @@ git branch --contains <commit-ish>
 ### Ask these people anything!
 
 *   [Kyle Robinson Young (⭐1)](https://github.com/shama/ama) - Makes stuff and likes bears.
-*   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐213)](https://github.com/nodejs/iojs.org).
+*   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐218)](https://github.com/nodejs/iojs.org).
 
 ## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

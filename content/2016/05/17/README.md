@@ -1,6 +1,6 @@
 # Awesome List Updates on May 17, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -85,13 +85,7 @@
 
 *   [RxKotlin/Pocket (⭐30)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 
-## [9. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
-
-### Experiments
-
-*   [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
-
-## [10. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+## [9. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
 ### Machine Learning
 

@@ -205,7 +205,7 @@ TBD - PR Welcome!
 
 ### Third Party APIs
 
-*   [pay (⭐27)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
+*   [pay (⭐26)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 
 ## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -229,22 +229,12 @@ TBD - PR Welcome!
 
 *   [Circos](http://circos.ca/) - Cross-platform program to produce circular layouts of network data, written in Perl.
 *   [easyN](http://www.esyn.org/) - Online tool aimed at representing and sharing gene interaction networks as well as Petri net models.
-*   [Segrada](http://segrada.org/) - Cross-platform tool to build and visualize semantic graph databases.
 *   [SPaTo Visual Explorer](http://www.spato.net/) - Cross-platform program for the visualization and exploration of complex networks.
-
-### Software / C / C++
-
-*   [MapEquation](http://www.mapequation.org/) - C++ code for the Infomap method of multilevel community detection.
-
-### Software / JavaScript
-
-*   [Popoto.js](http://www.popotojs.com/) - Library based on d3.js that provides a graph based search interface.
 
 ### Software / MATLAB
 
 *   [Complex Networks Package for MatLab](http://www.levmuchnik.net/Content/Networks/ComplexNetworksPackage.html).
 *   [Generalized Louvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain) - Variant of the Louvain community detection algorithm.
-*   [MatlabBGL](http://dgleich.github.io/matlab-bgl/) - Graph library based on the C++ Boost Graph Library.
 
 ### Software / Python
 

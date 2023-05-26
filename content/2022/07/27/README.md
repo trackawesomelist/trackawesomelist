@@ -10,7 +10,7 @@
 
 ### Queue
 
-*   [SlimMessageBus (⭐337)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
+*   [SlimMessageBus (⭐362)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 
 ## [2. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
@@ -77,13 +77,12 @@
 ### Paper Writing
 
 *   [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
-*   [BibTex Template](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/BibTex/template.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
 
 ### Knowledge Management
 
 *   [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
 
-### Causality / Science Education
+### Causality / Democratization
 
 *   [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl's tutorials on causal reasoning with operations on Bayesian networks.
 

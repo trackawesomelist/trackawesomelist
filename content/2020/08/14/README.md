@@ -26,15 +26,15 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage Desktop Maker (⭐3)](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
+*   [AppImage Desktop Maker (⭐5)](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
 
 ### AppImage consumption tools / Sandboxes
 
-*   [Firejail (⭐4.7k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
+*   [Firejail (⭐4.8k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
 
 ### AppImage consumption tools / Package managers
 
-*   [Zap (⭐379)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
+*   [Zap (⭐390)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 
 ### AppImage developer tools / Metadata tools
 
@@ -45,19 +45,19 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Multi-tenancy with Prisma (⭐304)](https://github.com/errorname/prisma-multi-tenant)
+*   [Multi-tenancy with Prisma (⭐350)](https://github.com/errorname/prisma-multi-tenant)
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Geolocation
 
-*   [wheretz (⭐8)](https://github.com/UA3MQJ/wheretz) - Elixir version of Ruby gem for lookup of timezone by georgraphic coordinates.
+*   [wheretz (⭐10)](https://github.com/UA3MQJ/wheretz) - Elixir version of Ruby gem for lookup of timezone by georgraphic coordinates.
 
 ## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Django
 
-- Name: [Django-shop (⭐2.9k)](https://github.com/awesto/django-shop)
+- Name: [Django-shop (⭐3k)](https://github.com/awesto/django-shop)
 
   Description: A Django based shop system
 
@@ -74,11 +74,11 @@
 
 ### Electron
 
-- Name: [Lavendel (⭐4)](http://github.com/timo-cmd/lavendel)
+- Name: [Lavendel](http://github.com/timo-cmd/lavendel)
 
   Description: Cross platform desktop app >2.5kb containing a cute timer
 
-  Link: [https://github.com/timo-cmd/Lavendel (⭐4)](https://github.com/timo-cmd/Lavendel)
+  Link: <https://github.com/timo-cmd/Lavendel>
 
 
 
@@ -86,11 +86,11 @@
 
 ### Development Environment / Version Control
 
-*   [lazygit (⭐30k)](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
+*   [lazygit (⭐34k)](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
 
 ### Planning and Control / Vector Map
 
-*   [dual quaternions ros (⭐27)](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
+*   [dual quaternions ros (⭐26)](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -127,7 +127,7 @@
 ### DevSecOps / Service meshes
 
 *   [Bane (⭐1.1k)](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
-*   [Trivy (⭐15k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+*   [Trivy (⭐17k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
 
 ---
 

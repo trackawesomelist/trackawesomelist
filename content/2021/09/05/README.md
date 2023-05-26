@@ -40,7 +40,7 @@
 
 ### data
 
-*   [historical-basemaps (⭐293)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+*   [historical-basemaps (⭐310)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -52,14 +52,14 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [celery-exporter (⭐203)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
+*   [celery-exporter (⭐261)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code (⭐125)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
-*   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐931)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
+*   [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code (⭐126)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
+*   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐954)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
 
 ## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -127,21 +127,21 @@
 *   [emails2rss](http://emails2rss.appspot.com/) <sup>[1076](https://t.me/s/aboutrss/1076)</sup>
 *   [Mailnesia](https://mailnesia.com/) <sup>[1076](https://t.me/s/aboutrss/1076)</sup>
 
-### specifically from (  *a certain platform*  ) / Twitter
+### specifically from (*a certain platform*) / Twitter
 
 *   [nitter](https://nitter.net) <sup>[645](https://t.me/s/aboutrss/645)</sup>[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/zedeus/nitter)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
     *   [nitter.snopyta.org](https://nitter.snopyta.org/) <sup>[680](https://t.me/s/aboutrss/680)</sup>
     *   [Twiiit](https://twiiit.com/) <sup>[1084](https://t.me/s/aboutrss/1084)</sup>
 
-### specifically from (  *a certain platform*  ) / GitHub
+### specifically from (*a certain platform*) / GitHub
 
 *   [TrackAwesomeList](https://www.trackawesomelist.com) <sup>[1075](https://t.me/s/aboutrss/1075)</sup>
 
-### specifically from (  *a certain platform*  ) / Links on social streams
+### specifically from (*a certain platform*) / Links on social streams
 
 *   [TOFEED](https://tofeed.net/) <sup>[1080](https://t.me/s/aboutrss/1080)</sup>
 
-### specifically from (  *a certain platform*  ) / Wechat Subscription Accounts (微信公众号)
+### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
 *   [feeddd](https://feeddd.org/) <sup>[1091](https://t.me/s/aboutrss/1091)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -150,32 +150,32 @@
 *   [BalloonRSS](https://embyt.github.io/balloonrss/index.html) <sup>[851](https://t.me/s/aboutrss/851)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://embyt.github.io/balloonrss/download.html)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/embyt/balloonrss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [INK RSS](https://channel.1nk.workers.dev/channel) <sup>[1078](https://t.me/s/aboutrss/1078)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pureink/inkrss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2BOARD / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### RSS2BOARD / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Weavr Boards](https://weavr.ai/blogs/Knowledge-curation-and-sharing-made-easy-through-Weavr-Boards-and-RSS-Feeds) <sup>[1077](https://t.me/s/aboutrss/1077)</sup>
 *   [SnipRSS](https://sniprss.com/) <sup>[1077](https://t.me/s/aboutrss/1077)</sup>
 
-### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [~~FeedOcean: Full Text RSS Feed~~](https://rss2full.feedocean.com/) <sup>[594](https://t.me/s/aboutrss/594)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedocean/rss2full)
 
-### News / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### News / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [Awesome-newsCN-feeds (⭐38)](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
+*   [Awesome-newsCN-feeds (⭐39)](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Awesome-techCN-feeds (⭐9)](https://github.com/RSS-Renaissance/awesome-techCN-feeds)
 
 ### Multi-subject / Crypto or Blockchain relevant
 
-*   [Awesome RSS Feeds (⭐213)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
+*   [Awesome RSS Feeds (⭐299)](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/spians/awesome-rss-feeds)
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
 
 *   [中文博客RSS订阅](https://t.me/s/chinarss) <sup>[299](https://t.me/s/aboutrss/299)</sup>
 *   [RSSBlog](https://rssblog.cn/) <sup>[1079](https://t.me/s/aboutrss/1079)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/caibingcheng/rssblog)
-*   [Awesome-blogCN-feeds (⭐426)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
+*   [Awesome-blogCN-feeds (⭐446)](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
 *   [Mataroa Collection](https://collection.mataroa.blog/)
 
 ### Views / Discussions / Experiences / Crypto or Blockchain relevant
@@ -214,11 +214,11 @@
 
 ### AppImage discovery / App centers
 
-*   [AppImagePool (⭐501)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
+*   [AppImagePool (⭐520)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage To Gnome (⭐3)](https://github.com/DejfCold/ATG) - Monitors and (de)installs AppImages from the Gnome desktop.
+*   [AppImage To Gnome (⭐4)](https://github.com/DejfCold/ATG) - Monitors and (de)installs AppImages from the Gnome desktop.
 
 ### AppImage developer tools / Build systems
 
@@ -230,17 +230,17 @@
 
 ### AppImage developer tools / Deployment tools for Rust applications
 
-*   [Cargo AppImage (⭐27)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
+*   [Cargo AppImage (⭐29)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [element-pro-components (⭐167)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
+*   [element-pro-components (⭐188)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 ### Components & Libraries / Dev Tools
 
-*   [components-helper (⭐20)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
+*   [components-helper (⭐23)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
 
 ## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

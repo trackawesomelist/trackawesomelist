@@ -1,30 +1,24 @@
 # Awesome List Updates on May 11, 2016
 
-9 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
-
-### Experiments
-
-*   [Happy Monday](http://makiopolis.com/everyday/026/) - Musical experiment using THREE.MeshLine by David Ronai.
-
-## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [1. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Capacity Planning
 
 *   [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
 
-## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Profilers
 
 *   [jfr-flame-graph (⭐244)](https://github.com/chrishantha/jfr-flame-graph) - Converting JFR Method Profiling Samples to FlameGraph compatible format.
 
-## [4. Tips](/content/git-tips/tips/README.md)
+## [3. Tips](/content/git-tips/tips/README.md)
 
 ## List only the root and merge commits.
 
@@ -32,7 +26,7 @@
 git log --first-parent
 ```
 
-## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
 
@@ -58,19 +52,13 @@ Webpage: <http://www.forgebakingco.com/>
 | ------ | ----- | ------ | ---------------------------------------------------------------------------- | ------------------- |
 | paying | ✔     | ✔      | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00 |
 
-## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Blogs
 
 *   [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C++ / Non-X86
-
-*   [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
-
-## [8. Awesome R](/content/qinwf/awesome-R/README.md)
+## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Web Technologies and Services
 
@@ -87,7 +75,7 @@ Webpage: <http://www.forgebakingco.com/>
 *   [R Talk](http://rtalk.org) - News and discussions of statistical software and language R.
     *   [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) and [@Mikhail Popov](https://twitter.com/bearloga).
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 

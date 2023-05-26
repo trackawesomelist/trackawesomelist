@@ -34,28 +34,28 @@
 
 ### Tools / Converters
 
-*   [csvtomd (⭐625)](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Dimer Markdown (⭐81)](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe") ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Torsimany (⭐54)](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [yamp (⭐27)](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [csvtomd (⭐640)](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Dimer Markdown (⭐84)](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe](https://img.icons8.com/color/24/globe.png "Globe") ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Torsimany (⭐59)](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [yamp (⭐27)](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ### Tools / Editors
 
-*   [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: *Really simple editor!* ![Android OS](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png "Android OS") ![iOS Logo](https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo") ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X")
-*   [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [MarkRight (⭐907)](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Mark Text (⭐37k)](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: *Really simple editor!* ![Android OS](https://img.icons8.com/color/24/android-os.png "Android OS") ![iOS Logo](https://img.icons8.com/color/24/ios-logo.png "iOS Logo") ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X")
+*   [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [MarkRight (⭐908)](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Mark Text (⭐40k)](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ### Tools / Miscellaneous
 
-*   [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: *Markdown notes with encryption!* ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe") ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: *Markdown notes with encryption!* ![Globe](https://img.icons8.com/color/24/globe.png "Globe") ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ### Tools / Presentations
 
-*   [mdp (⭐4.5k)](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: *Like PowerPoint and Vim but with Markdown!* ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux")
+*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: *Like PowerPoint and Vim but with Markdown!* ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux")
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -162,11 +162,11 @@
 
 ### Web
 
-*   🔌 [React Firebase Hooks (⭐2.9k)](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+*   🔌 [React Firebase Hooks (⭐3.2k)](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
 
 ### CLI & Editor / iOS
 
-*   🔧 [VSCode Firebase Explorer (⭐138)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
+*   🔧 [VSCode Firebase Explorer (⭐140)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 
 ---
 

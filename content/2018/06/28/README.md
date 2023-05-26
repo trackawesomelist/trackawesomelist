@@ -32,7 +32,7 @@
 
 ### Bots
 
-*   [Telegrammer (⭐280)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
+*   [Telegrammer (⭐282)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

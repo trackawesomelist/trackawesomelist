@@ -90,7 +90,7 @@
 
 ### Entertainment / Music
 
-*   [swaglyrics-for-spotify (⭐297)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
+*   [swaglyrics-for-spotify (⭐300)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -108,13 +108,13 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [EffekseerForGodot3 (⭐114)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
+*   [EffekseerForGodot3 (⭐119)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
 
 ## [9. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
-*   [maze\_generator (⭐35)](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
+*   [maze\_generator (⭐37)](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
 
 ### Articles / XML
 
@@ -200,27 +200,27 @@
 
 ### Video / Text
 
-*   [MPV (⭐20k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+*   [MPV (⭐22k)](https://github.com/mpv-player/mpv) - Lightweight, highly configurable media player. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
 
 ### Development / Web Development
 
-*   [SimpleLocalize CLI (⭐34)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [SimpleLocalize CLI (⭐37)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Development / iOS / macOS
 
 *   [Localizable.strings (⭐28)](https://github.com/cristibaluta/Localizable.strings) - Mac app to localize your iOS and macOS projects.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Xcodes.app (⭐4.2k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Xcodes.app (⭐4.7k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Notes / Text
 
-*   [Notenik (⭐55)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Notenik (⭐64)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Utilities / Text
 
-*   [ThenGenerator (⭐15)](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [Stats (⭐13k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [baRSS – Menu Bar RSS Reader (⭐55)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [PercentCalculator (⭐22)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [ThenGenerator (⭐18)](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Stats (⭐15k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [baRSS – Menu Bar RSS Reader (⭐63)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [PercentCalculator (⭐23)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Keyboard / Text
 
@@ -228,8 +228,8 @@
 
 ### Menubar / Text
 
-*   [SwiftBar (⭐1.8k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [xbar (⭐16k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [SwiftBar (⭐2.1k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [xbar (⭐17k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
 ## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -334,21 +334,21 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐586)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
+*   [Gokapi (⭐664)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`
 
-### Software / Money, Budgeting & Management
+### Software / Inventory Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐2.5k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐2.7k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code (⭐35k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code (⭐36k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐357)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐365)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
 ## [27. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -390,8 +390,8 @@
 
 ### Number Theory / Surreal Numbers
 
-*   [Elementary Number Theory](http://math.utoledo.edu/\~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
-*   [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/\~pete/4400FULL.pdf) - Pete L. Clark
+*   [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
+*   [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 
 ## [30. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
@@ -428,10 +428,6 @@
 *   [Nullable.Extended (⭐20)](https://github.com/tom-englert/Nullable.Extended) - Roslyn tools and analyzers to improve the experience when coding with nullable reference types.
 
 ## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
-
-### Typescript Project Starters
-
-*   [tRPC + Next.js](https://trpc.io/docs/nextjs/) - Full-stack starter projects for end-to-end type safe development with React
 
 ### Standalone apps / Playground
 
@@ -480,16 +476,16 @@
 ### Programming Languages
 
 *   [C (⭐3.1k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐597)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐602)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐635)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐640)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
 *   [Fish (⭐3.4k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-*   [Alfred Workflows (⭐2.7k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+*   [Alfred Workflows (⭐2.8k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
 
@@ -497,11 +493,11 @@
 
 ### Business
 
-*   [Developer-First Products (⭐425)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐465)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐54k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐55k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Testing
 
@@ -509,9 +505,9 @@
 
 ### Miscellaneous
 
-*   [Userscripts (⭐1k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-*   [Agriculture (⭐953)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-*   [Translations (⭐71)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Userscripts (⭐1.1k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
+*   [Agriculture (⭐982)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
+*   [Translations (⭐77)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [39. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -527,26 +523,26 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-diagram-editor (⭐74)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
+*   [vue-diagram-editor (⭐75)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-typical (⭐153)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
+*   [vue-typical (⭐157)](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in \~400 bytes of JavaScript.
 
 ## [41. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐132)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
-*   [vite-plugin-mpa (⭐167)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
+*   [vite-plugin-cesium (⭐142)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-mpa (⭐178)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐149)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐169)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ### Vue CLI / Community
 
-*   [vue-cli-plugin-vite (⭐381)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
+*   [vue-cli-plugin-vite (⭐385)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
 
 ## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -560,7 +556,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐4.1k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐4.2k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
 ## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -572,7 +568,7 @@
 
 ### App Routing
 
-*   [Composable Navigator (⭐547)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
+*   [Composable Navigator (⭐549)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 
 ## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -757,7 +753,7 @@
 ### Utilities / MIT
 
 *   [macos-sdks-vs-gcc (⭐1)](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
-*   [ux-strings (⭐9)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
+*   [ux-strings (⭐8)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 
 ## [52. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -783,17 +779,17 @@
 
 ### Network and Middleware / Real-Time Kernel
 
-*   [mqtt\_bridge (⭐126)](https://github.com/groove-x/mqtt_bridge) - Provides a functionality to bridge between ROS and MQTT in bidirectional.
+*   [mqtt\_bridge (⭐139)](https://github.com/groove-x/mqtt_bridge) - Provides a functionality to bridge between ROS and MQTT in bidirectional.
 
 ### Network and Middleware / Controller Area Network
 
-*   [awesome CAN (⭐690)](https://github.com/iDoka/awesome-canbus) -  A curated list of awesome CAN bus tools, hardware and resources.
+*   [awesome CAN (⭐987)](https://github.com/iDoka/awesome-canbus) -  A curated list of awesome CAN bus tools, hardware and resources.
 
 ## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Others
 
-*   [BlazorTypewriter (⭐13)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
+*   [BlazorTypewriter (⭐14)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
 
 ## [56. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
@@ -811,6 +807,7 @@
     *   [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
     *   [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
     *   Project Management & Issue Tracking.
+    *   [GitHub Copilot](https://github.com/features/copilot) — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.
 *   [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Also offers the following features :
     *   [CI/CD](https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos)
     *   Static Sites with [GitLab Pages](https://about.gitlab.com/product/pages).
@@ -870,14 +867,14 @@
 
 ### Miscellaneous
 
-*   [react-darkreader (⭐255)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
+*   [react-darkreader (⭐261)](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
 
 ### Form Components / Rich Text Editor
 
-*   [edtr-io (⭐699)](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
-*   [remirror (⭐2.1k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
-*   [slate (⭐26k)](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
-*   [smartblock (⭐272)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
+*   [edtr-io (⭐706)](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
+*   [remirror (⭐2.2k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
+*   [slate (⭐27k)](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
+*   [smartblock (⭐275)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
 
 ### Meta Tags / Mouse Events
 
@@ -885,7 +882,7 @@
 
 ### Miscellaneous / Mouse Events
 
-*   [react-godfather (⭐23)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
+*   [react-godfather (⭐24)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
 
 ## [61. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -909,4 +906,4 @@
 ---
 
 - Prev: [Mar 15 - Mar 21, 2021](/content/2021/11/README.md)
-- Next: [Jan 04 - Jan 10, 2021](/content/2020/53/README.md)
+- Next: [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)

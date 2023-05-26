@@ -10,7 +10,7 @@
 
 ### Music, Radio and Podcasts / Others
 
-*   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐21)](https://github.com/Anshuman-Verma/ongaku-desktop).
+*   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐22)](https://github.com/Anshuman-Verma/ongaku-desktop).
 
 ## [2. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -28,20 +28,20 @@
 
 ### Datastores / Online resources
 
-*   [blackbox (⭐6.4k)](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
-*   [confidant (⭐1.7k)](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
+*   [blackbox (⭐6.5k)](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
+*   [confidant (⭐1.8k)](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
 *   [dotgpg (⭐159)](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
-*   [redoctober (⭐1.3k)](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
-*   [aws-vault (⭐6.9k)](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
+*   [redoctober (⭐1.4k)](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
+*   [aws-vault (⭐7.5k)](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 *   [credstash (⭐2k)](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
-*   [chamber (⭐2.2k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
-*   [passpie (⭐901)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
+*   [chamber (⭐2.3k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
+*   [passpie (⭐919)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Voten (⭐1.2k)](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
+*   [Voten (⭐1.3k)](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
 
 ## [5. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

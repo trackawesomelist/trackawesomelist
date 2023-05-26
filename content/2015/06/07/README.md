@@ -15,11 +15,11 @@
 
 ### Debugging
 
-*   [beaker (⭐281)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
+*   [beaker (⭐282)](https://github.com/hahuang65/beaker) - Statistics and Metrics library for Elixir.
 
 ### Frameworks
 
-*   [rackla (⭐263)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
+*   [rackla (⭐264)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 
 ### ORM and Datamapping
 
@@ -55,11 +55,11 @@
 
 ### I18n And L10n / Runner
 
-*   [babelfish (⭐246)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
+*   [babelfish (⭐249)](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
 ### Image Processing / Other
 
-*   [pica (⭐3.2k)](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
+*   [pica (⭐3.3k)](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -14,7 +14,7 @@
 
 ### Infographics and Data Visualization / Telegram
 
-*   [Perspective (⭐5.3k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
+*   [Perspective (⭐6.3k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -69,17 +69,17 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [KotUniL (⭐64)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
+*   [KotUniL (⭐80)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 
 ## [9. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Qubes OS Websites
 
-*   [Qubes OS GitHub Documentation (⭐290)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
+*   [Qubes OS GitHub Documentation (⭐297)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 
 ### Training and Materials / Web articles
 
-*   [Qubes-diagrams (⭐13)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
+*   [Qubes-diagrams (⭐14)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
 *   [Qubes-artwork (⭐8)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 
 ## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
@@ -92,14 +92,14 @@
 
 ### Form Components / Drag and Drop
 
-*   [neodrag (⭐1k)](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same.
+*   [neodrag (⭐1.1k)](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [rigel (⭐0)](https://github.com/othiagos/rigel-zsh-theme/) - Includes decorators for `git` information, user\@hostname and current directory.
-*   [starship (wintermi) (⭐6)](https://github.com/wintermi/zsh-starship) - A simple plugin to use the Starship prompt, along with a powerline theme.
+*   [starship (wintermi) (⭐8)](https://github.com/wintermi/zsh-starship) - A simple plugin to use the Starship prompt, along with a powerline theme.
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

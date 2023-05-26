@@ -14,11 +14,11 @@
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Techniques / Language Models
+### Language Models / BERT models
 
 *   ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
-    *   [Alsentzer et al Clinical BERT (⭐478)](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
-    *   [Huang et al ClinicalBERT (⭐246)](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342)
+    *   [Alsentzer et al Clinical BERT (⭐524)](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
+    *   [Huang et al ClinicalBERT (⭐265)](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342)
 
 ## [3. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

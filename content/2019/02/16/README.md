@@ -23,7 +23,7 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐463)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐479)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -35,7 +35,7 @@
 
 ### PDF / Third-party APIs
 
-*   [cl-typesetting (⭐65)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐102)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-typesetting (⭐65)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐104)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [TextQL (⭐8.9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dinedal/textql) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TextQL (⭐9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dinedal/textql) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

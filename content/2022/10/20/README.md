@@ -18,13 +18,13 @@
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
-Installs: 10000 | Stars: 3322 | Last update: 4 Mar 2023
+Installs: 10000 | Stars: 3348 | Last update: 17 Apr 2023
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Scrollbar / Diagnostics
 
-*   [gorbit99/codewindow.nvim (⭐230)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
+*   [gorbit99/codewindow.nvim (⭐272)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
 
 ## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
@@ -36,16 +36,16 @@ Installs: 10000 | Stars: 3322 | Last update: 4 Mar 2023
 
 *   Imaging
     *   💸 [DALL·E 2](https://openai.com/dall-e-2/) - Create realistic images from natural language.
-    *   🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.\[[Source (⭐6.8k)](https://github.com/alembics/disco-diffusion)]
+    *   🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.\[[Source (⭐7.2k)](https://github.com/alembics/disco-diffusion)]
     *   💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
     *   💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
-    *   💸 [Stable Diffusion (⭐44k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
+    *   💸 [Stable Diffusion (⭐53k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
 
 ## [5. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [sujit-baniya/goravel (⭐6)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
+*   [sujit-baniya/goravel (⭐8)](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

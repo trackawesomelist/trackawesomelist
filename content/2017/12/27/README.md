@@ -50,7 +50,7 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite (⭐199)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐203)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Utility / Barcode
 
-*   [URLQueryItemEncoder (⭐60)](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
+*   [URLQueryItemEncoder (⭐61)](https://github.com/pitiphong-p/URLQueryItemEncoder) - An Encoder for encoding any Encodable value into an array of URLQueryItem.
 
 ## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Networking
 
-*   [evpp (⭐3.2k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
+*   [evpp (⭐3.3k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

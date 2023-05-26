@@ -27,16 +27,16 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐413)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
+*   [Androwarn (⭐441)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
-*   [Androl4b (⭐993)](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+*   [Androl4b (⭐1k)](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 
 ### Tools / Market Crawlers
 
-*   [Google play crawler (Node) (⭐265)](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
+*   [Google play crawler (Node) (⭐264)](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
 
 ### Academic/Research/Publications/Books / Research Papers
 
@@ -44,32 +44,23 @@
 
 ### Academic/Research/Publications/Books / Others
 
-*   [OWASP Mobile Security Testing Guide Manual (⭐9.5k)](https://github.com/OWASP/owasp-mstg)
+*   [OWASP Mobile Security Testing Guide Manual (⭐10k)](https://github.com/OWASP/owasp-mstg)
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐5.4k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐5.8k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [5. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
 ### General Tools
 
 *   [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
-*   [MoviePy](http://zulko.github.io/moviepy/) - Python module for video editing.
 
 ### Utilities
 
-*   [Gifshot (⭐3.9k)](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
-
-### GUI / Swift
-
-*   [VineGifR (⭐83)](https://github.com/caraesten/VineGifR) - Mac app to turn Vine videos into GIFs
-
-### License / Grabbing each frame of an HTML5 Canvas
-
-*   Copyright © 2017+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+*   [Gifshot (⭐3.9k)](https://github.com/yahoo/gifshot) - Create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
 
 ## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -81,7 +72,7 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐444)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐453)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

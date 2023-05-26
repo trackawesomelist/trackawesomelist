@@ -6,11 +6,16 @@
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### COBOL / Non-X86
+### Rust / Flask
 
-*   [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
+*   [Rust by Example 日本語版](https://doc.rust-jp.rs/rust-by-example-ja) - Rustコミュニティ(翻訳)
+*   [The Rust Programming Language 日本語版](https://doc.rust-jp.rs/book-ja) - Steve Klabnik, Carol Nichols, Rustコミュニティ(翻訳) ([PDF](https://doc.rust-jp.rs/book-ja-pdf/book.pdf))
+
+### TypeScript / Flask
+
+*   [仕事ですぐに使えるTypeScript](https://future-architect.github.io/typescript-guide) - フューチャー株式会社（Future Corporation） ([PDF](https://future-architect.github.io/typescript-guide/typescript-guide.pdf))
 
 ## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 

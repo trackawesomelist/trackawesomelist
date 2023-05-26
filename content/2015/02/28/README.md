@@ -10,7 +10,7 @@
 
 ### Testing Frameworks / Frameworks
 
-*   [DalekJS (⭐703)](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
+*   [DalekJS (⭐701)](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

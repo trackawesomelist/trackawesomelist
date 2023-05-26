@@ -11,7 +11,7 @@
 ### Tools / Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [GradStop.js (⭐152)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [GradStop.js (⭐151)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 
 ### Tools / Web App
 
@@ -75,7 +75,7 @@
 
 ### GUI
 
-*   [Xamarin.Forms (⭐5.6k)](https://github.com/xamarin/Xamarin.Forms) - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
+*   [Xamarin.Forms (⭐5.7k)](https://github.com/xamarin/Xamarin.Forms) - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
 
 ## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -83,19 +83,8 @@
 
 *   *[Understanding Social Networks. Theories, Concepts, and Findings](https://global.oup.com/academic/product/understanding-social-networks-9780195379471)*, by Charles Kadushin (2012).
 
-### Review Articles / Bibliographic, Citation and Semantic Networks
-
-*   [Extracting Citation Networks from Publications in Classics](https://zenodo.org/record/46328) (*Digital Humanities Quarterly*, forthcoming).
-*   [Socio-Semantic Frameworks](http://www.worldscientific.com/doi/abs/10.1142/S0219525913500136) ([preprint](http://camille.roth.free.fr/travaux/roth--sociosemantic-systems-acs-proofs.pdf); *Advances in Complex Systems*, 2013).
-*   [Socio-Semantic Modeling of Epistemic Communities](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2452614) (APSA, 2014).
-
-### Review Articles / Biological, Ecological and Disease Networks
-
-*   [Social Networks and the Spread of Infectious Diseases: the AIDS Example](http://www.sciencedirect.com/science/article/pii/0277953685902692) (*Social Networks*, 1985).
-
 ### Review Articles / Ethics of Network Analysis
 
-*   [Ethical Dilemmas in Social Network Research](http://www.sciencedirect.com/science/journal/03788733/27/2) (special issue of *Social Networks*, 2005).
 *   [Ethical and Strategic Issues in Organizational Social Network Analysis](http://www.analytictech.com/borgatti/papers/ethics.pdf) (*The Journal of Applied Behavioral Science*, 2003).
 
 ### Software / Social, Economic and Political Networks
@@ -146,7 +135,7 @@
 
 ### Machine Learning
 
-*   [Fido (⭐411)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐418)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ---
 

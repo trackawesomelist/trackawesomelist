@@ -41,7 +41,7 @@
 
 ### Integrations
 
-*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐859)](https://github.com/zmartzone/mod_auth_openidc)
+*   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐880)](https://github.com/zmartzone/mod_auth_openidc)
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Date and time / Third-party APIs
 
-*   [chronicity (⭐62)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [chronicity (⭐63)](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Files and directories / Third-party APIs
 
@@ -67,20 +67,20 @@
 
 *   [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
 *   **Editor Integration**:
-    *   [ocaml-lsp (⭐529)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐141k)](https://github.com/microsoft/vscode), Vim and Emacs.
-    *   [merlin (⭐1.4k)](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
-    *   [tuareg (⭐330)](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+    *   [ocaml-lsp (⭐589)](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode (⭐147k)](https://github.com/microsoft/vscode), Vim and Emacs.
+    *   [merlin (⭐1.5k)](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
+    *   [tuareg (⭐341)](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
     *   [merlin-eldoc (⭐41)](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
-    *   [vscode-ocaml (⭐173)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐141k)](https://github.com/microsoft/vscode)
-    *   [OCaml Debugger (⭐143)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐141k)](https://github.com/microsoft/vscode)
+    *   [vscode-ocaml (⭐173)](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode (⭐147k)](https://github.com/microsoft/vscode)
+    *   [OCaml Debugger (⭐150)](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode (⭐147k)](https://github.com/microsoft/vscode)
     *   [Sublime better ocaml (⭐23)](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
         *   [Sublime text package (⭐12)](https://github.com/def-lkb/sublime-text-merlin)
     *   [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
         *   [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – Small ncurses-based API and documentation browser.
-        *   [ocp-index-top (⭐19)](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
+        *   [ocp-index-top (⭐20)](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
         *   [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
     *   [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
-        *   [Vim plugin (⭐27)](https://github.com/def-lkb/ocp-indent-vim).
+        *   [Vim plugin (⭐28)](https://github.com/def-lkb/ocp-indent-vim).
 
 ## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

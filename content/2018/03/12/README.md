@@ -53,11 +53,11 @@
 
 ### Packages / HTTP
 
-*   [gotql (⭐393)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐13k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐396)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐13k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 
-*   [rsmq (⭐1.6k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
+*   [rsmq (⭐1.7k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

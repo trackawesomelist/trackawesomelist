@@ -15,4 +15,4 @@
 ---
 
 - Prev: [Nov 15, 2013](/content/2013/11/15/README.md)
-- Next: [Nov 07, 2013](/content/2013/11/07/README.md)
+- Next: [Nov 10, 2013](/content/2013/11/10/README.md)

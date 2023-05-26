@@ -22,7 +22,7 @@
 
 ### Development Environment / Debugging and Tracing
 
-*   [vscode-debug-visualizer (⭐7.4k)](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+*   [vscode-debug-visualizer (⭐7.6k)](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 
 ## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Authorization
 
-*   [Consul (⭐309)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
+*   [Consul (⭐313)](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Machine Learning
 
-*   [noe (⭐69)](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
+*   [noe (⭐74)](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
 
 ---
 

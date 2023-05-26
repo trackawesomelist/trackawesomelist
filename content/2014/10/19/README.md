@@ -19,11 +19,11 @@
 
 ### ORM and Datamapping
 
-*   [amnesia (⭐673)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+*   [amnesia (⭐678)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 
 ### Testing
 
-*   [meck (⭐778)](https://github.com/eproxus/meck) - A mocking library for Erlang.
+*   [meck (⭐786)](https://github.com/eproxus/meck) - A mocking library for Erlang.
 
 ### Websites
 
@@ -33,7 +33,7 @@
 
 ### Packages / Command-line apps
 
-*   [pjs (⭐412)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+*   [pjs (⭐414)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 *   [license-checker (⭐1.5k)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 ---

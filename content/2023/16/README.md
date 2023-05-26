@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17 - Apr 23, 2023
 
-63 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Learn
 
-*   [Hackathon (⭐14)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
+*   [Hackathon (⭐18)](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 
 ## [4. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
@@ -74,28 +74,28 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-paho-mqtt (⭐4)](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
-*   [VueFinder File Library (⭐86)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
+*   [VueFinder File Library (⭐91)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 
 ### Components & Libraries / UI Components
 
 *   [vue-maplibre-gl (⭐27)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-*   [1llest-waveform-vue (⭐8)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
-*   [vue3-calendar-heatmap (⭐36)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
+*   [1llest-waveform-vue (⭐10)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
+*   [vue3-calendar-heatmap (⭐40)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
 *   [vue3-code-block (⭐4)](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
-*   [Everright-formEditor (⭐79)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐198)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ### Components & Libraries / UI Layout
 
-*   [fit-screen (⭐22)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
+*   [fit-screen (⭐23)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 
 ### Components & Libraries / Frameworks
 
 *   [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
-*   [îles (⭐949)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
+*   [îles (⭐958)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
 
 ### Components & Libraries / UI Utilities
 
-*   [v-privacy (⭐4)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content
+*   [v-privacy (⭐7)](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
@@ -107,45 +107,13 @@
 
 ### ChatGPT
 
-*   [LocalAI (⭐308)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
+*   [LocalAI (⭐4.9k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [Ahoo-Wang/Simba (⭐11)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐32)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐84)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐569)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐323)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
 ## [12. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -157,28 +125,21 @@
 
 ### Articles / Screeb
 
-*   [It’s Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 *   [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
 ## [14. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [twm (⭐1)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
+*   [twm (⭐4)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 
 ## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Managers
 
-*   [clifm (⭐935)](https://github.com/leo-arch/clifm) - The command line file manager.
+*   [clifm (⭐943)](https://github.com/leo-arch/clifm) - The command line file manager.
 
 ## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
-
-### Tools / Scripts / Commercial Enterprise Platforms
-
-*   [Convert WM format to JSON](https://wardleymapsai.streamlit.app/wm2json_\(beta\)) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
-*   [Chat with your Map](https://wardleymapsai.streamlit.app/chat_with_your_map) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
-*   [Chat with Simon Wardley Video](https://wardleymapsai.streamlit.app/intro_wardley_maps) - An OpenAI/Streamlit/Python application to chat to a Wardley Mapping YouTube video. It pulls the transscript from YouTube and you can have an AI chat with the video.
 
 ### Templates / Commercial Enterprise Platforms
 
@@ -188,15 +149,15 @@
 
 ### Database Tools
 
-*   [Online Migrations (⭐437)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+*   [Online Migrations (⭐444)](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
 
 ### Feature Flippers and A/B Testing
 
-*   [Unleash (⭐48)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
+*   [Unleash (⭐49)](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
 
 ### Machine Learning
 
-*   [ruby-openai (⭐1.3k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+*   [ruby-openai (⭐1.5k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ### PDF
 
@@ -210,7 +171,7 @@
 
 ## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Inbox: Large Language Models
+### Inbox: Large Language Models / Contribute to Our Repository
 
 *   [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models?utm_source=bensbites\&utm_medium=newsletter\&utm_campaign=stability-ai-release-their-llm)
 
@@ -242,16 +203,16 @@
 
 ## [22. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
-### Extensions
+### Extensions / Community
 
-*   [Generate Types (⭐70)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
-*   [Computed Interface (⭐68)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
+*   [Generate Types (⭐82)](https://github.com/maltejur/directus-extension-generate-types) - Adds a module for generating typescript types for a Directus JS-SDK connected to that Directus database. Also can generate Python or OpenAPI types.
+*   [Computed Interface (⭐78)](https://github.com/rezo-labs/directus-extension-computed-interface) - Perform computed value based on other fields.
 
 ## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [terraform-repl (⭐49)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
+*   [terraform-repl (⭐61)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
 ## [24. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -331,7 +292,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Actio (⭐66)](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
+*   :octocat: [Actio (⭐93)](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
 
 ## [27. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
@@ -350,16 +311,16 @@
 
 ### Continuous Integration
 
-*   [go-test-coverage (⭐6)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+*   [go-test-coverage (⭐8)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
 
 ### Caches
 
-*   [imcache (⭐40)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
-*   [theine (⭐40)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
+*   [imcache (⭐64)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
+*   [theine (⭐88)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 
 ### Images
 
-*   [color-extractor (⭐55)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
+*   [color-extractor (⭐57)](https://github.com/marekm4/color-extractor) - Dominant color extractor with no external dependencies.
 
 ### Logging
 
@@ -367,7 +328,7 @@
 
 ### Web Frameworks
 
-*   [Pulse (⭐20)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
+*   [Pulse (⭐36)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -383,7 +344,7 @@
 
 ### Applications
 
-*   [Nostr (⭐7.4k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
+*   [Nostr (⭐7.6k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
 
 ## [31. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -399,7 +360,7 @@
 
 ### Audio
 
-*   [orhun/linuxwave (⭐218)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+*   [orhun/linuxwave (⭐369)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 ## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -539,7 +500,7 @@
 
 ### Command-line
 
-*   [vzcc (⭐11)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+*   [vzcc (⭐17)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
 ### Tutorials / IntelliJ & CLion & GoLand etc
 
@@ -596,6 +557,13 @@
 *   [radix-primitives (⭐9k)](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 *   [nextui (⭐9.8k)](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library
 
+### React State Management and Data Fetching
+
+*   [tanstack-query (⭐34k)](https://github.com/TanStack/query) - Powerful asynchronous state management
+*   [swr (⭐26k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
+*   [apollo-client (⭐19k)](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
+*   [relay (⭐18k)](https://github.com/facebook/relay) - A framework for building data-driven React applications
+
 ### React Routing
 
 *   [react-router (⭐50k)](https://github.com/remix-run/react-router) - Declarative routing for React
@@ -630,13 +598,6 @@
 *   [kbar (⭐3.9k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 *   [tagify (⭐2.9k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
-### React State Management
-
-*   [tanstack-query (⭐34k)](https://github.com/TanStack/query) - Powerful asynchronous state management
-*   [swr (⭐26k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
-*   [apollo-client (⭐19k)](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client
-*   [relay (⭐18k)](https://github.com/facebook/relay) - A framework for building data-driven React applications
-
 ### React Tables and Grids
 
 *   [react-grid-layout (⭐18k)](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
@@ -654,33 +615,23 @@
 *   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 *   [gooey-react (⭐580)](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
-### React Integration / React Data Managing
+### React Integration
 
 *   [rescript-compiler (⭐6.1k)](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
 *   [react-rails (⭐6.6k)](https://github.com/reactjs/react-rails) - Integrate React with Rails
 *   [reagent (⭐4.6k)](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React
 *   [fulcro (⭐1.4k)](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
+
+### React Real Apps
+
 *   [mattermost-server (⭐25k)](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
 *   [webamp (⭐9k)](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
-### React Native General Resources / React Data Managing
+### React Native General Resources
 
 *   [React Native Official Website](https://reactnative.dev/)
 *   [React Native Community](https://reactnative.dev/community/overview)
 *   [Expo](https://expo.dev/)
-
-### React Native Development Tools / React Data Managing
-
-*   [flipper (⭐13k)](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers
-
-### React Native Awesome Components / React Data Managing
-
-*   [react-native-bottom-sheet (⭐4.6k)](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet
-
-### Important Talks / React Data Managing
-
-*   [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
-*   [React.js Talks on GitNation Portal](https://portal.gitnation.org/tags/react)
 
 ## [41. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -712,7 +663,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [nvm (⭐66k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nvm (⭐67k)](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvm-sh/nvm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
@@ -720,8 +671,8 @@
 
 ### Utilities / Window Management
 
-*   [Sidebar](http://sidebarapp.net/) - The modern Dock replacement for your Mac.
 *   [Rectangle-app (⭐21k)](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/rxhanson/Rectangle)
+*   [Sidebar](http://sidebarapp.net/) - The modern Dock replacement for your Mac.
 
 ## [45. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -747,7 +698,7 @@
 
 ### Plugins
 
-*   💼 [TailwindCSS 3D (⭐14)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
+*   💼 [TailwindCSS 3D (⭐20)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
 
 ## [49. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -936,19 +887,7 @@
 
 ### Resources / Certifications
 
-*   Boomi
-    *   [Associate Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's foundational knowledge and skills in managing and administering the Boomi platform, focusing on platform monitoring, troubleshooting, and security.
-    *   [Associate Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM\&ltui__urlRedirect=learning-plan-detail-standard) - Demonstrates a candidate's basic understanding of building and deploying integration processes using the Boomi platform, including design patterns, deployment, and error handling.
-    *   [Associate EDI for X12 Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIFWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's proficiency in using Boomi to design, develop, and manage Electronic Data Interchange (EDI) integrations with the X12 standard, covering essential concepts like EDI document structure and trading partner management.
-    *   [Associate Flow Essentials Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIZWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Showcases a candidate's knowledge of creating and managing business applications using Boomi Flow, with emphasis on workflow design, user interfaces, and data integration.
-    *   [Associate Master Data Hub Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIPWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Highlights a candidate's understanding of using the Boomi Master Data Hub to ensure data quality and consistency across systems, focusing on data modeling, governance, and synchronization.
-    *   [Development and Application Architecture Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJOWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Confirms an individual's expertise in designing and implementing complex integration solutions and application architectures on the Boomi platform, including best practices and performance optimization.
-    *   [Professional API Design Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM\&ltui__urlRedirect=learning-plan-detail-standard) - Demonstrates a candidate's ability to design, develop, and manage APIs using Boomi, including RESTful API principles, API security, and versioning.
-    *   [Professional API Management Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's expertise in managing the full lifecycle of APIs using the Boomi platform, including API deployment, monitoring, and analytics.
-    *   [Professional Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJrWAM\&ltui__urlRedirect=learning-plan-detail-standard) - Recognizes a candidate's in-depth knowledge and skills in developing, deploying, and managing integration processes using Boomi, with emphasis on advanced data transformation and error handling techniques.
-    *   [Professional Flow Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIUWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Showcases an individual's advanced capabilities in designing, developing, and managing business applications using Boomi Flow, including complex workflow design, custom UI components, and integration with external systems.
-    *   [Professional Linux Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM\&ltui__urlRedirect=learning-plan-detail-standard) - Confirms a candidate's proficiency in managing and administering Boomi on Linux systems, covering topics such as system installation, configuration, security, and performance optimization.
-    *   [Professional Windows Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's expertise in managing and administering Boomi on Windows systems, focusing on system installation, configuration, security, and performance optimization.
+*   [Associate Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2\&ltui__urlRedirect=learning-plan-detail-standard) - Validates an individual's foundational knowledge and skills in managing and administering the Boomi platform, focusing on platform monitoring, troubleshooting, and security.
 
 ## [51. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -958,7 +897,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Webarchive (⭐0)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
+*   [Webarchive (⭐8)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
 ### Software / Search Engines
 
@@ -968,24 +907,24 @@
 
 ### Color / Diagnostics
 
-*   [Mr-LLLLL/interestingwords.nvim (⭐6)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
+*   [Mr-LLLLL/interestingwords.nvim (⭐11)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 
 ### Colorscheme Creation / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.colors (⭐2.1k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
+*   [echasnovski/mini.nvim#mini.colors (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 
 ### Bars and Lines / Diagnostics
 
-*   [luukvbaal/statuscol.nvim (⭐257)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
+*   [luukvbaal/statuscol.nvim (⭐286)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 
 ### Utility / Diagnostics
 
-*   [hbac.nvim (⭐5)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
-*   [ecthelionvi/NeoComposer.nvim (⭐143)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
+*   [hbac.nvim (⭐51)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+*   [ecthelionvi/NeoComposer.nvim (⭐225)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 
 ### Formatting / Diagnostics
 
-*   [tenxsoydev/tabs-vs-spaces.nvim (⭐5)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
+*   [tenxsoydev/tabs-vs-spaces.nvim (⭐10)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
 
 ## [53. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -1001,10 +940,10 @@
 
 *   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 *   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
-*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐329)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐330)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
 *   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends.. ([Source Code (⭐3k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
 *   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.2k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
-*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐52)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
+*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐51)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 ## [54. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -1022,23 +961,30 @@
 
 *   [Better Stack](https://betterstack.com/community/guides/scaling-docker/) :heavy\_dollar\_sign: - A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.
 
-## [56. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [56. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+
+### Learn / Videos
+
+*   [LangChain Series by Sam Witteveen](https://www.youtube.com/watch?v=J_0qvRt4LNk\&list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)
+*   [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/)
+
+## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Docker](https://www.docker.com/career-openings/) -
 
-## [57. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [58. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
-*   [espflash (⭐303)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
-*   [espup (⭐103)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+*   [espflash (⭐311)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
+*   [espup (⭐111)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
 
 ### Real-time / Real-time tools
 
 *   [RTIC v1.0](https://rtic.rs/1/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real time systems:
-    *   [cortex-m rtic (⭐1.1k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
+    *   [cortex-m rtic (⭐1.2k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
     *   [msp430 rtfm (⭐10)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ### Peripheral Access Crates / Espressif
@@ -1048,28 +994,28 @@
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐199)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐340)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
-## [58. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [59. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / OCaml
 
-*   [opam2nix (⭐89)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
+*   [opam2nix (⭐92)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
-## [59. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [60. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Gaming
 
-*   [Cartridges (⭐122)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import.
+*   [Cartridges (⭐214)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import.
 
-## [60. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [61. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / RNA Sequence
 
 *   [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) - Public functional genemics database.
 *   [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) - Public database for single cell RNA.
 
-## [61. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [62. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization and User Management
 
@@ -1087,13 +1033,13 @@
 
 *   [LovelyLanding.net](https://www.lovelylanding.net/) - \[Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet and Mobile screeshots.
 
-## [62. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [63. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### General / Components
 
 *   [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
 
-## [63. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [64. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Ruby / Angular
 
@@ -1101,4 +1047,5 @@
 
 ---
 
+- Prev: [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 - Next: [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)

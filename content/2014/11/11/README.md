@@ -16,7 +16,7 @@
 
 ### Packages / Image
 
-*   [lwip (⭐2.3k)](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
+*   [lwip (⭐2.4k)](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 
 ### Resources / Tutorials
 
@@ -26,7 +26,7 @@
 
 ### Connection pools
 
-*   [hikari-cp (⭐372)](https://github.com/tomekw/hikari-cp)
+*   [hikari-cp (⭐397)](https://github.com/tomekw/hikari-cp)
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

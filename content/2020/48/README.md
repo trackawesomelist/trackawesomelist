@@ -40,7 +40,7 @@
 
 ### Functional Programming / Runner
 
-*   [rambda (⭐1.4k)](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
+*   [rambda (⭐1.5k)](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
 
 ## [5. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [Homura (⭐267)](https://github.com/Saul-Mirone/homura) <sup>[866](https://t.me/s/aboutrss/866)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Saul-Mirone/homura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Homura (⭐266)](https://github.com/Saul-Mirone/homura) <sup>[866](https://t.me/s/aboutrss/866)</sup> ![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Saul-Mirone/homura)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   咕咚订阅 (RSS Plus) <sup>[884](https://t.me/s/aboutrss/884)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](http://d.firim.pro/gulz)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
@@ -75,11 +75,11 @@
 *   [NodeRSSbot](https://rssbot.vercel.app/) <sup>[5](https://t.me/s/aboutrss/5), [118](https://t.me/s/aboutrss/118), [262](https://t.me/s/aboutrss/262), [280](https://t.me/s/aboutrss/280),  [547](https://t.me/s/aboutrss/547)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fengkx/NodeRSSBot)
 *   [TheFeedReaderBot](http://thefeedreaderbot.com/index.html)
 
-### specifically from (  *a certain platform*  ) / Twitter
+### specifically from (*a certain platform*) / Twitter
 
 *   [TwiSSR](http://www.twissr.com/) <sup>[875](https://t.me/s/aboutrss/875)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### specifically from (  *a certain platform*  ) / Docsify
+### specifically from (*a certain platform*) / Docsify
 
 *   tutorial <sup>[868](https://t.me/s/aboutrss/868)</sup>
 
@@ -92,23 +92,23 @@
 
 *   [Planet Pluto](https://feedreader.github.io/) <sup>[887](https://t.me/s/aboutrss/887)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedreader)
 
-### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [CyberSEO](https://www.cyberseo.net/) <sup>[869](https://t.me/s/aboutrss/869)</sup>
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Pipfeed news extract API](https://pipfeed.com/news-extract-api/) <sup>[874](https://t.me/s/aboutrss/874)</sup>
 
-### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [简悦](http://ksria.com/simpread/docs/#/RSSReader) <sup>[880](https://t.me/s/aboutrss/880)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Kenshin/simpread/)
 
-### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Entertainment / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [蜜柑计划 - Mikan Project](https://mikanani.me/)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Feed picker for Microsoft products](https://support.microsoft.com/en-us/rss-feed-picker) <sup>[879](https://t.me/s/aboutrss/879)</sup>
 
@@ -183,13 +183,13 @@
 
 ### Contents / Extensions
 
-*   [pg\_cron (⭐1.8k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
+*   [pg\_cron (⭐2k)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 
 ## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Kotlin/kotlinx-datetime (⭐1.6k)](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
+*   [Kotlin/kotlinx-datetime (⭐1.7k)](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
 
 ## [14. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
@@ -222,8 +222,8 @@
 
 ### Community
 
-*   [Complete Terraform documentation as PDF files (Updated nightly) (⭐182)](https://github.com/antonbabenko/terraform-docs-as-pdf)
-*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐72)](https://github.com/terraform-aws-modules/meta)
+*   [Complete Terraform documentation as PDF files (Updated nightly) (⭐183)](https://github.com/antonbabenko/terraform-docs-as-pdf)
+*   [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository (⭐74)](https://github.com/terraform-aws-modules/meta)
 
 ### Tutorials and Blog Posts / Writing Custom Providers
 
@@ -236,14 +236,14 @@
 
 ### Tools / Vendor supported providers
 
-*   [Checkov (⭐5.3k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [Checkov (⭐5.6k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 *   [TerraDepot (⭐60)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-*   [Terraform-Visual (⭐458)](https://github.com/hieven/terraform-visual) A simple but powerful tool to visualize Terraform plan.
-*   [terratag (⭐752)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
+*   [Terraform-Visual (⭐487)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
+*   [terratag (⭐790)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 
 ### Libraries / Vendor supported providers
 
-*   [python-hcl2 (⭐175)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
+*   [python-hcl2 (⭐186)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 
 ## [17. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -265,7 +265,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐10k)](https://github.com/tinode/chat), [Clients (⭐256)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
+*   [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code (⭐10k)](https://github.com/tinode/chat), [Clients (⭐264)](https://github.com/tinode/webapp)) `GPL-3.0` `Go`
 
 ### Software / Polls and Events
 
@@ -308,13 +308,9 @@
 
 ### Apps / Automated translation
 
-*   [RTranslator (⭐88)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
-*   [Crow Translate (⭐1.1k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+*   [RTranslator (⭐95)](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
+*   [Crow Translate (⭐1.2k)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 *   [Copy Translator (⭐15k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-
-### Apps / i18n manager
-
-*   [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 
 ### Tools / Automatic translation for end users
 
@@ -322,8 +318,8 @@
 
 ### Tools / Translator libraries for developers
 
-*   [deep-translator (⭐870)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-*   [Translator (⭐973)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+*   [deep-translator (⭐911)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+*   [Translator (⭐1k)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 
 ### Tools / i18n frameworks for developers
 
@@ -331,7 +327,7 @@
 *   [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 *   [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 *   [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
-*   [i18n Ally (⭐2.7k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+*   [i18n Ally (⭐2.8k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 
 ### Tools / Other tools
 
@@ -362,8 +358,8 @@
 
 ### Security
 
-*   [Lockpicking (⭐1k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-*   [Cybersecurity Blue Team (⭐3.1k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+*   [Lockpicking (⭐1.1k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+*   [Cybersecurity Blue Team (⭐3.3k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 
 ## [25. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
@@ -388,7 +384,7 @@
 
 ### Arch Linux Installers / Specific purpose
 
-*   [Archfi (⭐2.3k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
+*   [Archfi (⭐2.4k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 ## [29. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
@@ -414,11 +410,11 @@
 
 ### Messaging
 
-*   [ChatLayout (⭐550)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
+*   [ChatLayout (⭐610)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
 
 ### Official
 
-*   [Adapty (⭐315)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+*   [Adapty (⭐301)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ## [32. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
@@ -428,8 +424,8 @@
 
 ### Time Series Data
 
-*   🌟 [Ensemble-Strategy (⭐1.2k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
-*   [FinRL (⭐6.2k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
+*   🌟 [Ensemble-Strategy (⭐1.5k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
+*   [FinRL (⭐7.3k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
 
 ## [33. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
@@ -490,7 +486,7 @@
 
 ### API
 
-*   [Swiftkube (⭐96)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐100)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [41. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -502,7 +498,7 @@
 
 ### Developer Tools / Databases
 
-*   [Chrome MySQL Admin (⭐137)](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yoichiro/chrome_mysql_admin)
+*   [Chrome MySQL Admin (⭐136)](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yoichiro/chrome_mysql_admin)
 
 ## [43. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
@@ -514,7 +510,7 @@
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [gbdk-go (⭐19)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
+*   [gbdk-go (⭐20)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
 
 ## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -528,7 +524,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vesselize (⭐22)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
+*   [vesselize (⭐23)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
 *   [vue-use-local-storage (⭐4)](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
 ## [46. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
@@ -547,7 +543,7 @@
 
 ### Simulation / Version Control
 
-*   [Unity-Robotics-Hub (⭐1.3k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
+*   [Unity-Robotics-Hub (⭐1.5k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
 ### Simultaneous Localization and Mapping / Visual
 
@@ -580,7 +576,7 @@
 ### Packages / Ecosystem
 
 *   [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
-*   [Unity Robotics Hub (⭐1.4k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
+*   [Unity Robotics Hub (⭐1.5k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
 ### Papers / ROSCon 2015
 
@@ -596,17 +592,17 @@
 
 ### Packages / Data validation
 
-*   [Superstruct (⭐6.4k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [Superstruct (⭐6.5k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 
 ## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
-*   [LinqToTwitter Blazor sample (⭐497)](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![stars](https://img.shields.io/github/stars/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=86400) LINQ Provider for the Twitter API (Twitter Library).
+*   [LinqToTwitter Blazor sample (⭐500)](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![stars](https://img.shields.io/github/stars/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square\&cacheSeconds=86400) LINQ Provider for the Twitter API (Twitter Library).
 
 ### Individual components / Others
 
-*   [Excubo.Blazor.Diagrams (⭐97)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
+*   [Excubo.Blazor.Diagrams (⭐102)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
 
 ## [55. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -1091,7 +1087,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ishan9299/modus-theme-vim (⭐121)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
+*   [ishan9299/modus-theme-vim (⭐132)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
 
 ## [61. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -1109,11 +1105,11 @@
 
 ### Themes
 
-*   [dracula/tmux (⭐401)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
+*   [dracula/tmux (⭐439)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 
 ### Plugins
 
-*   [tmux-notify (⭐70)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
+*   [tmux-notify (⭐82)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
 
 ## [64. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -1154,13 +1150,13 @@
 
 ## [66. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
+### Cloud management solutions
+
+*   [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product, used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full support of Terraform CLI, integration with OPA and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs / month for free.
+
 ### APIs, Data and ML
 
 *   [Similar Words API](https://word-simi.herokuapp.com/) — An API to find similar words, has vocabulary of about 4Million words.
-
-### CI and CD
-
-*   [scalr.com](https://scalr.com/) - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.
 
 ### Testing
 
@@ -1189,7 +1185,7 @@
 
 ### Projects / Libraries
 
-*   [Simple IO (⭐24)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
+*   [Simple IO (⭐26)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
 
 ### Projects / Package and Build Management
 
@@ -1197,14 +1193,14 @@
 
 ### Projects / Tools
 
-*   [hs-to-coq (⭐65)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
+*   [hs-to-coq (⭐69)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
 *   [Roosterize (⭐14)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 
 ## [69. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [libonnx (⭐464)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
+*   [libonnx (⭐483)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
 ## [70. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -1214,7 +1210,7 @@
 
 ### Language-related
 
-*   [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - See also: [\[1\]](https://www.seas.upenn.edu/\~cis500/cis500-f06/resources/programming_style.html), [\[2\]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [\[3\]](https://www.seas.upenn.edu/\~cis120/20fa/ocaml_style/).
+*   [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - See also: [\[1\]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [\[2\]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [\[3\]](https://www.seas.upenn.edu/~cis120/20fa/ocaml_style/).
 *   [A safe but strange way of modifying OCaml compiler](https://camlspotter.blogspot.com/2012/09/a-safe-but-strange-way-of-modifying.html)
 
 ---

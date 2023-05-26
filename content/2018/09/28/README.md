@@ -37,15 +37,15 @@
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
 *   [SameSuite (⭐23)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐137)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐163)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Mooneye GB (⭐807)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [Mooneye GB (⭐835)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
-*   [flappybird-gameboy (⭐11)](https://github.com/pashutk/flappybird-gameboy)
+*   [flappybird-gameboy (⭐13)](https://github.com/pashutk/flappybird-gameboy)
 *   [fbgb (⭐3)](https://github.com/gb-archive/fbgb)
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
@@ -64,7 +64,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-progress-bar (⭐16)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
+*   [cl-progress-bar (⭐17)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
 
 ### Other / Third-party APIs
 

@@ -2,7 +2,7 @@
 
 A curated list of games that can teach you how to learn a programming language.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/michelpereira/awesome-games-of-coding/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) · ⭐ 1.5K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/michelpereira/awesome-games-of-coding/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) · ⭐ 1.6K · 🏷️ Gaming
 
 [ [Daily](/content/michelpereira/awesome-games-of-coding/README.md) / [Weekly](/content/michelpereira/awesome-games-of-coding/week/README.md) / Overview ]
 
@@ -32,10 +32,11 @@ A curated list of games that can teach you how to learn a programming language.
 *   [Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium) - Players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
 *   [RealTimeBattle](http://realtimebattle.sourceforge.net) - A programming game in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot.
 *   [Battlesnake](https://play.battlesnake.com) - Join a community of developers from around the world as you compete for fame and glory in Battlesnake, a multi-player programming competition based on the classic game - snake! All you need to play is a live web server that implements the Battlesnake API and the language of your choice to begin battling to find food, avoid other Battlesnakes, and stay alive as long as possible.
+*   [Coder One](https://www.gocoder.one) - Annual AI programming tournament featuring a multiplayer 'Bomberman'-like game, cash prizes, and a casted finale livestream. Create an AI player that can navigate a 2D grid world collecting power-ups and placing explosives with the goal of taking your opponent down. Submit your AI in the form of a Docker image using one of our Python or TypeScript starter kits (community-contributed starter kits are also available in Go, C++, and Rust).
 
 ## Python
 
-*   [Robocode (⭐111)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
+*   [Robocode (⭐124)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 *   [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
 
 ## Java
@@ -83,7 +84,7 @@ A curated list of games that can teach you how to learn a programming language.
 *   [CSS Diner](http://flukeout.github.io) - A CSS item arrangement game, teaching the concepts and use of CSS selectors and layout. You modify CSS to arrange HTML elements representing plates and bento boxes on a dining table.
 *   [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
 *   [CSSBattle](https://cssbattle.dev) -  Online CSS Code Golfing battleground. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
-*   [The Command Line Murders (⭐4.4k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
+*   [The Command Line Murders (⭐4.5k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
 *   [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn S
     QL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 *   [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret

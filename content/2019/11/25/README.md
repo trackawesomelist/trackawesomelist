@@ -62,7 +62,7 @@
 
 ### Entertainment / Music
 
-*   [spotify-tui (⭐14k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
+*   [spotify-tui (⭐15k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
 ## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

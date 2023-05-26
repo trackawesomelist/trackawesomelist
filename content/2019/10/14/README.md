@@ -24,27 +24,27 @@
 
 ### Tools / Converters
 
-*   [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ### Tools / Editors
 
-*   [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Boostnote](https://boostnote.io/) - A markdown editor for developers. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Trilium Notes (⭐18k)](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Joplin](https://joplinapp.org/) - An open source note taking and to-do application with synchronisation capabilities. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows") ![iOS Logo](https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo") ![Android OS](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png "Android OS")
-*   [Visual Studio Code](https://code.visualstudio.com/) - An open source code editor with built-in markdown preview and many markdown extensions. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Quiver](http://happenapps.com/) - A notebook built for programmers. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![iOS Logo](https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo")
-*   [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![iOS Logo](https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo")
+*   [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Boostnote](https://boostnote.io/) - A markdown editor for developers. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Trilium Notes (⭐21k)](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Joplin](https://joplinapp.org/) - An open source note taking and to-do application with synchronisation capabilities. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows") ![iOS Logo](https://img.icons8.com/color/24/ios-logo.png "iOS Logo") ![Android OS](https://img.icons8.com/color/24/android-os.png "Android OS")
+*   [Visual Studio Code](https://code.visualstudio.com/) - An open source code editor with built-in markdown preview and many markdown extensions. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Quiver](http://happenapps.com/) - A notebook built for programmers. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![iOS Logo](https://img.icons8.com/color/24/ios-logo.png "iOS Logo")
+*   [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![iOS Logo](https://img.icons8.com/color/24/ios-logo.png "iOS Logo")
 
 ### Tools / Linters
 
-*   [markdownlint (⭐666)](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
+*   [markdownlint (⭐755)](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
 
 ### Tools / Miscellaneous
 
-*   [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
-*   [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
+*   [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Services / Presentations
 
@@ -80,11 +80,11 @@
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐428)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐677)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Groupware
 
-*   [HRCloud2 (⭐185)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
+*   [HRCloud2 (⭐192)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
 
 ### Software / Polls and Events
 
@@ -110,7 +110,7 @@
 
 ### Quality / Barcode
 
-*   [SwiftFormat (⭐6.4k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐6.6k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

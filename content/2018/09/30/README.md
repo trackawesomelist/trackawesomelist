@@ -29,7 +29,7 @@
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Three.js Basics](http://www.realtimerendering.com/basics3js/#1) - Introduction to Three.js by Eric Haines.
-*   [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/\~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
+*   [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
 
 ### Quick References • Cheatsheets / Other
 

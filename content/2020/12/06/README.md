@@ -20,8 +20,8 @@
 
 ### Threat intelligence / Threat hunting
 
-*   [Sigma (⭐5.8k)](https://github.com/Neo23x0/sigma) - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
-*   [YARA (⭐6.2k)](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
+*   [Sigma (⭐6.1k)](https://github.com/Neo23x0/sigma) - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
+*   [YARA (⭐6.5k)](https://github.com/VirusTotal/yara) - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
 
 ## [3. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -52,7 +52,7 @@
 
 *   [Advanced R](https://adv-r.hadley.nz/introduction.html) - This book is designed for R programmers who want to deepen their understanding of the language, and programmers experienced in other languages who want to understand what makes R different and special. [Exercise Solutions](https://advanced-r-solutions.rbind.io/) Author: Hadley Wickham.
 *   [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R. You will learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) Authors: Garrett Grolemund and Hadley Wickham.
-*   [The Book of R](https://web.itu.edu.tr/\~tokerem/The_Book_of_R.pdf) - The aim of The Book of R: A First Course in Programming and Statistics is to provide a relatively gentle yet informative exposure to the statistical software environment R, alongside some common statistical analyses, so that readers may have a solid foundation from which to eventually become experts in their own right. [Exercise solutions](https://nostarch.com/bookofr) Author: Tilman M. Davies.
+*   [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) - The aim of The Book of R: A First Course in Programming and Statistics is to provide a relatively gentle yet informative exposure to the statistical software environment R, alongside some common statistical analyses, so that readers may have a solid foundation from which to eventually become experts in their own right. [Exercise solutions](https://nostarch.com/bookofr) Author: Tilman M. Davies.
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

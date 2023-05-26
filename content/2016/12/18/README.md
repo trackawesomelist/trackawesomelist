@@ -28,8 +28,8 @@
 
 ### Open Source Repos / Lambda
 
-*   [chalice :fire::fire::fire::fire::fire: (⭐9.6k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
-*   [kubek2k/lambdoku :fire::fire::fire: (⭐571)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
+*   [chalice :fire::fire::fire::fire::fire: (⭐9.8k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
+*   [kubek2k/lambdoku :fire::fire::fire: (⭐572)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 
@@ -47,7 +47,7 @@
 
 ### C / Syntax highlighting packages
 
-*   [Grooves Game Boy Programming (⭐80)](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
+*   [Grooves Game Boy Programming (⭐81)](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
 *   [GBDK Sprite](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) - Presents a workflow for getting multiple sprites to display and animate.
 *   [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) - Extends your knowledge of basic spriting on the Game Boy by adding colors to sprites, backgrounds and the window layer.
 *   [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) - Details the use of the joypad with GBDK.

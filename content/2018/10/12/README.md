@@ -120,7 +120,7 @@
 
 ### Testing Frameworks / Assertion
 
-*   [react testing library (⭐17k)](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
+*   [react testing library (⭐18k)](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
 
 ## [5. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
@@ -157,12 +157,12 @@
 ### Clients
 
 *   [Official Keycloak Node.js Admin Client](https://github.com/keycloak/keycloak-admin-client/) ("Extremely Experimental")
-*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐609)](https://github.com/Canner/keycloak-admin/)
+*   [Keycloak Node.js TypeScript Admin Client by Canner (⭐617)](https://github.com/Canner/keycloak-admin/)
 *   [Keycloak Go Client by Cloudtrust (⭐23)](https://github.com/cloudtrust/keycloak-client)
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐572)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐590)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -211,7 +211,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [Netron (⭐21k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+*   [Netron (⭐22k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Compression
 
-*   [libarchive (⭐2k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+*   [libarchive (⭐2.2k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 
 ### Scripting
 
@@ -262,7 +262,7 @@
 
 ### Static Code Analysis
 
-*   [cpplint (⭐1.2k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
+*   [cpplint (⭐1.3k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 
 ## [19. Public Apis](/content/public-apis/public-apis/README.md)
 

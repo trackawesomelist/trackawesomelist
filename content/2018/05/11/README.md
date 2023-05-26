@@ -40,7 +40,7 @@
 
 ### Date and Time
 
-*   [cocktail (⭐134)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐178)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -48,7 +48,7 @@
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐30)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐32)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 
@@ -56,7 +56,7 @@
 
 ### Queue
 
-*   [gen\_rmq (⭐173)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
+*   [gen\_rmq (⭐178)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 
 ### Security
 
@@ -68,7 +68,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐93)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐94)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 
@@ -188,7 +188,7 @@
 
 ### Transition / Barcode
 
-*   [EasyTransitions (⭐1.6k)](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
+*   [EasyTransitions (⭐1.7k)](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

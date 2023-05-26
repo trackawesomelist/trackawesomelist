@@ -117,7 +117,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Sensor Processing / Machine Learning
 
-*   [nnstreamer-ros (⭐14)](https://github.com/nnstreamer/nnstreamer-ros) - A set of Gstreamer plugins and ROS examples that allow Gstreamer developers to adopt neural network models easily and efficiently and neural network developers to manage neural network pipelines and their filters easily and efficiently.
+*   [nnstreamer-ros (⭐13)](https://github.com/nnstreamer/nnstreamer-ros) - A set of Gstreamer plugins and ROS examples that allow Gstreamer developers to adopt neural network models easily and efficiently and neural network developers to manage neural network pipelines and their filters easily and efficiently.
 
 ## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -129,7 +129,7 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Applications / Cryptocurrencies
 
-*   [Phala-Network/phala-blockchain (⭐319)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
+*   [Phala-Network/phala-blockchain (⭐320)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
 
 ## [9. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 

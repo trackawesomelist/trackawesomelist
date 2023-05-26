@@ -10,7 +10,7 @@
 
 ### Dependency Managers
 
-*   [Accio (⭐648)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+*   [Accio (⭐652)](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
 
 ## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
@@ -50,10 +50,10 @@
 
 ### Visualization
 
-*   [ipytree (⭐103)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
+*   [ipytree (⭐110)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
 *   [xleaflet (⭐75)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 *   [xwebrtc (⭐15)](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
-*   [xwidgets (⭐130)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+*   [xwidgets (⭐131)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
 ## [8. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Graphics
 
-*   [Blend2D (⭐1.2k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
+*   [Blend2D (⭐1.3k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 
 ## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

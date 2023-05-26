@@ -26,7 +26,7 @@
 
 ### Images / Gif Creation
 
-*   [gifgen (⭐499)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+*   [gifgen (⭐508)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
 ## [3. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
@@ -177,7 +177,7 @@ Webpage: <http://espaijoliu.tumblr.com/>
 
 ### Packages / Libraries
 
-*   [Audiojs (⭐237)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
+*   [Audiojs (⭐236)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
 
 ---
 

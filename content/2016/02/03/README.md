@@ -17,9 +17,9 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Swift
-    *   [by @kingreza (⭐37)](https://github.com/kingreza/Swift-Algorithms-Strings-)
+    *   [by @kingreza (⭐38)](https://github.com/kingreza/Swift-Algorithms-Strings-)
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
-    *   [by @hollance (⭐27k)](https://github.com/hollance/swift-algorithm-club)
+    *   [by @hollance (⭐28k)](https://github.com/hollance/swift-algorithm-club)
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Database Tools
 
-*   [Scenic (⭐3.1k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
+*   [Scenic (⭐3.2k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
 
 ## [5. Julia.jl](/content/svaksha/Julia.jl/README.md)
 

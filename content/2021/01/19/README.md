@@ -16,7 +16,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐292)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐299)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Data Visualization and Mission Control / Command Line Interface
 
-*   [PyQtGraph (⭐3k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
+*   [PyQtGraph (⭐3.2k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
 ## [8. Amas](/content/sindresorhus/amas/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Open Source Repos / S3
 
-*   [peak/s5cmd :fire::fire::fire: (⭐1.5k)](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool with wildcard and batch command support.
+*   [peak/s5cmd :fire::fire::fire: (⭐1.7k)](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool with wildcard and batch command support.
 
 ---
 

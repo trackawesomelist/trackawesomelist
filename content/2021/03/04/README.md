@@ -47,11 +47,11 @@
 
 ### C++
 
-*   [Sogou Workflow (⭐9.9k)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
+*   [Sogou Workflow (⭐10k)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 
 ### Coordination & Governance / Scala
 
-*   [Temporal (⭐6.2k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
+*   [Temporal (⭐6.7k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 
 ### Storage / Scala
 
@@ -61,7 +61,7 @@
 
 ### Applications
 
-*   [Hardbin (⭐217)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐218)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 

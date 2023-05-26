@@ -70,13 +70,13 @@
 
 ### Debugging
 
-*   [Scyther (⭐89)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
+*   [Scyther (⭐90)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 
 ## [6. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Client Libraries
 
-*   [Subscan Go Utilities (⭐159)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+*   [Subscan Go Utilities (⭐170)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
 
 ### Tools
 
@@ -102,15 +102,15 @@
 
 *   [k6-circleci-example (⭐5)](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
 *   [k6-jenkins-example (⭐7)](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
-*   [k6-github-actions-example (⭐21)](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
-*   [k6-azure-pipelines-example (⭐13)](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
-*   [example-data-generation (⭐29)](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
+*   [k6-github-actions-example (⭐29)](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
+*   [k6-azure-pipelines-example (⭐15)](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
+*   [example-data-generation (⭐34)](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
 
 ### Tools
 
-*   [har-to-k6 (⭐62)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
-*   [postman-to-k6 (⭐267)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
-*   [jmeter-to-k6 (⭐57)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
+*   [har-to-k6 (⭐81)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+*   [postman-to-k6 (⭐270)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+*   [jmeter-to-k6 (⭐58)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 
 ### CI
 
@@ -163,7 +163,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require-transform (⭐48)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
+*   [vite-plugin-require-transform (⭐55)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
 
 ## [12. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
@@ -186,17 +186,17 @@
 
 ### Tools & Software / Replay
 
-*   [warc2html (⭐25)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
+*   [warc2html (⭐29)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
 
 ## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
-*   [Bubo reader (⭐90)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐25)](https://github.com/kevinfiol/reader)-personal fork)
+*   [Bubo reader (⭐95)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐29)](https://github.com/kevinfiol/reader)-personal fork)
 
 ## [16. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
-### Integration
+### Integration / Community
 
 *   [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK to provide interface for Directus API.
 

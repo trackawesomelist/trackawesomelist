@@ -16,7 +16,7 @@
 
 ### Machine Learning
 
-*   [weka (⭐66)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
+*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -72,11 +72,11 @@
 
 ### Bittorrent
 
-*   [bento (⭐77)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐78)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 
-*   [bamboo (⭐1.8k)](https://github.com/thoughtbot/bamboo) - Composable, testable and adapter based email library. Out of the box support for rendering with Phoenix and a plug for previewing sent emails in dev.
+*   [bamboo (⭐1.9k)](https://github.com/thoughtbot/bamboo) - Composable, testable and adapter based email library. Out of the box support for rendering with Phoenix and a plug for previewing sent emails in dev.
 
 ### Websites
 

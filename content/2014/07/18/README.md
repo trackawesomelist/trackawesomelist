@@ -10,13 +10,13 @@
 
 ### Github Libraries / Randomized Algorithms
 
-*   [Erlang (⭐143)](https://github.com/aggelgian/erlang-algorithms)
+*   [Erlang (⭐146)](https://github.com/aggelgian/erlang-algorithms)
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Figaro (⭐752)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+*   [Figaro (⭐754)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ## [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 
@@ -43,27 +43,27 @@
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
 *   [Mono-D's DParser (⭐29)](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
-*   [Pegged (⭐521)](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
+*   [Pegged (⭐525)](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
 *   [dunnart (⭐13)](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D.
 
 ### Database clients / XML
 
-*   [arsd (⭐481)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
-*   [ddb (⭐39)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
+*   [arsd (⭐489)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+*   [ddb (⭐40)](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
 *   [ddbc (⭐73)](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
 *   [hibernated (⭐79)](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 *   [dvorm (⭐18)](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 
 ### GUI Libs / XML
 
-*   [GtkD (⭐308)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
-*   [tkD (⭐115)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
+*   [GtkD (⭐311)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
+*   [tkD (⭐116)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
-*   [Serilog (⭐6.1k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+*   [Serilog (⭐6.3k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 
 ## [6. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

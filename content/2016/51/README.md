@@ -24,7 +24,7 @@ git format-patch -M upstream..topic
 
 ### Utilities
 
-*   [Vert.x JOLT (⭐5)](https://github.com/lusoalex/vertx-jolt) - JSON to JSON transformation tool based on the original bazaarvoice JOLT project. Helpful to transform different json structure into an expected json format.
+*   [Vert.x JOLT (⭐4)](https://github.com/lusoalex/vertx-jolt) - JSON to JSON transformation tool based on the original bazaarvoice JOLT project. Helpful to transform different json structure into an expected json format.
 
 ## [4. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -95,7 +95,7 @@ git format-patch -M upstream..topic
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.4k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐4.6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [5. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
@@ -292,7 +292,7 @@ git format-patch -M upstream..topic
 
 ### Command Line Applications
 
-*   [loki (⭐80)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐81)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 
@@ -349,7 +349,7 @@ git format-patch -M upstream..topic
 
 ### Network / Honey Pot / Honey Net
 
-*   [awesome-honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
+*   [awesome-honeypots (⭐7k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
 ## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -361,11 +361,11 @@ git format-patch -M upstream..topic
 
 ### Functional programming
 
-*   [Optional (⭐803)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐817)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ### Serialization
 
-*   [Hyperion (⭐271)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
+*   [Hyperion (⭐269)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 
 ### Source Generator
 
@@ -389,12 +389,12 @@ git format-patch -M upstream..topic
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐734)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐740)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐816)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐824)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -534,7 +534,7 @@ git format-patch -M upstream..topic
 
 ### Python / Neural Networks
 
-*   [Data Driven Code (⭐26)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
+*   [Data Driven Code (⭐27)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
@@ -552,7 +552,7 @@ git format-patch -M upstream..topic
 
 ### Tools / Linters
 
-*   [Markdownlint (⭐583)](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
+*   [Markdownlint (⭐668)](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
 
 ### Resources / Documentation
 
@@ -592,7 +592,7 @@ git format-patch -M upstream..topic
 
 ### Documentation tools / Components
 
-*   [Compodoc (⭐3.7k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
+*   [Compodoc (⭐3.8k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
 
 ### TypeScript Seed Projects / Components
 
@@ -612,7 +612,7 @@ git format-patch -M upstream..topic
 
 ### Debug
 
-*   [backward-cpp (⭐2.9k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
+*   [backward-cpp (⭐3.1k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
 
 ### GUI
 
@@ -620,7 +620,7 @@ git format-patch -M upstream..topic
 
 ### Logging
 
-*   [Blackhole (⭐192)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
+*   [Blackhole (⭐194)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
 ## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -632,7 +632,7 @@ git format-patch -M upstream..topic
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐445)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐451)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

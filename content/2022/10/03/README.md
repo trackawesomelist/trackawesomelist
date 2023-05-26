@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2022
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,8 +16,7 @@
 
 ### File Management and Sharing
 
-*   [Snapdrop (⭐15k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
-    *   [PairDrop (⭐396)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network
+*   [Snapdrop (⭐16k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
 
 ## [3. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -36,34 +35,24 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [lpha3cho (⭐35)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
+*   [lpha3cho (⭐36)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
 *   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, `git` status, timestamp, last exit status and also name of active virtual environment.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C# / Non-X86
-
-*   [Xamarin.Forms Notes for professionals](https://books.goalkicker.com/XamarinFormsBook/) - Compiled from StackOverflow documentaion (PDF)
-
-### JavaScript / Wicket
-
-*   [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
-
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
-*   [soywiz/kaifu2x (⭐31)](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
+*   [soywiz/kaifu2x (⭐32)](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
 
-## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Crash Courses
 
 *   [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Introduction to the Algorand Virtual Machine architecture and Algorand Smart Contracts (aka Applications).
 
-## [8. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
+## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
-### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events)   \_by   [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler)   🔥 [4.00] / [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride)     *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)*   \[4.2] :fire:
+### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler) 🔥 [4.00] / [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)* [4.2] :fire:
 
 *   [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
 *   [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room) 🔥
@@ -79,20 +68,20 @@
 *   [The Penultimate Peril](https://www.goodreads.com/book/show/65110.The_Penultimate_Peril)
 *   [The End](https://www.goodreads.com/book/show/65112.The_End)
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   Flash Player
     *   [Ruffle (⭐12k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Science Logology / Science Education
 
 *   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education research.
 
-## [11. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [10. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Learning Platforms:
 
@@ -100,16 +89,16 @@
 
 
 
-## [12. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [11. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage-Integrator (⭐0)](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
-*   [gnome\_appimage\_installer (⭐1)](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
+*   [AppImage-Integrator (⭐1)](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
+*   [gnome\_appimage\_installer (⭐2)](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
 
 ### AppImage consumption tools / Package managers
 
-*   [leap (⭐8)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
+*   [leap (⭐7)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
 
 ### AppImage developer tools / Tools to convert from other package formats
 
@@ -120,45 +109,45 @@
 
 *   [appenv (⭐0)](https://github.com/TheMarlboroMan/appenv) - Small C++ library telling where the app data resides and where the user data is by using `readlink("/proc/self/exe")`), thus allowing C++ applications to become relocatable in the filesystem.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Books
 
 *   [rebound (⭐4k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
-*   [bcal (⭐578)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
-*   [bitwise (⭐510)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
-*   [cgasm (⭐357)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
-*   [add-gitignore (⭐568)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
-*   [is-up-cli (⭐349)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
-*   [reachable (⭐19)](https://github.com/italolelis/reachable) - Check if a domain is up.
+*   [bcal (⭐591)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
+*   [bitwise (⭐557)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
+*   [cgasm (⭐359)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
+*   [add-gitignore (⭐586)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
+*   [is-up-cli (⭐353)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+*   [reachable (⭐22)](https://github.com/italolelis/reachable) - Check if a domain is up.
 *   [loadtest (⭐2.4k)](https://github.com/alexfernandez/loadtest) - Run load tests.
-*   [diff2html-cli (⭐405)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [diff2html-cli (⭐432)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Development / Frontend Development
 
-*   [caniuse-cmd (⭐1.6k)](https://github.com/sgentle/caniuse-cmd) - Search [caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/readme.md/caniuse.com) about browser support of features.
+*   [caniuse-cmd (⭐1.6k)](https://github.com/sgentle/caniuse-cmd) - Search [caniuse.com](https://caniuse.com) about browser support of features.
 *   [surge](https://surge.sh) - Publish static websites for free.
 
 ### Development / Devops
 
 *   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐22k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-*   [Discharge (⭐524)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+*   [Discharge (⭐530)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 
 ### Development / HTTP Server
 
-*   [serve (⭐8.4k)](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
-*   [simplehttp (⭐52)](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
+*   [serve (⭐8.7k)](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
+*   [simplehttp (⭐53)](https://github.com/snwfdhmp/simplehttp) - Easily serve a local directory over HTTP.
 *   [shell2http (⭐1.1k)](https://github.com/msoap/shell2http) - Shell script based HTTP server.
 
 ### Development / HTTP Client
 
-*   [HTTPie (⭐26k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
+*   [HTTPie (⭐28k)](https://github.com/httpie/httpie) - A user-friendly HTTP client.
 *   [HTTP Prompt (⭐8.7k)](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
-*   [ain (⭐467)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
+*   [ain (⭐476)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 
 ### Utilities / Calendars
 
-*   [bitly-client (⭐46)](https://github.com/specious/bitly-client) - Bitly client.
+*   [bitly-client (⭐47)](https://github.com/specious/bitly-client) - Bitly client.
 
 ### Data Manipulation / JSON
 
@@ -166,24 +155,24 @@
 
 ### Data Manipulation / YAML
 
-*   [dyff (⭐804)](https://github.com/homeport/dyff) - YAML diff tool.
+*   [dyff (⭐895)](https://github.com/homeport/dyff) - YAML diff tool.
 
 ### Files and Directories / Directory Listing
 
-*   [lsd (⭐9.1k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
+*   [lsd (⭐9.8k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
 ### Images / Emoji
 
-*   [imgur-uploader-cli (⭐53)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
+*   [imgur-uploader-cli (⭐54)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 *   [pageres-cli (⭐1.6k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
-## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [STM32F4xx with Embedded Rust at the HAL](https://apollolabsblog.hashnode.dev/series/stm32f4-embedded-rust-hal) A blog containing a series of tutorials demonstrating the use of several peripherals through simple examples leveraging the stm32f4xx-hal crate.
 
-## [15. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [14. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### MERN: Mongo Express React Node   [↗](https://awesomestacks.dev/mern-mongo-express-react-node) / Resources
 

@@ -16,7 +16,7 @@
 
 ### Geolocation
 
-*   [ip2location (⭐17)](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
+*   [ip2location (⭐18)](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
 
 ## [3. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -135,7 +135,7 @@
 *   [GitHub](https://github.com/) - A repository for code and data. Publishing research here is not a common practice, but it's more convenient that alternatives (university home page, DropBox, etc.).
     *   [GitHub Pages](https://pages.github.com/) - Simple static websites.
     *   [GitHub LFS](https://git-lfs.github.com/) - Large file storage.
-*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐25k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 *   [Most common programs used by Economists](http://economics.stackexchange.com/questions/5853/most-common-programs-used-by-economists) - A community-managed list of common software.
 *   [Software for Researchers: New Data and Applications](https://antontarasenko.com/2016/01/14/software-for-research/) - Covers software mentioned above and some more.
 
@@ -170,7 +170,6 @@
 
 ### Career / Faculty
 
-*   [Econ Jobs Postings](https://econjobmarket.org/postings.php) - List of academic job openings.
 *   [Economics Job Market Rumors](http://www.econjobrumors.com/wiki.php) - List of job openings for economists. Informal.
 
 ### Economics on GitHub / Economists
@@ -180,7 +179,7 @@
 
 ### Economics on GitHub / Projects
 
-*   [quantecon\_nyu\_2016 (⭐107)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
+*   [quantecon\_nyu\_2016 (⭐112)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 
 ## [6. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 

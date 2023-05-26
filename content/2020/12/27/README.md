@@ -22,7 +22,7 @@
 
 ### Sensor Processing / Image Processing
 
-*   [eo-learn (⭐931)](https://github.com/sentinel-hub/eo-learn) - A collection of open source Python packages that have been developed to seamlessly access and process spatio-temporal image sequences acquired by any satellite fleet in a timely and automatic manner.
+*   [eo-learn (⭐993)](https://github.com/sentinel-hub/eo-learn) - A collection of open source Python packages that have been developed to seamlessly access and process spatio-temporal image sequences acquired by any satellite fleet in a timely and automatic manner.
 
 ### Data Visualization and Mission Control / Command Line Interface
 

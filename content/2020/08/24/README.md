@@ -56,7 +56,7 @@
 
 ### Python Libraries
 
-*   [bitcoin\_tools (⭐247)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
+*   [bitcoin\_tools (⭐250)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 *   [oogway (⭐10)](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
@@ -80,11 +80,11 @@
 
 ### Sensor Processing / Machine Learning
 
-*   [tf-agents (⭐2.4k)](https://github.com/tensorflow/agents) - A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
+*   [tf-agents (⭐2.5k)](https://github.com/tensorflow/agents) - A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
 
 ### Network and Middleware / Controller Area Network
 
-*   [canopen (⭐335)](https://github.com/christiansandberg/canopen) - A Python implementation of the CANopen standard. The aim of the project is to support the most common parts of the CiA 301 standard in a Pythonic interface.
+*   [canopen (⭐367)](https://github.com/christiansandberg/canopen) - A Python implementation of the CANopen standard. The aim of the project is to support the most common parts of the CiA 301 standard in a Pythonic interface.
 
 ## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -96,18 +96,18 @@
 
 ### Individual components / Others
 
-*   [Blazor.Grids (⭐23)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
-*   [Blazor.TreeViews (⭐54)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
+*   [Blazor.Grids (⭐27)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
+*   [Blazor.TreeViews (⭐62)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
 
 ## [12. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
-- Name: [Tinre (⭐52)](https://github.com/devpri/tinre)
+- Name: [Tinre (⭐57)](https://github.com/devpri/tinre)
 
   Description: A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS.
 
-  Link: [https://github.com/devpri/tinre (⭐52)](https://github.com/devpri/tinre)
+  Link: [https://github.com/devpri/tinre (⭐57)](https://github.com/devpri/tinre)
 
   : 
 
@@ -117,11 +117,11 @@
 
 ### Resources / Algorithms and AI
 
-*   [Simple Graphs (⭐36)](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
+*   [Simple Graphs (⭐37)](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
 
 ### Resources / Physics
 
-*   [jbump (⭐22)](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
+*   [jbump (⭐23)](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
 
 ---
 

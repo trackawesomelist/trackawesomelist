@@ -10,35 +10,35 @@
 
 ### Laravel
 
-- Name: [Invoice Ninja (⭐6.7k)](https://github.com/invoiceninja/invoiceninja)
+- Name: [Invoice Ninja (⭐7.1k)](https://github.com/invoiceninja/invoiceninja)
 
   Description: Invoice Generation System
 
   Link: <https://www.invoiceninja.com>
 
 
-- Name: [Faveo (⭐978)](https://github.com/ladybirdweb/faveo-helpdesk)
+- Name: [Faveo (⭐1k)](https://github.com/ladybirdweb/faveo-helpdesk)
 
   Description: Helpdesk Ticketing System
 
   Link: <http://www.faveohelpdesk.com>
 
 
-- Name: [Timegrid (⭐875)](https://github.com/timegridio/timegrid)
+- Name: [Timegrid (⭐906)](https://github.com/timegridio/timegrid)
 
   Description: Online Reservation Platform
 
   Link: [https://demo.timegrid.io](https://demo.timegrid.io/)
 
 
-- Name: [Laravel.io (⭐2.2k)](https://github.com/laravelio/laravel.io)
+- Name: [Laravel.io (⭐2.3k)](https://github.com/laravelio/laravel.io)
 
   Description: Laravel Community Portal
 
   Link: <http://laravel.io>
 
 
-- Name: [Attendize (⭐3.5k)](https://github.com/Attendize/Attendize)
+- Name: [Attendize (⭐3.7k)](https://github.com/Attendize/Attendize)
 
   Description: Ticket selling and event management platform
 
@@ -66,28 +66,28 @@
   Link: <http://paperwork.rocks>
 
 
-- Name: [Podcastwala (⭐142)](https://github.com/modestkdr/Podcastwala)
+- Name: [Podcastwala (⭐141)](https://github.com/modestkdr/Podcastwala)
 
   Description: Podcast System
 
   Link: 
 
 
-- Name: [Laravel Snippets (⭐329)](https://github.com/basco-johnkevin/laravelsnippets)
+- Name: [Laravel Snippets (⭐330)](https://github.com/basco-johnkevin/laravelsnippets)
 
   Description: A repository of useful code snippets for Laravel PHP framework
 
   Link: 
 
 
-- Name: [Freelancer Notes (⭐51)](https://github.com/porimol/freelancer-notes)
+- Name: [Freelancer Notes (⭐52)](https://github.com/porimol/freelancer-notes)
 
   Description: Freelancer Notes
 
   Link: 
 
 
-- Name: [Critter (⭐59)](https://github.com/msurguy/critterapp)
+- Name: [Critter (⭐58)](https://github.com/msurguy/critterapp)
 
   Description: Mini-twitter-like app
 
@@ -101,21 +101,21 @@
   Link: [https://cachethq.io (⭐13k)](https://github.com/CachetHQ/Cachet)
 
 
-- Name: [Scrumwala (⭐254)](https://github.com/modestkdr/Scrumwala)
+- Name: [Scrumwala (⭐258)](https://github.com/modestkdr/Scrumwala)
 
   Description: Your very own Scrum/Agile web app for personal use
 
   Link: 
 
 
-- Name: [SnipeIT (⭐6.9k)](https://github.com/snipe/snipe-it)
+- Name: [SnipeIT (⭐8k)](https://github.com/snipe/snipe-it)
 
   Description: IT Asset/license Management System
 
   Link: <http://snipeitapp.com>
 
 
-- Name: [Neontsunami (⭐2)](https://github.com/dwightwatson/neontsunami)
+- Name: [Neontsunami (⭐3)](https://github.com/dwightwatson/neontsunami)
 
   Description: Personal Website and blog
 
@@ -134,7 +134,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Smali/Baksmali (⭐5.6k)](https://github.com/JesusFreke/smali) – apk decompilation
+*   [Smali/Baksmali (⭐5.9k)](https://github.com/JesusFreke/smali) – apk decompilation
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -179,7 +179,7 @@
 
 ### Testing
 
-*   [ex\_unit\_notifier (⭐116)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
+*   [ex\_unit\_notifier (⭐118)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Related lists
 
-*   [Awesome Music Production (⭐641)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐696)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

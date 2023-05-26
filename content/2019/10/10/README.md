@@ -59,22 +59,22 @@
 
 ### Storage / Runner
 
-*   [crumbsjs (⭐232)](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
+*   [crumbsjs (⭐233)](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
 
 ## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐664)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐338)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐32k)](https://github.com/psf/black).
+*   [code\_formatter (⭐680)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐341)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐32k)](https://github.com/psf/black).
 *   [python-bytecode (⭐60)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
 *   [quickopen (⭐74)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐214)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐388)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐279)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
-*   [theme-darcula (⭐175)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+*   [sidecar (⭐216)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐390)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐281)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [theme-darcula (⭐178)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 *   [topbar (⭐4)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐943)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [vim (⭐942)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Resources / Learning
 
-*   [Nix Shorts (⭐350)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
+*   [Nix Shorts (⭐372)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 
 ## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -178,7 +178,7 @@
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐6.5k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐6.8k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 
@@ -200,11 +200,11 @@
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐306)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐309)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐33k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐34k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ---
 

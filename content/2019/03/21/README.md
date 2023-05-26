@@ -16,7 +16,7 @@
 
 ### Libraries
 
-*   [react-on-lambda (⭐253)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
+*   [react-on-lambda (⭐257)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -54,16 +54,16 @@
 ### Finite Elements
 
 *   [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
-    (Python, BSD, [GitHub (⭐579)](https://github.com/sfepy/sfepy))
+    (Python, BSD, [GitHub (⭐603)](https://github.com/sfepy/sfepy))
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
-    (Python, MIT, [GitHub (⭐2.1k)](https://github.com/mikedh/trimesh))
+    (Python, MIT, [GitHub (⭐2.3k)](https://github.com/mikedh/trimesh))
 
 ### Community / Mesh tools
 
-*   [Wolfgang Bangerth's video class](https://www.math.colostate.edu/\~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
+*   [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
 
 ## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Package Management
 
-*   [Sleet (⭐293)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐304)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

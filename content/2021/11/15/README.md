@@ -35,7 +35,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [DavidMellul/Kotlin-Publish-Subscribe (⭐21)](https://github.com/DavidMellul/Kotlin-Publish-Subscribe) - Intuitive and powerful human-readable Kotlin DSL for IPCs & turning anything into a message receiver / broadcaster
+*   [DavidMellul/Kotlin-Publish-Subscribe (⭐22)](https://github.com/DavidMellul/Kotlin-Publish-Subscribe) - Intuitive and powerful human-readable Kotlin DSL for IPCs & turning anything into a message receiver / broadcaster
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Graph databases
 
-*   [neo4cl (⭐5)](https://github.com/equill/neo4cl) - a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [neo4cl (⭐6)](https://github.com/equill/neo4cl) - a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
     *   and maybe: [cl-neo4j (⭐26)](https://github.com/kraison/cl-neo4j) - a thin neo4j RESTFUL client interface.
 *   [restagraph (⭐16)](https://github.com/equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -57,17 +57,23 @@
 
 *   [Radix Icons (⭐1.4k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 
-## [7. Awesome React](/content/enaqx/awesome-react/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### React Tools / React Styling
+### Data Visualization on Maps
 
-*   [vanilla-extract (⭐6.9k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+*   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Styling
+
+*   [vanilla-extract (⭐8k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Builders
 
-*   [Athena Console (⭐11)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
+*   [Athena Console (⭐12)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
 
 ### HTML/XML Parsing
 
@@ -75,17 +81,7 @@
 
 ### Third-party APIs
 
-*   [mollie.cr (⭐15)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
-
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### DNS
-
-*   [nsupdate.info](https://www.nsupdate.info/) — Free and open-source Dynamic DNS service
-
-### Data Visualization on Maps
-
-*   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
+*   [mollie.cr (⭐16)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -98,7 +94,7 @@
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
-*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐148)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
+*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐153)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 
 ## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

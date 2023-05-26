@@ -10,13 +10,13 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐252)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐115)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐257)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐115)](https://github.com/jll63/yomm11) \[Boost]
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Text and Numbers
 
-*   [nanoid (⭐186)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐191)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -25,7 +25,7 @@
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐32)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐81)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐34)](https://github.com/thejpster/menu), [vga-framebuffer (⭐30)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐87)](https://github.com/thejpster/pc-keyboard).
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

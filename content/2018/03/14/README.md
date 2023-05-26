@@ -31,7 +31,7 @@
 
 ### Tours And Guides / Runner
 
-*   [driver.js (⭐14k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+*   [driver.js (⭐15k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -67,7 +67,7 @@
 
 ### HTTP
 
-*   [halite (⭐170)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-comment-grid (⭐155)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+*   [vue-comment-grid (⭐156)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
 ## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

@@ -48,15 +48,15 @@
 
 ### ORM and SQL generation
 
-*   [Walkable (⭐422)](https://github.com/walkable-server/walkable)
-*   [Specql (⭐125)](https://github.com/tatut/specql/)
+*   [Walkable (⭐432)](https://github.com/walkable-server/walkable)
+*   [Specql (⭐127)](https://github.com/tatut/specql/)
 *   [sqlium (⭐26)](https://github.com/TheLadders/sqlium/)
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Go / Erlang
 
-*   [go-api-boilerplate (⭐705)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
+*   [go-api-boilerplate (⭐743)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
 
 ## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

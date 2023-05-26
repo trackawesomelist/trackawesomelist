@@ -10,25 +10,25 @@
 
 ### Clojure
 
-*   [Cloture (⭐346)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
-*   [cl-oju (⭐12)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [clj-con (⭐17)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [clj-re (⭐6)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
+*   [Cloture (⭐356)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
+*   [cl-oju (⭐16)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clj-con (⭐19)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clj-re (⭐7)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
 
 ### Typing
 
-*   [typo (⭐25)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [typo (⭐27)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
-*   [OpenRPC (⭐21)](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [OpenRPC (⭐23)](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   Automatic OpenRPC spec generation
     *   Automatic JSON-RPC client building by OpenRPC spec. This includes creation of Common Lisp classes and methods for making RPC requests and returning native CL objects.
     *   all JSON marshalling is done under the hood.
 
 ### Apps / Third-party APIs
 
-*   [trivial-sanitize](https://notabug.org/cage/trivial-sanitize) -  clean html strings: "<a>foo</a>" → "foo". [LLGPL](http://opensource.franz.com/preamble.html).
+*   [trivial-sanitize](https://notabug.org/cage/trivial-sanitize) -  clean html strings: `"<a>foo</a>"` → `"foo"`. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [testieren](https://cicadas.surf/cgit/colin/testiere.git/about/) - a testing utility where tests are included at the top of a `defun/t` form. They are run when you recompile your functions interactively. With mocking and stubbing support. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Macro helpers / Third-party APIs
@@ -40,7 +40,7 @@
 ### Other plugins
 
 *   Dynamsoft
-    *   [Barcode Reader (⭐5)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
+    *   [Barcode Reader (⭐6)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
     *   [Camera Preview (⭐3)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
     *   [Document Normalizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer) - Scan documents using Dynamsoft Document Normalizer.
     *   [Label Recognizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
@@ -62,7 +62,7 @@
 
 ### Game Development
 
-*   [SDL-Crystal-Bindings (⭐0)](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
+*   [SDL-Crystal-Bindings (⭐1)](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -97,8 +97,8 @@
 
 ### Tools
 
-*   [Magento 2 Database Synchronizer (⭐38)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
-*   [Subodha Magento2 Gulp Integration (⭐78)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
+*   [Magento 2 Database Synchronizer (⭐39)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
+*   [Subodha Magento2 Gulp Integration (⭐76)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
 
 ## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Charts / Checkbox
 
-*   [Layer Cake (⭐785)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
+*   [Layer Cake (⭐836)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
 ## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -152,29 +152,27 @@
 ### Apps / Blockchain Name System
 
 *   [btc.us](https://btc.us) - An application for .btc names.
-*   [stx.name](https://stx.name) - An application for BNS name registration (not open source).
 *   [BNS search](https://www.bnssearch.com/) - An application to search registered BNS names.
-*   [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
 *   [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
 ### Apps / DeFi
 
 *   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
 *   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
-*   [Arkadiko Protocol (⭐54)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
+*   [Arkadiko Protocol (⭐55)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 
-### Clarity Resources / Developer Tools
+### Clarity Resources / Example Contracts
 
 *   [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 
 ### App Development / Frontend Libraries
 
-*   [Stacks.js (⭐882)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
-*   [micro-stacks (⭐68)](https://github.com/fungible-systems/micro-stacks/) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [Stacks.js (⭐906)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [micro-stacks (⭐79)](https://github.com/fungible-systems/micro-stacks/) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 
 ### App Development / CLI
 
-*   [@stacks/cli (⭐882)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
+*   [@stacks/cli (⭐906)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
 
 ### Learning Resources / Documentation
 
@@ -182,7 +180,7 @@
 
 ### Learning Resources / Books
 
-*   [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (early preview)
+*   [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## [17. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
@@ -196,7 +194,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfautomv (⭐457)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
+*   [tfautomv (⭐499)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 
 ## [19. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

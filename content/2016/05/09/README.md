@@ -34,7 +34,7 @@
 
 ### Resources / Examples and Exercises
 
-*   [FPJS-Class (⭐96)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
+*   [FPJS-Class (⭐95)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 *   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
 ## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
@@ -54,8 +54,8 @@
 ### Testing
 
 *   GUI / Web Testing
-    *   [locust (⭐20k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [PyAutoGUI (⭐7.6k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    *   [locust (⭐21k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+    *   [PyAutoGUI (⭐7.9k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
     *   [Schemathesis (⭐1.6k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     *   [sixpack (⭐1.7k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.

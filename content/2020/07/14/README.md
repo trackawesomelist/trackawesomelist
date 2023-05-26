@@ -16,7 +16,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb-babel (⭐2)](https://github.com/davidjbradshaw/eslint-config-airbnb-babel) - Airbnb's ESLint config with Babel Support.
+*   [Airbnb-babel (⭐3)](https://github.com/davidjbradshaw/eslint-config-airbnb-babel) - Airbnb's ESLint config with Babel Support.
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Integrations
 
-*   [heroku-playwright-buildpack (⭐34)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
+*   [heroku-playwright-buildpack (⭐36)](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack for running Playwright on a Heroku Dyno.
 
 ### Showcases
 
@@ -54,18 +54,18 @@
 
 ### Logging / Third-party APIs
 
-*   ⭐ [log4cl (⭐63)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
+*   ⭐ [log4cl (⭐71)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
     *   [log4cl-json (⭐2)](https://github.com/40ants/log4cl-json) - JSON appender extension. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Image Processing
 
-*   [pytracking (⭐2.5k)](https://github.com/visionml/pytracking) - A general python framework for visual object tracking and video object segmentation, based on PyTorch.
+*   [pytracking (⭐2.7k)](https://github.com/visionml/pytracking) - A general python framework for visual object tracking and video object segmentation, based on PyTorch.
 
 ### Datasets / Sensor and Acuator Interfaces
 
-*   [waymo-open-dataset (⭐2k)](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
+*   [waymo-open-dataset (⭐2.2k)](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
 
 ## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Open Source Repos / S3
 
-*   [mishudark/s3-parallel-put :fire::fire: (⭐303)](https://github.com/mishudark/s3-parallel-put) - CLI that supports parallel uploads.
+*   [mishudark/s3-parallel-put :fire::fire: (⭐306)](https://github.com/mishudark/s3-parallel-put) - CLI that supports parallel uploads.
 
 ### Guides, Books, Documentation, and Training / General Guides
 

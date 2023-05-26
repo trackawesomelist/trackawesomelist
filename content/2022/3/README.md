@@ -49,11 +49,11 @@
 
 ### Software / Groupware
 
-*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐114)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
+*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐115)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
 
 ### Software / Pastebins
 
-*   [Pastefy](https://pastefy.ga) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐157)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
+*   [Pastefy](https://pastefy.ga) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐166)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
 
 ### List of Licenses / Wikis
 
@@ -85,25 +85,25 @@
 
 ### Official plugins
 
-*   [App (⭐315)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
-*   [Screen Reader (⭐315)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
+*   [App (⭐357)](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events.
+*   [Screen Reader (⭐357)](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
 
 ### Community plugins
 
 *   Firebase
-    *   [Analytics (⭐134)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
-    *   [Crashlytics (⭐64)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
-    *   [Fcm (⭐211)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
-    *   [Remote config (⭐18)](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for Firebase remote config.
-*   [Photoviewer (⭐37)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
-*   [Privacy screen (⭐41)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
-*   [Screen brightness (⭐11)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
+    *   [Analytics (⭐141)](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
+    *   [Crashlytics (⭐63)](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
+    *   [Fcm (⭐217)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
+    *   [Remote config (⭐21)](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for Firebase remote config.
+*   [Photoviewer (⭐38)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
+*   [Privacy screen (⭐47)](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
+*   [Screen brightness (⭐13)](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
 
 ### Other plugins
 
 *   [Intent (⭐6)](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
-*   [Oauth2 (⭐170)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
-*   [Video player (⭐71)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
+*   [Oauth2 (⭐181)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+*   [Video player (⭐81)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 
 ## [8. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
@@ -128,15 +128,15 @@
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome No Code Low Code (⭐178)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
+*   [Awesome No Code Low Code (⭐192)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
 
 ## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
-*   [undici (⭐4.5k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
-*   [ky-universal (⭐617)](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
-*   [purest (⭐525)](https://github.com/simov/purest) - REST client.
+*   [undici (⭐4.8k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
+*   [ky-universal (⭐647)](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
+*   [purest (⭐527)](https://github.com/simov/purest) - REST client.
 
 ### Packages / Debugging / Profiling
 
@@ -144,10 +144,10 @@
 
 ### Packages / Web frameworks
 
-*   [Fastify (⭐26k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Nuxt.js (⭐44k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+*   [Fastify (⭐27k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
+*   [Nuxt.js (⭐45k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
 *   [AdonisJs (⭐14k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
-*   [Moleculer (⭐5.5k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
+*   [Moleculer (⭐5.7k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 
 ### Packages / Streams
 
@@ -155,7 +155,7 @@
 
 ### Packages / Parsing
 
-*   [@parcel/css (⭐3.3k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+*   [@parcel/css (⭐3.6k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 
 ### Packages / Minifiers
 
@@ -165,7 +165,7 @@
 
 ### Tools & Software / Acquisition
 
-*   [Waybackpy (⭐262)](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  *(Stable)*
+*   [Waybackpy (⭐313)](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  *(Stable)*
 
 ## [12. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -256,15 +256,15 @@
 
 ### Open Source / Casual
 
-*   [Spacescape](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Spacescape (⭐74)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Endless Runner
 
-*   [Dino Run (⭐111)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Dino Run (⭐117)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Platformer
 
-*   [Simple Platformer (⭐22)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Simple Platformer (⭐25)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ## [22. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
@@ -308,13 +308,13 @@
 
 ### Network / VPN
 
-*   [Firezone (⭐3k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard that makes it simple to manage secure remote access to your company’s private networks. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐4.2k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard that makes it simple to manage secure remote access to your company’s private networks. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 
 ## [28. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Tools / Testing Tools
 
-*   [eslint-remote-tester (⭐101)](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
+*   [eslint-remote-tester (⭐108)](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
 
 ## [29. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
@@ -340,7 +340,7 @@
 
 ### Component bundles
 
-*   [MASA Blazor (⭐541)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
+*   [MASA Blazor (⭐676)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
 
 ## [32. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -352,7 +352,7 @@
 
 ### Icons
 
-*   [svelte-heroicons (⭐8)](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
+*   [svelte-heroicons (⭐9)](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
 
 ## [34. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -438,17 +438,17 @@
 
 *   NoSQL Databases
     *   [MongoDB (⭐54)](https://github.com/vert-x3/vertx-mongo-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - An asynchronous client for interacting with a MongoDB database.
-    *   [Redis (⭐118)](https://github.com/vert-x3/vertx-redis-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous API to interact with Redis.
+    *   [Redis (⭐119)](https://github.com/vert-x3/vertx-redis-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous API to interact with Redis.
     *   [Cassandra (⭐32)](https://github.com/vert-x3/vertx-cassandra-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Vert.x client allowing applications to interact with a Cassandra service.
     *   [Cassandra (⭐39)](https://github.com/englishtown/vertx-cassandra) - Asynchronous API to interact with Cassandra and Cassandra Mapping.
-    *   [OrientDB (⭐7)](https://github.com/cstamas/vertx-orientdb) - Non-blocking OrientDB server integration.
+    *   [OrientDB (⭐6)](https://github.com/cstamas/vertx-orientdb) - Non-blocking OrientDB server integration.
     *   [Bitsy (⭐1)](https://github.com/cstamas/vertx-bitsy) - Non-blocking Bitsy Graph server integration.
     *   [MarkLogic (⭐2)](https://github.com/etourdot/vertx-marklogic) - Asynchronous client for Marklogic Database Server.
-    *   [SirixDB (⭐804)](https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api) - Non-blocking SirixDB HTTP-server.
+    *   [SirixDB (⭐829)](https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api) - Non-blocking SirixDB HTTP-server.
     *   [DGraph (⭐1)](https://github.com/aesteve/vertx-dgraph-client) - An example on how to build a Vert.x gRPC compliant client. Here targeting [dgraph](https://dgraph.io)
     *   [RxFirestore (⭐9)](https://github.com/pjgg/rxfirestore) - Non-blocking Firestore SDK written in a reactive way.
     *   [MongoDB (⭐1)](https://github.com/imrafaelmerino/vertx-mongodb-effect) - Pure functional and reactive MongoDB client on top of [Vert.x Effect (⭐1)](https://github.com/imrafaelmerino/vertx-mongodb-effect). Full support for retry, fallback and recovery operations.
-    *   [Aerospike (⭐28)](https://github.com/dream11/vertx-aerospike-client) - Asynchronous and non-blocking API to interact with Aerospike server. Uses [AerospikeClient's (⭐218)](https://github.com/aerospike/aerospike-client-java) async commands internally and handles the result on the Vert.x Context.
+    *   [Aerospike (⭐28)](https://github.com/dream11/vertx-aerospike-client) - Asynchronous and non-blocking API to interact with Aerospike server. Uses [AerospikeClient's (⭐220)](https://github.com/aerospike/aerospike-client-java) async commands internally and handles the result on the Vert.x Context.
 
 ## [38. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
@@ -460,181 +460,180 @@
 *   [IQM (⭐36)](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary).
 *   [love-gltf](https://gitlab.com/Alloyed/love-gltf) - Gltf asset loader and test renderer; Supports skeletal animations and morph targets.
 *   [Lovox (⭐45)](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels.
-*   [model\_renderer (⭐17)](https://github.com/xiejiangzhi/model_renderer) - A simple 3d model renderer for love2d.
+*   [model\_renderer (⭐18)](https://github.com/xiejiangzhi/model_renderer) - A simple 3d model renderer for love2d.
 
 ### AI
 
-*   [Jumper (⭐578)](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
+*   [Jumper (⭐581)](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
 *   [Lua-star (⭐43)](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A\* path finding.
 
 ### Animation
 
-*   [andross (⭐30)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
-*   [anim8 (⭐590)](https://github.com/kikito/anim8) - Animation library.
+*   [andross (⭐31)](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
+*   [anim8 (⭐607)](https://github.com/kikito/anim8) - Animation library.
 *   [animx (⭐18)](https://github.com/YoungNeer/animx) - A featureful Animation library for loading animations from XML files!.
 *   [chiro (⭐25)](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com).
 *   [Peachy (⭐89)](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE.
 *   [skeletor (⭐24)](https://github.com/pelevesque/skeletor) - 2D skeletal animation system.
 *   [Walt (⭐55)](https://github.com/davisdude/Walt) - Animation library.
 *   [Lump (⭐19)](https://github.com/sixFingers/lump) - Adobe Flash animation runtime.
-*   [lovanim (⭐26)](https://github.com/patrixr/love-animation) - A minimal stateful animation library.
-*   [SYSL-Text (⭐47)](https://github.com/SystemLogoff/SYSL-Text) - Text animation and automatic wrapping library based on tags.
+*   [lovanim (⭐27)](https://github.com/patrixr/love-animation) - A minimal stateful animation library.
+*   [SYSL-Text (⭐51)](https://github.com/SystemLogoff/SYSL-Text) - Text animation and automatic wrapping library based on tags.
 
 ### Camera
 
-*   [Brady (⭐54)](https://github.com/davisdude/Brady) - Camera library with parallax scrolling.
-*   [Editgrid (⭐40)](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid.
-*   [gamera (⭐211)](https://github.com/kikito/gamera) - Camera system.
+*   [Brady (⭐55)](https://github.com/davisdude/Brady) - Camera library with parallax scrolling.
+*   [Editgrid (⭐41)](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid.
+*   [gamera (⭐217)](https://github.com/kikito/gamera) - Camera system.
 *   [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation.
 
 ### Development
 
 *   [FPSGraph (⭐14)](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility.
-*   [debugGraph (⭐29)](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph.
-*   [Lovebird (⭐262)](https://github.com/rxi/lovebird) - Browser-based debug console.
-*   [LoveDebug (⭐90)](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility.
-*   [lurker (⭐245)](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game.
-*   [LÖVE API (⭐259)](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table.
+*   [debugGraph (⭐31)](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph.
+*   [Lovebird (⭐266)](https://github.com/rxi/lovebird) - Browser-based debug console.
+*   [lurker (⭐246)](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game.
+*   [LÖVE API (⭐261)](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table.
 *   [LÖVE Build (⭐46)](https://github.com/nhartland/love-build) - GitHub Action for automated cross-platform builds.
-*   [LÖVE TypeScript Definitions (⭐92)](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript.
+*   [LÖVE TypeScript Definitions (⭐95)](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript.
 *   [lovelier (⭐13)](https://github.com/patrixr/lovelier) - A LÖVE live reloader with Moonscript support.
 
 ### Drawing
 
 *   [Artal (⭐41)](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE.
-*   [Autobatch (⭐100)](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches.
-*   [center (⭐8)](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size.
-*   [deep (⭐41)](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls.
+*   [Autobatch (⭐102)](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches.
+*   [center (⭐9)](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size.
+*   [deep (⭐43)](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls.
 *   [draft (⭐43)](https://github.com/pelevesque/draft) - A module for drawing complex shapes.
-*   [HSLUV (⭐44)](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL).
+*   [HSLUV (⭐45)](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL).
 *   [Maid64 (⭐47)](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE.
-*   [Push (⭐414)](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE.
+*   [Push (⭐417)](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE.
 *   [renderplanet (⭐19)](https://github.com/meric/renderplanet/) - Realistic orthographic planet rendering.
-*   [svglover (⭐44)](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE.
+*   [svglover (⭐45)](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE.
 *   [SYSL-Pixel (⭐24)](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders.
 *   [Sölar (⭐7)](https://github.com/JanWerder/soelar) - A fairly simple solar system simulator.
 *   [Tove2d (⭐151)](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE.
-*   [turtle.lua (⭐79)](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE.
+*   [turtle.lua (⭐81)](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE.
 *   [Runtime-TextureAtlas (⭐13)](https://github.com/EngineerSmith/Runtime-TextureAtlas) - Texture atlas packer and renderer at runtime; no external tools.
 *   [Export-TextureAtlas (⭐5)](https://github.com/EngineerSmith/Export-TextureAtlas) - Extends Runtime-TextureAtlas as a commandline tool to export an atlas.
 
 ### Entity
 
 *   [adorbs (⭐29)](https://github.com/JosephShering/adorbs) - Minimal, Functional Entity Component System.
-*   [Concord (⭐162)](https://github.com/Tjakka5/Concord) - A feature-complete ECS library.
-*   [knife.system (⭐369)](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS.
+*   [Concord (⭐167)](https://github.com/Tjakka5/Concord) - A feature-complete ECS library.
+*   [knife.system (⭐371)](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS.
 *   [nata (⭐36)](https://github.com/tesselode/nata) - Hybrid OOP/ECS entity management.
-*   [tiny-ecs (⭐540)](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful.
+*   [tiny-ecs (⭐550)](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful.
 
 ### Helpers
 
-*   [astray (⭐123)](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games.
-*   [batteries (⭐215)](https://github.com/1bardesign/batteries/) - Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
+*   [astray (⭐125)](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games.
+*   [batteries (⭐228)](https://github.com/1bardesign/batteries/) - Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
 *   [clove (⭐22)](https://github.com/YoungNeer/clove) - A helper library which allows you to quickly loads huge amount of assets.
 *   [iffy (⭐17)](https://github.com/YoungNeer/iffy) - A SpriteSheet and Tileset helper library for LÖVE.
-*   [knife (⭐369)](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer).
+*   [knife (⭐371)](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer).
 *   [shard (⭐15)](https://github.com/MineGame159/shard) - Collection of useful mini modules.
-*   [love-state-switcher (⭐8)](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine.
+*   [love-state-switcher (⭐9)](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine.
 *   [lue (⭐41)](https://github.com/Ulydev/lue) - Lue is a LÖVE library that allows you to display hue color effects in your game.
-*   [lume (⭐784)](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development.
-*   [narrator (⭐78)](https://github.com/astrochili/narrator) - An Ink narrative scripting language parser and runtime implementation.
+*   [lume (⭐797)](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development.
+*   [narrator (⭐83)](https://github.com/astrochili/narrator) - An Ink narrative scripting language parser and runtime implementation.
 *   [reflowprint (⭐41)](https://github.com/josefnpat/reflowprint) - A library designed for alignment of text that is shown one character at a time.
-*   [roomy (⭐35)](https://github.com/tesselode/roomy) - Screen management library for LÖVE.
-*   [rotLove (⭐231)](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in LÖVE. A LÖVE/lua port of rot.js.
+*   [roomy (⭐36)](https://github.com/tesselode/roomy) - Screen management library for LÖVE.
+*   [rotLove (⭐234)](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in LÖVE. A LÖVE/lua port of rot.js.
 *   [ScreenManager (⭐29)](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework.
 *   [shack (⭐53)](https://github.com/Ulydev/shack) - Shack is a LÖVE library that lets you easily add screen effects such as shake and rotation.
-*   [Simple Tiled Implementation (⭐714)](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer.
-*   [Vivid (⭐52)](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
-*   [Yonder (⭐10)](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D.
+*   [Simple Tiled Implementation (⭐728)](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer.
+*   [Vivid (⭐53)](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
+*   [Yonder (⭐11)](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D.
 
 ### Input
 
-*   [baton (⭐171)](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls.
-*   [love-microphone (⭐56)](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE.
-*   [LoveKeys (⭐6)](https://github.com/SpaceCat-Chan/LoveKeys) - A simple input handeling library that keeps track of things for you.
+*   [baton (⭐174)](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls.
+*   [love-microphone (⭐58)](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE.
+*   [LoveKeys (⭐8)](https://github.com/SpaceCat-Chan/LoveKeys) - A simple input handeling library that keeps track of things for you.
 *   [tactile (⭐49)](https://github.com/tesselode/tactile) - A straightforward and flexible input library.
 
 ### Lighting
 
-*   [lighter (⭐22)](https://github.com/speakk/lighter) - A performant dynamic light implementation with a simple API.
-*   [Shädows (⭐154)](https://github.com/matiasah/shadows) - A Shadows & Lights engine for LÖVE.
-*   [Light World (⭐209)](https://github.com/tanema/light_world.lua) - A lighting model.
+*   [lighter (⭐23)](https://github.com/speakk/lighter) - A performant dynamic light implementation with a simple API.
+*   [Shädows (⭐155)](https://github.com/matiasah/shadows) - A Shadows & Lights engine for LÖVE.
+*   [Light World (⭐212)](https://github.com/tanema/light_world.lua) - A lighting model.
 *   [Simple Love Lights (⭐22)](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation.
-*   [Light (⭐6)](https://github.com/xiejiangzhi/light) - A simple dynamic light implementation.
+*   [Light (⭐7)](https://github.com/xiejiangzhi/light) - A simple dynamic light implementation.
 
 ### Math
 
 *   [Bresenham (⭐14)](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm written in Lua.
-*   [brinevector (⭐43)](https://github.com/novemberisms/brinevector) - Standalone lightweight luajit ffi-accelerated 2D vector library for great performance.
-*   [Cirno's Perfect Math Library (⭐269)](https://github.com/excessive/cpml) - Math/intersection library designed for games.
-*   [delaunay (⭐100)](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons.
+*   [brinevector (⭐44)](https://github.com/novemberisms/brinevector) - Standalone lightweight luajit ffi-accelerated 2D vector library for great performance.
+*   [Cirno's Perfect Math Library (⭐273)](https://github.com/excessive/cpml) - Math/intersection library designed for games.
+*   [delaunay (⭐102)](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons.
 *   [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class.
 *   [MLib (⭐75)](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use.
-*   [nvec (⭐27)](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.
+*   [nvec (⭐28)](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.
 *   [shash (⭐55)](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
-*   [vector.lua (⭐32)](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from processing.
+*   [vector.lua (⭐34)](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from processing.
 
 ### Music
 
-*   [denver (⭐76)](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library.
+*   [denver (⭐78)](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library.
 *   [lovebpm (⭐67)](https://github.com/rxi/lovebpm) - A LÖVE library for syncing events to the BPM of an audio track.
-*   [ripple (⭐29)](https://github.com/tesselode/ripple) - An audio manager with tagging support.
-*   [wave (⭐83)](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities.
+*   [ripple (⭐31)](https://github.com/tesselode/ripple) - An audio manager with tagging support.
+*   [wave (⭐84)](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities.
 
 ### Networking
 
-*   [Grease (⭐106)](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet).  (IPv6)
+*   [Grease (⭐107)](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet).  (IPv6)
 *   [LoverNet (⭐55)](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet. (IPv4)
-*   [NoobHub (⭐277)](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging. (IPv6)
-*   [Sock.lua (⭐150)](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games. (IPv4)
+*   [NoobHub (⭐282)](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging. (IPv6)
+*   [Sock.lua (⭐153)](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games. (IPv4)
 *   [löve-ws (⭐20)](https://github.com/holywyvern/love-ws) - A websocket client and server library.
-*   [love2d-lua-websocket (⭐26)](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven websocket client library. (IPv4)
+*   [love2d-lua-websocket (⭐27)](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven websocket client library. (IPv4)
 
 ### OO
 
-*   [30log (⭐390)](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins.
-*   [classic (⭐685)](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
+*   [30log (⭐397)](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins.
+*   [classic (⭐701)](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 *   [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons).
-*   [middleclass (⭐1.5k)](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
-*   [muun (⭐6)](https://github.com/megagrump/muun) - Moonscript compatible class implementation.
-*   [selene (⭐15)](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
+*   [middleclass (⭐1.6k)](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
+*   [muun (⭐7)](https://github.com/megagrump/muun) - Moonscript compatible class implementation.
+*   [selene (⭐18)](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
 
 ### Performance
 
-*   [jprof (⭐74)](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE.
-*   [Piefiller (⭐20)](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
+*   [jprof (⭐75)](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE.
+*   [Piefiller (⭐21)](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
 *   [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - A simple lua profiler that works with LuaJIT and prints a pretty report file in columns.
 
 ### Physics
 
-*   [breezefield (⭐38)](https://github.com/HDictus/breezefield) - A lightweight and easy love.physics wrapper (windfield alternative).
-*   [Bump (⭐799)](https://github.com/kikito/bump.lua) - Collision detection library for Lua.
+*   [breezefield (⭐42)](https://github.com/HDictus/breezefield) - A lightweight and easy love.physics wrapper (windfield alternative).
+*   [Bump (⭐812)](https://github.com/kikito/bump.lua) - Collision detection library for Lua.
 *   [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects.
-*   [Strike (⭐14)](https://github.com/Aweptimum/Strike) - 2D collision detection library. Extendable, based on Separating-Axis-Theorem.
+*   [Strike (⭐16)](https://github.com/Aweptimum/Strike) - 2D collision detection library. Extendable, based on Separating-Axis-Theorem.
 
 ### Platforms
 
-*   [LoveDos (⭐637)](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
+*   [LoveDos (⭐639)](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 *   [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
-*   [LovePotion (⭐414)](https://github.com/TurtleP/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for Nintendo 3DS and Nintendo Switch Homebrew.
-*   [LOVE-WrapLua (⭐30)](https://github.com/LukeZGD/LOVE-WrapLua) - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
-*   [Love.js (⭐434)](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten.
+*   [LovePotion (⭐424)](https://github.com/TurtleP/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for Nintendo 3DS and Nintendo Switch Homebrew.
+*   [LOVE-WrapLua (⭐32)](https://github.com/LukeZGD/LOVE-WrapLua) - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
+*   [Love.js (⭐451)](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten.
 *   [LÖVR (⭐1.5k)](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices.
 
 ### Publishing
 
 *   [Love-Snap-Template (⭐21)](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
-*   [AppImageKit (⭐7.8k)](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file.
+*   [AppImageKit (⭐7.9k)](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file.
 
 ### Serialization
 
 *   [arson (⭐7)](https://github.com/flamendless/arson.lua) - Companion library for registering custom data types that can be encoded and decoded by json.lua.
-*   [binser (⭐178)](https://github.com/bakpakin/binser) - Customizable Lua Serializer.
-*   [bitser (⭐140)](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT.
+*   [binser (⭐184)](https://github.com/bakpakin/binser) - Customizable Lua Serializer.
+*   [bitser (⭐142)](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT.
 *   [cdata (⭐30)](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI.
-*   [knife.serialize (⭐369)](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script.
-*   [Lady (⭐34)](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser.
-*   [moonblob (⭐23)](https://github.com/megagrump/moonblob) - Binary serialization and data parsing library.
+*   [knife.serialize (⭐371)](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script.
+*   [Lady (⭐35)](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser.
+*   [moonblob (⭐25)](https://github.com/megagrump/moonblob) - Binary serialization and data parsing library.
 *   [Ser (⭐73)](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua.
 *   [Smallfolk (⭐16)](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua.
 *   [trickle (⭐30)](https://github.com/bjornbytes/trickle) - A bitstream library focused on high compression for use in networking.
@@ -647,66 +646,66 @@
 ### Testing
 
 *   [busted (⭐1.2k)](https://github.com/Olivine-Labs/busted) - Simple unit-testing framework with customizable assertions.
-*   [knife.test (⭐369)](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework.
-*   [Luassert (⭐150)](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests.
-*   [Lunatest (⭐79)](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework.
-*   [lust (⭐82)](https://github.com/bjornbytes/lust) - Minimal test framework.
+*   [knife.test (⭐371)](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework.
+*   [Luassert (⭐162)](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests.
+*   [Lunatest (⭐80)](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework.
+*   [lust (⭐84)](https://github.com/bjornbytes/lust) - Minimal test framework.
 *   [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool.
 *   [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library.
 
 ### Tweening
 
-*   [Flux (⭐313)](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua.
+*   [Flux (⭐319)](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua.
 *   [hump.timer](https://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods.
-*   [tick (⭐98)](https://github.com/rxi/tick) - Lua module for delaying function calls.
-*   [tween.lua (⭐501)](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method.
+*   [tick (⭐100)](https://github.com/rxi/tick) - Lua module for delaying function calls.
+*   [tween.lua (⭐510)](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method.
 
 ### UI
 
-*   [CatUI (⭐92)](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
-*   [GOOi (⭐194)](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
+*   [CatUI (⭐90)](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
+*   [GOOi (⭐199)](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
 *   [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
 *   [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
-*   [LoveFrames Fork (⭐98)](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
-*   [Love Imgui (⭐290)](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
-*   [Löve-Nuklear (⭐310)](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games.
+*   [LoveFrames Fork (⭐103)](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
+*   [Love Imgui (⭐293)](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
+*   [Löve-Nuklear (⭐313)](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games.
 *   [Patchy (⭐33)](https://github.com/excessive/patchy) - 9patch library.
 *   [SafeWord (⭐3)](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE.
-*   [SUIT (⭐422)](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
+*   [SUIT (⭐425)](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
 
 ### Utilities
 
 *   [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square).
-*   [cargo (⭐142)](https://github.com/bjornbytes/cargo) - Asset manager.
+*   [cargo (⭐147)](https://github.com/bjornbytes/cargo) - Asset manager.
 *   [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data.
 *   [colorchanger (⭐1)](https://github.com/santoslove/colorchanger) - Change the colors in your LÖVE game.
 *   [Flirt (⭐12)](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine.
-*   [GifCat (⭐39)](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE.
-*   [hex2color (⭐5)](https://github.com/S-Walrus/hex2color/) - A single function to use HEX color values.
+*   [GifCat (⭐41)](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE.
+*   [hex2color (⭐6)](https://github.com/S-Walrus/hex2color/) - A single function to use HEX color values.
 *   [i18n (⭐22)](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game.
 *   [Ini Parser (⭐14)](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser.
-*   [log.lua (⭐266)](https://github.com/rxi/log.lua) - Library for configurable log output.
-*   [love-loader (⭐116)](https://github.com/kikito/love-loader) - Threaded resource loading.
+*   [log.lua (⭐273)](https://github.com/rxi/log.lua) - Library for configurable log output.
+*   [love-loader (⭐118)](https://github.com/kikito/love-loader) - Threaded resource loading.
 *   [love2d-assets-loader (⭐35)](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader.
-*   [love-pe (⭐15)](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
-*   [lovely-engine (⭐6)](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using LÖVE easier and with Moonscript support.
-*   [Lily (⭐94)](https://github.com/MikuAuahDark/lily) - Async Asset Loader.
-*   [luasteam (⭐82)](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API.
+*   [love-pe (⭐16)](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
+*   [lovely-engine (⭐8)](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using LÖVE easier and with Moonscript support.
+*   [Lily (⭐97)](https://github.com/MikuAuahDark/lily) - Async Asset Loader.
+*   [luasteam (⭐84)](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API.
 *   [Luvent (⭐70)](https://github.com/ejmr/Luvent) - Simple event-driven programming.
-*   [nativefiledialog (⭐11)](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux.
+*   [nativefiledialog (⭐12)](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux.
 *   [Optikon](https://optikon.co.uk/) - WYSIWYG visual level designer.
-*   [ParticleEditor (⭐1)](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE.
-*   [particle-system-playground (⭐11)](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor.
-*   [require.lua (⭐6)](https://github.com/premek/require.lua) - Require all files in a folder.
+*   [ParticleEditor (⭐2)](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE.
+*   [particle-system-playground (⭐12)](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor.
+*   [require.lua (⭐7)](https://github.com/premek/require.lua) - Require all files in a folder.
 *   [splashy (⭐35)](https://github.com/videah/splashy) - Splash Screen Library.
 *   [ShakeDetectorLua (⭐4)](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
-*   [tick (⭐64)](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
+*   [tick (⭐66)](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
 
 ### Tutorials
 
 *   [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+).
 *   [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
-*   [Tutorial on making an Arkanoid-type game (⭐172)](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
+*   [Tutorial on making an Arkanoid-type game (⭐175)](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
 *   [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
 *   [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
 *   [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
@@ -714,37 +713,26 @@
 
 ### IDEs
 
-*   [Atom](https://atom.io/) - A hackable text editor for the 21st Century (obsolete).
-    *   [Love-Atom](https://atom.io/packages/love-atom) - Smart autocompletion for the LÖVE framework in Atom.
-    *   [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - Adds GLSL autocompletion in Atom.
-    *   [language-glsl](https://atom.io/packages/language-glsl) - OpenGL Shading Language support in Atom.
-    *   [language-lua](https://atom.io/packages/language-lua) - Lua language support in Atom.
-    *   [linter-luacheck (⭐12)](https://github.com/AtomLinter/linter-luacheck) - Lint Lua on the fly, using luacheck.
-    *   [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE for the current project without having to leave Atom.
-    *   [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom.
-        *   [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE.
-        *   [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
-        *   [linter-luaparse](https://atom.io/packages/linter-luaparse) - Lua syntax error checking in Atom.
 *   [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe (obsolete).
-    *   [Lua Syntax Highlighter (⭐4)](https://github.com/ForbesLindesay/brackets-language-extensions) - Add Lua syntax highlighting in Brackets.
+    *   [Lua Syntax Highlighter (⭐3)](https://github.com/ForbesLindesay/brackets-language-extensions) - Add Lua syntax highlighting in Brackets.
     *   [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - Provides LÖVE code hints.
     *   [Run LÖVE (⭐4)](https://github.com/instilledbee/run-love2d) - Run LÖVE projects with a hotkey.
 *   [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic Java IDE.
-    *   [EmmyLua (⭐542)](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode.
+    *   [EmmyLua (⭐549)](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode.
     *   [LÖVE IDEA (⭐60)](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for IntelliJ-IDEA.
 *   [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.
-    *   [Vim LOVE Docs (⭐48)](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim.
+    *   [Vim LOVE Docs (⭐50)](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim.
 *   [Notepad++](https://notepad-plus-plus.org) - Notepad++ is a free source code editor and Notepad replacement that supports several languages.
     *   [LÖVE API for Notepad++ (⭐11)](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++.
 
 ### Distribution
 
 *   [love-export (⭐46)](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.
-*   [love-deploy (⭐5)](https://github.com/tducasse/love-deploy) - Build and deploy games on itch.io (supports windows and web exports).
+*   [love-deploy (⭐6)](https://github.com/tducasse/love-deploy) - Build and deploy games on itch.io (supports windows and web exports).
 
 ### Related
 
-*   [awesome-lua (⭐3.3k)](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses.
+*   [awesome-lua (⭐3.4k)](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses.
 *   [awesome-love-shaders (⭐68)](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE.
 *   [awesome-pico8 (⭐2.3k)](https://github.com/pico-8/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more.
 
@@ -769,16 +757,16 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Mofiqul/dracula.nvim (⭐389)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua.
+*   [Mofiqul/dracula.nvim (⭐422)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for neovim written in Lua.
 
 ### Motion / Diagnostics
 
-*   [rlane/pounce.nvim (⭐263)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+*   [rlane/pounce.nvim (⭐278)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ### Competitive Programming / Diagnostics
 
-*   [p00f/cphelper.nvim (⭐79)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
-*   [xeluxee/competitest.nvim (⭐165)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
+*   [p00f/cphelper.nvim (⭐84)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
+*   [xeluxee/competitest.nvim (⭐199)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
 ## [42. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -794,7 +782,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [ZITADEL (⭐2.7k)](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
+*   [ZITADEL (⭐3.3k)](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
 ## [44. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -806,18 +794,14 @@
 
 ### Open Source / Community
 
-*   [Astro (⭐28k)](https://github.com/withastro/astro) - Modern Static Site Builder.
+*   [Astro (⭐31k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 
 ## [46. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
-### NFT Marketplaces / Wallets
-
-*   [ZestBloom](https://zestbloom.com/) - Digital Media NFT marketplace that offers ways to promote artists for their contributions.
-
 ### Algorand Request for Comments / Wallets
 
-*   [ARC3 (⭐103)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
-*   [ARC69 (⭐37)](https://github.com/algokittens/arc69) - Unofficial Algorand Standart Asset Parameters Convention popular in Algorand NFT community, inspired by [Open Sea's metadata standards](https://docs.opensea.io/docs/metadata-standards) and [EIP-1155 (⭐11k)](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema), created by [@algokittens](https://twitter.com/AlgoKittens).
+*   [ARC3 (⭐112)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
+*   [ARC69 (⭐37)](https://github.com/algokittens/arc69) - Unofficial Algorand Standart Asset Parameters Convention popular in Algorand NFT community, inspired by [Open Sea's metadata standards](https://docs.opensea.io/docs/metadata-standards) and [EIP-1155 (⭐12k)](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema), created by [@algokittens](https://twitter.com/AlgoKittens).
 
 ## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -1002,8 +986,8 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [NeTEx](https://netex-cen.eu/) - Network Timetable Exchange is a European standard to exchange standardized time tables and other system characteristics used to describe transit systems.
 *   [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - This standard provides users transit data updates in real time greatly enhances their experience of transit services.
+*   [NeTEx](https://netex-cen.eu/) - Network Timetable Exchange is a European standard to exchange standardized time tables and other system characteristics used to describe transit systems.
 *   [SIRI](https://www.transmodel-cen.eu/siri-standard/) - Service Interface for Real Time Information (SIRI) is a European standard for real-time information which has had limited adoption in the United States, but would be compatible with hardware and network systems which meet European standards.
 
 ## [55. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
@@ -1023,7 +1007,7 @@
 
 ### Crates / Component Libraries
 
-*   [material-yew (⭐177)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
+*   [material-yew (⭐183)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 
 ### Crates / Hooks
 
@@ -1051,46 +1035,46 @@
 
 ### Applications / Audio and Music
 
-*   [Glicol (⭐1.2k)](https://github.com/chaosprint/glicol) — Graph-oriented live coding language written in Rust for collaborative musicking in browsers.
+*   [Glicol (⭐1.5k)](https://github.com/chaosprint/glicol) — Graph-oriented live coding language written in Rust for collaborative musicking in browsers.
 
 ### Applications / Emulators
 
 *   CHIP-8
-    *   [ColinEberhardt/wasm-rust-chip8 (⭐243)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator written with Rust
-    *   [starrhorne/chip8-rust (⭐106)](https://github.com/starrhorne/chip8-rust) — Yet another rust chip8 emulator
+    *   [ColinEberhardt/wasm-rust-chip8 (⭐248)](https://github.com/ColinEberhardt/wasm-rust-chip8) — A WebAssembly CHIP-8 emulator written with Rust
+    *   [starrhorne/chip8-rust (⭐113)](https://github.com/starrhorne/chip8-rust) — Yet another rust chip8 emulator
 
 ### Applications / Productivity
 
-*   [Bartib (⭐384)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐422)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ### Development tools / IDEs
 
-*   [lapce (⭐24k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
+*   [lapce (⭐26k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
 *   [Visual Studio Code](https://code.visualstudio.com/)
     *   [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - TOML support in vscode
     *   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension
-    *   [crates (⭐174)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates) [![build badge](https://api.travis-ci.org/serayuzgur/crates.svg?branch=master)](https://travis-ci.org/serayuzgur/crates)
+    *   [crates (⭐186)](https://github.com/serayuzgur/crates) — crates is an extension for crates.io dependencies. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
     *   [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — Opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
     *   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — An alternative rust language server to the RLS
     *   [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — Rust support for Visual Studio Code (supports both RLS and rust-analyzer)
 
 ### Libraries / Text processing
 
-*   [cpc (⭐85)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
+*   [cpc (⭐92)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
 ## [60. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Node-RED (⭐354)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐361)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ### Gaming
 
-*   [Esports (⭐37)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+*   [Esports (⭐40)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ### Testing
 
-*   [Gatling (⭐50)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+*   [Gatling (⭐52)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## [61. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
@@ -1108,8 +1092,8 @@
 
 ### no-std crates / WIP
 
-*   [lorawan-encoding (⭐98)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
-*   [lorawan-device (⭐98)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
+*   [lorawan-encoding (⭐111)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
+*   [lorawan-device (⭐111)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
 
 ## [64. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -1119,23 +1103,23 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [openrndr/orx (⭐91)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
+*   [openrndr/orx (⭐97)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
 
 ## [65. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Unge UI (⭐54)](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
+*   [Unge UI (⭐55)](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐120)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐147)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [66. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
-*   [mps-youtube (⭐7.3k)](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
+*   [mps-youtube (⭐7.4k)](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
 
 ### Overview / TikTok
 
@@ -1206,11 +1190,11 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot Game Of Life (⭐18)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
+*   [Godot Game Of Life (⭐25)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot Radial Menu (⭐98)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐112)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [70. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -1225,7 +1209,7 @@
 
 ### Communications / IR
 
-*   [pico-ir (⭐3)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+*   [pico-ir (⭐4)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 ### Frameworks / SRAM
 

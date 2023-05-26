@@ -1,6 +1,6 @@
 # Awesome List Updates on May 08, 2015
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,25 +12,19 @@
 
 *   \[2015] [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](http://www.gdcvault.com/play/1022243/): Itay Keren (Untame)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source (⭐1.6k)](https://github.com/quantifiedcode/python-anti-patterns))
-
-## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Videos / Other
 
 *   [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
 
-## [4. Awesome R](/content/qinwf/awesome-R/README.md)
+## [3. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Integrated Development Environments
 
 *   [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE for R.
 
-## [5. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [4. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Books
 

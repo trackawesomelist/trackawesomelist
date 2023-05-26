@@ -37,8 +37,8 @@
 
 ### Libraries Audio
 
-*   [audio (⭐137)](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
-*   [wav (⭐193)](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
+*   [audio (⭐141)](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
+*   [wav (⭐213)](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
 
 ### Tutorials
 
@@ -60,19 +60,19 @@
 
 ### Utilities / Theming and Customization
 
-*   [QuickWall (⭐180)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+*   [QuickWall (⭐184)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Data Manipulation / JSON
 
-*   [strip-json-comments-cli (⭐60)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐161)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [strip-json-comments-cli (⭐61)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+*   [GROQ (⭐170)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GraphQL
 
 *   [tartiflette-aiohttp (⭐60)](https://github.com/tartiflette/tartiflette-aiohttp/) - An `aiohttp`-based wrapper for Tartiflette to expose GraphQL APIs over HTTP.
-*   [tartiflette-asgi (⭐99)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
+*   [tartiflette-asgi (⭐100)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
 
 ## [9. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -150,18 +150,18 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [dowel (⭐27)](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Output any object to the terminal, CSV, TensorBoard, text logs on disk, and more with just one call to `logger.log()`.
+*   [dowel (⭐28)](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Output any object to the terminal, CSV, TensorBoard, text logs on disk, and more with just one call to `logger.log()`.
 
 ### Python / Reinforcement Learning
 
-*   [garage (⭐1.6k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐864)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [garage (⭐1.7k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
+*   [metaworld (⭐905)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Terminals
 
-*   [Windows Terminal (⭐86k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Windows Terminal (⭐89k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

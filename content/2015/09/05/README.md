@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [bitmap (⭐31)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
+*   [bitmap (⭐32)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 

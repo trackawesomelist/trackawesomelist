@@ -10,12 +10,12 @@
 
 ### Tools / Vendor supported providers
 
-*   [terraform-docs (⭐3.3k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
-*   [terrascan (⭐3.9k)](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
-*   [tfaction (⭐165)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
-*   [tfsec (⭐5.6k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
-*   [tflint (⭐3.7k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
-*   [validIaC (⭐183)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
+*   [terraform-docs (⭐3.5k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
+*   [terrascan (⭐4k)](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+*   [tfaction (⭐177)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+*   [tfsec (⭐5.9k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+*   [tflint (⭐3.9k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+*   [validIaC (⭐198)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -53,7 +53,7 @@
 ### Archives and primary sources / North America
 
 *   [Digital Public Library of America](https://dp.la/) - Discovery tool, or union catalog, for public domain and openly licensed content held by the United States' archives, libraries, museums, and other cultural heritage institutions.
-*   [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - An International LGBTQ+ Linked Data Vocabulary.
+*   [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - Wide range of trans-related digitized historical materials, born-digital materials, and information on archival holdings throughout the world.
 
 ### Archives and primary sources / Switzerland
 
@@ -61,23 +61,23 @@
 
 ### Learning / Switzerland
 
-*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - You will learn how to critically analyse historical conditions, developments, patterns and ruptures – or, alternatively, how to call these into question.
+*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
-*   [a12n-server (⭐359)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
+*   [a12n-server (⭐383)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐53)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐63)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
-*   💼🔧 [tailwindcss-webpack-plugin (⭐20)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-webpack-plugin (⭐27)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Database Tools
 
-*   [dynago (⭐7)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
+*   [dynago (⭐8)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
 
 ---
 

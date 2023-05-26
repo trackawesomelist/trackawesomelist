@@ -70,7 +70,6 @@
 *   [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
 *   [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
 *   [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
-*   [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](https://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
 *   [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/why-we-still-believe-in-working-remotely/)
 *   [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
 
@@ -86,7 +85,7 @@
 
 ### Interviewing
 
-*   [awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐55k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 
 ### Podcasts
 
@@ -173,12 +172,12 @@
 
 ### Open Source / Other
 
-*   [Cerebro (⭐7.7k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐7.8k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Samples / Other
 
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐387)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐390)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

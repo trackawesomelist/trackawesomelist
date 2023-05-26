@@ -2,9 +2,27 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 54 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 58 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [May 08, 2023](/content/2023/05/08/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Space Sightings Expanded](https://www.drivethrurpg.com/product/426718) - Generators for wonders you might discover while voyaging through space
+
+### Game jams / Ironsworn
+
+*   [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
+*   [Starforged 2022 Jam](https://itch.io/jam/starforged-2022-jam/entries)
+*   [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam/entries)
+
+## [Apr 30, 2023](/content/2023/04/30/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Stonebound](https://s0randme.itch.io/stonebound) - A stone-age stone and sorcery setting for Ironsworn
 
 ## [Mar 29, 2023](/content/2023/03/29/README.md)
 
@@ -49,7 +67,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Tools / Ironsworn
 
-*   [Ironsworn and Starforged for Foundry VTT (⭐53)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
+*   [Ironsworn and Starforged for Foundry VTT (⭐55)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
 
 ### Hacks and homebrew / Ironsworn
 
@@ -252,7 +270,7 @@ An awesome list of awesome Ironsworn projects
 ### Tools / Ironsworn
 
 *   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
-*   [IronWriter (⭐50)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [IronWriter (⭐51)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 *   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 
 ### Resources / Ironsworn
@@ -297,7 +315,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐144)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataForged (⭐151)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
 *   [DataSworn (⭐90)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 

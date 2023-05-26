@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15 - Jan 21, 2018
 
-39 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,7 +39,7 @@
 
 ### Playgrounds
 
-*   [Script Debugger (⭐19)](https://github.com/kallewoof/btcdeb)
+*   [Script Debugger (⭐21)](https://github.com/kallewoof/btcdeb)
 
 ## [4. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -70,25 +70,19 @@
 
 *   [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / URL Shorteners
-
-*   [reduc.io (⭐70)](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
-
-## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [retro-gtfs (⭐48)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
+*   [retro-gtfs (⭐49)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
 
-## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Design
 
 *   [AIGA](https://designjobs.aiga.org/)
 
-## [10. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [9. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### App Examples
 
@@ -96,11 +90,11 @@
 *   [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code. (⭐37)](https://github.com/lukassnoek/VoxelViz)
 *   [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code. (⭐8)](https://github.com/richard-muir/uk-car-accidents)
 
-## [11. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
-- Name: [Laracom (⭐1.7k)](https://github.com/jsdecena/laracom)
+- Name: [Laracom (⭐1.8k)](https://github.com/jsdecena/laracom)
 
   Description: FREE E-Commerce Software
 
@@ -108,32 +102,32 @@
 
 
 
-## [12. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [11. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### CLI
 
 *   [genact (⭐6.6k)](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
 *   [fat (⭐5)](https://github.com/drummyfish/fat) - Expand your files.
 
-## [13. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Monitoring & Quality Control
 
-*   [SilentJack (⭐23)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
+*   [SilentJack (⭐22)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
 *   [Ooui (⭐1.6k)](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
 
-## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Debugging Tools / ORM
 
 *   [ADB Enhanced (⭐928)](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -157,7 +151,7 @@
 
 *   [NuGetPackageExplorer (⭐2.1k)](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI.
 
-## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Official Resources
 
@@ -165,7 +159,7 @@
 *   [Blog](https://blog.angular.io)
 *   [Documentation](https://angular.io/docs)
 
-## [18. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [17. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -222,23 +216,23 @@
 
 *   [Technically Wrong: Sexist Apps, Biased Algorithms, And Other Threats Of Toxic Tech](http://www.sarawb.com/technically-wrong/) - An unflinching look at the values, processes, and assumptions that lead to oversights, biases, and ethical nightmares.
 
-## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Next Blog Firestore (⭐255)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+*   [Next Blog Firestore (⭐258)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 
 ### Videos
 
 *   [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 
-## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Date / Runner
 
-*   [date-fns (⭐30k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+*   [date-fns (⭐31k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
-## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [20. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -279,14 +273,14 @@
 *   [mermaid (⭐53k)](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
 *   [netvis (⭐16)](https://github.com/dborzov/netvis) - Visualize network communication for arbitrary protocols
 
-## [22. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [21. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐92)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐560)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐95)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐585)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Concurrency
 
@@ -294,19 +288,19 @@
 
 ### Gesture
 
-*   [ShowTime (⭐462)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐470)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 
-*   [AZCollectionViewController (⭐95)](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
+*   [AZCollectionViewController (⭐94)](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
 
-## [24. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Image Processing
 
-*   [ruby-vips (⭐769)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐781)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
-## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
@@ -320,36 +314,36 @@
 
 *   [puppet-mongodb (⭐92)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
-## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [25. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [Oven (⭐140)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
-## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [26. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Cross-Platform
 
 *   [mdlt (⭐146)](https://github.com/metadelta/mdlt) - Command-line utility for quick math.
 
-## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Perl SDK
 
-*   [Repo :fire: (⭐164)](https://github.com/pplu/aws-sdk-perl)
-*   [Repo with Samples :fire: (⭐164)](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
+*   [Repo :fire: (⭐166)](https://github.com/pplu/aws-sdk-perl)
+*   [Repo with Samples :fire: (⭐166)](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
 
 ### Open Source Repos / Security
 
 *   [ttlequals0/autovpn :fire::fire::fire::fire: (⭐2k)](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
 
-## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Detection and Hunting (⭐2.4k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+*   [Awesome Threat Detection and Hunting (⭐2.7k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
-## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### To third parties
 
@@ -357,24 +351,24 @@
 
 ### Miscellaneous
 
-*   [opticl (⭐176)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [opticl (⭐175)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-charms (⭐134)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+*   [cl-charms (⭐135)](https://github.com/HiTECNOLOGYs/cl-charms) - an
     interface to `libcurses` in Common Lisp. It provides both a raw,
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### REPLs / Third-party APIs
 
-*   [cl-repl (⭐134)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+*   [cl-repl (⭐138)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
 
 ### Apps / Third-party APIs
 
 *   [lake (⭐83)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
-## [31. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [30. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
@@ -393,7 +387,7 @@
 *   [Commotion Wireless](https://commotionwireless.net) is an open-source communication tool that uses mobile phones, computers, and other wireless devices to create decentralized mesh networks.
 *   [The Cryptosphere](http://cryptosphere.org/) is a global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation [Networking and Cryptography (NaCl) library](http://nacl.cr.yp.to/) and the Git data model. [Code (⭐1.2k)](https://github.com/cryptosphere/cryptosphere)
 *   [DNSChain (⭐1.7k)](https://github.com/okTurtles/dnschain) aims to fix web security by Man-in-the-Middle proofing connections. It's a secure, decentralized PKI (public key infrastructure) that makes blockchain tech (like Namecoin, Blockstore, etc.) usable for arbitrary devices.
-*   [Firestr (⭐345)](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
+*   [Firestr (⭐347)](http://github.com/mempko/firestr) is a simple decentralized communication and computation platform. Apps are written in Lua and are pushed to peers where they automatically run and connect. All communication is P2P and encrypted.
 *   [Freedom Box](http://freedomboxfoundation.org/) is about privacy, control, ease of use and dehierarchicalization. Inspired by Eben Moglen's vision of a small, cheap and simple computer that serves freedom in the home. We are building a Debian based platform for distributed applications.
 *   [Freenet](http://freenetproject.org) is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship. Freenet is decentralised to make it less vulnerable to attack, and if used in "darknet" mode, where users only connect to their friends, is very difficult to detect.
 *   [Friendica (⭐1.2k)](https://github.com/friendica/friendica) is a decentralised network which focuses on federation of social networking sites and projects into a common stream.
@@ -405,7 +399,7 @@
 *   [Hyperboria](http://hyperboria.net/) is a global decentralized network of "nodes" running cjdns software. The goal of Hyperboria is to provide an alternative to the internet with the principles of security, scalability and decentralization at the core. Anyone can participate in the network by locating a peer that is already connected.
 *   [I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 *   [KA Lite (⭐456)](https://github.com/learningequality/ka-lite) is an open-source, lightweight, pure-Python web server and web app for serving Khan Academy content (videos and exercises) -- including progress tracking, coach reports, and gamification -- without needing persistent internet connectivity.
-*   [KadNode (⭐387)](http://github.com/mwarning/KadNode) delegates DNS requests (\*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.
+*   [KadNode (⭐390)](http://github.com/mwarning/KadNode) delegates DNS requests (\*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.
 *   [Keybits](http://keybits.net) makes it easy to run your own personal server. Setup and maintenance is made simple by using Docker and Ansible. (Similar to Sovereign but using Docker to 'containerize' applications.)
 *   [Known](http://withknown.com/) is a simple way to share your story with a variety of media, from any device. Aligned with the indie web movement, Known sites can be installed on your own server, and each one will operate as a node in a global social network, together with other indie web platforms. Known is fully extensible and supports microblogging, photos, articles, events, location check-ins and bookmarks out of the box. It is a responsive web platform that works on anything with a web browser.
 *   [LibraryBox](http://jasongriffey.net/librarybox/)  is an open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid.
@@ -456,8 +450,8 @@
 *   [Village Telco](http://villagetelco.org) is a an easy-to-use, scalable, standards-based, wireless, local, DIY, telephone company toolkit.  Their mission is to making voice and data communication affordable and accessible to anyone.
 *   [Wave](http://incubator.apache.org/wave/) is a distributed, near-real-time, rich collaboration platform that allows users to work together in new and exciting ways. Wave allows for flexible modes of communication, blending chat, email and collaborative document editing in to one seamless environment.
 *   [Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
-*   [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project (⭐38)](http://github.com/glennjones/webmentions) is working on a unified API.
-*   [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: [https://github.com/SeyZ/yaapit (⭐26)](https://github.com/SeyZ/yaapit)
+*   [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project (⭐40)](http://github.com/glennjones/webmentions) is working on a unified API.
+*   [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: [https://github.com/SeyZ/yaapit (⭐27)](https://github.com/SeyZ/yaapit)
 *   [Yaler](https://yaler.net/) is a simple, open and scalable relay infrastructure for secure Web and SSH access to embedded systems located behind a firewall, NAT or mobile network router.
 *   [Zero Bin](http://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github [https://github.com/sametmax/0bin (⭐1.3k)](https://github.com/sametmax/0bin)
 *   [ZeroTier One](https://www.zerotier.com/) is an open source application that creates huge distributed Ethernet networks. It makes use of supernodes, but these run the same code as ordinary nodes and end-to-end encryption protects all unicast traffic. Semi-commercial with a freemium model.
@@ -466,21 +460,21 @@
 *   [eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
 *   The [ePlug](http://kenCode.de/projects) is a tiny circuit board that resides inside of 'ePlug Certified' electrical outlets. Decentralized Meshnet, distributed computing, 6 gig WiFi. ISP's, CDN's and racks of servers, switches and wire no longer needed.
 *   [edgenet](http://theedg.es) is a peer-to-peer opportunistic network built over mobile devices (and potentially home routers). It is a concept, with many layers already build (ZeroMQ, Zyre). It uses temporary 'cells' to connect devices and exchange information opportunistically. It's suited to decentralized chat and proximity networking.
-*   [gitsync (⭐54)](https://github.com/raybejjani/gitsync) is a git repository synchronisation and discovery tool. Its goal is to allow developers to coordinate without a central master repository.
+*   [gitsync (⭐53)](https://github.com/raybejjani/gitsync) is a git repository synchronisation and discovery tool. Its goal is to allow developers to coordinate without a central master repository.
 *   [pubsubhubbub](https://code.google.com/p/pubsubhubbub/) is a simple, open, server-to-server webhook-based pubsub (publish/subscribe) protocol for any web accessible resources.
 *   [pump.io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
-*   [qaul.net (⭐264)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
+*   [qaul.net (⭐277)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
 *   [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 *   [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
-## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [31. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
 *   [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
 *   [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx**
 
-## [33. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Machine Learning and Statistical Learning
 
@@ -490,14 +484,14 @@
 
 *   [Computer Vision Basics with Python Keras and OpenCV (⭐416)](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
 *   [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
 *   [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
 
-## [35. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [34. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
@@ -511,17 +505,17 @@
 
 *   [Ecwid](https://www.ecwid.com/) - Embeddable shopping cart.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
-*   [Yomm2 (⭐252)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐115)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐257)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐115)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 
-*   [magnum (⭐4.3k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
+*   [magnum (⭐4.4k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Search
 
@@ -533,9 +527,9 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐186)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐191)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
@@ -544,11 +538,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐706)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
+*   [vue-datepicker (⭐705)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
 *   [vuejs-datepicker (⭐2.6k)](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
 *   [v2-datepicker (⭐90)](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.
 
-## [39. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [38. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 

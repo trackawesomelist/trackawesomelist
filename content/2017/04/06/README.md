@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 06, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,13 +32,7 @@
 
 *   [dropwizard-money (⭐1)](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Frameworks
-
-*   [Qt](https://www.qt.io/download-open-source/) :zap: - A cross-platform application and UI framework. \[GPL/LGPL/Commercial]
-
-## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Machine Learning Libraries / Constituency Parsing
 
@@ -50,11 +44,11 @@
 *   2007
     *   *Decision Tree Learning in Ruby* by [Ilya Grigorik](https://twitter.com/igrigorik) <sup>\[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
 
-## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
-- Name: [Openlaravel (⭐110)](https://github.com/ammezie/openlaravel)
+- Name: [Openlaravel (⭐113)](https://github.com/ammezie/openlaravel)
 
   Description: A collection of open source projects built using Laravel
 
@@ -62,7 +56,7 @@
 
 
 
-## [6. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+## [5. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Developer
 
@@ -74,25 +68,25 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/macosKernelPanic.png)](http://doomlaser.com/kernel-panic-screensaver/)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
 *   [CacheManager (⭐2.2k)](https://github.com/MichaCo/CacheManager) - Open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. <http://cachemanager.michaco.net>
 
-## [8. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [7. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Matlab
 
 *   [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 
-## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Utilities
 
-*   [pg\_migrate (⭐26)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+*   [pg\_migrate (⭐27)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
-## [10. Tips](/content/git-tips/tips/README.md)
+## [9. Tips](/content/git-tips/tips/README.md)
 
 ## Checkout a commit prior to a day ago
 
@@ -100,7 +94,7 @@ Free
 git checkout master@{yesterday}
 ```
 
-## [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [10. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -108,7 +102,7 @@ git checkout master@{yesterday}
     *   A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
     *   [Syllabus (⭐5.1k)](https://github.com/yandexdataschool/Practical_RL#syllabus)
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Genuine Sites / Package Managers
 

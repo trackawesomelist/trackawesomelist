@@ -10,7 +10,7 @@
 
 ### CLI Utils
 
-*   [tallboy (⭐48)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
+*   [tallboy (⭐49)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -22,14 +22,14 @@
 
 ### Proprietary Extensions / Progressive Web Application
 
-*   [ScandiPWA Theme (⭐509)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
+*   [ScandiPWA Theme (⭐511)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐199)](https://github.com/eclipse/corrosion)
+    *   [Eclipse Corrosion (⭐201)](https://github.com/eclipse-corrosion/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -71,7 +71,7 @@
 
 ## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
-### Contents / PaaS   *(PostgreSQL as a Service)*
+### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
 *   [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL

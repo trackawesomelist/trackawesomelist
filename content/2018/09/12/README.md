@@ -65,7 +65,7 @@
 
 ### Metrics
 
-*   [prometheus (⭐44)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
+*   [prometheus (⭐46)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Open Source Repos / Cognito
 
-*   [capeless/warrant :fire::fire: (⭐453)](https://github.com/capless/warrant) - Python library for using Cognito.
+*   [capeless/warrant :fire::fire: (⭐454)](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ---
 

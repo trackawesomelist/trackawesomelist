@@ -32,7 +32,7 @@
 
 ### Go / Erlang
 
-*   [Enduro/X ASG (⭐35)](https://github.com/endurox-dev/endurox-go) - Enduro/X bindings for Go allows to effectively write XATMI based microservices in Go language. Uses Unix kernel IPC (queues) for fast process communications.
+*   [Enduro/X ASG (⭐38)](https://github.com/endurox-dev/endurox-go) - Enduro/X bindings for Go allows to effectively write XATMI based microservices in Go language. Uses Unix kernel IPC (queues) for fast process communications.
 
 ## [4. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
@@ -62,11 +62,11 @@
 ### Plugins and scripts / Godot version unknown
 
 *   [Easing Script (⭐45)](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
-*   [gdutils (⭐93)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+*   [gdutils (⭐92)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Syntax themes by Geequlim (⭐47)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
+*   [Syntax themes by Geequlim (⭐49)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 
 ---
 

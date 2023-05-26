@@ -10,34 +10,34 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [Percona Monitoring and Management (⭐315)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
+*   [Percona Monitoring and Management (⭐332)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Citus (⭐8k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
-*   [patroni (⭐5.2k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
-*   [Percona XtraDB Cluster (⭐305)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
+*   [Citus (⭐8.1k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+*   [patroni (⭐5.3k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
+*   [Percona XtraDB Cluster (⭐308)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
 *   [stolon (⭐4.1k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
-*   [pg\_auto\_failover (⭐862)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
-*   [pglookout (⭐158)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
-*   [PostgreSQL Automatic Failover (⭐318)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
+*   [pg\_auto\_failover (⭐873)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+*   [pglookout (⭐159)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
+*   [PostgreSQL Automatic Failover (⭐320)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 
 ### Kubernetes / Zabbix
 
 *   [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
-*   [Postgres operator (⭐3.1k)](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
+*   [Postgres operator (⭐3.2k)](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
 *   [Spilo (⭐1.1k)](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
 *   [StackGres](https://gitlab.com/ongresinc/stackgres) - Enterprise-grade, Full Stack PostgreSQL on Kubernetes.
 
 ### Configuration Tuning / Zabbix
 
-*   [pgtune (⭐998)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
+*   [pgtune (⭐1k)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Data Store / Mouse Events
 
-*   [resourcerer (⭐76)](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
+*   [resourcerer (⭐77)](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
 
 ## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -76,14 +76,14 @@
 
 ### Other Hardware
 
-*   [NFCPassportReader (⭐599)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
+*   [NFCPassportReader (⭐615)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
 ## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Visualization / Mesh tools
 
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
-    (Python, MIT, [GitHub (⭐1.6k)](https://github.com/pyvista/pyvista))
+    (Python, MIT, [GitHub (⭐1.8k)](https://github.com/pyvista/pyvista))
 
 ## [9. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
@@ -104,7 +104,7 @@
 
 ### 3D
 
-*   [3DreamEngine (⭐266)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+*   [3DreamEngine (⭐277)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -116,7 +116,7 @@
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [Quark-Engine (⭐968)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System.
+*   [Quark-Engine (⭐1.1k)](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System.
 
 ---
 

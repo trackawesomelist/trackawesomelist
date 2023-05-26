@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,27 +26,33 @@
 
 ### UITableView / Barcode
 
-*   [SelectionList (⭐110)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
+*   [SelectionList (⭐113)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
 
 ## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Firefox GNOME Theme (⭐2.3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐2.5k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Data validation / Third-party APIs
 
-*   [sanity-clause (⭐42)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [sanity-clause (⭐44)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Java / FrameWorks
+
+*   [Strata](http://strata.opengamma.io/) - Modern open-source analytics and market risk library designed and written in Java.
+
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Other Languages / Others
 
 *   [DevApps.be's podcast #44](http://devapps.be/podcast/blazor-webassembly/) - \[French] DevApps.be's podcast #44: "Blazor et WebAssembly vont-ils tuer JavaScript ?".
 
-## [7. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [8. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Books
 
@@ -104,7 +110,7 @@
 
 *   [T-Fuzz (⭐244)](https://github.com/HexHive/T-Fuzz) - T-Fuzz leverages a coverage guided fuzzer to generate inputs.
 
-## [8. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
+## [9. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
 ### [git-profile](https://github.com/dm3ch/git-profile-manager)
 

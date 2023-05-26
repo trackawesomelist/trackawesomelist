@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25 - Oct 01, 2017
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,7 @@
 
 ### Go / Erlang
 
-*   [Iris (⭐23k)](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
+*   [Iris (⭐24k)](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
 
 ### Java VM / Scala
 
@@ -61,7 +61,7 @@
 
 ### Coordination & Governance / Scala
 
-*   [Fission Workflows (⭐351)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
+*   [Fission Workflows (⭐352)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Utility / Collection View Layout
 
-*   [VTAcknowledgementsViewController (⭐866)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+*   [VTAcknowledgementsViewController (⭐864)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
 
 ## [9. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -186,7 +186,7 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat: (⭐68)](https://github.com/Muges/audiotsm) [:package:](https://pypi.python.org/pypi/audiotsm/) - real-time audio time-scale modification procedures.
+*   [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat: (⭐75)](https://github.com/Muges/audiotsm) [:package:](https://pypi.python.org/pypi/audiotsm/) - real-time audio time-scale modification procedures.
 
 ## [18. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -194,8 +194,8 @@
 
 *   [yagni (⭐218)](https://github.com/venantius/yagni)
 *   [lein-bikeshed (⭐176)](https://github.com/dakrone/lein-bikeshed)
-*   [spectrum (⭐590)](https://github.com/arohner/spectrum)
-*   [cloverage (⭐476)](https://github.com/cloverage/cloverage)
+*   [spectrum (⭐593)](https://github.com/arohner/spectrum)
+*   [cloverage (⭐490)](https://github.com/cloverage/cloverage)
 
 ## [19. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -343,11 +343,6 @@
 
 ## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
-### Experiments
-
-*   [HTML5 Audio Visualizer Video Maker](https://isaiah658.github.io/) Pick your music, background image, customize the visualizer the way you want it, and have the visualizer be recorded all right in your web browser.
-*   [3d Particles Music Visualiser](https://chardos.github.io/music_viz/) Music visualiser done in Three.js by Richard Tan
-
 ### Libraries Visualization
 
 *   [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
@@ -383,7 +378,7 @@
 
 ### Git Tools
 
-*   [RepoZ (⭐852)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
+*   [RepoZ (⭐887)](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 
 ### IoC
 
@@ -397,7 +392,7 @@
 
 ### Infrastructure
 
-*   [Fastly Extension (⭐114)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+*   [Fastly Extension (⭐116)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -419,7 +414,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [VueGL (⭐599)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+*   [VueGL (⭐621)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
 ## [38. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -435,7 +430,7 @@
 
 ### Resources / Tutorials
 
-*   [how-to-markdown (⭐196)](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
+*   [how-to-markdown (⭐202)](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
 *   [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown.
 
 ## [40. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
@@ -499,47 +494,29 @@
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/hbase)
 *   [Twitter](https://twitter.com/HBase)
 
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C# / Non-X86
-
-*   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss
-
-### Go / Phoenix
-
-*   [Let's learn Go!](http://go-book.readthedocs.io/en/latest/)
-
-### TrueOS / PicoLisp
-
-*   [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
-
-## [44. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [Petergate (⭐192)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
+*   [Petergate (⭐193)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 
 ### CLI Utilities
 
-*   [TablePrint (⭐850)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐882)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
-## [45. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [44. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 
-## [46. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [45. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** \[19:07]
 
-## [47. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [46. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 

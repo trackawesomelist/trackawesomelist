@@ -10,7 +10,7 @@
 
 ### Python / Natural Language Processing
 
-*   [jieba (⭐30k)](https://github.com/fxsjy/jieba#jieba-1) - Chinese Words Segmentation Utilities.
+*   [jieba (⭐31k)](https://github.com/fxsjy/jieba#jieba-1) - Chinese Words Segmentation Utilities.
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -30,9 +30,9 @@
 
 ### QA Tools / Runner
 
-*   [JSHint (⭐8.8k)](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+*   [JSHint (⭐8.9k)](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 *   [jsfmt (⭐1.7k)](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
-*   [buddy.js (⭐826)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
+*   [buddy.js (⭐839)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
 ---
 

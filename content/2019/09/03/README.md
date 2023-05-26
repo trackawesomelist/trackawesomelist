@@ -8,9 +8,9 @@
 
 ## [1. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Code Libraries / Video Lectures and Online Courses
+### Code Libraries
 
-*   [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code (⭐3.3k)](https://github.com/biopython/biopython) - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+*   [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code (⭐3.5k)](https://github.com/biopython/biopython) - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 
 ## [2. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Compression
 
-*   [bit7z (⭐365)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. \[GPLv2]
+*   [bit7z (⭐410)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. \[GPLv2]
 
 ## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Applications / Games
 
-*   [swatteau/sokoban-rs (⭐138)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
+*   [swatteau/sokoban-rs (⭐141)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
 
 ## [9. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -153,11 +153,11 @@
 
 *   [Horovod (⭐13k)](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/spark_big.png" alt="Apache Spark based">
-*   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed machine learning platform.
-*   [Jubatus (⭐702)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
-*   [DMTK (⭐2.8k)](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
-*   [dask-ml (⭐838)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [Distributed (⭐1.4k)](https://github.com/dask/distributed) - Distributed computation in Python.
+*   [Veles (⭐900)](https://github.com/Samsung/veles) - Distributed machine learning platform.
+*   [Jubatus (⭐706)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
+*   [DMTK (⭐2.7k)](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
+*   [dask-ml (⭐850)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Distributed (⭐1.5k)](https://github.com/dask/distributed) - Distributed computation in Python.
 
 ## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

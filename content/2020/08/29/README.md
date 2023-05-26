@@ -36,7 +36,7 @@
 *   [Learning Statistics with R](https://learningstatisticswithr.com/) - Learning Statistics with R covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. Author: Danielle Navarro.
 *   [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with R as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with R. Author: Bruno Rodrigues.
 *   [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - The emphasis of this text is on the practice of regression and analysis of variance. The objective is to learn what methods are available and more importantly, when they should be applied. Author: Julian Faraway.
-*   [Practicals and Exercises](http://www.columbia.edu/\~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - This series of exercises reviews some of the content discussed during the author's lectures, and introduces some other basic concepts about working with data in R. Author: Charles DiMaggio, PhD.
+*   [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - This series of exercises reviews some of the content discussed during the author's lectures, and introduces some other basic concepts about working with data in R. Author: Charles DiMaggio, PhD.
 *   [R Packages](http://r-pkgs.had.co.nz/) - In this book you will learn how to turn your code into packages that others can easily download and use. Author: Hadley Wickham.
 *   [R Programming for Data Science](https://leanpub.com/rprogramming) - This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. Author: Roger Peng.
 *   [Statistical Inference via Data Science](https://moderndive.com/) - This is intended to be a gentle introduction to the practice of analyzing data and answering questions using data the way data scientists, statisticians, data journalists, and other researchers would. Authors: Chester Ismay and Albert Y. Kim.
@@ -64,7 +64,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-lazy (⭐4)](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
+*   [vue-lazy (⭐3)](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
 
 ## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -99,10 +99,10 @@
 
 ### Plugins / CSS in JS
 
-*   [CSS-modules (⭐131)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
+*   [CSS-modules (⭐136)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 *   Styled Components
-    *   [Better Styled Components (⭐59)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
-    *   [styled-components-a11y (⭐117)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+    *   [Better Styled Components (⭐63)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
+    *   [styled-components-a11y (⭐128)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
 
 ---
 

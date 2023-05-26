@@ -1,22 +1,37 @@
 # Awesome List Updates on Dec 05, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### R / Numerical Libraries & Data Structures
+
+*   [TSdbi](http://tsdbi.r-forge.r-project.org/) - Provides a common interface to time series databases.
+*   [zoo](https://cran.r-project.org/web/packages/zoo/index.html) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
+*   [tis](https://cran.r-project.org/web/packages/tis/index.html) - Functions and S3 classes for time indexes and time indexed series, which are compatible with FAME frequencies.
+*   [tfplot](https://cran.r-project.org/web/packages/tfplot/index.html) - Utilities for simple manipulation and quick plotting of time series data.
+*   [tframe](https://cran.r-project.org/web/packages/tframe/index.html) - A kernel of functions for programming time series methods in a way that is relatively independently of the representation of time.
+
+### R / Data Sources
+
+*   [IBrokers](https://cran.r-project.org/web/packages/IBrokers/index.html) - Provides native R access to Interactive Brokers Trader Workstation API.
+*   [Quandl](https://www.quandl.com/tools/r) - Get Financial Data Directly Into R.
+
+## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-tools / Git
 
 *   [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 
-## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [3. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### operations
 
-*   [geojson-flatten (⭐49)](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
+*   [geojson-flatten (⭐50)](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
 *   [geojson-random (⭐72)](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
 
 ### editors & viewers
@@ -29,32 +44,32 @@
 
 ### data
 
-*   [world-atlas (⭐950)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐803)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [world-atlas (⭐965)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+*   [us-atlas (⭐811)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [SmartFormat.NET (⭐871)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
 
-## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Maps
 
 *   [CARTO (⭐2.6k)](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 
-## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Programming / JavaScript
 
 *   [Vue.js Jobs](https://vuejobs.com/)
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
+*   [snowplow/snowplow :fire::fire::fire::fire::fire: (⭐6.5k)](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
 
 ### Appendix of Core Services / Compute Services
 
@@ -88,7 +103,7 @@
 
 *   [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
 
-## [7. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other useful repositories
 

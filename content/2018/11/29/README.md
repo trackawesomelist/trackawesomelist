@@ -36,7 +36,7 @@
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [V2rayU (⭐15k)](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yanue/V2rayU)
+*   [V2rayU (⭐16k)](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yanue/V2rayU)
 
 ## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Science and Data Analysis
 
-*   [Loom - graph library for Clojure (⭐825)](https://github.com/aysylu/loom)
+*   [Loom - graph library for Clojure (⭐857)](https://github.com/aysylu/loom)
 
 ## [7. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 

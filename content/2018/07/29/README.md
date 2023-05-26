@@ -26,8 +26,7 @@
 
 ### C++ Libraries
 
-*   [libwally-core (⭐233)](https://github.com/ElementsProject/libwally-core)
-*   [secp256k1 (⭐1.7k)](https://github.com/bitcoin-core/secp256k1)
+*   [libwally-core (⭐241)](https://github.com/ElementsProject/libwally-core)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -45,7 +44,7 @@
 
 ### Go
 
-*   [Go React JSX Boilerplate (⭐3)](https://github.com/sharath/go-react-boilerplate) Starter code for a React + Go web application
+*   [Go React JSX Boilerplate (⭐4)](https://github.com/sharath/go-react-boilerplate) Starter code for a React + Go web application
 
 ## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -56,27 +55,27 @@
 *   [SciPy](https://scipy.org) - Python modules for statistics, optimization, integration, linear algebra, etc.
     (Python, mostly BSD, [GitHub (⭐11k)](https://github.com/scipy/scipy/))
 *   [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
-    (Python, BSD, [GitHub (⭐22k)](https://github.com/numpy/numpy))
+    (Python, BSD, [GitHub (⭐23k)](https://github.com/numpy/numpy))
 
 ### Finite Elements
 
 *   [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
-    (C++, LGPL 2.1, [GitHub (⭐541)](https://github.com/libMesh/libmesh))
+    (C++, LGPL 2.1, [GitHub (⭐557)](https://github.com/libMesh/libmesh))
 *   [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
-    (C++, LGPL 2.1, [GitHub (⭐1k)](https://github.com/dealii/dealii))
+    (C++, LGPL 2.1, [GitHub (⭐1.1k)](https://github.com/dealii/dealii))
 *   [Netgen/NGSolve](https://ngsolve.org) - High performance multiphysics finite element software.
-    (C++, LGPL 2.1, [GitHub (⭐192)](https://github.com/NGSolve/netgen))
+    (C++, LGPL 2.1, [GitHub (⭐204)](https://github.com/NGSolve/netgen))
 *   [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
-    (Python, LGPL 3, [GitHub (⭐380)](https://github.com/firedrakeproject/firedrake))
+    (Python, LGPL 3, [GitHub (⭐391)](https://github.com/firedrakeproject/firedrake))
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [Gmsh](https://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
     (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
 *   [MeshPy](https://mathema.tician.de/software/meshpy/) - Quality triangular and tetrahedral mesh generation.
-    (Python, MIT, [GitHub (⭐404)](https://github.com/inducer/meshpy))
+    (Python, MIT, [GitHub (⭐419)](https://github.com/inducer/meshpy))
 *   [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
-    (C++, mixed LGPL/GPL, [GitHub (⭐3.5k)](https://github.com/CGAL/cgal))
+    (C++, mixed LGPL/GPL, [GitHub (⭐3.8k)](https://github.com/CGAL/cgal))
 *   [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
     (C++, AGPLv3)
 *   [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
@@ -85,9 +84,9 @@
 ### Sparse linear solvers / Mesh tools
 
 *   [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
-    (C, mostly BSD, [GitHub (⭐174)](https://github.com/xiaoyeli/superlu))
+    (C, mostly BSD, [GitHub (⭐187)](https://github.com/xiaoyeli/superlu))
 *   [PyAMG](https://pyamg.readthedocs.io/en/latest/) - Algebraic Multigrid Solvers in Python.
-    (Python, MIT, [GitHub (⭐446)](https://github.com/pyamg/pyamg))
+    (Python, MIT, [GitHub (⭐463)](https://github.com/pyamg/pyamg))
 
 ### Other libraries and tools / Mesh tools
 
@@ -95,15 +94,15 @@
     (C, GPL2, [GitHub (⭐2.3k)](https://github.com/FFTW/fftw3))
 *   [Qhull](http://www.qhull.org) - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, etc.
     (C/C++, [custom open source license](http://www.qhull.org/COPYING.txt),
-    [GitHub (⭐552)](https://github.com/qhull/qhull/))
+    [GitHub (⭐588)](https://github.com/qhull/qhull/))
 *   [GSL](https://www.gnu.org/software/gsl/) - Random number generators, special functions, and least-squares fitting etc.
     (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 *   [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
-    (C++, GPL 3, [GitHub (⭐1k)](https://github.com/OpenFOAM/OpenFOAM-dev))
+    (C++, GPL 3, [GitHub (⭐1.1k)](https://github.com/OpenFOAM/OpenFOAM-dev))
 *   [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDE solver.
     (Python, [custom open-source
     license](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications),
-    [GitHub (⭐376)](https://github.com/usnistgov/fipy))
+    [GitHub (⭐403)](https://github.com/usnistgov/fipy))
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -169,11 +168,11 @@
 
 ### Work
 
-*   [Code Review (⭐3.8k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐3.9k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 
-*   [Captcha (⭐961)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Captcha (⭐980)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ---
 

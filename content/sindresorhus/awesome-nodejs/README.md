@@ -2,15 +2,19 @@
 
 :zap: Delightful Node.js packages and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-nodejs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) · ⭐ 50K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-nodejs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) · ⭐ 51K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/sindresorhus/awesome-nodejs/week/README.md) / [Overview](/content/sindresorhus/awesome-nodejs/readme/README.md) ]
 
-## [Mar 15, 2023](/content/2023/03/15/README.md)
+## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Resources / Tutorials
 
-*   [Scaling Node.js Applications](https://betterstack.com/community/guides/scaling-nodejs/) - Learn everything about building, deploying and scaling Node.js applications in production.
+*   [The Node Way (⭐1.5k)](https://github.com/FredKSchott/the-node-way) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
+
+### Resources / Articles
+
+*   [Error Handling in Node.js](https://sematext.com/blog/node-js-error-handling/)
 
 ## [Mar 06, 2023](/content/2023/03/06/README.md)
 
@@ -30,7 +34,7 @@
 
 ### Packages / Miscellaneous
 
-*   [wild-wild-path (⭐601)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+*   [wild-wild-path (⭐614)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
 ## [Apr 24, 2022](/content/2022/04/24/README.md)
 
@@ -46,32 +50,32 @@
 
 ### Packages / Job queues
 
-*   [bullmq (⭐3.5k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
+*   [bullmq (⭐3.8k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
 ## [Mar 02, 2022](/content/2022/03/02/README.md)
 
 ### Packages / Mad science
 
 *   [webtorrent (⭐28k)](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
-*   [PDFKit (⭐8.6k)](https://github.com/foliojs/pdfkit) - PDF generation library.
-*   [xlsx (⭐32k)](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
+*   [PDFKit (⭐8.8k)](https://github.com/foliojs/pdfkit) - PDF generation library.
+*   [xlsx (⭐33k)](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 
 ### Packages / Command-line apps
 
 *   [http-server (⭐13k)](https://github.com/http-party/http-server) - Simple, zero-config command-line HTTP server.
-*   [pen (⭐328)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
+*   [pen (⭐326)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
 *   [trymodule (⭐1.1k)](https://github.com/victorb/trymodule) - Try out npm packages in the terminal.
 *   [themer (⭐5.1k)](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 *   [taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Packages / Functional programming
 
-*   [immutable (⭐32k)](https://github.com/immutable-js/immutable-js) - Immutable data collections.
+*   [immutable (⭐33k)](https://github.com/immutable-js/immutable-js) - Immutable data collections.
 
 ### Packages / HTTP
 
-*   [node-fetch (⭐8.2k)](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js.
-*   [axios (⭐99k)](https://github.com/axios/axios) - Promise based HTTP client (works in the browser too).
+*   [node-fetch (⭐8.3k)](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js.
+*   [axios (⭐100k)](https://github.com/axios/axios) - Promise based HTTP client (works in the browser too).
 
 ### Packages / Debugging / Profiling
 
@@ -79,7 +83,7 @@
 
 ### Packages / Logging
 
-*   [consola (⭐4.2k)](https://github.com/unjs/consola) - Console logger.
+*   [consola (⭐4.3k)](https://github.com/unjs/consola) - Console logger.
 
 ### Packages / Command-line utilities
 
@@ -91,7 +95,7 @@
 
 ### Packages / Hardware
 
-*   [serialport (⭐5.4k)](https://github.com/serialport/node-serialport) - Access serial ports for reading and writing.
+*   [serialport (⭐5.5k)](https://github.com/serialport/node-serialport) - Access serial ports for reading and writing.
 *   [usb (⭐1.4k)](https://github.com/node-usb/node-usb) - USB library.
 
 ### Packages / Templating
@@ -100,12 +104,12 @@
 
 ### Packages / Web frameworks
 
-*   [Next.js (⭐102k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+*   [Next.js (⭐106k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 *   [Micro (⭐10k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 *   [LoopBack (⭐4.5k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
-*   [TypeGraphQL (⭐7.7k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
+*   [TypeGraphQL (⭐7.8k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 *   [Tinyhttp (⭐2.4k)](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
-*   [Ts.ED (⭐2.4k)](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
+*   [Ts.ED (⭐2.5k)](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 
 ### Packages / Documentation
 
@@ -113,7 +117,7 @@
 
 ### Packages / Filesystem
 
-*   [proper-lockfile (⭐202)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
+*   [proper-lockfile (⭐207)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
 
 ### Packages / Real-time
 
@@ -122,29 +126,29 @@
 
 ### Packages / URL
 
-*   [humanize-url (⭐243)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <https://sindresorhus.com> → sindresorhus.com.
+*   [humanize-url (⭐246)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <https://sindresorhus.com> → sindresorhus.com.
 
 ### Packages / Data validation
 
 *   [joi (⭐20k)](https://github.com/sideway/joi) - Object schema description language and validator for JavaScript objects.
-*   [schema-inspector (⭐495)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
-*   [ajv (⭐12k)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
+*   [schema-inspector (⭐498)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
+*   [ajv (⭐13k)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 
 ### Packages / Parsing
 
-*   [remark (⭐6.1k)](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
+*   [remark (⭐6.3k)](https://github.com/remarkjs/remark) - Markdown processor powered by plugins.
 *   [x-ray (⭐5.7k)](https://github.com/matthewmueller/x-ray) - Web scraping utility.
 *   [nearley (⭐3.4k)](https://github.com/kach/nearley) - Simple, fast, powerful parsing for JavaScript.
 *   [google-libphonenumber (⭐1.3k)](https://github.com/ruimarinho/google-libphonenumber) - Parse, format, store and validate phone numbers.
 
 ### Packages / Humanize
 
-*   [ms (⭐4.4k)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
+*   [ms (⭐4.6k)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
 
 ### Packages / Database
 
 *   Query builder
-    *   [Knex (⭐17k)](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+    *   [Knex (⭐18k)](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
 ### Packages / Testing
 
@@ -153,43 +157,43 @@
 *   [trevor (⭐2.1k)](https://github.com/vadimdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
 *   [Nock (⭐12k)](https://github.com/nock/nock) - HTTP mocking and expectations.
 *   [CodeceptJS (⭐3.9k)](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
-*   [Puppeteer (⭐82k)](https://github.com/puppeteer/puppeteer) - Headless Chrome.
+*   [Puppeteer (⭐83k)](https://github.com/puppeteer/puppeteer) - Headless Chrome.
 
 ### Packages / Minifiers
 
-*   [UglifyJS2 (⭐12k)](https://github.com/mishoo/UglifyJS) - JavaScript minifier.
-*   [clean-css (⭐4k)](https://github.com/clean-css/clean-css) - CSS minifier.
+*   [UglifyJS2 (⭐13k)](https://github.com/mishoo/UglifyJS) - JavaScript minifier.
+*   [clean-css (⭐4.1k)](https://github.com/clean-css/clean-css) - CSS minifier.
 
 ### Packages / Email
 
-*   [Nodemailer (⭐15k)](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
+*   [Nodemailer (⭐16k)](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
 *   [email-templates (⭐3.5k)](https://github.com/forwardemail/email-templates) - Create, preview, and send custom email templates.
 
 ### Packages / Job queues
 
-*   [agenda (⭐8.8k)](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
-*   [node-resque (⭐1.2k)](https://github.com/actionhero/node-resque) - Redis-backed job queue.
+*   [agenda (⭐8.9k)](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
+*   [node-resque (⭐1.3k)](https://github.com/actionhero/node-resque) - Redis-backed job queue.
 
 ### Packages / Natural language processing
 
-*   [retext (⭐2.2k)](https://github.com/retextjs/retext) - An extensible natural language system.
+*   [retext (⭐2.3k)](https://github.com/retextjs/retext) - An extensible natural language system.
 
 ### Packages / AST
 
-*   [Acorn (⭐9.2k)](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser.
+*   [Acorn (⭐9.4k)](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser.
 
 ### Packages / Static site generators
 
-*   [docsify (⭐23k)](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
+*   [docsify (⭐24k)](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
 
 ### Packages / Content management systems
 
-*   [Factor (⭐1.3k)](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
-*   [AdminBro (⭐6.7k)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
+*   [Factor (⭐1.4k)](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
+*   [AdminBro (⭐7k)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
 
 ### Packages / Serialization
 
-*   [protobuf (⭐8.9k)](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
+*   [protobuf (⭐9.1k)](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
 
 ### Packages / Miscellaneous
 
@@ -197,8 +201,7 @@
 
 ### Resources / Tutorials
 
-*   [Node.js Best Practices (⭐87k)](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
-*   [The Node Way](https://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
+*   [Node.js Best Practices (⭐89k)](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
 *   [Portable Node.js guide (⭐1.3k)](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 
 ### Resources / Newsletters
@@ -238,34 +241,34 @@
 ### Resources / Miscellaneous
 
 *   [nodebots](https://nodebots.io) - Robots powered by JavaScript.
-*   [Module Requests & Ideas (⭐544)](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
+*   [Module Requests & Ideas (⭐543)](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
 
 ## [Jan 23, 2022](/content/2022/01/23/README.md)
 
 ### Packages / HTTP
 
-*   [undici (⭐4.6k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
-*   [ky-universal (⭐621)](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
-*   [purest (⭐528)](https://github.com/simov/purest) - REST client.
+*   [undici (⭐4.8k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
+*   [ky-universal (⭐647)](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
+*   [purest (⭐527)](https://github.com/simov/purest) - REST client.
 
 ### Packages / Debugging / Profiling
 
-*   [dats (⭐73)](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD (⭐17k)](https://github.com/statsd/statsd) client.
+*   [dats (⭐74)](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD (⭐17k)](https://github.com/statsd/statsd) client.
 
 ### Packages / Web frameworks
 
 *   [Fastify (⭐27k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Nuxt.js (⭐44k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+*   [Nuxt.js (⭐45k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
 *   [AdonisJs (⭐14k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
-*   [Moleculer (⭐5.6k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
+*   [Moleculer (⭐5.7k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 
 ### Packages / Streams
 
-*   [from2 (⭐131)](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
+*   [from2 (⭐130)](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
 
 ### Packages / Parsing
 
-*   [@parcel/css (⭐3.4k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+*   [@parcel/css (⭐3.6k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 
 ### Packages / Minifiers
 
@@ -281,7 +284,7 @@
 
 ### Packages / Image
 
-*   [ImageScript (⭐478)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐503)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [Jun 01, 2021](/content/2021/06/01/README.md)
 
@@ -312,7 +315,7 @@
 
 ### Packages / Parsing
 
-*   [Chevrotain (⭐2.1k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
+*   [Chevrotain (⭐2.2k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 ## [Mar 07, 2021](/content/2021/03/07/README.md)
 
@@ -320,13 +323,13 @@
 
 *   Other
     *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
-    *   [Lowdb (⭐19k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-    *   [Keyv (⭐2.1k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
-    *   [Finale (⭐182)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
-    *   [database-js (⭐59)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐504)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐497)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-    *   [pg-mem (⭐1.3k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+    *   [Lowdb (⭐20k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+    *   [Keyv (⭐2.2k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
+    *   [Finale (⭐183)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
+    *   [database-js (⭐67)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+    *   [Mongo Seeding (⭐507)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [@databases (⭐531)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [pg-mem (⭐1.4k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ## [Mar 06, 2021](/content/2021/03/06/README.md)
 
@@ -334,7 +337,7 @@
 
 *   [Website](https://nodejs.org)
 *   [Documentation](https://nodejs.org/dist/latest/docs/api/)
-*   [Repository (⭐94k)](https://github.com/nodejs/node)
+*   [Repository (⭐96k)](https://github.com/nodejs/node)
 
 ### Resources / Videos
 
@@ -344,21 +347,21 @@
 
 ### Packages / Node.js management
 
-*   [fnm (⭐10k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐12k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [Dec 12, 2020](/content/2020/12/12/README.md)
 
 ### Packages / HTTP
 
-*   [smoke (⭐161)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
+*   [smoke (⭐164)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 
 ### Packages / Testing
 
-*   [testcontainers-node (⭐1.1k)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+*   [testcontainers-node (⭐1.2k)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ### Packages / Automation
 
-*   [nut.js (⭐1.5k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+*   [nut.js (⭐1.6k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
 ## [Dec 10, 2020](/content/2020/12/10/README.md)
 
@@ -370,13 +373,13 @@
 
 ### Packages / Data validation
 
-*   [Superstruct (⭐6.4k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+*   [Superstruct (⭐6.5k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 
 ## [Nov 11, 2020](/content/2020/11/11/README.md)
 
 ### Packages / Miscellaneous
 
-*   [editly (⭐4k)](https://github.com/mifi/editly) - Declarative video editing API.
+*   [editly (⭐4.1k)](https://github.com/mifi/editly) - Declarative video editing API.
 
 ## [Oct 11, 2020](/content/2020/10/11/README.md)
 
@@ -385,21 +388,21 @@
 *   ODM / ORM
     *   [Sequelize (⭐28k)](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
     *   [Bookshelf (⭐6.3k)](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-    *   [Mongoose (⭐25k)](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
+    *   [Mongoose (⭐26k)](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
     *   [Waterline (⭐5.4k)](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
     *   [OpenRecord (⭐486)](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
     *   [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
-    *   [slonik (⭐3.7k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
+    *   [slonik (⭐3.9k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
     *   [Objection.js (⭐7k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
     *   [TypeORM (⭐31k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-    *   [MikroORM (⭐5.7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-    *   [Prisma (⭐30k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+    *   [MikroORM (⭐5.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+    *   [Prisma (⭐31k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 
 ## [Sep 05, 2020](/content/2020/09/05/README.md)
 
 ### Packages / Authentication
 
-*   [Grant (⭐3.8k)](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
+*   [Grant (⭐3.9k)](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
 
 ## [Jul 07, 2020](/content/2020/07/07/README.md)
 
@@ -411,7 +414,7 @@
 
 ### Packages / Testing
 
-*   [axe-core (⭐5k)](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
+*   [axe-core (⭐5.1k)](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 
 ## [Jul 05, 2020](/content/2020/07/05/README.md)
 
@@ -429,19 +432,19 @@
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐8.3k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐8.7k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [Apr 13, 2020](/content/2020/04/13/README.md)
 
 ### Packages / Documentation
 
-*   [Docusaurus (⭐43k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+*   [Docusaurus (⭐45k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ## [Apr 09, 2020](/content/2020/04/09/README.md)
 
 ### Packages / Miscellaneous
 
-*   [husky (⭐29k)](https://github.com/typicode/husky) - Create Git hook scripts.
+*   [husky (⭐30k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
 ## [Feb 22, 2020](/content/2020/02/22/README.md)
 
@@ -451,13 +454,13 @@
 
 ### Packages / Testing
 
-*   [Playwright (⭐49k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐52k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐570)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
-*   [cashify (⭐392)](https://github.com/xxczaki/cashify) - Currency conversion.
-*   [genepi (⭐66)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+*   [basic-ftp (⭐588)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
+*   [cashify (⭐393)](https://github.com/xxczaki/cashify) - Currency conversion.
+*   [genepi (⭐67)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools
 
@@ -467,17 +470,17 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐286)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐294)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
-*   [jose-simple (⭐56)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+*   [jose-simple (⭐57)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
 ## [Dec 12, 2019](/content/2019/12/12/README.md)
 
 ### Packages / Testing
 
-*   [nve (⭐609)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+*   [nve (⭐614)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 ## [Nov 01, 2019](/content/2019/11/01/README.md)
 
@@ -489,27 +492,27 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐6.8k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐7.2k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [Sep 26, 2019](/content/2019/09/26/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [swagger-stats (⭐792)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
+*   [swagger-stats (⭐816)](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
 
 ### Packages / Text
 
-*   [nanoid (⭐20k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+*   [nanoid (⭐21k)](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
 
 ### Resources / Miscellaneous
 
-*   [modern-node (⭐242)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
+*   [modern-node (⭐243)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
 
 ## [Sep 23, 2019](/content/2019/09/23/README.md)
 
 ### Packages / Static site generators
 
-*   [Charge (⭐407)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐409)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -525,21 +528,21 @@
 
 ### Packages / Debugging / Profiling
 
-*   [thetool (⭐209)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
+*   [thetool (⭐212)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 
 ## [Jun 29, 2019](/content/2019/06/29/README.md)
 
 ### Packages / Image
 
-*   [qrcode (⭐6.4k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐6.6k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐432)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐441)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
-*   [nodenv (⭐1.9k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
+*   [nodenv (⭐2k)](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
 
 ## [Jun 19, 2019](/content/2019/06/19/README.md)
 
@@ -551,21 +554,21 @@
 
 ### Packages / Job queues
 
-*   [sqs-consumer (⭐1.4k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
+*   [sqs-consumer (⭐1.5k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 
 ## [May 13, 2019](/content/2019/05/13/README.md)
 
 ### Packages / Filesystem
 
-*   [tempy (⭐379)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐384)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
-*   [crypto-hash (⭐600)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐603)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
-*   [open (⭐2.8k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
+*   [open (⭐2.9k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
 ## [Apr 29, 2019](/content/2019/04/29/README.md)
 
@@ -575,15 +578,15 @@
 
 ### Packages / Date
 
-*   [Day.js (⭐42k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+*   [Day.js (⭐43k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐509)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐527)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 
-*   [nlp.js (⭐5.4k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+*   [nlp.js (⭐5.6k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 
 ### Resources / Books
 
@@ -597,7 +600,7 @@
 
 ### Packages / Command-line apps
 
-*   [ESLint (⭐22k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
+*   [ESLint (⭐23k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 
 ### Packages / Functional programming
 
@@ -612,8 +615,8 @@
 
 *   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Koa (⭐34k)](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-*   [Express (⭐60k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-*   [Feathers (⭐14k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
+*   [Express (⭐61k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+*   [Feathers (⭐15k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
 *   [Meteor (⭐43k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor (⭐1.4k)](https://github.com/Urigo/awesome-meteor))*
 *   [Restify (⭐11k)](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
 
@@ -628,11 +631,11 @@
 
 ### Packages / Security
 
-*   [rate-limiter-flexible (⭐2.4k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
+*   [rate-limiter-flexible (⭐2.5k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 
 ### Packages / Miscellaneous
 
-*   [node-video-lib (⭐320)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
+*   [node-video-lib (⭐323)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
 
 ### Resources / Tutorials
 
@@ -644,7 +647,7 @@
 
 ### Resources / Cheatsheets
 
-*   [Strong Node.js (⭐478)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+*   [Strong Node.js (⭐486)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ## [Apr 19, 2019](/content/2019/04/19/README.md)
 
@@ -674,14 +677,14 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐185)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐191)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [Oct 13, 2018](/content/2018/10/13/README.md)
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐198)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐525)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐202)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐530)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -693,7 +696,7 @@
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐493)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐507)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
@@ -742,28 +745,28 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐432)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐439)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ## [Jun 19, 2018](/content/2018/06/19/README.md)
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐7.6k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐8k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [May 15, 2018](/content/2018/05/15/README.md)
 
 ### Packages / Mad science
 
-*   [BitcoinJS (⭐4.9k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
-*   [Bitcore (⭐4.5k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
+*   [BitcoinJS (⭐5k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
+*   [Bitcore (⭐4.6k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 *   [NodeOS (⭐6.8k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
-*   [Cytoscape.js (⭐9k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
-*   [isomorphic-git (⭐6.8k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+*   [Cytoscape.js (⭐9.1k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
+*   [isomorphic-git (⭐6.9k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
 
 ### Packages / Command-line apps
 
-*   [gh-home (⭐186)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-*   [npm-home (⭐182)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐187)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+*   [npm-home (⭐183)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 *   [trash (⭐2.5k)](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 
 ### Packages / Functional programming
@@ -774,13 +777,13 @@
 ### Packages / Command-line utilities
 
 *   [yargs (⭐10k)](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
-*   [get-stdin (⭐321)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
-*   [Ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-*   [terminal-link (⭐560)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
-*   [terminal-image (⭐917)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
+*   [get-stdin (⭐327)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
+*   [Ink (⭐23k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+*   [terminal-link (⭐569)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+*   [terminal-image (⭐925)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 *   [Inquirer.js (⭐18k)](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 *   [sudo-block (⭐92)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
-*   [term-size (⭐134)](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
+*   [term-size (⭐135)](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
 
 ### Packages / Build tools
 
@@ -799,11 +802,11 @@
 
 *   Promises
     *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
-    *   [delay (⭐526)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+    *   [delay (⭐535)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
     *   [promise-memoize (⭐57)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
     *   [valvelet (⭐38)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
-    *   [p-map (⭐954)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
-    *   [More… (⭐4.2k)](https://github.com/sindresorhus/promise-fun)
+    *   [p-map (⭐1k)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+    *   [More… (⭐4.3k)](https://github.com/sindresorhus/promise-fun)
 *   Streams
     *   [Highland.js (⭐3.4k)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 
@@ -811,7 +814,7 @@
 
 *   [Socket.io (⭐58k)](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
 *   [Faye (⭐4.4k)](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
-*   [deepstream.io (⭐292)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
+*   [deepstream.io (⭐293)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
 
 ### Packages / Date
 
@@ -819,15 +822,15 @@
 
 ### Packages / Parsing
 
-*   [Jison (⭐4.2k)](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
+*   [Jison (⭐4.3k)](https://github.com/zaach/jison) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 
 ### Packages / Testing
 
-*   [WebdriverIO (⭐8k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
+*   [WebdriverIO (⭐8.1k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 
 ### Packages / Benchmarking
 
-*   [Benchmark.js (⭐5.3k)](https://github.com/bestiejs/benchmark.js) - Benchmarking library that supports high-resolution timers and returns statistically significant results.
+*   [Benchmark.js (⭐5.4k)](https://github.com/bestiejs/benchmark.js) - Benchmarking library that supports high-resolution timers and returns statistically significant results.
 
 ### Packages / Authentication
 
@@ -840,7 +843,7 @@
 ### Packages / Content management systems
 
 *   [ApostropheCMS (⭐4k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐52k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [Strapi (⭐54k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 ### Packages / Forum
 
@@ -849,14 +852,14 @@
 ### Packages / Blogging
 
 *   [Ghost (⭐43k)](https://github.com/TryGhost/Ghost) - Simple, powerful publishing platform.
-*   [Hexo (⭐36k)](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
+*   [Hexo (⭐37k)](https://github.com/hexojs/hexo) - Fast, simple and powerful blogging framework.
 
 ### Packages / Miscellaneous
 
 *   [ow (⭐3.7k)](https://github.com/sindresorhus/ow) - Function argument validation for humans.
 *   [semver (⭐4.6k)](https://github.com/npm/node-semver) - Semantic version parser.
 *   [@sindresorhus/is (⭐1.5k)](https://github.com/sindresorhus/is) - Type check values.
-*   [emittery (⭐1.5k)](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
+*   [emittery (⭐1.6k)](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 
 ### Resources / Courses
 
@@ -870,44 +873,44 @@
 
 ### Packages / Command-line utilities
 
-*   [oclif (⭐8.2k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
+*   [oclif (⭐8.4k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 
 ### Packages / Hardware
 
-*   [gps (⭐232)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
+*   [gps (⭐234)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐55k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐57k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐6.7k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐6.8k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
-*   [multimath (⭐64)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
+*   [multimath (⭐66)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 ### Packages / Parsing
 
-*   [fast-xml-parser (⭐1.8k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+*   [fast-xml-parser (⭐1.9k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
 
 ### Packages / Network
 
-*   [netcat (⭐387)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐395)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐4.7k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐4.8k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
-*   [bee-queue (⭐3.2k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+*   [bee-queue (⭐3.3k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 
 ### Packages / Serialization
 
-*   [snappy (⭐480)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
-*   [compactr (⭐98)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+*   [snappy (⭐479)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
+*   [compactr (⭐100)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous
 
@@ -921,18 +924,18 @@
 
 ### Related lists / Miscellaneous
 
-*   [awesome-npm (⭐4.2k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+*   [awesome-npm (⭐4.3k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
 *   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [Mar 12, 2018](/content/2018/03/12/README.md)
 
 ### Packages / HTTP
 
-*   [gotql (⭐393)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐13k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐396)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐13k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 
-*   [rsmq (⭐1.6k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
+*   [rsmq (⭐1.7k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
 ## [Mar 05, 2018](/content/2018/03/05/README.md)
 
@@ -944,25 +947,25 @@
 
 ### Packages / Command-line apps
 
-*   [XO (⭐7.1k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [XO (⭐7.2k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 
 ## [Feb 04, 2018](/content/2018/02/04/README.md)
 
 ### Packages / Command-line apps
 
-*   [gtop (⭐9.3k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+*   [gtop (⭐9.4k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 
 ## [Dec 29, 2017](/content/2017/12/29/README.md)
 
 ### Packages / Command-line apps
 
-*   [svg-term-cli (⭐3.1k)](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
+*   [svg-term-cli (⭐3.2k)](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
 
 ## [Nov 17, 2017](/content/2017/11/17/README.md)
 
 ### Packages / HTTP
 
-*   [cacheable-request (⭐267)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+*   [cacheable-request (⭐269)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 ## [Oct 13, 2017](/content/2017/10/13/README.md)
 
@@ -974,13 +977,13 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐872)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐885)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [Aug 31, 2017](/content/2017/08/31/README.md)
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐887)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐915)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 ## [Jul 23, 2017](/content/2017/07/23/README.md)
 
@@ -996,13 +999,13 @@
 
 ### Packages / Command-line utilities
 
-*   [Bit (⭐16k)](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+*   [Bit (⭐17k)](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 
 ## [Jun 06, 2017](/content/2017/06/06/README.md)
 
 ### Packages / Real-time
 
-*   [Kalm (⭐186)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
+*   [Kalm (⭐196)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 
 ## [May 08, 2017](/content/2017/05/08/README.md)
 
@@ -1014,15 +1017,15 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐847)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐862)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [Mar 11, 2017](/content/2017/03/11/README.md)
 
 ### Packages / Hardware
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-*   [spi-device (⭐111)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐902)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [spi-device (⭐113)](https://github.com/fivdi/spi-device) - SPI serial bus access.
+*   [pigpio (⭐911)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ## [Mar 07, 2017](/content/2017/03/07/README.md)
 
@@ -1044,13 +1047,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐7k)](https://github.com/sindresorhus/np) - Better `npm publish`.
-*   [pageres (⭐9.5k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐469)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [np (⭐7.1k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [pageres (⭐9.6k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
+*   [clipboard-cli (⭐476)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 *   [Live Server (⭐4.1k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-*   [tmpin (⭐122)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐633)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [tmpin (⭐123)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
+*   [dark-mode (⭐635)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -1059,16 +1062,16 @@
 
 ### Packages / Logging
 
-*   [winston (⭐20k)](https://github.com/winstonjs/winston) - Multi-transport async logging library.
+*   [winston (⭐21k)](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐8.3k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
-*   [listr (⭐3.1k)](https://github.com/samverschueren/listr) - Terminal task list.
-*   [conf (⭐1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-*   [cli-truncate (⭐81)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+*   [ora (⭐8.4k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [listr (⭐3.2k)](https://github.com/samverschueren/listr) - Terminal task list.
+*   [conf (⭐1.1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+*   [cli-truncate (⭐83)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
-*   [insight (⭐552)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+*   [insight (⭐553)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
@@ -1079,14 +1082,14 @@
 ### Packages / Templating
 
 *   [marko (⭐13k)](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
-*   [nunjucks (⭐8k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+*   [nunjucks (⭐8.1k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
 ### Packages / Control flow
 
 *   Observables
     *   [RxJS (⭐29k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-    *   [observable-to-promise (⭐324)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
-    *   [More… (⭐324)](https://github.com/sindresorhus/awesome-observables)
+    *   [observable-to-promise (⭐325)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+    *   [More… (⭐325)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -1094,7 +1097,7 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐7.5k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐7.7k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
@@ -1102,7 +1105,7 @@
 
 ### Packages / Date
 
-*   [date-fns (⭐31k)](https://github.com/date-fns/date-fns) - Modern date utility.
+*   [date-fns (⭐32k)](https://github.com/date-fns/date-fns) - Modern date utility.
 
 ### Packages / Parsing
 
@@ -1111,21 +1114,21 @@
 
 ### Packages / Compression
 
-*   [yazl (⭐308)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐632)](https://github.com/thejoshwolfe/yauzl) - Unzip.
-*   [decompress (⭐378)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+*   [yazl (⭐312)](https://github.com/thejoshwolfe/yazl) - Zip.
+*   [yauzl (⭐636)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [decompress (⭐385)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Packages / Database
 
 *   Drivers
     *   [PostgreSQL (⭐11k)](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
     *   [Redis (⭐12k)](https://github.com/luin/ioredis) - Redis client.
-    *   [LevelUP (⭐4k)](https://github.com/Level/levelup) - LevelDB.
+    *   [LevelUP (⭐4.1k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐589)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [couchdb-nano (⭐596)](https://github.com/apache/couchdb-nano) - CouchDB client.
     *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
     *   [Couchbase (⭐458)](https://github.com/couchbase/couchnode) - Couchbase client.
-    *   [MongoDB (⭐9.7k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+    *   [MongoDB (⭐9.8k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
 
@@ -1133,7 +1136,7 @@
 
 ### Packages / Node.js management
 
-*   [nodeenv (⭐1.5k)](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
+*   [nodeenv (⭐1.6k)](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
 
 ### Packages / Natural language processing
 
@@ -1146,13 +1149,13 @@
 
 ### Packages / Weird
 
-*   [cows (⭐391)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐396)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐5.3k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐5.7k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5.1k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
-*   [Bottleneck (⭐1.4k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
+*   [Bottleneck (⭐1.5k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 *   [clipboardy (⭐1.6k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 
 ### Resources / Tools
@@ -1196,7 +1199,7 @@
 
 ### Packages / Command-line apps
 
-*   [wifi-password (⭐278)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+*   [wifi-password (⭐281)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 
 ## [Nov 29, 2016](/content/2016/11/29/README.md)
 
@@ -1226,7 +1229,7 @@
 
 ### Packages / Parsing
 
-*   [ref (⭐429)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐434)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [Aug 18, 2016](/content/2016/08/18/README.md)
 
@@ -1238,13 +1241,13 @@
 
 ### Packages / Filesystem
 
-*   [filehound (⭐209)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+*   [filehound (⭐213)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
 ## [Aug 05, 2016](/content/2016/08/05/README.md)
 
 ### Packages / Weird
 
-*   [nerds (⭐100)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐102)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ## [Aug 02, 2016](/content/2016/08/02/README.md)
 
@@ -1252,23 +1255,17 @@
 
 *   [Microsoft Node.js Guidelines (⭐2.5k)](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 
-## [Jul 12, 2016](/content/2016/07/12/README.md)
-
-### Resources / Articles
-
-*   [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
-
 ## [Jul 03, 2016](/content/2016/07/03/README.md)
 
 ### Packages / Command-line apps
 
-*   [atmo (⭐812)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [atmo (⭐813)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
 ## [Jun 29, 2016](/content/2016/06/29/README.md)
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐3k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [jscpd (⭐3.1k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 
 ## [Jun 18, 2016](/content/2016/06/18/README.md)
 
@@ -1284,7 +1281,7 @@
 
 ### Packages / Filesystem
 
-*   [chokidar (⭐9.8k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
+*   [chokidar (⭐9.9k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 
 ## [Jun 07, 2016](/content/2016/06/07/README.md)
 
@@ -1296,7 +1293,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [ctrace (⭐119)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+*   [ctrace (⭐120)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 
 ## [May 18, 2016](/content/2016/05/18/README.md)
 
@@ -1330,17 +1327,17 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐248)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐249)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐106)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐104)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [Mar 17, 2016](/content/2016/03/17/README.md)
 
 ### Packages / Logging
 
-*   [storyboard (⭐731)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+*   [storyboard (⭐734)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
 ## [Mar 10, 2016](/content/2016/03/10/README.md)
 
@@ -1352,28 +1349,28 @@
 
 ### Packages / Testing
 
-*   [testen (⭐176)](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
+*   [testen (⭐175)](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
 
 ## [Mar 04, 2016](/content/2016/03/04/README.md)
 
 ### Packages / Miscellaneous
 
-*   [adit (⭐47)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [adit (⭐48)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [Mar 01, 2016](/content/2016/03/01/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.5k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.6k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 
-*   [boxen (⭐1.3k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+*   [boxen (⭐1.4k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
 *   [shelljs (⭐14k)](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 
 ### Packages / Text
 
-*   [matcher (⭐528)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐529)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -1382,7 +1379,7 @@
 
 ### Packages / Miscellaneous
 
-*   [mem (⭐994)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [mem (⭐1k)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 
 ## [Feb 27, 2016](/content/2016/02/27/README.md)
 
@@ -1394,7 +1391,7 @@
 
 ### Packages / Data validation
 
-*   [property-validator (⭐159)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
+*   [property-validator (⭐157)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 
 ## [Feb 10, 2016](/content/2016/02/10/README.md)
 
@@ -1412,31 +1409,31 @@
 
 ### Packages / Date
 
-*   [tz-format (⭐9)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
+*   [tz-format (⭐10)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
 ## [Jan 25, 2016](/content/2016/01/25/README.md)
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐213)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐219)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ## [Jan 22, 2016](/content/2016/01/22/README.md)
 
 ### Packages / Miscellaneous
 
-*   [json-strictify (⭐18)](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
+*   [json-strictify (⭐17)](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
 
 ## [Jan 20, 2016](/content/2016/01/20/README.md)
 
 ### Packages / Command-line utilities
 
-*   [cross-env (⭐6k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+*   [cross-env (⭐6.1k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 
 ## [Jan 13, 2016](/content/2016/01/13/README.md)
 
 ### Packages / Command-line apps
 
-*   [diff2html-cli (⭐413)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [diff2html-cli (⭐432)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ## [Jan 11, 2016](/content/2016/01/11/README.md)
 
@@ -1465,13 +1462,13 @@
 
 ### Packages / Command-line utilities
 
-*   [multispinner (⭐287)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
+*   [multispinner (⭐291)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 
 ## [Nov 05, 2015](/content/2015/11/05/README.md)
 
 ### Packages / Mad science
 
-*   [ipfs (⭐7.3k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐7.4k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ### Packages / Command-line utilities
 
@@ -1479,11 +1476,11 @@
 
 ### Packages / Streams
 
-*   [readable-stream (⭐989)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
+*   [readable-stream (⭐996)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 
 ### Packages / Real-time
 
-*   [SocketCluster (⭐6k)](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
+*   [SocketCluster (⭐6.1k)](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 
 ### Packages / Math
 
@@ -1495,7 +1492,7 @@
 
 ### Packages / Compression
 
-*   [Archiver (⭐2.5k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
+*   [Archiver (⭐2.6k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 
 ### Packages / Testing
 
@@ -1504,11 +1501,11 @@
 ### Packages / Minifiers
 
 *   [minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier.
-*   [imagemin (⭐5.3k)](https://github.com/imagemin/imagemin) - Image minifier.
+*   [imagemin (⭐5.4k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 
-*   [n (⭐17k)](https://github.com/tj/n) - Node.js version management.
+*   [n (⭐18k)](https://github.com/tj/n) - Node.js version management.
 
 ### Packages / Process management
 
@@ -1538,21 +1535,21 @@
 
 ### Packages / Mad science
 
-*   [turf (⭐7.8k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐8k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 
 ### Packages / Filesystem
 
-*   [find-up (⭐517)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
-*   [load-json-file (⭐227)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
+*   [find-up (⭐530)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+*   [load-json-file (⭐229)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
 *   [write-json-file (⭐207)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 
 ### Packages / Streams
 
-*   [get-stream (⭐300)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐302)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐296)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐304)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 
@@ -1564,7 +1561,7 @@
 
 ### Packages / Miscellaneous
 
-*   [node-pre-gyp (⭐1k)](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
+*   [node-pre-gyp (⭐1.1k)](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
 
 ## [Oct 16, 2015](/content/2015/10/16/README.md)
 
@@ -1582,11 +1579,11 @@
 
 ### Packages / Logging
 
-*   [console-log-level (⭐99)](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
+*   [console-log-level (⭐101)](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 
 ### Packages / Parsing
 
-*   [xml2js (⭐4.6k)](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
+*   [xml2js (⭐4.7k)](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 
 ## [Oct 03, 2015](/content/2015/10/03/README.md)
 
@@ -1604,7 +1601,7 @@
 
 ### Packages / URL
 
-*   [url-unshort (⭐103)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [url-unshort (⭐107)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 *   [embedza (⭐58)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [Sep 13, 2015](/content/2015/09/13/README.md)
@@ -1617,43 +1614,43 @@
 
 ### Packages / Image
 
-*   [probe-image-size (⭐855)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
+*   [probe-image-size (⭐885)](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 
 ### Packages / URL
 
-*   [normalize-url (⭐772)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+*   [normalize-url (⭐787)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 *   [speakingurl (⭐1.1k)](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-*   [linkify-it (⭐589)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
-*   [url-pattern (⭐564)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
+*   [linkify-it (⭐604)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+*   [url-pattern (⭐568)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 ## [Aug 23, 2015](/content/2015/08/23/README.md)
 
 ### Packages / Command-line apps
 
-*   [speed-test (⭐3.8k)](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
-*   [David (⭐958)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-*   [normit (⭐237)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
+*   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
+*   [David (⭐962)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
+*   [normit (⭐236)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 
 ### Packages / Command-line utilities
 
-*   [log-update (⭐984)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
-*   [ansi-escapes (⭐417)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
-*   [log-symbols (⭐703)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
-*   [figures (⭐551)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
-*   [string-width (⭐371)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
-*   [yn (⭐242)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-*   [cli-cursor (⭐88)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
+*   [log-update (⭐994)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
+*   [ansi-escapes (⭐431)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+*   [log-symbols (⭐709)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+*   [figures (⭐555)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+*   [string-width (⭐393)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+*   [yn (⭐246)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
+*   [cli-cursor (⭐91)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 
 ### Packages / Filesystem
 
-*   [filenamify (⭐431)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
-*   [fs-extra (⭐8.9k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
+*   [filenamify (⭐451)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
+*   [fs-extra (⭐9.1k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 
 ### Packages / Streams
 
-*   [into-stream (⭐195)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
-*   [byline (⭐321)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
-*   [first-chunk-stream (⭐26)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
+*   [into-stream (⭐196)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
+*   [byline (⭐322)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
+*   [first-chunk-stream (⭐27)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 *   [pad-stream (⭐10)](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 
 ### Packages / Text
@@ -1664,8 +1661,8 @@
 ### Packages / Number
 
 *   [random-int (⭐84)](https://github.com/sindresorhus/random-int) - Generate a random integer.
-*   [random-float (⭐31)](https://github.com/sindresorhus/random-float) - Generate a random float.
-*   [unique-random (⭐110)](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
+*   [random-float (⭐32)](https://github.com/sindresorhus/random-float) - Generate a random float.
+*   [unique-random (⭐111)](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
 *   [round-to (⭐149)](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
 
 ### Packages / Math
@@ -1679,15 +1676,15 @@
 ### Packages / Parsing
 
 *   [parse5 (⭐3.3k)](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
-*   [strip-json-comments (⭐566)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
+*   [strip-json-comments (⭐571)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 *   [strip-css-comments (⭐117)](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
-*   [neat-csv (⭐290)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
-*   [binary-extract (⭐150)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
-*   [js-yaml (⭐5.8k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+*   [neat-csv (⭐295)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
+*   [binary-extract (⭐152)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
+*   [js-yaml (⭐5.9k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 
 ### Packages / Compression
 
-*   [pako (⭐4.7k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
+*   [pako (⭐4.9k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 
 ### Packages / Testing
 
@@ -1699,17 +1696,17 @@
 
 ### Packages / Miscellaneous
 
-*   [hasha (⭐930)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
-*   [dot-prop (⭐709)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+*   [hasha (⭐931)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
+*   [dot-prop (⭐738)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 *   [onetime (⭐148)](https://github.com/sindresorhus/onetime) - Only run a function once.
-*   [os-locale (⭐218)](https://github.com/sindresorhus/os-locale) - Get the system locale.
-*   [file-type (⭐3k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
+*   [os-locale (⭐221)](https://github.com/sindresorhus/os-locale) - Get the system locale.
+*   [file-type (⭐3.1k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 
 ## [Jul 24, 2015](/content/2015/07/24/README.md)
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐730)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐741)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [Jul 12, 2015](/content/2015/07/12/README.md)
 
@@ -1721,59 +1718,59 @@
 
 ### Packages / Hardware
 
-*   [i2c-bus (⭐322)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
+*   [i2c-bus (⭐327)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 
 ## [May 19, 2015](/content/2015/05/19/README.md)
 
 ### Packages / Templating
 
-*   [EJS (⭐7k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.1k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 
-*   [Stylecow (⭐157)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+*   [Stylecow (⭐159)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
 ## [May 11, 2015](/content/2015/05/11/README.md)
 
 ### Packages / Weird
 
-*   [superheroes (⭐229)](https://github.com/sindresorhus/superheroes) - Get superhero names.
-*   [supervillains (⭐115)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
+*   [superheroes (⭐230)](https://github.com/sindresorhus/superheroes) - Get superhero names.
+*   [supervillains (⭐116)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 
 ## [Apr 26, 2015](/content/2015/04/26/README.md)
 
 ### Packages / Data validation
 
-*   [is-my-json-valid (⭐951)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
+*   [is-my-json-valid (⭐956)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
 ## [Apr 22, 2015](/content/2015/04/22/README.md)
 
 ### Packages / Mad science
 
-*   [webcat (⭐430)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐435)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐945)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐955)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐613)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐623)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐709)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
-*   [generator-nm (⭐736)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
+*   [node-module-boilerplate (⭐713)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [generator-nm (⭐737)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [Mar 30, 2015](/content/2015/03/30/README.md)
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐99)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐102)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐313)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐315)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [Mar 15, 2015](/content/2015/03/15/README.md)
 
@@ -1785,28 +1782,28 @@
 
 ### Packages / Command-line utilities
 
-*   [cfonts (⭐1.3k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
+*   [cfonts (⭐1.4k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 
 ## [Jan 14, 2015](/content/2015/01/14/README.md)
 
 ### Packages / Weird
 
 *   [cat-names (⭐262)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
-*   [dog-names (⭐124)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
+*   [dog-names (⭐125)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
 ## [Jan 02, 2015](/content/2015/01/02/README.md)
 
 ### Packages / Humanize
 
-*   [read-art (⭐335)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
+*   [read-art (⭐337)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
 
 ## [Dec 17, 2014](/content/2014/12/17/README.md)
 
 ### Packages / Command-line apps
 
-*   [empty-trash (⭐127)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+*   [empty-trash (⭐128)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 *   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐971)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [public-ip (⭐975)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
@@ -1828,13 +1825,13 @@
 
 ### Packages / Command-line apps
 
-*   [browser-run (⭐423)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+*   [browser-run (⭐427)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 
 ## [Nov 11, 2014](/content/2014/11/11/README.md)
 
 ### Packages / Image
 
-*   [lwip (⭐2.3k)](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
+*   [lwip (⭐2.4k)](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 
 ### Resources / Tutorials
 
@@ -1850,14 +1847,14 @@
 
 ### Packages / Command-line apps
 
-*   [pjs (⭐412)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+*   [pjs (⭐414)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 *   [license-checker (⭐1.5k)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 ## [Oct 18, 2014](/content/2014/10/18/README.md)
 
 ### Packages / Node.js management
 
-*   [nvm for Windows (⭐27k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+*   [nvm for Windows (⭐28k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
 ## [Oct 14, 2014](/content/2014/10/14/README.md)
 
@@ -1875,13 +1872,13 @@
 
 ### Packages / Natural language processing
 
-*   [franc (⭐3.8k)](https://github.com/wooorm/franc) - Detect the language of text.
+*   [franc (⭐3.9k)](https://github.com/wooorm/franc) - Detect the language of text.
 
 ## [Oct 05, 2014](/content/2014/10/05/README.md)
 
 ### Packages / Mad science
 
-*   [peercast (⭐505)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
+*   [peercast (⭐508)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 
 ## [Sep 19, 2014](/content/2014/09/19/README.md)
 
@@ -1909,7 +1906,7 @@
 
 ### Packages / Mad science
 
-*   [peerwiki (⭐308)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐309)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
@@ -1932,7 +1929,7 @@
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐384)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [is-up (⭐386)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 
 ## [Aug 19, 2014](/content/2014/08/19/README.md)
 
@@ -1942,7 +1939,7 @@
 
 ### Packages / Network
 
-*   [ipify (⭐242)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐247)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ## [Aug 17, 2014](/content/2014/08/17/README.md)
 
@@ -1954,32 +1951,32 @@
 
 ### Packages / Process management
 
-*   [node-linux (⭐409)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
+*   [node-linux (⭐411)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 
 ## [Aug 09, 2014](/content/2014/08/09/README.md)
 
 ### Packages / Streams
 
-*   [peek-stream (⭐49)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
+*   [peek-stream (⭐56)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 
 ### Packages / Natural language processing
 
-*   [leven (⭐671)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐677)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
-*   [node-mac (⭐516)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
+*   [node-mac (⭐520)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
 
 ### Packages / Miscellaneous
 
-*   [strip-bom (⭐102)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+*   [strip-bom (⭐105)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 
 ## [Aug 07, 2014](/content/2014/08/07/README.md)
 
 ### Packages / Streams
 
-*   [duplexify (⭐184)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-*   [pumpify (⭐239)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+*   [duplexify (⭐185)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
+*   [pumpify (⭐240)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 
 ## [Jul 30, 2014](/content/2014/07/30/README.md)
 
@@ -1995,13 +1992,13 @@
 
 ### Packages / Compression
 
-*   [tar-stream (⭐362)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐334)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐372)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐338)](https://github.com/mafintosh/tar-fs).
 
 ## [Jul 25, 2014](/content/2014/07/25/README.md)
 
 ### Packages / Text
 
-*   [detect-indent (⭐181)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐186)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ## [Jul 23, 2014](/content/2014/07/23/README.md)
 
@@ -2023,7 +2020,7 @@
 
 ### Packages / Command-line utilities
 
-*   [drawille (⭐982)](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
+*   [drawille (⭐987)](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 
 ## [Jul 13, 2014](/content/2014/07/13/README.md)
 
@@ -2035,13 +2032,13 @@
 
 ### Packages / Image
 
-*   [image-type (⭐333)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+*   [image-type (⭐335)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
 *   [gm (⭐6.8k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐2.9k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐537)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [escape-string-regexp (⭐546)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 *   [indent-string (⭐108)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 *   [strip-indent (⭐129)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
@@ -2055,18 +2052,18 @@
 
 ### Packages / Network
 
-*   [get-port (⭐782)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐788)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Weird
 
-*   [superb (⭐391)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐393)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ## [Jul 11, 2014](/content/2014/07/11/README.md)
 
 ### Packages / Filesystem
 
-*   [cpy (⭐385)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐401)](https://github.com/sindresorhus/cpy) - Copy files.
 *   [del (⭐1.3k)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
 *   [globby (⭐2.3k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 
@@ -2076,8 +2073,8 @@
 
 ### Packages / Humanize
 
-*   [pretty-bytes (⭐981)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐908)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-bytes (⭐994)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
+*   [pretty-ms (⭐917)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 
 ### Packages / Node.js management
 

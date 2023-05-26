@@ -10,7 +10,7 @@
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐137)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐144)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [2. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -48,7 +48,7 @@
 ### Web / Playground
 
 *   :octocat: [excaliburjs/Excalibur (⭐1.3k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐361)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [Bobril (⭐360)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -77,14 +77,14 @@
 
 ### Science and Data Analysis
 
-*   [sparklling (⭐431)](https://github.com/gorillalabs/sparkling)
-*   [flambo (⭐606)](https://github.com/yieldbot/flambo)
+*   [sparklling (⭐436)](https://github.com/gorillalabs/sparkling)
+*   [flambo (⭐609)](https://github.com/yieldbot/flambo)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### UI Automation
 
-*   [Atata (⭐452)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐463)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Related lists
 
-*   [awesome (⭐240k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐243k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐1.8k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [gamedev (⭐11k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.

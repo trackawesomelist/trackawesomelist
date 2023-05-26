@@ -80,7 +80,7 @@
 
 ### Command Line / XML
 
-*   [tilix (⭐5k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
+*   [tilix (⭐5.1k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
 
 ---
 

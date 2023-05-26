@@ -41,7 +41,7 @@
 
 ### Contents / Testing Utils
 
-*   [Preact Render Spy (⭐178)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
+*   [Preact Render Spy (⭐179)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Firebase
 
-- Name: [Fun Retro (⭐914)](https://github.com/funretro/distributed)
+- Name: [Fun Retro (⭐911)](https://github.com/funretro/distributed)
 
   Description: Fun Retro is a distributed retrospective app that is easy and simple to use.
 

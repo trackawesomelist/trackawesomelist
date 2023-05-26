@@ -16,7 +16,7 @@
 
 ### Static Page Generation
 
-*   [obelisk (⭐385)](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
+*   [obelisk (⭐388)](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 
 ---
 

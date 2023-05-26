@@ -26,7 +26,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐53k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐56k)](https://github.com/vitejs/vite)
 
 ## [4. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
@@ -59,25 +59,25 @@
 
 ### Tools / Vendor supported providers
 
-*   [hcledit (⭐280)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐309)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [Piggyvault (⭐372)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Piggyvault (⭐400)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐834)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐885)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
-*   [TuneIN (⭐142)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
+*   [TuneIN (⭐146)](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐622)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐636)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [8. Tools](/content/lvwzhen/tools/README.md)
 

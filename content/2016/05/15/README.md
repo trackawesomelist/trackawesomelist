@@ -1,6 +1,6 @@
 # Awesome List Updates on May 15, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -85,7 +85,7 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [immutable-ext (⭐488)](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js (⭐32k)](https://github.com/facebook/immutable-js).
+*   [immutable-ext (⭐488)](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js (⭐33k)](https://github.com/facebook/immutable-js).
 
 ### Resources / Articles
 
@@ -98,13 +98,7 @@
 
 *   [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Prof. Ali Ghodsi at University of Waterloo (2015)
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Java / Bootstrap
-
-*   [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-
-## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Blog posts
 

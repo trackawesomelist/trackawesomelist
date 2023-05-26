@@ -15,7 +15,7 @@
     *   [fabric (⭐14k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
     *   [fabtools (⭐1.3k)](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files.
 *   Monitoring
-    *   [psutil (⭐9k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
+    *   [psutil (⭐9.2k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 *   Backup
     *   [BorgBackup](https://www.borgbackup.org/) - A deduplicating archiver with compression and encryption.
 *   Others
@@ -31,7 +31,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-docker-heroku-template (⭐30)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
+*   [django-docker-heroku-template (⭐31)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 
 ## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Reference Projects
 
-*   [bounded-disturbances (⭐41)](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
+*   [bounded-disturbances (⭐44)](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
 
 ## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Tools
 
-*   [louketo-proxy (FKA Gatekeeper) (⭐943)](https://github.com/louketo/louketo-proxy)
+*   [louketo-proxy (FKA Gatekeeper) (⭐947)](https://github.com/louketo/louketo-proxy)
 
 ## [8. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐712)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐744)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

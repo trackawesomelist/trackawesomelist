@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-webpack-buefy (⭐26)](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
+*   [vue-webpack-buefy (⭐25)](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 
 ## [3. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -28,27 +28,27 @@
 
 ### Probability and Statistics / Stochastic processes
 
-*   [Lectures on Stochastic Processes](http://www.math.tifr.res.in/\~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
-*   [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/\~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
-*   [Stochastic Processes](http://statweb.stanford.edu/\~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
+*   [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
+*   [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
+*   [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 *   [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 *   [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
-*   [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/\~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
-*   [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/\~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
+*   [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
+*   [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 *   [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
 
 ### Signal processing / Stochastic processes
 
-*   [Introduction to Signal Processing](http://www.ece.rutgers.edu/\~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (Rutgers University)
+*   [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (Rutgers University)
 *   [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) - Martin Vetterli, Jelena Kovacevic, Vivek K Goyal
-*   [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/\~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
+*   [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
 *   [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (University of Oslo)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
-*   [cacheable-request (⭐265)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+*   [cacheable-request (⭐269)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 ## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -76,20 +76,20 @@
 
 ### Game Engine
 
-*   [KlayGE (⭐1.8k)](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
+*   [KlayGE (⭐1.9k)](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
 
 ### Networking
 
 *   [HTTP Parser (⭐6.2k)](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. \[MIT]
 *   [libquic (⭐1.7k)](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. \[BSD]
-*   [libwebsockets (⭐3.8k)](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
+*   [libwebsockets (⭐3.9k)](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
 
 ### Regular Expression
 
-*   [CppVerbalExpressions (⭐364)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
+*   [CppVerbalExpressions (⭐368)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
-*   [RE2 (⭐7.6k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-*   [SLRE (⭐506)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
+*   [RE2 (⭐7.8k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
+*   [SLRE (⭐507)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -107,7 +107,7 @@
 
 ### React Native
 
-- Name: [Standard Notes (⭐848)](https://github.com/standardnotes/mobile)
+- Name: [Standard Notes (⭐836)](https://github.com/standardnotes/mobile)
 
   Description: A simple and private notes app
 

@@ -14,7 +14,7 @@
 
 ### Utilities / Productivity
 
-*   [Pomodoro Cycle (⭐65)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+*   [Pomodoro Cycle (⭐69)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
@@ -26,15 +26,15 @@
 
 ### Form Components / Drag and Drop
 
-*   [react-drag-sizing (⭐14)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+*   [react-drag-sizing (⭐15)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 
 ### Form Components / Rich Text Editor
 
-*   [react-editor (⭐54)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
+*   [react-editor (⭐55)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-threejs (⭐76)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
+*   [react-threejs (⭐77)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [cfncluster :fire::fire::fire: (⭐743)](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
+*   [cfncluster :fire::fire::fire: (⭐761)](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
 ## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -155,18 +155,18 @@
 
 ### Security
 
-*   [BreachDetector ★11 (⭐76)](https://github.com/nmilcoff/BreachDetector) - Detect root, emulation, debug mode and other security concerns in your Xamarin apps.
-*   [Permissions ★255 (⭐283)](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
+*   [BreachDetector ★11 (⭐79)](https://github.com/nmilcoff/BreachDetector) - Detect root, emulation, debug mode and other security concerns in your Xamarin apps.
+*   [Permissions ★255 (⭐285)](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
 
 ### Xamarin.Forms
 
-*   [Circle Image Control (⭐245)](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
+*   [Circle Image Control (⭐244)](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
 
 ## [15. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐328)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐339)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -184,7 +184,7 @@
 
 ### Inter-process communication
 
-*   [eCAL (⭐4)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
+*   [eCAL (⭐6)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
 
 ## [19. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -210,34 +210,40 @@
 
 ### E-Books / Others
 
-*   [Blazor, A Beginners Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - March 18, 2020 - A free e-book for getting started with the Blazor framework. [Examples source code (⭐23)](https://github.com/EdCharbeneau/BlazorBookExamples).
+*   [Blazor, A Beginners Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - March 18, 2020 - A free e-book for getting started with the Blazor framework. [Examples source code (⭐24)](https://github.com/EdCharbeneau/BlazorBookExamples).
 
-## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [22. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Trading & Backtesting
+
+*   [freqtrade (⭐22k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+
+## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### 🇵🇰 Pakistan / Misc
 
 *   [Facebook Group](https://www.facebook.com/groups/FlutterPK/)
 
-## [23. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### I18n
 
 *   [Cake/Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
 
-## [24. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [25. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [VAST (⭐432)](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
+*   [VAST (⭐463)](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
 *   [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
 
-## [25. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [26. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
-### Code Libraries / Video Lectures and Online Courses
+### Code Libraries
 
-*   [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code (⭐154)](https://github.com/kormilitzin/med7) - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
+*   [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code (⭐168)](https://github.com/kormilitzin/med7) - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
 
-## [26. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [27. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Stalled Development
 
@@ -253,30 +259,24 @@
     [Repo (⭐2.9k)](https://github.com/Chalarangelo/mini.css)
     \| #SCSS
 
-## [27. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [28. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
-*   [k6 generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [k6 generator (⭐16k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 
-## [28. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [29. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Toolchains
 
 *   [Arduino-CMake-Toolchain (⭐106)](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all official and 3rd party Arduino platforms. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [29. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [30. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [pinentry-wsl-ps1 (⭐80)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [pinentry-wsl-ps1 (⭐83)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [WslShortcut](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL `git`/`node`/etc. in **Visual Studio Code** or another software. Combines functionality of utilities like [`wslgit`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/andy-5/wslgit), [`wslnodejs`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/snooopcatt/wslnodejs), [`wslexec`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/int128/wslexec) etc. with simpler usage. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-
-## [30. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
-
-### Contents / Example Apps
-
-*   [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) *([GitHub Project (⭐6)](https://github.com/safdarjamal/vanilla-preact/))*.
 
 ## [31. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
@@ -354,7 +354,17 @@
 
 *   [scala-native-loop (⭐46)](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
 
-## [35. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [35. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Core Data
+
+*   [CloudCore (⭐133)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+
+### Security
+
+*   [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
+
+## [36. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Videos / Italian Cuisine
 
@@ -365,13 +375,13 @@
 *   [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) - Asian cooking, relaxing and beautiful
 *   [Asian at Home](https://www.youtube.com/user/SeonkyoungLongest) - She talks too much but the food looks great
 
-## [36. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [37. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
 *   [Spoke (⭐186)](https://github.com/Elizabeth-Warren/Spoke) - Text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.
 
-## [37. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [38. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Other / Other Resources
 
@@ -379,7 +389,7 @@
     of various information focused on malware persistence: detection (techniques),
     response, pitfalls and the log collection (tools).
 
-## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -410,13 +420,13 @@
 
 *   [Marten (⭐1.9k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
 
-## [39. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [40. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Behavior and Decision / Vector Map
 
 *   [FlexBE](https://flexbe.github.io/) - Graphical editor for hierarchical state machines, based on ROS's smach.
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
@@ -424,15 +434,15 @@
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐313)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐316)](https://github.com/aunum/gold) - A reinforcement learning library.
 
-## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [42. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Groovy / More
 
 *   [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
 
-## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [43. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
@@ -440,27 +450,21 @@
 
 ### Self-Hosted Services / Misc
 
-*   [SimpleLogin (⭐3.4k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
-
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Bootstrap
-
-*   [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book) - Kevin Sahin (PDF, HTML)
+*   [SimpleLogin (⭐3.5k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## [44. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Frameworks
 
-*   [HAL – The Hardware Analyzer (⭐407)](https://github.com/emsec/hal) - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
+*   [HAL – The Hardware Analyzer (⭐455)](https://github.com/emsec/hal) - A comprehensive reverse engineering and manipulation framework for gate-level netlists.
 *   [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz) - Framework for automatisation of IoT layers security analysis: hardware, software and communication.
-*   [Killerbee (⭐657)](https://github.com/riverloopsec/killerbee) - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
-*   [PRET (⭐3.2k)](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit.
+*   [Killerbee (⭐681)](https://github.com/riverloopsec/killerbee) - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
+*   [PRET (⭐3.5k)](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit.
 *   [Routersploit (⭐11k)](https://github.com/threat9/routersploit) - Framework dedicated to exploit embedded devices.
 
 ### Software Tools / Analysis Tools
 
-*   [Firmwalker (⭐781)](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
+*   [Firmwalker (⭐890)](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
 
 ### Books / RFID NFC Tools
 
@@ -480,8 +484,8 @@
 
 *   [CSAW Embedded Security Challenge 2019 (⭐31)](https://github.com/TrustworthyComputing/csaw_esc_2019) - CSAW 2019 Embedded Security Challenge (ESC).
 *   [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
-*   [Rhme-2016 (⭐254)](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
-*   [Rhme-2017/2018 (⭐77)](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
+*   [Rhme-2016 (⭐272)](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
+*   [Rhme-2017/2018 (⭐80)](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
 
 ### Websites / RFID NFC Tools
 
@@ -496,33 +500,25 @@
 *   [jcjc's Hack The World](https://jcjc-dev.com/)
 *   [Quarkslab](https://blog.quarkslab.com/)
 
-## [45. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [45. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 
-### Debugging
+### C / 理論計算機科学
 
-*   [Playbook (⭐993)](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
-
-### Core Data
-
-*   [CloudCore (⭐129)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
-
-### Security
-
-*   [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
+*   [苦しんで覚えるＣ言語](https://9cguide.appspot.com) - MMGames/森口将憲
 
 ## [46. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Themes
 
-*   [Carbon Design (⭐20)](https://github.com/httpsOmkar/carbon-keycloak-theme)
+*   [Carbon Design (⭐21)](https://github.com/httpsOmkar/carbon-keycloak-theme)
 
 ### Kubernetes
 
-*   [keycloak-operator (⭐432)](https://github.com/keycloak/keycloak-operator)
+*   [keycloak-operator (⭐431)](https://github.com/keycloak/keycloak-operator)
 
 ### Tools
 
-*   [keycloakmigration: Manage your Keycloak configuration with code (⭐92)](https://github.com/klg71/keycloakmigration)
+*   [keycloakmigration: Manage your Keycloak configuration with code (⭐95)](https://github.com/klg71/keycloakmigration)
 
 ## [47. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -532,7 +528,7 @@
 
 ### Algorithms, Containers and Protocols / MIT
 
-*   [ada-language-server (⭐183)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐184)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 *   [ada-lsp (⭐11)](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
 *   [ada-lsp-client (⭐1)](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 
@@ -580,7 +576,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Stretto (⭐581)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
+*   [Stretto (⭐585)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
 ## [51. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -596,8 +592,8 @@
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐9.5k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
-*   [orhun/kmon (⭐1.7k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
+*   [ajeetdsouza/zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [orhun/kmon (⭐1.8k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
 
 ## [53. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -607,29 +603,33 @@
 
 ## [54. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
+### Utility / Barcode
+
+*   [Playbook (⭐998)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
+
 ### Concurrency
 
-*   [SwiftCoroutine (⭐812)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
+*   [SwiftCoroutine (⭐819)](https://github.com/belozierov/SwiftCoroutine) :penguin: - Coroutines for iOS, macOS and Linux.
 
 ### Core Data
 
-*   [CloudCore (⭐126)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
+*   [CloudCore (⭐135)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
 ## [55. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Game Remakes (⭐368)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+*   [Game Remakes (⭐405)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 
 ### Databases
 
-*   [Database Tools (⭐2.8k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐2.9k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
 ## [56. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
-*   [semantic-git-commit-cli (⭐133)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
+*   [semantic-git-commit-cli (⭐139)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 
 ## [57. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -646,13 +646,13 @@
 ### Finite Elements
 
 *   [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
-    (C, 2-clause BSD, [GitHub (⭐133)](https://github.com/CEED/libCEED))
+    (C, 2-clause BSD, [GitHub (⭐145)](https://github.com/CEED/libCEED))
 
 ## [59. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
-*   [Keimeno (⭐14)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
+*   [Keimeno (⭐15)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 
 ### Data Generators
 
@@ -660,7 +660,7 @@
 
 ### Machine Learning
 
-*   [mxnet.cr (⭐20)](https://github.com/toddsundsted/mxnet.cr) - Bindings for [MXNet](https://mxnet.incubator.apache.org/)
+*   [mxnet.cr (⭐22)](https://github.com/toddsundsted/mxnet.cr) - Bindings for [MXNet](https://mxnet.incubator.apache.org/)
 
 ### Misc
 
@@ -668,14 +668,14 @@
 
 ### Science and Data analysis
 
-*   [ishi (⭐42)](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API and sensible defaults powered by gnuplot
+*   [ishi (⭐46)](https://github.com/toddsundsted/ishi) - Graph plotting package with a small API and sensible defaults powered by gnuplot
 
 ### Third-party APIs
 
-*   [google (⭐19)](https://github.com/PlaceOS/google) - Google API wrapper
-*   [host\_meta (⭐2)](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (<https://tools.ietf.org/html/rfc6415>) client
+*   [google (⭐20)](https://github.com/PlaceOS/google) - Google API wrapper
+*   [host\_meta (⭐3)](https://github.com/toddsundsted/host_meta) - A Web Host Metadata (<https://tools.ietf.org/html/rfc6415>) client
 *   [office365 (⭐9)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
-*   [web\_finger (⭐8)](https://github.com/toddsundsted/web_finger) - A WebFinger (<https://tools.ietf.org/html/rfc7033>) client
+*   [web\_finger (⭐9)](https://github.com/toddsundsted/web_finger) - A WebFinger (<https://tools.ietf.org/html/rfc7033>) client
 
 ### Official Documentation Translations
 

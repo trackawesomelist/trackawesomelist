@@ -53,7 +53,7 @@
 
 ### Math
 
-*   [CNL (⭐564)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐577)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

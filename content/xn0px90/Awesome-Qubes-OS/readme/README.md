@@ -59,7 +59,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     *   [System Information & Requirements](#system-information--requirements)
     *   [Downloading, Installing, Upgrading, and Building](#downloading-installing-upgrading-and-building)
     *   [How-to guides](#how-to-guides)
-        *   [journoSEC](#journosec)
     *   [Templates](#templates)
     *   [VM-Hardening](#vm-hardening)
     *   [Desktop Customization](#desktop-customization)

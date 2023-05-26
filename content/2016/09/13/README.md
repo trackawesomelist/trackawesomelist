@@ -22,7 +22,7 @@
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐385)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐388)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
@@ -30,7 +30,7 @@
 
 ### Macros
 
-*   [pipe\_to (⭐83)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
+*   [pipe\_to (⭐84)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
 
 ### Queue
 
@@ -38,7 +38,7 @@
 
 ### Testing
 
-*   [faker\_elixir (⭐149)](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
+*   [faker\_elixir (⭐150)](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
 
 ## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

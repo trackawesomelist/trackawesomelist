@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,7 +35,7 @@
 
 ### Software / File Transfer & Synchronization
 
-*   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐10k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
+*   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐11k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
 
 ### Software / Miscellaneous
 
@@ -43,13 +43,13 @@
 
 ### Software / Ticketing
 
-*   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Demo](https://demo.erxes.io/), [Source Code (⭐2.7k)](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`
+*   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Demo](https://demo.erxes.io/), [Source Code (⭐2.8k)](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [react-advanced-news-ticker (⭐33)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+*   [react-advanced-news-ticker (⭐36)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 
 ## [6. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Scroll / Other
 
-*   [rellax (⭐6.7k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
+*   [rellax (⭐6.8k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
 
 ## [8. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Web
 
-*   🔌 [SvelteFire (⭐582)](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
+*   🔌 [SvelteFire (⭐932)](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -143,27 +143,17 @@
 
 *   [Cryptocurrency Icons (⭐2.3k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Pocket Guide to Writing SVG](https://svgpocketguide.com) - Joni Trythall
-
-### Ruby / Tornado
-
-*   [The Ruby Reference](https://rubyreferences.github.io/rubyref/) - Victor Shepelev
-
-## [14. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
+## [13. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 
 ### (Non-spatial) Transcriptomics
 
 *   [TISCH](http://tisch.comp-genomics.org/home/) - Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment.
 
-## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   💙📚 [Headless UI (⭐19k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
+*   💙📚 [Headless UI (⭐21k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 
 ---
 

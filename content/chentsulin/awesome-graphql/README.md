@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [May 01, 2023](/content/2023/05/01/README.md)
+
+### Tools - Testing / React
+
+*   [graphql-to-karate (⭐9)](https://github.com/wbaldoumas/graphql-to-karate) - Generate Karate API tests from your GraphQL schemas
+
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
 ### Tools - Miscellaneous / React
@@ -157,8 +163,8 @@ Awesome list of GraphQL
 
 ### .NET / React
 
-*   [EntityGraphQL (⭐321)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
-*   [ZeroQL (⭐158)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
+*   [EntityGraphQL (⭐323)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
+*   [ZeroQL (⭐164)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
 
 ## [Aug 08, 2022](/content/2022/08/08/README.md)
 
@@ -284,7 +290,7 @@ Awesome list of GraphQL
 
 ### Tools - Miscellaneous / React
 
-*   [amplication (⭐9.6k)](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
+*   [amplication (⭐9.7k)](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
 
 ## [Feb 15, 2022](/content/2022/02/15/README.md)
 
@@ -431,7 +437,7 @@ Awesome list of GraphQL
 *   [hapi-plugin-graphiql (⭐21)](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
 *   [graphql-api-koa (⭐50)](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.
 *   [koa-graphql (⭐839)](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
-*   [gql (⭐173)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
+*   [gql (⭐175)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
 *   [mercurius (⭐2.1k)](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify.
 *   [graphql-yoga (⭐7.5k)](https://github.com/prisma-labs/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.
 *   [graphitejs (⭐120)](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
@@ -504,7 +510,7 @@ Awesome list of GraphQL
 *   [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 *   [F8 App 2017 (⭐14k)](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
 *   [Apollo React example for Github GraphQL API (⭐116)](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app.
-*   [Next.js TypeScript and GraphQL Example (⭐104k)](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) under the hood
+*   [Next.js TypeScript and GraphQL Example (⭐105k)](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) under the hood
 *   [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) – A live, editable demo spinning up in about 2 seconds and running in a browser.
 *   [NAPERG (⭐741)](https://github.com/alan345/naperg) - Fullstack Boilerplate GraphQL. Made with React & Prisma + authentication & roles.
 *   [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
@@ -611,12 +617,12 @@ Awesome list of GraphQL
 
 *   [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
 *   [agoo-c (⭐138)](https://github.com/ohler55/agoo-c) - A high performance GraphQL server written in C. [benchmarks (⭐54)](https://github.com/the-benchmarker/graphql-benchmarks)
-*   [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
+*   [cppgraphqlgen (⭐289)](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
 *   [CaffQL (⭐26)](https://github.com/caffeinetv/CaffQL) - Generates C++ client types and request/response serialization from a GraphQL introspection query.
 
 ### Go / React
 
-*   [graphql (⭐9.1k)](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
+*   [graphql (⭐9.2k)](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
 *   [graphql-go (⭐4.5k)](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use.
 *   [gqlgen (⭐8.8k)](https://github.com/99designs/gqlgen) - Go generate based graphql server library.
 *   [graphql-relay-go (⭐408)](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
@@ -704,7 +710,7 @@ Awesome list of GraphQL
 
 ### iOS / React
 
-*   [apollo-ios (⭐3.6k)](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift.
+*   [apollo-ios (⭐3.7k)](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift.
 *   [ApolloDeveloperKit (⭐61)](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client Devtools bridge for \[Apollo iOS].
 *   [Graphaello (⭐481)](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI.
 
@@ -801,7 +807,7 @@ Awesome list of GraphQL
 *   [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
 *   [FaunaDB](https://fauna.com) - Relational NoSQL database with [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) Supports joins, indexes, and multi-region ACID transactions with serverless pay-per-use pricing.
 *   [ArangoDB](https://arangodb.com/) - Native multi-model database with [GraphQL integration](https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html) via the built-in [Foxx Microservices Framework](https://www.arangodb.com/docs/stable/foxx.html).
-*   [Weaviate (⭐4.8k)](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a [GraphQL interface](https://weaviate.io/developers/weaviate/api/graphql) built to scale your machine learning models.
+*   [Weaviate (⭐5.4k)](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a [GraphQL interface](https://weaviate.io/developers/weaviate/api/graphql) built to scale your machine learning models.
 
 ### Services / React
 
@@ -811,7 +817,7 @@ Awesome list of GraphQL
 *   [Booster framework](https://booster.cloud/) - An open-source framework that makes you *completely* forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
 *   [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
 *   [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
-*   [Saleor (⭐4)](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
+*   [Saleor (⭐10)](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 
 ### CDN / React
 

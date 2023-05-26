@@ -87,10 +87,6 @@ Learn how to use R to turn raw data into insight, knowledge, and understanding. 
 
 ## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
-### Companies with "remote DNA"
-
-*   [Countly](https://count.ly/full-stack-node-js-developer) - Open source, enterprise mobile / web analytics and marketing platform.
-
 ### Tools / Communication
 
 *   [Rocket.Chat](https://rocket.chat/) — The Ultimate Open Source WebChat Platform.
@@ -170,7 +166,7 @@ Notes:
 
 ### Misc
 
-*   [SystemWrapper (⭐164)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
+*   [SystemWrapper (⭐168)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 
 ## [18. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
@@ -202,7 +198,7 @@ Notes:
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [OSX Security Awesome (⭐631)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
+*   [OSX Security Awesome (⭐666)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 
 ### Usability / Development
 

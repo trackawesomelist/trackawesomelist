@@ -133,11 +133,11 @@
 
 ### Utilities
 
-*   [Gifs (⭐1.6k)](https://github.com/jglovier/gifs) - storage place for GIFs
+*   [Gifs (⭐1.6k)](https://github.com/jglovier/gifs) - Storage place for GIFs.
 
 ### Libraries / C++
 
-*   [AnimatedGif (⭐119)](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs
+*   [AnimatedGif (⭐121)](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs.
 
 ## [6. Awesome](/content/craftcms/awesome/README.md)
 

@@ -335,13 +335,13 @@
 
 ### Open Source / Other
 
-*   [Proton (⭐155)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐156)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### SEO
 
-*   [prerender\_rails (⭐354)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐357)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -383,9 +383,9 @@ git config --list
 
 ### GUI Libs / XML
 
-*   [DLangUI (⭐732)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐410)](https://github.com/buggins/dlangide).
-*   [DWT (⭐136)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-*   [dqml (⭐42)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+*   [DLangUI (⭐743)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐410)](https://github.com/buggins/dlangide).
+*   [DWT (⭐138)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
+*   [dqml (⭐41)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 
 ### Games / XML
 

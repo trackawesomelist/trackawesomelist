@@ -2,7 +2,7 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 362 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 392 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / Overview ]
 
@@ -210,6 +210,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Lecture Notes<a name=algorithms_lecture_notes></a>
 
+*   [Mary Wootters. Randomized Algorithms and Probabilistic Analysis. Stanford](https://web.stanford.edu/class/archive/cs/cs265/cs265.1232/) - Key tools of probabilistic analysis, and application of these tools to understand the behaviors of random processes and algorithms. Emphasis is on theoretical foundations, though applications will be discussed in machine learning and data analysis, networking, and systems. Topics include tail bounds, the probabilistic method, Markov chains, and martingales, with applications to analyzing random graphs, metric embeddings, and random walks.
+*   [Koutsoupias. Probability and Computing. Oxford](https://www.cs.ox.ac.uk/people/elias.koutsoupias/pc2018-19/) - Introduction to probabilistic methods in computer science.
+*   Harvey. [First](https://www.cs.ubc.ca/~nickhar/Book1.pdf) and [Second](https://www.cs.ubc.ca/~nickhar/Book2.pdf) Course in Randomized Algorithms. Columbia. - Respectively, undergrad and grad courses for probabilistic methods in algorithms.
+*   [Lee. Randomized Algorithms and Probabilistic Analysis. Washington.](https://homes.cs.washington.edu/~jrl/teaching/cse525sp19/) - Topics include Discrete probability, High-dimensional geometry and statistics, Information and entropy, and Markov chains and convergence to equilibrium.
 *   [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 *   [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 
@@ -464,6 +468,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Aggregator<a name=live_content_jobs_aggregator></a>
 
 *   [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
+*   [TCS Job Market](https://sites.google.com/view/tcsjobmarket/home) - Theoretical Computer Science (TCS) job candidates, including PhD students expecting to graduate by Sep 1, 2023, current postdocs, and current faculty.
 
 ### Lists<a name=live_content_jobs_lists></a>
 
@@ -525,8 +530,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Related Awesome Lists<a name=related_awesome_lists></a>
 
 *   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Mathematics (⭐6.9k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   [Cryptography (⭐4.4k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Mathematics (⭐7.1k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   [Cryptography (⭐4.5k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 *   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
-*   P.S. See also [Math (⭐2.2k)](https://github.com/ossu/math) and [CS (⭐136k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   P.S. See also [Math (⭐2.3k)](https://github.com/ossu/math) and [CS (⭐138k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 

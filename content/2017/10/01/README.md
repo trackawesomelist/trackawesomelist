@@ -50,7 +50,7 @@
 
 ### Go / Erlang
 
-*   [Iris (⭐23k)](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
+*   [Iris (⭐24k)](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
 
 ### Java VM / Scala
 
@@ -67,7 +67,7 @@
 
 ### Coordination & Governance / Scala
 
-*   [Fission Workflows (⭐351)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
+*   [Fission Workflows (⭐352)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

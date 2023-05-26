@@ -151,12 +151,6 @@ Topics: JavaScript, ES7, Observables, Reactive Programming, Falcor\
 Topics: Design Systems\
 <https://twitter.com/mybluewristband>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jongold" height="70px" width="70px" align="left" alt="" />
-
-**Jon Gold**\
-Topics: Design, Design Systems, React, Artificial Intelligence\
-<https://twitter.com/jongold>
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisaychuang" height="70px" width="70px" align="left" alt="" />
 
 **Lisa Huang**\
@@ -227,8 +221,8 @@ Topics: Reactive Programming, Angular, Ember.js\
 
 ### TypeScript Seed Projects / Components
 
-*   [Angular5 + Redux + Graphql + MySQL quickstart (⭐67)](https://github.com/rafaesc/fullstack-graphql-angular) - Simple Fullstack GraphQL Application with Angular CLI + Redux + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL).
-*   [Angular5 + Firebase + Structure (⭐55)](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + a very good router/module structure to make it your own so easy
+*   [Angular5 + Redux + Graphql + MySQL quickstart (⭐65)](https://github.com/rafaesc/fullstack-graphql-angular) - Simple Fullstack GraphQL Application with Angular CLI + Redux + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL).
+*   [Angular5 + Firebase + Structure (⭐54)](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + a very good router/module structure to make it your own so easy
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

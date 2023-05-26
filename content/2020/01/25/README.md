@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [Karate Club (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
+*   [Karate Club (⭐1.9k)](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Software / Python
 
-*   [karateclub (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
+*   [karateclub (⭐1.9k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -34,7 +34,7 @@
 
 ### User Interface toolkits
 
-*   [vgtk3 (⭐51)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
+*   [vgtk3 (⭐52)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -60,12 +60,6 @@
 ### Utilities / System Related Tools
 
 *   [Sensei](https://sensei.app/) - Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software.
-
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
-
-### Open Source Repos / CloudFormation
-
-*   [cfn-python-lint :fire::fire::fire::fire: (⭐2.1k)](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
 
 ---
 

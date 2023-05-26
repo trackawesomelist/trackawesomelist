@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,9 +16,9 @@
 
 ### Performance Testing / RPC Frameworks
 
-*   [JMeter gRPC Plugin (⭐41)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
-*   [JMeter gRPC Request (⭐140)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
-*   [JMeter Dubbo Plugin (⭐545)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
+*   [JMeter gRPC Plugin (⭐42)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
+*   [JMeter gRPC Request (⭐149)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
+*   [JMeter Dubbo Plugin (⭐551)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
 
 ### Tools / Plugins
 
@@ -30,20 +30,14 @@
 *   [`jmeter` on Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
 *   [`#jmeter` on Slack](https://jmeterusers.slack.com/)
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### CMS
-
-*   [GraphCMS](https://graphcms.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
-
-## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Websites / Godot version unknown
 
 *   [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 *   [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
-## [5. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [4. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -63,13 +57,13 @@
 
 
 
-## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [5. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) - Leverage the JAMstack with Python and Flask by creating a static site and deploying it to Netlify.
 
-## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
@@ -85,7 +79,7 @@
 *   [IBM Research](https://www.research.ibm.com/artificial-intelligence)
 *   [Microsoft Research](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Data
 
@@ -101,9 +95,9 @@
 
 
 
-## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
-### Contents / PaaS   *(PostgreSQL as a Service)*
+### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
 

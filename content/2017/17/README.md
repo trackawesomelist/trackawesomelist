@@ -40,7 +40,7 @@
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐744)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐780)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -116,13 +116,13 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐824)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
+*   [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat: (⭐937)](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
-*   [temBoard (⭐303)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐340)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ### Resources / Articles
 
@@ -174,7 +174,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐756)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐760)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -193,7 +193,7 @@
 
 ### Network & Storage Testing
 
-*   [Fio (⭐4k)](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [Fio (⭐4.1k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 
 ### Software-defined radio
@@ -211,11 +211,11 @@
 
 ### Tools / Libraries
 
-*   [Palettable (⭐662)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐685)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
-*   [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/\~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
+*   [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
 
 ### Articles / Web App
 
@@ -274,13 +274,13 @@
 
 ## [22. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
-### Heroku buildpacks / Gradient boosting
+### Heroku buildpacks / Vector search
 
 *   [GSL and Ruby buildpack (⭐3)](https://github.com/tomwolfe/heroku-buildpack-gsl-ruby)
 *   [OpenCV and Ruby buildpack (⭐3)](https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv)
 *   [ImageMagick buildpack (⭐46)](https://github.com/mcollina/heroku-buildpack-imagemagick)
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
 *   <a name="empty-lines-around-access-modifier"></a>
     [Graphviz](http://www.graphviz.org/)
@@ -353,30 +353,30 @@
 
 ### Emojis / Fonts
 
-*   [alfred-emoji-workflow (⭐640)](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
+*   [alfred-emoji-workflow (⭐639)](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
 *   [emoji-cheat-sheet.com (⭐6.4k)](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 *   [emoji-data-js (⭐63)](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
-*   [emoji-minesweeper (⭐799)](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
-*   [emoji-regex (⭐1.5k)](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
+*   [emoji-minesweeper (⭐823)](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
+*   [emoji-regex (⭐1.6k)](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
 *   [emoji-rspec (⭐172)](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
 *   [emoji-translate (⭐1.2k)](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji
 *   [emoji (⭐297)](https://github.com/leereilly/emoji) - All of the emoji supported on GitHub pull requests, issues, comments, commit messages, markdown files, etc
-*   [emoji (⭐2.1k)](https://github.com/muan/emoji) - Find the emoji that echoes your mind
-*   [emoji (⭐445)](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
+*   [emoji (⭐2.2k)](https://github.com/muan/emoji) - Find the emoji that echoes your mind
+*   [emoji (⭐444)](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
 *   [emojidex (⭐8)](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
 *   [emojify (⭐1.5k)](https://github.com/mrowa44/emojify) - Emoji on the command line
 *   [emojilib (⭐1.5k)](https://github.com/muan/emojilib) - Emoji keyword library
-*   [emojillate (⭐333)](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
+*   [emojillate (⭐334)](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
 *   [emojistatic (⭐98)](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
-*   [emojitracker (⭐748)](https://github.com/mroth/emojitracker) - Track ALL the emoji
-*   [gemoji (⭐4.1k)](https://github.com/github/gemoji) - Emoji images and names
+*   [emojitracker (⭐745)](https://github.com/mroth/emojitracker) - Track ALL the emoji
+*   [gemoji (⭐4.2k)](https://github.com/github/gemoji) - Emoji images and names
 *   [gh-emoji (⭐157)](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 *   [megamoji (⭐171)](https://github.com/muan/megamoji) - Making megamojis like a pro
 *   [mojibar (⭐2k)](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
 *   [mojime (⭐56)](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
 *   [php-emoji (⭐1.3k)](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
-*   [twemoji (⭐15k)](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
-*   [vim-emoji (⭐592)](https://github.com/junegunn/vim-emoji) - Emoji in Vim
+*   [twemoji (⭐16k)](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
+*   [vim-emoji (⭐598)](https://github.com/junegunn/vim-emoji) - Emoji in Vim
 
 ## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -430,11 +430,11 @@
 
 ### Authentication and OAuth
 
-*   [Monban (⭐378)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
+*   [Monban (⭐377)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 
 ### E-Commerce and Payments
 
-*   [Conekta (⭐30)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
+*   [Conekta (⭐31)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 
 ## [36. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -498,20 +498,20 @@
 ### Contents / Community
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-*   [Github (⭐33k)](https://github.com/developit/preact)
+*   [Github (⭐34k)](https://github.com/developit/preact)
 *   [Twitter](https://twitter.com/preactjs)
 
 ### Contents / Toolkits
 
-*   [nwb (⭐5.5k)](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
+*   [nwb (⭐5.6k)](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
 
 ### Contents / Components
 
-*   [Preact Material Components (⭐547)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
+*   [Preact Material Components (⭐545)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 
 ### Contents / Related Libraries
 
-*   [React (⭐196k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐207k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 ## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)

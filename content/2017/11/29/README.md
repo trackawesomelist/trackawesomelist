@@ -24,7 +24,7 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clack-errors (⭐26)](https://github.com/eudoxia0/clack-errors) - Error page middleware for Clack. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [clack-errors (⭐28)](https://github.com/eudoxia0/clack-errors) - Error page middleware for Clack. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -57,9 +57,9 @@
 
 ### RAD Studio IDE plugins/wizards
 
-*   [Delphi IDE Explorer (⭐25)](https://github.com/DGH2112/Delphi-IDE-Explorer). Wizard / expert / plugin that allows you to browser the internal fields, methods, properties and events of the IDE.
+*   [Delphi IDE Explorer (⭐30)](https://github.com/DGH2112/Delphi-IDE-Explorer). Wizard / expert / plugin that allows you to browser the internal fields, methods, properties and events of the IDE.
     // *Mainly useful for developers of IDE experts*
-*   [OTA Interface Search (⭐9)](https://github.com/DGH2112/OTA-Interface-Search). Application helps to find Open Tools API (OTA) interfaces, methods and properties and understand how to get to those interfaces or methods / properties of the interfaces.
+*   [OTA Interface Search (⭐11)](https://github.com/DGH2112/OTA-Interface-Search). Application helps to find Open Tools API (OTA) interfaces, methods and properties and understand how to get to those interfaces or methods / properties of the interfaces.
 *   [AutoSave (⭐4)](https://github.com/DGH2112/Auto-Save). Expert that periodically auto saves all the open modified IDE files.
 
 ### Other
@@ -71,25 +71,25 @@
 
 ### Probability and Statistics / Statistics
 
-*   [Theory of Statistics](http://mason.gmu.edu/\~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
+*   [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Applications
 
-*   [uai\_shot (⭐53)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
+*   [uai\_shot (⭐55)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 
 ### Macros
 
-*   [unsafe (⭐11)](https://github.com/whitfin/unsafe) - Generate easy unsafe (!) bindings for Elixir functions.
+*   [unsafe (⭐12)](https://github.com/whitfin/unsafe) - Generate easy unsafe (!) bindings for Elixir functions.
 
 ### Networking
 
-*   [tunnerl (⭐21)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
+*   [tunnerl (⭐23)](https://github.com/surik/tunnerl) - SOCKS4 and SOCKS5 proxy server.
 
 ### Queue
 
-*   [conduit (⭐123)](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
+*   [conduit (⭐125)](https://github.com/conduitframework/conduit) - A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns.
 
 ### Testing
 
@@ -103,19 +103,19 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [discord-logo (⭐56)](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
+*   [discord-logo (⭐59)](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
-*   [dynamodb-geo :fire::fire: (⭐270)](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
+*   [dynamodb-geo :fire::fire: (⭐272)](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mail
 
-*   [StrongGrid (⭐161)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+*   [StrongGrid (⭐163)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
 ---
 

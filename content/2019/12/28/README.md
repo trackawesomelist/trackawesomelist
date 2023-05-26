@@ -30,7 +30,7 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-datepicker2 (⭐225)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
+*   [react-datepicker2 (⭐226)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
 
 ## [4. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
 
@@ -223,7 +223,6 @@
 *   [cloudsploit.com](https://cloudsploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc.
 *   [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
 *   [elastic.co](https://www.elastic.co/solutions/apm) — Instant performance insights for JS developers. Free with 24 hours data retention
-*   [freshworks.com](https://www.freshworks.com/website-monitoring/) — Monitor 50 URLs at 1-minute interval with 10 Global locations and 5 Public status pages for Free
 *   [gitential.com](https://gitential.com) — Software Development Analytics platform. Free: unlimited public repositories, unlimited users, free trial for private repos. On-prem version available for enterprise.
 *   [instrumentalapp.com](https://instrumentalapp.com) - Beautiful and easy-to-use application and server monitoring with up to 500 metrics and 3 hours of data visibility for free
 *   [loader.io](https://loader.io/) — Free load testing tools with limitations
@@ -246,26 +245,15 @@
 
 *   [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
 *   [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
-*   [biz.mail.ru](https://biz.mail.ru/) — 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
 *   [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7 day Mailbox History
-*   [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
+*   [Buttondown](https://buttondown.email/) — Newsletter service. Up to 100 subscribers free
 *   [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!
 *   [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
-*   [elasticemail.com](https://elasticemail.com) — 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
 *   [ImprovMX](https://improvmx.com) – Free email forwarding
-*   [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
 *   [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
-*   [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 100 free API requests/month
 *   [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface
 *   [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
-*   [mailkitchen](https://www.mailkitchen.com/) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
 *   [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
-*   [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
-*   [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
-*   [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
-*   [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month free
-*   [socketlabs.com](https://www.socketlabs.com) - 40k emails free for first month, then first 2000 emails/month free
-*   [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
 *   [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
 *   [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
 
@@ -286,15 +274,12 @@
 
 *   [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
 *   [gigalixir.com](https://gigalixir.com/) - Gigalixir provide 1 free instance that never sleeps, and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps.
-*   [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
 *   [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow, based on any trigger. Workflows are code, which you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
 
 ### BaaS
 
-*   [netlicensing.io](https://netlicensing.io) - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan for *FREE* while you are a student.
 *   [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
 *   [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for 1 app, 1GB app data.
-*   [posthook.io](https://posthook.io/) — Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free.
 *   [progress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
 *   [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
 *   [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications up to 2000 Subscribers
@@ -303,6 +288,10 @@
 *   [stackstorm.com](https://stackstorm.com/) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
 *   [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
 *   [zapier.com](https://zapier.com/) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
+
+### Low-code Platform
+
+*   [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
 
 ### Web Hosting
 
@@ -313,11 +302,9 @@
 ### DNS
 
 *   [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
-*   [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
 *   [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
 *   [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
 *   [duckdns.org](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-*   [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
 *   [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
 *   [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
 *   [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
@@ -362,7 +349,6 @@
 *   [otixo.com](https://www.otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max. file size and allows 5 encrypted files
 *   [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
 *   [piio.co](https://piio.co/) — Responsive image optimization and delivery for every website. Free plan for developers and personal websites. Includes free CDN, WebP and Lazy Loading out of the box.
-*   [placeholder.com](https://placeholder.com/) — A quick and simple image placeholder service
 *   [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
 *   [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
 *   [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
@@ -379,7 +365,7 @@
 *   [landen.co](https://www.landen.co) — Generate, edit and publish beautiful websites and landing pages for your startup. All without code. Free tier allows you to have one website, fully customizable and published on the web.
 *   [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
 *   [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free plan limited to one user and one project.
-*   [Pencil (⭐8.6k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
+*   [Pencil (⭐8.7k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
 *   [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
 *   [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 *   [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.

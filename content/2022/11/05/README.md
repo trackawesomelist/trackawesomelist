@@ -10,13 +10,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [MrcJkb/haskell-tools.nvim (⭐179)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [MrcJkb/haskell-tools.nvim (⭐216)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
-*   [no-comments (⭐4)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
+*   [no-comments (⭐5)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
 
 ## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

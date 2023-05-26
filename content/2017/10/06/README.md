@@ -10,7 +10,7 @@
 
 ### GTFS Validators / Ruby
 
-*   [GTFS Data Package Specification (⭐19)](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
+*   [GTFS Data Package Specification (⭐18)](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐298)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐299)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

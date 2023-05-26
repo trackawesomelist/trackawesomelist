@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,15 @@
 
 ### Development / Devops
 
-*   [flog (⭐815)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+*   [flog (⭐876)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [share-cli (⭐293)](https://github.com/marionebl/share-cli) - Share files with your local network.
+*   [share-cli (⭐314)](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Just for Fun / Image Conversion
 
-*   [text-meme (⭐97)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+*   [text-meme (⭐99)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -33,17 +33,32 @@
 *   [Add releases to GitHub (⭐118)](https://github.com/elgohr/Github-Release-Action)
 *   [Publish a docker image to Dockerhub (⭐719)](https://github.com/elgohr/Publish-Docker-Github-Action)
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Indicators
+
+*   [pandas\_talib (⭐667)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
+
+### Python / Trading & Backtesting
+
+*   [ta (⭐3.6k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
+*   [pyqstrat (⭐327)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+*   [NowTrade (⭐96)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
+*   [pinkfish (⭐243)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
+*   [aat (⭐10)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
+*   [catalyst (⭐2.4k)](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
+
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Coding Style Tools
 
-*   [Uncrustify (⭐2.6k)](https://github.com/uncrustify/uncrustify) - Code beautifier.
+*   [Uncrustify (⭐2.7k)](https://github.com/uncrustify/uncrustify) - Code beautifier.
 
 ### Articles
 
-*   [C++Now 2019 Presentations (⭐89)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
+*   [C++Now 2019 Presentations (⭐88)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
 
-## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Articles / Why Elm?
 
@@ -96,7 +111,7 @@
 *   [Elm in the spring](https://www.elminthespring.org/)
 *   [Oslo Elm day](https://osloelmday.no/)
 
-## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [7. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / DemoScene
 
@@ -104,7 +119,7 @@
 *   [Article with demoscene effects code](https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332)
 *   [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene)
 
-## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Incident Response tools / IR management consoles
 

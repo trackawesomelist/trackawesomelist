@@ -33,7 +33,7 @@
 
 ### Contents / Language bindings
 
-*   .Net/.Net Core: [Npgsql (⭐2.7k)](https://github.com/npgsql/npgsql)
+*   .Net/.Net Core: [Npgsql (⭐2.8k)](https://github.com/npgsql/npgsql)
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

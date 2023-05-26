@@ -10,7 +10,7 @@
 
 ### Media Players
 
-*   [Dash.js (⭐12)](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+*   [Dash.js (⭐11)](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 
 ### Multimedia content processing
 

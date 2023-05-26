@@ -34,7 +34,7 @@
 
 ### Quality / Barcode
 
-*   [AnyLint (⭐117)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
+*   [AnyLint (⭐118)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Languages
 
-*   [Folders (⭐362)](https://github.com/rottytooth/Folders) - Code written with folders.
+*   [Folders (⭐368)](https://github.com/rottytooth/Folders) - Code written with folders.
 
 ## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Programming Languages
 
-*   [V (⭐1.5k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
+*   [V (⭐1.6k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

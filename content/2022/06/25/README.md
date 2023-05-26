@@ -16,7 +16,7 @@
 
 ### Packages / Apps
 
-*   [web-audio-mixer (⭐63)](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
+*   [web-audio-mixer (⭐77)](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
 
 ### Resources / Community
 
@@ -38,7 +38,7 @@
 
 ### Applications / Games
 
-*   [gorilla-devs/ferium (⭐697)](https://github.com/gorilla-devs/ferium) — Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
+*   [gorilla-devs/ferium (⭐796)](https://github.com/gorilla-devs/ferium) — Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 
 ## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Notification
 
-*   [svelte-french-toast (⭐309)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-french-toast (⭐384)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ---
 

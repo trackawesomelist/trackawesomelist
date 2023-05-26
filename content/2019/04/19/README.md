@@ -10,14 +10,14 @@
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐449)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐495)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Music and Sound
 
-*   [Maestro (⭐120)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
-*   [Sonic Pi (⭐9.8k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
+*   [Maestro (⭐121)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
+*   [Sonic Pi (⭐10k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
 ## [3. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
 

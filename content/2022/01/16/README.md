@@ -10,7 +10,7 @@
 
 ### Video / Barcode
 
-*   [YiVideoEditor (⭐97)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
+*   [YiVideoEditor (⭐99)](https://github.com/coderyi/YiVideoEditor) - a library for rotating, cropping, adding layers (watermark) and as well as adding audio (music) to the videos.
 
 ## [2. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Articles and Presentations / Hardware Offload
 
-*   [hBPF - eBPF in hardware (⭐335)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
+*   [hBPF - eBPF in hardware (⭐350)](https://github.com/rprinz08/hBPF) - An eBPF CPU written for FPGAs.
 
 ---
 

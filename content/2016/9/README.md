@@ -174,14 +174,14 @@
 
 ### Text Manipulation
 
-*   [Encode / Decode (⭐514)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+*   [Encode / Decode (⭐528)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 *   [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
-*   [HTML Entity Lookup (⭐34)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
-*   [Unicode Text Search (⭐180)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
+*   [HTML Entity Lookup (⭐35)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
+*   [Unicode Text Search (⭐186)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ### Scientific
 
-*   [DOITools (⭐7)](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
+*   [DOITools (⭐8)](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
 *   [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 
 ### Security
@@ -190,8 +190,8 @@
 
 ### System
 
-*   [Keylue (⭐45)](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
-*   [TerminalFinder (⭐1k)](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
+*   [Keylue (⭐48)](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
+*   [TerminalFinder (⭐1.1k)](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
 ## [15. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
@@ -360,12 +360,12 @@ git log Branch1 ^Branch2
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐247)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐248)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 *   [ex\_admin (⭐1.2k)](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐926)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐941)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 
@@ -401,27 +401,27 @@ git log Branch1 ^Branch2
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.5k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.6k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 
-*   [boxen (⭐1.3k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+*   [boxen (⭐1.4k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
 *   [shelljs (⭐14k)](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 
 ### Packages / Text
 
-*   [matcher (⭐528)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐529)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
 *   [power-assert (⭐2.8k)](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface.
 *   [hook-std (⭐53)](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
-*   [testen (⭐176)](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
+*   [testen (⭐175)](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
 
 ### Packages / Miscellaneous
 
-*   [mem (⭐992)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-*   [adit (⭐47)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [mem (⭐1k)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [adit (⭐48)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -492,7 +492,7 @@ git log Branch1 ^Branch2
 
 ### TypeScript Seed Projects / Components
 
-*   [angular2-demo (⭐83)](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
+*   [angular2-demo (⭐82)](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 
 ## [41. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
@@ -528,7 +528,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐41)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐42)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [44. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
@@ -591,7 +591,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Community / Related Lists
 
-*   [Functional Programming Resources In JavaScript (⭐304)](https://github.com/busypeoples/functional-programming-javascript)
+*   [Functional Programming Resources In JavaScript (⭐302)](https://github.com/busypeoples/functional-programming-javascript)
 
 ---
 

@@ -33,7 +33,7 @@
 
 ### Logging
 
-*   [metrix (⭐50)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
+*   [metrix (⭐51)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
 
 ### Third Party APIs
 
@@ -114,7 +114,7 @@
 
 ### Blockchain Explorers
 
-*   [Bitcoin Transaction Explorer (⭐176)](https://github.com/JornC/bitcoin-transaction-explorer)
+*   [Bitcoin Transaction Explorer (⭐177)](https://github.com/JornC/bitcoin-transaction-explorer)
 
 ---
 

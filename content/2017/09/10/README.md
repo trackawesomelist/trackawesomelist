@@ -36,7 +36,7 @@
 
 ### Open Source Repos / Route 53
 
-*   [barnybug/cli53 :fire::fire::fire::fire: (⭐1.8k)](https://github.com/barnybug/cli53) - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
+*   [barnybug/cli53 :fire::fire::fire::fire: (⭐1.9k)](https://github.com/barnybug/cli53) - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
 
 ## [6. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Style Guides / Components
 
-*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐178)](https://github.com/ng-seed/angular-tslint-rules)
+*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐176)](https://github.com/ng-seed/angular-tslint-rules)
 
 ---
 

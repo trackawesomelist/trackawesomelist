@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05 - Dec 11, 2016
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -55,7 +55,7 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐940)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐947)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [6. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Packages / Command-line apps
 
-*   [wifi-password (⭐278)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+*   [wifi-password (⭐281)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 
 ## [12. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
@@ -219,11 +219,6 @@
 
 *   [Digital Humanities](http://cmb.huma-num.fr/) - Interdisciplinary group of researchers at the Marc Bloch Centre in Berlin, with many network science projects.
 
-### Review Articles / Bibliographic, Citation and Semantic Networks
-
-*   [Atypical Combinations and Scientific Impact](http://science.sciencemag.org/content/342/6157/468) (*Science*, 2013).
-*   [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (*Scientometrics*, 2013).
-
 ## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Build Systems
@@ -275,12 +270,12 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_mnesia (⭐238)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
+*   [ecto\_mnesia (⭐239)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 *   [ecto\_paging (⭐13)](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
 
 ### Utilities
 
-*   [dress (⭐61)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
+*   [dress (⭐62)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
 
 ## [30. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -300,12 +295,12 @@
 ### Go / Erlang
 
 *   [Gizmo (⭐3.7k)](https://github.com/nytimes/gizmo) - Microservices toolkit.
-*   [RPCX (⭐7.4k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+*   [RPCX (⭐7.5k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Java VM / Java
 
 *   [Disruptor (⭐16k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
-*   [HTTP Remoting (⭐76)](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
+*   [HTTP Remoting (⭐75)](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 *   [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 
 ### Java VM / Scala
@@ -322,7 +317,7 @@
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐791)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐793)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ### Testing / Scala
 
@@ -333,7 +328,7 @@
 *   [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Consistency as logical monotonicity.
 *   [ROCAS](http://resources.1060research.com/docs/2015/Resource-Oriented-Computing-Adaptive-Systems-ROCAS-1.2.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Resource Oriented Computing for Adaptive Systems.
 *   [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Understanding software ecosystems: a strategic modeling approach.
-*   [Your Server as a Function](http://monkey.org/\~marius/funsrv.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.
+*   [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.
 
 ## [32. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -384,7 +379,7 @@
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [WebGL Lessons — ThreeJS Shaders (⭐352)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
+*   [WebGL Lessons — ThreeJS Shaders (⭐357)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
 *   [ThreeJS post-proces example (⭐24)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
 ## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
@@ -393,17 +388,32 @@
 
 *   [predict.cr (⭐17)](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
 
-## [38. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [38. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### R / Numerical Libraries & Data Structures
+
+*   [TSdbi](http://tsdbi.r-forge.r-project.org/) - Provides a common interface to time series databases.
+*   [zoo](https://cran.r-project.org/web/packages/zoo/index.html) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
+*   [tis](https://cran.r-project.org/web/packages/tis/index.html) - Functions and S3 classes for time indexes and time indexed series, which are compatible with FAME frequencies.
+*   [tfplot](https://cran.r-project.org/web/packages/tfplot/index.html) - Utilities for simple manipulation and quick plotting of time series data.
+*   [tframe](https://cran.r-project.org/web/packages/tframe/index.html) - A kernel of functions for programming time series methods in a way that is relatively independently of the representation of time.
+
+### R / Data Sources
+
+*   [IBrokers](https://cran.r-project.org/web/packages/IBrokers/index.html) - Provides native R access to Interactive Brokers Trader Workstation API.
+*   [Quandl](https://www.quandl.com/tools/r) - Get Financial Data Directly Into R.
+
+## [39. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-tools / Git
 
 *   [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 
-## [39. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [40. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
-*   [geojson-flatten (⭐49)](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
+*   [geojson-flatten (⭐50)](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
 *   [geojson-random (⭐72)](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
 
 ### editors & viewers
@@ -416,10 +426,10 @@
 
 ### data
 
-*   [world-atlas (⭐950)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐803)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [world-atlas (⭐965)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+*   [us-atlas (⭐811)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
-## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -432,19 +442,19 @@
     *   [How to export HTML to PDF in ASP.NET Core](https://code.msdn.microsoft.com/How-to-export-HTML-to-PDF-c5afd0ce)
     *   [Vue.js server side rendering with ASP.NET Core](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/)
 
-## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [42. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Maps
 
 *   [CARTO (⭐2.6k)](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 
-## [42. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [43. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / JavaScript
 
 *   [Vue.js Jobs](https://vuejobs.com/)
 
-## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
@@ -452,7 +462,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
+*   [snowplow/snowplow :fire::fire::fire::fire::fire: (⭐6.5k)](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
 
 ### Appendix of Core Services / Compute Services
 
@@ -486,7 +496,7 @@
 
 *   [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
 
-## [44. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [45. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other useful repositories
 

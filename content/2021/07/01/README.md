@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -58,13 +58,19 @@
 
 ### i18n / Mouse Events
 
-*   [react-localized (⭐5)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
+*   [react-localized (⭐8)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [Downloader (⭐584)](https://github.com/bezzad/Downloader) - Downloader is a modern, fluent, asynchronous, testable and portable library for .NET. This is a multipart downloader with asynchronous progress events.
+
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Risk Analysis
+
+*   [risktools (⭐19)](https://github.com/bbcho/risktools-dev) - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
 
 ---
 

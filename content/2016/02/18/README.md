@@ -45,16 +45,16 @@
 
 ### Programming fonts / Fonts
 
-*   [Fantasque Sans Mono (⭐6.2k)](https://github.com/belluzj/fantasque-sans)
+*   [Fantasque Sans Mono (⭐6.4k)](https://github.com/belluzj/fantasque-sans)
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Hasklig (⭐5.3k)](https://github.com/i-tu/Hasklig)
+*   [Hasklig (⭐5.4k)](https://github.com/i-tu/Hasklig)
 
 ### JavaScript libs / Event listeners for fonts loading on a web page
 
 *   [Font Face Observer (⭐4.1k)](https://github.com/bramstein/fontfaceobserver)
-*   [Web Font Loader (⭐9k)](https://github.com/typekit/webfontloader)
+*   [Web Font Loader (⭐9.1k)](https://github.com/typekit/webfontloader)
 
 ## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Network / Fast Packet Processing
 
-*   [netmap](http://info.iet.unipi.it/\~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
+*   [netmap](http://info.iet.unipi.it/~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
 
 ## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

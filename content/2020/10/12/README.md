@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 *   [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) - Topics for the online course Data Analysis and Visualization Using R.
 *   [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q) - Topics include time series, analyzing word relationships with ggraph and tidytext, and tidymodels.
 *   [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA) - The UC Berkeley R Bootcamp playlists include videos on R basics, handling data, performing calculations, programming, graphics, workflows, and statistics.
-*   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - Topics include graphing for EDA, data manipulation, animated mapping, visualization, text mining, time series, forecasting, regression, bootstrapping, package development, network graphs, ANOVA, JSON, simulation, survival analysis, and tidymetrics. Click [here (⭐350)](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) for detailed TidyTuesday screencast annotations.
+*   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - Topics include graphing for EDA, data manipulation, animated mapping, visualization, text mining, time series, forecasting, regression, bootstrapping, package development, network graphs, ANOVA, JSON, simulation, survival analysis, and tidymetrics. Click [here (⭐359)](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) for detailed TidyTuesday screencast annotations.
 *   [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss) - Topics include numerical computing, generating random walks, markov chains, encoding categorical variables, probability, correlation plots, feature engineering, time series, binary classifiers, models, data.table, confusion matrices, machine learning, geocoding, summary statistics, and simulation.
 *   [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA) - Topics include predictive text modeling, impute missing data, tidymodels, sentiment analysis, multinomial classification, principal component analysis, data preprocessing and resampling, and multinomial classification.
 *   [Numyard](https://www.youtube.com/c/TheLearnR/videos) - Topics include working with dataframes, for loops, basic math, vectors, lists, creating functions, data types, and random sampling.
@@ -36,7 +36,7 @@
 
 ### Applications / Web Servers
 
-*   [mufeedvh/binserve (⭐743)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
+*   [mufeedvh/binserve (⭐765)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Collapse
 
-*   [react-tabbordion (⭐78)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
+*   [react-tabbordion (⭐80)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
 
 ## [8. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Printing (⭐68)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
+*   [Blazor Printing (⭐77)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
 
 ## [14. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
@@ -108,8 +108,8 @@
 
 ### Tools
 
-*   💼 [tailwind-classes-sorter (⭐18)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
-*   💼 [prettier-plugin-tailwind (⭐430)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
+*   💼 [tailwind-classes-sorter (⭐19)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
+*   💼 [prettier-plugin-tailwind (⭐431)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
 
 ## [16. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
@@ -134,21 +134,6 @@
 ### Applications and Platforms / Data Collection
 
 *   [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
-
-## [20. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
-*   [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
-
-### HTML and CSS / Spock Framework
-
-*   [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
-
-### R / Tornado
-
-*   [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
 
 ---
 

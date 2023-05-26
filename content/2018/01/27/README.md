@@ -10,7 +10,7 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐227)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐248)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ## [2. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Routing
 
-*   [orion (⭐121)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
+*   [orion (⭐122)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
 ## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Device
 
-*   [Thingy (⭐58)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
+*   [Thingy (⭐59)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
 
 ### Cryptography / Barcode
 

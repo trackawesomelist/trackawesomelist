@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,8 +22,8 @@
 
 *   [muicss-yew (⭐30)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 *   [yew-bulma (⭐15)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
-*   [ybc (⭐213)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
-*   [patternfly-yew (⭐84)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+*   [ybc (⭐219)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
+*   [patternfly-yew (⭐89)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 
 ### Crates / Components
 
@@ -31,7 +31,7 @@
 
 ### Crates / Utils
 
-*   [reacty\_yew (⭐47)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
+*   [reacty\_yew (⭐49)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
 *   [styled-yew (⭐33)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 
 ## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
@@ -39,7 +39,7 @@
 ### Interrupts
 
 *   [Ralph Brown's Interrupt List - HTML version](https://web.archive.org/web/20201111162212/http://www.ctyme.com/rbrown.htm) - List of every documented and undocumented interrupt call known, accessible through search, categories and interrupt numbers.
-    *   Original in downloadable .zip files from [Ralph Brown's website](https://web.archive.org/web/20201108093425/http://www.cs.cmu.edu/\~ralf/files.html)
+    *   Original in downloadable .zip files from [Ralph Brown's website](https://web.archive.org/web/20201108093425/http://www.cs.cmu.edu/~ralf/files.html)
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Software / Miscellaneous
 
-*   [DailyTxT (⭐94)](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`
+*   [DailyTxT (⭐127)](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -72,34 +72,23 @@
 
 *   [RxPerl](https://metacpan.org/pod/RxPerl) - Perl implementation of [Reactive Extensions](http://reactivex.io) / rxjs
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Bash / Non-X86
-
-*   [Introduction to Bash Scripting (⭐2.3k)](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
-
-### C++ / Non-X86
-
-*   [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)
-*   [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) - Samy Pesse
-
-## [8. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Reference Projects
 
-*   [continuous-k6k8s (⭐12)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+*   [continuous-k6k8s (⭐14)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 
-## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [8. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Documentation
 
-*   [Log4brains (⭐630)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
+*   [Log4brains (⭐724)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Testing / Vendor supported providers
 
-*   [clarity (⭐117)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
+*   [clarity (⭐119)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
 
 ---
 

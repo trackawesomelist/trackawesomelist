@@ -11,7 +11,7 @@
 ### Software / Python
 
 *   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
-*   [SnapVX (⭐62)](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
+*   [SnapVX (⭐64)](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -98,8 +98,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Wiki.js (⭐20k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-*   [vue-speech-streaming (⭐67)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
+*   [Wiki.js (⭐21k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+*   [vue-speech-streaming (⭐68)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
 
 ---
 

@@ -53,7 +53,7 @@
 
 ### Web Programming • Libraries
 
-*   [Theatre.js (⭐8.7k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+*   [Theatre.js (⭐9.1k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
 
 ### Schools • Workshops / Other
 

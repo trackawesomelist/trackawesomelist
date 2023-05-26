@@ -40,7 +40,7 @@
 
 ### Guides, Books, Documentation, and Training / General Guides
 
-*   [Open Guide to AWS :fire::fire::fire::fire::fire: (⭐33k)](https://github.com/open-guides/og-aws)
+*   [Open Guide to AWS :fire::fire::fire::fire::fire: (⭐34k)](https://github.com/open-guides/og-aws)
 
 ---
 

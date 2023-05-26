@@ -22,26 +22,22 @@
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐89)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐90)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
 ## [4. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
+### Apps / Stacking Apps
+
+*   [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
+
 ### Clarity Resources / Developer Tools
 
-*   [Clarinet (⭐214)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
-*   [Clarigen (⭐22)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
-
-### Clarity Resources / Libraries
-
-*   [clarity-bitcoin (⭐30)](https://github.com/jcnelson/clarity-bitcoin) - A library to verify Bitcoin transactions.
+*   [Clarinet (⭐260)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+*   [Clarigen (⭐26)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 
 ### Clarity Resources / Contracts
 
 *   [Lightning Swaps (⭐0)](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) - Fraud-proof swaps using Lightning Network.
-
-### Clarity Resources / Stacking
-
-*   [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
 
 ### Learning Resources / Videos
 
@@ -89,13 +85,13 @@
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐256)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐266)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
-### :space_invader: Projects Using Prisma / Tutorials with   [NestJS](https://nestjs.com/)
+### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [tRPC Prisma Starter (⭐237)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
+*   [tRPC Prisma Starter (⭐466)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
 ## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -113,11 +109,11 @@
 
 ### Media
 
-*   [VLC (⭐75)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐80)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Work
 
-*   [Internships (⭐272)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐284)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ---
 

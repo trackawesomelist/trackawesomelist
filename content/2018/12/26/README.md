@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Accompanying Repos
 
-*   [aws-arch-backoff-simulator :fire: (⭐220)](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
+*   [aws-arch-backoff-simulator :fire: (⭐221)](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
 
 ## [2. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 

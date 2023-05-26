@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 01, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-base-site (⭐155)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
+*   [django-base-site (⭐218)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Tanoshi (⭐328)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
+*   [Tanoshi (⭐339)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -49,19 +49,13 @@
 
 *   [Mastering CHIP-8 (⭐214)](https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908) - In-depth overview of the CHIP-8 instruction set.
 
-## [8. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
-
-### Contents / Libraries
-
-*   [Datamol (⭐278)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
-
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue CLI / Community
 
-*   [webpack-to-vite (⭐606)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
+*   [webpack-to-vite (⭐639)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -102,13 +96,13 @@
 
 
 
-## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Screeb
 
 *   [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
 
-## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Health
 

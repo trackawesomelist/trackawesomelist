@@ -29,26 +29,26 @@
 
 ### Plugins / Libraries
 
-*   [JSDoc (⭐780)](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
+*   [JSDoc (⭐831)](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
 
 ### Plugins / Practices and Specific ES Features
 
 *   [no-restricted-syntax (⭐4)](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
-*   [sort-keys-fix (⭐79)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
+*   [sort-keys-fix (⭐84)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 
 ### Plugins / Testing Tools
 
 *   Chai
     *   [expect practices (⭐27)](https://github.com/turbo87/eslint-plugin-chai-expect)
-    *   [with unused expressions (⭐50)](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
+    *   [with unused expressions (⭐51)](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
     *   [permitted keywords (⭐1)](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
     *   [with chai-as-promised plugin (⭐2)](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
     <!-- lint disable double-link -->
     *   [globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 *   Mocha
-    *   [Enforcing practices (⭐268)](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
+    *   [Enforcing practices (⭐271)](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha.
     *   [Enforcing manageability (⭐11)](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
-*   [QUnit (⭐28)](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
+*   [QUnit (⭐27)](https://github.com/platinumazure/eslint-plugin-qunit) - Linting rules for QUnit.
 
 ## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐171)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐175)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [10. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -103,12 +103,12 @@
 
 ### UI
 
-*   [Xamarin.Forms.Breadcrumb (⭐139)](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - A control that automatically generated a breadcrumb control
+*   [Xamarin.Forms.Breadcrumb (⭐141)](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - A control that automatically generated a breadcrumb control
 *   [SimpleStaticMap (⭐2)](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
 
 ### XPlat APIs
 
-*   [Shiny ★428 (⭐1.1k)](https://github.com/shinyorg/shiny) - A Xamarin Framework for Backgrounding & Device Hardware Services.
+*   [Shiny ★428 (⭐1.2k)](https://github.com/shinyorg/shiny) - A Xamarin Framework for Backgrounding & Device Hardware Services.
 
 ## [13. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -209,11 +209,11 @@
 
 ### Validation / Runner
 
-*   [Funval (⭐333)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
+*   [Funval (⭐347)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 
 ### Misc / Other
 
-*   [Idyll (⭐1.9k)](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML (⭐12)](https://github.com/idyll-lang/idyll-embed).
+*   [Idyll (⭐2k)](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML (⭐12)](https://github.com/idyll-lang/idyll-embed).
 
 ## [25. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -232,7 +232,7 @@
 
 ### FPS
 
-*   [BStone (⭐242)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+*   [BStone (⭐253)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
 ## [28. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
@@ -260,13 +260,13 @@
 
 ### CLI & Editor / iOS
 
-*   🔧 [Svarog (⭐35)](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
+*   🔧 [Svarog (⭐36)](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 
 ## [31. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐58)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐62)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
 ## [32. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -283,7 +283,7 @@
 ### Cartridges / Misc
 
 *   [Introduction to Game Boy Hacking](http://pepijndevos.nl/sha2017/workshop.pdf) - Workshop introducing basic assembly, debugging and reverse engineering.
-*   [GBSOUND.txt (⭐40)](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) - A document detailing the Game Boy sound engine.
+*   [GBSOUND.txt (⭐45)](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) - A document detailing the Game Boy sound engine.
 *   [gbdev FAQs](http://www.devrs.com/gb/files/faqs.html) - Must read by Jeff Frohwein.
 *   [Game Boy Bootrom](http://www.neviksti.com/DMG/DMG_ROM.asm) - Commented dump of the DMG bootrom.
 *   [Differences between the Z80 and the gameboy's processor](http://www.z80.info/z80gboy.txt)
@@ -337,15 +337,15 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Nucleus (⭐341)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
-*   [Mockup-server (⭐124)](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.
+*   [Nucleus (⭐346)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Mockup-server (⭐123)](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.
 *   [Rapido](https://framagit.org/InfoLibre/rapido) - Rapido is software to make a website. Rapido is fast, easy to use and respectful of your privacy.
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-checkout (⭐953)](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
+*   [vue-stripe-checkout (⭐982)](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
 *   [vue-stripe-payment (⭐16)](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
-*   [vue-paypal-checkout (⭐152)](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
+*   [vue-paypal-checkout (⭐153)](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
 *   [vue-plaid-link (⭐29)](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.
 
 ## [36. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
@@ -429,7 +429,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐551)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐573)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 
@@ -453,7 +453,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Utils
 
-*   [playwright-fluent (⭐108)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐129)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 *   [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
 
 ## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
@@ -474,21 +474,21 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Python / Computer Vision
 
-*   [neural-dream (⭐122)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
+*   [neural-dream (⭐123)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lightwood (⭐333)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐355)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
 ## [44. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation
 
-*   [Clevis (⭐594)](https://github.com/latchset/clevis) - Plugable framework for automated decryption, often used as a Tang client.
+*   [Clevis (⭐633)](https://github.com/latchset/clevis) - Plugable framework for automated decryption, often used as a Tang client.
 
 ### DevSecOps / Policy enforcement
 
-*   [Tang (⭐331)](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
+*   [Tang (⭐339)](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
 
 ## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -506,13 +506,9 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Form / Barcode
 
-*   [ObjectForm (⭐176)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
+*   [ObjectForm (⭐178)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
 
 ## [48. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
-
-### Icons
-
-*   [react-open-doodles (⭐52)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 
 ### Carousel
 
@@ -520,11 +516,15 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Time / Date / Age
 
-*   [react-google-flight-datepicker (⭐362)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
+*   [react-google-flight-datepicker (⭐371)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
+
+### Icons
+
+*   [react-open-doodles (⭐57)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 
 ### CSS / Style / Mouse Events
 
-*   [aesthetic (⭐198)](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
+*   [aesthetic (⭐199)](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 
 ## [49. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 

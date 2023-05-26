@@ -24,7 +24,7 @@
 
 ### JavaScript Libraries
 
-*   [Bitcore Library (⭐4.5k)](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib)
+*   [Bitcore Library (⭐4.6k)](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib)
 *   [Cryptocoin](http://cryptocoinjs.com/#modules)
 
 ### Playgrounds
@@ -195,12 +195,12 @@
 
 ### Packages / Command-line apps
 
-*   [ESLint (⭐22k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
+*   [ESLint (⭐23k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 
 ### Packages / Functional programming
 
 *   [lodash (⭐56k)](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-*   [RxJS (⭐28k)](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
+*   [RxJS (⭐29k)](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
 
 ### Packages / Build tools
 
@@ -210,8 +210,8 @@
 
 *   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Koa (⭐34k)](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-*   [Express (⭐60k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-*   [Feathers (⭐14k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
+*   [Express (⭐61k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+*   [Feathers (⭐15k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
 *   [Meteor (⭐43k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor (⭐1.4k)](https://github.com/Urigo/awesome-meteor))*
 *   [Restify (⭐11k)](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
 
@@ -226,11 +226,11 @@
 
 ### Packages / Security
 
-*   [rate-limiter-flexible (⭐2.4k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
+*   [rate-limiter-flexible (⭐2.5k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 
 ### Packages / Miscellaneous
 
-*   [node-video-lib (⭐317)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
+*   [node-video-lib (⭐323)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
 
 ### Resources / Tutorials
 
@@ -242,7 +242,7 @@
 
 ### Resources / Cheatsheets
 
-*   [Strong Node.js (⭐476)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+*   [Strong Node.js (⭐486)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -261,8 +261,8 @@
 
 ### Regular Expression
 
-*   [Hyperscan (⭐4.1k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
-*   [PIRE (⭐320)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
+*   [Hyperscan (⭐4.2k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
+*   [PIRE (⭐321)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
 
 ## [8. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Applications
 
-*   [Herd (⭐102)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
+*   [Herd (⭐104)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
 
 ### Applications / Productivity
 

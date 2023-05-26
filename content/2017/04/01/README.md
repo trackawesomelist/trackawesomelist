@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [kemal-session (⭐49)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
+*   [kemal-session (⭐50)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
 
 ## [3. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -162,12 +162,12 @@
 
 ### Contents / EHR
 
-*   [Odoo Medical (⭐245)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
+*   [Odoo Medical (⭐246)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
 *   [openMAXIMS (⭐56)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
 
 ### Contents / Prescribing
 
-*   [OpenEP (⭐18)](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
+*   [OpenEP (⭐19)](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
 
 ### Contents / Frameworks
 
@@ -175,7 +175,7 @@
 
 ### Contents / Libraries
 
-*   [Python HL7 (⭐239)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+*   [Python HL7 (⭐252)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
 
 ### Contents / PHR
 
@@ -196,7 +196,7 @@
 
 ### Contents / Bioinformatics
 
-*   [ADAM (⭐937)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
+*   [ADAM (⭐949)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
 *   [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
 
 ---

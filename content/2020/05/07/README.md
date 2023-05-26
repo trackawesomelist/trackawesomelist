@@ -68,11 +68,11 @@
 
 ### Email
 
-*   [sendgrid.cr (⭐14)](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client
+*   [sendgrid.cr (⭐15)](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client
 
 ### Environment Management
 
-*   [crenv (⭐233)](https://github.com/crenv/crenv) - Crystal version manager
+*   [crenv (⭐234)](https://github.com/crenv/crenv) - Crystal version manager
 
 ## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

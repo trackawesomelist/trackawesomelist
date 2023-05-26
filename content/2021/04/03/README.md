@@ -10,7 +10,7 @@
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐214)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐228)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Multimedia
 
-*   [Clapper (⭐515)](https://github.com/Rafostar/clapper) - Simple and modern media player.
+*   [Clapper (⭐560)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dataset (⭐192)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+*   [vue-dataset (⭐201)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
 
 ---
 

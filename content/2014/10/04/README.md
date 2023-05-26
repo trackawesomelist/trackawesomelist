@@ -22,7 +22,7 @@
 
 ### E-commerce
 
-*   [python-currencies (⭐64)](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies.
+*   [python-currencies (⭐66)](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies.
 
 ---
 

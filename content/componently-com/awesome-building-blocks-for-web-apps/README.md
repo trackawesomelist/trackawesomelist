@@ -2,9 +2,15 @@
 
 Standalone features to be integrated into web applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/componently-com/awesome-building-blocks-for-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) · ⭐ 100 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/componently-com/awesome-building-blocks-for-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) · ⭐ 110 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md) / [Overview](/content/componently-com/awesome-building-blocks-for-web-apps/readme/README.md) ]
+
+## [May 16, 2023](/content/2023/05/16/README.md)
+
+### Auth
+
+*   [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 
 ## [Sep 12, 2022](/content/2022/09/12/README.md)
 
@@ -57,7 +63,7 @@ Standalone features to be integrated into web applications
 
 ### Search
 
-*   [Search UI (⭐1.7k)](https://github.com/elastic/search-ui) - UI integration for ElastiSearch.
+*   [Search UI (⭐1.8k)](https://github.com/elastic/search-ui) - UI integration for ElastiSearch.
 
 ## [Jun 18, 2020](/content/2020/06/18/README.md)
 
@@ -197,8 +203,8 @@ Standalone features to be integrated into web applications
 
 *   [Cookiefirst](https://cookiefirst.com/) - Cookie consent manager.
 *   [UniConsent](https://www.uniconsent.com/) - Consent management platform for GDPR, CCPA, COPPA compliance.
-*   [React Cookie Consent (⭐459)](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
-*   [React Cookie Banner (⭐181)](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
+*   [React Cookie Consent (⭐515)](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
+*   [React Cookie Banner (⭐182)](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
 
 ### Media
 
@@ -231,6 +237,6 @@ Standalone features to be integrated into web applications
 
 ### Related awesome-lists
 
-*   [Web Components (⭐1.9k)](https://github.com/mateusortiz/webcomponents-the-right-way)
-*   [Microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
-*   [Micro Frontends (⭐509)](https://github.com/ChristianUlbrich/awesome-microfrontends)
+*   [Web Components (⭐2.2k)](https://github.com/mateusortiz/webcomponents-the-right-way)
+*   [Microservices (⭐12k)](https://github.com/mfornos/awesome-microservices)
+*   [Micro Frontends (⭐531)](https://github.com/ChristianUlbrich/awesome-microfrontends)

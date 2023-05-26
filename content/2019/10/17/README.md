@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2019
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,13 +35,13 @@
 
 ### Command Line
 
-*   [SwiftShell (⭐977)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
+*   [SwiftShell (⭐984)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Anti Forensics (⭐233)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
+*   [Awesome Anti Forensics (⭐352)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 
 ## [5. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Graphics / Image Conversion
 
-*   [pastel (⭐4.4k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
+*   [pastel (⭐4.5k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
 ## [7. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -253,13 +253,7 @@
     *   "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
     *   "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_\&v=_iToM2KC0QE), [slides](https://hzoo.github.io/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
 
-## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
-
-### Open Source Repos / CloudFormation
-
-*   [Stelligent/cfn\_nag :fire::fire::fire: (⭐1.1k)](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
-
-## [15. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [14. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 

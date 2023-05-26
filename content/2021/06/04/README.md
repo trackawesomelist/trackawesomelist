@@ -38,13 +38,13 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐94)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐106)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Analysis / Complex Analysis
 
-*   [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/\~ws442/complex.pdf) - Wilhelm Schlag
+*   [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
 
 ## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -117,7 +117,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pgSCV (⭐141)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
+*   [pgSCV (⭐143)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
 *   [postgres\_exporter (⭐2k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
@@ -182,7 +182,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Contents / Health and Fitness
 
-*   [QuitSmoke (⭐54)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
+*   [QuitSmoke (⭐61)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐8.2k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐8.5k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

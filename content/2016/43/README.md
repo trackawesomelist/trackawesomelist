@@ -10,7 +10,7 @@
 
 ### Endpoint / Forensics
 
-*   [Volatility (⭐5.7k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
+*   [Volatility (⭐6.2k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 
 ## [2. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
@@ -44,17 +44,23 @@
 
 *   [Dracula (⭐84)](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+
+### Software / Social, Economic and Political Networks
+
+*   [Network Canvas](http://networkcanvas.com/) - Set of tools to collect personal network data (in early development).
+
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [Recommender (⭐256)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+*   [Recommender (⭐257)](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 
 ### C++ / General-Purpose Machine Learning
 
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
-*   [DyNet (⭐3.3k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐411)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [DyNet (⭐3.4k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
+*   [Fido (⭐414)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [LightGBM (⭐15k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 *   [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
@@ -63,7 +69,7 @@
 
 *   [MIT Information Extraction Toolkit (⭐2.8k)](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 
-## [5. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [6. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Grid
 
@@ -81,19 +87,19 @@
 *   [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 *   [Sassy-Gridlover (⭐224)](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
 
-## [6. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [7. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Podcasts / Individual Podcast episodes
 
 *   [Full Stack Radio 44](http://www.fullstackradio.com/44) - What the heck is Elm? In this episode, Joel Clermont talks about Elm and functional programming.
 
-## [7. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [8. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Syntax
 
 *   [Tcl](https://atom.io/packages/language-tcl)
 
-## [8. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [9. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Single controls
 
@@ -102,23 +108,23 @@
 
 ### Scripting
 
-*   [CrystalLUA (⭐53)](https://github.com/d-mozulyov/CrystalLUA). `[Delphi]` Lua binding (Delphi6-2007).
+*   [CrystalLUA (⭐56)](https://github.com/d-mozulyov/CrystalLUA). `[Delphi]` Lua binding (Delphi6-2007).
     // *LUA DLL required*
-*   [lua4delphi (⭐27)](https://github.com/danieleteti/lua4delphi). `[Delphi]` Delphi binding for Lua 5.1 language.
+*   [lua4delphi (⭐29)](https://github.com/danieleteti/lua4delphi). `[Delphi]` Delphi binding for Lua 5.1 language.
     // *LUA DLL required*
 
 ### Memory managers
 
-*   [BrainMM (⭐91)](https://github.com/d-mozulyov/BrainMM). `[Delphi]` Extremely fast memory manager for Delphi.
+*   [BrainMM (⭐90)](https://github.com/d-mozulyov/BrainMM). `[Delphi]` Extremely fast memory manager for Delphi.
     // *Advanced memory allocation functions for faster aligned operations.*
 
-## [9. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [10. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### CSS Styleguides
 
 *   [Google](https://google.github.io/styleguide/htmlcssguide.xml#CSS_Style_Rules)
 
-## [10. Bots](/content/hackerkid/bots/week/README.md)
+## [11. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tools For Building Bots
 
@@ -129,7 +135,7 @@
 *   [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
 *   [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
 
-## [11. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [12. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Research
 
@@ -144,7 +150,7 @@
 
 *   [Gtmhub](https://gtmhub.com)
 
-## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -163,39 +169,28 @@
 *   [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
 *   [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 
-## [13. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [14. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Machine Learning
 
-*   [lambda-ml (⭐71)](https://github.com/cloudkj/lambda-ml)
+*   [lambda-ml (⭐75)](https://github.com/cloudkj/lambda-ml)
 
 ### Parsing
 
 *   [Instaparse (⭐2.6k)](https://github.com/Engelberg/instaparse)
 
-## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Datasets
 
 *   [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
 *   [Open Images dataset (⭐4.1k)](https://github.com/openimages/dataset) - Open Images is a dataset of \~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
 
-## [15. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [16. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Other
 
 *   [osg-3rdparty-cmake (⭐154)](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. `[MIXED LICENSE]`
-
-## [16. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
-
-### Selected Papers / Social, Economic and Political Networks
-
-*   [Node Centrality in Weighted Networks: Generalizing Degree and Shortest Paths](http://www.sciencedirect.com/science/article/pii/S0378873310000183), by Tore Opsahl, Filip Agneessens and John Skvoretz - Explores the generalization of network centrality and distance measures to (positively) valued graphs (*Social Networks*, 2010; [companion website](https://toreopsahl.com/tnet/)).
-
-### Software / Social, Economic and Political Networks
-
-*   [EgoWeb](http://egoweb.wikispaces.com/EgoWeb+2.0+Home) - Server-side software for social network data collection and processing.
-*   [Network Canvas](http://networkcanvas.com/) - Set of tools to collect personal network data (in early development).
 
 ## [17. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -207,7 +202,7 @@
 
 ### System
 
-*   [Finder New item (⭐28)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
+*   [Finder New item (⭐30)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 
 ## [19. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -229,11 +224,11 @@
 
 ### Sliders / Runner
 
-*   [Glide.js (⭐6.7k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
+*   [Glide.js (⭐6.8k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 
 ### Video/Audio / Other
 
-*   [clappr (⭐6.1k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
+*   [clappr (⭐6.4k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
 ## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -245,15 +240,15 @@
 
 ### Algorithms and Data structures
 
-*   [C# Algorithms (⭐5.4k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
+*   [C# Algorithms (⭐5.5k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 
 ### Misc
 
-*   [ByteSize (⭐456)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
+*   [ByteSize (⭐473)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ### Template Engine
 
-*   [Mustache Sharp (⭐293)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
+*   [Mustache Sharp (⭐296)](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 
 ### UI Automation
 
@@ -308,7 +303,7 @@
 *   [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 *   [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 *   [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
-*   [Data Structure Visualizations](http://www.cs.usfca.edu/\~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
+*   [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 *   [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
 *   [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 *   [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
@@ -322,10 +317,10 @@
 
 *   [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 *   [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-*   [Elementary Algorithms (⭐5.5k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+*   [Elementary Algorithms (⭐5.6k)](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 *   [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 *   [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
-*   [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/\~uno/taocp.html) - The Book.
+*   [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 
 ### Online Judges / Randomized Algorithms
 
@@ -344,7 +339,7 @@
 
 ### Database
 
-*   [LevelDB (⭐32k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+*   [LevelDB (⭐33k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 
 ### Math
 
@@ -376,13 +371,13 @@
 
 ### Frameworks
 
-*   [exelli (⭐15)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
-*   [kitto (⭐948)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [exelli (⭐17)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
+*   [kitto (⭐952)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐245)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
-*   [prometheus-ecto (⭐73)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
+*   [appsignal-elixir (⭐249)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [prometheus-ecto (⭐74)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
 *   [prometheus-phoenix (⭐66)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
 
@@ -410,7 +405,7 @@
 
 ### Editors
 
-*   [atom-elixir (⭐410)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [atom-elixir (⭐409)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 *   [ElixirSublime (⭐368)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
@@ -488,11 +483,11 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
+*   [Netflix/ice :fire::fire::fire::fire::fire: (⭐2.8k)](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
 
 ### Guides, Books, Documentation, and Training / General Guides
 
-*   [Open Guide to AWS :fire::fire::fire::fire::fire: (⭐33k)](https://github.com/open-guides/og-aws)
+*   [Open Guide to AWS :fire::fire::fire::fire::fire: (⭐34k)](https://github.com/open-guides/og-aws)
 
 ## [39. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
@@ -641,7 +636,7 @@ git diff --ignore-all-space | git apply --cached
 
 ### Language Support
 
-*   [Grooveex (⭐14)](https://github.com/aesteve/grooveex) - Syntactic sugar + utilities (DSL builders, etc.) on top of [vertx-lang-groovy (⭐15)](https://github.com/vert-x3/vertx-lang-groovy).
+*   [Grooveex (⭐14)](https://github.com/aesteve/grooveex) - Syntactic sugar + utilities (DSL builders, etc.) on top of [vertx-lang-groovy (⭐13)](https://github.com/vert-x3/vertx-lang-groovy).
 
 ### Examples
 

@@ -26,10 +26,6 @@
 
 ## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
-### Experiments
-
-*   [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - An interactive exploration of polyrythmic rhythms.
-
 ### Videos
 
 *   [Paul Adenot: Elements of Dance Music - JSConf.Asia 2015](https://www.youtube.com/watch?v=Ww0jTafmd_w)
@@ -54,22 +50,18 @@
 *   *[Graph Theory](http://diestel-graph-theory.com/)*, by Reinhard Diestel - Full book online, also in Chinese and German (2016).
 *   *[Graph Theory](http://www.dtic.mil/dtic/tr/fulltext/u2/705364.pdf)*, by Frank Harary - Full book online (1969).
 *   *[Graphs & Digraphs](https://www.crcpress.com/Graphs--Digraphs-Sixth-Edition/Chartrand-Lesniak-Zhang/p/book/9781498735766)*, by Gary Chartrand, Linda Lesniak and Ping Zhang (2016).
-*   *[Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)*, by Daniel Guichard - Full book online (2016).
+*   *[Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)*, by David Guichard - Full book online (2016).
 *   *[Modern Graph Theory](https://www.springer.com/us/book/9780387984889)*, by Belá Bollobás (1998).
 
 ### Books / Software-specific
 
 *   *[Analyzing Social Networks](https://sites.google.com/site/analyzingsocialnetworks/)* (using UCINET), by Stephen P. Borgatti, Martin G. Everett and Jeffrey C. Johnson (2013).
 
-### Software / Social, Economic and Political Networks
-
-*   [SageMath](http://www.sagemath.org/) - Free open-source mathematics software with extensive [graph capabilities](http://doc.sagemath.org/html/en/reference/graphs/index.html).
-
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Inpad (⭐3.3k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+*   [Inpad (⭐3.4k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 
 ## [8. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

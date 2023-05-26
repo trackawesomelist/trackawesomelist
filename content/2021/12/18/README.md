@@ -16,7 +16,7 @@
 
 ### Software / Log Management
 
-*   [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
+*   [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code (⭐19k)](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 
 ## [3. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
@@ -28,22 +28,22 @@
 
 ### ARKit
 
-*   [ARHeadsetKit (⭐87)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
+*   [ARHeadsetKit (⭐92)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
     Microsoft Hololens.
 
 ## [5. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Interaction Trees (⭐166)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [Interaction Trees (⭐174)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
 
 ### Projects / Tools
 
-*   [Sail (⭐406)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
+*   [Sail (⭐440)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Monae (⭐62)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
+*   [Monae (⭐64)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
 
 ## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 

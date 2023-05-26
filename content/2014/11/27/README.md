@@ -10,15 +10,15 @@
 
 ### Algorithms and Data structures
 
-*   [loom (⭐218)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
+*   [loom (⭐219)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 
 ### Debugging
 
-*   [eflame (⭐408)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐412)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
-*   [feeder (⭐43)](https://github.com/michaelnisi/feeder) - Parse RSS and Atom feeds.
+*   [feeder (⭐44)](https://github.com/michaelnisi/feeder) - Parse RSS and Atom feeds.
 
 ### Macros
 
@@ -26,16 +26,16 @@
 
 ### ORM and Datamapping
 
-*   [datomex (⭐42)](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
+*   [datomex (⭐44)](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 
 ### Testing
 
-*   [blacksmith (⭐185)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
+*   [blacksmith (⭐189)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 *   [factory\_girl\_elixir (⭐42)](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory\_girl in Elixir.
 
 ### Text and Numbers
 
-*   [simetric (⭐58)](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
+*   [simetric (⭐59)](https://github.com/lexmag/simetric) - String similarity metrics for Elixir.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

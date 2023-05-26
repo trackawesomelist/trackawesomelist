@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [BrightstarDb (⭐447)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+*   [BrightstarDb (⭐452)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
 
 ### MVVM
 
@@ -18,9 +18,9 @@
 
 ### Serialization
 
-*   [Json.NET (⭐9.9k)](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
+*   [Json.NET (⭐10k)](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 *   [ServiceStack.Text (⭐1.2k)](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
-*   [Msgpack-Cli (⭐794)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
+*   [Msgpack-Cli (⭐798)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 
 ## [2. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

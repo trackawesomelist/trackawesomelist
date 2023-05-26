@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 07, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -73,7 +73,13 @@
 *   [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/)
 *   [Cloud Native Landscape](https://landscape.cncf.io/)
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [huggingface/tokenizers (⭐7k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
+
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -82,16 +88,6 @@
 ### Components & Libraries / Utilities
 
 *   [vue-use (⭐26)](https://github.com/openfext/vue-use) - Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
-
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Libraries / Artificial Intelligence
-
-*   [huggingface/tokenizers (⭐6.5k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
-
-### Registries / Web programming
-
-*   [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/cargo-registry/) — A fully managed package management SaaS, with first-class support for public and private Cargo/Rust registries (plus many others). Has a generous free-tier and is also completely free for open-source.
 
 ## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -103,22 +99,32 @@
 
 ### UI / Barcode
 
-*   [UltraDrawerView (⭐208)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
+*   [UltraDrawerView (⭐213)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [12. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [DeepDow (⭐680)](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning
+
+### Python / Data Sources
+
+*   [investpy (⭐1.4k)](https://github.com/alvarobartt/investpy) - Financial Data Extraction from Investing.com with Python! <https://investpy.readthedocs.io/>
+
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Indonesian
 
 *   [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
-## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Community Chat Rooms
 
-*   [cargo-hf2 (⭐45)](https://github.com/jacobrosenthal/hf2-rs)  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - ![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)
+*   [cargo-hf2 (⭐47)](https://github.com/jacobrosenthal/hf2-rs)  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - ![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)
 *   [uf2 (⭐22)](https://github.com/sajattack/uf2conv-rs) Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - ![crates.io](https://img.shields.io/crates/v/uf2.svg)
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Getting Started
 

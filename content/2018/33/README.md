@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 13 - Aug 19, 2018
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -187,24 +187,24 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐525)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐527)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Computer Science
 
-*   [Cryptography (⭐4.4k)](https://github.com/sobolevn/awesome-cryptography#readme)
-    *   [Papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
+*   [Cryptography (⭐4.5k)](https://github.com/sobolevn/awesome-cryptography#readme)
+    *   [Papers (⭐1.5k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 
 ### Media
 
-*   [FFmpeg (⭐839)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐858)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
 ## [17. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Speech Processing
 
-*   [Parselmouth (⭐724)](https://github.com/YannickJadoul/Parselmouth) [:octocat: (⭐724)](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
+*   [Parselmouth (⭐855)](https://github.com/YannickJadoul/Parselmouth) [:octocat: (⭐855)](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
 
 ## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -214,7 +214,7 @@
 
 ### XML
 
-*   [saxy (⭐242)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
+*   [saxy (⭐243)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 
 ## [19. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -286,7 +286,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐830)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐840)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
@@ -298,7 +298,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐57k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐172k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
+*   [keras (⭐58k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐174k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
 
 ## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -322,7 +322,7 @@
 
 ### Boilerplates
 
-*   [NextJS TypeScript Starter Kit (⭐344)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
+*   [NextJS TypeScript Starter Kit (⭐343)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
 *   [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 
 ## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
@@ -346,7 +346,7 @@
 
 ### Third party Guides
 
-*   [swift-tips (⭐939)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
+*   [swift-tips (⭐946)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 
 ### Other Awesome Lists
 
@@ -362,7 +362,7 @@
 
 ### Colors
 
-*   [UIGradient (⭐248)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
+*   [UIGradient (⭐252)](https://github.com/dqhieu/UIGradient) - A simple and powerful library for using gradient layer, image, color.
 
 ### Command Line
 
@@ -370,7 +370,7 @@
 
 ### JSON
 
-*   [EVReflection (⭐964)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
+*   [EVReflection (⭐965)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
 
 ### Key Value Store
 
@@ -383,7 +383,7 @@
 ### Dependency Injection
 
 *   [Deli (⭐134)](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
-*   [Weaver (⭐700)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
+*   [Weaver (⭐704)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
 
 ### Images / Barcode
 
@@ -395,7 +395,7 @@
 
 ### Network / Barcode
 
-*   [MultiPeer (⭐202)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
+*   [MultiPeer (⭐205)](https://github.com/dingwilson/MultiPeer) - A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices.
 
 ### Cards / Barcode
 
@@ -411,16 +411,16 @@
 
 ### UITableView / Barcode
 
-*   [ExpandableCell (⭐735)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
-*   [SwiftyComments (⭐220)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
+*   [ExpandableCell (⭐748)](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
+*   [SwiftyComments (⭐221)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 
 ### Utility / Barcode
 
-*   [Vaccine (⭐298)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
+*   [Vaccine (⭐299)](https://github.com/zenangst/Vaccine) - Make your apps immune to recompile-decease.
 
 ### Validation / Barcode
 
-*   [RxValidator (⭐153)](https://github.com/vbmania/RxValidator) - Simple, Extensible, Flexible Validation Checker.
+*   [RxValidator (⭐154)](https://github.com/vbmania/RxValidator) - Simple, Extensible, Flexible Validation Checker.
 
 ## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -440,108 +440,19 @@
 
 *   [Ali Spittel (⭐10)](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Ada
-
-*   [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
-
-### Assembly Language / Blazor
-
-*   [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
-
-### Awk / Non-X86
-
-*   [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer) - Wikibooks
-
-### C# / Non-X86
-
-*   [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
-
-### Clojure / Non-X86
-
-*   [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming) - Wikibooks
-
-### Erlang / Phoenix
-
-*   [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming) - Wikibooks (HTML)
-
-### F Sharp / Phoenix
-
-*   [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) - Wikibooks
-
-### Haskell / Spock Framework
-
-*   [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
-
-### Julia / Vue.js
-
-*   [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
-
-### LaTeX / TeX / LaTeX
-
-*   [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks
-
-### Linux / TeX
-
-*   [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - Wikibooks
-
-### Lua / PicoLisp
-
-*   [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
-
-### MATLAB / PicoLisp
-
-*   [MATLAB Programming](https://en.wikibooks.org/wiki/MATLAB_Programming) - Wikibooks
-
-### .NET Framework / PicoLisp
-
-*   [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
-
-### Octave / PicoLisp
-
-*   [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
-
-### OpenSCAD / PicoLisp
-
-*   [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual) - Wikibooks
-
-### PHP / PicoLisp
-
-*   [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
-*   [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
-*   [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
-
-### R / Tornado
-
-*   [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
-
-### Scheme / Play Scala
-
-*   [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - Wikibooks
-
-### xBase (dBase / Clipper / Harbour) / Vulkan
-
-*   [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) - Wikibooks
-*   [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper\(s\)) - Wikibooks
-
-## [34. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [33. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Language Bindings
 
 *   [Flambo (⭐607)](https://github.com/yieldbot/flambo) <img src="https://img.shields.io/github/last-commit/yieldbot/flambo.svg"> - Clojure DSL.
-*   [sparklyr (⭐896)](https://github.com/rstudio/sparklyr) <img src="https://img.shields.io/github/last-commit/rstudio/sparklyr.svg"> - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
+*   [sparklyr (⭐903)](https://github.com/rstudio/sparklyr) <img src="https://img.shields.io/github/last-commit/rstudio/sparklyr.svg"> - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
 *   [sparkle (⭐442)](https://github.com/tweag/sparkle) <img src="https://img.shields.io/github/last-commit/tweag/sparkle.svg"> - Haskell on Apache Spark.
 
 ### Packages / Notebooks and IDEs
 
 *   [Apache Zeppelin](https://zeppelin.incubator.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/zeppelin.svg"> - Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.
 *   [Spark Notebook (⭐3.1k)](https://github.com/andypetrella/spark-notebook) <img src="https://img.shields.io/github/last-commit/spark-notebook/spark-notebook.svg"> - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
-*   [sparkmagic (⭐1.2k)](https://github.com/jupyter-incubator/sparkmagic) <img src="https://img.shields.io/github/last-commit/jupyter-incubator/sparkmagic.svg"> - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy (⭐991)](https://github.com/cloudera/livy), in Jupyter notebooks.
+*   [sparkmagic (⭐1.2k)](https://github.com/jupyter-incubator/sparkmagic) <img src="https://img.shields.io/github/last-commit/jupyter-incubator/sparkmagic.svg"> - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy (⭐995)](https://github.com/cloudera/livy), in Jupyter notebooks.
 
 ### Packages / General Purpose Libraries
 
@@ -549,31 +460,31 @@
 
 ### Packages / SQL Data Sources
 
-*   [Spark XML (⭐431)](https://github.com/databricks/spark-xml) <img src="https://img.shields.io/github/last-commit/databricks/spark-xml.svg"> - XML parser and writer.
+*   [Spark XML (⭐441)](https://github.com/databricks/spark-xml) <img src="https://img.shields.io/github/last-commit/databricks/spark-xml.svg"> - XML parser and writer.
 *   [Spark Cassandra Connector (⭐1.9k)](https://github.com/datastax/spark-cassandra-connector) <img src="https://img.shields.io/github/last-commit/datastax/spark-cassandra-connector.svg"> - Cassandra support including data source and API and support for arbitrary queries.
-*   [Spark Riak Connector (⭐55)](https://github.com/basho/spark-riak-connector) <img src="https://img.shields.io/github/last-commit/basho/spark-riak-connector.svg"> - Riak TS & Riak KV connector.
-*   [Mongo-Spark (⭐666)](https://github.com/mongodb/mongo-spark) <img src="https://img.shields.io/github/last-commit/mongodb/mongo-spark.svg"> - Official MongoDB connector.
+*   [Spark Riak Connector (⭐57)](https://github.com/basho/spark-riak-connector) <img src="https://img.shields.io/github/last-commit/basho/spark-riak-connector.svg"> - Riak TS & Riak KV connector.
+*   [Mongo-Spark (⭐674)](https://github.com/mongodb/mongo-spark) <img src="https://img.shields.io/github/last-commit/mongodb/mongo-spark.svg"> - Official MongoDB connector.
 *   [OrientDB-Spark (⭐19)](https://github.com/orientechnologies/spark-orientdb) <img src="https://img.shields.io/github/last-commit/orientechnologies/spark-orientdb.svg"> - Official OrientDB connector.
 
 ### Packages / Bioinformatics
 
-*   [ADAM (⭐945)](https://github.com/bigdatagenomics/adam) <img src="https://img.shields.io/github/last-commit/bigdatagenomics/adam.svg"> - Set of tools designed to analyse genomics data.
-*   [Hail (⭐864)](https://github.com/hail-is/hail) <img src="https://img.shields.io/github/last-commit/hail-is/hail.svg"> - Genetic analysis framework.
+*   [ADAM (⭐949)](https://github.com/bigdatagenomics/adam) <img src="https://img.shields.io/github/last-commit/bigdatagenomics/adam.svg"> - Set of tools designed to analyse genomics data.
+*   [Hail (⭐874)](https://github.com/hail-is/hail) <img src="https://img.shields.io/github/last-commit/hail-is/hail.svg"> - Genetic analysis framework.
 
 ### Packages / GIS
 
-*   [Magellan (⭐522)](https://github.com/harsha2010/magellan) <img src="https://img.shields.io/github/last-commit/harsha2010/magellan.svg"> - Geospatial analytics using Spark.
+*   [Magellan (⭐525)](https://github.com/harsha2010/magellan) <img src="https://img.shields.io/github/last-commit/harsha2010/magellan.svg"> - Geospatial analytics using Spark.
 
 ### Packages / Time Series Analytics
 
 *   [Spark-Timeseries (⭐1.2k)](https://github.com/cloudera/spark-timeseries) <img src="https://img.shields.io/github/last-commit/cloudera/spark-timeseries.svg"> - Scala / Java / Python library for interacting with time series data on Apache Spark.
-*   [flint (⭐974)](https://github.com/twosigma/flint) <img src="https://img.shields.io/github/last-commit/twosigma/flint.svg"> - A time series library for Apache Spark.
+*   [flint (⭐979)](https://github.com/twosigma/flint) <img src="https://img.shields.io/github/last-commit/twosigma/flint.svg"> - A time series library for Apache Spark.
 
 ### Packages / Graph Processing
 
 *   [Mazerunner (⭐377)](https://github.com/neo4j-contrib/neo4j-mazerunner) <img src="https://img.shields.io/github/last-commit/neo4j-contrib/neo4j-mazerunner.svg"> - Graph analytics platform on top of Neo4j and GraphX.
-*   [GraphFrames (⭐911)](https://github.com/graphframes/graphframes) <img src="https://img.shields.io/github/last-commit/graphframes/graphframes.svg"> - Data frame based graph API.
-*   [neo4j-spark-connector (⭐292)](https://github.com/neo4j-contrib/neo4j-spark-connector) <img src="https://img.shields.io/github/last-commit/neo4j-contrib/neo4j-spark-connector.svg"> - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
+*   [GraphFrames (⭐919)](https://github.com/graphframes/graphframes) <img src="https://img.shields.io/github/last-commit/graphframes/graphframes.svg"> - Data frame based graph API.
+*   [neo4j-spark-connector (⭐293)](https://github.com/neo4j-contrib/neo4j-spark-connector) <img src="https://img.shields.io/github/last-commit/neo4j-contrib/neo4j-spark-connector.svg"> - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
 *   [SparklingGraph](http://sparkling.ml) <img src="https://img.shields.io/github/last-commit/sparkling-graph/sparkling-graph.svg"> - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.).
 
 ### Packages / Machine Learning Extension
@@ -582,28 +493,28 @@
 *   [Apache SystemML](https://systemml.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/systemml.svg"> - Declarative machine learning framework on top of Spark.
 *   [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) \[status unknown] - linear algebra DSL and optimizer with R-like syntax.
 *   [spark-sklearn (⭐1.1k)](https://github.com/databricks/spark-sklearn) <img src="https://img.shields.io/github/last-commit/databricks/spark-sklearn.svg"> - Scikit-learn integration with distributed model training.
-*   [JPMML-Spark (⭐94)](https://github.com/jpmml/jpmml-spark) <img src="https://img.shields.io/github/last-commit/jpmml/jpmml-spark.svg"> - PMML transformer library for Spark ML.
+*   [JPMML-Spark (⭐95)](https://github.com/jpmml/jpmml-spark) <img src="https://img.shields.io/github/last-commit/jpmml/jpmml-spark.svg"> - PMML transformer library for Spark ML.
 *   [Distributed Keras (⭐623)](https://github.com/cerndb/dist-keras) <img src="https://img.shields.io/github/last-commit/cerndb/dist-keras.svg"> - Distributed deep learning framework with PySpark and Keras.
 *   [ModelDB](https://mitdbg.github.io/modeldb) <img src="https://img.shields.io/github/last-commit/mitdbg/modeldb.svg"> - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn) <img src="https://img.shields.io/github/last-commit/scikit-learn/scikit-learn.svg">.
-*   [Sparkling Water (⭐939)](https://github.com/h2oai/sparkling-water) <img src="https://img.shields.io/github/last-commit/h2oai/sparkling-water.svg"> -  [H2O](http://www.h2o.ai/) interoperability layer.
+*   [Sparkling Water (⭐940)](https://github.com/h2oai/sparkling-water) <img src="https://img.shields.io/github/last-commit/h2oai/sparkling-water.svg"> -  [H2O](http://www.h2o.ai/) interoperability layer.
 *   [BigDL (⭐4.2k)](https://github.com/intel-analytics/BigDL) <img src="https://img.shields.io/github/last-commit/intel-analytics/BigDL.svg"> - Distributed Deep Learning library.
 *   [MLeap (⭐1.4k)](https://github.com/combust/mleap) <img src="https://img.shields.io/github/last-commit/combust/mleap.svg"> - Execution engine and serialization format which supports deployment of `o.a.s.ml` models without dependency on `SparkSession`.
 
 ### Packages / Middleware
 
 *   [spark-jobserver (⭐2.8k)](https://github.com/spark-jobserver/spark-jobserver) <img src="https://img.shields.io/github/last-commit/spark-jobserver/spark-jobserver.svg"> - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
-*   [Mist (⭐320)](https://github.com/Hydrospheredata/mist) <img src="https://img.shields.io/github/last-commit/Hydrospheredata/mist.svg"> - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services.
-*   [Apache Toree (⭐709)](https://github.com/apache/incubator-toree) <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
+*   [Mist (⭐322)](https://github.com/Hydrospheredata/mist) <img src="https://img.shields.io/github/last-commit/Hydrospheredata/mist.svg"> - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services.
+*   [Apache Toree (⭐711)](https://github.com/apache/incubator-toree) <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
 
 ### Packages / Utilities
 
 *   [silex (⭐18)](https://github.com/willb/silex) <img src="https://img.shields.io/github/last-commit/willb/silex.svg"> - Collection of tools varying from ML extensions to additional RDD methods.
 *   [sparkly (⭐54)](https://github.com/Tubular/sparkly) <img src="https://img.shields.io/github/last-commit/Tubular/sparkly.svg"> - Helpers & syntactic sugar for PySpark.
-*   [Flintrock (⭐620)](https://github.com/nchammas/flintrock) <img src="https://img.shields.io/github/last-commit/nchammas/flintrock.svg"> - A command-line tool for launching Spark clusters on EC2.
+*   [Flintrock (⭐622)](https://github.com/nchammas/flintrock) <img src="https://img.shields.io/github/last-commit/nchammas/flintrock.svg"> - A command-line tool for launching Spark clusters on EC2.
 
 ### Packages / Natural Language Processing
 
-*   [spark-corenlp (⭐427)](https://github.com/databricks/spark-corenlp) <img src="https://img.shields.io/github/last-commit/databricks/spark-corenlp.svg"> - DataFrame wrapper for [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
+*   [spark-corenlp (⭐425)](https://github.com/databricks/spark-corenlp) <img src="https://img.shields.io/github/last-commit/databricks/spark-corenlp.svg"> - DataFrame wrapper for [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
 
 ### Packages / Streaming
 
@@ -617,13 +528,13 @@
 ### Packages / Testing
 
 *   [spark-testing-base (⭐1.4k)](https://github.com/holdenk/spark-testing-base) <img src="https://img.shields.io/github/last-commit/holdenk/spark-testing-base.svg"> - Collection of base test classes.
-*   [spark-fast-tests (⭐379)](https://github.com/MrPowers/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/MrPowers/spark-fast-tests.svg"> - A lightweight and fast testing framework.
+*   [spark-fast-tests (⭐383)](https://github.com/MrPowers/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/MrPowers/spark-fast-tests.svg"> - A lightweight and fast testing framework.
 
 ### Packages / Workflow Management
 
-*   [Cromwell (⭐877)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐877)](https://github.com/broadinstitute/cromwell#spark-backend).
+*   [Cromwell (⭐881)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐881)](https://github.com/broadinstitute/cromwell#spark-backend).
 
-## [35. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [34. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -637,13 +548,13 @@
 *   [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 *   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/)
 
-## [37. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [36. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Wallets and Toolkits / Desktop
 
@@ -696,13 +607,13 @@
 
 *   [eosfilestore (⭐45)](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 
-## [38. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [37. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [malice.io (⭐1.4k)](https://github.com/maliceio/malice) - Massively scalable malware analysis framework.
 
-## [39. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [38. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Documentation and Resources / Display Manager
 
@@ -719,7 +630,7 @@
 *   [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) - Questions tagged with `kde`.
 
-## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [39. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -729,13 +640,13 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
-## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Content Management Systems / Videos
 
 *   [SleepingOwlAdmin (⭐744)](https://github.com/LaravelRUS/SleepingOwlAdmin)
 
-## [42. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [41. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Types of QA / Subtypes of QA
 
@@ -759,7 +670,7 @@
     *   DrQA <a name="drqa"></a>
         *   [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/people/danqi/papers/acl2017.pdf), Danqi Chen, Adam Fisch, Jason Weston & Antoine Bordes, ACL, 2017.
 
-## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 
@@ -767,7 +678,7 @@
 
 ### Open Source Repos / Accompanying Repos
 
-*   [aws-training-demo :fire: (⭐126)](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community.
+*   [aws-training-demo :fire: (⭐128)](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community.
 
 ---
 

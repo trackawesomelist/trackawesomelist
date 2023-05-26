@@ -28,7 +28,7 @@ Free
 
 ### Network / Scanning / Pentesting
 
-*   [Legion (⭐803)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+*   [Legion (⭐887)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
 ## [4. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
@@ -40,7 +40,7 @@ Free
 
 ### Image Processing
 
-*   [libfacedetection (⭐11k)](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. \[BSD]
+*   [libfacedetection (⭐12k)](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. \[BSD]
 
 ## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -95,7 +95,7 @@ Free
 
 ### Data Formats
 
-*   [BinData (⭐40)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐41)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -219,7 +219,7 @@ Free
 
 ### Testing / Scala
 
-*   [Hikaku (⭐186)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
+*   [Hikaku (⭐189)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
 ## [12. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -235,7 +235,7 @@ Free
 
 ### API
 
-*   [Ocelot (⭐7.5k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐7.6k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 

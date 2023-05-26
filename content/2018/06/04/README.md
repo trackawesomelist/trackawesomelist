@@ -32,7 +32,7 @@
 
 ### UI / Barcode
 
-*   [Family (⭐246)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
+*   [Family (⭐248)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
 
 ### Utility / Barcode
 

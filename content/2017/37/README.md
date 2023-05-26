@@ -17,8 +17,8 @@
 ### Helpers
 
 *   [Alfy (⭐2.5k)](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
-*   [AwGo (⭐805)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
-*   [Fuzzy Search (⭐86)](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
+*   [AwGo (⭐829)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
+*   [Fuzzy Search (⭐88)](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
 
 ## [3. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -31,14 +31,14 @@
 
 ### Scripts / GitHub
 
-*   [Github Reply Comments (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
-*   [GitHub Commit Whitespace (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-*   [Github Commit Diff (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [GitHub User Info (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
-*   [GitHub Image Viewer (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-*   [Github News Feed Filter (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [Github Pull Request From Link (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-*   [Github Pages Linker (⭐293)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [GitHub Commit Whitespace (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
+*   [GitHub Image Viewer (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+*   [GitHub User Info (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
+*   [Github Commit Diff (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+*   [Github News Feed Filter (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+*   [Github Pages Linker (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [Github Pull Request From Link (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [Github Reply Comments (⭐307)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 
 ## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -142,7 +142,7 @@ Webpage: <http://tartine.pt/>
 
 ### Machine Learning
 
-*   [crystal-fann (⭐83)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+*   [crystal-fann (⭐82)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
 
 ### Web Frameworks
 
@@ -152,11 +152,11 @@ Webpage: <http://tartine.pt/>
 
 ### CLI
 
-*   [PDCurses (⭐854)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
+*   [PDCurses (⭐882)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
 
 ### Debug
 
-*   [utest.h (⭐598)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
+*   [utest.h (⭐636)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
 
 ### Internationalization
 
@@ -164,11 +164,11 @@ Webpage: <http://tartine.pt/>
 
 ### JSON
 
-*   [json.h (⭐556)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
+*   [json.h (⭐581)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 
 ### Networking
 
-*   [curlcpp (⭐555)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
+*   [curlcpp (⭐574)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
 *   [wdt (⭐2.8k)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 
 ## [17. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
@@ -218,7 +218,7 @@ Webpage: <http://tartine.pt/>
 
 ### operations
 
-*   [CoGran (⭐103)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
+*   [CoGran (⭐105)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
 
 ## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -236,18 +236,18 @@ Webpage: <http://tartine.pt/>
 
 ### Audio Related Packages / Read-Write
 
-*   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.1k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
+*   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.2k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
 
 ### Audio Related Packages / Feature extraction
 
-*   [speechpy (⭐866)](https://github.com/astorfi/speechpy) [:octocat: (⭐866)](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
+*   [speechpy (⭐872)](https://github.com/astorfi/speechpy) [:octocat: (⭐872)](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
 ## [27. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐814)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐149)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Numix Circle (⭐838)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐151)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ## [28. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
@@ -279,8 +279,8 @@ Webpage: <http://tartine.pt/>
 
 ### Components & Libraries / UI Components
 
-*   [@hscmap/vue-window (⭐292)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
-*   [vue-gallery (⭐437)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
+*   [@hscmap/vue-window (⭐294)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
+*   [vue-gallery (⭐440)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
 
 ## [31. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -296,7 +296,7 @@ Webpage: <http://tartine.pt/>
 
 ### Open Source Repos / Elastic Search
 
-*   [logstash-output-amazon\_es :fire::fire: (⭐378)](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
+*   [logstash-output-amazon\_es :fire::fire: (⭐376)](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
 
 ## [33. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -316,7 +316,7 @@ Webpage: <http://tartine.pt/>
 
 ### Security and Cryptography
 
-*   [nocrypto (⭐109)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
+*   [nocrypto (⭐110)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
 ## [35. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -328,20 +328,20 @@ Webpage: <http://tartine.pt/>
 
 ### Build Automation
 
-*   [Nuke (⭐1.8k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+*   [Nuke (⭐1.9k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 
 ### Event aggregator and messenger
 
 *   [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - Super-simple Reactive-Extension code from Reactive.EventAggregator
-*   [TinyMessenger (⭐263)](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
+*   [TinyMessenger (⭐270)](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
 
 ### Image Processing
 
-*   [OpenCvSharp (⭐4.4k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
+*   [OpenCvSharp (⭐4.6k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 
 ### IoC
 
-*   [TinyIoC (⭐812)](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
+*   [TinyIoC (⭐814)](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
 
 ### Logging
 
@@ -349,19 +349,19 @@ Webpage: <http://tartine.pt/>
 
 ### Misc
 
-*   [HidLibrary (⭐509)](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
+*   [HidLibrary (⭐519)](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
 
 ### MVVM
 
-*   [MVVM Dialogs (⭐509)](https://github.com/FantasticFiasco/mvvm-dialogs) - Framework simplifying the concept of opening dialogs from a view model when using MVVM in WPF or UWP.
+*   [MVVM Dialogs (⭐538)](https://github.com/FantasticFiasco/mvvm-dialogs) - Framework simplifying the concept of opening dialogs from a view model when using MVVM in WPF or UWP.
 
 ### Office
 
-*   [ExcelDataReader (⭐3.4k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
+*   [ExcelDataReader (⭐3.5k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ### PDF
 
-*   [PdfiumViewer (⭐844)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
+*   [PdfiumViewer (⭐861)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 
 ## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -386,7 +386,7 @@ Webpage: <http://tartine.pt/>
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Awesome Core ML Models (⭐5.7k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+*   [Awesome Core ML Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 ## [39. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -415,8 +415,8 @@ Webpage: <http://tartine.pt/>
 ### :sparkles: Tutorials
 
 *   [How to implement classification using logistic regression in Ruby](https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
-*   [Teaching an AI to play a simple game using Q-Learning in Ruby](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/) <sup>\[[code (⭐36)](https://github.com/daugaard/q-learning-simple-game)]</sup>
-*   [Teaching a Neural Network to play a game using Q-Learning in Ruby](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/) <sup>\[[code (⭐36)](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
+*   [Teaching an AI to play a simple game using Q-Learning in Ruby](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/) <sup>\[[code (⭐37)](https://github.com/daugaard/q-learning-simple-game)]</sup>
+*   [Teaching a Neural Network to play a game using Q-Learning in Ruby](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/) <sup>\[[code (⭐37)](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
 
 ---
 

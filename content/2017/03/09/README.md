@@ -17,8 +17,8 @@
 
 ### serialization
 
-*   [geojson-jackson (⭐245)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
-*   [mapbox-java (⭐383)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐22k)](https://github.com/google/gson))
+*   [geojson-jackson (⭐251)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
+*   [mapbox-java (⭐393)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐22k)](https://github.com/google/gson))
 
 ### resources
 
@@ -49,19 +49,19 @@
 
 ### ORM
 
-*   [FluentMigrator (⭐2.9k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
+*   [FluentMigrator (⭐3k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
 
 ## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment
 
-*   [pockyt (⭐477)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
+*   [pockyt (⭐483)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [fuku-ml (⭐280)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
+*   [fuku-ml (⭐279)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 
 ## [8. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 

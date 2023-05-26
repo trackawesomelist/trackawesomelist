@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,9 +16,15 @@
 
 ### Software / JavaScript
 
-*   [greuler](https://mauriciopoppe.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](http://marvl.infotech.monash.edu/webcola/).
+*   [greuler](https://mauriciopoppe.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](https://ialab.it.monash.edu/webcola/).
 
-## [3. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [3. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [mlfinlab (⭐3.4k)](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
+
+## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -29,19 +35,19 @@
 *   [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 *   [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 
-## [4. Amas](/content/sindresorhus/amas/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [KimSia Sim (⭐0)](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com). Based in Singapore.
 
-## [5. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 
-## [6. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [7. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Books
 

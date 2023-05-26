@@ -17,7 +17,7 @@
 ### Ask these people anything!
 
 *   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
-*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.1k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
+*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.8k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
 
 ## [3. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
 
@@ -59,8 +59,8 @@
 
 ### Economics on GitHub / Projects
 
-*   [economics-book (⭐28)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-*   [pyeconomics (⭐170)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+*   [economics-book (⭐29)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+*   [pyeconomics (⭐183)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 *   [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 *   [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
@@ -68,17 +68,17 @@
 
 ### Books
 
-*   [Online Mathematics Textbooks](https://people.math.gatech.edu/\~cain/textbooks/onlinebooks.html)
+*   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Examples and funny stuff
 
-*   [elixir\_koans (⭐1.9k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
+*   [elixir\_koans (⭐2k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
 
 ### ORM and Datamapping
 
-*   [redix (⭐989)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
+*   [redix (⭐1k)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
 *   [riak\_ecto (⭐30)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ---

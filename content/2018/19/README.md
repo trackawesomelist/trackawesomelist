@@ -23,8 +23,8 @@
 
 ### Applications
 
-*   [LCVPN (⭐508)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
-*   [Meshbird (⭐3.4k)](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
+*   [LCVPN (⭐512)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
+*   [Meshbird (⭐3.5k)](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
 *   [nuTorrent ☠️ (⭐231)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 
 ## [4. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
@@ -87,7 +87,7 @@
 
 ### Contents / Components
 
-*   [Pimg (⭐98)](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
+*   [Pimg (⭐100)](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
 
 ## [9. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Date and Time
 
-*   [cocktail (⭐134)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐178)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -117,7 +117,7 @@
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐30)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐32)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 
@@ -125,7 +125,7 @@
 
 ### Queue
 
-*   [gen\_rmq (⭐173)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
+*   [gen\_rmq (⭐178)](https://github.com/meltwater/gen_rmq) - Set of behaviours meant to be used to create RabbitMQ consumers and publishers.
 
 ### Security
 
@@ -137,7 +137,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐93)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐94)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 
@@ -294,8 +294,8 @@
 
 ### System
 
-*   [baked\_file\_system (⭐164)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
-*   [hardware (⭐70)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
+*   [baked\_file\_system (⭐170)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [hardware (⭐71)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -331,17 +331,17 @@
 
 ### Review Articles / Archeological and Historical Networks
 
-*   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); *IET Systems Biology*, 2007).
+*   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](https://arxiv.org/abs/q-bio/0604006); *IET Systems Biology*, 2007).
 
 ## [22. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 
-*   [eb-demo-php-simple-app :fire: (⭐143)](https://github.com/awslabs/eb-demo-php-simple-app) - Simple PHP app.
+*   [eb-demo-php-simple-app :fire: (⭐142)](https://github.com/awslabs/eb-demo-php-simple-app) - Simple PHP app.
 
 ### Open Source Repos / Elastic MapReduce
 
-*   [emr-bootstrap-actions :fire::fire::fire: (⭐613)](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
+*   [emr-bootstrap-actions :fire::fire::fire: (⭐612)](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
 
 ## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -360,7 +360,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-persian-datetime-picker (⭐558)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
+*   [vue-persian-datetime-picker (⭐561)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 
 ### Components & Libraries / UI Utilities
 
@@ -427,7 +427,7 @@
 ### .NET / General-Purpose Machine Learning
 
 *   [GeneticSharp (⭐1.1k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
-*   [ML.NET (⭐8.3k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
+*   [ML.NET (⭐8.4k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
 *   [Vulpes (⭐116)](https://github.com/fsprojects/Vulpes) - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 
 ## [30. Bots](/content/hackerkid/bots/week/README.md)
@@ -474,19 +474,19 @@
 
 ### Metadata
 
-*   [SDPoker (⭐32)](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
+*   [SDPoker (⭐33)](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 
 ## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Container Security (⭐7)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
+*   [Awesome Container Security (⭐10)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
-*   [SpriteKitEasingSwift (⭐110)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
+*   [SpriteKitEasingSwift (⭐112)](https://github.com/craiggrummitt/SpriteKitEasingSwift) - Better Easing for SpriteKit.
 
 ### Core Data
 
@@ -494,12 +494,12 @@
 
 ### Images / Barcode
 
-*   [BlockiesSwift (⭐57)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
-*   [ImageDetect (⭐299)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
+*   [BlockiesSwift (⭐58)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
+*   [ImageDetect (⭐301)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts in image with iOS 11 Vision API.
 
 ### Logging / Barcode
 
-*   [TraceLog (⭐52)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
+*   [TraceLog (⭐51)](https://github.com/tonystone/tracelog) :penguin: - Dead Simple: logging the way it's meant to be!  Runs on iOS, macOS, and Linux.
 
 ### Webserver / Barcode
 
@@ -507,11 +507,11 @@
 
 ### Scripting / Barcode
 
-*   [Swift for Scripting (⭐198)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
+*   [Swift for Scripting (⭐234)](https://github.com/artemnovichkov/Swift-For-Scripting) - A hand-curated collection of useful and informative scripting material.
 
 ### Text / Barcode
 
-*   [Croc (⭐127)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
+*   [Croc (⭐129)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 
 ### Template / Barcode
 
@@ -519,7 +519,7 @@
 
 ### Transition / Barcode
 
-*   [EasyTransitions (⭐1.6k)](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
+*   [EasyTransitions (⭐1.7k)](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 
 ## [37. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
@@ -589,15 +589,15 @@
 
 ### Assets
 
-*   [Bundle Transformer (⭐119)](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
+*   [Bundle Transformer (⭐120)](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
 
 ### Compilers, Transpilers and Languages
 
-*   [Mond (⭐308)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐311)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ### Compression
 
-*   [DotNetZip.Semverd (⭐490)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
+*   [DotNetZip.Semverd (⭐499)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
 
 ### Cryptography
 
@@ -605,7 +605,7 @@
 
 ### ETL
 
-*   [Cinchoo ETL (⭐624)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
+*   [Cinchoo ETL (⭐657)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
 *   [Reactive ETL](https://archive.codeplex.com/?p=reactiveetl) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ### Event aggregator and messenger
@@ -614,11 +614,11 @@
 
 ### GUI
 
-*   [Office Ribbon (⭐671)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
+*   [Office Ribbon (⭐680)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
 
 ### HTTP
 
-*   [Refit (⭐6.8k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+*   [Refit (⭐7.2k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 
 ### Minification
 
@@ -630,7 +630,7 @@
 
 ### MVVM
 
-*   [MVVM Light Toolkit (⭐1.1k)](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
+*   [MVVM Light Toolkit (⭐1.2k)](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
 
 ### Office
 
@@ -638,11 +638,11 @@
 
 ### PDF
 
-*   [WkhtmlToPdf (⭐261)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
+*   [WkhtmlToPdf (⭐263)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 
 ### Reactive Programming
 
-*   [Rx.NET (⭐5.8k)](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
+*   [Rx.NET (⭐6k)](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 
 ### Testing
 
@@ -656,7 +656,7 @@
 
 *   [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
 *   [Crossertech](https://crosser.io/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **\[$]**
-*   [WampSharp (⭐381)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
+*   [WampSharp (⭐382)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 
 ---
 

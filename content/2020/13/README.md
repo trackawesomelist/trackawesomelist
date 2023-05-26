@@ -1,26 +1,18 @@
 # Awesome List Updates on Mar 30 - Apr 05, 2020
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Tools / React Component Libraries
-
-*   [react-bulma-components (⭐1.2k)](https://github.com/couds/react-bulma-components) - React components for Bulma framework
-*   [react-bulma (⭐467)](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
-*   [trunx (⭐60)](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
-
-## [2. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [1. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Deployment and Operation
 
 *   [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a/li17a.pdf)🎓
 
-## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Self-hosted VPNs
 
@@ -28,25 +20,25 @@
 *   [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 *   [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
-## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript. +CT, +TS.
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online Books
 
 *   [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
 
-## [6. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [5. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [e-gs](https://www.e-gs.ethz.ch/) - Online web portal of the ETH Zurich Graphics Collection.
 
-## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Self-Hosted Services / Misc
 
@@ -55,19 +47,19 @@
 *   [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 *   [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Data Validation
 
-*   [struct (⭐117)](https://github.com/funcool/struct)
+*   [struct (⭐118)](https://github.com/funcool/struct)
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [MailyGo](https://codeberg.org/jlelse/MailyGo) - MailyGo is a small tool written in Go that allows to send HTML forms, for example from static websites without a dynamic backend, via email. `MIT` `Go`
 
-## [10. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [9. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Videos
 
@@ -80,7 +72,7 @@
 *   [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
 *   [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
 
-## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -90,28 +82,28 @@
 
 
 
-## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Natural Language Processing
 
 *   General
     *   [gensim (⭐14k)](https://github.com/RaRe-Technologies/gensim) - Topic Modeling for Humans.
-    *   [langid.py (⭐2k)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
+    *   [langid.py (⭐2.1k)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
     *   [nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
     *   [pattern (⭐8.4k)](https://github.com/clips/pattern) - A web mining module.
     *   [polyglot (⭐2.1k)](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
     *   [pytext (⭐6.4k)](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
-    *   [PyTorch-NLP (⭐2.1k)](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
+    *   [PyTorch-NLP (⭐2.2k)](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
     *   [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
-    *   [Stanza (⭐6.4k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
+    *   [Stanza (⭐6.5k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 
-## [13. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [12. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
 *   [Tutorial (⭐23)](https://github.com/schweitzer/modern-cmake-tutorial) - Tutorial and Example on How to Properly Use Modern CMake.
 
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -121,13 +113,13 @@
 
 *   [EmberConf 2020](https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N) - Videos of the sessions from EmberConf 2020.
 
-## [15. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [14. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface but you can always glue them together.
 
-## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Datasets
 
@@ -137,50 +129,50 @@
 
 *   [iprfc (⭐2)](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
 
-## [17. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
-*   [Web Archiving (⭐1.4k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+*   [Web Archiving (⭐1.5k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Encoding
 
 *   JSON
-    *   [importcjj/rust-ajson (⭐92)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
-    *   [maciejhirsz/json-rust (⭐514)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
-    *   [pikkr/pikkr (⭐619)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
-    *   [serde-rs/json (⭐3.7k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.8k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
-    *   [simd-lite/simd-json (⭐776)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
+    *   [importcjj/rust-ajson (⭐94)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly
+    *   [maciejhirsz/json-rust (⭐522)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust
+    *   [pikkr/pikkr (⭐624)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
+    *   [serde-rs/json (⭐3.9k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐7.2k)](https://github.com/serde-rs/serde) framework
+    *   [simd-lite/simd-json (⭐834)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
-## [19. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [18. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [archivenow (⭐341)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
-*   [Chronicler (⭐75)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
+*   [archivenow (⭐348)](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
+*   [Chronicler (⭐76)](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
 *   [Crawl](https://git.autistici.org/ale/crawl) - A simple web crawler in Golang. *(Stable)*
 *   [crocoite (⭐39)](https://github.com/promyloph/crocoite) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files. *(In Development)*
 *   [F(b)arc (⭐75)](https://github.com/justinlittman/fbarc) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api). *(Stable)*
-*   [freeze-dry (⭐244)](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
-*   [grab-site (⭐959)](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
-*   [html2warc (⭐8)](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
+*   [freeze-dry (⭐250)](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
+*   [grab-site (⭐1k)](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
+*   [html2warc (⭐10)](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
 *   [HTTrack](http://www.httrack.com/) - An open source website copying utility. *(Stable)*
-*   [monolith (⭐5k)](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
-*   [SingleFile (⭐10k)](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
+*   [monolith (⭐5.4k)](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
+*   [SingleFile (⭐11k)](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 *   [SiteStory](http://mementoweb.github.com/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server. *(Stable)*
 *   [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs. *(Stable)*
-*   [Squidwarc (⭐153)](https://github.com/N0taN3rd/Squidwarc) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
+*   [Squidwarc (⭐156)](https://github.com/N0taN3rd/Squidwarc) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
 *   [StormCrawler](http://stormcrawler.net/) - A collection of resources for building low-latency, scalable web crawlers on Apache Storm. *(Stable)*
 *   [twarc (⭐1.3k)](https://github.com/docnow/twarc) - A command line tool and Python library for archiving Twitter JSON data. *(Stable)*
 *   [WARCreate](http://matkelly.com/warcreate/) - A [Google Chrome](https://www.google.com/intl/en/chrome/browser/) extension for archiving an individual webpage or website to a WARC file. *(Stable)*
-*   [Warcworker (⭐48)](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI. *(Stable)*
-*   [Web2Warc (⭐22)](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
+*   [Warcworker (⭐49)](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI. *(Stable)*
+*   [Web2Warc (⭐23)](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
 *   [Webrecorder](https://webrecorder.io/) - Create high-fidelity, interactive recordings of any web site you browse. *(Stable)*
 *   [Wget](http://www.gnu.org/software/wget/) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output). *(Stable)*
 *   [Wget-lua (⭐22)](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
-*   [Wpull (⭐465)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
+*   [Wpull (⭐490)](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
 
 ### Tools & Software / Search & Discovery
 
@@ -192,30 +184,30 @@
 *   [httpreserve.info](http://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. Returns JSON via browser or command line via CURL using GET (Golang Package). *(Stable)*
 *   [HTTPreserve Workbench (⭐2)](https://github.com/httpreserve/workbench) - Tool and API to describe the status of a web page encoded in a simple JSON output describing current status, and earliest and latest links on wayback.org. Save a web page to the Internet Archive. Audit lists of URIs and output a CSV with the data described above (Golang). *(In Development)*
 *   [MementoMap (⭐6)](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python). *(In Development)*
-*   [MemGator (⭐45)](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang). *(Stable)*
+*   [MemGator (⭐46)](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang). *(Stable)*
 *   [node-cdxj (⭐0)](https://github.com/N0taN3rd/node-cdxj) - [CDXJ (⭐15)](https://github.com/oduwsdl/ORS/wiki/CDXJ) file parser (Node.js). *(Stable)*
 *   [OutbackCDX (⭐27)](https://github.com/nla/outbackcdx) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and [Heritrix (⭐8)](https://github.com/ukwa/ukwa-heritrix/blob/master/src/main/java/uk/bl/wap/modules/uriuniqfilters/OutbackCDXRecentlySeenUriUniqFilter.java). *(Stable)*
 *   [py-wasapi-client (⭐12)](https://github.com/unt-libraries/py-wasapi-client) - Command line application to download crawls from WASAPI (Python). *(Stable)*
 *   [tikalinkextract (⭐7)](https://github.com/httpreserve/tikalinkextract) - Extract hyperlinks as a seed for web archiving from folders of document types that can be parsed by Apache Tika (Golang, Apache Tika Server). *(In Development)*
 *   [wasapi-downloader (⭐5)](https://github.com/sul-dlss/wasapi-downloader) - Java command line application to download crawls from WASAPI. *(Stable)*
 *   [WarcPartitioner (⭐1)](https://github.com/helgeho/WarcPartitioner) - Partition (W)ARC Files by MIME Type and Year. *(Stable)*
-*   [wikiteam (⭐559)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
+*   [wikiteam (⭐598)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
 
 ### Tools & Software / WARC I/O Libraries
 
 *   [HadoopConcatGz (⭐9)](https://github.com/helgeho/HadoopConcatGz) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and `*.warc.gz`). *(Stable)*
 *   [Jwat](https://sbforge.org/display/JWAT/JWAT) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files (Java). *(Stable)*
-*   [node-warc (⭐80)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐3.9k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
-*   [Warcat (⭐118)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
+*   [node-warc (⭐86)](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface (⭐4k)](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). *(Stable)*
+*   [Warcat (⭐126)](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). *(Stable)*
 
 ### Tools & Software / Analysis
 
-*   [ArchiveSpark (⭐127)](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation. *(Stable)*
+*   [ArchiveSpark (⭐136)](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation. *(Stable)*
 *   [Archives Unleashed Notebooks (⭐18)](https://github.com/archivesunleashed/notebooks) - Notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit. *(Stable)*
 *   [Archives Unleashed Toolkit (⭐125)](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
 *   [Tweet Archvies Unleashed Toolkit (⭐8)](https://github.com/archivesunleashed/twut) - An open-source toolkit for analyzing line-oriented JSON Twitter archives with Apache Spark. *(In Development)*
 
-## [20. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [19. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Tarpits
 
@@ -227,29 +219,29 @@
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [ChopShop (⭐471)](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
-*   [Maltrail (⭐4.9k)](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
+*   [ChopShop (⭐476)](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
+*   [Maltrail (⭐5k)](https://github.com/stamparm/maltrail) - Malicious network traffic detection system.
 *   [OwlH](https://www.owlh.net/) - Helps manage network IDS at scale by visualizing Suricata, Zeek, and Moloch life cycles.
 *   [Snort](https://snort.org/) - Widely-deployed, Free Software IPS capable of real-time packet analysis, traffic logging, and custom rule-based triggers.
-*   [SpoofSpotter (⭐46)](https://github.com/NetSPI/SpoofSpotter) - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
+*   [SpoofSpotter (⭐47)](https://github.com/NetSPI/SpoofSpotter) - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
 *   [Suricata](https://suricata-ids.org/) - Free, cross-platform, IDS/IPS with on- and off-line analysis modes and deep packet inspection capabilities that is also scriptable with Lua.
 *   [Wireshark](https://www.wireshark.org) - Free and open-source packet analyzer useful for network troubleshooting or forensic netflow analysis.
 *   [netsniff-ng](http://netsniff-ng.org/) -  Free and fast GNU/Linux networking toolkit with numerous utilities such as a connection tracking tool (`flowtop`), traffic generator (`trafgen`), and autonomous system (AS) trace route utility (`astraceroute`).
 
 ### Security monitoring / Threat hunting
 
-*   [CimSweep (⭐611)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.
-*   [DeepBlueCLI (⭐1.6k)](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
-*   [GRR Rapid Response (⭐4.2k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
+*   [CimSweep (⭐617)](https://github.com/PowerShellMafia/CimSweep) - Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.
+*   [DeepBlueCLI (⭐1.7k)](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
+*   [GRR Rapid Response (⭐4.3k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
 *   [Hunting ELK (HELK) (⭐3.4k)](https://github.com/Cyb3rWard0g/HELK) - All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook.
 *   [MozDef (⭐2.2k)](https://github.com/mozilla/MozDef) - Automate the security incident handling process and facilitate the real-time activities of incident handlers.
-*   [PSHunt (⭐237)](https://github.com/Infocyte/PSHunt) - PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.
-*   [PSRecon (⭐458)](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
-*   [PowerForensics (⭐1.2k)](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
-*   [rastrea2r (⭐206)](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
+*   [PSHunt (⭐252)](https://github.com/Infocyte/PSHunt) - PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.
+*   [PSRecon (⭐461)](https://github.com/gfoss/PSRecon) - PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.
+*   [PowerForensics (⭐1.3k)](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
+*   [rastrea2r (⭐212)](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
 *   [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
-## [21. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [20. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -263,31 +255,31 @@
 
 *   [Setup Mint (⭐9)](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 
-## [22. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [21. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Platformer
 
-*   [Omnispeak (⭐269)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
+*   [Omnispeak (⭐271)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 
-## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Experimental / Redux / ELM / Dependency Injection
 
 *   [styled\_widget (⭐975)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
-## [24. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [23. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
-*   [Berty (⭐6.6k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+*   [Berty (⭐6.7k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
 
-## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [24. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-thumbs (⭐630)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐655)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
-## [26. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [25. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Analytics
 
@@ -566,13 +558,13 @@
 *   [xConnectDeployer (⭐2)](https://github.com/boro2g/xConnectDeployer) - An example console application you can use to deploy the Marketing Automation Engine.
 *   [Right To Be Forgotten (⭐0)](https://github.com/steviemcg/SitecoreComms.RTBF) - A "Execute Right To Be Forgotten" plugin for Marketing Automation Action.
 
-## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Personal Security (⭐9.7k)](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
+*   [Awesome Personal Security (⭐11k)](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
 
-## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [27. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Microservice
 
@@ -582,20 +574,24 @@
 
 *   [Arthas (⭐32k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### UI / Barcode
+
+*   [ActivityIndicatorView (⭐1k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### CSV
 
-*   [CodableCSV (⭐371)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CodableCSV (⭐381)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
 *   [CSVParser (⭐85)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
-## [30. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [29. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [How to get Keycloak working with Docker](https://www.ivonet.nl/2015/05/23/Keycloak-Docker/)
 
-## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -611,13 +607,13 @@
 
 
 
-## [32. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [31. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Windows Utilities / Web Exploitation Books
 
 *   [ctftool (⭐1.6k)](https://github.com/taviso/ctftool) - Interactive Collaborative Translation Framework (CTF) exploration tool capable of launching cross-session edit session attacks.
 
-## [33. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [32. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Carbon Reduction
 
@@ -859,7 +855,7 @@
 *   [WageWorks Bicycle Reimbursement Program](https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/) - Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
 *   [Waze Carpool](https://www.waze.com/carpool) - Choose to drive or ride, and match with people based on route and time of day.
 
-## [34. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [33. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Architecture
 
@@ -873,7 +869,7 @@
 
 *   [Http/Adapter/Cake library (⭐4)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.4k)](https://github.com/php-http/httplug) HTTP client abstraction.
 
-## [35. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [34. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Mobile
 
@@ -881,7 +877,21 @@
 
 ### Mobile / Android
 
-*   🔌 [Firecoil (⭐35)](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
+*   🔌 [Firecoil (⭐36)](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
+
+## [35. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Menu
+
+*   [SwiftyMenu (⭐522)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
+
+### Utility / Collection View Layout
+
+*   [ReviewKit (⭐25)](https://github.com/simonmitchell/ReviewKit) - A framework which helps gatekeep review prompt requests – using SKStoreReviewController – to users who have had a good time using your app by logging positive and negative actions.
+
+### User Consent / Collection View Layout
+
+*   [PrivacyFlash Pro (⭐145)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
 ## [36. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
@@ -898,45 +908,27 @@
 
 ### Articles/Guides/Tutorials
 
-*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐516)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
+*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐518)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
 
-## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Activity Indicator
-
-*   [ActivityIndicatorView (⭐1k)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
-
-### Menu
-
-*   [SwiftyMenu (⭐509)](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant DropDown menu for iOS 🔥💥
-
-### Utility / Collection View Layout
-
-*   [ReviewKit (⭐25)](https://github.com/simonmitchell/ReviewKit) - A framework which helps gatekeep review prompt requests – using SKStoreReviewController – to users who have had a good time using your app by logging positive and negative actions.
-
-### User Consent / Collection View Layout
-
-*   [PrivacyFlash Pro (⭐143)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
-
-## [39. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [38. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
 *   [Mutation testing elements (⭐17)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 
-## [40. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [39. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Managing Remotely](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Managing-Remotely.md)
 
-## [41. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [40. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Performance Testing / Streaming Protocols
 
-*   [HLS JMeter Plugin (⭐40)](https://github.com/Blazemeter/HLSPlugin)
+*   [HLS JMeter Plugin (⭐41)](https://github.com/Blazemeter/HLSPlugin)
 
-## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / H companies
 
@@ -950,29 +942,29 @@
 
 *   Tania Rascia <https://tania.dev/>
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
-*   [amqp-client.cr (⭐61)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
+*   [amqp-client.cr (⭐62)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
 
 ### Web Frameworks
 
 *   [Shivneri (⭐21)](https://github.com/ujjwalguptaofficial/shivneri) - Component based MVC web framework for crystal targeting good code structures, modularity & performance
 
-## [44. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [43. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Related Projects
 
 *   [React Admin](https://marmelab.com/react-admin/) - A frontend Framework for building admin applications running in the browser, on top of REST/GraphQL APIs, using ES6, React and Material Design.
 
-## [45. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [44. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Courses
 
 *   [Molecular modeling course](https://dasher.wustl.edu/chem478/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
 
-## [46. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [45. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Unions
 
@@ -982,35 +974,35 @@
 
 *   [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - How to use any package version in pub to resolve package version conflicts.
 
-## [47. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [46. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### AI
 
 *   [astar (⭐9)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
 
-## [48. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [47. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐35k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐36k)](https://github.com/gorhill/uBlock)
 
-## [49. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [48. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
 *   [Cozy](http://cozy.io) is a personal cloud [you can host](https://docs.cozy.io/en/tutorials/selfhost-debian/), hack and delete. With Cozy, you manage your web apps like you were on your smartphone. It provides an open market place from where you can install the web app you made yourself (Cozy is a [personal PaaS](http://cozy.io/hack/getting-started/architecture-overview.html)).
 
-### Messaging
+### Dead
 
 *   [Apoapse](https://apoapse.space/) is dedicated to advancing cybersecurity into general use across the business ecosystem. A variety of open-source solutions are offered, such as Apoapse Pro, a self-hosted collaborative messaging platform, or Apoapse Protocol, a secure message and data sharing C++ network library.
 
-## [50. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
-*   [denomander (⭐132)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐136)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -1022,13 +1014,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐350)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐362)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ### Components & Libraries / UI Components
 
 *   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
-## [52. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [51. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Theming
 

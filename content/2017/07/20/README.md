@@ -26,7 +26,7 @@
 *   [Kafka (⭐54)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
 *   [AMQP (⭐58)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
 *   [MPI (⭐20)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
-*   [MQTT (⭐19)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
+*   [MQTT (⭐20)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐385)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐397)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ya-semantic-modal (⭐20)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
+*   [vue-ya-semantic-modal (⭐19)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

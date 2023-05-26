@@ -10,12 +10,12 @@
 
 ### Regular Expressions
 
-*   [Re (⭐194)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
-*   [ocaml-pcre (⭐24)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+*   [Re (⭐203)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
+*   [ocaml-pcre (⭐26)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ### Serialization
 
-*   [sexplib (⭐135)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
+*   [sexplib (⭐140)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -25,7 +25,7 @@
 
 ### Image Processing
 
-*   [Phasion (⭐692)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+*   [Phasion (⭐693)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
 
 ### Security
 

@@ -108,18 +108,18 @@
 
 ### Machine Learning Libraries / Frameworks
 
-*   [weka (⭐67)](https://github.com/paulgoetze/weka-jruby) -
+*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
-*   [ai4r (⭐709)](https://github.com/SergioFierens/ai4r) -
+*   [ai4r (⭐711)](https://github.com/SergioFierens/ai4r) -
     Artificial Intelligence for Ruby.
-*   [classifier-reborn (⭐531)](https://github.com/jekyll/classifier-reborn) -
+*   [classifier-reborn (⭐536)](https://github.com/jekyll/classifier-reborn) -
     General classifier module to allow Bayesian and other types of classifications. <sup>\[[dep: GLS](#gls)]</sup>
 
 ### Machine Learning Libraries / Neural networks
 
-*   [neural-net-ruby (⭐114)](https://github.com/gbuesing/neural-net-ruby) -
+*   [neural-net-ruby (⭐120)](https://github.com/gbuesing/neural-net-ruby) -
     Neural network written in Ruby.
-*   [ruby-fann (⭐451)](https://github.com/tangledpath/ruby-fann) -
+*   [ruby-fann (⭐455)](https://github.com/tangledpath/ruby-fann) -
     Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 *   [cerebrum (⭐35)](https://github.com/irfansharif/cerebrum) -
     Experimental implementation for Artificial Neural Networks in Ruby.
@@ -135,17 +135,17 @@
     Redis-backed Bayesian classifier.
 *   [naive\_bayes (⭐46)](https://github.com/reddavis/Naive-Bayes) -
     Simple Naive Bayes classifier.
-*   [nbayes (⭐149)](https://github.com/oasic/nbayes) -
+*   [nbayes (⭐150)](https://github.com/oasic/nbayes) -
     Full-featured, Ruby implementation of Naive Bayes.
 
 ### Machine Learning Libraries / Linear classifiers
 
 *   [liblinear-ruby-swig (⭐82)](https://github.com/tomz/liblinear-ruby-swig) -
     Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).
-*   [liblinear-ruby (⭐84)](https://github.com/kei500/liblinear-ruby) -
+*   [liblinear-ruby (⭐83)](https://github.com/kei500/liblinear-ruby) -
     Ruby interface to LIBLINEAR using SWIG.
 
-### Projects and Code Examples / Gradient boosting
+### Projects and Code Examples / Vector search
 
 *   [Wine Clustering (⭐0)](https://github.com/hexgnu/wine_clustering) -
     Wine quality estimations clustered with different algorithms.

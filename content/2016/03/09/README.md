@@ -16,7 +16,7 @@
 
 ### Boilerplates / Outdated Boilerplates
 
-*   [elm-webpack-starter (⭐870)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+*   [elm-webpack-starter (⭐868)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -45,9 +45,9 @@ git config --global rerere.enabled 1
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐344)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
-*   [electron-installer-redhat (⭐76)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐465)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-debian (⭐346)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-redhat (⭐74)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
+*   [electron-installer-windows (⭐464)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

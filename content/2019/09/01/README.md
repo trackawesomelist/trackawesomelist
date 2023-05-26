@@ -41,7 +41,7 @@
 
 ### Packages / Application layer
 
-*   [vision\_opencv (⭐417)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
+*   [vision\_opencv (⭐444)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -62,13 +62,13 @@
 *   JavaScript
     *   [by @jiayihu (⭐2.2k)](https://github.com/jiayihu/pretty-algorithms)
     *   [by @felipernb (⭐3.6k)](https://github.com/felipernb/algorithms.js)
-    *   [by @nzakas (⭐8.7k)](https://github.com/nzakas/computer-science-in-javascript)
-    *   [by @duereg (⭐914)](https://github.com/duereg/js-algorithms)
+    *   [by @nzakas (⭐8.8k)](https://github.com/nzakas/computer-science-in-javascript)
+    *   [by @duereg (⭐918)](https://github.com/duereg/js-algorithms)
     *   [by @mgechev (⭐7.6k)](https://github.com/mgechev/javascript-algorithms)
-    *   [by @trekhleb (⭐162k)](https://github.com/trekhleb/javascript-algorithms)
-    *   [by @ManrajGrover (⭐184)](https://github.com/ManrajGrover/algorithms-js)
-    *   [by @amejiarosario (⭐7.1k)](https://github.com/amejiarosario/dsa.js)
-    *   [by @zonayedpca (⭐93)](https://github.com/zonayedpca/AlgoDS.js)
+    *   [by @trekhleb (⭐166k)](https://github.com/trekhleb/javascript-algorithms)
+    *   [by @ManrajGrover (⭐187)](https://github.com/ManrajGrover/algorithms-js)
+    *   [by @amejiarosario (⭐7.2k)](https://github.com/amejiarosario/dsa.js)
+    *   [by @zonayedpca (⭐95)](https://github.com/zonayedpca/AlgoDS.js)
 
 ---
 

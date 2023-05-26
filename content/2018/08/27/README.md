@@ -34,14 +34,14 @@
 
 ### Miscellaneous
 
-*   [FIRST Robotics Competition (⭐88)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
+*   [FIRST Robotics Competition (⭐91)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Machine Learning
 
-*   [clojure-tensorflow (⭐109)](https://github.com/kieranbrowne/clojure-tensorflow)
-*   [dl4clj (deeplearning4j to clojure) (⭐100)](https://github.com/yetanalytics/dl4clj)
+*   [clojure-tensorflow (⭐111)](https://github.com/kieranbrowne/clojure-tensorflow)
+*   [dl4clj (deeplearning4j to clojure) (⭐99)](https://github.com/yetanalytics/dl4clj)
 
 ### Video tutorials / YouTube
 

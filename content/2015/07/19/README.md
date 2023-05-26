@@ -31,7 +31,7 @@
 
 *   [FFmpeg](https://www.ffmpeg.org)
 
-### Scripts / Youtube video to GIF
+### Scripts / YouTube video to GIF
 
 *   Download it via youtube-dl and then convert it.
 

@@ -2,7 +2,7 @@
 
 🚀 Awesome (free) web apps that work without login
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 2.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/aviaryan/awesome-no-login-web-apps/README.md) / Weekly / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
 
@@ -342,7 +342,7 @@
 
 ### Music, Radio and Podcasts / Others
 
-*   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐21)](https://github.com/Anshuman-Verma/ongaku-desktop).
+*   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐22)](https://github.com/Anshuman-Verma/ongaku-desktop).
 
 ## [Jul 31 - Aug 06, 2017](/content/2017/31/README.md)
 
@@ -675,7 +675,6 @@
 ### File Hosting/Sharing / Others
 
 *   [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
-*   [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
 *   [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 *   [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 *   [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.

@@ -8,9 +8,9 @@
 
 ## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Automation
+### Software / Database Management
 
-*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐7.2k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
+*   [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data, easy import and export and database management. ([Demo](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants), [Source Code (⭐7.7k)](https://github.com/simonw/datasette)) `Apache-2.0` `Python`
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,18 +34,18 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [perawallet-connect (⭐56)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
+*   [perawallet-connect (⭐57)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   [Raylib](https://www.raylib.com/)
-    *   [deltaphc/raylib-rs (⭐493)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Rust bindings for raylib
+    *   [deltaphc/raylib-rs (⭐524)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] — Rust bindings for raylib
 
 ### Libraries / Logging
 
-*   [rbatis/fast\_log (⭐119)](https://github.com/rbatis/fast_log) — Rust async log High-performance asynchronous logging [![Build Status](https://api.travis-ci.com/rbatis/fast_log.svg?branch=master)](https://travis-ci.org/rbatis/fast_log)
+*   [rbatis/fast\_log (⭐132)](https://github.com/rbatis/fast_log) — Rust async log High-performance asynchronous logging
 
 ### Libraries / Virtualization
 
@@ -55,9 +55,9 @@
 
 ### Projects / MaaS
 
-*   [Huawei Cloud Distributed Message Service](https://www.huaweicloud.com/intl/en-us/product/dms.html) - A fully managed, high-performance message queuing service that enables reliable, flexible, and asynchronous communication between distributed applications.
-*   [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - Managed Apache Kafka service.
-*   [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - A real-time, serverless, Apache Kafka-compatible event streaming platform.
+*   [Huawei Cloud Distributed Message Service](https://www.huaweicloud.com/intl/en-us/product/dms.html) - A fully managed and high-performance message queuing service that enables reliable, flexible, and asynchronous communication between distributed applications. It offers high scalability, security, and durability, and supports a variety of messaging patterns and protocols.
+*   [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - A managed Apache Kafka service that provides easy setup, scaling, and management of Kafka clusters. It offers high availability, performance, and security, and integrates seamlessly with other Huawei Cloud services.
+*   [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - A serverless, real-time event streaming platform with Apache Kafka compatibility, delivering highly performant and cost-effective data processing.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Examples
 
-*   [NASA/ogma (⭐230)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
+*   [NASA/ogma (⭐261)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
 
 ---
 

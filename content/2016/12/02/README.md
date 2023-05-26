@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 02, 2016
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Ansible Taiwan (⭐32)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 
-## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
-
-### Experiments
-
-*   [Dancing Torus](http://dancing-torus.s3-website-us-east-1.amazonaws.com/) - Dancing Torus is a WebGL Audio Reactive experience. Choose your favourite song on Soundcloud and start dancing!
-
-## [3. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### Debug / Omniauth
 

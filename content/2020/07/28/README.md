@@ -45,11 +45,11 @@
 
 ### Individual components / API
 
-*   [Blazor.Canvas (⭐136)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
+*   [Blazor.Canvas (⭐151)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 
 ### Tools & Utilities / Others
 
-*   [bUnit - a testing library for Blazor components (⭐836)](https://github.com/egil/bunit) - ![stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
+*   [bUnit - a testing library for Blazor components (⭐881)](https://github.com/egil/bunit) - ![stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
 
 ### Others / Others
 
@@ -59,41 +59,41 @@
 
 ### Courses & Books & Blogs
 
-*   [Advanced-Deep-Trading (⭐414)](https://github.com/Rachnog/Advanced-Deep-Trading) - Experiments based on "Advances in financial machine learning" book.
+*   [Advanced-Deep-Trading (⭐474)](https://github.com/Rachnog/Advanced-Deep-Trading) - Experiments based on "Advances in financial machine learning" book.
 
 ### Event Drive
 
-*   🌟🌟 [stockpredictionai (⭐3.5k)](https://github.com/borisbanushev/stockpredictionai) - Complete process for predicting stock price movements.
+*   🌟🌟 [stockpredictionai (⭐3.7k)](https://github.com/borisbanushev/stockpredictionai) - Complete process for predicting stock price movements.
 
 ### Time Series Data
 
-*   [trading-gym (⭐221)](https://github.com/6-Billionaires/trading-gym) - Trading agent to train with episode of short term trading itself.
-*   [DeepLearningNotes (⭐332)](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
+*   [trading-gym (⭐223)](https://github.com/6-Billionaires/trading-gym) - Trading agent to train with episode of short term trading itself.
+*   [DeepLearningNotes (⭐339)](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
 
 ### Portfolio Management
 
-*   [Deep-Reinforcement-Stock-Trading (⭐315)](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) - A light-weight deep reinforcement learning framework for portfolio management.
+*   [Deep-Reinforcement-Stock-Trading (⭐405)](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) - A light-weight deep reinforcement learning framework for portfolio management.
 
 ### High Frequency Trading
 
-*   🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy (⭐1.2k)](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
+*   🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy (⭐1.4k)](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
 
 ### Crypto Currencies Strategies
 
-*   [LSTM-Crypto-Price-Prediction (⭐235)](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction) - Predicting price trends in crypto markets using an LSTM-RNN for trading.
-*   [Tensorflow-NeuroEvolution-Trading-Bot (⭐137)](https://github.com/SC4RECOIN/Tensorflow-NeuroEvolution-Trading-Bot) - A population model that trade cyrpto and breed and mutate iteratively.
-*   [bitcoin\_prediction (⭐231)](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
+*   [LSTM-Crypto-Price-Prediction (⭐251)](https://github.com/SC4RECOIN/LSTM-Crypto-Price-Prediction) - Predicting price trends in crypto markets using an LSTM-RNN for trading.
+*   [Tensorflow-NeuroEvolution-Trading-Bot (⭐144)](https://github.com/SC4RECOIN/Tensorflow-NeuroEvolution-Trading-Bot) - A population model that trade cyrpto and breed and mutate iteratively.
+*   [bitcoin\_prediction (⭐234)](https://github.com/llSourcell/bitcoin_prediction) - Code for "Bitcoin Prediction" by Siraj Raval on YouTube.
 
 ### Technical Analysis
 
-*   [gekko\_trading\_stuff (⭐110)](https://github.com/thegamecat/gekko-trading-stuff) - Awesome crypto currency trading platform.
+*   [gekko\_trading\_stuff (⭐109)](https://github.com/thegamecat/gekko-trading-stuff) - Awesome crypto currency trading platform.
 
 ### Arbitrage
 
-*   [r2 (⭐719)](https://github.com/bitrinjani/r2) - Automatic arbitrage trading system powered by Node.js + TypeScript.
-*   [cryptocurrency-arbitrage (⭐1k)](https://github.com/manu354/cryptocurrency-arbitrage) - A crypto currency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
-*   [bitcoin-arbitrage (⭐2.2k)](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
-*   [blackbird (⭐5.6k)](https://github.com/butor/blackbird) - Long / short market-neutral strategy.
+*   [r2 (⭐732)](https://github.com/bitrinjani/r2) - Automatic arbitrage trading system powered by Node.js + TypeScript.
+*   [cryptocurrency-arbitrage (⭐1.1k)](https://github.com/manu354/cryptocurrency-arbitrage) - A crypto currency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
+*   [bitcoin-arbitrage (⭐2.3k)](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
+*   [blackbird (⭐5.7k)](https://github.com/butor/blackbird) - Long / short market-neutral strategy.
 
 ### Data Sources / Traditional Markets
 
@@ -105,22 +105,22 @@
 
 ### Research Tools / Crypto Currencies
 
-*   [JAQS (⭐577)](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
+*   [JAQS (⭐584)](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
 
 ### Traditional Market / Crypto Currencies
 
-*   [rqalpha (⭐4.7k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
+*   [rqalpha (⭐4.9k)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
 
 ### Crypto Currencies / Plugins
 
 *   [CoinMarketCapBacktesting (⭐3)](https://github.com/JimmyWuMadchester/CoinMarketCapBacktesting) - Tests bt and Quantopian Zipline as backtesting frameworks for coin trading strategy.
-*   [Gekko-BacktestTool (⭐219)](https://github.com/xFFFFF/Gekko-BacktestTool) - Batch backtest, import and strategy params optimalization for Gekko Trading Bot.
+*   [Gekko-BacktestTool (⭐221)](https://github.com/xFFFFF/Gekko-BacktestTool) - Batch backtest, import and strategy params optimalization for Gekko Trading Bot.
 
 ### Crypto Currencies / Crypto Currencies
 
 *   [zenbot (⭐8.2k)](https://github.com/DeviaVir/zenbot) - Command-line crypto currency trading bot using Node.js and MongoDB.
-*   [bot18 (⭐188)](https://github.com/carlos8f/bot18) - High-frequency crypto currency trading bot developed by Zenbot.
-*   [magic8bot (⭐312)](https://github.com/magic8bot/magic8bot) - Crypto currency trading bot using Node.js and MongoDB.
+*   [bot18 (⭐189)](https://github.com/carlos8f/bot18) - High-frequency crypto currency trading bot developed by Zenbot.
+*   [magic8bot (⭐321)](https://github.com/magic8bot/magic8bot) - Crypto currency trading bot using Node.js and MongoDB.
 *   [MACD](https://github.com/sudoscripter/MACD) - Zenbot MACD Auto-Trader.
 
 ### Exchange API / Plugins
@@ -129,16 +129,16 @@
 
 ### GYM Environment / Plugins
 
-*   🌟 [TradingGym (⭐1.1k)](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent.
-*   [TradzQAI (⭐163)](https://github.com/kkuette/TradzQAI) - Trading environment for RL agents, backtesting and training.
+*   🌟 [TradingGym (⭐1.2k)](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent.
+*   [TradzQAI (⭐164)](https://github.com/kkuette/TradzQAI) - Trading environment for RL agents, backtesting and training.
 
 ### Others / Plugins
 
-*   [zipline-tensorboard (⭐107)](https://github.com/jimgoo/zipline-tensorboard) - TensorBoard as a Zipline dashboard.
+*   [zipline-tensorboard (⭐106)](https://github.com/jimgoo/zipline-tensorboard) - TensorBoard as a Zipline dashboard.
 
 ### Others / Other Resource
 
-*   🌟 [Awesome-Quant-Machine-Learning-Trading (⭐1.6k)](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
+*   🌟 [Awesome-Quant-Machine-Learning-Trading (⭐1.8k)](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
 
 ## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -160,7 +160,7 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [red-chainer (⭐99)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
+*   [red-chainer (⭐100)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
 *   [mxnet (⭐49)](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
 ## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)

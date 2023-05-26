@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Starter apps and CLIs
 
-*   Take a look at [previously logged issues (⭐132)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
+*   Take a look at [previously logged issues (⭐152)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [exatorrent (⭐1.6k)](https://github.com/varbhat/exatorrent) - BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. `GPL-3.0` `Go`
+*   [exatorrent (⭐1.7k)](https://github.com/varbhat/exatorrent) - BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. `GPL-3.0` `Go`
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -36,47 +36,41 @@
 
 *   [flat.social](https://flat.social/) - Create fun virtual spaces for online meetings, team activities and virtual socials.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Clojure / Non-X86
-
-*   [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) [(:card\_file\_box: *unglued*)](https://unglue.it/work/489419/)
-
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / Public Domain
 
 *   [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 *   [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Private Module Registries / Miscellaneous
 
 *   [terraform-registry (⭐47)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / MaaS
 
-*   [Amazon MQ](https://aws.amazon.com/amazon-mq) - Fully managed message broker service for Apache ActiveMQ and RabbitMQ.
-*   [Amazon MSK](https://aws.amazon.com/msk) -  Amazon Managed Streaming for Apache Kafka.
-*   [Amazon SQS](https://aws.amazon.com/sqs) - Amazon Simple Queue Service.
-*   [Amazon SNS](https://aws.amazon.com/sns) - Amazon Simple Notification Service. Pub/sub functionality provides topics for high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications.
-*   [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - Fully-managed Apache Kafka service from Alibaba Cloud.
-*   [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed, fully managed, and professional messaging service that features high throughput, low latency, and high scalability.
-*   [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - A distributed message queuing and notification service that supports concurrent operations to facilitate message transfer between applications and decoupled systems.
-*   [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - A  distributed message queue service that supports reliable message-based asynchronous communication among microservices, distributed systems, and serverless applications.
-*   [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - Enterprise-class cloud messaging, fully integrated with Anypoint Platform.
-*   [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - Reliable cloud messaging as a service (MaaS) and simple hybrid integration.
-*   [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ as a Service.
-*   [CloudKarafka](https://www.cloudkarafka.com/) - Affordable and straightforward, fully managed Kafka clusters available on AWS and Google Cloud.
-*   [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - Messaging and ingestion for event-driven systems and streaming analytics.
-*   [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - Easily move data between enterprise applications, systems and services.
-*   [IronMQ](https://www.iron.io/mq) - Elastic message queue created specifically with the cloud in mind.
-*   [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - A complete event streaming, management and insights platform.
-*   [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - Compatibility with the Amazon SQS HTTP API.
-*   [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - Managed Apache Kafka service.
+*   [Amazon MQ](https://aws.amazon.com/amazon-mq) - A fully managed message broker service that supports Apache ActiveMQ and RabbitMQ. It provides a reliable, secure, and scalable messaging infrastructure for your applications.
+*   [Amazon MSK](https://aws.amazon.com/msk) - A fully managed service for Apache Kafka that simplifies the setup, scaling, and management of Kafka clusters. It provides a highly available, durable, and performant messaging service for your data streaming needs.
+*   [Amazon SQS](https://aws.amazon.com/sqs) - A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It offers a reliable, secure, and highly available message storage and delivery system.
+*   [Amazon SNS](https://aws.amazon.com/sns) - A fully managed pub/sub messaging service that enables you to send and receive messages between distributed systems, microservices, and event-driven serverless applications. It offers a flexible, scalable, and cost-effective way to notify subscribers of events and messages.
+*   [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - A fully managed Apache Kafka service that provides high-throughput, low-latency, and highly available message streaming for your applications. It offers easy integration with other Alibaba Cloud services and seamless data migration.
+*   [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed and fully managed messaging service that provides high scalability, low latency, and high throughput for your applications. It offers flexible deployment options, easy management, and robust security features.
+*   [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - A distributed messaging and notification service that enables concurrent operations and message transfer between applications and decoupled systems. It offers high reliability, scalability, and fault tolerance for your messaging needs.
+*   [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - A distributed message queue service that supports reliable message-based asynchronous communication among microservices, distributed systems, and serverless applications. It provides high availability, scalability, and durability for your message streaming needs.
+*   [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - An enterprise-class cloud messaging service that is fully integrated with Anypoint Platform. It offers a flexible and reliable messaging infrastructure that enables you to integrate and orchestrate your applications and systems.
+*   [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - A reliable cloud messaging service that offers a variety of messaging patterns, such as pub/sub and request/response, and supports a range of protocols and standards.
+*   [CloudAMQP](https://www.cloudamqp.com/) - A RabbitMQ as a Service that provides a fully managed and scalable message broker service for your applications. It offers a simple and easy-to-use web-based management console, advanced monitoring and analytics, and seamless integration with other cloud services.
+*   [CloudKarafka](https://www.cloudkarafka.com/) - An affordable and straightforward Kafka service that provides fully managed and scalable Kafka clusters on AWS and Google Cloud. It offers a user-friendly web-based dashboard, advanced security features, and seamless integration with other cloud services.
+*   [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - A messaging and ingestion service that enables event-driven systems and streaming analytics. It provides high throughput, low latency, and reliable message delivery for your applications. It supports flexible messaging patterns, such as pub/sub and push/pull, and integrates seamlessly with other Google Cloud services.
+*   [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - A cloud-based messaging service that enables seamless data transfer across enterprise applications, systems, and services with ease.
+*   [IronMQ](https://www.iron.io/mq) - An elastic message queue built specifically for the cloud, allowing for reliable and scalable message processing.
+*   [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - An all-in-one event streaming, management, and insights platform, providing complete visibility and control over your data pipeline.
+*   [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - A cloud messaging service with compatibility to Amazon SQS HTTP API, making it easy to integrate with existing systems and services.
+*   [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - A fully-managed Apache Kafka service with automated scaling, monitoring, and maintenance, providing hassle-free data streaming.
 
 ### Resources / Market Analysis
 
@@ -89,14 +83,14 @@
     *   [Gartner Magic Quadrant for Robotic Process Automation](https://www.gartner.com/doc/code/441474)
     *   [The Forrester Wave: Robotic Process Automation](https://www.forrester.com/go?objectid=RES161538)
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Internationalization
 
-*   [crystal-i18n (⭐18)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
+*   [crystal-i18n (⭐20)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
 *   [i18n.cr (⭐24)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
 
-## [11. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [10. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
 
@@ -114,7 +108,7 @@
 
 
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -158,7 +152,7 @@
 
 
 
-## [13. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Client Web App Frameworks
 

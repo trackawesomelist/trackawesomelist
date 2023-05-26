@@ -56,7 +56,7 @@
 
 ### Authentication
 
-*   [pas.plugins.authomatic (⭐6)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
+*   [pas.plugins.authomatic (⭐7)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
 
 ### Official resources
 
@@ -83,7 +83,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vuegg (⭐2.3k)](https://github.com/vuegg/vuegg) - vue GUI generator: Create mockups and code in one go! It leverages the creation of pages, components and styles with its visual editor. Generate all scaffolding code for your next vuejs project.
-*   [Podlove Web Player (⭐355)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
+*   [Podlove Web Player (⭐354)](https://github.com/podlove/podlove-web-player) - Podcast-optimized, HTML5-based audio player featuring chapters, transcripts and embedding.
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4.1k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -121,12 +121,12 @@
 
 ### Foundations of Mathematics / Set Theory
 
-*   [Sets, Relations, Functions](http://www.cosc.brocku.ca/\~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
+*   [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
 
 ### Foundations of Mathematics / Logic
 
-*   [Predictive Arithmetic](https://web.math.princeton.edu/\~nelson/books/pa.pdf) - Edward Nelson
-*   [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/\~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
+*   [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
+*   [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
 *   [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) - Ted Sundstrom
 
 ### Foundations of Mathematics / Category Theory
@@ -152,40 +152,40 @@
 ### Algebra / Linear Algebra
 
 *   [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
-*   [Linear Algebra](https://www.math.ucdavis.edu/\~linear/) - David Cherney, Tom Denton, Andrew Waldron
+*   [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
 *   [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
 *   [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
 
 ### Algebra / Lie Algebras
 
-*   [Lie Algebras](http://www.math.harvard.edu/\~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
+*   [Lie Algebras](http://www.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) - Shlomo Sternberg
 
 ### Geometry and Topology / Graph Theory
 
-*   [Mathematical Illustrations](http://www.math.ubc.ca/\~cass/graphics/manual/) - Bill Casselman
+*   [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman
 
 ### Geometry and Topology / Differential Geometry
 
-*   [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/\~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
+*   [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg
 
 ### Analysis / Real Analysis
 
-*   [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/\~keisler/calc.html) - Professor H. Jerome Keisler
+*   [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
 *   [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
 *   [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 *   [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
-*   [Advanced Calculus](http://www.math.harvard.edu/\~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
-*   [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/\~baggett/analysis.html) - Lawerence Baggett
+*   [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
+*   [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
 *   [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
-*   [A ProblemText in Advanced Calculus](http://web.pdx.edu/\~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
+*   [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
 *   [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
 *   [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - Wilfred Kaplan, Donald J. Lewis
-*   [Introduction to Calculus I and II](http://www.math.odu.edu/\~jhh/counter10.html) - J.H. Heinbockel
+*   [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) - J.H. Heinbockel
 *   [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
 
 ### Analysis / Functional Analysis
 
-*   [Functional Analysis](http://spot.colorado.edu/\~baggett/functional.html) - Lawerence Baggett
+*   [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) - Lawerence Baggett
 
 ### Analysis / Ordinary Differential Equations
 
@@ -198,18 +198,18 @@
 ### Probability and Statistics / Statistics
 
 *   [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
-*   [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/\~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
+*   [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
 
 ### Mathematics for Computer Science / Stochastic processes
 
 *   [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
 *   [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
-*   [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/\~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
+*   [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 *   [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
 
 ### Mathematical Biology / Stochastic processes
 
-*   [Mathematical Biology](http://www.math.ust.hk/\~machas/mathematical-biology.pdf) - Jeffrey Chasnov
+*   [Mathematical Biology](http://www.math.ust.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov
 
 ### Mathematical Physics / Stochastic processes
 
@@ -232,11 +232,11 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [pyroomacoustics (⭐999)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐999)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
+*   [pyroomacoustics (⭐1.1k)](https://github.com/LCAV/pyroomacoustics) [:octocat: (⭐1.1k)](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) - Room Acoustics Simulation (RIR generator)
 
 ### Audio Related Packages / Feature extraction
 
-*   [pyYAAFE (⭐229)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐229)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
+*   [pyYAAFE (⭐235)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐235)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
 
 ## [13. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐367)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐372)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -294,13 +294,13 @@
 
 ### CLI
 
-*   [Argu (⭐377)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
-*   [clipr (⭐86)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
-*   [CliWrap (⭐3.4k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
-*   [Command Line Parser (⭐3.9k)](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
-*   [CsConsoleFormat (⭐349)](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
-*   [Docopt (⭐329)](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
-*   [Fluent Command Line Parser (⭐523)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
+*   [Argu (⭐386)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
+*   [clipr (⭐87)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
+*   [CliWrap (⭐3.6k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
+*   [Command Line Parser (⭐4k)](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
+*   [CsConsoleFormat (⭐356)](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
+*   [Docopt (⭐332)](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
+*   [Fluent Command Line Parser (⭐520)](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
 *   [Power Args (⭐533)](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 
 ## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
@@ -360,9 +360,9 @@
 
 ### Built-in Classes Enhancement
 
-*   [attrs (⭐4.6k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
-*   [bidict (⭐1.2k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
-*   [Box (⭐2.1k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
+*   [attrs (⭐4.7k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [bidict (⭐1.3k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
+*   [Box (⭐2.2k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
 
 ### Database Drivers
 
@@ -375,13 +375,13 @@
 ### Open Source Repos / Elastic Compute Cloud
 
 *   [mirakui/ec2ssh :fire::fire: (⭐248)](https://github.com/mirakui/ec2ssh) - SSH config manager.
-*   [openebs/openebs :fire::fire::fire::fire::fire: (⭐8k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
+*   [openebs/openebs :fire::fire::fire::fire::fire: (⭐8.1k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 
 ## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Webpack / Components
 
-*   [Angular Webpack Tour of Heroes from michaelbazos (⭐3)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
+*   [Angular Webpack Tour of Heroes from michaelbazos (⭐5)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 
 ### TypeScript Seed Projects / Components
 
@@ -401,15 +401,15 @@
 
 ### Programming fonts / Fonts
 
-*   [Lab Mono (⭐122)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+*   [Lab Mono (⭐121)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
-*   [Awesome Icons (⭐996)](https://github.com/vkarampinis/awesome-icons)
+*   [Awesome Icons (⭐1.1k)](https://github.com/vkarampinis/awesome-icons)
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [TruFont (⭐426)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+*   [TruFont (⭐437)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
 ## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -433,11 +433,11 @@
 
 ### Events
 
-*   [Tempura (⭐695)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐696)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ### Network / Barcode
 
-*   [SolarNetwork (⭐100)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
+*   [SolarNetwork (⭐103)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
 ## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -565,7 +565,7 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Open Playout Automation (⭐147)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+*   [Open Playout Automation (⭐148)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
 ## [42. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

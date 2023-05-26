@@ -71,7 +71,7 @@
 
 ### Questions
 
-*   [slap (⭐82)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
+*   [slap (⭐83)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
 
 ## [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -128,7 +128,7 @@
   Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.kfpun.finance)
 
 
-- Name: [Pokemon Go Clone (⭐12)](https://github.com/VctrySam/Pokemon)
+- Name: [Pokemon Go Clone (⭐13)](https://github.com/VctrySam/Pokemon)
 
   Description: Pokemon Go in React Native.
 
@@ -163,7 +163,7 @@
   Link: 
 
 
-- Name: [21mobile (⭐162)](https://github.com/sonnylazuardi/21mobile)
+- Name: [21mobile (⭐163)](https://github.com/sonnylazuardi/21mobile)
 
   Description: Cinema 21 movie schedule app built with react native, graphql, redux
 
@@ -191,7 +191,7 @@
 
 *   [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do) - Useful collection of Spark processing patterns. Accompanying GitHub repository: [sryza/aas (⭐1.5k)](https://github.com/sryza/aas).
 *   [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/) - Interesting compilation of notes by [Jacek Laskowski](https://github.com/jaceklaskowski). Focused on different aspects of Spark internals.
-*   [Spark Gotchas (⭐345)](https://github.com/awesome-spark/spark-gotchas) - Subjective compilation of tips, tricks and common programming mistakes.
+*   [Spark Gotchas (⭐346)](https://github.com/awesome-spark/spark-gotchas) - Subjective compilation of tips, tricks and common programming mistakes.
 *   [Spark in Action](https://www.manning.com/books/spark-in-action) - New book in the Manning's "in action" family with +400 pages. Starts gently, step-by-step and covers large number of topics. Free excerpt on how to [setup Eclipse for Spark application development](http://freecontent.manning.com/how-to-start-developing-spark-applications-in-eclipse/) and how to bootstrap a new application using the provided Maven Archetype. You can find the accompanying GitHub repo [here (⭐270)](https://github.com/spark-in-action/first-edition).
 
 ### Resources / MOOCS

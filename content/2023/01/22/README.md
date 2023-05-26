@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 22, 2023
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,92 +16,9 @@
 
 ### Training and Materials / Web articles
 
-*   [The Book of Secret Knowledge (⭐92k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+*   [The Book of Secret Knowledge (⭐95k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 
-## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Avatars
-
-- Name: [PhotoAI](http://photoai.me)
-
-  Title: Photoai.
-
-  Description: Create AI-generated images of yourself.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Posed](http://posed.ai)
-
-  Title: Posed.
-
-  Description: Upload your pictures and let our AI create stunning high-quality portraits in a wide range of styles that look just like you.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Customer Support
-
-- Name: [Bahasa](http://www.bahasa.ai)
-
-  Title: Bahasa.Ai - Chatbot Which Serves Customers Fully.
-
-  Description: Automation that helps your business serves millions of happy customers fastlyâpowered by AI specially built for Bahasa Indonesia.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Gift Ideas
-
-- Name: [AIchristmascards](http://aichristmascards.com)
-
-  Title: Holiday Cards, Reimagined.
-
-  Description: Personalized AI Art Greetings Cards.
-
-  Offer Free Version: :x:
-
-
-
-### Search Engines
-
-- Name: [Lexii.ai](http://lexii.ai/)
-
-  Title: Lexii.Ai.
-
-  Description: Lexii.ai is an AI search assistant that answers questions and cites sources.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Slides & Web Design
-
-- Name: [Tome](http://beta.tome.app)
-
-  Title: Generative Storytelling Has Arrived.
-
-  Description: Unlock your best work with Tome's AI-powered storytelling format.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Video
-
-- Name: [Waymark](http://waymark.com)
-
-  Title: Boost Local Sales With Unbelievably Easy Video.
-
-  Description: When TV, CTV, and digital ads are this effortless, the possibilities are limitless. High-impact ads are now open to everyone, with Waymark.
-
-  Offer Free Version: :grey\_question:
-
-
-
-## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Captchas
 

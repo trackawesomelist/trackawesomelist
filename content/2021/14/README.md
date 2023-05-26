@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05 - Apr 11, 2021
 
-63 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,9 +10,9 @@
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐151)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-ruby-client (⭐176)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 *   [playwright-cr (⭐18)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐144)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+*   [playwright-rust (⭐174)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -30,25 +30,25 @@
 
 ### Development / Devops
 
-*   [k9s (⭐20k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
+*   [k9s (⭐21k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-pure-admin (⭐7.3k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+*   [vue-pure-admin (⭐8.7k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 
 ### Templates / React
 
-*   [vite-reactts-eslint-prettier (⭐359)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+*   [vite-reactts-eslint-prettier (⭐405)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-config (⭐31)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+*   [vite-plugin-html-config (⭐36)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 
 ### Vue / Helpers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐199)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐203)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
 
 ## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -62,54 +62,36 @@
 
 ## [7. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Tools / React Starter Kits and Toolchains
+### React Component Libraries
 
-*   [Razzle](https://razzlejs.org/) - Build production ready React applications. Razzle is toolchain for modern static and dynamic websites and web applications
-*   [Neutrino React Preset](https://neutrinojs.org/packages/react/) - `@neutrinojs/react` is a Neutrino preset that supports building React web applications
+*   [ant-design (⭐85k)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+*   [chakra-ui (⭐32k)](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
+*   [eui (⭐5.7k)](https://github.com/elastic/eui) - Elastic UI Framework
+*   [react-spectrum (⭐8.4k)](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools
+*   [ring-ui (⭐3.4k)](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 
-### React Tools / React Component Libraries
+### React Awesome Components
 
-*   [ant-design (⭐83k)](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
-*   [chakra-ui (⭐30k)](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
-*   [eui (⭐5.4k)](https://github.com/elastic/eui) - Elastic UI Framework
-*   [react-spectrum (⭐7.7k)](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
-*   [ring-ui (⭐3.4k)](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
-*   [bumbag-ui (⭐1k)](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag
+*   [react-device-detect (⭐2.3k)](https://github.com/duskload/react-device-detect) - Detect device, and render view accordingly
+*   [react-colorful (⭐2.6k)](https://github.com/omgovich/react-colorful) - A tiny color picker component
 
-### React Tools / React Awesome Components
+### React Charts
 
-*   [react-popper (⭐2.4k)](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner
-*   [react-tsparticles (⭐4.5k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles animations
-*   [react-spring (⭐25k)](https://github.com/pmndrs/react-spring) - Spring-physics based animation library for React applications
-*   [framer-motion (⭐17k)](https://github.com/framer/motion) - A React library to power production-ready animations
-*   [react-cookie (⭐2.4k)](https://github.com/reactivestack/cookies) - Universal cookies for React
-*   [react-slick (⭐11k)](https://github.com/akiran/react-slick) - Carousel component built with React
-*   [react-gtm-module (⭐583)](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React
-*   [react-device-detect (⭐2.2k)](https://github.com/duskload/react-device-detect) - Detect device for React
-*   [react-colorful (⭐2.4k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component
-*   [react-modal (⭐7.1k)](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
-*   [cleave.js (⭐18k)](https://github.com/nosir/cleave.js) - Format input text content when you are typing
-*   [react-fontawesome (⭐3.6k)](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
-
-### React Tools / React Renderers
-
-*   [react-three-fiber (⭐21k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
-*   [react-pdf (⭐11k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
-*   [react-blessed (⭐4.3k)](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
-*   [react-sketchapp (⭐15k)](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
-*   [react-figma (⭐2.1k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
-*   [remotion (⭐14k)](https://github.com/JonnyBurger/remotion) - Create videos programmatically in React
-
-### React Tools / Charts
-
-*   [vx (⭐16k)](https://github.com/airbnb/visx) - Visualization components
+*   [recharts (⭐20k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 *   [victory (⭐10k)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-*   [react-vis (⭐8.4k)](https://github.com/uber/react-vis) - Data Visualization Components
-*   [recharts (⭐19k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-*   [nivo (⭐11k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components, built on top of the D3 and React libraries
-*   [echarts-for-react (⭐3.9k)](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
-*   [react-apexcharts (⭐1k)](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
-*   [chartify (⭐683)](https://github.com/kis/chartify) - React plugin for building charts using CSS
+*   [react-vis (⭐8.5k)](https://github.com/uber/react-vis) - Data Visualization Components
+*   [nivo (⭐11k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
+
+### React Renderers
+
+*   [react-three-fiber (⭐22k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+*   [react-pdf (⭐12k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
+*   [react-figma (⭐2.2k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
+
+### React Graphics and Animations
+
+*   [react-spring (⭐25k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
+*   [framer-motion (⭐18k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 
 ## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -121,13 +103,13 @@
 
 ### Cloud platform security / Kubernetes
 
-*   [certificate-expiry-monitor (⭐143)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
+*   [certificate-expiry-monitor (⭐149)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
 
 ## [9. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Clients
 
-*   [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source (⭐49)](https://github.com/avojak/iridium)) `Linux`
+*   [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source (⭐51)](https://github.com/avojak/iridium)) `Linux`
 
 ## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -146,25 +128,25 @@
 
 ### Audio
 
-*   [ni-media (⭐210)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
+*   [ni-media (⭐217)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
 
 ### JSON
 
-*   [yyjson (⭐2.3k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
+*   [yyjson (⭐2.5k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
 
 ### Networking
 
-*   [cpp-httplib (⭐9k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
+*   [cpp-httplib (⭐9.5k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C
 
-*   [cl-cxx-jit (⭐42)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-cxx-jit (⭐44)](https://github.com/Islam0mar/CL-CXX-JIT) -  Common Lisp and C++ interoperation with JIT. [MIT](https://opensource.org/licenses/MIT).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Lish (⭐70)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Lish (⭐82)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
 ## [14. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
@@ -182,13 +164,13 @@
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-dominos (⭐1k)](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
-*   [terraform-provider-k8s (⭐133)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
-*   [terraform-provider-snowflake (⭐381)](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
+*   [terraform-provider-k8s (⭐134)](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
+*   [terraform-provider-snowflake (⭐398)](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 
 ### Tools / Vendor supported providers
 
-*   [Infracost (⭐8.7k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
-*   [terraform-graph-beautifier (⭐164)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
+*   [Infracost (⭐9.1k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
+*   [terraform-graph-beautifier (⭐192)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 
 ## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -225,7 +207,7 @@
 ### Libraries / Network programming
 
 *   message-io
-    *   [lemunozm/message-io (⭐854)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
+    *   [lemunozm/message-io (⭐901)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
 
 ## [22. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
@@ -261,7 +243,7 @@
 
 *   [Bahmni](https://www.bahmni.org) - Electronic Medical Record and hospital system.
 *   [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
-*   [EHRServer (⭐148)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
+*   [EHRServer (⭐150)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
 *   [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
 
 ### Contents / Specifications
@@ -270,7 +252,7 @@
 
 ### Contents / Imaging
 
-*   [OHIF (⭐2.2k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
+*   [OHIF (⭐2.4k)](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
 
 ### Contents / Dental
 
@@ -278,22 +260,22 @@
 
 ### Contents / Frameworks
 
-*   [API Server (⭐100)](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
+*   [API Server (⭐103)](https://github.com/smart-on-fhir/api-server) - FHIR Server to support patient- and clinician-facing apps.
 *   [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPAA, and HL7 compliant applications.
 
 ### Contents / Libraries
 
-*   [Archie (⭐49)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
+*   [Archie (⭐48)](https://github.com/openehr/archie) - OpenEHR Library written in Java.
 *   [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-*   [dicom (⭐799)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
-*   [Fellow Oak DICOM (⭐881)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
-*   [FHIR protocol buffers (⭐691)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
-*   [php-fhir (⭐88)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
-*   [pynetdicom (⭐410)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
+*   [dicom (⭐823)](https://github.com/suyashkumar/dicom) - High Performance DICOM Medical Image Parser in GoLang.
+*   [Fellow Oak DICOM (⭐908)](https://github.com/fo-dicom/fo-dicom) - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
+*   [FHIR protocol buffers (⭐721)](https://github.com/google/fhir) - A Google implementation of protocol buffers for FHIR.
+*   [php-fhir (⭐96)](https://github.com/dcarbone/php-fhir) - Tools for creating PHP classes from the HL7 FHIR Specification.
+*   [pynetdicom (⭐430)](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol.
 
 ### Contents / Data
 
-*   [Inferno (⭐89)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
+*   [Inferno (⭐91)](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
 
 ### Contents / Machine learning
 
@@ -307,7 +289,7 @@
 
 ### Editor Plugins
 
-*   [clojure-lsp (multiple editors) (⭐879)](https://github.com/clojure-lsp/clojure-lsp)
+*   [clojure-lsp (multiple editors) (⭐990)](https://github.com/clojure-lsp/clojure-lsp)
 
 ## [28. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
@@ -319,7 +301,7 @@
 
 ### Hosting and media
 
-*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐713)](https://github.com/kr1sp1n/awesome-gemini)
+*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐743)](https://github.com/kr1sp1n/awesome-gemini)
 
 ## [30. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -343,16 +325,16 @@
 ### Other multimodal data formats / Ruby
 
 *   [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - Formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/), APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.  APDS Version 1.0 documents are [here](https://www.allianceforparkingdatastandards.org/resources).
-*   [CurbLR (⭐68)](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
+*   [CurbLR (⭐67)](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
 *   [Dyno-Path (⭐1)](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post (⭐19)](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
-*   [GTFS-flex (⭐96)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
+*   [GTFS-flex (⭐97)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
 *   [GTFS-ride (⭐43)](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
-*   [General Modeling Network Specification (GMNS) (⭐80)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
+*   [General Modeling Network Specification (GMNS) (⭐83)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
 *   [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - A planned data specification for sharing travel demand model networks.
 *   [Managed and Tolled Lanes Feed Specification (MTLFS) (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-*   [Mobility Data Specification (MDS) (⭐620)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+*   [Mobility Data Specification (MDS) (⭐630)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
 *   [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cen.eu/work/ENdev/how/Pages/default.aspx).
-*   [Open Sales and Distribution Model (OSDM) (⭐29)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
+*   [Open Sales and Distribution Model (OSDM) (⭐30)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 *   [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - Appears to be working on a data standard for car share and transportation network companies (TNCs) / rideshare.
 
 ## [33. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
@@ -363,7 +345,7 @@
 
 ## [34. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
-### Datasets / Other Datasets
+### Other Datasets / Other models
 
 *   [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) - [paper](https://www.nature.com/articles/sdata2018178) - a database of observations from more than 200 thousand intensive care unit admissions, with consistent structure. Requires registration, training course completion, and data use agreement.
 
@@ -402,7 +384,7 @@
 ### Peripheral Access Crates / MSP430
 
 *   [`msp430g2553`](https://github.com/japaric/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
-    *   [msp430 quickstart (⭐22)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
+    *   [msp430 quickstart (⭐24)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
 
 ### no-std crates / WIP
 
@@ -412,12 +394,12 @@
 
 ### Deployment Tools / Newsletters
 
-*   [pushnix (⭐23)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
+*   [pushnix (⭐26)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 
 ### Command-Line Tools / Newsletters
 
-*   [nixpkgs-fmt (⭐407)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
-*   [nix-tree (⭐324)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nixpkgs-fmt (⭐430)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+*   [nix-tree (⭐381)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -435,10 +417,10 @@
 
 ### Plugins
 
-*   🧩 [CSS Variables (⭐123)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
+*   🧩 [CSS Variables (⭐142)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
 *   🛑💼 [Filters (⭐161)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
 *   🛑💼 [CSS Filters (⭐23)](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
-*   🛑💼 [Blend Mode (⭐69)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
+*   🛑💼 [Blend Mode (⭐67)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
 *   🛑💼 [Colorize (⭐10)](https://github.com/philippbosch/tailwindcss-colorize) - Adds `filter` utilities.
 
 ### Learning
@@ -733,7 +715,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Framework Components
 
-*   [phx\_component\_helpers (⭐118)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
+*   [phx\_component\_helpers (⭐119)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
 ## [50. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -789,7 +771,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Plugins
 
-*   [tmux-wormhole (⭐55)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
+*   [tmux-wormhole (⭐62)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 
 ## [54. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -802,7 +784,7 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 
 ### Contents / Games
 
-*   [FlutterDex (⭐47)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [FlutterDex (⭐52)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ## [56. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -867,19 +849,38 @@ Topics: UX Development, Usability, Accessibility, Scrum, Agile\
 *   [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country.
 *   [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
 
-## [61. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [61. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Trading & Backtesting
+
+*   [AlphaPy (⭐914)](https://github.com/ScottfreeLLC/AlphaPy) - Automated Machine Learning \[AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
+*   [jesse (⭐4.7k)](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+
+### Python / Time Series
+
+*   [Facebook Prophet (⭐16k)](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+
+### Python / Data Sources
+
+*   [yfinance (⭐9.5k)](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
+
+### Rust / Data Visualization
+
+*   [QuantMath (⭐324)](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk
+
+## [62. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [SpaceEye (⭐298)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+*   [SpaceEye (⭐304)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
-## [62. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [63. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
-*   [svelte-chota (⭐282)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+*   [svelte-chota (⭐287)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
-## [63. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [64. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 

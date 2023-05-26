@@ -75,7 +75,7 @@
 
 ### Logging
 
-*   [syslog (⭐85)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+*   [syslog (⭐86)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
 ### Miscellaneous
 
@@ -97,7 +97,7 @@
 
 ### Third Party APIs
 
-*   [forcex (⭐50)](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
+*   [forcex (⭐51)](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 *   [pathway (⭐4)](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
@@ -108,7 +108,6 @@
 
 ### Miscellaneous
 
-*   [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html) - An implementation of a managed signals and slots system. \[Boost]
 *   [QtVerbalExpressions (⭐58)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
 
 ### Coding Style
@@ -120,10 +119,10 @@
 ### Metaprogramming
 
 *   **Syntax Extensions**:
-    *   [ppx\_import (⭐83)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+    *   [ppx\_import (⭐84)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
     *   [ppx\_string\_interpolate (⭐21)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
     *   [ppx\_monad (⭐7)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
-    *   [ppx\_deriving\_yojson (⭐134)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+    *   [ppx\_deriving\_yojson (⭐139)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 
 ---
 

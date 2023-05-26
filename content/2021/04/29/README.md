@@ -10,7 +10,7 @@
 
 ### Code Analysis
 
-*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐173)](https://github.com/axelson/dep_viz/)).
+*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐177)](https://github.com/axelson/dep_viz/)).
 
 ## [2. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -229,7 +229,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-next-rx (⭐32)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
+*   [vue-next-rx (⭐31)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -241,7 +241,7 @@
 
 ### Go / Erlang
 
-*   [go-zero (⭐22k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
+*   [go-zero (⭐23k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
 
 ## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

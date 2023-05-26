@@ -163,11 +163,11 @@
 ### RAD Studio IDE plugins/wizards
 
 *   [Parnassus Bookmarks](https://parnassus.co/delphi-tools/bookmarks). IDE plugin that extends bookmark functionality.
-*   [DelphiSettingManager (⭐18)](https://github.com/Arvur/DelphiSettingManager). Multiple IDE profiles for Delphi (up to XE6). Allows to install multiple versions of the same component or different component sets for different projects.
+*   [DelphiSettingManager (⭐19)](https://github.com/Arvur/DelphiSettingManager). Multiple IDE profiles for Delphi (up to XE6). Allows to install multiple versions of the same component or different component sets for different projects.
 
 ### Documentation
 
-*   [SynProject (⭐25)](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)). Tool for code source versioning and automated documentation of Delphi projects.
+*   [SynProject (⭐28)](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)). Tool for code source versioning and automated documentation of Delphi projects.
 
 ### Setup
 
@@ -177,14 +177,14 @@
 
 ### Other
 
-*   [Delphi Preview Handler (⭐134)](https://github.com/RRUZ/delphi-preview-handler). Preview handler for Windows Vista, 7 and 8 which allow you read your object pascal, C++ and Assembly code with Syntax highlighting without open in a editor
+*   [Delphi Preview Handler (⭐136)](https://github.com/RRUZ/delphi-preview-handler). Preview handler for Windows Vista, 7 and 8 which allow you read your object pascal, C++ and Assembly code with Syntax highlighting without open in a editor
 *   [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
 
 ## [5. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
-*   [ChuckScript (⭐30)](https://github.com/angrykoala/chuckscript) - Unary-based language, where the code is a single number.
+*   [ChuckScript (⭐31)](https://github.com/angrykoala/chuckscript) - Unary-based language, where the code is a single number.
 *   [DNA#](https://esolangs.org/wiki/DNA-Sharp) - Language based on the structure of the DNA.
 *   [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
 *   [Ook!](http://www.dangermouse.net/esoteric/ook.html) - Brainfuck-based language, where the commands are orangutan words.

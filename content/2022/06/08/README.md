@@ -22,15 +22,15 @@
 
 ### Contents / Components
 
-*   [Preact Compat (⭐951)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐52)](https://github.com/developit/preact-compat-example))*.
-*   [Preact Render To String (⭐499)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
-*   [Preact Markup (⭐189)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
+*   [Preact Compat (⭐948)](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example (⭐52)](https://github.com/developit/preact-compat-example))*.
+*   [Preact Render To String (⭐543)](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
+*   [Preact Markup (⭐194)](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
 *   [Preact Portal (⭐175)](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
-*   [Preact Richtextarea (⭐35)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
-*   [Preact Cycle (⭐128)](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
+*   [Preact Richtextarea (⭐37)](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
+*   [Preact Cycle (⭐131)](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
 *   [Preact MUI (⭐36)](https://github.com/luisvinicius167/preact-mui) - The MUI CSS Preact library.
-*   [Preact MDL (⭐185)](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
-*   [Preact Photon (⭐166)](https://github.com/developit/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
+*   [Preact MDL (⭐186)](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
+*   [Preact Photon (⭐169)](https://github.com/developit/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
 
 ### Contents / Testing Utils
 
@@ -40,7 +40,7 @@
 
 ### Projects Related to eBPF / Observability
 
-*   [SkyWalking Rover (⭐116)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
+*   [SkyWalking Rover (⭐140)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -65,12 +65,12 @@
 ### Software / Content Management Systems (CMS)
 
 *   [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://apostrophecms.com/demo), [Source Code (⭐4k)](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
-*   [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Source Code (⭐542)](https://github.com/flextype/flextype)) `MIT` `PHP`
-*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐7.6k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
+*   [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Source Code (⭐553)](https://github.com/flextype/flextype)) `MIT` `PHP`
+*   [KeystoneJS](https://keystonejs.com/) - CMS and Web Application Platform. ([Source Code (⭐8k)](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`
 
 ### Software / Pastebins
 
-*   [Spacebin (⭐72)](https://github.com/spacebin-org/spirit) - Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. `Apache-2.0` `Go`
+*   [Spacebin (⭐74)](https://github.com/spacebin-org/spirit) - Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. `Apache-2.0` `Go`
 
 ### Software / Self-hosting Solutions
 
@@ -82,7 +82,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐7.1k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
+*   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐7.2k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
 
 ## [9. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -98,12 +98,12 @@
 
 ### Browser-Based / Arcade
 
-*   [ExecutiveMan (⭐79)](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
-*   [Snake (⭐25)](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
+*   [ExecutiveMan (⭐82)](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
+*   [Snake (⭐26)](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
 
 ### Browser-Based / Strategy
 
-*   [Command & Conquer (⭐743)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
+*   [Command & Conquer (⭐756)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
 
 ## [11. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
@@ -145,7 +145,7 @@
 *   [Windows Fundamentals](https://tryhackme.com/room/windowsfundamentals1xbx) -  Intro to Windows.
 *   [Red Line](https://tryhackme.com/room/btredlinejoxr3d) - Learn how to use Redline to perform memory analysis and scan for IOCs on an endpoint.
 
-### Free Beginner Blue Team Path / Level 2 - Security Operations & Incident Response
+### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
 
 *   [Investigating Windows](https://tryhackme.com/room/investigatingwindows) - Investigating Windows.
 *   [Squid Game](https://tryhackme.com/room/squidgameroom) - Squid game-themed CTF.

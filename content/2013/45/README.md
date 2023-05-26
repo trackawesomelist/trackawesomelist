@@ -6,22 +6,18 @@
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 
-### Ada
+### Android / 理論計算機科学
 
-*   [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
+*   [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
+*   [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
 
-### MATLAB / PicoLisp
+### JavaScript / Backbone.js
 
-*   [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
-*   [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [SQL For Web Nerds](http://philip.greenspun.com/sql/) - Philip Greenspun (HTML)
+*   [Backboneドキュメント日本語訳 (⭐214)](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
 
 ---
 
 - Prev: [Nov 18 - Nov 24, 2013](/content/2013/46/README.md)
-- Next: [Oct 28 - Nov 03, 2013](/content/2013/43/README.md)
+- Next: [Nov 04 - Nov 10, 2013](/content/2013/44/README.md)

@@ -101,7 +101,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [substitute.js (⭐192)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
+*   :octocat: [substitute.js (⭐196)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 
 ## [12. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [PeachPie (⭐2.1k)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
+*   [PeachPie (⭐2.2k)](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 
 ### GUI
 
@@ -217,7 +217,7 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [RacketScript (⭐10)](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
+*   [RacketScript (⭐11)](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
 
 ## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Documentation
 
-*   [The Cycle-Accurate Game Boy Docs (⭐171)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
+*   [The Cycle-Accurate Game Boy Docs (⭐178)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
 
 ### Related projects / Syntax highlighting packages
 
@@ -354,7 +354,7 @@
 
 ### Libraries Visualization
 
-*   [Circular Audio Wave (⭐186)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
+*   [Circular Audio Wave (⭐193)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 
 ## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -399,7 +399,7 @@
 
 ### ORM
 
-*   [Perfect-CRUD (⭐61)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
+*   [Perfect-CRUD (⭐62)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
 
 ### Network / Barcode
 

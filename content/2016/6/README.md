@@ -57,7 +57,7 @@
 
 ### Developer Tools
 
-*   [OCaml Yeoman Generator (⭐21)](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
+*   [OCaml Yeoman Generator (⭐22)](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Ask these people anything!
 
-*   [Ariya Hidayat (⭐28)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.6k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
+*   [Ariya Hidayat (⭐28)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.7k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 
 ## [10. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -111,13 +111,23 @@
 
 *   [HubPress (⭐2.8k)](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### Bash / 理論計算機科学
+
+*   [The Art of Command Line (⭐136k)](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, Hayato Matsuura(翻訳)
+
+### D / 理論計算機科学
+
+*   [D言語基礎文法最速マスター](https://gist.github.com/repeatedly/2470712) - Masahiro Nakagawa
+
+## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Markdown Processors
 
 *   [word-to-markdown (⭐1.4k)](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
 
-## [15. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [16. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -161,12 +171,6 @@
     *   AMD & Common.js
 *   Should have an organization backing the service and have a potential paid support plan
 *   Should copy & paste from Microsoft word
-
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Go / Phoenix
-
-*   [Learning Go](https://miek.nl/go/)
 
 ## [17. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
@@ -289,11 +293,11 @@ git clean -fd --dry-run
 
 ### Algorithms and Data structures
 
-*   [exconstructor (⭐263)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
+*   [exconstructor (⭐268)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 
 ### Email
 
-*   [mail (⭐365)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐371)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 

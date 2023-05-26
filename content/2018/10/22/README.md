@@ -16,11 +16,11 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐496)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐504)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐146)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
+*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐153)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -45,13 +45,13 @@
 
 ### UI / Barcode
 
-*   [Preferences (⭐1.2k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
+*   [Preferences (⭐1.3k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Assets
 
-*   [Sprockets (⭐882)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐889)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -63,11 +63,11 @@
 
 ### Implementations/Compilers
 
-*   [TruffleRuby (⭐2.8k)](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+*   [TruffleRuby (⭐2.9k)](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 
 ### Music and Sound
 
-*   [Coltrane (⭐798)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
+*   [Coltrane (⭐2.2k)](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
 
 ### ORM/ODM
 
@@ -147,7 +147,7 @@
 
 ### Miscellaneous
 
-*   [Lorem Ipsum (⭐40)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
+*   [Lorem Ipsum (⭐43)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 

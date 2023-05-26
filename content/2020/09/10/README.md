@@ -23,17 +23,17 @@
 
 ### Projects / Libraries
 
-*   [TLC (⭐28)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐27)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
-*   [coq2html (⭐24)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
+*   [coq2html (⭐26)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 
 ### Projects / Type Theory and Mathematics
 
-*   [Completeness and Decidability of Modal Logic Calculi (⭐5)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
-*   [CoqPrime (⭐25)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
-*   [Finmap (⭐44)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
+*   [Completeness and Decidability of Modal Logic Calculi (⭐8)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
+*   [CoqPrime (⭐29)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
+*   [Finmap (⭐46)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
 *   [Gaia (⭐21)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 
 ### Resources / Community
@@ -42,7 +42,7 @@
 
 ### Resources / Books
 
-*   [Program Logics for Certified Compilers](https://www.cs.princeton.edu/\~appel/papers/plcc.pdf) - Book that explains how to construct program logics using separation logic, accompanied by a formal model in Coq which is applied to the Clight programming language and other examples.
+*   [Program Logics for Certified Compilers](https://www.cs.princeton.edu/~appel/papers/plcc.pdf) - Book that explains how to construct program logics using separation logic, accompanied by a formal model in Coq which is applied to the Clight programming language and other examples.
 
 ### Resources / Course Material
 
@@ -74,7 +74,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ultimate-skeleton-cards (⭐87)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
+*   [vue-ultimate-skeleton-cards (⭐88)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
 
 ## [8. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Contents / Personalization
 
-*   [Wallbay (⭐106)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
+*   [Wallbay (⭐107)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 
 ## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 

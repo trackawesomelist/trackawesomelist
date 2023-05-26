@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Blog posts and opinions
 
-*   [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester (⭐2.8k)](https://github.com/pester/Pester/).
+*   [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester (⭐2.9k)](https://github.com/pester/Pester/).
 
 ## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Go / Erlang
 
-*   [KrakenD (⭐5.4k)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
+*   [KrakenD (⭐5.5k)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
 
 ### API Gateways / Edge Services / Scala
 
@@ -106,30 +106,6 @@
 ### Products/Technologies / S technologies
 
 *   Sketch <https://blog.sketchapp.com/>
-
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Go / Phoenix
-
-*   [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
-
-### Lisp / TeX
-
-*   [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
-*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
-
-### Ruby / Tornado
-
-*   [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
-*   [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
-
-### Ruby / Ruby on Rails
-
-*   [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
-
-### Workflow / Vulkan
-
-*   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
 ---
 

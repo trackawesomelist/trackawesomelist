@@ -14,7 +14,7 @@
 
 ### IoC
 
-*   [LightInject (⭐569)](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
+*   [LightInject (⭐586)](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

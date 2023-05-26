@@ -1,52 +1,46 @@
 # Awesome List Updates on Mar 21, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
-
-### Podcasts
-
-*   [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - Bi-weekly podcast: Jeff Robbins interviews people thinking about distributed teams, remote work, and how to support happy, productive, free-range workers.
-
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Errors and Exception Handling
 
-*   [OK (⭐588)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐589)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Search
 
-*   [hermes (⭐37)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+*   [hermes (⭐38)](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
 
 ### Task management
 
-*   [sam (⭐83)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐86)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
-## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Documentation
 
 *   [Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html) - For expert programmers familiar with Java concurrency, but unfamiliar with the memory order modes available in JDK 9 provided by VarHandles.
 
-## [5. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [4. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Elixir
 
 *   [OOP (⭐281)](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Version Control / Git
 
-*   [git-standup (⭐7.3k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
+*   [git-standup (⭐7.4k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 
-## [7. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Testing
 
@@ -61,13 +55,13 @@
 *   [Guillaume Laforge's blog](http://glaforge.appspot.com/)
 *   [Cédric Champeau's blog](http://melix.github.io/blog/)
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### QA Tools / Runner
 
 *   [JavaScript Standard Style (⭐28k)](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
 
-## [9. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [8. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Image: Segmentation / Object Detection
 

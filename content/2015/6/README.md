@@ -16,36 +16,19 @@
 
 ### Frameworks
 
-*   [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. \[Boost] [website](http://www.boost.org/)
-
-### Networking
-
-*   [Boost.Asio](http://think-async.com/) :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost]
-*   [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. \[Boost] [website](http://pocoproject.org/)
-
-### Compression
-
-*   [LZMA](http://www.7-zip.org/sdk.html) :zap: - The default and general compression method of 7z format. \[PublicDomain]
-
-### Graphics
-
-*   [Ogre 3D](http://www.ogre3d.org/) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. \[MIT]
-
-### Image Processing
-
-*   [OpenCV](http://opencv.org/) :zap: - Open source computer vision. \[BSD]
+*   [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. \[Boost] [website](https://www.boost.org)
 
 ### JSON
 
-*   [RapidJSON (⭐13k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT]
+*   [RapidJSON (⭐13k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
 
 ### Machine Learning
 
-*   [OpenCV (⭐67k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐69k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
-### Multimedia
+### Networking
 
-*   [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. \[zlib]
+*   [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. \[Boost] [website](http://pocoproject.org/)
 
 ### Talks
 
@@ -211,7 +194,7 @@
 ### Database Tools
 
 *   [Foreigner (⭐1.3k)](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
-*   [Upsert (⭐658)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+*   [Upsert (⭐659)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ### Profiler and Optimization
 
@@ -224,7 +207,7 @@
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐534)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐536)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -245,9 +228,9 @@
 
 ### Cryptography
 
-*   [cipher (⭐58)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+*   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 *   [exgpg (⭐17)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐226)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [pot (⭐229)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 
 ### Documentation
 
@@ -255,7 +238,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐635)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐651)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -263,17 +246,17 @@
 
 ### Feeds
 
-*   [feeder\_ex (⭐68)](https://github.com/manukall/feeder_ex) - RSS feed parser. Simple wrapper for feeder.
+*   [feeder\_ex (⭐70)](https://github.com/manukall/feeder_ex) - RSS feed parser. Simple wrapper for feeder.
 
 ### Framework Components
 
-*   [addict (⭐647)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+*   [addict (⭐648)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 *   [plug\_heartbeat (⭐36)](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
-*   [scrivener (⭐545)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐552)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ### Geolocation
 
-*   [geolix (⭐173)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐175)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### Networking
 
@@ -281,9 +264,9 @@
 
 ### ORM and Datamapping
 
-*   [esqlite (⭐115)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+*   [esqlite (⭐116)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [sqlitex (⭐118)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐101)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [tds (⭐102)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
@@ -293,7 +276,7 @@
 ### Text and Numbers
 
 *   [secure\_random (⭐95)](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
-*   [slugger (⭐155)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
+*   [slugger (⭐156)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 
 ### Third Party APIs
 
@@ -313,7 +296,7 @@
 
 ### Websites
 
-*   [Elixir Github Wiki (⭐21k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
+*   [Elixir Github Wiki (⭐22k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 
 ## [12. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 

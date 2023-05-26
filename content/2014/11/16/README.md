@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [spdlog (⭐17k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
+*   [spdlog (⭐18k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 
 ### Networking
 
@@ -18,7 +18,7 @@
 
 ### Other Awesome Projects
 
-*   [Projects (⭐41k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
+*   [Projects (⭐42k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 
 ---
 

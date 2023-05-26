@@ -35,23 +35,23 @@
 ### Github Libraries / Randomized Algorithms
 
 *   Java
-    *   [by @jpa99 (⭐106)](https://github.com/jpa99/Algorithms)
+    *   [by @jpa99 (⭐110)](https://github.com/jpa99/Algorithms)
     *   [by @phishman3579 (⭐4.2k)](https://github.com/phishman3579/java-algorithms-implementation)
     *   [by @asmolich (⭐14)](https://github.com/asmolich/algorithms)
     *   [by @psjava (⭐70)](https://github.com/psjava/psjava)
     *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
     *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
-    *   [by @Erdos-Graph-Framework (⭐111)](https://github.com/Erdos-Graph-Framework/Erdos)
+    *   [by @Erdos-Graph-Framework (⭐112)](https://github.com/Erdos-Graph-Framework/Erdos)
     *   [by @deepak-malik (⭐131)](https://github.com/deepak-malik/Data-Structures-In-Java)
-    *   [by @yusufcakal (⭐22)](https://github.com/yusufcakal/algorithms)
-    *   [by @FarheenB (⭐131)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
+    *   [by @yusufcakal (⭐23)](https://github.com/yusufcakal/algorithms)
+    *   [by @FarheenB (⭐132)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 
 ## [6. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Acquisition
 
-*   [WAIL (⭐296)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐108)](https://github.com/n0tan3rd/wail). *(Stable)*
-*   [Warcprox (⭐331)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
+*   [WAIL (⭐314)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐112)](https://github.com/n0tan3rd/wail). *(Stable)*
+*   [Warcprox (⭐339)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
 
 ## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

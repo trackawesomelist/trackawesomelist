@@ -28,5 +28,5 @@
 
 ---
 
-- Prev: [Nov 24, 2014](/content/2014/11/24/README.md)
+- Prev: [Nov 25, 2014](/content/2014/11/25/README.md)
 - Next: [Nov 22, 2014](/content/2014/11/22/README.md)

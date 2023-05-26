@@ -10,11 +10,11 @@
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐323)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
+*   [guoxbin/dtool (⭐335)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐3.2k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
+*   [bheisler/criterion.rs (⭐3.5k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -50,8 +50,8 @@
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐87)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
-*   [Regular Language Representations (⭐29)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
+*   [Formalised Undecidable Problems (⭐94)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Regular Language Representations (⭐34)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Plugins
 
@@ -126,7 +126,7 @@
 
 ### Tools / Playground
 
-*   [TypeScript Standard (⭐30)](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
+*   [TypeScript Standard (⭐32)](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
 
 ---
 

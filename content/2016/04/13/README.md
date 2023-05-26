@@ -10,11 +10,11 @@
 
 ### CLI Builder
 
-*   [Clamp (⭐406)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐409)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐969)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐977)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -22,7 +22,7 @@
 
 *   [Pistache (⭐2.8k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
-*   [Served (⭐697)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
+*   [Served (⭐698)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
 
 ## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -52,31 +52,21 @@
 
 ### Professional Groups / Research Groups (USA)
 
-*   [Complex Human Networks Reading Group (CoHN)](http://alumni.media.mit.edu/\~tanzeem/cohn/CoHN.htm) - Reading list from a seminar held at MIT in 2001–2.
+*   [Complex Human Networks Reading Group (CoHN)](http://alumni.media.mit.edu/~tanzeem/cohn/CoHN.htm) - Reading list from a seminar held at MIT in 2001–2.
 *   [Interdependence in Governance and Policy Research Group](https://sites.psu.edu/desmaraisgroup/) - Led by Bruce A. Desmarais at Penn State University.
-
-### Professional Groups / Research Groups (Other)
-
-*   [NetLab](http://groups.chass.utoronto.ca/netlab/) - Research network at the University of Toronto, led by Barry Wellman.
 
 ### Review Articles / Social, Economic and Political Networks
 
-*   [Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949) (*Annual Review of Political Science*, 2011).
 *   [Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848) ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048\&context=pn_wp); *PS: Political Science and Politics*, 2011).
 
 ### Varia / Tutorials
 
 *   [Picking Sides](https://codeandculture.wordpress.com/2015/04/03/picking-sides/) - Community detection in the political network of Middle Eastern alliances between various state and nonstate powers ([updated version](https://gist.github.com/briatte/c6df2f855afb4eb142e6)).
-*   [Plan interactif du métro](http://www.jeromecukier.net/projects/metro/map.html) - Interactive visualization of the Paris metro network, drawn with d3.js, in French.
 *   [Using Metadata to Find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/) and [The Other Ride of Paul Revere: The Brokerage Role in the Making of the American Revolution](http://www.sscnet.ucla.edu/polisci/faculty/chwe/ps269/han.pdf) - Network analysis applied to American revolutionaries.
 
 ### Varia / Blog Series
 
 *   [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
-
-### Varia / Network Science
-
-*   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

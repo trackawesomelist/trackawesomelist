@@ -14,11 +14,11 @@
 
 ### Communication with server / Mouse Events
 
-*   [query (⭐33k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+*   [query (⭐34k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-firebase-hooks (⭐3.1k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
+*   [react-firebase-hooks (⭐3.3k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -30,7 +30,7 @@
 
 *   [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
-### Martime / Telegram
+### Maritime / Telegram
 
 *   [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
@@ -38,7 +38,7 @@
 
 ### Authentication and OAuth
 
-*   [keto (⭐3.9k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+*   [keto (⭐4k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -78,17 +78,17 @@
 
 ### Display / GUI
 
-*   [micropython-nextion (⭐4)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
+*   [micropython-nextion (⭐8)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐854)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
+*   [No-Chat-Reports (⭐878)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
 
 ### Audio
 
-*   [Jetispot (⭐213)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐261)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

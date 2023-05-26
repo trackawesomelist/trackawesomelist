@@ -44,7 +44,7 @@
 
 ### SDKs and Samples / JavaScript SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐7.3k)](https://github.com/aws/aws-sdk-js)
+*   [Repo :fire::fire::fire::fire::fire: (⭐7.4k)](https://github.com/aws/aws-sdk-js)
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Static Site Generation
 
-*   [Photish (⭐147)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
+*   [Photish (⭐148)](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Date and Time
 
-*   [calendar (⭐450)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐454)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Scroll / Other
 
-*   [ScrollMenu (⭐205)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+*   [ScrollMenu (⭐204)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

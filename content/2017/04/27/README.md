@@ -32,7 +32,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐756)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐760)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Network & Storage Testing
 
-*   [Fio (⭐4k)](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [Fio (⭐4.1k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
@@ -88,11 +88,11 @@
 
 ### Tools / Libraries
 
-*   [Palettable (⭐662)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐685)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
-*   [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/\~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
+*   [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
 
 ### Articles / Web App
 

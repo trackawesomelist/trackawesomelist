@@ -56,7 +56,7 @@
 
 ### Front-End Development
 
-*   [Blazor (⭐7.5k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Blazor (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ## [4. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -196,18 +196,18 @@
 
 ### DNS
 
-*   [Th3inspector (⭐1.4k)](https://github.com/Moham3dRiahi/Th3inspector) - All in one CLI tool for information gathering.
+*   [Th3inspector (⭐1.8k)](https://github.com/Moham3dRiahi/Th3inspector) - All in one CLI tool for information gathering.
 *   [Partner Panel (⭐1.3k)](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - Tool for hosting partners to provide a DNS management panel for customers.
-*   [CFPMP (⭐241)](https://github.com/Netrvin/CFPMP) - Partner management panel.
-*   [Flares (⭐171)](https://github.com/lfaoro/flares) - DNS backup tool.
-*   [Block Bad Bot Ruleset (⭐164)](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - Collection of rulesets to block malicious crawlers with firewall rules.
-*   [Docker DDNS (⭐887)](https://github.com/oznu/docker-cloudflare-ddns) - Docker image to use the free DNS Service as a dynamic DNS provider.
-*   [Dynamic DNS Bash (⭐196)](https://github.com/yulewang/cloudflare-api-v4-ddns) - Dynamic DNS updater in bash script.
-*   [Dynamic DNS PHP (⭐151)](https://github.com/lyoshenka/cloudflare-ddns) - Dynamic DNS updater in PHP.
-*   [Dynamic DNS Python (⭐150)](https://github.com/adrienbrignon/cloudflare-ddns) - Dynamic DNS updater in python.
-*   [Argo Tunnel Client (⭐3.7k)](https://github.com/cloudflare/cloudflared) - CLI client for Argo tunnel, a tunneling daemon that proxies any local webserver through the Cloudflare network.
-*   [Upper (⭐97)](https://github.com/ostark/upper) - Speeds up craft dramatically using a cache proxy in front of your webserver.
-*   [Cloud Buster (⭐138)](https://github.com/SageHack/cloud-buster) - A comprehensive pentest tool that checks sites for origin IP leaks.
+*   [CFPMP (⭐243)](https://github.com/Netrvin/CFPMP) - Partner management panel.
+*   [Flares (⭐174)](https://github.com/lfaoro/flares) - DNS backup tool.
+*   [Block Bad Bot Ruleset (⭐179)](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - Collection of rulesets to block malicious crawlers with firewall rules.
+*   [Docker DDNS (⭐954)](https://github.com/oznu/docker-cloudflare-ddns) - Docker image to use the free DNS Service as a dynamic DNS provider.
+*   [Dynamic DNS Bash (⭐233)](https://github.com/yulewang/cloudflare-api-v4-ddns) - Dynamic DNS updater in bash script.
+*   [Dynamic DNS PHP (⭐152)](https://github.com/lyoshenka/cloudflare-ddns) - Dynamic DNS updater in PHP.
+*   [Dynamic DNS Python (⭐153)](https://github.com/adrienbrignon/cloudflare-ddns) - Dynamic DNS updater in python.
+*   [Argo Tunnel Client (⭐5.8k)](https://github.com/cloudflare/cloudflared) - CLI client for Argo tunnel, a tunneling daemon that proxies any local webserver through the Cloudflare network.
+*   [Upper (⭐99)](https://github.com/ostark/upper) - Speeds up craft dramatically using a cache proxy in front of your webserver.
+*   [Cloud Buster (⭐143)](https://github.com/SageHack/cloud-buster) - A comprehensive pentest tool that checks sites for origin IP leaks.
 
 ### Developers
 
@@ -223,35 +223,35 @@
 
 ### Workers / Tools
 
-*   [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - Plugin for [serverless framework (⭐44k)](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
-*   [GitHub Action (⭐17)](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
-*   [Workers KV Viewer (⭐37)](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
+*   [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - Plugin for [serverless framework (⭐45k)](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
+*   [GitHub Action (⭐19)](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
+*   [Workers KV Viewer (⭐38)](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
 *   [Redirect Management](https://forwarding.app) - Generate redirect worker.
 
 ### Workers / Recipes
 
-*   [Examples Collection (⭐784)](https://github.com/cloudflare/worker-examples) - Collection of recipes.
-*   [Static (⭐12)](https://github.com/cloudflare/worker-template-static) - Generate a static HTML or JSON page from raw strings in your workers script.
-*   [Img-Color (⭐29)](https://github.com/xtuc/img-color-worker) - Retrieve the dominant color of a png or jpeg image.
-*   [Binast (⭐6)](https://github.com/xtuc/binast-cf-worker-template) - Serve binast via a worker.
-*   [Pwnage Protection (⭐143)](https://github.com/detroitenglish/pw-pwnage-cfworker) - Secure password scoring and user pwnage protection api - [Usage](https://community.cloudflare.com/t/estimate-strength-of-users-new-password-input-with-zxcvbn-and-query-haveibeenpwned-for-matches-against-known-hacked-accounts/26378).
+*   [Examples Collection (⭐932)](https://github.com/cloudflare/worker-examples) - Collection of recipes.
+*   [Static (⭐13)](https://github.com/cloudflare/worker-template-static) - Generate a static HTML or JSON page from raw strings in your workers script.
+*   [Img-Color (⭐36)](https://github.com/xtuc/img-color-worker) - Retrieve the dominant color of a png or jpeg image.
+*   [Binast (⭐7)](https://github.com/xtuc/binast-cf-worker-template) - Serve binast via a worker.
+*   [Pwnage Protection (⭐147)](https://github.com/detroitenglish/pw-pwnage-cfworker) - Secure password scoring and user pwnage protection api - [Usage](https://community.cloudflare.com/t/estimate-strength-of-users-new-password-input-with-zxcvbn-and-query-haveibeenpwned-for-matches-against-known-hacked-accounts/26378).
 *   [URL Router (⭐88)](https://github.com/berstend/service-worker-router) - Fast url router - [Usage](https://community.cloudflare.com/t/open-source-fast-url-router-for-workers-js-typescript/33406).
-*   [Blue / Green Deployments (⭐21)](https://github.com/DigitalOptimizationGroup/blue-green-cloudflare-workers) - Working example of blue / green deployments with canary releasing.
+*   [Blue / Green Deployments (⭐24)](https://github.com/DigitalOptimizationGroup/blue-green-cloudflare-workers) - Working example of blue / green deployments with canary releasing.
 *   [Preact PWA (⭐61)](https://github.com/DigitalOptimizationGroup/cloudflare-worker-preact-pwa) - Preact progressive web app.
 *   [Connecting to Google Storage](https://community.cloudflare.com/t/connecting-to-google-storage/32350) - Pull files from Google's cloud storage.
 *   [CSRF Protection](https://gist.github.com/simonerni/3501b8de6320ac37398d08d9d2d08561) - Protect any origin from CSRF by verifying origin/referer headers.
 *   [URL Query Strings Parser](https://community.cloudflare.com/t/parse-url-query-strings-with-cloudflare-workers/90286) - Parse url query strings.
 *   [Regrex Replacement and Injection](https://community.cloudflare.com/t/perform-regex-replacements-and-inject-css-javascript-with-cloudflare-workers/90279) - Perform regex replacements and inject CSS/JS.
-*   [Webpack Boilerplate (⭐119)](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - Boilerplate to build, bundle and deploy workers with webpack.
-*   [Basic Auth (⭐95)](https://github.com/dommmel/cloudflare-workers-basic-auth) - Protection using basic auth.
-*   [IP lookup service (⭐28)](https://github.com/matthewgall/beta.ipinfo.in) - IP lookup service using workers.
+*   [Webpack Boilerplate (⭐122)](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - Boilerplate to build, bundle and deploy workers with webpack.
+*   [Basic Auth (⭐102)](https://github.com/dommmel/cloudflare-workers-basic-auth) - Protection using basic auth.
+*   [IP lookup service (⭐33)](https://github.com/matthewgall/beta.ipinfo.in) - IP lookup service using workers.
 *   [TypeScript Workers (⭐139)](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested typescript worker.
-*   [Proxies (⭐83)](https://github.com/GitbookIO/proxies-on-cloudflare) - Makes it easy to build workers, by providing high-level proxying primitives addressing common needs.
+*   [Proxies (⭐88)](https://github.com/GitbookIO/proxies-on-cloudflare) - Makes it easy to build workers, by providing high-level proxying primitives addressing common needs.
 *   [Bannero (⭐5)](https://github.com/nondanee/bannero) - Bannero image API for simpledesktops.
 *   [Hasura (⭐18)](https://github.com/nathanwaters/hasura-cloudflare-worker) - Example using Facebook-based authorization and graphql proxy queries with hasura.
 *   [IP Redirects](https://community.cloudflare.com/t/ip-redirects/18285) - Redirect users based on their ip address.
 *   [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect short links.
-*   [Performance Optimized Workers (⭐137)](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
+*   [Performance Optimized Workers (⭐145)](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

@@ -46,19 +46,7 @@
 
 ### React General Resources
 
-*   [React Official Website](https://reactjs.org/)
-
-### React Community
-
 *   [Reactiflux Discord Channel](http://www.reactiflux.com/)
-
-### React Tutorials / React General Tutorials
-
-*   [React Cheatsheet](https://devhints.io/react)
-
-### React Tutorials / React Performance
-
-*   [A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
 
 ---
 

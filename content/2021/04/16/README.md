@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 16, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -84,21 +84,27 @@
 
 ### Tools & Software / Utilities
 
-*   [httrack2warc (⭐22)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
+*   [httrack2warc (⭐24)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [bta-lib (⭐409)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
+
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
-*   [Help you learn more efficiently vue3 source code - mini-vue (⭐8.7k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+*   [Help you learn more efficiently vue3 source code - mini-vue (⭐9.1k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 
-## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [11. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Datasets
 
 *   [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/) - This dataset gathers 728,321 biographies from wikipedia. It aims at evaluating text generation algorithms.
 
-## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 

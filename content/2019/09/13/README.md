@@ -22,7 +22,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [padding-oracle-attacker (⭐154)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
+*   [padding-oracle-attacker (⭐173)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Queues and Messaging
 
-*   [NATS.io (⭐41)](https://github.com/nats-io/nats.cr) - NATS client
+*   [NATS.io (⭐42)](https://github.com/nats-io/nats.cr) - NATS client
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Hauk (⭐462)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐462)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
+*   [Hauk (⭐474)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐474)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
 
 ## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

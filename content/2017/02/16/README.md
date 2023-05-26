@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 16, 2017
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -78,7 +78,13 @@ Webpage: <http://www.novaarcada.pt/>
     data structures reverse engineering and dissection, with code generation
     for C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
 
-## [10. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Java / FrameWorks
+
+*   [DRIP](https://lakshmidrip.github.io/DRIP) - Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries.
+
+## [11. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Academic/Research/Publications/Books / Books
 
@@ -92,13 +98,13 @@ Webpage: <http://www.novaarcada.pt/>
 
 *   [Android - reporting security issues](https://source.android.com/security/overview/updates-resources.html#report-issues)
 
-## [11. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [12. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Appendix: More than Top 100
 
 *   Towards AI-complete question answering: A set of prerequisite toy tasks (2015), J. Weston et al. [\[pdf\]](http://arxiv.org/pdf/1502.05698)
 
-## [12. Tips](/content/git-tips/tips/README.md)
+## [13. Tips](/content/git-tips/tips/README.md)
 
 ## Quickly switch to the previous branch
 
@@ -112,7 +118,7 @@ git checkout -
 git checkout @{-1}
 ```
 
-## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [14. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Utilities
 

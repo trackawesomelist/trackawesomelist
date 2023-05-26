@@ -20,7 +20,7 @@
 
 ### Packages / Command-line apps
 
-*   [diff2html-cli (⭐406)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [diff2html-cli (⭐432)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ## [3. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Distributed Computing
 
-*   [Orleans (⭐9.2k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+*   [Orleans (⭐9.3k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 
 ## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

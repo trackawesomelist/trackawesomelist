@@ -16,7 +16,7 @@
 
 ### Laravel
 
-- Name: [DevTv (⭐24)](https://github.com/iamraphson/DEV-TV)
+- Name: [DevTv (⭐25)](https://github.com/iamraphson/DEV-TV)
 
   Description: DevTv is your online Video Subscription Platform
 
@@ -26,7 +26,7 @@
 
 ### ReactJS
 
-- Name: [microapps-donation (⭐19)](https://github.com/iamraphson/microapps-donation)
+- Name: [microapps-donation (⭐21)](https://github.com/iamraphson/microapps-donation)
 
   Description: A single page application that allows people to donate money
 
@@ -100,7 +100,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Telegram
 
-*   [Python (⭐20k)](https://github.com/python-telegram-bot/python-telegram-bot)
+*   [Python (⭐21k)](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ---
 

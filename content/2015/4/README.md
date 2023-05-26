@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26 - Feb 01, 2015
 
-19 awesome lists updated this week.
+18 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,11 +46,11 @@
 
 ### Data Visualization / Runner
 
-*   [BabylonJS (⭐19k)](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
+*   [BabylonJS (⭐20k)](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 
 ### Editors / Runner
 
-*   [TinyMCE (⭐12k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
+*   [TinyMCE (⭐13k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -85,7 +85,7 @@
 
 ### IDE
 
-*   [Vim Template (⭐360)](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
+*   [Vim Template (⭐365)](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -95,8 +95,8 @@
 
 ### Miscellaneous
 
-*   [ex2ms (⭐168)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
-*   [ex\_rated (⭐422)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
+*   [ex2ms (⭐173)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
+*   [ex\_rated (⭐428)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 
 ### Text and Numbers
 
@@ -161,13 +161,7 @@
 
 *   [saldo.mx](http://saldo.mx/)
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Clojure / Non-X86
-
-*   [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
-
-## [16. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [15. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Args
 
@@ -272,13 +266,13 @@
 *   [Daiku](https://metacpan.org/pod/Daiku) - Make for Perl.
 *   [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
 
-## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [16. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
-*   [cfonts (⭐1.3k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
+*   [cfonts (⭐1.4k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 
-## [18. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
+## [17. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
 ### GDC Talks / Table of Contents
 
@@ -295,7 +289,7 @@
 *   \[2012, G.A.N.G Summit] [Music Design in Games](https://www.youtube.com/watch?v=Pl86ND_c5Og): Rich Vreeland (Disasterpeace)
 *   \[2012, George Mason University] [Lecture Series](https://www.youtube.com/watch?v=CrfdNJDVpR4): Todd Howard (Bethesda)
 
-## [19. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [18. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Fundamentals
 

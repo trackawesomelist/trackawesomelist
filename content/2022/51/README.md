@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19 - Dec 25, 2022
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Code Analysis and Linters
 
-*   [coq-of-ocaml (⭐184)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
+*   [coq-of-ocaml (⭐211)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
 
 ## [2. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐768)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐981)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Applications
 
-*   [Sniffnet (⭐3.2k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐7k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 
 ## [14. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
@@ -252,13 +252,13 @@
 
 ### Host-based tools / Tarpits
 
-*   [USB Keystroke Injection Protection (⭐427)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
+*   [USB Keystroke Injection Protection (⭐442)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
 
 ## [18. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Self-hosted
 
-*   [Memos (⭐10k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐14k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ### Blogging platforms (Medium)
 
@@ -297,25 +297,25 @@
 
 ### Data Validation / NLP
 
-*   [great\_expectations (⭐8k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-*   [pandera (⭐2k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
-*   [deepchecks (⭐2.4k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [evidently (⭐3.1k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐699)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [great\_expectations (⭐8.4k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+*   [pandera (⭐2.3k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
+*   [deepchecks (⭐2.6k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [evidently (⭐3.5k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
+*   [TensorFlow Data Validation (⭐720)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Algorithm
 
-*   [swift-algorithm-club (⭐27k)](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
+*   [swift-algorithm-club (⭐28k)](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
 
 ### Chart
 
-*   [SwiftCharts (⭐2.4k)](https://github.com/ivanschuetz/SwiftCharts) - Highly customizable charts for iOS.
+*   [SwiftCharts (⭐2.5k)](https://github.com/ivanschuetz/SwiftCharts) - Highly customizable charts for iOS.
 
 ### MongoDB
 
-*   [MongoKitten (⭐649)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐659)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -323,15 +323,15 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐352)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐356)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐47)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐52)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 
-*   [SwiftIconFont (⭐1.1k)](https://github.com/segecey/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
+*   [SwiftIconFont (⭐1.2k)](https://github.com/segecey/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
 
 ### Localization / Barcode
 
@@ -393,15 +393,6 @@
 
 
 ### Festivals & Conferences
-
-- Name: [**Eyeo**](https://www.eyeofestival.com/)
-
-  Locations: \[Melbourne]
-
-  Keywords: a gathering for the creative technology community
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.eyeofestival.com%2F)
-
 
 - Name: [**ISEA**](https://isea2022.isea-international.org/)
 
@@ -487,7 +478,7 @@
 
 ### Runtimes/Frontends
 
-*   [Panel (⭐2.6k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
+*   [Panel (⭐2.7k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 *   [PaneLite](https://panelite.holoviz.org) - A distribution of [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) that works with [Panel](https://panel.holoviz.org) and the [HoloViz](https://holoviz.org) ecosystem. <!--lint enable double-link-->
 
 ### JupyterLab Extensions
@@ -496,9 +487,17 @@
 
 ## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### The Generative AI Area: history, maps, and definitions
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   \[🔥🔥🔥] [Mapping the Generative AI landscape | Antler](https://www.antler.co/blog/generative-ai)
+
+### Inbox: Large Language Models / ChatGPT
+
+*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+
+### Inbox: Large Language Models / Text-related Generative Tools
+
+*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -506,19 +505,11 @@
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [camenduru/stable-diffusion-webui-colab (⭐2.2k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+*   [camenduru/stable-diffusion-webui-colab (⭐11k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
 
 ### Image Synthesis / Promptism
 
-*   [openai/point-e (⭐4.5k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
-
-### Inbox: Text and Natural Language Processing / ChatGPT
-
-*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
-
-### Inbox: Text and Natural Language Processing / Text-related Generative Tools
-
-*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
+*   [openai/point-e (⭐5.4k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ## [29. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -530,7 +521,7 @@
 
 ### Front-End Development
 
-*   [Web Components (⭐2.1k)](https://github.com/web-padawan/awesome-web-components#readme)
+*   [Web Components (⭐2.2k)](https://github.com/web-padawan/awesome-web-components#readme)
 
 ## [31. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
@@ -557,7 +548,7 @@
 
 ### Resources / Examples
 
-*   [h5 (⭐0)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
+*   [h5 (⭐4)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -641,19 +632,15 @@
 
 ### Templates / Vue 3
 
-*   [ultimate-vite-ts-less-template (⭐2)](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
+*   [ultimate-vite-ts-less-template (⭐3)](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
 
 ### Templates / React
 
-*   [react-xs-admin (⭐3)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+*   [react-xs-admin (⭐5)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 ### Templates / Solid
 
-*   [vitesse-solid (⭐25)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
-
-### Framework-agnostic Plugins / Integrations
-
-*   [vite-plugin-solid-markdown (⭐6)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
+*   [vitesse-solid (⭐35)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -661,64 +648,75 @@
 
 ### React / Helpers
 
-*   [vite-plugin-react-click-to-component (⭐7)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+*   [vite-plugin-react-click-to-component (⭐13)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+
+### Solid / Integrations
+
+*   [vite-plugin-solid-markdown (⭐6)](https://github.com/xbmlz/vite-plugin-solid-markdown) - Compile markdown files to Solid components.
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐603)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐646)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.animate (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+*   [echasnovski/mini.nvim#mini.animate (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐165)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐226)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim (⭐39)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐45)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
-*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐18)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
+*   [aws (⭐2)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
+*   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐19)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
 *   [valuca (⭐0)](https://github.com/keyaedisa/Valuca) - Variant of [ducula (⭐33)](https://github.com/janjoswig/Ducula). Includes decorators for background job status, username, hostname, virtualenv, current directory, last command's exit code, `git` information and the current time.
 
 ## [42. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Mediapipe (⭐21k)](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+*   [Mediapipe (⭐22k)](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ### Table of Contents / Closed Source
 
 *   [NVIDIA Deep Stream](https://developer.nvidia.com/deepstream-sdk) \[Python/C/C++] - a platform for real-time image, video and audio processing, preferably using on edge devices or cloud.
 
-## [43. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/week/README.md)
+## [43. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Data Sources
+
+*   [tardis-python (⭐92)](https://github.com/tardis-dev/tardis-python) - Python interface for Tardis.dev high frequency crypto market data
+*   [lake-api](https://github.com/crypto-lake/lakeapi) - Python interface for Crypto Lake high frequency crypto market data
+
+## [44. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/week/README.md)
 
 ### Use ChatGPT Anywhere / Editors
 
-*   [intellij-chatgpt (⭐8)](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
+*   [intellij-chatgpt (⭐64)](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
 
 ### Use ChatGPT Anywhere / Chatbots
 
-*   [chatbot-telegram (⭐9)](https://github.com/Ciyou/chatbot-telegram): ChatGPT Telegram Bot powered by `Deno` and `TypeScript`.
-*   [gpt-ai-assistant (⭐390)](https://github.com/memochou1993/gpt-ai-assistant) (Chinese content): Run your own GPT LINE bot on Vercel in 10 minutes.
+*   [chatbot-telegram (⭐34)](https://github.com/Ciyou/chatbot-telegram): ChatGPT Telegram Bot powered by `Deno` and `TypeScript`.
+*   [gpt-ai-assistant (⭐4.1k)](https://github.com/memochou1993/gpt-ai-assistant) (Chinese content): Run your own GPT LINE bot on Vercel in 10 minutes.
 
 ### Applications / Reverse Proxy
 
-*   [StackExplain (⭐267)](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
+*   [StackExplain (⭐408)](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
 
-## [44. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [45. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Education
 
-*   [TubeCards (⭐201)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
+*   [TubeCards (⭐223)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
 
 ### Contents / Entertainment
 
@@ -726,19 +724,19 @@
 
 ### Contents / Productivity
 
-*   [Virlow Flutter Recorder (⭐12)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
+*   [Virlow Flutter Recorder (⭐15)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
 
 ### Contents / Tools
 
-*   [RSA Encryption (⭐24)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+*   [RSA Encryption (⭐26)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
-## [45. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [46. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Networks
 
 *   [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) - International characters in domain names mean support of homographs and heterographs.
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -754,42 +752,36 @@
 *   [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
 *   [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
 
-## [47. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [48. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [Sumi (⭐4)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
 
-## [48. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [49. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### Using ChatGPT in other apps
 
 *   [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
 *   [GPT AI Assistant using LINE and Vercel (⭐1.2k)](https://github.com/memochou1993/gpt-ai-assistant)
 
-## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
-
-### Science Logology / Literature Mining
-
-*   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)].
-
 ## [50. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Social Networking
 
-*   [Retrospring (⭐132)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐141)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
 *   WebDrivers
-    *   [Ferrum (⭐1.4k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.5k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
-    *   [Selenium WebDriver (⭐26k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
+    *   [Selenium WebDriver (⭐27k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
 ### View components
 
-*   [Phlex (⭐727)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐847)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -802,7 +794,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐12k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
+*   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐13k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -810,23 +802,23 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐85)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐100)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐942)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
+*   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐998)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 
 ### Software / Miscellaneous
 
-*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐3)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
+*   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐8)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 
 ### Software / Photo and Video Galleries
 
-*   [Chevereto (⭐110)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐110)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+*   [Chevereto (⭐148)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐148)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
 
 ### Software / Software Development - Low Code
 
-*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐402)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
+*   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com), [Source Code (⭐448)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
 
 ### Software / URL Shorteners
 
@@ -837,23 +829,6 @@
 ### Hacks and homebrew / Ironsworn
 
 *   [Ironcrunch](https://www.patreon.com/LudicPen/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
-
-## [54. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Bash / Non-X86
-
-*   [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/) - Sundeep Agarwal
-*   [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) - Sundeep Agarwal
-
-### Clojure / Non-X86
-
-*   [Learn ClojureScript](https://www.learn-clojurescript.com) - Andrew Meredith
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
-*   [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
-*   [Python for network engineers](https://pyneng.readthedocs.io/en/latest/) - Natasha Samoylenko
 
 ---
 

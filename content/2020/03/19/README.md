@@ -32,7 +32,7 @@
 
 ### Misc / Other
 
-*   [Idyll (⭐1.9k)](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML (⭐12)](https://github.com/idyll-lang/idyll-embed).
+*   [Idyll (⭐2k)](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML (⭐12)](https://github.com/idyll-lang/idyll-embed).
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

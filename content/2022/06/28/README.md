@@ -16,11 +16,11 @@
 
 ### Templates / Elm
 
-*   [vite-elm-spa (⭐9)](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
+*   [vite-elm-spa (⭐10)](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
-### Community Resources
+### Resources / Community
 
 *   [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
 
@@ -28,13 +28,13 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vexip UI (⭐523)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
+*   [Vexip UI (⭐853)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
 
 ## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Projects / Wallets
 
-*   [AlgoTables (⭐4)](https://github.com/algotables/algotables.github.io) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
+*   [AlgoTables (⭐5)](https://github.com/algotables/algotables.github.io) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -60,7 +60,7 @@
 
 ### CLI Builder
 
-*   [dry-cli (⭐290)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
+*   [dry-cli (⭐295)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -70,11 +70,11 @@
 
 ### Utilities / Network Utilities
 
-*   [neoss (⭐58)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
+*   [neoss (⭐72)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 
 ### Version Control / Git
 
-*   [czg (⭐415)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
+*   [czg (⭐620)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 
 ## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [lmburns/kimbox (⭐45)](https://github.com/lmburns/kimbox) - A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus).
+*   [lmburns/kimbox (⭐54)](https://github.com/lmburns/kimbox) - A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus).
 
 ## [12. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

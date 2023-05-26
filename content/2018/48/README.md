@@ -114,7 +114,7 @@
 ### HAL implementation crates / Silicon Labs
 
 *   [`tomu-hal`](https://github.com/fudanchii/imtomu-rs)
-    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐69)](https://github.com/im-tomu/tomu-bootloader) directly from application via `toboot_config` macro.
+    *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐70)](https://github.com/im-tomu/tomu-bootloader) directly from application via `toboot_config` macro.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -204,7 +204,7 @@
 
 ### Extensions
 
-*   [next-routes-middleware (⭐40)](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
+*   [next-routes-middleware (⭐41)](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
 
 ## [11. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
@@ -231,19 +231,19 @@
 
 ### Geometry and Topology / Topology
 
-*   [Elementary Applied Topology](https://www.math.upenn.edu/\~ghrist/notes.html) - Robert Ghrist (UPenn)
+*   [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - Robert Ghrist (UPenn)
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Lambdo (⭐15)](https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
+*   [Lambdo (⭐17)](https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Testing
 
-*   [Stryker.NET (⭐1.5k)](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
+*   [Stryker.NET (⭐1.6k)](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
 
 ## [15. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -263,7 +263,7 @@
 *   Push Notifications
     *   [Onesignal (⭐15)](https://github.com/jklingsporn/vertx-push-onesignal) - Send push notifications to (mobile/web) apps from your Vert.x application with [OneSignal](https://onesignal.com/).
 *   CNCF CloudEvents
-    *   [CloudEvents.io Java SDK (⭐315)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐315)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
+    *   [CloudEvents.io Java SDK (⭐332)](https://github.com/cloudevents/sdk-java) - Send and receive [CloudEvents](https://cloudevents.io/) using the [Vert.x HTTP Transport (⭐332)](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
 
 ### Config
 
@@ -442,7 +442,7 @@
 ### IR Tools Collection / Log Analysis Tools
 
 *   [Lorg (⭐203)](https://github.com/jensvoid/lorg) - Tool for advanced HTTPD logfile security analysis and forensics.
-*   [Logdissect (⭐126)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+*   [Logdissect (⭐127)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
 ## [37. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
@@ -497,20 +497,20 @@
 
 ### Applications / Games
 
-*   [rsaarelm/magog (⭐347)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
-*   [Thinkofname/rust-quake (⭐57)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
+*   [rsaarelm/magog (⭐351)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
+*   [Thinkofname/rust-quake (⭐58)](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
 
 ### Applications / Industrial automation
 
-*   [locka99/opcua (⭐374)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
+*   [locka99/opcua (⭐390)](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) library.
 
 ### Applications / Text processing
 
-*   [whitfin/runiq (⭐171)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
+*   [whitfin/runiq (⭐185)](https://github.com/whitfin/runiq) — an efficient way to filter duplicate lines from unsorted input.
 
 ### Applications / Utilities
 
-*   [brycx/checkpwn (⭐98)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
+*   [brycx/checkpwn (⭐102)](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
 
 ### Development tools / IDEs
 
@@ -518,29 +518,29 @@
 
 ### Development tools / Transpiling
 
-*   [immunant/c2rust (⭐3.1k)](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM. [![Build Status](https://api.travis-ci.org/immunant/c2rust.svg?branch=master)](https://travis-ci.org/immunant/c2rust)
+*   [immunant/c2rust (⭐3.3k)](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM.
 *   [jameysharp/corrode (⭐2.1k)](https://github.com/jameysharp/corrode) — A C to Rust translator written in Haskell.
 
 ### Libraries / Game development
 
 *   Game Engines
-    *   [Bevy (⭐22k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
+    *   [Bevy (⭐24k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
         [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) — Rust Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
-    *   [ggez (⭐3.7k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
+    *   [ggez (⭐3.8k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
     *   [Kiss3d](http://kiss3d.org) — A Keep It Simple, Stupid 3d graphics engine written with Rust [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
-    *   [oxidator (⭐261)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
+    *   [oxidator (⭐268)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
     *   [Piston](https://www.piston.rs/) — [![Crates.io](https://img.shields.io/crates/v/piston.svg?style=flat-square)](https://crates.io/crates/piston) [![Crates.io](https://img.shields.io/crates/l/piston.svg)](https://github.com/PistonDevelopers/piston/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/piston.svg)](https://crates.io/crates/piston)
-    *   [Unrust (⭐372)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
+    *   [Unrust (⭐374)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
 
 ### Libraries / GUI
 
-*   [autopilot-rs/autopilot-rs (⭐282)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
+*   [autopilot-rs/autopilot-rs (⭐305)](https://github.com/autopilot-rs/autopilot-rs) — A simple, cross-platform GUI automation library for Rust.
 
 ### Libraries / Macro
 
 *   cute
-    *   [mattgathu/cute (⭐312)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
+    *   [mattgathu/cute (⭐323)](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust.
 
 ## [42. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -577,19 +577,19 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-displacement-slideshow (⭐196)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
+*   [vue-displacement-slideshow (⭐201)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 
 ## [44. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
-*   [Fundamentals Code Library](http://sourceforge.net/projects/fundementals) (abandoned, more recent fork is [here (⭐66)](https://github.com/fundamentalslib/fundamentals4) - though it slightly differs in units set, f.ex. no XML. Recent major version 5 [here (⭐231)](https://github.com/fundamentalslib/fundamentals5)). `[Delphi]` `[FPC]` Collection of Delphi / FreePascal code units. Includes libraries for Unicode, Strings, Data Structures, Sockets and Mathematics.
+*   [Fundamentals Code Library](http://sourceforge.net/projects/fundementals) (abandoned, more recent fork is [here (⭐66)](https://github.com/fundamentalslib/fundamentals4) - though it slightly differs in units set, f.ex. no XML. Recent major version 5 [here (⭐239)](https://github.com/fundamentalslib/fundamentals5)). `[Delphi]` `[FPC]` Collection of Delphi / FreePascal code units. Includes libraries for Unicode, Strings, Data Structures, Sockets and Mathematics.
     // *Utils: ZLIB compression; JSON; XML; ProtocolBuffers; Unicode routines; data structures; Hashes: XOR, CRC, Adler, MD5, SHA, secure keyed MD5/SHA, etc; Network: blocking TCP client/server, HTTP(S) via SSL3/TLS1.0/TLS1.1/TLS1.2 (fully native); SQL parser; BitCoin MtGox client; Blaise script engine; Cipher: AES, DES, FUNE, RC2, RC4, RSA, Diffie-Hellman; Maths: matrix, complex, statistics, huge numbers*
 
 ### RAD Studio IDE plugins/wizards
 
 *   [Delphi Library Helper (⭐19)](https://github.com/littleearth/delphi-library-helper) Tool to assist Delphi developers configuring library folders.
-*   [Mobile Image Creator (⭐6)](https://github.com/littleearth/mobile-image-creator) Creating Icons and Launcher Images for Delphi Mobile Applications (Firemonkey). This is a fork of Mobile Gfx created by [Thomas Grubb of RiverSoftAVG](http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/).
+*   [Mobile Image Creator (⭐7)](https://github.com/littleearth/mobile-image-creator) Creating Icons and Launcher Images for Delphi Mobile Applications (Firemonkey). This is a fork of Mobile Gfx created by [Thomas Grubb of RiverSoftAVG](http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/).
 
 ## [45. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -687,7 +687,7 @@
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [V2rayU (⭐15k)](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yanue/V2rayU)
+*   [V2rayU (⭐16k)](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yanue/V2rayU)
 
 ### Utilities / Password Management
 
@@ -784,11 +784,11 @@
 
 ### Science and Data Analysis
 
-*   [Loom - graph library for Clojure (⭐825)](https://github.com/aysylu/loom)
+*   [Loom - graph library for Clojure (⭐857)](https://github.com/aysylu/loom)
 
 ### Editor Plugins
 
-*   [vim-iced (Vim) (⭐473)](https://github.com/liquidz/vim-iced)
+*   [vim-iced (Vim) (⭐498)](https://github.com/liquidz/vim-iced)
 
 ## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -808,7 +808,7 @@
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
-*   [OWASP ZAP Node API (⭐28)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
+*   [OWASP ZAP Node API (⭐37)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
 ## [55. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 

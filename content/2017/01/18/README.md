@@ -15,7 +15,7 @@
 
 ### Resources / Tutorials
 
-*   [Markdown Cheatsheet (⭐57k)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: *Where to look when you don't remember the syntax!*
+*   [Markdown Cheatsheet (⭐59k)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: *Where to look when you don't remember the syntax!*
 
 ## [2. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

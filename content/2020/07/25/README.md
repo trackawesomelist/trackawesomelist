@@ -26,7 +26,7 @@
 
 ### Deep Learning / PyTorch
 
-*   [pytorch\_geometric\_temporal (⭐1.9k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pytorch\_geometric\_temporal (⭐2.1k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Temporal Extension Library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [google-drive-upload (⭐628)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
+*   [google-drive-upload (⭐643)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 
 ## [6. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Community Resources
 
-*   [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
-*   [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
+*   [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
+*   [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
 
 ### Plugins
 
-*   [Virtualfish (⭐968)](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
-*   [Apple Touchbar (⭐83)](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
+*   [Virtualfish (⭐1k)](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper
+*   [Apple Touchbar (⭐84)](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2
 
 ## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ins-progress-bar (⭐330)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
+*   [vue-ins-progress-bar (⭐334)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 
 ## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

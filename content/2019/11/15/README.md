@@ -36,7 +36,7 @@
 
 ### Meteor
 
-- Name: [titra (⭐303)](https://github.com/kromitgmbh/titra)
+- Name: [titra (⭐337)](https://github.com/kromitgmbh/titra)
 
   Description: An open source project time-tracking app
 
@@ -93,7 +93,7 @@
 
 ### Microservices
 
-*   [Apache ServiceComb Java Chassis (⭐1.8k)](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
+*   [Apache ServiceComb Java Chassis (⭐1.9k)](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
 
 ## [11. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 

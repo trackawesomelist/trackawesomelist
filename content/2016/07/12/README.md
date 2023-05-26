@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,9 +14,9 @@
 
 ### Framework Components
 
-*   [kerosene (⭐224)](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
+*   [kerosene (⭐226)](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
 *   [phoenix\_html\_simplified\_helpers (⭐29)](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - Some helpers for phoenix html (truncate, time\_ago\_in\_words, number\_with\_delimiter).
-*   [plug\_secex (⭐24)](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
+*   [plug\_secex (⭐25)](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
 
 ### HTTP
 
@@ -41,7 +41,7 @@
 
 ### Third Party APIs
 
-*   [pigeon (⭐556)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
+*   [pigeon (⭐567)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
 
 ### Translations and Internationalizations
 
@@ -49,21 +49,15 @@
 
 ### Utilities
 
-*   [sitemap (⭐99)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
+*   [sitemap (⭐96)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
-
-### Resources / Articles
-
-*   [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
-
-## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [2. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Disk Image Creation Tools
 
 *   [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - ACQUIRE by Magnet Forensics allows various types of disk acquisitions to be performed on Windows, Linux, and OS X as well as mobile operating systems.
 
-## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [3. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Italy 🇮🇹 / Rome
 
@@ -77,7 +71,7 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 | ---- | ----- | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
 | ✔    | ✔     | [Plot 15/1, 1st Floor, Sector 2, Opposite Cyber Gateway, Hitech City, Hyderabad](https://goo.gl/maps/XkwPfawQWrp) | Mon-Sun 8:00-22:00 |
 
-## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Philosophy
 
@@ -91,7 +85,7 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 
 *   [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 
-## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Web Frameworks
 
@@ -102,19 +96,19 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 
 ### Database Clients
 
-*   [vertx-pojo-mapper (⭐59)](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
+*   [vertx-pojo-mapper (⭐58)](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
 
 ### Integration
 
 *   JavaEE
     *   [JCA adaptor (⭐10)](https://github.com/vert-x3/vertx-jca) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Java Connector Architecture Adaptor for the Vert.x event bus.
-    *   [Weld (⭐48)](https://github.com/weld/weld-vertx) - Brings the CDI programming model into the Vert.x ecosystem (register CDI observer methods as Vert.x message consumers, CDI-powered Verticles, define routes in a declarative way, etc.).
+    *   [Weld (⭐47)](https://github.com/weld/weld-vertx) - Brings the CDI programming model into the Vert.x ecosystem (register CDI observer methods as Vert.x message consumers, CDI-powered Verticles, define routes in a declarative way, etc.).
 *   Meteor
-    *   [Meteor (⭐18)](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus.
+    *   [Meteor (⭐17)](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus.
 *   Metrics
     *   [Hawkular metrics (⭐5)](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
     *   [DropWizard metrics (⭐32)](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
-    *   [Micrometer metrics (⭐43)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
+    *   [Micrometer metrics (⭐44)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
     *   [OpenTsDb Metrics (⭐11)](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x.
     *   [Bosun Monitoring (⭐3)](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
@@ -132,15 +126,15 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 
 ### Vert.x Event Bus Clients
 
-*   [C++11 (⭐17)](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
+*   [C++11 (⭐16)](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
 *   [Java (⭐19)](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
 *   [Java (⭐20)](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
-*   [CLI (⭐3)](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
+*   [CLI (⭐2)](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
 
 ### Cluster Managers
 
-*   [JGroups Cluster Manager (⭐4)](https://github.com/vert-x3/vertx-jgroups) - JGroups cluster manager.
-*   [Atomix Cluster Manager (⭐24)](https://github.com/atomix/atomix-vertx) - An [Atomix](http://atomix.io) based cluster manager implementation for Vert.x 3.
+*   [JGroups Cluster Manager (⭐5)](https://github.com/vert-x3/vertx-jgroups) - JGroups cluster manager.
+*   [Atomix Cluster Manager (⭐25)](https://github.com/atomix/atomix-vertx) - An [Atomix](http://atomix.io) based cluster manager implementation for Vert.x 3.
 
 ### Search Engines
 
@@ -155,7 +149,7 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 *   [Vert.x Guice (⭐57)](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection.
 *   [Vert.x HK2 (⭐30)](https://github.com/englishtown/vertx-hk2) - Vert.x verticle factory for HK2 dependency injection.
 *   [Spring Vert.x Extension (⭐50)](https://github.com/amoAHCP/spring-vertx-ext) - Vert.x verticle factory for Spring DI injection.
-*   [Vert.x Beans (⭐22)](https://github.com/rworsnop/vertx-beans) - Inject Vert.x objects as beans into your Spring application.
+*   [Vert.x Beans (⭐23)](https://github.com/rworsnop/vertx-beans) - Inject Vert.x objects as beans into your Spring application.
 
 ### Examples
 
@@ -164,7 +158,7 @@ Webpage: <http://www.whiteboard.cafe>, [Zomato](https://www.zomato.com/whiteboar
 
 ### Deployment
 
-*   [Vert.x Deploy Application (⭐54)](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters.
+*   [Vert.x Deploy Application (⭐55)](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters.
 
 ### Utilities
 

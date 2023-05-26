@@ -2,7 +2,7 @@
 
 CouchDB - curated meta resources & best practices list
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/quangv/awesome-couchdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb) · ⭐ 149 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/quangv/awesome-couchdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb) · ⭐ 159 · 🏷️ Databases
 
 [ [Daily](/content/quangv/awesome-couchdb/README.md) / [Weekly](/content/quangv/awesome-couchdb/week/README.md) / Overview ]
 
@@ -102,7 +102,7 @@ Pull-Requests are welcomed.
 
 ## Libraries
 
-*   [Jaki (⭐16)](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
+*   [Jaki (⭐17)](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
 
 ## Community
 
@@ -112,9 +112,9 @@ Pull-Requests are welcomed.
 
 ### Mailing List
 
-> \-dev is where developers of couchdb chat, -user is where users of couchdb chat
+> -dev is where developers of couchdb chat, -user is where users of couchdb chat
 > and there's some crosstalk ofc
-> \-dev is appropriate if you're talking about changes to couchdb itself ("developer" doesn't mean you have to have a commit bit or anything) -rnewson
+> -dev is appropriate if you're talking about changes to couchdb itself ("developer" doesn't mean you have to have a commit bit or anything) -rnewson
 
 *   [Mailing Lists](https://mail-archives.apache.org/mod_mbox/#couchdb)
 *   [Mailing Lists Description](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000)
@@ -124,12 +124,12 @@ Pull-Requests are welcomed.
 
 ### Companies
 
-*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐306)](https://github.com/eHealthAfrica/couchdb-best-practices).
+*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐311)](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 #### Hosting
 
 *   [Cloudant](https://cloudant.com/) - Distributed database as a service (DBaaS).
-*   [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
+*   [Fly.io](https://fly.io) use this [Guide](https://www.canrau.com/en/fly-couchdb) to host
 *   [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) - Host CouchDB on Google Cloud Platform.
 
 ### Related Projects

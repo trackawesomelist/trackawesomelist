@@ -8,9 +8,9 @@
 
 ## [1. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
-### Extensions
+### Extensions / Community
 
-*   [Sanitize HTML (⭐4)](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
+*   [Sanitize HTML (⭐6)](https://github.com/licitdev/directus-extension-sanitize-html) - Sanitize HTML inputs to Directus.
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -23,19 +23,19 @@
 
 ### TensorFlow / General-Purpose Machine Learning
 
-*   [Awesome Keras (⭐9)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
+*   [Awesome Keras (⭐10)](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Databases Implemented in Go
 
-*   [dolt (⭐14k)](https://github.com/dolthub/dolt) - Dolt – It's Git for Data.
+*   [dolt (⭐15k)](https://github.com/dolthub/dolt) - Dolt – It's Git for Data.
 
 ## [5. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Zig development tools / HTTP
 
-*   [korandoru/setup-zig (⭐4)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
+*   [korandoru/setup-zig (⭐6)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Compression
 
-*   [bzip3 (⭐502)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
+*   [bzip3 (⭐545)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

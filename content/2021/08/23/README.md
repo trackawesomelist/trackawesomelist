@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -181,43 +181,37 @@
 *   [FFT-FGN-C](ftp://ita.ee.lbl.gov/html/contrib/fft_fgn_c.html): is a program for synthesizing a type of self-similar process known as fractional Gaussian noise. The program is fast but approximate. Fractional Gaussian noise is only one type of self-similar process. When using this program for synthesizing network traffic, you must keep in mind that it may be that the traffic you seek is better modeled using one of the other processes.
 *   [Traffic Data Repository at the WIDE Project](https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/): It becomes increasingly important for both network researchers and operators to know the trend of network traffic and to find anomaly in their network traffic. This paper describes an on-going effort within the WIDE project to collect a set of free tools to build a traffic data repository containing detailed information of our backbone traffic. Traffic traces are collected by tcpdump and, after removing privacy information, the traces are made open to the public. We review the issues on user privacy, and then, the tools used to build the WIDE traffic repository. We will report the current status and findings in the early stage of our IPv6 deployment.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Email
-
-*   [Eva](https://eva.pingutil.com) — Verify 5 million emails per day for free using REST API. No sign-ups required.
-
-## [8. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
+## [7. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
 ### Engines
 
 *   [Lucee](http://lucee.org/) - Free, Open Source CFML Engine
 
-## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Client libraries
 
-*   [ros2cs (⭐54)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
+*   [ros2cs (⭐60)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐669)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![Build Status](https://api.travis-ci.com/harlanc/xiu.svg?branch=master)](https://app.travis-ci.com/github/harlanc/xiu) [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐734)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
-## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Social Engineering / Forensics
 
 *   [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
 
-## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Interactive Experiences
 
 *   [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 
-## [13. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Automation
 
@@ -228,18 +222,18 @@
 *   [Heyflow](https://heyflow.app/) - Build interactive flows.
 *   [Storybook](https://storybook.js.org) - Build component driven UIs faster.
 
-## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Community / Community Chat Rooms
 
 *   [#avr-rust:gitter.im](https://matrix.to/#/#avr-rust_Lobby:gitter.im) - For discussion of using Embedded Rust on AVR devices
 *   [#stm32-rs:matrix.org](https://matrix.to/#/#stm32-rs:matrix.org) - For discussion of using Embedded Rust on STM32 based devices
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-timer-hook (⭐124)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [vue-timer-hook (⭐134)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 ### Components & Libraries / UI Layout
 
@@ -247,15 +241,15 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Materio-vuetify-vuejs-admin-template-free (⭐475)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+*   [Materio-vuetify-vuejs-admin-template-free (⭐527)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 
-## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
-*   [Bytebase (⭐4.9k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐5.1k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
-## [17. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [16. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Learning Resources / GitHub Digest Blog Series
 

@@ -22,13 +22,13 @@
 
 ### Varia / Tutorials
 
-*   [Awesome graph classification (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
+*   [Awesome graph classification (⭐4.6k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Notification
 
-*   [simple-react-notifications (⭐60)](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
+*   [simple-react-notifications (⭐61)](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 
 ## [4. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -140,41 +140,35 @@
 
 *   [Remote People](https://remotepeople.io/)
 
-## [14. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
-
-### Table of Contents / Repos
-
-*   [Bow (⭐619)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
-
-## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Books
 
-*   [foy (⭐222)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+*   [foy (⭐231)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
 ### Development / Devops
 
-*   [flog (⭐815)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+*   [flog (⭐876)](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Files and Directories / File Sync/Sharing
 
-*   [share-cli (⭐293)](https://github.com/marionebl/share-cli) - Share files with your local network.
+*   [share-cli (⭐314)](https://github.com/marionebl/share-cli) - Share files with your local network.
 
 ### Just for Fun / Image Conversion
 
-*   [text-meme (⭐97)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+*   [text-meme (⭐99)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 
-## [16. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [15. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
 *   [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 *   [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
-*   [Elm Koans (⭐237)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
+*   [Elm Koans (⭐236)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
 *   [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 *   [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 *   [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
-*   [Elm cheat sheet (⭐956)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
+*   [Elm cheat sheet (⭐949)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
 *   [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) - Adaptations for Elm from Ninety-Nine Haskell Problems.
 *   [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 *   [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - a brief overview of Elm as a programming language.
@@ -237,7 +231,7 @@
 *   [Elm in the spring](https://www.elminthespring.org/)
 *   [Oslo Elm day](https://osloelmday.no/)
 
-## [17. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [16. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation
 
@@ -247,15 +241,15 @@
 
 *   [Rekall](http://www.rekall-forensic.com/) - Advanced forensic and incident response framework.
 
-## [18. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [17. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Containerization
 
-*   [micro-ROS/docker (⭐35)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
+*   [micro-ROS/docker (⭐39)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 
 ### Packages / Application layer
 
-*   [apriltag\_ros (⭐61)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
+*   [apriltag\_ros (⭐67)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 
 ### Packages / Driver layer
 
@@ -268,7 +262,7 @@
 
 ### Operating systems / Build system (ROS2)
 
-*   [NuttX (⭐76)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
+*   [NuttX (⭐78)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
 
 ### Documentation / Build system (ROS2)
 
@@ -276,45 +270,49 @@
 
 ### Services / Robotics Capture the Flag (RCTF)
 
-*   [rctf-list (⭐28)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
+*   [rctf-list (⭐29)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Examples and funny stuff
 
-*   [coderplanets.com (⭐223)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
+*   [coderplanets.com (⭐221)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
 
-## [20. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [19. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Mockup
 
 *   [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
 
-## [21. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [20. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - A trombone you play by resizing a pop-up window. 🎺
 
-## [22. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [21. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Continuous Integration
 
 *   [Distributing beta builds with Fastlane on Android and iOS (⭐3.3k)](https://github.com/thecodingmachine/react-native-boilerplate/blob/master/docs/beta%20builds.md)
 
-## [23. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [22. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Static Analyzers / Social Engineering Tools
 
 *   [cwe\_checker (⭐762)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
 
-## [24. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Stratux (⭐938)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Utility / Barcode
+
+*   [Bow (⭐626)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 
 ### Misc
 
@@ -330,7 +328,7 @@
 
 ### UI / Barcode
 
-*   [ResizingTokenField (⭐100)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
+*   [ResizingTokenField (⭐102)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
 
 ### TextField / Barcode
 
@@ -338,13 +336,33 @@
 
 ### UITableView / Barcode
 
-*   [SelectionList (⭐110)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
+*   [SelectionList (⭐113)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
 
-## [26. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [25. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Firefox GNOME Theme (⭐2.3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐2.5k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+
+## [26. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Indicators
+
+*   [pandas\_talib (⭐667)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
+
+### Python / Trading & Backtesting
+
+*   [ta (⭐3.6k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
+*   [pyqstrat (⭐327)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+*   [NowTrade (⭐96)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
+*   [pinkfish (⭐243)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
+*   [aat (⭐10)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
+*   [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
+*   [catalyst (⭐2.4k)](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
+
+### Java / FrameWorks
+
+*   [Strata](http://strata.opengamma.io/) - Modern open-source analytics and market risk library designed and written in Java.
 
 ## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -503,7 +521,7 @@
 
 ### REST / Scala
 
-*   [ReDoc (⭐19k)](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger-generated API Documentation.
+*   [ReDoc (⭐20k)](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger-generated API Documentation.
 
 ### Enterprise & Verticals / Scala
 
@@ -606,7 +624,7 @@
 
 ### Debug
 
-*   [dbg-macro (⭐2.3k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
+*   [dbg-macro (⭐2.4k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
 
 ### GUI
 
@@ -618,17 +636,17 @@
 
 ### Coding Style Tools
 
-*   [Uncrustify (⭐2.6k)](https://github.com/uncrustify/uncrustify) - Code beautifier.
+*   [Uncrustify (⭐2.7k)](https://github.com/uncrustify/uncrustify) - Code beautifier.
 
 ### Articles
 
-*   [C++Now 2019 Presentations (⭐89)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
+*   [C++Now 2019 Presentations (⭐88)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
 
 ## [41. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [gtfs-realtime-translators (⭐20)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
+*   [gtfs-realtime-translators (⭐19)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
 
 ## [42. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -688,7 +706,7 @@
 
 ### Data validation / Third-party APIs
 
-*   [sanity-clause (⭐42)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [sanity-clause (⭐44)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [46. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -712,7 +730,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.5k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.6k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
 
 ---
 

@@ -32,7 +32,7 @@
 
 ### UI
 
-*   [Animated Icon Button (⭐9)](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
+*   [Animated Icon Button (⭐11)](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -55,10 +55,10 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐4.7k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐593)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐489)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐138)](http://github.com/sslotin/algo)
+    *   [by @xtaci (⭐4.8k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐600)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐491)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐140)](http://github.com/sslotin/algo)
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Game Frameworks / XML
 
-*   [Dagon (⭐270)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
+*   [Dagon (⭐275)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

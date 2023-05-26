@@ -10,7 +10,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐514)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐551)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -26,7 +26,7 @@
 
 ## [4. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
-### Epic Fantasy / [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)     *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)*   \[4.6]
+### Epic Fantasy / [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.6]
 
 *   [Words of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) \[4.76] :fire:
 *   [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) \[4.73] :fire:

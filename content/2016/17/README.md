@@ -167,7 +167,7 @@ git show <branch_name>:<file_name>
 ### Tools / Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [GradStop.js (⭐152)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [GradStop.js (⭐151)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 
 ### Tools / Web App
 
@@ -256,19 +256,8 @@ git show <branch_name>:<file_name>
 
 *   *[Understanding Social Networks. Theories, Concepts, and Findings](https://global.oup.com/academic/product/understanding-social-networks-9780195379471)*, by Charles Kadushin (2012).
 
-### Review Articles / Bibliographic, Citation and Semantic Networks
-
-*   [Extracting Citation Networks from Publications in Classics](https://zenodo.org/record/46328) (*Digital Humanities Quarterly*, forthcoming).
-*   [Socio-Semantic Frameworks](http://www.worldscientific.com/doi/abs/10.1142/S0219525913500136) ([preprint](http://camille.roth.free.fr/travaux/roth--sociosemantic-systems-acs-proofs.pdf); *Advances in Complex Systems*, 2013).
-*   [Socio-Semantic Modeling of Epistemic Communities](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2452614) (APSA, 2014).
-
-### Review Articles / Biological, Ecological and Disease Networks
-
-*   [Social Networks and the Spread of Infectious Diseases: the AIDS Example](http://www.sciencedirect.com/science/article/pii/0277953685902692) (*Social Networks*, 1985).
-
 ### Review Articles / Ethics of Network Analysis
 
-*   [Ethical Dilemmas in Social Network Research](http://www.sciencedirect.com/science/journal/03788733/27/2) (special issue of *Social Networks*, 2005).
 *   [Ethical and Strategic Issues in Organizational Social Network Analysis](http://www.analytictech.com/borgatti/papers/ethics.pdf) (*The Journal of Applied Behavioral Science*, 2003).
 
 ### Software / Social, Economic and Political Networks
@@ -323,11 +312,11 @@ git show <branch_name>:<file_name>
 
 ### Frameworks
 
-*   [EASTL (⭐7k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐7.2k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ### Machine Learning
 
-*   [Fido (⭐411)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐418)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -360,7 +349,7 @@ git show <branch_name>:<file_name>
 ### Ask these people anything!
 
 *   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
-*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.1k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
+*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.8k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
 
 ## [24. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
@@ -409,8 +398,8 @@ git show <branch_name>:<file_name>
 
 ### Economics on GitHub / Projects
 
-*   [economics-book (⭐28)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-*   [pyeconomics (⭐170)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+*   [economics-book (⭐29)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+*   [pyeconomics (⭐183)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 *   [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 *   [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
@@ -418,7 +407,7 @@ git show <branch_name>:<file_name>
 
 ### Books
 
-*   [Online Mathematics Textbooks](https://people.math.gatech.edu/\~cain/textbooks/onlinebooks.html)
+*   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 
 ## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -436,12 +425,12 @@ git show <branch_name>:<file_name>
 
 ### Algorithms and Data structures
 
-*   [ratio (⭐36)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
+*   [ratio (⭐37)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
 
 ### Applications
 
 *   [Consolex (⭐117)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
-*   [Phoenix Battleship (⭐519)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
+*   [Phoenix Battleship (⭐520)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 
 ### Behaviours and Interfaces
 
@@ -457,7 +446,7 @@ git show <branch_name>:<file_name>
 
 ### Examples and funny stuff
 
-*   [elixir\_koans (⭐1.9k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
+*   [elixir\_koans (⭐2k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
 *   [ex\_iss (⭐4)](https://github.com/cryptobird/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
 
 ### Miscellaneous
@@ -466,16 +455,16 @@ git show <branch_name>:<file_name>
 
 ### ORM and Datamapping
 
-*   [redix (⭐989)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
+*   [redix (⭐1k)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
 *   [riak\_ecto (⭐30)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ### Testing
 
-*   [wallaby (⭐1.4k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
+*   [wallaby (⭐1.5k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 
 ### Validations
 
-*   [bankster (⭐29)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
+*   [bankster (⭐28)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 *   [shape (⭐6)](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 
 ### Reading
@@ -522,19 +511,19 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### GUI
 
-*   [Xamarin.Forms (⭐5.6k)](https://github.com/xamarin/Xamarin.Forms) - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
+*   [Xamarin.Forms (⭐5.7k)](https://github.com/xamarin/Xamarin.Forms) - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
 
 ### Mathematics
 
-*   [Microsoft Automatic Graph Layout (⭐1.2k)](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
+*   [Microsoft Automatic Graph Layout (⭐1.3k)](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
 
 ### Tools
 
-*   [Opserver (⭐4.2k)](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
+*   [Opserver (⭐4.3k)](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐406)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐423)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 

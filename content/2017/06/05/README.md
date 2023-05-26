@@ -23,28 +23,23 @@
 ### Development / Devops
 
 *   [SAWS (⭐5.1k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
-*   [s3cmd (⭐4.1k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
+*   [s3cmd (⭐4.2k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
 ### Command Line Learning / Internet Speedtest
 
-*   [The Fuck (⭐75k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-*   [tldr (⭐43k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
-*   [Wat (⭐469)](https://github.com/dthree/wat) - Instant, central, community-built docs.
+*   [The Fuck (⭐77k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [tldr (⭐44k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+*   [Wat (⭐474)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
 ## [4. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
-### GUI / Swift
-
-*   [AnimatedGif (⭐204)](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
-
 ### Online Tools / Swift
 
-*   [EzGif](https://ezgif.com/) - Online GIF maker and image editor
+*   [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
 
 ### Community / Swift
 
 *   [Giphy.com](https://giphy.com)
-*   [9gag.com/gif](https://9gag.com/gif)
 
 ### Miscellaneous / Grabbing each frame of an HTML5 Canvas
 
@@ -64,7 +59,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Bender (⭐1.7k)](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
+*   [Bender (⭐1.8k)](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 
 ## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

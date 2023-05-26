@@ -69,7 +69,7 @@
 
 ### Build Tools
 
-*   [PlatformIO (⭐6.5k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
+*   [PlatformIO (⭐6.7k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 
 ### CMS
 
@@ -81,7 +81,7 @@
 
 ### Data Validation
 
-*   [Cerberus (⭐2.9k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
+*   [Cerberus (⭐3k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
 *   [colander](https://docs.pylonsproject.org/projects/colander/en/latest/) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
 
 ### Distribution
@@ -94,11 +94,11 @@
 
 ### Environment Management
 
-*   [pyenv (⭐30k)](https://github.com/pyenv/pyenv) - Simple Python version management.
+*   [pyenv (⭐31k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### Forms
 
-*   [django-crispy-forms (⭐4.6k)](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
+*   [django-crispy-forms (⭐4.7k)](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
 
 ### GUI Development
 
@@ -115,7 +115,7 @@
 
 ### Package Repositories
 
-*   [localshop (⭐383)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
+*   [localshop (⭐387)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 
 ### RESTful API
 
@@ -124,7 +124,7 @@
 
 ### Science
 
-*   [ObsPy (⭐978)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
+*   [ObsPy (⭐1k)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 *   [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
 ### Specific Formats Processing
@@ -135,13 +135,13 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐756)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐759)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐332)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐337)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -180,7 +180,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [Todo app with Firebase, OAuth, and Immutable (⭐508)](https://github.com/r-park/todo-angular-firebase)
+*   [Todo app with Firebase, OAuth, and Immutable (⭐506)](https://github.com/r-park/todo-angular-firebase)
 
 ## [6. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
@@ -793,22 +793,22 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐903)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐910)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.3k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
-*   [Next Simple Blog (⭐548)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
+*   [Next Simple Blog (⭐553)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 
 ### Apps
 
 *   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-*   [Relate (⭐329)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+*   [Relate (⭐330)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 *   [Password (⭐112)](https://github.com/dotcypress/password) - One password, right way.
-*   [Next Todos (⭐124)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+*   [Next Todos (⭐123)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 *   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 *   [Jet Chat (⭐9)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐49)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐838)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Rauchg Blog (⭐959)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐164)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Mailto (⭐170)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 
@@ -816,7 +816,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dialog-drag (⭐173)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
+*   [vue-dialog-drag (⭐175)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
 
 ### Components & Libraries / Utilities
 

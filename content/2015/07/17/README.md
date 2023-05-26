@@ -16,7 +16,7 @@
 
 *   [dproto (⭐1)](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
 *   [dqe (⭐9)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
-*   [elastix (⭐250)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
+*   [elastix (⭐253)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

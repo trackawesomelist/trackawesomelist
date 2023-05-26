@@ -10,11 +10,11 @@
 
 ### Contents / Components
 
-*   [Preact Country Picker (⭐2)](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
+*   [Preact Country Picker (⭐3)](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
 
 ### Contents / Libraries
 
-*   [FPreact (⭐47)](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
+*   [FPreact (⭐46)](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
 
 ## [2. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Utilities
 
-*   [Vert.x Dataloader (⭐71)](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer.
+*   [Vert.x Dataloader (⭐72)](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer.
 
 ## [12. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
@@ -183,7 +183,7 @@
 
 ### Cartridges / Opcodes
 
-*   [AntonioND's docs (⭐171)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
+*   [AntonioND's docs (⭐178)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
 
 ### Related projects / Syntax highlighting packages
 
@@ -229,15 +229,15 @@
 
 ### HTTP
 
-*   [RestLess (⭐108)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+*   [RestLess (⭐109)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 
 ### Code Analysis and Metrics
 
-*   [App.Metrics (⭐2.1k)](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://www.app-metrics.io/) for me details.
+*   [App.Metrics (⭐2.2k)](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://www.app-metrics.io/) for me details.
 
 ### Datetime
 
-*   [NodaTime (⭐2.4k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
+*   [NodaTime (⭐2.5k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
 
 ### Decompilation
 
@@ -245,7 +245,7 @@
 
 ### Office
 
-*   [DocX (⭐1.5k)](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
+*   [DocX (⭐1.6k)](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
 
 ### Tools
 
@@ -271,7 +271,7 @@
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐598)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐604)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ### UI / Barcode
 
@@ -290,15 +290,15 @@
 
 ### Contents / Utilities
 
-*   [pREST (⭐3.4k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
+*   [pREST (⭐3.7k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 
 ### Contents / Language bindings
 
-*   Lua: [luapgsql (⭐99)](https://github.com/arcapos/luapgsql)
+*   Lua: [luapgsql (⭐103)](https://github.com/arcapos/luapgsql)
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐251)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐283)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [26. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
@@ -366,7 +366,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [xRBM (⭐55)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
+*   [xRBM (⭐54)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 
 ## [33. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -391,7 +391,7 @@
 
 *   [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
 *   [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
-*   [Szilard's machine learning benchmark (⭐1.8k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
+*   [Szilard's machine learning benchmark (⭐1.9k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
 
 ### Presentations
 
@@ -402,7 +402,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-scaling-utils :fire::fire: (⭐331)](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
+*   [amazon-kinesis-scaling-utils :fire::fire: (⭐333)](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
 
 ## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -465,7 +465,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Projects Using Vue.js / Open Source
 
-*   [Hubaga (⭐23)](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
+*   [Hubaga (⭐22)](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
 
 ## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -481,7 +481,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [oauth2\_facebook (⭐4)](https://github.com/chrislaskey/oauth2_facebook) - A Facebook OAuth2 Provider for Elixir.
 *   [oauth2\_github (⭐2)](https://github.com/chrislaskey/oauth2_github) - A GitHub OAuth2 Provider for Elixir.
 *   [phauxth (⭐414)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
-*   [samly (⭐116)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
+*   [samly (⭐117)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 
 ### Command Line Applications
 
@@ -489,7 +489,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Deployment
 
-*   [elixir-on-docker (⭐167)](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
+*   [elixir-on-docker (⭐168)](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
 *   [exreleasy (⭐12)](https://github.com/miros/exreleasy) - Dead simple and Mix friendly tool for releasing Elixir applications.
 
 ### Documentation
@@ -508,17 +508,17 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### HTTP
 
-*   [Ace (⭐308)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
-*   [Crawler (⭐873)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
-*   [raxx (⭐395)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+*   [Ace (⭐305)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
+*   [Crawler (⭐876)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+*   [raxx (⭐396)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 
 ### Miscellaneous
 
-*   [ex\_phone\_number (⭐204)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
+*   [ex\_phone\_number (⭐220)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
 
 ### ORM and Datamapping
 
-*   [triplex (⭐380)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
+*   [triplex (⭐395)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications.
 
 ### Queue
 
@@ -526,7 +526,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Testing
 
-*   [chaperon (⭐106)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
+*   [chaperon (⭐109)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
 
 ### Third Party APIs
 
@@ -535,7 +535,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Utilities
 
-*   [async\_with (⭐152)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
+*   [async\_with (⭐153)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
 
 ### Books
 
@@ -560,24 +560,24 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Development / Mobile Development
 
-*   [deviceframe (⭐541)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
+*   [deviceframe (⭐554)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
 ## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. \[BSD]
-*   [Crypto++ (⭐3.8k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
+*   [Crypto++ (⭐4k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
 *   [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. \[LGPLv2.1+]
 
 ### Machine Learning
 
-*   [RNNLIB (⭐880)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
+*   [RNNLIB (⭐886)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
 
 ### Math
 
-*   [CGAL (⭐3.7k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-*   [linmath.h (⭐748)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
+*   [CGAL (⭐3.9k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
+*   [linmath.h (⭐780)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
 
 ### PDF
 
@@ -644,9 +644,6 @@ Topics: CSS\
 **Zell Liew**\
 Topics: CSS, JavaScript\
 <https://twitter.com/zellwk>
-
-### Europe / Austria 🇦🇹
-
 ### Melbourne
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glenmaddern" height="70px" width="70px" align="left" alt="" />
@@ -672,6 +669,9 @@ Topics: Design Systems, Web Design\
 **Phil Nash**\
 Topics: JavaScript, Web Development, Progressive Web Apps\
 <https://twitter.com/philnash>
+
+### Europe / Austria 🇦🇹
+
 ### Linz
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ddprrt" height="70px" width="70px" align="left" alt="" />
@@ -766,25 +766,6 @@ Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, In
 **Vitaly Friedman**\
 Topics: Web Design, Web Development, Responsive Web Design\
 <https://twitter.com/smashingmag>
-### Hamburg
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/marionebl" height="70px" width="70px" align="left" alt="" />
-
-**Mario Nebl**\
-Topics: JavaScript, Node, JS Architecture\
-<https://twitter.com/marionebl>
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="" />
-
-**Martin Kleppe**\
-Topics: Weird JS\
-<https://twitter.com/aemkei>
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PalmaSwell" height="70px" width="70px" align="left" alt="" />
-
-**Mauricio Palma**\
-Topics: CSS, JavaScript\
-<https://twitter.com/PalmaSwell>
 
 ### Europe / Greece 🇬🇷
 

@@ -22,14 +22,14 @@
 
 ### Proprietary Extensions / Progressive Web Application
 
-*   [ScandiPWA Theme (⭐509)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
+*   [ScandiPWA Theme (⭐511)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐199)](https://github.com/eclipse/corrosion)
+    *   [Eclipse Corrosion (⭐201)](https://github.com/eclipse-corrosion/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -39,7 +39,7 @@
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
-### Contents / PaaS   *(PostgreSQL as a Service)*
+### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
 *   [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL
@@ -77,11 +77,11 @@
     *   "Keeping Important Code Alive" ([slides](https://speakerdeck.com/indexzero/keeping-important-code-alive-seattlejs-march-2015))
     *   "Modernizing winston for node\@4" ([video](https://www.youtube.com/watch?v=uPw7QIx3JZM), [slides](https://speakerdeck.com/indexzero/modernizing-winston-for-node-at-4))
 
-## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
-### Kotlin / Vue.js
+### Python / Trading & Backtesting
 
-*   [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
+*   [PyPortfolioOpt (⭐3.5k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
 
 ## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -133,11 +133,11 @@
 
 ### Compression
 
-*   [LZ4 (⭐8k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐8.3k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ### Game Engine
 
-*   [raylib (⭐12k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+*   [raylib (⭐13k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
 ## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -153,23 +153,23 @@
 
 ### Forms
 
-*   [django-bootstrap4 (⭐980)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
+*   [django-bootstrap4 (⭐985)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
 
 ## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
-*   [type-config (⭐15)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+*   [type-config (⭐17)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
-*   [tallboy (⭐48)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
+*   [tallboy (⭐49)](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 
 ### HTML Builders
 
-*   [form\_builder.cr (⭐31)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+*   [form\_builder.cr (⭐32)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
 ## [18. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -543,7 +543,7 @@
 
 ### Ask these people anything!
 
-*   [Even Stensberg (⭐0)](https://github.com/evenstensberg/ama) - OSS contributor and developer.
+*   [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 
 ## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -567,7 +567,7 @@
 
 ### Network / Monitoring / Logging
 
-*   [opensnitch (⭐7.9k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+*   [opensnitch (⭐8.8k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
 ## [43. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 

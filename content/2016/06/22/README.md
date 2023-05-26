@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 22, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,9 +40,44 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [mhart/react-server-routing-example :fire::fire: (⭐299)](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
+*   [mhart/react-server-routing-example :fire::fire: (⭐300)](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 
-## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [7. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Numerical Libraries & Data Structures
+
+*   [scipy](https://www.scipy.org) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+
+### Python / Financial Instruments and Pricing
+
+*   [vollib (⭐456)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+
+### Python / Time Series
+
+*   [statsmodels](http://statsmodels.sourceforge.net) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
+
+### R / Financial Instruments and Pricing
+
+*   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - RQuantLib connects GNU R with QuantLib.
+
+### R / Calendars
+
+*   [timeDate](https://cran.r-project.org/web/packages/timeDate/index.html) - Chronological and Calendar Objects
+
+### Julia / FrameWorks
+
+*   [QuantLib.jl (⭐126)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
+
+### Java / FrameWorks
+
+*   [JQuantLib](http://www.jquantlib.org) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [Derman Papers (⭐154)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
+*   [volatility-trading (⭐1.2k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
+
+## [8. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Journals
 
@@ -52,7 +87,7 @@
 
 *   [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 
-## [8. Tips](/content/git-tips/tips/README.md)
+## [9. Tips](/content/git-tips/tips/README.md)
 
 ## Interactive staging.
 
@@ -60,17 +95,17 @@
 git add -i
 ```
 
-## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [10. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Resources / Projects Using Spark
 
-*   [Photon ML (⭐792)](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.
+*   [Photon ML (⭐793)](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.
 
 ### Resources / Docker Images
 
-*   [sequenceiq/docker-spark (⭐765)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
+*   [sequenceiq/docker-spark (⭐764)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
-## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [11. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Tools
 

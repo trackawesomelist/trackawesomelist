@@ -28,7 +28,7 @@
 
 ### Telegram
 
-*   [Go (⭐2.8k)](https://github.com/tucnak/telebot)
+*   [Go (⭐3k)](https://github.com/tucnak/telebot)
 
 ## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

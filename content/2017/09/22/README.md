@@ -23,11 +23,11 @@
 
 ### Images / Barcode
 
-*   [DTPhotoViewerController (⭐278)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
+*   [DTPhotoViewerController (⭐277)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 
 ### Cryptography / Barcode
 
-*   [Siphash (⭐263)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+*   [Siphash (⭐264)](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 
 ### Mock / Barcode
 
@@ -43,7 +43,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐100)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐102)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [6. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐872)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐885)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

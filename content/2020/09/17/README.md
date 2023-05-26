@@ -12,43 +12,50 @@
 
 *   [flake8-annotations (⭐130)](https://github.com/sco1/flake8-annotations) - Plugin for flake8 to check for presence of type annotations in function definitions.
 
-## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Data Sources
+
+*   [iexfinance (⭐644)](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
+*   [pyEX (⭐407)](https://github.com/timkpaine/pyEX) - Python interface to IEX with emphasis on pandas, support for streaming data, premium data, points data (economic, rates, commodities), and technical indicators.
+
+## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [JetBrains Rider (C#) (⭐173)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐189)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 
-## [3. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [4. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Miscellaneous
 
-*   [mdformat (⭐156)](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [mdformat (⭐229)](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [Grayscale Design](https://grayscale.design/) - A Luminance-based color palette generator.
 
-## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7) - Challenge your Wardley mapping assumptions in a friendly way. Aug 2, 2020.
 
-## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Videos
 
 *   [Elasticsearch 7 and Elastic Stack](https://www.manning.com/livevideo/elasticsearch-7-and-elastic-stack) - LiveVideo tutorial that covers searching, analyzing, and visualizing big data on a cluster with Elasticsearch, Logstash, Beats, Kibana, and more.
 
-## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
-*   [tfmigrate (⭐840)](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
+*   [tfmigrate (⭐883)](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
 
-## [8. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
+## [9. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
 ### Peer-to-Peer Lending
 
@@ -58,17 +65,11 @@
 
 *   [Explainable Machine learning in Credit Risk Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3506274) - Proposes an explainable AI model that can be used in credit risk management and, in particular, in measuring the risks that arise when credit is borrowed employing credit scoring platforms.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [Bootify.io](https://bootify.io/) - Spring Boot app generator with custom database and REST API.
-
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Assembly Language / Blazor
-
-*   [Wizard Code, A View on Low-Level Programming](https://web.archive.org/web/20170712195930/http://vendu.twodots.nl/files/wizardcode4.pdf) - Tuomo Tuomo Venäläinen (PDF)
 
 ## [11. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

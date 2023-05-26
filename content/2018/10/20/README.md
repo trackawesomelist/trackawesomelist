@@ -10,7 +10,7 @@
 
 ### Game Engine
 
-*   [PixelGameEngine (⭐3.4k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
+*   [PixelGameEngine (⭐3.5k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
 
 ## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.4k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.9k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -106,7 +106,7 @@
 ### Components & Libraries / UI Components
 
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
-*   [vue-page-guide (⭐48)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+*   [vue-page-guide (⭐50)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

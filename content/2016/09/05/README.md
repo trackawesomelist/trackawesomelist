@@ -53,7 +53,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Software / JavaScript
 
-*   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](http://www.sciencedirect.com/science/article/pii/S0378873316300284)).
+*   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](https://doi.org/10.1016/j.socnet.2016.07.007)).
 
 ### Varia / Tutorials
 
@@ -63,7 +63,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Deployment
 
-*   [gatling (⭐501)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+*   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

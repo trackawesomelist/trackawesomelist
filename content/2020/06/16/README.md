@@ -10,8 +10,8 @@
 
 ### Packages / Frameworks
 
-*   [Omnitone (⭐775)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
-*   [Mach1Spatial (⭐35)](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
+*   [Omnitone (⭐797)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
+*   [Mach1Spatial (⭐45)](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -35,23 +35,23 @@
 
 ### Other Awesome Lists
 
-*   [open-source-mac-os-apps (⭐34k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+*   [open-source-mac-os-apps (⭐35k)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
 ### AI
 
-*   [DL4S (⭐87)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+*   [DL4S (⭐91)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [tendermint-rs (⭐464)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐506)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 
 ## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GUI Development
 
-*   [pyglet (⭐1.3k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
+*   [pyglet (⭐1.4k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 
 ## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -64,10 +64,6 @@
 ### Software / Monitoring
 
 *   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
-
-### Software / Web
-
-*   [Apache](http://httpd.apache.org/) - A robust, commercial-grade, featureful implementation of an HTTP (Web) server.
 
 ## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

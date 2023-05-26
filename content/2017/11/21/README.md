@@ -47,13 +47,13 @@
 
 ### Geolocation
 
-*   [geocoder (⭐107)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
+*   [geocoder (⭐110)](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Apps / Third-party APIs
 
-*   [montezuma (⭐43)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [montezuma (⭐45)](https://github.com/sharplispers/montezuma/) -  Full-text indexing and search for Common Lisp. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [mk-string-metrics (⭐20)](https://github.com/cbaggers/mk-string-metrics) -
     Calculate various string metrics efficiently in Common Lisp
     (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
@@ -105,7 +105,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐93)](https://g
 
 ### Localization
 
-*   [it\_IT (⭐13)](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
+*   [it\_IT (⭐15)](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13 - Nov 19, 2017
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 
 ### Tools and Apps / Habit Trackers
 
-*   [Loop Habit Tracker (⭐5.9k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+*   [Loop Habit Tracker (⭐6.2k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
 ## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -72,27 +72,27 @@
 
 ### Probability and Statistics / Stochastic processes
 
-*   [Lectures on Stochastic Processes](http://www.math.tifr.res.in/\~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
-*   [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/\~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
-*   [Stochastic Processes](http://statweb.stanford.edu/\~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
+*   [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
+*   [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
+*   [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 *   [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 *   [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
-*   [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/\~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
-*   [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/\~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
+*   [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
+*   [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 *   [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
 
 ### Signal processing / Stochastic processes
 
-*   [Introduction to Signal Processing](http://www.ece.rutgers.edu/\~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (Rutgers University)
+*   [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (Rutgers University)
 *   [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) - Martin Vetterli, Jelena Kovacevic, Vivek K Goyal
-*   [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/\~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
+*   [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) - Robert M. Gray, Lee D. Davisson
 *   [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - Øyvind Ryan (University of Oslo)
 
 ## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
-*   [cacheable-request (⭐265)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+*   [cacheable-request (⭐269)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 ## [13. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -125,20 +125,20 @@
 
 ### Game Engine
 
-*   [KlayGE (⭐1.8k)](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
+*   [KlayGE (⭐1.9k)](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
 
 ### Networking
 
 *   [HTTP Parser (⭐6.2k)](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. \[MIT]
 *   [libquic (⭐1.7k)](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. \[BSD]
-*   [libwebsockets (⭐3.8k)](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
+*   [libwebsockets (⭐3.9k)](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
 
 ### Regular Expression
 
-*   [CppVerbalExpressions (⭐364)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
+*   [CppVerbalExpressions (⭐368)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
-*   [RE2 (⭐7.6k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-*   [SLRE (⭐506)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
+*   [RE2 (⭐7.8k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
+*   [SLRE (⭐507)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
 
 ## [17. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### React Native
 
-- Name: [Standard Notes (⭐848)](https://github.com/standardnotes/mobile)
+- Name: [Standard Notes (⭐836)](https://github.com/standardnotes/mobile)
 
   Description: A simple and private notes app
 
@@ -247,20 +247,20 @@
 
 ### Socket / Barcode
 
-*   [RxWebSocket (⭐57)](https://github.com/fjcaetano/RxWebSocket) - Reactive WebSockets.
+*   [RxWebSocket (⭐56)](https://github.com/fjcaetano/RxWebSocket) - Reactive WebSockets.
 
 ### UI / Barcode
 
-*   [Mandoline (⭐883)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐891)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
-*   [FlowingMenu (⭐976)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
+*   [FlowingMenu (⭐977)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
 *   [HHFloatingView (⭐94)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐802)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐809)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ## [30. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -338,7 +338,7 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/\~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
+*   [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
 
 ## [39. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
@@ -459,11 +459,11 @@ Topics: HTML, CSS, JavaScript, Web Animations, Web Performance\
 Topics: JavaScript, Security, Service Workers\
 <https://twitter.com/kaapa_s>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kdzwinel" height="70px" width="70px" align="left" alt="" />
+<img src="https://assets.toot.cafe/accounts/avatars/000/000/504/original/e66815e29f46a5d5.jpg" height="70px" width="70px" align="left" alt="" />
 
 **Konrad Dzwinel**\
 Topics: Developer Tools, JavaScript\
-<https://twitter.com/kdzwinel>
+<https://toot.cafe/@kdzwinel>
 
 ### Europe / Spain 🇪🇸
 
@@ -482,29 +482,19 @@ Topics: WebAPI, Microservices, JavaScript\
 *   [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 *   [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
-
-### Elixir / Non-X86
-
-*   [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source (⭐130)](https://github.com/radar/joyofelixir) (:construction: *in process*)
-
-## [44. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [43. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Python / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
-## [45. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [44. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### PCB Batching Services / Eagle
 
 *   [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 
-## [46. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [45. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -523,7 +513,7 @@ Topics: WebAPI, Microservices, JavaScript\
 
 *   [grappa (⭐62)](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 
-## [47. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [46. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -545,22 +535,22 @@ Topics: WebAPI, Microservices, JavaScript\
 
 *   [RStudio Addins (⭐741)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
-## [48. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [47. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2014
 
 *   [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) \[40:18]
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [AmmoBin.ca (⭐18)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
-*   [vue-webpack-buefy (⭐26)](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
+*   [AmmoBin.ca (⭐17)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
+*   [vue-webpack-buefy (⭐25)](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 
 ### Components & Libraries / UI Utilities
 
-*   [navscroll-js (⭐60)](https://github.com/nash403/navscroll-js) - Highlights menu items as you scroll, and also scrolls to a section when a menu item clicked. Use as a vue component, a vue directive or with vanilla js.
+*   [navscroll-js (⭐59)](https://github.com/nash403/navscroll-js) - Highlights menu items as you scroll, and also scrolls to a section when a menu item clicked. Use as a vue component, a vue directive or with vanilla js.
 
 ---
 

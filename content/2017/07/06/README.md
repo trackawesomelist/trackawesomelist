@@ -28,7 +28,7 @@
 
 ### Contents / Components
 
-*   [Preact Head (⭐34)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
+*   [Preact Head (⭐37)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
 
 ## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
@@ -273,7 +273,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐791)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐790)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -289,7 +289,7 @@
 
 ### MVVM
 
-*   [Gemini (⭐988)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+*   [Gemini (⭐1k)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 
 ### Windows Services
 
@@ -297,7 +297,7 @@
 
 ## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
-### Articles, Posts, Talks, and Presentations / Gradient boosting
+### Articles, Posts, Talks, and Presentations / Vector search
 
 *   2011
     *   *Clustering in Ruby* by [Colin Drake](https://twitter.com/colinfdrake) <sup>\[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)]</sup>

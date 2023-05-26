@@ -28,7 +28,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [Shisho (⭐353)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
+*   [Shisho (⭐355)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Python / Computer Vision
 
-*   [computer-vision-in-action (⭐1.9k)](https://github.com/Charmve/computer-vision-in-action) - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
+*   [computer-vision-in-action (⭐2k)](https://github.com/Charmve/computer-vision-in-action) - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
 
 ---
 

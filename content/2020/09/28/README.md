@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐95)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐100)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 ## [2. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Development tools / Services
 
-*   [deps.rs (⭐374)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐383)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -84,7 +84,6 @@
 
 ### GEO
 
-*   [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
 *   [Radar](https://radar.io/) - Geofencing and geo APIs.
 
 ### Localization
@@ -131,7 +130,13 @@
 
 *   [ethical.net](https://ethical.net/resources/) - Ethical alternatives & resources.
 
-## [12. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
+## [12. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Financial Instruments and Pricing
+
+*   [FinancePy (⭐1.4k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+
+## [13. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
 ### Documentation
 
@@ -141,7 +146,7 @@
 
 *   [Octo (⭐571)](http://github.com/johnearnest/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
 
-## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Video Tutorials / Components
 
@@ -157,21 +162,21 @@
 
 *   Dart
     *   Stagehand
-        *   [dart-lang/stagehand (⭐669)](https://github.com/dart-lang/stagehand)
+        *   [dart-lang/stagehand (⭐663)](https://github.com/dart-lang/stagehand)
 
-## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [15. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [Remote Styles with Remote Config (⭐64)](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 
-## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [16. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Feature management
 
-*   [Unleash (⭐6.5k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
+*   [Unleash (⭐7.4k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
-## [16. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [17. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 

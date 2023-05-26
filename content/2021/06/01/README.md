@@ -77,7 +77,13 @@
 *   [We work Meteor](https://www.weworkmeteor.com/)
 *   [Official Job Board](https://jobs.meteor.com/)
 
-## [6. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Calendars
+
+*   [exchange\_calendars (⭐268)](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
+
+## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Websites
 
@@ -89,13 +95,13 @@
     *   [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
 *   [Block.one: Getting Started with the EOSIO Blockchain and Smart Contracts](https://google.qwiklabs.com/catalog_lab/3743) - Google Cloud training lab.
 
-## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Articles / Other
 
 *   [Making Electron apps feel native on Mac](https://getlotus.app/21-making-electron-apps-feel-native-on-mac)
 
-## [8. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [9. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Books
 
@@ -106,9 +112,9 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [APT Hunter (⭐880)](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs.
+*   [APT Hunter (⭐948)](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs.
 *   [Event Log Explorer](https://eventlogxp.com/) - Tool developed to quickly analyze log files and other data.
-*   [Zircolite (⭐454)](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
+*   [Zircolite (⭐483)](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
 
 ### IR Tools Collection / Memory Analysis Tools
 
@@ -116,15 +122,15 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [Counteractive Playbooks (⭐403)](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
-*   [GuardSIght Playbook Battle Cards (⭐187)](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
-*   [Phantom Community Playbooks (⭐385)](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
+*   [Counteractive Playbooks (⭐440)](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
+*   [GuardSIght Playbook Battle Cards (⭐226)](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
+*   [Phantom Community Playbooks (⭐404)](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
 
 ### IR Tools Collection / Timeline Tools
 
-*   [Aurora Incident Response (⭐602)](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
+*   [Aurora Incident Response (⭐637)](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
 
-## [9. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Sites for Practice / Books for Mathematics
 
@@ -136,23 +142,17 @@
 
 
 
-## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Native Apps (open source)
 
 *   [opentripplanner-client-library (⭐2)](https://github.com/CUTR-at-USF/opentripplanner-client-library) - A Kotlin Multiplatform library for making API requests and parsing responses from an OpenTripPlanner v2 server for trip plans, bike rental info, and server metadata for Android, iOS, and web.
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 
-*   [Maze (⭐225)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
-
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Linux / TeX
-
-*   [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
+*   [Maze (⭐236)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -189,16 +189,16 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [PAPIMonitor (⭐32)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a python tool based on Frida for monitoring user-select APIs during the app execution.
+*   [PAPIMonitor (⭐37)](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a python tool based on Frida for monitoring user-select APIs during the app execution.
 
 ### Tools / Reverse Engineering
 
-*   [Obfuscapk (⭐785)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
-*   [ARMANDroid (⭐6)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
+*   [Obfuscapk (⭐886)](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
+*   [ARMANDroid (⭐9)](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
 
 ### Tools / Market Crawlers
 
-*   [PlaystoreDownloader (⭐991)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
+*   [PlaystoreDownloader (⭐1.1k)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 
 ## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

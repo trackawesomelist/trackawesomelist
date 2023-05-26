@@ -10,7 +10,7 @@
 
 ### Web
 
-*   🔌 [Firestore Lite (⭐208)](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight Cloud Firestore library for the browser.
+*   🔌 [Firestore Lite (⭐205)](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight Cloud Firestore library for the browser.
 
 ## [2. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Custom Scrollbar
 
-*   [rc-scrollbars (⭐102)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
+*   [rc-scrollbars (⭐108)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -40,23 +40,23 @@
 
 ### Authorization / AWS policy tools
 
-*   [IAM Floyd (⭐476)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
+*   [IAM Floyd (⭐497)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
 
 ## [7. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Community Resources
 
-*   [The Fish Cookbook (⭐1.7k)](https://github.com/jorgebucaran/cookbook.fish) 🍣
+*   [The Fish Cookbook (⭐1.8k)](https://github.com/jorgebucaran/cookbook.fish) 🦞 - From Shell to Plate: Savor the Zest of Fish
 
 ### Plugins
 
-*   [z (⭐1k)](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping.
-*   [fzf (⭐1.1k)](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative (⭐796)](https://github.com/jethrokuan/fzf)).
-*   [nvm (⭐1.5k)](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish.
-*   [Done (⭐599)](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes.
-*   [Replay (⭐307)](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative (⭐1.9k)](https://github.com/edc/bass))
-*   [GitNow (⭐259)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow.
-*   [Getopts (⭐201)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
+*   [z (⭐1.1k)](https://github.com/jethrokuan/z) - Pure-Fish [`rupa/z`](https://github.com/rupa/z)-like directory jumping
+*   [fzf (⭐1.3k)](https://github.com/PatrickF1/fzf.fish) - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative (⭐823)](https://github.com/jethrokuan/fzf))
+*   [nvm (⭐1.6k)](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish
+*   [Done (⭐642)](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes
+*   [Replay (⭐336)](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative (⭐1.9k)](https://github.com/edc/bass))
+*   [GitNow (⭐285)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow
+*   [Getopts (⭐208)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin)
 
 ## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

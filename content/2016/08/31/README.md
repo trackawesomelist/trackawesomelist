@@ -38,11 +38,11 @@
 
 ### Utilities
 
-*   [retry (⭐407)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+*   [retry (⭐416)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ### Video
 
-*   [ffmpex (⭐193)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+*   [ffmpex (⭐197)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Pattern Matching
 
-*   [Akar (⭐174)](https://github.com/missingfaktor/akar)
+*   [Akar (⭐175)](https://github.com/missingfaktor/akar)
 
 ---
 

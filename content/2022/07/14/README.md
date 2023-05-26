@@ -31,7 +31,7 @@
 
 ### Algorithms and Data structures
 
-*   [csuuid (⭐13)](https://github.com/wyhaines/csuuid.cr) - A Chronologically Sortable UUID
+*   [csuuid (⭐14)](https://github.com/wyhaines/csuuid.cr) - A Chronologically Sortable UUID
 *   [secure-remote-password (⭐4)](https://github.com/spider-gazelle/secure-remote-password) - SRP-6a protocol for authentication over an insecure network
 
 ## [4. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
@@ -60,17 +60,17 @@
 
 ### Boilerplates / Other
 
-*   [Wasp (⭐2.1k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+*   [Wasp (⭐2.7k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-ml-benchmarks (⭐26)](https://github.com/nikolaydubina/go-ml-benchmarks) — benchmarks of machine learning inference for Go.
+*   [go-ml-benchmarks (⭐27)](https://github.com/nikolaydubina/go-ml-benchmarks) — benchmarks of machine learning inference for Go.
 
 ### Java / General-Purpose Machine Learning
 
-*   [Encog (⭐739)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
+*   [Encog (⭐741)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 *   [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework.
 
 ### Java / Deep Learning
@@ -79,11 +79,11 @@
 
 ### JavaScript / Natural Language Processing
 
-*   [nlp.js (⭐5.4k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
+*   [nlp.js (⭐5.6k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [tensor-js (⭐32)](https://github.com/Hoff97/tensorjs) - A deep learning library for the browser, accelerated by WebGL and WebAssembly.
+*   [tensor-js (⭐34)](https://github.com/Hoff97/tensorjs) - A deep learning library for the browser, accelerated by WebGL and WebAssembly.
 
 ### Julia / General-Purpose Machine Learning
 
@@ -120,24 +120,24 @@
 
 ### Editable data grid / spreadsheet
 
-*   [AG Grid (⭐9.7k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-*   [MUI X Data grid (⭐2.3k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
+*   [AG Grid (⭐9.9k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
+*   [MUI X Data grid (⭐2.6k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
 
 ### Audio / Video
 
-*   [react-barcode-qrcode-scanner (⭐2)](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
+*   [react-barcode-qrcode-scanner (⭐3)](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
 
 ### Device Input / Keyboard Events
 
-*   [react-keyboard-navigator (⭐17)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐20)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
 
 ### Form Logic / Mouse Events
 
-*   [react-client-validation (⭐4)](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
+*   [react-client-validation (⭐6)](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
 
 ### Miscellaneous / Lazy Load
 
-*   [react-device-frameset (⭐31)](https://github.com/zheeeng/react-device-frameset) - React device frameset component.
+*   [react-device-frameset (⭐36)](https://github.com/zheeeng/react-device-frameset) - React device frameset component.
 
 ## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -157,13 +157,13 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rockyzhang24/arctic.nvim (⭐50)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐65)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Boilerplates
 
-*   [Model-View-Presenter template (⭐24)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
+*   [Model-View-Presenter template (⭐25)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
 
 ## [13. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 

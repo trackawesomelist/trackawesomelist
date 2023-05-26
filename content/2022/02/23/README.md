@@ -48,16 +48,16 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-starter (⭐23)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
+*   [vite-vue2-ts-starter (⭐29)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
 
 ### Templates / Svelte
 
-*   [SvelteKit (⭐14k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
+*   [SvelteKit (⭐15k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
 ### Templates / Others
 
 *   [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
-*   [11st-Starter-Kit (⭐311)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
+*   [11st-Starter-Kit (⭐328)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 
 ## [6. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -67,7 +67,7 @@
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Causality / Science Education
+### Causality / Democratization
 
 *   [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186\&hl=en\&as_sdt=0,5)].
 
@@ -76,9 +76,7 @@
 ### Domain
 
 *   [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
-*   [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
 *   [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
-*   [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -94,14 +92,14 @@
 
 ### Alternative Frontends
 
-*   [Nitter (⭐6.9k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
-    *   [Fritter (⭐1.1k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
+*   [Nitter (⭐7.4k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+    *   [Fritter (⭐1.3k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
 
 ## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [ytcast (⭐671)](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
+*   [ytcast (⭐672)](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
 
 ### Overview / Twitter
 
@@ -111,20 +109,20 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [mac (⭐147)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
+*   [mac (⭐153)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
 
 ## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome SOAR (⭐491)](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
-*   [Awesome Security Hardening (⭐3.6k)](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
+*   [Awesome SOAR (⭐607)](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
+*   [Awesome Security Hardening (⭐4.3k)](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [Awesome Self-Hosted (⭐106k)](https://github.com/awesome-selfhosted/awesome-selfhosted)
-*   [Awesome Analytics (⭐3.4k)](https://github.com/0xnr/awesome-analytics)
-*   [Awesome Sysadmin (⭐15k)](https://github.com/awesome-foss/awesome-sysadmin)
+*   [Awesome Self-Hosted (⭐133k)](https://github.com/awesome-selfhosted/awesome-selfhosted)
+*   [Awesome Analytics (⭐3.6k)](https://github.com/0xnr/awesome-analytics)
+*   [Awesome Sysadmin (⭐18k)](https://github.com/awesome-foss/awesome-sysadmin)
 
 ---
 

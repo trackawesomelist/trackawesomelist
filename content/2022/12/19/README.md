@@ -1,31 +1,38 @@
 # Awesome List Updates on Dec 19, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Data Sources
+
+*   [tardis-python (⭐92)](https://github.com/tardis-dev/tardis-python) - Python interface for Tardis.dev high frequency crypto market data
+*   [lake-api](https://github.com/crypto-lake/lakeapi) - Python interface for Crypto Lake high frequency crypto market data
+
+## [2. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
 
 ### Use ChatGPT Anywhere / Editors
 
-*   [intellij-chatgpt (⭐8)](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
+*   [intellij-chatgpt (⭐64)](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
 
 ### Use ChatGPT Anywhere / Chatbots
 
-*   [chatbot-telegram (⭐9)](https://github.com/Ciyou/chatbot-telegram): ChatGPT Telegram Bot powered by `Deno` and `TypeScript`.
-*   [gpt-ai-assistant (⭐390)](https://github.com/memochou1993/gpt-ai-assistant) (Chinese content): Run your own GPT LINE bot on Vercel in 10 minutes.
+*   [chatbot-telegram (⭐34)](https://github.com/Ciyou/chatbot-telegram): ChatGPT Telegram Bot powered by `Deno` and `TypeScript`.
+*   [gpt-ai-assistant (⭐4.1k)](https://github.com/memochou1993/gpt-ai-assistant) (Chinese content): Run your own GPT LINE bot on Vercel in 10 minutes.
 
 ### Applications / Reverse Proxy
 
-*   [StackExplain (⭐267)](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
+*   [StackExplain (⭐408)](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
 
-## [2. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Education
 
-*   [TubeCards (⭐201)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
+*   [TubeCards (⭐223)](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
 
 ### Contents / Entertainment
 
@@ -33,50 +40,44 @@
 
 ### Contents / Productivity
 
-*   [Virlow Flutter Recorder (⭐12)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
+*   [Virlow Flutter Recorder (⭐15)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
 
-## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Networks
 
 *   [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) - International characters in domain names mean support of homographs and heterographs.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Weights & Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Sumi (⭐4)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
 
-## [6. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+## [7. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
 ### Using ChatGPT in other apps
 
 *   [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Science Logology / Literature Mining
-
-*   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)].
-
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Social Networking
 
-*   [Retrospring (⭐132)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐141)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
 *   WebDrivers
-    *   [Ferrum (⭐1.4k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.5k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
-    *   [Selenium WebDriver (⭐26k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
+    *   [Selenium WebDriver (⭐27k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
@@ -89,30 +90,13 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐85)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐100)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
 ## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Ironcrunch](https://www.patreon.com/LudicPen/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
-
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Bash / Non-X86
-
-*   [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/) - Sundeep Agarwal
-*   [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) - Sundeep Agarwal
-
-### Clojure / Non-X86
-
-*   [Learn ClojureScript](https://www.learn-clojurescript.com) - Andrew Meredith
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
-*   [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
-*   [Python for network engineers](https://pyneng.readthedocs.io/en/latest/) - Natasha Samoylenko
 
 ---
 

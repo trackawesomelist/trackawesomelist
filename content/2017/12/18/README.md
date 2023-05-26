@@ -16,7 +16,7 @@
 
 ### CLI and REPL
 
-*   Use [ts-node (⭐11k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
+*   Use [ts-node (⭐12k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
 *   How to make executable typescript scripts:
     1.  Make sure you have `npx` (shipped with `npm >= 5.2`) and `typescript` package is installed
     2.  Add this [shebang](https://en.wikipedia.org/wiki/Shebang_\(Unix\)) as first line to your script: `#!npx ts-node`
@@ -42,7 +42,7 @@
 
 ### Audio Related Packages / Read-Write
 
-*   [stempeg (⭐71)](https://github.com/faroit/stempeg) [:octocat: (⭐71)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
+*   [stempeg (⭐75)](https://github.com/faroit/stempeg) [:octocat: (⭐75)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -64,12 +64,12 @@
 
 ### Video
 
-*   [Vireo (⭐878)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐899)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐464)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
-*   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
+*   [C++Now 2017 Presentations (⭐470)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2016 Presentations (⭐80)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---
 

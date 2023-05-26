@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2021
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -71,17 +71,11 @@
 
 *   [Guild AI](https://my.guild.ai/docs/jupyter-notebook-experiments/) - Execute notebooks as experiments to capture and compare results over time.
 
-## [6. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / Autocomplete
-
-*   [downshift (⭐11k)](https://github.com/paypal/downshift) - 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
-
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Automotive
 
-*   [Sensirion/lin-bus (⭐13)](https://github.com/Sensirion/lin-bus-rs) \[[lin-bus](https://crates.io/crates/lin-bus)] — LIN bus driver traits and protocol implementation [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
+*   [Sensirion/lin-bus (⭐14)](https://github.com/Sensirion/lin-bus-rs) \[[lin-bus](https://crates.io/crates/lin-bus)] — LIN bus driver traits and protocol implementation [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
 
 ### Libraries / Configuration
 
@@ -91,80 +85,80 @@
 
 *   [cossacklabs/themis (⭐1.7k)](https://github.com/cossacklabs/themis) \[[themis](https://crates.io/crates/themis)] — a high-level cryptographic library for solving typical data security tasks, best fit for multi-platform apps. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Logging / Barcode
 
-*   [Puppy (⭐97)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
+*   [Puppy (⭐111)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
 *   [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform, an alternative to Intercom & Zendesk. ([Source Code (⭐15k)](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby`
 
-## [10. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [9. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### General analytics
 
 *   [Heap](https://heap.io) - tracks your app users, clicks, form submissions, and anything else. `©` `SaaS`
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
 *   [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - Docker images for ABCL, CCL, ECL, and SBCL on Windows (amd64) and Alpine and Debian (amd64, arm64, arm/v7) [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
-## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-*   💼 [@ngneat/tailwind (⭐602)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+*   💼 [@ngneat/tailwind (⭐601)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 
-## [13. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
+## [12. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
 ### Open source projects using TypeDB
 
 *   [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 *   [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 
-## [14. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [13. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [GRR Rapid Response (⭐4.3k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐54)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
+*   [GRR Rapid Response (⭐4.4k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐54)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 
-## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### PDF Management / Telegram
 
 *   [PDF Shelter](https://pdfshelter.com/) - Unlimited, privacy-aware, PDF tools running locally on browser
 
-## [16. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [15. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Databases / Data Sources
 
 *   [anime-offline-database (⭐573)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
-## [17. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
 *   [blog-box (⭐2)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
 *   [medium-stat-box (⭐37)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 
-## [18. Awesome Python](/content/vinta/awesome-python/README.md)
+## [17. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### WSGI Servers
 
-*   [gunicorn (⭐8.7k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
+*   [gunicorn (⭐8.8k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
 
-## [19. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [18. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Animations / Components
 
-*   [ng-particles (⭐4.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
+*   [ng-particles (⭐5.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
 
 ---
 

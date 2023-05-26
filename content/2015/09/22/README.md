@@ -16,7 +16,7 @@
 
 ### Ask these people anything!
 
-*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐328)](https://github.com/mourner/projects). Building the future of interactive maps.
+*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐361)](https://github.com/mourner/projects). Building the future of interactive maps.
 
 ## [3. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -140,18 +140,18 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Android Security Awesome (⭐6.4k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
-*   [Awesome CTF (⭐7.4k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
-*   [Awesome Hacking (⭐9.1k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
-*   [Awesome Honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
-*   [Awesome PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
-*   [Awesome Pentest (⭐17k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
+*   [Android Security Awesome (⭐6.9k)](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
+*   [Awesome CTF (⭐8.1k)](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
+*   [Awesome Hacking (⭐10k)](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
+*   [Awesome Honeypots (⭐7k)](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
+*   [Awesome PCAP Tools (⭐2.7k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+*   [Awesome Pentest (⭐18k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Static Site Generators
 
-*   [Pretzel (⭐600)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐599)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -171,7 +171,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐334)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐335)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -196,11 +196,11 @@
 ### Integrations / Components
 
 *   [nativescript-angular (⭐1.2k)](https://github.com/NativeScript/nativescript-angular)
-*   [react-native-renderer (⭐793)](https://github.com/angular/react-native-renderer)
+*   [react-native-renderer (⭐788)](https://github.com/angular/react-native-renderer)
 
 ### Universal General Resources / Components
 
-*   [Universal Angular 2 Repository (GitHub) (⭐3.9k)](https://github.com/angular/universal)
+*   [Universal Angular 2 Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
 
 ### Dart General Resources / Components
 

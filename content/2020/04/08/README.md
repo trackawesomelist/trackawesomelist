@@ -80,31 +80,31 @@
 
 ### Converters
 
-*   [Zolang (⭐137)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
+*   [Zolang (⭐139)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
 ### Patterns
 
-*   [Spin (⭐119)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
+*   [Spin (⭐120)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
 
 ### Animation
 
-*   [Elephant (⭐128)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐129)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐77)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐78)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### Multi Database
 
-*   [ModelAssistant (⭐28)](https://github.com/ssamadgh/ModelAssistant) - Elegant library to manage the interactions between view and model.
+*   [ModelAssistant (⭐27)](https://github.com/ssamadgh/ModelAssistant) - Elegant library to manage the interactions between view and model.
 
 ### XML
 
-*   [XMLCoder (⭐665)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐683)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐656)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐664)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
@@ -117,7 +117,7 @@
 ### UI / Barcode
 
 *   [Material Components for iOS (⭐4.6k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap (⭐119)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [YMTreeMap (⭐123)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
@@ -125,7 +125,7 @@
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift (⭐87)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐88)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -137,7 +137,7 @@
 
 ### CMS
 
-*   [indico (⭐1.4k)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
+*   [indico (⭐1.5k)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
 
 ### Computer Vision
 
@@ -145,12 +145,12 @@
 
 ### Functional Programming
 
-*   [Coconut (⭐3.6k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [more-itertools (⭐2.9k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+*   [Coconut (⭐3.7k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
+*   [more-itertools (⭐3k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 
 ### RPC Servers
 
-*   [RPyC (⭐1.3k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
+*   [RPyC (⭐1.4k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
 ## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -248,7 +248,7 @@
 
 ### CSV
 
-*   [CodableCSV (⭐374)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐376)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ---
 

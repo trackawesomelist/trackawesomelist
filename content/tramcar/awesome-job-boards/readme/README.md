@@ -2,7 +2,7 @@
 
 null
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 734 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 769 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / Overview ]
 
@@ -37,6 +37,7 @@ A curated list of awesome niche job boards.
 *   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 *   [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 *   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
+*   [Best AI Jobs](https://bestaijobs.com) - Best AI Jobs from 100+ AI Startups
 
 ## Big Data
 
@@ -59,10 +60,6 @@ A curated list of awesome niche job boards.
 ## Cloud
 
 *   [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
-
-## Customer Support
-
-*   [Support Driven Jobs](https://jobs.supportdriven.com/)
 
 ## Design
 
@@ -115,6 +112,7 @@ A curated list of awesome niche job boards.
 ### Aggregator
 
 *   [findwork.dev](https://findwork.dev/)
+*   [Levels.fyi](https://www.levels.fyi/jobs)
 
 ### Clojure
 
@@ -123,10 +121,6 @@ A curated list of awesome niche job boards.
 ### Full-Stack
 
 *   [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
-
-### Frontend
-
-*   [Frontend Careers](https://frontendcareers.com/) - Job board for Frontend Developers
 
 ### Functional
 
@@ -220,7 +214,6 @@ A curated list of awesome niche job boards.
 ## Tech
 
 *   [Free & Open Source Jobs](https://www.fossjobs.net/)
-*   [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
 *   [Relocate.me](https://relocate.me/) - Verified relocation packages
 *   [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 

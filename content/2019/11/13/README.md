@@ -10,7 +10,7 @@
 
 ### Software / DNS - Domain Management
 
-*   [octoDNS (⭐2.6k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+*   [octoDNS (⭐2.7k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -27,7 +27,6 @@
 ### Performance Testing / Streaming Protocols
 
 *   [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
-*   [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
 
 ## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

@@ -106,7 +106,7 @@
 *   [Intercom](https://blog.intercom.com/) - Design, Customer Success, & Startup Blog.
 *   [UXDesign.cc](https://uxdesign.cc/) - User Experience, Usability, Product Design. Follow the UXDesign.cc.
 *   [Hoverstat](https://hoverstat.es/) - The home of alternative digital design.
-*   [Motion UI Design (⭐749)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
+*   [Motion UI Design (⭐768)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 *   [Gov.Uk](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) - Making your service accessible: an introduction.
 *   [Smashing Magazine](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/) - Color Contrast And Why You Should Rethink It.
 *   [Web Credible](https://www.webcredible.com/blog/visual-design-and-colour-accessibility/) - Visual design and color accessibility.
@@ -189,7 +189,7 @@
 *   [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
 *   [YouGov](https://yougov.com/) - We believe in the power of participation.
 *   [Data.Gov](https://data.gov.uk/) - Find data published by government departments and agencies, public bodies and local authorities.
-*   [The Tate Collection (⭐489)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
+*   [The Tate Collection (⭐499)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)

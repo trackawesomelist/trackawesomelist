@@ -12,7 +12,6 @@
 
 *   [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Play with simple experiments and explore how music works.
 *   [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI keyboard and watch as the lights dance to your music.
-*   [Garbage Collector](http://robertbue.no/playground/webgl/gc-effect/) - Audio visualization experiment made with Three.js and some post-processing.
 
 ### Libraries Visualization
 
@@ -79,7 +78,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [Tim-B/grunt-aws-lambda :fire::fire: (⭐246)](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
+*   [Tim-B/grunt-aws-lambda :fire::fire: (⭐247)](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
 
 ## [6. Creative Commons Media](/content/shime/creative-commons-media/README.md)
 

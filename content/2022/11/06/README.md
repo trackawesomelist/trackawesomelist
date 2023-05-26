@@ -116,7 +116,7 @@
 
 ### Typescript Project Starters
 
-*   :ok\_man: [ts-express-boilerplate (⭐22)](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
+*   :ok\_man: [ts-express-boilerplate (⭐24)](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
 
 ---
 

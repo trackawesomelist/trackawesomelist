@@ -22,17 +22,7 @@
     *   [Application Monitoring](https://medium.com/swlh/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) - Application metric monitoring with Prometheus and Grafana.
     *   [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) - About the current status of the compatibility between FastAPI and Kubernetes-native FaaS platforms.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### BETA / Non-X86
-
-*   [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
-
-### JavaScript / React
-
-*   [React Book, your beginner guide to React (⭐1.2k)](https://github.com/softchris/react-book/) - Chris Noring
-
-## [3. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [2. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### General analytics
 
@@ -147,46 +137,46 @@
 *   [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients. `©` `SaaS`
 *   [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution `©` `SaaS`
 
-## [4. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
+## [3. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
 ### About Web Monetization
 
 *   [Documentation](https://webmonetization.org/docs/getting-started)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [near/nearcore (⭐2k)](https://github.com/near/nearcore) — decentralized smart-contract platform for low-end mobile devices.
+*   [near/nearcore (⭐2.1k)](https://github.com/near/nearcore) — decentralized smart-contract platform for low-end mobile devices.
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐192)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/) [![build badge](https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master)](https://travis-ci.org/cristianoliveira/funzzy)
+*   [cristianoliveira/funzzy (⭐198)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 
 ### Libraries / GUI
 
-*   [ImGui (⭐46k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2.1k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+*   [ImGui (⭐48k)](https://github.com/ocornut/imgui)
+    *   [imgui-rs (⭐2.2k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Collaboration/Education
 
-*   [nbgitpuller (⭐174)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
+*   [nbgitpuller (⭐179)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
-*   🔧 [create-tailwind-plugin (⭐17)](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
+*   🔧 [create-tailwind-plugin (⭐19)](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
 
-## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [7. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Interactivity
 
-*   [Jupyter ROS2 (⭐19)](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
+*   [Jupyter ROS2 (⭐22)](https://github.com/zmk5/jupyter-ros2) - Jupyter widget helpers for ROS2.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -215,6 +205,25 @@
   CORS: Unknown
 
 
+
+## [9. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### 0 - 言語非依存 / ネットワーキング
+
+*   [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
+
+### 0 - 言語非依存 / 機械学習
+
+*   [強化学習入門 (⭐202)](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
+
+### Processing / Symfony
+
+*   [Processing 入門講座](http://ap.kakoku.net/index.html) - maeda
+
+### R / Flask
+
+*   [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
+*   [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
 
 ## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

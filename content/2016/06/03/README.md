@@ -49,11 +49,11 @@
 
 ### Slack
 
-*   [Python (Official) (⭐3.5k)](https://github.com/slackhq/python-slackclient)
+*   [Python (Official) (⭐3.6k)](https://github.com/slackhq/python-slackclient)
 
 ### Telegram
 
-*   [PHP (⭐2.5k)](https://github.com/irazasyed/telegram-bot-sdk)
+*   [PHP (⭐2.6k)](https://github.com/irazasyed/telegram-bot-sdk)
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

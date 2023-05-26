@@ -10,7 +10,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Mango (⭐1.3k)](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal`
+*   [Mango (⭐1.4k)](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal`
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Tooling / Frameworks
 
-*   [wasm-pack-action (⭐34)](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
+*   [wasm-pack-action (⭐36)](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 
 ## [7. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [MQTTX (⭐2.5k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐2.6k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 
 ## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

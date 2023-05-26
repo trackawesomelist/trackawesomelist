@@ -10,7 +10,7 @@
 
 ### Integrations
 
-*   [Apple Social Identity Provider for Keycloak (⭐96)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
+*   [Apple Social Identity Provider for Keycloak (⭐100)](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -43,7 +43,7 @@
 *   [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
 *   [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 *   [Render](https://render.com/) - Deploy from git to a CDN with SSL.
-*   [Vercel](https://vercel.com/) - Deploy JAMStack (mainly Next.js) via CLI.
+*   [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
 
 ### Discussions
 
@@ -69,7 +69,6 @@
 ### Messaging
 
 *   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
-*   [stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 
@@ -87,28 +86,20 @@
 
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
-### Payments
+### Payments & Pricing
 
 *   [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 *   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
-
-### Repo
-
-*   [cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
 
 ### Scraping
 
 *   [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 
-### Shipping
-
-*   [easypost](https://www.easypost.com/) - Shipping APIs for e-commerce.
-
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Testing / Misc
 
-*   [dmg-acid2 (⭐100)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐58)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
+*   [dmg-acid2 (⭐108)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐60)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
 
 ## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -120,7 +111,7 @@
 
 ### Streaming
 
-*   [Owncast (⭐7k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
+*   [Owncast (⭐7.1k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
 
 ## [7. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -170,7 +161,7 @@
 
 ### Tools / Machine translation for developers
 
-*   [SwiftGoogleTranslate (⭐77)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+*   [SwiftGoogleTranslate (⭐78)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 
 ### Articles / Introductions to internationalization
 
@@ -190,7 +181,6 @@
 ### Blogs / Machine translation
 
 *   [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
-*   [Between Translations](http://foxdocs.biz/BetweenTranslations/) - Run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
 
 ### Online Courses / Machine translation
 
@@ -211,7 +201,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐260)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐285)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

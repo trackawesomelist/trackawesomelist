@@ -1,6 +1,6 @@
 # Awesome List Updates on May 26, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,13 +24,13 @@
 
 ### Monitoring & Quality Control
 
-*   [MXF Inspect (⭐24)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+*   [MXF Inspect (⭐25)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐526)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐547)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
 ## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -42,21 +42,15 @@
 
 ### Clients
 
-*   [relay.js (⭐156)](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
+*   [relay.js (⭐157)](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
 
 ### Bouncers / Self-hosted
 
-*   [Convos](https://convos.chat) - Always online web IRC client. ([source (⭐907)](https://github.com/convos-chat/convos), [demo](https://demo.convos.chat)) `Perl` `JavaScript` `Web`
+*   [Convos](https://convos.chat) - Always online web IRC client. ([source (⭐938)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
 
 ### Bots / Self-hosted
 
-*   [BitBot (⭐126)](https://github.com/jesopo/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. [bitbot.dev](https://bitbot.dev) `Python`
-*   [Cardinal (⭐92)](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. ([source (⭐92)](https://github.com/JohnMaguire/Cardinal)) `Python`
-
-### Frameworks / Self-hosted
-
-*   [IRC::Client (⭐13)](https://github.com/raku-community-modules/IRC-Client) - `Perl6` based extendable IRC client framework.
-*   [irccd](http://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with Javascript. `C++`.
+*   [Cardinal (⭐94)](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. `Python`
 
 ### Channels / Platforms
 
@@ -70,13 +64,23 @@
 
 *   [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - Pingdom.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Indicators
+
+*   [lppls (⭐250)](https://github.com/Boulder-Investment-Technologies/lppls) - A Python module for fitting the [Log-Periodic Power Law Singularity (LPPLS)](https://en.wikipedia.org/wiki/Didier_Sornette#The_JLS_and_LPPLS_models) model.
+
+### R / Backtesting
+
+*   [quantstrat (⭐254)](https://github.com/braverock/quantstrat) - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
+
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
-*   [JetBrains/kotlin (⭐44k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+*   [JetBrains/kotlin (⭐45k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
-## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [8. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
@@ -152,13 +156,13 @@
 
 *   [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐43)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐49)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Documents & Productivity
 

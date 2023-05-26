@@ -16,7 +16,7 @@
 
 ### Laravel
 
-- Name: [Antvel (⭐645)](https://github.com/ant-vel/App)
+- Name: [Antvel (⭐652)](https://github.com/ant-vel/App)
 
   Description: Laravel eCommerce
 
@@ -189,7 +189,7 @@
 
 ### SDKs and Samples / Scala SDK
 
-*   [seratch/AWScala :fire::fire::fire: (⭐740)](https://github.com/seratch/AWScala)
+*   [seratch/AWScala :fire::fire::fire: (⭐741)](https://github.com/seratch/AWScala)
 
 ## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐3.7k)](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
+*   [pest-parser/pest (⭐3.8k)](https://github.com/pest-parser/pest) — The Elegant Parser
 
 ## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -368,12 +368,12 @@
 
 ### Multimedia
 
-*   [Vocal (⭐335)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+*   [Vocal (⭐342)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 
 ### Graphics
 
-*   [Coulr (⭐25)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+*   [Coulr (⭐26)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 
 ### Gaming
 
@@ -391,7 +391,7 @@
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐5.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐5.8k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -399,11 +399,11 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐163)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐172)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐250)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐257)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 
@@ -420,19 +420,19 @@
 
 ### Exceptions and Error Handling
 
-*   [Perseverance (⭐172)](https://github.com/grammarly/perseverance)
+*   [Perseverance (⭐174)](https://github.com/grammarly/perseverance)
 *   [Dire (⭐482)](https://github.com/MichaelDrogalis/dire)
 
 ### Editor Plugins
 
 *   [CIDER (Emacs) (⭐3.4k)](https://github.com/clojure-emacs/cider)
-*   [smartparens (Emacs) (⭐1.6k)](https://github.com/Fuco1/smartparens)
-*   [rainbow-delimiters (Emacs) (⭐575)](https://github.com/Fanael/rainbow-delimiters)
-*   [aggressive-indent (Emacs) (⭐745)](https://github.com/Malabarba/aggressive-indent-mode)
+*   [smartparens (Emacs) (⭐1.7k)](https://github.com/Fuco1/smartparens)
+*   [rainbow-delimiters (Emacs) (⭐605)](https://github.com/Fanael/rainbow-delimiters)
+*   [aggressive-indent (Emacs) (⭐803)](https://github.com/Malabarba/aggressive-indent-mode)
 *   [vim-fireplace (Vim) (⭐1.7k)](https://github.com/tpope/vim-fireplace)
 *   [vim-redl (Vim) (⭐107)](https://github.com/dgrnbrg/vim-redl)
-*   [vim-leiningen (Vim) (⭐191)](https://github.com/tpope/vim-salve)
-*   [rainbow\_parentheses.vim (Vim) (⭐369)](https://github.com/junegunn/rainbow_parentheses.vim)
+*   [vim-leiningen (Vim) (⭐196)](https://github.com/tpope/vim-salve)
+*   [rainbow\_parentheses.vim (Vim) (⭐371)](https://github.com/junegunn/rainbow_parentheses.vim)
 *   [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
 
 ### Archives and Compression
@@ -467,23 +467,23 @@
 
 ### Audio Related Packages / Read-Write
 
-*   [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat: (⭐10)](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
+*   [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat: (⭐11)](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat: (⭐409)](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
+*   [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat: (⭐439)](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
 
 ### Audio Related Packages / Music Information Retrieval
 
-*   [librosa](http://librosa.github.io/librosa/) [:octocat: (⭐5.5k)](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
+*   [librosa](http://librosa.github.io/librosa/) [:octocat: (⭐5.8k)](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
 
 ### Audio Related Packages / Audio Dataset and Dataloaders
 
-*   [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: (⭐114k)](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+*   [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: (⭐119k)](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 
 ### Tutorials / Wrappers for Audio Plugins
 
-*   [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) [:octocat: (⭐3.2k)](https://github.com/jakevdp/WhirlwindTourOfPython) - fast-paced introduction to Python essentials, aimed at researchers and developers.
+*   [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) [:octocat: (⭐3.4k)](https://github.com/jakevdp/WhirlwindTourOfPython) - fast-paced introduction to Python essentials, aimed at researchers and developers.
 *   [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat: (⭐2.9k)](https://github.com/scipy-lectures/scipy-lecture-notes) - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.
 
 ## [33. Awesome Math](/content/rossant/awesome-math/week/README.md)
@@ -500,8 +500,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeafPlayer (⭐148)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐217)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [LeafPlayer (⭐149)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+*   [JSON Editor (⭐221)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 
@@ -600,20 +600,20 @@
 
 ### Algorithms and Data structures
 
-*   [ecto\_materialized\_path (⭐56)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
+*   [ecto\_materialized\_path (⭐58)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
 
 ### Debugging
 
-*   [ex\_debug\_toolbar (⭐401)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+*   [ex\_debug\_toolbar (⭐400)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 
 ### Deployment
 
-*   [bootleg (⭐393)](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
+*   [bootleg (⭐394)](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
 *   [Gigalixir](https://www.gigalixir.com) - A fully-featured PaaS designed for Elixir. Supports clustering, hot upgrades, and remote console/observer. Free to try without a credit card.
 
 ### Eventhandling
 
-*   [event\_bus (⭐657)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐664)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 
@@ -679,11 +679,11 @@
 
 ### Colors
 
-*   [ChromaColorPicker (⭐541)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐542)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Date
 
-*   [AnyDate (⭐182)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
+*   [AnyDate (⭐183)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
 
 ### Auto Layout / Barcode
 
@@ -695,7 +695,7 @@
 
 ### Utility / Barcode
 
-*   [Highlighter (⭐934)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
+*   [Highlighter (⭐930)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 
 ## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 

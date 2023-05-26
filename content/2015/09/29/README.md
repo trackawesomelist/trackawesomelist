@@ -60,7 +60,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Math / Barcode
 
-*   [DDMathParser (⭐833)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
+*   [DDMathParser (⭐838)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 
 ### Testing / Barcode
 

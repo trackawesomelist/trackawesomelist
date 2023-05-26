@@ -10,7 +10,7 @@
 
 ### Display / LCD Character
 
-*   [LCM1602-14\_LCD\_Library (⭐9)](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
+*   [LCM1602-14\_LCD\_Library (⭐10)](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Miscellaneous / React
 
-*   [GraphVinci (⭐46)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
+*   [GraphVinci (⭐50)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 
 ### Ruby Examples / React
 
@@ -38,8 +38,8 @@
 
 ### Julia / React
 
-*   [Diana.jl (⭐110)](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
-*   [GraphQLClient.jl (⭐39)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
+*   [Diana.jl (⭐113)](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
+*   [GraphQLClient.jl (⭐42)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
 
 ### Databases / React
 

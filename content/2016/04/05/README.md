@@ -16,7 +16,7 @@
 
 ### Logging / Barcode
 
-*   [AEConsole (⭐144)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
+*   [AEConsole (⭐143)](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 
 ## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Logging
 
-*   [logster (⭐188)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
+*   [logster (⭐192)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
 
 ### Release Management
 
@@ -105,7 +105,7 @@
 
 ### Tools
 
-*   [Myrtille (⭐1.5k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
+*   [Myrtille (⭐1.6k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 
 ## [12. Codeface](/content/chrissimpkins/codeface/README.md)
 

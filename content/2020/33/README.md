@@ -16,7 +16,7 @@
 
 ### Libraries Visualization
 
-*   [Cava (⭐2.8k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
+*   [Cava (⭐3.1k)](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### External Services
 
-*   [goodreads-box (⭐14)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐18)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [9. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
@@ -108,13 +108,13 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Multi-tenancy with Prisma (⭐304)](https://github.com/errorname/prisma-multi-tenant)
+*   [Multi-tenancy with Prisma (⭐350)](https://github.com/errorname/prisma-multi-tenant)
 
 ## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Django
 
-- Name: [Django-shop (⭐2.9k)](https://github.com/awesto/django-shop)
+- Name: [Django-shop (⭐3k)](https://github.com/awesto/django-shop)
 
   Description: A Django based shop system
 
@@ -131,11 +131,11 @@
 
 ### Electron
 
-- Name: [Lavendel (⭐4)](http://github.com/timo-cmd/lavendel)
+- Name: [Lavendel](http://github.com/timo-cmd/lavendel)
 
   Description: Cross platform desktop app >2.5kb containing a cute timer
 
-  Link: [https://github.com/timo-cmd/Lavendel (⭐4)](https://github.com/timo-cmd/Lavendel)
+  Link: <https://github.com/timo-cmd/Lavendel>
 
 
 
@@ -209,7 +209,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.ScriptInjection (⭐21)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
+*   [Blazor.ScriptInjection (⭐23)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 
 ## [20. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -242,11 +242,11 @@
 
 ### Web
 
-*   🔌 [firebase-kotlin-sdk (⭐502)](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
+*   🔌 [firebase-kotlin-sdk (⭐562)](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 
 ### CLI & Editor / iOS
 
-*   🔧 [Firetable (⭐3.7k)](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
+*   🔧 [Firetable (⭐4.6k)](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 
 ## [23. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
@@ -264,19 +264,19 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [AppImage Desktop Maker (⭐3)](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
+*   [AppImage Desktop Maker (⭐5)](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
 
 ### AppImage consumption tools / Sandboxes
 
-*   [Firejail (⭐4.7k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
+*   [Firejail (⭐4.8k)](https://github.com/netblue30/firejail) - Optional sandbox with support for AppImage built in.
 
 ### AppImage consumption tools / Package managers
 
-*   [Zap (⭐379)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
+*   [Zap (⭐390)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
-*   [.NET Core AppImage example (⭐37)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
+*   [.NET Core AppImage example (⭐39)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 
 ### AppImage developer tools / Metadata tools
 
@@ -289,8 +289,8 @@
 
 ### AppImage developer tools / Continuous integration
 
-*   [GitHub Actions example (⭐42)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
-*   [appimage.yml (⭐469)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
+*   [GitHub Actions example (⭐47)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
+*   [appimage.yml (⭐477)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 
 ### Resources / Miscellaneous
 
@@ -336,7 +336,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Tributary (⭐6)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
+*   [Tributary (⭐7)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
 ## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -388,13 +388,13 @@
 
 ### Driver crates / Other
 
-*   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐14)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
+*   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐16)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
 
 ## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Boofuzz (⭐1.6k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
+*   [Boofuzz (⭐1.8k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
@@ -402,24 +402,24 @@
 
 ### Endpoint / Forensics
 
-*   [Rekall (⭐1.8k)](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
+*   [Rekall (⭐1.9k)](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 
 ### Datastores / Online resources
 
-*   [acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
+*   [acra (⭐1.2k)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
 
 ## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Geolocation
 
 *   [geohash\_nif (⭐1)](https://github.com/wstucco/geohash_nif/) - Drop in replacement for Geohash encode/decode library implemented as a NIF.
-*   [wheretz (⭐8)](https://github.com/UA3MQJ/wheretz) - Elixir version of Ruby gem for lookup of timezone by georgraphic coordinates.
+*   [wheretz (⭐10)](https://github.com/UA3MQJ/wheretz) - Elixir version of Ruby gem for lookup of timezone by georgraphic coordinates.
 
 ## [38. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [RustMart (⭐256)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
+*   [RustMart (⭐254)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
 
 ## [39. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -431,15 +431,15 @@
 
 ### Software / Proxy
 
-*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐12k)](https://github.com/jc21/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
+*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐14k)](https://github.com/jc21/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.6k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs`
+*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.8k)](https://github.com/plankanban/planka)) `AGPL-3.0` `Nodejs`
 
 ### Software / Wikis
 
-*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.6k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
+*   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.7k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
 
 ## [41. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -467,7 +467,7 @@
 
 ### Containers
 
-*   [PGM-index (⭐668)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
+*   [PGM-index (⭐684)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
 ## [43. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -487,7 +487,7 @@
 
 ### PHP / Scala
 
-*   [Hyperf (⭐5k)](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
+*   [Hyperf (⭐5.1k)](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
 
 ### API Gateways / Edge Services / Scala
 
@@ -505,7 +505,7 @@
 
 *   [JSON Feed](https://jsonfeed.org/) <sup>[259](https://t.me/s/aboutrss/259), [711](https://t.me/s/aboutrss/711), [751](https://t.me/s/aboutrss/751)</sup>
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS2JSONFeed converter](https://rss2json.com) <sup>[226](https://t.me/s/aboutrss/226)</sup>
 
@@ -528,11 +528,11 @@
 
 *   [padlet](https://padlet.com) <sup>[752](https://t.me/s/aboutrss/752)</sup>
 
-### specifically from (  *a certain platform*  ) / Instagram
+### specifically from (*a certain platform*) / Instagram
 
 *   [rss.yuji.ne.jp](https://rss.yuji.ne.jp) <sup>[639](https://t.me/s/aboutrss/639)</sup>[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yujixr/instarss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### specifically from (  *a certain platform*  ) / Wechat Subscription Accounts (微信公众号)
+### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
 *   [WxRss](https://wxrss.vip/) <sup>[748](https://t.me/s/aboutrss/748)</sup>
 
@@ -604,7 +604,7 @@
 ### DevSecOps / Service meshes
 
 *   [Bane (⭐1.1k)](https://github.com/genuinetools/bane) - Custom and better AppArmor profile generator for Docker containers.
-*   [Trivy (⭐15k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+*   [Trivy (⭐17k)](https://github.com/aquasecurity/trivy) - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
 
 ### DevSecOps / Compliance testing and reporting
 
@@ -615,11 +615,11 @@
 
 ### GUI Development
 
-*   [DearPyGui (⭐9.4k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
+*   [DearPyGui (⭐9.9k)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 
 ### Job Scheduler
 
-*   [Prefect (⭐11k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
+*   [Prefect (⭐12k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
 
 ## [49. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
@@ -663,15 +663,15 @@
 
 ### Development Environment / Debugging and Tracing
 
-*   [gdb-dashboard (⭐8.9k)](https://github.com/cyrus-and/gdb-dashboard) - GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
+*   [gdb-dashboard (⭐9.3k)](https://github.com/cyrus-and/gdb-dashboard) - GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
 
 ### Development Environment / Version Control
 
-*   [lazygit (⭐30k)](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
+*   [lazygit (⭐34k)](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go with the gocui library.
 
 ### Planning and Control / Vector Map
 
-*   [dual quaternions ros (⭐27)](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
+*   [dual quaternions ros (⭐26)](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
 
 ### Datasets / Sensor and Acuator Interfaces
 
@@ -728,9 +728,9 @@
 
 ### Languages
 
-*   [Dots (⭐4)](https://github.com/josconno/dots) - A turing-complete language using "." symbol only.
-*   [Japt (⭐71)](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
-*   [Jelly (⭐732)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
+*   [Dots (⭐5)](https://github.com/josconno/dots) - A turing-complete language using "." symbol only.
+*   [Japt (⭐72)](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
+*   [Jelly (⭐763)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
 *   [Tru (⭐3)](https://github.com/sungwoncho/tru) - A stack-based language with prefix-free brackets.
 
 ## [54. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
@@ -771,7 +771,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-routisan (⭐207)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
+*   [vue-routisan (⭐206)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
 *   [vue-digital-transform (⭐56)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 
 ---

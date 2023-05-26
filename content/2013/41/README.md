@@ -1,44 +1,12 @@
 # Awesome List Updates on Oct 14 - Oct 20, 2013
 
-2 awesome lists updated this week.
+1 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### DB2 / Non-X86
-
-*   [Getting started with DB2 Express-C](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
-*   [Getting started with IBM Data Studio for DB2](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
-*   [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
-
-### Groovy / Grails
-
-*   [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)
-
-### Icon / Bootstrap
-
-*   [The Implementation of the Icon Programming Language](http://www.cs.arizona.edu/icon/ibsale.htm)
-
-### JavaScript / Node.js
-
-*   [Mixu's Node Book](http://book.mixu.net/node/)
-
-### Processing / Zend
-
-*   [The Nature of Code: Simulating Natural Systems with Processing](http://natureofcode.com/book/)
-
-### Racket / Tornado
-
-*   [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
-
-### Scala / Sinatra
-
-*   [Scala School by Twitter](http://twitter.github.io/scala_school/)
-
-## [2. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
+## [1. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
 
 ### Services Engineering Reading List / Papers
 

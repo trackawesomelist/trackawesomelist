@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / Content Management Systems
 
-*   [feincms (⭐842)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
+*   [feincms (⭐862)](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -38,30 +38,11 @@
 
 *   [(2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [6. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### C / Non-X86
+### 0 - 言語非依存 / アクセシビリティ
 
-*   [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (PDF)
-
-### Java / Bootstrap
-
-*   [Building Back-End Web Apps with Java, JPA and JSF](https://web-engineering.info/tech/JavaJpaJsf/book/) - Mircea Diaconescu, Gerd Wagner (HTML,PDF)
-*   [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
-
-### JavaScript / Wicket
-
-*   [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
-
-### PHP / PicoLisp
-
-*   [PHP Reference: Beginner to Intermediate PHP5](https://phpreferencebook.com/pdf/download/) - Mario Lurig (PDF)
-
-### Ruby / Tornado
-
-*   [Ruby Best Practices (⭐310)](https://github.com/practicingruby/rbp-book/tree/gh-pages/pdfs) - Gregory Brown (PDF)
-*   [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - Huw Collingbourne
-*   [The Little Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html) - Huw Collingbourne
+*   [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/accessibility/ios) - Apple Developer
 
 ## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -92,8 +73,8 @@
 ### Language Support
 
 *   [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
-*   [playwright-python (⭐8k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
-*   [playwright-java (⭐677)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
+*   [playwright-python (⭐8.7k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
+*   [playwright-java (⭐759)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
 
 ## [11. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

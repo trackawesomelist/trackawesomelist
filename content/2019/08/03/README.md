@@ -39,7 +39,7 @@
 
 ### Paginator
 
-*   [react-laravel-paginex (⭐24)](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
+*   [react-laravel-paginex (⭐25)](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
 
 ## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Platforms
 
-*   [Cloudflare (⭐375)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+*   [Cloudflare (⭐398)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 ## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Open Source / Other
 
-*   [Franz (⭐4.3k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+*   [Franz (⭐4.4k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 
 ## [11. Bots](/content/hackerkid/bots/README.md)
 
@@ -104,13 +104,13 @@
 
 ### Asynchronous Event Loop
 
-*   [promise-cpp (⭐566)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
+*   [promise-cpp (⭐595)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 
 ### Font
 
 *   [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. \[MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 *   [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. \[FTL & GPLv2]
-*   [otfcc (⭐398)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
+*   [otfcc (⭐405)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
 
 ### Game Engine
 
@@ -123,7 +123,7 @@
 
 ### Serialization
 
-*   [Cap'n Proto (⭐9.7k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
+*   [Cap'n Proto (⭐9.9k)](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
 
 ### Machine Learning
 
@@ -131,11 +131,11 @@
 
 ### Memory Allocation
 
-*   [tgc (⭐788)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
+*   [tgc (⭐828)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 
 ### Networking
 
-*   [DPDK (⭐2.3k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
+*   [DPDK (⭐2.4k)](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
 *   [PF\_RING™ (⭐2.4k)](https://github.com/ntop/PF_RING) - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 
 ### Robotics

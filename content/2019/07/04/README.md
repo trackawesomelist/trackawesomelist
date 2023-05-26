@@ -22,13 +22,13 @@
 
 ### UI / Barcode
 
-*   [BatteryView (⭐50)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
+*   [BatteryView (⭐52)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Program analysis
 
-*   [cwe\_checker (⭐759)](https://github.com/fkie-cad/cwe_checker) - cwe\_checker finds vulnerable patterns in binary executables.
+*   [cwe\_checker (⭐842)](https://github.com/fkie-cad/cwe_checker) - cwe\_checker finds vulnerable patterns in binary executables.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

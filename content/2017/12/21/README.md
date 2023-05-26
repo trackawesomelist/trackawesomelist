@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -57,6 +57,12 @@
 ### Projects Using Vue.js / Open Source
 
 *   [vue-storefront (⭐10k)](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
+
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### CSharp / Data Visualization
+
+*   [QuantConnect (⭐7.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ---
 

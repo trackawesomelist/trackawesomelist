@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 02, 2020
 
-21 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Nextjs Starter Peacock (⭐118)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
+*   [Nextjs Starter Peacock (⭐120)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Error Handling
 
-*   [Rollbar (⭐438)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
+*   [Rollbar (⭐440)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ### Mobile Development
 
@@ -39,7 +39,7 @@
 
 ### Computer Vision
 
-*   [Face Recognition (⭐47k)](https://github.com/ageitgey/face_recognition) - Simple facial recognition library.
+*   [Face Recognition (⭐48k)](https://github.com/ageitgey/face_recognition) - Simple facial recognition library.
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Libraries / C
 
-*   [cmark (⭐1.4k)](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
+*   [cmark (⭐1.5k)](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
 
 ### Libraries / Python
 
@@ -80,12 +80,12 @@
 
 ### Miscellaneous
 
-*   [react-pdf (⭐6.8k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+*   [react-pdf (⭐7k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 
 ### Form Components / Date / Time picker
 
-*   [react-calendar (⭐2.9k)](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
-*   [react-date-picker (⭐1k)](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
+*   [react-calendar (⭐3k)](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
+*   [react-date-picker (⭐1.1k)](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 
 ## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -97,19 +97,19 @@
 
 ### Authentication
 
-*   [Quiz manager secured by Auth0 (⭐30)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
+*   [Quiz manager secured by Auth0 (⭐31)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
 
 ## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Discord Communities (⭐1.9k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+*   [Discord Communities (⭐2k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-tabler-icons (⭐141)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐14k)](https://github.com/tabler/tabler-icons) SVG icons.
+*   [vue-tabler-icons (⭐145)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐15k)](https://github.com/tabler/tabler-icons) SVG icons.
 *   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
@@ -135,7 +135,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [evostra (⭐252)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [evostra (⭐253)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 
@@ -148,13 +148,7 @@
 *   [Internet Chronometer (⭐105)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
 *   [Pi-KVM (⭐5.8k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
-## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
-
-### Results Processing / Results Analysis
-
-*   [JtlReporter (⭐84)](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
-
-## [21. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [20. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Command aliases
 

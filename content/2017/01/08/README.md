@@ -30,7 +30,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [ng-kitchen-sink (⭐761)](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
+*   [ng-kitchen-sink (⭐756)](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
 *   [ng-skeleton (⭐41)](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth
 
 ## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)

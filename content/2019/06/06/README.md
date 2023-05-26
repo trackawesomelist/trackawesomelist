@@ -10,7 +10,7 @@
 
 ### Build Automation and Package management
 
-*   [clojurephant (⭐144)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
+*   [clojurephant (⭐158)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -36,7 +36,7 @@ Free (Open Source)
 
 ### Incident Response tools / Evidence collection
 
-*   [AutoMacTC (⭐445)](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
+*   [AutoMacTC (⭐459)](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

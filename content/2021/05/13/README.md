@@ -21,18 +21,18 @@
 
 ### Table
 
-*   [svelte-generic-crud-table (⭐49)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+*   [svelte-generic-crud-table (⭐55)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
 *   [svelte-generic-table-pager (⭐4)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte (⭐82)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐104)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Action
 
-*   [re3 (⭐1.4k)](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
+*   [re3](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Samaya (⭐7)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
+*   [Samaya (⭐8)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 
 ## [6. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Contents / Components
 
-*   [Preact Transitioning (⭐27)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
+*   [Preact Transitioning (⭐36)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 
 ## [8. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Contents / Shopping
 
-*   [Flutter WooCommerce app (⭐323)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
+*   [Flutter WooCommerce app (⭐334)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
 
 ---
 

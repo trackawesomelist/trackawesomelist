@@ -37,23 +37,13 @@
 
 *   [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Pocket Guide to Writing SVG](https://svgpocketguide.com) - Joni Trythall
-
-### Ruby / Tornado
-
-*   [The Ruby Reference](https://rubyreferences.github.io/rubyref/) - Victor Shepelev
-
-## [6. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [5. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### (Non-spatial) Transcriptomics
 
 *   [TISCH](http://tisch.comp-genomics.org/home/) - Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment.
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Authentication and Authorization
 
@@ -63,7 +53,7 @@
 
 *   [Itosho/EasyQuery plugin](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
 
-## [8. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [7. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Beginner
 
@@ -92,13 +82,13 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 In lieu of a formal style guide, take care to maintain the existing style of this list.
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [8. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :free: Free Courses / Chrome Extensions
 
 *   [Full Stack React GraphQL TypeScript Tutorial - 14 hour course](https://www.youtube.com/watch?v=I6ypD7qv3Z8) (YouTube)
 
-## [10. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [9. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -112,13 +102,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Cryptocurrency Icons (⭐2.3k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
-## [11. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [10. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Blogs / Eagle
 
 *   [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
 
-## [12. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [11. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / Blogs
 
@@ -128,32 +118,32 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [neuroSummerSchools (⭐191)](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 
-## [13. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Machine Learning
 
-*   [gym (⭐29k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+*   [gym (⭐31k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
-## [14. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
+## [13. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 
 ### Mock interview platforms
 
 *   [Pramp](https://www.pramp.com) - Practice mock interviews with friends and professionals.
 
-## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [14. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
-*   [Rambdax (⭐192)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
+*   [Rambdax (⭐203)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 
-## [16. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [15. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Operating systems
 
 *   [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy) - Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates.  It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
 *   [Tiny OS (⭐1.3k)](https://github.com/tinyos/tinyos-main) - TinyOS is an open source, BSD-licensed operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 
-## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -163,7 +153,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [ Andrej Karpathy ](https://karpathy.ai/)
 
-## [18. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Reverse Engineering / Reverse Engineering Tools
 
@@ -174,7 +164,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [StegOnline](https://stegonline.georgeom.net/) - Web-based, enhanced, and open-source port of StegSolve.
 
-## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Official Links
 
@@ -235,38 +225,37 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Web
 
-*   [apollographql/apollo-android (⭐3.4k)](https://github.com/apollographql/apollo-android) - Typesafe GraphQL client for the JVM and Kotlin native
+*   [apollographql/apollo-android (⭐3.5k)](https://github.com/apollographql/apollo-android) - Typesafe GraphQL client for the JVM and Kotlin native
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/assertk (⭐530)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
+*   [willowtreeapps/assertk (⭐622)](https://github.com/willowtreeapps/assertk) - assertions for kotlin inspired by assertj
 
 ### Libraries/Frameworks / Dependency Injection
 
-*   [JLLeitschuh/kotlin-guiced (⭐17)](https://github.com/JLLeitschuh/kotlin-guiced) - Convenience Kotlin API over the Google Guice DI Library.
-*   [authzee/kotlin-guice (⭐64)](https://github.com/authzee/kotlin-guice) - Guice DSL extensions for Kotlin
+*   [JLLeitschuh/kotlin-guiced (⭐18)](https://github.com/JLLeitschuh/kotlin-guiced) - Convenience Kotlin API over the Google Guice DI Library.
+*   [authzee/kotlin-guice (⭐65)](https://github.com/authzee/kotlin-guice) - Guice DSL extensions for Kotlin
 
 ### Libraries/Frameworks / Coroutines
 
-*   [konrad-kaminski/spring-kotlin-coroutine (⭐415)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
-*   [marcoferrer/kroto-plus (⭐481)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
+*   [konrad-kaminski/spring-kotlin-coroutine (⭐424)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
+*   [marcoferrer/kroto-plus (⭐484)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [pardom/redux-kotlin (⭐269)](https://github.com/pardom/redux-kotlin) - Direct port of Redux for Kotlin.
-*   [reactor/reactor-core (⭐4.4k)](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Streams Foundation for the JVM. Natively supports Kotlin, since 3.1.0.M3.
+*   [pardom/redux-kotlin (⭐270)](https://github.com/pardom/redux-kotlin) - Direct port of Redux for Kotlin.
+*   [reactor/reactor-core (⭐4.5k)](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Streams Foundation for the JVM. Natively supports Kotlin, since 3.1.0.M3.
 
 ### Libraries/Frameworks / Serialization
 
 *   [Shengaero/kotlin-json (⭐7)](https://github.com/Shengaero/kotlin-json) - A lightweight, stylistic, optimized, and multiplatform JSON library for Kotlin-JVM and Kotlin-JS
-*   [fboldog/ext4klaxon (⭐8)](https://github.com/fboldog/ext4klaxon) - Type Extensions (Long, Int, Enum, Date) for Klaxon.
 *   [s4kibs4mi/kotlin-jsonq (⭐30)](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
 
 ### Libraries/Frameworks / Database
 
 *   [shyiko/levelkt (⭐14)](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
-*   [SubiyaCryolite/jds (⭐19)](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
-*   [fluidsonic/fluid-mongo (⭐29)](https://github.com/fluidsonic/fluid-mongo) - Coroutine support for MongoDB built on top of the official Reactive Streams Java Driver
+*   [SubiyaCryolite/jds (⭐20)](https://github.com/SubiyaCryolite/jds) - Jenesis Data Store: a dynamic, cross platform, high performance, ORM data-mapper. Designed to assist in rapid development and data mining.
+*   [fluidsonic/fluid-mongo (⭐31)](https://github.com/fluidsonic/fluid-mongo) - Coroutine support for MongoDB built on top of the official Reactive Streams Java Driver
 
 ### Libraries/Frameworks / Tools
 
@@ -276,16 +265,16 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Compiler Plugins
 
-*   [aafanasev/sekret (⭐86)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
-*   [AhmedMourad0/no-copy (⭐138)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
+*   [aafanasev/sekret (⭐89)](https://github.com/aafanasev/sekret) - Kotlin compiler plugin to exclude secret properties from toString() of Data class
+*   [AhmedMourad0/no-copy (⭐143)](https://github.com/AhmedMourad0/no-copy) - A Kotlin compiler plugin that performs 'copy-erasure' on data classes.
 
 ### Libraries/Frameworks / Continuous Integration
 
-*   [danger/kotlin (⭐419)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
+*   [danger/kotlin (⭐428)](https://github.com/danger/kotlin) - Stop saying "you forgot to …" in code review in Kotlin
 
 ### Libraries/Frameworks / Code Generators
 
-*   [jhipster/jhipster-kotlin (⭐432)](https://github.com/jhipster/jhipster-kotlin) - A scaffold generator to generate web apps or APIs using springboot and angularJS or React
+*   [jhipster/jhipster-kotlin (⭐434)](https://github.com/jhipster/jhipster-kotlin) - A scaffold generator to generate web apps or APIs using springboot and angularJS or React
 
 ### Libraries/Frameworks / Desktop
 
@@ -297,7 +286,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Libraries/Frameworks / Misc
 
-*   [KotlinNLP/SimpleDNN (⭐91)](https://github.com/KotlinNLP/SimpleDNN) - SimpleDNN is a machine learning lightweight open-source library part of KotlinNLP and has been designed to support relevant neural network architectures in natural language processing tasks.
+*   [KotlinNLP/SimpleDNN (⭐93)](https://github.com/KotlinNLP/SimpleDNN) - SimpleDNN is a machine learning lightweight open-source library part of KotlinNLP and has been designed to support relevant neural network architectures in natural language processing tasks.
 
 ### Libraries/Frameworks / Parsers
 
@@ -306,23 +295,23 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries/Frameworks / Extensions
 
 *   [hankdavidson/ktime (⭐24)](https://github.com/hankdavidson/ktime) - Extensions to the java8 time library
-*   [LukasForst/katlib (⭐69)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
+*   [LukasForst/katlib (⭐70)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/Vulkan (⭐49)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐8.2k)](https://github.com/SaschaWillems/Vulkan)
-*   [nwillc/ksvg (⭐74)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-*   [markaren/three.kt (⭐183)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
+*   [java-opengl-labs/Vulkan (⭐49)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐8.6k)](https://github.com/SaschaWillems/Vulkan)
+*   [nwillc/ksvg (⭐73)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
+*   [markaren/three.kt (⭐186)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [breandan/kotlingrad (⭐486)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [breandan/kotlingrad (⭐491)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 
 ### Libraries/Frameworks / Command Line Interface
 
-*   [leprosus/kotlin-cli (⭐38)](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
+*   [leprosus/kotlin-cli (⭐37)](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
 *   [jimschubert/kopper (⭐40)](https://github.com/jimschubert/kopper) - A simple Kotlin option parser
 
 ### Projects / Web
@@ -339,18 +328,18 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Kotlin JavaScript / Frontend
 
-*   [olegcherr/Aza-Kotlin-CSS (⭐82)](https://github.com/olegcherr/Aza-Kotlin-CSS) - Kotlin DSL for CSS
+*   [olegcherr/Aza-Kotlin-CSS (⭐83)](https://github.com/olegcherr/Aza-Kotlin-CSS) - Kotlin DSL for CSS
 
 ### Kotlin JavaScript / Build Tools
 
-*   [huston007/kotlin-loader (⭐26)](https://github.com/huston007/kotlin-loader) - Kotlin webpack loader.
+*   [huston007/kotlin-loader (⭐25)](https://github.com/huston007/kotlin-loader) - Kotlin webpack loader.
 
 ### Kotlin Native / Projects
 
 *   [perses-games/konan-sfml (⭐18)](https://github.com/perses-games/konan-sfml) - Kotlin native with SFML example
-*   [JetBrains/kotlinconf-spinner (⭐602)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
+*   [JetBrains/kotlinconf-spinner (⭐612)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
 
-## [20. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -358,13 +347,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [Latinas in computing](https://latinasincomputing.org/) - A community created by and for the Latinas in Computing with a mission of promoting their representation and success in computing-related fields.
 *   [Latinas in tech](https://www.latinasintech.org/) - a non-profit organization with the aim to connect, support, and empower Latina women working in tech. We work hand in hand with top technology companies to create safe spaces for learning, mentorship and recruitment.
 
-## [21. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [20. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
 
-## [22. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [21. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### Design systems of some "known" companies
 
@@ -492,7 +481,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [Level up your Design System with styled-system](https://youtu.be/K8MF3aDg-bM?t=7280) - Women of React conf by [Taley'a Mirza](https://twitter.com/TaleyaMirza).
 *   [Maintaining Design Systems](https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video) - Helps you learn how to keep your system and the products it serves in sync and understand how to maintain and evolve your design system to give your users get the best possible experience by Brad Frost (Front-end designer).
 
-## [23. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [22. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Official resources
 
@@ -506,15 +495,15 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Tools
 
-*   [terraform.py (⭐445)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
+*   [terraform.py (⭐449)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 
-## [24. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key-value Data Model
 
 *   [Graviton (⭐404)](https://github.com/deroproject/graviton) - a simple, fast, versioned, authenticated, embeddable key-value store database in pure Go(lang).
 
-## [25. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [24. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Conferences / Slides
 
@@ -525,13 +514,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 *   [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new must-know PHP framework
 
-## [26. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [25. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Product Configurators
 
 *   [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 
-## [27. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [26. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities / Other
 
@@ -558,19 +547,19 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
     "The world's biggest conference for the world's smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
 *   [Bunifu UI Framework](https://bunifuframework.com) - Carefully crafted Winforms controls and components for creating stunning modern application UI. **\[$]**
 
-## [29. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [28. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Lighting / Lighting Software
 
 *   [Freestyler](http://www.freestylerdmx.be/) - Free lightning control software
 
-## [30. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [29. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Math
 
@@ -581,42 +570,42 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [mime-type-check (⭐5)](https://github.com/RocktimSaikia/mime-type-check) - Get the MIME type of a file by its extension.
 
-## [31. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [30. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Language Bindings
 
-*   [Mobius (⭐935)](https://github.com/Microsoft/Mobius) <img src="https://img.shields.io/github/last-commit/Microsoft/Mobius.svg"> - C# bindings (Deprecated in favor of .NET for Apache Spark).
+*   [Mobius (⭐940)](https://github.com/Microsoft/Mobius) <img src="https://img.shields.io/github/last-commit/Microsoft/Mobius.svg"> - C# bindings (Deprecated in favor of .NET for Apache Spark).
 *   [.NET for Apache Spark (⭐1.9k)](https://github.com/dotnet/spark) <img src="https://img.shields.io/github/last-commit/dotnet/spark.svg"> - .NET bindings.
 
 ### Packages / Utilities
 
-*   [pyspark-stubs (⭐114)](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
+*   [pyspark-stubs (⭐113)](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
 
-## [32. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [31. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Working with types
 
 *   [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 
-## [33. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [32. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Zenhub](https://www.zenhub.com/) - Project management inside of GitHub, including kanban boards and more.
 
-## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [33. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Code Analysis and Linters
 
-*   [Camelot (⭐35)](https://github.com/upenn-cis1xx/camelot) - Camelot is a modular and fully configurable OCaml linter and stylechecker.
+*   [Camelot (⭐36)](https://github.com/upenn-cis1xx/camelot) - Camelot is a modular and fully configurable OCaml linter and stylechecker.
 
-## [35. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [34. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Technologic](https://esolangs.org/wiki/Technologic) - Language in which programs look like the lyrics to the Daft Punk song Technologic.
 
-## [36. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [35. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
@@ -643,15 +632,15 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Analysis / Harmonic Analysis
 
-*   [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/\~jos/mdft) - Julius O. Smith III (Stanford University)
+*   [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
 
-## [37. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [36. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Editors
 
 *   [ved (⭐1.2k)](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 
-## [38. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [37. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Books / Books for Algorithms
 
@@ -673,35 +662,35 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 
 
-## [39. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [38. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Jobs
 
 *   [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
 
-## [40. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [39. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
-### Examples / Articles by   [Fireslime](https://fireslime.xyz/)
+### Examples / Articles by [Fireslime](https://fireslime.xyz/)
 
-*   [Maze generator (⭐11)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
+*   [Maze generator (⭐12)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
 
-### Official / Articles by   [Fireslime](https://fireslime.xyz/)
+### Official / Articles by [Fireslime](https://fireslime.xyz/)
 
 *   [flame\_gamepad (⭐45)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
 *   [flame\_geom (⭐5)](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
-*   [flame\_scrolling\_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
+*   [flame\_scrolling\_sprite (⭐20)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
 
-### Community / Articles by   [Fireslime](https://fireslime.xyz/)
+### Community / Articles by [Fireslime](https://fireslime.xyz/)
 
 *   [flame\_texturepacker (⭐17)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 
-## [41. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Calendars
 
-*   [vdirsyncer (⭐1.2k)](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
+*   [vdirsyncer (⭐1.3k)](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 
-## [42. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [41. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -787,11 +776,11 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | ---: |
 |   2 - 8 |        6 |  20m |
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Logging / Barcode
 
-*   [HeliumLogger (⭐174)](https://github.com/Kitura/HeliumLogger) :penguin: - IBM's lightweight logging framework.
+*   [HeliumLogger (⭐176)](https://github.com/Kitura/HeliumLogger) :penguin: - IBM's lightweight logging framework.
 
 ### Network / Barcode
 
@@ -799,7 +788,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Socket / Barcode
 
-*   [BlueSocket (⭐1.3k)](https://github.com/Kitura/BlueSocket) - IBM's cross platform low level socket framework.
+*   [BlueSocket (⭐1.4k)](https://github.com/Kitura/BlueSocket) - IBM's cross platform low level socket framework.
 *   [BlueSSLService (⭐91)](https://github.com/Kitura/BlueSSLService) - SSL/TLS add-in for IBM's low level socket framework.
 
 ### Webserver / Barcode
@@ -812,28 +801,28 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Cryptography / Barcode
 
-*   [BlueCryptor (⭐184)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
-*   [BlueRSA (⭐124)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
+*   [BlueCryptor (⭐185)](https://github.com/Kitura/BlueCryptor) - IBM's Cross Platform Crypto library.
+*   [BlueRSA (⭐125)](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
 
 ### System / Barcode
 
-*   [BlueSignals (⭐91)](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
+*   [BlueSignals (⭐92)](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
 
-## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
-*   [nCine (⭐803)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
+*   [nCine (⭐839)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
 ### Robotics
 
-*   [YARP (Yet Another Robot Platform) (⭐451)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
+*   [YARP (Yet Another Robot Platform) (⭐454)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
-## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Alpine.js (⭐22k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
+*   [Alpine.js (⭐24k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 *   [inferno (⭐16k)](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 ### Templating Engines / Runner
@@ -842,33 +831,33 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Number / Runner
 
-*   [Quaternion.js (⭐103)](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+*   [Quaternion.js (⭐111)](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
 
 ### Scroll / Other
 
-*   [rellax (⭐6.7k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
+*   [rellax (⭐6.8k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
 
-## [46. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [45. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
 *   [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)\[FREE] - Loom is a video recording tool that helps you get your message across through instantly shareable videos.
 
-## [47. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [46. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Components
 
 *   [`<player-x>`](https://github.com/playerxo/playerx) - Media player web component.
 *   [`<vime-player>`](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player.
 
-## [48. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [47. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 
 *   [2019 DevConf | Fine - Grained Authorization with Keycloak SSO (Marek Posolda)](https://www.youtube.com/watch?v=yosg4St0iUw)
 *   [2019 VoxxedDays Minsk | Bilding an effective identity and access management architecture with Keycloak (Sebastien Blanc)](https://www.youtube.com/watch?v=RupQWmYhrLA)
 
-## [49. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [48. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -877,7 +866,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Cepton](https://www.cepton.com/index.html) - Cepton (Cepton Technologies, Inc.) / pioneers in frictionless, and mirrorless design, self-developed MMT (micro motion technology) lidar technology. The headquarter is located in San Jose, California, USA.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
 
-## [50. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [49. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Package suites
 
@@ -894,29 +883,29 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   **[POA (⭐61)](https://github.com/ljdursi/poapy)** - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. \[ [paper-2002](https://academic.oup.com/bioinformatics/article/18/3/452/236691) ]
 
-## [51. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [50. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Tech / Europe
 
 *   [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
 
-## [52. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [51. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Health and Fitness
 
 *   [Covid19-Tracker (⭐34)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
 
-## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Minisauras (⭐46)](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 
-## [54. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [53. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
-*   [cONNXr (⭐146)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
+*   [cONNXr (⭐150)](https://github.com/alrevuelta/cONNXr) - An `ONNX` runtime written in pure C (99) with zero dependencies focused on small embedded devices. Run inference on your machine learning models no matter which framework you train it with. Easy to install and compiles everywhere, even in very old devices.
 
 ### C / Computer Vision
 
@@ -924,19 +913,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐383)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐384)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### C++ / General-Purpose Machine Learning
 
-*   [skynet (⭐61)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
-*   [Hopsworks (⭐873)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
+*   [skynet (⭐62)](https://github.com/Tyill/skynet) - A library for learning neural networks, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
+*   [Hopsworks (⭐914)](https://github.com/logicalclocks/hopsworks) - A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 
 ### Python / Natural Language Processing
 
 *   [colibri-core (⭐122)](https://github.com/proycon/colibri-core) - Python binding to C++ library for extracting and working with basic linguistic constructions such as n-grams and skipgrams in a quick and memory-efficient way.
 *   [genius (⭐237)](https://github.com/duanhongyi/genius) - A Chinese segment based on Conditional Random Field.
-*   [python-zpar (⭐49)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐134)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
-*   [DeepPavlov (⭐6.1k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
+*   [python-zpar (⭐49)](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar (⭐133)](https://github.com/frcchang/zpar), a statistical part-of-speech-tagger, constituency parser, and dependency parser for English.
+*   [DeepPavlov (⭐6.2k)](https://github.com/deepmipt/DeepPavlov/) - conversational AI library with many pre-trained Russian NLP models.
 
 ### C++ / Sequence Analysis
 
@@ -970,32 +959,32 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MLPNeuralNet (⭐897)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
-*   [BPN-NeuralNetwork (⭐33)](https://github.com/Kalvar/ios-BPN-NeuralNetwork) - It implemented 3 layers of neural networks ( Input Layer, Hidden Layer and Output Layer ) and it was named Back Propagation Neural Networks (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis. **\[Deprecated]**
+*   [MLPNeuralNet (⭐895)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **\[Deprecated]**
+*   [BPN-NeuralNetwork (⭐32)](https://github.com/Kalvar/ios-BPN-NeuralNetwork) - It implemented 3 layers of neural networks ( Input Layer, Hidden Layer and Output Layer ) and it was named Back Propagation Neural Networks (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis. **\[Deprecated]**
 *   [Multi-Perceptron-NeuralNetwork (⭐24)](https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - it implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Networks (BPN) and designed unlimited-hidden-layers.
 *   [KRHebbian-Algorithm (⭐12)](https://github.com/Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisor and self-learning algorithm (adjust the weights) in the neural network of Machine Learning. **\[Deprecated]**
 *   [KRKmeans-Algorithm (⭐23)](https://github.com/Kalvar/ios-KRKmeans-Algorithm) - It implemented K-Means  clustering and classification algorithm. It could be used in data mining and image compression. **\[Deprecated]**
 
 ### Python / Computer Vision
 
-*   [face\_recognition (⭐47k)](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
+*   [face\_recognition (⭐48k)](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
 *   [imutils (⭐4.3k)](https://github.com/jrosebr1/imutils) - A library containing Convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 
 ### Python / General-Purpose Machine Learning
 
-*   [ML Model building (⭐13)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
+*   [ML Model building (⭐14)](https://github.com/Shanky-21/Machine_learning) -> A Repository Containing Classification, Clustering, Regression, Recommender Notebooks with illustration to make them.
 *   [steppy (⭐135)](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces a very simple interface that enables clean machine learning pipeline design.
-*   [SimpleAI (⭐924)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
-*   [neuropredict (⭐94)](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
+*   [SimpleAI (⭐928)](https://github.com/simpleai-team/simpleai) Python implementation of many of the artificial intelligence algorithms described in the book "Artificial Intelligence, a Modern Approach". It focuses on providing an easy to use, well documented and tested library.
+*   [neuropredict (⭐96)](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
 *   [imbalanced-learn](https://imbalanced-learn.org/stable/) - Python module to perform under sampling and oversampling with various techniques.
 *   [stacked\_generalization (⭐114)](https://github.com/fukatani/stacked_generalization) - Implementation of machine learning stacking technique as a handy library in Python.
-*   [PyGrid (⭐617)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
+*   [PyGrid (⭐616)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
 ### Python / Data Analysis / Data Visualization
 
-*   [DataVisualization (⭐20)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
+*   [DataVisualization (⭐22)](https://github.com/Shanky-21/Data_visualization) - A GitHub Repository Where you can Learn Datavisualizatoin Basics to Intermediate level.
 *   [Mars (⭐2.6k)](https://github.com/mars-project/mars) - A tensor-based framework for large-scale data computation which is often regarded as a parallel and distributed version of NumPy.
-*   [pastalog (⭐417)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+*   [pastalog (⭐418)](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
 
 ### R / General-Purpose Machine Learning
 
@@ -1007,7 +996,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Sacred (⭐4k)](https://github.com/IDSIA/sacred) - Python tool to help  you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
 *   [MLFlow](https://mlflow.org/) - platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. Framework and language agnostic, take a look at all the built-in integrations.
 
-## [55. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [54. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -1023,7 +1012,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Use a Raspberry Pi with Netflix](https://thepi.io/how-to-watch-netflix-on-the-raspberry-pi/) - Tutorial on watching Netflix on a Raspberry Pi.
 
-## [56. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [55. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -1036,7 +1025,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [UnderJS Podcast](https://underjs.ru/) - Podcast about JS, React Native, Nodejs.
 
-## [57. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [56. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utils & Infra / Navigation Demos
 
@@ -1063,7 +1052,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [react-native-colibri ★5 (⭐10)](https://github.com/nidorx/react-native-colibri) - React Native Generic UI Components.
 
-## [58. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
+## [57. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
 ### News 📰 / Finding Articles
 
@@ -1180,6 +1169,36 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Benefit Corporation](https://en.wikipedia.org/wiki/Benefit_corporation) - A type of for-profit corporate entity, authorized by 35 U.S. states.
 *   [B Corp Certification](https://en.wikipedia.org/wiki/B_Corporation_\(certification\)) - Certificate issued for existing for profit organizations demonstrating social responsibility.
 
+## [58. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Custom Communication Systems
+
+*   [Papercups](https://papercups.io/) - An open source live customer chat web app written in Elixir. ([Demo](https://app.papercups.io/demo), [Source Code (⭐5.3k)](https://github.com/papercups-io/papercups)) `MIT` `Elixir`
+
+### Software / Communication - Email - Complete Solutions
+
+*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2.3k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
+
+### Software / File Transfer & Synchronization
+
+*   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐11k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
+
+### Software / Miscellaneous
+
+*   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐10k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
+
+### Software / Resource Planning - Enterprise Resource Planning
+
+*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐4k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
+
+### Software / Search Engines
+
+*   [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([Source Code (⭐13k)](https://github.com/typesense/typesense)) `GPL-3.0` `C++`
+
+### Software / Ticketing
+
+*   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Demo](https://demo.erxes.io/), [Source Code (⭐2.8k)](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`
+
 ## [59. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Social
@@ -1194,18 +1213,18 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Third-Party Packages / General
 
-*   [django-filter (⭐3.9k)](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
-*   [django-guardian (⭐3.3k)](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
-*   [django-sql-explorer (⭐2k)](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
-*   [django-tables2 (⭐1.6k)](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
+*   [django-filter (⭐4k)](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
+*   [django-guardian (⭐3.4k)](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
+*   [django-sql-explorer (⭐2.1k)](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
+*   [django-tables2 (⭐1.7k)](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 
 ### Third-Party Packages / Views
 
-*   [django-easy-audit (⭐501)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
+*   [django-easy-audit (⭐550)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 
 ### Projects / Boilerplate
 
-*   [djangox (⭐1.5k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
+*   [djangox (⭐1.6k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 
 ## [61. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -1213,41 +1232,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Stock Market Analysis using Stacked Ensemble Learning Method (⭐0)](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  Malkar Takle. (2020)
 
-## [62. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Communication - Custom Communication Systems
-
-*   [Papercups](https://papercups.io/) - An open source live customer chat web app written in Elixir. ([Demo](https://app.papercups.io/demo), [Source Code (⭐5.2k)](https://github.com/papercups-io/papercups)) `MIT` `Elixir`
-
-### Software / Communication - Email - Complete Solutions
-
-*   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2.2k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
-
-### Software / File Transfer & Synchronization
-
-*   [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code (⭐10k)](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
-
-### Software / Miscellaneous
-
-*   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐10k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
-
-### Software / Resource Planning - Enterprise Resource Planning
-
-*   [Dolibarr](https://www.dolibarr.org/) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ([Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code (⭐3.8k)](https://github.com/Dolibarr/dolibarr)) `GPL-3.0-or-later` `PHP`
-
-### Software / Search Engines
-
-*   [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([Source Code (⭐13k)](https://github.com/typesense/typesense)) `GPL-3.0` `C++`
-
-### Software / Software Development - Project Management
-
-*   [Microgit (⭐52)](https://github.com/microgit-com/microgit) - Git hosting service made in Crystal and Lucky. `MIT` `Crystal`
-
-### Software / Ticketing
-
-*   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Demo](https://demo.erxes.io/), [Source Code (⭐2.7k)](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`
-
-## [63. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [62. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ionic
 
@@ -1270,7 +1255,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
-## [64. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [63. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
@@ -1282,22 +1267,22 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Tools / Misc Tools
 
-*   [mitmproxy (⭐29k)](https://github.com/mitmproxy/mitmproxy)
-*   [dockerfile/androguard (⭐35)](https://github.com/dweinstein/dockerfile-androguard)
+*   [mitmproxy (⭐31k)](https://github.com/mitmproxy/mitmproxy)
+*   [dockerfile/androguard (⭐36)](https://github.com/dweinstein/dockerfile-androguard)
 *   [Android Vulnerability Test Suite (⭐1k)](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 *   [AppMon (⭐1.4k)](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
-*   [Internal Blue (⭐531)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
-*   [Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices
+*   [Internal Blue (⭐587)](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
+*   ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Damn Insecure Vulnerable Application (DIVA) (⭐757)](https://github.com/payatu/diva-android)
-*   [Vuldroid (⭐39)](https://github.com/jaiswalakshansh/Vuldroid)
+*   [Damn Insecure Vulnerable Application (DIVA) (⭐816)](https://github.com/payatu/diva-android)
+*   [Vuldroid (⭐46)](https://github.com/jaiswalakshansh/Vuldroid)
 *   [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
-*   [GoatDroid (⭐227)](https://github.com/jackMannino/OWASP-GoatDroid-Project)
-*   [Android InsecureBank (⭐981)](https://github.com/dineshshetty/Android-InsecureBankv2)
+*   [GoatDroid (⭐230)](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+*   [Android InsecureBank (⭐1.1k)](https://github.com/dineshshetty/Android-InsecureBankv2)
 
-## [65. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [64. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### Resources / Articles
 
@@ -1307,38 +1292,38 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [AppImage: Portable applications for Linux](https://www.youtube.com/watch?v=nzZ6Ikc7juw) - Official AppImage introduction video by its founder.
 
-## [66. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [65. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
 *   [Google Charts](https://developers.google.com/chart) - Interactive charts for browsers and mobile devices.
 
-## [67. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [66. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
 *   [How To Move Your Organization From Fear To Fearlessness](https://liberationist.org/how-to-move-your-organization-from-fear-to-fearlessness/) - By Gustavo Razzetti.
 
-## [68. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [67. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
 *   [Splashbase](http://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
 *   [Streetwill](http://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 
-## [69. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [68. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [Fwitter (⭐2.3k)](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
 
-## [70. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [69. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Web Development
 
 *   [snunit (⭐86)](https://github.com/lolgab/snunit) - Scala Native HTTP server based on NGINX Unit.
 
-## [71. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [70. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -1354,7 +1339,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Life of an SRE at Google - JC van Winkel](https://www.youtube.com/watch?v=7Oe8mYPBZmw)
 
-## [72. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [71. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Binary files examination and editing / Other
 
@@ -1368,13 +1353,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [prompt(1) to win](http://prompt.ml/) - XSS Challenges
 
-## [73. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [72. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Social Networking
 
 *   [Thredded (⭐1.5k)](https://github.com/thredded/thredded) - Rails 4.2+ forums/messageboards engine. Its goal is to be as simple and feature rich as possible.
 
-## [74. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [73. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Audio
 
@@ -1384,7 +1369,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Vimeo](https://vimeo.com/) - Paid - Embeddable videos with no ads.
 
-## [75. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [74. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Wrappers
 
@@ -1393,10 +1378,10 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Iteration
 
-*   [trivial-do (⭐14)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [trivial-do (⭐15)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [picl (⭐15)](https://github.com/anlsh/picl) - An (almost) complete port of Python's itertools package, complete with laziness where applicable, and not relying on cl-cont. [MIT](https://opensource.org/licenses/MIT).
 
-## [76. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [75. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -1426,7 +1411,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 
 
-## [77. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [76. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Wikis
 
@@ -1444,13 +1429,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Hawkeye (⭐358)](https://github.com/hawkeyesec/scanner-cli) - *Hawkeyesec* - Modularised CLI tool for project security, vulnerability and general risk highlighting.
 
-## [78. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [77. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Science / Other
 
 *   [BioJava](https://biojava.org/) - Facilitates processing biological data by providing algorithms, file format parsers, sequencing and 3D visualization commonly used in bioinformatics.
 
-## [79. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [78. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Pastebins
 
@@ -1481,19 +1466,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [OnionScan (⭐2.5k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
-## [80. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [79. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
-*   [Pant (⭐18)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐20k)](https://github.com/youzan/vant).
+*   [Pant (⭐25)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐21k)](https://github.com/youzan/vant).
 
-## [81. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [80. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Principles
 
 *   [Flexibility](https://medium.com/faun/flexibility-a-software-architecture-principle-6eafe045a1d4) - Able to adapt to changes in both environment and usability requirements without encompassing structural changes.
 
-## [82. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
+## [81. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
 
 ### Apps / Readers
 
@@ -1512,13 +1497,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [zxing (⭐30k)](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
 
-## [83. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [82. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Trust & Safety / Moderation
 
 *   [Keep out the bad apples: How to moderate a marketplace](https://twosided.substack.com/p/keep-out-the-bad-apples-how-to-moderate) - “With great power comes great responsibility. Some of my tips and tricks to make your marketplace a safer place.”
 
-## [84. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [83. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Fast Packet Processing
 
@@ -1534,7 +1519,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Exploits & Payloads / Development
 
-*   [PayloadsAllTheThings (⭐42k)](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+*   [PayloadsAllTheThings (⭐48k)](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ### Operating Systems / Online resources
 
@@ -1544,7 +1529,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [AWS Security](https://www.manning.com/books/aws-security?utm_source=github\&utm_medium=organic\&utm_campaign=book_shields_aws_1_31_20) - This early-access book covers commong AWS security issues and best practices for access policies, data protection, auditing, continuous monitoring, and incident response.
 
-## [85. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [84. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Add-ons / Third Party Add-ons
 
@@ -1554,7 +1539,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [AppDaemon (⭐689)](https://github.com/AppDaemon/appdaemon) - AppDaemon is a loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
 
-## [86. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [85. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Search
 
@@ -1568,7 +1553,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Nova Elixir (⭐8)](https://github.com/stollcri/elixir.novaextension) - Syntax highlighting and code completion for Elixir files (.ex, .exs, .eex) in Nova.
 
-## [87. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [86. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -1583,7 +1568,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 *   [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
 
-## [88. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [87. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Videos / Automation
 
@@ -1594,29 +1579,25 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [State of the Headless CMS Market 2020 report](https://tracker.kontent.ai/592920/state-of-the-headless-cms-market-2020)
 *   [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
 
-## [89. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [88. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐641)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐695)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ### Miscellaneous
 
-*   [react-advanced-news-ticker (⭐33)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+*   [react-advanced-news-ticker (⭐36)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 
 ### Miscellaneous / Lazy Load
 
-*   [component-controls (⭐73)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
+*   [component-controls (⭐75)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
 
-## [90. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [89. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
 *   [API Mocha](https://apimocha.com) - Completely free online API mocking for testing and prototyping.  Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.
-
-### Email
-
-*   [mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
 
 ### Issue Tracking and Project Management
 
@@ -1630,7 +1611,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [smsreceivefree.com](https://smsreceivefree.com/) — Provides free temporary and disposable phone numbers.
 
-## [91. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+## [90. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
 
 ### Demos / Program generation and analysis
 
@@ -1640,7 +1621,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 
-## [92. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [91. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -1652,7 +1633,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Resources / Examples
 
-*   [COVID19 Live Data Component (⭐10)](https://github.com/snturk/covid19-vue-component) - Simple component that shows live covid19 data across the world.
+*   [COVID19 Live Data Component (⭐11)](https://github.com/snturk/covid19-vue-component) - Simple component that shows live covid19 data across the world.
 *   [vue-stack-cesium (⭐15)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 
 ### Resources / Books
@@ -1662,22 +1643,22 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Projects Using Vue.js / Open Source
 
 *   [jsettlers-web (⭐24)](https://github.com/generateui/jsettlers-web) - Popular German board game to build hexes, settlements, cities, roads with earned resources
-*   [Roast (⭐301)](https://github.com/serversideup/roastandbrew) - An app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
-*   [Buefy Shop (⭐247)](https://github.com/14nrv/buefy-shop) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
-*   [sysmon (⭐114)](https://github.com/Lt0/sysmon) - A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere.
-*   [eth-vue (⭐244)](https://github.com/DOkwufulueze/eth-vue) - A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
-*   [Nippon-color (⭐104)](https://github.com/ssshooter/nippon-color) - Inspired by nipponcolors dot com. This is a nippon-color PWA build with vue-cli 3.
+*   [Roast (⭐302)](https://github.com/serversideup/roastandbrew) - An app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
+*   [Buefy Shop (⭐250)](https://github.com/14nrv/buefy-shop) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
+*   [sysmon (⭐115)](https://github.com/Lt0/sysmon) - A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere.
+*   [eth-vue (⭐243)](https://github.com/DOkwufulueze/eth-vue) - A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
+*   [Nippon-color (⭐106)](https://github.com/ssshooter/nippon-color) - Inspired by nipponcolors dot com. This is a nippon-color PWA build with vue-cli 3.
 *   [Saleina CMS (⭐26)](https://github.com/saleina/SaleinaCMS) - A static site content management system built with vue using git as a backend.
 *   [Vuido (⭐6.1k)](https://github.com/mimecorg/vuido) - A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components.
-*   [YouGet (⭐189)](https://github.com/ahmetzeybek/YouGet) - YouTube Video/Audio/Subtitle Downloader + Cutter
+*   [YouGet (⭐188)](https://github.com/ahmetzeybek/YouGet) - YouTube Video/Audio/Subtitle Downloader + Cutter
 *   [Vue Pug Stylus (⭐43)](https://github.com/wesssel/vue-pug-stylus) - Vue + Pug + Stylus boilerplate 💚 🐶 🖌
 *   [Crypto News (⭐27)](https://github.com/Bartozzz/crypto-news) - allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
-*   [Epiboard (⭐309)](https://github.com/Alexays/Epiboard) - A new tab page extension with material design and useful features :new: :tada:
+*   [Epiboard (⭐314)](https://github.com/Alexays/Epiboard) - A new tab page extension with material design and useful features :new: :tada:
 *   [zhudyos/duic (⭐291)](https://github.com/zhudyos/duic) - Distributed configuration center :new:
-*   [Vuemmerce (⭐391)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
-*   [Carpoolear (⭐83)](https://github.com/STS-Rosario/carpoolear) - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
-*   [RosterWebApp (⭐19)](https://github.com/SnakeyHips/RosterWebApp) - Open source rostering web application which allows the rostering of employees/teams to work sessions and other features.
-*   [Eplee (⭐315)](https://github.com/Janglee123/eplee) - Sweet, simple epub reader made with Vue.js and Electron.js.
+*   [Vuemmerce (⭐396)](https://github.com/ivanlori/Vuemmerce) - Free ecommerce template built with Vue.js and Bulma framework :new:
+*   [Carpoolear (⭐86)](https://github.com/STS-Rosario/carpoolear) - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
+*   [RosterWebApp (⭐20)](https://github.com/SnakeyHips/RosterWebApp) - Open source rostering web application which allows the rostering of employees/teams to work sessions and other features.
+*   [Eplee (⭐317)](https://github.com/Janglee123/eplee) - Sweet, simple epub reader made with Vue.js and Electron.js.
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -1693,32 +1674,32 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [vue-tooltipster (⭐6)](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events.
 *   [@bananajs/vue3-book-component (⭐5)](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
 *   [@bananajs/vue2-book-component (⭐2)](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
-*   [vue-image-zoomer (⭐43)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
-*   [vue3-scroll-picker (⭐19)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+*   [vue-image-zoomer (⭐49)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
+*   [vue3-scroll-picker (⭐20)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-inline-svg (⭐155)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+*   [vue-inline-svg (⭐163)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 
 ### Components & Libraries / Integrations
 
 *   [vue-cli-plugin-cordova (⭐410)](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI Plugin to add Cordova easily to your project
 *   [vue-cli-plugin-component (⭐88)](https://github.com/David-Desmaisons/vue-cli-plugin-component) - Vue CLI Plugin to create component
 *   [vue-cli-plugin-modular-vuex (⭐6)](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) - Vue CLI Plugin to create modular Vuex store files
-*   [vue-cli-plugin-element (⭐20)](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI Plugin to build an enterprise application with element-ui in seconds
+*   [vue-cli-plugin-element (⭐21)](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI Plugin to build an enterprise application with element-ui in seconds
 *   [vue-cli-plugin-electron-builder (⭐4k)](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI Plugin for Electron with no required configuration that uses Electron Builder.
 *   [vue-cli-plugin-kami (⭐2)](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI Plugin with work-made architecture for quickly start your app
 *   [vue-cli-plugin-clean (⭐19)](https://github.com/DevTony101/vue-cli-plugin-clean) - Vue CLI Plugin to help you clean and quickly set up your Vue app by adding some common tools and patterns
-*   [vue-cli-plugin-mock (⭐27)](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
+*   [vue-cli-plugin-mock (⭐30)](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
 *   [vue-cli-plugin-ci (⭐10)](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI Plugin to generate CI agent config file to start project with CI
 
-## [93. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [92. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Open Source / Community
 
-*   [TroisJS (⭐3.2k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
+*   [TroisJS (⭐3.5k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 
-## [94. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
+## [93. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
 ### Past announcements:
 
@@ -1784,15 +1765,15 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   2020-08-08 [Talking Machine Learning with Hoi Lam](https://anchor.fm/talkingwithapples/episodes/Talking-Machine-Learning-with-Hoi-Lam-eiaj7v).
 
-## [95. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [94. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Product Catalog / Market Research
 
-*   [Akeneo PIM (⭐881)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐891)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐95)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐100)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
 ### Payments / Bank Accounts
@@ -1803,7 +1784,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
 
-## [96. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [95. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Credit Scoring
 
@@ -1826,13 +1807,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Machine learning explainability in finance: an application to default risk analysis](https://www.bankofengland.co.uk/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis) - This Staff Working Paper from the Bank of England proposes a framework for addressing the ‘black box’ problem present in some Machine Learning (ML) applications.
 
-## [97. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [96. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Services
 
-*   [deps.rs (⭐374)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
+*   [deps.rs (⭐383)](https://github.com/deps-rs/deps.rs) — Detect outdated or insecure dependencies
 
-## [98. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [97. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Roles / Engineers
 
@@ -1870,7 +1851,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   “*People do get pissed off in clusters* is the best description of a team/company meltdown that I've ever seen.” ([source](https://news.ycombinator.com/item?id=19755001))
 
-## [99. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [98. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Streaming Sites / HD Streaming
 
@@ -1880,7 +1861,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Sci-Hub](https://sci-hub.se/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
 
-## [100. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [99. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / Teensy
 
@@ -1890,7 +1871,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [TSIC](https://crates.io/crates/tsic) - GPIO - TSIC 306 temperature sensor driver - [Intro blog post](https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/) ![crates.io](https://img.shields.io/crates/v/tsic.svg)
 
-## [101. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [100. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -1903,7 +1884,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### GEO
 
-*   [mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
 *   [Radar](https://radar.io/) - Geofencing and geo APIs.
 
 ### Localization
@@ -1926,17 +1906,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Applitools](https://applitools.com/) - Automated visual testing.
 
-## [102. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [101. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Build and Package / MIT
 
 *   [ada4cmake (⭐4)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 
-## [103. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [102. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   💙📚 [Headless UI (⭐19k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
+*   💙📚 [Headless UI (⭐21k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
 
 ### Tools
 
@@ -1944,17 +1924,23 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   🌍 [tailzilla.app](https://tailzilla.app) - Online playground for Tailwind CSS.
 *   🔼🌍 [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) - Converts CSS to Tailwind CSS by suggesting classes that best match.
 
-## [104. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [103. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
 *   [gatling-sbt-plugin (⭐105)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 
-## [105. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [104. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Related awesomeness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [ethical.net](https://ethical.net/resources/) - Ethical alternatives & resources.
+
+## [105. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Financial Instruments and Pricing
+
+*   [FinancePy (⭐1.4k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
 ## [106. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
@@ -2042,20 +2028,20 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Bootstrap Based / Components
 
 *   [fuel-ui (⭐302)](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
-*   [@firebaseui/ng-bootstrap (⭐47)](https://github.com/firebaseui/ng-bootstrap) - Angular Bootstrap UI library for `firebase` `authentication` powered by @ng-bootstrap
+*   [@firebaseui/ng-bootstrap (⭐48)](https://github.com/firebaseui/ng-bootstrap) - Angular Bootstrap UI library for `firebase` `authentication` powered by @ng-bootstrap
 *   [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) Material Design for Bootstrap 4 (Angular)
 *   [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
-*   [ng2-bootstrap (⭐5.4k)](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
+*   [ng2-bootstrap (⭐5.5k)](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
 *   [ng2-bs (⭐8)](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 *   [ng2-modal (⭐108)](https://github.com/pleerock/ngx-modal) Modal window for angular2 and bootstrap 3
 *   [ng2-paginator (⭐30)](https://github.com/pleerock/ngx-paginator) Pagination control for angular2 and bootstrap 3
-*   [ng2-tabs (⭐38)](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
+*   [ng2-tabs (⭐36)](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 
 ### Generators / Components
 
 *   Dart
     *   Stagehand
-        *   [dart-lang/stagehand (⭐669)](https://github.com/dart-lang/stagehand)
+        *   [dart-lang/stagehand (⭐663)](https://github.com/dart-lang/stagehand)
 
 ### Developer tools / Components
 
@@ -2067,149 +2053,149 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Animations / Components
 
-*   [lottie-angular2 (⭐327)](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
-*   [ng-animate (⭐700)](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
-*   [ngx-interactive-paycard (⭐77)](https://github.com/milantenk/ngx-interactive-paycard) - Interactive payment card library with smooth animations
+*   [lottie-angular2 (⭐335)](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
+*   [ng-animate (⭐706)](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
+*   [ngx-interactive-paycard (⭐78)](https://github.com/milantenk/ngx-interactive-paycard) - Interactive payment card library with smooth animations
 
 ### Auth Components / Components
 
-*   [casl-angular (⭐4.3k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐4.3k)](https://github.com/stalniy/casl) with Angular2+
+*   [casl-angular (⭐4.8k)](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL (⭐4.8k)](https://github.com/stalniy/casl) with Angular2+
 *   [ng2-permission (⭐51)](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
-*   [ngx-auth-firebaseui (⭐581)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
+*   [ngx-auth-firebaseui (⭐585)](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
 *   [ngx-auth (⭐57)](https://github.com/fulls1z3/ngx-auth) -Authentication utility for Angular by @fulls1z3
-*   [ngx-permissions (⭐859)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
+*   [ngx-permissions (⭐875)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
 
 ### Backend Components / Components
 
 *   [Cloudinary (⭐307)](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
 *   [ng-s-resource (⭐8)](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
-*   [ngx-restangular (⭐783)](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
+*   [ngx-restangular (⭐782)](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
 
 ### Calendars / Components
 
 *   [angular-calendar (⭐2.5k)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
-*   [ng-data-picker (⭐22)](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
-*   [ng-fullcalendar (⭐907)](https://github.com/ng-fullcalendar/ng-fullcalendar) Fullcalendar module for Angular
+*   [ng-data-picker (⭐24)](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
+*   [ng-fullcalendar (⭐954)](https://github.com/ng-fullcalendar/ng-fullcalendar) Fullcalendar module for Angular
 
 ### Charts / Components
 
-*   [@ctrl/ngx-chartjs (⭐52)](https://github.com/TypeCtrl/ngx-chartjs) - Functional Chart.js wrapper for Angular
+*   [@ctrl/ngx-chartjs (⭐53)](https://github.com/TypeCtrl/ngx-chartjs) - Functional Chart.js wrapper for Angular
 *   [dl-chart (⭐9)](https://github.com/Chtau/dlChart) - Simple and lightweight Chart library without extern Dependencies
 *   [ng2-charts (⭐2.2k)](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
 *   [ngx-charts (⭐4.2k)](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 *   [ngx-f2 (⭐7)](https://github.com/hamdiwanis/ngx-f2) - Angular2+ wrapper for antv f2 mobile oriented charts
-*   [ngx-trend (⭐115)](https://github.com/scttcper/ngx-trend) - 📈 Simple, elegant spark lines for Angular
+*   [ngx-trend (⭐116)](https://github.com/scttcper/ngx-trend) - 📈 Simple, elegant spark lines for Angular
 
 ### Drag/Drop / Components
 
-*   [angular2-grid (⭐361)](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
+*   [angular2-grid (⭐360)](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
 *   [ng2-dragula (⭐1.9k)](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
 
 ### Editor Components / Components
 
-*   [@ctrl/ngx-codemirror (⭐247)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular
+*   [@ctrl/ngx-codemirror (⭐260)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular
 *   [@instechnologies/ng-rooster (⭐11)](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor
 *   [angular2-froala-wysiwyg (⭐725)](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
 *   [ng2-ace (⭐32)](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
-*   [ng2-quill-editor (⭐230)](https://github.com/surmon-china/ngx-quill-editor) - Quill editor component for Angular2
+*   [ng2-quill-editor (⭐228)](https://github.com/surmon-china/ngx-quill-editor) - Quill editor component for Angular2
 
 ### File Upload / Components
 
-*   [@ctrl/ngx-droppable (⭐35)](https://github.com/typectrl/ngx-droppable) - Give file dropping ability to any element or component
+*   [@ctrl/ngx-droppable (⭐34)](https://github.com/typectrl/ngx-droppable) - Give file dropping ability to any element or component
 *   [file-droppa (⭐0)](https://github.com/chenyukunJoshHub/fileDroppa) Simple files drop and upload component with files list
 *   [ng2-file-upload (⭐1.9k)](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 *   [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
-*   [ngx-dropzone (⭐123)](https://github.com/peterfreeman/ngx-dropzone) - Highly customizable component to handle file drops and selection.
-*   [ngx-flow (⭐54)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js (⭐2.9k)](https://github.com/flowjs/flow.js) for file upload
+*   [ngx-dropzone (⭐129)](https://github.com/peterfreeman/ngx-dropzone) - Highly customizable component to handle file drops and selection.
+*   [ngx-flow (⭐55)](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js (⭐2.9k)](https://github.com/flowjs/flow.js) for file upload
 
 ### Form Controls / Components
 
-*   [@ctrl/ngx-emoji-mart (⭐396)](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
-*   [angular-imask (⭐4k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) Angular 4+ input mask
-*   [angular2-multiselect-dropdown (⭐264)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
+*   [@ctrl/ngx-emoji-mart (⭐406)](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
+*   [angular-imask (⭐4.3k)](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) Angular 4+ input mask
+*   [angular2-multiselect-dropdown (⭐270)](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
 *   [angular2-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) Angular 2 input mask directive
 *   [ng-fveh (⭐6)](https://github.com/guilhermewaess/ng-fveh) - Form Validations Errors Helper - Some helpers to help you with form validation :)
-*   [ng-select (⭐3k)](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
-*   [ng2-dropdown (⭐68)](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
-*   [ng2-radio-group (⭐47)](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
-*   [ng2-select (⭐675)](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
-*   [ngx-color (⭐395)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
+*   [ng-select (⭐3.1k)](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
+*   [ng2-dropdown (⭐66)](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
+*   [ng2-radio-group (⭐46)](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
+*   [ng2-select (⭐674)](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
+*   [ngx-color (⭐399)](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 *   [ngx-credit-cards](https://www.npmjs.com/package/ngx-credit-cards) - A Credit Card Directives and Form Validators package for Angular X (4+).
-*   [ngx-flag-picker (⭐11)](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
+*   [ngx-flag-picker (⭐13)](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
 *   [ngx-flexible-select (⭐6)](https://github.com/andreysyagrovskiy/ngx-flexible-select) - The most flexible and customized select
-*   [ngx-recursive-form (⭐37)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input.
+*   [ngx-recursive-form (⭐36)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input.
 
 ### Icons / Components
 
-*   [angular2-fontawesome (⭐88)](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
+*   [angular2-fontawesome (⭐87)](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
 *   [ng2-fontawesome (⭐20)](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
 
 ### Keyboard Mouse / Components
 
-*   [@ctrl/ngx-rightclick (⭐74)](https://github.com/TypeCtrl/ngx-rightclick) - Context Menu Service for Angular
+*   [@ctrl/ngx-rightclick (⭐77)](https://github.com/TypeCtrl/ngx-rightclick) - Context Menu Service for Angular
 *   [angular-clickable-click (⭐5)](https://github.com/DanielKucal/angular-clickable-click) - Sets pointer cursor on elements using  standard `(click)` output and allows to disable such events
 *   [angular-esc (⭐3)](https://github.com/DanielKucal/angular-esc) - Adds `(esc)` output fired by the Escape key
 *   [ngx-konami (⭐34)](https://github.com/lauthieb/ngx-konami) - Simple directive to add easter eggs in Angular 2+ applications
 
 ### Layout Components / Components
 
-*   [angular-fullpage (⭐161)](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
-*   [angular-split (⭐714)](https://github.com/bertrandg/angular-split) Angular split component
+*   [angular-fullpage (⭐164)](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
+*   [angular-split (⭐737)](https://github.com/bertrandg/angular-split) Angular split component
 *   [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
-*   [egjs-infinitegrid (⭐1.4k)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
+*   [egjs-infinitegrid (⭐1.6k)](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 *   [ng2-card (⭐7)](https://github.com/c-bata/ng2-card) - Card view component for Angular2
-*   [ng2-fullpage (⭐284)](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
+*   [ng2-fullpage (⭐281)](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 *   [ng2-sheet (⭐2)](https://github.com/lexikteam/ng2-sheet) Angular2 Components to add yours components inside a sheet window and repeatedly
 *   [ng2-swipeable-card (⭐15)](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2
-*   [ngx-scrolltop (⭐19)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 *No dependencies. Pure Angular!* (Compatibility: Angular 9, Ivy, Universal, `ng add`)
+*   [ngx-scrolltop (⭐21)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 *No dependencies. Pure Angular!* (Compatibility: Angular 9, Ivy, Universal, `ng add`)
 *   [od-virtualscroll (⭐134)](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
 
 ### Loaders / Components
 
 *   [@kken94/ngx-progress (⭐21)](https://github.com/kKen94/ngx-progress)  The most powerful and customizable progress bar for Angular ✨
-*   [angular-epic-spinners (⭐158)](https://github.com/hackafro/angular-epic-spinners) Reusable spinner components for angular
-*   [angular2-busy (⭐320)](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
+*   [angular-epic-spinners (⭐163)](https://github.com/hackafro/angular-epic-spinners) Reusable spinner components for angular
+*   [angular2-busy (⭐319)](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
 *   [angular2-promise-buttons (⭐87)](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
 *   [isLoading? service](https://gitlab.com/service-work/is-loading) - A simple and flexible loading indicator service for Angular apps.
 *   [ng-spinners (⭐28)](https://github.com/JoshK2/ng-spinners) - Amazing collection of pure CSS angular spinners components.
 *   [ng2-progress-bar (⭐21)](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
 *   [ngx-config (⭐143)](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
 *   [ngx-img-fallback (⭐81)](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
-*   [ngx-progressbar (⭐922)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
+*   [ngx-progressbar (⭐943)](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 
 ### Maps / Components
 
-*   [angular-cesium (⭐173)](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
+*   [angular-cesium (⭐175)](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
 *   [angular2-google-maps (⭐2k)](https://github.com/SebastianM/angular-google-maps) Angular2 directives for Google Maps
-*   [ngx-mapbox-gl (⭐310)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js
+*   [ngx-mapbox-gl (⭐318)](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js
 
 ### Notifications / Components
 
 *   [ng-snotify (⭐320)](https://github.com/artemsky/ng-snotify/) - Angular 4 Notification Center
-*   [ng2-sweetalert2 (⭐49)](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
-*   [ngx-popper (⭐185)](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(<https://popper.js.org/>)
-*   [ngx-toastr (⭐2.2k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
+*   [ng2-sweetalert2 (⭐48)](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
+*   [ngx-popper (⭐183)](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(<https://popper.js.org/>)
+*   [ngx-toastr (⭐2.3k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
 
 ### State Management / Components
 
-*   [angular2-query-builder (⭐281)](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
-*   [angular2-jwt (⭐2.5k)](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
+*   [angular2-query-builder (⭐283)](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
+*   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
 *   [angular2-cookie (⭐111)](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
-*   [angular-safeguard (⭐78)](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
+*   [angular-safeguard (⭐76)](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 *   [ng2-storage (⭐14)](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
-*   [ngx-store (⭐167)](https://github.com/zoomsphere/ngx-store) - Complex library for managing `localStorage`, `sessionStorage` and cookies, allows to watch data changes, provides decorators and API based on builder pattern
+*   [ngx-store (⭐169)](https://github.com/zoomsphere/ngx-store) - Complex library for managing `localStorage`, `sessionStorage` and cookies, allows to watch data changes, provides decorators and API based on builder pattern
 *   [ng-http-cache (⭐25)](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
-*   [ngx-cache (⭐152)](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
+*   [ngx-cache (⭐155)](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 *   [universal-model-angular (⭐8)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
 
 ### Tables / Components
 
 *   [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
-*   [ng2-handsontable (⭐280)](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
+*   [ng2-handsontable (⭐276)](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 *   [ng2-smart-table (⭐1.6k)](https://github.com/akveo/ng2-smart-table) Smart data table library with sorting, filtering, pagination & add/edit/delete functions.
-*   [ng2-table (⭐558)](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
-*   [ngfb-sortable-table (⭐28)](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
-*   [ngx-datatable (⭐4.5k)](https://github.com/swimlane/ngx-datatable) A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
+*   [ng2-table (⭐559)](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
+*   [ngfb-sortable-table (⭐27)](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
+*   [ngx-datatable (⭐4.6k)](https://github.com/swimlane/ngx-datatable) A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
 
 ### General / Components
 
@@ -2217,15 +2203,15 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Axponents: of Accessible Web Components (Dylan Barrell) (⭐20)](https://github.com/dylanb/Axponents/tree/master/angular2)
 *   [Element Angular (⭐521)](https://github.com/ElemeFE/element-angular) - Element Design components built on top of Angular 2
 *   [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
-*   [Nebular (⭐7.7k)](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
-*   [NG ZORRO MOBILE (⭐768)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
-*   [NG ZORRO (⭐8.3k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
-*   [ng-lightning (⭐910)](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
-*   [ng-metro4 (⭐36)](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
-*   [ng-sq-ui (⭐100)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers! [![contributions welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=flat)](https://github.com/SQ-UI/ng-sq-ui/issues) [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
-*   [ngSemantic (⭐997)](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
-*   [ngx-qrcode2 (⭐187)](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
-*   [ngx-ui (⭐647)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
+*   [Nebular (⭐7.8k)](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
+*   [NG ZORRO MOBILE (⭐783)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
+*   [NG ZORRO (⭐8.4k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
+*   [ng-lightning (⭐911)](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
+*   [ng-metro4 (⭐37)](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
+*   [ng-sq-ui (⭐97)](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers! [![contributions welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=flat)](https://github.com/SQ-UI/ng-sq-ui/issues) [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
+*   [ngSemantic (⭐988)](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
+*   [ngx-qrcode2 (⭐189)](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
+*   [ngx-ui (⭐673)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 *   [prime-ng](https://www.primefaces.org/primeng/) Collection of rich UI components for Angular 2
 *   [vmware clarity (⭐6.5k)](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 *   [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
@@ -2233,48 +2219,48 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Material Based / Components
 
 *   [@angular-material-extensions/contacts (⭐45)](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
-*   [@angular-material-extensions/faq (⭐30)](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
+*   [@angular-material-extensions/faq (⭐31)](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
 *   [@angular-material-extensions/google-maps-autocomplete (⭐165)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design
-*   [@angular-material-extensions/link-preview (⭐57)](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
+*   [@angular-material-extensions/link-preview (⭐56)](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
 *   [@angular-material-extensions/pages (⭐51)](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
-*   [@angular-material-extensions/password-strength (⭐261)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
+*   [@angular-material-extensions/password-strength (⭐272)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
 *   [angular-jqwidgets](https://www.jqwidgets.com/angular/) Advanced Angular Components with Material Design.
 *   [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
 *   [Material 2 (⭐23k)](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
-*   [Teradata covalent (⭐2.2k)](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
+*   [Teradata covalent (⭐2.3k)](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
 
 ### UX Components / Components
 
-*   [angular-shepherd (⭐171)](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd (⭐11k)](https://github.com/shipshapecode/shepherd)
-*   [ng2-archwizard (⭐294)](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
-*   [ngx-app-tour (⭐18)](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
+*   [angular-shepherd (⭐177)](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd (⭐11k)](https://github.com/shipshapecode/shepherd)
+*   [ng2-archwizard (⭐295)](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
+*   [ngx-app-tour (⭐19)](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
 
 ### Viewers / Components
 
-*   [egjs-flicking (⭐2.2k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
+*   [egjs-flicking (⭐2.3k)](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
 *   [ng2-pdf-viewer (⭐1.2k)](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
-*   [ng2-safe-img (⭐9)](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
-*   [ngu-carousel (⭐300)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
+*   [ng2-safe-img (⭐10)](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
+*   [ngu-carousel (⭐302)](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
 *   [ngx-siema](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
 
 ### Misc Components / Components
 
-*   [@ngx-context (⭐131)](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees..
+*   [@ngx-context (⭐133)](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees..
 *   [Angular SizeObserver](https://gitlab.com/service-work/size-observer) - style DOM elements based on their display size (rather than browser screen size).
-*   [angular2-simple-countdown (⭐26)](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
-*   [ng-chat (⭐149)](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
-*   [ng-google-sheets-db (⭐33)](https://github.com/FranzDiebold/ng-google-sheets-db-library) :rocket: Use Google Sheets as your (read-only) backend!
-*   [ng-katex (⭐101)](https://github.com/garciparedes/ng-katex) Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library
-*   [ng-wormhole (⭐16)](https://github.com/topaxi/ng-wormhole) - Render components somewhere else in the DOM
-*   [ng2-adsense (⭐124)](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
-*   [ngx-avatar (⭐237)](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
+*   [angular2-simple-countdown (⭐27)](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
+*   [ng-chat (⭐150)](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
+*   [ng-google-sheets-db (⭐38)](https://github.com/FranzDiebold/ng-google-sheets-db-library) :rocket: Use Google Sheets as your (read-only) backend!
+*   [ng-katex (⭐100)](https://github.com/garciparedes/ng-katex) Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library
+*   [ng-wormhole (⭐17)](https://github.com/topaxi/ng-wormhole) - Render components somewhere else in the DOM
+*   [ng2-adsense (⭐126)](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
+*   [ngx-avatar (⭐239)](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 *   [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
-*   [ngx-countdown (⭐169)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
-*   [ngx-i18n-router (⭐36)](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
+*   [ngx-countdown (⭐172)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
+*   [ngx-i18n-router (⭐35)](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
 *   [ngx-linkifyjs (⭐41)](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
-*   [ngx-meta (⭐338)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
-*   [ngx-wheel (⭐25)](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
-*   [xng-breadcrumb (⭐178)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+*   [ngx-meta (⭐336)](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
+*   [ngx-wheel (⭐26)](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
+*   [xng-breadcrumb (⭐196)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 
 ### TypeScript General Resources / Components
 
@@ -2283,7 +2269,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### TypeScript Seed Projects / Components
 
-*   [Angular Lab (⭐148)](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout (⭐5.9k)](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
+*   [Angular Lab (⭐147)](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout (⭐5.9k)](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
 
 ### Ionic 2 in Angular 2 / Components
 
@@ -2296,7 +2282,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Babel Seed Projects / Components
 
-*   [babel-angular2-app (⭐264)](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
+*   [babel-angular2-app (⭐262)](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
 
 ### Meteor General Resources / Components
 
@@ -2321,7 +2307,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Web
 
-*   🔌 [SvelteFire (⭐582)](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
+*   🔌 [SvelteFire (⭐932)](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
 *   🔧 [Remote Styles with Remote Config (⭐64)](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 
 ### Other / iOS
@@ -2332,7 +2318,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Feature management
 
-*   [Unleash (⭐6.5k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
+*   [Unleash (⭐7.4k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
 ## [110. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 

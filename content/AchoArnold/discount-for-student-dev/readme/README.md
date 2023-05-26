@@ -2,7 +2,7 @@
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.5K · 🏷️ Miscellaneous
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list (⭐61k)](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list (⭐70k)](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -170,6 +170,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Iconscout](https://iconscout.com/github-students) \[FREE] - Iconscout is design resources marketplace to get high quality icons, illustrations and stock images.Download 60 premium icons per month for 1 year.
 
 *   [Themeisle](https://themeisle.com/github-students/)\[FREE] - Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone. Free year of Neve Agency WordPress theme exclusively for students.
+
+*   [MDBootstrap](https://mdbootstrap.com/general/mdb-edu/) \[FREE / DISCOUNT] - Set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages. Free tools worth $2049/year for all educational projects and 50% discount for a student.
 
 ## SaaS
 

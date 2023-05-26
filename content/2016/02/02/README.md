@@ -16,7 +16,7 @@
 
 ### GUI
 
-*   [GacUI (⭐2.1k)](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
+*   [GacUI (⭐2.2k)](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 

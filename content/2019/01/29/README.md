@@ -65,7 +65,7 @@
 
 ### General
 
-*   [BotMan (⭐5.7k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
+*   [BotMan (⭐5.8k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
 ## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Strong Naming
 
-*   [Strong Namer (⭐312)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
+*   [Strong Namer (⭐316)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
 ## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
@@ -188,7 +188,7 @@
 
 ### Miscellaneous
 
-*   [Moment (⭐76)](https://github.com/perfectworks/alfred-workflow-moment) - Advanced time utility, inspired by [moment.js](https://momentjs.com).
+*   [Moment (⭐78)](https://github.com/perfectworks/alfred-workflow-moment) - Advanced time utility, inspired by [moment.js](https://momentjs.com).
 
 ## [16. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 

@@ -107,7 +107,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cfonts (⭐1.3k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
+*   [cfonts (⭐1.4k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 
 ## [3. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

@@ -26,8 +26,8 @@
 
 ### Libraries Audio
 
-*   [standardized-audio-context (⭐458)](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
-*   [web-audio-beat-detector (⭐430)](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
+*   [standardized-audio-context (⭐489)](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
+*   [web-audio-beat-detector (⭐461)](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
 *   [meyda (⭐1.2k)](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 
 ## [4. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
@@ -60,8 +60,8 @@
 ### Computer Vision
 
 *   [EasyOCR (⭐17k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
-*   [Kornia (⭐7.6k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
-*   [pytesseract (⭐4.6k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
+*   [Kornia (⭐7.9k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
+*   [pytesseract (⭐4.7k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -104,13 +104,13 @@
 
 ### Tools / Presentations
 
-*   [reveal.js](https://revealjs.com) - Open source HTML presentation framework with Markdown support ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [reveal.js](https://revealjs.com) - Open source HTML presentation framework with Markdown support ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 
-*   [aws-cdk :fire::fire::fire::fire::fire: (⭐9.9k)](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code.
+*   [aws-cdk :fire::fire::fire::fire::fire: (⭐10k)](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code.
 
 ---
 

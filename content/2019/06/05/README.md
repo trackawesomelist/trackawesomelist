@@ -6,55 +6,22 @@
 
 
 
-## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [1. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### Agency Tools
-
-*   Route Trends ([webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub (⭐11)](https://github.com/metrotransit/route-trends)) - An R Shiny app to ingest ridership time series, and return seasonal, trend, and residual components according to [STL methodology](https://otexts.com/fpp2/stl.html) and forecasts including uncertainty based on those components.  Sponsored by [Metro Transit](https://www.metrotransit.org/) (Minneapolis-St. Paul).
-
-## [2. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tutorials / React General Tutorials
-
-*   [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
-
-### React Tutorials / React Hooks
-
-*   [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-*   [Replacing Redux with React Hooks and Context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
-*   [React Hooks cheat sheet: Unlock solutions to common problems](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
-*   [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
-*   [Easy to understand React Hook recipes](https://usehooks.com/)
-
-### React Tutorials / React Internals
-
-*   [Inside Fiber: In-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
-
-### React Tutorials / React Interview Questions
-
-*   [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
-*   [List of React interview Questions and Answers (⭐26k)](https://github.com/sudheerj/reactjs-interview-questions)
-
-### React Tools / React Development Tools
-
-*   [eslint-plugin-jsx-a11y (⭐3k)](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
-
-### React Tools / React Awesome Components
+### React Awesome Components
 
 *   [react-select (⭐26k)](https://github.com/JedWatson/react-select) - The Select Component for React
 *   [react-dnd (⭐19k)](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
-*   [react-grid-layout (⭐17k)](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
-*   [react-table (⭐20k)](https://github.com/tannerlinsley/react-table/) - A lightweight, fast and extendable datagrid for React
-*   [react-data-grid (⭐5.7k)](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React
-*   [react-draggable (⭐8k)](https://github.com/mzabriskie/react-draggable) - React draggable component
-*   [react-resizable (⭐2k)](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
-*   [react-list (⭐1.9k)](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
-*   [react-intl (⭐13k)](https://github.com/yahoo/react-intl) - Internationalize React apps
-*   [react-aria-modal (⭐978)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 
-### Video Tutorials / Charts
+### React Tables and Grids
 
-*   [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
+*   [react-data-grid (⭐6k)](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Agency Tools
+
+*   Route Trends ([webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub (⭐12)](https://github.com/metrotransit/route-trends)) - An R Shiny app to ingest ridership time series, and return seasonal, trend, and residual components according to [STL methodology](https://otexts.com/fpp2/stl.html) and forecasts including uncertainty based on those components.  Sponsored by [Metro Transit](https://www.metrotransit.org/) (Minneapolis-St. Paul).
 
 ## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

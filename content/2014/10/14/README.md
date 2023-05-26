@@ -10,7 +10,7 @@
 
 ### Authorization
 
-*   [CanCanCan (⭐5.3k)](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
+*   [CanCanCan (⭐5.4k)](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Storage / Runner
 
-*   [cross-storage (⭐2.1k)](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
+*   [cross-storage (⭐2.2k)](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
 
 ---
 

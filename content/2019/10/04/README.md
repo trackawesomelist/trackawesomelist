@@ -16,7 +16,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐28k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐30k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -74,7 +74,10 @@
 ### Major Cloud Providers
 
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
-    *   Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+    *   Compute
+        *   2 AMD based Compute VMs with 1/8 OCPU and 1 GB memory eachs
+        *   4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+        *   Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB
     *   Load balancer - 1 instance with 10 Mbps
@@ -101,7 +104,7 @@
 
 ### Authentication
 
-*   [pow (⭐1.4k)](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system ([Website](https://powauth.com) - [Doc](https://hex.pm/packages/pow)).
+*   [pow (⭐1.5k)](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system ([Website](https://powauth.com) - [Doc](https://hex.pm/packages/pow)).
 
 ### Date and Time
 
@@ -109,11 +112,11 @@
 
 ### Macros
 
-*   [crudry (⭐79)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
+*   [crudry (⭐78)](https://github.com/gabrielpra1/crudry) - Crudry is an elixir library for DRYing CRUD of Phoenix Contexts and Absinthe Resolvers.
 
 ### ORM and Datamapping
 
-*   [panoramix (⭐31)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
+*   [panoramix (⭐34)](https://github.com/gameanalytics/panoramix) - Apache Druid client for Elixir.
 
 ### Text and Numbers
 
@@ -127,7 +130,7 @@
 
 ### Form Logic / Mouse Events
 
-*   [formsy-react (⭐760)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+*   [formsy-react (⭐762)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 
 ## [15. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

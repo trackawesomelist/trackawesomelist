@@ -14,7 +14,7 @@
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
-### Contents / PaaS   *(PostgreSQL as a Service)*
+### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.
 *   [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/) - Fully managed PostgreSQL databases. No free plan. Starting at $15/mo. Daily backups with point-in-time recovery. Standby nodes with auto-failover.

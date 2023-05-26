@@ -158,7 +158,7 @@
 *   [Intercom](https://blog.intercom.com/) - Design, Customer Success, & Startup Blog.
 *   [UXDesign.cc](https://uxdesign.cc/) - User Experience, Usability, Product Design. Follow the UXDesign.cc.
 *   [Hoverstat](https://hoverstat.es/) - The home of alternative digital design.
-*   [Motion UI Design (⭐749)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
+*   [Motion UI Design (⭐768)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 *   [Gov.Uk](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) - Making your service accessible: an introduction.
 *   [Smashing Magazine](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/) - Color Contrast And Why You Should Rethink It.
 *   [Web Credible](https://www.webcredible.com/blog/visual-design-and-colour-accessibility/) - Visual design and color accessibility.
@@ -241,7 +241,7 @@
 *   [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
 *   [YouGov](https://yougov.com/) - We believe in the power of participation.
 *   [Data.Gov](https://data.gov.uk/) - Find data published by government departments and agencies, public bodies and local authorities.
-*   [The Tate Collection (⭐489)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
+*   [The Tate Collection (⭐499)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
 ## [11. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
@@ -318,11 +318,11 @@
 
 ### Misc
 
-*   [DeviceId (⭐535)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐572)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐440)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐445)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -402,7 +402,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [ACSTIS (⭐256)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
+*   [ACSTIS (⭐276)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
 
 ## [26. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
@@ -456,7 +456,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/boto/boto3)
+*   [Repo :fire::fire::fire::fire::fire: (⭐8.1k)](https://github.com/boto/boto3)
 
 ### Open Source Repos / Kinesis
 
@@ -510,17 +510,7 @@
 *   [Hide Files on GitHub (⭐306)](https://github.com/sindresorhus/hide-files-on-github)
 *   [mdn/webextension-examples (⭐3.4k)](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
-
-### Verilog / Deno
-
-*   [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
-
-## [34. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [33. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Community Resources
 
@@ -562,7 +552,7 @@
 
 *   [homely (⭐15)](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff.
 
-## [35. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [34. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -580,13 +570,13 @@
     *   [Practicals](http://uvadlc.github.io/#practicals)
     *   [Readings](http://uvadlc.github.io/#other-links)
 
-## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -610,27 +600,27 @@
 *   [Testing Vue.js Applications](https://www.manning.com/books/testing-vuejs-applications) by Edd Yerburgh (Summer 2018)
 *   [Vue.js 2 and Bootstrap 4 Web Development](https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development) by Olga Filipova, Packt. (September 2017)
 
-## [38. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [37. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [grid-styled (⭐2.1k)](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components
 
-## [39. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [38. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [Framer Sheet (⭐17)](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer.
 *   [FramerAudio (⭐47)](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 
-## [40. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [39. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Bibliography / HTML+CSS+JS
 
 *   [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 *   [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
 
-## [41. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [40. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -640,13 +630,13 @@
 
 *   [Pimatic](https://pimatic.org/) - Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.
 
-## [42. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
+## [41. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
 ### Courses
 
 *   [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) -  Prof. ChengXiang Zhai (University of Illinois at Urbana-Champaign).
 
-## [43. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
@@ -657,25 +647,25 @@
 *   [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths cheat-sheet for 2D and 3D game-makers.
 *   [Tiny 3D](https://cantelope.org/tiny_3D/) - The smallest possible perspective engine on a 2D canvas.
 
-## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
-*   [crest (⭐219)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐223)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
-## [45. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [44. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot version unknown
 
 *   [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 
-## [46. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [45. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Books / Other
 
 *   **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 
-## [47. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [46. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
@@ -707,6 +697,16 @@
 ### Individuals/Group Contributors / M individuals
 
 *   Matthew Green <https://blog.cryptographyengineering.com/>
+
+## [47. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### 0 - 言語非依存 / グラフィックスプログラミング
+
+*   [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
+
+### OCaml / Svelte
+
+*   [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
 
 ## [48. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

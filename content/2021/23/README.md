@@ -25,28 +25,28 @@
 ### Productivity / Note Taking and Lists
 
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐609)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐645)](https://github.com/simeg/eureka) - Input and store your ideas.
 
 ### Command Line Learning / Internet Speedtest
 
 *   [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
-*   [howdoi (⭐9.9k)](https://github.com/gleitz/howdoi) - Instant coding answers.
+*   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers.
 *   [how2 (⭐5.6k)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
-*   [teachcode (⭐348)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
+*   [teachcode (⭐353)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
-### Official Resources
+### Resources / Offical
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
-*   [GitHub Repository (⭐19k)](https://github.com/directus/directus)
+*   [GitHub Repository (⭐21k)](https://github.com/directus/directus)
 *   [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Tools
 
-*   [Amazing GitHub Template (⭐295)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+*   [Amazing GitHub Template (⭐311)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Starters & Themes
 
-*   📟 [Next.js PWA (⭐68)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
+*   📟 [Next.js PWA (⭐72)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
 
 ## [8. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -101,8 +101,8 @@
 
 ### Tools
 
-*   [Keycloak on AWS (⭐119)](https://github.com/aws-samples/keycloak-on-aws)
-*   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐68)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak on AWS (⭐127)](https://github.com/aws-samples/keycloak-on-aws)
+*   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐71)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
@@ -137,13 +137,13 @@
 
 ### Threat intelligence / Threat hunting
 
-*   [Threat Bus (⭐233)](https://github.com/tenzir/threatbus) - Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.
+*   [Threat Bus (⭐239)](https://github.com/tenzir/threatbus) - Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.
 
 ## [17. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
-*   [Beekeeper Studio (⭐12k)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
+*   [Beekeeper Studio (⭐13k)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 
 ## [18. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -179,12 +179,12 @@
 ### GTFS Validators / Ruby
 
 *   [Conveyal's gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator) - A Java-based GTFS validator based on the OneBusAway GTFS Modules, runs in Java and is faster than the Google provided one.
-*   [Conveyal's gtfs-lib (⭐55)](https://github.com/conveyal/gtfs-lib/) - Conveyal's successor to their own [gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator), a Java-based library for loading and saving GTFS feeds of arbitrary size with disk-backed storage.
+*   [Conveyal's gtfs-lib (⭐58)](https://github.com/conveyal/gtfs-lib/) - Conveyal's successor to their own [gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator), a Java-based library for loading and saving GTFS feeds of arbitrary size with disk-backed storage.
 *   [Google's feedValidator (⭐658)](https://github.com/google/transitfeed/wiki/FeedValidator) - Google-supported Python-based GTFS validator.
 *   [GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - A web-based GTFS validator that runs both [the Google Python feedValidator (⭐658)](https://github.com/google/transitfeed/wiki/FeedValidator) and [Conveyal's gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator) on uploaded GTFS files.
-*   [gtfs-validator-api (⭐2)](https://github.com/cal-itp/gtfs-validator-api) - This Python package is a thin wrapper around [MobilityData/gtfs-validator (⭐164)](https://github.com/MobilityData/gtfs-validator) that handles intermediate files produced and finds gtfs-validator's output file so it can be given a specific name or returned as a string.
-*   [MobilityData's gtfs-validator (⭐164)](https://github.com/MobilityData/gtfs-validator) - A open-source GTFS validator canonically following the GTFS spec implemented in Java licensed under Apache v2.0 maintained by [MobilityData](https://mobilitydata.org/).
-*   [Reflect GTFS Validator (hosted by Foursquare ITP)](https://reflect.foursquareitp.com) - Transit schedule and GTFS validation platform by [Foursquare ITP](https://www.foursquareitp.com) that includes a free, web-based GTFS validator based on [gtfs-lib (⭐55)](https://github.com/conveyal/gtfs-lib/).
+*   [gtfs-validator-api (⭐2)](https://github.com/cal-itp/gtfs-validator-api) - This Python package is a thin wrapper around [MobilityData/gtfs-validator (⭐172)](https://github.com/MobilityData/gtfs-validator) that handles intermediate files produced and finds gtfs-validator's output file so it can be given a specific name or returned as a string.
+*   [MobilityData's gtfs-validator (⭐172)](https://github.com/MobilityData/gtfs-validator) - A open-source GTFS validator canonically following the GTFS spec implemented in Java licensed under Apache v2.0 maintained by [MobilityData](https://mobilitydata.org/).
+*   [Reflect GTFS Validator (hosted by Foursquare ITP)](https://reflect.foursquareitp.com) - Transit schedule and GTFS validation platform by [Foursquare ITP](https://www.foursquareitp.com) that includes a free, web-based GTFS validator based on [gtfs-lib (⭐58)](https://github.com/conveyal/gtfs-lib/).
 
 ## [22. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -197,11 +197,11 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-dts (⭐564)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+*   [vite-plugin-dts (⭐658)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
 
 ### Apps/Websites / Community
 
-*   [vite-vue3-lowcode (⭐2.3k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
+*   [vite-vue3-lowcode (⭐2.5k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 
 ## [24. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -220,13 +220,13 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [DFIRTrack (⭐419)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
+*   [DFIRTrack (⭐425)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 
 ## [27. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-rancher2 (⭐213)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
+*   [terraform-provider-rancher2 (⭐222)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 
 ## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -295,8 +295,8 @@
 
 ### Form Components / Markdown Editor
 
-*   [react-simplemde-editor (⭐665)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.8k)](https://github.com/Ionaru/easy-markdown-editor).
-*   [react-md-editor (⭐1.3k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
+*   [react-simplemde-editor (⭐673)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.9k)](https://github.com/Ionaru/easy-markdown-editor).
+*   [react-md-editor (⭐1.4k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
 ## [33. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
@@ -757,37 +757,37 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐283)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
-*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐33)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
+*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐288)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
+*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐35)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
 
 ### Software / Office Suites
 
-*   [Rustpad](https://rustpad.io/) - Efficient and minimal collaborative code editor, self-hosted, no database required. ([Source Code (⭐2.6k)](https://github.com/ekzhang/rustpad)) `MIT` `Rust`
+*   [Rustpad](https://rustpad.io/) - Efficient and minimal collaborative code editor, self-hosted, no database required. ([Source Code (⭐2.7k)](https://github.com/ekzhang/rustpad)) `MIT` `Rust`
 
 ### Software / Personal Dashboards
 
-*   [Flame (⭐3.7k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
+*   [Flame (⭐3.8k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
 
 ## [42. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [michaelbull/kotlin-result (⭐745)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
+*   [michaelbull/kotlin-result (⭐788)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 
 ### Libraries/Frameworks / Database
 
-*   [consoleau/kotlin-jpa-specification-dsl (⭐235)](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
+*   [consoleau/kotlin-jpa-specification-dsl (⭐238)](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
 
 ### Libraries/Frameworks / Graphics
 
-*   [dananas/kotlin-glsl (⭐35)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
+*   [dananas/kotlin-glsl (⭐36)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
 
 ## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [GrandNode 2.0 (⭐688)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
+*   [GrandNode 2.0 (⭐753)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 
 ### Components & Libraries / UI Components
 
@@ -801,12 +801,12 @@
 
 ### Libraries / Asynchronous
 
-*   [dpc/mioco (⭐138)](https://github.com/dpc/mioco) — Scalable, coroutine-based, asynchronous IO handling library [![build badge](https://api.travis-ci.org/dpc/mioco.svg?branch=master)](https://travis-ci.org/dpc/mioco)
+*   [dpc/mioco (⭐138)](https://github.com/dpc/mioco) — Scalable, coroutine-based, asynchronous IO handling library
 
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐400)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust [![Build Status](https://api.travis-ci.org/boxtown/statrs.svg?branch=master)](https://travis-ci.org/boxtown/statrs)
+    *   [statrs-dev/statrs (⭐426)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust
 
 ### Libraries / Cryptography
 
@@ -816,58 +816,58 @@
 
 ### Contents / Finance
 
-*   [Light Wallet (⭐40)](https://github.com/JoinSEEDS/seeds_light_wallet) — EOSIO-based Cryptocurrency Wallet & Ecosystem Explorer by [SEEDS](https://joinseeds.com)
+*   [Light Wallet (⭐41)](https://github.com/JoinSEEDS/seeds_light_wallet) — EOSIO-based Cryptocurrency Wallet & Ecosystem Explorer by [SEEDS](https://joinseeds.com)
 
 ## [46. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
-*   [ansible-navigator (⭐211)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+*   [ansible-navigator (⭐253)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
 ## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [NTBBloodbath/cheovim (⭐272)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
+*   [NTBBloodbath/cheovim (⭐286)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 
 ### Markdown and LaTeX / Diagnostics
 
 *   [jghauser/auto-pandoc.nvim (⭐22)](https://github.com/jghauser/auto-pandoc.nvim) - Easy pandoc conversion leveraging yaml blocks.
-*   [jghauser/follow-md-links.nvim (⭐85)](https://github.com/jghauser/follow-md-links.nvim) - Press enter to follow internal markdown links.
+*   [jghauser/follow-md-links.nvim (⭐95)](https://github.com/jghauser/follow-md-links.nvim) - Press enter to follow internal markdown links.
 
 ### Snippet / Diagnostics
 
-*   [L3MON4D3/LuaSnip (⭐1.8k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
+*   [L3MON4D3/LuaSnip (⭐2k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
 
 ### Color / Diagnostics
 
-*   [winston0410/range-highlight.nvim (⭐143)](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (\~ 120loc) that highlights ranges you have entered in commandline.
+*   [winston0410/range-highlight.nvim (⭐155)](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (\~ 120loc) that highlights ranges you have entered in commandline.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sainnhe/gruvbox-material (⭐1.3k)](https://github.com/sainnhe/gruvbox-material) - Gruvbox modification with softer contrast and Tree-sitter support.
-*   [sainnhe/everforest (⭐1.7k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
-*   [NTBBloodbath/doom-one.nvim (⭐142)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
+*   [sainnhe/gruvbox-material (⭐1.4k)](https://github.com/sainnhe/gruvbox-material) - Gruvbox modification with softer contrast and Tree-sitter support.
+*   [sainnhe/everforest (⭐1.9k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
+*   [NTBBloodbath/doom-one.nvim (⭐156)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
 
 ### Utility / Diagnostics
 
-*   [jghauser/mkdir.nvim (⭐143)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
+*   [jghauser/mkdir.nvim (⭐156)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
 
 ### Debugging / Diagnostics
 
-*   [rcarriga/nvim-dap-ui (⭐1.3k)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
+*   [rcarriga/nvim-dap-ui (⭐1.5k)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
 
 ### Git / Diagnostics
 
-*   [sindrets/diffview.nvim (⭐2k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+*   [sindrets/diffview.nvim (⭐2.3k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 
 ### Editing Support / Diagnostics
 
-*   [nacro90/numb.nvim (⭐396)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
+*   [nacro90/numb.nvim (⭐428)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
 
 ### Formatting / Diagnostics
 
-*   [mhartington/formatter.nvim (⭐748)](https://github.com/mhartington/formatter.nvim) - A format runner written in Lua.
+*   [mhartington/formatter.nvim (⭐810)](https://github.com/mhartington/formatter.nvim) - A format runner written in Lua.
 
 ## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
 

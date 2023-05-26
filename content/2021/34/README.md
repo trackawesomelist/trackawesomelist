@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23 - Aug 29, 2021
 
-66 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,8 +10,8 @@
 
 ### Game development
 
-*   [raylib.v (⭐39)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
-*   [vraylib (⭐48)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
+*   [raylib.v (⭐46)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
+*   [vraylib (⭐47)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 
 ### Operating system
 
@@ -53,13 +53,13 @@
 
 ### Deployment Examples
 
-*   [Keycloak deployment with CDK on AWS with Fargate (⭐68)](https://github.com/aws-samples/cdk-keycloak)
+*   [Keycloak deployment with CDK on AWS with Fargate (⭐71)](https://github.com/aws-samples/cdk-keycloak)
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-textobjects (⭐1.1k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
+*   [nvim-treesitter/nvim-treesitter-textobjects (⭐1.2k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
 
 ## [8. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Archives and primary sources / Switzerland
 
-*   [histHub](https://histhub.ch/) - Search engine for all major standardized data APIs.
+*   [histHub](https://histhub.ch/) - The platform manages authority files on Swiss history.
 
 ## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Animations / Checkbox
 
-*   [svelte-typewriter (⭐203)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+*   [svelte-typewriter (⭐206)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Authorization / Open-source policy frameworks
 
-*   [Oso (⭐2.9k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+*   [Oso (⭐3k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
 ## [17. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐106)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐119)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -174,19 +174,19 @@
 
 ### Files and Directories / Files
 
-*   [RecoverPy (⭐572)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+*   [RecoverPy (⭐755)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ## [24. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Clarity Resources / Contracts
 
-*   [CityCoin (⭐69)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
+*   [CityCoin (⭐71)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 
 ## [25. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Template engine
 
-*   [handlebars (⭐23)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+*   [handlebars (⭐24)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ## [26. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
@@ -209,7 +209,7 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [exatorrent (⭐1.6k)](https://github.com/varbhat/exatorrent) - BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. `GPL-3.0` `Go`
+*   [exatorrent (⭐1.7k)](https://github.com/varbhat/exatorrent) - BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP. `GPL-3.0` `Go`
 
 ## [29. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -223,57 +223,41 @@
 
 *   [flat.social](https://flat.social/) - Create fun virtual spaces for online meetings, team activities and virtual socials.
 
-## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Clojure / Non-X86
-
-*   [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) [(:card\_file\_box: *unglued*)](https://unglue.it/work/489419/)
-
-### Fortran / Phoenix
-
-*   [Fortran 90 Tutorial](http://www.cs.mtu.edu/~shene/COURSES/cs201/NOTES/fortran.html) - C.-K. Shene at Michigan Technological University (HTML)
-*   [Fortran information & resources](https://www.fortranplus.co.uk/fortran-information/) - fortranplus.co.uk (HTML)
-*   [FORTRAN Performance Tuning co-Guide (1998)](https://www.ibiblio.org/pub/languages/fortran/unct.html) - Timothy C. Prince (HTML)
-*   [Introduction to Fortran](https://qc2-teaching.readthedocs.io/en/latest/programming.html) - Sebastian Ehlert, Julius Stückrath, Marcel Mueller, Marcel Stahn (HTML)
-*   [Modern Fortran Tutorial](https://masuday.github.io/fortran_tutorial/) - Yutaka Masuda (HTML)
-*   [Professional Programmer’s Guide to Fortran77 (2005)](https://www.star.le.ac.uk/~cgp/prof77.pdf) - Clive G. Page (PDF)
-*   [Self Study Guide 2: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) - Dr Rachael Padman (PDF)
-
-## [32. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [31. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Public Domain
 
 *   [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 *   [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 
-## [33. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Private Module Registries / Miscellaneous
 
 *   [terraform-registry (⭐47)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 
-## [34. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [33. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / MaaS
 
-*   [Amazon MQ](https://aws.amazon.com/amazon-mq) - Fully managed message broker service for Apache ActiveMQ and RabbitMQ.
-*   [Amazon MSK](https://aws.amazon.com/msk) -  Amazon Managed Streaming for Apache Kafka.
-*   [Amazon SQS](https://aws.amazon.com/sqs) - Amazon Simple Queue Service.
-*   [Amazon SNS](https://aws.amazon.com/sns) - Amazon Simple Notification Service. Pub/sub functionality provides topics for high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications.
-*   [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - Fully-managed Apache Kafka service from Alibaba Cloud.
-*   [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed, fully managed, and professional messaging service that features high throughput, low latency, and high scalability.
-*   [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - A distributed message queuing and notification service that supports concurrent operations to facilitate message transfer between applications and decoupled systems.
-*   [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - A  distributed message queue service that supports reliable message-based asynchronous communication among microservices, distributed systems, and serverless applications.
-*   [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - Enterprise-class cloud messaging, fully integrated with Anypoint Platform.
-*   [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - Reliable cloud messaging as a service (MaaS) and simple hybrid integration.
-*   [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ as a Service.
-*   [CloudKarafka](https://www.cloudkarafka.com/) - Affordable and straightforward, fully managed Kafka clusters available on AWS and Google Cloud.
-*   [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - Messaging and ingestion for event-driven systems and streaming analytics.
-*   [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - Easily move data between enterprise applications, systems and services.
-*   [IronMQ](https://www.iron.io/mq) - Elastic message queue created specifically with the cloud in mind.
-*   [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - A complete event streaming, management and insights platform.
-*   [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - Compatibility with the Amazon SQS HTTP API.
-*   [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - Managed Apache Kafka service.
+*   [Amazon MQ](https://aws.amazon.com/amazon-mq) - A fully managed message broker service that supports Apache ActiveMQ and RabbitMQ. It provides a reliable, secure, and scalable messaging infrastructure for your applications.
+*   [Amazon MSK](https://aws.amazon.com/msk) - A fully managed service for Apache Kafka that simplifies the setup, scaling, and management of Kafka clusters. It provides a highly available, durable, and performant messaging service for your data streaming needs.
+*   [Amazon SQS](https://aws.amazon.com/sqs) - A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It offers a reliable, secure, and highly available message storage and delivery system.
+*   [Amazon SNS](https://aws.amazon.com/sns) - A fully managed pub/sub messaging service that enables you to send and receive messages between distributed systems, microservices, and event-driven serverless applications. It offers a flexible, scalable, and cost-effective way to notify subscribers of events and messages.
+*   [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - A fully managed Apache Kafka service that provides high-throughput, low-latency, and highly available message streaming for your applications. It offers easy integration with other Alibaba Cloud services and seamless data migration.
+*   [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed and fully managed messaging service that provides high scalability, low latency, and high throughput for your applications. It offers flexible deployment options, easy management, and robust security features.
+*   [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - A distributed messaging and notification service that enables concurrent operations and message transfer between applications and decoupled systems. It offers high reliability, scalability, and fault tolerance for your messaging needs.
+*   [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - A distributed message queue service that supports reliable message-based asynchronous communication among microservices, distributed systems, and serverless applications. It provides high availability, scalability, and durability for your message streaming needs.
+*   [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - An enterprise-class cloud messaging service that is fully integrated with Anypoint Platform. It offers a flexible and reliable messaging infrastructure that enables you to integrate and orchestrate your applications and systems.
+*   [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - A reliable cloud messaging service that offers a variety of messaging patterns, such as pub/sub and request/response, and supports a range of protocols and standards.
+*   [CloudAMQP](https://www.cloudamqp.com/) - A RabbitMQ as a Service that provides a fully managed and scalable message broker service for your applications. It offers a simple and easy-to-use web-based management console, advanced monitoring and analytics, and seamless integration with other cloud services.
+*   [CloudKarafka](https://www.cloudkarafka.com/) - An affordable and straightforward Kafka service that provides fully managed and scalable Kafka clusters on AWS and Google Cloud. It offers a user-friendly web-based dashboard, advanced security features, and seamless integration with other cloud services.
+*   [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - A messaging and ingestion service that enables event-driven systems and streaming analytics. It provides high throughput, low latency, and reliable message delivery for your applications. It supports flexible messaging patterns, such as pub/sub and push/pull, and integrates seamlessly with other Google Cloud services.
+*   [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - A cloud-based messaging service that enables seamless data transfer across enterprise applications, systems, and services with ease.
+*   [IronMQ](https://www.iron.io/mq) - An elastic message queue built specifically for the cloud, allowing for reliable and scalable message processing.
+*   [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - An all-in-one event streaming, management, and insights platform, providing complete visibility and control over your data pipeline.
+*   [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - A cloud messaging service with compatibility to Amazon SQS HTTP API, making it easy to integrate with existing systems and services.
+*   [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - A fully-managed Apache Kafka service with automated scaling, monitoring, and maintenance, providing hassle-free data streaming.
 
 ### Resources / Market Analysis
 
@@ -286,14 +270,14 @@
     *   [Gartner Magic Quadrant for Robotic Process Automation](https://www.gartner.com/doc/code/441474)
     *   [The Forrester Wave: Robotic Process Automation](https://www.forrester.com/go?objectid=RES161538)
 
-## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Internationalization
 
-*   [crystal-i18n (⭐18)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
+*   [crystal-i18n (⭐20)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
 *   [i18n.cr (⭐24)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
 
-## [36. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [35. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
 
@@ -311,13 +295,13 @@
 
 
 
-## [37. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [36. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Client Web App Frameworks
 
 *   [MDL/Dart](http://mdl.mikemitterer.at//) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 
-## [38. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [37. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Other Lists / Books
 
@@ -326,20 +310,20 @@
 *   [Awesome Markdown (⭐610)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 *   [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
-## [39. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [38. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [DeepfakeHTTP (⭐454)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
-## [40. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
 *   [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 
-## [41. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [40. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Food
 
@@ -349,13 +333,13 @@
 
 *   [Terra.do](https://www.terra.do) - Climate learning and career transition platform, runs several fellowships on climate education (broad and sector-specific), hosts climate job fairs, connects to mentors and experts, etc.
 
-## [42. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [41. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Knowledge Management
 
 *   [Obsidian.md](https://obsidian.md/) - A knowledge base tool that works on local Markdown files. It allows you to create links between different notes.
 
-## [43. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [42. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Tools
 
@@ -368,13 +352,13 @@
     *   [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - Lifts many vernacular commands and inner lemmas out of proof script blocks.
     *   [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - Modifies source files to include proof annotations for faster parallel proving.
 
-## [44. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [43. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Bindings
 
 *   [ncurses (⭐1)](https://github.com/edadma/ncurses) - Bindings for the [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
 
-## [45. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [44. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Books / Others
 
@@ -388,23 +372,29 @@
 
 *   [ASP.NET Core Blazor 5.0: Blazor WebAssembly und Blazor Server: Moderne Single-Page-Web-Applications mit .NET, C# und Visual Studio](https://www.amazon.de/exec/obidos/ASIN/393427935X/itvisions-21) - German book on Blazor (Published September 15, 2020 with montly Updates).
 
-## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [45. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Responsive / Syntax Highlight
 
 *   [cdbreact (⭐34)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
 
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Code Quality
+
+*   [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
+
 ## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Reinforcement Learning
 
-*   [RLlib (⭐24k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+*   [RLlib (⭐25k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
 ## [48. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Converters / Ruby
 
-*   [gtfs2gps (⭐65)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
+*   [gtfs2gps (⭐66)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
@@ -414,17 +404,17 @@
 
 ### Persistent object databases
 
-*   [bknr.datastore (⭐86)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+*   [bknr.datastore (⭐85)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
     *   see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
-    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐158)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐161)](https://github.com/screenshotbot/screenshotbot-oss).
 
 ### Utils / Third-party APIs
 
-*   [cl-etcd (⭐9)](https://github.com/atgreen/cl-etcd) - Run etcd as an asynchronous inferior process.  [etcd](https://etcd.io/) is a strongly consistent, distributed key-value store. [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
+*   [cl-etcd (⭐10)](https://github.com/atgreen/cl-etcd) - Run etcd as an asynchronous inferior process.  [etcd](https://etcd.io/) is a strongly consistent, distributed key-value store. [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
 
 ### Command-line options parsers / Third-party APIs
 
-*   👍 [Clingon (⭐76)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+*   👍 [Clingon (⭐86)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
     *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
 ## [50. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
@@ -454,7 +444,7 @@
 
 ### Starter apps and CLIs
 
-*   Take a look at [previously logged issues (⭐132)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
+*   Take a look at [previously logged issues (⭐152)](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
 
 ## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -745,63 +735,53 @@
 *   [FFT-FGN-C](ftp://ita.ee.lbl.gov/html/contrib/fft_fgn_c.html): is a program for synthesizing a type of self-similar process known as fractional Gaussian noise. The program is fast but approximate. Fractional Gaussian noise is only one type of self-similar process. When using this program for synthesizing network traffic, you must keep in mind that it may be that the traffic you seek is better modeled using one of the other processes.
 *   [Traffic Data Repository at the WIDE Project](https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/): It becomes increasingly important for both network researchers and operators to know the trend of network traffic and to find anomaly in their network traffic. This paper describes an on-going effort within the WIDE project to collect a set of free tools to build a traffic data repository containing detailed information of our backbone traffic. Traffic traces are collected by tcpdump and, after removing privacy information, the traces are made open to the public. We review the issues on user privacy, and then, the tools used to build the WIDE traffic repository. We will report the current status and findings in the early stage of our IPv6 deployment.
 
-## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Code Quality
-
-*   [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
-
-### Email
-
-*   [Eva](https://eva.pingutil.com) — Verify 5 million emails per day for free using REST API. No sign-ups required.
-
-## [57. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [56. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Engines
 
 *   [Lucee](http://lucee.org/) - Free, Open Source CFML Engine
 
-## [58. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [57. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Ecosystem
 
-*   [ROS2 For Unity (⭐228)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
+*   [ROS2 For Unity (⭐265)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Packages / Client libraries
 
-*   [ros2cs (⭐54)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
+*   [ros2cs (⭐60)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
-## [59. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [58. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [bottom (⭐6.3k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
+*   [bottom (⭐6.8k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
 
 ### Applications / Task scheduling
 
-*   [delicate (⭐561)](https://github.com/BinChengZhao/delicate) — A lightweight and distributed task scheduling platform written in rust. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
+*   [delicate (⭐588)](https://github.com/BinChengZhao/delicate) — A lightweight and distributed task scheduling platform written in rust. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐669)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![Build Status](https://api.travis-ci.com/harlanc/xiu.svg?branch=master)](https://app.travis-ci.com/github/harlanc/xiu) [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐734)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
 ### Libraries / GUI
 
-*   [emoon/rust\_minifb (⭐797)](https://github.com/emoon/rust_minifb) — minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
+*   [emoon/rust\_minifb (⭐836)](https://github.com/emoon/rust_minifb) — minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
 
-## [60. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Social Engineering / Forensics
 
 *   [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
 
-## [61. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [60. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
 *   [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 
-## [62. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [61. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -812,7 +792,7 @@
 *   [Heyflow](https://heyflow.app/) - Build interactive flows.
 *   [Storybook](https://storybook.js.org) - Build component driven UIs faster.
 
-## [63. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [62. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -821,7 +801,7 @@
 *   [#rp-rs:matrix.org](https://matrix.to/#/#rp-rs:matrix.org) - For discussion of using Embedded Rust on RP2040 based devices
 *   [#stm32-rs:matrix.org](https://matrix.to/#/#stm32-rs:matrix.org) - For discussion of using Embedded Rust on STM32 based devices
 
-## [64. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -829,7 +809,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-timer-hook (⭐124)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [vue-timer-hook (⭐134)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 ### Components & Libraries / UI Layout
 
@@ -837,16 +817,16 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Materio-vuetify-vuejs-admin-template-free (⭐475)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+*   [Materio-vuetify-vuejs-admin-template-free (⭐527)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 *   [Fes.js (⭐1.1k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
 
-## [65. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [64. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
-*   [Bytebase (⭐4.9k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐5.1k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
-## [66. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [65. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / Password Recovery
 

@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [tmux-simple-git-status (⭐22)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
+*   [tmux-simple-git-status (⭐23)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -22,7 +22,7 @@
 
 ### SDKs and Samples / Android SDK
 
-*   [Repo :fire::fire::fire: (⭐981)](https://github.com/aws/aws-sdk-android)
+*   [Repo :fire::fire::fire: (⭐990)](https://github.com/aws/aws-sdk-android)
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -75,8 +75,8 @@
 
 ### Benchmarking
 
-*   [core\_bench (⭐42)](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
-    *   [Getting Started with Core\_bench (⭐42)](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
+*   [core\_bench (⭐43)](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
+    *   [Getting Started with Core\_bench (⭐43)](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
 *   [benchmark (⭐25)](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)

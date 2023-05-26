@@ -36,27 +36,27 @@
 
 ### JupyterLab Extensions
 
-*   [shortcutui (⭐55)](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
+*   [shortcutui (⭐54)](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
 
 ### Testing
 
-*   [treon (⭐284)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
+*   [treon (⭐287)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [NiM (⭐189)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
+*   [NiM (⭐188)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 
 ### Packages / Testing
 
-*   [Playwright (⭐48k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐52k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐566)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
-*   [cashify (⭐389)](https://github.com/xxczaki/cashify) - Currency conversion.
-*   [genepi (⭐65)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+*   [basic-ftp (⭐588)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
+*   [cashify (⭐393)](https://github.com/xxczaki/cashify) - Currency conversion.
+*   [genepi (⭐67)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools
 
@@ -66,7 +66,7 @@
 
 ### Tools / Misc
 
-*   [m2cgen (⭐2.4k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
+*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 
 ## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

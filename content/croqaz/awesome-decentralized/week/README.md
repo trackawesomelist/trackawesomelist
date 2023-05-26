@@ -6,11 +6,17 @@
 
 [ [Daily](/content/croqaz/awesome-decentralized/README.md) / Weekly / [Overview](/content/croqaz/awesome-decentralized/readme/README.md) ]
 
+## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
+
+### Other
+
+*   [m-ld](https://m-ld.org/): A software library enabling distributed applications to read and write shared information consistently with zero latency, using Semantic Web technology and CRDTs (Conflict-Free Replicated Data Types).
+
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Applications
 
-*   [Nostr (⭐7.4k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
+*   [Nostr (⭐7.6k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
@@ -22,7 +28,7 @@
 
 ### Applications
 
-*   [Databag (⭐174)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
+*   [Databag (⭐183)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -35,7 +41,7 @@
 
 ### Applications
 
-*   [DB3 Network (⭐233)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+*   [DB3 Network (⭐240)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -101,7 +107,7 @@
 
 ### Applications
 
-*   [SimpleX chat (⭐2.8k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+*   [SimpleX chat (⭐2.9k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
 

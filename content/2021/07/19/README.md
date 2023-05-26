@@ -16,7 +16,7 @@
 
 ### Libraries / C++
 
-*   [msf\_gif (⭐175)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs
+*   [msf\_gif (⭐177)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
 ## [3. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot SQLite (⭐448)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
+*   [Godot SQLite (⭐503)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -71,8 +71,8 @@
 
 ### Related Awesome Lists / Galleries
 
-*   [margaretmz/awesome-ai-art-design (⭐21)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
-*   [justinpinkney/awesome-pretrained-stylegan2 (⭐1.1k)](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
+*   [margaretmz/awesome-ai-art-design (⭐22)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+*   [justinpinkney/awesome-pretrained-stylegan2 (⭐1.2k)](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Authorization / AWS policy tools
 
-*   [ConsoleMe (⭐2.9k)](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
+*   [ConsoleMe (⭐3k)](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
 
 ## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -111,13 +111,12 @@
 ### Job boards
 
 *   [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
-*   [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
-*   [Fluxor (⭐902)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
+*   [Fluxor (⭐951)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
 
 ## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -132,7 +131,7 @@
 
 ### WSL Tools / For Managing WSL Installations
 
-*   [Ansible-WSL (⭐53)](https://github.com/Wintus/Ansible-WSL) - Provision WSL using Ansible. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Ansible-WSL (⭐54)](https://github.com/Wintus/Ansible-WSL) - Provision WSL using Ansible. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [Raft WSL](https://www.microsoft.com/store/apps/9MSMJQD017X7) - Raft is a Windows Subsystem for Linux (WSL) distribution manager in native C#/XAML. 💰
 
 ### Books / Miscellaneous Tools
@@ -166,7 +165,7 @@
 
 ### Reading and Writing Tools / Journaling
 
-*   [linked (⭐671)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [linked (⭐703)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ### Audio and Video Tools / File Sharing
 
@@ -176,11 +175,11 @@
 
 ### Contents / Entertainment
 
-*   [AnimSearch (⭐63)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [AnimSearch (⭐67)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ### Contents / Productivity
 
-*   [LibreTrack (⭐143)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
+*   [LibreTrack (⭐163)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
 ---
 

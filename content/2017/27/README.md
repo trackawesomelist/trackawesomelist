@@ -8,9 +8,9 @@
 
 ## [1. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
-### Learning / More Awesome
+### Learning / Check Also
 
-*   📚 [Awesome JS Books (⭐55)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   [Awesome JS Books (⭐56)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Contents / Components
 
-*   [Preact Head (⭐34)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
+*   [Preact Head (⭐37)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
 
 ## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -352,9 +352,9 @@
 
 *   Node.js
     *   Slush
-        *   [TheVelourFog/slush-angular2 (⭐45)](https://github.com/RyanMetin/slush-angular2)
+        *   [TheVelourFog/slush-angular2 (⭐44)](https://github.com/RyanMetin/slush-angular2)
     *   Yeoman
-        *   [swirlycheetah/generator-angular2 (⭐256)](https://github.com/chrisdwheatley/generator-angular2)
+        *   [swirlycheetah/generator-angular2 (⭐254)](https://github.com/chrisdwheatley/generator-angular2)
     *   ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
         *   [ngx-rocket/generator-ngx-rocket (⭐1.5k)](https://github.com/ngx-rocket/generator-ngx-rocket)
         *   [ngx-rocket/cli (⭐13)](https://github.com/ngx-rocket/cli)
@@ -399,7 +399,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐791)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐790)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -415,7 +415,7 @@
 
 ### MVVM
 
-*   [Gemini (⭐988)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+*   [Gemini (⭐1k)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 
 ### Windows Services
 
@@ -532,7 +532,7 @@
 
 ### UICollectionView / Barcode
 
-*   [CenteredCollectionView (⭐1.2k)](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
+*   [CenteredCollectionView (⭐1.3k)](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 
 ## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -556,7 +556,7 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐104)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐105)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
@@ -564,23 +564,23 @@ Wifi pw: `fermento`
 
 ### HTTP
 
-*   [neuron (⭐306)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐312)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
-*   [expat (⭐174)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐175)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 
-*   [Petrovich (⭐38)](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
+*   [Petrovich (⭐39)](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
 
 ### Queue
 
-*   [que (⭐640)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐644)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
-*   [blogit (⭐36)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
+*   [blogit (⭐38)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
 ## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -641,7 +641,7 @@ Wifi pw: `fermento`
 *   [How to implement linear regression in Ruby](https://www.practicalai.io/implementing-linear-regression-using-ruby/) <sup>\[[code (⭐5)](https://github.com/daugaard/example-linear-regression)]</sup>
 *   [How to implement simple binary classification using a Neural Network in Ruby](https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/) <sup>\[[code (⭐10)](https://github.com/daugaard/example-neural-network)]</sup>
 
-### Articles, Posts, Talks, and Presentations / Gradient boosting
+### Articles, Posts, Talks, and Presentations / Vector search
 
 *   2017
     *   *Scientific Computing on JRuby* by [Prasun Anand](https://twitter.com/prasun_anand) <sup>\[[slides](https://www.slideshare.net/PrasunAnand2/fosdem2017-scientific-computing-on-jruby) |
@@ -667,12 +667,12 @@ Wifi pw: `fermento`
     *   *Clustering in Ruby* by [Colin Drake](https://twitter.com/colinfdrake) <sup>\[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)]</sup>
     *   *Text Classification using Support Vector Machines in Ruby* by [Rimas Silkaitis](https://twitter.com/neovintage) <sup>\[[post](http://neovintage.org/2011/11/14/text-classification-using-support/)]</sup>
 
-### Books, Blogs, Channels / Gradient boosting
+### Books, Blogs, Channels / Vector search
 
 *   [Practical Artificial Intelligence](https://www.practicalai.io/) -
     Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.
 
-### Community / Gradient boosting
+### Community / Vector search
 
 *   [SciRuby Mailing List](https://groups.google.com/forum/#!forum/sciruby-dev)
 *   [SciRuby Slack](https://sciruby.slack.com/)
@@ -692,7 +692,7 @@ Wifi pw: `fermento`
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐42)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐44)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -721,14 +721,14 @@ Wifi pw: `fermento`
 
 ### Contents / Distributions
 
-*   [PostgreSql.Binaries.Lite (⭐27)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
+*   [PostgreSql.Binaries.Lite (⭐28)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 
 ## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
-*   [Red Hat Single Sign-On Labs (⭐12)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐191)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
+*   [Spring Boot Keycloak Tutorial (⭐192)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [43. Inspire](/content/noahbuscher/inspire/week/README.md)
 

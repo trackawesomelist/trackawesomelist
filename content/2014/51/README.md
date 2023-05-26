@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 22 - Dec 28, 2014
 
-16 awesome lists updated this week.
+15 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -138,7 +138,7 @@
 
 ### Miscellaneous
 
-*   [Klib (⭐3.7k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
+*   [Klib (⭐3.8k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
 *   [libnih (⭐87)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
 
 ### Compiler
@@ -155,7 +155,7 @@
 
 *   [empty-trash (⭐128)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 *   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐968)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [public-ip (⭐975)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
@@ -167,23 +167,13 @@
 
 *   [couchdb (⭐5.5k)](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API \[website] (<http://couchdb.apache.org/>)
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C++ / Non-X86
-
-*   [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
-
-### Go / Phoenix
-
-*   [Effective Go](https://golang.org/doc/effective_go.html)
-
-## [13. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [12. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Articles / Bare metal / kernel development
 
 *   [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 
-## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
@@ -257,23 +247,23 @@
 
 *   [SecTools](http://sectools.org/) - Top 125 Network Security Tools
 
-## [15. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [14. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Build-time transpilation / Brunch Plugins
 
 *   ES6 Module Transpiler: [es6-module-transpiler-brunch (⭐9)](https://github.com/gcollazo/es6-module-transpiler-brunch)
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [cuckoo (⭐41)](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
 *   [exkad (⭐2)](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
-*   [graphmath (⭐73)](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
+*   [graphmath (⭐75)](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
 
 ### Authentication
 
-*   [oauth2 (⭐694)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐699)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐56)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks
@@ -305,8 +295,8 @@
 ### Third Party APIs
 
 *   [exgenius (⭐1)](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
-*   [exlingr (⭐1)](https://github.com/mtwtkman/exlingr) - A Lingr client module.
-*   [keenex (⭐28)](https://github.com/bryanjos/keenex) - A Keen.io API Client.
+*   [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
+*   [keenex (⭐29)](https://github.com/bryanjos/keenex) - A Keen.io API Client.
 *   [qiita\_ex (⭐7)](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 *   [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 

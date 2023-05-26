@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 02, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Development tools
 
-*   [Open Watcom V2 (⭐742)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
+*   [Open Watcom V2 (⭐773)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
 ## [2. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
@@ -47,13 +47,7 @@
 
 *   Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-## [5. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tutorials / React Performance
-
-*   [Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)
-
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Command Line
 
@@ -61,7 +55,7 @@
 
 ### Camera
 
-*   [CameraBackground (⭐64)](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
+*   [CameraBackground (⭐63)](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
 
 ### UICollectionView / Barcode
 
@@ -69,9 +63,9 @@
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐899)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐917)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
-## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Libraries / Shell
 

@@ -22,11 +22,11 @@
 
 ### Algorithms and Data structures
 
-*   [ratio (⭐36)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
+*   [ratio (⭐37)](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
 
 ### Applications
 
-*   [Phoenix Battleship (⭐519)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
+*   [Phoenix Battleship (⭐520)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 
 ### Cloud Infrastructure and Management
 
@@ -34,7 +34,7 @@
 
 ### Validations
 
-*   [bankster (⭐29)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
+*   [bankster (⭐28)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 
 ## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
@@ -64,7 +64,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐406)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐423)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 

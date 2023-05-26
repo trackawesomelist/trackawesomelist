@@ -17,7 +17,7 @@
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [Stenographer (⭐1.7k)](https://github.com/google/stenographer) - Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.
+*   [Stenographer (⭐1.8k)](https://github.com/google/stenographer) - Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.
 
 ### Security monitoring / Service and performance monitoring
 
@@ -65,20 +65,24 @@
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
+### Layout / Barcode
+
+*   [Grid (⭐1.3k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.2k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐1.3k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Misc
 
 *   [Only-Error (⭐11)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐129)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Warn (⭐130)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐829)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐876)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -101,7 +105,7 @@
 ### Network / Anti-Spam
 
 *   [Spam Scanner](https://github.com/spamscanner) - Anti-Spam Scanning Service and Anti-Spam API by [@niftylettuce](https://github.com/niftylettuce).
-*   [rspamd (⭐1.7k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
+*   [rspamd (⭐1.8k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
 
 ## [14. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -119,31 +123,25 @@
 
 *   [Scapy (⭐8.5k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
-## [16. Awesome Ios](/content/vsouza/awesome-ios/README.md)
-
-### Layout
-
-*   [Grid (⭐1.3k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
-
-## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐122)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
-## [18. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Official Documentation Translations
 
 *   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
-## [19. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [18. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [steam-box (⭐127)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐132)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
@@ -309,17 +307,23 @@
 *   [HazeOver](https://hazeover.com/github-students.html) \[FREE] - Get focused while working on your projects or studying with HazeOver for Mac.Free app license, including minor updates.
 *   [Github Campus Experts](https://apply.githubcampus.expert/) \[FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
-## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [20. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
-*   🔧 [Typesaurus (⭐313)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
+*   🔧 [Typesaurus (⭐336)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
+
+## [21. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Visualization
+
+*   [D-Tale (⭐4k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
 ## [22. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐48)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐49)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 
 ---
 

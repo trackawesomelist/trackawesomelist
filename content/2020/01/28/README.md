@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -56,14 +56,14 @@
         *   [#cli channel](http://wordpress.slack.com/messages/cli/) - The official support channel for WP-CLI and the WordPress CLI team.
     *   [Good first issues](https://make.wordpress.org/cli/good-first-issues/) - List of issues on that are limited in scope and complexity.
 *   [WP-CLI GitHub organization](https://github.com/wp-cli) - Canonical home of the WP-CLI source code.
-    *   [WP-CLI framework repository (⭐4.6k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
-    *   [WP-CLI bundle repository (⭐65)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
-    *   [WP-CLI tests repository (⭐23)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
+    *   [WP-CLI framework repository (⭐4.7k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
+    *   [WP-CLI bundle repository (⭐72)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
+    *   [WP-CLI tests repository (⭐30)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
 
 ### Third-party packages / Notable packages
 
-*   [Yoast/wp-cli-faker (⭐48)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
-*   [aaemnnosttv/wp-cli-login-command (⭐254)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
+*   [Yoast/wp-cli-faker (⭐55)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
+*   [aaemnnosttv/wp-cli-login-command (⭐266)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
 
 ### Tutorials & guides / Notable packages
 
@@ -71,25 +71,19 @@
 *   [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - Introductory talk that covers the very basics of the command line for people who never used the console before.
 *   [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 
-## [5. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Awesome Components
-
-*   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
-
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [neon (⭐3.9k)](https://github.com/NervanaSystems/neon) - Nervana's [high-performance (⭐2.7k)](https://github.com/soumith/convnet-benchmarks) Python-based Deep Learning framework \[DEEP LEARNING]. **\[Deprecated]**
 
-## [7. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [6. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Molecular Descriptors
 
 *   [Rcpi](https://nanx.me/Rcpi/index.html) - R/Bioconductor package to generate various descriptors of proteins, compounds and their interactions.
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Auditing / Logging
 
@@ -112,7 +106,7 @@
 
 *   [CakeDC/Api plugin (⭐59)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
 
-## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### VueJS
 
@@ -124,25 +118,25 @@
 
 
 
-## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [9. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Out In Tech](https://outintech.com) - Non-profit organization that unites the LGBTQ+ tech community.
 
-## [11. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Contains 10'000 works by over 2'000 authors in German.
 
-## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Tab Bar
 
 *   [BEKCurveTabbar (⭐170)](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface\_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
 
-## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
@@ -167,7 +161,7 @@
 
 *   [Microsoft Recommenders (⭐14k)](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
 
-## [14. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [13. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 

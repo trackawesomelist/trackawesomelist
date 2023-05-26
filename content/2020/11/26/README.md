@@ -49,9 +49,9 @@
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### CI and CD
+### Cloud management solutions
 
-*   [scalr.com](https://scalr.com/) - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.
+*   [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product, used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full support of Terraform CLI, integration with OPA and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs / month for free.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Simulation / Version Control
 
-*   [Unity-Robotics-Hub (⭐1.3k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
+*   [Unity-Robotics-Hub (⭐1.5k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
 ## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

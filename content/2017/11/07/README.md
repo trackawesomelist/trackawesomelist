@@ -18,7 +18,7 @@
 
 ### HTTP
 
-*   [RestLess (⭐108)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+*   [RestLess (⭐109)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 
 ## [3. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐598)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐604)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -57,15 +57,15 @@
 
 ### Contents / Utilities
 
-*   [pREST (⭐3.4k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
+*   [pREST (⭐3.7k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 
 ### Contents / Language bindings
 
-*   Lua: [luapgsql (⭐99)](https://github.com/arcapos/luapgsql)
+*   Lua: [luapgsql (⭐103)](https://github.com/arcapos/luapgsql)
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐251)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐283)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [7. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -88,7 +88,7 @@
 
 ## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
-### Europe / Austria 🇦🇹
+### Australia / Australia 🇦🇺
 
 ### Melbourne
 
@@ -115,6 +115,9 @@ Topics: Design Systems, Web Design\
 **Phil Nash**\
 Topics: JavaScript, Web Development, Progressive Web Apps\
 <https://twitter.com/philnash>
+
+### Europe / Austria 🇦🇹
+
 ### Linz
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ddprrt" height="70px" width="70px" align="left" alt="" />
@@ -199,25 +202,6 @@ Topics: CSS in JS, Style Guides, Visual Regression Testing\
 **Vitaly Friedman**\
 Topics: Web Design, Web Development, Responsive Web Design\
 <https://twitter.com/smashingmag>
-### Hamburg
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/marionebl" height="70px" width="70px" align="left" alt="" />
-
-**Mario Nebl**\
-Topics: JavaScript, Node, JS Architecture\
-<https://twitter.com/marionebl>
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="" />
-
-**Martin Kleppe**\
-Topics: Weird JS\
-<https://twitter.com/aemkei>
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PalmaSwell" height="70px" width="70px" align="left" alt="" />
-
-**Mauricio Palma**\
-Topics: CSS, JavaScript\
-<https://twitter.com/PalmaSwell>
 
 ### Europe / Greece 🇬🇷
 
@@ -360,7 +344,7 @@ Topics: InfoSec, Web App Security\
 ### Cryptography
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. \[BSD]
-*   [Crypto++ (⭐3.8k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
+*   [Crypto++ (⭐4k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
 *   [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. \[LGPLv2.1+]
 
 ## [14. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
@@ -385,7 +369,7 @@ Topics: InfoSec, Web App Security\
 
 ### Python / General-Purpose Machine Learning
 
-*   [xRBM (⭐55)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
+*   [xRBM (⭐54)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 
 ## [16. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -410,7 +394,7 @@ Topics: InfoSec, Web App Security\
 
 *   [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
 *   [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
-*   [Szilard's machine learning benchmark (⭐1.8k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
+*   [Szilard's machine learning benchmark (⭐1.9k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
 
 ### Presentations
 

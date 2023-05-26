@@ -20,7 +20,7 @@
 
 ### Statistics / NLP
 
-*   [weightedcalcs (⭐98)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
+*   [weightedcalcs (⭐101)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 
 ### Distributed Computing / NLP
 
@@ -34,7 +34,7 @@
 
 ### Documentation / Runner
 
-*   [codecrumbs (⭐2.6k)](https://github.com/Bogdan-Lyashenko/codecrumbs) is a visual tool for learning and documenting a codebase by putting breadcrumbs in source code.
+*   [codecrumbs (⭐2.7k)](https://github.com/Bogdan-Lyashenko/codecrumbs) is a visual tool for learning and documenting a codebase by putting breadcrumbs in source code.
 
 ## [4. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Packages / Static site generators
 
-*   [Charge (⭐406)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐409)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -162,16 +162,16 @@
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐92)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐79)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [KnockoutJS (⭐93)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [Dojo Toolkit (⭐80)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 
 ### Back-End Development
 
-*   [Vagrant (⭐575)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐536)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-*   [Phalcon (⭐603)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+*   [Vagrant (⭐577)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐537)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Phalcon (⭐604)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 *   [Dropwizard (⭐86)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-*   [Lumen (⭐319)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+*   [Lumen (⭐321)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
@@ -190,7 +190,7 @@
 
 ### Database
 
-*   [DB4O-GPL ★8 (⭐25)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
+*   [DB4O-GPL ★8 (⭐27)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
 ## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

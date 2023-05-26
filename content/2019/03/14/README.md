@@ -15,7 +15,7 @@
 
 ### Supported Distributions / Pengwin Enterprise
 
-*   [Pengwin Enterprise GitHub (⭐58)](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Pengwin Enterprise GitHub (⭐62)](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Development / Release
 
-*   [clog (⭐783)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐810)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐492)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐509)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 
@@ -59,7 +59,7 @@
 
 ### Networking
 
-*   [Restinio (⭐942)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [Restinio (⭐978)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
 
 ### Podcasts
 

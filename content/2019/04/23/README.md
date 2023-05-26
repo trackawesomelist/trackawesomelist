@@ -21,7 +21,7 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐41k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐42k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
@@ -72,7 +72,7 @@
 
 ### UITableView / Barcode
 
-*   [WLEmptyState (⭐315)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+*   [WLEmptyState (⭐317)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 
 ---
 

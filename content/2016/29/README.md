@@ -141,7 +141,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [dynamodb-titan-storage-backend :fire::fire: (⭐442)](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
+*   [dynamodb-titan-storage-backend :fire::fire: (⭐444)](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -175,13 +175,13 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [Angular 2 webpack (⭐3)](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
+*   [Angular 2 webpack (⭐5)](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
 
 ### Security / Components
 
 *   [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
-*   [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl (⭐195)](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
-*   [Angular 2 authentication sample from auth0-blog (⭐978)](https://github.com/auth0-blog/angular2-authentication-sample)
+*   [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl (⭐194)](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
+*   [Angular 2 authentication sample from auth0-blog (⭐972)](https://github.com/auth0-blog/angular2-authentication-sample)
 
 ## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -293,7 +293,7 @@
 
 ### Network / Barcode
 
-*   [Heimdallr.swift (⭐630)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
+*   [Heimdallr.swift (⭐634)](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 
 ### UI / Barcode
 
@@ -321,8 +321,8 @@
 
 ### Data Visualization / Runner
 
-*   [d3 (⭐104k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
-*   [c3 (⭐9.2k)](https://github.com/c3js/c3) - D3-based reusable chart library.
+*   [d3 (⭐105k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
+*   [c3 (⭐9.3k)](https://github.com/c3js/c3) - D3-based reusable chart library.
 
 ### Documentation / Runner
 
@@ -338,11 +338,11 @@
 
 ### Date / Runner
 
-*   [timeago.js (⭐4.9k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
+*   [timeago.js (⭐5k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 
 ### String / Runner
 
-*   [jsurl (⭐502)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
+*   [jsurl (⭐521)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 
 ### Sliders / Runner
 
@@ -359,8 +359,7 @@
 
 ### Podcasts / Other
 
-*   [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
-*   [MaximAbramchuck/awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+*   [MaximAbramchuck/awesome-interviews (⭐55k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -390,7 +389,7 @@
 *   [NgKeyboardTracker (⭐805)](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 *   [MMNumberKeyboard (⭐957)](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
 *   [TPKeyboardAvoiding (⭐5.8k)](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
-*   [YYKeyboardManager (⭐480)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
+*   [YYKeyboardManager (⭐481)](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
 
 ### Utility / Collection View Layout
 
@@ -400,10 +399,10 @@
 *   [ObjectiveSugar (⭐2.2k)](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
 *   [OpinionatedC (⭐52)](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
 *   [YOLOKit (⭐662)](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
-*   [BFKit (⭐804)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
+*   [BFKit (⭐803)](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
 *   [AppVersionMonitor (⭐257)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [libextobjc (⭐4.5k)](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
-*   [YAML.framework (⭐236)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
+*   [YAML.framework (⭐237)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
 
 ## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -414,11 +413,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐77)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere!
+*   [nomad (⭐79)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 
 ### HTTP
 
-*   [http\_proxy (⭐55)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
+*   [http\_proxy (⭐58)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
 
 ### JSON
 
@@ -434,7 +433,7 @@
 
 ### Text and Numbers
 
-*   [stemmer (⭐144)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [stemmer (⭐145)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ### Third Party APIs
 
@@ -443,7 +442,7 @@
 
 ### Utilities
 
-*   [erlang-history (⭐497)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
 ## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -512,7 +511,7 @@
 
 ### RESTful API
 
-*   [Friboo (⭐117)](https://github.com/zalando/friboo)
+*   [Friboo (⭐119)](https://github.com/zalando/friboo)
 
 ## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -546,7 +545,7 @@
 
 *   [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
 *   [Gopencils (⭐440)](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
-*   [Neutrino (⭐133)](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
+*   [Neutrino (⭐134)](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
 *   [Sleepy (⭐678)](https://github.com/dougblack/sleepy) - REST for go.
 
 ### Haskell / Erlang
@@ -591,15 +590,9 @@
 
 ### Text Manipulation
 
-*   [hl (⭐92)](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
+*   [hl (⭐97)](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
 
-## [46. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
-
-### Awesome TypeScript Essential Resources
-
-*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐43k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
-
-## [47. Typography](/content/deanhume/typography/week/README.md)
+## [46. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -617,11 +610,21 @@
 
 *   This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
-## [48. Bots](/content/hackerkid/bots/week/README.md)
+## [47. Bots](/content/hackerkid/bots/week/README.md)
 
 ### General
 
 *   [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
+
+## [48. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Excel Integration
+
+*   [xlwt (⭐1k)](https://github.com/python-excel/xlwt) - Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform.
+*   [DataNitro](https://datanitro.com/) - DataNitro also offers full-featured Python-Excel integration, including UDFs. Trial downloads are available, but users must purchase a license.
+*   [xlloop](http://xlloop.sourceforge.net) - XLLoop is an open source framework for implementing Excel user-defined functions (UDFs) on a centralised server (a function server).
+*   [expy](http://www.bnikolic.co.uk/expy/expy.html) - The ExPy add-in allows easy use of Python directly from within an Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions.
+*   [pyxll](https://www.pyxll.com) - PyXLL is an Excel add-in that enables you to extend Excel using nothing but Python code.
 
 ---
 

@@ -10,24 +10,24 @@
 
 ### Data Manipulation / Data Frames
 
-*   [swifter (⭐2.2k)](https://github.com/jmcarpenter2/swifter) - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
+*   [swifter (⭐2.3k)](https://github.com/jmcarpenter2/swifter) - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 
 ### Data Manipulation / Pipelines
 
-*   [meza (⭐404)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
+*   [meza (⭐406)](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
 
 ### Model Explanation / NLP
 
-*   [Auralisation (⭐39)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
-*   [CapsNet-Visualization (⭐387)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
+*   [Auralisation (⭐40)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
+*   [CapsNet-Visualization (⭐389)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
 *   [lucid (⭐4.5k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
-*   [Netron (⭐21k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
+*   [Netron (⭐23k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
 *   [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
-*   [tensorboard-pytorch (⭐7.5k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
+*   [tensorboard-pytorch (⭐7.6k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Tutorials / Video Lectures and Online Courses
+### Video Lectures and Online Courses
 
 *   [JensenLab text mining exercises](https://jensenlab.org/training/textmining/)
 
@@ -41,7 +41,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code (⭐1.7k)](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`
+*   [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to create a free editable map of the world. ([Source Code (⭐1.8k)](https://github.com/openstreetmap/openstreetmap-website), [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`
 
 ### Software / Miscellaneous
 
@@ -57,11 +57,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Crypto Dashboard (⭐216)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
+*   [Vue Crypto Dashboard (⭐217)](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweetalert2 (⭐598)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
+*   [vue-sweetalert2 (⭐610)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 *   [vue-modality (⭐5)](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
@@ -74,13 +74,13 @@
 
 ### Tools
 
-*   [Ansible Lint (⭐3k)](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
+*   [Ansible Lint (⭐3.1k)](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Container Service
 
-*   [ecs-demo-php-simple-app :fire: (⭐151)](https://github.com/awslabs/ecs-demo-php-simple-app) - Simple PHP app.
+*   [ecs-demo-php-simple-app :fire: (⭐154)](https://github.com/awslabs/ecs-demo-php-simple-app) - Simple PHP app.
 
 ### Open Source Repos / S3
 

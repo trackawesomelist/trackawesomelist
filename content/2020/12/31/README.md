@@ -10,13 +10,13 @@
 
 ### Plugins
 
-*   [Spark (⭐286)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish.
+*   [Spark (⭐296)](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
-*   [Bunkerized-nginx (⭐2.8k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
+*   [Bunkerized-nginx (⭐2.9k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
 
 ## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

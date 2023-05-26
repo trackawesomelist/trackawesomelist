@@ -16,7 +16,7 @@
 
 ### ReactJS
 
-- Name: [Cerebro (⭐7.5k)](https://github.com/KELiON/cerebro)
+- Name: [Cerebro (⭐7.8k)](https://github.com/KELiON/cerebro)
 
   Description: One-input productivity booster
 

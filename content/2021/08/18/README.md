@@ -10,13 +10,13 @@
 
 ### Packages / General Purpose Libraries
 
-*   [Apache DataFu (⭐102)](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
+*   [Apache DataFu (⭐103)](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
-*   [SwiftBar (⭐2.1k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
+*   [SwiftBar (⭐2.2k)](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/swiftbar/SwiftBar/)
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -26,10 +26,9 @@
 
 ## [4. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tools / React Styling
+### React Styling
 
-*   [linaria (⭐9.9k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS
-*   [stitches (⭐6.7k)](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience
+*   [linaria (⭐10k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS library
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

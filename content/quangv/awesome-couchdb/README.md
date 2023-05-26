@@ -2,9 +2,15 @@
 
 CouchDB - curated meta resources & best practices list
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/quangv/awesome-couchdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb) · ⭐ 149 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/quangv/awesome-couchdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb) · ⭐ 159 · 🏷️ Databases
 
 [ Daily / [Weekly](/content/quangv/awesome-couchdb/week/README.md) / [Overview](/content/quangv/awesome-couchdb/readme/README.md) ]
+
+## [May 09, 2023](/content/2023/05/09/README.md)
+
+### Companies / Hosting
+
+*   [Fly.io](https://fly.io) use this [Guide](https://www.canrau.com/en/fly-couchdb) to host
 
 ## [Oct 13, 2021](/content/2021/10/13/README.md)
 
@@ -35,7 +41,7 @@ CouchDB - curated meta resources & best practices list
 
 ### Libraries
 
-*   [Jaki (⭐16)](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
+*   [Jaki (⭐17)](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
 
 ## [Nov 21, 2017](/content/2017/11/21/README.md)
 
@@ -73,7 +79,7 @@ CouchDB - curated meta resources & best practices list
 
 ### Companies
 
-*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐306)](https://github.com/eHealthAfrica/couchdb-best-practices).
+*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐311)](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 ### Misc/Technical / Hosting
 
@@ -177,10 +183,6 @@ CouchDB - curated meta resources & best practices list
 *   [Cloudant Official Guides](https://docs.cloudant.com/guides.html) - Applicable to CouchDB.
 
 ## [Feb 19, 2017](/content/2017/02/19/README.md)
-
-### Companies / Hosting
-
-*   [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
 
 ### CouchApps / Hosting
 

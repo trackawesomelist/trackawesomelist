@@ -10,7 +10,7 @@
 
 ### GTFS Libraries / JavaScript
 
-*   [Node-GTFS (⭐380)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
+*   [Node-GTFS (⭐384)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
 
 ## [2. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
@@ -53,16 +53,15 @@
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tools / React Renderers
+### React Renderers
 
 *   [ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-*   [react-nil (⭐648)](https://github.com/pmndrs/react-nil) - A react null renderer
 
 ## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools / i18n frameworks for developers
 
-*   [Translate (⭐737)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+*   [Translate (⭐746)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 
 ## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -78,7 +77,7 @@
 
 ### Other
 
-*   [Konstrukt (⭐58)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+*   [Konstrukt (⭐57)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

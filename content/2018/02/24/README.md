@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [lambda-refarch-fileprocessing :fire::fire: (⭐438)](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
+*   [lambda-refarch-fileprocessing :fire::fire: (⭐449)](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Packages / Apps
 
-*   [waveform-playlist (⭐1.2k)](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
+*   [waveform-playlist (⭐1.3k)](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

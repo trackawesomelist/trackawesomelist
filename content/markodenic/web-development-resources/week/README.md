@@ -2,9 +2,129 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.6K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.8K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / Weekly / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [May 22 - May 28, 2023](/content/2023/21/README.md)
+
+### Remote Jobs:
+
+- Website: <https://devemploy.com>
+
+
+
+### Youtube Channels:
+
+- Website: [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)
+
+
+
+### Chrome Extensions:
+
+- Website: [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)
+
+
+
+### HTML/CSS/JavaScript templates:
+
+- Website: [Web3Templates](https://web3templates.com)
+
+
+
+### React UI libraries:
+
+- Website: [Prime React](https://primereact.org/)
+
+  Description: The ultimate collection of design-agnostic, flexible and accessible React UI Components.
+
+
+
+## [May 15 - May 21, 2023](/content/2023/20/README.md)
+
+### Remote Jobs:
+
+- Website: <https://www.showwcase.com/jobs>
+
+
+
+### Videos:
+
+- Website: <https://photostockeditor.com>
+
+
+
+### Illustrations:
+
+- Website: <https://cocomaterial.com/>
+
+
+
+### Youtube Channels:
+
+- Website: [Leon Noel](https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)
+
+
+
+### Color Palettes:
+
+- Website: <https://materialui.co/colors/>
+
+
+
+### Animation Libraries:
+
+- Website: [SwiperJS](https://swiperjs.com)
+
+
+
+### Online Tools:
+
+- Website: [JSON Crack](https://jsoncrack.com/)
+
+  Description: A simple tool to visualize JSON Code in a neat tree structure
+
+
+- Website: [Codepng](https://codepng.app/)
+
+  Description: Convert your source code into awesome shareable images
+
+
+- Website: [yuyu.ai](https://yuyu.ai/)
+
+  Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
+
+
+
+## [May 08 - May 14, 2023](/content/2023/19/README.md)
+
+### Remote Jobs:
+
+- Website: <https://wellfound.com/>
+
+
+
+### Icons:
+
+- Website: <https://fonts.google.com/icons>
+
+
+
+### Newsletters:
+
+- Website: [Marko Tech Tips](https://markodenic.com/newsletter/)
+
+  Topics: Useful tech tips, directly to your inbox.
+
+
+
+## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
+
+### Coding Challenge Platforms:
+
+- Website: <https://lab.reaal.me/jsrobot/>
+
+
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
@@ -153,14 +273,6 @@ Awesome Web Development Resources.
 
 
 
-### Online Tools:
-
-- Website: [Codepng](https://www.codepng.app/)
-
-  Description: Convert your source code into awesome shareable images
-
-
-
 ### UI Components:
 
 - Website: [Flowbite](https://flowbite.com/)
@@ -190,14 +302,6 @@ Awesome Web Development Resources.
 ### Learning Platforms:
 
 - Website: <https://code.org/>
-
-
-
-## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
-
-### Remote Jobs:
-
-- Website: <https://jobstache.com>
 
 
 
@@ -555,9 +659,6 @@ Awesome Web Development Resources.
 - Website: <https://codepip.com>
 
 
-- Website: <https://triplebyte.com>
-
-
 - Website: <https://edabit.com>
 
 
@@ -586,9 +687,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://fiverr.com>
-
-
-- Website: <https://hireable.com>
 
 
 - Website: <https://6nomads.com>
@@ -631,9 +729,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://www.coolstartupjobs.com>
-
-
-- Website: <https://angel.co>
 
 
 
@@ -709,9 +804,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://icons8.com>
-
-
-- Website: <https://material.io/resources/icons>
 
 
 - Website: <https://iconmonstr.com>
@@ -1008,9 +1100,6 @@ Awesome Web Development Resources.
 - Website: <https://uigarage.net>
 
 
-- Website: <https://collectui.com>
-
-
 - Website: <https://httpster.net>
 
 
@@ -1120,9 +1209,6 @@ Awesome Web Development Resources.
 
 
 - Website: [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
-
-
-- Website: [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
 
 
 - Website: [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
@@ -1311,11 +1397,6 @@ Awesome Web Development Resources.
 - Website: [JSONT](https://www.jsont.run/)
 
   Description: A simple and powerful JSON formatting tool
-
-
-- Website: [yuyu.ai](https://yuyu.ai/)
-
-  Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
 
 
 

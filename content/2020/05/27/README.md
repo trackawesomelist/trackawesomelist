@@ -14,13 +14,13 @@
 
 ### Tools
 
-*   [oidc-bash-client (⭐72)](https://github.com/please-openit/oidc-bash-client)
+*   [oidc-bash-client (⭐78)](https://github.com/please-openit/oidc-bash-client)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
-*   [vue-postgrest (⭐59)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
+*   [vue-postgrest (⭐61)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -68,7 +68,7 @@
 
 ### TextField / Barcode
 
-*   [CHIOTPField (⭐243)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
+*   [CHIOTPField (⭐247)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
 ### Video / Barcode
 

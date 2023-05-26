@@ -56,16 +56,16 @@
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.5k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.6k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 
-*   [boxen (⭐1.3k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+*   [boxen (⭐1.4k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
 *   [shelljs (⭐14k)](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 
 ### Packages / Text
 
-*   [matcher (⭐528)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐529)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -74,7 +74,7 @@
 
 ### Packages / Miscellaneous
 
-*   [mem (⭐992)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [mem (⭐1k)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

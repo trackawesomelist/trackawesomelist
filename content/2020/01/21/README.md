@@ -22,7 +22,7 @@
 
 ### Integrations
 
-*   [React/NextJS Keycloak Bindings (⭐537)](https://github.com/panz3r/react-keycloak)
+*   [React/NextJS Keycloak Bindings (⭐552)](https://github.com/panz3r/react-keycloak)
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐588)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐598)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -88,12 +88,12 @@
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐714)](https://github.com/koute/pinky) — [![build badge](https://api.travis-ci.org/koute/pinky.svg?branch=master)](https://travis-ci.org/koute/pinky)
-    *   [pcwalton/sprocketnes (⭐727)](https://github.com/pcwalton/sprocketnes)
+    *   [koute/pinky (⭐722)](https://github.com/koute/pinky) —
+    *   [pcwalton/sprocketnes (⭐732)](https://github.com/pcwalton/sprocketnes)
 
 ### Applications / Text editors
 
-*   [mathall/rim (⭐560)](https://github.com/mathall/rim) — Vim-like text editor written in Rust
+*   [mathall/rim (⭐563)](https://github.com/mathall/rim) — Vim-like text editor written in Rust
 
 ### Applications / Text processing
 
@@ -102,18 +102,18 @@
 ### Libraries / Computation
 
 *   Parallel
-    *   [arrayfire/arrayfire-rust (⭐707)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
-    *   [autumnai/collenchyma (⭐462)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. [![build badge](https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master)](https://travis-ci.org/autumnai/collenchyma)
+    *   [arrayfire/arrayfire-rust (⭐739)](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
+    *   [autumnai/collenchyma (⭐465)](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
     *   [luqmana/rust-opencl (⭐170)](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐7k)](https://github.com/Immediate-Mode-UI/Nuklear)
+*   [Nuklear (⭐7.3k)](https://github.com/Immediate-Mode-UI/Nuklear)
     *   [nuklear-rust (⭐336)](https://github.com/snuk182/nuklear-rust) — Rust bindings for Nuklear
 
 ### Libraries / Logging
 
-*   [rust-lang/log (⭐1.7k)](https://github.com/rust-lang/log) — Logging implementation for Rust [![Build Status](https://api.travis-ci.org/rust-lang/log.svg?branch=master)](https://travis-ci.org/rust-lang/log)
+*   [rust-lang/log (⭐1.7k)](https://github.com/rust-lang/log) — Logging implementation for Rust
 
 ## [13. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
@@ -147,7 +147,7 @@ And run this to remove the attributes:
 
 ### For Electron / Other
 
-*   [electronmon (⭐83)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
+*   [electronmon (⭐98)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 
 ### Articles / Other
 
@@ -169,20 +169,20 @@ And run this to remove the attributes:
 
 ### Programming Languages
 
-*   [Common Lisp (⭐2.1k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-    *   [Learning (⭐158)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+*   [Common Lisp (⭐2.2k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+    *   [Learning (⭐162)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 
 ### Front-End Development
 
-*   [Web Animation (⭐1.1k)](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
+*   [Web Animation (⭐1.2k)](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
 
 ### Decentralized Systems
 
-*   [Corda (⭐68)](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
+*   [Corda (⭐69)](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
 
 ### Events
 
-*   [Creative Tech Events (⭐119)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+*   [Creative Tech Events (⭐122)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## [18. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

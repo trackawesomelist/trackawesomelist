@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06, 2020
 
-14 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -110,47 +110,23 @@
 
 ## [3. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tools / React Component Libraries
+### React Component Libraries
 
-*   [baseweb (⭐8.1k)](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
+*   [baseweb (⭐8.3k)](https://github.com/uber/baseweb) - A React Component library implementing the Uber's Base design language
 
-## [4. Awesome Preact](/content/preactjs/awesome-preact/README.md)
-
-### Contents / Example Apps
-
-*   [**Play.cash**](https://play.cash) :notes: *([GitHub Project (⭐91)](https://github.com/feross/play.cash))*
-*   [**Songsterr**](https://www.songsterr.com) 🎼 Using Preact X in production since 10.0 alpha
-*   [**BitMidi**](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files *([GitHub Project (⭐493)](https://github.com/feross/bitmidi.com))*
-*   [**Ultimate Guitar**](https://www.ultimate-guitar.com) 🎸speed boosted by Preact.
-*   [**ESBench**](http://esbench.com) is built using Preact.
-*   [**BigWebQuiz**](https://bigwebquiz.com) *([GitHub Project (⭐109)](https://github.com/jakearchibald/big-web-quiz))*
-*   [**Nectarine.rocks**](http://nectarine.rocks) *([GitHub Project (⭐54)](https://github.com/developit/nectarine))* :peach:
-*   [**OSS.Ninja**](https://oss.ninja) *([GitHub Project (⭐146)](https://github.com/developit/oss.ninja))*
-*   [**GuriVR**](https://gurivr.com) *([GitHub Project (⭐183)](https://github.com/opennewslabs/guri-vr))*
-*   [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) *([GitHub Project (⭐91)](https://github.com/vaneenige/offline-gallery/))* :balloon:
-*   [**Periodic Weather**](https://use-the-platform.com/periodic-weather/) *([GitHub Project (⭐58)](https://github.com/vaneenige/periodic-weather/))* :sunny:
-*   [**Rugby News Board**](http://nbrugby.com) *[(GitHub Project) (⭐6)](https://github.com/rugby-board/rugby-board-node)*
-*   [**Preact Gallery**](https://preact.gallery/) an 8KB photo gallery PWA built using Preact.
-*   [**Rainbow Explorer**](https://use-the-platform.com/rainbow-explorer/) Preact app to translate real life color to digital color *([Github project (⭐25)](https://github.com/vaneenige/rainbow-explorer))*.
-*   [**YASCC**](https://carlosqsilva.github.io/YASCC/#/) Yet Another SoundCloud Client *([Github project (⭐31)](https://github.com/carlosqsilva/YASCC))*.
-*   [**Journalize**](https://preact-journal.herokuapp.com/) 14k offline-capable journaling PWA using preact. *([Github project (⭐33)](https://github.com/jpodwys/preact-journal))*.
-*   [**Proxx**](https://proxx.app) A game of proximity by GoogleChromeLabs using preact. *([Github project (⭐1.2k)](https://github.com/GoogleChromeLabs/proxx))*.
-*   [**Web Maker**](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. *([Github project (⭐2.3k)](https://github.com/chinchang/web-maker))*.
-*   [**Intergram**](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. *([Github project (⭐1.3k)](https://github.com/idoco/intergram))*.
-
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
 *   [JSON::OnSteroids (⭐23)](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
 
-## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [5. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
 *   [Texar (⭐2.3k)](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 
-## [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
@@ -162,50 +138,11 @@
 
 *   [ipfsecret (⭐20)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Delphi / Pascal / Non-X86
-
-*   [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)
-
-### Hadoop / Spock Framework
-
-*   [Big Data Analytics with Hadoop 3](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3) - Sridhar Alla (Packt account *required*)
-
-### IoT / Bootstrap
-
-*   [Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) - Peter Waher (Packt account *required*)
-
-### Java / Spring
-
-*   [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2) - James J. Ye (Packt account *required*)
-*   [Software Architecture with Spring 5.0](https://www.packtpub.com/free-ebooks/software-architecture-spring-50) - René Enríquez, Alberto Salazar (Packt account *required*)
-
-### Linux / TeX
-
-*   [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) - Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali (Packt account *required*)
-
-### PowerShell / Zend
-
-*   [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
-
-### Python / Django
-
-*   [Django RESTful Web Services](https://www.packtpub.com/free-ebooks/django-restful-web-services) - Gaston C. Hillar (Packt account *required*)
-
-### Splunk / Play Scala
-
-*   [Splunk 7.x Quick Start Guide](https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide) - James H. Baxter (Packt account *required*)
-
-### SQL Server / Play Scala
-
-*   [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/free-ebooks/sql-server-2017-administrators-guide) - Marek Chmel, Vladimír Mužný (Packt account *required*)
-
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
-*   [base-lisp-image (⭐35)](https://github.com/40ants/base-lisp-image) - base
+*   [base-lisp-image (⭐34)](https://github.com/40ants/base-lisp-image) - base
     Docker image for Common Lisp projects with SBCL or CCL and the latest
     ASDF, Qlot and Roswell.
 
@@ -213,35 +150,35 @@
 
 *   [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). [MIT](https://opensource.org/licenses/MIT).
 
-## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Tutorials / Terraform
 
 *   [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 
-## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
-*   [gitmux (⭐378)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [gitmux (⭐410)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ### Plugins
 
-*   [tmux-spotify (⭐80)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+*   [tmux-spotify (⭐81)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
-## [12. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [10. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Tutorials / Basics
 
 *   [Getting started from scratch with Aseprite](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-2d1e31a5ceab)
 
-## [13. Amas](/content/sindresorhus/amas/README.md)
+## [11. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Ahmad Ainul Rizki](https://github.com/awanisius/ama) - Full-stack developer, part-time open-sourcerer, and interested in functional languages.
 
-## [14. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [12. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### secure tools
 

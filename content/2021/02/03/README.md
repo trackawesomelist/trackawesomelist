@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2021
 
-25 awesome lists updated today.
+24 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Task Queues
 
-*   [dramatiq (⭐3.4k)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
+*   [dramatiq (⭐3.5k)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 
 ## [2. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -50,7 +50,7 @@
 ### Archives and primary sources / North America
 
 *   [Chronicling America](https://chroniclingamerica.loc.gov/) - America's historic newspapers from 1777-1963.
-*   [David Rumsey Map Collection](https://www.davidrumsey.com/) - Over 94,000 maps and related images.
+*   [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical maps collection.
 *   [Eugenics Archive](https://eugenicsarchive.ca/) - Scholars, survivors, students, and community partners in challenging eugenics.
 
 ### Archives and primary sources / Switzerland
@@ -62,7 +62,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-related-admin (⭐61)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
+*   [django-related-admin (⭐64)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
 
 ## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Boilerplates
 
-*   [next-postgres-graphql (⭐29k)](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
+*   [next-postgres-graphql (⭐30k)](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
 
 ### Apps
 
-*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐296)](https://github.com/kachkaev/njt), thanks to Now integration.
+*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐299)](https://github.com/kachkaev/njt), thanks to Now integration.
 
 ## [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Nacos (⭐25k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
+*   [Nacos (⭐26k)](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
 
 ### Serialization / Scala
 
@@ -150,18 +150,18 @@
 
 ### Plugins / Languages and Environments
 
-*   [HTML (⭐91)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
+*   [HTML (⭐96)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 
 ## [16. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Destructible Objects (⭐331)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
-*   [CRT Shader (⭐255)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
+*   [2D Destructible Objects (⭐338)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥 (Godot 3.x).
+*   [CRT Shader (⭐260)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 
 ### Other / Godot version unknown
 
-*   [RetroPie Godot Game Engine "Emulator" (⭐70)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
+*   [RetroPie Godot Game Engine "Emulator" (⭐74)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 
 ## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -181,38 +181,32 @@
 
 *   [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks
 
-## [20. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Development Tools
-
-*   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
-
-## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo and Video Galleries
 
-*   [LibrePhotos (⭐5.2k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
+*   [LibrePhotos (⭐5.5k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
-## [22. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [21. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Static Analysis / Multi-Language Support
 
 *   [DevSkim (⭐748)](https://github.com/microsoft/DevSkim) - *Microsoft* - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
 
-## [23. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [22. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Data structures / Windows
 
 *   [What is Data Structure? | Top 40 Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
-## [24. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [23. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
 *   [Cirrus dataset](https://developer.volvocars.com/open-datasets/cirrus/) A public datatset from non-uniform distribution of LIDAR scanning patterns with emphasis on long range. In this dataset Luminar Hydra LIDAR is used. The dataset is available at the Volvo Cars Innovation Portal.
     *   [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 
-## [25. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [24. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 

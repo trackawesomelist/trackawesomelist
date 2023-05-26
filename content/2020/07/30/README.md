@@ -22,7 +22,7 @@
 
 ### External Services
 
-*   [netease-music-box (⭐57)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
+*   [netease-music-box (⭐63)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [RustScan (⭐7.4k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
+*   [RustScan (⭐10k)](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
 
 ## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 

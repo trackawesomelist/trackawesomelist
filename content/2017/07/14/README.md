@@ -10,7 +10,7 @@
 
 ### Audio Related Packages / Speech Processing
 
-*   [PyWorldVocoder (⭐563)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐563)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
+*   [PyWorldVocoder (⭐608)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐608)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Third-party APIs
 
-*   [awscr-s3 (⭐80)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+*   [awscr-s3 (⭐82)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -59,7 +59,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐279)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [LDA.js (⭐281)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
 *   [Node-SVM (⭐295)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
@@ -68,7 +68,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐446)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐448)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -85,13 +85,13 @@
 ### Software / R
 
 *   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
-*   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).
+*   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM). Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA).
 *   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
 *   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
 *   [btergm](https://CRAN.R-project.org/package=btergm) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
 *   [GERGM](https://CRAN.R-project.org/package=GERGM) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
-*   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with ggplot2.
-*   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with ggplot2.
+*   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with `ggplot2`.
+*   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with `ggplot2`.
 *   [hergm](https://CRAN.R-project.org/package=hergm) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
 *   [hierformR](https://CRAN.R-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
 *   [influenceR](https://CRAN.R-project.org/package=influenceR) - Compute various node centrality network measures by Burt, Borgatti and others.
@@ -108,7 +108,7 @@
 *   [rgexf](https://CRAN.R-project.org/package=rgexf) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 *   [sna](https://CRAN.R-project.org/package=sna) - Basic network constructors, measures and visualization tools.
 *   [SocialMediaLab](https://CRAN.R-project.org/package=SocialMediaLab) - Tools for collecting social media data and generating networks from it ([companion website](http://vosonlab.net/SocialMediaLab), [github repo](https://github.com/voson-labSocialMediaLab)).
-*   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for dealing with spatial social networks.
+*   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for visualizing spatial networks on maps in the `sp` class.
 *   [tergm](https://CRAN.R-project.org/package=tergm) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
 *   [tnam](https://CRAN.R-project.org/package=tnam) - Tools to fit temporal and cross-sectional network autocorrelation models (TNAM).
 *   [tnet](https://CRAN.R-project.org/package=tnet) - Network measures for weighted, two-mode and longitudinal networks.
@@ -123,7 +123,7 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐47)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

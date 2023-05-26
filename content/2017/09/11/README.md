@@ -24,7 +24,7 @@
 
 ### Security and Cryptography
 
-*   [nocrypto (⭐109)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
+*   [nocrypto (⭐110)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
 ## [3. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -36,11 +36,11 @@
 
 ### Build Automation
 
-*   [Nuke (⭐1.8k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+*   [Nuke (⭐1.9k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 
 ### Image Processing
 
-*   [OpenCvSharp (⭐4.4k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
+*   [OpenCvSharp (⭐4.6k)](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 
 ### Logging
 
@@ -48,7 +48,7 @@
 
 ### PDF
 
-*   [PdfiumViewer (⭐844)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
+*   [PdfiumViewer (⭐861)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [Awesome Core ML Models (⭐5.7k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+*   [Awesome Core ML Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 ## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -89,8 +89,8 @@
 ### :sparkles: Tutorials
 
 *   [How to implement classification using logistic regression in Ruby](https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
-*   [Teaching an AI to play a simple game using Q-Learning in Ruby](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/) <sup>\[[code (⭐36)](https://github.com/daugaard/q-learning-simple-game)]</sup>
-*   [Teaching a Neural Network to play a game using Q-Learning in Ruby](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/) <sup>\[[code (⭐36)](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
+*   [Teaching an AI to play a simple game using Q-Learning in Ruby](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/) <sup>\[[code (⭐37)](https://github.com/daugaard/q-learning-simple-game)]</sup>
+*   [Teaching a Neural Network to play a game using Q-Learning in Ruby](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/) <sup>\[[code (⭐37)](https://github.com/daugaard/q-learning-simple-game/tree/neuralnetwork)]</sup>
 
 ---
 

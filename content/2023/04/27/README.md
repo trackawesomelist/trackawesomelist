@@ -1,0 +1,397 @@
+# Awesome List Updates on Apr 27, 2023
+
+10 awesome lists updated today.
+
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+
+
+
+## [1. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Code & Database Assistant
+
+- Name: [Anania](https://anania.ai/?ref=aicollection)
+
+  Title: AI Assistant for Analytics.
+
+  Description: Ask questions on your data and documents.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Human Resources & Resume
+
+- Name: [resumator](https://www.resumator.ai/?ref=aicollection)
+
+  Title: Looking for a Job? We've Got You Covered.
+
+  Description: Get hired faster with our AI-powered personalized cover letter. It takes just a few seconds!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Productivity & Personal Growth
+
+- Name: [Voilà](https://www.getvoila.ai/?ref=aicollection)
+
+  Title: Personal ChatGPT Assistant for Supercharged Productivity.
+
+  Description: Improve your writing, get answers to all your questions, draft high-quality content and respond to emails. All in one place.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Personal Dashboards
+
+*   [LinkStack](https://linkstack.org/) - Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LinkStack allows you to link all your social media platforms easily accessible on one page. ([Demo](https://linksta.cc/), [Source Code (⭐793)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP`
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Markdown and LaTeX / Diagnostics
+
+*   [yaocccc/nvim-hl-mdcodeblock.lua (⭐15)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [nyngwang/nvimgelion (⭐44)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
+
+## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+
+### System and Customization
+
+*   [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
+*   [AdwSteamGtk (⭐83)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐786)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
+
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Audio and Video Tools / File Sharing
+
+*   [YouTube Music](https://th-ch.github.io/youtube-music/) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/th-ch/youtube-music/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+
+### Books / Dissemination
+
+*   *[Linked: The New Science of Networks](https://barabasi.com/book/linked)*, by Albert-László Barabási (2002).
+
+### Books / General Overviews
+
+*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐272)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
+*   *[L'analyse de réseau en sciences sociales. Petit guide pratique](https://hal.science/hal-04052709)*, by Laurent Beauguitte, in French (2023). [Readable online](https://beauguitte.github.io/analyse-de-reseau-en-shs/).
+*   *[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)*, by David Easley and Jon Kleinberg - Full pre-publication draft ([review](http://bactra.org/reviews/networks-crowds-markets.html); 2010).
+*   *[The SAGE Handbook of Social Network Analysis](https://methods.sagepub.com/book/the-sage-handbook-of-social-network-analysis)*, edited by John Scott and Peter J. Carrington (2011).
+*   *[Social and Economic Networks](https://press.princeton.edu/books/paperback/9780691148205/social-and-economic-networks)*, by Matthew O. Jackson (2008).
+*   *[Social Network Analysis with Applications](https://www.wiley.com/en-gb/Social+Network+Analysis+with+Applications-p-9781118169476)*, by Ian McCulloh, Helen Armstrong and Anthony Johnson (2013).
+
+### Books / Method-specific
+
+*   *[Inferential Network Analysis](https://www.cambridge.org/highereducation/books/inferential-network-analysis/A7797D36A24647AA1F900CE7EF694C7E)*, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (2020).
+*   *[Multimodal Political Networks](https://www.cambridge.org/core/books/multimodal-political-networks/43EE8C192A1B0DCD65B4D9B9A7842128)*, by David Knoke, Mario Diani, James Hollway and Dimitri Christopulos (2021).
+*   *[Understanding Large Temporal Networks and Spatial Networks](https://www.wiley.com/en-gb/Understanding+Large+Temporal+Networks+and+Spatial+Networks%3A+Exploration%2C+Pattern+Searching%2C+Visualization+and+Network+Evolution-p-9780470714522)*, by Vladimir Batagelj *et al.* (2014).
+
+### Courses / Topic-specific
+
+*   [Complex Networks](http://cazabetremy.fr/Teaching/ComplexNetworks.html), by Rémy Cazabet (University Lyon 1 and ENS Lyon, 2022).
+    *   [Network Science CheatSheets (⭐14)](https://github.com/Yquetzal/NetworkScience_CheatSheets).
+*   [Graphs and Networks](https://sites.google.com/a/yale.edu/462-562-graphs-and-networks/), by Dan Spielman (Yale University, 2013).
+*   [Network Analysis and Modeling (Computer Science)](https://aaronclauset.github.io/courses/5352/), by Aaron Clauset - Full lecture slides and readings (University of Colorado, 2022).
+
+### Datasets / Topic-specific
+
+*   [Hetionet: an integrative network of disease (⭐202)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
+*   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
+*   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - US state-to-state relational variables, including borders, travel, trade and more.
+*   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.
+
+### Journals / Topic-specific
+
+*   *[IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)* (IEEE).
+
+### Professional Groups / Topic-specific
+
+*   [AFS RT 26 “Réseaux sociaux”](https://afs-socio.fr/rt/rt26/) - Thematic Network of the French Sociological Association (AFS), in French ([old website](https://web.archive.org/web/20160421164221/http://www.cmh.pro.ens.fr/reseaux-sociaux/)).
+*   [GDR ARSHS - GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/), in French - Research group based in Paris.
+*   [Groupe FMR - Flux, Matrices, Réseaux](https://groupefmr.hypotheses.org/), in French. Twitter: [@BaugLaurent](https://twitter.com/BaugLaurent).
+*   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://mathematicalsociology.org/). Twitter: [@Math\_Sociology](https://twitter.com/Math_Sociology).
+*   [Society of Young Network Scientists (SYNS)](https://society-of-young-network-scientists.github.io/). Supports early-career network scientists. Twitter: [@official\_SYNS](https://twitter.com/official_SYNS).
+
+### Professional Groups / Research Groups (Other)
+
+*   [NetLab](http://www.urbancentre.utoronto.ca/researchgroups/netlab.html) - Research network at the University of Toronto, led by Barry Wellman.
+
+### Review Articles / Archeological and Historical Networks
+
+*   [Analyse de réseaux et histoire](https://doi.org/10.3917/rhmc.522.0088), in French (*Revue d’histoire moderne et contemporaine*, 2005).
+*   [Analyser les réseaux du passé en archéologie et en histoire](https://doi.org/10.4000/nda.2300), in French (*Les Nouvelles de l’Archéologie*, 2014).
+*   [Introduction à la visualisation de données : l’analyse de réseau en histoire](https://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/), in French (*Geschichte und Informatik*, 2015).
+*   [Introduction : où en est l’analyse de réseaux en histoire ? \[Introducción: ¿en qué punto se encuentra el análisis de redes en Historia?\]](https://doi.org/10.5565/rev/redes.416), in French and Spanish (*REDES*, 2011).
+*   [Networks and History](https://doi.org/10.1002/cplx.10054) (*Complexity*, 2002).
+*   [Networks of Power in Archaeology](https://doi.org/10.1146/annurev-anthro-102313-025901) (*Annual Review of Anthropology*, 2014).
+*   [Netzwerkanalyse in den Geschichtswissenschaften. Historische Netzwerkanalyse als Methode für die Erforschung von historischen Prozessen](https://www.researchgate.net/publication/300723171_Netzwerkanalyse_in_den_Geschichtswissenschaften_Historische_Netzwerkanalyse_als_Methode_fur_die_Erforschung_von_historischen_Prozessen), in German (*[Prozesse. Formen, Dynamiken, Erklärungen](https://www.springer.com/de/book/9783531176604)*, 2015).
+*   [Thinking Through Networks: A Review of Formal Network Methods in Archaeology](https://doi.org/10.1007/s10816-012-9133-8) (*Journal of Archaeological Method and Theory*, 2013).
+
+### Review Articles / Bibliographic, Citation and Semantic Networks
+
+*   [Assessing Impact and Quality from Local Dynamics of Citation Networks](https://doi.org/10.1016/j.joi.2011.08.005) (*Journal of Informetrics*, 2012).
+*   [Atypical Combinations and Scientific Impact](https://doi.org/10.1126/science.1240474) (*Science*, 2013).
+*   [On Bibliographic Networks](https://doi.org/10.1007/s11192-012-0940-1) (*Scientometrics*, 2013).
+*   [Extracting Citation Networks from Publications in Classics](http://www.digitalhumanities.org/dhq/vol/10/2/000255/000255.html) (*Digital Humanities Quarterly*, 2016).
+*   [Self-Citations, Co-Authorships and Keywords: A New Approach to Scientists’ Field Mobility?](https://doi.org/10.1007/s11192-007-1680-5) (*Scientometrics*, 2007).
+*   [Socio-Semantic Frameworks](https://doi.org/10.1142/S0219525913500136) ([preprint](http://camille.roth.free.fr/travaux/roth--sociosemantic-systems-acs-proofs.pdf); *Advances in Complex Systems*, 2013).
+*   [Socio-Semantic Modeling of Epistemic Communities](https://ssrn.com/abstract=2452614) (APSA, 2014).
+*   [Tradition and Innovation in Scientists’ Research Strategies](https://doi.org/10.1177/0003122415601618) (*Annual Review of Sociology*, 2015).
+
+### Review Articles / Biological, Ecological and Disease Networks
+
+*   [Interactome Networks and Human Disease](https://barabasi.com/f/326.pdf) (*Cell*, 2011).
+*   [Network Analysis: An Integrative Approach to the Structure of Psychopathology](https://doi.org/10.1146/annurev-clinpsy-050212-185608) (*Annual Review of Clinical Psychology*, 2013).
+*   [Network Biology: Understanding the Cell’s Functional Organization](https://barabasi.com/f/147.pdf) - Accessible introduction to (cellular) network analysis (*Nature Reviews Genetics*, 2004).
+*   [Network Medicine: A Network-based Approach to Human Disease](https://barabasi.com/f/320.pdf) (*Nature Review Genetics*, 2011).
+*   [Social Networks and the Spread of Infectious Diseases: the AIDS Example](https://doi.org/10.1016/0277-9536\(85\)90269-2) (*Social Networks*, 1985).
+*   [Structure and Dynamics of Molecular Networks: A Novel Paradigm of Drug Discovery. A Comprehensive Review](https://doi.org/10.1016/j.pharmthera.2013.01.016) - Also includes an impressive list of network analysis software (*Pharmacology & Therapeutics*, 2013).
+
+### Review Articles / Complex and Multilayer Networks
+
+*   [The Architecture of Complexity](https://barabasi.com/f/226.pdf) - From network theory to complexity theory (*IEEE Control Systems Magazine*, 2007).
+*   [Complex Systems and Networks](https://www.science.org/toc/science/325/5939) (special issue of *Science*, 2009).
+*   [Statistical Mechanics of Complex Networks](https://barabasi.com/f/103.pdf) (*Reviews of Modern Physics*, 2002).
+*   [The Structure and Function of Complex Networks](https://doi.org/10.1137/S003614450342480) (*SIAM Review*, 2003).
+
+### Review Articles / Ethics of Network Analysis
+
+*   [A Cautionary Note on Data Inputs and Visual Outputs in Social Network Analysis (SNA)](https://doi.org/10.1111/j.1467-8551.2012.00835.x) ([preprint](https://lra.le.ac.uk/bitstream/2381/36068/2/Draft%20BJM%20Revised%20\(3rd%20iteration\)%20Manuscript.pdf); *British Journal of Management*, 2014).
+*   [Ethical Dilemmas in Social Network Research](https://www.sciencedirect.com/journal/social-networks/vol/27/issue/2) (special issue of *Social Networks*, 2005).
+
+### Review Articles / Network Modeling
+
+*   [Introduction to Stochastic Actor-Based Models for Network Dynamics](https://doi.org/10.1016/j.socnet.2009.02.004) ([preprint](http://www.stats.ox.ac.uk/~snijders/SnijdersSteglichVdBunt2009.pdf); *Social Networks*, 2010).
+*   [Navigating the Range of Statistical Tools for Inferential Network Analysis](https://doi.org/10.1111/ajps.12263) (*American Journal of Political Science*, 2017).
+*   [Social Network Evolution and Actor Oriented Models](https://doi.org/10.4000/msh.2750) (*Mathematics & Social Sciences*, 1997).
+*   [Statistical Models for Social Networks](https://doi.org/10.1146/annurev.soc.012809.102709) (*Annual Review of Sociology*, 2011).
+*   [A Unified View of Generative Models for Networks: Models, Methods, Opportunities, and Challenges](https://arxiv.org/abs/1411.4070) ([video presentation](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos/watch/201504200944-Jacobs.html); [NIPS 2014 workshop](https://nips.cc/Conferences/2014/Schedule?type=Workshop) on “[Networks: From Graphs to Rich Data](https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/)”).
+
+### Review Articles / Social, Economic and Political Networks
+
+*   [A propos de la notion de rôle dans l’analyse des relations sociales](https://doi.org/10.4000/msh.11969) (*Mathématiques et sciences humaines*, 2011).
+*   [Brokerage](https://doi.org/10.1146/annurev-soc-081309-150054) (*Annual Review of Sociology*, 2012).
+*   [Birds of a Feather: Homophily in Social Networks](https://doi.org/10.1146/annurev.soc.27.1.415) (*Annual Review of Sociology*, 2001).
+*   [Network Analysis and Political Science](https://doi.org/10.1146/annurev.polisci.12.040907.115949) (*Annual Review of Political Science*, 2011).
+
+### Selected Papers / Social, Economic and Political Networks
+
+*   [Coauthorship and Citation Patterns in the *Physical Review*](https://doi.org/10.1103/PhysRevE.88.012814), by Travis Martin *et al.* - Highly typical study of scientific publishing productivity and collaboration through temporal network analysis ([preprint](https://arxiv.org/abs/1304.0473); *Physical Review E*, 2013).
+*   [La notion de réseau complexe : du réseau comme abstraction et outil à la masse de données des réseaux sociaux en ligne](https://doi.org/10.4000/communicationorganisation.4093), by Alain Barrat, in French - Accessible introduction to the study of complex networks (*Communication & Organisation*, 2013).
+*   [Network Analysis, Culture, and the Problem of Agency](https://www.mustafaemirbayer.com/network-analysis-culture-and-the-pr), by Mustafa Emirbayer and Jeff Goodwin (*American Journal of Sociology*, 1994), and [Manifesto for a Relational Sociology](https://www.mustafaemirbayer.com/copy-3-of-bourdieu), by Mustafa Emirbayer (*American Journal of Sociology*, 1997) - Sociological foundations for a science of social ties.
+*   [Node Centrality in Weighted Networks: Generalizing Degree and Shortest Paths](https://doi.org/10.1016/j.socnet.2010.03.006), by Tore Opsahl, Filip Agneessens and John Skvoretz - Explores the generalization of network centrality and distance measures to (positively) valued graphs (*Social Networks*, 2010; [companion website](https://toreopsahl.com/tnet/)).
+*   [Scale-Free Networks](https://barabasi.com/f/124.pdf), by Albert-László Barabási and Eric Bonabeau - Early, accessible formulation of the “networks are everywhere” argument (*Scientific American*, 2003).
+*   [The Performativity of Networks](https://kieranhealy.org/files/papers/performativity.pdf), by Kieran Healy - Network analysis meets science studies: social networks, like financial markets, are highly subject to performativity, i.e. the possibility that reality might be altered by its theoretical inquiry (*European Journal of Sociology*, 2015).
+*   [Topics in Social Network Analysis and Network Science](https://arxiv.org/abs/1404.0067), by A. James O’Malley and Jukka-Pekka Onnela - 50-page introduction to network analysis, with just the right amount of detail on all aspects of it (*The Handbook of Health Services Research*, forthcoming 2017).
+
+### Software / Social, Economic and Political Networks
+
+*   [EgoWeb](https://www.qualintitative.com/egoweb/) - Server-side software for social network data collection and processing.
+*   [Graphia](https://graphia.app/) - Cross-platform tool to visualize large and complex networks ([announcement](https://www.cnn.group.cam.ac.uk/news/Graphia-April19)).
+*   [Palladio](http://hdlab.stanford.edu/palladio/) - Web-based spatial network visualization tool by the [Humanities + Design research lab](http://hdlab.stanford.edu/) at Stanford University.
+*   [PARTNER - Program to Analyze, Record, and Track Networks to Enhance Relationships](https://visiblenetworklabs.com/partner-cprm/) - Excel-based tool for building networks from surveys.
+*   [PIGALE - Public Implementation of a Graph Algorithm Library and Editor](https://pigale.sourceforge.net/) - Windows program and C++ library to analyze planar graphs.
+*   [qgis-edge-bundling (⭐61)](https://github.com/ait-energy/qgis-edge-bundling) - Implementation of force-directed edge bundling for the QGIS Processing toolbox.
+*   [Radatools](https://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
+*   [Retina](https://ouestware.gitlab.io/retina) - Web application to share GEXF and GraphML network visualizations.
+*   [SageMath](https://www.sagemath.org/) - Free open-source mathematics software with extensive [graph capabilities](http://doc.sagemath.org/html/en/reference/graphs/index.html).
+*   [Segrada](https://www.segrada.org/) - Cross-platform tool to build and visualize semantic graph databases.
+*   [Siena](https://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
+*   [SocNetV - Social Network Visualizer](https://socnetv.org/) - Cross-platform program that includes a [simple Web crawler](https://socnetv.org/news/?post=socnetv-v16-released-with-a-working-web-crawler) to construct hyperlink networks.
+*   [Visone](https://visone.ethz.ch/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
+    *   [Visone Tutorials](https://visone.ethz.ch/wiki/index.php/Tutorials) - Including one using an archaeological case study (2017).
+*   [VOSviewer](https://www.vosviewer.com/) - Cross-platform Java tool for constructing and visualizing bibliometric networks.
+
+### Software / Algorithms
+
+*   [CONGA and CONGO](https://gregory.org/research/networks/software/conga.html) - Algorithms to detect overlapping communities in networks, written in Java.
+*   [MixNet - Erdös-Rényi Mixture Model for Networks](https://ssbgroup.fr/mixnet.html) - Community detection method, available in C++ and R.
+*   [vbmod: Variational Bayesian Inference for Network Modularity](https://vbmod.sourceforge.net/) - MATLAB and Python implementations of a [Bayesian community detection algorithm](https://arxiv.org/abs/0709.3512).
+
+### Software / C / C++
+
+*   [BGL - Boost Graph Library](https://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
+*   [igraph](https://igraph.org/) - C library of network analysis tools; also exists as packages for Python and R.
+*   [MapEquation](https://www.mapequation.org/) - C++ code for the Infomap method of multilevel community detection.
+*   [networks.tb](https://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks. Runs on Linux and Mac OS X.
+*   [OGDF - Open Graph Drawing Framework](https://ogdf.uos.de/) - Self-contained C++ class library for diagram, network and tree layouts.
+
+### Software / Java
+
+*   [GraphStream](https://graphstream-project.org/) - Java library for the modeling and analysis of dynamic graphs.
+
+### Software / JavaScript
+
+*   [Cytoscape.js](https://js.cytoscape.org/) - Network analysis and visualization library.
+*   [GoJS](https://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
+*   [Popoto.js (⭐454)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
+*   [Sigma](https://www.sigmajs.org/) - JavaScript library dedicated to graph drawing.
+*   [vis.js](https://visjs.org/) - JavaScript library with network visualization capabilities.
+
+### Software / MATLAB
+
+*   [MatlabBGL](https://dgleich.github.io/matlab-bgl/) - Graph library based on the C++ Boost Graph Library.
+
+### Software / Python
+
+*   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
+*   [cdlib (⭐305)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
+*   [networkx](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+    *   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
+    *   [nxviz (⭐426)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
+*   [nngt](https://nngt.readthedocs.io) - Library-agnostic graph generation and analysis that wraps around `networkx`, `igraph` and `graph-tool`). Includes normalized graph measures, advanced visualizations, (geo)spatial tools, and interfaces for neuroscience simulators.
+*   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
+*   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - Fast graph algorithms based on sparse matrix representations.
+*   [tnetwork (⭐8)](https://github.com/Yquetzal/tnetwork) - Python library for temporal networks, and dynamic community detection in particular.
+
+### Software / R
+
+*   [brainGraph](https://CRAN.R-project.org/package=brainGraph) - Tools for performing graph theory analysis of brain MRI data.
+*   [dodgr](https://CRAN.R-project.org/package=dodgr) - Computes distances on dual-weighted directed graphs, such as street networks, using priority-queue shortest paths.
+*   [egor](https://CRAN.R-project.org/package=egor) - Tools for importing, analyzing and visualizing ego-centered network data, in various formats.
+*   [EpiModel](https://CRAN.R-project.org/package=EpiModel) - Tools for simulating mathematical models of infectious disease dynamics ([presentation paper](https://doi.org/10.18637%2Fjss.v084.i08)).
+*   [ergMargins](https://CRAN.R-project.org/package=ergMargins) - Process analysis for ERGMs.
+*   [ergmito](https://CRAN.R-project.org/package=ergmito) - ERGMs for small networks.
+*   [fergm](https://CRAN.R-project.org/package=fergm) - Frailty ERGMs.
+*   [goldfish (⭐52)](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
+*   [graphlayouts](https://CRAN.R-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
+    *   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
+    *   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
+*   [multigraphr (⭐12)](https://github.com/termehs/multigraphr) - Random multigraph models, statisticsof multigraph properties, and goodness of fit tests.
+*   [multinet](https://CRAN.R-project.org/package=multinet) - Tools for multilayer social networks.
+    *   [Related book and data](http://multilayer.it.uu.se/), and [presentation article](http://multilayer.it.uu.se/papers/jss.pdf). See `uunet` for the Python version.
+*   [migraph](https://CRAN.R-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
+*   [networkD3](https://christophergandrud.github.io/networkD3/) - Create d3.js network graphs from R.
+*   [netrankr](https://CRAN.R-project.org/package=netrankr) - Up-to-date collection of network centrality indices, with lots of documentation.
+    *   [Network Centrality in R: An Introduction](http://blog.schochastics.net/post/network-centrality-in-r-introduction/) - Includes a review of relevant R packages.
+    *   [Network Centrality in R: Neighborhood Inclusion](http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/).
+    *   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
+*   [spNetwork](https://CRAN.R-project.org/package=spNetwork) - Methods for spatial network analysis, including e.g. kernel density estimation, distances and point pattern analysis.
+*   [statnet](https://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman13.u.washington.edu/mailman/listinfo/statnet_help), [tutorials/workshops](https://statnet.org/workshops/)).
+    *   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/workshop-ergm/ergm_tutorial.html) (2022).
+    *   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
+    *   [Modeling Valued Networks with statnet](https://statnet.org/workshop-valued/valued.html) (2022).
+
+### Software / Syntaxes
+
+*   [JGraphT](https://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms (⭐8)](https://github.com/agouge/Java-Network-Analyzer)).
+*   [JUNG - Java Universal Network/Graph Framework](https://jung.sourceforge.net/) - Extensible library to represent network objects.
+
+### Varia / Tutorials
+
+*   [(Psychological) Network Analysis Workshops](https://osf.io/6axte/) - 3-day workshop on psychological network analysis using R (2019).
+*   [Visualizing Historical Networks](https://histecon.fas.harvard.edu/visualizing/index.html) - Historical network research projects at Harvard University.
+    *   [Angoulême in 1764](https://histecon.fas.harvard.edu/visualizing/angouleme/index.html).
+    *   [Economists in Cambridge](https://histecon.fas.harvard.edu/visualizing/graphing/economists.html).
+    *   [The Inner Life of Empires: An Eighteenth Century History](https://histecon.fas.harvard.edu/visualizing/graphing/innerlife.html).
+
+### Varia / Blog Series
+
+*   [Blog Posts About Networks by François Briatte](https://politbistro.hypotheses.org/tag/reseaux), in French.
+*   Daniel Little’s blog posts on the philosophy of social science:
+    *   [Networks](https://understandingsociety.blogspot.com/search/label/networks).
+    *   [Social Networks](https://understandingsociety.blogspot.com/search/label/social%20networks).
+*   Martin Grandjean’s blog posts about (mostly) network visualization, in English and French:
+    *   [Network Analysis](https://www.martingrandjean.ch/tag/analyse-de-reseau/).
+    *   [Social Networks](https://www.martingrandjean.ch/tag/reseaux-sociaux/).
+*   [Networks Demystified](http://www.scottbot.net/HIAL/index.html@tag=networks-demystified.html), a series of blog posts by Scott B. Weingart.
+*   [Netze und Netzwerke](https://netzeundnetzwerke.de/), in English and German - Blog on the history of network analysis, by Sebastian Gießmann ([old blog](http://www.netzeundnetzwerke.de/old/)).
+*   [R / Notes: Networks](https://f.briatte.org/r/category/networks) - Blog posts focused on manipulating networks in R, by François Briatte.
+*   Yannick Rochat’s blog posts about digital humanities, in English and French:
+    *   [Character Networks](https://yro.ch/tag/character-network/).
+    *   [Network Analysis](https://yro.ch/tag/network-analysis/).
+
+### Varia / Fictional Networks
+
+*   [Character Co-Occurrences in Victor Hugo’s *Les Misérables*](https://docs.bokeh.org/en/latest/docs/examples/topics/categorical/les_mis.html), plotted as an adjacency matrix, written in Python (+ Javascript).
+*   [Network Visualization: Mapping Shakespeare’s Tragedies](https://www.martingrandjean.ch/network-visualization-shakespeare/).
+*   [Social Network Analysis of *Alice in Wonderland*](https://aclanthology.org/W12-2513/).
+*   [Universal Properties of Mythological Networks](https://doi.org/10.1209/0295-5075/99/28002) ([preprint](https://arxiv.org/abs/1205.4324)).
+
+### Varia / Network Science
+
+*   From [Albert-László Barabási’s review articles](https://barabasi.com/publications/1/review-articles):
+    *   [Taming Complexity](https://barabasi.com/f/182.pdf).
+    *   [The Network Takeover](https://barabasi.com/f/362.pdf).
+*   [The Invasion of the Physicists](https://doi.org/10.1016/j.socnet.2004.06.002) - How “network *science*” came up.
+*   [Isolated Social Networkers](https://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of “network science” as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
+*   [Predicting Highly Cited Papers](https://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
+
+### Varia / Two-Mode Networks
+
+*   [L’analyse des graphes bipartis](https://shs.hal.science/halshs-00794976), in French (2013).
+*   [Basic Notions for the Analysis of Large Two-mode Networks](https://doi.org/10.1016/j.socnet.2007.04.006)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); *Social Networks*, 2008).
+*   [Generalized Blockmodeling of Two-mode Network Data](https://doi.org/10.1016/j.socnet.2004.01.002) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
+*   [Generalized Two-Mode Cores](https://doi.org/10.1016/j.socnet.2015.04.001).
+
+## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+
+### Tools & Software / Acquisition
+
+*   [Scoop (⭐48)](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. *(Stable)*
+
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Related Awesome Lists / Galleries
+
+*   [kyrolabs/awesome-langchain (⭐552)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
+
+### Inbox: Large Language Models / Embeddings and Semantic Search
+
+*   [neuml/txtai (⭐4k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+
+## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React General Resources
+
+*   [React CodeSandbox Playground](https://codesandbox.io/s/new)
+
+### React State Management and Data Fetching
+
+*   [rxdb (⭐19k)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+*   [watermelondb (⭐9.1k)](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
+
+### React Maps
+
+*   [react-map-gl (⭐7.1k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+*   [react-leaflet (⭐4.5k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+
+### React Charts
+
+*   [visx (⭐17k)](https://github.com/airbnb/visx) - Visualization components
+
+### React Renderers
+
+*   [remotion (⭐16k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+
+### React Native General Resources
+
+*   [Expo Snack Playground](https://snack.expo.dev/)
+
+### React Native Navigation
+
+*   [react-navigation (⭐22k)](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+*   [expo-router (⭐1k)](https://github.com/expo/router) - The File-based router for universal React Native apps
+
+### React Native Libraries
+
+*   [react-native-device-info (⭐6.1k)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
+
+## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Other
+
+*   [m-ld](https://m-ld.org/): A software library enabling distributed applications to read and write shared information consistently with zero latency, using Semantic Web technology and CRDTs (Conflict-Free Replicated Data Types).
+
+---
+
+- Prev: [Apr 28, 2023](/content/2023/04/28/README.md)
+- Next: [Apr 26, 2023](/content/2023/04/26/README.md)

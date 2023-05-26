@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12 - Sep 18, 2016
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Laravel
 
-- Name: [DevTv (⭐24)](https://github.com/iamraphson/DEV-TV)
+- Name: [DevTv (⭐25)](https://github.com/iamraphson/DEV-TV)
 
   Description: DevTv is your online Video Subscription Platform
 
@@ -26,7 +26,7 @@
 
 ### ReactJS
 
-- Name: [microapps-donation (⭐19)](https://github.com/iamraphson/microapps-donation)
+- Name: [microapps-donation (⭐21)](https://github.com/iamraphson/microapps-donation)
 
   Description: A single page application that allows people to donate money
 
@@ -62,13 +62,13 @@
 
 ### Telegram
 
-*   [Python (⭐20k)](https://github.com/python-telegram-bot/python-telegram-bot)
+*   [Python (⭐21k)](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-fingers (⭐724)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐739)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -94,15 +94,15 @@
 
 ### Build Tools / Bare metal / kernel development
 
-*   [dub (⭐618)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+*   [dub (⭐627)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 
 ### Compilers / Bare metal / kernel development
 
-*   [dmd (⭐2.7k)](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+*   [dmd (⭐2.8k)](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 
 ### IDEs & Editors / Bare metal / kernel development
 
-*   [Visual D (⭐280)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
+*   [Visual D (⭐284)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 
 ## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -238,7 +238,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐474)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐481)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -259,7 +259,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Text / Barcode
 
-*   [Parsey (⭐56)](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
+*   [Parsey (⭐57)](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
 
 ## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -285,7 +285,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐385)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐388)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
@@ -293,7 +293,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Macros
 
-*   [pipe\_to (⭐83)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
+*   [pipe\_to (⭐84)](https://github.com/taiansu/pipe_to) - The enhanced pipe operator which can specify the target position.
 
 ### Queue
 
@@ -301,11 +301,11 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Testing
 
-*   [faker\_elixir (⭐149)](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
+*   [faker\_elixir (⭐150)](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
 
 ### Third Party APIs
 
-*   [dnsimple (⭐49)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
+*   [dnsimple (⭐48)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
 
 ### Editors
 
@@ -666,36 +666,30 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [favicomatic](http://www.favicomatic.com/)
 
-## [33. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
-
-### Journals / Topic-specific
-
-*   *[IEEE Transactions on Network Science and Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true\&punumber=6488902)* (IEEE).
-
-## [34. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [33. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Other
 
 *   [Advanced DTrace Tips, Tricks and Gotchas](http://dtrace.org/resources/bmc/dtrace_tips.pdf) - A collection of advanced tips for using DTrace.
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Code Deploy
 
-*   [aws-codedeploy-plugin :fire: (⭐151)](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
+*   [aws-codedeploy-plugin :fire: (⭐153)](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
 
 ### Open Source Repos / S3
 
-*   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐595)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
-*   [ncw/rclone :fire::fire::fire::fire::fire: (⭐37k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
+*   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐592)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
+*   [ncw/rclone :fire::fire::fire::fire::fire: (⭐38k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
 
-## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Development Setup / Third-party Service Integration
 
 *   [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -723,7 +717,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) - A Group For Individuals Who Tackle Reliability Challenges For Web-Scale Systems.
 
-## [38. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Color
 
@@ -733,11 +727,11 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Graphics
 
-*   [OpenTK (⭐2.7k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐2.8k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ### Image Processing
 
@@ -745,16 +739,16 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### JavaScript Engines
 
-*   [Jint (⭐3.2k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐750)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jint (⭐3.3k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+*   [Jurassic (⭐764)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
-## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
-## [41. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### System Utilities / Directory Navigation
 

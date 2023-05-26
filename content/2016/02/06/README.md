@@ -10,13 +10,13 @@
 
 ### Free fonts / Fonts
 
-*   [SansBullshitSans (⭐272)](https://github.com/RoelN/SansBullshitSans)
+*   [SansBullshitSans (⭐282)](https://github.com/RoelN/SansBullshitSans)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
-*   [aasm.cr (⭐51)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
+*   [aasm.cr (⭐52)](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -30,7 +30,7 @@
 
 ### ORM and Datamapping
 
-*   [inquisitor (⭐167)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
+*   [inquisitor (⭐168)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
 *   [udpflux (⭐3)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ## [4. Awesome Computer History](/content/watson/awesome-computer-history/README.md)

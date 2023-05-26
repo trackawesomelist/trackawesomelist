@@ -10,13 +10,13 @@
 
 ### Protocols
 
-*   [msgpax (⭐259)](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
+*   [msgpax (⭐261)](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### HTML Manipulation
 
-*   [clostache (⭐311)](https://github.com/fhd/clostache)
+*   [clostache (⭐315)](https://github.com/fhd/clostache)
 
 ---
 

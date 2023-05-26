@@ -2,7 +2,7 @@
 
 A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/schlessera/awesome-wp-cli/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) · ⭐ 159 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/schlessera/awesome-wp-cli/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) · ⭐ 167 · 🏷️ Miscellaneous
 
 [ [Daily](/content/schlessera/awesome-wp-cli/README.md) / [Weekly](/content/schlessera/awesome-wp-cli/week/README.md) / Overview ]
 
@@ -23,6 +23,7 @@ A curated list of packages and resources for WP-CLI, the command-line interface 
     *   [Package discovery](#package-discovery)
     *   [Notable packages](#notable-packages)
 *   [Tutorials & guides](#tutorials--guides)
+*   [Contribute](#contribute)
 
 ## Official links
 
@@ -39,9 +40,9 @@ Everything relevant that is directly part of the official WP-CLI team.
         *   [#cli channel](http://wordpress.slack.com/messages/cli/) - The official support channel for WP-CLI and the WordPress CLI team.
     *   [Good first issues](https://make.wordpress.org/cli/good-first-issues/) - List of issues on that are limited in scope and complexity.
 *   [WP-CLI GitHub organization](https://github.com/wp-cli) - Canonical home of the WP-CLI source code.
-    *   [WP-CLI framework repository (⭐4.6k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
-    *   [WP-CLI bundle repository (⭐65)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
-    *   [WP-CLI tests repository (⭐23)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
+    *   [WP-CLI framework repository (⭐4.7k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
+    *   [WP-CLI bundle repository (⭐72)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
+    *   [WP-CLI tests repository (⭐30)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
 
 ## Third-party packages
 
@@ -58,10 +59,10 @@ Ways of searching for third-party packages you can use.
 
 Third-party packages that are commonly useful.
 
-*   [Yoast/wp-cli-faker (⭐48)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
-*   [aaemnnosttv/wp-cli-login-command (⭐254)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
-*   [schlessera/wp-cli-psysh (⭐19)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
-*   [php-stubs/wp-cli-stubs (⭐12)](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
+*   [Yoast/wp-cli-faker (⭐55)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
+*   [aaemnnosttv/wp-cli-login-command (⭐266)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
+*   [schlessera/wp-cli-psysh (⭐21)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
+*   [php-stubs/wp-cli-stubs (⭐15)](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
 
 ## Tutorials & guides
 
@@ -71,6 +72,7 @@ Websites, ebooks, PDFs, talks and slide shows about how to make the most out of 
 *   [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - Introductory talk that covers the very basics of the command line for people who never used the console before.
 *   [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 *   [Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier](https://www.youtube.com/watch?v=DlxbRYpZdQg) - Practical examples on how you can improve your workflows with WP-CLI.
+*   [CaptainCore Cookbook](https://captaincore.io/cookbook/) - Collection of WP-CLI commands and bash scripts for automating WordPress maintenance.
 
 ## Contribute
 

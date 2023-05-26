@@ -32,8 +32,8 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [torch-rb (⭐458)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐60k)](https://github.com/pytorch/pytorch)
-    using [rice (⭐329)](https://github.com/jasonroelofs/rice).
+*   [torch-rb (⭐533)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐66k)](https://github.com/pytorch/pytorch)
+    using [rice (⭐340)](https://github.com/jasonroelofs/rice).
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -49,8 +49,8 @@
 
 ### Packages / Libraries
 
-*   [Sound.js (⭐267)](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
-*   [Circular Audio Wave (⭐186)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
+*   [Sound.js (⭐282)](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
+*   [Circular Audio Wave (⭐196)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
 *   [Wad (⭐1.7k)](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 
 ### Resources / Tutorials
@@ -59,31 +59,31 @@
 
 ### Obsolete / Community
 
-*   [Gibberish (⭐371)](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
-*   [lissajous (⭐386)](https://github.com/kylestetz/lissajous) - A tool for programmatic audio performance.
+*   [Gibberish (⭐378)](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
+*   [lissajous (⭐390)](https://github.com/kylestetz/lissajous) - A tool for programmatic audio performance.
 *   [SSSynthesiser.js (⭐50)](https://github.com/surikov/SSSynthesiser.js) - A wavetable synthesizer for interactive music and sound effects.
 *   [WAAX (⭐303)](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
-*   [Band.js (⭐1.1k)](https://github.com/meenie/band.js/) An interface for the Web Audio API that supports rhythms, multiple instruments, repeating sections, and complex time signatures.
-*   [reverbGen (⭐46)](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
-*   [TuneJS (⭐164)](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
-*   [Beet.js (⭐99)](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
-*   [AudioKeys (⭐215)](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
+*   [Band.js (⭐1.2k)](https://github.com/meenie/band.js/) An interface for the Web Audio API that supports rhythms, multiple instruments, repeating sections, and complex time signatures.
+*   [reverbGen (⭐47)](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
+*   [TuneJS (⭐166)](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
+*   [Beet.js (⭐103)](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
+*   [AudioKeys (⭐220)](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
 *   [web-audio-test-api (⭐66)](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
-*   [javascript-karplus-strong (⭐263)](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
+*   [javascript-karplus-strong (⭐264)](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 *   [osc-msg (⭐16)](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
-*   [Pizzicato (⭐1.5k)](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
+*   [Pizzicato (⭐1.6k)](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
 *   [Mooog (⭐27)](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
-*   [envelope-generator (⭐33)](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio.
+*   [envelope-generator (⭐34)](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio.
 *   [audio contour (⭐20)](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
-*   [web-audio-recorder-js (⭐702)](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
-*   [audiolet (⭐889)](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
+*   [web-audio-recorder-js (⭐723)](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
+*   [audiolet (⭐891)](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 *   [playnote (⭐2)](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
-*   [Recorderjs (⭐3.9k)](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
-*   [resampler (⭐37)](https://github.com/notthetup/resampler) - A utility for resampling audio.
-*   [bpm-detective (⭐107)](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
+*   [Recorderjs (⭐4k)](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
+*   [resampler (⭐38)](https://github.com/notthetup/resampler) - A utility for resampling audio.
+*   [bpm-detective (⭐123)](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 *   [web-audio-utils (⭐10)](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
 *   [web-audio-oscillators (⭐49)](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
-*   [midi-ports (⭐15)](https://github.com/AndrejHronco/midi-ports) - handy library to make it easier to work with attached MIDI devices.
+*   [midi-ports (⭐16)](https://github.com/AndrejHronco/midi-ports) - handy library to make it easier to work with attached MIDI devices.
 *   [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 *   [Code Player (⭐20)](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
 
@@ -200,19 +200,19 @@
 
 ### Testing Frameworks / Runner
 
-*   [webdriverio (⭐7.8k)](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
+*   [webdriverio (⭐8.1k)](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [svelte (⭐64k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+*   [svelte (⭐67k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [Strapi (⭐50k)](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
+*   [Strapi (⭐53k)](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
 
 ### Podcasts / Other
 
-*   [Clean Code JavaScript (⭐76k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+*   [Clean Code JavaScript (⭐82k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
 ## [10. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
@@ -253,7 +253,7 @@
 
 ### ReactJS
 
-- Name: [Filestash (⭐7k)](https://github.com/mickael-kerjean/filestash)
+- Name: [Filestash (⭐7.9k)](https://github.com/mickael-kerjean/filestash)
 
   Description: A Dropbox like file manager built in React
 
@@ -278,7 +278,7 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
-    (C++, MPL 2, [GitHub (⭐171)](https://github.com/wildmeshing/TriWild))
+    (C++, MPL 2, [GitHub (⭐183)](https://github.com/wildmeshing/TriWild))
 
 ### Visualization / Mesh tools
 
@@ -289,7 +289,7 @@
 *   [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python.
     (Python, BSD, [GitHub (⭐1.1k)](https://github.com/enthought/mayavi))
 *   [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
-    (C++, MIT, [GitHub (⭐1.3k)](https://github.com/nmwsharp/polyscope))
+    (C++, MIT, [GitHub (⭐1.4k)](https://github.com/nmwsharp/polyscope))
 
 ### Community / Mesh tools
 
@@ -299,7 +299,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐677)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐686)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -324,11 +324,11 @@
 *   [Geolocator (⭐1k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
 *   [Permission Handler (⭐1.7k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
-## [21. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [21. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
-### Software / File Management
+### Collaboration Tools
 
-*   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3 (⭐7k)](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
+*   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...).
 
 ## [22. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
@@ -354,15 +354,15 @@
 
 ## [25. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
-### Tools, Platforms, and Services / Repos for Specific Datasets
+### Tools, Platforms, and Services
 
-*   [TabInOut (⭐37)](https://github.com/nikolamilosevic86/TabInOut) - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
+*   [TabInOut (⭐41)](https://github.com/nikolamilosevic86/TabInOut) - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
 
 ## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [gonic (⭐1k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
+*   [gonic (⭐1.1k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`
 
 ### Software / Money, Budgeting & Management
 
@@ -370,7 +370,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐984)](https://github.com/josephernest/writing)) `MIT` `Javascript`
+*   [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code (⭐991)](https://github.com/josephernest/writing)) `MIT` `Javascript`
 
 ### Software / Proxy
 
@@ -378,7 +378,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐2.1k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐2.2k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`
 
 ## [27. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -412,7 +412,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐203)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐206)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ## [32. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
@@ -462,7 +462,7 @@
 
 ### Database Tools
 
-*   [Database Consistency (⭐785)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
+*   [Database Consistency (⭐812)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
 ## [37. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
@@ -490,14 +490,8 @@
 ### Real-time / Real-time Operating System (RTOS)
 
 *   [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
-*   [FreeRTOS.rs (⭐210)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
+*   [FreeRTOS.rs (⭐217)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
 *   [Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
-
-### Real-time / Real-time tools
-
-*   [RTIC v1.0](https://rtic.rs/1.0/book/en/) Real-Time Interrupt-driven Concurrency — A concurrency framework for building real time systems:
-    *   [cortex-m rtic (⭐1.1k)](https://github.com/rtic-rs/cortex-m-rtic) RTIC framework for ARM Cortex-M microcontrollers
-    *   [msp430 rtfm (⭐10)](https://github.com/japaric/msp430-rtfm) RTFM framework for MSP430 MCUs
 
 ### Peripheral Access Crates / XMC
 

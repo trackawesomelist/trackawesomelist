@@ -110,7 +110,7 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐792)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐814)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

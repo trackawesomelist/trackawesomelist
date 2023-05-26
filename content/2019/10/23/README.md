@@ -131,7 +131,7 @@
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
-*   [nef (⭐188)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐191)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ## [13. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Email
 
-*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
+*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 800 free API requests/month
 
 ## [18. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -199,26 +199,26 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐59)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [SFS-Python](http://www.sfstoolbox.org) [:octocat: (⭐60)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ### Audio Related Packages / Speech Processing
 
-*   [deepspeech (⭐20k)](https://github.com/mozilla/DeepSpeech) [:octocat: (⭐20k)](https://github.com/mozilla/DeepSpeech) [:package:](https://pypi.org/project/deepspeech/) - Pretrained automatic speech recognition.
-*   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐146)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
-*   [pypesq (⭐263)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐263)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
-*   [pystoi (⭐245)](https://github.com/mpariente/pystoi) [:octocat: (⭐245)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
+*   [deepspeech (⭐22k)](https://github.com/mozilla/DeepSpeech) [:octocat: (⭐22k)](https://github.com/mozilla/DeepSpeech) [:package:](https://pypi.org/project/deepspeech/) - Pretrained automatic speech recognition.
+*   [persephone](https://persephone.readthedocs.io/en/latest/) [:octocat: (⭐148)](https://github.com/persephone-tools/persephone) [:package:](https://pypi.org/project/persephone/) - Automatic phoneme transcription tool.
+*   [pypesq (⭐278)](https://github.com/vBaiCai/python-pesq) [:octocat: (⭐278)](https://github.com/vBaiCai/python-pesq) - Wrapper for the PESQ score calculation.
+*   [pystoi (⭐259)](https://github.com/mpariente/pystoi) [:octocat: (⭐259)](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) - Short Term Objective Intelligibility measure (STOI).
 *   [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) [:package:](https://pypi.python.org/pypi/SIDEKIT/) - Speaker and Language recognition.
 
 ### Audio Related Packages / Environmental Sounds
 
-*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐111)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
+*   [sed\_eval](http://tut-arg.github.io/sed_eval) [:octocat: (⭐112)](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
-*   [cochlea (⭐97)](https://github.com/mrkrd/cochlea) [:octocat: (⭐97)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
-*   [Loudness (⭐33)](https://github.com/deeuu/loudness) [:octocat: (⭐33)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
-*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐352)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
-*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐59)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+*   [cochlea (⭐101)](https://github.com/mrkrd/cochlea) [:octocat: (⭐101)](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
+*   [Loudness (⭐34)](https://github.com/deeuu/loudness) [:octocat: (⭐34)](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
+*   [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat: (⭐428)](https://github.com/csteinmetz1/pyloudnorm) - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
+*   [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat: (⭐60)](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 ## [19. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -234,9 +234,9 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐59)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐63)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐41)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐43)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

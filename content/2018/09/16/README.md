@@ -10,7 +10,7 @@
 
 ### Robotics
 
-*   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
+*   [PythonRobotics (⭐18k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
 *   [rospy](http://wiki.ros.org/rospy) - This is a library for ROS (Robot Operating System).
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
@@ -34,7 +34,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ee-ts (⭐121)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+*   :octocat: [ee-ts (⭐122)](https://github.com/aleclarson/ee-ts) - Typed event emitters
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

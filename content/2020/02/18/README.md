@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 18, 2020
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -98,27 +98,33 @@
 
 ### Boilerplate / Mouse Events
 
-*   [phoenix (⭐149)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
+*   [phoenix (⭐152)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
-## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [16. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [riskparity.py (⭐234)](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
+
+## [17. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Lock Closed Issues and Pull Requests after a Period of Inactivity (⭐241)](https://github.com/dessant/lock-threads)
 
-## [17. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) Sebastian Raschka, Joshua Patterson, Corey Nolet. (2019)
 
-## [18. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [19. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
 *   [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 
-## [19. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [20. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Payments / Electronic invoices
 
@@ -126,7 +132,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐154)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐156)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ---
 

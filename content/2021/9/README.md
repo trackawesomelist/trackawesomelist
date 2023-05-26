@@ -8,7 +8,7 @@
 
 ## [1. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
-### Projects and Code Examples / Gradient boosting
+### Projects and Code Examples / Vector search
 
 *   [Handwritten Digits Recognition (⭐4)](https://github.com/jdrzj/handwritten-digits-recognition) -
     Handwritten digits recognition using Neural Networks and Ruby.
@@ -40,7 +40,7 @@
 
 ### Competitive Analysis / GDPR
 
-*   [Google Cloud Developer's Cheat Sheet (⭐7.2k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+*   [Google Cloud Developer's Cheat Sheet (⭐7.3k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -113,13 +113,13 @@
 
 ### Back-End Development
 
-*   [IAM (⭐1.1k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐1.2k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Yana (⭐193)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [Yana (⭐201)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 
 ## [8. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Host-based tools / Sandboxes
 
-*   [Bubblewrap (⭐2.8k)](https://github.com/containers/bubblewrap) - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
+*   [Bubblewrap (⭐3k)](https://github.com/containers/bubblewrap) - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
 
 ## [12. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -181,19 +181,19 @@
 
 *   [Website](https://nodejs.org)
 *   [Documentation](https://nodejs.org/dist/latest/docs/api/)
-*   [Repository (⭐93k)](https://github.com/nodejs/node)
+*   [Repository (⭐96k)](https://github.com/nodejs/node)
 
 ### Packages / Database
 
 *   Other
     *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
-    *   [Lowdb (⭐19k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-    *   [Keyv (⭐2k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
+    *   [Lowdb (⭐20k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+    *   [Keyv (⭐2.2k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐183)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
-    *   [database-js (⭐58)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐503)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐494)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-    *   [pg-mem (⭐1.2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+    *   [database-js (⭐67)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+    *   [Mongo Seeding (⭐507)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [@databases (⭐531)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [pg-mem (⭐1.4k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ### Resources / Videos
 
@@ -256,17 +256,17 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐112)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐127)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐567)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐576)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐166)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐171)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 
 ## [21. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
@@ -337,11 +337,23 @@
     [Repo (⭐50k)](https://github.com/semantic-org/semantic-ui)
     \| #LESS
 
-## [25. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+
+### MVC Frameworks and Libraries / Runner
+
+*   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
+*   [angular (⭐88k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+*   [Lucia (⭐723)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
+
+### Date / Runner
+
+*   [luxon (⭐14k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+
+## [26. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
-*   [Laravel CommonMark Blog (⭐13)](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
+*   [Laravel CommonMark Blog (⭐17)](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
 
 ### Tools / Converters
 
@@ -349,9 +361,9 @@
 
 ### Tools / Editors
 
-*   [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
-## [26. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [27. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Courses
 
@@ -368,52 +380,52 @@
 *   [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb) - Building a Wardley Map from a value chain for "real time business automation" by James Urquhart. Dec 30, 2016.
 *   [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8) - Exploring a value chain using a basic architecture of data flow by James Urquhart. Dec 22, 2016.
 
-## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [28. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Open Source / Angular
 
 *   [BSD Weekly](https://bsdweekly.com/). A free, once–weekly e-mail round-up of BSD news and articles.
 
-## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [29. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
 *   [FastAPI Cloud Auth (⭐262)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
-## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
 
-## [30. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Registries / XML
 
 *   [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
 *   [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 
-## [31. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Other multimodal data formats / Ruby
 
 *   [shared-row (⭐17)](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
 
-## [32. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [33. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Other Services
 
 *   [Ecotalk](https://www.ecotalk.co.uk) - UK-based mobile network powered by renewable energy. Profits are used to buy land which is then given back to nature.
 
-## [33. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [34. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### C++
 
-*   [Sogou Workflow (⭐9.9k)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
+*   [Sogou Workflow (⭐10k)](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 
 ### Coordination & Governance / Scala
 
-*   [Temporal (⭐6.2k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
+*   [Temporal (⭐6.7k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 
 ### Storage / Scala
 
@@ -421,18 +433,18 @@
 *   [Pilosa (⭐2.4k)](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 *   [TiKV](https://github.com/tikv) - Distributed transactional key-value database.
 
-## [34. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [35. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Ferment ☠️](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
-*   [Hardbin (⭐217)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐218)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 
 *   [ArcBlock](https://arcblock.io/): ArcBlock is a decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.
 
-## [35. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [36. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -462,7 +474,7 @@
 
 
 
-## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -472,13 +484,13 @@
 
 *   [OpenStreetMap](https://www.openstreetmap.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/openstreetmap/openstreetmap-website) - A crowdsourced map of the world with many layers, free to use under an open licence.
 
-## [37. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [38. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Other
 
 *   [IP2Trace (⭐12)](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT (⭐12)](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 
-## [38. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [39. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tutorials
 
@@ -492,51 +504,51 @@
 
 *   [Facebook](https://www.facebook.com/SaltProjectOSS/) - Official Salt Project Facebook account.
 
-## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Documentation
 
-*   [GitHub Changelog Generator (⭐7k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+*   [GitHub Changelog Generator (⭐7.1k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
-## [40. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [41. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Visualization
 
 *   [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser.
 
-## [41. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [42. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
 *   [Measuring Network Performance in Mobile Safari](https://csswizardry.com/2021/02/measuring-network-performance-in-mobile-safari/) - An advices on using Mobile Safari for measuring network performance.
 
-## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Blazor
 
-*   [BootstrapBlazor (⭐1.3k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
+*   [BootstrapBlazor (⭐1.4k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 
 ### Misc
 
-*   [Validot (⭐268)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
+*   [Validot (⭐271)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
 
 ### Source Generator
 
-*   [Awesome Microservices .NET Core (⭐2.2k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
+*   [Awesome Microservices .NET Core (⭐2.3k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 
-## [43. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [44. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Scientific Journals
 
 *   [Journal of the Egyptian Society of Parasitology](https://jesp.journals.ekb.eg/) - Open-access (2013 - present) scientific journal of The Eyptian Society of Parasitology. Published since the 1970s, their archive is indexed in Pub-Med since 1972 (Index Medicus ISSN: 0253-5890).
 
-## [44. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [45. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Libraries
 
 *   [Filament](https://filamentadmin.com) - The elegant TALL stack admin panel for Laravel artisans.
 
-## [45. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [46. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Dynamic type checkers
 
@@ -548,50 +560,35 @@
 *   [pyre infer (⭐6.2k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
 *   [pytype annotate-ast (⭐4.1k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 
-## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [47. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-unity-webgl (⭐1.3k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
+*   [react-unity-webgl (⭐1.4k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
 
-## [47. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [48. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### DevOps
 
 *   [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
 
-## [48. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [49. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Gif Getter (⭐27)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
-*   [Tree generator (⭐115)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
+*   [Godot Gif Getter (⭐29)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
+*   [Tree generator (⭐121)](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 
 ### Modules / Godot 3.2+
 
-*   [Speech to Text (⭐28)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
-
-## [49. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
-
-### Misc / Other
-
-*   [FingerprintJS (⭐18k)](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
-
-### MVC Frameworks and Libraries / Runner
-
-*   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
-*   [angular (⭐85k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-*   [Lucia (⭐694)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
-
-### Date / Runner
-
-*   [luxon (⭐13k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+*   [Speech to Text (⭐26)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
 ## [50. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Fraud prevention / Online resources
 
-*   [FingerprintJS Android (⭐320)](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+*   [FingerprintJS (⭐19k)](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
+*   [FingerprintJS Android (⭐425)](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 
 ## [51. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -617,7 +614,7 @@
 
 ### State Management / Components
 
-*   [ngx-liquid-cache (⭐84)](https://github.com/luckyseven/ngx-liquid-cache) - A powerful, automatic and optimized Angular 2 cache system that fits everywhere!
+*   [ngx-liquid-cache (⭐82)](https://github.com/luckyseven/ngx-liquid-cache) - A powerful, automatic and optimized Angular 2 cache system that fits everywhere!
 
 ## [53. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -640,17 +637,17 @@
 
 ### Simulation / Version Control
 
-*   [gym-pybullet-drones (⭐583)](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
+*   [gym-pybullet-drones (⭐739)](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
 
 ## [56. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [emailwiz (⭐1.2k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Bash`
+*   [emailwiz (⭐1.3k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Bash`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐104)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐423)](https://github.com/kerberos-io/agent)) `MIT` `Docker`
 
 ## [57. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -678,7 +675,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [regula (⭐830)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
+*   [regula (⭐858)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
 ## [61. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -696,18 +693,18 @@
 
 ### Plugins
 
-*   💼 [No Scrollbar (⭐6)](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
+*   💼 [No Scrollbar (⭐7)](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
 
 ### Tools
 
-*   🌍🔧💼 [Twind (⭐3.2k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
+*   🌍🔧💼 [Twind (⭐3.3k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
 ## [64. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
-    (Python, GPL 3, [GitHub (⭐289)](https://github.com/DedalusProject/dedalus))
+    (Python, GPL 3, [GitHub (⭐325)](https://github.com/DedalusProject/dedalus))
 
 ## [65. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -716,7 +713,7 @@
 *   Acme:
     *   [acmecrystal (⭐5)](https://github.com/ilanpillemer/acmecrystal) - Reformats crystal code in acme
 *   Emacs
-    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐43)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
+    *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐45)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 
 ## [66. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -760,7 +757,7 @@
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐792)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐829)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
 
@@ -785,7 +782,7 @@
 
 ### Packages / Application layer
 
-*   [darknet\_ros (⭐1.8k)](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS2 wrapper for deploying Darknet's YOLO Computer Vision model.
+*   [darknet\_ros (⭐1.9k)](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS2 wrapper for deploying Darknet's YOLO Computer Vision model.
 
 ## [70. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -797,16 +794,16 @@
 
 ### Others
 
-*   [TypinExamples (⭐215)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐215)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
+*   [TypinExamples (⭐221)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐221)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
 
 ### Individual components / Tabs
 
-*   [BlazorXTabs (⭐24)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
+*   [BlazorXTabs (⭐26)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
 
 ### Individual components / Others
 
-*   [BlazorDownloadFile (⭐144)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
-*   [BlazorSliders (⭐28)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
+*   [BlazorDownloadFile (⭐158)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
+*   [BlazorSliders (⭐29)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
 
 ### Community / Others
 

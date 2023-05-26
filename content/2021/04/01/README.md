@@ -10,7 +10,7 @@
 
 ### Development / Newsletters
 
-*   [pre-commit-hooks.nix (⭐268)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐313)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Images / Barcode
 
-*   [Brightroom (⭐2.8k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
+*   [Brightroom (⭐2.9k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
 
 ### Network / Barcode
 
@@ -62,7 +62,7 @@
 
 ### Permissions / Barcode
 
-*   [SPPermission (⭐5.1k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
+*   [SPPermission (⭐5.2k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
 
 ### Transition / Barcode
 
@@ -73,7 +73,7 @@
 
 ### Topic Areas / Web Scraping
 
-*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐337)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
+*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐353)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
 
 ### Topic Areas / Uncategorized
 
@@ -139,7 +139,7 @@
 
 ### Table of Contents / Streaming SQL
 
-*   [ksqlDB (⭐5.4k)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
+*   [ksqlDB (⭐5.5k)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
 *   [Materialize](https://materialize.com) \[Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
 
 ---

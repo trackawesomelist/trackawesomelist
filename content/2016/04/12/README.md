@@ -10,7 +10,7 @@
 
 ### Images / Gif Creation
 
-*   [givegif (⭐215)](https://github.com/passy/givegif) - GIFs on the command line.
+*   [givegif (⭐216)](https://github.com/passy/givegif) - GIFs on the command line.
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Algorithms and Data structures
 
-*   [gen\_fsm (⭐37)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
+*   [gen\_fsm (⭐38)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
 
 ## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
@@ -45,18 +45,12 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 ### Experiments
 
 *   [Luis Henrique Bizarro Portfolio](https://lhbzr.com/) - Portfolio with experiments using Three.JS and GSLS.
-*   [Goy Goy](http://goy-goy.herokuapp.com/) - A multiplayer Chrome Experiment made with HTML5 Canvas, socket.io and audiolet.js.
-*   [OMM](http://ommexperience.com/) - An interactive audio visual experience exploring creativity.
-*   [Soundviz](http://work.bartekdrozdz.com/soundviz/) - 5 different sound visualization effects with Leap Motion interactivity.
 *   [Splice](https://www.uberviz.io/viz/splice/) - A realtime interactive music visualizer using time-code data from Splice's upcoming visualizer API.
 *   [Typatone](http://www.typatone.com/) - Make music while you write.
-*   [Audio Cloud](http://ma77os.cc/lab/audio-cloud/) - A reactive particle system based on audio analysis of Fast Fourier Transform spectrum.
-*   [Floraldrift](http://whitevinyldesign.com/floradrift/) - Procedurally generated music and visuals.
 *   [Music Cube](http://www.808cube.com/) - A Chrome Experiment that combines the Roland TR-808 Drum Machine with the Rubik's Cube.
 *   [Music Game - ECHO](http://tonenotone.com/ECHO/) - A challenging musical puzzle game.
 *   [Patatap](http://www.patatap.com/) - A portable animation and sound kit.
 *   [Plink - Awesome Multiplayer Game](http://www.dinahmoelabs.com/plink) - A multiplayer music experience.
-*   [Simon Says - Game](http://labs.uxmonk.com/simon-says/) - A free memory game in your browser.
 *   [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires) - A Canvas and Web Audio Experiment.
 *   [CSS Visualizer](http://likethemammal.github.io/css-visualizer/) - Music Visualizers that are made entirely using DOM elements and CSS3.
 *   [Kandinski Experiment](http://jasonsigal.cc/kandinskify/) - Music Visualizations inspired in Kandinsky.
@@ -64,26 +58,26 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Libraries Audio
 
-*   [web-audio-analyser (⭐206)](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
-*   [web-audio-player (⭐243)](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
+*   [web-audio-analyser (⭐208)](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
+*   [web-audio-player (⭐244)](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
 *   [web-media-playback (⭐8)](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
 *   [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
-*   [ThreeAudio.js (⭐517)](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
+*   [ThreeAudio.js (⭐520)](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
 *   [MIDI.js (⭐3.6k)](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web.
 *   [Beep.js (⭐1.3k)](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
-*   [p5.sound (⭐752)](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
+*   [p5.sound (⭐795)](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
 *   [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 *   [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 
 ### Libraries Visualization
 
 *   [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
-*   [Pixi.js (⭐38k)](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+*   [Pixi.js (⭐39k)](https://github.com/pixijs/pixi.js/) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
 *   [sketch.js](http://soulwire.github.io/sketch.js/) - Let's you get straight to the fun parts of creative coding, without ever having to worry about shims or boilerplate code.
 *   [three.js](http://threejs.org/) - Three.js is a library that makes WebGL easy to use.
 *   [Two.js](https://jonobr1.github.io/two.js/) - A two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.
 *   [BabylonJS](http://babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
-*   [Web Audio Extension (⭐179)](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
+*   [Web Audio Extension (⭐183)](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
 *   [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
 *   [HYPE\_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 
@@ -106,13 +100,10 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 ### Books / General Overviews
 
 *   *[Network Science](http://www.nap.edu/catalog/11516/network-science)*, by the U.S. National Research Council - Full book online (2005).
-*   *[Networks. An Introduction](http://www-personal.umich.edu/\~mejn/networks-an-introduction/)*, by Mark E.J. Newman (2010).
-*   *[Social and Economic Networks](http://press.princeton.edu/titles/8767.html)*, by Matthew O. Jackson (2008).
-*   *[Social Network Analysis with Applications](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169476.html)*, by Ian McCulloh, Helen Armstrong and Anthony Johnson (2013).
+*   *[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)*, by Mark E.J. Newman (2010).
 
 ### Books / Method-specific
 
-*   *Inferential Network Analysis*, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (forthcoming).
 *   *[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)*, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
 *   *[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)*, edited by Ulrik Brandes and Thomas Erlebach - Covers network centrality, clustering, blockmodels, spatial networks and more (2005).
 
@@ -131,7 +122,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Datasets / Topic-specific
 
-*   [Enron Email Dataset](https://www.cs.cmu.edu/\~enron/).
+*   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
 *   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 
 ### Professional Groups / Research Groups (USA)
@@ -157,21 +148,19 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   [GLEAMviz Simulator](http://www.gleamviz.org/) - Cross-platform tool intended for the prediction of human epidemics.
 *   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the DOT graph drawing language.
 *   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
-*   [Radatools](http://deim.urv.cat/\~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/\~sergio.gomez/radalib.php), a library written in Ada.
 
 ### Software / Algorithms
 
 *   [ForceAtlas2](https://gephi.wordpress.com/2011/06/06/forceatlas2-the-new-version-of-our-home-brew-layout/) - Force-directed layout included in Gephi ([paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)).
-*   [vbmod: Variational Bayesian Inference for Network Modularity](http://vbmod.sourceforge.net/) - MATLAB and Python implementations of a [Bayesian community detection algorithm](http://arxiv.org/abs/0709.3512).
 
 ### Software / C / C++
 
 *   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library. Available as a Python library and in Microsoft Excel via NodeXL.
-*   [Walktrap](https://www-complexnetworks.lip6.fr/\~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](http://arxiv.org/abs/physics/0512106).
+*   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](https://arxiv.org/abs/physics/0512106).
 
 ### Software / JavaScript
 
-*   [VivaGraphJS (⭐3.5k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐4)](https://github.com/graphcommons/viva.forceatlas2)).
+*   [VivaGraphJS (⭐3.6k)](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin (⭐4)](https://github.com/graphcommons/viva.forceatlas2)).
 *   [viz.js](https://mdaines.github.io/viz.js/) - Use Graphviz in Web pages.
 
 ### Software / MATLAB
@@ -189,12 +178,9 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Varia / Blog Series
 
-*   [Blog Posts About Networks by François Briatte](http://politbistro.hypotheses.org/tag/reseaux), in French.
 *   [Blog Posts About Networks by Katya Ognyanova](http://kateto.net/networks).
 *   [Blog Posts About Networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/), in French.
 *   [Blog Posts About Networks on the Bad Hessian Blog](http://badhessian.org/category/networks/), by various contributors.
-*   [Networks Demystified](http://scottbot.net/tag/networks-demystified/), a series of blog posts by Scott B. Weingart.
-*   [R / Notes: Networks](http://f.briatte.org/r/category/networks) - Blog posts focused on manipulating networks in R, by François Briatte.
 
 ### Varia / Network Science
 

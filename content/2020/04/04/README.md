@@ -62,7 +62,7 @@
 
 ### Third-party APIs
 
-*   [google (⭐19)](https://github.com/PlaceOS/google) - Google API wrapper
+*   [google (⭐20)](https://github.com/PlaceOS/google) - Google API wrapper
 *   [office365 (⭐9)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
 
 ## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
@@ -75,7 +75,7 @@
 
 ### Applications / System tools
 
-*   [orhun/kmon (⭐1.7k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
+*   [orhun/kmon (⭐1.8k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -119,13 +119,13 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [cfncluster :fire::fire::fire: (⭐743)](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
+*   [cfncluster :fire::fire::fire: (⭐761)](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
 ## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [pinentry-wsl-ps1 (⭐80)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [pinentry-wsl-ps1 (⭐83)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [12. Awesome R](/content/qinwf/awesome-R/README.md)
 

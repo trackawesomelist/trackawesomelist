@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02 - Jan 08, 2017
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,7 +30,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [ng-kitchen-sink (⭐761)](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
+*   [ng-kitchen-sink (⭐756)](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
 *   [ng-skeleton (⭐41)](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth
 
 ## [4. Tips](/content/git-tips/tips/week/README.md)
@@ -60,10 +60,6 @@ git rev-parse --show-toplevel
 *   [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
 ## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
-
-### Experiments
-
-*   [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - An interactive exploration of polyrythmic rhythms.
 
 ### Videos
 
@@ -98,7 +94,7 @@ git rev-parse --show-toplevel
 
 ### Build Systems / Playground
 
-*   [Zwitterion (⭐555)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+*   [Zwitterion (⭐556)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
 ## [12. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -184,7 +180,7 @@ git rev-parse --show-toplevel
 
 ### Open Source / Other
 
-*   [Inpad (⭐3.3k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+*   [Inpad (⭐3.4k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 
 ### Community / Other
 
@@ -208,7 +204,7 @@ git rev-parse --show-toplevel
 
 ### Third-party APIs
 
-*   [terjira (⭐815)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
+*   [terjira (⭐819)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 
 ## [20. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -230,7 +226,7 @@ git rev-parse --show-toplevel
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Cyber Skills (⭐2.2k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
+*   [Awesome Cyber Skills (⭐2.7k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
 
 ## [23. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -275,7 +271,7 @@ git rev-parse --show-toplevel
 
 ### Go / Natural Language Processing
 
-*   [snowball (⭐36)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+*   [snowball (⭐37)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 
 ## [27. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
@@ -293,7 +289,7 @@ git rev-parse --show-toplevel
 
 ### GTFS Realtime Convertors / Ruby
 
-*   [NextBus API to GTFS-realtime (⭐15)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli/wiki) - A Java-based command-line utility to convert from the [NextBus API format](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) to GTFS-realtime.  Note that NextBus now directly offers a GTFS-realtime API for their products.  See [Cubic site](http://nextbus.cubic.com/Products/Real-Time-Rider-Information) and [this FAQ](https://medium.com/omnimodal/want-more-riders-open-up-your-nextbus-api-with-gtfs-realtime-7387c80f31e1#.pkuzizhl5).
+*   [NextBus API to GTFS-realtime (⭐16)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli/wiki) - A Java-based command-line utility to convert from the [NextBus API format](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) to GTFS-realtime.  Note that NextBus now directly offers a GTFS-realtime API for their products.  See [Cubic site](http://nextbus.cubic.com/Products/Real-Time-Rider-Information) and [this FAQ](https://medium.com/omnimodal/want-more-riders-open-up-your-nextbus-api-with-gtfs-realtime-7387c80f31e1#.pkuzizhl5).
 
 ## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -303,15 +299,15 @@ git rev-parse --show-toplevel
 
 ### Date and Time
 
-*   [crontab (⭐82)](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
+*   [crontab (⭐83)](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐241)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐244)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ### Testing
 
-*   [chemistry (⭐6)](https://github.com/genericlady/chemistry) - Testing Framework for Elixir.
+*   [chemistry (⭐7)](https://github.com/genericlady/chemistry) - Testing Framework for Elixir.
 
 ## [31. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
@@ -326,24 +322,13 @@ git rev-parse --show-toplevel
 *   [DCMTK](http://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 *   [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. \[Apache2]
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
-
-### LaTeX / TeX / LaTeX
-
-*   [Arbitrary LaTex Reference](http://latex.knobs-dials.com)
-*   [Begin Latex in minutes (⭐3.2k)](https://github.com/VoLuong/Begin-Latex-in-minutes)
-
-## [34. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [33. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
 *   [User Interfaces as Pure Functions of Time](https://www.youtube.com/watch?v=9BG0Y3C6WqM) - Lightning talk by [Thomas Belin](http://twitter.com/atomrc) at [dotjs 2016](http://dotjs.io/)
 
-## [35. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [34. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -353,7 +338,7 @@ git rev-parse --show-toplevel
 
 *   [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 
-## [36. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [35. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -363,7 +348,7 @@ git rev-parse --show-toplevel
 
 *   [WC-Loader (⭐100)](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -377,7 +362,7 @@ git rev-parse --show-toplevel
 
 *   [Jil (⭐2.1k)](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
 
-## [38. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [37. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
@@ -395,13 +380,13 @@ git rev-parse --show-toplevel
 *   `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 *   `docker pull bkimminich/juice-shop` - [OWASP Juice Shop (⭐7.3k)](https://github.com/bkimminich/juice-shop#docker-container--)
 
-## [39. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [38. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
 
-## [40. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [39. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Classics
 
@@ -414,7 +399,7 @@ git rev-parse --show-toplevel
 *   *[Graph Theory](http://diestel-graph-theory.com/)*, by Reinhard Diestel - Full book online, also in Chinese and German (2016).
 *   *[Graph Theory](http://www.dtic.mil/dtic/tr/fulltext/u2/705364.pdf)*, by Frank Harary - Full book online (1969).
 *   *[Graphs & Digraphs](https://www.crcpress.com/Graphs--Digraphs-Sixth-Edition/Chartrand-Lesniak-Zhang/p/book/9781498735766)*, by Gary Chartrand, Linda Lesniak and Ping Zhang (2016).
-*   *[Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)*, by Daniel Guichard - Full book online (2016).
+*   *[Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)*, by David Guichard - Full book online (2016).
 *   *[Modern Graph Theory](https://www.springer.com/us/book/9780387984889)*, by Belá Bollobás (1998).
 
 ### Books / Software-specific
@@ -423,7 +408,6 @@ git rev-parse --show-toplevel
 
 ### Software / Social, Economic and Political Networks
 
-*   [SageMath](http://www.sagemath.org/) - Free open-source mathematics software with extensive [graph capabilities](http://doc.sagemath.org/html/en/reference/graphs/index.html).
 *   [Tulip](http://tulip.labri.fr/) - Cross-platform network analysis and visualization framework built on top of a C++ library, with plugins dedicated to specific biological and physical networks. Also available through its [Python package](http://tulip.labri.fr/Documentation/current/tulip-python/html/index.html).
 *   [UNISoN](http://unison.sleonard.co.uk/) - Cross-platform program to download and visualize Usenet data. [Developed for a Masters degree (⭐6)](https://github.com/leonarduk/unison/wiki/MSc-Report-Abstract).
 
@@ -432,7 +416,7 @@ git rev-parse --show-toplevel
 *   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 *   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - Interface between R and Cytoscape.js.
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Static Site Generators
 
@@ -440,7 +424,7 @@ git rev-parse --show-toplevel
 
 ### Web Frameworks
 
-*   [DotVVM (⭐665)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
+*   [DotVVM (⭐677)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
 
 ---
 

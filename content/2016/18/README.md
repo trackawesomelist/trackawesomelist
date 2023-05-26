@@ -12,7 +12,6 @@
 
 *   [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Play with simple experiments and explore how music works.
 *   [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI keyboard and watch as the lights dance to your music.
-*   [Garbage Collector](http://robertbue.no/playground/webgl/gc-effect/) - Audio visualization experiment made with Three.js and some post-processing.
 
 ### Libraries Visualization
 
@@ -79,7 +78,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [Tim-B/grunt-aws-lambda :fire::fire: (⭐246)](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
+*   [Tim-B/grunt-aws-lambda :fire::fire: (⭐247)](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
 
 ## [6. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
@@ -150,7 +149,7 @@
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐924)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐939)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -167,7 +166,7 @@
 
 ### Single controls
 
-*   [Delphi Chromium Embedded (⭐291)](https://github.com/hgourvest/dcef3). `[Delphi]` Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
+*   [Delphi Chromium Embedded (⭐292)](https://github.com/hgourvest/dcef3). `[Delphi]` Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
     // *Several Chromium DLLs required*
 
 ### Database
@@ -192,50 +191,57 @@
 
 *   [PacketQ (⭐379)](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
 
-## [17. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [17. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+
+### Software / Social, Economic and Political Networks
+
+*   [Lynks](https://lynksoft.com/) - Web-based tool for simple network analysis and visualization.
+*   [OSoMe](http://osome.iuni.iu.edu/) - Web-based platform to analyze social media data, including through Twitter-based and co-occurrence networks.
+
+## [18. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
 *   [geojson-multiply (⭐2)](https://github.com/haoliangyu/geojson-multiply):  merge normal geojson features into one multi geometry type feature
 
-## [18. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [19. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Lists / Book/monograph Lists and Reviews
 
 *   [RStudio Addins (⭐741)](https://github.com/daattali/addinslist) - List of RStudio addins.
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Miscellaneous
 
 *   [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
 
-## [20. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [21. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### GitHub
 
-*   [GitHub Template Guidelines (⭐196)](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
+*   [GitHub Template Guidelines (⭐214)](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 
-## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 *   [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
 
-## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [crystalline (⭐126)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
+*   [crystalline (⭐127)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
 *   [multiset.cr (⭐4)](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
-*   [radix (⭐100)](https://github.com/luislavena/radix) - Radix Tree implementation
+*   [radix (⭐102)](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ### HTTP
 
@@ -243,9 +249,9 @@
 
 ### Template Engine
 
-*   [crustache (⭐78)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+*   [crustache (⭐80)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
-## [24. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [25. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Self Publishing
 
@@ -255,25 +261,25 @@
 
 *   [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - Michael Foord shares his experience publishing with Apress.
 
-## [25. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [26. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Maps / Third Party
 
 *   [spam (⭐102)](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily
 
-## [26. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [27. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### More Awesome Lists
 
 *   [Style Guides (⭐1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
-## [27. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
+## [28. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
 ### browserify
 
 *   [glslify (⭐2k)](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders
 
-## [28. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [29. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Implementations
 
@@ -298,7 +304,7 @@
 
 *   [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Reactive programming using Observables.
 
-## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -313,14 +319,14 @@
 
 *   [Reddit](https://www.reddit.com/r/tensorflow)
 
-## [30. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [31. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Starter Kits
 
 *   [UniversalRelayBoilerplate (⭐713)](https://github.com/codefoundries/UniversalRelayBoilerplate)
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
 
-## [31. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Companies
 
@@ -338,7 +344,7 @@
 *   [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
 *   [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
 
-## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / I companies
 
@@ -348,7 +354,7 @@
 
 *   Filippo Valsorda <https://blog.filippo.io/>
 
-## [33. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md)
+## [34. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md)
 
 ### Back to Top Button
 
@@ -452,7 +458,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -474,7 +480,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 
-## [35. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [36. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Admin interface
 
@@ -490,24 +496,24 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 *   [pyramid\_sms (⭐6)](https://github.com/websauna/pyramid_sms) -
     SMS services for Pyramid web framework.
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### StackView / Barcode
 
-*   [StackViewController (⭐867)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+*   [StackViewController (⭐866)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 *   [TZStackView (⭐1.2k)](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐529)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐537)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
-## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
 *   [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
 
-## [38. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [39. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Stream
 
@@ -517,14 +523,6 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 ### Modules / Other
 
 *   [is-fqdn (⭐22)](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
-
-## [39. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
-
-### Software / Social, Economic and Political Networks
-
-*   [Lynks](https://lynksoft.com/) - Web-based tool for simple network analysis and visualization.
-*   [OSoMe](http://osome.iuni.iu.edu/) - Web-based platform to analyze social media data, including through Twitter-based and co-occurrence networks.
-*   [PARTNER - Program to Analyze, Record, and Track Networks to Enhance Relationships](http://partnertool.net/) - Excel-based tool for building networks from surveys.
 
 ## [40. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 

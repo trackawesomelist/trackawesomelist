@@ -50,13 +50,13 @@
 
 ### Music Notation
 
-*   [Tbon (⭐12)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
+*   [Tbon (⭐13)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 
 ### Related lists
 
-*   [Awesome Audio Visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
-*   [Awesome Python for Scientific Audio (⭐1.3k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐905)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome Audio Visualization (⭐4.2k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+*   [Awesome Python for Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
+*   [Awesome WebAudio (⭐923)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ---
 

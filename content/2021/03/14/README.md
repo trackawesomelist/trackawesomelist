@@ -10,7 +10,7 @@
 
 ### Miscellaneous / Mouse Events
 
-*   [react-godfather (⭐23)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
+*   [react-godfather (⭐24)](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Entertainment / Music
 
-*   [swaglyrics-for-spotify (⭐297)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
+*   [swaglyrics-for-spotify (⭐300)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

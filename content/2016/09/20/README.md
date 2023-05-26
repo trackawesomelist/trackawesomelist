@@ -28,7 +28,7 @@
 
 ### Open Source Repos / S3
 
-*   [owocki/s3\_disk\_util :fire: (⭐168)](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
+*   [owocki/s3\_disk\_util :fire: (⭐169)](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

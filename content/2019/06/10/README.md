@@ -32,7 +32,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [aws-lambda-java-libs :fire::fire: (⭐459)](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
+*   [aws-lambda-java-libs :fire::fire: (⭐473)](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
 
 ## [5. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐50)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐52)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -117,7 +117,7 @@
 
 ### For Electron / Other
 
-*   [electron-better-ipc (⭐643)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-better-ipc (⭐657)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 
 ## [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Security
 
-*   [Fuzzing (⭐638)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐662)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

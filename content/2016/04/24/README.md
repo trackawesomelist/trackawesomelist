@@ -16,14 +16,14 @@
 
 ### Laravel
 
-- Name: [Larasocial (⭐272)](https://github.com/msalom28/Larasocial)
+- Name: [Larasocial (⭐271)](https://github.com/msalom28/Larasocial)
 
   Description: A Social Network Application
 
   Link: <http://larasocial.info>
 
 
-- Name: [Aimeos (⭐5.8k)](https://github.com/aimeos/aimeos-laravel)
+- Name: [Aimeos (⭐6.3k)](https://github.com/aimeos/aimeos-laravel)
 
   Description: Ecommerce package for high performance online shops
 
@@ -36,7 +36,7 @@
 ### API Gateways / Edge Services / Scala
 
 *   [Fabio (⭐7.1k)](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
-*   [Neutrino (⭐300)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
+*   [Neutrino (⭐301)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -75,7 +75,6 @@
 ### Books / Method-specific
 
 *   *[Generalized Blockmodeling. Structural Analysis in the Social Sciences](http://www.cambridge.org/de/academic/subjects/sociology/sociology-general-interest/generalized-blockmodeling)*, by Patrick Doreian, Vladimir Batagelj and Anuška Ferligoj (2004).
-*   *[Understanding Large Temporal Networks and Spatial Networks](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470714522.html)*, by Vladimir Batagelj *et al.* (2014).
 
 ### Books / Software-specific
 
@@ -93,24 +92,22 @@
 ### Courses / Topic-specific
 
 *   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes (Penn State University, 2012).
-*   [Network Analysis and Modeling (Computer Science)](http://tuvalu.santafe.edu/\~aaronc/courses/5352/), by Aaron Clauset - Full lecture slides and readings (University of Colorado, 2014).
-*   [Network Science (Computer Science)](http://www.cc.gatech.edu/\~dovrolis/Courses/NetSci/), by Constantine Dovrolis - Mostly open access readings (Georgia Tech, 2015).
+*   [Network Science (Computer Science)](http://www.cc.gatech.edu/~dovrolis/Courses/NetSci/), by Constantine Dovrolis - Mostly open access readings (Georgia Tech, 2015).
+    <!-- -   [Network Science (Physics)](https://www.barabasilab.com/course), by Albert-László Barabási, Sean Cornelius and Roberta Sinatra (Northeastern University, 2015). -->
 *   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2016).
 
 ### Datasets / Topic-specific
 
-*   [Bill Cosponsorship Networks in European Parliaments (⭐13)](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
+*   [Bill Cosponsorship Networks in European Parliaments (⭐14)](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
 *   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
-*   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm).
 *   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
-*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](http://biorxiv.org/content/early/2015/02/24/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐11)](https://github.com/mangal-wg/rmangal)).
-*   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/\~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/\~mejn/networks/)).
+*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐11)](https://github.com/mangal-wg/rmangal)).
+*   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 *   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 
 ### Professional Groups / Topic-specific
 
-*   [GDR ARSHS - GDR Analyse de réseaux en sciences humaines et sociales](http://arshs.hypotheses.org/), in French - Research group based in Paris.
-*   [NetSci - Network Science Society](http://www.netscisociety.net/).
+*   [NetSci - Network Science Society](http://www.netscisociety.net/). Twitter: [@netscisociety](https://twitter.com/netscisociety).
 
 ### Professional Groups / Research Groups (USA)
 
@@ -121,22 +118,13 @@
 
 *   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
 
-### Review Articles / Biological, Ecological and Disease Networks
-
-*   [Structure and Dynamics of Molecular Networks: A Novel Paradigm of Drug Discovery. A Comprehensive Review](http://www.sciencedirect.com/science/article/pii/S0163725813000284) - Also includes an impressive list of network analysis software (*Pharmacology & Therapeutics*, 2013).
-
 ### Selected Papers / Social, Economic and Political Networks
 
 *   [The Strength of Weak Ties](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf), by Mark Granovetter - Arch-classic example of applying network analysis to a social issue: jobseeking (*American Journal of Sociology*, 1973).
 
 ### Software / Social, Economic and Political Networks
 
-*   [PIGALE - Public Implementation of a Graph Algorithm Library and Editor](http://pigale.sourceforge.net/) - Windows program and C++ library to analyze planar graphs.
-*   [SoNIA - Social Network Image Animator](http://web.stanford.edu/group/sonia/) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/) ([example movies](http://www.soc.duke.edu/\~jmoody77/NetMovies/index.htm)), now developed as the ndtv R package.
-
-### Software / Algorithms
-
-*   [MixNet - Erdös-Rényi Mixture Model for Networks](http://ssbgroup.fr/mixnet.html) - Community detection method, available in C++ and R.
+*   [SoNIA - Social Network Image Animator](http://web.stanford.edu/group/sonia/) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/) ([example movies](http://www.soc.duke.edu/~jmoody77/NetMovies/index.htm)), now developed as the ndtv R package.
 
 ### Software / Python
 
@@ -144,14 +132,13 @@
 
 ### Software / R
 
-*   [CCAS (⭐4)](https://github.com/matthewjdenny/CCAS) - Statistical model for communication networks.
+*   [CCAS (⭐5)](https://github.com/matthewjdenny/CCAS) - Statistical model for communication networks.
 *   [concoR (⭐8)](https://github.com/aslez/concoR) - Implementation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
-*   [ContentStructure (⭐3)](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
+*   [ContentStructure (⭐5)](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 *   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Computes the spectral goodness of fit (SGOF), a measure of how well a network model explains the structure of an observed network.
 
 ### Software / Syntaxes
 
-*   [JUNG - Java Universal Network/Graph Framework](http://jung.sourceforge.net/) - Extensible library to represent network objects.
 *   [TLP - Tulip Software Graph Format](http://tulip.labri.fr/TulipDrupal/?q=tlp-file-format) - Graph syntax used by the Tulip software framework.
 *   [Cypher](http://neo4j.com/docs/stable/cypher-query-lang.html) - Graph query language used by [Neo4j](http://neo4j.com/).
 
@@ -167,19 +154,9 @@
 
 ### Varia / Fictional Networks
 
-*   [Character Co-Occurrences in Victor Hugo’s *Les Misérables*](http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html), plotted as an adjacency matrix, written in Python (+ Javascript).
 *   [Lessons on Exponential Random Graph Modeling from *Grey’s Anatomy* hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/) (using R).
 *   [Network Analysis of Shakespeare’s *Macbeth*](https://mboudour.github.io/2015/10/28/Shakespeare's-Macbeth-Network.html) (using Python).
 *   [The Network and Trajectories of Transitions among Sentential Co-Occurrences of Characters of Arthur Conan Doyle’s *A Study in Scarlet*](https://mboudour.github.io/2016/04/17/Arthur-Conan-Doyle's-A-Study-in-Scarlet-Network-&-Trajectories.html) (using Python; [code (⭐6)](https://github.com/mboudour/WordNets/blob/master/ArthurConanDoyle_AStudyInScarlet_Network%26Trajectories.ipynb)).
-*   [Network Visualization: Mapping Shakespeare’s Tragedies](http://www.martingrandjean.ch/network-visualization-shakespeare/).
-
-### Varia / Network Science
-
-*   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/\~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of “network science” as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
-
-### Varia / Two-Mode Networks
-
-*   [Generalized Two-Mode Cores](http://www.sciencedirect.com/science/article/pii/S0378873315000271).
 
 ---
 

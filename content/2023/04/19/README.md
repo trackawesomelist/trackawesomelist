@@ -10,12 +10,12 @@
 
 ### Continuous Integration
 
-*   [go-test-coverage (⭐6)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+*   [go-test-coverage (⭐8)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
 
 ### Caches
 
-*   [imcache (⭐40)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
-*   [theine (⭐40)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
+*   [imcache (⭐64)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
+*   [theine (⭐88)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 
 ## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Applications
 
-*   [Nostr (⭐7.4k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
+*   [Nostr (⭐7.6k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Audio
 
-*   [orhun/linuxwave (⭐218)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+*   [orhun/linuxwave (⭐369)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -67,7 +67,7 @@
 
 - Name: [Nekton.ai](https://nekton.ai/?ref=aicollection)
 
-  Title: Automate your workflows with AI.
+  Title: Automate Your Workflows With AI.
 
   Description: Automate the routine processes for yourself and your team without needing to code or maintain infrastructure.
 
@@ -98,41 +98,34 @@
 *   [React Interview Questions & Answers (⭐29k)](https://github.com/sudheerj/reactjs-interview-questions)
 *   [A simple, scalable, and powerful architecture for building production ready React applications (⭐18k)](https://github.com/alan2207/bulletproof-react)
 
-### React Tools / React Development Tools
+### React Development Tools
 
 *   [why-did-you-render (⭐9.9k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
-### React Tools / React Frameworks
-
-*   [blitz.js (⭐13k)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
-
-### React Tools / React Component Libraries
+### React Component Libraries
 
 *   [material-ui (⭐86k)](https://github.com/mui/material-ui) - Material UI, which implements Google's Material Design
 *   [fluentui (⭐15k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 *   [mantine (⭐19k)](https://github.com/mantinedev/mantine) – A fully featured React components library
 *   [framework7 (⭐17k)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 *   [ariakit (⭐6.6k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-*   [radix-primitives (⭐9k)](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps
+*   [radix-primitives (⭐9k)](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality web apps
 
-### React Tools / React Libraries
-
-*   [loadable-components (⭐7.2k)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
-*   [react-instantsearch (⭐3.2k)](https://github.com/algolia/instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
-*   [react-complex-tree (⭐487)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
-
-### React Tools / React Integration
-
-*   [react-google-autocomplete (⭐376)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
-
-### React Tools / React State Management
+### React State Management and Data Fetching
 
 *   [swr (⭐26k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
-### React Tools / Graphics and Animations
+### React Libraries
 
-*   [react-transition-group (⭐9.8k)](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
-*   [react-tsparticles (⭐5.3k)](https://github.com/matteobruni/tsparticles/tree/main/components/react) - Easily create highly customizable particles effects, confetti explosions and fireworks animations
+*   [loadable-components (⭐7.2k)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
+
+### React Awesome Components
+
+*   [react-complex-tree (⭐487)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
+
+### React Graphics and Animations
+
+*   [react-transition-group (⭐9.8k)](https://github.com/reactjs/react-transition-group) - An easy way to perform animations for React
 *   [gooey-react (⭐580)](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
 ## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
@@ -143,4 +136,5 @@
 
 ---
 
+- Prev: [Apr 20, 2023](/content/2023/04/20/README.md)
 - Next: [Apr 18, 2023](/content/2023/04/18/README.md)

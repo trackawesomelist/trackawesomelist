@@ -46,12 +46,12 @@
 
 ### Algorithms and Data structures
 
-*   [splay\_tree\_map (⭐11)](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
+*   [splay\_tree\_map (⭐12)](https://github.com/wyhaines/splay_tree_map.cr) - Splay Tree implementation that conforms to the Hash ducktype
 
 ### Debugging
 
-*   [backtracer.cr (⭐13)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
-*   [debug.cr (⭐86)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+*   [backtracer.cr (⭐15)](https://github.com/Sija/backtracer.cr) - Shard aiming to assist with parsing backtraces into a structured form
+*   [debug.cr (⭐89)](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ### Misc
 
@@ -61,7 +61,7 @@
 
 ### Packages / Parsing
 
-*   [Chevrotain (⭐2.1k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
+*   [Chevrotain (⭐2.2k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -71,81 +71,18 @@
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### Another Awesome Lists
+### React State Management and Data Fetching
 
-*   [React/Redux Links (⭐22k)](https://github.com/markerikson/react-redux-links)
-
-### React Tools / React Libraries
-
-*   [preact](https://git.io/preact) - Fast 3kb React alternative with the same ES6 API.
-*   [reapop (⭐1.4k)](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
-
-### React Tools / React State Management
-
-*   [redux](#redux) - Predictable State Container for JavaScript Apps
 *   [mobx (⭐26k)](https://github.com/mobxjs/mobx) - Simple, scalable state management
-*   [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
-*   [recoil (⭐18k)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
-*   [xstate-react (⭐22k)](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
-*   [zustand (⭐24k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
-*   [easy-peasy (⭐4.9k)](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
-*   [hookstate (⭐1.5k)](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
-*   [effector (⭐4k)](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
-*   [reactn (⭐1.9k)](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
+*   [zustand (⭐30k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+*   [recoil (⭐19k)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
+*   [effector (⭐4.2k)](https://github.com/zerobias/effector) - Business logic with ease
+*   [immer (⭐25k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
+*   [immutable-js (⭐33k)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 
-### React Tools / Data Managing
+### React Libraries
 
-*   [immer (⭐24k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-*   [immutable-js (⭐32k)](https://github.com/immutable-js/immutable-js) - Immutable Data Collections for Javascript
-*   [baobab (⭐3.1k)](https://github.com/Yomguithereal/baobab) - JavaScript & TypeScript persistent and optionally immutable data tree with cursors
-*   [WatermelonDB (⭐8.8k)](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
-
-### React Native Boilerplates / Charts
-
-*   [Create React Native App (⭐13k)](https://github.com/react-community/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
-
-### Redux General Resources / Charts
-
-*   [Redux GitHub (⭐59k)](https://github.com/reduxjs/redux)
-
-### Redux Tools / Charts
-
-*   [react-redux (⭐22k)](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
-*   [redux-devtools (⭐13k)](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
-*   [redux-thunk (⭐17k)](https://github.com/reduxjs/redux-thunk) - Thunk middleware for redux
-*   [connected-react-router (⭐4.7k)](https://github.com/supasate/connected-react-router) - A Redux binding for React Router
-*   [redux-form (⭐13k)](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state
-*   [normalizr (⭐21k)](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-
-### Redux Tutorials / Charts
-
-*   [Redux Essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
-*   [Redux Fundamentals](https://redux.js.org/tutorials/fundamentals/part-1-overview)
-*   [Fundamentals of Redux Course from Dan Abramov](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
-
-### GraphQL General Resources / Charts
-
-*   [GraphQL Specification (⭐14k)](https://github.com/graphql/graphql-spec)
-
-### GraphQL Tools / Charts
-
-*   [graphql-js (⭐19k)](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for **JavaScript**
-*   [express-graphql (⭐6.4k)](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with **Express**
-*   [Apollo](https://www.apollographql.com/) - Industry-standard GraphQL implementation
-
-### GraphQL Implementations / Charts
-
-*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - **Ruby** implementation of GraphQL
-*   [graphql-java (⭐5.7k)](https://github.com/graphql-java/graphql-java) - GraphQL **Java** implementation
-*   [graphene (⭐7.5k)](https://github.com/graphql-python/graphene) - GraphQL framework for **Python**
-*   [graphql-go (⭐8.9k)](https://github.com/graphql-go/graphql) - GraphQL for **Go**
-*   [juniper (⭐4.9k)](https://github.com/graphql-rust/juniper) - GraphQL server library for **Rust**
-
-### Database Integration / Charts
-
-*   [Hasura](https://hasura.io/) - Instant GraphQL for all your data
-*   [Prisma](https://www.prisma.io/) - Next-generation ORM
-    for Node.js and TypeScript
+*   [reapop (⭐1.5k)](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -214,11 +151,11 @@
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐1.1k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐1.2k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐2.3k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐2.5k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ---
 

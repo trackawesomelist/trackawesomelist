@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [U+1F4C0](https://codepoints.net/U+1F4C0) DVD - only code point name without any vowel ([source](https://twitter.com/ken_lunde/status/960188623390846976))
 
-## [2. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
-
-### SDKs and Samples / Ruby SDK
-
-*   [aws-sdk-rails :fire::fire: (⭐534)](https://github.com/aws/aws-sdk-rails)
-
-## [3. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [2. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Typography / TikZ
 
@@ -28,17 +22,17 @@
 
 *   [TUG: TeX showcase](https://www.tug.org/texshowcase/) - Website from the TUG that shows some examples of what LaTeX can do.
 
-## [4. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [3. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Programming Tools / Others
 
 *   [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 
-## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
-- Name: [AbuseIO (⭐187)](https://github.com/AbuseIO/AbuseIO)
+- Name: [AbuseIO (⭐196)](https://github.com/AbuseIO/AbuseIO)
 
   Description: Abuse Management for network operators
 
@@ -46,19 +40,19 @@
 
 
 
-## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐561)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐564)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [MassTransit (⭐4.9k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
 
-## [8. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [7. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Components
 
@@ -67,7 +61,7 @@
 *   [purescript-halogen-day-picker (⭐13)](https://github.com/rnons/purescript-halogen-day-picker) - A day picker for Halogen
 *   [purescript-halogen-menu (⭐8)](https://github.com/slamdata/purescript-halogen-menu) - Interactive menus in Halogen
 
-## [9. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
@@ -75,11 +69,11 @@
 *   [onchange (⭐775)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
 *   [cli-error-notifier (⭐64)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [gtop (⭐9.3k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+*   [gtop (⭐9.4k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 
 ---
 

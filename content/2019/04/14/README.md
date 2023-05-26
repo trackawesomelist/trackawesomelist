@@ -26,7 +26,7 @@
 
 ### Miscellaneous
 
-*   [icecream-cpp (⭐431)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [icecream-cpp (⭐442)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Packages / Apps
 
-*   [BassoonTracker (⭐850)](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
+*   [BassoonTracker (⭐910)](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
 
 ## [10. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

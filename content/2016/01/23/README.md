@@ -98,7 +98,7 @@
 
 ### E-commerce
 
-*   [django-shop (⭐2.9k)](https://github.com/awesto/django-shop) - A Django based shop system.
+*   [django-shop (⭐3k)](https://github.com/awesto/django-shop) - A Django based shop system.
 
 ## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
 

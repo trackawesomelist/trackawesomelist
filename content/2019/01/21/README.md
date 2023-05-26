@@ -10,7 +10,7 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐555)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐556)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ## [2. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Platforms
 
-*   [Xamarin (⭐1.8k)](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+*   [Xamarin (⭐1.9k)](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
 
 ### Programming Languages
 
@@ -30,15 +30,15 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐304)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐305)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
-*   [Email Newsletters (⭐3.2k)](https://github.com/zudochkin/awesome-newsletters#readme)
+*   [Email Newsletters (⭐3.3k)](https://github.com/zudochkin/awesome-newsletters#readme)
 
 ### Hardware
 
-*   [Electronics (⭐4.6k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐4.7k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Debug
 
-*   [check (⭐936)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐951)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 
@@ -77,7 +77,7 @@
 
 ### Boilerplates
 
-*   [iOS project template (⭐389)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+*   [iOS project template (⭐391)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 
 ### Events
 
@@ -85,7 +85,7 @@
 
 ### Utility / Barcode
 
-*   [TSAO (⭐135)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
+*   [TSAO (⭐137)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

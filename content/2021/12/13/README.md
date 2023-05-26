@@ -14,7 +14,7 @@
 
 ### Packages / Networking
 
-*   [Husarnet VPN (⭐207)](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2. ![husarnet](https://img.shields.io/github/stars/husarnet/husarnet.svg)
+*   [Husarnet VPN (⭐227)](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2. ![husarnet](https://img.shields.io/github/stars/husarnet/husarnet.svg)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
@@ -38,7 +38,7 @@
 
 ### Tools & Software / WARC I/O Libraries
 
-*   [FastWARC (⭐25)](https://github.com/chatnoir-eu/chatnoir-resiliparse) - A high-performance WARC parsing library (Python).
+*   [FastWARC (⭐29)](https://github.com/chatnoir-eu/chatnoir-resiliparse) - A high-performance WARC parsing library (Python).
 
 ## [5. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -58,9 +58,9 @@
 
 *   [node-gcode (⭐30)](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
 *   [svg2gcode (⭐52)](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
-*   [svg2gcode (⭐85)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
+*   [svg2gcode (⭐86)](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
 *   [jscut](http://jscut.org/) - A web-based utility for converting SVG to G-code.
-*   [gcodeplot (⭐132)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
+*   [gcodeplot (⭐134)](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 
 ## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -72,23 +72,23 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-use-paginator (⭐12)](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
+*   [vue-use-paginator (⭐13)](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
 
 ### Components & Libraries / Utilities
 
-*   [localize-vue-3x](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components.
+*   [localize-vue-3x (⭐0)](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components.
 
 ## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [CraftQL (⭐88)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
+*   [CraftQL (⭐90)](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 
 ## [11. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Boilerplates
 
-*   [Electron TypeScript Preact Boilerplate (⭐3)](https://github.com/yoctopuce-examples/electron-typescript-preact-boilerplate) - Electron starter project with TypeScript and Preact support, powered by esbuild.
+*   [Electron TypeScript Preact Boilerplate (⭐6)](https://github.com/yoctopuce-examples/electron-typescript-preact-boilerplate) - Electron starter project with TypeScript and Preact support, powered by esbuild.
 
 ## [12. Tools](/content/lvwzhen/tools/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Libraries / Image processing
 
-*   [rust-cv/cv (⭐465)](https://github.com/rust-cv/cv) — Rust CV is a project to implement computer vision algorithms, abstractions, and systems in Rust. #\[no\_std] is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
+*   [rust-cv/cv (⭐515)](https://github.com/rust-cv/cv) — Rust CV is a project to implement computer vision algorithms, abstractions, and systems in Rust. #\[no\_std] is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
 
 ## [16. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

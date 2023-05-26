@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 23, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -57,19 +57,25 @@
 
 *   [Amazon Lex](https://aws.amazon.com/lex/) - An AWS service for building conversational interfaces for applications using voice and text.
 
-## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Risk Analysis
+
+*   [Riskfolio-Lib (⭐2k)](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
+
+## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-wayland (⭐312)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
+*   [nixpkgs-wayland (⭐337)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 
-## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Meta-Level Considerations / Gestalt
 
 *   [Restructuring revisited II. An information processing theory of restructuring and insight](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01005.x) - ***Scandinavian Journal of Psychology***, 1984. \[[All Versions](https://scholar.google.com/scholar?cluster=1821980539002417470\&hl=en\&as_sdt=0,5)].
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Events
 
@@ -124,7 +130,7 @@
 
 
 
-## [7. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [8. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Supplement: Troubleshooting / Risks - some starting points
 

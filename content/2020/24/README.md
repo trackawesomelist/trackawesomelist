@@ -22,11 +22,11 @@
 
 ### Themes
 
-*   [tmux-power (⭐324)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐349)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐364)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐377)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -57,11 +57,11 @@
 
 ### Tools
 
-*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐38)](https://github.com/opengento/magento2-downgrade-ee-ce)
+*   [Migrate DB Magento 2 Commerce to Magento 2 Open-Source (⭐43)](https://github.com/opengento/magento2-downgrade-ee-ce)
 
 ### Adminhtml / Backend
 
-*   [Clean Admin Menu (⭐109)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
+*   [Clean Admin Menu (⭐111)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 
 ## [9. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -74,11 +74,11 @@
 ### Tools / Online Analyzers
 
 *   [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details including app author, signature, build and manifest information. 3 Analysis/day free quota.
-*   [BitBaan](https://malab.bitbaan.com/)
+*   ~~[BitBaan](https://malab.bitbaan.com/)~~
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐252)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis.
+*   [AndroPyTool (⭐278)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis.
 
 ### Academic/Research/Publications/Books / Others
 
@@ -117,7 +117,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-snap (⭐161)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
+*   [vue-snap (⭐162)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
 
 ## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -128,11 +128,11 @@
 
 ## [16. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
-### :trophy: Tutorials / Tutorials with   [Nexus](https://www.nexusjs.org/#/)
+### :trophy: Tutorials / Tutorials with [Nexus](https://www.nexusjs.org/#/)
 
 *   [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
 
-### :trophy: Tutorials / Tutorials with   [NestJS](https://nestjs.com/)
+### :trophy: Tutorials / Tutorials with [NestJS](https://nestjs.com/)
 
 *   [How to query your database using Prisma with NestJS](https://notiz.dev/blog/how-to-connect-nestjs-with-prisma)
 
@@ -161,7 +161,7 @@
     *   [fabric (⭐14k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
     *   [fabtools (⭐1.3k)](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files.
 *   Monitoring
-    *   [psutil (⭐9k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
+    *   [psutil (⭐9.2k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 *   Backup
     *   [BorgBackup](https://www.borgbackup.org/) - A deduplicating archiver with compression and encryption.
 *   Others
@@ -177,11 +177,11 @@
 
 ### Third-Party Packages / Admin
 
-*   [impostor (⭐142)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐145)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ### Projects / Boilerplate
 
-*   [django-docker-heroku-template (⭐30)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
+*   [django-docker-heroku-template (⭐31)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 
 ## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -193,7 +193,7 @@
 
 ### Reference Projects
 
-*   [bounded-disturbances (⭐41)](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
+*   [bounded-disturbances (⭐44)](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
 
 ## [24. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -205,7 +205,7 @@
 
 ### Tools
 
-*   [louketo-proxy (FKA Gatekeeper) (⭐943)](https://github.com/louketo/louketo-proxy)
+*   [louketo-proxy (FKA Gatekeeper) (⭐947)](https://github.com/louketo/louketo-proxy)
 
 ## [25. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
@@ -217,7 +217,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐712)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐744)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ### Software / URL Shorteners
 
@@ -292,7 +292,7 @@
 
 ### Applications
 
-*   [wezterm (⭐7.5k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐8.8k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [35. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -307,7 +307,7 @@
 *   [Media RSS Specification](https://www.rssboard.org/media-rss)
 *   [GeoRSS](http://www.georss.org/) <sup>[657](https://t.me/s/aboutrss/657)</sup>
 
-### specifically from (  *a certain platform*  ) / SoundCloud
+### specifically from (*a certain platform*) / SoundCloud
 
 *   [GetRSSfeed](http://getrssfeed.com/) <sup>[656](https://t.me/s/aboutrss/656)</sup>
 
@@ -320,7 +320,7 @@
 *   [MOONMOON](https://moonmoon.org/) <sup>[648](https://t.me/s/aboutrss/648)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/moonmoon/moonmoon)
 *   [TINT](https://www.tintup.com/blog/the-best-rss-widget/) <sup>[652](https://t.me/s/aboutrss/652)</sup>
 
-### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Feed item filtering / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSSFilter](https://rssfilter.netlify.app/) <sup>[655](https://t.me/s/aboutrss/655)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/bcongdon/rssfilter)
 
@@ -339,8 +339,8 @@
 
 ### Documentation and Presentation
 
-*   [Reveal-Hugo (⭐527)](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
-*   [Hugo-Webslides (⭐111)](https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
+*   [Reveal-Hugo (⭐581)](https://github.com/dzello/reveal-hugo) - A Hugo theme for Reveal.js that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
+*   [Hugo-Webslides (⭐115)](https://github.com/RCJacH/hugo-webslides) - This is a Hugo template to create WebSlides presentation using markdown.
 
 ### Requirements and Safety
 
@@ -348,139 +348,139 @@
 
 ### Frameworks and Stacks
 
-*   [awesome-ros2 (⭐1.1k)](https://github.com/fkromer/awesome-ros2) - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
-*   [Apollo (⭐22k)](https://github.com/ApolloAuto/apollo) - High performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
-*   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics/) - This is a Python code collection of robotics algorithms, especially for autonomous navigation.
-*   [astrobee (⭐709)](https://github.com/nasa/astrobee) - Astrobee is a free-flying robot designed to operate as a payload inside the International Space Station (ISS).
+*   [awesome-ros2 (⭐1.3k)](https://github.com/fkromer/awesome-ros2) - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
+*   [Apollo (⭐23k)](https://github.com/ApolloAuto/apollo) - High performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
+*   [PythonRobotics (⭐18k)](https://github.com/AtsushiSakai/PythonRobotics/) - This is a Python code collection of robotics algorithms, especially for autonomous navigation.
+*   [astrobee (⭐788)](https://github.com/nasa/astrobee) - Astrobee is a free-flying robot designed to operate as a payload inside the International Space Station (ISS).
 
 ### Development Environment / Code and Run
 
-*   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) - Code editor for edit-build-debug cycle.
+*   [Visual Studio Code (⭐146k)](https://github.com/Microsoft/vscode) - Code editor for edit-build-debug cycle.
 
 ### Development Environment / Lint and Format
 
-*   [pylint (⭐4.3k)](https://github.com/PyCQA/pylint/) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+*   [pylint (⭐4.7k)](https://github.com/PyCQA/pylint/) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
 
 ### Development Environment / Debugging and Tracing
 
-*   [gdb-frontend (⭐2.4k)](https://github.com/rohanrhu/gdb-frontend) - GDBFrontend is an easy, flexible and extensionable gui debugger.
-*   [tracy (⭐4.4k)](https://github.com/wolfpld/tracy) - A real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
+*   [gdb-frontend (⭐2.6k)](https://github.com/rohanrhu/gdb-frontend) - GDBFrontend is an easy, flexible and extensionable gui debugger.
+*   [tracy (⭐5.6k)](https://github.com/wolfpld/tracy) - A real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
 
 ### Development Environment / Version Control
 
-*   [bfg-repo-cleaner (⭐9k)](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
+*   [bfg-repo-cleaner (⭐9.7k)](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 
 ### Simulation / Version Control
 
-*   [Webots (⭐2.1k)](https://github.com/cyberbotics/webots) - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
-*   [lgsv (⭐1.9k)](https://github.com/lgsvl/simulator) - LG Electronics America R\&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
-*   [awesome-CARLA (⭐470)](https://github.com/Amin-Tgz/awesome-CARLA) - A curated list of awesome CARLA tutorials, blogs, and related projects.
-*   [car\_demo (⭐466)](https://github.com/osrf/car_demo) - This is a simulation of a Prius in gazebo 9 with sensor data being published using ROS kinetic.
-*   [open-simulation-interface (⭐224)](https://github.com/OpenSimulationInterface/open-simulation-interface) - A generic interface for the environmental perception of automated driving functions in virtual scenarios.
+*   [Webots (⭐2.5k)](https://github.com/cyberbotics/webots) - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
+*   [lgsv (⭐2.1k)](https://github.com/lgsvl/simulator) - LG Electronics America R\&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
+*   [awesome-CARLA (⭐538)](https://github.com/Amin-Tgz/awesome-CARLA) - A curated list of awesome CARLA tutorials, blogs, and related projects.
+*   [car\_demo (⭐489)](https://github.com/osrf/car_demo) - This is a simulation of a Prius in gazebo 9 with sensor data being published using ROS kinetic.
+*   [open-simulation-interface (⭐243)](https://github.com/OpenSimulationInterface/open-simulation-interface) - A generic interface for the environmental perception of automated driving functions in virtual scenarios.
 
 ### Electronics and Mechanics / Version Control
 
-*   [phobos (⭐458)](https://github.com/dfki-ric/phobos) - An add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.
-*   [NASA-3D-Resources (⭐2.6k)](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
+*   [phobos (⭐506)](https://github.com/dfki-ric/phobos) - An add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.
+*   [NASA-3D-Resources (⭐2.7k)](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 
 ### Sensor Processing / Machine Learning
 
-*   [fastai (⭐23k)](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
-*   [gym (⭐29k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+*   [fastai (⭐24k)](https://github.com/fastai/fastai) - The fastai library simplifies training fast and accurate neural nets using modern best practices.
+*   [gym (⭐31k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 *   [tensorflow\_ros\_cpp (⭐60)](https://github.com/tradr-project/tensorflow_ros_cpp) - A ROS package that allows to do Tensorflow inference in C++ without the need to compile TF yourself.
 
 ### Sensor Processing / Image Processing
 
-*   [vision\_opencv (⭐393)](https://github.com/ros-perception/vision_opencv) - Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
+*   [vision\_opencv (⭐437)](https://github.com/ros-perception/vision_opencv) - Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
 *   [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation) - Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.
-*   [yolact (⭐4.5k)](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
+*   [yolact (⭐4.7k)](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
-*   [point\_cloud\_io (⭐153)](https://github.com/ANYbotics/point_cloud_io) - ROS nodes to read and write point clouds from and to files (e.g. ply, vtk).
-*   [robot\_body\_filter (⭐39)](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
-*   [pointcloud\_to\_laserscan (⭐238)](https://github.com/ros-perception/pointcloud_to_laserscan) - Converts a 3D Point Cloud into a 2D laser scan.
-*   [PotreeConverter (⭐499)](https://github.com/potree/PotreeConverter) - Builds a potree octree from las, laz, binary ply, xyz or ptx files.
-*   [laser\_line\_extraction (⭐324)](https://github.com/kam3k/laser_line_extraction) - A ROS packages that extracts line segments from LaserScan messages.
+*   [point\_cloud\_io (⭐162)](https://github.com/ANYbotics/point_cloud_io) - ROS nodes to read and write point clouds from and to files (e.g. ply, vtk).
+*   [robot\_body\_filter (⭐53)](https://github.com/peci1/robot_body_filter) - A highly configurable LaserScan/PointCloud2 filter that allows to dynamically remove the 3D body of the robot from the measurements.
+*   [pointcloud\_to\_laserscan (⭐279)](https://github.com/ros-perception/pointcloud_to_laserscan) - Converts a 3D Point Cloud into a 2D laser scan.
+*   [PotreeConverter (⭐535)](https://github.com/potree/PotreeConverter) - Builds a potree octree from las, laz, binary ply, xyz or ptx files.
+*   [laser\_line\_extraction (⭐346)](https://github.com/kam3k/laser_line_extraction) - A ROS packages that extracts line segments from LaserScan messages.
 
 ### Localization and State Estimation / Lidar and Point Cloud Processing
 
 *   [GeographicLib (⭐34)](https://github.com/Sciumo/GeographicLib) - A C++ library for geographic projections.
-*   [ntripbrowser (⭐26)](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
-*   [imu\_tools (⭐600)](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
+*   [ntripbrowser (⭐29)](https://github.com/emlid/ntripbrowser) - A Python API for browsing NTRIP (Networked Transport of RTCM via Internet Protocol).
+*   [imu\_tools (⭐697)](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers.
 
 ### Simultaneous Localization and Mapping / Lidar
 
 *   [loam\_velodyne (⭐1.5k)](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
-*   [maplab (⭐1.9k)](https://github.com/ethz-asl/maplab) - An open visual-inertial mapping framework.
-*   [interactive\_slam (⭐614)](https://github.com/SMRT-AIST/interactive_slam) -  In contrast to existing automatic SLAM packages, we with minimal human effort.
+*   [maplab (⭐2.2k)](https://github.com/ethz-asl/maplab) - An open visual-inertial mapping framework.
+*   [interactive\_slam (⭐691)](https://github.com/SMRT-AIST/interactive_slam) -  In contrast to existing automatic SLAM packages, we with minimal human effort.
 *   [Kitware SLAM](https://gitlab.kitware.com/keu-computervision/slam/) -  LiDAR-only visual SLAM developped by Kitware, as well as ROS and ParaView wrappings for easier use.
 
 ### Simultaneous Localization and Mapping / Visual
 
-*   [LARVIO (⭐539)](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
-*   [fiducials (⭐229)](https://github.com/UbiquityRobotics/fiducials) - Simultaneous localization and mapping using fiducial markers.
+*   [LARVIO (⭐588)](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
+*   [fiducials (⭐236)](https://github.com/UbiquityRobotics/fiducials) - Simultaneous localization and mapping using fiducial markers.
 
 ### Behavior and Decision / Vector Map
 
-*   [py\_trees\_ros (⭐85)](https://github.com/splintered-reality/py_trees_ros) - Behaviours, trees and utilities that extend py\_trees for use with ROS.
+*   [py\_trees\_ros (⭐99)](https://github.com/splintered-reality/py_trees_ros) - Behaviours, trees and utilities that extend py\_trees for use with ROS.
 
 ### Planning and Control / Vector Map
 
 *   [HypridAStarTrailer](https://github.com/AtsushiSakai/HybridAStarTrailer) - A path planning algorithm based on Hybrid A\* for trailer truck.
-*   [open\_street\_map (⭐69)](https://github.com/ros-geographic-info/open_street_map) - ROS packages for working with Open Street Map geographic information.
-*   [fastrack (⭐67)](https://github.com/HJReachability/fastrack) - A ROS implementation of Fast and Safe Tracking (FaSTrack).
-*   [traffic-editor (⭐93)](https://github.com/osrf/traffic-editor) - A graphical editor for robot traffic flows.
-*   [openrave (⭐557)](https://github.com/rdiankov/openrave) - Open Robotics Automation Virtual Environment: An environment for testing, developing, and deploying robotics motion planning algorithms.
+*   [open\_street\_map (⭐72)](https://github.com/ros-geographic-info/open_street_map) - ROS packages for working with Open Street Map geographic information.
+*   [fastrack (⭐68)](https://github.com/HJReachability/fastrack) - A ROS implementation of Fast and Safe Tracking (FaSTrack).
+*   [traffic-editor (⭐104)](https://github.com/osrf/traffic-editor) - A graphical editor for robot traffic flows.
+*   [openrave (⭐595)](https://github.com/rdiankov/openrave) - Open Robotics Automation Virtual Environment: An environment for testing, developing, and deploying robotics motion planning algorithms.
 
 ### User Interaction / Graphical User Interface
 
-*   [cage (⭐634)](https://github.com/Hjdskes/cage) - This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
-*   [pencil (⭐8.5k)](https://github.com/evolus/pencil) - A tool for making diagrams and GUI prototyping that everyone can use.
+*   [cage (⭐720)](https://github.com/Hjdskes/cage) - This is Cage, a Wayland kiosk. A kiosk runs a single, maximized application.
+*   [pencil (⭐8.6k)](https://github.com/evolus/pencil) - A tool for making diagrams and GUI prototyping that everyone can use.
 
 ### User Interaction / Command Line Interface
 
-*   [ag (⭐24k)](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-*   [pkgtop (⭐254)](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
-*   [gocui (⭐8.6k)](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-*   [bat (⭐38k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [ag (⭐25k)](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+*   [pkgtop (⭐269)](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
+*   [gocui (⭐9k)](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+*   [bat (⭐41k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ### Data Visualization and Mission Control / Command Line Interface
 
-*   [Pangolin (⭐1.8k)](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
-*   [streetscape.gl (⭐816)](https://github.com/uber/streetscape.gl) - Streetscape.gl is a toolkit for visualizing autonomous and robotics data in the XVIZ protocol.
+*   [Pangolin (⭐1.9k)](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
+*   [streetscape.gl (⭐848)](https://github.com/uber/streetscape.gl) - Streetscape.gl is a toolkit for visualizing autonomous and robotics data in the XVIZ protocol.
 
 ### Data Visualization and Mission Control / Point Cloud
 
-*   [CloudCompare (⭐2.4k)](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
+*   [CloudCompare (⭐2.7k)](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
 
 ### Data Visualization and Mission Control / RViz
 
-*   [mapviz (⭐267)](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
-*   [rviz\_cinematographer (⭐131)](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
+*   [mapviz (⭐308)](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
+*   [rviz\_cinematographer (⭐147)](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
 
 ### Operation System / Database and Record
 
-*   [nextcloud (⭐20k)](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
+*   [nextcloud (⭐22k)](https://github.com/nextcloud/server) - Nextcloud is a suite of client-server software for creating and using file hosting services.
 
 ### Operation System / Server Infrastructure and High Performance Computing
 
-*   [polyaxon (⭐3.2k)](https://github.com/polyaxon/polyaxon) - A platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.
-*   [enroot (⭐391)](https://github.com/NVIDIA/enroot) - A simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
+*   [polyaxon (⭐3.3k)](https://github.com/polyaxon/polyaxon) - A platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.
+*   [enroot (⭐441)](https://github.com/NVIDIA/enroot) - A simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 
 ### Network and Middleware / Real-Time Kernel
 
-*   [realtime\_support (⭐52)](https://github.com/ros2/realtime_support) - Minimal real-time testing utility for measuring jitter and latency.
+*   [realtime\_support (⭐58)](https://github.com/ros2/realtime_support) - Minimal real-time testing utility for measuring jitter and latency.
 
 ### Security / Sensor and Acuator Interfaces
 
-*   [How-to-Secure-A-Linux-Server (⭐13k)](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-*   [brutespray (⭐1.6k)](https://github.com/x90skysn3k/brutespray) - Automatically attempts default creds on found services.
-*   [hardening (⭐961)](https://github.com/konstruktoid/hardening) - A quick way to make a Ubuntu server a bit more secure.
+*   [How-to-Secure-A-Linux-Server (⭐14k)](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+*   [brutespray (⭐1.7k)](https://github.com/x90skysn3k/brutespray) - Automatically attempts default creds on found services.
+*   [hardening (⭐1.1k)](https://github.com/konstruktoid/hardening) - A quick way to make a Ubuntu server a bit more secure.
 
 ### Datasets / Sensor and Acuator Interfaces
 
-*   [dataset-api (⭐407)](https://github.com/ApolloScapeAuto/dataset-api) - This is a repo of toolkit for ApolloScape Dataset, CVPR 2019 Workshop on Autonomous Driving Challenge and ECCV 2018 challenge.
+*   [dataset-api (⭐455)](https://github.com/ApolloScapeAuto/dataset-api) - This is a repo of toolkit for ApolloScape Dataset, CVPR 2019 Workshop on Autonomous Driving Challenge and ECCV 2018 challenge.
 
 ## [39. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -507,10 +507,13 @@
 
 ## [42. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
+### GTFS Merge Tools / Ruby
+
+*   [GTFS Kit (⭐1)](https://github.com/mrcagney/gtfs_kit) - A Python 3.8+ tool kit for analyzing and merging General Transit Feed Specification (GTFS) data. [Info on how to aggregate and clean feeds provided here](https://mrcagney.github.io/gtfs_kit_docs/index.html#module-gtfs_kit.cleaners).
+
 ### GTFS Libraries / Python
 
-*   [GTFS Kit (⭐4)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
-*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐4)](https://github.com/mrcagney/gtfs_kit).
+*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐1)](https://github.com/mrcagney/gtfs_kit).
 
 ### GTFS Analysis Tools / Ruby
 
@@ -581,7 +584,7 @@
 
 ### Telegram
 
-*   [vgram (⭐126)](https://github.com/dariotarantini/vgram) - Telegram bot library.
+*   [vgram (⭐133)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ## [51. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -663,7 +666,7 @@
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
-*   [Stenographer (⭐1.7k)](https://github.com/google/stenographer) - Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.
+*   [Stenographer (⭐1.8k)](https://github.com/google/stenographer) - Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.
 
 ### Security monitoring / Service and performance monitoring
 
@@ -734,24 +737,28 @@
 
 ## [59. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
+### Layout / Barcode
+
+*   [Grid (⭐1.3k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+
 ### Keyboard / Barcode
 
-*   [KeyboardShortcuts (⭐1.2k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
+*   [KeyboardShortcuts (⭐1.3k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
 ### Mock / Barcode
 
-*   [Mocker (⭐913)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+*   [Mocker (⭐942)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
 ## [60. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Misc
 
 *   [Only-Error (⭐11)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐129)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Warn (⭐130)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐829)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐876)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [61. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -765,7 +772,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐733)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐750)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ### Chart
 
@@ -786,7 +793,7 @@
 ### Network / Anti-Spam
 
 *   [Spam Scanner](https://github.com/spamscanner) - Anti-Spam Scanning Service and Anti-Spam API by [@niftylettuce](https://github.com/niftylettuce).
-*   [rspamd (⭐1.7k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
+*   [rspamd (⭐1.8k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
 
 ## [64. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
@@ -804,19 +811,13 @@
 
 *   [Scapy (⭐8.5k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
-## [66. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Layout
-
-*   [Grid (⭐1.3k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
-
-## [67. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [66. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐122)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
-## [68. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [67. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Dependency Injection
 
@@ -828,23 +829,23 @@
 
 ### Network Protocols
 
-*   [crystal-mqtt (⭐16)](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
+*   [crystal-mqtt (⭐17)](https://github.com/spider-gazelle/crystal-mqtt) - A MQTT client
 
 ### Web Frameworks
 
-*   [Athena (⭐170)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐175)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ### Official Documentation Translations
 
 *   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
-## [69. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [68. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [steam-box (⭐127)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐132)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
-## [70. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [69. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
@@ -1010,17 +1011,27 @@
 *   [HazeOver](https://hazeover.com/github-students.html) \[FREE] - Get focused while working on your projects or studying with HazeOver for Mac.Free app license, including minor updates.
 *   [Github Campus Experts](https://apply.githubcampus.expert/) \[FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
-## [71. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [70. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
-*   🔧 [Typesaurus (⭐313)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
+*   🔧 [Typesaurus (⭐336)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
+
+## [71. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Data Sources
+
+*   [yliveticker (⭐117)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
+
+### Python / Visualization
+
+*   [D-Tale (⭐4k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
 ## [72. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐48)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐49)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 *   [Chord Quiz (⭐12)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 
 ---

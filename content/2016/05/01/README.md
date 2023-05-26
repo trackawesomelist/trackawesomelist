@@ -10,7 +10,7 @@
 
 ### Frameworks
 
-*   [EASTL (⭐7k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐7.2k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ## [2. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 

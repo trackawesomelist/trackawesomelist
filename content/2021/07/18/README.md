@@ -45,7 +45,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-tips (⭐47)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
+*   [vite-plugin-tips (⭐52)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 ## [6. Awesome Rss Feeds](/content/plenaryapp/awesome-rss-feeds/README.md)
 

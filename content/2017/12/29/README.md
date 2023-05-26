@@ -10,13 +10,13 @@
 
 ### Packages / Command-line apps
 
-*   [svg-term-cli (⭐3.1k)](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
+*   [svg-term-cli (⭐3.2k)](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [collie (⭐58)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+*   [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
 
 ### Data serialization / Binary Serilization
 

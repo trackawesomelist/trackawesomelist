@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2019
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,6 +20,10 @@
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
+### Utility / Barcode
+
+*   [Bow (⭐626)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
+
 ### Misc
 
 *   [Swiftbrew (⭐144)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
@@ -30,7 +34,7 @@
 
 ### UI / Barcode
 
-*   [ResizingTokenField (⭐100)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
+*   [ResizingTokenField (⭐102)](https://github.com/tadejr/ResizingTokenField) - A UICollectionView-based token field which provides intrinsic content height.
 
 ### TextField / Barcode
 
@@ -42,21 +46,15 @@
 
 *   [Remote People](https://remotepeople.io/)
 
-## [5. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
-
-### Table of Contents / Repos
-
-*   [Bow (⭐619)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
-
-## [6. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Containerization
 
-*   [micro-ROS/docker (⭐35)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
+*   [micro-ROS/docker (⭐39)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 
 ### Packages / Application layer
 
-*   [apriltag\_ros (⭐61)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
+*   [apriltag\_ros (⭐67)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 
 ### Packages / Driver layer
 
@@ -69,19 +67,19 @@
 
 ### Operating systems / Build system (ROS2)
 
-*   [NuttX (⭐76)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
+*   [NuttX (⭐78)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
 
 ### Services / Robotics Capture the Flag (RCTF)
 
-*   [rctf-list (⭐28)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
+*   [rctf-list (⭐29)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Books
 
-*   [foy (⭐222)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
+*   [foy (⭐231)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
-## [8. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
+## [7. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
 ### Official Resources and Documentation
 
@@ -93,17 +91,17 @@
 *   [QlikView Cookbook](https://qlikviewcookbook.com/) - A technical 'how-to' blog for QlikView developers, by Rob Wunderlich.
 *   [Quick Intelligence](https://www.quickintelligence.co.uk/blog/) - A blog where a skilled team of Qlik developers lead by Steve Dark, providing tips on working in Qlik Sense and QlikView.
 
-## [9. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 
 *   [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 *   [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
-*   [Elm Koans (⭐237)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
+*   [Elm Koans (⭐236)](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
 *   [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 *   [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 *   [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
-*   [Elm cheat sheet (⭐956)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
+*   [Elm cheat sheet (⭐949)](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
 *   [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) - Adaptations for Elm from Ninety-Nine Haskell Problems.
 *   [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 *   [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - a brief overview of Elm as a programming language.

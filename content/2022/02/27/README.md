@@ -11,18 +11,21 @@
 ### Overview / YouTube Music
 
 *   [ytmdesktop (⭐2.7k)](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
-*   [Beatbump (⭐614)](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
+*   [Beatbump (⭐624)](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
+    *   Official instance: <https://beatbump.ml/>
 *   [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
 ### Redirection / Other services
 
-*   [libredirect (⭐2k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+*   [libredirect (⭐2.1k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+    *   [Firefox Add-On](https://addons.mozilla.org/firefox/addon/libredirect/)
+    *   [Chrome Extension](https://libredirect.github.io/download_chromium.html)
 
 ## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Tools / GUIs
 
-*   [toni-moreno/snmpcollector (⭐268)](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
+*   [toni-moreno/snmpcollector (⭐273)](https://github.com/toni-moreno/snmpcollector) - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 
 ## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -34,7 +37,7 @@
 
 ### JupyterLab Extensions
 
-*   [stickyland (⭐275)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
+*   [stickyland (⭐280)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 
 ### Hosted Notebook Solutions
 
@@ -51,19 +54,19 @@
 
 ### Other Tools / Telegram
 
-*   [DuckDuckGo URL scraper (⭐14)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐15)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
-*   [Doddle- (become an artist in a minute) (⭐60)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
+*   [Doddle- (become an artist in a minute) (⭐74)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
-*   [Slim (⭐17)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+*   [Slim (⭐18)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -73,7 +76,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Balancer (⭐127)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
+*   [Balancer (⭐138)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
 
 ### Components & Libraries / UI Components
 
@@ -83,11 +86,11 @@
 
 ### Components & Libraries / Frameworks
 
-*   [petite-vue (⭐7.5k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
+*   [petite-vue (⭐7.7k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐250)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐276)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -104,11 +107,11 @@
 
 ### HTTP Clients
 
-*   [go-cleanhttp (⭐292)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
+*   [go-cleanhttp (⭐297)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
 
 ### Server Applications
 
-*   [Wish (⭐1.9k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
+*   [Wish (⭐2.1k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -120,12 +123,12 @@
 
 ### Projects
 
-*   [Rust algorithms (⭐44)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
+*   [Rust algorithms (⭐49)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms.
 
 ### Alternatives / Frameworks
 
-*   [Dioxus (⭐7.5k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-*   [Sycamore (⭐2k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+*   [Dioxus (⭐8.1k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+*   [Sycamore (⭐2.1k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
 ---
 

@@ -85,7 +85,7 @@
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐149)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐156)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Miscellaneous
 
-*   [virgil (⭐264)](https://github.com/ztellman/virgil)
+*   [virgil (⭐268)](https://github.com/ztellman/virgil)
 *   [javastar (⭐63)](https://github.com/tailrecursion/javastar)
 
 ---

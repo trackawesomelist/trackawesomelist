@@ -43,13 +43,13 @@
 
 ### Style Guides / Components
 
-*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐178)](https://github.com/ng-seed/angular-tslint-rules)
+*   [Shared TSLint & codelyzer rules by fulls1z3 (⭐176)](https://github.com/ng-seed/angular-tslint-rules)
 
 ## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Implementations
 
-*   [CPython (⭐50k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
+*   [CPython (⭐52k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
 
 ## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -61,19 +61,15 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐1.8k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐1.9k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Testing Utils
 
-*   [Preact Test Utils (⭐7)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
+*   [Preact Test Utils (⭐8)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
-
-### Articles & Posts
-
-*   [Why moonlighting will change your career](https://blog.landing.jobs/why-moonlighting-will-change-your-career-7e8aac3dc25f)
 
 ### Job boards aggregators
 
@@ -229,7 +225,7 @@
 
 ### Open Source Repos / Route 53
 
-*   [barnybug/cli53 :fire::fire::fire::fire: (⭐1.8k)](https://github.com/barnybug/cli53) - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
+*   [barnybug/cli53 :fire::fire::fire::fire: (⭐1.9k)](https://github.com/barnybug/cli53) - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
 
 ### Open Source Repos / SES
 
@@ -279,7 +275,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐352)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐353)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ### Components & Libraries / UI Utilities
 
@@ -367,8 +363,8 @@ Webpage: <https://www.facebook.com/cafelinne/>
 
 ### Example Projects
 
-*   [Monitor your keycloak with prometheus (⭐65)](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
-*   [Custom User Storage Provider .ear with jboss-cli setup (⭐86)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
+*   [Monitor your keycloak with prometheus (⭐64)](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
+*   [Custom User Storage Provider .ear with jboss-cli setup (⭐89)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
 
 ---
 

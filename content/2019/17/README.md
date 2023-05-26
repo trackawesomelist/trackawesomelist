@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 29 - May 05, 2019
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ### JavaScript Libraries
 
-*   [Bitcore Library (⭐4.5k)](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib)
+*   [Bitcore Library (⭐4.6k)](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib)
 *   [Cryptocoin](http://cryptocoinjs.com/#modules)
 
 ### Playgrounds
@@ -183,12 +183,12 @@
 
 ### Packages / Command-line apps
 
-*   [ESLint (⭐22k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
+*   [ESLint (⭐23k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 
 ### Packages / Functional programming
 
 *   [lodash (⭐56k)](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-*   [RxJS (⭐28k)](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
+*   [RxJS (⭐29k)](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
 
 ### Packages / Build tools
 
@@ -198,8 +198,8 @@
 
 *   [Hapi (⭐14k)](https://github.com/hapijs/hapi) - Framework for building applications and services.
 *   [Koa (⭐34k)](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-*   [Express (⭐60k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-*   [Feathers (⭐14k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
+*   [Express (⭐61k)](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+*   [Feathers (⭐15k)](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
 *   [Meteor (⭐43k)](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor (⭐1.4k)](https://github.com/Urigo/awesome-meteor))*
 *   [Restify (⭐11k)](https://github.com/restify/node-restify) - Enables you to build correct REST web services.
 
@@ -214,11 +214,11 @@
 
 ### Packages / Security
 
-*   [rate-limiter-flexible (⭐2.4k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
+*   [rate-limiter-flexible (⭐2.5k)](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 
 ### Packages / Miscellaneous
 
-*   [node-video-lib (⭐317)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
+*   [node-video-lib (⭐323)](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
 
 ### Resources / Tutorials
 
@@ -230,7 +230,7 @@
 
 ### Resources / Cheatsheets
 
-*   [Strong Node.js (⭐476)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+*   [Strong Node.js (⭐486)](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -255,7 +255,7 @@
 
 ### Applications
 
-*   [Herd (⭐102)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
+*   [Herd (⭐104)](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
 
 ### Applications / Productivity
 
@@ -288,9 +288,9 @@
 ### Packages / Driver layer
 
 *   [Autoware.IO](https://www.autoware.io/) - Autoware.IO provides a heterogeneous hardware reference platform and enables the integration of member company's solutions onto platforms which support the Autoware.Auto and Autoware.AI software stack.
-*   [zed-ros2-wrapper (⭐68)](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper beta for the ZED SDK.
+*   [zed-ros2-wrapper (⭐76)](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper beta for the ZED SDK.
 *   [ros2\_denso\_radar (⭐7)](https://github.com/klintan/ros2_denso_radar) - Toyota/Lexus 2015-2017 Denso Radar driver for ROS2.
-*   [sick\_scan2 (⭐50)](https://github.com/SICKAG/sick_scan2) - ROS2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
+*   [sick\_scan2 (⭐51)](https://github.com/SICKAG/sick_scan2) - ROS2 driver for the SICK TiM series of laser scanners (TiM551/TiM561/TiM571).
 
 ### Courses / Build system (ROS2)
 
@@ -335,7 +335,7 @@
 
 ### Misc
 
-*   [crystal-web-framework-stars (⭐56)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
+*   [crystal-web-framework-stars (⭐59)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
 
 ## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -362,7 +362,7 @@
 
 ### no-std crates / WIP
 
-*   [Rubble (⭐392)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
+*   [Rubble (⭐394)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
 ## [20. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -380,13 +380,7 @@
 
 *   [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
-## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Ada
-
-*   [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF)
-
-## [23. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [22. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tools
 
@@ -396,19 +390,19 @@
 
 *   [Salt Sudo](https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d) - Using Salt custom modules to manage sudo access for users.
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
 *   [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
 
-## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
 *   [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
 
-## [26. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
+## [25. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
 
 ### Guides
 
@@ -448,34 +442,35 @@
 
 *   [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running YouTube live show about electronics, information often on during an "Adafruit IO Update" segment. New compatible hardware during "New New New" segment.
 
-## [27. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [26. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-picker-modal-view (⭐193)](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
 
-## [28. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [27. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### User Interface
 
-*   [ocaml-linenoise (⭐46)](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml.
+*   [ocaml-linenoise (⭐47)](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml.
 
 ### Package Management
 
 *   **Distribution**:
     *   [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
     *   [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
-    *   [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows.
+    *   [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
+    *   [Diskuv OCaml (⭐37)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
     *   [makorel (⭐8)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
-    *   [esy (⭐789)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
+    *   [esy (⭐804)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
-## [29. Bots](/content/hackerkid/bots/week/README.md)
+## [28. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
-*   [Java (⭐1.3k)](https://github.com/pengrad/java-telegram-bot-api)
+*   [Java (⭐1.4k)](https://github.com/pengrad/java-telegram-bot-api)
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
@@ -493,19 +488,19 @@
 
 *   [ASP.NET Core Developer Roadmap (⭐13k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
 
-## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Flutter / Custom Dialog
 
 *   [Booster (⭐4.2k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
 
-## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 
-## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [32. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -513,9 +508,9 @@
 
 ### Example Projects
 
-*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐25)](https://github.com/dteleguin/keycloak-dynamic-branding)
+*   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐28)](https://github.com/dteleguin/keycloak-dynamic-branding)
 
-## [34. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Articles
 
@@ -531,40 +526,40 @@
 
 *   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐317)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
 
-## [35. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [34. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
     *   "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 
-## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [35. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Librefox (⭐1.6k)](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐806)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
-*   [Intel Games Task Scheduler (⭐430)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
+*   [FiberTaskingLib (⭐814)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [Intel Games Task Scheduler (⭐432)](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. \[MIT]
 
 ### Debug
 
-*   [Nonius (⭐348)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
+*   [Nonius (⭐352)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 
 ### Regular Expression
 
-*   [Hyperscan (⭐4.1k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
-*   [PIRE (⭐320)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
+*   [Hyperscan (⭐4.2k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
+*   [PIRE (⭐321)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
 
-## [38. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [37. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
 *   [Sematext Agent (⭐11)](https://github.com/sematext/sematext-agent-integrations) - [Open source monitoring agent](https://sematext.com/blog/now-open-source-sematext-monitoring-agent/) to collect metrics from Solr, Elasticsearch, Cassandra, JVM, JMX, ClickHouse, MySQL, Hadoop, and more via pluggable integrations. Output via Influx Line Protocol to InfluxDB or [Sematext Cloud](https://sematext.com/cloud/)
 
-## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -575,7 +570,7 @@
 *   [EventSourcing](https://dddeurope.com/2020/#eventsourcing) - A new event for the CQRS/EventSourcing community
 *   [DDD Foundations](https://dddeurope.com/2020/#foundations) - A curated conference for DDD newcomers
 
-## [40. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [39. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Screeb
 
@@ -586,14 +581,12 @@
 *   [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://en.wikipedia.org/wiki/Marc_Andreessen).
 *   [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 *   [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
-*   [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [Do Things that Don't Scale](http://paulgraham.com/ds.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - By [Brandon Chu](https://medium.com/@brandonmchu).
 *   [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://medium.com/@brandonmchu).
 *   [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://medium.com/@brandonmchu).
-*   [Understanding How The Innovator’s Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 *   [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - By [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman).
 *   [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://www.aliceboyes.com/).
 *   [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
@@ -623,13 +616,13 @@
 *   [The Product Coalition](https://productcoalition.com/) (*using [Slack](https://slack.com/)*)
 *   [Product Collective](https://productcollective.com/) (*using [Slack](https://slack.com/)*)
 
-## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Media & Document Management
 
 *   [Laravolt Avatar (⭐1.6k)](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
 
-## [42. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [41. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### Vue SPA with Laravel   [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
@@ -640,7 +633,7 @@
 *   [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 *   [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
-## [43. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [42. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Database
 
@@ -648,16 +641,16 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐41k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-ios (⭐42k)](https://github.com/vsouza/awesome-ios)
 *   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)
 
-## [44. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [43. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2019
 
 *   [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) \[36:44]
 
-## [45. Guides](/content/NARKOZ/guides/week/README.md)
+## [44. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / C
 
@@ -683,13 +676,13 @@
 
 *   [Commit messages guide (⭐6.5k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
-## [46. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
 *   [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
 
-## [47. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [46. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Scripting Tools
 
@@ -699,31 +692,31 @@
 
 *   [Grails Diary](https://grydeske.dk/news/index) - Particulary useful for Grails developers
 
-## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UITableView / Barcode
 
-*   [WLEmptyState (⭐315)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+*   [WLEmptyState (⭐317)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 
-## [49. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [MiraiML (⭐25)](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
 
-## [50. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [49. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [test-crawler (⭐22)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 
-## [51. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [50. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
 *   [Memento Labs](https://mementolabs.io) - Personalized health and wellness action plans using wearables & A/B testing.
 
-## [52. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [51. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns
 
@@ -740,13 +733,13 @@
 *   [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - How BPDTS use the CALMS model as a reference for their devops adaptations.
 *   [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) - Chaos Engineering is a new discipline within Software Engineering, building confidence in the behavior of distributed systems at scale 🎥.
 
-## [53. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [52. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Functional Libraries
 
 *   [Functional Fortran (⭐364)](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
 
-## [54. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [53. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
@@ -754,11 +747,11 @@
 
 ### Open Source Repos / Lambda
 
-*   [Alephbet/gimel :fire::fire: (⭐224)](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda.
+*   [Alephbet/gimel :fire::fire: (⭐226)](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda.
 
 ### Guides, Books, Documentation, and Training / Books
 
-*   AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire: (⭐273)](https://github.com/danilop/AWS_Lambda_in_Action)
+*   AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire: (⭐279)](https://github.com/danilop/AWS_Lambda_in_Action)
 
 ---
 

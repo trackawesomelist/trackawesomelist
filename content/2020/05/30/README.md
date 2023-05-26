@@ -10,7 +10,7 @@
 
 ### VSCode Extensions / MIT
 
-*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐183)](https://github.com/AdaCore/ada_language_server).
+*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐184)](https://github.com/AdaCore/ada_language_server).
 
 ## [2. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -34,11 +34,11 @@
 
 ### TDD/BDD
 
-*   [VSMac-CodeCoverage (⭐66)](https://github.com/ademanuele/VSMac-CodeCoverage) - Gather code coverage results for your unit test projects from Visual Studio for Mac.
+*   [VSMac-CodeCoverage (⭐69)](https://github.com/ademanuele/VSMac-CodeCoverage) - Gather code coverage results for your unit test projects from Visual Studio for Mac.
 
 ### Tools
 
-*   [VSMac-CodeDistribution (⭐8)](https://github.com/ademanuele/VSMac-CodeDistribution) - A Visual Studio for Mac extension that visualises code distribution between projects. Particularly useful for Xamarin projects to understand the amount of code shared between platforms.
+*   [VSMac-CodeDistribution (⭐9)](https://github.com/ademanuele/VSMac-CodeDistribution) - A Visual Studio for Mac extension that visualises code distribution between projects. Particularly useful for Xamarin projects to understand the amount of code shared between platforms.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -66,17 +66,17 @@
 
 ### Networking
 
-*   [Real-Time Communications (⭐235)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+*   [Real-Time Communications (⭐253)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 
 ### Testing
 
-*   [Playwright (⭐368)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐407)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Automation
 
-*   [autopilot (⭐446)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
+*   [autopilot (⭐460)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Schema / Changes
 
-*   [yuniql (⭐347)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐354)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ## [12. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-file-toolbar-menu (⭐120)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
+*   [vue-file-toolbar-menu (⭐122)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 
 ## [14. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -204,7 +204,7 @@ Language: English
 
 ### Libraries
 
-*   [rubico (⭐214)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
+*   [rubico (⭐229)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
 
 ---
 

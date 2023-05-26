@@ -114,14 +114,14 @@
   Link: <https://www.pyrocms.com>
 
 
-- Name: [WardRobeCMS (⭐16)](https://github.com/wardrobecms/wardrobe)
+- Name: [WardRobeCMS (⭐15)](https://github.com/wardrobecms/wardrobe)
 
   Description: A minimal blogging application
 
   Link: <http://wardrobecms.com>
 
 
-- Name: [MicroweberCMS (⭐2.5k)](https://github.com/microweber/microweber)
+- Name: [MicroweberCMS (⭐2.7k)](https://github.com/microweber/microweber)
 
   Description: Drag and Drop CMS and online shop
 
@@ -135,7 +135,7 @@
   Link: 
 
 
-- Name: [FullyCMS (⭐479)](https://github.com/sseffa/fullycms)
+- Name: [FullyCMS (⭐481)](https://github.com/sseffa/fullycms)
 
   Description: Multi Language Content Management System
 
@@ -156,14 +156,14 @@
   Link: <https://learn-party.herokuapp.com>
 
 
-- Name: [BookStack (⭐10k)](https://github.com/ssddanbrown/BookStack)
+- Name: [BookStack (⭐12k)](https://github.com/ssddanbrown/BookStack)
 
   Description: A platform to create documentation/wiki content
 
   Link: <https://www.bookstackapp.com>
 
 
-- Name: [Gruik (⭐331)](https://github.com/grena/gruik)
+- Name: [Gruik (⭐327)](https://github.com/grena/gruik)
 
   Description: An open-source markdown note-taking web app
 
@@ -173,35 +173,35 @@
 
 ### Rails
 
-- Name: [Coderwall (⭐863)](https://github.com/coderwall/coderwall-legacy)
+- Name: [Coderwall (⭐861)](https://github.com/coderwall/coderwall-legacy)
 
   Description: Professional network for Software
 
-  Link: [engineers (⭐863)](https://github.com/coderwall/coderwall-legacy) - <https://coderwall.com>
+  Link: [engineers (⭐861)](https://github.com/coderwall/coderwall-legacy) - <https://coderwall.com>
 
 
-- Name: [Sharetribe (⭐2.2k)](https://github.com/sharetribe/sharetribe)
+- Name: [Sharetribe (⭐2.3k)](https://github.com/sharetribe/sharetribe)
 
   Description: A Marketplace Platform
 
   Link: <https://www.sharetribe.com>
 
 
-- Name: [Spina (⭐12)](https://github.com/denkGroot/Spina)
+- Name: [Spina (⭐13)](https://github.com/denkGroot/Spina)
 
   Description: A beautiful CMS for Rails Developers
 
   Link: <http://www.spinacms.com>
 
 
-- Name: [Loomio (⭐2.1k)](https://github.com/loomio/loomio)
+- Name: [Loomio (⭐2.2k)](https://github.com/loomio/loomio)
 
   Description: Make decisions together
 
   Link: <https://www.loomio.org>
 
 
-- Name: [Rails port of OpenstreetMap (⭐1.6k)](https://github.com/openstreetmap/openstreetmap-website)
+- Name: [Rails port of OpenstreetMap (⭐1.8k)](https://github.com/openstreetmap/openstreetmap-website)
 
   Description: Open Street Map
 
@@ -229,35 +229,35 @@
   Link: <https://happyhours.io>
 
 
-- Name: [OpenProject (⭐6.1k)](https://github.com/opf/openproject)
+- Name: [OpenProject (⭐6.9k)](https://github.com/opf/openproject)
 
   Description: Project Management System
 
   Link: <https://www.openproject.org>
 
 
-- Name: [Huginn (⭐37k)](https://github.com/cantino/huginn)
+- Name: [Huginn (⭐38k)](https://github.com/cantino/huginn)
 
   Description: Agent system that perform tasks online for you
 
   Link: 
 
 
-- Name: [Discourse (⭐37k)](https://github.com/discourse/discourse)
+- Name: [Discourse (⭐38k)](https://github.com/discourse/discourse)
 
   Description: A Platform for Community Discussion
 
   Link: <http://www.discourse.org>
 
 
-- Name: [Squash (⭐961)](https://github.com/SquareSquash/web)
+- Name: [Squash (⭐964)](https://github.com/SquareSquash/web)
 
   Description: Collection of tools that helps developers find and kill bugs
 
   Link: <http://squash.io>
 
 
-- Name: [Eventx (⭐19)](https://github.com/andela/eventx)
+- Name: [Eventx (⭐20)](https://github.com/andela/eventx)
 
   Description: Event Management System without Hassle
 
@@ -288,7 +288,7 @@
 
 ### Django
 
-- Name: [Shoop (⭐1.9k)](https://github.com/shoopio/shoop)
+- Name: [Shoop (⭐2k)](https://github.com/shoopio/shoop)
 
   Description: E-commerce Platform
 

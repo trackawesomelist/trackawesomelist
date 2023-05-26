@@ -78,8 +78,8 @@
 
 ### Packages / Weird
 
-*   [superheroes (⭐228)](https://github.com/sindresorhus/superheroes) - Get superhero names.
-*   [supervillains (⭐115)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
+*   [superheroes (⭐230)](https://github.com/sindresorhus/superheroes) - Get superhero names.
+*   [supervillains (⭐116)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

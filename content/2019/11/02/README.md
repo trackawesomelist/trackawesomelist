@@ -74,7 +74,7 @@
 
 ### C bindings
 
-*   [clang.cr (⭐40)](https://github.com/crystal-lang/clang.cr) - Libclang bindings
+*   [clang.cr (⭐43)](https://github.com/crystal-lang/clang.cr) - Libclang bindings
 
 ### CLI Builders
 

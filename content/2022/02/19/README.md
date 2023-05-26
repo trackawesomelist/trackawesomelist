@@ -10,13 +10,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [ZhiyuanLck/smart-pairs (⭐120)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
+*   [ZhiyuanLck/smart-pairs (⭐124)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
 
 ## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Game tools and libraries
 
-*   [hazeycode/brucelib (⭐1)](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platforms games, simulations, engines & editors.
+*   [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platforms games, simulations, engines & editors.
 
 ## [3. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
@@ -52,17 +52,17 @@
 
 ### Modules / Godot 3.2+
 
-*   [godot-simple-state (⭐35)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
+*   [godot-simple-state (⭐41)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Chart
 
-*   [Flowchart React (⭐21)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
+*   [Flowchart React (⭐24)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 
 ### Form Components / Toggle
 
-*   [@anatoliygatt/heart-switch (⭐419)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
+*   [@anatoliygatt/heart-switch (⭐420)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 
 ## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -103,7 +103,7 @@
 ### Development tools / Embedded
 
 *   Arduino
-    *   [avr-rust/ruduino (⭐621)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
+    *   [avr-rust/ruduino (⭐626)](https://github.com/avr-rust/ruduino) Reusable components for the Arduino Uno.
 
 ---
 

@@ -27,7 +27,7 @@
 
 ### Single controls
 
-*   [Delphi Chromium Embedded (⭐291)](https://github.com/hgourvest/dcef3). `[Delphi]` Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
+*   [Delphi Chromium Embedded (⭐292)](https://github.com/hgourvest/dcef3). `[Delphi]` Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
     // *Several Chromium DLLs required*
 
 ### Database

@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [Gmail Desktop (⭐656)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Gmail Desktop (⭐693)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source / Other
 
@@ -36,17 +36,17 @@
 
 ### For Electron / Other
 
-*   [adblocker-electron (⭐606)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [adblocker-electron (⭐641)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Development Environment
 
-*   [Git Hooks (⭐840)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐866)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1.1k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.2k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Cascadia Code (⭐21k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
+*   [Cascadia Code (⭐22k)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
 *   [Dank Mono](https://dank.sh/) — A premium programming font with Delightful ligatures and an italic variant
 
 ### Other / Event listeners for fonts loading on a web page
@@ -180,7 +180,7 @@
 
 ### Image Processing
 
-*   [pyvips (⭐467)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+*   [pyvips (⭐494)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
 ## [18. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -192,7 +192,7 @@
 
 ### Date and Time
 
-*   [clojure.java-time (⭐409)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
+*   [clojure.java-time (⭐437)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
 
 ## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -263,7 +263,7 @@
 
 ### Telegram
 
-*   [PHP (⭐3.3k)](https://github.com/php-telegram-bot/core)
+*   [PHP (⭐3.5k)](https://github.com/php-telegram-bot/core)
 
 ## [23. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -292,7 +292,7 @@
 
 ### Open Source Repos / Redshift
 
-*   [aws-lambda-redshift-loader :fire::fire::fire: (⭐591)](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
+*   [aws-lambda-redshift-loader :fire::fire::fire: (⭐593)](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
 
 ## [27. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -322,12 +322,12 @@
 
 ### Testing Frameworks / Runner
 
-*   [puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
+*   [puppeteer (⭐83k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 
 ### Date / Runner
 
-*   [map-countdown (⭐6)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
-*   [dayjs (⭐42k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
+*   [map-countdown (⭐7)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
+*   [dayjs (⭐43k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 
 ## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -394,9 +394,9 @@
 
 ## [37. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
-### Tools, Platforms, and Services / Repos for Specific Datasets
+### Tools, Platforms, and Services
 
-*   [SemEHR (⭐77)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
+*   [SemEHR (⭐82)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 
 ## [38. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
@@ -408,19 +408,19 @@
 
 ### Office
 
-*   [Foliate (⭐3.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Pdftag (⭐59)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
-*   [Marker (⭐771)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+*   [Foliate (⭐4.2k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+*   [Pdftag (⭐61)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
+*   [Marker (⭐789)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
 
-*   [GTimeLog (⭐225)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+*   [GTimeLog (⭐227)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 
 ### Multimedia
 
-*   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
+*   [Celluloid (⭐923)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
 *   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
 
 ### Graphics
@@ -429,11 +429,11 @@
 
 ### Gaming
 
-*   [Lutris (⭐6.1k)](https://github.com/lutris/lutris) - Open Source gaming platform.
+*   [Lutris (⭐6.5k)](https://github.com/lutris/lutris) - Open Source gaming platform.
 
 ### System and Customization
 
-*   [Tilix (⭐5k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
+*   [Tilix (⭐5.1k)](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
 
 ### Utilities
 
@@ -457,16 +457,16 @@
 
 ### Windows / Design Tooling
 
-*   [PaperWM (⭐2k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
+*   [PaperWM (⭐2.1k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
 
 ### Services integration / Design Tooling
 
-*   [GMail Message Tray (⭐74)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
+*   [GMail Message Tray (⭐78)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
 ### Icons / Upstream Style
 
-*   [GNOME++ (⭐138)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐160)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [GNOME++ (⭐146)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+*   [Pop! (⭐169)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ### Cursors / Skeumorphic Icons
 
@@ -497,7 +497,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐697)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐712)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -513,7 +513,7 @@
 
 ### Database
 
-*   [LiteDB ★4245 (⭐6.8k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
+*   [LiteDB ★4245 (⭐7.5k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
 
 ## [44. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 

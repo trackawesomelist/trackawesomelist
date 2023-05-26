@@ -55,7 +55,7 @@
 
 ### Boilerplates / Other
 
-*   [generator-electron (⭐717)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
+*   [generator-electron (⭐718)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 
 ### Community / Other
 
@@ -95,23 +95,23 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐430)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐435)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐936)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐955)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐610)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐623)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Packages / Data validation
 
-*   [is-my-json-valid (⭐950)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
+*   [is-my-json-valid (⭐956)](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐706)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [node-module-boilerplate (⭐713)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 *   [generator-nm (⭐737)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [8. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
@@ -125,13 +125,13 @@
 
 ### Multimedia content processing
 
-*   [L-SMASH (⭐212)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
+*   [L-SMASH (⭐213)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Assembly Manipulation
 
-*   [Mono.Cecil (⭐2.4k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+*   [Mono.Cecil (⭐2.5k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## [11. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
 
@@ -572,13 +572,13 @@ to this,
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [MAChineLearning (⭐38)](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
+*   [MAChineLearning (⭐37)](https://github.com/gianlucabertani/MAChineLearning) - An Objective-C multilayer perceptron library, with full support for training through backpropagation. Implemented using vDSP and vecLib, it's 20 times faster than its Java equivalent. Includes sample code for use from Swift.
 
 ## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Natural Language Processing
 
-*   [pocketsphinx-ruby (⭐254)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
+*   [pocketsphinx-ruby (⭐256)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 
 ## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -601,11 +601,11 @@ to this,
 ### Build Tools
 
 *   [active (⭐65)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
-*   [mad (⭐174)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
+*   [mad (⭐172)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐450)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐459)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Date and Time
 
@@ -618,7 +618,7 @@ to this,
 ### Files and Directories
 
 *   [ex\_minimatch (⭐11)](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
-*   [fs (⭐220)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐225)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### Formulars
 
@@ -626,7 +626,7 @@ to this,
 
 ### Framework Components
 
-*   [phoenix\_live\_reload (⭐251)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
+*   [phoenix\_live\_reload (⭐257)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 *   [phoenix\_pubsub\_postgres (⭐26)](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 *   [phoenix\_pubsub\_rabbitmq (⭐45)](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 *   [plug\_statsd (⭐49)](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
@@ -641,7 +641,7 @@ to this,
 
 ### Images
 
-*   [chunky\_svg (⭐29)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
+*   [chunky\_svg (⭐30)](https://github.com/mmmries/chunky_svg) -  A library for drawing things with SVG.
 
 ### JSON
 
@@ -650,7 +650,7 @@ to this,
 
 ### Lexical analysis
 
-*   [ex\_abnf (⭐55)](https://github.com/marcelog/ex_abnf) - Parser for ABNF Grammars in Elixir.
+*   [ex\_abnf (⭐57)](https://github.com/marcelog/ex_abnf) - Parser for ABNF Grammars in Elixir.
 
 ### Miscellaneous
 
@@ -662,11 +662,11 @@ to this,
 
 ### OTP
 
-*   [immortal (⭐170)](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
+*   [immortal (⭐171)](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
 
 ### Queue
 
-*   [adap (⭐14)](https://github.com/awetzel/adap) - Create a data stream across your information systems to query, augment and transform data according to Elixir matching rules.
+*   [adap (⭐15)](https://github.com/awetzel/adap) - Create a data stream across your information systems to query, augment and transform data according to Elixir matching rules.
 *   [hulaaki (⭐114)](https://github.com/suvash/hulaaki) - An MQTT 3.1.1 client library written in Elixir.
 *   [mqs (⭐27)](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 
@@ -688,14 +688,14 @@ to this,
 *   [elixir\_bencode (⭐8)](https://github.com/AntonFagerberg/elixir_bencode) - Bencode implemented in Elixir.
 *   [ex\_brace\_expansion (⭐4)](https://github.com/gniquil/ex_brace_expansion) - Brace expansion, as known from sh/bash, in Elixir.
 *   [ex\_rfc3986 (⭐9)](https://github.com/marcelog/ex_rfc3986) - RFC3986 URI/URL parser.
-*   [expr (⭐11)](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
+*   [expr (⭐12)](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 *   [palette (⭐1)](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 *   [ref\_inspector (⭐12)](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
-*   [ua\_inspector (⭐102)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
+*   [ua\_inspector (⭐104)](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 
 ### Third Party APIs
 
-*   [ex\_twilio (⭐316)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
+*   [ex\_twilio (⭐318)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
 *   [google\_sheets (⭐38)](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 *   [mmExchangeRate (⭐0)](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 *   [opbeat (⭐7)](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
@@ -703,11 +703,11 @@ to this,
 
 ### Translations and Internationalizations
 
-*   [parabaikElixirConverter (⭐2)](https://github.com/Arkar-Aung/ParabaikElixirConverter) - ParabaikElixirConverter is just a Elixir version of Parabaik converter. It can convert from Unicode to Zawgyi-One and Zawgyi-One to Unicode vice versa.
+*   [parabaikElixirConverter (⭐3)](https://github.com/Arkar-Aung/ParabaikElixirConverter) - ParabaikElixirConverter is just a Elixir version of Parabaik converter. It can convert from Unicode to Zawgyi-One and Zawgyi-One to Unicode vice versa.
 
 ### Version Control
 
-*   [gitex (⭐60)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
+*   [gitex (⭐61)](https://github.com/awetzel/gitex) - Elixir implementation of the Git object storage, but with the goal to implement the same semantic with other storage and topics.
 
 ### Editors
 

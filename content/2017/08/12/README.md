@@ -10,7 +10,7 @@
 
 ### Open Source Repos / S3
 
-*   [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire: (⭐6.9k)](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
+*   [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire: (⭐7.2k)](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
 
 ## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
@@ -41,7 +41,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Testing
 
-*   [microtest (⭐29)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
+*   [microtest (⭐31)](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
 
 ---
 

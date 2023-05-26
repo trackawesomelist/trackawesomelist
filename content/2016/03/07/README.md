@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07, 2016
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,7 +51,13 @@
 
 *   [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 
-## [7. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [7. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### Julia / Svelte
+
+*   [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
+
+## [8. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Eddystone by Google
 
@@ -81,45 +87,45 @@
 *   [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
 *   [Web Bluetooth Demos (⭐506)](https://github.com/WebBluetoothCG/demos)
 
-## [8. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [9. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Notation
 
 *   [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 
-## [9. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [10. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Storage
 
 *   [pyramid\_mongodb (⭐44)](https://github.com/niallo/pyramid_mongodb) -
     Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Database / ORM
 
 *   [requery (⭐3.1k)](https://github.com/requery/requery) - Compile time ORM and SQL query library for Java & Android.
 
-## [11. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [12. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Plugins
 
 *   [Alfred Workflow (⭐1)](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
 
-## [12. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [13. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Registry
 
 *   [npm-cli-login (⭐91)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
-## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [14. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Videos
 
 *   [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
 *   [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
 
-## [14. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [15. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
 
@@ -151,7 +157,7 @@ Webpage: <http://www.tosci.com/>
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ---------------------------------------- |
 | open | ✔     | ✔      | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00 |
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 
@@ -161,7 +167,7 @@ Webpage: <http://www.tosci.com/>
 
 *   [sparkpost (⭐44)](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
 
-## [16. Awesome Charting](/content/zingchart/awesome-charting/README.md)
+## [17. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 
 ### Free and Open Source Libraries
 

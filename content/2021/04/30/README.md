@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,7 +30,7 @@
 
 ### Projects
 
-*   [Fullstack-Rust (⭐68)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
+*   [Fullstack-Rust (⭐71)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
 
 ### Books / Frameworks
 
@@ -53,19 +53,13 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [matchering (⭐696)](https://github.com/sergree/matchering) [:octocat: (⭐696)](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) - Automated reference audio mastering.
+*   [matchering (⭐881)](https://github.com/sergree/matchering) [:octocat: (⭐881)](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) - Automated reference audio mastering.
 
 ### Audio Related Packages / Deep Learning
 
-*   [nnAudio (⭐736)](https://github.com/KinWaiCheuk/nnAudio) [:octocat: (⭐736)](https://github.com/KinWaiCheuk/nnAudio) [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
+*   [nnAudio (⭐824)](https://github.com/KinWaiCheuk/nnAudio) [:octocat: (⭐824)](https://github.com/KinWaiCheuk/nnAudio) [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Bash / Non-X86
-
-*   [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
-
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -109,11 +103,11 @@
 
 
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [cdkpatterns/serverless :fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
+*   [cdkpatterns/serverless :fire::fire::fire::fire: (⭐2.1k)](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
 
 ---
 

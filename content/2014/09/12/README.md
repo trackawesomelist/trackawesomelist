@@ -10,11 +10,11 @@
 
 ### Packages / Mad science
 
-*   [peerwiki (⭐308)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐309)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
-*   [bcat (⭐331)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [bcat (⭐333)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Build tools
 
@@ -35,7 +35,7 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐26)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐42)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ---
 

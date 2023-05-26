@@ -39,22 +39,25 @@
 
 ### Frameworks and Stacks
 
-*   [COMPAS (⭐85)](https://github.com/compas-dev/compas_fab) - Robotic fabrication package for the COMPAS Framework.
+*   [COMPAS (⭐93)](https://github.com/compas-dev/compas_fab) - Robotic fabrication package for the COMPAS Framework.
 
 ### Sensor Processing / Image Processing
 
-*   [satpy (⭐863)](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
+*   [satpy (⭐915)](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
 
 ## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Control packs
 
-*   [DelphiUCL (⭐91)](https://github.com/VuioVuio/DelphiUCL). `[Delphi]` UWP controls for Delphi VCL.
+*   [DelphiUCL (⭐98)](https://github.com/VuioVuio/DelphiUCL). `[Delphi]` UWP controls for Delphi VCL.
+
+### Machine Learning
+
+*   [Keras4Delphi (⭐39)](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
 
 ### Other non-visual
 
-*   [Keras4Delphi (⭐37)](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
-*   [TZDB (⭐71)](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
+*   [TZDB (⭐75)](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

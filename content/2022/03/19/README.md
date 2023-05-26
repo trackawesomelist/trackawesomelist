@@ -22,7 +22,7 @@
 
 ### AppImage consumption tools / Linux distributions
 
-*   [Linux Mint](https://linuxmint.com/) - Has an [AppImage thumbnailer (⭐23)](https://github.com/linuxmint/xapp-thumbnailers) to show application icons on AppImage files.
+*   [Linux Mint](https://linuxmint.com/) - Has an [AppImage thumbnailer (⭐24)](https://github.com/linuxmint/xapp-thumbnailers) to show application icons on AppImage files.
 
 ## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -40,17 +40,17 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [1password-op (⭐5)](https://github.com/unixorn/1password-op.plugin.zsh) - Loads autocompletions for 1Password's [op](https://developer.1password.com/docs/cli/get-started/) command line tool.
+*   [1password-op (⭐7)](https://github.com/unixorn/1password-op.plugin.zsh) - Loads autocompletions for 1Password's [op](https://developer.1password.com/docs/cli/get-started/) command line tool.
 
 ## [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Libraries / JavaScript
 
-*   [node-mapnik (⭐514)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
+*   [node-mapnik (⭐518)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
 
 ### Libraries / Python
 
-*   [python-mapnik (⭐146)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+*   [python-mapnik (⭐149)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
 
 ### Articles / Wiki-Pages
 
@@ -66,15 +66,15 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [LunarVim/LunarVim (⭐13k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
+*   [LunarVim/LunarVim (⭐15k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### YouTube
 
-*   [Piped (⭐4k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.5k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐4.5k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   [Piped (⭐4.5k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐5.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐5.3k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

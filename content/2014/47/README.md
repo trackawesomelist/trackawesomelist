@@ -89,10 +89,10 @@
 ### Metaprogramming
 
 *   **Syntax Extensions**:
-    *   [ppx\_import (⭐83)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+    *   [ppx\_import (⭐84)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
     *   [ppx\_string\_interpolate (⭐21)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
     *   [ppx\_monad (⭐7)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
-    *   [ppx\_deriving\_yojson (⭐134)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+    *   [ppx\_deriving\_yojson (⭐139)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -118,13 +118,12 @@
 
 ### JSON
 
-*   [JsonCpp (⭐7k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
+*   [JsonCpp (⭐7.2k)](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. \[MIT]
 
 ### Miscellaneous
 
-*   [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html) - An implementation of a managed signals and slots system. \[Boost]
 *   [QtVerbalExpressions (⭐58)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
-*   [Serial Communication Library (⭐1.7k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT]
+*   [Serial Communication Library (⭐1.8k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT]
 *   [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. \[PublicDomain]
 *   [ZXing (⭐31k)](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
 
@@ -142,7 +141,7 @@
 
 *   [bloomex (⭐111)](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
 *   [ezcryptex (⭐0)](https://github.com/stocks29/ezcryptex) - Thin layer on top of Cryptex.
-*   [murmur (⭐38)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+*   [murmur (⭐39)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 *   [sfmt (⭐70)](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 *   [tinymt (⭐26)](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 
@@ -168,11 +167,11 @@
 
 ### Images
 
-*   [imagineer (⭐117)](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
+*   [imagineer (⭐118)](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
 
 ### Logging
 
-*   [syslog (⭐85)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
+*   [syslog (⭐86)](https://github.com/Vagabond/erlang-syslog) - Erlang port driver for interacting with syslog via syslog(3).
 
 ### Macros
 
@@ -180,7 +179,7 @@
 
 ### Markdown
 
-*   [cmark (⭐91)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
+*   [cmark (⭐90)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
 
 ### Miscellaneous
 
@@ -195,7 +194,7 @@
 
 ### PDF
 
-*   [gutenex (⭐239)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
+*   [gutenex (⭐240)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
 
 ### Protocols
 
@@ -217,14 +216,14 @@
 ### Text and Numbers
 
 *   [elixilorem (⭐9)](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
-*   [hashids (⭐259)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
+*   [hashids (⭐265)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 *   [ltsvex (⭐10)](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 *   [pretty\_hex (⭐6)](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 
 ### Third Party APIs
 
 *   [dogstatsd (⭐38)](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
-*   [forcex (⭐50)](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
+*   [forcex (⭐51)](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 *   [pathway (⭐4)](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
 *   [traitify\_elixir (⭐2)](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
 

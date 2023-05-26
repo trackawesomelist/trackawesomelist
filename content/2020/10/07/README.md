@@ -34,7 +34,7 @@
 
 ### Libraries / Swift
 
-*   [SwiftyGif (⭐1.7k)](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine
+*   [SwiftyGif (⭐1.7k)](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Security
 
-*   [secrets.clj (⭐81)](https://github.com/lk-geimfari/secrets.clj)
+*   [secrets.clj (⭐85)](https://github.com/lk-geimfari/secrets.clj)
 
 ## [8. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -70,8 +70,8 @@
 
 ### Third-Party Packages / Caching
 
-*   [django-cachalot (⭐971)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
-*   [django-cacheops (⭐1.7k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
+*   [django-cachalot (⭐1k)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
+*   [django-cacheops (⭐1.8k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Libraries/Frameworks / Networking
 
-*   [seniorjoinu/reliable-udp (⭐25)](https://github.com/seniorjoinu/reliable-udp) - Multiplexed, coroutine-powered reliable UDP for Kotlin using fountain codes
+*   [seniorjoinu/reliable-udp (⭐26)](https://github.com/seniorjoinu/reliable-udp) - Multiplexed, coroutine-powered reliable UDP for Kotlin using fountain codes
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -117,7 +117,7 @@
 
 ## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
-### Contents / PaaS   *(PostgreSQL as a Service)*
+### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.
 
@@ -188,17 +188,17 @@
 
 ### Generation / MIT
 
-*   [record-flux (⭐93)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+*   [record-flux (⭐92)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
 
 ### Math / MIT
 
-*   [lalg (⭐3)](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
+*   [lalg (⭐4)](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 
 ### Cryptography / MIT
 
 *   [threefish (⭐5)](https://github.com/jrcarter/Threefish) - Ada Implementation of the Threefish-256 Encryption Algorithm.
 *   [ada-crypto-library (⭐83)](https://github.com/cforler/Ada-Crypto-Library) - This is a crypto library for Ada with a nice API and is written for the i386 and x86\_64 hardware architecture.
-*   [spark-nacl (⭐85)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
+*   [spark-nacl (⭐86)](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 re-implementation of the TweetNaCl crypto library.
 *   [libsodium-ada (⭐7)](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 *   [ada-libsecret (⭐1)](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
 
@@ -208,7 +208,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
 
-*   [libadalang (⭐125)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+*   [libadalang (⭐127)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 
 ### Format Readers and Writers / MIT
 
@@ -229,9 +229,9 @@
 
 ### Graphics and Multimedia / MIT
 
-*   [orka (⭐50)](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
+*   [orka (⭐49)](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 *   [adagl (⭐7)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
-*   [sdlada (⭐94)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+*   [sdlada (⭐95)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 *   [ada-nanovg (⭐1)](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 *   [free-type-ada (⭐1)](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 
@@ -257,7 +257,7 @@
 
 ### Robotics / MIT
 
-*   [rclada (⭐6)](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
+*   [rclada (⭐7)](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
 *   [player-ada (⭐4)](https://github.com/mosteo/player-ada) - Ada bindings for the player robotic platform.
 
 ### Linux and POSIX / MIT
@@ -270,9 +270,9 @@
 
 ### Windows and .NET / MIT
 
-*   [win32ada (⭐17)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
+*   [win32ada (⭐15)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
 *   [ada-net-framework (⭐5)](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
-*   [ada-winrt (⭐10)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
+*   [ada-winrt (⭐11)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 *   [ada-win32 (⭐4)](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
 
 ### Drivers / MIT

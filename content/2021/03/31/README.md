@@ -24,7 +24,7 @@
 
 *   [tmux-mpv-info (⭐1)](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
 *   [tmux-spotify-info (⭐74)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
-*   [tmux-spotify-info (⭐3)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
+*   [tmux-spotify-info (⭐4)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
 *   [tmux-weather-info-yr (⭐1)](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 
 ## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
@@ -50,7 +50,7 @@
 
 ### Deployment Tools / Newsletters
 
-*   [Colmena (⭐500)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐558)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Programming Languages / Crystal
 
@@ -60,7 +60,7 @@
 
 ### Bundle Analyzer / Meetups
 
-*   [BundleStats (⭐316)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
+*   [BundleStats (⭐347)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Integrations
 
-*   [chrome-aws-lambda (⭐2.9k)](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
+*   [chrome-aws-lambda (⭐3k)](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - Support for running Microsoft's Playwright on AWS Lambda and Google Cloud Functions.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

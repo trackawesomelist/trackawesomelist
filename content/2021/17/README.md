@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26 - May 02, 2021
 
-53 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,19 +16,19 @@
 
 ### Asynchronous Event Loop
 
-*   [Ichor (⭐97)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
+*   [Ichor (⭐112)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
 
 ## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
-*   [Cassandra (⭐217)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
+*   [Cassandra (⭐228)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Transpiling
 
-*   [perf-monitor-rs (⭐158)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
+*   [perf-monitor-rs (⭐166)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Form Components / Select
 
-*   [react-column-select (⭐12)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
+*   [react-column-select (⭐11)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Projects
 
-*   [Fullstack-Rust (⭐68)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
+*   [Fullstack-Rust (⭐71)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
 
 ### Books / Frameworks
 
@@ -102,24 +102,13 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [matchering (⭐696)](https://github.com/sergree/matchering) [:octocat: (⭐696)](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) - Automated reference audio mastering.
+*   [matchering (⭐881)](https://github.com/sergree/matchering) [:octocat: (⭐881)](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) - Automated reference audio mastering.
 
 ### Audio Related Packages / Deep Learning
 
-*   [nnAudio (⭐736)](https://github.com/KinWaiCheuk/nnAudio) [:octocat: (⭐736)](https://github.com/KinWaiCheuk/nnAudio) [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
+*   [nnAudio (⭐824)](https://github.com/KinWaiCheuk/nnAudio) [:octocat: (⭐824)](https://github.com/KinWaiCheuk/nnAudio) [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### App Inventor
-
-*   [Absolute App Inventor 2](https://amerkashi.wordpress.com/2015/02/16/absolute-app-inventor-2-book/) - Hossein Amerkashi
-*   [App Inventor 2](http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
-
-### Bash / Non-X86
-
-*   [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
-
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -127,25 +116,25 @@
 
 ### Open Source Repos / Security
 
-*   [bridgecrewio/checkov :fire::fire::fire::fire::fire: (⭐5.3k)](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
+*   [bridgecrewio/checkov :fire::fire::fire::fire::fire: (⭐5.6k)](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [cdkpatterns/serverless :fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
+*   [cdkpatterns/serverless :fire::fire::fire::fire: (⭐2.1k)](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
 
-## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Code Analysis
 
-*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐173)](https://github.com/axelson/dep_viz/)).
+*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐177)](https://github.com/axelson/dep_viz/)).
 
-## [18. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [17. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   A4AI Mobile Broadband Data Costs - ([2020](https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni))([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
 
-## [19. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [18. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra History
 
@@ -333,19 +322,19 @@
 
 *   [HAPI Cassandra (⭐5)](https://github.com/victorcouste/hapi-cassandra) - Simple REST API with hapi Node.js framework on top of a Cassandra database.
 
-## [20. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [19. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
 *   [lux (⭐4.5k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 
-## [21. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [20. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Go / Erlang
 
-*   [go-zero (⭐22k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
+*   [go-zero (⭐23k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
 
-## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
@@ -366,13 +355,13 @@
 
 *   [WesternFriend (⭐35)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
-## [23. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Web Apps
 
 *   [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 
-## [24. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [23. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
@@ -392,41 +381,41 @@
 
 *   [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust. \[Apache License 2.0]
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-easter-egg-trigger (⭐8)](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue 2 site. [Vue 3 (⭐1)](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) version also available.
+*   [vue-easter-egg-trigger (⭐8)](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue 2 site. [Vue 3 (⭐2)](https://github.com/webdevnerdstuff/vue3-easter-egg-trigger) version also available.
 
 ### Components & Libraries / Utilities
 
-*   [vue-next-rx (⭐32)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
+*   [vue-next-rx (⭐31)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 
-## [26. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [25. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Application layer
 
-*   [navigation (⭐1.3k)](https://github.com/ros-planning/navigation2/) - ROS2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
+*   [navigation (⭐1.5k)](https://github.com/ros-planning/navigation2/) - ROS2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
 
-## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Automation
-
-*   [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
 *   [Yeti-Switch](https://yeti-switch.org/) - Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API. ([Demo](https://yeti-switch.org/demo.html), [Source Code](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`
 
+### Software / Database Management
+
+*   [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`
+
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐209)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐236)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ### Software / Miscellaneous
 
 *   [Orchest](https://www.orchest.io/) - A new kind of IDE for Data Science. ([Demo](https://cloud.orchest.io), [Source Code (⭐3.8k)](https://github.com/orchest/orchest)) `AGPL-3.0` `Docker`
 
-## [28. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [27. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
@@ -436,14 +425,14 @@
 
 *   [gatling.g8 (⭐7)](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
 
-## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [SmartCode (⭐526)](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[Code generator])
 *   [Typin (⭐203)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
-## [30. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [29. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Finance
 
@@ -465,13 +454,13 @@
 
 *   [Scriptable Supercharges iOS 14 Widgets Like No Other App](https://gizmodo.com/scriptable-supercharges-ios-14-widgets-like-no-other-ap-1845717081) - Guideline for setting up a widget.
 
-## [31. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [30. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Governance
 
 *   [A Human-Centered Interpretability Framework Based on Weight of Evidence](https://arxiv.org/pdf/2104.13299.pdf) 🎓
 
-## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Python
 
@@ -481,25 +470,25 @@
 
 *   [Top 45 Data Science Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 
-## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vivu (⭐63)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
+*   [vivu (⭐65)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 
-## [34. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [33. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Community Resources / Twitter
 
 *   [@WebSciDL](https://twitter.com/WebSciDL) - ODU Web Science and Digital Libraries Research Group.
 
-## [35. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [34. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Related projects / Other services
 
 *   [StreetComplete (⭐3.1k)](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
 
-## [36. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [35. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
@@ -509,19 +498,13 @@
 
 *   [The official portal for European data](https://data.europa.eu/en)
 
-## [37. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [36. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-beat (⭐1.3k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
+*   [django-celery-beat (⭐1.4k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
-## [38. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Native Libraries / Charts
-
-*   [uncompress-react-native (⭐40)](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
-
-## [39. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [37. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Analytics
 
@@ -535,7 +518,7 @@
 
 *   [Respresso Image Converter](https://respresso.io/image-converter) - Multiplatform image converter for iOS, Android, and Web that supports pdf, svg, vector drawable, jpg, png, and webp formats.
 
-## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -552,14 +535,14 @@
 
 *   [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
 
-## [41. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [39. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Others / Object detection and object tracking
 
 *   [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
     *   [GitHub repository :octocat:](https://github.com/CloudCompare)
 
-## [42. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [40. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Kraken CI](https://kraken.ci/)
 
@@ -577,19 +560,19 @@
 
 
 
-## [43. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [41. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
-*   [AI2-THOR (⭐708)](https://github.com/allenai/ai2thor) - Python framework with a Unity backend providing interaction, navigation, and manipulation support for household based robotic agents, consisting of 200+ of custom scenes, 1500+ custom annotated objects, and 200+ actions.
+*   [AI2-THOR (⭐807)](https://github.com/allenai/ai2thor) - Python framework with a Unity backend providing interaction, navigation, and manipulation support for household based robotic agents, consisting of 200+ of custom scenes, 1500+ custom annotated objects, and 200+ actions.
 
-## [44. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [42. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Projects / Smartwatches
 
 *   [Open SmartWatch](https://open-smartwatch.github.io/) - A FOSS smartwatch with GPS, an inertial unit and an extremely cool 3D-printed case.
 
-## [45. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [43. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tools / IRC
 
@@ -599,7 +582,7 @@
 
 *   [repman-io/composer-plugin (⭐9)](https://github.com/repman-io/composer-plugin) - This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the `composer.lock` file).
 
-## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -710,19 +693,19 @@
 
 
 
-## [47. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [45. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
 *   [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
 
-## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
 *   [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/docker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/veggiemonk/awesome-docker#readme)
 
-## [49. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [47. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
@@ -730,26 +713,26 @@
 *   [cvxpylayers (⭐1.5k)](https://github.com/cvxgrp/cvxpylayers) - Construct differentiable convex optimization layers. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
 *   [TensorLy (⭐1.4k)](https://github.com/tensorly/tensorly) - Tensor learning made simple. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 
-## [50. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [48. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / Terminals
 
-*   [Fluent Terminal (⭐8.5k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+*   [Fluent Terminal (⭐8.9k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
-## [51. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [49. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tutorials
 
 *   [2D Splatter Effects Using the Stencil Buffer](http://nielson.dev/2015/12/splatter-effects-in-unity-using-the-stencil-buffer) - Using the stencil buffer in Unity to draw splatter effects on surfaces. This could be used for paint or blood splatter.
 *   [Fixing Gaps Between Sprites](http://nielson.dev/2015/10/fixing-gaps-between-sprites-better-2d-in-unity-part-2) - A short tutorial about removing the small gaps that sometimes appear between adjacent sprites.
 
-## [52. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [50. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### FFMPEG / Web
 
 *   [ffmprovisr](https://amiaopensource.github.io/ffmprovisr)  - Cookbook of commonly used FFmpeg recipes with descriptions of how each command works and how to modify it to fit your needs
 
-## [53. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [51. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Policy enforcement
 

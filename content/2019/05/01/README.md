@@ -40,7 +40,7 @@
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [weasel-pageant (⭐252)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
+*   [weasel-pageant (⭐250)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Open Source Repos / S3
 
-*   [kahing/goofys :fire::fire::fire::fire::fire: (⭐4.5k)](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
+*   [kahing/goofys :fire::fire::fire::fire::fire: (⭐4.7k)](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
 
 ---
 

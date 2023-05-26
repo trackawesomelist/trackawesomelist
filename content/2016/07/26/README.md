@@ -26,7 +26,7 @@
 
 ### Tools / Converters
 
-*   [HTML To Markdown for PHP (⭐1.5k)](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
+*   [HTML To Markdown for PHP (⭐1.6k)](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 *   [markdown-pdf (⭐2.5k)](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 
 ### Resources / Documentation
@@ -44,13 +44,13 @@
 
 ### Animation
 
-*   [IBAnimatable (⭐8.6k)](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+*   [IBAnimatable (⭐8.7k)](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Styleguides
 
-*   [rrrene/elixir-style-guide (⭐390)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.5k)](https://github.com/rrrene/credo).
+*   [rrrene/elixir-style-guide (⭐393)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.6k)](https://github.com/rrrene/credo).
 
 ## [7. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Laravel
 
-- Name: [Airflix (⭐431)](https://github.com/wells/airflix)
+- Name: [Airflix (⭐439)](https://github.com/wells/airflix)
 
   Description: A near-netflix Clone
 
@@ -93,11 +93,11 @@
 
 ### Game
 
-*   [UrhoSharp (⭐454)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
+*   [UrhoSharp (⭐455)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐141)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐143)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ---
 

@@ -10,8 +10,8 @@
 
 ### Overview / YouTube
 
-*   [youtube-local (⭐313)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
-*   [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐313)](https://github.com/user234683/youtube-local))
+*   [youtube-local (⭐318)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
+*   [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐318)](https://github.com/user234683/youtube-local))
 *   [SkyTube (⭐1.9k)](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
 
 ## [2. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
@@ -38,7 +38,7 @@
 
 ### Contents / Social Network
 
-*   [Fedi (⭐109)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
+*   [Fedi (⭐114)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -57,11 +57,11 @@
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [shcl (⭐284)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [shcl (⭐289)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Apps / Third-party APIs
 
-*   [Slite (⭐41)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [Slite (⭐44)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
     *   Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)

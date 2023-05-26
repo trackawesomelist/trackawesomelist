@@ -16,7 +16,7 @@
 
 ### Templates / TikZ
 
-*   [Ultimate Beamer Theme List (⭐918)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
+*   [Ultimate Beamer Theme List (⭐969)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
 ## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
@@ -34,7 +34,7 @@
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [fontkit (⭐1.1k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
+*   [fontkit (⭐1.2k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 
 ## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Routing
 
-*   [router.cr (⭐254)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+*   [router.cr (⭐255)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -69,7 +69,7 @@
 
 ### IoC
 
-*   [VS MEF (⭐350)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
+*   [VS MEF (⭐367)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 
 ### ORM
 

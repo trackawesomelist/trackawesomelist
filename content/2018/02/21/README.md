@@ -24,7 +24,7 @@
 
 *   [elm-boilerplate (⭐3)](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app.
 *   [elm-init (⭐11)](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
-*   [elm-new (⭐81)](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
+*   [elm-new (⭐82)](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Libraries / JavaScript
 
-*   [marked (⭐28k)](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
+*   [marked (⭐30k)](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
 
 ### Tools / Miscellaneous
 

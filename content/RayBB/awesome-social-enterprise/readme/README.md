@@ -2,7 +2,7 @@
 
 📗Resources to dive into the world of social enterprises 🌼 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 56 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 59 · 🏷️ Business
 
 [ [Daily](/content/RayBB/awesome-social-enterprise/README.md) / [Weekly](/content/RayBB/awesome-social-enterprise/week/README.md) / Overview ]
 
@@ -156,6 +156,7 @@ Academic institutions researching social enterprise:
 *   [USC Marshall Masters in Social Entrepreneurship](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-social-entrepreneurship/)
 *   [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - Canada's first school of social innovation.
 *   [Pepperdine's MA in Social Entrepreneurship and Change](https://gsep.pepperdine.edu/masters-social-entrepreneurship-and-change/)
+*   [Centre for Social Impact Swinburne](https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-social-impact-swinburne/)
 
 ## Tools 🔨
 

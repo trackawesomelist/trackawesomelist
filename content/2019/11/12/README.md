@@ -30,7 +30,7 @@
 
 ### Mobile
 
-*   [jonathan (⭐154)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
+*   [jonathan (⭐152)](https://github.com/Rudolph-Miller/jonathan) - A JSON encoder and decoder. [MIT](https://opensource.org/licenses/MIT).
 
 ### Community
 
@@ -46,7 +46,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐63)](https://github.com/braintree/restricted-input)
+*   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐65)](https://github.com/braintree/restricted-input)
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Gaming
 
-*   [PlayCanvas (⭐199)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐208)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

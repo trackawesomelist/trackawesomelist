@@ -10,7 +10,7 @@
 
 ### Packages / Node.js management
 
-*   [nvm for Windows (⭐26k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+*   [nvm for Windows (⭐28k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
 ## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -29,26 +29,26 @@
 
 ### Algorithms and Data structures
 
-*   [fsm (⭐350)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
-*   [key2value (⭐7)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
+*   [fsm (⭐352)](https://github.com/sasa1977/fsm) - Finite state machine as a functional data structure.
+*   [key2value (⭐8)](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
 *   [lfsr (⭐8)](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
-*   [trie (⭐127)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
+*   [trie (⭐129)](https://github.com/okeuday/trie) - Erlang Trie Implementation.
 
 ### Authentication
 
-*   [oauther (⭐64)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
+*   [oauther (⭐65)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 
 ### Build Tools
 
 *   [coffee\_rotor (⭐15)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
-*   [reltool\_util (⭐26)](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
+*   [reltool\_util (⭐27)](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 *   [rotor (⭐82)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 
 ### Cloud Infrastructure and Management
 
 *   [Cloudi](http://cloudi.org/) - CloudI is for back-end server processing tasks that require soft-realtime transaction.
-*   [nodefinder (⭐57)](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
-*   [sidejob (⭐101)](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
+*   [nodefinder (⭐60)](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
+*   [sidejob (⭐102)](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 
 ### Configuration
 
@@ -60,22 +60,22 @@
 
 ### Debugging
 
-*   [dbg (⭐160)](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
+*   [dbg (⭐161)](https://github.com/fishcakez/dbg) - Distributed tracing for Elixir.
 
 ### Framework Components
 
-*   [exrecaptcha (⭐10)](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
+*   [exrecaptcha (⭐11)](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
 *   [plug\_jwt (⭐37)](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 
 ### Images
 
-*   [mogrify (⭐527)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐533)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### Miscellaneous
 
 *   [address\_us (⭐27)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
-*   [erlang\_term (⭐33)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
-*   [keys1value (⭐1)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
+*   [erlang\_term (⭐34)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
+*   [keys1value (⭐2)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 
 ### ORM and Datamapping
 
@@ -88,25 +88,25 @@
 
 ### Queue
 
-*   [pqueue (⭐165)](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
+*   [pqueue (⭐169)](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
 
 ### Statistics
 
-*   [statistics (⭐124)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
+*   [statistics (⭐130)](https://github.com/msharp/elixir-statistics) - Some basic statistical functions for Elixir.
 
 ### Text and Numbers
 
 *   [dicer (⭐3)](https://github.com/olhado/dicer) - A dice roller expression evaluator.
-*   [quickrand (⭐38)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
-*   [uuid\_erl (⭐205)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+*   [quickrand (⭐39)](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
+*   [uuid\_erl (⭐208)](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
 
 ### Third Party APIs
 
 *   [ex\_statsd (⭐94)](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
 *   [forecast\_io (⭐7)](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 *   [hexoku](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
-*   [link\_shrinkex (⭐8)](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
-*   [mailgun (⭐189)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
+*   [link\_shrinkex (⭐9)](https://github.com/jonahoffline/link_shrinkex) - Elixir library for creating short URLs using Google's URL Shortener API.
+*   [mailgun (⭐190)](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 *   [parsex (⭐1)](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 
 ### XML
@@ -127,7 +127,7 @@
 
 ### Loading Status / Runner
 
-*   [progressbar.js (⭐7.6k)](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars with animated SVG paths.
+*   [progressbar.js (⭐7.7k)](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars with animated SVG paths.
 
 ---
 

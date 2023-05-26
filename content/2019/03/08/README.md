@@ -67,7 +67,7 @@
 
 ### Entertainment
 
-*   [newsboat (⭐2.3k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
+*   [newsboat (⭐2.5k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Development / Devops
 
@@ -75,13 +75,13 @@
 
 ### Just for Fun / Image Conversion
 
-*   [quote-cli (⭐72)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
+*   [quote-cli (⭐76)](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
 
 ### Just for Fun / Emoji
 
 *   [emoj (⭐2.3k)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 *   [emoji-finder (⭐23)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
-*   [oji (⭐696)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+*   [oji (⭐702)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
 ## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -99,13 +99,13 @@
 
 ### Communications security (COMSEC) / Service meshes
 
-*   [GPG Sync (⭐332)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
+*   [GPG Sync (⭐336)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Proxy and VPN Tools / File Sharing
 
-*   [ClashX (⭐23k)](https://github.com/yichengchen/clashX) - A rule-based proxy for Mac based on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [ClashX (⭐26k)](https://github.com/yichengchen/clashX) - A rule-based proxy for Mac based on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

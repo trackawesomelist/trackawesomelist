@@ -32,7 +32,7 @@
 
 ### Miscellaneous
 
-*   [AtomVM (⭐1.1k)](https://github.com/bettio/AtomVM) - AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
+*   [AtomVM (⭐1.2k)](https://github.com/bettio/AtomVM) - AtomVM allows to run Elixir/Erlang code on embedded devices such as ESP32 and STM32 microcontrollers.
 
 ### Testing
 
@@ -40,7 +40,7 @@
 
 ### Text and Numbers
 
-*   [shortuuid (⭐36)](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
+*   [shortuuid (⭐38)](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
 
 ## [4. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

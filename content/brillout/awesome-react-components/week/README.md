@@ -6,6 +6,16 @@ Curated List of React Components & Libraries.
 
 [ [Daily](/content/brillout/awesome-react-components/README.md) / Weekly / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [May 01 - May 07, 2023](/content/2023/18/README.md)
+
+### Table
+
+*   [TanStack Table (⭐21k)](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
+
+### Boilerplate / Mouse Events
+
+*   [elegant (⭐15)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
+
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Chart
@@ -16,7 +26,7 @@ Curated List of React Components & Libraries.
 
 ### Table
 
-*   [Material-React-Table (⭐618)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+*   [Material-React-Table (⭐657)](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 *   [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Test / Lazy Load
@@ -79,7 +89,7 @@ Curated List of React Components & Libraries.
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐916)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐981)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
@@ -281,7 +291,7 @@ Curated List of React Components & Libraries.
 
 ### i18n / Mouse Events
 
-*   [@tolgee/react (⭐183)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+*   [@tolgee/react (⭐187)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
@@ -533,10 +543,6 @@ Curated List of React Components & Libraries.
 *   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
-
-### Table
-
-*   [react-table (⭐21k)](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
 
 ### Paginator
 
@@ -1672,7 +1678,6 @@ Curated List of React Components & Libraries.
 ### Miscellaneous / Lazy Load
 
 *   [cosmos-js (⭐7.8k)](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
-*   [react-heatpack (⭐352)](https://github.com/insin/react-heatpack) - A 'heatpack' command for quick React development with webpack hot reloading.
 *   [react-styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 *   [standard-react (⭐28k)](https://github.com/feross/standard) - JavaScript Standard Style Guide.
 *   [html-to-react-components (⭐2.1k)](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.

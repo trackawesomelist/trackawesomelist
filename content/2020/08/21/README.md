@@ -10,13 +10,13 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Schema SDL (⭐64)](https://github.com/amplication/prisma-schema-dsl)
+*   [Prisma Schema SDL (⭐85)](https://github.com/amplication/prisma-schema-dsl)
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [Scikit-Opt (⭐3.8k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+*   [Scikit-Opt (⭐4k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 
 ## [3. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -35,18 +35,18 @@
 
 ### Traditional Market / Crypto Currencies
 
-*   [lean (⭐6.7k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+*   [lean (⭐7.4k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Official Resources
 
-*   [Awesome Vue (⭐68k)](https://github.com/vuejs/awesome-vue)
+*   [Awesome Vue (⭐69k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐3k)](https://github.com/antfu/icones) - Icon explorer with instant search.
-*   [Awesome CN Café (⭐66)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Icônes (⭐3.5k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐75)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 *   [Todo Example (⭐28)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
 ## [7. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
@@ -70,18 +70,18 @@
 
 ### Contents / Business
 
-*   [Minsk8 (⭐58)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
+*   [Minsk8 (⭐61)](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
 
 ### Contents / Finance
 
-*   [Money Tracker (⭐47)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
+*   [Money Tracker (⭐48)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Penetration Testing
 
-*   [setoolkit (⭐8.4k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
-*   [sqlmap (⭐26k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+*   [setoolkit (⭐8.7k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+*   [sqlmap (⭐27k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
@@ -314,14 +314,13 @@
 
 ### Open Source Repos / Security
 
-*   [cloudsploit/scans :fire::fire::fire::fire: (⭐2.5k)](https://github.com/cloudsploit/scans) - Detects security risks.
+*   [cloudsploit/scans :fire::fire::fire::fire: (⭐2.6k)](https://github.com/cloudsploit/scans) - Detects security risks.
 
 ## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Find "Hidden" Remote Jobs with Google Search](https://medium.com/ft-remote-job/how-to-find-hidden-remote-jobs-using-google-search-12ebaa2ea8ea?source=friends_link\&sk=3bc251fed25dddd4c1a024ae4dd58e30)
-*   [How I Got a Full Time Remote Job in Two Weeks](https://igotpassion.net/get-remote-job/)
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -333,7 +332,7 @@
 
 ### Database
 
-*   [Datalevin (⭐818)](https://github.com/juji-io/datalevin)
+*   [Datalevin (⭐927)](https://github.com/juji-io/datalevin)
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### Packages / Command-line utilities
 
-*   [Bit (⭐16k)](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+*   [Bit (⭐17k)](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 
 ## [2. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-behavior (⭐142)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
+*   [vue-scroll-behavior (⭐141)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Web / Web Application Firewall
 
-*   [sql\_firewall (⭐171)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
+*   [sql\_firewall (⭐173)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 
 ## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -73,14 +73,14 @@
 
 ### Libraries
 
-*   [Javascript Parser Combinator (⭐123)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
+*   [Javascript Parser Combinator (⭐128)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
 *   [fun-task (⭐370)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 *   [most (⭐3.5k)](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 
 ### Programming Tools / Lenses
 
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-*   [hm-def (⭐193)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+*   [hm-def (⭐195)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
 ## [11. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 

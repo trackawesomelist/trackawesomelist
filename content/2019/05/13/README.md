@@ -27,13 +27,13 @@
 
 ### Other non-visual
 
-*   [FuzzyWuzzy.pas (⭐10)](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
+*   [FuzzyWuzzy.pas (⭐13)](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Reflection
 
-*   [visit\_struct (⭐405)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
+*   [visit\_struct (⭐422)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
 
 ### Miscellaneous
 
@@ -49,11 +49,11 @@
 
 ### External Services
 
-*   [bird-box (⭐181)](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
+*   [bird-box (⭐182)](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
 
 ### GitHub
 
-*   [activity-box (⭐190)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+*   [activity-box (⭐195)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 
 ### Resources
 
@@ -81,27 +81,27 @@
 
 ### Packages / Filesystem
 
-*   [tempy (⭐375)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐384)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
-*   [crypto-hash (⭐600)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐603)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
-*   [open (⭐2.8k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
+*   [open (⭐2.9k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [.NET (⭐16k)](https://github.com/quozd/awesome-dotnet#readme)
+*   [.NET (⭐17k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐18k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐556)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐574)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Learn
 
-*   [Roadmaps (⭐2.9k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐3.1k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

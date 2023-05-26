@@ -23,7 +23,7 @@
 
 ### MVVM
 
-*   [Prism (⭐5.5k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
+*   [Prism (⭐5.6k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
 
 ## [4. Typography](/content/deanhume/typography/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Science and Data Analysis
 
-*   [Neanderthal (⭐979)](https://github.com/uncomplicate/neanderthal)
+*   [Neanderthal (⭐1k)](https://github.com/uncomplicate/neanderthal)
 
 ---
 

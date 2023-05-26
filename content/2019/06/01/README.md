@@ -8,18 +8,9 @@
 
 ## [1. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tutorials / React Internals
+### React Internationalization
 
-*   [Reconciliation](https://reactjs.org/docs/reconciliation.html)
-*   [React Fiber Architecture (⭐9.8k)](https://github.com/acdlite/react-fiber-architecture)
-
-### React Tools / React Awesome Components
-
-*   [react-i18next (⭐7.9k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
-
-### Redux Tools / Charts
-
-*   [redux-persist (⭐12k)](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
+*   [react-i18next (⭐8.2k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
 
 ## [2. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -32,16 +23,16 @@
 
 ### Machine Learning Libraries / Frameworks
 
-*   [rumale (⭐617)](https://github.com/yoshoku/rumale) -
+*   [rumale (⭐644)](https://github.com/yoshoku/rumale) -
     Machine Learninig toolkit in Ruby with wide range of implemented algorithms
     (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
     interfaces similar to [Scikit-Learn](https://scikit-learn.org/stable/index.html) in Python.
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensorflow (⭐821)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
+*   [tensorflow (⭐825)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
 *   <a name="gls"></a>
     \[GSL (GNU Scientific Library)]\[gls]

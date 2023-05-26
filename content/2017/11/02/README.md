@@ -6,55 +6,7 @@
 
 
 
-## [1. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
-
-### Debugging and Reverse Engineering / Other Resources
-
-*   [Pharos (⭐1.3k)](https://github.com/cmu-sei/pharos) - The Pharos binary analysis framework
-    can be used to perform automated static analysis of binaries.
-
-## [2. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
-
-### Other Math Theory / Gradient Descent Algorithms & Optimization Theory
-
-*   [Neural Networks and Deep Learning, ch.2](http://neuralnetworksanddeeplearning.com/chap2.html) - Overview on how does the backpropagation algorithm works.
-*   [Neural Networks and Deep Learning, ch.4](http://neuralnetworksanddeeplearning.com/chap4.html) - A visual proof that neural nets can compute any function.
-
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
-
-### API Builder and Discovery
-
-*   [Crepe (⭐126)](https://github.com/crepe/crepe) - The thin API stack.
-
-## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
-
-### Garbage collectors
-
-*   [ZGC](http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html) - Garbage collector optimized for low latency and very large heaps.
-
-### Profilers
-
-*   [OpenTracing](http://opentracing.io/) - A vendor-neutral open standard for distributed tracing.
-
-### Documentation
-
-*   [Linux tracing workshop (⭐1.1k)](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
-
-## [5. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
-
-### Generic
-
-*   [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
-
-## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
-
-### Africa / Nigeria 🇳🇬
-
-> Awesome speakers in the programming and design communities
-
-Let's make it more transparent and easy to find awesome speakers for meetups and conferences! This list of speakers, their contact details and the topics they talk about is a start towards this goal.
-
-Please add to the list and help make the community better connected and richer.
+## [1. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Europe / United Kingdom 🇬🇧
 
@@ -77,6 +29,46 @@ Topics: CSS\
 **Ruth John**\
 Topics: Browser Technologies, Web Audio, Web MIDI\
 <https://twitter.com/Rumyra>
+
+## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+
+### Debugging and Reverse Engineering / Other Resources
+
+*   [Pharos (⭐1.3k)](https://github.com/cmu-sei/pharos) - The Pharos binary analysis framework
+    can be used to perform automated static analysis of binaries.
+
+## [3. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
+
+### Other Math Theory / Gradient Descent Algorithms & Optimization Theory
+
+*   [Neural Networks and Deep Learning, ch.2](http://neuralnetworksanddeeplearning.com/chap2.html) - Overview on how does the backpropagation algorithm works.
+*   [Neural Networks and Deep Learning, ch.4](http://neuralnetworksanddeeplearning.com/chap4.html) - A visual proof that neural nets can compute any function.
+
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+### API Builder and Discovery
+
+*   [Crepe (⭐126)](https://github.com/crepe/crepe) - The thin API stack.
+
+## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+
+### Garbage collectors
+
+*   [ZGC](http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html) - Garbage collector optimized for low latency and very large heaps.
+
+### Profilers
+
+*   [OpenTracing](http://opentracing.io/) - A vendor-neutral open standard for distributed tracing.
+
+### Documentation
+
+*   [Linux tracing workshop (⭐1.1k)](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
+
+## [6. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
 
 ## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

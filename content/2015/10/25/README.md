@@ -55,7 +55,7 @@
 
 ### JSON
 
-*   [jose (⭐271)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐275)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

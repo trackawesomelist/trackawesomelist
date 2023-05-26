@@ -17,7 +17,7 @@
 ### Peripheral Access Crates / MSP430
 
 *   [`msp430g2553`](https://github.com/japaric/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
-    *   [msp430 quickstart (⭐22)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
+    *   [msp430 quickstart (⭐24)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
 
 ## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -29,9 +29,9 @@
 
 ### Language Support
 
-*   [playwright-ruby-client (⭐151)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
+*   [playwright-ruby-client (⭐176)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 *   [playwright-cr (⭐18)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-*   [playwright-rust (⭐144)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+*   [playwright-rust (⭐174)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

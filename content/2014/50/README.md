@@ -23,7 +23,7 @@
 
 ### Security
 
-*   [bundler-audit (⭐2.5k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
+*   [bundler-audit (⭐2.6k)](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 
 ## [4. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
@@ -70,15 +70,15 @@
 
 ### Editors / Runner
 
-*   [Squire (⭐4.4k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
+*   [Squire (⭐4.5k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
 
 ### Sliders / Runner
 
-*   [PhotoSwipe (⭐22k)](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
+*   [PhotoSwipe (⭐23k)](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 
 ### Scroll / Other
 
-*   [fullPage (⭐34k)](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
+*   [fullPage (⭐35k)](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Other Awesome Projects
 
-*   [awesome-algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+*   [awesome-algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
 ## [10. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [deap (⭐5k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
+*   [deap (⭐5.1k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
 ## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

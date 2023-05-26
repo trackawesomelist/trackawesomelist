@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -225,7 +225,7 @@
 
 ## [3. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Datasets / Other Datasets
+### Other Datasets / Other models
 
 *   [Columbia Open Health Data](http://cohd.io) - [paper](https://www.nature.com/articles/sdata2018273) - A database of prevalence and co-occurrence frequencies of conditions, drugs, procedures, and patient demographics extracted from electronic health records. Does not include original record text.
 *   [Comparative Toxicogenomics Database](https://ctdbase.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323936/) - A database of manually curated associations between chemicals, gene products, phenotypes, diseases, and environmental exposures. Useful for assembling ontologies of the related concepts, such as types of chemicals.
@@ -234,7 +234,7 @@
 
 ### CLI Builder
 
-*   [Optimist (⭐213)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
+*   [Optimist (⭐215)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 
 ## [5. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Gaming
 
-*   [Haxe Game Development (⭐326)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐328)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -284,19 +284,13 @@
 
 *   [PolioPager (⭐176)](https://github.com/YuigaWada/PolioPager) - A flexible TabBarController with search tab like SNKRS.
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Serialization
-
-*   [Boost.Serialization](https://www.boost.org/doc/libs/master/libs/serialization/doc/index.html) - Boost Serialization Library. \[Boost]
-
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Build Automation
 
 *   [FlubuCore (⭐816)](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
-## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Machine Learning Ops / Terraform
 

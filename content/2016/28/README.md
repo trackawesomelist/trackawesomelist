@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 11 - Jul 17, 2016
 
-35 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,11 +76,11 @@
 
 ### Source Code Repos
 
-*   [Gogs (⭐41k)](https://github.com/gogits/gogs)  - A painless self-hosted Git Service
+*   [Gogs (⭐42k)](https://github.com/gogits/gogs)  - A painless self-hosted Git Service
 
 ### Collaboration Tools
 
-*   [ssh chat (⭐4.9k)](https://github.com/shazow/ssh-chat) - Chat over SSH
+*   [ssh chat (⭐5.1k)](https://github.com/shazow/ssh-chat) - Chat over SSH
 
 ### CI / CD
 
@@ -104,7 +104,7 @@ git shortlog
 
 ### Error Handling
 
-*   [Bugsnag (⭐232)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+*   [Bugsnag (⭐233)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -167,7 +167,7 @@ git shortlog
 
 ### For Electron / Other
 
-*   [electron-devtools-installer (⭐985)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
+*   [electron-devtools-installer (⭐1k)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 
 ## [14. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -236,9 +236,9 @@ git shortlog
 
 ### Framework Components
 
-*   [kerosene (⭐224)](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
+*   [kerosene (⭐226)](https://github.com/elixirdrops/kerosene) - Pagination for Ecto and Phoenix.
 *   [phoenix\_html\_simplified\_helpers (⭐29)](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - Some helpers for phoenix html (truncate, time\_ago\_in\_words, number\_with\_delimiter).
-*   [plug\_secex (⭐24)](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
+*   [plug\_secex (⭐25)](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
 
 ### HTTP
 
@@ -263,7 +263,7 @@ git shortlog
 
 ### Third Party APIs
 
-*   [pigeon (⭐556)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
+*   [pigeon (⭐567)](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
 
 ### Translations and Internationalizations
 
@@ -271,7 +271,7 @@ git shortlog
 
 ### Utilities
 
-*   [sitemap (⭐99)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
+*   [sitemap (⭐96)](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
 
 ### Newsletters
 
@@ -279,19 +279,13 @@ git shortlog
 *   [Elixir Radar](http://plataformatec.com.br/elixir-radar) - The "official" Elixir newsletter, published weekly via email by Plataformatec.
 *   [ElixirWeekly](https://elixirweekly.net) - The Elixir community newsletter, covering stuff you easily miss, shared on [ElixirStatus](http://elixirstatus.com) and the web.
 
-## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
-
-### Resources / Articles
-
-*   [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
-
-## [23. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [22. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Disk Image Creation Tools
 
 *   [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - ACQUIRE by Magnet Forensics allows various types of disk acquisitions to be performed on Windows, Linux, and OS X as well as mobile operating systems.
 
-## [24. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [23. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Philosophy
 
@@ -305,7 +299,7 @@ git shortlog
 
 *   [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 
-## [25. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [24. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Tools
 
@@ -315,19 +309,19 @@ git shortlog
 
 *   [aurelia-v-grid (⭐22)](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) \* aurelia-v-grid
 
-## [26. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [25. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Palettable](http://www.palettable.io/) - Generate beautiful color palettes with no prior design knowledge.
 
-## [27. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [26. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [A CSS Guideline Tutorial: BEM with Sass](https://assist-software.net/blog/css-guideline-tutorial-bem-sass)
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
@@ -348,7 +342,7 @@ git shortlog
 ### Bluetooth
 
 *   [BluetoothKit (⭐2.2k)](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
-*   [RxBluetoothKit (⭐1.3k)](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
+*   [RxBluetoothKit (⭐1.4k)](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
 
 ### Camera
 
@@ -356,7 +350,7 @@ git shortlog
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐241)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐242)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 
@@ -364,19 +358,19 @@ git shortlog
 
 ### HUD / Barcode
 
-*   [KRProgressHUD (⭐641)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
+*   [KRProgressHUD (⭐647)](https://github.com/krimpedance/KRProgressHUD) - A beautiful and customizable progress HUD.
 *   [PKHUD (⭐3.7k)](https://github.com/pkluz/PKHUD) - Reimplementation of the Apple HUD.
 
 ### Utility / Barcode
 
-*   [Solar (⭐497)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐517)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 
 *   [AppVersionMonitor (⭐257)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [Version Tracker Swift (⭐82)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 
-## [29. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Italy 🇮🇹 / Rome
 
@@ -404,14 +398,14 @@ Webpage: <https://www.bop.pt>
 
 ![](http://www.speedtest.net/result/5468130872.png)
 
-## [30. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [29. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### Languages, Protocols, Browser APIs
 
 *   **[Service Workers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/languages-protocols-browser-apis/service-workers.md)**: A method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.
 *   **[Web Animations API](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/animation/web-animations-api.md)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
 
-## [31. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [30. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Sample Progressive Web Apps
 
@@ -436,19 +430,19 @@ Webpage: <https://www.bop.pt>
 *   [PWA Dev Summit 2016 codelab - Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en) Up-to-date getting started tutorial for Progressive Web App, Push Notifications and service worker basics.
 *   [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) - An article introducing Push API.
 
-## [32. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [31. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Build Tooling
 
 *   [psvm-js (⭐31)](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager
 
-## [33. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [32. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 
-## [34. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [33. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
@@ -459,19 +453,19 @@ Webpage: <https://www.bop.pt>
 
 ### Database Clients
 
-*   [vertx-pojo-mapper (⭐59)](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
+*   [vertx-pojo-mapper (⭐58)](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
 
 ### Integration
 
 *   JavaEE
     *   [JCA adaptor (⭐10)](https://github.com/vert-x3/vertx-jca) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Java Connector Architecture Adaptor for the Vert.x event bus.
-    *   [Weld (⭐48)](https://github.com/weld/weld-vertx) - Brings the CDI programming model into the Vert.x ecosystem (register CDI observer methods as Vert.x message consumers, CDI-powered Verticles, define routes in a declarative way, etc.).
+    *   [Weld (⭐47)](https://github.com/weld/weld-vertx) - Brings the CDI programming model into the Vert.x ecosystem (register CDI observer methods as Vert.x message consumers, CDI-powered Verticles, define routes in a declarative way, etc.).
 *   Meteor
-    *   [Meteor (⭐18)](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus.
+    *   [Meteor (⭐17)](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus.
 *   Metrics
     *   [Hawkular metrics (⭐5)](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
     *   [DropWizard metrics (⭐32)](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
-    *   [Micrometer metrics (⭐43)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
+    *   [Micrometer metrics (⭐44)](https://github.com/vert-x3/vertx-micrometer-metrics) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using Micrometer metrics.
     *   [OpenTsDb Metrics (⭐11)](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x.
     *   [Bosun Monitoring (⭐3)](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
@@ -489,15 +483,15 @@ Webpage: <https://www.bop.pt>
 
 ### Vert.x Event Bus Clients
 
-*   [C++11 (⭐17)](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
+*   [C++11 (⭐16)](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
 *   [Java (⭐19)](https://github.com/saffron-technology/vertx-eventbusbridge) - Java implementation of vertxbus.js.
 *   [Java (⭐20)](https://github.com/abdlquadri/vertx-eventbus-java) - Java and Android Event Bus Client.
-*   [CLI (⭐3)](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
+*   [CLI (⭐2)](https://github.com/cinterloper/vxc) - Command-line binary client for Vert.x event bus - pipe in JSON, emit JSON.
 
 ### Cluster Managers
 
-*   [JGroups Cluster Manager (⭐4)](https://github.com/vert-x3/vertx-jgroups) - JGroups cluster manager.
-*   [Atomix Cluster Manager (⭐24)](https://github.com/atomix/atomix-vertx) - An [Atomix](http://atomix.io) based cluster manager implementation for Vert.x 3.
+*   [JGroups Cluster Manager (⭐5)](https://github.com/vert-x3/vertx-jgroups) - JGroups cluster manager.
+*   [Atomix Cluster Manager (⭐25)](https://github.com/atomix/atomix-vertx) - An [Atomix](http://atomix.io) based cluster manager implementation for Vert.x 3.
 
 ### Search Engines
 
@@ -512,7 +506,7 @@ Webpage: <https://www.bop.pt>
 *   [Vert.x Guice (⭐57)](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection.
 *   [Vert.x HK2 (⭐30)](https://github.com/englishtown/vertx-hk2) - Vert.x verticle factory for HK2 dependency injection.
 *   [Spring Vert.x Extension (⭐50)](https://github.com/amoAHCP/spring-vertx-ext) - Vert.x verticle factory for Spring DI injection.
-*   [Vert.x Beans (⭐22)](https://github.com/rworsnop/vertx-beans) - Inject Vert.x objects as beans into your Spring application.
+*   [Vert.x Beans (⭐23)](https://github.com/rworsnop/vertx-beans) - Inject Vert.x objects as beans into your Spring application.
 
 ### Miscellaneous
 
@@ -525,13 +519,13 @@ Webpage: <https://www.bop.pt>
 
 ### Deployment
 
-*   [Vert.x Deploy Application (⭐54)](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters.
+*   [Vert.x Deploy Application (⭐55)](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters.
 
 ### Utilities
 
 *   [Vert.x POJO config (⭐3)](https://github.com/aesteve/vertx-pojo-config) - Allows for mapping between standard JSON configuration and a (type-safe) configuration Java bean. Also allows the configuration bean to be validated through JSR 303.
 
-## [35. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [34. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 

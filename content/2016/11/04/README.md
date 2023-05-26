@@ -55,7 +55,7 @@
 
 ## [7. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### [Barsoom series](https://www.goodreads.com/series/43942-barsoom)   (1912-1927)   *by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)*   \[3.8] 🌟
+### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) *by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)* [3.8] 🌟
 
 *   [A Princess of Mars](https://www.goodreads.com/book/show/40395.A_Princess_of_Mars) \[3.8]
 *   [The Gods of Mars](https://www.goodreads.com/book/show/841973.The_Gods_of_Mars) \[3.8]
@@ -69,7 +69,7 @@
 *   [Llana of Gathol](https://www.goodreads.com/book/show/215954.Llana_of_Gathol) \[3.7]
 *   [John Carter of Mars](https://www.goodreads.com/book/show/40388.John_Carter_of_Mars) \[3.8]
 
-### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
+### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
 *   [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
 *   [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit

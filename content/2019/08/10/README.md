@@ -54,16 +54,16 @@
 
 ### Development / Text Editors
 
-*   [micro (⭐21k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
+*   [micro (⭐22k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 
 ### Productivity / Time Tracking
 
-*   [Timewarrior (⭐915)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
-*   [Watson (⭐2.2k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
+*   [Timewarrior (⭐973)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+*   [Watson (⭐2.3k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 
 ### Files and Directories / Search
 
-*   [fd (⭐26k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
+*   [fd (⭐27k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

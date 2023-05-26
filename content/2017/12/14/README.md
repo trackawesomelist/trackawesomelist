@@ -51,7 +51,7 @@
     Flexible Ruby ANN implementation with backprop (through-time, for recurrent
     nets), gradient checking, adagrad, and parallel batch execution.
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
 *   <a name="opencv"></a>
     [OpenCV](https://opencv.org/)
@@ -76,7 +76,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-cleave-component (⭐284)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+*   [vue-cleave-component (⭐285)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

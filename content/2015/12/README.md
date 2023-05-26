@@ -26,11 +26,11 @@
 
 ### Game Engine
 
-*   [GamePlay (⭐4k)](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. \[Apache2]
+*   [GamePlay (⭐4.1k)](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. \[Apache2]
 
 ### Image Processing
 
-*   [libvips (⭐28)](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. \[LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
+*   [libvips (⭐30)](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. \[LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 
 ### Inter-process communication
 
@@ -80,21 +80,21 @@
 
 ### :hammer_and_wrench:   Libraries and SDKs / Go
 
-*   [webhook (⭐8.3k)](https://github.com/adnanh/webhook) - Easily run commands in response to HTTP webhook requests from Slack
+*   [webhook (⭐8.9k)](https://github.com/adnanh/webhook) - Easily run commands in response to HTTP webhook requests from Slack
 
 ### :hammer_and_wrench:   Libraries and SDKs / Python
 
-*   [django-slack (⭐228)](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages
+*   [django-slack (⭐232)](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages
 
 ### :hammer_and_wrench:   Libraries and SDKs / R
 
-*   [slackr (⭐292)](https://github.com/hrbrmstr/slackr) - A package to send webhook API messages to Slack channels/users from R
+*   [slackr (⭐299)](https://github.com/hrbrmstr/slackr) - A package to send webhook API messages to Slack channels/users from R
 
 ### :hammer_and_wrench:   Libraries and SDKs / Ruby
 
 *   [slack-notifier (⭐1.5k)](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack
 *   [slack-notify (⭐94)](https://github.com/sosedoff/slack-notify) - Send notifications to Slack
-*   [slack-poster (⭐53)](https://github.com/rikas/slack-poster) - Simple gem to post messages on Slack using webhooks
+*   [slack-poster (⭐52)](https://github.com/rikas/slack-poster) - Simple gem to post messages on Slack using webhooks
 
 ## [8. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 

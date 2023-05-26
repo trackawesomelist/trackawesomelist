@@ -32,11 +32,11 @@
 
 ### Libraries/Frameworks / Web
 
-*   [jooby-project/jooby (⭐1.5k)](https://github.com/jooby-project/jooby) - Modular micro web framework for Java and Kotlin
+*   [jooby-project/jooby (⭐1.6k)](https://github.com/jooby-project/jooby) - Modular micro web framework for Java and Kotlin
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [h0tk3y/kotlin-monads (⭐114)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+*   [h0tk3y/kotlin-monads (⭐115)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

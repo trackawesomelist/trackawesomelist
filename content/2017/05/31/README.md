@@ -28,7 +28,7 @@
 
 ### Web Framework
 
-*   [Datsys (⭐225)](https://github.com/metasoarous/datsys)
+*   [Datsys (⭐229)](https://github.com/metasoarous/datsys)
 
 ## [4. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

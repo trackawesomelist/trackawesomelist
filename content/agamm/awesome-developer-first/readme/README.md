@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 443 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 466 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐443)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐465)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -216,6 +216,7 @@ For the latest additions [click here (⭐443)](https://github.com/agamm/awesome-
 *Location services.*
 
 *   [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+*   [PlaceKit](https://placekit.io/) - Locations search API.
 *   [Radar](https://radar.io/) - Geofencing and geo APIs.
 *   [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
 
@@ -254,6 +255,7 @@ For the latest additions [click here (⭐443)](https://github.com/agamm/awesome-
 *   [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
 *   [FormSpree](https://formspree.io/) - Receive form submissions by email.
 *   [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
+*   [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 *   [Lob](https://www.lob.com/) - Email and address verification.
 *   [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 *   [Sendgrid](https://sendgrid.com/) - Email API.
@@ -275,6 +277,7 @@ For the latest additions [click here (⭐443)](https://github.com/agamm/awesome-
 
 *   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 *   [Knock](https://knock.app) - Notifications as a service.
+*   [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
 *   [Stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
@@ -287,6 +290,7 @@ For the latest additions [click here (⭐443)](https://github.com/agamm/awesome-
 *   [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 *   [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 *   [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
+*   [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 *   [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
 *   [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
@@ -389,5 +393,5 @@ For the latest additions [click here (⭐443)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐443)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐465)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

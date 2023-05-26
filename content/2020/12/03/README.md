@@ -10,7 +10,7 @@
 
 ### Plugins / Frameworks
 
-*   [Ember (⭐254)](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
+*   [Ember (⭐255)](https://github.com/ember-cli/eslint-plugin-ember) - Linting rules for Ember.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

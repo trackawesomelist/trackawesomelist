@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26 - Sep 01, 2019
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,7 @@
 ### Developer Tools
 
 *   **Code coverage**:
-    *   [Bisect\_ppx (⭐263)](https://github.com/aantron/bisect_ppx)
+    *   [Bisect\_ppx (⭐274)](https://github.com/aantron/bisect_ppx)
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -39,25 +39,19 @@
     *   [Stochastic Block Models](http://bactra.org/notebooks/stochastic-block-models.html).
         *   See also: [An Annotated Bibliography on Stochastic Blockmodels](https://www.alexpghayes.com/blog/an-annotated-bibliography-on-stochastic-block-models/) (2019).
 
-## [3. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
-
-### Clients
-
-*   [Komanda](https://komanda.io) - Designed for people who write code (beta). ([source (⭐1.8k)](https://github.com/mephux/komanda)) `Linux`
-
-## [4. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [3. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Frameworks / Agile
 
 *   [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk\&feature=youtu.be) - How "Agile" has moved away from the basic principles of agility, and what we need to do to fix things 🎥.
 
-## [5. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [4. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### CCU Alternatives
 
 *   [docker-ccu (⭐33)](https://github.com/angelnu/docker-ccu) - Homematic CCU firmware running as [Docker](https://www.docker.com) container on arm and (emulated) x86.
 
-## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Clickjacking
 
@@ -93,25 +87,25 @@
 *   [Alexa Top 1 Million Security - Hacking the Big Ones](https://slashcrypto.org/data/itsecx2018.pdf) - Written by [@slashcrypto](https://twitter.com/slashcrypto).
 *   [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - Written by [Mariem](https://pentester.land/).
 
-## [7. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [6. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / SQL Data Sources
 
 *   [Spark Avro (⭐539)](https://github.com/databricks/spark-avro) <img src="https://img.shields.io/github/last-commit/databricks/spark-avro.svg"> - [Apache Avro](https://avro.apache.org/) reader and writer (obselete since Spark 2.4 [\[SPARK-24768\]](https://issues.apache.org/jira/browse/SPARK-24768)).
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Miscellaneous / Angular
 
 *   [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
 
-## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [8. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Blogs / Misc
 
 *   [Build Better Blog](https://blocksedit.com/content-code/) - Design and content production in email marketing.
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / STMicroelectronics
 
@@ -125,19 +119,19 @@
 *   [`stm32l1`](https://crates.io/crates/stm32l1) - ![crates.io](https://img.shields.io/crates/v/stm32l1.svg)
 *   [`stm32l4`](https://crates.io/crates/stm32l4) - ![crates.io](https://img.shields.io/crates/v/stm32l4.svg)
 
-## [11. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [10. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [Chartify (⭐3.2k)](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
 
-## [12. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [11. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐50k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐51k)](https://github.com/sindresorhus/awesome-nodejs)
 
-## [13. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Date and Time
 
@@ -145,9 +139,9 @@
 
 ### Text Processing
 
-*   [beagle (⭐50)](https://github.com/tokenmill/beagle)
+*   [beagle (⭐49)](https://github.com/tokenmill/beagle)
 
-## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
@@ -163,7 +157,7 @@
 
 *   [Mongoku (⭐1.2k)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
 
-## [15. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [14. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Codelabs/Courses
 
@@ -175,23 +169,23 @@
 
 *   [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts.
 
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
-*   [aws-lambda-go :fire::fire::fire::fire::fire: (⭐3.2k)](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions.
+*   [aws-lambda-go :fire::fire::fire::fire::fire: (⭐3.3k)](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions.
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [Netflix/archaius :fire::fire::fire::fire::fire: (⭐2.4k)](https://github.com/Netflix/archaius) - Library for configuration management API.
 
-## [17. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [16. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
 
-## [18. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [17. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### The Fiery Meter of AWSome
 
@@ -203,29 +197,29 @@
 *   Community-authored repo with 100+ stars
 *   Community-vouched repo with < 100 stars
 
-## [19. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [18. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
-*   [OpenGL Pascal Toolkit (⭐26)](https://github.com/daar/GLPT). `[FPC]` Easy to use native pascal toolkit that allows to create and manage OpenGL contexts in a platform independent way.
-*   [BGRAbitmap (⭐12)](https://github.com/edivando-fpc/BGRABitmap). `[Delphi]` `[FPC]` Drawing routines with transparency and antialiasing with Lazarus. Offers also various transforms. These routines allow to manipulate 32bit images in BGRA format or RGBA format (depending on the platform).
+*   [OpenGL Pascal Toolkit (⭐27)](https://github.com/daar/GLPT). `[FPC]` Easy to use native pascal toolkit that allows to create and manage OpenGL contexts in a platform independent way.
+*   [BGRAbitmap (⭐13)](https://github.com/edivando-fpc/BGRABitmap). `[Delphi]` `[FPC]` Drawing routines with transparency and antialiasing with Lazarus. Offers also various transforms. These routines allow to manipulate 32bit images in BGRA format or RGBA format (depending on the platform).
 
 ### Control packs
 
-*   [KControls (⭐9)](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
+*   [KControls (⭐11)](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
     // *Most useful are TKGrid with its DB-aware heritage TKDBGrid — a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
 
 ### Single controls
 
-*   [zControls (⭐124)](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
-*   [DzHTMLText (⭐114)](https://github.com/digao-dalpiaz/DzHTMLText). `[Delphi]` `[FPC]` Visual component that allows you to specify a formatted text in a label, using almost the same syntax used in HTML code.
+*   [zControls (⭐131)](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
+*   [DzHTMLText (⭐125)](https://github.com/digao-dalpiaz/DzHTMLText). `[Delphi]` `[FPC]` Visual component that allows you to specify a formatted text in a label, using almost the same syntax used in HTML code.
 
 ### Command-line
 
-*   [TCommandLineReader (⭐24)](https://github.com/benibela/rcmdline). `[Delphi]` `[FPC]` This unit provides an advanced, platform-independent command line parser for Lazarus and Delphi. It checks for allowed options, automatically prints a help with a list of all of them, and - contrary to the parser in the rtl - behaves the same on Windows and Linux.
-*   [CommandLineParser (⭐76)](https://github.com/VSoftTechnologies/VSoft.CommandLineParser). `[Delphi]` Simple Command Line Options Parser - spawned from the DUnitX Project.
-*   [GpCommandLineParser (⭐140)](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). `[Delphi]` Attribute based command line parser.
-*   [JPL.CmdLineParser (⭐45)](https://github.com/jackdp/JPLib/blob/master/Base/JPL.CmdLineParser.pas). `[Delphi]` `[FPC]` Command-line parser for Delphi and Free Pascal
+*   [TCommandLineReader (⭐31)](https://github.com/benibela/rcmdline). `[Delphi]` `[FPC]` This unit provides an advanced, platform-independent command line parser for Lazarus and Delphi. It checks for allowed options, automatically prints a help with a list of all of them, and - contrary to the parser in the rtl - behaves the same on Windows and Linux.
+*   [CommandLineParser (⭐79)](https://github.com/VSoftTechnologies/VSoft.CommandLineParser). `[Delphi]` Simple Command Line Options Parser - spawned from the DUnitX Project.
+*   [GpCommandLineParser (⭐144)](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). `[Delphi]` Attribute based command line parser.
+*   [JPL.CmdLineParser (⭐48)](https://github.com/jackdp/JPLib/blob/master/Base/JPL.CmdLineParser.pas). `[Delphi]` `[FPC]` Command-line parser for Delphi and Free Pascal
 
 ### Other non-visual
 
@@ -237,20 +231,20 @@
 
 ### RAD Studio IDE plugins/wizards
 
-*   [RADSplit (⭐33)](https://github.com/LaKraven/RADSplit). Dockable Split-Screen Editors for RAD Studio (Delphi and C++ Builder).
-*   [DzNoteEditor (⭐18)](https://github.com/digao-dalpiaz/DzNoteEditor). Delphi Property Editor for TStrings supporting formatted languages with syntax highlight.
+*   [RADSplit (⭐34)](https://github.com/LaKraven/RADSplit). Dockable Split-Screen Editors for RAD Studio (Delphi and C++ Builder).
+*   [DzNoteEditor (⭐20)](https://github.com/digao-dalpiaz/DzNoteEditor). Delphi Property Editor for TStrings supporting formatted languages with syntax highlight.
 
 ### Other
 
-*   [Boss (⭐371)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
+*   [Boss (⭐418)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
 
-## [20. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [19. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Testing
 
 *   [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
 
-## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [20. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
@@ -268,7 +262,7 @@
 
 ### Configuration / Third-party APIs
 
-*   [chameleon (⭐16)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
+*   [chameleon (⭐15)](https://github.com/sheepduke/chameleon/) - a configuration management library shipped with profile support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Logging / Third-party APIs
 
@@ -278,19 +272,19 @@
 
 *   [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. BSD.
 
-## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Content Management Systems / Videos
 
 *   [Twill (⭐2.9k)](https://github.com/area17/twill)
 
-## [23. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [22. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Frameworks / Graph
 
 *   [NebulaGraph (⭐8.1k)](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
 
-## [24. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [23. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Research Overviews
 
@@ -301,27 +295,27 @@
 
 *   [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) - Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project.
 
-### Tutorials / Video Lectures and Online Courses
+### Video Lectures and Online Courses
 
 *   [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
 
-### Code Libraries / Video Lectures and Online Courses
+### Code Libraries
 
-*   [ScispaCy (⭐1.2k)](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
+*   [ScispaCy (⭐1.3k)](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 
-### Code Libraries / Repos for Specific Datasets
+### Repos for Specific Datasets
 
-*   [mimic-code (⭐1.7k)](https://github.com/MIT-LCP/mimic-code) - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials (⭐1.7k)](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials).
+*   [mimic-code (⭐1.9k)](https://github.com/MIT-LCP/mimic-code) - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials (⭐1.9k)](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials).
 
-### Datasets / Biomedical Text Sources
+### Biomedical Text Sources / Other models
 
 *   [OHSUMED](http://davis.wpi.edu/xmdv/datasets/ohsumed.html) - [paper](https://dl.acm.org/citation.cfm?id=188557) - 348,566 MEDLINE entries (title and sometimes abstract) from between 1987 and 1991. Includes MeSH labels. Primarily of historical significance.
 
-### Datasets / Annotated Text Data
+### Annotated Text Data / Other models
 
 *   [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223) - 203 ambiguous words and 37,888 automatically extracted instances of their use in biomedical research publications. Requires UTS account.
 
-### Datasets / Protein-protein Interaction Annotated Corpora
+### Protein-protein Interaction Annotated Corpora / Other models
 
 *   [AIMed](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/aimed_bioc.xml.zip) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/15811782) - 225 MEDLINE abstracts annotated for PPI.
 *   [BioC-BioGRID](http://bioc.sourceforge.net/BioC-BioGRID.html) - [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw147/2884890) - 120 full text articles annotated for PPI and genetic interactions. Used in the BioCreative V BioC task.
@@ -329,31 +323,31 @@
 *   [IEPA](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/iepa_bioc.xml.zip) - [paper](http://psb.stanford.edu/psb-online/proceedings/psb02/abstracts/p326.html) - 486 sentences from biomedical research abstracts annotated for pairs of co-occurring chemicals, including proteins (hence, PPI annotations).
 *   [LLL](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/lll_bioc.xml.zip) - [paper](https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671) - 77 sentences from research articles about the bacterium *Bacillus subtilis*, annotated for protein–gene interactions (so, fairly close to PPI annotations). [Additional information is here.](http://genome.jouy.inra.fr/texte/LLLchallenge/#task1)
 
-### Ontologies and Controlled Vocabularies / Other Datasets
+### Ontologies and Controlled Vocabularies / Other models
 
 *   [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) - [paper](https://academic.oup.com/jamia/article/18/4/441/734170) - Normalized names for clinical drugs and drug packs, with combined ingredients, strengths, and form, and assigned types from the Semantic Network (see below). Released monthly.
 *   [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about \~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
 *   [UMLS Semantic Network](https://semanticnetwork.nlm.nih.gov/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447396/) - Lists of 133 semantic types and 54 semantic relationships covering biomedical concepts and vocabulary. Is the Metathesaurus too complex for your needs? Try this. Does not require UTS account to download.
 
-## [25. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [24. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - Teaches functional programming from first principles using real-world scenarios.
 
-## [26. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [25. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Books
 
 *   [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity) teaches functional programming from first principles. It uses JavaScript for all code examples and it uses real-world scenarios. By [Eric Normand](https://github.com/ericnormand) (2019)
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [26. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Playlist - Programando en Blazor](https://www.youtube.com/playlist?list=PL0kIvpOlieSNdIPZbn-mO15YIjRHY2wI9) - \[Spanish] Series of videos about Blazor.
 
-## [28. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [27. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -361,7 +355,7 @@
 
     Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
-## [29. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [28. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Understanding Nginx
 
@@ -371,7 +365,7 @@
 
 *   [NGINX Conference 2018 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXe_Vc708VKvr5KJ4gnf1WxS)
 
-## [30. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [29. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Notification
 
@@ -379,18 +373,18 @@
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-tilt (⭐654)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐711)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
-## [31. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [30. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
 *   <a name="lightgbm"></a>
-    [LightGBM (⭐14k)](https://github.com/microsoft/LightGBM)
+    [LightGBM (⭐15k)](https://github.com/microsoft/LightGBM)
 *   <a name="xgboost"></a>
-    [XGBoost (⭐23k)](https://github.com/dmlc/xgboost)
+    [XGBoost (⭐24k)](https://github.com/dmlc/xgboost)
 
-## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -424,11 +418,11 @@
 *   [Telegram Group](https://t.me/FlutterTR)
 *   [Github](https://github.com/flutterturkey)
 
-## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐664)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐695)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -440,13 +434,13 @@
 
 ### Software / Polls and Events
 
-*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐303)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
+*   [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code (⭐308)](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`
 
 ### Software / URL Shorteners
 
 *   [Simple-URL-Shortener (⭐36)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
-## [34. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [33. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Git Hook Scripts / commit-msg
 
@@ -497,19 +491,19 @@
 
 *   [Git hooks and practical uses. Yes, even on Windows.](http://www.youtube.com/watch?feature=player_embedded\&v=fMYv6-SZsSo\&t=140s)
 
-## [35. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [34. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Philes](https://github.com/chrismatthieu/philes): A simple IPFS-powered decentralized notepad app.
 
-## [36. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [35. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Streams
 
 *   [random-bytes-readable-stream (⭐74)](https://github.com/sindresorhus/random-bytes-readable-stream) - Cross-platform `fs.createReadStream('/dev/urandom')`.
 
-## [37. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Image Search / Telegram
 
@@ -527,64 +521,64 @@
 ### Other Tools / Telegram
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
-    *   [pygreynoise (⭐137)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+    *   [pygreynoise (⭐139)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 
-## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
-*   [nef (⭐257)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
+*   [nef (⭐260)](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐930)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐933)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ### Keyboard / Barcode
 
-*   [Ribbon (⭐294)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐295)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ### UI / Barcode
 
-*   [MultiSelectSegmentedControl (⭐286)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
+*   [MultiSelectSegmentedControl (⭐292)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
-## [39. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [38. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Interactive learning / Single Topics
 
 *   [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 
-## [40. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [39. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Auditing Tools
 
 *   [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
 
-## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
 *   [OPENRNDR](https://openrndr.org/) \[Cross-platform] - Open source library for creative coding written in Kotlin.
 
-## [42. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [41. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [BoomBox (⭐217)](https://github.com/nbeede/BoomBox) - Automatic deployment of Cuckoo
     Sandbox malware lab using Packer and Vagrant.
 
-## [43. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [42. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Manjaro](https://manjaro.org/download/) - Friendly, open-source Linux distribution for Raspberry Pi.
 
-## [44. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [43. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Platforms / Other external resources
 
 *   [Nanobox (⭐1.6k)](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere
 
-## [45. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [44. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -594,25 +588,25 @@
 
 *   [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
 
-## [46. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [45. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Adapters
 
 *   [ember-local-storage (⭐217)](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
 
-## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### I18n And L10n / Runner
 
-*   [ttag (⭐306)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
+*   [ttag (⭐312)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
 
-## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Browser extensions
 
 *   [Netflix Hangouts](https://netflixhangouts.com) - Watch Netflix at work by making it look like you’re on a conference call.
 
-## [49. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [48. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -626,17 +620,17 @@
 
 *   [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 
-## [50. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [49. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Time
 
 *   [Code Time](https://www.software.com/) - Time-tracking for VS Code, Atom, Sublime Text, and other editors
 
-## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Procedurem (⭐16)](https://github.com/ImVexed/Procedurem) - A Small (2kb) And Performant Bi-Directional RPC Library Using WebSockets.
+*   :octocat: [Procedurem (⭐17)](https://github.com/ImVexed/Procedurem) - A Small (2kb) And Performant Bi-Directional RPC Library Using WebSockets.
 
 ---
 

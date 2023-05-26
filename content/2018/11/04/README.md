@@ -38,11 +38,11 @@
 
 ### Tools / Converters
 
-*   [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Tools / Linters
 
-*   [remark-lint (⭐832)](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
+*   [remark-lint (⭐866)](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 
 ### Services / Presentations
 
@@ -56,15 +56,15 @@
 
 ### Graphics
 
-*   [TinySpline (⭐945)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
+*   [TinySpline (⭐992)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
 
 ### JSON
 
-*   [LIBUCL (⭐1.5k)](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser \[BSD-2-Clause]
+*   [LIBUCL (⭐1.5k)](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser. \[BSD-2-Clause]
 
 ### Multimedia
 
-*   [libav (⭐960)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
+*   [libav (⭐973)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
 
 ### Networking
 

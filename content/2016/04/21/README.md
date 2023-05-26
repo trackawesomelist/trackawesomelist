@@ -16,7 +16,7 @@
 
 ### WebSocket
 
-*   [Firehose (⭐724)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐726)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -35,34 +35,28 @@
 
 ### Datasets / Topic-specific
 
-*   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](http://arxiv.org/abs/1402.5500)).
+*   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](https://arxiv.org/abs/1402.5500)).
+    <!-- -   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm). -->
 *   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - Two-mode and one-mode data on gender representation in Norwegian firms.
 
 ### Professional Groups / Research Groups (Other)
 
 *   [Complex Networks](http://www.complexnetworks.fr/) - Research group based in Paris.
 
-### Review Articles / Archeological and Historical Networks
-
-*   [Netzwerkanalyse in den Geschichtswissenschaften. Historische Netzwerkanalyse als Methode für die Erforschung von historischen Prozessen](https://www.academia.edu/449150/Netzwerkanalyse_in_den_Geschichtswissenschaften._Historische_Netzwerkanalyse_als_Methode_f%C3%BCr_die_Erforschung_von_historischen_Prozessen), in German (*[Prozesse. Formen, Dynamiken, Erklärungen](https://www.springer.com/de/book/9783531176604)*, 2015).
-
 ### Review Articles / Network Modeling
 
-*   [A Survey of Statistical Network Models](https://dl.acm.org/citation.cfm?id=1734795) - Book-length review ([preprint](http://arxiv.org/abs/0912.5410); *Foundations and Trends in Machine Learning*, 2010).
-*   [A Unified View of Generative Models for Networks: Models, Methods, Opportunities, and Challenges](http://arxiv.org/abs/1411.4070) ([video presentation](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos/watch/201504200944-Jacobs.html); [NIPS 2014 workshop](https://nips.cc/Conferences/2014/Schedule?type=Workshop) on “[Networks: From Graphs to Rich Data](https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/)”).
+*   [A Survey of Statistical Network Models](https://dl.acm.org/citation.cfm?id=1734795) - Book-length review ([preprint](https://arxiv.org/abs/0912.5410); *Foundations and Trends in Machine Learning*, 2010).
 
 ### Selected Papers / Social, Economic and Political Networks
 
 *   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/), by Steven M. Goodreau, James A. Kitts and Martina Morris - Accessible introduction to the logic and application of exponential random graph modeling (*Demography*, 2001).
-*   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/\~jmoody77/chains.pdf), by Peter S. Bearman, James Moody and Katherine Stovel - Classic example of topological network analysis applied to a network of affective and sexual ties (*American Journal of Sociology*, 2004).
-*   [Coauthorship and Citation Patterns in the *Physical Review*](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012814), by Travis Martin *et al.* - Highly typical study of scientific publishing productivity and collaboration through temporal network analysis ([preprint](http://arxiv.org/abs/1304.0473); *Physical Review E*, 2013).
+*   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf), by Peter S. Bearman, James Moody and Katherine Stovel - Classic example of topological network analysis applied to a network of affective and sexual ties (*American Journal of Sociology*, 2004).
 *   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf), by Jon Kleinberg - Discusses small-world effects and social contagion within the context of the Internet and social media (*Communications of the ACM*, 2008).
 *   [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328971/), by Cosma R. Shalizi and Andrew C. Thomas - Makes a very important point for the analysis of network diffusion and influence (*Sociological Methods and Research*, 2011).
 *   [Network Theory, Plot Analysis](https://sydney.edu.au/intellectual-history/documents/moretti_network_theory_plot_analysis.pdf), by Franco Moretti - Example applications of (fictional) network analysis in literary studies (*New Left Review*, 2011).
 *   [Social Networks and Causal Inference](http://link.springer.com/chapter/10.1007/978-94-007-6094-3_17), by Tyler J. VanderWeele and Weihua An - Reviews the different ways in which network analysis can produce meaningful causal statements, as well as the inherent limits of network analysis for doing so (*[Handbook of Causal Analysis for Social Research](http://link.springer.com/book/10.1007/978-94-007-6094-3)*, 2013).
-*   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf), by Kieran Healy - Network analysis meets science studies: social networks, like financial markets, are highly subject to performativity, i.e. the possibility that reality might be altered by its theoretical inquiry (*European Journal of Sociology*, 2015).
-*   [Robust Action and the Rise of the Medici, 1400-1434](http://home.uchicago.edu/\~jpadgett/papers/published/robust.pdf), by John F. Padgett and Christopher K. Ansell - Classic analysis of power relations in the Renaissance Florentine state (*American Journal of Sociology*, 1993).
-*   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/\~snijders/FlandreauJobst2005.pdf) (*The Journal of Economic History*, 2005) and [The Empirics of International Currencies: Network Externalities, History and Persistence](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0297.2009.02219.x/abstract) (*The Economic Journal*, 2009), both by Marc Flandreau and Clemens Jobst - Network analysis of the foreign exchange system in the late 19th century ([data](http://eh.net/database/international-currencies-1890-1910/)).
+*   [Robust Action and the Rise of the Medici, 1400-1434](http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf), by John F. Padgett and Christopher K. Ansell - Classic analysis of power relations in the Renaissance Florentine state (*American Journal of Sociology*, 1993).
+*   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/~snijders/FlandreauJobst2005.pdf) (*The Journal of Economic History*, 2005) and [The Empirics of International Currencies: Network Externalities, History and Persistence](https://doi.org/10.1111/j.1468-0297.2009.02219.x) (*The Economic Journal*, 2009), both by Marc Flandreau and Clemens Jobst - Network analysis of the foreign exchange system in the late 19th century ([data](http://eh.net/database/international-currencies-1890-1910/)).
 
 ### Software / Algorithms
 
@@ -79,12 +73,6 @@
 *   Blog posts about networks on [R-Bloggers](http://www.r-bloggers.com/), an aggregator of R blogs:
     *   [Networks](http://www.r-bloggers.com/?s=networks).
     *   [Social Network Analysis](http://www.r-bloggers.com/?s=social+network+analysis).
-*   Martin Grandjean’s blog posts about (mostly) network visualization, in English and French:
-    *   [Network Analysis](http://www.martingrandjean.ch/tag/analyse-de-reseau/).
-    *   [Social Networks](http://www.martingrandjean.ch/tag/reseaux-sociaux/).
-*   Yannick Rochat’s blog posts about digital humanities, in English and French:
-    *   [Character Networks](http://yro.ch/tag/character-network/).
-    *   [Network Analysis](http://yro.ch/tag/network-analysis/).
 
 ## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -92,7 +80,6 @@
 
 *   [Adventure Machine](http://www.madeon.fr/adventuremachine/) - Campaign for Madeon's "Adventure" album.
 *   [BBNG](https://uberviz.io/viz/bbng/) - WebGL Visualizer for "Confessions" (feat. Leland Whitty) by BADBADNOTGOOD.
-*   [Born in the Echoes](http://bornintheechoes.com/) - Campaign for The Chemical Brothers' "Born in the Echoes" album.
 *   [DENNIS](http://www.dennis.video/) - An interactive and audio responsive music video for "Dennis" by popcorn\_10's.
 *   [George & Jonathan III](http://www.georgeandjonathan.com/) - Campaign for George & Jonathan's "III" album.
 *   [Lantern](https://www.uberviz.io/viz/lantern/) - WebGL Visualizer for "Lantern" by SBTRKT.
@@ -102,9 +89,6 @@
 *   [Word Problems](https://www.uberviz.io/viz/word-problems/) - WebGL Visualizer for "Word Problems" by Harmonic 313.
 *   [Glitch](http://naivesound.com/glitch/) - An algorithmic synthesizer to make music from math.
 *   [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) - A Doodle for the Birthday of Clara Rockmore.
-*   [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio\&repository=web-audio-api) - Create music from your github repository by Alejandro Mantecon Guillen.
-*   [Play a cornet to Donald Trump](http://trumpdonald.org/) - A funny site to play a cornet to Donald Trump by Animal Agency.
-*   [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) - A web app that turns the song Bohemian Rhapsody into a musical instrument by Paul Lamere.
 *   [Moogfest Substrate](http://www.moogfest.com/_substrate) - Experimental site to Moogfest.
 
 ### Experiments on Codepen
@@ -120,8 +104,8 @@
 
 ### Libraries Visualization
 
-*   [The Force (⭐238)](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
-*   [Hylogen (⭐470)](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
+*   [The Force (⭐251)](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
+*   [Hylogen (⭐472)](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 
 ### People to Follow
 

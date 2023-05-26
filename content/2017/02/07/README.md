@@ -50,7 +50,7 @@
 
 ### HTTP
 
-*   [explode (⭐40)](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
+*   [explode (⭐42)](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
 
 ### Templating
 

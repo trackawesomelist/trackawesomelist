@@ -10,32 +10,32 @@
 
 ### Communication
 
-*   [MailTo (⭐61)](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups.
+*   [MailTo (⭐63)](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups.
 
 ### Developer
 
-*   [Fakeum (⭐280)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
-*   [Git Repos (⭐299)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
+*   [Fakeum (⭐285)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
+*   [Git Repos (⭐309)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
 
 ### Scientific
 
-*   [Convert (⭐698)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
+*   [Convert (⭐718)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
 
 ### Productivity
 
-*   [I Sheet You Not (⭐66)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
+*   [I Sheet You Not (⭐70)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 
 ### Security
 
-*   [Password Generator (⭐282)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
+*   [Password Generator (⭐285)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 
 ### System
 
-*   [AppScripts (⭐73)](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
+*   [AppScripts (⭐77)](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
 
 ### Web
 
-*   [Reddit (⭐205)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
+*   [Reddit (⭐213)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 

@@ -14,11 +14,11 @@
 
 ### Office
 
-*   [Open XML SDK (⭐3.4k)](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
+*   [Open XML SDK (⭐3.5k)](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
 
 ### Visual Studio Plugins
 
-*   [CodeContracts (⭐874)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
+*   [CodeContracts (⭐876)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
 
 ---
 

@@ -10,11 +10,11 @@
 
 ### HTTP
 
-*   [HttpClientGoodies (⭐61)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
+*   [HttpClientGoodies (⭐62)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 
 ### Queue
 
-*   [RawRabbit (⭐728)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
+*   [RawRabbit (⭐730)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Contents / Utilities
 
-*   [pgmigrate (⭐534)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+*   [pgmigrate (⭐555)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
 ## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -274,7 +274,7 @@
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐143)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Fluxtream (⭐145)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
 ## [17. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
@@ -350,8 +350,8 @@ Free
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐3.3k)](https://github.com/pret/pokered)
-*   [Pokémon Crystal (⭐1.7k)](https://github.com/pret/pokecrystal)
+*   [Pokémon Red/Blue (⭐3.4k)](https://github.com/pret/pokered)
+*   [Pokémon Crystal (⭐1.8k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages
 
@@ -422,7 +422,7 @@ Webpage: <http://www.moustache.pt/>
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [Quack (⭐317)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+*   [Quack (⭐319)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
 ## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -550,7 +550,7 @@ git cherry -v
 
 ### Open Source Repos / Elastic Compute Cloud
 
-*   [alestic/ec2-consistent-snapshot :fire::fire: (⭐443)](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
+*   [alestic/ec2-consistent-snapshot :fire::fire: (⭐441)](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
 
 ## [38. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 

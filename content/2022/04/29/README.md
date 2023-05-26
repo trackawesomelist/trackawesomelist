@@ -49,7 +49,7 @@
 
 ### Software / Search Engines
 
-*   [Searx](https://searx.github.io/searx/) - Privacy-respecting, hackable metasearch engine. ([Demo](https://searx.space/), [Source Code (⭐13k)](https://github.com/searx/searx)) `AGPL-3.0` `Python`
+*   [Searx](https://searx.github.io/searx/) `⚠` - Privacy-respecting, hackable metasearch engine. ([Demo](https://searx.space/), [Source Code (⭐13k)](https://github.com/searx/searx)) `AGPL-3.0` `Python`
 
 ### Anti-features / Wikis
 
@@ -104,11 +104,11 @@
 
 ### Miscellaneous
 
-*   [fccf (⭐329)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
+*   [fccf (⭐333)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Science Education
+### Analogy / Democratization
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 

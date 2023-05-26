@@ -37,7 +37,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Fasterer (⭐1.6k)](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
+*   [Fasterer (⭐1.7k)](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

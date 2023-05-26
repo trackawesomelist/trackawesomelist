@@ -80,7 +80,7 @@
 
 ### Application Templates
 
-*   [Nucleus (⭐341)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐346)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Types / Playground
 
-*   [typescript-conditional-types (⭐38)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
+*   [typescript-conditional-types (⭐41)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
 
 ## [7. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -201,7 +201,7 @@
 
 ### Utility / Barcode
 
-*   [ApplyStyleKit (⭐203)](https://github.com/shindyu/ApplyStyleKit) - Elegantly, Apply style to UIKit using Method Chain.
+*   [ApplyStyleKit (⭐204)](https://github.com/shindyu/ApplyStyleKit) - Elegantly, Apply style to UIKit using Method Chain.
 
 ## [15. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [MindsDB (⭐14k)](https://github.com/mindsdb/mindsdb) - Open Source framework to streamline use of neural networks.
+*   [MindsDB (⭐16k)](https://github.com/mindsdb/mindsdb) - Open Source framework to streamline use of neural networks.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -239,8 +239,8 @@
 
 ### Audio
 
-*   [KT403A-MP3 (⭐9)](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
-*   [micropython-dfplayer (⭐33)](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
+*   [KT403A-MP3 (⭐11)](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
+*   [micropython-dfplayer (⭐35)](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
 *   [micropython-longwave (⭐6)](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 
 ### Communications / Bluetooth
@@ -249,22 +249,22 @@
 
 ### Communications / GPS
 
-*   [micropyGPS (⭐281)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
+*   [micropyGPS (⭐296)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
 *   [micropython-gnssl76l (⭐2)](https://github.com/tuupola/micropython-gnssl76l) - MicroPython I2C driver for Quectel GNSS L76-L (GPS).
 
 ### Communications / IR
 
-*   [micropython-necir (⭐13)](https://github.com/MattMatic/micropython-necir) - NEC infrared capture for TL1838 IR receiver LEDs.
+*   [micropython-necir (⭐14)](https://github.com/MattMatic/micropython-necir) - NEC infrared capture for TL1838 IR receiver LEDs.
 *   [Micropython-IR (⭐10)](https://github.com/designerPing/Micropython-IR) - Pyboard infrared remote sniff and replay.
 
 ### Communications / Radio
 
-*   [micropython-radio (⭐46)](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
+*   [micropython-radio (⭐49)](https://github.com/peterhinch/micropython-radio) - Protocols for nRF24L01 2.4GHz radio modules.
 
 ### Communications / RFID
 
-*   [micropython-mfrc522 (⭐137)](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
-*   [micropython-wiegand (⭐22)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
+*   [micropython-mfrc522 (⭐139)](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
+*   [micropython-wiegand (⭐23)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 
 ### Communications / RTC
 
@@ -273,53 +273,53 @@
 
 ### Communications / WiFi
 
-*   [HueBridge (⭐11)](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
+*   [HueBridge (⭐12)](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
 
 ### Display / E-Paper
 
-*   [micropython-waveshare-epaper (⭐237)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
+*   [micropython-waveshare-epaper (⭐254)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
 
 ### Display / LCD Character
 
 *   [Grove\_RGB\_LCD (⭐3)](https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py) - Driver for SeeedStudio's Grove RGB LCD.
-*   [lcdi2c (⭐2)](https://github.com/slothyrulez/lcdi2c) - Driver for HD44780-compatible dot matrix LCDs.
-*   [micropython-charlcd (⭐12)](https://github.com/rdagger/micropython-charlcd) - Driver for HD44780-compatible LCDs.
-*   [micropython-i2c-lcd (⭐20)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
+*   [lcdi2c (⭐3)](https://github.com/slothyrulez/lcdi2c) - Driver for HD44780-compatible dot matrix LCDs.
+*   [micropython-charlcd (⭐13)](https://github.com/rdagger/micropython-charlcd) - Driver for HD44780-compatible LCDs.
+*   [micropython-i2c-lcd (⭐23)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
 *   [pyboard-LCD-character-display (⭐1)](https://github.com/scitoast/pyboard-LCD-character-display) - Pyboar driver for HDD44780-compatible 1602 LCDs.
-*   [python\_lcd (⭐258)](https://github.com/dhylands/python_lcd) - Driver for HD44780-compatible dot matrix LCDs.
+*   [python\_lcd (⭐266)](https://github.com/dhylands/python_lcd) - Driver for HD44780-compatible dot matrix LCDs.
 
 ### Display / LCD Graphic
 
 *   [micropython-lcd-AQM1248A (⭐0)](https://github.com/forester3/micropython-lcd-AQM1248A) - ESP8266 driver for AQM1248A graphic LCD.
-*   [micropython-pcd8544 (⭐54)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
-*   [micropython-st7565 (⭐9)](https://github.com/nquest/micropython-st7565) - Driver for ST7565 128x64 LCDs.
-*   [micropython-st7920 (⭐9)](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
+*   [micropython-pcd8544 (⭐55)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
+*   [micropython-st7565 (⭐11)](https://github.com/nquest/micropython-st7565) - Driver for ST7565 128x64 LCDs.
+*   [micropython-st7920 (⭐10)](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
 *   [MicroPython\_PCD8544 (⭐3)](https://github.com/AnthonyKNorman/MicroPython_PCD8544) - ESP8266 driver for Nokia 5110 PCD8544.
 
 ### Display / LCD TFT
 
-*   [micropython-ili934x (⭐13)](https://github.com/tuupola/micropython-ili934x) - SPI driver for ILI934X series based TFT / LCD displays.
-*   [MicroPython-ST7735 (⭐113)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
+*   [micropython-ili934x (⭐15)](https://github.com/tuupola/micropython-ili934x) - SPI driver for ILI934X series based TFT / LCD displays.
+*   [MicroPython-ST7735 (⭐127)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
 *   [micropython-st7735 (⭐26)](https://github.com/hosaka/micropython-st7735) - Driver for ST7735 TFT LCDs.
 *   [MicroPython\_ST7735 (⭐22)](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
-*   [ST7735 (⭐104)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
+*   [ST7735 (⭐112)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
 
 ### Display / LED Matrix
 
 *   [micropython-ht1632c (⭐5)](https://github.com/vrialland/micropython-ht1632c) - Driver for HT1632C 32x16 bicolor LED matrix.
-*   [micropython-matrix8x8 (⭐13)](https://github.com/JanBednarik/micropython-matrix8x8) - Driver for Adafruit 8x8 LED Matrix display with HT16K33 backpack.
-*   [micropython-max7219 (⭐140)](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules.
-*   [micropython-wemos-led-matrix-shield (⭐6)](https://github.com/mactijn/micropython-wemos-led-matrix-shield) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
+*   [micropython-matrix8x8 (⭐14)](https://github.com/JanBednarik/micropython-matrix8x8) - Driver for Adafruit 8x8 LED Matrix display with HT16K33 backpack.
+*   [micropython-max7219 (⭐146)](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules.
+*   [micropython-wemos-led-matrix-shield (⭐7)](https://github.com/mactijn/micropython-wemos-led-matrix-shield) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
 *   [micropython-wemos-led-matrix (⭐1)](https://github.com/mattytrentini/micropython-wemos-led-matrix) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
 
 ### Display / LED Segment
 
 *   [LKM1638 (⭐1)](https://github.com/arikb/LKM1638) - Driver for JY-LKM1638 displays based on TM1638 controller.
-*   [max7219\_8digit (⭐15)](https://github.com/pdwerryhouse/max7219_8digit) - Driver for MAX7219 8-digit 7-segment LED modules.
+*   [max7219\_8digit (⭐18)](https://github.com/pdwerryhouse/max7219_8digit) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-max7219 (⭐4)](https://github.com/JulienBacquart/micropython-max7219) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-my9221 (⭐6)](https://github.com/mcauser/micropython-my9221) - Driver for MY9221 10-segment LED bar graph modules.
-*   [micropython-tm1637 (⭐124)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
-*   [micropython-tm1638 (⭐21)](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
+*   [micropython-tm1637 (⭐136)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
+*   [micropython-tm1638 (⭐22)](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
 *   [micropython-tm1640 (⭐12)](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 
 ### Display / LEDs
@@ -327,25 +327,25 @@
 *   [micropython-morsecode (⭐5)](https://github.com/mampersat/micropython-morsecode) - Blink an LED with Morse Coded message.
 *   [micropython-p9813 (⭐4)](https://github.com/mcauser/micropython-p9813) - Driver for P9813 RGB LED used in SeeedStudio's Grove chainable RGB LED.
 *   [micropython-ws2812-7seg (⭐1)](https://github.com/HubertD/micropython-ws2812-7seg) - 7-segment display using WS2812 RGB LEDs.
-*   [micropython-ws2812 (⭐172)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
+*   [micropython-ws2812 (⭐177)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
 *   [tlc5940-micropython (⭐4)](https://github.com/oysols/tlc5940-micropython) - Driver for TLC5940 16 channel LED driver.
 
 ### Display / OLED
 
 *   [Grove\_OLED (⭐3)](https://github.com/dda/MicroPython/blob/master/Grove_OLED.py) - Driver for SSD1327 used by SeeedStudio's Grove OLED Display 1.12" v1.0.
-*   [micropython-ssd1327 (⭐22)](https://github.com/mcauser/micropython-ssd1327) - Driver for SSD1327 128x128 4-bit greyscale OLED displays.
+*   [micropython-ssd1327 (⭐23)](https://github.com/mcauser/micropython-ssd1327) - Driver for SSD1327 128x128 4-bit greyscale OLED displays.
 *   [micropython-ssd1351 (⭐45)](https://github.com/rdagger/micropython-ssd1351) - Driver for SSD1351 OLED displays.
 *   [MicroPython\_SSD1306 (⭐6)](https://github.com/AnthonyKNorman/MicroPython_SSD1306) - ESP8266 driver for SSD1306 OLED 128x64 displays.
-*   [SH1106 (⭐111)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
+*   [SH1106 (⭐122)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 
 ### IO / ADC
 
-*   [ads1x15 (⭐67)](https://github.com/robert-hh/ads1x15) - Driver for the ADS1015/ADS1115 ADC, I2C interface.
+*   [ads1x15 (⭐72)](https://github.com/robert-hh/ads1x15) - Driver for the ADS1015/ADS1115 ADC, I2C interface.
 *   [Micropython\_ADS1115 (⭐4)](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 
 ### IO / DAC
 
-*   [micropython-mcp4725 (⭐6)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
+*   [micropython-mcp4725 (⭐7)](https://github.com/wayoda/micropython-mcp4725) - Driver for the MCP4725 I2C DAC.
 
 ### IO / IO-Expander
 
@@ -361,11 +361,11 @@
 
 ### Motion / DC Motor
 
-*   [L298N (⭐104)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
+*   [L298N (⭐112)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
 
 ### Motion / Stepper
 
-*   [micropython-upybbot (⭐74)](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
+*   [micropython-upybbot (⭐77)](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
 
 ### Sensors / Accelerometer Digital
 
@@ -381,26 +381,26 @@
 
 ### Sensors / Barometer
 
-*   [micropython-bme280 (⭐2)](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
-*   [micropython-bmp180 (⭐74)](https://github.com/micropython-IMU/micropython-bmp180) - Driver for Bosch BMP180 temperature, pressure and altitude sensor.
-*   [mpy\_bme280\_esp8266 (⭐69)](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
+*   [micropython-bme280 (⭐3)](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
+*   [micropython-bmp180 (⭐78)](https://github.com/micropython-IMU/micropython-bmp180) - Driver for Bosch BMP180 temperature, pressure and altitude sensor.
+*   [mpy\_bme280\_esp8266 (⭐70)](https://github.com/catdog2/mpy_bme280_esp8266) - Bosch BME280 temperature/pressure/humidity sensor.
 
 ### Sensors / Camera
 
-*   [micropython-ov2640 (⭐86)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
+*   [micropython-ov2640 (⭐91)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
 
 ### Sensors / Compass
 
-*   [micropython-esp8266-hmc5883l (⭐9)](https://github.com/gvalkov/micropython-esp8266-hmc5883l) - 3-axis digital compass on the ESP8266.
+*   [micropython-esp8266-hmc5883l (⭐11)](https://github.com/gvalkov/micropython-esp8266-hmc5883l) - 3-axis digital compass on the ESP8266.
 
 ### Sensors / Current
 
 *   [micropythonINA219 (⭐4)](https://github.com/kabel42/micropythonINA219) - Driver for INA219 current sensor.
-*   [pyb\_ina219 (⭐41)](https://github.com/chrisb2/pyb_ina219) - Driver for INA219 current sensor.
+*   [pyb\_ina219 (⭐45)](https://github.com/chrisb2/pyb_ina219) - Driver for INA219 current sensor.
 
 ### Sensors / Distance Ultrasonic
 
-*   [micropython-hcsr04 (⭐112)](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
+*   [micropython-hcsr04 (⭐117)](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
 
 ### Sensors / Energy
 
@@ -408,24 +408,24 @@
 
 ### Sensors / Gaseous
 
-*   [micropython-MQ (⭐18)](https://github.com/kartun83/micropython-MQ) - Drivers for MQ series gas sensors.
-*   [MQ135 (⭐32)](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
+*   [micropython-MQ (⭐19)](https://github.com/kartun83/micropython-MQ) - Drivers for MQ series gas sensors.
+*   [MQ135 (⭐33)](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
 
 ### Sensors / Light
 
-*   [MicroPython-SI1145 (⭐5)](https://github.com/neliogodoi/MicroPython-SI1145) - SI1145 UV index, IR, visible light and proximity sensor.
+*   [MicroPython-SI1145 (⭐6)](https://github.com/neliogodoi/MicroPython-SI1145) - SI1145 UV index, IR, visible light and proximity sensor.
 *   [micropython-tsl2561 (⭐3)](https://github.com/kfricke/micropython-tsl2561) - Driver for the TSL2561 illumination sensor from TAOS / ams.
-*   [mpy\_bh1750fvi\_esp8266 (⭐17)](https://github.com/catdog2/mpy_bh1750fvi_esp8266) - ESP8266 driver for BH1750FVI sensor.
+*   [mpy\_bh1750fvi\_esp8266 (⭐18)](https://github.com/catdog2/mpy_bh1750fvi_esp8266) - ESP8266 driver for BH1750FVI sensor.
 
 ### Sensors / Motion Inertial
 
 *   [micropython-bmx055 (⭐5)](https://github.com/micropython-IMU/micropython-bmx055) - Driver for Bosch BMX055 IMU sensor.
 *   [micropython-bno055 (⭐4)](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
 *   [micropython-lsm9ds0 (⭐4)](https://github.com/micropython-IMU/micropython-lsm9ds0) - LSM9DS0 g-force linear acceleration, Gauss magnetic and DPS angular rate sensors.
-*   [micropython-mpu9250 (⭐104)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
-*   [micropython-mpu9x50 (⭐218)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
-*   [MPU6050-ESP8266-MicroPython (⭐72)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
-*   [py-mpu6050 (⭐79)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
+*   [micropython-mpu9250 (⭐107)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
+*   [micropython-mpu9x50 (⭐224)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
+*   [MPU6050-ESP8266-MicroPython (⭐75)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
+*   [py-mpu6050 (⭐80)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 
 ### Sensors / Soil Moisture
 
@@ -437,12 +437,12 @@
 
 ### Sensors / Temperature Digital
 
-*   [bme680-mqtt-micropython (⭐13)](https://github.com/robmarkcole/bme680-mqtt-micropython) - Driver for BME680 gas, pressure, temperature and humidity sensor.
+*   [bme680-mqtt-micropython (⭐14)](https://github.com/robmarkcole/bme680-mqtt-micropython) - Driver for BME680 gas, pressure, temperature and humidity sensor.
 *   [LM75-MicroPython (⭐3)](https://github.com/OldhamMade/LM75-MicroPython) - Driver for LM75 digital temperature sensor, I2C interface.
 *   [micropython-am2320 (⭐23)](https://github.com/mcauser/micropython-am2320) - Aosong AM2320 temperature and humidity sensor, I2C interface.
 *   [micropython-dht12 (⭐15)](https://github.com/mcauser/micropython-dht12) - Aosong DHT12 temperature and humidity sensor, I2C interface.
 *   [micropython-hdc1008 (⭐4)](https://github.com/kfricke/micropython-hdc1008) - Driver for the Texas Instruments HDC1008 humidity and temperature sensor.
-*   [micropython-mcp9808 (⭐5)](https://github.com/kfricke/micropython-mcp9808) - Driver for the Microchip MCP9808 temperature sensor.
+*   [micropython-mcp9808 (⭐6)](https://github.com/kfricke/micropython-mcp9808) - Driver for the Microchip MCP9808 temperature sensor.
 *   [micropython-mpl115a2 (⭐2)](https://github.com/khoulihan/micropython-mpl115a2) - Pyboard driver for the MPL115A2 barometric pressure sensor.
 *   [micropython-sht30 (⭐39)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
 *   [micropython-sht31 (⭐18)](https://github.com/kfricke/micropython-sht31) - Driver for the SHT31 temperature and humidity sensor.
@@ -455,7 +455,7 @@
 
 ### Sensors / Temperature IR
 
-*   [micropython-mlx90614 (⭐25)](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
+*   [micropython-mlx90614 (⭐27)](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
 
 ### Sensors / Touch Capacitive
 
@@ -464,7 +464,7 @@
 
 ### Resources / SRAM
 
-*   [MicroPython on GitHub (⭐16k)](https://github.com/micropython/micropython) - Submit bug reports, follow and join in development on GitHub.
+*   [MicroPython on GitHub (⭐17k)](https://github.com/micropython/micropython) - Submit bug reports, follow and join in development on GitHub.
 *   [MicroPython Store](https://store.micropython.org/) - Where you can buy the Pyboard, housings, skins, books, connectors and peripherals.
 
 ### Miscellaneous / On Host
@@ -488,7 +488,7 @@
 
 ### System
 
-*   [SSH iTerm (⭐12)](https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query `~/.ssh/config` and open ssh host with iTerm badge.
+*   [SSH iTerm (⭐14)](https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query `~/.ssh/config` and open ssh host with iTerm badge.
 
 ## [23. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -517,30 +517,30 @@
 
 ### Artificial Intelligence
 
-*   [MXNet (⭐20k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more [website](https://mxnet.apache.org)
-*   [PyTorch (⭐63k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [MXNet (⭐20k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more. [website](https://mxnet.apache.org)
+*   [PyTorch (⭐67k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 
-*   [Wav2Letter++ (⭐6.2k)](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency \[BSD]
+*   [Wav2Letter++ (⭐6.2k)](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. \[BSD]
 
 ### Image Processing
 
 *   [CxImage](https://www.codeproject.com/Articles/1300/CxImage) - An image processing and conversion library to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. \[zlib]
-*   [Simd (⭐1.7k)](https://github.com/ermig1979/Simd) - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. \[MIT]
+*   [Simd (⭐1.8k)](https://github.com/ermig1979/Simd) - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. \[MIT]
 
 ### JSON
 
-*   [Jsmn (⭐3.2k)](https://github.com/zserge/jsmn) - A minimalistic JSON parser in C. \[MIT]
+*   [Jsmn (⭐3.3k)](https://github.com/zserge/jsmn) - A minimalistic JSON parser in C. \[MIT]
 
 ### Networking
 
 *   [c-ares (⭐1.6k)](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests. \[MIT]
-*   [PicoHTTPParser (⭐1.6k)](https://github.com/h2o/picohttpparser) - A tiny, primitive, fast HTTP request/response parser. \[MIT]
+*   [PicoHTTPParser (⭐1.7k)](https://github.com/h2o/picohttpparser) - A tiny, primitive, fast HTTP request/response parser. \[MIT]
 
 ### Regular Expression
 
-*   [sregex (⭐604)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
+*   [sregex (⭐603)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
 
 ## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -594,7 +594,7 @@
 
 *   [gprbuild (⭐53)](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool.
 *   [ravenadm (⭐18)](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports <http://www.ravenports.com>.
-*   [synth (⭐237)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
+*   [synth (⭐238)](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 
 ### Continuous Integration / MIT
 
@@ -640,11 +640,11 @@
 ### Verification / MIT
 
 *   [gnat-coverage (⭐27)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
-*   [spark-2014 (⭐190)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
+*   [spark-2014 (⭐189)](https://github.com/AdaCore/spark2014/) - SPARK formal verification toolset.
 
 ### Generation / MIT
 
-*   [asn1scc (⭐237)](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders.
+*   [asn1scc (⭐236)](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders.
 *   [ocarina (⭐52)](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
 *   [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 
@@ -654,7 +654,7 @@
 
 ### Algorithms, Containers and Protocols / MIT
 
-*   [ada-traits-containers (⭐24)](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
+*   [ada-traits-containers (⭐25)](https://github.com/AdaCore/ada-traits-containers) - Generic Ada Library for Algorithms and Containers.
 *   [pragmarc (⭐23)](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 *   [ada-id (⭐15)](https://github.com/anthony-arnold/AdaID) - Simple Ada library for generating UUIDs.
 *   [ada-ga (⭐2)](https://github.com/frett27/Ada-GA) - Genetic Algorithm Implementation for Ada.
@@ -679,7 +679,7 @@
 ### Format Readers and Writers / MIT
 
 *   [ada-yaml (⭐30)](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
-*   [json-ada (⭐34)](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
+*   [json-ada (⭐35)](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.
 *   [jwx (⭐15)](https://github.com/Componolit/jwx) - A formally verified JSON library in SPARK.
 *   [xmlada (⭐21)](https://github.com/AdaCore/xmlada) - The XML/Ada toolkit.
 *   [spark-xml (⭐19)](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
@@ -692,11 +692,11 @@
 
 ### Graphics and Multimedia / MIT
 
-*   [opengl-ada (⭐85)](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
+*   [opengl-ada (⭐84)](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 
 ### Sound / MIT
 
-*   [ada-synthetizer (⭐14)](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
+*   [ada-synthetizer (⭐15)](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
 
 ### Utilities / MIT
 
@@ -713,8 +713,8 @@
 
 ### Drivers / MIT
 
-*   [ada-drivers-library (⭐207)](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
-*   [dw1000 (⭐10)](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
+*   [ada-drivers-library (⭐210)](https://github.com/AdaCore/Ada_Drivers_Library) - Ada drivers for various MCU and sensors.
+*   [dw1000 (⭐11)](https://github.com/damaki/DW1000) - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
 *   [evb1000 (⭐0)](https://github.com/damaki/EVB1000) - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.
 
 ### Controllers / MIT
@@ -732,7 +732,7 @@
 *   [coffee-clock (⭐6)](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee.
 *   [noise-nugget (⭐13)](https://github.com/Fabien-Chouteau/noise-nugget) - Square Inch Synthesizer.
 *   [spark-railway-demo (⭐6)](https://github.com/Fabien-Chouteau/spark-railway-demo) - Simulated railway network in SPARK/Ada.
-*   [wee-noise-maker (⭐23)](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker is an open source pocket synthesizer.
+*   [wee-noise-maker (⭐24)](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker is an open source pocket synthesizer.
 *   [lunar-lander-rotation (⭐2)](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.
 
 ### Bindings / MIT
@@ -775,44 +775,44 @@
 
 ### Cartridges / Custom cartridges
 
-*   [Homebrew Gameboy Color Cartridge (⭐60)](https://github.com/Xyl2k/Gameboy-Color-Cartridge) - Board layout for an EEPROM powered cartridge.
+*   [Homebrew Gameboy Color Cartridge (⭐62)](https://github.com/Xyl2k/Gameboy-Color-Cartridge) - Board layout for an EEPROM powered cartridge.
 
 ### Tools / Graphics utilities
 
-*   [libstdgb (⭐10)](https://github.com/delwink/libstdgb) - A C library of useful Game Boy operations (SDCC).
+*   [libstdgb (⭐11)](https://github.com/delwink/libstdgb) - A C library of useful Game Boy operations (SDCC).
 
 ### ASM / Music drivers and trackers
 
-*   [DMGreport (⭐51)](https://github.com/lancekindle/DMGreport) - Game programming tutorials in assembly.
+*   [DMGreport (⭐52)](https://github.com/lancekindle/DMGreport) - Game programming tutorials in assembly.
 
 ### ASM / Sources
 
 *   [dev'rs ASM section](http://www.devrs.com/gb/asmcode.php) - A lot of working demos and sources.
-*   [EmmaEwert's experiments (⭐15)](https://github.com/EmmaEwert/gameboy) - A collection of prototype programs, mostly just toying around. Among others, a daylight effect, transparency and a weather effect.
+*   [EmmaEwert's experiments (⭐17)](https://github.com/EmmaEwert/gameboy) - A collection of prototype programs, mostly just toying around. Among others, a daylight effect, transparency and a weather effect.
 
 ### ASM / Syntax highlighting packages
 
 *   [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
 *   [Vim syntax file for RGBDS (⭐10)](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
-*   [Z80 Assembly support for Visual Studio Code (⭐24)](https://github.com/Imanolea/z80asm-vscode)
+*   [Z80 Assembly support for Visual Studio Code (⭐26)](https://github.com/Imanolea/z80asm-vscode)
 *   [minesweepGB (⭐9)](https://github.com/lancekindle/minesweepGB)
 *   [Libbet and the Magic Floor (⭐32)](https://github.com/pinobatch/libbet)
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer (⭐75)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
+*   [GBVideoPlayer (⭐76)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
 
 ### Reverse Engineering / Syntax highlighting packages
 
 *   [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
-*   [pokemontools (⭐300)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
+*   [pokemontools (⭐305)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 *   [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 *   [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
 *   [Reverse Engineering the GameBoy Tetris (⭐21)](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
 
 ### Related projects / Syntax highlighting packages
 
-*   [gbos (⭐21)](https://github.com/ekimekim/gbos) - A basic operating system for the Game Boy.
+*   [gbos (⭐22)](https://github.com/ekimekim/gbos) - A basic operating system for the Game Boy.
 
 ## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -838,10 +838,10 @@
 
 ### Themes
 
-*   [tmux-base16-statusline (⭐26)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐47)](https://github.com/chriskempson/base16-shell)
+*   [tmux-base16-statusline (⭐27)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐56)](https://github.com/chriskempson/base16-shell)
 *   [tmux-colors-solarized (⭐1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
 *   [tmux-themepack (⭐1.5k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
-*   [tomorrow (⭐34)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐13k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
+*   [tomorrow (⭐35)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐13k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
 
 ## [34. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -900,11 +900,11 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   [Carrier (⭐36)](https://github.com/orthecreedence/carrier) - A lightweight, async HTTP client built on top of cl-async and fast-http. [MIT](https://opensource.org/licenses/MIT).
+*   [Carrier (⭐37)](https://github.com/orthecreedence/carrier) - A lightweight, async HTTP client built on top of cl-async and fast-http. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
-*   [Xecto (⭐38)](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [Xecto (⭐39)](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Event processing / Third-party APIs
 
@@ -916,7 +916,7 @@
 
 ### Eclipse / Third-party APIs
 
-*   [Dandelion (⭐26)](https://github.com/Ragnaroek/dandelion) - a Common Lisp plugin for the Eclipse IDE.
+*   [Dandelion (⭐28)](https://github.com/Ragnaroek/dandelion) - a Common Lisp plugin for the Eclipse IDE.
 
 ## [39. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -943,7 +943,7 @@
 
 ### Web Programming • Libraries
 
-*   [Babylon.js (⭐19k)](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+*   [Babylon.js (⭐20k)](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 
 ### Other
 
@@ -964,7 +964,7 @@
 
 ### Country Data
 
-*   [validates\_zipcode (⭐124)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+*   [validates\_zipcode (⭐127)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
 ## [44. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -1035,11 +1035,11 @@
 
 *   Docker
     *   [emk/rust-musl-builder (⭐1.4k)](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
-    *   [kpcyrd/mini-docker-rust (⭐159)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
-    *   [liuchong/docker-rustup (⭐86)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
-    *   [LukeMathWalker/cargo-chef (⭐943)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [rust-cross/rust-musl-cross (⭐393)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
-    *   [rust-lang-nursery/docker-rust (⭐337)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
+    *   [kpcyrd/mini-docker-rust (⭐166)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images
+    *   [liuchong/docker-rustup (⭐88)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
+    *   [LukeMathWalker/cargo-chef (⭐1.1k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+    *   [rust-cross/rust-musl-cross (⭐444)](https://github.com/rust-cross/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
+    *   [rust-lang-nursery/docker-rust (⭐355)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
 
 ## [48. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 

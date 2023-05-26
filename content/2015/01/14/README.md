@@ -11,7 +11,7 @@
 ### Packages / Weird
 
 *   [cat-names (⭐262)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
-*   [dog-names (⭐124)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
+*   [dog-names (⭐125)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 

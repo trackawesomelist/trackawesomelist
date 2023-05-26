@@ -10,19 +10,19 @@
 
 ### Use ChatGPT Anywhere / Chatbots
 
-*   [ChatGPT Telegram Bot in AWS Lambda (⭐48)](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram Bot running in AWS Lambda. Supports voice messages & markdown rendering.
+*   [ChatGPT Telegram Bot in AWS Lambda (⭐185)](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram Bot running in AWS Lambda. Supports voice messages & markdown rendering.
 
 ### Extend ChatGPT Feature / Reverse Proxy
 
-*   [TampermonkeyUserscripts/ChatGPTVoiceInput (⭐71)](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ) (Chinese content): Tampermonkey script. ChatGPT voice input interface (supports English/Chinese/Japanese/Korean).
+*   [TampermonkeyUserscripts/ChatGPTVoiceInput (⭐125)](https://github.com/doggy8088/TampermonkeyUserscripts/blob/main/src/ChatGPTVoiceInput.user.js?fbclid=IwAR2sYE_CIOTdhNlRqaYwJ3eh-foa4O7ZHukYcc1dXLcU8IHLIDOt52gdAdQ) (Chinese content): Tampermonkey script. ChatGPT voice input interface (supports English/Chinese/Japanese/Korean).
 
 ### Applications / Reverse Proxy
 
-*   [chatgpt-action (⭐86)](https://github.com/kxxt/chatgpt-action): Github Action to let ChatGPT review PRs for you.
+*   [chatgpt-action (⭐381)](https://github.com/kxxt/chatgpt-action): Github Action to let ChatGPT review PRs for you.
 
 ### Development Tools (API, SDK) / Reverse Proxy
 
-*   [go-chatgpt (⭐22)](https://github.com/abhayptp/go-chatgpt) (Golang): An unofficial ChatGPT client in Golang.
+*   [go-chatgpt (⭐53)](https://github.com/abhayptp/go-chatgpt) (Golang): An unofficial ChatGPT client in Golang.
 
 ---
 

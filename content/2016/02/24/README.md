@@ -59,7 +59,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_fixtures (⭐167)](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
+*   [ecto\_fixtures (⭐168)](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
 
 ## [8. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

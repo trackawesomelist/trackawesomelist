@@ -10,21 +10,21 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsondiffpatch-react (⭐5)](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
+*   [jsondiffpatch-react (⭐7)](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
-*   [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐135)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐60)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐138)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐67)](https://github.com/alexyakunin/BoardGames)
 
 ### Caching
 
-*   [FusionCache (⭐449)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
+*   [FusionCache (⭐647)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 
 ### E-Commerce and Payments
 
-*   [GrandNode (⭐688)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
+*   [GrandNode (⭐753)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Math
 
-*   [NumCpp (⭐2.8k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
+*   [NumCpp (⭐2.9k)](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
 
 ---
 

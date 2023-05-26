@@ -22,7 +22,7 @@
 
 ### Downloader
 
-*   [s4cmd (⭐1.2k)](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
+*   [s4cmd (⭐1.3k)](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

@@ -56,9 +56,9 @@
 
 ### Algorithms and Data structures
 
-*   [crystalline (⭐126)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
+*   [crystalline (⭐127)](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
 *   [multiset.cr (⭐4)](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
-*   [radix (⭐100)](https://github.com/luislavena/radix) - Radix Tree implementation
+*   [radix (⭐102)](https://github.com/luislavena/radix) - Radix Tree implementation
 
 ### HTTP
 
@@ -66,7 +66,7 @@
 
 ### Template Engine
 
-*   [crustache (⭐78)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+*   [crustache (⭐80)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
 ---
 

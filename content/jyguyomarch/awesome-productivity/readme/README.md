@@ -2,7 +2,7 @@
 
 A curated list of delightful productivity resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jyguyomarch/awesome-productivity/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) · ⭐ 1.8K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jyguyomarch/awesome-productivity/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) · ⭐ 1.9K · 🏷️ Work
 
 [ [Daily](/content/jyguyomarch/awesome-productivity/README.md) / [Weekly](/content/jyguyomarch/awesome-productivity/week/README.md) / Overview ]
 
@@ -38,6 +38,7 @@ A curated list of delightful productivity resources.
 *   [ShortLib](https://shortlib.netlify.app/) - Collection of hundreds of shortcuts for Windows, Mac and Linux.
 *   [The Bullet Journal](https://bulletjournal.com/) - A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
 *   [Zen Habits](https://zenhabits.net/) - Blog by Leo Babauta with topics such as simplifying life.
+*   [Productive Fish](https://productive.fish/) - Useful articles on how to be more productive, study effectively and improve well-being.
 
 ## Books
 
@@ -56,6 +57,7 @@ A curated list of delightful productivity resources.
 *   [Nextcloud](https://nextcloud.com) - The self-hosted productivity platform that keeps you in control.
 *   [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 *   [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
+*   [Clipboard](https://getclipboard.app) - Easy-to-use local solution for saving files, folders, or text like a scratchpad.
 
 ### Note Management
 
@@ -66,7 +68,7 @@ A curated list of delightful productivity resources.
 *   [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
 *   [Yana](https://yana.js.org) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 *   [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
-*   [Preserver (⭐213)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
+*   [Preserver (⭐215)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 *   [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 *   [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 *   [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
@@ -82,7 +84,7 @@ A curated list of delightful productivity resources.
 *   [Microsoft To Do](https://todo.microsoft.com/tasks/) - Microsoft cloud-based task management application based on Wunderlist technology.
 *   [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
 *   [Paymo](https://www.paymoapp.com/) - Keep your team aligned and engaged. Manage tasks, create team schedules, track work time, and bill your clients from the same platform.
-*   [Pomolectron (⭐571)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐575)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 *   [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
 *   [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
 *   [Taskwarrior](https://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
@@ -91,7 +93,7 @@ A curated list of delightful productivity resources.
 *   [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 *   [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 *   [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
-*   [Topydo (⭐648)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+*   [Topydo (⭐672)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 *   [Trello](https://trello.com) - Kanban method task board.
 *   [Tweek](https://tweek.so) - Super Simple To Do list and Weekly Task Management.
 *   [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
@@ -104,13 +106,14 @@ A curated list of delightful productivity resources.
 *   [Everyday](https://everyday.app/) - Form new habits by doing things every day.
 *   [Habitica](https://habitica.com) - Complete your real life daily goals in a role play game (previously called *HabitRPG*).
 *   [HabitBull](https://www.habitbull.com/) - Premium habit tracker.
-*   [Loop Habit Tracker (⭐5.9k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+*   [Loop Habit Tracker (⭐6.2k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 *   [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
+*   [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
 
 ### Task Automation
 
 *   [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
-*   [Awesome AutoHotKey (⭐2.2k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
+*   [Awesome AutoHotKey (⭐2.3k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 *   [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called *recipes*) between web services in order to make the web work for you and boost your productivity.
 *   [n8n](https://n8n.io) - Open-source workflow automation for connecting web services with an option to self-host.
 *   [Qbserve](https://qotoqot.com/qbserve/) - Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
@@ -135,4 +138,5 @@ A curated list of delightful productivity resources.
 
 *   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 *   [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
+*   [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
 

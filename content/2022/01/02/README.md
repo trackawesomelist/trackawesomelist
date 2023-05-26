@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2022
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -86,7 +86,13 @@
 
 *   [Stealth](https://fbb-git.gitlab.io/stealth/) - File integrity checker that leaves virtually no sediment. Controller runs from another machine, which makes it hard for an attacker to know that the file system is being checked at defined pseudo random intervals over SSH. Highly recommended for small to medium deployments.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [QuantFinanceBook (⭐224)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
+
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 

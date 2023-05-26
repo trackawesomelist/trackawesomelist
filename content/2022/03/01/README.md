@@ -16,17 +16,17 @@
 
 ### Overview / Reddit
 
-*   [Roffline (⭐62)](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
+*   [Roffline (⭐63)](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
 
 ## [3. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Perception Pipeline
 
-*   [se(3)-TrackNet (⭐238)](https://github.com/wenbowen123/iros20-6d-pose-tracking) - A package for 6D pose tracking of dynamic objects when object's CAD model is available.
+*   [se(3)-TrackNet (⭐267)](https://github.com/wenbowen123/iros20-6d-pose-tracking) - A package for 6D pose tracking of dynamic objects when object's CAD model is available.
 
 ### Sensor Processing / Image Processing
 
-*   [AliceVision (⭐2.3k)](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms.
+*   [AliceVision (⭐2.5k)](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms.
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -38,17 +38,17 @@
 
 ### Utility
 
-*   [vaker (⭐15)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
+*   [vaker (⭐18)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Email
 
-*   [truemail-go (⭐31)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
+*   [truemail-go (⭐43)](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
 ### Web Frameworks
 
-*   [Beego (⭐29k)](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+*   [Beego (⭐30k)](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 
 ## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Theoretical Computer Science (⭐340)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
+*   [Theoretical Computer Science (⭐375)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
 
 ## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-chart (⭐44)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
+*   [yew-chart (⭐46)](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 
 ### Articles / Frameworks
 

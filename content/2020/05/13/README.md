@@ -8,7 +8,7 @@
 
 ## [1. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
-### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago)   (1989) [4.2]
+### Links / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
 *   [List of all the movies from this list on Letterboxd](https://letterboxd.com/potherca/list/the-awesome-sci-fi-list/)
 *   [List of all the novels, short story collections, and comic books from this list on Goodreads](https://www.goodreads.com/list/show/148073.The_Awesome_Sci_Fi_List)
@@ -17,7 +17,7 @@
 
 ### Calendar
 
-*   [iCal.NET (⭐656)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+*   [iCal.NET (⭐678)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ### Functional programming
 
@@ -33,7 +33,7 @@
 
 ### Misc
 
-*   [FormHelper (⭐236)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
+*   [FormHelper (⭐250)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation)
 
 ### PDF
 
@@ -55,13 +55,13 @@
 
 ### Tools / XML
 
-*   [denox (⭐137)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
+*   [denox (⭐140)](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [AppCompatProcessor (⭐169)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
+*   [AppCompatProcessor (⭐172)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
@@ -99,7 +99,7 @@ Free
 
 ### Tools / Libraries
 
-*   [Distinct Colors (⭐113)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+*   [Distinct Colors (⭐114)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
 
 ## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -117,11 +117,11 @@ Free
 
 *   [socialdog](https://social-dog.net/en/)
 
-### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### 🧩 API / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Fever API](https://feedafever.com/api)
 
-### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS-IT人 (⭐1.6k)](https://github.com/Gracker/Rss-IT) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gracker/Rss-IT)
 *   [f43.me](https://f43.me/) <sup>[590](https://t.me/s/aboutrss/590)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/j0k3r/f43.me)
@@ -195,8 +195,8 @@ Free
 
 ### Front-End Development
 
-*   [Preact (⭐746)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐83)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐759)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐84)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
@@ -204,20 +204,20 @@ Free
 
 ### Learn
 
-*   [Educational Games (⭐703)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐717)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐845)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Bluetooth Beacons (⭐851)](https://github.com/rabschi/awesome-beacon#readme)
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐248)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐256)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
-*   [Continuous Integration and Continuous Delivery (⭐1.6k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐123k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Continuous Integration and Continuous Delivery (⭐1.7k)](https://github.com/cicdops/awesome-ciandcd#readme)
+*   [Self Hosted (⭐131k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 *   [Homematic (⭐166)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -230,7 +230,7 @@ Free
 
 ### Open Source Repos / SQS
 
-*   [amazon-sqs-java-messaging-lib :fire: (⭐145)](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - Holds the Java Message Service to communicate with SQS.
+*   [amazon-sqs-java-messaging-lib :fire: (⭐150)](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - Holds the Java Message Service to communicate with SQS.
 
 ---
 

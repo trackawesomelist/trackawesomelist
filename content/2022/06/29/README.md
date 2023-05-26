@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 29, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,36 +48,30 @@
 
 *   [push-gvmi (⭐1)](https://github.com/figurestudios/push-gvmi) - A GitHub action that automatically builds and uploads the GVMI image to Golem plus a way to scrape the newest hash for local usage.
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
-
-### Authentication & Identity
-
-*   [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
-
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
 *   [Observability Engineering: Achieving Production Excellence](https://info.honeycomb.io/observability-engineering-oreilly-book-2022)
 
-## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Deepfence SecretScanner (⭐1.6k)](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+*   [Deepfence SecretScanner (⭐2.6k)](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [Deepfence PacketStreamer (⭐763)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
+*   [Deepfence PacketStreamer (⭐1.6k)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
-## [9. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
+## [8. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
 ### Recipes
 
 *   [Symfony Recipes (⭐858)](https://github.com/symfony/recipes) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 *   [Symfony Recipes (Contrib) (⭐470)](https://github.com/symfony/recipes-contrib) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
-## [10. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Tools
 

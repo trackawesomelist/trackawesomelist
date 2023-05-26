@@ -16,7 +16,7 @@
 
 ### Dataset / Web
 
-*   [The Quick, Draw! Dataset (⭐5.1k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
+*   [The Quick, Draw! Dataset (⭐5.4k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -33,7 +33,7 @@
 ### Related projects / Syntax highlighting packages
 
 *   [Work Master OS](https://translate.google.com/translate?hl=\&sl=ru\&tl=en\&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8\&sandbox=1) - Russian multi tasking operating system.
-*   [GBCamcorder (⭐81)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
+*   [GBCamcorder (⭐85)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
@@ -58,28 +58,28 @@
 
 ### Tools / Converters
 
-*   [csvtomd (⭐625)](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Dimer Markdown (⭐81)](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe") ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Torsimany (⭐54)](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [yamp (⭐27)](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [csvtomd (⭐640)](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Dimer Markdown (⭐84)](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe](https://img.icons8.com/color/24/globe.png "Globe") ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Torsimany (⭐59)](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [yamp (⭐27)](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ### Tools / Editors
 
-*   [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: *Really simple editor!* ![Android OS](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png "Android OS") ![iOS Logo](https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo") ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X")
-*   [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [MarkRight (⭐907)](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Mark Text (⭐37k)](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: *Really simple editor!* ![Android OS](https://img.icons8.com/color/24/android-os.png "Android OS") ![iOS Logo](https://img.icons8.com/color/24/ios-logo.png "iOS Logo") ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X")
+*   [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [MarkRight (⭐908)](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Mark Text (⭐40k)](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ### Tools / Miscellaneous
 
-*   [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: *Markdown notes with encryption!* ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe") ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: *Markdown notes with encryption!* ![Globe](https://img.icons8.com/color/24/globe.png "Globe") ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ### Tools / Presentations
 
-*   [mdp (⭐4.5k)](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: *Like PowerPoint and Vim but with Markdown!* ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux")
+*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: *Like PowerPoint and Vim but with Markdown!* ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux")
 
 ## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐6.7k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
+*   [Homer (⭐7k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
 
 ## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -154,6 +154,18 @@
 *   [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
 ## [17. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+
+### Arch-based distros / Specific purpose
+
+*   [BlackArch Linux](https://blackarch.org/) - *(Security/Forensics)* - An Arch Linux-based distribution designed for penetration testers and security researchers.
+*   [ArchStrike](https://archstrike.org/) - *(Security)* - A distribution for security professionals and researchers based on Arch Linux.
+*   [SystemRescueCd](http://www.system-rescue-cd.org/) - *(Data Rescue)* - An Arch-based Linux system on a bootable CD-ROM or USB drive, designed for repairing a system and data after a crash.
+*   [LinHES](http://www.linhes.org/) - *(MythTV)* - An attempt to make the installation of GNU/Linux and MythTV as trivial as possible.
+*   [UBOS](https://ubos.net/) - *(Server)* - A Linux distribution designed to greatly reduce the amount of time required to set up and maintain common network services.
+*   [TalkingArch](https://talkingarch.tk/) - *(Assistive)* - A re-spin of the Arch Linux live ISO image, modified to include speech and Braille output for blind and visually-impaired users.
+*   [BBQLinux](http://bbqlinux.org/) - *(Android Developers)* - A user-friendly Linux distribution made for Android developers.
+    It has everything on board to build AOSP or AOSP-based distributions like LineageOS or OmniROM.
+*   [RaspArch](https://sourceforge.net/projects/rasparch/) - *(Raspberry Pi/ARM)* - A “remaster” of Arch Linux ARM.
 
 ### Arch-based distros / Desktop
 
@@ -170,17 +182,6 @@
 *   [Netrunner Rolling](https://www.netrunner.com/netrunner-rolling-release/) - Manjaro/Arch Linux based distro.
 *   [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) - Lightweight, portable and flexible Linux based on Arch, Puppy, Porteus.
 *   [TeLiSc OS](https://sourceforge.net/projects/telisc-os/) - A simple GNU/Linux distribution based on Arch Linux which provides you a stable Arch Linux with i3 window manager.
-
-### Arch-based distros / Specific purpose
-
-*   [ArchStrike](https://archstrike.org/) - *(Security)* - A distribution for security professionals and researchers based on Arch Linux.
-*   [SystemRescueCd](http://www.system-rescue-cd.org/) - *(Data Rescue)* - An Arch-based Linux system on a bootable CD-ROM or USB drive, designed for repairing a system and data after a crash.
-*   [LinHES](http://www.linhes.org/) - *(MythTV)* - An attempt to make the installation of GNU/Linux and MythTV as trivial as possible.
-*   [UBOS](https://ubos.net/) - *(Server)* - A Linux distribution designed to greatly reduce the amount of time required to set up and maintain common network services.
-*   [TalkingArch](https://talkingarch.tk/) - *(Assistive)* - A re-spin of the Arch Linux live ISO image, modified to include speech and Braille output for blind and visually-impaired users.
-*   [BBQLinux](http://bbqlinux.org/) - *(Android Developers)* - A user-friendly Linux distribution made for Android developers.
-    It has everything on board to build AOSP or AOSP-based distributions like LineageOS or OmniROM.
-*   [RaspArch](https://sourceforge.net/projects/rasparch/) - *(Raspberry Pi/ARM)* - A “remaster” of Arch Linux ARM.
 
 ### SystemD-free Arch-based distros / Specific purpose
 
@@ -251,16 +252,16 @@
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐664)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐338)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐32k)](https://github.com/psf/black).
+*   [code\_formatter (⭐680)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐341)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐32k)](https://github.com/psf/black).
 *   [python-bytecode (⭐60)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
 *   [quickopen (⭐74)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐214)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐388)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐279)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
-*   [theme-darcula (⭐175)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+*   [sidecar (⭐216)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐390)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐281)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [theme-darcula (⭐178)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 *   [topbar (⭐4)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐943)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [vim (⭐942)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
 ## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -291,7 +292,7 @@
 
 ### Resources / Learning
 
-*   [Nix Shorts (⭐350)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
+*   [Nix Shorts (⭐372)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 
 ## [29. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -333,7 +334,7 @@
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐6.5k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐6.8k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 
@@ -349,19 +350,19 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-timezone-select (⭐103)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+*   [react-timezone-select (⭐142)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐306)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐309)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Device Input / Mouse Events
 
-*   [react-hook-mighty-mouse (⭐105)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
+*   [react-hook-mighty-mouse (⭐107)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐33k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐34k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ## [36. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -385,7 +386,7 @@
 
 ### Math
 
-*   [CAI NEURAL API (⭐256)](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
+*   [CAI NEURAL API (⭐287)](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
 
 ## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -408,11 +409,11 @@
 
 ### Reactive Programming / Runner
 
-*   [RxJS (⭐28k)](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
+*   [RxJS (⭐29k)](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
 
 ### Storage / Runner
 
-*   [crumbsjs (⭐232)](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
+*   [crumbsjs (⭐233)](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
 
 ## [43. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -443,43 +444,43 @@
 
 ### Web
 
-*   🔌 [React Firebase Hooks (⭐2.9k)](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
-*   🔌 [Firebase UI (⭐4.1k)](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
-*   🔌 [Firebase UI for React (⭐1.1k)](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web.
+*   🔌 [React Firebase Hooks (⭐3.2k)](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase services.
+*   🔌 [Firebase UI (⭐4.2k)](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
+*   🔌 [Firebase UI for React (⭐1.2k)](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web.
 *   🔌 [GeoFire for JavaScript (⭐1.4k)](https://github.com/firebase/geofire-js) - Realtime location queries with Firebase.
-*   💡 [FirePad (⭐3.7k)](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
-*   🔌 [Ember Fire (⭐693)](https://github.com/firebase/emberFire) - Official Ember data adapter for Firebase.
-*   🔌 [Firebase Dart (⭐408)](https://github.com/FirebaseExtended/firebase-dart) - Dart wrapper for Firebase.
-*   🔌 [PolymerFire (⭐462)](https://github.com/FirebaseExtended/polymerfire) - Polymer Web Components for Firebase.
-*   🔌 [VueFire (⭐3.3k)](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.js.
-*   🔌 [Angular Fire 2 (⭐7.3k)](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
-*   🔌 [Re-base (⭐2.2k)](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
+*   💡 [FirePad (⭐3.8k)](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
+*   🔌 [Ember Fire (⭐692)](https://github.com/firebase/emberFire) - Official Ember data adapter for Firebase.
+*   🔌 [Firebase Dart (⭐411)](https://github.com/FirebaseExtended/firebase-dart) - Dart wrapper for Firebase.
+*   🔌 [PolymerFire (⭐459)](https://github.com/FirebaseExtended/polymerfire) - Polymer Web Components for Firebase.
+*   🔌 [VueFire (⭐3.5k)](https://github.com/vuejs/vuefire) - Firebase bindings for Vue.js.
+*   🔌 [Angular Fire 2 (⭐7.4k)](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
+*   🔌 [Re-base (⭐2.1k)](https://github.com/tylermcginnis/re-base) - Relay inspired library for building React.js + Firebase applications.
 *   🔌 [React Redux Firebase (⭐2.5k)](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes Higher Order Component for use with React.
 *   🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/) - Query your Firebase data right into your statically generated pages with Gatsby.
-*   🔌 [Apollo Link Firebase (⭐413)](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
-*   🔌 [BuckleScript Bindings for Firebase (⭐43)](https://github.com/avohq/bs-firebase) - BuckleScript bindings for Firebase for use in ReasonML projects.
-*   💡 [Angular Firebase PWA (⭐922)](https://github.com/codediodeio/angular-firestarter) - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
+*   🔌 [Apollo Link Firebase (⭐412)](https://github.com/Canner/apollo-link-firebase) - Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.
+*   🔌 [BuckleScript Bindings for Firebase (⭐42)](https://github.com/avohq/bs-firebase) - BuckleScript bindings for Firebase for use in ReasonML projects.
+*   💡 [Angular Firebase PWA (⭐927)](https://github.com/codediodeio/angular-firestarter) - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
 *   🔌 [FireSQL (⭐345)](https://github.com/jsayol/FireSQL) - Query Firestore using SQL syntax. Issues the minimum amount of queries necessary in order to get the data that you request.
 *   📖 [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - Automatic deletion of older versions of your site deployments.
-*   🔌 [Firestorter (⭐375)](https://github.com/IjzerenHein/firestorter) - Use Firestore in React with zero effort, using MobX (also for react-native).
+*   🔌 [Firestorter (⭐374)](https://github.com/IjzerenHein/firestorter) - Use Firestore in React with zero effort, using MobX (also for react-native).
 *   💡 [Nextbase (⭐14)](https://github.com/martyan/nextbase) - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
 
 ### Mobile
 
 *   📖 [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - Official Firebase Flutter Setup.
 *   🔌 [NativeScript plugin Firebase (⭐1k)](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript plugin for Firebase.
-*   🔌 [React Native Firebase (⭐10k)](https://github.com/invertase/react-native-firebase) - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
-*   💡 [Expo Native Firebase (⭐208)](https://github.com/EvanBacon/expo-native-firebase) - Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database.
+*   🔌 [React Native Firebase (⭐11k)](https://github.com/invertase/react-native-firebase) - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
+*   💡 [Expo Native Firebase (⭐209)](https://github.com/EvanBacon/expo-native-firebase) - Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database.
 
 ### Mobile / Android
 
 *   🔌 [GeoFire for Java (⭐670)](https://github.com/firebase/geofire-java) - Realtime location queries with Firebase.
-*   🔌 [Firebase UI (⭐4.4k)](https://github.com/firebase/firebaseui-android) - Optimized UI components for Firebase.
+*   🔌 [Firebase UI (⭐4.5k)](https://github.com/firebase/firebaseui-android) - Optimized UI components for Firebase.
 *   🔌 [FireXtensions (⭐29)](https://github.com/rosariopfernandes/firextensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
 
 ### Mobile / iOS
 
-*   🔌 [GeoFire for Objective-C (⭐439)](https://github.com/firebase/geofire-objc) - Realtime location queries with Firebase.
+*   🔌 [GeoFire for Objective-C (⭐441)](https://github.com/firebase/geofire-objc) - Realtime location queries with Firebase.
 *   🔌 [Firebase UI (⭐1.4k)](https://github.com/firebase/firebaseui-ios) - iOS UI bindings for Firebase.
 *   💡 [MLKit - ARCore (⭐11)](https://github.com/FirebaseExtended/MLKit-ARCore) - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.
 *   💡 [MLKit - ARKit (⭐31)](https://github.com/FirebaseExtended/MLKit-ARKit) - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
@@ -487,31 +488,31 @@
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
 *   📖 [Firebase Admin Documentation](https://firebase.google.com/docs/admin/setup) - Official Firebase Admin SDK Server Setup.
-*   💡 [Functions Samples (⭐11k)](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
+*   💡 [Functions Samples (⭐12k)](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
 *   📝 [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
 *   📝 [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) - How Do I Create a Closed Funnel in Google Analytics for Firebase Using BigQuery.
 *   📹 [Official Cloud Function #Firecasts](https://www.youtube.com/watch?v=2mjfI0FYP7Y\&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM) - YouTube video series about understanding how Cloud Functions work.
 *   📝 [Firebase Hosting for Cloud Run Services](https://firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html) - Dynamic content with Hosting Rewrites & Cloud Run Services.
 *   📝 [Scheduled (Cron) Cloud Functions for Firebase](https://firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html) - Firebase-native Cron triggers for Firebase Cloud Functions.
-*   🔌 [Integrify (⭐101)](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
+*   🔌 [Integrify (⭐104)](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 
 ### CLI & Editor / iOS
 
-*   🔧 [VSCode Firebase Explorer (⭐138)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
-*   🔧 [Firebase Tools (⭐3.5k)](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
+*   🔧 [VSCode Firebase Explorer (⭐140)](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
+*   🔧 [Firebase Tools (⭐3.7k)](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
 *   🔧 [Firebase CI (⭐72)](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
 *   🔧 [Firebase Firestore Snippets (⭐13)](https://github.com/peterhdd/firebase-firestore-snippets) - Contains the snippet for both Firebase and Firestore in VS Code editor.
-*   🔧 [Fuego (⭐178)](https://github.com/sgarciac/fuego) - Firestore client CLI supporting document add/update/query with filtering and pagination.
-*   🔧 [Firestore Rules Generator (⭐190)](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
+*   🔧 [Fuego (⭐184)](https://github.com/sgarciac/fuego) - Firestore client CLI supporting document add/update/query with filtering and pagination.
+*   🔧 [Firestore Rules Generator (⭐193)](https://github.com/FirebaseExtended/protobuf-rules-gen) - Official (but experimental) Firebase Rules Generator for Cloud Firestore based on Google's Protocol Buffer format.
 *   🔧 [Firepit (⭐26)](https://github.com/abehaskins/firepit) - Firepit is a standalone, portable version of the Firebase CLI which has no depedencies (including Node.js).
-*   🔧 [Fireward (⭐222)](https://github.com/bijoutrouvaille/fireward) - Easy to use language for Firestore rules, similar to Firebase Bolt.
+*   🔧 [Fireward (⭐230)](https://github.com/bijoutrouvaille/fireward) - Easy to use language for Firestore rules, similar to Firebase Bolt.
 
 ### Other / iOS
 
-*   🔌 [FireDrill (⭐57)](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
-*   💡 [Unity Solutions (⭐115)](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
-*   🔌 [Firebase AIR Native Extension (⭐57)](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
-*   🔌 [QtFirebase (⭐256)](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
+*   🔌 [FireDrill (⭐58)](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
+*   💡 [Unity Solutions (⭐117)](https://github.com/FirebaseExtended/unity-solutions) - Use Firebase tools to incorporate common features into your games.
+*   🔌 [Firebase AIR Native Extension (⭐56)](https://github.com/myflashlab/Firebase-ANE) - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
+*   🔌 [QtFirebase (⭐269)](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
 *   📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
 *   🔧 [Flamelink](https://flamelink.io/) - CMS for Firebase. Supports Firestore, RealtimeDatabase & Storage.
 *   📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k\&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - All Firebase Summit 2018 talks.
@@ -582,20 +583,6 @@
 *   [Event Timeline Viz](https://splunkbase.splunk.com/app/4370/) - Interactive timeline with call-outs for events.
 
 ## [48. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
-
-### Operating Systems
-
-*   [BlackArch Linux](https://blackarch.org/) - Based on Arch Linux.
-*   [Android Tamer](https://androidtamer.com/) - Based on Debian.
-*   [BackBox](https://backbox.org/) - Based on Ubuntu.
-*   [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora.
-*   [Kali Linux](https://www.kali.org/) - Based on Debian.
-*   [Parrot Security OS](https://www.parrotsec.org/) - Based on Debian.
-*   [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
-*   [URIX OS](http://urix.us/) - Based on openSUSE.
-*   [Wifislax](http://www.wifislax.com/) - Based on Slackware.
-*   [Flare VM (⭐4.1k)](https://github.com/fireeye/flare-vm/) - Based on Windows.
-*   [REMnux](https://remnux.org/) - Based on Debian.
 
 ### Forensics
 
@@ -738,6 +725,19 @@
 *   [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images.
 *   [Zsteg (⭐940)](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
 
+### Operating Systems
+
+*   [Android Tamer](https://androidtamer.com/) - Based on Debian.
+*   [BackBox](https://backbox.org/) - Based on Ubuntu.
+*   [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora.
+*   [Kali Linux](https://www.kali.org/) - Based on Debian.
+*   [Parrot Security OS](https://www.parrotsec.org/) - Based on Debian.
+*   [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
+*   [URIX OS](http://urix.us/) - Based on openSUSE.
+*   [Wifislax](http://www.wifislax.com/) - Based on Slackware.
+*   [Flare VM (⭐4.1k)](https://github.com/fireeye/flare-vm/) - Based on Windows.
+*   [REMnux](https://remnux.org/) - Based on Debian.
+
 ### Tutorials
 
 *   [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits.
@@ -843,7 +843,7 @@
 
 ### E-Books / Others
 
-*   [Archives (⭐7.5k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.5k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ### Courses / Others
 
@@ -861,11 +861,11 @@
 
 ### Games
 
-*   [Binbo (⭐100)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐107)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐274)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐275)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
 ## [58. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -878,7 +878,7 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐6.7k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐7.2k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [60. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -897,7 +897,7 @@
 
 ### Email
 
-*   [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
+*   [Sender](https://www.sender.net) Up to 15 000 emails/month, up to 2,500 subscribers
 
 ## [63. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -967,7 +967,7 @@
 
 ### GUI
 
-*   [trikl (⭐137)](https://github.com/lambdaisland/trikl)
+*   [trikl (⭐142)](https://github.com/lambdaisland/trikl)
 
 ## [68. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -1109,11 +1109,11 @@
 
 ### Utilities / Window Management
 
-*   [yabai (⭐15k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐16k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
 
 ### Utilities / System Related Tools
 
-*   [Background Music (⭐13k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
+*   [Background Music (⭐14k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
 
 ## [75. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 

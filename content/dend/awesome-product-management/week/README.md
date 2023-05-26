@@ -6,11 +6,29 @@
 
 [ [Daily](/content/dend/awesome-product-management/README.md) / Weekly / [Overview](/content/dend/awesome-product-management/readme/README.md) ]
 
+## [May 15 - May 21, 2023](/content/2023/20/README.md)
+
+### Articles / Screeb
+
+*   [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - By [Zach Holman](https://zachholman.com).
+*   [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
+*   [Being Glue](https://noidea.dog/glue) - By [Tanya Reilly](https://noidea.dog/about).
+*   [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - By [Slava Akhmechet](https://www.defmacro.org).
+*   [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - By [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
+*   [Finding and Fostering Great Product Sense](https://staysaasy.com/product/2023/05/14/product-sense.html) - By [Stay SaaSy](https://staysaasy.com/about.html).
+*   [Relentlessly Resourceful](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
+*   [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
+*   [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
+*   [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
+
+### Conferences / Screeb
+
+*   [La Product Conf](https://www.laproductconf.com/) - Organized by Thiga, La Product Conf (LPC) takes place once a year with events in Paris (France) and Madrid (Spain). The speaker lineup features product leaders from Pinterest, Carrefour, Payfit, Google, Meetic and more.
+
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Articles / Screeb
 
-*   [It’s Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 *   [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - By [Ken Norton](https://www.bringthedonuts.com/).
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
@@ -108,7 +126,6 @@
 *   [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 *   [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) - By [Brandon Chu](https://medium.com/@brandonmchu).
 *   [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - By [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
-*   [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - By [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
 *   [Mastering Effective Communication as a Product Manager](https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager) - By [Sachin Rekhi](https://www.sachinrekhi.com/about).
 *   [The Top 10 Deliverables of Product Managers](https://www.sachinrekhi.com/top-10-deliverables-of-product-managers) - By [Sachin Rekhi](https://www.sachinrekhi.com/about).
 *   [Great Product Managers are “Outcome Thinkers”](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac) - By [Max Bennett](https://medium.com/@max.bennett).
@@ -185,14 +202,12 @@
 *   [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://en.wikipedia.org/wiki/Marc_Andreessen).
 *   [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 *   [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
-*   [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [Do Things that Don't Scale](http://paulgraham.com/ds.html) - By [Paul Graham](https://www.paulgraham.com/).
 *   [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - By [Brandon Chu](https://medium.com/@brandonmchu).
 *   [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://medium.com/@brandonmchu).
 *   [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://medium.com/@brandonmchu).
-*   [Understanding How The Innovator’s Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 *   [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - By [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman).
 *   [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://www.aliceboyes.com/).
 *   [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).

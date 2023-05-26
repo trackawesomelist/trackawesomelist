@@ -23,7 +23,7 @@
 
 ### Tools / Graphics utilities
 
-*   [Game Boy Tile Data Generator (⭐79)](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
+*   [Game Boy Tile Data Generator (⭐80)](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

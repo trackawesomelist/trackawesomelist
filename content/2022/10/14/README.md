@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,16 +16,16 @@
 
 ### Templates / Godot 3.5+
 
-*   [bendn's Godot Template (⭐10)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐3)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
+*   [bendn's Godot Template (⭐13)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐5)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
 
 ### Unofficial Godot builds / Godot version unknown
 
-*   [bend-n's 2D builds (⭐5)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐5)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
+*   [bend-n's 2D builds (⭐10)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled (⭐10)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
 
 ### Other / Godot version unknown
 
-*   [godot-actions (⭐9)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
-*   [Godot Package Manager (⭐3)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
+*   [godot-actions (⭐14)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
+*   [Godot Package Manager (⭐5)](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -56,8 +56,8 @@
 
 ### Media / Diagnostics
 
-*   [samodostal/image.nvim (⭐122)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
-*   [adelarsq/image\_preview.nvim (⭐41)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
+*   [samodostal/image.nvim (⭐141)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
+*   [adelarsq/image\_preview.nvim (⭐50)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
 
 ### Game / Diagnostics
 
@@ -73,17 +73,17 @@
 
 ### Code generators / Individual Podcast episodes
 
-*   [Protoc Gen Elm (⭐6)](https://github.com/andreasewering/protoc-gen-elm) - Generate Protobuf En/Decoders from .proto files
+*   [Protoc Gen Elm (⭐9)](https://github.com/andreasewering/protoc-gen-elm) - Generate Protobuf En/Decoders from .proto files
 
 ### Examples / Games
 
-*   [TheSpace App (⭐1)](https://github.com/thematters/thespace-app) - A reddit place like DApp with blockchain and canvas(through port) integration in Elm.
+*   [TheSpace App (⭐2)](https://github.com/thematters/thespace-app) - A reddit place like DApp with blockchain and canvas(through port) integration in Elm.
 
 ## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
-*   [ts-pattern (⭐4.6k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
+*   [ts-pattern (⭐6.1k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
 
 ### Libraries / Data Structures
 
@@ -94,27 +94,9 @@
 ### Applications / Emulators
 
 *   GameMaker
-    *   [OpenGMK (⭐177)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+    *   [OpenGMK (⭐193)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Bash / Non-X86
-
-*   [Linux Shell Scripting With Bash](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) - Ken O. Burtch (PDF) *(:card\_file\_box: archived)*
-
-### JavaScript / Svelte
-
-*   [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Pro Python Advanced coding techniques and tools](https://archive.org/download/python-books/Apress.Pro.Python.Advanced.Coding.Techniques.And.Tools.Jun.2010.ISBN.1430227575.pdf) - Marty Alchin (PDF) *(:card\_file\_box: archived)*
-
-### Ruby / Tornado
-
-*   [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
-
-## [13. GoBooks](/content/dariubs/GoBooks/README.md)
+## [12. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Advanced Books** / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
 

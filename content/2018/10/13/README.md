@@ -40,13 +40,13 @@
 
 ### Misc
 
-*   [Guard (⭐683)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐702)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Lenses
 
-*   [shades (⭐397)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
+*   [shades (⭐403)](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -62,7 +62,7 @@
 
 ### Open Source / Other
 
-*   [Etcher (⭐25k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
+*   [Etcher (⭐26k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source / Other
 
@@ -135,8 +135,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐196)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐523)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐202)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐530)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -144,11 +144,11 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐323)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐328)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐489)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐507)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
@@ -156,13 +156,13 @@
 
 ### Packages / Authorization
 
-*   [node-casbin (⭐2.1k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
+*   [node-casbin (⭐2.2k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
-*   [CleanArchitectureRxSwift (⭐3.6k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
+*   [CleanArchitectureRxSwift (⭐3.7k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
 
 ## [13. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

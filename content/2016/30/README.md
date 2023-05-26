@@ -86,7 +86,7 @@
 
 ### Caching
 
-*   [IdentityCache (⭐1.8k)](https://github.com/Shopify/identity_cache) - A blob level caching solution to plug into ActiveRecord.
+*   [IdentityCache (⭐1.9k)](https://github.com/Shopify/identity_cache) - A blob level caching solution to plug into ActiveRecord.
 
 ## [13. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -116,18 +116,18 @@
 
 ### Spreadsheet / Runner
 
-*   [HANDSONTABLE (⭐17k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
+*   [HANDSONTABLE (⭐18k)](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
 
 ### Machine Learning / Runner
 
-*   [DN2A (⭐464)](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
+*   [DN2A (⭐462)](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
 *   [Brain.js (⭐8k)](https://github.com/harthur/brain) - Neural networks in JavaScript.
 *   [Mind.js (⭐1.5k)](https://github.com/stevenmiller888/mind) - A flexible neural network library.
 *   [Synaptic.js (⭐6.9k)](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
 
 ### Podcasts / Other
 
-*   [How to Write an Open Source JavaScript Library (⭐174)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+*   [How to Write an Open Source JavaScript Library (⭐176)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 
 ## [16. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
@@ -404,13 +404,13 @@
 
 ### Scientific Computing
 
-*   [Trilinos (⭐847)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐877)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
 ## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
-*   [waynehoover/s3\_direct\_upload :fire::fire::fire: (⭐650)](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
+*   [waynehoover/s3\_direct\_upload :fire::fire::fire: (⭐651)](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
 
 ## [31. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -432,7 +432,7 @@
 
 ### Tools / Converters
 
-*   [HTML To Markdown for PHP (⭐1.5k)](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
+*   [HTML To Markdown for PHP (⭐1.6k)](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 *   [markdown-pdf (⭐2.5k)](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 
 ### Resources / Documentation
@@ -444,7 +444,7 @@
 
 ### Animation
 
-*   [IBAnimatable (⭐8.6k)](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+*   [IBAnimatable (⭐8.7k)](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 
 ## [35. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
@@ -462,7 +462,7 @@
 
 ### Laravel
 
-- Name: [Airflix (⭐431)](https://github.com/wells/airflix)
+- Name: [Airflix (⭐439)](https://github.com/wells/airflix)
 
   Description: A near-netflix Clone
 
@@ -507,7 +507,7 @@
 
 ### Authentication and Authorization
 
-*   [OAuth (⭐73)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
+*   [OAuth (⭐74)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 
 ### Distributed Computing
 
@@ -515,11 +515,11 @@
 
 ### Game
 
-*   [UrhoSharp (⭐454)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
+*   [UrhoSharp (⭐455)](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 
 ### Internationalization
 
-*   [MessageFormat.NET (⭐141)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+*   [MessageFormat.NET (⭐143)](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ### ORM
 
@@ -527,7 +527,7 @@
 
 ### Template Engine
 
-*   [Stubble (⭐335)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐344)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [42. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -544,7 +544,7 @@
 
 ### Algorithms and Data structures
 
-*   [merkle\_tree (⭐97)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
+*   [merkle\_tree (⭐96)](https://github.com/yosriady/merkle_tree) - A Merkle hash tree implementation in Elixir.
 *   [navigation\_tree (⭐2)](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 
 ### Build Tools
@@ -557,18 +557,18 @@
 
 ### Examples and funny stuff
 
-*   [stranger (⭐64)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
+*   [stranger (⭐66)](https://github.com/cazrin/stranger) - Elixir Phoenix app to chat anonymously with a randomly chosen stranger.
 
 ### Framework Components
 
 *   [graphql\_parser (⭐18)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser).
 *   [http\_router (⭐13)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 *   [plug\_fprof (⭐4)](https://github.com/obmarg/plug_fprof) - A Plug that adds fprof tracing to requests, to allow for easy profiling.
-*   [plug\_graphql (⭐127)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
+*   [plug\_graphql (⭐126)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 
 ### Geolocation
 
-*   [geohash (⭐24)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
+*   [geohash (⭐25)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 
 ### HTTP
 
@@ -582,7 +582,7 @@
 
 *   [ecto (⭐5.7k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
 *   [ecto\_ordered (⭐39)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
-*   [postgrex (⭐979)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
+*   [postgrex (⭐996)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 *   [sql\_dust (⭐115)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
 
 ### Queue
@@ -613,7 +613,7 @@
 
 ### Styleguides
 
-*   [rrrene/elixir-style-guide (⭐390)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.5k)](https://github.com/rrrene/credo).
+*   [rrrene/elixir-style-guide (⭐393)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.6k)](https://github.com/rrrene/credo).
 
 ## [44. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 

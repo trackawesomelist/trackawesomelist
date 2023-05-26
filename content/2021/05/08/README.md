@@ -10,7 +10,7 @@
 
 ### Languages
 
-*   [FlipJump (⭐27)](https://github.com/tomhea/flip-jump) - 1 instruction: Flip a bit, then Jump. The simplest OISC.
+*   [FlipJump (⭐39)](https://github.com/tomhea/flip-jump) - 1 instruction: Flip a bit, then Jump. The simplest OISC.
 
 ## [2. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Containers
 
-*   [C++ B-tree (⭐65)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
+*   [C++ B-tree (⭐66)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [UDcide (⭐27)](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
+*   [UDcide (⭐28)](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Packages / Application layer
 
-*   [octomap\_server2 (⭐18)](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap. Port of the ROS1 [octomap\_mapping (⭐239)](https://github.com/OctoMap/octomap_mapping) package. ![octomap\_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
+*   [octomap\_server2 (⭐29)](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap. Port of the ROS1 [octomap\_mapping (⭐254)](https://github.com/OctoMap/octomap_mapping) package. ![octomap\_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

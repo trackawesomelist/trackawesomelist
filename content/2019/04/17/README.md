@@ -44,7 +44,7 @@
 
 ### CSV / Third-party APIs
 
-*   [auto-text (⭐10)](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT](https://opensource.org/licenses/MIT). See also [inquisitor (⭐34)](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
+*   [auto-text (⭐10)](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT](https://opensource.org/licenses/MIT). See also [inquisitor (⭐33)](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
 
 ## [7. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Dataset / Web
 
-*   [StarData (⭐555)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐556)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
 ## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -78,13 +78,13 @@
 
 ### Networking
 
-*   [ZeroMQ (⭐8.3k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
+*   [ZeroMQ (⭐8.5k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL] [website](http://zeromq.org/)
 
 ## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Boilerplates / Other
 
-*   [angular-electron (⭐5.3k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+*   [angular-electron (⭐5.4k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 ## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

@@ -34,7 +34,7 @@
 
 ### Resources / Examples
 
-*   [Vue Bulma Demo (⭐48)](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
+*   [Vue Bulma Demo (⭐49)](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

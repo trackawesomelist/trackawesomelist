@@ -59,20 +59,20 @@
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐265)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐272)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 
-*   [s3tools/s3cmd :fire::fire::fire::fire::fire: (⭐4.1k)](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
+*   [s3tools/s3cmd :fire::fire::fire::fire::fire: (⭐4.2k)](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
-*   [crystal-mysql (⭐102)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐119)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-mysql (⭐104)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
+*   [crystal-sqlite3 (⭐122)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

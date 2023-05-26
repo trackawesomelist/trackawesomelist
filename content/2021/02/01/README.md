@@ -22,7 +22,7 @@
 
 ### CI / Tools & Plugins
 
-*   [JMeter Gradle Plugin (⭐52)](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
+*   [JMeter Gradle Plugin (⭐54)](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -44,17 +44,17 @@
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐127)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐140)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Red Team Infrastructure Deployment / Development
 
-*   [Axiom (⭐2.9k)](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
+*   [Axiom (⭐3.3k)](https://github.com/pry0cc/axiom) -Axiom is a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security.
 
 ### DevOps / Development
 
-*   [Trivy (⭐14k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
+*   [Trivy (⭐17k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
 
 ## [8. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -88,9 +88,9 @@
 
 ### Data Visualization / Runner
 
-*   [echarts (⭐54k)](https://github.com/apache/echarts) - Enterprise Charts.
-*   [G2 (⭐11k)](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
-*   [G2Plot (⭐2.3k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
+*   [echarts (⭐55k)](https://github.com/apache/echarts) - Enterprise Charts.
+*   [G2 (⭐12k)](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
+*   [G2Plot (⭐2.4k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 
 ## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

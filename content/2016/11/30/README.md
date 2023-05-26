@@ -1000,7 +1000,7 @@
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.4k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.5k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
 *   [dygraphs](http://dygraphs.com)
@@ -1039,7 +1039,7 @@
 *   [Textures.js](https://riccardoscalco.github.io/textures)
 *   [Tiki-toki](http://www.tiki-toki.com)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
-*   [Timeflow (⭐449)](https://github.com/FlowingMedia/TimeFlow/wiki)
+*   [Timeflow (⭐447)](https://github.com/FlowingMedia/TimeFlow/wiki)
 *   [Timeglider](http://timeglider.com/widget)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
@@ -1168,7 +1168,7 @@
 ### Offline Browsing / Telegram
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐194)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐200)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
@@ -1783,7 +1783,7 @@
 
 ### Math / Other
 
-*   [Learning Maths again (⭐187)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+*   [Learning Maths again (⭐190)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 
 ## [7. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 

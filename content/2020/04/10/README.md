@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 10, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ## [3. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Datasets / Annotated Text Data
+### Annotated Text Data / Other models
 
 *   [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) - also known as CQC or the Iowa collection, these are several thousand questions posed by physicians during office visits along with the associated answers.
 *   [BioNLP ST 2013 datasets](http://2013.bionlp-st.org/) - data from six shared tasks, though some may not be easily accessible; try the CG task set (BioNLP2013CG) for extensive entity and event annotations.
@@ -41,13 +41,11 @@
 
 *   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
 
-## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Security
+### Security / Barcode
 
-*   [SecurePropertyStorage (⭐458)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
-
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+*   [SecurePropertyStorage (⭐464)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 
 ### Converters
 
@@ -55,71 +53,71 @@
 
 ### App Routing
 
-*   [LightRoute (⭐93)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
+*   [LightRoute (⭐92)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / PHP
 
 *   [Ecotone](http://ecotone.tech) - Enables message driven architecture in PHP and provides building blocks to follow DDD and CQRS principles.
 
-## [9. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [8. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mod Loaders / Archives
 
 *   [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / DNS
 
 *   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.7k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
 
-## [11. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [10. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
 *   [How They Test (⭐5.2k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
-## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-sites / Git
 
 *   [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
 
-## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Testing
 
 *   [Detect Flaky Tests with BuildPulse (⭐7)](https://github.com/Workshop64/buildpulse-action)
 
-## [14. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [13. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Integrations
 
-*   [jest-playwright (⭐490)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐498)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐81)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐143k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐89k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
-*   [Elastic APM JS agent (⭐251)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐202)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [playwright-jest-examples (⭐87)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐147k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐91k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [Elastic APM JS agent (⭐255)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐236)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐15k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
-## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Navigation
 
-*   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [z.lua (⭐2.7k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+*   [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-hawesome-modal (⭐5)](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
+*   [vue-hawesome-modal (⭐6)](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
 
 ---
 

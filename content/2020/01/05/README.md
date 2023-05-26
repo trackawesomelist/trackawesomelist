@@ -16,7 +16,7 @@
 
 ### Productivity / Time Tracking
 
-*   [utt (⭐255)](https://github.com/larose/utt) - Simple time tracking tool.
+*   [utt (⭐273)](https://github.com/larose/utt) - Simple time tracking tool.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [CentWSL (⭐1k)](https://github.com/yuk7/CentWSL) - CentOS as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [CentWSL (⭐1.1k)](https://github.com/yuk7/CentWSL) - CentOS as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

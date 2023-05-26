@@ -10,7 +10,7 @@
 
 ### HTTP Clients
 
-*   [httplib2 (⭐457)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
+*   [httplib2 (⭐462)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
 
 ## [2. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐215)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐218)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
@@ -56,7 +56,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-js-modal (⭐4.2k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
+*   [vue-js-modal (⭐4.3k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
 ## [6. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
@@ -74,7 +74,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [boto3 :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/boto/boto3)
+*   [boto3 :fire::fire::fire::fire::fire: (⭐8.1k)](https://github.com/boto/boto3)
 
 ## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 

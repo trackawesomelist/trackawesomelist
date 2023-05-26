@@ -41,7 +41,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐3.7k)](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
+*   [pest-parser/pest (⭐3.8k)](https://github.com/pest-parser/pest) — The Elegant Parser
 
 ## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -76,12 +76,12 @@
 
 ### Multimedia
 
-*   [Vocal (⭐335)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+*   [Vocal (⭐342)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 
 ### Graphics
 
-*   [Coulr (⭐25)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+*   [Coulr (⭐26)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 
 ### Gaming
 
@@ -99,7 +99,7 @@
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐5.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐5.8k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -107,11 +107,11 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐163)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐172)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐250)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐257)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 
@@ -128,7 +128,7 @@
 
 ### Exceptions and Error Handling
 
-*   [Perseverance (⭐172)](https://github.com/grammarly/perseverance)
+*   [Perseverance (⭐174)](https://github.com/grammarly/perseverance)
 *   [Dire (⭐482)](https://github.com/MichaelDrogalis/dire)
 
 ### Archives and Compression
@@ -139,7 +139,7 @@
 
 ### Date
 
-*   [AnyDate (⭐182)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
+*   [AnyDate (⭐183)](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
 
 ## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

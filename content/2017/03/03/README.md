@@ -29,7 +29,7 @@
 ### Contents / Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
-*   [ZSON (⭐465)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
+*   [ZSON (⭐488)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
 ## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Artificial Intelligence
 
-*   [tiny-dnn (⭐5.6k)](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. \[BSD]
+*   [tiny-dnn (⭐5.7k)](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. \[BSD]
 
 ## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 

@@ -6,6 +6,14 @@ Most commonly used git tips and tricks.
 
 [ Daily / [Weekly](/content/git-tips/tips/week/README.md) / [Overview](/content/git-tips/tips/readme/README.md) ]
 
+## [May 03, 2023](/content/2023/05/03/README.md)
+
+## Undo local changes with the content in index(staging)
+
+```sh
+git checkout -- <file_name>
+```
+
 ## [May 04, 2021](/content/2021/05/04/README.md)
 
 ## Create local tag
@@ -1306,11 +1314,6 @@ curl -L http://git.io/vfhol > ~/.git-completion.bash && echo '[ -f ~/.git-comple
 
 ## [Jul 16, 2015](/content/2015/07/16/README.md)
 
-## Undo local changes with the last content in head
-
-```sh
-git checkout -- <file_name>
-```
 ## Stage parts of a changed file, instead of the entire file
 
 ```sh
@@ -1323,7 +1326,7 @@ git add -p
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)
 
-[English](http://git.io/git-tips) | [中文 (⭐14k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐586)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐965)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐20)](https://github.com/hprobotic/git-tips) | [日本語 (⭐227)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐4)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
+[English](http://git.io/git-tips) | [中文 (⭐15k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐599)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐989)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐22)](https://github.com/hprobotic/git-tips) | [日本語 (⭐226)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐5)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
 
 ### **Tools:**
 

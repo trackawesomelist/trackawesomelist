@@ -78,7 +78,7 @@
 
 ### Podcasts / Other
 
-*   [peterkokot/awesome-jquery (⭐846)](https://github.com/peterkokot/awesome-jquery)
+*   [peterkokot/awesome-jquery (⭐866)](https://github.com/peterkokot/awesome-jquery)
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

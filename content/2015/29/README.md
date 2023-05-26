@@ -54,7 +54,7 @@
 
 *   [dproto (⭐1)](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
 *   [dqe (⭐9)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
-*   [elastix (⭐250)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
+*   [elastix (⭐253)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 
 ## [6. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -79,7 +79,7 @@
 *   Generate a palette :
 *   Output the GIF using the palette :
 
-### Scripts / Youtube video to GIF
+### Scripts / YouTube video to GIF
 
 *   Download it via youtube-dl and then convert it.
 
@@ -243,7 +243,7 @@
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)
 
-[English](http://git.io/git-tips) | [中文 (⭐14k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐586)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐965)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐20)](https://github.com/hprobotic/git-tips) | [日本語 (⭐227)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐4)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
+[English](http://git.io/git-tips) | [中文 (⭐15k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐599)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐989)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐22)](https://github.com/hprobotic/git-tips) | [日本語 (⭐226)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐5)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
 
 ### **Tools:**
 
@@ -302,11 +302,6 @@ git branch -u origin/mybranch
 ```sh
 git branch -d <local_branchname>
 ```
-## Undo local changes with the last content in head
-
-```sh
-git checkout -- <file_name>
-```
 ## Changing a remote's URL
 
 ```sh
@@ -357,11 +352,11 @@ git config --global core.autocrlf false
 
 ### Game Engine
 
-*   [Panda3D (⭐3.7k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐3.9k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ### Networking
 
-*   [cpr (⭐5.3k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
+*   [cpr (⭐5.5k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -413,7 +408,7 @@ git config --global core.autocrlf false
 ### Podcasts / Other
 
 *   [willianjusten/awesome-svg (⭐4.4k)](https://github.com/willianjusten/awesome-svg)
-*   [davidsonfellipe/awesome-wpo (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo)
+*   [davidsonfellipe/awesome-wpo (⭐7.9k)](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -423,7 +418,7 @@ git config --global core.autocrlf false
 
 ### Testing
 
-*   [Shouldly (⭐1.8k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
+*   [Shouldly (⭐1.9k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 
 ## [27. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -475,7 +470,7 @@ git config --global core.autocrlf false
 
 *   [Benny Thomas (⭐0)](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
 *   [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
-*   [Matthew Mueller (⭐3)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
+*   [Matthew Mueller (⭐4)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
 *   [Hugo Giraudel (⭐42)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
 *   [Will Binns-Smith (⭐0)](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
 *   [Lauri Tervonen (⭐0)](https://github.com/mollikka/ama) - CS & SE university student in Finland.

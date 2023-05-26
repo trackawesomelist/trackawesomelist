@@ -73,7 +73,7 @@
 
 ### Packages / Weird
 
-*   [nerds (⭐100)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐102)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Pattern Matching
 
-*   [cats.match (⭐50)](https://github.com/zalando/cats.match)
+*   [cats.match (⭐51)](https://github.com/zalando/cats.match)
 
 ## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -103,7 +103,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [preact (⭐33k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+*   [preact (⭐34k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -115,11 +115,11 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Simple Bayes (⭐385)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [Simple Bayes (⭐388)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Elixir / Natural Language Processing
 
-*   [Stemmer (⭐144)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [Stemmer (⭐145)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐634)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+*   [YouTube Subtitle Download (⭐671)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ---
 

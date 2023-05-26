@@ -10,7 +10,7 @@
 
 ### Protocols
 
-*   [DNS (⭐364)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
+*   [DNS (⭐374)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
 ## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -34,27 +34,27 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Infection Monkey (⭐6k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
+*   [Infection Monkey (⭐6.2k)](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
 
 ## [6. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Editors
 
-*   [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Tools / Miscellaneous
 
-*   [GitDown (⭐440)](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
-*   [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
-*   [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [GitDown (⭐445)](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
+*   [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
+*   [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Tools / Presentations
 
-*   [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Services / Presentations
 
-*   [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Resources / Tutorials
 
@@ -64,7 +64,7 @@
 
 ### CLOS extensions
 
-*   [defclass-std (⭐34)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [defclass-std (⭐35)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ---
 

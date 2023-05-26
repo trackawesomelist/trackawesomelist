@@ -2,7 +2,7 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.6K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.7K · 🏷️ Entertainment
 
 [ [Daily](/content/sindresorhus/awesome-scifi/README.md) / [Weekly](/content/sindresorhus/awesome-scifi/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ Sci-Fi worth consuming
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy (⭐999)](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy (⭐1.1k)](https://github.com/RichardLitt/awesome-fantasy).*
 
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
@@ -265,7 +265,9 @@ This book is often given to high school students, but stands up well as an adult
 
 </details>
 
-#### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* \[4.0] 🌟 🔥
+#### [Foundation Trilogy](\[https://www.goodreads.com/book/show/29579.Foundation]\(https://www.goodreads.com/series/59386-foundation-publication-order\)) (1951) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* \[4.22 (avg)] 🌟 🔥
+
+Isaac Asimov's original "Foundation Trilogy" is a mesmerizing voyage into the realm of science fiction, presenting a grand game of 4D chess spread over centuries, propelled by the innovative concept of 'psychohistory'. Its thought-provoking exploration of power, control, and inevitability underscores its status as a seminal piece in the pantheon of sci-fi literature. - [@edoardodanna](https://github.com/edoardodanna)
 
 <details>
   <summary>Description</summary>
@@ -275,6 +277,12 @@ This book is often given to high school students, but stands up well as an adult
 > But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind’s last best hope is faced with an agonizing choice: submit to the barbarians and be overrun—or fight them and be destroyed.
 
 </details>
+
+Books:
+
+*   [Foundation](https://www.goodreads.com/book/show/29579.Foundation) \[4.2] 🔥
+*   [Foundation and Empire](https://www.goodreads.com/book/show/29581.Foundation_and_Empire) \[4.2] 🔥
+*   [Second Foundation](https://www.goodreads.com/book/show/29580.Second_Foundation) \[4.3] 🔥
 
 #### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) *by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)* \[3.7] 🌟 🔥
 
@@ -1749,7 +1757,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐999)](https://github.com/RichardLitt/awesome-fantasy).*
+*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐1.1k)](https://github.com/RichardLitt/awesome-fantasy).*
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* \[4.0]
 
@@ -3572,5 +3580,5 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
 
 ## Credit
 
-Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐3.6k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐3.7k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
 

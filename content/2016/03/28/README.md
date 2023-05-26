@@ -22,14 +22,14 @@
 
 ### Laravel
 
-- Name: [LavaliteCMS (⭐2.5k)](https://github.com/LavaLite/cms)
+- Name: [LavaliteCMS (⭐2.6k)](https://github.com/LavaLite/cms)
 
   Description: CMS built on Laravel 5.2
 
   Link: <http://www.lavalite.org>
 
 
-- Name: [Quarx (⭐494)](https://github.com/YABhq/Quarx)
+- Name: [Quarx (⭐496)](https://github.com/YABhq/Quarx)
 
   Description: A CMS for Laravel Apps
 

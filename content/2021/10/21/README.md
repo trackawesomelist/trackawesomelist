@@ -26,7 +26,7 @@
 
 ## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
-### Extensions
+### Extensions / Community
 
 *   [User-friendly file paths](https://gist.github.com/ToJans/fa18e2a7363edd24be6ad8dda2dd0232) - Use the folder and file module structure to reference to assets.
 
@@ -34,7 +34,7 @@
 
 ### File Management and Sharing
 
-*   [Sharik (⭐884)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
+*   [Sharik (⭐953)](https://github.com/marchellodev/sharik) - Sharik works with Wi-Fi connection or Tethering (Wi-Fi Hotspot). No internet connection needed. Available for Android, iOS, Linux, MacOS & Windows.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -139,13 +139,13 @@
 
 ### Others / Object detection and object tracking
 
-*   [ARHeadsetKit (⭐87)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐19)](https://github.com/philipturner/scene-color-reconstruction).
+*   [ARHeadsetKit (⭐89)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐19)](https://github.com/philipturner/scene-color-reconstruction).
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Command Line / Diagnostics
 
-*   [gelguy/wilder.nvim (⭐951)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
+*   [gelguy/wilder.nvim (⭐1k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

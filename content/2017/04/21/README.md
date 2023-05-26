@@ -67,7 +67,7 @@
 
 ## [8. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
-### Books, Blogs, Channels / Gradient boosting
+### Books, Blogs, Channels / Vector search
 
 *   [Kirk, Matthew](https://twitter.com/mjkirk).
     *Thoughtful Machine Learning: A Test-Driven Approach*. O'Reilly, 2014. <sup>\[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |

@@ -56,7 +56,7 @@
 
 ### Open Source Repos / Security
 
-*   [bridgecrewio/checkov :fire::fire::fire::fire::fire: (⭐5.3k)](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
+*   [bridgecrewio/checkov :fire::fire::fire::fire::fire: (⭐5.6k)](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
 
 ---
 

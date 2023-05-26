@@ -10,7 +10,7 @@
 
 ### Free fonts / Fonts
 
-*   [Barlow (⭐611)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
+*   [Barlow (⭐640)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 
 ### JavaScript libs / Programming fonts with ligatures
 
@@ -32,7 +32,7 @@
 
 ### Contents / Example Apps
 
-*   [Shopping List (⭐18)](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
+*   [Shopping List (⭐21)](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
 
 ## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Graphics
 
-*   [Diligent Engine (⭐2.7k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
+*   [Diligent Engine (⭐2.8k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
 
 ### Online Compiler
 
@@ -64,7 +64,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-client-python :fire::fire: (⭐350)](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
+*   [amazon-kinesis-client-python :fire::fire: (⭐351)](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
 
 ## [9. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 

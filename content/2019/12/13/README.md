@@ -22,7 +22,7 @@
 
 ### Mobile
 
-*   [rutils (⭐226)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [rutils (⭐229)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -61,14 +61,14 @@
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
-### Cloud and storage
-
-*   [CloudBank (⭐27)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
-
 ### Hosting and media
 
 *   [Peertube](https://joinpeertube.org/) is a distributed and self-hosted video player and platform that uses WebTorrent and ActivityPub.
 *   [YunoHost](https://doc.yunohost.org) is a server operating system aiming to make self-hosting accessible to everyone.
+
+### Dead
+
+*   [CloudBank (⭐28)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
 
 ## [6. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 

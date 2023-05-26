@@ -14,7 +14,7 @@
 
 ### Resources / Tutorials
 
-*   [pg-utils (⭐665)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pg-utils (⭐722)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ## [2. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -55,11 +55,11 @@
 
 ### Networking
 
-*   [librdkafka (⭐6.5k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [librdkafka (⭐6.7k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
 
 ### Reflection
 
-*   [meta (⭐466)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐475)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -67,8 +67,8 @@
 
 ### Miscellaneous
 
-*   [CPPItertools (⭐1.2k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
-*   [mio (⭐1.4k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
+*   [CPPItertools (⭐1.3k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
+*   [mio (⭐1.5k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -91,18 +91,18 @@
 
 ### Monitoring & Quality Control
 
-*   [LTC-tools (⭐56)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
+*   [LTC-tools (⭐57)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 
 ### Multimedia content processing
 
-*   [AvTranscoder (⭐152)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
+*   [AvTranscoder (⭐153)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
 *   [FFmpeg](http://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
 *   [VideoContext (⭐1.2k)](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
-*   [Voctomix (⭐544)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
+*   [Voctomix (⭐545)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
 
 ### Network & Storage Testing
 
-*   [SMPTE 2110-20 Analyzer (⭐48)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
+*   [SMPTE 2110-20 Analyzer (⭐50)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
 
 ### Software-defined radio
 
@@ -110,12 +110,12 @@
 
 ### Subtitling
 
-*   [EBU-TT-D Subtitling within dash.js (⭐12)](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js (⭐12)](https://github.com/ebu/dash.js).
+*   [EBU-TT-D Subtitling within dash.js (⭐11)](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js (⭐11)](https://github.com/ebu/dash.js).
 *   [EBU-TT Live Interoperability Toolkit (⭐23)](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
 *   [GStreamer TTML subtitling package (⭐18)](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
 *   [IRT EBU-TT-D Application Samples (⭐13)](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
 *   [Subtitling Conversion Framework (SCF) (⭐49)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
-*   [Timed Text Toolkit (ttt) (⭐72)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
+*   [Timed Text Toolkit (ttt) (⭐73)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
 
 ### Video Production
 
@@ -126,27 +126,27 @@
 
 ### Project Management
 
-*   [milestones (⭐110)](https://github.com/turbopape/milestones)
+*   [milestones (⭐111)](https://github.com/turbopape/milestones)
 
 ### Terminal UI
 
-*   [triki (⭐137)](https://github.com/lambdaisland/trikl)
-*   [zaffre (⭐96)](https://github.com/aaron-santos/zaffre)
+*   [triki (⭐142)](https://github.com/lambdaisland/trikl)
+*   [zaffre (⭐98)](https://github.com/aaron-santos/zaffre)
 *   [closh (⭐1.6k)](https://github.com/dundalek/closh)
 
 ### Graphviz
 
-*   [zipper-viz (⭐7)](https://github.com/lambdaisland/zipper-viz)
-*   [dorothy (⭐230)](https://github.com/daveray/dorothy)
-*   [viz.cljc (⭐30)](https://github.com/jebberjeb/viz.cljc)
+*   [zipper-viz (⭐8)](https://github.com/lambdaisland/zipper-viz)
+*   [dorothy (⭐236)](https://github.com/daveray/dorothy)
+*   [viz.cljc (⭐31)](https://github.com/jebberjeb/viz.cljc)
 *   [fsmviz (⭐49)](https://github.com/jebberjeb/fsmviz)
-*   [rhizome (⭐445)](https://github.com/ztellman/rhizome)
+*   [rhizome (⭐450)](https://github.com/ztellman/rhizome)
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 
-*   [mardix/flask-cloudy :fire::fire: (⭐238)](https://github.com/mardix/flask-cloudy) - Flask extension.
+*   [mardix/flask-cloudy :fire::fire: (⭐239)](https://github.com/mardix/flask-cloudy) - Flask extension.
 
 ## [10. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 

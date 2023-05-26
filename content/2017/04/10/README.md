@@ -147,7 +147,7 @@
 
 ### Misc
 
-*   [crz (⭐86)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
+*   [crz (⭐88)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
 
 ## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -158,7 +158,7 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐939)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐945)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -170,7 +170,7 @@
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐145)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐154)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 

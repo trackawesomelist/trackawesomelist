@@ -297,7 +297,7 @@
 
 ### Data Visualization / Runner
 
-*   [paper.js (⭐13k)](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
+*   [paper.js (⭐14k)](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 
 ### Number / Runner
 
@@ -336,8 +336,6 @@
 
 *   [bootstrap-tour (⭐4.4k)](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
 *   [tourist (⭐1.2k)](https://github.com/easelinc/tourist) - Simple, flexible tours for your app.
-*   [chardin.js (⭐5k)](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
-*   [pageguide (⭐911)](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
 *   [hopscotch (⭐4.2k)](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 *   [joyride (⭐1.4k)](https://github.com/zurb/joyride) - jQuery feature tour plugin.
 
@@ -357,7 +355,7 @@
 ### Form Widgets / Input
 
 *   [tag-it (⭐2.5k)](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-*   [Placeholders.js (⭐958)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
+*   [Placeholders.js (⭐955)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 *   [fancyInput (⭐1.9k)](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 *   [jQuery-Tags-Input (⭐2.3k)](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 
@@ -381,19 +379,19 @@
 
 *   [Garlic.js (⭐2.4k)](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
 *   [Countable (⭐1.6k)](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
-*   [card (⭐11k)](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
+*   [card (⭐12k)](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 
 ### Tips / Other
 
 *   [tipsy (⭐2k)](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 *   [qTip2 (⭐2k)](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 *   [tooltipster (⭐2.8k)](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
-*   [simptip (⭐651)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+*   [simptip (⭐650)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 
 ### Modals and Popups / Other
 
 *   [Magnific-Popup (⭐11k)](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
-*   [jquery-popbox (⭐427)](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
+*   [jquery-popbox (⭐426)](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
 *   [jquery.avgrund.js (⭐1.8k)](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups.
 *   [vex (⭐6.9k)](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
 *   [bootstrap-modal (⭐5k)](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
@@ -401,7 +399,7 @@
 
 ### Maps / Other
 
-*   [Leaflet (⭐36k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
+*   [Leaflet (⭐37k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
 *   [gmaps (⭐7.1k)](https://github.com/HPNeo/gmaps) - The easiest way to use Google Maps.
 *   [polymaps (⭐1.6k)](https://github.com/simplegeo/polymaps) - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
 *   [kartograph.js (⭐1.5k)](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps.

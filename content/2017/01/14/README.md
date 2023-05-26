@@ -37,7 +37,7 @@
 
 ### Configuration & Discovery / Scala
 
-*   [Microphone (⭐459)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
+*   [Microphone (⭐465)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
 *   [Registrator (⭐4.6k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 
 ## [5. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
@@ -55,13 +55,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐7k)](https://github.com/sindresorhus/np) - Better `npm publish`.
-*   [pageres (⭐9.5k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐466)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [np (⭐7.1k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [pageres (⭐9.6k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
+*   [clipboard-cli (⭐476)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 *   [Live Server (⭐4.1k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-*   [tmpin (⭐121)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐633)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [tmpin (⭐123)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
+*   [dark-mode (⭐635)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -70,16 +70,16 @@
 
 ### Packages / Logging
 
-*   [winston (⭐20k)](https://github.com/winstonjs/winston) - Multi-transport async logging library.
+*   [winston (⭐21k)](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐8.2k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
-*   [listr (⭐3.1k)](https://github.com/samverschueren/listr) - Terminal task list.
-*   [conf (⭐1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-*   [cli-truncate (⭐81)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+*   [ora (⭐8.4k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [listr (⭐3.2k)](https://github.com/samverschueren/listr) - Terminal task list.
+*   [conf (⭐1.1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+*   [cli-truncate (⭐83)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
-*   [insight (⭐552)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+*   [insight (⭐553)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
@@ -89,15 +89,15 @@
 
 ### Packages / Templating
 
-*   [marko (⭐12k)](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
-*   [nunjucks (⭐8k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+*   [marko (⭐13k)](https://github.com/marko-js/marko) - HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
+*   [nunjucks (⭐8.1k)](https://github.com/mozilla/nunjucks) - Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
 ### Packages / Control flow
 
 *   Observables
-    *   [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-    *   [observable-to-promise (⭐323)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
-    *   [More… (⭐323)](https://github.com/sindresorhus/awesome-observables)
+    *   [RxJS (⭐29k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
+    *   [observable-to-promise (⭐325)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+    *   [More… (⭐325)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -105,7 +105,7 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐7.5k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐7.7k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
@@ -113,7 +113,7 @@
 
 ### Packages / Date
 
-*   [date-fns (⭐31k)](https://github.com/date-fns/date-fns) - Modern date utility.
+*   [date-fns (⭐32k)](https://github.com/date-fns/date-fns) - Modern date utility.
 
 ### Packages / Parsing
 
@@ -122,21 +122,21 @@
 
 ### Packages / Compression
 
-*   [yazl (⭐308)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐627)](https://github.com/thejoshwolfe/yauzl) - Unzip.
-*   [decompress (⭐375)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+*   [yazl (⭐312)](https://github.com/thejoshwolfe/yazl) - Zip.
+*   [yauzl (⭐636)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [decompress (⭐385)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Packages / Database
 
 *   Drivers
     *   [PostgreSQL (⭐11k)](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
     *   [Redis (⭐12k)](https://github.com/luin/ioredis) - Redis client.
-    *   [LevelUP (⭐4k)](https://github.com/Level/levelup) - LevelDB.
+    *   [LevelUP (⭐4.1k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐587)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐198)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-    *   [Couchbase (⭐459)](https://github.com/couchbase/couchnode) - Couchbase client.
-    *   [MongoDB (⭐9.7k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+    *   [couchdb-nano (⭐596)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [Couchbase (⭐458)](https://github.com/couchbase/couchnode) - Couchbase client.
+    *   [MongoDB (⭐9.8k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
 
@@ -144,7 +144,7 @@
 
 ### Packages / Node.js management
 
-*   [nodeenv (⭐1.5k)](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
+*   [nodeenv (⭐1.6k)](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
 
 ### Packages / Natural language processing
 
@@ -157,13 +157,13 @@
 
 ### Packages / Weird
 
-*   [cows (⭐390)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐396)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐5.2k)](https://github.com/sindresorhus/execa) - Better `child_process`.
-*   [ssh2 (⭐5k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
-*   [Bottleneck (⭐1.4k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
+*   [execa (⭐5.7k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [ssh2 (⭐5.1k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
+*   [Bottleneck (⭐1.5k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 *   [clipboardy (⭐1.6k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 
 ### Resources / Tools
@@ -174,7 +174,7 @@
 
 ### Network / Docker Images for Penetration Testing & Security
 
-*   `docker-compose build && docker-compose up` - [OWASP NodeGoat (⭐1.6k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
+*   `docker-compose build && docker-compose up` - [OWASP NodeGoat (⭐1.7k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

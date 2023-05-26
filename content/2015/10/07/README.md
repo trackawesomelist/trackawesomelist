@@ -10,7 +10,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐84k)](https://github.com/angular/angular)
+*   [GitHub Repo (⭐87k)](https://github.com/angular/angular)
 
 ## [2. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
@@ -35,17 +35,17 @@
 
 ### Packages / Logging
 
-*   [console-log-level (⭐98)](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
+*   [console-log-level (⭐101)](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 
 ### Packages / Parsing
 
-*   [xml2js (⭐4.6k)](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
+*   [xml2js (⭐4.7k)](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Geolocation
 
-*   [geocalc (⭐121)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+*   [geocalc (⭐126)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 
 ## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

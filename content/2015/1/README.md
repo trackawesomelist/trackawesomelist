@@ -539,7 +539,7 @@
 
 ### Packages / Humanize
 
-*   [read-art (⭐334)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
+*   [read-art (⭐337)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
 
 ## [4. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 

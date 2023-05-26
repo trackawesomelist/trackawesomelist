@@ -16,7 +16,7 @@
 
 ### 2D / Godot 3.2+
 
-*   [Everplast (⭐39)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
+*   [Everplast (⭐43)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Examples
 
-*   [amplication/amplication (⭐9.3k)](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
+*   [amplication/amplication (⭐9.4k)](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
 
 ## [5. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Distribution
 
-*   [love-packager (⭐7)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
+*   [love-packager (⭐8)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -96,11 +96,11 @@
 
 ### Projects
 
-*   [Realworld example (⭐681)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐60k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐691)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐62k)](https://github.com/tauri-apps/tauri).
 
 ### Crates / Utils
 
-*   [Tailwind RS (⭐66)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
+*   [Tailwind RS (⭐69)](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 
 ---
 

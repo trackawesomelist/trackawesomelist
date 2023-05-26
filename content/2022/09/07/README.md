@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,7 +21,7 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [ffplayout (⭐281)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
+*   [ffplayout (⭐284)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
 
 ## [3. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [flower (⭐5.4k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
+*   [flower (⭐5.7k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 
 ## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Files and directories / Third-party APIs
 
-*   [file-notify (⭐20)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [file-notify (⭐21)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [8. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -84,29 +84,23 @@
 *   [Why can't your Blazor WebAssembly PWA with offline support update even though you reload it?](https://dev.to/j_sakamoto/why-cant-your-blazor-webassembly-pwa-with-offline-support-update-even-though-you-reload-it-31ho) - September 7, 2022 - Please imagine the case that you have a Blazor WebAssembly PWA site that supports offline mode, and you've been opening that PWA by a web browser. If you published a new version of that PWA, you might want to verify it, I guess. In this case, you will reload the page on that web browser. However, you might never see the contents of the new version unexpectedly even though you hard-reload it.
 *   [Troubleshooting .NET Blazor WASM Debugging](https://khalidabuhakmeh.com/troubleshooting-dotnet-blazor-wasm-debugging) - August 30, 2022 - Troubleshooting .NET Blazor WASM Debugging.
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Software / Self-hosting Solutions
-
-*   [Tipi (⭐5.3k)](https://github.com/meienberger/runtipi) - Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ([Demo](https://demo.runtipi.com)) `GPL-3.0` `Shell`
-
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Analogy / Science Education
+### Analogy / Democratization
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 
-## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [12. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Useful Apps / iOS
 
 *   **RaspController** - Allows you to easily manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal and so much more. [iOS](https://apps.apple.com/app/raspcontroller/id1584315865)
 
-## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
-*   🔧 [FireSageJS (⭐0)](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
+*   🔧 [FireSageJS (⭐4)](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
 
 ---
 

@@ -14,7 +14,7 @@
 
 ### Utilities / Productivity
 
-*   [Pomodoro Cycle (⭐65)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+*   [Pomodoro Cycle (⭐69)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -26,21 +26,21 @@
 
 ### CLI Builders
 
-*   [Keimeno (⭐14)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
+*   [Keimeno (⭐15)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 
 ## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Drag and Drop
 
-*   [react-drag-sizing (⭐14)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+*   [react-drag-sizing (⭐15)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 
 ### Form Components / Rich Text Editor
 
-*   [react-editor (⭐54)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
+*   [react-editor (⭐55)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-threejs (⭐76)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
+*   [react-threejs (⭐77)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Databases
 
-*   [Database Tools (⭐2.8k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐2.9k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
 ## [8. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

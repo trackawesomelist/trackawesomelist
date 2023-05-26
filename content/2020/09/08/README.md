@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,9 +20,9 @@
 
 ## [3. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Techniques / Language Models
+### Language Models / BERT models
 
-*   [BlueBERT (⭐429)](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
+*   [BlueBERT (⭐473)](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -34,13 +34,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-router-tab (⭐425)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-router-tab (⭐437)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
-*   [definject (⭐50)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
+*   [definject (⭐52)](https://github.com/definject/definject) - Unobtrusive dependency injector for Elixir.
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -360,36 +360,30 @@
 
 ### Events
 
-*   [Tokamak (⭐2k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
+*   [Tokamak (⭐2.1k)](https://github.com/TokamakUI/Tokamak) - React-like declarative API for building native UI components with easy to use one-way data binding.
 
 ### Fonts
 
-*   [SwiftUI-FontIcon (⭐81)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
+*   [SwiftUI-FontIcon (⭐88)](https://github.com/huybuidac/SwiftUIFontIcon) - Font icons for SwiftUI: font awesome, ionicons, material icons.
 
-## [11. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
-
-### Utilities
-
-*   [LibreSelery (⭐119)](https://github.com/protontypes/libreselery) - Automated Bitcoin distribution to your project contributors and dependencies integrated into GitHub Actions.
-
-## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Template
 
-*   [VS Code ROS2 Workspace Template (⭐448)](https://github.com/athackst/vscode_ros2_workspace) -  Template for using VSCode as an IDE for ROS2 development.
+*   [VS Code ROS2 Workspace Template (⭐568)](https://github.com/athackst/vscode_ros2_workspace) -  Template for using VSCode as an IDE for ROS2 development.
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [cl-ssh-keys (⭐13)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-ssh-keys (⭐14)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-bcrypt (⭐10)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   see also [cl-pass (⭐25)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 
 ### Python
 
-*   [burgled-batteries (⭐107)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
+*   [burgled-batteries (⭐108)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -399,60 +393,60 @@
 
 *   [Moira (⭐25)](https://github.com/TBRSS/moira) -  Monitor and restart background threads. In-lisp process supervisor. [MIT](https://opensource.org/licenses/MIT).
 
-## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
-*   [gooey-react (⭐578)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+*   [gooey-react (⭐580)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
-## [15. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   Python
-    *   [by @nryoung (⭐2.9k)](https://github.com/nryoung/algorithms)
+    *   [by @nryoung (⭐2.8k)](https://github.com/nryoung/algorithms)
     *   [by @prakhar1989 (⭐2.9k)](https://github.com/prakhar1989/Algorithms)
-    *   [by @laurentluce (⭐264)](https://github.com/laurentluce/python-algorithms)
-    *   [by @nbro (⭐50)](https://github.com/nbro/ands)
+    *   [by @laurentluce (⭐265)](https://github.com/laurentluce/python-algorithms)
+    *   [by @nbro (⭐51)](https://github.com/nbro/ands)
     *   [by @keon (⭐22k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐615)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐622)](https://github.com/vinta/fuck-coding-interviews)
 
-## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain and distributed web technologies to deliver educational content, even to those without broadband internet. [Source (⭐5)](https://github.com/edchainio/edchain-client-gui)
 *   [QuestNetwork Messenger (⭐22)](https://github.com/QuestNetwork/quest-messenger-js) - Multi-Platform End-To-End Encrypted Messenger on IPFS PubSub. Emulates Servers/Community with folders that can be shared using invitation codes. It's free and open source. On track to become the most comprehensive and user-friendly messenger on IPFS.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [terraform-operator](https://github.com/isaaguilar/terraform-operator.git) - A Kubernetes CRD to handle Terraform operations.
 
-## [18. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Analytics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Plausible Analytics](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/plausible/analytics) - Simple, lightweight (< 1 KB) and privacy-friendly web analytics. Hosted in the EU.
 
-## [19. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [18. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
-*   🔧 [Firecode (⭐35)](https://github.com/ChFlick/firecode) -  VS Code Firestore Rules Extension.
-*   🔧 [VSFire (⭐75)](https://github.com/toba/vsfire) - Deprecated ~~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~~
+*   🔧 [Firecode (⭐34)](https://github.com/ChFlick/firecode) -  VS Code Firestore Rules Extension.
+*   🔧 [VSFire (⭐74)](https://github.com/toba/vsfire) - Deprecated ~~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~~
 
-## [20. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [19. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Game Development
 
-*   [crystal-chipmunk (⭐39)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-chipmunk (⭐40)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
+*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐47k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 
 ### GUI Development
 
-*   [crystal-imgui (⭐54)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐55)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐47k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
 ---
 

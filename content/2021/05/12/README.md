@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [vite-template-react (⭐41)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+*   [vite-template-react (⭐53)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 
 ## [2. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Localization and State Estimation / Lidar and Point Cloud Processing
 
-*   [libRSF (⭐172)](https://github.com/TUC-ProAut/libRSF) - A robust sensor fusion library for online localization.
+*   [libRSF (⭐180)](https://github.com/TUC-ProAut/libRSF) - A robust sensor fusion library for online localization.
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -94,15 +94,15 @@
 
 ### Computer Science
 
-*   [Machine Learning (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Machine Learning (⭐59k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
     *   [Tutorials (⭐13k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
     *   [ML with Ruby (⭐1.9k)](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-    *   [Core ML Models (⭐5.7k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-    *   [H2O (⭐341)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+    *   [Core ML Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
+    *   [H2O (⭐345)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
     *   [Software Engineering for Machine Learning (⭐1.1k)](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
-    *   [AI in Finance (⭐1.7k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
-    *   [JAX (⭐893)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
-    *   [XAI (⭐66)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+    *   [AI in Finance (⭐1.8k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+    *   [JAX (⭐948)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+    *   [XAI (⭐79)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 
 ## [8. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Graphics / TikZ
 
-*   [tikzplotlib (⭐2k)](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [tikzplotlib (⭐2.1k)](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ---
 

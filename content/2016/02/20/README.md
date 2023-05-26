@@ -100,7 +100,7 @@
 
 ### Scripting
 
-*   [ChakraCore (⭐8.8k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
+*   [ChakraCore (⭐8.9k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
 
 ### Compiler
 

@@ -51,26 +51,25 @@
 
 ### Application Libraries
 
-*   [Core (⭐961)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐214)](https://github.com/janestreet/core_kernel).
-*   [Minicli (⭐27)](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
+*   [Core (⭐1k)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐214)](https://github.com/janestreet/core_kernel).
+*   [Minicli (⭐28)](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
 
 ### User Interface
 
-*   [lablqml (⭐149)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+*   [lablqml (⭐156)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐299)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
+*   [Notty (⭐315)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
 ### Security and Cryptography
 
-*   [cryptokit (⭐87)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
+*   [cryptokit (⭐88)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
-*   [remote-jobs (⭐23k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
-*   [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
+*   [remote-jobs (⭐25k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 
 ---
 

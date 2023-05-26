@@ -22,7 +22,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐305)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐314)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
@@ -48,11 +48,11 @@
 
 ### Build Automation and Package management
 
-*   [shadow-cljs (⭐2k)](https://github.com/thheller/shadow-cljs) (Clojurescript)
+*   [shadow-cljs (⭐2.1k)](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
 ### Pattern Matching
 
-*   [Meander (⭐789)](https://github.com/noprompt/meander)
+*   [Meander (⭐866)](https://github.com/noprompt/meander)
 
 ## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -68,11 +68,11 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐83)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐87)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
-*   [Kyapchar (⭐58)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kyapchar (⭐62)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -82,13 +82,19 @@
 
 *   [Microsoft To-Do](https://todo.microsoft.com/) - Microsoft's successor to Wunderlist. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/de/app/microsoft-to-do/id1274495053?mt=12)
 
-## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+
+### Open Source Repos / Kinesis
+
+*   [amazon-kinesis-client-nodejs :fire::fire: (⭐287)](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
+
+## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Services / Misc
 
 *   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 
-## [10. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [11. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -98,13 +104,13 @@
 
 *   [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - Deep dive into surface projection and hidden line removal using Python and penplot.
 
-## [11. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [12. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Miscellaneous / Others
 
 *   [Morsify](https://morsify.net) - Online Morse code translator.
 
-## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [13. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / Go
 
@@ -114,20 +120,20 @@
 
 *   [Python Developer Jobs](https://pythonjob.xyz)
 
-## [13. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [14. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
-    (Python, MIT, [GitHub (⭐1.6k)](https://github.com/PyWavelets/pywt))
+    (Python, MIT, [GitHub (⭐1.7k)](https://github.com/PyWavelets/pywt))
 
-## [14. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [15. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tools
 
 *   [salt-lint (⭐121)](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
 
-## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [16. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Official Links / PGF/TikZ
 
@@ -143,7 +149,7 @@
 *   [PlotNeuralNet (⭐18k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 *   [awesome-latex-drawing (⭐913)](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Persistent object databases
 
@@ -152,43 +158,43 @@
 
 ### HTTP clients / Interfaces to other package managers
 
-*   [fast-http (⭐330)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-http (⭐331)](https://github.com/fukamachi/fast-http) - A fast HTTP request/response parser for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Interfaces to other package managers
 
 *   [zaserve (⭐7)](https://github.com/gendl/aserve) - A portable fork of AllegroServe, by Franz Inc.  [LLGPL](http://opensource.franz.com/preamble.html).
-*   [cl-http2-protocol (⭐103)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-http2-protocol (⭐102)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT](https://opensource.org/licenses/MIT).
 
 ### HTTP Servers / Hunchentoot plugins
 
 *   [hunchentoot-cgi (⭐5)](https://github.com/slyrus/hunchentoot-cgi) - a library for executing CGI scripts from the hunchentoot webserver. [BSD](https://opensource.org/licenses/bsd-license.php).
-*   [hunchentoot-multi-acceptor (⭐5)](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/) - Route multiple domains (virtual hosts) on a single hunchentoot acceptor using a single port. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [hunchentoot-multi-acceptor (⭐6)](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/) - Route multiple domains (virtual hosts) on a single hunchentoot acceptor using a single port. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Javascript / Isomorphic web frameworks
 
 *   ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See [Trident-mode (⭐68)](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence](http://unlicense.org/).
-    *   [paren6 (⭐20)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
+    *   [paren6 (⭐21)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
 
 ### Others / Third-party APIs
 
-*   [avm (⭐51)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
+*   [avm (⭐52)](https://github.com/takagi/avm) - Efficient and expressive arrayed vector math library with multi-threading and CUDA support. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
-*   [cl-coroutine (⭐57)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-coroutine (⭐58)](https://github.com/takagi/cl-coroutine) - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT](https://opensource.org/licenses/MIT).
 
 ### Actors pattern / Third-party APIs
 
-*   [erlangen (⭐64)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [erlangen (⭐63)](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 *   [Actors (⭐9)](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT](https://opensource.org/licenses/MIT).
-*   [common-lisp-actors (⭐98)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [common-lisp-actors (⭐99)](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 *   [memento-mori (⭐30)](https://github.com/zkat/memento-mori)-  a library for writing robust, actor-based systems. It draws inspiration from Erlang/OTP, particularly its crash-first approach to high-availability systems, as well as Akka. [MIT](https://opensource.org/licenses/MIT).
 
 ### Date and time / Third-party APIs
 
 *   [calendar-date (⭐8)](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT](https://opensource.org/licenses/MIT).
 
-## [17. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [18. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### General Purpose
 
@@ -204,20 +210,20 @@
     [Repo (⭐1.2k)](https://github.com/getbase/base)
     \| #SCSS #LESS
 
-## [18. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [19. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Lazy K](https://tromp.github.io/cl/lazy-k.html) - Minimal, turing-complete pure functional language without extra features.
 *   [Orca](https://hundredrabbits.itch.io/orca) - Livecoding environment to quickly create procedural audio sequencers.
-*   [Unlambda](http://www.madore.org/\~david/programs/unlambda) - Obfuscated functional programming.
+*   [Unlambda](http://www.madore.org/~david/programs/unlambda) - Obfuscated functional programming.
 
 ### Articles
 
 *   [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) - Post by Yevgeniy Brikman describing different programming paradigms that are not commonly applied.
 *   [The Fun (and Madness) of Esoteric Programming Languages](https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages) - Straightforward introduction to esoteric languages with examples.
 
-## [19. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [20. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Design Patterns and Anti Patterns
 
@@ -246,7 +252,7 @@
 *   [Process starvation](https://en.wikipedia.org/wiki/Starvation_\(computer_science\)) - A problem where a process is perpetually denied resources to do its work.
 *   [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - Stepping back in time through source code to understand execution and sometimes even to change history.
 
-## [20. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [21. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Germany 🇩🇪
 
@@ -265,13 +271,13 @@ Topics: Clojure, Web Apps, Security\
 Topics: CSS, CSS in JS, React\
 <https://twitter.com/robinweser>
 
-## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Conferences & Meetups
 
 *   [ADDO - All Day DevOps](https://www.alldaydevops.com/) - A 24 hour conference that is completely online and free.
 
-## [22. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [23. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Philosophy And Psychology
 
@@ -285,25 +291,25 @@ Topics: CSS, CSS in JS, React\
 
 
 
-## [23. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [24. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Open source code
 
 *   [Canvas Quiz (⭐39)](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
 
-## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [25. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
 
-## [25. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [26. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Terminal / Extensions
 
 *   [hss (⭐305)](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
 
-## [26. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
+## [27. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
 ### Resources / Official Resources
 
@@ -314,13 +320,13 @@ Topics: CSS, CSS in JS, React\
 
 *   [Start Imba (⭐22)](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect that was inspired by Create React App and Vue CLI.
 
-## [27. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Websites and Resources
 
 *   [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 
-## [28. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [29. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### General / UX
 
@@ -331,7 +337,7 @@ Topics: CSS, CSS in JS, React\
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connects amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
-## [29. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [30. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Conferences and Events / North America
 
@@ -341,7 +347,7 @@ Topics: CSS, CSS in JS, React\
 
 *   [AWS Tool Arsenal (⭐7.7k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
 
-## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [31. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -356,38 +362,38 @@ Topics: CSS, CSS in JS, React\
 *   [Optimizing Image Element Thresholds](https://appiumpro.com/editions/90)
 *   [Getting Started With Appium For Android On Windows](https://appiumpro.com/editions/91)
 
-## [31. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [32. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Anti Forensics (⭐233)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
+*   [Awesome Anti Forensics (⭐352)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 
-## [32. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Data Structures and Modeling
 
 *   [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices (as of 2018) of structuring your data if your database uses JSON.
 
-## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [34. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Graphics / Image Conversion
 
-*   [pastel (⭐4.4k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
+*   [pastel (⭐4.5k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
-## [34. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [35. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Posts
 
 *   [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 *   [Accessibility 101: Introduction To Disability And Accessibility](https://www.youtube.com/watch?v=qM7wFZo5yfI) - By Jenny Lay-Flurrie.
 
-## [35. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [36. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2019
 
 *   [Una Kravets: **CSS Houdini & The Future of Styling**](https://www.youtube.com/watch?v=GhRE3rML9t4) \[25:42]
 
-## [36. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [37. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Build Systems
 
@@ -499,7 +505,7 @@ Topics: CSS, CSS in JS, React\
 *   [libnfc (⭐1.3k)](https://github.com/nfc-tools/libnfc) - Platform-independent Near-Field Communication library. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 *   [ncurses](https://www.gnu.org/software/ncurses/) - Coloured terminal UI library. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 
-## [37. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [38. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
@@ -525,7 +531,7 @@ Topics: CSS, CSS in JS, React\
 *   [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 *   [Arm - PerfDoc (⭐112)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 
-## [38. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [39. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@ashfurrow](https://github.com/ashfurrow), [Moya (⭐14k)](https://github.com/moya/moya)
     *   "Building Open Source Communities" ([slides](https://speakerdeck.com/ashfurrow/building-open-source-communities))
@@ -535,16 +541,6 @@ Topics: CSS, CSS in JS, React\
     *   "Maintainer, heal thyself" ([video](https://www.youtube.com/watch?v=iFgSvLUzQSU), [slides](https://hzoo.github.io/maintainer-heal-thyself/assets/player/KeynoteDHTMLPlayer.html#0))
     *   "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
     *   "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_\&v=_iToM2KC0QE), [slides](https://hzoo.github.io/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
-
-## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
-
-### Open Source Repos / CloudFormation
-
-*   [Stelligent/cfn\_nag :fire::fire::fire: (⭐1.1k)](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
-
-### Open Source Repos / Kinesis
-
-*   [amazon-kinesis-client-nodejs :fire::fire: (⭐283)](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
 
 ## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -624,7 +620,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Open Source / Casual
 
-*   [Bob Box](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+*   [Bob Box (⭐38)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 
 ### Open Source / Endless Runner
 
@@ -691,7 +687,7 @@ Topics: CSS, CSS in JS, React\
 ### Official Resources
 
 *   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐6.8k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [GitHub Repository (⭐7k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 *   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 *   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 
@@ -781,11 +777,11 @@ Topics: CSS, CSS in JS, React\
 
 ### CLI
 
-*   [Lyra (⭐395)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐405)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Web Application Framework
 
-*   [C++ REST SDK (⭐7.2k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
+*   [C++ REST SDK (⭐7.4k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
 
 ### Static Code Analysis
 
@@ -893,28 +889,28 @@ Topics: CSS, CSS in JS, React\
 
 ### Tools / Converters
 
-*   [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ### Tools / Editors
 
-*   [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Boostnote](https://boostnote.io/) - A markdown editor for developers. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Trilium Notes (⭐18k)](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Joplin](https://joplinapp.org/) - An open source note taking and to-do application with synchronisation capabilities. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows") ![iOS Logo](https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo") ![Android OS](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png "Android OS")
-*   [Visual Studio Code](https://code.visualstudio.com/) - An open source code editor with built-in markdown preview and many markdown extensions. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Quiver](http://happenapps.com/) - A notebook built for programmers. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![iOS Logo](https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo")
-*   [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![iOS Logo](https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo")
+*   [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Boostnote](https://boostnote.io/) - A markdown editor for developers. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Trilium Notes (⭐21k)](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Joplin](https://joplinapp.org/) - An open source note taking and to-do application with synchronisation capabilities. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows") ![iOS Logo](https://img.icons8.com/color/24/ios-logo.png "iOS Logo") ![Android OS](https://img.icons8.com/color/24/android-os.png "Android OS")
+*   [Visual Studio Code](https://code.visualstudio.com/) - An open source code editor with built-in markdown preview and many markdown extensions. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Quiver](http://happenapps.com/) - A notebook built for programmers. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![iOS Logo](https://img.icons8.com/color/24/ios-logo.png "iOS Logo")
+*   [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![iOS Logo](https://img.icons8.com/color/24/ios-logo.png "iOS Logo")
 
 ### Tools / Linters
 
-*   [markdownlint (⭐666)](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
+*   [markdownlint (⭐755)](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
 
 ### Tools / Miscellaneous
 
-*   [markcat (⭐34)](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: *`cat` with Markdown highlight.* ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
-*   [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
-*   [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [markcat (⭐41)](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: *`cat` with Markdown highlight.* ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
+*   [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
+*   [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Services / Presentations
 
@@ -928,7 +924,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Messaging
 
-*   [PeerLinks](https://peerlinks.io) is a MIT licensed distributed group messaging platform with a focus on building trust networks between people and explicit invites to the channels. At the moment there is a [nodejs library (⭐196)](https://github.com/peerlinks/peerlinks), [Desktop Client (⭐196)](https://github.com/peerlinks/peerlinks).
+*   [PeerLinks](https://peerlinks.io) is a MIT licensed distributed group messaging platform with a focus on building trust networks between people and explicit invites to the channels. At the moment there is a [nodejs library (⭐197)](https://github.com/peerlinks/peerlinks), [Desktop Client (⭐197)](https://github.com/peerlinks/peerlinks).
 
 ### Uncategorised
 
@@ -955,7 +951,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Automation
 
-*   [HRConvert2 (⭐428)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
+*   [HRConvert2 (⭐677)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -963,7 +959,7 @@ Topics: CSS, CSS in JS, React\
 
 ### Software / Groupware
 
-*   [HRCloud2 (⭐185)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
+*   [HRCloud2 (⭐192)](https://github.com/zelon88/HRCloud2) - Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more. `GPL-3.0` `PHP`
 
 ### Software / Polls and Events
 
@@ -1009,16 +1005,16 @@ Topics: CSS, CSS in JS, React\
 
 ### Command Line
 
-*   [SwiftShell (⭐977)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
+*   [SwiftShell (⭐984)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 
 ### Dependency Injection
 
-*   [DIKit (⭐95)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
+*   [DIKit (⭐97)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
 
 ### Quality / Barcode
 
-*   [SwiftCop (⭐543)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐6.4k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
+*   [SwiftFormat (⭐6.6k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [73. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -1117,7 +1113,7 @@ Topics: CSS, CSS in JS, React\
 
 ### ORM/ODM Extensions
 
-*   [crecto (⭐341)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
+*   [crecto (⭐342)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
 ## [78. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

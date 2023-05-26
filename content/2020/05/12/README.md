@@ -1,6 +1,6 @@
 # Awesome List Updates on May 12, 2020
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -86,7 +86,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐435)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐474)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -98,7 +98,13 @@
 
 *   [ItemMarket](https://item.market/) - Decentralised platform where everyone can tokenize, sell and buy somebody's in-game items in the form of tokens. ([read more](https://medium.com/wavesprotocol/item-market-is-launched-cabefe915c04))
 
-## [12. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+
+### Logging / Barcode
+
+*   [Gedatsu (⭐522)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+
+## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Virtual Machines
 
@@ -108,7 +114,7 @@
 
 *   [Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 
-## [13. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md)
+## [14. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md)
 
 ### Third-party packages / Package discovery
 
@@ -117,19 +123,15 @@
 
 ### Third-party packages / Notable packages
 
-*   [schlessera/wp-cli-psysh (⭐19)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
+*   [schlessera/wp-cli-psysh (⭐21)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
-
-### Logging
-
-*   [Gedatsu (⭐520)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Analytics
 
 *   [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
@@ -137,19 +139,19 @@
 *   [infura.io](https://infura.io) - An Infrastructure: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
 *   [IPFS Image Uploader](https://ipfs.talaikis.com/) - IPFS image uploader and viewer. Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. [Source (⭐28)](https://github.com/TalaikisInc/ipfs-uploader)
 
-## [16. Awesome List](/content/sindresorhus/awesome/README.md)
+## [17. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Hardware
 
-*   [Plotters (⭐821)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+*   [Plotters (⭐837)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 
-## [17. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [18. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Videos / Help
 
 *   [Robert Feranec](https://www.youtube.com/user/matarofe) - 100+ Hardware design tips and tricks. Videos about Schematic design and PCB layout.
 
-## [18. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [19. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Streaming Sites / Free Indexers
 
@@ -159,7 +161,7 @@
 
 *   [BlockTheSpot (⭐5.7k)](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 
-## [19. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [20. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

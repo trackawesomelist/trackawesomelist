@@ -27,7 +27,7 @@
 
 ### Third Party APIs
 
-*   [parse\_client (⭐4)](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
+*   [parse\_client (⭐5)](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 *   [simplex (⭐3)](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 
 ## [4. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)

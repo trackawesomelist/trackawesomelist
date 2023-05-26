@@ -41,7 +41,7 @@
 
 ### Frameworks
 
-*   [ETL (⭐1.5k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
+*   [ETL (⭐1.6k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
 
 ---
 

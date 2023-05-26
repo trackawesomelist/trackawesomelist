@@ -10,7 +10,7 @@
 
 ### Applications / Database
 
-*   [ParityDB (⭐182)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
+*   [ParityDB (⭐201)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Misc / Other
 
-*   [iooxa (⭐139)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
+*   [iooxa (⭐155)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 
 ## [6. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
@@ -84,12 +84,12 @@
 
 ### Migration tools
 
-*   [cl-migratum (⭐37)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [postmodern-passenger-pigeon (⭐5)](https://github.com/fisxoj/postmodern-passenger-pigeon/) - a migration manager for postmodern. No licence specified.
+*   [cl-migratum (⭐40)](https://github.com/dnaeon/cl-migratum) - a system which provides facilities for performing database schema migrations, designed to work with various databases. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [postmodern-passenger-pigeon (⭐6)](https://github.com/fisxoj/postmodern-passenger-pigeon/) - a migration manager for postmodern. No licence specified.
 
 ### Web frameworks / Clack plugins
 
-*   [cl-rest-server (⭐59)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-rest-server (⭐60)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
@@ -137,7 +137,7 @@
 
 ### Languages
 
-*   [INTERCAL](http://www.catb.org/\~esr/intercal) - Parody language intended to be completely different from other languages.
+*   [INTERCAL](http://www.catb.org/~esr/intercal) - Parody language intended to be completely different from other languages.
 *   [TrumpScript (⭐7.5k)](https://github.com/samshadwell/TrumpScript) - Make Python great again.
 
 ## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
@@ -156,7 +156,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [xclip-xsel-WSL (⭐50)](https://github.com/Konfekt/xclip-xsel-WSL) -  Make `xclip` and `xsel` in `WSL` read and write on the Windows instead of the Linux clipboard.
+*   [xclip-xsel-WSL (⭐55)](https://github.com/Konfekt/xclip-xsel-WSL) -  Make `xclip` and `xsel` in `WSL` read and write on the Windows instead of the Linux clipboard.
     . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [20. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
@@ -176,7 +176,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Gazette (⭐460)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
+*   [Gazette (⭐464)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
 ## [23. Public Apis](/content/public-apis/public-apis/README.md)
 

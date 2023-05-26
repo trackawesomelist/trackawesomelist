@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 22, 2014
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,11 +11,11 @@
 ### Actors
 
 *   [exos (⭐75)](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
-*   [sbroker (⭐158)](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
+*   [sbroker (⭐160)](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
 
 ### Authentication
 
-*   [aws\_auth (⭐64)](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
+*   [aws\_auth (⭐65)](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
 
 ### Email
 
@@ -55,12 +55,6 @@
 *   [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind
 *   [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.
 *   [murder (⭐2.5k)](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com
-
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### XML
-
-*   [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. \[Boost]
 
 ---
 

@@ -36,7 +36,7 @@
 
 ### Mathematics
 
-*   [Microsoft Automatic Graph Layout (⭐1.2k)](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
+*   [Microsoft Automatic Graph Layout (⭐1.3k)](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
 
 ## [4. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

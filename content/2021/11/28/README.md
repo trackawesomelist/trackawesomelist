@@ -16,7 +16,7 @@
 
 ### Honeypots / Supply chain security
 
-*   [Manuka (⭐281)](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
+*   [Manuka (⭐293)](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
@@ -24,13 +24,13 @@
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [CobaltStrikeScan (⭐771)](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
+*   [CobaltStrikeScan (⭐787)](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Hybrid
 
-*   [BlazorInAngularDemo (⭐20)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
+*   [BlazorInAngularDemo (⭐22)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
 
 ## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -42,16 +42,16 @@
 
 ### Charts
 
-*   [MicroCharts ★1052 (⭐1.8k)](https://github.com/microcharts-dotnet/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
+*   [MicroCharts ★1052 (⭐1.9k)](https://github.com/microcharts-dotnet/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 
 ### MVVM
 
-*   [MVVMLight (⭐1.1k)](https://github.com/lbugnion/mvvmlight) - Cross-platform MVVM development framework.
+*   [MVVMLight (⭐1.2k)](https://github.com/lbugnion/mvvmlight) - Cross-platform MVVM development framework.
 
 ### Xamarin.Forms
 
-*   [Xamarin.Forms.Skeleton (⭐318)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) - The latest trend for loading approaches in Xamarin Forms apps. Skeleton can be easily implemented on each view contained in your Xaml.
-*   [MaterialDesignControlsPlugin (⭐214)](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin) - MaterialDesignControls Plugin for Xamarin Forms is a collection of Xamarin.Forms controls that apply the Material Design Guidelines.
+*   [Xamarin.Forms.Skeleton (⭐381)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) - The latest trend for loading approaches in Xamarin Forms apps. Skeleton can be easily implemented on each view contained in your Xaml.
+*   [MaterialDesignControlsPlugin (⭐229)](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin) - MaterialDesignControls Plugin for Xamarin Forms is a collection of Xamarin.Forms controls that apply the Material Design Guidelines.
 
 ### Websites
 

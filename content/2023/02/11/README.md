@@ -16,8 +16,8 @@
 
 ### Data conversion tools
 
-*   [gpxstudio (⭐308)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
-*   [img2geojson (⭐10)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
+*   [gpxstudio (⭐370)](https://github.com/gpxstudio/gpxstudio.github.io) - Online and open source GPX file editor.
+*   [img2geojson (⭐12)](https://github.com/caseymm/img2geojson/) - Drag an image onto a map, trace the paths you need, and export as GeoJSON.
 
 ### Helpers
 
@@ -25,7 +25,7 @@
 *   [epsg.io](https://github.com/maptiler/) - Website to discover and transform coordinate systems from all over the world.
 *   [geojson-random-generator (⭐5)](https://github.com/erick-otenyo/geojson-random-generator) - Generate and download random GeoJSON quickly for testing.
 *   [histogrand (⭐1)](https://github.com/hhkaos/histogrand) - Random value generator according to customized histograms.
-*   [mercator-geographic-converter (⭐2)](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
+*   [mercator-geographic-converter (⭐3)](https://github.com/hhkaos/mercator-geographic-converter/) - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
 
 ### Map and data exploration
 
@@ -42,7 +42,7 @@
 
 ### Health and Social Science
 
-*   [Digital Humanities (⭐91)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+*   [Digital Humanities (⭐103)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 ## [5. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -54,8 +54,8 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/neodev.nvim (⭐951)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
-*   [nvim-neorocks/luarocks-tag-release (⭐13)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
+*   [folke/neodev.nvim (⭐1.2k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
+*   [nvim-neorocks/luarocks-tag-release (⭐16)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ## [7. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
@@ -85,9 +85,9 @@
 
 *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
-*   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
+*   [Kvm (⭐19)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
 *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-*   [Qemu\_procfs (⭐22)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+*   [Qemu\_procfs (⭐25)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
 *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 
 ### Optics and Extra Info / Unikernel-like

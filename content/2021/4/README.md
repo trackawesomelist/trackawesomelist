@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2021
 
-63 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,15 +34,15 @@
 
 ### Platforms
 
-*   [DOS (⭐308)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+*   [DOS (⭐335)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Twitter
 
-*   [Nitter (⭐6.8k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
+*   [Nitter (⭐6.9k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
     *   Official instance: [nitter.net](https://nitter.net)
-    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐6.8k)](https://github.com/zedeus/nitter/wiki/Instances)
+    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐6.9k)](https://github.com/zedeus/nitter/wiki/Instances)
     *   Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
 ### Overview / Reddit
@@ -51,43 +51,37 @@
 
 ### Overview / Hacker News
 
-*   [HN-search (⭐455)](https://github.com/algolia/hn-search): Algolia Hacker News search
+*   [HN-search (⭐457)](https://github.com/algolia/hn-search): Algolia Hacker News search
     *   Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity\&page=0\&dateRange=last24h\&type=all)
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Standard ML / Play Scala
-
-*   [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
-
-## [6. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-vben-admin (⭐16k)](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
+*   [vue-vben-admin (⭐18k)](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-pwa (⭐1.8k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+*   [vite-plugin-pwa (⭐2k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 
 ### Rollup Plugins / Covered by default in Vite
 
-*   [@rollup/plugin-babel (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
-*   [@rollup/plugin-buble (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
-*   [@rollup/plugin-data-uri (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
-*   [@rollup/plugin-html (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
-*   [@rollup/plugin-node-resolve (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
-*   [@rollup/plugin-sucrase (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
-*   [@rollup/plugin-wasm (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
-*   [@rollup/plugin-url (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+*   [@rollup/plugin-babel (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
+*   [@rollup/plugin-buble (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
+*   [@rollup/plugin-data-uri (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
+*   [@rollup/plugin-html (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
+*   [@rollup/plugin-node-resolve (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
+*   [@rollup/plugin-sucrase (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
+*   [@rollup/plugin-wasm (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
+*   [@rollup/plugin-url (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-eslint (⭐3.1k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
-*   [@rollup/plugin-legacy (⭐3.1k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
-*   [@rollup/plugin-yaml (⭐3.1k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+*   [@rollup/plugin-eslint (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
+*   [@rollup/plugin-legacy (⭐3.2k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
+*   [@rollup/plugin-yaml (⭐3.2k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
 
-## [7. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [6. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Casual
 
@@ -99,23 +93,23 @@
 *   Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
     By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
-*   [Another Redis Desktop Manager (⭐25k)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://directory.apache.org/sources.html)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Another Redis Desktop Manager (⭐26k)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://directory.apache.org/sources.html)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
-*   [oneDNN (⭐3.1k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
+*   [oneDNN (⭐3.2k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
 
 ### Machine Learning
 
-*   [oneDAL (⭐545)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+*   [oneDAL (⭐559)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 
-## [10. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [9. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### Design tools
 
@@ -123,20 +117,20 @@
 *   [Marvel](https://marvelapp.com/) - Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. Placing the power of design in everyone’s hands.
 *   [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
 
-## [11. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [10. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Uncategorized
 
 *   [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
 *   [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/) - A quick introduction to data.table. The main objective is to present the data.table syntax, showing how to perform basic, but essential, data wrangling tasks. Author: Atrebas.
 
-## [12. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [11. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Farm Management Systems and Record Keeping
 
 *   [Soil Mate (⭐8)](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
 
-## [13. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [12. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
@@ -162,20 +156,20 @@
 
 *   [Plugging Into JAX by Nick Doiron](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - Compares Flax, Haiku, and Objax on the Kaggle flower classification challenge.
 
-## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / I/O
 
 *   [agcom/knio2 (⭐2)](https://github.com/agcom/knio2) - Kotlinx coroutines extensions for Java NIO.2
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [ipfs.ink (⭐108)](https://github.com/kpcyrd/ipfs.ink) - Publish and render markdown essays to and from ipfs.
 *   [Watchit (⭐265)](https://github.com/ZorrillosDev/watchit-desktop) - A movie platform with a decentralized network approach.
 
-## [16. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -190,41 +184,35 @@
 
 *   [Social Media Awareness Toolkit](https://www.smat-app.com/about) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smat-project) - An open and intuitive way to scrutinize what’s trending on internet platforms.
 
-## [17. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [16. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
-*   [no-constructor-bind (⭐10)](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - Encourages use of class properties by reporting use of `this` with `bind` or setting state in constructors.
+*   [no-constructor-bind (⭐11)](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - Encourages use of class properties by reporting use of `this` with `bind` or setting state in constructors.
 
 ### Plugins / Style
 
 *   [const case](https://www.npmjs.com/package/eslint-plugin-const-case) - Enforce capitalization of constant primitive literals.
-*   [editorconfig (⭐8)](https://github.com/platinumazure/eslint-plugin-editorconfig) - Derive rules from [`.editorconfig`](https://editorconfig.org/).
+*   [editorconfig (⭐10)](https://github.com/platinumazure/eslint-plugin-editorconfig) - Derive rules from [`.editorconfig`](https://editorconfig.org/).
 
 ### Tools / Testing Tools
 
-*   [generator-eslint (⭐182)](https://github.com/eslint/generator-eslint) - Generate ESLint
+*   [generator-eslint (⭐196)](https://github.com/eslint/generator-eslint) - Generate ESLint
     plugin and rules with [Yeoman](http://yeoman.io/).
 
-## [18. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Text
-
-*   [TwitterTextEditor (⭐2.8k)](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
-
-## [19. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [17. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
-*   [tmux-piavpn (⭐6)](https://github.com/Brutuski/tmux-piavpn) Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
+*   [tmux-piavpn (⭐7)](https://github.com/Brutuski/tmux-piavpn) Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
 
-## [20. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [18. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Text Editors Language Support
 
 *   Emacs: [pico8-mode (⭐21)](https://github.com/Kaali/pico8-mode)
 
-## [21. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [19. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Rust
 
@@ -315,20 +303,14 @@ Language: English
 Notable Channels: `#general`, `#ideas-and-feedback`, `#content`, `#help` \
 Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano, português, 日 本語, français, español, Türkçe, Nederlands, русский, हिन्दी, বাংলা, Czech, bahasa Indonesia, Pilipino
 
-## [22. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
-
-### Tools / Vendor supported providers
-
-*   [Cloudrail (⭐22)](https://github.com/indeni/cloudrail-demo) - Terraform and Live Cloud context-based analysis tool for terraform>=0.12 :heavy\_dollar\_sign:
-
-## [23. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Ada Lovelace Day](https://findingada.com/) [iTunes](https://podcasts.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
 *   [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - British podcast about Software Testing practices
 
-## [24. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [21. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
@@ -355,7 +337,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 *   [Just keeping it real... old skool style - Scali's OpenBlog](https://scalibq.wordpress.com/2011/11/23/just-keeping-it-real-old-skool-style/) - Blog post about Scali's journey of doing CGA, EGA and VGA programming.
 *   [Alex Russell's Dos Game Programming in C for Beginners](https://web.archive.org/web/20201112023702/http://www3.telus.net/alexander_russell/course/introduction.htm) - DOS game programming tutorial series including a primer on C, graphics, animation, input handling and collision detection. This series contains a tutorial for making [buffered input handling](https://web.archive.org/web/20200203195410/http://www3.telus.net/alexander_russell/course/chapter_4.htm). Last chapter contains full source code of a Break Out game on DOS.
 *   [The Artevida Game Programming Tutorials](http://web.archive.org/web/20201031021650/http://atrevida.comprenica.com/) - Kevin Matz's almost book-length treatment of DOS system programming and VGA programming fundamentals using C/C++ and 80x86 assembly. Unfortunately it is incomplete and was abandoned since 2001.
-*   [PC Game Programmer's Encyclopedia](https://web.archive.org/web/20201111164240/http://bespin.org/\~qz/pc-gpe/) - Collection of guides covering assembly, sound (Sound Blaster, Gravis UltraSound, PC Speaker, GameBlaster, Adlib), input, memory (EMS, XMS, DMA Transfers), PIT, VGA, SVGA, algorithms and file formats.
+*   [PC Game Programmer's Encyclopedia](https://web.archive.org/web/20201111164240/http://bespin.org/~qz/pc-gpe/) - Collection of guides covering assembly, sound (Sound Blaster, Gravis UltraSound, PC Speaker, GameBlaster, Adlib), input, memory (EMS, XMS, DMA Transfers), PIT, VGA, SVGA, algorithms and file formats.
 *   [The Art of Demomaking by flipcode](http://web.archive.org/web/20190123060222/http://www.flipcode.com/archives/The_Art_of_Demomaking-Issue_02_Introduction_To_Computer_Graphics.shtml) - Series from 1999 that introduces to graphics programming under DOS. The home site contains other late 90s/early 2000s game programming articles as well.
 *   [Programming MS-DOS with Power - DOS Programming, Undocumented DOS, and DOS Secrets](http://web.archive.org/web/20200626182822/http://www.fysnet.net/) - System programming tutorials like disk handling, interrupts, inputs, sound, graphics.
 
@@ -366,7 +348,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Video
 
-*   [Values for standard video mode](https://web.archive.org/web/20200214123701/http://www.columbia.edu/\~em36/wpdos/videomodes.txt) - List of all known video modes including BIOS interrupt numbers, text/pixel resolution, number of colors and video memory addresses.
+*   [Values for standard video mode](https://web.archive.org/web/20200214123701/http://www.columbia.edu/~em36/wpdos/videomodes.txt) - List of all known video modes including BIOS interrupt numbers, text/pixel resolution, number of colors and video memory addresses.
 
 ### Video / CGA
 
@@ -387,8 +369,8 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Sound / PC Speaker
 
-*   [Making some noise with the PC speaker! - by Mark Feldman](https://web.archive.org/web/20150302161648/http://heim.ifi.uio.no/\~inf3150/grupper/1/pcspeaker.html) - Very short tutorial on using the PIT for generating PC speaker frequency.
-*   [Frequencies of Musical Notes](https://web.archive.org/web/20201129091353/https://pages.mtu.edu/\~suits/notefreqs.html) - Freqency table usable to parameterize the PC speaker.
+*   [Making some noise with the PC speaker! - by Mark Feldman](https://web.archive.org/web/20150302161648/http://heim.ifi.uio.no/~inf3150/grupper/1/pcspeaker.html) - Very short tutorial on using the PIT for generating PC speaker frequency.
+*   [Frequencies of Musical Notes](https://web.archive.org/web/20201129091353/https://pages.mtu.edu/~suits/notefreqs.html) - Freqency table usable to parameterize the PC speaker.
 *   [Sound Programming with PC Speaker - Chapter 23 of A to Z of C](https://web.archive.org/web/20171115162742/http://guideme.itgo.com/atozofc/ch23.pdf) - PC speaker programming chapter of the "A to Z of C" book with source code.
 
 ### Sound / AdLib/OPL2
@@ -398,8 +380,8 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Sound / Sound Blaster/OPL3
 
-*   [Programmer's Guide to the Yamaha YMF 262/OPL3 FM Music Synthesizer](https://web.archive.org/web/20200509082459/http://www.fit.vutbr.cz/\~arnost/opl/opl3.html) - Reverse-engineered reference on OPL3.
-*   [Sound Blaster 16 Programming Document 3.5 by Ethan Brodsky](https://web.archive.org/web/20201130110457/http://homepages.cae.wisc.edu/\~brodskye/sb16doc/sb16doc.html) - Programming the Sound Blaster 16 DSP CT1341 chip for recording and playback of digitized audio.
+*   [Programmer's Guide to the Yamaha YMF 262/OPL3 FM Music Synthesizer](https://web.archive.org/web/20200509082459/http://www.fit.vutbr.cz/~arnost/opl/opl3.html) - Reverse-engineered reference on OPL3.
+*   [Sound Blaster 16 Programming Document 3.5 by Ethan Brodsky](https://web.archive.org/web/20201130110457/http://homepages.cae.wisc.edu/~brodskye/sb16doc/sb16doc.html) - Programming the Sound Blaster 16 DSP CT1341 chip for recording and playback of digitized audio.
     *   version 3.4 on [GameDev.net archive](https://web.archive.org/web/20180507161514/http://archive.gamedev.net/archive/reference/articles/article444.html)
 *   [Soundblaster Programming Information v0.90](https://web.archive.org/web/20191020222313/http://www.intel-assembler.it/portale/5/soundblaster-programming-information/sb-reference-for-programming-sound.asp) - List of Sound Blaster models and registers.
 
@@ -426,29 +408,29 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 ### Open source DOS libraries / Sound Blaster/OPL3
 
 *   [Allegro 4.2](https://www.allegro.cc/files/?v=4.2) - Game development library for DOS, Windows and Linux.
-*   [LoveDOS (⭐633)](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
+*   [LoveDOS (⭐641)](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 *   [DOS-VGA-Game (⭐11)](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
 
 ### Homebrew games with source code / Sound Blaster/OPL3
 
-*   [DOS Defender (⭐111)](https://github.com/skeeto/dosdefender-ld31) - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
-*   [Dungeons of Noudar (⭐36)](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
+*   [DOS Defender (⭐113)](https://github.com/skeeto/dosdefender-ld31) - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
+*   [Dungeons of Noudar (⭐37)](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
 *   [Emeritus Pong](https://sourceforge.net/projects/empong/) - Pong clone for DOS, Windows and Linux. Uses PC speaker for sound on DOS.
-*   [Floppy Bird (⭐879)](https://github.com/icebreaker/floppybird) - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
-*   [George M. Tzoumas's collection of MS-DOS games and utilities](http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/\~geotz/dos/) - Turbo Pascal with few games in C and C++. Games include Nibbles, Connect Four, Ms Pacman clone and two arcade/platform games. One of them (ra2) was written using Allegro. Utilities are all written in Turbo Pascal, these include game system routines, file and disk utilities and terminate-and-stay-resident programs (TSR).
+*   [Floppy Bird (⭐885)](https://github.com/icebreaker/floppybird) - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
+*   [George M. Tzoumas's collection of MS-DOS games and utilities](http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/~geotz/dos/) - Turbo Pascal with few games in C and C++. Games include Nibbles, Connect Four, Ms Pacman clone and two arcade/platform games. One of them (ra2) was written using Allegro. Utilities are all written in Turbo Pascal, these include game system routines, file and disk utilities and terminate-and-stay-resident programs (TSR).
 *   [Gridfighter 3D](https://porta2note.itch.io/gridfighter-3d) - '80s style arcade shooter written in Quickbasic. Also the very first known DOS game that supports Oculus Rift VR headset.
     *   [GitHub repository (⭐3)](https://github.com/porta2note/gridfighter3d)
 *   [Hangman](https://sourceforge.net/projects/hangman-dos/) - Hangman clone written in Basic. Runs on at least 80286 processors and uses EGA graphics.
 *   [Magenta's Maze](https://archive.org/details/MAGSMAZE) - 3D maze game using CGA graphics with algebra as theme.
     *   [Source code download link](http://www.doshaven.eu/downloads/537)
-*   [NetHack (⭐2.2k)](https://github.com/NetHack/NetHack) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
+*   [NetHack (⭐2.3k)](https://github.com/NetHack/NetHack) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 *   [Piskworks (⭐8)](https://github.com/berk76/piskworks) - Gomoku clone written in C. Works on DOS, ZX Spectrum, ZX81, ZX80, APPLE1, AS400 and Windows.
 *   [Ptakovina (⭐14)](https://github.com/berk76/tetris) - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
 *   [sudoku86](https://sourceforge.net/projects/sudoku86/) - Sudoku clone written in C. Runs on 8086/8088 CPU, uses CGA, MCGA or VGA graphics and uses a mouse.
 *   [Tetris](http://www.doshaven.eu/game/tetris/) - Tetris clone written in assembly.
     *   [Source code download link](http://www.doshaven.eu/downloads/373)
-*   [Towers of Hanoi (⭐3)](https://github.com/sblendorio/hanoi-dos) - [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) puzzle game written in Turbo Pascal. Originally released in 1996.
-*   [x86 pong (⭐8)](https://github.com/spacerace/x86-pong) - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
+*   [Towers of Hanoi (⭐4)](https://github.com/sblendorio/hanoi-dos) - [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) puzzle game written in Turbo Pascal. Originally released in 1996.
+*   [x86 pong (⭐7)](https://github.com/spacerace/x86-pong) - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
 *   [zmiy](https://sourceforge.net/projects/zmiy/) - Text-mode Snake clone written in C. Runs on 8086 DOS.
 
 ### Freeware games with source code / Sound Blaster/OPL3
@@ -464,29 +446,29 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 *   [Beneath a Steel Sky](https://web.archive.org/web/20200721064209/https://www.classicdosgames.com/game/Beneath_a_Steel_Sky.html) - Point-and-click adventure game set in a dystopian future. Written in assembly.
     *   [Source code download link](https://web.archive.org/web/20200721083621/https://www.classicdosgames.com/files/source/sky-source.zip)
 *   [Catacomb (⭐135)](https://github.com/CatacombGames/Catacomb) - 2D top-down shooter developed by Softdisk (later becoming id Software). Supports EGA and CGA graphics. Written in Turbo Pascal and assembly.
-*   [Catacomb 3D (⭐176)](https://github.com/CatacombGames/Catacomb3D) - First-person shooter in fantasy setting developed by Softdisk (later becoming id Software). Features pseudo-3D graphics with raycasting technique. Supports EGA graphics. Written in C and assembly. Compiled with Borland C++ 3.1.
+*   [Catacomb 3D (⭐181)](https://github.com/CatacombGames/Catacomb3D) - First-person shooter in fantasy setting developed by Softdisk (later becoming id Software). Features pseudo-3D graphics with raycasting technique. Supports EGA graphics. Written in C and assembly. Compiled with Borland C++ 3.1.
 *   [Commander Keen in Keen Dreams (⭐1.9k)](https://github.com/keendreams/keen) - Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered "Keen 3.5"), but was not widely released. Written in C and assembly.
-*   [Descent (⭐333)](https://github.com/videogamepreservation/descent) - First sci-fi FPS/space shooter to feature entirely true 3D graphics. Written in C and assembly.
-*   [Descent II (⭐67)](https://github.com/videogamepreservation/descent2) - Sequel to Descent. Written in C and assembly.
-*   [Doom (⭐9.8k)](https://github.com/id-Software/DOOM) - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
+*   [Descent (⭐341)](https://github.com/videogamepreservation/descent) - First sci-fi FPS/space shooter to feature entirely true 3D graphics. Written in C and assembly.
+*   [Descent II (⭐72)](https://github.com/videogamepreservation/descent2) - Sequel to Descent. Written in C and assembly.
+*   [Doom (⭐10k)](https://github.com/id-Software/DOOM) - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
 *   [Duke Nukem 3D](https://web.archive.org/web/20190304015745/https://www.classicdosgames.com/game/Duke_Nukem_3D.html) - FPS developed by Apogee featuring the iconic character Duke Nukem. Written in C. Compiled with Watcom C/C++ 10.0.
     *   [Source code download link](https://web.archive.org/web/20160403223736/http://www.classicdosgames.com/files/source/duke3dsource.zip)
-*   [Heretic (⭐32)](https://github.com/OpenSourcedGames/Heretic) - Dark fantasy FPS running on id Software's Doom engine.
-*   [Hovertank 3D (⭐223)](https://github.com/FlatRockSoft/Hovertank3D) - FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.
-*   [Quake (⭐3.9k)](https://github.com/id-Software/Quake) - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
+*   [Heretic (⭐33)](https://github.com/OpenSourcedGames/Heretic) - Dark fantasy FPS running on id Software's Doom engine.
+*   [Hovertank 3D (⭐228)](https://github.com/FlatRockSoft/Hovertank3D) - FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.
+*   [Quake (⭐4.1k)](https://github.com/id-Software/Quake) - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
     *   [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
-*   [Rise of the Triad: Dark War (⭐73)](https://github.com/videogamepreservation/rott) - FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.
+*   [Rise of the Triad: Dark War (⭐76)](https://github.com/videogamepreservation/rott) - FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.
 *   [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - Side-scrolling shoot 'em up created by David L. Clark in 1984. The game involves piloting a Sopwith biplane, attempting to bomb enemy buildings while avoiding fire from enemy planes and various other obstacles.
     *   [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - Code analysis by MaiZure.
-*   [Wolfenstein 3D (⭐1.8k)](https://github.com/id-Software/wolf3d) - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
+*   [Wolfenstein 3D (⭐1.9k)](https://github.com/id-Software/wolf3d) - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
 
-## [25. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [22. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Integrating with Cassandra / Spark
 
 *   [Spark + Cassandra Best Practices](https://blog.pythian.com/spark-cassandra-best-practices/) - Outlines general use cases and best practices of Spark & Cassandra together.
 
-## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [23. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Python / Angular
 
@@ -500,7 +482,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 *   [Kleroteria](https://www.kleroteria.org). A free, unique "lottery" newsletter where a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 
-## [27. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [24. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -570,7 +552,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 
 
-## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [25. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
@@ -581,102 +563,33 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 *   [Krisp](https://krisp.ai/) - Mute background noise in any communication app.
 
-## [29. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [26. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
 *   [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 
-## [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [27. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [WebGL Tutorial: Directional Shadow Mapping without extensions](https://www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Synthia (⭐33)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
+*   [Synthia (⭐37)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐317)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐339)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
-## [32. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
-
-### Organizations
-
-*   [RightsTech Women](https://rightstech.org) - Switzerland-based nonprofit that combines robotics, technology and human rights training for girls and women.
-
-## [33. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
-
-### Frameworks and Stacks
-
-*   [ArduPilot (⭐7.7k)](https://github.com/ArduPilot/ardupilot) - Open source control software for autonomous vehicles - copters/planes/rovers/boats/submersibles.
-
-### Data Visualization and Mission Control / Command Line Interface
-
-*   [ipygany (⭐468)](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
-
-## [34. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
-
-### Contests, conferences, and events
-
-*   [OzSecCon](https://ozseccon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
-
-## [35. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
-
-### Data / CSV <-> JSON
-
-*   [United Nations data](https://data.un.org) - Data from the UN
-
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Resources / Examples
-
-*   [vue3-webpack (⭐23)](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 starter.
-*   [laravel-vue-3-starter (⭐62)](https://github.com/boussadjra/laravel-vue-3-starter) a pre-configured project using Laravel 8 and Vue 3.
-
-### Resources / Blog Posts
-
-*   [10 Quick-Fire Vue Interview Questions](https://medium.com/javascript-in-plain-english/10-quick-fire-vue-interview-questions-3c16d14a3b51)
-
-### Components & Libraries / UI Components
-
-*   [vue-bottom-sheet (⭐126)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
-
-### Components & Libraries / Scaffold
-
-*   [vuejs-generate (⭐2)](https://github.com/tomosterlund/generate-vue-component) - An easy CLI for generating Vue components, stores, store modules & unit tests.
-
-## [37. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
-
-### Performance Testing / RPC Frameworks
-
-*   [JMeter gRPC Plugin (⭐41)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
-*   [JMeter gRPC Request (⭐140)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
-*   [JMeter Dubbo Plugin (⭐545)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
-
-### Tools / Plugins
-
-*   [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, with plugin manager references many plugins and simplifies installation.
-*   [Ubik Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
-
-### Community / Q&A
-
-*   [`jmeter` on Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
-*   [`#jmeter` on Slack](https://jmeterusers.slack.com/)
-
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
 *   [QuickMocker](https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.
-
-### CMS
-
-*   [GraphCMS](https://graphcms.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
 
 ### Monitoring
 
@@ -690,26 +603,91 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 *   [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
 
-## [39. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [30. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+
+### Organizations
+
+*   [RightsTech Women](https://rightstech.org) - Switzerland-based nonprofit that combines robotics, technology and human rights training for girls and women.
+
+## [31. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+
+### Frameworks and Stacks
+
+*   [ArduPilot (⭐8.4k)](https://github.com/ArduPilot/ardupilot) - Open source control software for autonomous vehicles - copters/planes/rovers/boats/submersibles.
+
+### Data Visualization and Mission Control / Command Line Interface
+
+*   [ipygany (⭐476)](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
+
+## [32. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+
+### Contests, conferences, and events
+
+*   [OzSecCon](https://ozseccon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
+
+## [33. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+
+### Data / CSV <-> JSON
+
+*   [United Nations data](https://data.un.org) - Data from the UN
+
+## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Examples
+
+*   [vue3-webpack (⭐23)](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 starter.
+*   [laravel-vue-3-starter (⭐62)](https://github.com/boussadjra/laravel-vue-3-starter) a pre-configured project using Laravel 8 and Vue 3.
+
+### Resources / Blog Posts
+
+*   [10 Quick-Fire Vue Interview Questions](https://medium.com/javascript-in-plain-english/10-quick-fire-vue-interview-questions-3c16d14a3b51)
+
+### Components & Libraries / UI Components
+
+*   [vue-bottom-sheet (⭐138)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+
+### Components & Libraries / Scaffold
+
+*   [vuejs-generate (⭐2)](https://github.com/tomosterlund/generate-vue-component) - An easy CLI for generating Vue components, stores, store modules & unit tests.
+
+## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+
+### Performance Testing / RPC Frameworks
+
+*   [JMeter gRPC Plugin (⭐42)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
+*   [JMeter gRPC Request (⭐149)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
+*   [JMeter Dubbo Plugin (⭐551)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
+
+### Tools / Plugins
+
+*   [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, with plugin manager references many plugins and simplifies installation.
+*   [Ubik Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
+
+### Community / Q&A
+
+*   [`jmeter` on Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
+*   [`#jmeter` on Slack](https://jmeterusers.slack.com/)
+
+## [36. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Projects / Godot 3.2+
 
-*   [ProtonGraph (⭐924)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+*   [ProtonGraph (⭐1.1k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 ### Plugins and scripts / Various Godot versions
 
-*   [HTerrain (⭐1.2k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
+*   [HTerrain (⭐1.3k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [CSG Mesh Exporter (.OBJ) (⭐44)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
+*   [CSG Mesh Exporter (.OBJ) (⭐47)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
 
 ### Websites / Godot version unknown
 
 *   [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 *   [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
-## [40. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [37. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -729,13 +707,13 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 
 
-## [41. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) - Leverage the JAMstack with Python and Flask by creating a static site and deploying it to Netlify.
 
-## [42. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [39. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -751,7 +729,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 *   [IBM Research](https://www.research.ibm.com/artificial-intelligence)
 *   [Microsoft Research](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
 
-## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -809,19 +787,19 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 
 
-## [44. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [41. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
-### Contents / PaaS   *(PostgreSQL as a Service)*
+### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
 
-## [45. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [42. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [Reflect](https://reflect.run/) - Automated regression tests without a line of code.
 
-## [46. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [43. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Books
 
@@ -852,7 +830,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 *   [Docker Swarm 1.12 Cluster Orchestration with SaltStack](https://btmiller.com/2016/11/27/docker-swarm-1.12-cluster-orchestration-with-saltstack.html) - Let's see how we can automate the spin-up of a cluster using SaltStack.
 
-## [47. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [44. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tutorials
 
@@ -862,7 +840,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 *   [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Free Video Classroom on Ansible essentials by Red Hat.
 
-## [48. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [45. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Books
 
@@ -914,31 +892,21 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 *   [Blackbox (⭐3.5k)](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
-## [49. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [46. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
 *   [Guild AI](https://my.guild.ai/docs/jupyter-notebook-experiments/) - Execute notebooks as experiments to capture and compare results over time.
 
-## [50. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Tools / React Development Tools
-
-*   [Divjoy](https://divjoy.com) - React codebase and UI generator to speed up development (paid)
-
-### React Tools / Autocomplete
-
-*   [downshift (⭐11k)](https://github.com/paypal/downshift) - 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
-
-## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐389)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐407)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
 ### Libraries / Automotive
 
-*   [Sensirion/lin-bus (⭐13)](https://github.com/Sensirion/lin-bus-rs) \[[lin-bus](https://crates.io/crates/lin-bus)] — LIN bus driver traits and protocol implementation [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
+*   [Sensirion/lin-bus (⭐14)](https://github.com/Sensirion/lin-bus-rs) \[[lin-bus](https://crates.io/crates/lin-bus)] — LIN bus driver traits and protocol implementation [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
 
 ### Libraries / Configuration
 
@@ -950,21 +918,25 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Libraries / Date and time
 
-*   [time-rs/time (⭐739)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
+*   [time-rs/time (⭐795)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
 
-## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Text / Barcode
+
+*   [TwitterTextEditor (⭐2.9k)](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
 
 ### Logging / Barcode
 
-*   [Puppy (⭐97)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
+*   [Puppy (⭐111)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
 
-## [53. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
 *   [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform, an alternative to Intercom & Zendesk. ([Source Code (⭐15k)](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby`
 
-## [54. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [50. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
@@ -984,13 +956,13 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 *   [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
 *   [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 
-## [55. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
 *   [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - Docker images for ABCL, CCL, ECL, and SBCL on Windows (amd64) and Alpine and Debian (amd64, arm64, arm/v7) [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
-## [56. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [52. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -999,38 +971,38 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 ### Tools
 
 *   🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-*   💼 [@ngneat/tailwind (⭐602)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+*   💼 [@ngneat/tailwind (⭐601)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Daisy UI (⭐18k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
+*   🧩 [Daisy UI (⭐20k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 
-## [57. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [53. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
 *   [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 *   [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 
-## [58. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [54. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [GRR Rapid Response (⭐4.3k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐54)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
+*   [GRR Rapid Response (⭐4.4k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐54)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 
-## [59. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [55. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### PDF Management / Telegram
 
 *   [PDF Shelter](https://pdfshelter.com/) - Unlimited, privacy-aware, PDF tools running locally on browser
 
-## [60. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [56. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Databases / Data Sources
 
 *   [anime-offline-database (⭐573)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
-## [61. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [57. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -1039,19 +1011,19 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### GitHub
 
-*   [lang-box (⭐35)](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
+*   [lang-box (⭐40)](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
 
-## [62. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [58. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### WSGI Servers
 
-*   [gunicorn (⭐8.7k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
+*   [gunicorn (⭐8.8k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
 
-## [63. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [59. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Animations / Components
 
-*   [ng-particles (⭐4.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
+*   [ng-particles (⭐5.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
 
 ---
 

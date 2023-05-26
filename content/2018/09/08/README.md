@@ -34,13 +34,13 @@
 
 ### Utilities
 
-*   [ocaml-cuid (⭐17)](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
+*   [ocaml-cuid (⭐18)](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / URL Shorteners
 
-*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐6.9k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
+*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐7.1k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -78,7 +78,7 @@
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐404)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
+*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐414)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
 ---
 

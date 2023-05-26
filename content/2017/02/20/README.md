@@ -29,7 +29,7 @@
 ### Applications
 
 *   [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
-*   [CacheP2P (⭐869)](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
+*   [CacheP2P (⭐867)](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
 *   [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
 *   [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
 
@@ -89,7 +89,6 @@
 ### File Hosting/Sharing / Others
 
 *   [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
-*   [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
 *   [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
 *   [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
 *   [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.

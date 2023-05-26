@@ -22,7 +22,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Cyber Skills (⭐2.2k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
+*   [Awesome Cyber Skills (⭐2.7k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
 
 ## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -58,13 +58,13 @@
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐241)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐244)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
-*   [snowball (⭐36)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+*   [snowball (⭐37)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 
 ## [9. Vim Galore](/content/mhinz/vim-galore/README.md)
 

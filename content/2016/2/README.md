@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2016
 
-43 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -72,15 +72,7 @@ git commit --amend --reset-author --no-edit
 
 *   [mqtt-smarthome (⭐405)](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal.
 
-## [4. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
-
-### Articles
-
-*   [An Introduction to the BEM Methodology for effective Front-End Development](http://4digits.net/blog/sass/introduction-to-bem.html)
-*   [CSS Organisation with BEM](http://www.blankmaker.com/css-organization-with-bem/)
-*   [Patterns For Scaling CSS](https://dominikpiatek.com/patterns-for-scaling-css/)
-
-## [5. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [4. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Slides
 
@@ -90,25 +82,25 @@ git commit --amend --reset-author --no-edit
 
 *   [15five](http://www.15five.com/)
 
-## [6. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [5. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Resources, Blogs, and Books / For beginners
 
 *   [ES6 Promises in Depth](https://ponyfoo.com/articles/es6-promises-in-depth)
 
-## [7. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [6. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Miscellaneous Plugins / Paid Books
 
 *   [Interlink](https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6) - Event interlink plugin.
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Files / Runner
 
-*   [diff2html (⭐2.3k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+*   [diff2html (⭐2.4k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
-## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / G individuals
 
@@ -118,31 +110,31 @@ git commit --amend --reset-author --no-edit
 
 *   Simon Reimler <https://devdactic.com/devblog/>
 
-## [10. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [9. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [.Net Code Katas (⭐17)](https://github.com/AlanBarber/CodeKatas)
 
-## [11. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [10. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### View Helper / Omniauth
 
 *   [cells (⭐3k)](https://github.com/apotonick/cells) - Cells allow you to encapsulate parts of your UI into components into view models. View models, or cells, are simple ruby classes that can render templates.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [ArrayFire (⭐4.1k)](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. \[BSD]
 
-## [13. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [12. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Other Libraries
 
 *   [BugLogHQ (⭐154)](https://github.com/oarevalo/BugLogHQ) - Exception Tracking
 
-## [14. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [13. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Transpilers
 
@@ -191,19 +183,19 @@ git commit --amend --reset-author --no-edit
 
 *   [generator-typescript (⭐19)](https://github.com/mrkev/generator-typescript) - Yeoman generator for TypeScript apps
 
-## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
 *   [Keras and Lasagne Deep Learning Tutorials (⭐423)](https://github.com/Vict0rSch/deep_learning)
 
-## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### API Gateways / Edge Services / Scala
 
 *   [Træfɪk](http://traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 
-## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [16. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Security
 
@@ -218,26 +210,26 @@ git commit --amend --reset-author --no-edit
     *   [Labs (⭐3.3k)](https://github.com/RPISEC/Malware/tree/master/Labs)
     *   [Projects (⭐3.3k)](https://github.com/RPISEC/Malware/tree/master/Projects)
 
-## [18. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [17. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Papers / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 *   [A Reference Architecture for the Internet of Things](http://wso2.com/wso2_resources/wso2_whitepaper_a-reference-architecture-for-the-internet-of-things.pdf) - This white paper introduces a Reference Architecture for the Internet of Things (IoT): this includes the devices as well as the server-side and cloud architecture required to interact with and manage the devices.
 
-## [19. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [18. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Window Management / Web
 
 *   [SnapX (⭐37)](https://github.com/benallred/SnapX/releases) - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
 
-## [20. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [19. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Plugins
 
 *   [Emacs (⭐6)](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
 *   [Sublime (⭐22)](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 
-## [21. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [20. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Fortran Websites
 
@@ -247,7 +239,7 @@ git commit --amend --reset-author --no-edit
 
 *   [GNU FORTRAN Lesson 1](https://www.youtube.com/watch?v=qUy8M10uZRU) - Videos about the Fortran programming language.
 
-## [22. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [21. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Elements / Details
 
@@ -257,13 +249,13 @@ git commit --amend --reset-author --no-edit
 
 *   [HTML5 Semantics from Smashing Magazine](https://www.smashingmagazine.com/2011/11/html5-semantics/)
 
-## [23. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [22. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   **Essential**: [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
-## [24. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [23. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -357,13 +349,13 @@ git commit --amend --reset-author --no-edit
 *   [Twitter](https://twitter.com/npm_support)
 *   [Contact form](https://www.npmjs.com/support)
 
-## [25. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [24. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
 *   [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
 
-## [26. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [25. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Cheatsheets
 
@@ -372,19 +364,19 @@ git commit --amend --reset-author --no-edit
 *   <http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_screen.png>
 *   <http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png>
 
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [DIGITS (⭐4.1k)](https://github.com/NVIDIA/DIGITS) - The Deep Learning GPU Training System (DIGITS) is a web application for training deep learning models.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Distributed Computing
 
-*   [Orleans (⭐9.2k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+*   [Orleans (⭐9.3k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 
-## [29. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [28. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### SeekBar
 
@@ -426,13 +418,13 @@ git commit --amend --reset-author --no-edit
 
 
 
-## [30. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [29. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Sounds & Music / Icons Packages and Collections
 
 *   [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
 
-## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / Field Validation
 
@@ -447,35 +439,19 @@ git commit --amend --reset-author --no-edit
 
 *   [Titanium](http://www.appcelerator.com/mobile-app-development-products/) - Open-source framework to create 'native' cross platform apps using JavaScript.
 
-## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Data Science / Windows
 
 *   [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Force.com / Phoenix
-
-*   [Heroku Postgres](https://web.archive.org/web/20131209081736/http://media.developerforce.com/workbooks/HerokuPostgres_Workbooks_Web_Final.pdf) (PDF)
-
-### Objective-C / PicoLisp
-
-*   [Programming With Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-
-### Ruby / Tornado
-
-*   [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
-*   [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School
-*   [Why's (Poignant) Guide to Ruby](http://poignant.guide)
-
-## [34. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [32. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [Frodo (⭐1.5k)](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -491,7 +467,7 @@ git commit --amend --reset-author --no-edit
 
 ### Files and Directories
 
-*   [exfswatch (⭐235)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐237)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 
@@ -500,7 +476,7 @@ git commit --amend --reset-author --no-edit
 
 ### Games
 
-*   [entice (⭐114)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
+*   [entice (⭐115)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 
 ### HTTP
 
@@ -508,17 +484,17 @@ git commit --amend --reset-author --no-edit
 
 ### Logging
 
-*   [exsentry (⭐23)](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
+*   [exsentry](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
 *   [honeybadger (⭐170)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 
 ### ORM and Datamapping
 
-*   [arc\_ecto (⭐252)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
-*   [exnumerator (⭐65)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
+*   [arc\_ecto (⭐251)](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
+*   [exnumerator (⭐64)](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 
 ### Queue
 
-*   [elixir\_nsq (⭐82)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
+*   [elixir\_nsq (⭐83)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 
 ### Utilities
 
@@ -538,13 +514,13 @@ git commit --amend --reset-author --no-edit
 
 *   [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
 
-## [36. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript Seed Projects / Components
 
 *   [Angular 2 reconnecting websockets quickstart (⭐8)](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 
-## [37. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [35. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
@@ -557,7 +533,7 @@ git commit --amend --reset-author --no-edit
 
 *   [bonjour (⭐584)](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 
-## [38. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Mobile Development
 
@@ -565,25 +541,25 @@ git commit --amend --reset-author --no-edit
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [cpy-cli (⭐292)](https://github.com/sindresorhus/cpy-cli) - Copies files.
+*   [cpy-cli (⭐301)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 
 ### Files and Directories / Files
 
 *   [file-type-cli (⭐68)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
-## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [37. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
 *   [mobisplash (⭐65)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-*   [diff2html-cli (⭐406)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [diff2html-cli (⭐432)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ### Resources / Community
 
 *   [Reddit](https://www.reddit.com/r/node)
 *   [Twitter](https://twitter.com/nodejs)
 
-## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -749,7 +725,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00 |
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -767,7 +743,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Intranet and project management tool. Free plan has 5GB for unlimited users.
 
-## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -777,7 +753,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [Beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [43. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [41. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Network
 

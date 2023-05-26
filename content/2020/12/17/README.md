@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 17, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,13 +30,13 @@
 
 ### Localization
 
-*   [attranslate (⭐279)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+*   [attranslate (⭐286)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Debugging
 
-*   [extrace (⭐36)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐43)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
 ## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -52,13 +52,13 @@
 
 ### Utils / Third-party APIs
 
-*   [calispel (⭐25)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.1k)](https://github.com/CodyReichert/awesome-cl/issues/290)
+*   [calispel (⭐27)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
+    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.2k)](https://github.com/CodyReichert/awesome-cl/issues/290)
 
 ### Apps / Third-party APIs
 
 *   [cl-phonetic (⭐24)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
-*   [cl-string-generator (⭐20)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-string-generator (⭐22)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
 
 ### Plotting / Third-party APIs
 
@@ -125,25 +125,19 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 
-## [10. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Development Tools
-
-*   [@axe-core/react (⭐431)](https://github.com/dequelabs/axe-core-npm) - Accessibility auditing for React applications
-
-## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
-*   [SA-SSD (⭐454)](https://github.com/skyhehe123/SA-SSD) - Structure Aware Single-stage 3D Object Detection from Point Cloud.
+*   [SA-SSD (⭐466)](https://github.com/skyhehe123/SA-SSD) - Structure Aware Single-stage 3D Object Detection from Point Cloud.
 
-## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Back-end API / Playground
 
-*   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
+*   :octocat: [ZenTS (⭐37)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
 
-## [13. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
+## [12. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 
 ### Code Points that Affect Others
 
@@ -178,17 +172,17 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
     they were mis-read or misinterpreted from other signs, when JIS was compiled
     from original printed text sources.
 
-## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [13. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### IDE
 
 *   [Atom (⭐59k)](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
 
-## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [Receipt Manager (⭐141)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
+*   [Receipt Manager (⭐156)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## [1. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
-### Datasets / Other Datasets
+### Other Datasets / Other models
 
 *   [MIMIC-IV](https://mimic-iv.mit.edu/) - An update to MIMIC-III's multimodal patient data, now covering more recent years of admissions, plus a new data structure, emergency department records, and links to MIMIC-CXR images.
 
@@ -56,19 +56,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [ckeditor4-vue (⭐60)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
+*   [ckeditor4-vue (⭐62)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Database
 
-*   [ObjectBox (⭐387)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+*   [ObjectBox (⭐392)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐57)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐59)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

@@ -11,7 +11,7 @@
 ### Algorithms and Data structures
 
 *   [bloomex (⭐111)](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
-*   [murmur (⭐38)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
+*   [murmur (⭐39)](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 
 ### Authentication
 
@@ -23,7 +23,7 @@
 
 ### Markdown
 
-*   [cmark (⭐91)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
+*   [cmark (⭐90)](https://github.com/asaaki/cmark.ex) - Elixir NIF for CommonMark (in C), a parser following the CommonMark spec.
 
 ### Queue
 
@@ -36,7 +36,7 @@
 
 ### Text and Numbers
 
-*   [hashids (⭐259)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
+*   [hashids (⭐265)](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 
 ### Third Party APIs
 

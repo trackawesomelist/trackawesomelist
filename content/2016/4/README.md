@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2016
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,7 @@
 ### Libraries / Game development
 
 *   Corange
-    *   [lucidscape/corange-rs (⭐44)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) bindings
+    *   [lucidscape/corange-rs (⭐45)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) bindings
 
 ## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
 
-*   [Writing native (⭐360)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
+*   [Writing native (⭐359)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -555,7 +555,7 @@
 
 ### Open Source / Other
 
-*   [Proton (⭐155)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐156)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [9. Tips](/content/git-tips/tips/week/README.md)
 
@@ -613,7 +613,7 @@ git config --global help.autocorrect 1
 
 ### serialization
 
-*   [rgeo-geojson (⭐178)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐179)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [16. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -754,9 +754,9 @@ git config --global help.autocorrect 1
 
 ### GUI Libs / XML
 
-*   [DLangUI (⭐732)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐410)](https://github.com/buggins/dlangide).
-*   [DWT (⭐136)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-*   [dqml (⭐42)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+*   [DLangUI (⭐743)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐410)](https://github.com/buggins/dlangide).
+*   [DWT (⭐138)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
+*   [dqml (⭐41)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 
 ### Games / XML
 
@@ -856,7 +856,7 @@ git config --global help.autocorrect 1
 
 ### Miscellaneous
 
-*   [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios \[Simplified BSD]
+*   [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios. \[Simplified BSD]
 
 ## [27. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -884,13 +884,13 @@ git config --global help.autocorrect 1
 
 *   [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 *   [Ronn (⭐1.3k)](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
-*   [jsdox (⭐209)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+*   [jsdox (⭐210)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 *   [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
 ### Benchmark / Runner
 
-*   [benchmark.js (⭐5.3k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐557)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [benchmark.js (⭐5.4k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+*   [matcha (⭐558)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -926,21 +926,7 @@ git config --global help.autocorrect 1
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
-
-### Objective-C / PicoLisp
-
-*   [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
-
-### Swift / Play Scala
-
-*   [Hacking with Swift](https://www.hackingwithswift.com)
-
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -953,13 +939,13 @@ git config --global help.autocorrect 1
 ### UI / Barcode
 
 *   [LiquidLoader (⭐1.3k)](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
-*   [MantleModal (⭐89)](https://github.com/canalesb93/MantleModal) - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
+*   [MantleModal (⭐90)](https://github.com/canalesb93/MantleModal) - A simple modal resource that uses a UIScrollView to allow the user to close the modal by dragging it down.
 
 ### Form / Barcode
 
 *   [SwiftyFORM (⭐1.1k)](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
-## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [34. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Community
 
@@ -992,17 +978,17 @@ git config --global help.autocorrect 1
 *   [log (⭐11)](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 *   [set-or-print (⭐4)](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
-## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐213)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐219)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ### Packages / Date
 
-*   [tz-format (⭐9)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
+*   [tz-format (⭐10)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [37. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [36. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -1013,7 +999,7 @@ git config --global help.autocorrect 1
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [38. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [37. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -1025,13 +1011,13 @@ git config --global help.autocorrect 1
 *   [hn-cli (⭐456)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 *   [whereami (⭐154)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [39. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [38. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
-## [40. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [39. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
@@ -1039,7 +1025,7 @@ git config --global help.autocorrect 1
     *   [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
     *   [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 
-## [41. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [40. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -1047,7 +1033,7 @@ git config --global help.autocorrect 1
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 *   [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 
-## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -1061,7 +1047,7 @@ git config --global help.autocorrect 1
 
 ### Framework Components
 
-*   [params (⭐317)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐319)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue
@@ -1070,17 +1056,17 @@ git config --global help.autocorrect 1
 
 ### Testing
 
-*   [ex\_unit\_fixtures (⭐11)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
+*   [ex\_unit\_fixtures (⭐12)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 
 ### Text and Numbers
 
-*   [monetized (⭐46)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
+*   [monetized (⭐47)](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.
 
 ### Translations and Internationalizations
 
 *   [exromaji (⭐8)](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 
-## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -1088,21 +1074,21 @@ git config --global help.autocorrect 1
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐172)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐173)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 
-*   [Hanami::Model (⭐440)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
+*   [Hanami::Model (⭐441)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 
 ### SEO
 
-*   [prerender\_rails (⭐354)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐357)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ### Web Frameworks
 
 *   [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 
-## [44. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [43. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 

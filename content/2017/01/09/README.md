@@ -67,7 +67,7 @@
 
 ### Protocols
 
-*   [protox (⭐229)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
+*   [protox (⭐238)](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
 
 ### Third Party APIs
 

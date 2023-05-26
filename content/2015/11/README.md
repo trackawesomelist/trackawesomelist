@@ -68,7 +68,7 @@
 
 ### Emails
 
-*   [postal (⭐555)](https://github.com/drewr/postal)
+*   [postal (⭐567)](https://github.com/drewr/postal)
 
 ## [8. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Actors
 
-*   [pooler (⭐277)](https://github.com/seth/pooler) - An OTP Process Pool Application.
+*   [pooler (⭐296)](https://github.com/seth/pooler) - An OTP Process Pool Application.
 
 ### Algorithms and Data structures
 
@@ -105,15 +105,15 @@
 
 ### Date and Time
 
-*   [tzdata (⭐261)](https://github.com/lau/tzdata) - The timezone database in Elixir.
+*   [tzdata (⭐267)](https://github.com/lau/tzdata) - The timezone database in Elixir.
 
 ### ECMAScript
 
-*   [estree (⭐98)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
+*   [estree (⭐99)](https://github.com/bryanjos/elixir-estree) - A implementation of the SpiderMonkey Parser API in Elixir.
 
 ### Email
 
-*   [mailman (⭐194)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
+*   [mailman (⭐196)](https://github.com/kamilc/mailman) - Mailman provides a clean way of defining mailers in your Elixir applications.
 
 ### Eventhandling
 
@@ -121,8 +121,8 @@
 
 ### Framework Components
 
-*   [corsica (⭐467)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
-*   [phoenix\_ecto (⭐388)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
+*   [corsica (⭐471)](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
+*   [phoenix\_ecto (⭐396)](https://github.com/phoenixframework/phoenix_ecto) - Phoenix and Ecto integration.
 *   [phoenix\_token\_auth (⭐164)](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 
 ### Images
@@ -136,7 +136,7 @@
 
 ### ORM and Datamapping
 
-*   [eredis (⭐618)](https://github.com/wooga/eredis) - Erlang Redis client.
+*   [eredis (⭐616)](https://github.com/wooga/eredis) - Erlang Redis client.
 *   [ex\_bitcask (⭐11)](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 *   [mariaex (⭐259)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 
@@ -146,18 +146,18 @@
 
 ### Testing
 
-*   [white\_bread (⭐215)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
+*   [white\_bread (⭐218)](https://github.com/meadsteve/white-bread) - Story based BDD in Elixir using the gherkin syntax.
 
 ### Text and Numbers
 
-*   [base62 (⭐19)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
-*   [custom\_base (⭐19)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
+*   [base62 (⭐20)](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
+*   [custom\_base (⭐20)](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
 *   [porterstemmer (⭐5)](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
 
 ### Third Party APIs
 
 *   [ex\_twiml (⭐33)](https://github.com/danielberkompas/ex_twiml) - Generate TwiML for your Twilio integration, right inside Elixir.
-*   [mixpanel\_data\_client (⭐3)](https://github.com/jeregrine/mixpanel_data_client) - Client for interacting with the Mixpanel Data Export API.
+*   [mixpanel\_data\_client (⭐4)](https://github.com/jeregrine/mixpanel_data_client) - Client for interacting with the Mixpanel Data Export API.
 
 ### Websites
 

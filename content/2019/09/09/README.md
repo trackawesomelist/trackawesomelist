@@ -34,7 +34,7 @@
 
 ### Code Analysis and Linter
 
-*   [clj-kondo (⭐1.5k)](https://github.com/borkdude/clj-kondo)
+*   [clj-kondo (⭐1.6k)](https://github.com/borkdude/clj-kondo)
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -42,10 +42,10 @@
 
 *   Code Linters
     *   [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
-        *   [awesome-flake8-extensions (⭐997)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    *   [pylama (⭐968)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
+        *   [awesome-flake8-extensions (⭐1.1k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+    *   [pylama (⭐979)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
     *   [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
-    *   [wemake-python-styleguide (⭐2.1k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
+    *   [wemake-python-styleguide (⭐2.2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 
 ## [7. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Miscellaneous / Related
 
-*   [Awesome Gamedev (⭐1.8k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
+*   [Awesome Gamedev (⭐1.9k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 
 ---
 

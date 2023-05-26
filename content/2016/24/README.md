@@ -72,7 +72,7 @@
 ### Tools / Libraries
 
 *   [Color Thief (⭐11k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐813)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colorify.js (⭐811)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐622)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
@@ -122,13 +122,26 @@
 *   [mqttpc (⭐10)](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
 *   [mqttwatchdir (⭐33)](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker.
 
-## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [11. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+
+### Experiments
+
+*   [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the browser and beyond.
+*   [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by Beytah.
+
+### Experiments on Codepen
+
+*   [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - Audio visualization using p5.js 3D elements and Soundcloud API
+*   [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - Audio visualization using p5.js 3D elements and Soundcloud API
+*   [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) - Audio visualization with amazing analyser by Tim Pietrusky.
+
+## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Subtitling
 
 *   [EBU-TT-D W3C XML Schema (⭐7)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 
-## [12. Bots](/content/hackerkid/bots/week/README.md)
+## [13. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Platform Documentation
 
@@ -144,13 +157,13 @@
 
 ### General
 
-*   [Qtypes (⭐157)](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+*   [Qtypes (⭐159)](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
 *   [BotKit (⭐11k)](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 *   [Claudia Bot Builder (⭐1.8k)](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 
 ### Facebook Messenger
 
-*   [Go (⭐276)](https://github.com/paked/messenger)
+*   [Go (⭐275)](https://github.com/paked/messenger)
 
 ### Slack
 
@@ -158,7 +171,7 @@
 
 ### Telegram
 
-*   [Node.js (⭐6.6k)](https://github.com/yagop/node-telegram-bot-api)
+*   [Node.js (⭐7k)](https://github.com/yagop/node-telegram-bot-api)
 
 ### Bot Stores / Go
 
@@ -178,20 +191,6 @@
 *   [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Facebook group.
 *   [Chat Bot Magazine](https://chatbotsmagazine.com/) - Medium.
 *   [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
-
-## [13. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
-
-### Experiments
-
-*   [Triangles](https://willianjusten.com.br/audio-experiments/triangles/) - An experiment using triangles in Canvas.
-*   [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the browser and beyond.
-*   [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by Beytah.
-
-### Experiments on Codepen
-
-*   [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - Audio visualization using p5.js 3D elements and Soundcloud API
-*   [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - Audio visualization using p5.js 3D elements and Soundcloud API
-*   [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) - Audio visualization with amazing analyser by Tim Pietrusky.
 
 ## [14. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -243,7 +242,7 @@
 
 ### Blur / Barcode
 
-*   [VisualEffectView (⭐960)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
+*   [VisualEffectView (⭐968)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
 
 ## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -257,13 +256,13 @@
 
 ### For Electron / Other
 
-*   [fix-path (⭐252)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐483)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
-*   [electron-context-menu (⭐1.2k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
+*   [fix-path (⭐261)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐494)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [electron-context-menu (⭐1.3k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ### Components / Other
 
-*   [React Desktop (⭐9.4k)](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React.
+*   [React Desktop (⭐9.5k)](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React.
 
 ### Articles / Other
 
@@ -274,7 +273,7 @@
 
 ### Packages / Filesystem
 
-*   [chokidar (⭐9.7k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
+*   [chokidar (⭐9.9k)](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 
 ### Packages / Automation
 
@@ -324,17 +323,17 @@
 
 ### Open Source Repos / Lambda
 
-*   [garnaat/kappa :fire::fire::fire: (⭐901)](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
+*   [garnaat/kappa :fire::fire::fire: (⭐902)](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
 
 ### Open Source Repos / S3
 
-*   [sorentwo/carrierwave-aws :fire::fire: (⭐408)](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
+*   [sorentwo/carrierwave-aws :fire::fire: (⭐405)](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [convox/rack :fire::fire::fire::fire: (⭐1.9k)](https://github.com/convox/rack) - Open-source PaaS on AWS.
-*   [Netflix/aminator :fire::fire::fire: (⭐934)](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
-*   [Spinnaker/spinnaker :fire::fire::fire::fire::fire: (⭐8.8k)](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
+*   [Netflix/aminator :fire::fire::fire: (⭐936)](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
+*   [Spinnaker/spinnaker :fire::fire::fire::fire::fire: (⭐8.9k)](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
 
 ## [25. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 

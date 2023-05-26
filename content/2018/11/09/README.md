@@ -16,7 +16,7 @@
 
 ### Templates / Misc
 
-*   [Postmark Transactional Email Templates (⭐2.6k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐2.7k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 
 ## [3. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
@@ -67,7 +67,7 @@
 
 ### IO/Storage
 
-*   [FilePicker-Plugin-for-Xamarin ★37 (⭐156)](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
+*   [FilePicker-Plugin-for-Xamarin ★37 (⭐155)](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
 
 ## [8. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

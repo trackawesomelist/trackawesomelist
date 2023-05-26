@@ -34,13 +34,13 @@
 
 ### Geolocation
 
-*   [distance\_api\_matrix (⭐30)](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
+*   [distance\_api\_matrix (⭐29)](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Incident Response (⭐5.6k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
+*   [Awesome Incident Response (⭐6.2k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
 
 ## [6. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
@@ -122,8 +122,8 @@
 
 ### ORM
 
-*   [AsyncPoco (⭐128)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
-*   [NPoco (⭐814)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
+*   [AsyncPoco (⭐127)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
+*   [NPoco (⭐821)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
 ## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

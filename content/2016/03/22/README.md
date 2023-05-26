@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,7 @@
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐172)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐177)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
 ## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -55,7 +55,7 @@
 
 ### ORM and Datamapping
 
-*   [github\_ecto (⭐119)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
+*   [github\_ecto (⭐121)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -66,12 +66,6 @@
 ### Individuals/Group Contributors / H individuals
 
 *   Hypriot <http://blog.hypriot.com/>
-
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Remote Management
-
-*   [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 
 ---
 

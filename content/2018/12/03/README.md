@@ -38,7 +38,7 @@
 
 ### Languages
 
-*   [Charcoal (⭐178)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
+*   [Charcoal (⭐190)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

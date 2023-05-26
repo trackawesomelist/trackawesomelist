@@ -34,7 +34,7 @@
 
 ### C / Syntax highlighting packages
 
-*   [Grooves Game Boy Programming (⭐80)](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
+*   [Grooves Game Boy Programming (⭐81)](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
 *   [GBDK Sprite](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) - Presents a workflow for getting multiple sprites to display and animate.
 *   [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) - Extends your knowledge of basic spriting on the Game Boy by adding colors to sprites, backgrounds and the window layer.
 *   [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) - Details the use of the joypad with GBDK.
@@ -104,14 +104,14 @@
 
 *   Profiler
     *   [line\_profiler (⭐3.6k)](https://github.com/rkern/line_profiler) - Line-by-line profiling.
-    *   [memory\_profiler (⭐80)](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
-    *   [py-spy (⭐9.5k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
+    *   [memory\_profiler (⭐79)](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
+    *   [py-spy (⭐9.9k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
     *   [pyflame (⭐3k)](https://github.com/uber/pyflame) - A ptracing profiler For Python.
     *   [vprof (⭐3.9k)](https://github.com/nvdv/vprof) - Visual Python profiler.
 
 ### Third-party APIs
 
-*   [boto3 (⭐7.8k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
+*   [boto3 (⭐8k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 
 ## [14. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -279,8 +279,8 @@
 
 ### Open Source Repos / Lambda
 
-*   [chalice :fire::fire::fire::fire::fire: (⭐9.6k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
-*   [kubek2k/lambdoku :fire::fire::fire: (⭐571)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
+*   [chalice :fire::fire::fire::fire::fire: (⭐9.8k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
+*   [kubek2k/lambdoku :fire::fire::fire: (⭐572)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
 *   [Miserlou/Zappa :fire::fire::fire::fire::fire: (⭐12k)](https://github.com/Miserlou/Zappa) - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
 
 ## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
@@ -324,7 +324,7 @@
 
 ### Open Source / Other
 
-*   [Stacer (⭐8.2k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐8.4k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -387,14 +387,14 @@
 
 ### ReactJS
 
-- Name: [docue (⭐9)](https://github.com/kevgathuku/docue)
+- Name: [docue (⭐10)](https://github.com/kevgathuku/docue)
 
   Description: Document Management System With React Frontend
 
   Link: <https://docue.herokuapp.com>
 
 
-- Name: [MERNMAP (⭐9)](https://github.com/iamraphson/mernmap)
+- Name: [MERNMAP (⭐10)](https://github.com/iamraphson/mernmap)
 
   Description: An interactive map for MERN(MongoDB, ExpressJS, ReactJS, NodeJS) Stack Developers
 

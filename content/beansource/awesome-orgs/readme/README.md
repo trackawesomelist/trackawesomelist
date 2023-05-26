@@ -50,23 +50,24 @@ Curating awesome GitHub organizations\
 <!-- @cloud -->
 
 *   [Kong](https://github.com/Kong) - The cloud connectivity company. Community-driven & enterprise-adopted.
-*   [Kubernetes](https://github.com/kubernetes)
+*   [Kubernetes](https://github.com/kubernetes) - Open source system for automating deployment, scaling, and management of containerized applications.
 *   [Docker](https://github.com/docker) - Docker helps developers bring their ideas to life by conquering the complexity of app development.
 
 ## Web
 
 <!-- @web -->
 
+*   [Mdx-js](https://github.com/mdx-js) - Markdown for the component era.
 *   [Poppinss](https://github.com/poppinss) - Small, focused modules for Node.js.
 *   [Unified](https://github.com/unifiedjs) - Content as structured data, powering @remarkjs, @rehypejs, @retextjs, and @redotjs, used to build things like @mdx-js, @prettier, @gatsbyjs, and so much more!
 *   [Hono](https://github.com/honojs) - Ultrafast web framework for the Edge.
 *   [Oven](https://github.com/oven-sh) - The company behind Bun, the swift JavaScript runtime, bundler, transpiler, and package manager.
-*   [Vue](https://github.com/vuejs)
+*   [Vue](https://github.com/vuejs) - An approachable, performant and versatile framework for building web user interfaces.
 *   [Nuxt](https://github.com/nuxt) - The Intuitive Vue Framework.
 *   [Nest](https://github.com/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications 🚀.
-*   [Node.js](https://github.com/nodejs)
+*   [Node.js](https://github.com/nodejs) - Open source, cross-platform JavaScript runtime environment.
 *   [TanStack](https://github.com/TanStack) - Open source software for building better UI and UX.
-*   [Deno](https://github.com/denoland)
+*   [Deno](https://github.com/denoland) - A modern runtime for JavaScript and TypeScript.
 *   [UnJS](https://github.com/unjs) - Unified JavaScript tools.
 *   [Poimandres](https://github.com/pmndrs) - Open source developer collective.
 *   [Cypress.io](https://github.com/cypress-io) - Fast, easy, and reliable testing for anything that runs in a browser.
@@ -106,6 +107,8 @@ Curating awesome GitHub organizations\
 
 <!-- @other -->
 
+*   [OpenSauced](https://github.com/open-sauced) - The open source intelligence platform for developers and maintainers. Unlock the power of open source with project insights by the slice.
+*   [Words](https://github.com/words) - Linguistic JavaScript modules.
 *   [Axo](https://github.com/axodotdev) - Collection of open source Rust libraries and tools.
 *   [GitHub Actions](https://github.com/actions) - Automate your GitHub workflows.
 *   [Charm](https://github.com/charmbracelet) - We build tools to make the command line glamorous.

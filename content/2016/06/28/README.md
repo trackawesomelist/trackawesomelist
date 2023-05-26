@@ -68,7 +68,7 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Monospace Editor (⭐7)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+*   [GitHub Monospace Editor (⭐8)](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 *   [GitHub PR Approvals (⭐1)](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 
 ### Additional Catalogues / YouTube

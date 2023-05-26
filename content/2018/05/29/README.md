@@ -22,7 +22,7 @@
 
 ### Projects Using Vue.js / A11y
 
-*   [vue-announcer (⭐222)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
+*   [vue-announcer (⭐223)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Utility / Barcode
 
-*   [WhatsNewKit (⭐2.9k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+*   [WhatsNewKit (⭐3.2k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 
 ## [9. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 

@@ -14,7 +14,7 @@
 
 ### For Electron / Other
 
-*   [electron-debug (⭐720)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
+*   [electron-debug (⭐721)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

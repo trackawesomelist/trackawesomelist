@@ -10,7 +10,7 @@
 
 ### Feeds
 
-*   [feedme (⭐14)](https://github.com/umurgdk/elixir-feedme) - RSS/Atom parser built on erlang's xmerl xml parser.
+*   [feedme (⭐15)](https://github.com/umurgdk/elixir-feedme) - RSS/Atom parser built on erlang's xmerl xml parser.
 
 ### Markdown
 
@@ -18,20 +18,20 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐557)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐558)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ## [2. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Richard Littauer (⭐1)](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.
-*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐59k)](https://github.com/rackt/redux).
+*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐60k)](https://github.com/rackt/redux).
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Threat Intelligence / Forensics
 
-*   [IntelMQ (⭐777)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
+*   [IntelMQ (⭐824)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 
 ---
 

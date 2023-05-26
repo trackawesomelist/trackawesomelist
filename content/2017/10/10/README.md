@@ -61,7 +61,7 @@
 
 ### Audio Related Packages / Transformations - General DSP
 
-*   [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: (⭐1.5k)](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
+*   [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: (⭐1.7k)](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 
 ## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Open Source Repos / Elastic Beanstalk
 
-*   [eb-py-flask-signup :fire::fire: (⭐270)](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
+*   [eb-py-flask-signup :fire::fire: (⭐271)](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
 
 ---
 

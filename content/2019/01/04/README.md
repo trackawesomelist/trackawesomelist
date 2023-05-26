@@ -28,13 +28,13 @@
 
 ### Tools / Reverse Engineering
 
-*   [Dwarf (⭐1.1k)](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
+*   [Dwarf (⭐1.2k)](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Oh My Fullstack (⭐166)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+*   [Oh My Fullstack (⭐169)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 
 ## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

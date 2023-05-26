@@ -10,13 +10,13 @@
 
 ### Miscellaneous
 
-*   [Vert.x Child Process (⭐42)](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
+*   [Vert.x Child Process (⭐43)](https://github.com/vietj/vertx-childprocess) - Spawn child process from Vert.x.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Configuration & Discovery / Scala
 
-*   [SmartStack (⭐243)](https://github.com/airbnb/smartstack-cookbook) - Airbnb's automated service discovery and registration framework.
+*   [SmartStack (⭐244)](https://github.com/airbnb/smartstack-cookbook) - Airbnb's automated service discovery and registration framework.
 
 ### Testing / Scala
 

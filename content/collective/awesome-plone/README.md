@@ -2,9 +2,15 @@
 
 Add-ons and resources for the CMS Plone
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 27 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 29 · 🏷️ Content Management Systems
 
 [ Daily / [Weekly](/content/collective/awesome-plone/week/README.md) / [Overview](/content/collective/awesome-plone/readme/README.md) ]
+
+## [Apr 28, 2023](/content/2023/04/28/README.md)
+
+### SEO
+
+*   [collective.splitsitemap (⭐0)](https://github.com/collective/collective.splitsitemap) - Provides a cached split sitemap on big public sites.
 
 ## [Mar 06, 2023](/content/2023/03/06/README.md)
 
@@ -81,9 +87,9 @@ Add-ons and resources for the CMS Plone
 
 ### Layout
 
-*   [plone.app.mosaic (⭐31)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+*   [plone.app.mosaic (⭐32)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
 *   [collective.cover (⭐47)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-*   [collective.contentsections (⭐5)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+*   [collective.contentsections (⭐6)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 
 ### Tiles
 
@@ -117,7 +123,7 @@ Add-ons and resources for the CMS Plone
 *   [collective.easyform (⭐14)](https://github.com/collective/collective.easyform) - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 *   [collective.fieldedit (⭐3)](https://github.com/collective/collective.fieldedit) - A flexible form to edit selected fields of a content type.
 *   [collective.honeypot (⭐3)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
-*   [collective.z3cform.datagridfield (⭐10)](https://github.com/collective/collective.z3cform.datagridfield) - A field with a datagrid (table), where each row is a sub form.
+*   [collective.z3cform.datagridfield (⭐8)](https://github.com/collective/collective.z3cform.datagridfield) - A field with a datagrid (table), where each row is a sub form.
 *   [collective.z3cform.norobots (⭐5)](https://github.com/collective/collective.z3cform.norobots) - A "human" captcha widget based on a list of questions/answers.
 *   [plone.formwidgets.hcaptcha (⭐0)](https://github.com/plone/plone.formwidget.hcaptcha) - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
 *   [yafowil.plone (⭐2)](https://github.com/bluedynamics/yafowil.plone) - Yafowil is a form library for Python. This is its Plone Integration package.
@@ -155,8 +161,8 @@ Add-ons and resources for the CMS Plone
 
 ### Export, Import and Migrations
 
-*   [collective.exportimport (⭐13)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
-*   [collective.migrationhelpers (⭐14)](https://github.com/collective/collective.migrationhelpers/) - Helpers and examples to use during migrations.
+*   [collective.exportimport (⭐15)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
+*   [collective.migrationhelpers (⭐15)](https://github.com/collective/collective.migrationhelpers/) - Helpers and examples to use during migrations.
 *   [collective.jsonify (⭐12)](https://github.com/collective/collective.jsonify) - Export Plone content to JSON.
 *   [collective.transmogrifier (⭐5)](https://github.com/collective/collective.transmogrifier) - A configurable pipeline, aimed at transforming content for import and export.
 
@@ -219,7 +225,7 @@ Add-ons and resources for the CMS Plone
 
 ### Shop
 
-*   [bda.plone.productshop (⭐4)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
+*   [bda.plone.productshop (⭐5)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
 
 ### Develop
 
@@ -258,7 +264,7 @@ Add-ons and resources for the CMS Plone
 
 ### Authentication
 
-*   [pas.plugins.authomatic (⭐6)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
+*   [pas.plugins.authomatic (⭐7)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
 
 ### Official resources
 

@@ -20,7 +20,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [wsl-gui-bins (⭐35)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsl-gui-bins (⭐37)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [3. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -44,12 +44,12 @@
 
 ### Tools
 
-*   [PhpInsights (⭐4.8k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
-*   [Tango (⭐94)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
+*   [PhpInsights (⭐5k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
+*   [Tango (⭐95)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 
 ### Deployment
 
-*   [Github Actions for Magento2 (⭐105)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+*   [Github Actions for Magento2 (⭐107)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
 
 ### Infrastructure
 
@@ -74,15 +74,15 @@
 
 ### Alert / Barcode
 
-*   [CFNotify (⭐493)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable alert views.
+*   [CFNotify (⭐494)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable alert views.
 
 ### Button / Barcode
 
-*   [FloatingButton (⭐736)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐788)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ### Walkthrough / Barcode
 
-*   [ConcentricOnboarding (⭐971)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
+*   [ConcentricOnboarding (⭐1k)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Analysis (⭐139)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Analysis (⭐153)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 
 ## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
@@ -127,7 +127,7 @@
 
 ### Logging
 
-*   [loguru (⭐14k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
+*   [loguru (⭐15k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

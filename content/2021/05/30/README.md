@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30, 2021
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,19 +22,15 @@
 
 ### MVVM
 
-*   [EBind (⭐142)](https://github.com/SIDOVSKY/EBind) - Concise, fast and feature-rich .NET data binding with some Xamarin goodies.
+*   [EBind (⭐146)](https://github.com/SIDOVSKY/EBind) - Concise, fast and feature-rich .NET data binding with some Xamarin goodies.
 
 ### Security
 
-*   [Portable.BouncyCastle ★136 (⭐161)](https://github.com/novotnyllc/bc-csharp) - Portable version of Bouncy Castle with support for .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core.
+*   [Portable.BouncyCastle ★136 (⭐167)](https://github.com/novotnyllc/bc-csharp) - Portable version of Bouncy Castle with support for .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core.
 
 ### UI
 
 *   [Xamarin.Forms.StateButton (⭐12)](https://github.com/IeuanWalker/Xamarin.Forms.StateButton) - With this control you are able to create any style of button. This is possible as it acts as a wrapper to your XAML and provides you the events/ commands and properties to bind too.
-
-### Xamarin.Forms
-
-*   [Web Atoms for Xamarin.Forms](https://www.webatoms.in/index.html) - Write Xamarin.Forms app in JSX/JavaScript, Easily publish new version, integrate existing app with few lines of code, Code Push for Production with MVVM
 
 ### Websites
 
@@ -59,7 +55,52 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-viewer (⭐2.1k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7k)](https://github.com/fengyuanchen/viewerjs)
+*   [v-viewer (⭐2.2k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.1k)](https://github.com/fengyuanchen/viewerjs)
+
+## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Indicators
+
+*   [Tulipy (⭐79)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐703)](https://github.com/TulipCharts/tulipindicators))
+
+### Python / Trading & Backtesting
+
+*   [qtpylib (⭐2k)](https://github.com/ranaroussi/qtpylib) - QTPyLib, Pythonic Algorithmic Trading <http://qtpylib.io>
+*   [Qlib (⭐11k)](https://github.com/microsoft/qlib) - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
+
+### Python / Time Series
+
+*   [tsmoothie (⭐595)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
+
+### Python / Data Sources
+
+*   [FinanceDataReader (⭐910)](https://github.com/FinanceData/FinanceDataReader) - Open Source Financial data reader for U.S, Korean, Japanese, Chinese, Vietnamese Stocks
+
+### R / Financial Instruments and Pricing
+
+*   [Rmetrics](https://www.rmetrics.org) - The premier open source software solution for teaching and training quantitative finance.
+    *   [fAsianOptions](https://cran.r-project.org/web/packages/fAsianOptions/index.html) - EBM and Asian Option Valuation.
+    *   [fAssets](https://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
+    *   [fBasics](https://cran.r-project.org/web/packages/fBasics/index.html) - Markets and Basic Statistics.
+    *   [fBonds](https://cran.r-project.org/web/packages/fBonds/index.html) - Bonds and Interest Rate Models.
+    *   [fExoticOptions](https://cran.r-project.org/web/packages/fExoticOptions/index.html) - Exotic Option Valuation.
+    *   [fOptions](https://cran.r-project.org/web/packages/fOptions/index.html) - Pricing and Evaluating Basic Options.
+    *   [fPortfolio](https://cran.r-project.org/web/packages/fPortfolio/index.html) - Portfolio Selection and Optimization.
+
+### Frameworks / Data Visualization
+
+*   [QuantLib](https://www.quantlib.org) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+    *   [JQuantLib](http://www.jquantlib.org) - Java port.
+    *   [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html) - R port.
+    *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
+    *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
+    *   [QLNet (⭐329)](https://github.com/amaggiulli/qlnet) - .Net port.
+    *   [PyQL (⭐802)](https://github.com/enthought/pyql) - Python port.
+    *   [QuantLib.jl (⭐126)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [MEDIUM\_NoteBook (⭐1.8k)](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of [cerlymarco](https://github.com/cerlymarco)'s posts on Medium.
 
 ---
 

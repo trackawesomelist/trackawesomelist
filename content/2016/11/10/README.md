@@ -48,7 +48,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐663)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐675)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -64,7 +64,7 @@
 
 ### ORM and Datamapping
 
-*   [arbor (⭐217)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐223)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -78,8 +78,8 @@
 
 ### Text and Numbers
 
-*   [abacus (⭐71)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
-*   [brcpfcnpj (⭐64)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
+*   [abacus (⭐76)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+*   [brcpfcnpj (⭐65)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

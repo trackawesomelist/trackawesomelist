@@ -22,7 +22,7 @@
 
 ### Crates / Hooks
 
-*   [yew-hooks (⭐127)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐36k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
+*   [yew-hooks (⭐132)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐36k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐12k)](https://github.com/alibaba/hooks).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -37,14 +37,14 @@
 
 ### Components & Libraries / UI Components
 
-*   [IFstruct-parser-vue (⭐85)](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
+*   [IFstruct-parser-vue (⭐87)](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Call to Action
 
 *   Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
-*   Just create an [issue (⭐3.6k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+*   Just create an [issue (⭐3.7k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
 
 ### Overview / YouTube
 
@@ -52,10 +52,11 @@
     *   Official instance: <https://tube.cadence.moe>
     *   Installation guide for self-hosting: <https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md>
 *   [FreeTube (⭐6.8k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+    *   Official Instance: <https://freetubeapp.io/>
 *   [Invuedious (⭐30)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
-    *   Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
-*   [TubeSync (⭐988)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
-*   [ytfzf (⭐3k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
+    *   Official instance: <https://bocchilorenzo.github.io/invuedious>
+*   [TubeSync (⭐1k)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
+*   [ytfzf (⭐3.1k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
 ### Overview / Reddit
 
@@ -65,13 +66,13 @@
 
 ### Overview / Spotify
 
-*   [spot (⭐1.7k)](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
+*   [spot (⭐1.9k)](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
 
 ### Overview / Google Translate
 
-*   [Lingva Translate (⭐991)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+*   [Lingva Translate (⭐1k)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
     *   Official instance: [lingva.ml](https://lingva.ml)
-    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐991)](https://github.com/TheDavidDelta/lingva-translate#instances)
+    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐1k)](https://github.com/TheDavidDelta/lingva-translate#instances)
 *   [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
     *   Official instance: [simplytranslate.org](https://simplytranslate.org)
     *   Home page and public instances: <https://simple-web.org/projects/simplytranslate.html>
@@ -79,13 +80,13 @@
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
 *   [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
-*   [DeepL Android (⭐296)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
+*   [DeepL Android (⭐297)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
 
 ### Overview / Facebook
 
-*   [SlimSocial (⭐244)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
-*   [Frost (⭐923)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+*   [SlimSocial (⭐245)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
+*   [Frost (⭐932)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
 ### Overview / Apple AirPlay
 
@@ -97,12 +98,12 @@
 *   [Hackerweb (⭐1.2k)](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
     *   Official instance: <https://hackerweb.app>
     *   About Hackerweb: <https://hackerwebapp.com>
-*   [Hckrnws (⭐52)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
+*   [Hckrnws (⭐54)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
     *   Official instance: <https://www.hckrnws.com>
 
 ### Redirection / Other services
 
-*   [Farside (⭐365)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
+*   [Farside (⭐373)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 *   [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
 
 ### Related projects / Other services
@@ -137,7 +138,7 @@
 *   [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 *   [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
 *   [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
-*   [Preserver (⭐213)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
+*   [Preserver (⭐215)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 *   [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 *   [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 *   [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
@@ -157,7 +158,7 @@
 *   [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 *   [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 *   [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
-*   [Topydo (⭐648)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+*   [Topydo (⭐672)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 *   [Trello](https://trello.com) - Kanban method task board.
 *   [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
@@ -168,7 +169,7 @@
 
 ### Tools and Apps / Task Automation
 
-*   [Awesome AutoHotKey (⭐2.2k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
+*   [Awesome AutoHotKey (⭐2.3k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 *   [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called *recipes*) between web services in order to make the web work for you and boost your productivity.
 *   [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
 

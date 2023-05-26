@@ -17,12 +17,12 @@
 
 ### UI
 
-*   [Xamarin.Forms.Breadcrumb (⭐139)](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - A control that automatically generated a breadcrumb control
+*   [Xamarin.Forms.Breadcrumb (⭐141)](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - A control that automatically generated a breadcrumb control
 *   [SimpleStaticMap (⭐2)](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
 
 ### XPlat APIs
 
-*   [Shiny ★428 (⭐1.1k)](https://github.com/shinyorg/shiny) - A Xamarin Framework for Backgrounding & Device Hardware Services.
+*   [Shiny ★428 (⭐1.2k)](https://github.com/shinyorg/shiny) - A Xamarin Framework for Backgrounding & Device Hardware Services.
 
 ## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Validation / Runner
 
-*   [Funval (⭐333)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
+*   [Funval (⭐347)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

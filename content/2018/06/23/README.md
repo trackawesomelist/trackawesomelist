@@ -16,7 +16,7 @@
 
 ### External Links / Wikis
 
-*   [Awesome Public Datasets (⭐53k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+*   [Awesome Public Datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 
 ## [3. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -55,10 +55,10 @@
 ### Tools / Online Analyzers
 
 *   [Appknox](https://www.appknox.com/) - not free
-*   [AVC UnDroid](http://undroid.av-comparatives.info/)
 *   [Virustotal](https://www.virustotal.com/) - max 128MB
 *   [Fraunhofer App-ray](http://app-ray.co/) - not free
 *   [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
+*   ~~[AVC UnDroid](http://undroid.av-comparatives.info/)~~
 
 ---
 

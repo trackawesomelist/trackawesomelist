@@ -16,11 +16,11 @@
 
 ### Editors / Runner
 
-*   [Squire (⭐4.4k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
+*   [Squire (⭐4.5k)](https://github.com/neilj/Squire) - HTML5 rich text editor.
 
 ### Sliders / Runner
 
-*   [PhotoSwipe (⭐22k)](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
+*   [PhotoSwipe (⭐23k)](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 
 ---
 

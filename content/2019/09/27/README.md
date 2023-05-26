@@ -46,7 +46,7 @@
 
 *   [Les Pitonneux - Montreal QC Canada](https://pitonneux.slack.com)
 *   [Remote workers in Romania](https://github.com/filipelinhares/awesome-slack/blob/master/README.md/weworkremotely.slack.com/)
-*   [Spanish-speaking developer communities list (⭐167)](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
+*   [Spanish-speaking developer communities list (⭐174)](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
 *   [Vancouver Developers (yvrdev)](https://yvrdev.slack.com/)
 
 ### Misc
@@ -57,7 +57,7 @@
 
 ### Looking for more lists like that
 
-*   [Awesome Community (⭐212)](https://github.com/phpearth/awesome-community)
+*   [Awesome Community (⭐227)](https://github.com/phpearth/awesome-community)
 
 ## [5. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

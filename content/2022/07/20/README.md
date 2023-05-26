@@ -16,7 +16,7 @@
 
 ### ORM
 
-*   [APIJSON (⭐14k)](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
+*   [APIJSON (⭐15k)](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -53,8 +53,8 @@
 
 ### Security
 
-*   [Cyber Security University (⭐386)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
-*   [Hacking Spots (⭐986)](https://github.com/daviddias/awesome-hacking-locations#readme)
+*   [Cyber Security University (⭐462)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+*   [Hacking Spots (⭐998)](https://github.com/daviddias/awesome-hacking-locations#readme)
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -78,15 +78,15 @@
 
 ### Utility / Diagnostics
 
-*   [anuvyklack/fold-preview (⭐63)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
+*   [anuvyklack/fold-preview (⭐77)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
 
 ### Fennel / Diagnostics
 
-*   [Olical/conjure (⭐1.2k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
+*   [Olical/conjure (⭐1.3k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 
 ### Editing Support / Diagnostics
 
-*   [anuvyklack/pretty-fold.nvim (⭐317)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
+*   [anuvyklack/pretty-fold.nvim (⭐366)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
 
 ### Resource / Diagnostics
 
@@ -100,15 +100,15 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-importus (⭐11)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
+*   [vite-plugin-importus (⭐16)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-inject (⭐18)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-html-inject (⭐25)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 
 ### Symfony / Community
 
-*   [Vite Bundle (⭐104)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+*   [Vite Bundle (⭐121)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

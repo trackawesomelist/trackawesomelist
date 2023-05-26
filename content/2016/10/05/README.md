@@ -65,7 +65,7 @@ git config --global branch.autosetuprebase always
 
 ### Python
 
-*   [CookieCutter (⭐18k)](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
+*   [CookieCutter (⭐19k)](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
 
 ### Ruby
 
@@ -73,7 +73,7 @@ git config --global branch.autosetuprebase always
 
 ### GitHub
 
-*   [Pollinate (⭐217)](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
+*   [Pollinate (⭐221)](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
 
 ---
 

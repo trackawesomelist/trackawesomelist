@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [SimDB (⭐460)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store \[Apache2]
+*   [SimDB (⭐467)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
 
 ## [2. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -75,7 +75,7 @@
 
 ### GUI
 
-*   [Avalonia (⭐17k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+*   [Avalonia (⭐18k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
 ---
 

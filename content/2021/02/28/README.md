@@ -17,13 +17,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-content-loader (⭐2.9k)](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
+*   [vue-content-loader (⭐3k)](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [ByteHub (⭐50)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
+*   [ByteHub (⭐51)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
 
 ## [4. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-ts-nameof (⭐13)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐465)](https://github.com/dsherret/ts-nameof) in TypeScript.
+*   [vite-plugin-ts-nameof (⭐14)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐468)](https://github.com/dsherret/ts-nameof) in TypeScript.
 
 ## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -59,11 +59,11 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Oblecto (⭐135)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
+*   [Oblecto (⭐137)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [changedetection.io (⭐8.3k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
+*   [changedetection.io (⭐8.9k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -71,22 +71,18 @@
 
 *   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.
 
-### Tunneling, WebRTC, Web Socket Servers and Other Routers
-
-*   [Xirsys](https://www.xirsys.com) — Global network of STUN / TURN servers with a generous free tier.
-
 ## [9. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Reference Projects
 
-*   [k6-bitbucket-pipelines-example (⭐0)](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
+*   [k6-bitbucket-pipelines-example (⭐3)](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Yaml
 
-*   [mini-yaml (⭐164)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
-*   [yaml-cpp (⭐3.9k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
+*   [mini-yaml (⭐176)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [yaml-cpp (⭐4.1k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. \[MIT]
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
@@ -104,7 +100,7 @@
 
 ### Plugins / Misc
 
-*   [Diff (⭐96)](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Also supports CI!
+*   [Diff (⭐106)](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Also supports CI!
 
 ---
 

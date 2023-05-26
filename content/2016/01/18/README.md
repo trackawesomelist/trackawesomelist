@@ -16,7 +16,7 @@
 
 ### Source Generator
 
-*   [.NET-libraries-that-make-your-life-easier (⭐723)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
+*   [.NET-libraries-that-make-your-life-easier (⭐733)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Data Validation
 
-*   [Prismatic's schema (⭐2.3k)](https://github.com/plumatic/schema)
+*   [Prismatic's schema (⭐2.4k)](https://github.com/plumatic/schema)
 
 ### Editor Plugins
 
@@ -82,7 +82,7 @@
 
 ### Macros
 
-*   [ok\_jose (⭐95)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
+*   [ok\_jose (⭐96)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 

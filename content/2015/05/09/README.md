@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [AudioPlayer (⭐678)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
+*   [AudioPlayer (⭐691)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -36,7 +36,7 @@
 
 ### CLI Builder
 
-*   [Commander (⭐776)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐777)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

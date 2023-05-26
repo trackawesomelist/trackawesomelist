@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ByteHub (⭐50)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
+*   [ByteHub (⭐51)](https://github.com/bytehub-ai/bytehub) - An easy-to-use, Python-based feature store. Optimized for time-series data.
 
 ## [2. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -40,14 +40,14 @@
 
 ### Reference Projects
 
-*   [k6-bitbucket-pipelines-example (⭐0)](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
+*   [k6-bitbucket-pipelines-example (⭐3)](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Yaml
 
-*   [mini-yaml (⭐164)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
-*   [yaml-cpp (⭐3.9k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
+*   [mini-yaml (⭐176)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
+*   [yaml-cpp (⭐4.1k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. \[MIT]
 
 ## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Plugins / Misc
 
-*   [Diff (⭐96)](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Also supports CI!
+*   [Diff (⭐106)](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Also supports CI!
 
 ## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Misc
 
-*   [anyolite (⭐127)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
+*   [anyolite (⭐136)](https://github.com/Anyolite/anyolite) - Full mruby interpreter with simple bindings, allowing for easy scripting support in projects
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -96,47 +96,47 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-windicss-starter (⭐175)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
+*   [vite-vue2-windicss-starter (⭐182)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-node (⭐667)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
+*   [vite-plugin-node (⭐739)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-importer (⭐48)](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
-*   [vite-plugin-banner (⭐45)](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
+*   [vite-plugin-importer (⭐51)](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
+*   [vite-plugin-banner (⭐66)](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-ts-nameof (⭐13)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐465)](https://github.com/dsherret/ts-nameof) in TypeScript.
+*   [vite-plugin-ts-nameof (⭐14)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐468)](https://github.com/dsherret/ts-nameof) in TypeScript.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-tsconfig-paths (⭐728)](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
-*   [vite-plugin-theme (⭐114)](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
+*   [vite-tsconfig-paths (⭐831)](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
+*   [vite-plugin-theme (⭐120)](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐53k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐608)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐611)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 
 ### Vue / Routing
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-pages (⭐1.3k)](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-pages (⭐1.4k)](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 
 ### Vue / Loaders
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐477)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐329)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐513)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐380)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 ### Vue / SSG
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-ssg (⭐940)](https://github.com/antfu/vite-ssg) - Server-side generation.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-ssg (⭐1k)](https://github.com/antfu/vite-ssg) - Server-side generation.
 
 ### Vue / Ecosystem
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-i18n-resources (⭐27)](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-i18n-resources (⭐28)](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
 
 ## [14. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Specs and Standards / MPEG
 
-*   [ISO Base Media File Format Reference Software (⭐87)](https://github.com/MPEGGroup/isobmff)  -
+*   [ISO Base Media File Format Reference Software (⭐97)](https://github.com/MPEGGroup/isobmff)  -
 *   [MPEG About](https://www.mpegstandards.org/about-mpeg/)  -
 *   [MPEG High Efficiency Image File Format (HEIF)](https://nokiatech.github.io/heif/)  -
 *   [MPEG Meetings](https://www.mpegstandards.org/meetings/)  -
@@ -186,13 +186,13 @@
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐222)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
+*   [RoRvsWild (⭐227)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
-*   [react-swipeable-list (⭐66)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+*   [react-swipeable-list (⭐74)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
 
 ## [21. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
@@ -320,7 +320,7 @@
 
 ### Multimedia
 
-*   [Spot (⭐1.7k)](https://github.com/xou816/spot) - Spotify Client.
+*   [Spot (⭐2k)](https://github.com/xou816/spot) - Spotify Client.
 
 ## [28. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -332,7 +332,7 @@
 
 ### Plugins
 
-*   💼 [Content Placeholder (⭐102)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
+*   💼 [Content Placeholder (⭐105)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 
 ## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -438,7 +438,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [ContainDS Dashboards (⭐183)](https://github.com/ideonate/cdsdashboards) - JupyterHub extension to host authenticated scripts or notebooks in any framework (Voilà, Streamlit, Plotly Dash etc).
+*   [ContainDS Dashboards (⭐184)](https://github.com/ideonate/cdsdashboards) - JupyterHub extension to host authenticated scripts or notebooks in any framework (Voilà, Streamlit, Plotly Dash etc).
 
 ## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -458,15 +458,15 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Oblecto (⭐135)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
+*   [Oblecto (⭐137)](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [changedetection.io (⭐8.3k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
+*   [changedetection.io (⭐8.9k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
 
 ### Software / Pastebins
 
-*   [FlashPaper (⭐186)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`
+*   [FlashPaper (⭐207)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`
 
 ## [37. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -478,24 +478,24 @@
 
 ### Third-Party Packages / Testing
 
-*   [drf-openapi-tester (⭐95)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
+*   [drf-openapi-tester (⭐112)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 
 ## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Yacht (⭐2.5k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
-*   [Antares SQL (⭐999)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
+*   [Yacht (⭐2.6k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+*   [Antares SQL (⭐1.1k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 
 ### Components & Libraries / UI Components
 
-*   [vue-content-loader (⭐2.9k)](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
-*   [vue-lunar-calendar-pro (⭐64)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
-*   [vue-socials (⭐28)](https://github.com/webistomin/vue-socials) - 💬 Social media share buttons and counts for Vue.js.
+*   [vue-content-loader (⭐3k)](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
+*   [vue-lunar-calendar-pro (⭐71)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
+*   [vue-socials (⭐33)](https://github.com/webistomin/vue-socials) - 💬 Social media share buttons and counts for Vue.js.
 
 ### Components & Libraries / Frameworks
 
-*   [Mijin (⭐185)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
+*   [Mijin (⭐192)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 
 ### Components & Libraries / UI Utilities
 
@@ -503,7 +503,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [swrv (⭐1.8k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
+*   [swrv (⭐1.9k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 
 ## [40. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -515,9 +515,9 @@
 
 ### Distribution
 
-*   [boon (⭐119)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
-*   [love-release (⭐440)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
-*   [makelove (⭐85)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
+*   [boon (⭐120)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
+*   [love-release (⭐441)](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
+*   [makelove (⭐89)](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 
 ## [42. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -535,7 +535,7 @@
 
 ### Concurrency
 
-*   [Throttler (⭐75)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
+*   [Throttler (⭐77)](https://github.com/boraseoksoon/Throttler) - Throttle massive number of asynchronous inputs in a single drop of one line API.
 
 ## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -593,10 +593,6 @@
 *   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.
 *   [courier.com](https://www.courier.com/) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. Free plan includes 10,000 messages/mo.
 
-### Log Management
-
-*   [logdna.com](https://logdna.com) - Free for a single user, no retention, unlimited hosts and sources
-
 ### Translation Management
 
 *   [SimpleLocalize](https://simplelocalize.io/) - Free up to 100 translation keys, unlimited strings, unlimited languages, startup deals
@@ -615,10 +611,6 @@
 
 *   [Upstash](https://upstash.com/) — Serverless Redis with free tier up to 10,000 requests per day, 256MB max database size, and 20 concurrent connections
 *   [SeaTable](https://seatable.io/) — Flexible, Spreadsheet-like Database built by Seafile team. unlimited tables, 2,000 lines, 1-month versioning, up to 25 team members.
-
-### Tunneling, WebRTC, Web Socket Servers and Other Routers
-
-*   [Xirsys](https://www.xirsys.com) — Global network of STUN / TURN servers with a generous free tier.
 
 ### Issue Tracking and Project Management
 
@@ -678,7 +670,7 @@
 ### REST and API
 
 *   [mazurka (⭐15)](https://github.com/exstruct/mazurka) - Hypermedia API toolkit.
-*   [SOAP client (⭐116)](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
+*   [SOAP client (⭐120)](https://github.com/elixir-soap/soap) - Hex-documented SOAP client based on HTTPoison.
 
 ## [48. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
@@ -867,17 +859,17 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Ridiculous Coding (⭐604)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
+*   [Ridiculous Coding (⭐628)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Funexpected Flash Tools (⭐15)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
-*   [Shell Fur (⭐230)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
+*   [Funexpected Flash Tools (⭐18)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
+*   [Shell Fur (⭐240)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
 
 ### Modules / Godot 3.2+
 
-*   [Flash Module (⭐25)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
-*   [GodotAIGym (⭐153)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
+*   [Flash Module (⭐29)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
+*   [GodotAIGym (⭐162)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
 
 ## [53. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
@@ -1072,7 +1064,7 @@
 
 ### Libraries / Text processing
 
-*   [becheran/wildmatch (⭐45)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
+*   [becheran/wildmatch (⭐52)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
 
 ## [58. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 

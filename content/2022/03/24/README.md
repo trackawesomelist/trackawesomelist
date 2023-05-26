@@ -28,8 +28,8 @@
 ### Sample GTFS and GTFS Realtime datasets used for software testing
 
 *   [transitfeed unit tests (⭐658)](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator (⭐658)](https://github.com/google/transitfeed/wiki/FeedValidator).
-*   [gtfs-realtime-validator unit tests (⭐23)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) - Some [GTFS datasets (zip files) (⭐23)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) are included and a large number of GTFS RT messages are defined [programmatically in Java (⭐23)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) via the gtfs-realtime-bindings library.
-*   [OpenTripPlanner unit tests (⭐1.8k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test) - Some [GTFS datasets (⭐1.8k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs) are defined for the unit tests ([GtfsTest (⭐1.8k)](https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java) and [mmri folder (⭐1.8k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/java/org/opentripplanner/mmri)).
+*   [gtfs-realtime-validator unit tests (⭐24)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/) - Some [GTFS datasets (zip files) (⭐24)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/resources) are included and a large number of GTFS RT messages are defined [programmatically in Java (⭐24)](https://github.com/MobilityData/gtfs-realtime-validator/tree/master/gtfs-realtime-validator-lib/src/test/java/edu/usf/cutr/gtfsrtvalidator/lib/test/rules) via the gtfs-realtime-bindings library.
+*   [OpenTripPlanner unit tests (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test) - Some [GTFS datasets (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/resources/gtfs) are defined for the unit tests ([GtfsTest (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner/blob/dev-2.x/src/test/java/org/opentripplanner/GtfsTest.java) and [mmri folder (⭐1.9k)](https://github.com/opentripplanner/OpenTripPlanner/tree/dev-2.x/src/test/java/org/opentripplanner/mmri)).
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -52,7 +52,7 @@
 
 ### DevOps / Newsletters
 
-*   [Makes (⭐279)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
+*   [Makes (⭐299)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 
 ## [6. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Data
 
-*   [flink-connector-tdengine (⭐8)](https://github.com/echisan/flink-connector-tdengine)
+*   [flink-connector-tdengine (⭐9)](https://github.com/echisan/flink-connector-tdengine)
 
 ### Container
 
@@ -72,13 +72,13 @@
 
 ### Databases Implemented in Go
 
-*   [dtf (⭐221)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
+*   [dtf (⭐218)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [terragrunt (⭐6)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐6.6k)](https://github.com/gruntwork-io/terragrunt).
+*   [terragrunt (⭐7)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐6.8k)](https://github.com/gruntwork-io/terragrunt).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -99,13 +99,13 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-di (⭐8)](https://github.com/ccqgithub/pinia-di) - Dependency injection for pinia.
+*   [pinia-di (⭐10)](https://github.com/ccqgithub/pinia-di) - Dependency injection for pinia.
 
 ## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Data Visualization and Mission Control / Annotation
 
-*   [3d-annotation-tool (⭐55)](https://github.com/StrayRobots/3d-annotation-tool) - Lightweight tool to annotate point clouds with bounding boxes, rectangles, keypoints and more.
+*   [3d-annotation-tool (⭐63)](https://github.com/StrayRobots/3d-annotation-tool) - Lightweight tool to annotate point clouds with bounding boxes, rectangles, keypoints and more.
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 15, 2020
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -70,7 +70,7 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐635)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐652)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -78,13 +78,7 @@
 
 *   [Buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects
 
-## [11. Awesome Preact](/content/preactjs/awesome-preact/README.md)
-
-### Contents / Example Apps
-
-*   [**GHFresh**](https://code2k.github.io/ghfresh/) Monitor GitHub repository releases – Prerendering with Preact. Built with Preact Compat, TypeScript, Material-UI and Redux Toolkit. *([GitHub Project (⭐5)](https://github.com/code2k/ghfresh))*.
-
-## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### CI / Tools & Plugins
 
@@ -94,7 +88,7 @@
 
 *   [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Source Projects
 
@@ -138,30 +132,30 @@
 
 
 
-## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [13. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Speech Processing
 
-*   [gentle (⭐1.1k)](https://github.com/lowerquality/gentle) [:octocat: (⭐1.1k)](https://github.com/lowerquality/gentle) - Forced-aligner built on Kaldi.
+*   [gentle (⭐1.2k)](https://github.com/lowerquality/gentle) [:octocat: (⭐1.2k)](https://github.com/lowerquality/gentle) - Forced-aligner built on Kaldi.
 
 ### Audio Related Packages / Source Separation
 
 *   [commonfate (⭐18)](https://github.com/aliutkus/commonfate) [:octocat: (⭐18)](https://github.com/aliutkus/commonfate) [:package:](https://pypi.python.org/pypi/commonfate) - Common Fate Model and Transform.
-*   [NIMFA](http://nimfa.biolab.si) [:octocat: (⭐488)](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) - Several flavors of non-negative-matrix factorization.
+*   [NIMFA](http://nimfa.biolab.si) [:octocat: (⭐500)](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) - Several flavors of non-negative-matrix factorization.
 
-## [15. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [14. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [Mapping the blog](https://www.onyszko.com/mapping-the-blog/) - Applying Wardley maps to personal blog user needs. Apr 20, 2020.
 
-## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others / Others
 
-*   [BlazorWebView (⭐128)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
+*   [BlazorWebView (⭐130)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
 
-## [17. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Case Studies
 
@@ -176,13 +170,13 @@
 
 *   [The Shadow DOM Diaries](https://gist.github.com/dglazkov/efd2deec54f65aa86f2e)
 
-## [18. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [17. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Podcasts / Video tutorials
 
 *   [Elm Radio](https://elm-radio.com) - Tune in to the tools and techniques in the Elm ecosystem.
 
-## [19. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [18. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 

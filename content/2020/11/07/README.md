@@ -16,7 +16,7 @@
 
 ### DevOps / Development
 
-*   [bunkerized-nginx (⭐2.7k)](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
+*   [bunkerized-nginx (⭐2.9k)](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Audio Tools
 
-*   [cyanrip (⭐107)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
+*   [cyanrip (⭐119)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 
 ## [5. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -40,9 +40,9 @@
 
 ### Go / Erlang
 
-*   [Fiber (⭐24k)](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
-*   [Gin (⭐66k)](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
-*   [Go Chassis (⭐2.6k)](https://github.com/go-chassis/go-chassis) - A framework for rapid development of microservices in Go that is easy to integrate with some cloud ecosystems.
+*   [Fiber (⭐25k)](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+*   [Gin (⭐67k)](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
+*   [Go Chassis (⭐2.7k)](https://github.com/go-chassis/go-chassis) - A framework for rapid development of microservices in Go that is easy to integrate with some cloud ecosystems.
 
 ### Perl / Scala
 

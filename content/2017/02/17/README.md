@@ -41,7 +41,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Pentest Cheat Sheets (⭐3k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
+*   [Awesome Pentest Cheat Sheets (⭐3.2k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 
 ## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -58,13 +58,13 @@
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐2.1k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.2k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
-*   [any\_hash.cr (⭐32)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
+*   [any\_hash.cr (⭐33)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
 
 ---
 

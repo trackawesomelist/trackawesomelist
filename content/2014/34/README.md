@@ -44,7 +44,7 @@
 
 ### Serialization
 
-*   [protobuf-c (⭐2.3k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
+*   [protobuf-c (⭐2.4k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
 
 ## [7. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3.1k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐3.2k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -158,17 +158,17 @@
 
 ### Packages / Streams
 
-*   [multistream (⭐278)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐280)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐241)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐247)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Vision Detection / Runner
 
-*   [tracking.js (⭐9.2k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
+*   [tracking.js (⭐9.3k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 
 ## [15. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 

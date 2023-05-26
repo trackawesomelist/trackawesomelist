@@ -17,7 +17,7 @@
 ### C bindings
 
 *   [crt.cr (⭐29)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
-*   [duktape.cr (⭐134)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.5k)](https://github.com/svaarala/duktape) javascript engine
+*   [duktape.cr (⭐136)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.5k)](https://github.com/svaarala/duktape) javascript engine
 *   [gphoto2.cr (⭐15)](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
 *   [libnotify.cr (⭐25)](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
 *   [pcap.cr (⭐22)](https://github.com/maiha/pcap.cr) - Bindings for libpcap
@@ -28,7 +28,7 @@
 
 ### Processes and Threads
 
-*   [neph (⭐197)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
+*   [neph (⭐200)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -50,9 +50,9 @@
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
-*   [Music21](http://web.mit.edu/music21/) [:octocat: (⭐1.6k)](https://github.com/cuthbertLab/music21) [:package:](https://pypi.python.org/pypi/music21) - Toolkit for Computer-Aided Musicology.
-*   [Mido](https://mido.readthedocs.io/en/latest/) [:octocat: (⭐1k)](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
-*   [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat: (⭐624)](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
+*   [Music21](http://web.mit.edu/music21/) [:octocat: (⭐1.7k)](https://github.com/cuthbertLab/music21) [:package:](https://pypi.python.org/pypi/music21) - Toolkit for Computer-Aided Musicology.
+*   [Mido](https://mido.readthedocs.io/en/latest/) [:octocat: (⭐1.1k)](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
+*   [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat: (⭐669)](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -71,11 +71,11 @@
 ### Framework Components
 
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
-*   [react\_phoenix (⭐487)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
+*   [react\_phoenix (⭐486)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 
 ### Games
 
-*   [mines (⭐41)](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
+*   [mines (⭐43)](https://github.com/kevlar1818/mines) - A minesweeper clone in the terminal.
 
 ### Instrumenting / Monitoring
 
@@ -83,11 +83,11 @@
 
 ### Protocols
 
-*   [Sippet (⭐62)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
+*   [Sippet (⭐65)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
 
 ### Static Page Generation
 
-*   [serum (⭐294)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
+*   [serum (⭐298)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -102,6 +102,7 @@
 *   [On Lisp](http://www.paulgraham.com/onlisp.html) - Paul Graham's amazing book on Lisp macros (and other interesting things).
 *   [Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS](http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP) - An old, but very thorough book on CLOS.
 *   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://norvig.com/paip.html) - A book on programming AI that covers some advanced Lisp.
+    *   with a web version: [https://norvig.github.io/paip-lisp/](https://norvig.github.io/paip-lisp/#/)
 
 ### Reference
 

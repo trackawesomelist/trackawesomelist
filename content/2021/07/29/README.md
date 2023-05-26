@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29, 2021
 
-13 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Software / Pastebins
 
-*   [rustypaste (⭐195)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
+*   [rustypaste (⭐369)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Typescript Project Starters
 
-*   [nd.ts (⭐27)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
+*   [nd.ts (⭐28)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
-*   [Learning Vue 3.0 (⭐563)](https://github.com/chengpeiquan/learning-vue3)
+*   [Learning Vue 3.0 (⭐674)](https://github.com/chengpeiquan/learning-vue3)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -42,13 +42,7 @@
 
 *   [IoT Owl (⭐6)](https://github.com/Ret2Me/IoT-Owl) - Light face detection and recognition system with huge possibilities, based on Microsoft Face API and TensorFlow made for small IoT devices like raspberry pi.
 
-## [7. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Component Libraries
-
-*   [Mantine (⭐16k)](https://github.com/mantinedev/mantine) – A fully featured React library with 100+ hooks and components with native dark theme support
-
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
@@ -56,25 +50,25 @@
 
 ### Decentralized Systems
 
-*   [Stacks (⭐82)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+*   [Stacks (⭐84)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ### Miscellaneous
 
-*   [Scriptable (⭐784)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+*   [Scriptable (⭐816)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
-## [9. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [8. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Learning Resources / GitHub Digest Blog Series
 
 *   [Golem GitHub Digest #14](https://blog.golemproject.net/golem-github-digest-14/) - Towards the next major release.
 
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / Master Data Management
 
-*   [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - Comprehensive master data management.
+*   [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - A comprehensive solution for managing master data that provides a single source of truth across your organization.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Books / Others
 
@@ -82,27 +76,15 @@
 *   [Microsoft Blazor: Building Web Applications in .NET](https://www.amazon.com/Microsoft-Blazor-Building-Applications-NET/dp/1484259270/ref=pd_sbs_2/144-0745230-5007239?pd_rd_w=LPinn\&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846\&pf_rd_r=V7CQTYC0W8RZAVPVVXA1\&pd_rd_r=b34ab9d9-09dd-4eca-9207-f56311bde8d2\&pd_rd_wg=9V1tA\&pd_rd_i=1484259270\&psc=1) - Microsoft Blazor: Building Web Applications in .NET (Second edition published in May 2020).
 *   [Blazor Revealed](https://www.apress.com/gp/book/9781484243428) - Blazor Revealed, Building Web Applications in .NET (Published February, 2019).
 
-## [12. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [11. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Reverse Engineering
 
-*   [MVT (Mobile Verification Toolkit) (⭐8.1k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+*   [MVT (Mobile Verification Toolkit) (⭐8.6k)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
 *   ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 *   ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 *   ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 *   ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
-
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Fastify
-
-*   [Fastify - Latest Documentation](https://www.fastify.io/docs/latest) (HTML)
-
-### Rust / Sinatra
-
-*   [Rust For Systems Programmers (⭐3.1k)](https://github.com/nrc/r4cppp) - Nick Cameron
-*   [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
-*   [The Rust Language Reference (⭐887)](https://github.com/rust-lang/reference)
 
 ---
 

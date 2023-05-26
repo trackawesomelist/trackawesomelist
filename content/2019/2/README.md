@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 14 - Jan 20, 2019
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -82,7 +82,7 @@
 ### Developer Tools / Version Control
 
 *   [Git Cola](https://git-cola.github.io/) - Powerful, Fast, Lightweight and Friendly Git GUI. For those caffeine adicting users. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
-*   [GitFinder](https://gitfinder.com/) - Fast and lightweight Git client for Mac with Finder integration. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [GitFinder](https://gitfinder.com/) - Fast and lightweight Git client for Mac with Finder integration.
 
 ## [6. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -109,25 +109,35 @@
     [Scaffold](https://bitters.bourbon.io/)
     \| #SCSS
 
-## [8. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [8. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### Python / Symfony
+
+*   [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
+
+### R / Flask
+
+*   [R](https://stats.biopapyrus.jp/r) - 孫建強
+
+## [9. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Related projects
 
 *   [OpenFaaS](https://docs.openfaas.com/) - Serverless Functions Made Simple for Docker and Kubernetes.
 *   [OpenFaaS Cloud (⭐761)](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
 
-## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next.js App with AWS Lambda (⭐57)](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
 
-## [10. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [11. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@withoutboats](https://github.com/withoutboats), [Rust](https://github.com/rust-lang)
     *   "Organizational Debt" ([post](https://boats.gitlab.io/blog/post/rust-2019/))
 
-## [11. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [12. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Jamstack Sites Showcase
 
@@ -144,7 +154,7 @@
 *   [Gatsby for Apps](https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/)
 *   [Turning the Static Dynamic](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
 
-## [12. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Code Splitting
 
@@ -172,7 +182,7 @@
 *   [Jackie Luo: From React to Ember: A Modern Comparison](https://www.youtube.com/watch?v=7yxr4iBrZsw)
 *   [The Future of Ember js](https://www.youtube.com/watch?v=4b9VbB2bnfw) - Summary of upcoming changes to Ember.js based on presentations from EmberConf 2018.
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -180,24 +190,24 @@
 
 ### Animation
 
-*   [Comets (⭐594)](https://github.com/cruisediary/Comets) - Animating Particles.
+*   [Comets (⭐596)](https://github.com/cruisediary/Comets) - Animating Particles.
 
 ### Audio
 
-*   [Soundable (⭐90)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
+*   [Soundable (⭐92)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
 
 ### Colors
 
-*   [SwiftGen-Colors (⭐8.4k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
+*   [SwiftGen-Colors (⭐8.6k)](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
 
 ### JSON
 
 *   [HandyJSON (⭐4.1k)](https://github.com/alibaba/handyjson) - A handy JSON-object serialization/deserialization library.
-*   [PMJSON (⭐363)](https://github.com/postmates/PMJSON) - JSON encoding/decoding library.
+*   [PMJSON (⭐362)](https://github.com/postmates/PMJSON) - JSON encoding/decoding library.
 
 ### Dependency Injection
 
-*   [Pure (⭐363)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+*   [Pure (⭐364)](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
 
 ### Events
 
@@ -207,7 +217,7 @@
 ### Images / Barcode
 
 *   [GPUImage 2 (⭐4.8k)](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed framework for GPU-accelerated video and image processing.
-*   [GPUImage 3 (⭐2.4k)](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed framework for GPU-accelerated video and image processing using Metal.
+*   [GPUImage 3 (⭐2.5k)](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed framework for GPU-accelerated video and image processing using Metal.
 
 ### Layout / Barcode
 
@@ -235,79 +245,79 @@
 
 ### UICollectionView / Barcode
 
-*   [VegaScroll (⭐2.8k)](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView.
+*   [VegaScroll (⭐2.9k)](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView.
 
 ### Utility / Barcode
 
 *   [DifferenceKit (⭐3.3k)](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework.
 *   [FluentQuery (⭐145)](https://github.com/MihaelIsaev/FluentQuery) :penguin: - Powerful and easy to use Query Builder.
 *   [SwifterSwift (⭐12k)](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native extensions to boost your productivity.
-*   [ZamzamKit (⭐260)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐264)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ### Video / Barcode
 
-*   [SwiftFFmpeg (⭐382)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
+*   [SwiftFFmpeg (⭐399)](https://github.com/sunlubo/SwiftFFmpeg) - A wrapper for the FFmpeg C API.
 
-## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [Partyshare](https://busterlabs.github.io/Partyshare) - A simple file sharing desktop app. [Source (⭐152)](https://github.com/BusterLabs/Partyshare)
 
-## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
-*   [denopkg (⭐230)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [denopkg (⭐236)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 
 ### Resources in Other Languages / Japanese
 
 *   [mizchi/deno\_code\_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 
-## [16. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [17. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utilities / Navigation Demos
 
 *   [react-native-ruler ★3 (⭐31)](https://github.com/lfkwtz/react-native-ruler) - A devtool for measuring pixel dimensions on your React Native screens
 
-## [17. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [18. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
 *   [FormAssembly](http://www.formassembly.com/) - Allows you to build any kind of form that can include complex branching logic and multiple pages.
 
-## [18. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [19. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Cookbooks
 
 *   [pizza-dough (⭐3k)](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 *   [mozzarella (⭐55)](https://github.com/hendricius/mozzarella) - Learn how to make homemade mozzarella.
 
-## [19. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [20. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Miscellaneous
 
 *   **GestureAI** - Recommend an artist based on given location and genre. [Download](https://goo.gl/avdMjD) | [Demo (⭐150)](https://github.com/akimach/GestureAI-CoreML-iOS) | [Reference (⭐150)](https://github.com/akimach/GestureAI-iOS/tree/master/GestureAI)
 
-## [20. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [21. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [samsung-messagebox (⭐46)](https://github.com/shantanugoel/samsung-messagebox) - Python script to show notifications on Samsung TVs.
 
-## [21. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [22. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Others / Useful References
 
 *   [Software Testing Interview Tool (⭐31)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
-## [22. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [23. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Other extensions / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - Formatting for the HTML in PHP files. Runs before the save action so you can still have a PHP formatter.
 
-## [23. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [24. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -363,13 +373,13 @@
 
 *   [node-red-dashboard (⭐1.1k)](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
 
-## [24. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [25. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [Query.apex (⭐120)](https://github.com/Click-to-Cloud/Query.apex/) - SOQL query builder on Salesforce.com platform, which supports complex conditions, field and namespace management, child relationships query, and functional programming style coding.
 
-## [25. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [26. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Docker
 
@@ -392,7 +402,7 @@
 
 *   [7 Swift Coding Challenges to Practice Your Skills](https://www.makeuseof.com/tag/swift-coding-challenges/)
 
-## [26. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [27. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
@@ -401,10 +411,10 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensor\_stream (⭐505)](https://github.com/jedld/tensor_stream) -
+*   [tensor\_stream (⭐506)](https://github.com/jedld/tensor_stream) -
     Ground-up and standalone reimplementation of TensorFlow for Ruby.
 
-### Articles, Posts, Talks, and Presentations / Gradient boosting
+### Articles, Posts, Talks, and Presentations / Vector search
 
 *   2018
     *   *Deep Learning Programming on Ruby* by [Kenta Murata](https://twitter.com/mrkn)
@@ -412,23 +422,23 @@
         [page](https://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
     *   *How to use trained Keras and TensorFlow machine learning models within Ruby on Rails* by [Denis Sellu](https://twitter.com/denis_sellu) <sup>\[[post](https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails)]</sup>
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
 *   [scikit-learn algorithm cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
-## [27. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Kubernetes
 
 *   [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
 
-## [28. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [29. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leadership Forums](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leadership-Forums.md)
 
-## [29. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [30. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### PlaygroundBooks
 
@@ -442,7 +452,7 @@
 
 *   [AudioKit Playgrounds](https://audiokit.io/playgrounds/) - 130+ Audio synthesis, processing, playback, and analysis playgrounds with AudioKit.
 
-## [30. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [31. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -458,20 +468,20 @@
 *   [Emotional Intelligence For Engineers - ngAtlanta 2018](https://www.youtube.com/watch?v=SJnVhkEx8Cs) - By April Wensel.
 *   [It's Darkest Before Dawn: Alcoholism And Addiction In Tech - DjangoCon US 2016](https://www.youtube.com/watch?v=lyVHKTGjivo) - By Timothy Allen.
 
-## [31. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [32. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Testing / Misc
 
-*   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+*   [MailHog (⭐12k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
 *   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 
-## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [33. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Blogs
 
 *   [Cindy Sridharan](https://medium.com/@copyconstruct) - Blog posts about distributed systems and their management.
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### State management / Redux / ELM / Dependency Injection
 
@@ -494,19 +504,19 @@
 
 *   Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
 
-## [34. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [35. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Memory / Web
 
 *   [classMemory (⭐49)](https://github.com/Kalamity/classMemory) - by RHCP (Kalamity) - An AHK memory reading/writing class with pattern scans. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?t=1177)
 
-## [35. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [36. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [how-to-export-cpp-library (⭐292)](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -516,11 +526,11 @@
 
 *   [OSM StreetComplete (⭐2.9k)](https://github.com/westnordost/StreetComplete) - Surveyor app for Android to allow users to contribute to OpenStreetMap with ease.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
-*   [libjpeg-turbo (⭐3.2k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
+*   [libjpeg-turbo (⭐3.3k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 
 ### Math
 
@@ -528,15 +538,15 @@
 
 ### Memory Allocation
 
-*   [Boehm GC (⭐2.3k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
+*   [Boehm GC (⭐2.4k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
 
-## [38. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [39. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-fixture-docker-db (⭐1)](https://github.com/cdaringe/ava-fixture-docker-db) - Add docker databases to your test contexts.
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -544,17 +554,17 @@
 
 ### Testing
 
-*   [crytic (⭐59)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
+*   [crytic (⭐60)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Feast (⭐4k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐4.2k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyOD (⭐6.8k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
+*   [PyOD (⭐7k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
 ---
 

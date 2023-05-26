@@ -17,7 +17,7 @@
 
 ### Data Formats
 
-*   [toml.cr (⭐58)](https://github.com/crystal-community/toml.cr) - TOML parser
+*   [toml.cr (⭐59)](https://github.com/crystal-community/toml.cr) - TOML parser
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -169,7 +169,7 @@
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [raphlinus/pulldown-cmark (⭐1.5k)](https://github.com/raphlinus/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
+    *   [raphlinus/pulldown-cmark (⭐1.6k)](https://github.com/raphlinus/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
 
 ## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -194,7 +194,7 @@
 ### GUI
 
 *   [Qml.Net (⭐1.3k)](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
-*   [UWP Community Toolkit (⭐5.4k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
+*   [UWP Community Toolkit (⭐5.5k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 
 ### HTML and CSS
 
@@ -202,7 +202,7 @@
 
 ### Source Generator
 
-*   [Awesome Xamarin (⭐1.8k)](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
+*   [Awesome Xamarin (⭐1.9k)](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -242,11 +242,11 @@
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐668)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐679)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
 ### Software / Pastebins
 
-*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐281)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
+*   [Paste](https://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Source Code (⭐283)](https://github.com/jordansamuel/PASTE)) `GPL-3.0` `PHP`
 
 ## [19. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -258,7 +258,7 @@
 
 ### Open Source / Other
 
-*   [Netron (⭐21k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [Netron (⭐23k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 
 ### Closed Source / Other
 

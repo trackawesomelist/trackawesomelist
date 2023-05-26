@@ -71,7 +71,7 @@
 
 ### Routing
 
-*   [orion (⭐121)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
+*   [orion (⭐122)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Libraries
 
-*   [Ramda Adjunct (⭐643)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
+*   [Ramda Adjunct (⭐663)](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 
 ### Resources / Articles
 
@@ -117,7 +117,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐45)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐47)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 
@@ -127,7 +127,7 @@
 
 ### Documentation / Build system (ROS2)
 
-*   [ROS 2 Tutorials (⭐2.5k)](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
+*   [ROS 2 Tutorials (⭐2.6k)](https://github.com/ros2/ros2/wiki/Tutorials) - Study about ROS2 concept, libraries, build, and development with demoes/examples.
 
 ### Community / Build system (ROS2)
 
@@ -237,7 +237,7 @@
 
 ### Email
 
-*   [burnex (⭐63)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐64)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐227)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐248)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
@@ -281,8 +281,8 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐929)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1.2k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐958)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [32. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -336,7 +336,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐270)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐274)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -344,7 +344,7 @@
 
 ### Device
 
-*   [Thingy (⭐58)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
+*   [Thingy (⭐59)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
 
 ### Cryptography / Barcode
 
@@ -352,7 +352,7 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐805)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐833)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [37. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -412,8 +412,8 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐363)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
-*   [Staart (⭐315)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
+*   [Next Redux Starter (⭐365)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Staart (⭐313)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 
 ---
 

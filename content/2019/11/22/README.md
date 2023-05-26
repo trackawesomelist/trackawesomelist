@@ -43,12 +43,12 @@
 
 ### Database
 
-*   [iORM (⭐39)](https://github.com/mauriziodm/iORM). `[Delphi]`  Delphi ORM interface based useful to develop desktop and mobile application.
+*   [iORM (⭐40)](https://github.com/mauriziodm/iORM). `[Delphi]`  Delphi ORM interface based useful to develop desktop and mobile application.
 
 ### System
 
-*   [ezthreads (⭐56)](https://github.com/mr-highball/ezthreads). `[FPC]` simple to use threading library
-*   [AsyncCalls (⭐95)](https://github.com/ahausladen/AsyncCalls). `[Delphi]` Asynchronous function call framework
+*   [ezthreads (⭐62)](https://github.com/mr-highball/ezthreads). `[FPC]` simple to use threading library
+*   [AsyncCalls (⭐98)](https://github.com/ahausladen/AsyncCalls). `[Delphi]` Asynchronous function call framework
 
 ### Other non-visual
 
@@ -77,11 +77,11 @@
 
 ### Programming Languages
 
-*   [Vala (⭐104)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+*   [Vala (⭐110)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 
 ### Business
 
-*   [Wardley Maps (⭐532)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+*   [Wardley Maps (⭐549)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
 ### Miscellaneous
 

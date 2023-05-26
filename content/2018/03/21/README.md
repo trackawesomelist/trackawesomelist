@@ -10,13 +10,13 @@
 
 ### Frameworks / Self-hosted
 
-*   [node-irc (⭐42)](https://github.com/Throne3d/node-irc) `JavaScript`
+*   [node-irc (⭐43)](https://github.com/Throne3d/node-irc) `JavaScript`
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Media
 
-*   [Xabe.FFmpeg (⭐639)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
+*   [Xabe.FFmpeg (⭐660)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

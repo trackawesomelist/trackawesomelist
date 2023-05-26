@@ -22,13 +22,13 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [MiloszKrajewski/stateful4k (⭐31)](https://github.com/MiloszKrajewski/stateful4k) - State Machine Construction Kit for Kotlin
+*   [MiloszKrajewski/stateful4k (⭐32)](https://github.com/MiloszKrajewski/stateful4k) - State Machine Construction Kit for Kotlin
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Types / Playground
 
-*   [getmytypes (⭐8)](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
+*   [getmytypes (⭐10)](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
 
 ## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 

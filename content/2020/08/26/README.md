@@ -12,23 +12,23 @@
 
 *   [SimPy](https://gitlab.com/team-simpy/simpy) -  A process-based discrete-event simulation framework.
 
-## [2. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
+
+### Web / Scanning / Pentesting
+
+*   [PhpSploit (⭐1.9k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner. Built for stealth persistence, with many privilege-escalation & post-exploitation features.
+
+## [3. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Testing / Official resources
 
 *   [Suitest](https://suite.st) - Test automation solution for Smart TVs, gaming consoles, streaming sticks etc.
 
-## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
-
-### Web Exploitation / Web shells and C2 frameworks
-
-*   [PhpSploit (⭐1.8k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner.
-
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simultaneous Localization and Mapping / Vector Map
 
-*   [gdal (⭐3.4k)](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
+*   [gdal (⭐3.8k)](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -46,9 +46,9 @@
 
 ### Individual components / Others
 
-*   [Stl.Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐135)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
-*   [Blazor-DragDrop (⭐318)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
-*   [BlazorTransitionableRoute (⭐127)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
+*   [Stl.Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐138)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
+*   [Blazor-DragDrop (⭐336)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
+*   [BlazorTransitionableRoute (⭐133)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Mobile
 
-*   🔌 [FlutterFire (⭐7.2k)](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
+*   🔌 [FlutterFire (⭐7.6k)](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

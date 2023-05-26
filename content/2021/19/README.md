@@ -10,7 +10,7 @@
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-google-autocomplete (⭐361)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
+*   [react-google-autocomplete (⭐376)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Logging
 
-*   [fmtlog (⭐473)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
+*   [fmtlog (⭐541)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Service meshes
 
-*   [helm-secrets (⭐809)](https://github.com/jkroepke/helm-secrets) - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
+*   [helm-secrets (⭐912)](https://github.com/jkroepke/helm-secrets) - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
 
 ## [5. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Development / Database
 
-*   [usql (⭐7.8k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+*   [usql (⭐8k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
 ## [8. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -58,7 +58,7 @@
 
 ### IO / ADC
 
-*   [MicroPython-ADC\_Cal (⭐13)](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
+*   [MicroPython-ADC\_Cal (⭐14)](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
 
 ## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -82,13 +82,13 @@
 
 ### Action
 
-*   [re3 (⭐1.4k)](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
+*   [re3](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
 
 ## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
-*   [guardian\_db (⭐341)](https://github.com/ueberauth/guardian_db) - An extension to Guardian that tracks tokens in your application's database to prevent playback. ([Docs](https://hexdocs.pm/guardian_db/readme.html)).
+*   [guardian\_db (⭐344)](https://github.com/ueberauth/guardian_db) - An extension to Guardian that tracks tokens in your application's database to prevent playback. ([Docs](https://hexdocs.pm/guardian_db/readme.html)).
 *   [guardian\_redis (⭐3)](https://github.com/alexfilatov/guardian_redis) - Redis repository for Guardian DB. ([Docs](https://hexdocs.pm/guardian_redis/readme.html)).
 
 ### Security
@@ -99,7 +99,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Samaya (⭐7)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
+*   [Samaya (⭐8)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 
 ## [16. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Contents / Components
 
-*   [Preact Transitioning (⭐27)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
+*   [Preact Transitioning (⭐36)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 
 ## [18. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Templates / React
 
-*   [vite-template-react (⭐41)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+*   [vite-template-react (⭐53)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 
 ## [20. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Localization and State Estimation / Lidar and Point Cloud Processing
 
-*   [libRSF (⭐172)](https://github.com/TUC-ProAut/libRSF) - A robust sensor fusion library for online localization.
+*   [libRSF (⭐180)](https://github.com/TUC-ProAut/libRSF) - A robust sensor fusion library for online localization.
 
 ## [22. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
@@ -157,15 +157,15 @@
 
 ### Computer Science
 
-*   [Machine Learning (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Machine Learning (⭐59k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
     *   [Tutorials (⭐13k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
     *   [ML with Ruby (⭐1.9k)](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-    *   [Core ML Models (⭐5.7k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-    *   [H2O (⭐341)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+    *   [Core ML Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
+    *   [H2O (⭐345)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
     *   [Software Engineering for Machine Learning (⭐1.1k)](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
-    *   [AI in Finance (⭐1.7k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
-    *   [JAX (⭐893)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
-    *   [XAI (⭐66)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+    *   [AI in Finance (⭐1.8k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+    *   [JAX (⭐948)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+    *   [XAI (⭐79)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 
 ## [24. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -200,12 +200,12 @@
 ### Bibliography tools
 
 *   [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-*   [Papis (⭐948)](https://github.com/papis/papis) - Extremely customizable,
+*   [Papis (⭐1k)](https://github.com/papis/papis) - Extremely customizable,
     powerful and simple cross-platform (Python) library manager. It has a very
     complete Command-Line-Interface, several GUIs and scripting capability.
     ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Mendeley](https://www.mendeley.com) - Both an app and cloud client to manage your references and PDFs. Can sync out to a bibtex file for your LaTeX workflow. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg)
-*   [betterbib (⭐757)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [betterbib (⭐773)](https://github.com/nschloe/betterbib) - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Build Tools
 
@@ -214,14 +214,20 @@
 ### Misc. Tools
 
 *   [Pandoc](https://pandoc.org) - This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-*   [LaTeXiT](https://www.chachatelier.fr/latexit/) - LaTeXit is an equation editor that makes it easy to drag-and-drop rendered equations (as PDF, PNG, etc.) into your non-LaTeX documents on the Mac. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg)
+
+### Quality Check Tools
+
+*   [blacktex (⭐142)](https://github.com/nschloe/blacktex) - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+
+### Tools centered around equations
+
 *   [KLaTeXFormula](https://klatexformula.sourceforge.io) - Cross-platform alternative for LaTeXit. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Laeqed](https://www.thrysoee.dk/laeqed/) - Crossplatform LaTeX formula to PNG convertor. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-*   [blacktex (⭐134)](https://github.com/nschloe/blacktex) - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [LaTeXiT](https://www.chachatelier.fr/latexit/) - LaTeXit is an equation editor that makes it easy to drag-and-drop rendered equations (as PDF, PNG, etc.) into your non-LaTeX documents on the Mac. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg)
 
 ### LaTeX-compatible GUI tools
 
-*   [TikZ-Editor (⭐165)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [TikZ-Editor (⭐168)](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 *   [TikZiT](https://tikzit.GitHub.io) - GUI tool for creating graphs and string diagrams using PGF/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
@@ -237,7 +243,7 @@
 
 *   [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-) - Useful website with some custom packages to draw special plots (Bode, Nyquist, electrical schematics, block schematics, etc.) using TikZ. Note that everything is in French.
 *   [matlab2tikz (⭐1.3k)](https://github.com/matlab2tikz/matlab2tikz) - Convert your MATLAB plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
-*   [tikzplotlib (⭐2k)](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [tikzplotlib (⭐2.1k)](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ### Resources / TikZ
 
@@ -247,7 +253,7 @@
 
 ### AppImage consumption tools / Desktop integration
 
-*   [Thumbnailer for AppImages (⭐5)](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
+*   [Thumbnailer for AppImages (⭐6)](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
 
 ## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -261,7 +267,7 @@
 
 ### Example Projects
 
-*   [Keycloak Last Login Date Event Listener (⭐20)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
+*   [Keycloak Last Login Date Event Listener (⭐19)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 
 ## [27. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -291,22 +297,22 @@
 
 ### Tools
 
-*   💼 [Tailwind CSS Figma Kit (⭐717)](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
-*   💼 [Tailwind CSS Figma Plugin (⭐260)](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
+*   💼 [Tailwind CSS Figma Kit (⭐722)](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
+*   💼 [Tailwind CSS Figma Plugin (⭐262)](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 
 ### Starters & Themes
 
-*   🚀 [Gatsby Starter + TypeScript (⭐77)](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
+*   🚀 [Gatsby Starter + TypeScript (⭐79)](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
 
 ## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management
 
-*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐127)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
+*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐156)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 
 ### Software / Password Managers
 
-*   [Vaultwarden (⭐23k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`
+*   [Vaultwarden (⭐25k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`
 
 ## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -322,7 +328,7 @@
 
 ### Open Source / Platformer
 
-*   [Flutters (⭐190)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+*   [Flutters (⭐196)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
 ## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -415,14 +421,14 @@
 ### Links / Official Links
 
 *   [Kotlin Forum](https://discuss.kotlinlang.org/)
-*   [Kotlin/KEEP (⭐2.9k)](https://github.com/Kotlin/KEEP) - Kotlin Evolution and Enhancement Process
+*   [Kotlin/KEEP (⭐3k)](https://github.com/Kotlin/KEEP) - Kotlin Evolution and Enhancement Process
 
 ### Links / Resources
 
 *   [Awesome Kotlin Jobs (⭐16)](https://github.com/vinigmoraes/awesome-kotlin-jobs) - A curated list of companies using Kotlin
-*   [AlexeySoshin/Hands-on-Design-Patterns-with-Kotlin (⭐26)](https://github.com/AlexeySoshin/Hands-on-Design-Patterns-with-Kotlin) - Code examples for 'Hands-on Design Patterns with Kotlin' book
-*   [From Java To Kotlin (⭐551)](https://github.com/fabiomsr/from-java-to-kotlin) - From Java to Kotlin Cheat Sheet
-*   [dbacinski/Design-Patterns-In-Kotlin (⭐5.6k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
+*   [AlexeySoshin/Hands-on-Design-Patterns-with-Kotlin (⭐27)](https://github.com/AlexeySoshin/Hands-on-Design-Patterns-with-Kotlin) - Code examples for 'Hands-on Design Patterns with Kotlin' book
+*   [From Java To Kotlin (⭐554)](https://github.com/fabiomsr/from-java-to-kotlin) - From Java to Kotlin Cheat Sheet
+*   [dbacinski/Design-Patterns-In-Kotlin (⭐5.7k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
 
 ### Libraries/Frameworks / Web
 
@@ -431,57 +437,57 @@
 *   [AurityLab/graphql-kotlin-toolkit (⭐10)](https://github.com/AurityLab/graphql-kotlin-toolkit) - GraphQL toolkit for Kotlin (includes code generator and spring boot integration)
 *   [phenax/h (⭐14)](https://github.com/phenax/h) - HTML templating library written in Kotlin
 *   [celtric/kotlin-html (⭐25)](https://github.com/celtric/kotlin-html) - A library to generate HTML in Kotlin.
-*   [sepatel/tekniq (⭐33)](https://github.com/sepatel/tekniq) - Full-feature HTTP DSL Framework, HTTP Client, JDBC DSL, Loading Cache and Configuration
-*   [spypunk/sponge (⭐37)](https://github.com/spypunk/sponge) - A website crawler and links downloader command line tool written in Kotlin
+*   [sepatel/tekniq (⭐35)](https://github.com/sepatel/tekniq) - Full-feature HTTP DSL Framework, HTTP Client, JDBC DSL, Loading Cache and Configuration
+*   [spypunk/sponge (⭐38)](https://github.com/spypunk/sponge) - A website crawler and links downloader command line tool written in Kotlin
 *   [danneu/kog (⭐42)](https://github.com/danneu/kog) - A web framework focused on simplicity, middleware, and functional composition
 *   [gimlet2/kottpd (⭐74)](https://github.com/gimlet2/kottpd) - REST framework in pure Kotlin, inspired by spark-java
-*   [brianmadden/krawler (⭐125)](https://github.com/brianmadden/krawler) - A web crawling framework written in Kotlin
-*   [alpas/alpas (⭐176)](https://github.com/alpas/alpas) - Kotlin web framework inspired by Laravel/Rails. Easy, elegant and productive.
-*   [vert-x3/vertx-lang-kotlin (⭐275)](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
-*   [hypercube1024/firefly (⭐289)](https://github.com/hypercube1024/firefly) - An asynchronous web framework for rapid development of high-performance web application.
-*   [SeunAdelekan/Kanary (⭐323)](https://github.com/SeunAdelekan/Kanary) - A micro webframework for Kotlin
-*   [TinyMission/kara (⭐471)](https://github.com/TinyMission/kara) - Web framework written in Kotlin.
-*   [hhariri/wasabi (⭐508)](https://github.com/hhariri/wasabi) - An HTTP Framework built with Kotlin for the JVM.
-*   [kwebio/kweb-core (⭐868)](https://github.com/kwebio/kweb-core) - Build rich live-updating web apps in pure server-side Kotlin.
+*   [brianmadden/krawler (⭐127)](https://github.com/brianmadden/krawler) - A web crawling framework written in Kotlin
+*   [alpas/alpas (⭐178)](https://github.com/alpas/alpas) - Kotlin web framework inspired by Laravel/Rails. Easy, elegant and productive.
+*   [vert-x3/vertx-lang-kotlin (⭐276)](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
+*   [hypercube1024/firefly (⭐288)](https://github.com/hypercube1024/firefly) - An asynchronous web framework for rapid development of high-performance web application.
+*   [SeunAdelekan/Kanary (⭐324)](https://github.com/SeunAdelekan/Kanary) - A micro webframework for Kotlin
+*   [TinyMission/kara (⭐472)](https://github.com/TinyMission/kara) - Web framework written in Kotlin.
+*   [hhariri/wasabi (⭐510)](https://github.com/hhariri/wasabi) - An HTTP Framework built with Kotlin for the JVM.
+*   [kwebio/kweb-core (⭐898)](https://github.com/kwebio/kweb-core) - Build rich live-updating web apps in pure server-side Kotlin.
 *   [Kotlin/kotlinx.html (⭐1.4k)](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML.
 *   [http4k/http4k](https://www.http4k.org) - Toolkit for serving and consuming HTTP services in a functional and consistent way.
-*   [tipsy/javalin (⭐6.3k)](https://github.com/tipsy/javalin) - A Simple REST API Library for Java/Kotlin.
+*   [tipsy/javalin (⭐6.5k)](https://github.com/tipsy/javalin) - A Simple REST API Library for Java/Kotlin.
 *   [ktorio/ktor](https://ktor.io/) - Web backend framework for Kotlin. Easy to use, fun and asynchronous.
 
 ### Libraries/Frameworks / Testing
 
-*   [willowtreeapps/opentest4k (⭐3)](https://github.com/willowtreeapps/opentest4k) - kotlin multiplatform implementation/bindings of opentest4j
 *   [krzema12/vis-assert (⭐5)](https://github.com/krzema12/vis-assert) - Test the shape of your functions!
 *   [dmcg/k-sera (⭐8)](https://github.com/dmcg/k-sera) - A JMock wrapper for Kotlin.
+*   [willowtreeapps/opentest4k (⭐13)](https://github.com/willowtreeapps/opentest4k) - kotlin multiplatform implementation/bindings of opentest4j
 *   [neworld/kupiter (⭐14)](https://github.com/neworld/kupiter) - Kotlin DSL for Junit5
 *   [from-source/kiwi (⭐17)](https://github.com/from-source/kiwi) - Fluent assertions library with support of json path.
 *   [mvysny/DynaTest (⭐22)](https://github.com/mvysny/DynaTest) - Write your tests in DSL way. Runs on JUnit5 Platform.
-*   [dmcg/konsent (⭐27)](https://github.com/dmcg/konsent) - An acceptance test library for Kotlin.
+*   [dmcg/konsent (⭐28)](https://github.com/dmcg/konsent) - An acceptance test library for Kotlin.
 *   [EranBoudjnah/RandomGenKt (⭐28)](https://github.com/EranBoudjnah/RandomGenKt) - Initialize instances of any class with generated data.
 *   [qwertukg/SeleniumBuilder (⭐51)](https://github.com/qwertukg/SeleniumBuilder) - DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin builder style.
-*   [dmcg/minutest (⭐99)](https://github.com/dmcg/minutest) - Simple, Expressive, Extensible Testing for Kotlin on the JVM
-*   [karumi/KotlinSnapshot (⭐157)](https://github.com/karumi/KotlinSnapshot) - Verify your data with snapshot testing.
-*   [npryce/hamkrest (⭐340)](https://github.com/npryce/hamkrest) - A reimplementation of Hamcrest to take advantage of Kotlin language features.
-*   [MarkusAmshove/Kluent (⭐830)](https://github.com/MarkusAmshove/Kluent) - Fluent Assertion-Library for Kotlin.
+*   [dmcg/minutest (⭐100)](https://github.com/dmcg/minutest) - Simple, Expressive, Extensible Testing for Kotlin on the JVM
+*   [karumi/KotlinSnapshot (⭐159)](https://github.com/karumi/KotlinSnapshot) - Verify your data with snapshot testing.
+*   [npryce/hamkrest (⭐342)](https://github.com/npryce/hamkrest) - A reimplementation of Hamcrest to take advantage of Kotlin language features.
+*   [MarkusAmshove/Kluent (⭐840)](https://github.com/MarkusAmshove/Kluent) - Fluent Assertion-Library for Kotlin.
 *   [JetBrains/spek (⭐2.2k)](https://github.com/JetBrains/spek) - A specification framework for Kotlin.
 *   [nhaarman/mockito-kotlin (⭐3k)](https://github.com/nhaarman/mockito-kotlin) - Using Mockito with Kotlin.
-*   [kotest/kotest (⭐3.8k)](https://github.com/kotest/kotest) - Formerly known as KotlinTest, Kotest is a flexible and comprehensive testing tool that is multiplatform enabled.
-*   [mockk/mockk (⭐4.9k)](https://github.com/mockk/mockk) - Pure Kotlin mocking library.
+*   [kotest/kotest (⭐3.9k)](https://github.com/kotest/kotest) - Formerly known as KotlinTest, Kotest is a flexible and comprehensive testing tool that is multiplatform enabled.
+*   [mockk/mockk (⭐5k)](https://github.com/mockk/mockk) - Pure Kotlin mocking library.
 
 ### Libraries/Frameworks / Dependency Injection
 
 *   [Rasalexman/KODI (⭐12)](https://github.com/Rasalexman/KODI) - light-weight KOtlin Dependency Injection Framework with or without reflection module without kapt
-*   [corbella83/PopKorn (⭐146)](https://github.com/corbella83/PopKorn) - Forget about modules and components. DI can be simple
-*   [evant/kotlin-inject (⭐550)](https://github.com/evant/kotlin-inject) - Dependency injection lib for kotlin
-*   [Kodein-Framework/Kodein-DI (⭐2.9k)](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection.
-*   [Ekito/koin (⭐7.9k)](https://github.com/Ekito/koin) - A functional Kotlin dependency injection framework for Android and JVM.
+*   [corbella83/PopKorn (⭐147)](https://github.com/corbella83/PopKorn) - Forget about modules and components. DI can be simple
+*   [evant/kotlin-inject (⭐747)](https://github.com/evant/kotlin-inject) - Dependency injection lib for kotlin
+*   [Kodein-Framework/Kodein-DI (⭐3k)](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection.
+*   [Ekito/koin (⭐8k)](https://github.com/Ekito/koin) - A functional Kotlin dependency injection framework for Android and JVM.
 
 ### Libraries/Frameworks / Coroutines
 
 *   [KingFalse/harrier (⭐4)](https://github.com/KingFalse/harrier) - Simpler use of multithreading in Kotlin.
 *   [Rasalexman/coroutinesmanager (⭐15)](https://github.com/Rasalexman/coroutinesmanager) - try-catch safety coroutines manager
 *   [rozkminiacz/FlowRiddles (⭐32)](https://github.com/rozkminiacz/FlowRiddles) - Repository for learning Kotlin Flow API
-*   [cloudoptlab/cloudopt-next (⭐314)](https://github.com/cloudoptlab/cloudopt-next) - A next-generation Java web lightweight framework based on vertx and kotlin.
+*   [cloudoptlab/cloudopt-next (⭐319)](https://github.com/cloudoptlab/cloudopt-next) - A next-generation Java web lightweight framework based on vertx and kotlin.
 *   [Kotlin/kotlin-coroutines (⭐1.4k)](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin.
 *   [Kotlin/kotlinx.coroutines (⭐12k)](https://github.com/Kotlin/kotlinx.coroutines) - Libraries built upon Kotlin coroutines.
 
@@ -490,80 +496,80 @@
 *   [poetix/klenses (⭐45)](https://github.com/poetix/klenses) - Lenses for Kotlin.
 *   [beyondeye/Reduks (⭐109)](https://github.com/beyondeye/Reduks) - A "batteries included" port of Reduxjs for Kotlin+Android
 *   [brianegan/bansa (⭐442)](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux.
-*   [kittinunf/Result (⭐839)](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin.
-*   [arrow-kt/arrow (⭐5.5k)](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library.
-*   [ReactiveX/RxKotlin (⭐6.9k)](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin.
+*   [kittinunf/Result (⭐853)](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin.
+*   [arrow-kt/arrow (⭐5.7k)](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library.
+*   [ReactiveX/RxKotlin (⭐7k)](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin.
 
 ### Libraries/Frameworks / Serialization
 
 *   [marifeta/kvalidator (⭐6)](https://github.com/marifeta/kvalidator) - Kotlin validator (compatible with laravel validation rules) for json kotlinx.serialization!
 *   [holgerbrandl/jsonbuilder (⭐18)](https://github.com/holgerbrandl/jsonbuilder) - A tiny DSL to create json using idiomatic Kotlin
-*   [aafanasev/kson (⭐103)](https://github.com/aafanasev/kson) - Auto-generate GSON type adapters for Kotlin data classes
+*   [aafanasev/kson (⭐104)](https://github.com/aafanasev/kson) - Auto-generate GSON type adapters for Kotlin data classes
 *   [FasterXML/jackson-module-kotlin (⭐1k)](https://github.com/FasterXML/jackson-module-kotlin) - Jackson module that adds support for serialization/deserialization of Kotlin classes and data classes.
 *   [cbeust/klaxon (⭐1.8k)](https://github.com/cbeust/klaxon) - Lightweight library to parse JSON in Kotlin.
-*   [Kotlin/kotlinx.serialization (⭐4.4k)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format reflectionless serialization
+*   [Kotlin/kotlinx.serialization (⭐4.5k)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format reflectionless serialization
 
 ### Libraries/Frameworks / Database
 
 *   [Ganet/rxaerospike (⭐7)](https://github.com/Ganet/rxaerospike) - RxJava2 wrapper for aerospike-client-java.
 *   [KotlinPorts/kt-postgresql-async (⭐23)](https://github.com/KotlinPorts/kt-postgresql-async) - Kotlin/Gradle port of mauricio's async driver for postgres/mysql.
 *   [coupang/spring-data-requery (⭐47)](https://github.com/coupang/spring-data-requery) - Spring Data for Requery (lightweight ORM)
-*   [seratch/kotliquery (⭐187)](https://github.com/seratch/kotliquery) - A handy database access library in Kotlin.
+*   [seratch/kotliquery (⭐190)](https://github.com/seratch/kotliquery) - A handy database access library in Kotlin.
 *   [JetBrains/xodus (⭐1.1k)](https://github.com/JetBrains/xodus) - Transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub.
 *   [ebean-orm/ebean (⭐1.4k)](https://github.com/ebean-orm/ebean) - Ebean is a Java & Kotlin ORM including type safe kotlin queries
 *   [requery/requery (⭐3.1k)](https://github.com/requery/requery) - Modern SQL based query & persistence for Java/Kotlin/Android.
 *   [jankotek/mapdb (⭐4.7k)](https://github.com/jankotek/mapdb) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.
 *   [Raizlabs/DBFlow (⭐4.9k)](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
-*   [JetBrains/Exposed (⭐6.9k)](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language.
+*   [JetBrains/Exposed (⭐7.1k)](https://github.com/JetBrains/Exposed) - Exposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language.
 
 ### Libraries/Frameworks / Tools
 
 *   [cypressious/KotlinW (⭐18)](https://github.com/cypressious/KotlinW) - A small wrapper for the Kotlin compiler that can be used to execute .kts scripts.
-*   [mkohm/detekt-hint (⭐69)](https://github.com/mkohm/detekt-hint) - Detection of design principle violations as a plugin to detekt.
-*   [s1monw1/KtsRunner (⭐197)](https://github.com/s1monw1/KtsRunner) - Library for executing .kts files from regular Kotlin code using Java Scripting Engines API
+*   [mkohm/detekt-hint (⭐73)](https://github.com/mkohm/detekt-hint) - Detection of design principle violations as a plugin to detekt.
+*   [s1monw1/KtsRunner (⭐199)](https://github.com/s1monw1/KtsRunner) - Library for executing .kts files from regular Kotlin code using Java Scripting Engines API
 *   [jmfayard/refreshVersions (⭐1.5k)](https://github.com/jmfayard/refreshVersions) - Better Gradle dependencies management inside the IDE. Search for available updates.
 *   [holgerbrandl/kscript (⭐1.9k)](https://github.com/holgerbrandl/kscript) - Scripting utils for Kotlin.
-*   [Kotlin/dokka (⭐2.8k)](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.
-*   [detekt/detekt (⭐5.2k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
-*   [pinterest/ktlint (⭐5.4k)](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter.
+*   [Kotlin/dokka (⭐2.9k)](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.
+*   [detekt/detekt (⭐5.4k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
+*   [pinterest/ktlint (⭐5.6k)](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter.
 
 ### Libraries/Frameworks / Compiler Plugins
 
-*   [google/ksp (⭐2k)](https://github.com/google/ksp) - Kotlin Symbol Processing API
+*   [google/ksp (⭐2.1k)](https://github.com/google/ksp) - Kotlin Symbol Processing API
 
 ### Libraries/Frameworks / Http Clients
 
 *   [speekha/httpmocker (⭐175)](https://github.com/speekha/httpmocker) - Kotlin library to handle offline mode easily with OkHttp.
-*   [rybalkinsd/kohttp (⭐464)](https://github.com/rybalkinsd/kohttp) - Kotlin DSL-based HTTP client.
-*   [jkcclemens/khttp (⭐471)](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library.
+*   [rybalkinsd/kohttp (⭐468)](https://github.com/rybalkinsd/kohttp) - Kotlin DSL-based HTTP client.
+*   [jkcclemens/khttp (⭐473)](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library.
 *   [kittinunf/Fuel (⭐4.3k)](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
 
 ### Libraries/Frameworks / Editors
 
 *   [sargunster/kotlin-textmate-bundle (⭐12)](https://github.com/sargunster/kotlin-textmate-bundle) - Kotlin bundle for TextMate.
-*   [alexmt/atom-kotlin-language (⭐24)](https://github.com/alexmt/atom-kotlin-language) - Adds syntax highlighting to Kotlin files in Atom
+*   [alexmt/atom-kotlin-language (⭐26)](https://github.com/alexmt/atom-kotlin-language) - Adds syntax highlighting to Kotlin files in Atom
 *   [ice1000/NppExtension (⭐73)](https://github.com/ice1000/NppExtension) - Kotlin Language extension for Notepad++
-*   [vkostyukov/kotlin-sublime-package (⭐131)](https://github.com/vkostyukov/kotlin-sublime-package) - A Sublime Package for Kotlin.
-*   [ftomassetti/kanvas (⭐140)](https://github.com/ftomassetti/kanvas) - A truly hackable editor: simple, lightweight, understandable.
-*   [mathiasfrohlich/vscode-kotlin (⭐188)](https://github.com/mathiasfrohlich/vscode-kotlin) - Kotlin language support for VS Code.
-*   [udalov/kotlin-vim (⭐586)](https://github.com/udalov/kotlin-vim) - Kotlin Syntax Highlighter for Vim.
-*   [fwcd/KotlinLanguageServer (⭐1.1k)](https://github.com/fwcd/KotlinLanguageServer) - Smart code completion, diagnostics and more for Kotlin using the Language Server Protocol. VS Code extension included.
+*   [vkostyukov/kotlin-sublime-package (⭐130)](https://github.com/vkostyukov/kotlin-sublime-package) - A Sublime Package for Kotlin.
+*   [ftomassetti/kanvas (⭐142)](https://github.com/ftomassetti/kanvas) - A truly hackable editor: simple, lightweight, understandable.
+*   [mathiasfrohlich/vscode-kotlin (⭐191)](https://github.com/mathiasfrohlich/vscode-kotlin) - Kotlin language support for VS Code.
+*   [udalov/kotlin-vim (⭐588)](https://github.com/udalov/kotlin-vim) - Kotlin Syntax Highlighter for Vim.
+*   [fwcd/KotlinLanguageServer (⭐1.2k)](https://github.com/fwcd/KotlinLanguageServer) - Smart code completion, diagnostics and more for Kotlin using the Language Server Protocol. VS Code extension included.
 *   [JetBrains/intellij-community (⭐15k)](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
 
 ### Libraries/Frameworks / Syntax Highlighters
 
 *   [birkenfeld/pygments-main](https://bitbucket.org/birkenfeld/pygments-main) - Python syntax highlighter.
-*   [cansik/kotlin-latex-listing (⭐108)](https://github.com/cansik/kotlin-latex-listing) - A syntax highlighting template for the Kotlin language in LaTeX listings.
+*   [cansik/kotlin-latex-listing (⭐114)](https://github.com/cansik/kotlin-latex-listing) - A syntax highlighting template for the Kotlin language in LaTeX listings.
 *   [github/linguist (⭐11k)](https://github.com/github/linguist) - For Ruby/Github, uses Sublime package
-*   [isagalaev/highlight.js (⭐21k)](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
+*   [isagalaev/highlight.js (⭐22k)](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
 
 ### Libraries/Frameworks / Game Development
 
 *   [vassilibykov/AdventKT (⭐17)](https://github.com/vassilibykov/AdventKT) - A Kotlin-based DSL for text adventures, with a partial replica of the classic Colossal Cave as an example.
 *   [KogeLabs/Ockero (⭐65)](https://github.com/KogeLabs/Ockero) - Ockero: Kotlin OpenGl Game Engine
 *   [icela/FriceEngine (⭐339)](https://github.com/icela/FriceEngine) - Make game developing easy again!
-*   [Hexworks/zircon (⭐708)](https://github.com/Hexworks/zircon) - An extensible text GUI library which targets multiple platforms and designed specifically for game developers, written in Kotlin.
-*   [AlmasB/FXGL (⭐3k)](https://github.com/AlmasB/FXGL) - JavaFX 8 Game Library written in Java + Kotlin
+*   [Hexworks/zircon (⭐714)](https://github.com/Hexworks/zircon) - An extensible text GUI library which targets multiple platforms and designed specifically for game developers, written in Kotlin.
+*   [AlmasB/FXGL (⭐3.2k)](https://github.com/AlmasB/FXGL) - JavaFX 8 Game Library written in Java + Kotlin
 
 ### Libraries/Frameworks / Misc
 
@@ -571,12 +577,12 @@
 *   [Lewik/klog (⭐11)](https://github.com/Lewik/klog) - Minimalistic and multiplatform logging for Kotlin
 *   [dotCipher/kase-format (⭐17)](https://github.com/dotCipher/kase-format) - String case conversion and detection library
 *   [mplatvoet/progress (⭐20)](https://github.com/mplatvoet/progress) - Progress for Kotlin.
-*   [cesarferreira/kotlin-pluralizer (⭐46)](https://github.com/cesarferreira/kotlin-pluralizer) - Kotlin extension to pluralize and singularize strings.
+*   [cesarferreira/kotlin-pluralizer (⭐47)](https://github.com/cesarferreira/kotlin-pluralizer) - Kotlin extension to pluralize and singularize strings.
 *   [debop/koda-time (⭐83)](https://github.com/debop/koda-time) - Joda Time Extensions in Kotlin. (From Java 8 use java.time instead)
-*   [just-ai/jaicf-kotlin (⭐215)](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development.
+*   [just-ai/jaicf-kotlin (⭐219)](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development.
 *   [oolong-kt/oolong](https://oolong-kt.org) - Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
-*   [hotchemi/khronos (⭐328)](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
-*   [pemistahl/lingua (⭐550)](https://github.com/pemistahl/lingua) - A language detection library suitable for long and short text alike
+*   [hotchemi/khronos (⭐327)](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
+*   [pemistahl/lingua (⭐576)](https://github.com/pemistahl/lingua) - A language detection library suitable for long and short text alike
 *   [mplatvoet/kovenant (⭐656)](https://github.com/mplatvoet/kovenant) - Promises for Kotlin and Android
 *   [MicroUtils/kotlin-logging (⭐2.1k)](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. Used as a wrapper for slf4j with Kotlin extensions.
 *   [ingokegel/jclasslib (⭐2.3k)](https://github.com/ingokegel/jclasslib) - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
@@ -585,47 +591,47 @@
 ### Libraries/Frameworks / Parsers
 
 *   [ParserKt/ParserKt (⭐11)](https://github.com/ParserKt/ParserKt) - Naive one-pass recursive descent, scannerless parser framework for Kotlin
-*   [fork-handles/parser4k (⭐141)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
-*   [h0tk3y/better-parse (⭐354)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
+*   [fork-handles/parser4k (⭐146)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [h0tk3y/better-parse (⭐375)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 
 ### Libraries/Frameworks / Multiplatform
 
 *   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
-*   [davidepianca98/KMQTT (⭐57)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
-*   [ionspin/kotlin-multiplatform-bignum (⭐232)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
-*   [GitLiveApp/firebase-kotlin-sdk (⭐538)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
+*   [davidepianca98/KMQTT (⭐72)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
+*   [ionspin/kotlin-multiplatform-bignum (⭐237)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
+*   [GitLiveApp/firebase-kotlin-sdk (⭐609)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 
 ### Libraries/Frameworks / Extensions
 
-*   [vanshg/KrazyKotlin (⭐76)](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
+*   [vanshg/KrazyKotlin (⭐81)](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
 
 ### Libraries/Frameworks / Configuration
 
 *   [daviddenton/configur8 (⭐11)](https://github.com/daviddenton/configur8) - A Kotlin port of Configur8 - A Type Safe Configuration API for Kotlin, extendable to user-defined types.
 *   [Nohus/AutoKonfig](https://autokonfig.nohus.dev/) - A Kotlin configuration library with batteries included. Type-safe, zero lines of setup.
 *   [davidohana/kofiko-kotlin (⭐21)](https://github.com/davidohana/kofiko-kotlin) - Kofiko: Code-First configuration library. Lightweight, simple and minimal boilerplate.
-*   [ufoscout/properlty (⭐26)](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
+*   [ufoscout/properlty (⭐27)](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
 *   [mariomac/kaconf (⭐55)](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
 *   [jdiazcano/cfg4k (⭐80)](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
-*   [config4k/config4k (⭐235)](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
+*   [config4k/config4k (⭐240)](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
 *   [npryce/konfig (⭐269)](https://github.com/npryce/konfig) - A Type Safe Configuration API for Kotlin
-*   [cdimascio/dotenv-kotlin (⭐404)](https://github.com/cdimascio/dotenv-kotlin) - A zero-dependency module that loads environment variables from a .env file
-*   [sksamuel/hoplite (⭐681)](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
+*   [cdimascio/dotenv-kotlin (⭐414)](https://github.com/cdimascio/dotenv-kotlin) - A zero-dependency module that loads environment variables from a .env file
+*   [sksamuel/hoplite (⭐728)](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
 
 ### Libraries/Frameworks / Graphics
 
 *   [kotlin-graphics/ovr (⭐6)](https://github.com/kotlin-graphics/ovr) - Oculus binding
-*   [kotlin-graphics/uno-sdk (⭐25)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
-*   [data2viz/data2viz (⭐372)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
-*   [kotlin-graphics/imgui (⭐524)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
-*   [openrndr/openrndr (⭐717)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
+*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
+*   [data2viz/data2viz (⭐384)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
+*   [kotlin-graphics/imgui (⭐535)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
+*   [openrndr/openrndr (⭐755)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
 
 ## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Middleware
 
-*   [Eclipse Zenoh (⭐722)](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh>)
-*   [Eclipse Zenoh-Plugin-DDS (⭐92)](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds>)
+*   [Eclipse Zenoh (⭐808)](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh>)
+*   [Eclipse Zenoh-Plugin-DDS (⭐107)](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds>)
 
 ## [37. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
@@ -653,12 +659,12 @@
 
 ### Table
 
-*   [svelte-generic-crud-table (⭐49)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+*   [svelte-generic-crud-table (⭐55)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
 *   [svelte-generic-table-pager (⭐4)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte (⭐82)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐104)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ## [40. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
@@ -692,7 +698,7 @@
 
 ### Contents / Shopping
 
-*   [Flutter WooCommerce app (⭐323)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
+*   [Flutter WooCommerce app (⭐334)](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
 
 ---
 

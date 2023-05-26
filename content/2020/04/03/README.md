@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,12 +10,12 @@
 
 ### Security
 
-*   [BreachDetector ★11 (⭐76)](https://github.com/nmilcoff/BreachDetector) - Detect root, emulation, debug mode and other security concerns in your Xamarin apps.
-*   [Permissions ★255 (⭐283)](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
+*   [BreachDetector ★11 (⭐79)](https://github.com/nmilcoff/BreachDetector) - Detect root, emulation, debug mode and other security concerns in your Xamarin apps.
+*   [Permissions ★255 (⭐285)](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
 
 ### Xamarin.Forms
 
-*   [Circle Image Control (⭐245)](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
+*   [Circle Image Control (⭐244)](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐328)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐339)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Inter-process communication
 
-*   [eCAL (⭐4)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
+*   [eCAL (⭐6)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
 
 ## [7. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
@@ -71,9 +71,15 @@
 
 ### E-Books / Others
 
-*   [Blazor, A Beginners Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - March 18, 2020 - A free e-book for getting started with the Blazor framework. [Examples source code (⭐23)](https://github.com/EdCharbeneau/BlazorBookExamples).
+*   [Blazor, A Beginners Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - March 18, 2020 - A free e-book for getting started with the Blazor framework. [Examples source code (⭐24)](https://github.com/EdCharbeneau/BlazorBookExamples).
 
-## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [freqtrade (⭐22k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+
+## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Blogs
 

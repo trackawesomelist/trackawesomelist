@@ -10,8 +10,8 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-env0 (⭐27)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
-*   [terraform-provider-scalr (⭐14)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://scalr.com)
+*   [terraform-provider-env0 (⭐29)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
+*   [terraform-provider-scalr (⭐15)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://scalr.com)
 
 ### Tools / Vendor supported providers
 
@@ -57,12 +57,12 @@
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐114)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐140)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
 
 ### Modules / Math
 
-*   [neo (⭐49)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
+*   [neo (⭐57)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -75,11 +75,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐61)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+*   [vue-connect-wallet (⭐65)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
 
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐6)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [v-route-generate (⭐9)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Form / Checkbox
 
-*   [svelte-formly (⭐217)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐220)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 
 ## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

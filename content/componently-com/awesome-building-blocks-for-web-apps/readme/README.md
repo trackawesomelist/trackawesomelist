@@ -2,7 +2,7 @@
 
 Standalone features to be integrated into web applications
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/componently-com/awesome-building-blocks-for-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) · ⭐ 100 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/componently-com/awesome-building-blocks-for-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) · ⭐ 110 · 🏷️ Front-End Development
 
 [ [Daily](/content/componently-com/awesome-building-blocks-for-web-apps/README.md) / [Weekly](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md) / Overview ]
 
@@ -74,6 +74,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 ## Auth
 
 *   [Auth0](https://auth0.com/) - Authentication management with native support for Angular, React and VueJS.
+*   [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 *   [Firebase](https://firebase.google.com) - PaaS from Google, including authentication management.
 *   [Okta](https://www.okta.com/) - Authentication and Authorization solution with support for Angular, React and VueJS.
 *   [Onelogin](https://www.onelogin.com/) - Authentication focussed on company internal applications.
@@ -143,8 +144,8 @@ If you like these building blocks, check out [componently.com](https://www.compo
 *   [CCM19](https://www.ccm19.de/) - German cookie consent manager.
 *   [CookieInformation](https://cookieinformation.com/) - Focus on compliance reporting via a dashboard.
 *   [CookiePro](https://www.cookiepro.com/) - Cookie management as part of a privacy management solution.
-*   [React Cookie Consent (⭐459)](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
-*   [React Cookie Banner (⭐181)](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
+*   [React Cookie Consent (⭐515)](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
+*   [React Cookie Banner (⭐182)](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
 
 ## Media
 
@@ -182,7 +183,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 ## Search
 
 *   [Algolia](https://www.algolia.com/) - Search for your application.
-*   [Search UI (⭐1.7k)](https://github.com/elastic/search-ui) - UI integration for ElastiSearch.
+*   [Search UI (⭐1.8k)](https://github.com/elastic/search-ui) - UI integration for ElastiSearch.
 
 ## Feature flags
 
@@ -198,7 +199,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 
 ## Related awesome-lists
 
-*   [Web Components (⭐1.9k)](https://github.com/mateusortiz/webcomponents-the-right-way)
-*   [Microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
-*   [Micro Frontends (⭐509)](https://github.com/ChristianUlbrich/awesome-microfrontends)
+*   [Web Components (⭐2.2k)](https://github.com/mateusortiz/webcomponents-the-right-way)
+*   [Microservices (⭐12k)](https://github.com/mfornos/awesome-microservices)
+*   [Micro Frontends (⭐531)](https://github.com/ChristianUlbrich/awesome-microfrontends)
 

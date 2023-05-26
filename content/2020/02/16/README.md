@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Awesome Biomarkers (⭐230)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [Awesome Biomarkers (⭐254)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Miscellaneous
 
-*   [react-demo-tab (⭐33)](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
+*   [react-demo-tab (⭐34)](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
 
 ### Miscellaneous / Lazy Load
 
-*   [react-demo-tab-cli (⭐49)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
+*   [react-demo-tab-cli (⭐51)](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -56,13 +56,13 @@
 
 ### Front-End Development
 
-*   [Yew (⭐1.1k)](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+*   [Yew (⭐1.2k)](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 
 ## [9. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
-*   [mingus (⭐717)](https://github.com/bspaans/python-mingus) [:octocat: (⭐717)](https://github.com/bspaans/python-mingus) [:package:](https://pypi.org/project/mingus) - Advanced music theory and notation package with MIDI file and playback support.
+*   [mingus (⭐753)](https://github.com/bspaans/python-mingus) [:octocat: (⭐753)](https://github.com/bspaans/python-mingus) [:package:](https://pypi.org/project/mingus) - Advanced music theory and notation package with MIDI file and playback support.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Marked.cc (⭐39)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
+*   [Marked.cc (⭐40)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
 
 ## [12. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 

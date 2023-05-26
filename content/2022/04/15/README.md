@@ -56,21 +56,19 @@
 ### Overview / YouTube
 
 *   [YouTube.js (⭐2.5k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
-*   [oleksis/youtube-dl-gui (⭐912)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+*   [oleksis/youtube-dl-gui (⭐974)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### Overview / Google Translate
 
-*   [Crow Translate (⭐1.1k)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+*   [Crow Translate (⭐1.2k)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
 ### Overview / Mastodon
 
-*   [Pinafore (⭐1k)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
-*   [Sengi (⭐419)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
-*   [TheDesk (⭐235)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
-*   [Tootle (⭐405)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+*   [Sengi (⭐427)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
+*   [TheDesk (⭐238)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
 *   [Tusky (⭐2k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
-*   [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
-*   [Hyperspace (⭐177)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+*   [Pinafore (⭐1k)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity **[Unmaintained](https://nolanlawson.com/2023/01/09/retiring-pinafore/)**
+*   [Hyperspace (⭐178)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **[In maintenance mode (⭐178)](https://github.com/hyperspacedev/hyperspace/issues/232)**
 
 ### Overview / Telegram
 
@@ -80,8 +78,8 @@
 
 ### Templates / React
 
-*   [vite-ant-design-pro (⭐48)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
-*   [vite-react-proste (⭐8)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
+*   [vite-ant-design-pro (⭐66)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [vite-react-proste (⭐10)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -97,14 +95,13 @@
 *   :earth\_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf\(5\))
 *   :earth\_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 *   :pushpin: [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
-*   :earth\_americas: [Mach-O file format reference (⭐601)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
+*   :earth\_americas: [Mach-O file format reference (⭐636)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 *   :earth\_americas: [MITRE ATT\&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 *   :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 
 ### :books: Literature / Scientific Research
 
 *   :mortar\_board: [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A25193) (June 2020)  :star:
-*   :newspaper: [A close look at a daily dataset of malware samples](https://doi.org/10.1145/3291061) (January 2019)  :star:
 *   :notebook: [Collective classification for packed executable identification](https://doi.org/10.1145/2030376.2030379) (June 2012)
 *   :notebook: [Detection of metamorphic malware packers using multilayered LSTM networks](https://www.springerprofessional.de/en/detection-of-metamorphic-malware-packers-using-multilayered-lstm/18635334) (November 2020)  :star:
 *   :notebook: [DexHunter: Toward extracting hidden code from packed Android applications](https://link.springer.com/chapter/10.1007/978-3-319-24177-7_15) (September 2015)
@@ -116,14 +113,13 @@
 *   :notebook: [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) (November 2007)  :star:
 *   :notebook: RePEF — A system for restoring packed executable file for malware analysis (July 2011)
 *   :mortar\_board: [Robust static analysis of portable executable malware](https://repo.zenk-security.com/Virus-Infections-Detections-Preventions/Robust%20Static%20Analysis%20ofPortable%20ExecutableMalware.pdf) (December 2014)
-*   :notebook: [SATURN - Software deobfuscation framework based on LLVM](https://doi.org/10.1145/3338503.3357721) (November 2019)  :star:
 *   :newspaper: [SCORE: Source code optimization & reconstruction](https://ieeexplore.ieee.org/document/9139493) (July 2020)  :star:
 *   :notebook: [A study of the packer problem and its solutions](https://link.springer.com/chapter/10.1007/978-3-540-87403-4_6) (September 2008)
 *   :newspaper: [UnThemida: Commercial obfuscation technique analysis with a fully obfuscated program](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2622) (July 2018)  :star:
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [MaleX (⭐16)](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
+*   [MaleX (⭐21)](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
 
 ### :package: Packers / Before 2000
 
@@ -151,7 +147,7 @@
 
 ### Crates / Component Libraries
 
-*   [tailyew (⭐13)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+*   [tailyew (⭐14)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
 ## [13. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

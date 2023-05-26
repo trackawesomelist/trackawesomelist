@@ -16,7 +16,7 @@
 
 ### Game
 
-*   [Duality (⭐1.3k)](https://github.com/AdamsLair/duality) - Duality is a 2D game development framework. Focused on modularity, comes with a visual editor.
+*   [Duality (⭐1.4k)](https://github.com/AdamsLair/duality) - Duality is a 2D game development framework. Focused on modularity, comes with a visual editor.
 
 ## [3. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

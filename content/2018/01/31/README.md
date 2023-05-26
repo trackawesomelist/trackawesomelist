@@ -65,7 +65,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.4k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust [![Build status](https://api.travis-ci.org/lalrpop/lalrpop.svg?branch=master)](https://travis-ci.org/lalrpop/lalrpop)
+*   [lalrpop/lalrpop (⭐2.6k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
 
 ## [7. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

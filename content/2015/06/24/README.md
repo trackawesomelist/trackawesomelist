@@ -14,7 +14,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐431)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐433)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
@@ -22,11 +22,11 @@
 
 ### Testing
 
-*   [webmock.cr (⭐102)](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
+*   [webmock.cr (⭐103)](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ### Third-party APIs
 
-*   [crystal\_slack (⭐19)](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
+*   [crystal\_slack (⭐20)](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
 
 ### Web Frameworks
 
@@ -86,11 +86,11 @@
 
 ### Bundlers
 
-*   [webpack (⭐62k)](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
+*   [webpack (⭐63k)](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 
 ### Testing Frameworks / Assertion
 
-*   [chai (⭐7.8k)](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+*   [chai (⭐7.9k)](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -106,12 +106,12 @@
 ### Functional Programming / Runner
 
 *   [underscore (⭐27k)](https://github.com/jashkenas/underscore) - JavaScript's utility \_ belt.
-*   [lodash (⭐55k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
+*   [lodash (⭐56k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 *   [lazy.js (⭐6k)](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 
 ### Data Structure / Runner
 
-*   [immutable-js (⭐32k)](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
+*   [immutable-js (⭐33k)](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
 
 ### Date / Runner
 
@@ -123,7 +123,7 @@
 *   [string.js (⭐1.8k)](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
 *   [he (⭐3.2k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 *   [multiline (⭐1.4k)](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
-*   [query-string (⭐6.2k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+*   [query-string (⭐6.4k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
 
 ### Number / Runner
 
@@ -132,13 +132,13 @@
 ### Storage / Runner
 
 *   [store.js (⭐14k)](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
-*   [localForage (⭐21k)](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+*   [localForage (⭐22k)](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 ### Color / Runner
 
 *   [randomColor (⭐5.9k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
-*   [chroma.js (⭐9.2k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-*   [TinyColor (⭐4.5k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [chroma.js (⭐9.4k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
+*   [TinyColor (⭐4.6k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ### Control Flow / Runner
 
@@ -158,7 +158,7 @@
 
 *   [Spin.js (⭐9.3k)](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 *   [pace (⭐16k)](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
-*   [topbar (⭐360)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+*   [topbar (⭐381)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 *   [nanobar (⭐2.9k)](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
 
 ### Keyboard Wrappers / Runner
@@ -177,12 +177,12 @@
 
 ### Sliders / Runner
 
-*   [Swiper (⭐33k)](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
+*   [Swiper (⭐35k)](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
 *   [slick (⭐28k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 
 ### Form Widgets / Input
 
-*   [typeahead.js (⭐16k)](https://github.com/twitter/typeahead.js) - A fast and fully-featured autocomplete library.
+*   [typeahead.js (⭐17k)](https://github.com/twitter/typeahead.js) - A fast and fully-featured autocomplete library.
 *   [Ion.CheckRadio (⭐70)](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
 
 ### Form Widgets / Calendar

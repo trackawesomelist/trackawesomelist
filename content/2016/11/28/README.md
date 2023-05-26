@@ -23,8 +23,8 @@
 
 ### Styleguides
 
-*   [christopheradams/elixir\_style\_guide (⭐4.1k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐506)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [christopheradams/elixir\_style\_guide (⭐4.2k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
+*   [lexmag/elixir-style-guide (⭐512)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

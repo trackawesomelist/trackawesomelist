@@ -403,7 +403,7 @@
 *   [smm-maker-profile (⭐1)](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker game.
 *   [Steam Database](https://github.com/SteamDatabase) - Serie of tools to Steam data. [Website](https://steamdb.info/).
 *   [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
-*   [vgchartzScrape (⭐57)](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
+*   [vgchartzScrape (⭐66)](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 
 ### Artificial Intelligence
 
@@ -411,7 +411,7 @@
 
 ### Artificial Intelligence / Web
 
-*   [Digger (⭐55)](https://github.com/lutzroeder/digger) - Boulderdash game. [Play](http://games.leonardomauro.com/digger/).
+*   [Digger (⭐74)](https://github.com/lutzroeder/digger) - Boulderdash game. [Play](http://games.leonardomauro.com/digger/).
 
 ### Dataset / Web
 
@@ -425,38 +425,38 @@
 
 ### Entertainment
 
-*   [football-cli (⭐1k)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
+*   [football-cli (⭐1.1k)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
 
 ### Entertainment / Music
 
-*   [cmus (⭐4.8k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
-*   [itunes-remote (⭐421)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+*   [cmus (⭐4.9k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
+*   [itunes-remote (⭐422)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 
 ### Entertainment / Social Media
 
-*   [TTYtter (⭐348)](https://github.com/oysttyer/oysttyer) - Twitter client.
+*   [TTYtter (⭐346)](https://github.com/oysttyer/oysttyer) - Twitter client.
 *   [Rainbowstream (⭐3.5k)](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 *   [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 
 ### Entertainment / Video
 
-*   [youtube-dl (⭐117k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
-*   [streamlink (⭐8.3k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
-*   [mps-youtube (⭐7.3k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
+*   [youtube-dl (⭐120k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
+*   [streamlink (⭐8.7k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
+*   [mps-youtube (⭐7.5k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 
 ### Entertainment / Movies
 
-*   [moviemon (⭐187)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
-*   [movie (⭐138)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
+*   [moviemon (⭐188)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
+*   [movie (⭐142)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Development / Books
 
-*   [legit (⭐543)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
-*   [mklicense (⭐167)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
+*   [legit (⭐547)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
+*   [mklicense (⭐171)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 
 ### Development / Text Editors
 
-*   [kakoune (⭐8.6k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
+*   [kakoune (⭐8.7k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 
 ### Development / Database
 
@@ -465,45 +465,45 @@
 
 ### Productivity / HTTP Client
 
-*   [doing (⭐974)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+*   [doing (⭐999)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐43)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐811)](https://github.com/keepcosmos/terjira) - Jira client.
-*   [ipt (⭐8)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
+*   [terjira (⭐819)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
-*   [Buku (⭐5.5k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+*   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 
 ### Productivity / Time Tracking
 
-*   [moro (⭐445)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
+*   [moro (⭐452)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 
 ### Productivity / Note Taking and Lists
 
-*   [idea (⭐200)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
-*   [sncli (⭐375)](https://github.com/insanum/sncli) - Simplenote client.
-*   [taskbook (⭐8.6k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+*   [idea (⭐202)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
+*   [sncli (⭐381)](https://github.com/insanum/sncli) - Simplenote client.
+*   [taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Productivity / Finance
 
 *   [moeda (⭐130)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
-*   [cash-cli (⭐195)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
-*   [cointop (⭐3.5k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+*   [cash-cli (⭐202)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+*   [cointop (⭐3.6k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 
 ### Productivity / Presentations
 
 *   [WOPR (⭐3k)](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 *   [decktape (⭐2k)](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-*   [mdp (⭐4.5k)](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - A markdown presentation tool.
 *   [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Utilities / Calendars
 
-*   [aria2 (⭐29k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+*   [aria2 (⭐30k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 
 ### Utilities / macOS
 
-*   [osx-wifi-cli (⭐84)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
-*   [stronghold (⭐979)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
+*   [osx-wifi-cli (⭐86)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
+*   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 
 ### Utilities / Terminal Sharing Utilities
 
@@ -513,7 +513,7 @@
 
 ### Utilities / Theming and Customization
 
-*   [pywal (⭐7k)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
+*   [pywal (⭐7.2k)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -576,7 +576,7 @@ Topics: Chrome DevTools, Performance\
 
 ### Contents / Libraries
 
-*   [ClearX (⭐20)](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
+*   [ClearX (⭐22)](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
 
 ## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

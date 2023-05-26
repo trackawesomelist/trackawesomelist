@@ -16,7 +16,7 @@
 
 ### Functional programming
 
-*   [Optional (⭐803)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐817)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -36,12 +36,12 @@
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐734)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐740)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐816)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐824)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 

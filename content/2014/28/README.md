@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14 - Jul 20, 2014
 
-20 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -316,35 +316,13 @@
 *   [Spock (⭐3.3k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 *   [Geb (⭐1.1k)](https://github.com/geb/geb) - Very Groovy Browser Automation
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Ada
-
-*   [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
-
-### Alef
-
-*   [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
-
-### Chapel / Non-X86
-
-*   [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
-
-### Limbo / TeX
-
-*   [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
-
-### OpenMP / PicoLisp
-
-*   [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
-
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [cpy (⭐384)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐401)](https://github.com/sindresorhus/cpy) - Copy files.
 *   [del (⭐1.3k)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
-*   [globby (⭐2.2k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
+*   [globby (⭐2.3k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 
 ### Packages / Real-time
 
@@ -353,15 +331,15 @@
 ### Packages / Image
 
 *   [sharp (⭐25k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
-*   [image-type (⭐329)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+*   [image-type (⭐335)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
 *   [gm (⭐6.8k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐2.9k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐536)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [escape-string-regexp (⭐546)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 *   [indent-string (⭐108)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐127)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [strip-indent (⭐129)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -369,13 +347,13 @@
 
 ### Packages / Humanize
 
-*   [pretty-bytes (⭐977)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐903)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-bytes (⭐994)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
+*   [pretty-ms (⭐917)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 *   [pretty-error (⭐1.5k)](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 
 ### Packages / Network
 
-*   [get-port (⭐776)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐788)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Node.js management
 
@@ -383,7 +361,7 @@
 
 ### Packages / Weird
 
-*   [superb (⭐391)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐393)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ### Packages / Miscellaneous
@@ -398,7 +376,7 @@
 
 *   [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 
-## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management
 
@@ -420,7 +398,7 @@
 
 *   [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 
-## [11. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [10. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Release Management
 
@@ -487,7 +465,7 @@
 
 *   [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
 
-## [12. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [11. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Admins
 
@@ -574,7 +552,7 @@
 *   [watchman (⭐11k)](https://github.com/facebook/watchman) - Facebook's better
     `watch` - note it works as a service.
 
-## [13. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
@@ -586,7 +564,7 @@
 
 ### Date and Time
 
-*   [clj-time (⭐727)](https://github.com/clj-time/clj-time)
+*   [clj-time (⭐736)](https://github.com/clj-time/clj-time)
 
 ### Audio
 
@@ -606,9 +584,9 @@
 
 ### ORM and SQL generation
 
-*   [stch-library/sql (⭐39)](https://github.com/stch-library/sql)
-*   [sqlingvo (⭐206)](https://github.com/r0man/sqlingvo)
-*   [honeysql (⭐1.5k)](https://github.com/jkk/honeysql)
+*   [stch-library/sql (⭐40)](https://github.com/stch-library/sql)
+*   [sqlingvo (⭐209)](https://github.com/r0man/sqlingvo)
+*   [honeysql (⭐1.6k)](https://github.com/jkk/honeysql)
 
 ### Security
 
@@ -630,11 +608,11 @@
 ### Async processing
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/)
-*   [pulsar (⭐893)](https://github.com/puniverse/pulsar)
+*   [pulsar (⭐900)](https://github.com/puniverse/pulsar)
 
 ### Monads
 
-*   [algo.monads (⭐432)](https://github.com/clojure/algo.monads)
+*   [algo.monads (⭐433)](https://github.com/clojure/algo.monads)
 
 ### WebSocket
 
@@ -642,17 +620,17 @@
 
 ### Testing
 
-*   [Midje (⭐1.6k)](https://github.com/marick/Midje)
+*   [Midje (⭐1.7k)](https://github.com/marick/Midje)
 
 ### Code Analysis and Linter
 
-*   [Slamhound (⭐420)](https://github.com/technomancy/slamhound)
+*   [Slamhound (⭐442)](https://github.com/technomancy/slamhound)
 *   [eastwood (⭐1.1k)](https://github.com/jonase/eastwood)
 *   [kibit (⭐1.7k)](https://github.com/jonase/kibit)
 
 ### Text Processing
 
-*   [clojure-opennlp (⭐739)](https://github.com/dakrone/clojure-opennlp)
+*   [clojure-opennlp (⭐743)](https://github.com/dakrone/clojure-opennlp)
 
 ### Websites / YouTube
 
@@ -664,7 +642,7 @@
 
 *   [oss\_clj](https://twitter.com/oss_clj)
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
@@ -673,7 +651,7 @@
 ### Testing Frameworks / Coverage
 
 *   [istanbul (⭐8.6k)](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
-*   [JSCover (⭐392)](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
+*   [JSCover (⭐390)](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 
 ### Testing Frameworks / Runner
 
@@ -691,16 +669,16 @@
 
 ### Data Visualization / Runner
 
-*   [paper.js (⭐13k)](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
+*   [paper.js (⭐14k)](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 
 ### Editors / Runner
 
-*   [ace (⭐25k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐397)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
-*   [quill (⭐34k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+*   [ace (⭐26k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
+*   [esprima (⭐399)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [quill (⭐35k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 *   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-*   [ckeditor-releases (⭐520)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
+*   [ckeditor-releases (⭐518)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 *   [editor (⭐2.8k)](https://github.com/lepture/editor) - A markdown editor. still on development.
 *   [EpicEditor (⭐4.3k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 *   [jsoneditor (⭐10k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
@@ -746,8 +724,6 @@
 
 *   [bootstrap-tour (⭐4.4k)](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
 *   [tourist (⭐1.2k)](https://github.com/easelinc/tourist) - Simple, flexible tours for your app.
-*   [chardin.js (⭐5k)](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
-*   [pageguide (⭐911)](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
 *   [hopscotch (⭐4.2k)](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 *   [joyride (⭐1.4k)](https://github.com/zurb/joyride) - jQuery feature tour plugin.
 
@@ -767,7 +743,7 @@
 ### Form Widgets / Input
 
 *   [tag-it (⭐2.5k)](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-*   [Placeholders.js (⭐958)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
+*   [Placeholders.js (⭐955)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 *   [fancyInput (⭐1.9k)](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 *   [jQuery-Tags-Input (⭐2.3k)](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 
@@ -791,19 +767,19 @@
 
 *   [Garlic.js (⭐2.4k)](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
 *   [Countable (⭐1.6k)](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
-*   [card (⭐11k)](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
+*   [card (⭐12k)](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 
 ### Tips / Other
 
 *   [tipsy (⭐2k)](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 *   [qTip2 (⭐2k)](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 *   [tooltipster (⭐2.8k)](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
-*   [simptip (⭐651)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+*   [simptip (⭐650)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 
 ### Modals and Popups / Other
 
 *   [Magnific-Popup (⭐11k)](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
-*   [jquery-popbox (⭐427)](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
+*   [jquery-popbox (⭐426)](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
 *   [jquery.avgrund.js (⭐1.8k)](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups.
 *   [vex (⭐6.9k)](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
 *   [bootstrap-modal (⭐5k)](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
@@ -811,14 +787,14 @@
 
 ### Maps / Other
 
-*   [Leaflet (⭐36k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
+*   [Leaflet (⭐37k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
 *   [gmaps (⭐7.1k)](https://github.com/HPNeo/gmaps) - The easiest way to use Google Maps.
 *   [polymaps (⭐1.6k)](https://github.com/simplegeo/polymaps) - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
 *   [kartograph.js (⭐1.5k)](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps.
 *   [mapbox.js (⭐1.9k)](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 *   [jqvmap (⭐1.8k)](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
@@ -1038,7 +1014,7 @@
 *   [2007](http://www.read.seas.harvard.edu/\~kohler/class/cs239-w08/decandia07dynamo.pdf) - **Amazon** - Dynamo: Amazon’s Highly Available Key-value Store.
 *   [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - **Google** - Bigtable: A Distributed Storage System for Structured Data.
 
-## [16. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
@@ -1052,9 +1028,9 @@
 ### Command Line / XML
 
 *   [scriptlike (⭐89)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
-*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.2k)](https://github.com/antirez/linenoise).
+*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.3k)](https://github.com/antirez/linenoise).
 
-## [17. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [16. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### NoSQL
 
@@ -1111,7 +1087,7 @@
 
 *   [Hadoop Weekly](http://www.hadoopweekly.com/)
 
-## [18. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [17. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
@@ -1127,13 +1103,13 @@
 
 *   [bash2048 (⭐852)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 
-## [19. Tools](/content/lvwzhen/tools/week/README.md)
+## [18. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Placeholder
 
 *   [placekitten](http://placekitten.com/)
 
-## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### E-commerce
 
@@ -1141,7 +1117,7 @@
 
 ### HTML Manipulation
 
-*   [untangle (⭐567)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
+*   [untangle (⭐584)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
 
 ---
 

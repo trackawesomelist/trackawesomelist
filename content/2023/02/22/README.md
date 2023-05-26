@@ -20,7 +20,7 @@
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
-*   [LibRedirect (⭐2k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+*   [LibRedirect (⭐2.3k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
 
 ### Privacy vs Security vs Anonimity / Alternative clients/modifications of Discord:
 
@@ -49,41 +49,37 @@
 
 *   [Announcing .NET 8 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-1/) - February 21, 2023 - The first preview of .NET 8 is ready to download. This blog post covers the major themes and goals that drive the prioritization and selection of enhancements to develop. .NET 8 preview and release candidate builds will be delivered monthly. As usual, the final release will be delivered sometime in November at .NET Conf.
 
-## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Editing Support / Diagnostics
+
+*   [bennypowers/splitjoin.nvim (⭐60)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+
+## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
 *   [TubeArchivist (⭐2.4k)](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
 
-## [6. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Downloading, Installing, Upgrading, and Building
 
 *   [Qubes OS 4.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1.2 Weekly Build download.
 
-## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - Video of an HP 7475A plotting some demos.
-*   [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - Videe showing how to open, clean, and refill vintage HP plotter pens.
+*   [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - Video showing how to open, clean, and refill vintage HP plotter pens.
 *   [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - Video of the Commodore 1520 plotter in action, including a cover-off shot of the mechanism.
 
-## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Utils
 
-*   [yew-nested-router (⭐5)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
-
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [neanias/everforest-nvim (⭐24)](https:/github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
-
-### Editing Support / Diagnostics
-
-*   [bennypowers/splitjoin.nvim (⭐50)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+*   [yew-nested-router (⭐6)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
 
 ## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Downloader
 
-*   [s4cmd (⭐1.2k)](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
+*   [s4cmd (⭐1.3k)](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
 
 ## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Machine Learning
 
-*   [MeTA (⭐661)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐663)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [8. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.3k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐4.4k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -230,7 +230,6 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Companies with "remote DNA"
 
-*   [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
 *   [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
 *   [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
 *   [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
@@ -244,7 +243,7 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Queue
 
-*   [amqp (⭐632)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐640)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 

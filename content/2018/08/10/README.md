@@ -14,7 +14,7 @@
 
 ### Packages / Weird
 
-*   [cat-ascii-faces (⭐239)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+*   [cat-ascii-faces (⭐240)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -55,11 +55,11 @@ Free
 
 ### Content Management Systems
 
-*   [Wagtail (⭐1.7k)](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
+*   [Wagtail (⭐1.8k)](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
 
 ### Miscellaneous
 
-*   [Jupyter (⭐3.2k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+*   [Jupyter (⭐3.3k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 
 ## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

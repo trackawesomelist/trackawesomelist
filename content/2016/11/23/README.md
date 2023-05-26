@@ -10,7 +10,7 @@
 
 ### Math / Other
 
-*   [Math snippets (⭐99)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+*   [Math snippets (⭐103)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
 ## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -58,21 +58,21 @@
   Link: <http://fatiherikli.github.io/fil>
 
 
-- Name: [Spectacle (⭐9.4k)](https://github.com/FormidableLabs/spectacle)
+- Name: [Spectacle (⭐9.5k)](https://github.com/FormidableLabs/spectacle)
 
   Description: A React library for Deck/Slide Presentations.
 
-  Link: [http://stack.formidable.com/spectacle (⭐9.4k)](https://github.com/FormidableLabs/spectacle)
+  Link: [http://stack.formidable.com/spectacle (⭐9.5k)](https://github.com/FormidableLabs/spectacle)
 
 
-- Name: [Google Map Clustering (⭐199)](https://github.com/istarkov/google-map-clustering-example)
+- Name: [Google Map Clustering (⭐197)](https://github.com/istarkov/google-map-clustering-example)
 
   Description: A Google Map Clustering Example
 
   Link: <http://istarkov.github.io/google-map-clustering-example>
 
 
-- Name: [Perseus (⭐1.2k)](https://github.com/Khan/perseus)
+- Name: [Perseus (⭐1.3k)](https://github.com/Khan/perseus)
 
   Description: Perseus is Khan Academy's new exercise question editor and renderer
 
@@ -275,7 +275,7 @@
 
 ### Notifications / Runner
 
-*   [notie (⭐6.2k)](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
+*   [notie (⭐6.3k)](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

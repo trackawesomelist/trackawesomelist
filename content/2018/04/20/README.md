@@ -71,10 +71,6 @@
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
-### Books / Dissemination
-
-*   *[Linked: The New Science of Networks](http://barabasi.com/book/linked)*, by Albert-László Barabási (2002).
-
 ### Datasets / Topic-specific
 
 *   [Connectome](http://awesome.cs.jhu.edu/graph-services/download/) - Comprehensive maps of neural connections.
@@ -82,10 +78,6 @@
 ### Journals / Topic-specific
 
 *   *[Journal of Complex Networks](https://academic.oup.com/comnet)* (Oxford, gated).
-
-### Professional Groups / Topic-specific
-
-*   [AFS RT 26 “Réseaux sociaux”](http://www.test-afs-socio.fr/drupal/RT26) - Thematic Network of the French Sociological Association (AFS), in French ([old website](https://web.archive.org/web/20160421164221/http://www.cmh.pro.ens.fr/reseaux-sociaux/)).
 
 ### Professional Groups / Research Groups (Other)
 
@@ -102,17 +94,9 @@
 *   [Positions and Roles](http://sk.sagepub.com/reference/the-sage-handbook-of-social-network-analysis/n29.xml) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/positions_and_roles.pdf);  -->*[The SAGE Handbook of Social Network Analysis](http://www.sagepub.in/books/Book232753/)*, 2011).
 *   Urban Social Networks: Some Methodological Problems and Possibilities ([*The Small World*](https://www.worldcat.org/title/small-world/oclc/925078340\&referer=brief_results), 1989).
 
-### Selected Papers / Social, Economic and Political Networks
-
-*   [Network Analysis, Culture, and the Problem of Agency](http://www.mustafaemirbayer.com/network-analysis-culture-and-the-pr), by Mustafa Emirbayer and Jeff Goodwin (*American Journal of Sociology*, 1994), and [Manifesto for a Relational Sociology](http://www.mustafaemirbayer.com/copy-3-of-bourdieu), by Mustafa Emirbayer (*American Journal of Sociology*, 1997) - Sociological foundations for a science of social ties.
-
-### Software / Algorithms
-
-*   [CONGA and CONGO](http://gregory.org/research/networks/software/conga.html) - Algorithms to detect overlapping communities in networks, written in Java.
-
 ### Software / C / C++
 
-*   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/\~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
+*   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
 
 ### Varia / Tutorials
 
@@ -132,11 +116,11 @@
 
 ### App Routing
 
-*   [Linker (⭐137)](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
+*   [Linker (⭐138)](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS.
 
 ### Multi Database
 
-*   [Shallows (⭐620)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
+*   [Shallows (⭐622)](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ### Other Data
 
@@ -144,11 +128,11 @@
 
 ### Images / Barcode
 
-*   [ImageScout (⭐971)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
+*   [ImageScout (⭐972)](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.org/project/fastimage/0.2.1/) - supports PNG, GIF, and JPEG.
 
 ### Localization / Barcode
 
-*   [Localize (⭐280)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+*   [Localize (⭐281)](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
 
 ### Text / Barcode
 
@@ -160,27 +144,27 @@
 
 ### Alert / Barcode
 
-*   [PMAlertController (⭐2.4k)](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
+*   [PMAlertController (⭐2.5k)](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 
 ### Button / Barcode
 
-*   [PMSuperButton (⭐720)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
+*   [PMSuperButton (⭐724)](https://github.com/pmusolino/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐3.1k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐3.4k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
-*   [chromium-net-errors (⭐20)](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
+*   [chromium-net-errors (⭐21)](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 
 ## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Related lists / Miscellaneous
 
-*   [awesome-npm (⭐4.2k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+*   [awesome-npm (⭐4.3k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
 *   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [11. Amas](/content/sindresorhus/amas/README.md)

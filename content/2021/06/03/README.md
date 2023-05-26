@@ -80,7 +80,7 @@
 
 ## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
-### Payments
+### Payments & Pricing
 
 *   [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 

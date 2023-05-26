@@ -23,8 +23,8 @@
 
 ### Programming Languages
 
-*   [R (⭐5.4k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐422)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+*   [R (⭐5.5k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+    *   [Learning (⭐436)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -84,7 +84,15 @@ Free (Open Source)
 
 *   [dotdotyew (⭐3)](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 
-## [10. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [10. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### Clojure / 理論計算機科学
+
+*   [Clojureスタイルガイド (⭐69)](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
+*   [Modern cljs(翻訳中) (⭐8)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
+*   [逆引きClojure (⭐6)](https://github.com/making/rd-clj) - Toshiaki Maki
+
+## [11. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -102,7 +110,7 @@ Free (Open Source)
 
 
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [12. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shells
 
@@ -112,7 +120,7 @@ Free (Open Source)
 
 *   [dstask (⭐669)](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
 
-## [12. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [13. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -121,7 +129,7 @@ Free (Open Source)
 ### IR Tools Collection / Incident Management
 
 *   [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto security orchestration, automation and response platform with full Incident lifecycle management and many integrations to enhance automations.
-*   [Sandia Cyber Omni Tracker (SCOT) (⭐235)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
+*   [Sandia Cyber Omni Tracker (SCOT) (⭐236)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
 
 ### IR Tools Collection / Memory Analysis Tools
 
@@ -133,7 +141,7 @@ Free (Open Source)
 
 ### IR Tools Collection / Other Tools
 
-*   [rastrea2r (⭐212)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
+*   [rastrea2r (⭐216)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 
 ### IR Tools Collection / Process Dump Tools
 
@@ -141,33 +149,33 @@ Free (Open Source)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [CAPEv2 (⭐1.1k)](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
-*   [Cuckoo (⭐5.1k)](https://github.com/cuckoosandbox/cuckoo) - Open Source Highly configurable sandboxing tool.
+*   [CAPEv2 (⭐1.2k)](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
+*   [Cuckoo (⭐5.2k)](https://github.com/cuckoosandbox/cuckoo) - Open Source Highly configurable sandboxing tool.
 
 ### IR Tools Collection / Windows Evidence Collection
 
 *   [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - Free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only. No longer maintained. Only fully supported up to Windows 7 / Windows Server 2008 R2.
-*   [RegRipper (⭐344)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
+*   [RegRipper (⭐371)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Stellar Admin Boilerplate (⭐15)](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 
-## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [15. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Articles & Blogs
 
 *   [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 
-## [15. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [16. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Terminals
 
-*   [Alacritty (⭐43k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
+*   [Alacritty (⭐46k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
 
-## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -177,13 +185,13 @@ Free (Open Source)
 
 *   [Debugger Podcast](https://debuggerpodcast.ge/) - Podcast about development culture, technologies and career growth.
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Routing
 
 *   [MonarchRouter (⭐37)](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
 
-## [18. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [19. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -281,56 +289,23 @@ Free (Open Source)
 
 
 
-## [19. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [20. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Sensor and Acuator Interfaces
 
-*   [ros2\_ouster\_drivers (⭐89)](https://github.com/ros-drivers/ros2_ouster_drivers) - These are an implementation of ROS2 drivers for the Ouster OS-1 3D lidars.
+*   [ros2\_ouster\_drivers (⭐98)](https://github.com/ros-drivers/ros2_ouster_drivers) - These are an implementation of ROS2 drivers for the Ouster OS-1 3D lidars.
 
-## [20. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [21. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 
-## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante (PDF)
-*   [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF)
-*   [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
-
-### C# / Non-X86
-
-*   [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
-
-### C++ / Non-X86
-
-*   [Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) - Alan Ezust, Paul Ezust (PDF)
-*   [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
-*   [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
-*   [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
-
-### HTML and CSS / Spock Framework
-
-*   [DOM Enlightenment](http://domenlightenment.com) - Cody Lindley (HTML)
-*   [HTML5 Quick Learning Guide](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) - HTML5Templates (PDF)
-*   [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat (HTML)
-
-### JavaScript / Wicket
-
-*   [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Matthias Schäfer (HTML, EPUB)
-
-### R / Tornado
-
-*   [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html) - Salvatore S. Mangiafico
-
 ## [22. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
-*   📖 [Firebase Tools UI (⭐206)](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
+*   📖 [Firebase Tools UI (⭐223)](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 
 ## [23. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

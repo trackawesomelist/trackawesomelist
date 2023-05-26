@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,21 +33,21 @@
 
 ### Regular Expression
 
-*   [RegExtract (⭐674)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+*   [RegExtract (⭐678)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
 
 ### Tools
 
-*   [UnitsNet (⭐1.8k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
+*   [UnitsNet (⭐1.9k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Others
 
-*   [P5.js Starter Template (⭐24)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
+*   [P5.js Starter Template (⭐29)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
 
 ### CakePHP / Community
 
-*   [cakephp-vite (⭐11)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
+*   [cakephp-vite (⭐12)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
 
 ## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -59,32 +59,22 @@
 
 ### Input
 
-*   [Swipe (⭐2)](https://github.com/zombrodo/swipe) - A simple radial keyboard library.
+*   [Swipe (⭐3)](https://github.com/zombrodo/swipe) - A simple radial keyboard library.
 
 ### UI
 
 *   [Helium (⭐83)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 *   [ListBox (⭐14)](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
-*   [Plan (⭐15)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
+*   [Plan (⭐16)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 
-## [7. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Routing
-
-*   [react-location (⭐3.9k)](https://github.com/TanStack/react-location) - Enterprise Client-Side Routing for React
-
-### Redux Tools / Charts
-
-*   [Rematch (⭐8.3k)](https://github.com/rematch/rematch) - Redux made easy
-
-## [8. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Python tools / Misc
 
 *   [pptk (⭐532)](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -111,13 +101,13 @@
 
 
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Theory of Mind / Science Education
+### Theory of Mind / Democratization
 
 *   [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150\&hl=en\&as_sdt=0,5)]. \[[Project](https://tshu.io/PHASE/)].
 
-## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Screeb
 

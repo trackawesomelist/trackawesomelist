@@ -22,9 +22,9 @@
 
 ### Debug
 
-*   [benchmark (⭐7.3k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
-*   [Google Mock (⭐29k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
-*   [Google Test (⭐29k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
+*   [benchmark (⭐7.5k)](https://github.com/google/benchmark) - Google provided small microbenchmark support library. \[Apache2]
+*   [Google Mock (⭐30k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
+*   [Google Test (⭐30k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 
 ## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 

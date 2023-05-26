@@ -134,10 +134,10 @@
 ### Tools / Online Analyzers
 
 *   [Appknox](https://www.appknox.com/) - not free
-*   [AVC UnDroid](http://undroid.av-comparatives.info/)
 *   [Virustotal](https://www.virustotal.com/) - max 128MB
 *   [Fraunhofer App-ray](http://app-ray.co/) - not free
 *   [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
+*   ~~[AVC UnDroid](http://undroid.av-comparatives.info/)~~
 
 ## [11. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -201,7 +201,7 @@
 
 ### ASM / Music drivers and trackers
 
-*   [hardware.inc (⭐92)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
+*   [hardware.inc (⭐101)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
 
 ## [19. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -235,7 +235,7 @@
 
 ### Visualizations
 
-*   [gtfspy-webviz (⭐36)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐127)](https://github.com/CxAalto/gtfspy).
+*   [gtfspy-webviz (⭐39)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐132)](https://github.com/CxAalto/gtfspy).
 
 ## [23. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -291,15 +291,15 @@
 
 ### Software / Office Suites
 
-*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.2k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
+*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.3k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
 
 ### Software / Ticketing
 
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐772)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
+*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐789)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
 
 ### External Links / Wikis
 
-*   [Awesome Public Datasets (⭐53k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+*   [Awesome Public Datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 
 ## [27. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -365,11 +365,11 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐426)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐439)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐7.6k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐8k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -383,7 +383,7 @@
 
 ### Utility / Barcode
 
-*   [swift-protobuf (⭐4.1k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
+*   [swift-protobuf (⭐4.2k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
 ## [33. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -501,7 +501,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Input Methods / File Sharing
 
-*   [Type2Phone](https://www.houdah.com/type2Phone/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/type2phone-bluetooth-keyboard/id472717129)
+*   [Type2Phone](https://www.houdah.com/type2Phone/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV.
 
 ### Browsers / File Sharing
 
@@ -527,11 +527,11 @@ Webpage: <http://ogniwo.org/>
 
 ### Converters
 
-*   [money (⭐26)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
+*   [money (⭐27)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
 
 ### Framework Components
 
-*   [device\_detector (⭐21)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
+*   [device\_detector (⭐22)](https://github.com/creadone/device_detector) - Shard for detect device by user agent string
 
 ### Unofficial
 
@@ -563,13 +563,13 @@ Webpage: <http://ogniwo.org/>
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pganalyze collector (⭐248)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-*   [PgHero (⭐6.8k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
-*   [pgstats (⭐104)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
+*   [pganalyze collector (⭐256)](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+*   [PgHero (⭐6.9k)](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
+*   [pgstats (⭐106)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
 ### Testing / Zabbix
 
-*   [DbFit (⭐217)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+*   [DbFit (⭐218)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 
 ### DevOps / Zabbix
 
@@ -612,14 +612,14 @@ Webpage: <http://ogniwo.org/>
 
 ### Projects Using Vue.js / Open Source
 
-*   [Ride Receipts (⭐139)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
-*   [Laqu-l (⭐130)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
+*   [Ride Receipts (⭐140)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
+*   [Laqu-l (⭐131)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
 *   [Minimal Notes (⭐125)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-page-visibility-awesome (⭐11)](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
-*   [vue-authplugin (⭐6)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
+*   [vue-authplugin (⭐7)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
 
 ## [49. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 

@@ -26,7 +26,7 @@
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
-*   [Elm for Web Developers (⭐58)](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
+*   [Elm for Web Developers (⭐57)](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
 
 ## [4. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
@@ -72,12 +72,12 @@
 
 ### Messaging / Scala
 
-*   [Ascoltatori (⭐525)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
+*   [Ascoltatori (⭐526)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 *   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### REST / Scala
 
-*   [Apidoc (⭐544)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
+*   [Apidoc (⭐543)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 
 ### RPC / Scala
 
@@ -107,7 +107,7 @@ git rev-parse --abbrev-ref HEAD
 
 ### Coding Style
 
-*   [C++ Core Guidelines (⭐37k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+*   [C++ Core Guidelines (⭐38k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
 ## [9. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -226,7 +226,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Packages / URL
 
-*   [url-unshort (⭐102)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [url-unshort (⭐107)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 *   [embedza (⭐58)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
@@ -454,7 +454,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Natural Language Processing
 
-*   [Words Counted (⭐157)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
+*   [Words Counted (⭐158)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
 ## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -477,7 +477,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Feeds
 
-*   [feedme (⭐14)](https://github.com/umurgdk/elixir-feedme) - RSS/Atom parser built on erlang's xmerl xml parser.
+*   [feedme (⭐15)](https://github.com/umurgdk/elixir-feedme) - RSS/Atom parser built on erlang's xmerl xml parser.
 
 ### Markdown
 
@@ -485,7 +485,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐557)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐558)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 
@@ -496,7 +496,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 ### Ask these people anything!
 
 *   [Richard Littauer (⭐1)](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.
-*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐59k)](https://github.com/rackt/redux).
+*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐60k)](https://github.com/rackt/redux).
 *   [Maxime Thirouin (⭐3)](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder.
 *   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript (⭐2)](https://github.com/future-ui/future-ui). [Haskell (⭐19)](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
 
@@ -504,7 +504,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Threat Intelligence / Forensics
 
-*   [IntelMQ (⭐777)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
+*   [IntelMQ (⭐824)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 
 ---
 

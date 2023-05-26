@@ -10,7 +10,7 @@
 
 ### Overview / Discord
 
-*   [gtkcord4 (⭐458)](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+*   [gtkcord4 (⭐487)](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Games / MIT
 
-*   [civ-klon (⭐14)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐20)](https://github.com/mgrojo/ASFML).
+*   [civ-klon (⭐16)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml (⭐20)](https://github.com/mgrojo/ASFML).
 
 ### Graphical User Interface / MIT
 
@@ -33,22 +33,22 @@
 
 ### Automation / MIT
 
-*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐76)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
+*   [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada (⭐77)](https://github.com/AdaCore/gtkada) application to manage ELV/eQ-3 MAX! cubes for home automation.
 
 ### Shells, Interpreters and Emulators / MIT
 
-*   [dashera (⭐33)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
-*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐76)](https://github.com/AdaCore/gtkada).
+*   [dashera (⭐34)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada (⭐77)](https://github.com/AdaCore/gtkada).
+*   [yotroc (⭐4)](https://github.com/docandrew/YOTROC) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada (⭐77)](https://github.com/AdaCore/gtkada).
 
 ### Misc / MIT
 
-*   [whitakers-words (⭐226)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
+*   [whitakers-words (⭐227)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [wait-for (⭐11)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
+*   [wait-for (⭐13)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -60,20 +60,20 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [tealang (⭐38)](https://github.com/pzbitskiy/tealang) - A high level language for Algorand ASC1 and TEAL.
+*   [tealang (⭐37)](https://github.com/pzbitskiy/tealang) - A high level language for Algorand ASC1 and TEAL.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Cloud management solutions
 
 *   [Pulumi](https://www.pulumi.com/) — Modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
-*   [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
+*   [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for up to 500 resources.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [@vuepic/vue-datepicker (⭐603)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
+*   [@vuepic/vue-datepicker (⭐733)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 
 ## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 

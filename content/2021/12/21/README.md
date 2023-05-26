@@ -16,14 +16,14 @@
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Event IDs (⭐451)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+*   [Awesome Event IDs (⭐479)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
 ## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / Data Mapping Solution
 
-*   [JOLT (⭐1.3k)](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java where the "specification" for the transform is itself a JSON document.
-*   [JSLT (⭐512)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
+*   [JOLT (⭐1.4k)](https://github.com/bazaarvoice/jolt) - A Java-based JSON-to-JSON transformation library that uses a JSON document as the "specification" for the transform. JOLT provides a simple way for software engineers to transform JSON data.
+*   [JSLT (⭐548)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -80,13 +80,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐332)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐348)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Jire/Strukt (⭐72)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
+*   [Jire/Strukt (⭐73)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -98,13 +98,13 @@
 
 ### Components & Libraries / Utilities
 
-*   [hami-vuex (⭐21)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
+*   [hami-vuex (⭐22)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
 
 ## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐50)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐58)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -116,11 +116,11 @@
 
 *   [OpenOwnership Register](https://register.openownership.org/)
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Other Parsing
+### SVG / Barcode
 
-*   [SVGView (⭐305)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐326)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Logging
 
-*   [ULogViewer (⭐90)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
+*   [ULogViewer (⭐105)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
 ## [17. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

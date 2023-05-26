@@ -62,11 +62,11 @@
 
 ### Static Site Generators
 
-*   [FsBlog (⭐131)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
+*   [FsBlog (⭐132)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 
 ### Testing
 
-*   [FluentAutomation (⭐235)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
+*   [FluentAutomation (⭐233)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -76,11 +76,11 @@
 
 ### Assets
 
-*   [Emoji (⭐445)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+*   [Emoji (⭐443)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 
 ### Authentication and OAuth
 
-*   [JWT (⭐3.4k)](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
+*   [JWT (⭐3.5k)](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
 
 ### Configuration
 
@@ -102,7 +102,7 @@
 
 ### Ebook
 
-*   [Bookshop (⭐0)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+*   [Bookshop (⭐2)](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
 
 ### File Upload
 
@@ -122,7 +122,7 @@
 
 ### Third-party APIs
 
-*   [Pusher (⭐656)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+*   [Pusher (⭐658)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
 ## [6. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md)
 

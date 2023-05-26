@@ -10,7 +10,7 @@
 
 ### Game Engine
 
-*   [Panda3D (⭐3.7k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐3.9k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -39,7 +39,7 @@
 ### Ask these people anything!
 
 *   [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
-*   [Matthew Mueller (⭐3)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
+*   [Matthew Mueller (⭐4)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
 
 ## [5. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 

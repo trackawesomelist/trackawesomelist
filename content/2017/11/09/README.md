@@ -56,7 +56,7 @@
 
 ### Utilities
 
-*   [Vert.x Dataloader (⭐71)](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer.
+*   [Vert.x Dataloader (⭐72)](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer.
 
 ## [7. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -74,11 +74,11 @@
 
 ### Code Analysis and Metrics
 
-*   [App.Metrics (⭐2.1k)](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://www.app-metrics.io/) for me details.
+*   [App.Metrics (⭐2.2k)](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://www.app-metrics.io/) for me details.
 
 ### Datetime
 
-*   [NodaTime (⭐2.4k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
+*   [NodaTime (⭐2.5k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
 
 ### Decompilation
 
@@ -86,7 +86,7 @@
 
 ### Office
 
-*   [DocX (⭐1.5k)](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
+*   [DocX (⭐1.6k)](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
 
 ### Tools
 

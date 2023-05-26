@@ -25,23 +25,23 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [MLKit (⭐152)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
+*   [MLKit (⭐151)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Files
 
-*   [KZFileWatchers (⭐1k)](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote.
+*   [KZFileWatchers (⭐1.1k)](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote.
 
 ### Pagination / Barcode
 
-*   [PageController (⭐407)](https://github.com/hirohisa/PageController) - Infinite paging controller.
+*   [PageController (⭐412)](https://github.com/hirohisa/PageController) - Infinite paging controller.
 
 ## [4. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Monoid (⭐7.5k)](https://github.com/larsenwork/monoid)
+*   [Monoid (⭐7.6k)](https://github.com/larsenwork/monoid)
 
 ## [5. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

@@ -10,12 +10,12 @@
 
 ### Messaging / Scala
 
-*   [Ascoltatori (⭐525)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
+*   [Ascoltatori (⭐526)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 *   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### REST / Scala
 
-*   [Apidoc (⭐544)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
+*   [Apidoc (⭐543)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 
 ### Articles & Papers / Scala
 
@@ -90,7 +90,7 @@
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
-*   [Elm for Web Developers (⭐58)](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
+*   [Elm for Web Developers (⭐57)](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
 
 ## [7. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 

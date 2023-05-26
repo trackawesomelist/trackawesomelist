@@ -10,7 +10,7 @@
 
 ### Clocks & Studio Screens
 
-*   [OnAirScreen (⭐74)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
+*   [OnAirScreen (⭐76)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
 *   [PiClock (⭐20)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 *   [PiRSClock-Full (⭐14)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
 
@@ -18,7 +18,7 @@
 
 ### Data validation / Third-party APIs
 
-*   [json-schema (⭐12)](https://github.com/fisxoj/json-schema) - A library for validating data against schemas of drafts 4, 6, 7, and 2019-09 of the [JSON Schema](https://json-schema.org/) standard. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [json-schema (⭐13)](https://github.com/fisxoj/json-schema) - A library for validating data against schemas of drafts 4, 6, 7, and 2019-09 of the [JSON Schema](https://json-schema.org/) standard. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Misc
 
-*   [Fugen (⭐70)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
+*   [Fugen (⭐74)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -77,13 +77,13 @@
 
 *   [HTML2RSS](https://html2rss.github.io) <sup>[795](https://t.me/s/aboutrss/795)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/gildesmarais/html2rss)
 
-### specifically from (  *a certain platform*  ) / Hacker News
+### specifically from (*a certain platform*) / Hacker News
 
 *   [Realtime RSS feeds for *Hacker News*](https://hnrss.org) <sup>[465](https://t.me/s/aboutrss/465)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/edavis/hnrss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Headllines](https://headllines.com/) <sup>[796](https://t.me/s/aboutrss/796)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/headllines)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Hacker News Digest](http://hackernews.betacat.io/) <sup>[802](https://t.me/s/aboutrss/802)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/polyrabbit/hacker-news-digest)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### specifically from (  *a certain platform*  ) / Last.fm
+### specifically from (*a certain platform*) / Last.fm
 
 *   [Last.fm RSS Feeds](https://lfm.xiffy.nl/) <sup>[807](https://t.me/s/aboutrss/807)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xiffy/lfm)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
@@ -94,7 +94,7 @@
 *   [PushAlert](https://pushalert.co/blog/introducing-automated-rss-push-and-newsletter-push-notifications/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 *   [PushEngage](https://blog.pushengage.com/fully-automate-your-browser-push-campaigns-with-wordpress-or-rss-feed/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 
-### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### RSS2CMS / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [PressForward](https://pressforward.org/) <sup>[804](https://t.me/s/aboutrss/804)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/PressForward/pressforward)
 

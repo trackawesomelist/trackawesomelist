@@ -16,7 +16,7 @@
 
 ### Open Source / Other
 
-*   [Mouseless (⭐113)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
+*   [Mouseless (⭐119)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
 *   [Glyphfinder (⭐125)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
@@ -64,7 +64,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [skorch (⭐5k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
+*   [skorch (⭐5.1k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -74,11 +74,11 @@
 
 ### Build Automation
 
-*   [MSBuild (⭐4.9k)](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
+*   [MSBuild (⭐5k)](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
 
 ### Documentation
 
-*   [Swashbuckle (⭐3k)](https://github.com/domaindrivendev/Swashbuckle.WebApi) - Seamlessly adds a Swagger to Web API projects.
+*   [Swashbuckle (⭐3.1k)](https://github.com/domaindrivendev/Swashbuckle.WebApi) - Seamlessly adds a Swagger to Web API projects.
 
 ### GUI
 
@@ -86,11 +86,11 @@
 
 ### Internationalization
 
-*   [ResX Resource Manager (⭐1k)](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
+*   [ResX Resource Manager (⭐1.1k)](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
 
 ### Interoperability
 
-*   [pinvoke (⭐1.9k)](https://github.com/dotnet/pinvoke) - A library containing P/Invoke code for latest Windows OS.
+*   [pinvoke (⭐2k)](https://github.com/dotnet/pinvoke) - A library containing P/Invoke code for latest Windows OS.
 
 ### Misc
 
@@ -110,17 +110,17 @@
 
 ### Serialization
 
-*   [ProtoBuf (⭐276)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
+*   [ProtoBuf (⭐280)](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 
 ### Testing
 
-*   [Verify (⭐1.8k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
+*   [Verify (⭐1.9k)](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
 
 ### Tools
 
 *   [Open Live Writer (⭐2.4k)](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
 *   [Papercut (⭐2.5k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
-*   [SmartCode (⭐544)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
+*   [SmartCode (⭐552)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
 
 ### UI Automation
 
@@ -128,13 +128,13 @@
 
 ### Visual Studio Plugins
 
-*   [VsVIM (⭐3.4k)](https://github.com/VsVim/VsVim) - VIM in Visual Studio
+*   [VsVIM (⭐3.5k)](https://github.com/VsVim/VsVim) - VIM in Visual Studio
 
 ## [11. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Replay
 
-*   [OpenWayback (⭐435)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
+*   [OpenWayback (⭐444)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
 *   [PyWb (⭐1.1k)](https://github.com/ikreymer/pywb) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
 *   [ReplayWeb.Page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC files.
 

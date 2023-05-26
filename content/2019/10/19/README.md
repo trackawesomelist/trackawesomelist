@@ -10,11 +10,11 @@
 
 ### Dependency Injection
 
-*   [DIKit (⭐95)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
+*   [DIKit (⭐97)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
 
 ### Quality / Barcode
 
-*   [SwiftCop (⭐543)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
+*   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
 
 ## [2. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -93,7 +93,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
-    (Python, MIT, [GitHub (⭐1.6k)](https://github.com/PyWavelets/pywt))
+    (Python, MIT, [GitHub (⭐1.7k)](https://github.com/PyWavelets/pywt))
 
 ## [12. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

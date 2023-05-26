@@ -29,9 +29,9 @@
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐58k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐34k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Screensavers (⭐3k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐61k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐35k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -117,7 +117,7 @@ Rename Index.txt to Index.html
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-progress-bar (⭐16)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
+*   [cl-progress-bar (⭐17)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT](https://opensource.org/licenses/MIT).
 
 ### Other / Third-party APIs
 
@@ -415,7 +415,7 @@ Rename Index.txt to Index.html
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Three.js Basics](http://www.realtimerendering.com/basics3js/#1) - Introduction to Three.js by Eric Haines.
-*   [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/\~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
+*   [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
 
 ### Quick References • Cheatsheets / Other
 
@@ -473,7 +473,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Miscellaneous / Development and testing
 
-*   [tmux-tail-f (⭐31)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+*   [tmux-tail-f (⭐30)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
 ## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -516,7 +516,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Open Source Repos / Elastic Container Service
 
-*   [ecs-refarch-continuous-deployment :fire::fire::fire: (⭐833)](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
+*   [ecs-refarch-continuous-deployment :fire::fire::fire: (⭐836)](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
 
 ## [35. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -689,7 +689,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Examples and funny stuff
 
-*   [crystalworld (⭐40)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+*   [crystalworld (⭐42)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
 
 ### Unofficial
 
@@ -726,24 +726,24 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐977)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐395)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐397)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐732)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐748)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [53. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Hardware / Opcodes
 
 *   [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the implementation of three 8-bit bidirectional parallel ports.
-*   [Related custom hardware (⭐232)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
-*   [ESP8266 GB Dev Board (⭐18)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
-*   [ESP8266 GB Printer (⭐39)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
+*   [Related custom hardware (⭐258)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
+*   [ESP8266 GB Dev Board (⭐21)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
+*   [ESP8266 GB Printer (⭐41)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
 *   [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - Page with loads of information on the hardware, custom boards to interface with the console and other related projects.
 
 ### Peripherals / Opcodes
@@ -770,16 +770,16 @@ Webpage: <https://ironcladcoffee.com/>
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
 *   [SameSuite (⭐23)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐137)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐163)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [SameBoy (⭐1.2k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
-*   [Mooneye GB (⭐807)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [SameBoy (⭐1.3k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
+*   [Mooneye GB (⭐835)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
-*   [flappybird-gameboy (⭐11)](https://github.com/pashutk/flappybird-gameboy)
+*   [flappybird-gameboy (⭐13)](https://github.com/pashutk/flappybird-gameboy)
 *   [fbgb (⭐3)](https://github.com/gb-archive/fbgb)
 
 ### Demos / Syntax highlighting packages
@@ -788,12 +788,12 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Related projects / Syntax highlighting packages
 
-*   [liblsdj (⭐70)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
-*   [lsdpatch (⭐121)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+*   [liblsdj (⭐77)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
+*   [lsdpatch (⭐136)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
 
 ### Directories / Syntax highlighting packages
 
-*   [The Game Boy Archive - Salvage (⭐22)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
+*   [The Game Boy Archive - Salvage (⭐25)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
 ## [54. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 

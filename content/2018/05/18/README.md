@@ -21,9 +21,9 @@
 ### Schema / Changes
 
 *   [2bass (⭐37)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [flyway (⭐7k)](https://github.com/flyway/flyway) - Database migration tool.
-*   [liquibase (⭐3.7k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
-*   [Pyrseas (⭐357)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
+*   [flyway (⭐7.1k)](https://github.com/flyway/flyway) - Database migration tool.
+*   [liquibase (⭐3.8k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
+*   [Pyrseas (⭐361)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### API / Samples
 
@@ -78,7 +78,7 @@
 
 ### Multimedia content processing
 
-*   [EBU ADM Renderer (⭐54)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
+*   [EBU ADM Renderer (⭐55)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

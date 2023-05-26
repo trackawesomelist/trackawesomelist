@@ -26,19 +26,19 @@
 
 ### Programming Languages
 
-*   [Move (⭐1k)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
+*   [Move (⭐1.1k)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 
 ### Front-End Development
 
-*   [Hydrogen (⭐109)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+*   [Hydrogen (⭐116)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
 
 ### Networking
 
-*   [Scapy (⭐111)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
+*   [Scapy (⭐119)](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
 ### Miscellaneous
 
-*   [Computational Geometry (⭐30)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
+*   [Computational Geometry (⭐34)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 
 ## [4. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -59,11 +59,11 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Ninja-Squad/springmockk (⭐399)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
+*   [Ninja-Squad/springmockk (⭐420)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
 
 ### Projects / Web
 
-*   [Ahoo-Wang/CoSky (⭐62)](https://github.com/Ahoo-Wang/CoSky) - High-performance, low-cost microservice governance platform. Service Discovery and Configuration Service
+*   [Ahoo-Wang/CoSky (⭐66)](https://github.com/Ahoo-Wang/CoSky) - High-performance, low-cost microservice governance platform. Service Discovery and Configuration Service
 
 ## [7. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐10k)](https://github.com/Schniz/fnm).
+*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐12k)](https://github.com/Schniz/fnm).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -102,7 +102,7 @@
 
 ### Extensions
 
-*   [Next-Sitemap (⭐2.3k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
+*   [Next-Sitemap (⭐2.5k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 
 ## [12. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -133,25 +133,25 @@
 
 ### Clojure
 
-*   [Cloture (⭐346)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
-*   [cl-oju (⭐12)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [clj-con (⭐17)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [clj-re (⭐6)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
+*   [Cloture (⭐356)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
+*   [cl-oju (⭐16)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clj-con (⭐19)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clj-re (⭐7)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
 
 ### Typing
 
-*   [typo (⭐25)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [typo (⭐27)](https://github.com/marcoheisig/Typo/) -  A portable type inference library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / OpenAPI, OData, OpenRPC
 
-*   [OpenRPC (⭐21)](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [OpenRPC (⭐23)](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   Automatic OpenRPC spec generation
     *   Automatic JSON-RPC client building by OpenRPC spec. This includes creation of Common Lisp classes and methods for making RPC requests and returning native CL objects.
     *   all JSON marshalling is done under the hood.
 
 ### Apps / Third-party APIs
 
-*   [trivial-sanitize](https://notabug.org/cage/trivial-sanitize) -  clean html strings: "<a>foo</a>" → "foo". [LLGPL](http://opensource.franz.com/preamble.html).
+*   [trivial-sanitize](https://notabug.org/cage/trivial-sanitize) -  clean html strings: `"<a>foo</a>"` → `"foo"`. [LLGPL](http://opensource.franz.com/preamble.html).
 *   [testieren](https://cicadas.surf/cgit/colin/testiere.git/about/) - a testing utility where tests are included at the top of a `defun/t` form. They are run when you recompile your functions interactively. With mocking and stubbing support. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Macro helpers / Third-party APIs
@@ -163,7 +163,7 @@
 ### Other plugins
 
 *   Dynamsoft
-    *   [Barcode Reader (⭐5)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
+    *   [Barcode Reader (⭐6)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
     *   [Camera Preview (⭐3)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
     *   [Document Normalizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer) - Scan documents using Dynamsoft Document Normalizer.
     *   [Label Recognizer (⭐0)](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
@@ -179,7 +179,7 @@
 
 ### Game Development
 
-*   [SDL-Crystal-Bindings (⭐0)](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
+*   [SDL-Crystal-Bindings (⭐1)](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -193,7 +193,7 @@
 
 ### Utilities / General Tools
 
-*   [DevToysMac (⭐6.5k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [DevToysMac (⭐7.2k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -216,8 +216,8 @@
 
 ### Tools
 
-*   [Magento 2 Database Synchronizer (⭐38)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
-*   [Subodha Magento2 Gulp Integration (⭐78)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
+*   [Magento 2 Database Synchronizer (⭐39)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
+*   [Subodha Magento2 Gulp Integration (⭐76)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
 
 ## [24. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -239,7 +239,7 @@
 
 ### Charts / Checkbox
 
-*   [Layer Cake (⭐785)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
+*   [Layer Cake (⭐836)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
 ## [27. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
@@ -265,29 +265,27 @@
 ### Apps / Blockchain Name System
 
 *   [btc.us](https://btc.us) - An application for .btc names.
-*   [stx.name](https://stx.name) - An application for BNS name registration (not open source).
 *   [BNS search](https://www.bnssearch.com/) - An application to search registered BNS names.
-*   [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
 *   [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
 ### Apps / DeFi
 
 *   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
 *   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
-*   [Arkadiko Protocol (⭐54)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
+*   [Arkadiko Protocol (⭐55)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 
-### Clarity Resources / Developer Tools
+### Clarity Resources / Example Contracts
 
 *   [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 
 ### App Development / Frontend Libraries
 
-*   [Stacks.js (⭐882)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
-*   [micro-stacks (⭐68)](https://github.com/fungible-systems/micro-stacks/) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [Stacks.js (⭐906)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [micro-stacks (⭐79)](https://github.com/fungible-systems/micro-stacks/) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 
 ### App Development / CLI
 
-*   [@stacks/cli (⭐882)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
+*   [@stacks/cli (⭐906)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
 
 ### Learning Resources / Documentation
 
@@ -295,7 +293,7 @@
 
 ### Learning Resources / Books
 
-*   [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (early preview)
+*   [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## [29. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
@@ -309,11 +307,11 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfautomv (⭐457)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
+*   [tfautomv (⭐499)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 
 ### Terraform Enterprise / Vendor supported providers
 
-*   [OTF (⭐265)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+*   [OTF (⭐313)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 
 ## [31. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -344,69 +342,65 @@
 ### Authorization / Policy models
 
 *   [AWS IAM Roles, a tale of unnecessary complexity](https://infosec.rodeo/posts/thoughts-on-aws-iam/) - The history of fast-growing AWS explains how the current sheme came to be, and how it compares to GCP's resource hierarchy.
-*   [SpiceDB (⭐3.2k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
+*   [SpiceDB (⭐3.4k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
 
 ### Authorization / Open-source policy frameworks
 
-*   [Open Policy Agent (⭐7.7k)](https://github.com/open-policy-agent/opa) - An open-source general-purpose decision engine to create and enforce attribute-based access control (ABAC) policies.
-*   [Topaz (⭐561)](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
+*   [Open Policy Agent (⭐7.9k)](https://github.com/open-policy-agent/opa) - An open-source general-purpose decision engine to create and enforce attribute-based access control (ABAC) policies.
+*   [Topaz (⭐638)](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
 
 ### Trust & Safety / User Identity
 
-*   [Ballerine (⭐1.3k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
+*   [Ballerine (⭐1.5k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
 
 ## [36. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
-*   [ImageQuality (⭐7)](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM\*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.
+*   [ImageQuality (⭐13)](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM\*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.
 *   [DelphiX](http://www.micrel.cz/Dx/) `[Delphi]` `[FPC]` A good wrapper to DirectX. It can be used to create games or any kind of graphical interface.
 
 ### Game dev
 
-*   [ZenGL (⭐22)](https://github.com/Seenkao/New-ZenGL). `[Delphi]` `[FPC]` OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc.
-
-### Serial port
-
-*   \[ComPortDriver] ([https://github.com/MHumm/ComPortDriver (⭐25)](https://github.com/MHumm/ComPortDriver)). '\[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included.
+*   [ZenGL (⭐32)](https://github.com/Seenkao/New-ZenGL). `[Delphi]` `[FPC]` OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc.
 
 ### Control packs
 
-*   [liblcl (⭐82)](https://github.com/ying32/liblcl). `[FPC]` A common cross-platform GUI library, the core uses Lazarus LCL.
+*   [liblcl (⭐98)](https://github.com/ying32/liblcl). `[FPC]` A common cross-platform GUI library, the core uses Lazarus LCL.
     // *Pascal-based lib with GUI bindings for use in languages like C++, Go, Rust.*
 
 ### Other GUI
 
-*   [GUI AutoSave (⭐3)](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
+*   [GUI AutoSave (⭐7)](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
 
 ### Database
 
-*   [Trysil (⭐49)](https://github.com/davidlastrucci/Trysil) \[Delphi] ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
+*   [Trysil (⭐51)](https://github.com/davidlastrucci/Trysil) \[Delphi] ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
 
 ### System
 
-*   [Storage Access Framework SAF (⭐13)](https://github.com/emozgun/delphi-android-SAF) `[Delphi]` Android Scoped Storage : Storage Access Framework SAF API
+*   [Storage Access Framework SAF (⭐23)](https://github.com/emozgun/delphi-android-SAF) `[Delphi]` Android Scoped Storage : Storage Access Framework SAF API
 
 ### Logging
 
-*   [LogLib (⭐3)](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
+*   [LogLib (⭐5)](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
 
 ### Other non-visual
 
-*   [Delphi LightSaber-CoreLib (⭐19)](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library. Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
-*   [DCContainers (⭐8)](https://github.com/dsapolska/dccontainers). `[Delphi]` Containers library with maps and sets based on red-black tree
-*   [DOSCommand (⭐77)](https://github.com/TurboPack/DOSCommand). `[Delphi]` Component lets you execute a dos program (exe, com or batch file) and catch the ouput in order to put it in a memo or in a listbox, ... You can also send inputs.
+*   [Delphi LightSaber-CoreLib (⭐35)](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library. Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
+*   [DCContainers (⭐10)](https://github.com/dsapolska/dccontainers). `[Delphi]` Containers library with maps and sets based on red-black tree
+*   [DOSCommand (⭐80)](https://github.com/TurboPack/DOSCommand). `[Delphi]` Component lets you execute a dos program (exe, com or batch file) and catch the ouput in order to put it in a memo or in a listbox, ... You can also send inputs.
 
 ### Unit Testing
 
-*   [DelphiCodeCoverageWizardPlus (⭐13)](https://github.com/MHumm/delphi-code-coverage-wizard-plus). `[Delphi]` GUI wizard for creating a batch file to call the commandline code coverage tool. Includes a project format for easier change of settings later on. Includes binaries of the code coverage tool itssel.
+*   [DelphiCodeCoverageWizardPlus (⭐21)](https://github.com/MHumm/delphi-code-coverage-wizard-plus). `[Delphi]` GUI wizard for creating a batch file to call the commandline code coverage tool. Includes a project format for easier change of settings later on. Includes binaries of the code coverage tool itssel.
 
 ### RAD Studio IDE plugins/wizards
 
-*   [Multi-RAD Studio IDE Expert Manager (⭐4)](https://github.com/DGH2112/Expert-Manager). Application allows you to manage the experts and packages loadsed into multiple versions of RAD Studio
-*   [Browse and Doc It (⭐2)](https://github.com/DGH2112/Browse-and-Doc-It). RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.
-*   [Integrated Testing Helper (⭐6)](https://github.com/DGH2112/Integrated-Testing-Helper). Plugin for Delphi and RAD Studio that allows you to run command-line application before and after the compilation of you projects. It also provides the ability to zip you projects files into an archive on each compile/build and manage the application's version information.
-*   [IDE-Notifiers (⭐9)](https://github.com/DGH2112/DGH-IDE-Notifiers). RAD Studio IDE plug-in to display notifications of various operations in the IDE as they occur.
+*   [Multi-RAD Studio IDE Expert Manager (⭐6)](https://github.com/DGH2112/Expert-Manager). Application allows you to manage the experts and packages loadsed into multiple versions of RAD Studio
+*   [Browse and Doc It (⭐4)](https://github.com/DGH2112/Browse-and-Doc-It). RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.
+*   [Integrated Testing Helper (⭐7)](https://github.com/DGH2112/Integrated-Testing-Helper). Plugin for Delphi and RAD Studio that allows you to run command-line application before and after the compilation of you projects. It also provides the ability to zip you projects files into an archive on each compile/build and manage the application's version information.
+*   [IDE-Notifiers (⭐13)](https://github.com/DGH2112/DGH-IDE-Notifiers). RAD Studio IDE plug-in to display notifications of various operations in the IDE as they occur.
 
 ### Code check/review, debug
 
@@ -420,7 +414,7 @@
 
 ### Cryptography
 
-*   [HEhub (⭐65)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐71)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Networking
 
@@ -434,17 +428,13 @@
 
 ### Machine Learning / Automated Machine Learning
 
-*   [AutoGluon (⭐5.3k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [AutoGluon (⭐5.8k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Data Manipulation / Data-centric AI
 
-*   [cleanlab (⭐5.3k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-*   [snorkel (⭐5.4k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-*   [dataprep (⭐1.5k)](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
-
-### Related Resources / NLP
-
-*   [Best of Machine Learning Libraries](https://kandi.openweaver.com/collections/machine-learning/python-machine-learning) - A curated list of best Machine Learning libraries in Python.
+*   [cleanlab (⭐5.9k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [snorkel (⭐5.5k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+*   [dataprep (⭐1.6k)](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
 
 ## [39. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
@@ -485,11 +475,11 @@
 
 ### Templates / React
 
-*   [vite-plugin-react-views (⭐8)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
+*   [vite-plugin-react-views (⭐14)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 
 ### Templates / Electron
 
-*   [Vutron (⭐58)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐79)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -497,7 +487,7 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [cypress-vite (⭐36)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [cypress-vite (⭐51)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 ## [44. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -505,45 +495,28 @@
 
 *   [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
 
-## [45. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [45. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
-### C++ / Non-X86
+### Julia / FrameWorks
 
-*   [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) - Alex Allain
-
-### JavaScript / Wicket
-
-*   [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
-
-### JavaScript / Node.js
-
-*   [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
-*   [Serverless framework getting started](https://www.serverless.com/framework/docs/getting-started)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
-*   [Use The Index, Luke!: A Guide To SQL Database Performance](https://use-the-index-luke.com) - Markus Winand (HTML)
-
-### TypeScript / Angular
-
-*   [Angular Material](https://material.angular.io/guides) (HTML)
+*   [DataFrames.jl (⭐1.6k)](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia
+*   [TSFrames.jl (⭐76)](https://github.com/xKDR/TSFrames.jl) - Handle timeseries data on top of the powerful and mature DataFrames.jl
 
 ## [46. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
-*   [bubbletea (⭐17k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
+*   [bubbletea (⭐18k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 
 ### SQL Query Builders
 
-*   [builq (⭐58)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
+*   [builq (⭐63)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 
 ## [47. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Gateway
 
-*   [Apinto (⭐393)](https://github.com/eolinker/goku) - Golang-based microservice gateway that enables high-performance dynamic routing,service orchestration, multi-tenancy management, API access control, etc.
+*   [Apinto (⭐761)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
 
 ## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -566,26 +539,26 @@
 
 ### Players / MPEG
 
-*   [elements/packages/mux-player (⭐113)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐651)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
+*   [elements/packages/mux-player (⭐146)](https://github.com/muxinc/elements/tree/main/packages/mux-player)  - `<mux-player>` is the official Mux-flavored video player web component. The player UI is built on [Media Chrome (⭐758)](https://github.com/muxinc/media-chrome) and [`<mux-video>`](https://github.com/muxinc/elements/tree/main/packages/mux-video) drives the core video logic used to play Mux Video content.
 
 ## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
-*   [Vue 3 + Laravel v9 - Boilerplate / Starter kit (⭐17)](https://github.com/fsgreco/vue3-laravel-api) An implementation of the **Laravel Breeze** application / authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of **pinia** and **vue-router**.
+*   [Vue 3 + Laravel v9 - Boilerplate / Starter kit (⭐21)](https://github.com/fsgreco/vue3-laravel-api) An implementation of the **Laravel Breeze** application / authentication starter kit frontend in Vue.js v3. How a library can become a framework with the help of **pinia** and **vue-router**.
 
 ### Projects Using Vue.js / Open Source
 
-*   [lishuuro.org (⭐5)](https://github.com/uros-5/ui-lishuuro) - Small chess variant app that uses Vue3 for UI and Pinia for managing state in app.
+*   [lishuuro.org (⭐10)](https://github.com/uros-5/ui-lishuuro) - Small chess variant app that uses Vue3 for UI and Pinia for managing state in app.
 
 ### Components & Libraries / UI Components
 
-*   [vue-awesome-sidebar (⭐17)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
-*   [vue-web-terminal (⭐80)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
+*   [vue-awesome-sidebar (⭐31)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
+*   [vue-web-terminal (⭐97)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 
 ### Components & Libraries / Frameworks
 
-*   [Vue USWDS (⭐4)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
+*   [Vue USWDS (⭐5)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 
 ### Components & Libraries / Utilities
 
@@ -593,7 +566,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vue3-SPA-starter-template (⭐35)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
+*   [Vue3-SPA-starter-template (⭐39)](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
 
 ## [52. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -605,8 +578,8 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cargo-breaking (⭐112)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
-*   [cargo-show-asm (⭐283)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+*   [cargo-breaking (⭐111)](https://github.com/iomentum/cargo-breaking) — cargo-breaking compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
+*   [cargo-show-asm (⭐357)](https://github.com/pacak/cargo-show-asm) — cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
 ## [54. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -630,9 +603,9 @@
 
 *   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
-*   [MubertAI/Mubert-Text-to-Music (⭐2.4k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
+*   [MubertAI/Mubert-Text-to-Music (⭐2.6k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
 
 ## [57. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -697,11 +670,11 @@
 
 ### Auto Layout / Barcode
 
-*   [HypeUI (⭐103)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
+*   [HypeUI (⭐106)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 
 ### Testing / Barcode
 
-*   [SBTUITestTunnel (⭐286)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
+*   [SBTUITestTunnel (⭐293)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
 
 ## [61. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -713,12 +686,12 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [toppair/peek.nvim (⭐270)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
+*   [toppair/peek.nvim (⭐361)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
 
 ### Editing Support / Diagnostics
 
-*   [Wansmer/sibling-swap.nvim (⭐76)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
-*   [Wansmer/binary-swap.nvim (⭐9)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
+*   [Wansmer/sibling-swap.nvim (⭐93)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
+*   [Wansmer/binary-swap.nvim (⭐12)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
 
 ## [63. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -739,7 +712,7 @@
 
 ### Projects / Verified Software
 
-*   [Functional Algorithms Verified in SSReflect (⭐26)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
+*   [Functional Algorithms Verified in SSReflect (⭐27)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
 
 ### Resources / Community
 
@@ -778,13 +751,13 @@
 
 ### Software / Web
 
-*   [Traefik](https://traefik.io/) - Traefik is a leading modern reverse proxy and load balancer.
+*   [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code (⭐43k)](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
 
 ## [68. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
-*   [Tailwind CSS Docs (⭐38)](https://github.com/techouse/alfred-tailwindcss-docs) - Search the [Tailwind CSS](https://tailwindcss.com/docs/) documentation.
+*   [Tailwind CSS Docs (⭐46)](https://github.com/techouse/alfred-tailwindcss-docs) - Search the [Tailwind CSS](https://tailwindcss.com/docs/) documentation.
 
 ## [69. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 

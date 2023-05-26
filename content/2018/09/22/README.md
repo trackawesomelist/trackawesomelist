@@ -10,11 +10,11 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dash (⭐18k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
+*   [Dash (⭐19k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [SVM Explorer (⭐152)](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
+*   [SVM Explorer (⭐153)](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

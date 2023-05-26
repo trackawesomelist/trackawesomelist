@@ -22,7 +22,7 @@
 
 ### HTTP Clients
 
-*   [httpx (⭐9.8k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
+*   [httpx (⭐10k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -81,8 +81,8 @@
 *   **Libraries**
     *   [Ocaml-sklearn (⭐26)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
     *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
-    *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐18)](https://github.com/owlbarn/owl_mask_rcnn).
-    *   [PyTorch bindings (⭐367)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐17)](https://github.com/owlbarn/owl_mask_rcnn).
+    *   [PyTorch bindings (⭐378)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
 
 ## [9. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

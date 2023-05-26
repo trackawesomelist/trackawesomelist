@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [spdlog (⭐17k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
+*   [spdlog (⭐18k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 
 ### Networking
 
@@ -18,7 +18,7 @@
 
 ### Other Awesome Projects
 
-*   [Projects (⭐41k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
+*   [Projects (⭐42k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Packages / Image
 
-*   [lwip (⭐2.3k)](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
+*   [lwip (⭐2.4k)](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 
 ### Resources / Tutorials
 
@@ -58,7 +58,7 @@
 
 ### Connection pools
 
-*   [hikari-cp (⭐372)](https://github.com/tomekw/hikari-cp)
+*   [hikari-cp (⭐397)](https://github.com/tomekw/hikari-cp)
 
 ## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 

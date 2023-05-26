@@ -97,7 +97,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
+*   [Netflix/asgard :fire::fire::fire::fire::fire: (⭐2.2k)](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
 
 ## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Exercises and Short Examples
 
-*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions (⭐81)](https://github.com/exercism/xocaml).
+*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions (⭐85)](https://github.com/exercism/xocaml).
 
 ---
 

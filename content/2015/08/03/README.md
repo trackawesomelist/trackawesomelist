@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐755)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐780)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Game Frameworks / XML
 
-*   [DSFML (⭐100)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
+*   [DSFML (⭐98)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 
 ## [3. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Libraries / Parsing
 
-*   [kevinmehall/rust-peg (⭐1.2k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
+*   [kevinmehall/rust-peg (⭐1.3k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
 
 ## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

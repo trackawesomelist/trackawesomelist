@@ -2,9 +2,23 @@
 
 curated list of awesome resources, pointers, and tips related to veganism
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 44 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 53 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/sdassow/awesome-veganism/week/README.md) / [Overview](/content/sdassow/awesome-veganism/readme/README.md) ]
+
+## [May 26, 2023](/content/2023/05/26/README.md)
+
+### Bakeries
+
+*   Midvale, UT, USA
+    *   [Sweet Hazel & Co](https://sweethazelandco.com/) - Tasty candy bars, food and more. LGBTQ+ friendly!
+*   Salt Lake City, UT, USA
+    *   [Yumz Vegan Bakery & Cafe](https://www.toasttab.com/yumz-llc-3490-s-state-st/v3/) - Mexican vegan bakery with excellent food options.
+
+### Restaurants
+
+*   Salt Lake City, UT, USA
+    *   [Mark of the Beastro](https://markofthebeastro.com/) - Excellent vegan food and dining.
 
 ## [Feb 22, 2022](/content/2022/02/22/README.md)
 
@@ -64,10 +78,10 @@ curated list of awesome resources, pointers, and tips related to veganism
 
 ### Bakeries
 
-*   Zaandijk, Netherlands
-    *   [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
 *   Portland, OR, USA
     *   [Shoofly bakery](https://www.shooflyveganbakery.com/) - Vegan items delivered.
+*   Zaandijk, Netherlands
+    *   [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
 
 ### Restaurants
 

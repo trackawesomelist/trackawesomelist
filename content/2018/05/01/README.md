@@ -27,7 +27,7 @@
 
 ### Rust / General-Purpose Machine Learning
 
-*   [RusticSOM (⭐27)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
+*   [RusticSOM (⭐28)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -45,18 +45,18 @@
 
 ### Applications / Games
 
-*   [citybound (⭐7.3k)](https://github.com/citybound/citybound) — The city sim you deserve
+*   [citybound (⭐7.4k)](https://github.com/citybound/citybound) — The city sim you deserve
 
 ### Applications / System tools
 
-*   [mmstick/concurr (⭐93)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
-*   [mmstick/fontfinder (⭐254)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
+*   [mmstick/concurr (⭐94)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
+*   [mmstick/fontfinder (⭐258)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
-*   [libigl (⭐3.8k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
+*   [libigl (⭐4k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
 *   [NanoVG (⭐4.7k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
 
 ## [8. Css Protips](/content/AllThingsSmitty/css-protips/README.md)

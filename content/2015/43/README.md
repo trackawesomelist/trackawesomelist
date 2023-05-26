@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26 - Nov 01, 2015
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -79,7 +79,7 @@
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐476)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐478)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ### Office
 
@@ -146,11 +146,11 @@
 
 ### Network / Scanning / Pentesting
 
-*   [Pompem (⭐856)](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
+*   [Pompem (⭐892)](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
 
 ### Network / Monitoring / Logging
 
-*   [passivedns (⭐1.5k)](https://github.com/gamelinux/passivedns) - A tool to collect DNS records passively to aid Incident handling, Network Security Monitoring (NSM) and general digital forensics. PassiveDNS sniffs traffic from an interface or reads a pcap-file and outputs the DNS-server answers to a log file. PassiveDNS can cache/aggregate duplicate DNS answers in-memory, limiting the amount of data in the logfile without loosing the essens in the DNS answer.
+*   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - A tool to collect DNS records passively to aid Incident handling, Network Security Monitoring (NSM) and general digital forensics. PassiveDNS sniffs traffic from an interface or reads a pcap-file and outputs the DNS-server answers to a log file. PassiveDNS can cache/aggregate duplicate DNS answers in-memory, limiting the amount of data in the logfile without loosing the essens in the DNS answer.
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -172,7 +172,7 @@
 ### Web / Web Application Firewall
 
 *   [ModSecurity](http://www.modsecurity.org/) - ModSecurity is a toolkit for real-time web application monitoring, logging, and access control.
-*   [NAXSI (⭐4.1k)](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
+*   [NAXSI (⭐4.3k)](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
 
 ### Web / Scanning / Pentesting
 
@@ -184,11 +184,11 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Linux Containers (⭐1.4k)](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
+*   [Awesome Linux Containers (⭐1.5k)](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
 
 ### Other Awesome Lists / Other Common Awesome Lists
 
-*   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness) - awesome-\* or \*-awesome lists.
+*   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - awesome-\* or \*-awesome lists.
 
 ## [12. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -253,7 +253,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Editors / Runner
 
-*   [trix (⭐17k)](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
+*   [trix (⭐18k)](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
 
 ### Video/Audio / Other
 
@@ -287,17 +287,17 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Other
 
-*   [Delphi.gitignore (⭐141k)](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
+*   [Delphi.gitignore (⭐147k)](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
 
 ## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [Traceroute (⭐850)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+*   [Traceroute (⭐855)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ### Core Extensions
 
-*   [Finishing Moves (⭐197)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
+*   [Finishing Moves (⭐199)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -311,7 +311,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐202k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐204k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -320,7 +320,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐202k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐204k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 
 ## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -334,11 +334,11 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### JSON
 
-*   [jose (⭐271)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐275)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ### Natural Language Processing (NLP)
 
-*   [gibran (⭐63)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐157)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
+*   [gibran (⭐64)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐158)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 
 ## [27. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -482,20 +482,6 @@ Beginning with taking you through essential data mining and management tasks suc
 ### Images, Maps and Charts / Paid Books
 
 *   [Cropper (⭐7.8k)](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
-
-## [36. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C# / Non-X86
-
-*   [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
-
-### Prolog / Zend
-
-*   [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
-
-### TypeScript / Vapor
-
-*   [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 
 ---
 

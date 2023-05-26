@@ -10,10 +10,10 @@
 
 ### Captchas and anti-spam
 
-*   [Invisible Captcha (⭐980)](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
+*   [Invisible Captcha (⭐1k)](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
 *   [Rakismet (⭐354)](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 *   [reCAPTCHA (⭐1.9k)](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-*   [Voight-Kampff (⭐171)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+*   [Voight-Kampff (⭐170)](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ### Concurrency and Parallelism
 
@@ -24,11 +24,11 @@
 
 *   [Diffy (⭐1.2k)](https://github.com/samg/diffy) - Easy Diffing With Ruby.
 *   [gemdiff (⭐122)](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
-*   [JsonCompare (⭐54)](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
+*   [JsonCompare (⭐57)](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 
 ### File Upload
 
-*   [Shrine (⭐3k)](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
+*   [Shrine (⭐3.1k)](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
 
 ### File System Listener
 
@@ -36,12 +36,12 @@
 
 ### HTTP Clients and tools
 
-*   [Device Detector (⭐689)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
+*   [Device Detector (⭐695)](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 
 ### IRB
 
-*   [Clipboard (⭐337)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
-*   [Looksee (⭐362)](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
+*   [Clipboard (⭐339)](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
+*   [Looksee (⭐365)](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
 
 ### Machine Learning
 
@@ -49,7 +49,7 @@
 
 ### Queues and Messaging
 
-*   [Karafka (⭐1.6k)](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
+*   [Karafka (⭐1.7k)](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
 
 ### Web Frameworks
 
@@ -77,7 +77,7 @@
 
 ### UI / Barcode
 
-*   [SwiftyUI (⭐337)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
+*   [SwiftyUI (⭐338)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

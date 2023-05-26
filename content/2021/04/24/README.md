@@ -38,7 +38,7 @@
 
 ### Tools & Software / Search & Discovery
 
-*   [playback (⭐1)](https://github.com/wabarc/playback) - A toolkit for searching archived webpages from [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) and beyond. *(In Development)*
+*   [playback (⭐3)](https://github.com/wabarc/playback) - A toolkit for searching archived webpages from [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) and beyond. *(In Development)*
 
 ## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Miscellaneous
 
-*   [react-apple-signin-auth (⭐75)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
+*   [react-apple-signin-auth (⭐79)](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

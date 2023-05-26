@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 04 - Jun 10, 2018
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,7 +76,7 @@
 
 ### Other Tools / Telegram
 
-*   [The Harvester (⭐8.2k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐8.6k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -117,17 +117,17 @@
 ### API / Samples
 
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
-*   [prest (⭐3.6k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-*   [resquel (⭐109)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+*   [prest (⭐3.7k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+*   [resquel (⭐110)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgmetrics (⭐824)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
+*   [pgmetrics (⭐831)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
 *   [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
-*   [Pyora (⭐106)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
+*   [Pyora (⭐108)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
 
 ## [11. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
@@ -208,22 +208,22 @@
 
 ### ASM / Syntax highlighting packages
 
-*   [Tuff (⭐302)](https://github.com/BonsaiDen/Tuff.gb)
-*   [2048-gb (⭐100)](https://github.com/Sanqui/2048-gb)
+*   [Tuff (⭐303)](https://github.com/BonsaiDen/Tuff.gb)
+*   [2048-gb (⭐103)](https://github.com/Sanqui/2048-gb)
 *   [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
 *   [Lazerpong (⭐12)](https://github.com/huderlem/lazerpong)
 *   [Geometrix (⭐28)](https://github.com/AntonioND/geometrix)
-*   [µCity (⭐359)](https://github.com/AntonioND/ucity)
+*   [µCity (⭐370)](https://github.com/AntonioND/ucity)
 *   [Carazu (⭐16)](https://github.com/mholtkamp/carazu)
 *   [Snake-gb (⭐15)](https://github.com/DonaldHays/snake-gb)
-*   [GB303 (⭐97)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
+*   [GB303 (⭐105)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
 *   [Sushi (⭐4)](https://github.com/JustSid/Sushi)
 *   [Flappy-boy-asm (⭐82)](https://github.com/bitnenfer/flappy-boy-asm)
 *   [Adjustris (⭐11)](https://github.com/tbsp/Adjustris)
 *   [exeman (⭐26)](https://github.com/exezin/exeman/)
-*   [Aevilia (⭐55)](https://github.com/ISSOtm/Aevilia-GB)
+*   [Aevilia (⭐54)](https://github.com/ISSOtm/Aevilia-GB)
 *   [GBSlides (⭐25)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
-*   [Pokered-gbc (⭐102)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
+*   [Pokered-gbc (⭐111)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
 *   [ToyToy (⭐9)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 *   [StefaN (⭐3)](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone.
 *   [Galaxia (⭐3)](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
@@ -232,15 +232,14 @@
 
 ### C / Syntax highlighting packages
 
-*   [FlappyBoy (⭐20)](https://github.com/bitnenfer/FlappyBoy)
+*   [FlappyBoy (⭐19)](https://github.com/bitnenfer/FlappyBoy)
 *   [Squishy the Turtle (⭐8)](https://github.com/cppchriscpp/SquishyTheTurtle)
 *   [Quadratino (⭐12)](https://github.com/avivace/quadratino)
-*   [Doctor How (⭐25)](https://github.com/elfgames/doctorhow)
-*   [GBsnake (⭐26)](https://github.com/brovador/GBsnake)
-*   [gb-mines (⭐24)](https://github.com/andreasjhkarlsson/gb-mines)
+*   [Doctor How (⭐27)](https://github.com/elfgames/doctorhow)
+*   [GBsnake (⭐25)](https://github.com/brovador/GBsnake)
+*   [gb-mines (⭐26)](https://github.com/andreasjhkarlsson/gb-mines)
 *   [oranges](http://www.atari2600land.com/gameboy/oranges.html)
 *   [red hot princess carnage (⭐6)](https://github.com/Imanolea/bitbitjam3_red_hot_princess_carnage)
-*   [loderunner](http://www.tensi.eu/thomas/programming/gameboy/loderunner.html)
 *   [Hives](https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/)
 *   [GBC Atari Boxing (⭐2)](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color).
 *   [PostBot (⭐7)](https://github.com/MasterIV/PostBot)
@@ -248,20 +247,20 @@
 
 ### Demos / Syntax highlighting packages
 
-*   [Back to Color (⭐23)](https://github.com/AntonioND/back-to-color)
-*   [beach-gbc (⭐12)](https://github.com/vegard/beach-gbc)
-*   [CUTE DEMO (⭐28)](https://github.com/mills32/CUTE_DEMO)
+*   [Back to Color (⭐24)](https://github.com/AntonioND/back-to-color)
+*   [beach-gbc (⭐13)](https://github.com/vegard/beach-gbc)
+*   [CUTE DEMO (⭐29)](https://github.com/mills32/CUTE_DEMO)
 *   [`10 PRINT` Game Boy](https://github.com/svendahlstrand/10-print-game-boy)
 *   [Roboto Demo (⭐25)](https://github.com/naavis/roboto-demo)
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Yellow (⭐541)](https://github.com/pret/pokeyellow)
-*   [Pokémon Gold and Silver (⭐362)](https://github.com/pret/pokegold)
-*   [pokegold-spaceworld (⭐285)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
-*   [Link's Awakening DX (⭐695)](https://github.com/mojobojo/LADX-Disassembly)
-*   [Oracle of Ages (⭐125)](https://github.com/drenn1/ages-disasm)
-*   [FX Hammer (⭐5)](https://github.com/DevEd2/FXHammer-Disasm)
+*   [Pokémon Yellow (⭐577)](https://github.com/pret/pokeyellow)
+*   [Pokémon Gold and Silver (⭐397)](https://github.com/pret/pokegold)
+*   [pokegold-spaceworld (⭐297)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
+*   [Link's Awakening DX (⭐740)](https://github.com/mojobojo/LADX-Disassembly)
+*   [Oracle of Ages (⭐131)](https://github.com/drenn1/ages-disasm)
+*   [FX Hammer (⭐7)](https://github.com/DevEd2/FXHammer-Disasm)
 *   [Harvest Moon 3 (⭐16)](https://github.com/sanqui/hm3)
 
 ## [20. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
@@ -383,13 +382,13 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [ESLint (⭐22k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
+*   [ESLint (⭐23k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
 
 ## [31. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Algebra / Linear Algebra
 
-*   [Introduction to Applied Linear Algebra](https://web.stanford.edu/\~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
+*   [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 
 ## [32. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
@@ -531,12 +530,12 @@
 
 ### Mobile
 
-*   [json-mop (⭐56)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐105)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [json-mop (⭐57)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
+*   [arrow-macros (⭐107)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ### Non-deterministic, logic programming
 
-*   [cl-prolog2 (⭐25)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-prolog2 (⭐24)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -579,31 +578,13 @@
 
 *   [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
 
-## [45. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Firefox OS / Phoenix
-
-*   [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
-
-### Julia / Vue.js
-
-*   [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
-
-### Linux / TeX
-
-*   [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
-
-### Lisp / TeX
-
-*   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-
-## [46. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [45. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Usage in Production
 
 *   [Patreon](https://www.patreon.com/)
 
-## [47. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [46. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Polyfills
 
@@ -617,7 +598,7 @@
 
 *   [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires.
 
-## [48. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [47. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Subjects / Computer Science
 
@@ -693,7 +674,7 @@
 *   [Python Reference (⭐3.4k)](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 *   [List of Free Learning Resources (⭐252k)](https://github.com/vhf/free-programming-books) - Freely available programming books
 
-## [49. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [48. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
@@ -701,7 +682,7 @@
 *   [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
 *   [Building Paul The Octopus](https://www.tomango.co.uk/thinks/paul-the-octopus-2018/)
 
-## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Media
 
@@ -711,19 +692,19 @@
 
 *   [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 
-## [51. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [50. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Payments
 
 *   [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 
-## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Scheduling
 
 *   [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
 
-## [53. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [52. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
@@ -737,15 +718,15 @@
 
 *   [Lospec palette list](https://lospec.com/palette-list) - Collection of color palettes for pixel art with examples and artist information.
 
-## [54. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cache
 
-*   [Carlos (⭐631)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐639)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ### UI / Barcode
 
-*   [Family (⭐246)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
+*   [Family (⭐248)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
 
 ### Alert / Barcode
 
@@ -755,13 +736,13 @@
 
 *   [Differific (⭐127)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 
-## [55. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [54. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### SDKs/Tools
 
 *   [alexa-skills-kit-js (⭐3.1k)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 
-## [56. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [55. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Computer Graphics
 
@@ -771,7 +752,7 @@
     *   [Labs](http://cs.brown.edu/courses/csci1230/labs.html)
     *   [Demos](http://cs.brown.edu/courses/csci1230/demos.html)
 
-## [57. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [56. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
@@ -781,7 +762,7 @@
 
 *   [shallow-backup (⭐995)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
-## [58. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [57. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Blogs / Other
 
@@ -789,7 +770,7 @@
 *   [Michael Bolton](http://www.developsense.com/blog/)
 *   [Janet Gregory](http://janetgregory.ca/blog/)
 
-## [59. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [58. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Static Analysis
 

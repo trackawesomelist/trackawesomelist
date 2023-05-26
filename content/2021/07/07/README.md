@@ -16,7 +16,7 @@
 
 ### Software / Communication - XMPP - Servers
 
-*   [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code (⭐184)](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Lua/Python`
+*   [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code (⭐192)](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Lua/Python`
 
 ### External Links / Wikis
 
@@ -32,19 +32,19 @@
 
 ### Other Awesome Lists / Collection View Layout
 
-*   [awesome-ios-developer (⭐674)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
+*   [awesome-ios-developer (⭐683)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
 
 ## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Math (⭐6.8k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐7k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Computer Science
 
-*   [Theoretical Computer Science (⭐360)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+*   [Theoretical Computer Science (⭐393)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 
 ## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -62,13 +62,13 @@
 
 ### Resources / Web programming
 
-*   [RustViz (⭐2.3k)](https://github.com/rustviz/rustviz) — generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
+*   [RustViz (⭐2.4k)](https://github.com/rustviz/rustviz) — generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-cesium (⭐951)](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
+*   [vue-cesium (⭐1k)](https://github.com/zouyaoji/vue-cesium) - Vue 2.x & Vue 3.x components for Cesium.
 
 ---
 

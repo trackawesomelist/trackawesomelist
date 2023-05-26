@@ -44,13 +44,7 @@
 
 *   [sn0int (⭐1.5k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
-
-### Packages / Security
-
-*   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
-
-## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Logging
 
@@ -78,17 +72,23 @@
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 
-*   [nanopb (⭐3.4k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐3.6k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+
+## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
+
+### Web / Development
+
+*   [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 
 ## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

@@ -28,13 +28,13 @@
 
 ### Data Manipulation / Pipelines
 
-*   [dopanda (⭐447)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [dopanda (⭐466)](https://github.com/dovpanda-dev/dovpanda) -  Hints and tips for using pandas in an analysis environment. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [nefarious (⭐730)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
+*   [nefarious (⭐754)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -103,7 +103,7 @@
 
 ### Math
 
-*   [CNL (⭐564)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐577)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
@@ -157,8 +157,8 @@
 
 ### Libraries Audio
 
-*   [audio (⭐137)](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
-*   [wav (⭐193)](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
+*   [audio (⭐141)](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
+*   [wav (⭐213)](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
 
 ### Tutorials
 
@@ -256,24 +256,24 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [dowel (⭐27)](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Output any object to the terminal, CSV, TensorBoard, text logs on disk, and more with just one call to `logger.log()`.
+*   [dowel (⭐28)](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Output any object to the terminal, CSV, TensorBoard, text logs on disk, and more with just one call to `logger.log()`.
 
 ### Python / Reinforcement Learning
 
-*   [garage (⭐1.6k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐864)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [garage (⭐1.7k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
+*   [metaworld (⭐905)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [25. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / Terminals
 
-*   [Windows Terminal (⭐86k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Windows Terminal (⭐89k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [26. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
-*   [openapi-generator (⭐15k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+*   [openapi-generator (⭐16k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## [27. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -311,15 +311,15 @@
 
 ### Related awesome-lists
 
-*   [Web Components (⭐1.9k)](https://github.com/mateusortiz/webcomponents-the-right-way)
-*   [Microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
-*   [Micro Frontends (⭐509)](https://github.com/ChristianUlbrich/awesome-microfrontends)
+*   [Web Components (⭐2.2k)](https://github.com/mateusortiz/webcomponents-the-right-way)
+*   [Microservices (⭐12k)](https://github.com/mfornos/awesome-microservices)
+*   [Micro Frontends (⭐531)](https://github.com/ChristianUlbrich/awesome-microfrontends)
 
 ## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
-*   [Mamonsu (⭐176)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
+*   [Mamonsu (⭐175)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 *   [pg\_monz (⭐162)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 *   [ZabbixDBA (⭐81)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
@@ -327,7 +327,7 @@
 
 ### Others
 
-*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐396)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
+*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐432)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
 ## [33. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -419,7 +419,7 @@
 
 ### Productivity
 
-*   [Todoist (⭐316)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
+*   [Todoist (⭐327)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
 ## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -439,14 +439,14 @@
 
 ### Web Crawling
 
-*   [Spidr (⭐745)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐759)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [38. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐250)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
-*   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐83)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
+*   [Nitro 🚀 (⭐253)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐85)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
 
 ## [39. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -457,8 +457,6 @@
 ### Hosting and media
 
 *   [AnoNet](http://wiki.ucis.nl/Anonet) is a decentralized friend-to-friend network built using VPNs and software BGP routers. anoNet works by making it difficult to learn the identities of others on the network allowing them to anonymously host IPv4 and IPv6 services)
-*   [Bittubers](https://bittubers.com/about) - is a brand new social network for content creators and streamers. Developed by [BitTube](https://bit.tube/), BitTubers emphasizes free speech, fairness and unrestricted monetization across the board. This platform is the successor to bit.tube, launched in mid 2018, building upon its original peer-to-peer fundamentals with greatly improved monetization options, discoverability, interactivity and engagement features.
-*   [D.Tube](https://about.d.tube/) is the first crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network."
 *   [Funkwhale](https://funkwhale.audio/) is a community-driven project that lets you listen and share music and audio within a decentralised, open network.
 
 ### Networking
@@ -489,6 +487,8 @@
 *   [Lighthouse](https://www.vinumeris.com/lighthouse) is a peer to peer crowdfunding app that uses Bitcoin.
 *   The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized and opensource data platform. It is built in Erlang and includes [RCouch (⭐68)](https://github.com/refuge/rcouch), a static distribution of couchdb using rebar, and [Coffer (⭐23)](https://github.com/refuge/coffer), a blob server.
 *   [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
+*   [Bittubers](https://bittubers.com/about) - is a brand new social network for content creators and streamers. Developed by [BitTube](https://bit.tube/), BitTubers emphasizes free speech, fairness and unrestricted monetization across the board. This platform is the successor to bit.tube, launched in mid 2018, building upon its original peer-to-peer fundamentals with greatly improved monetization options, discoverability, interactivity and engagement features.
+*   [D.Tube](https://about.d.tube/) is the first crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network."
 
 ## [40. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -564,16 +564,16 @@
 
 ### Utilities / Theming and Customization
 
-*   [QuickWall (⭐180)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+*   [QuickWall (⭐184)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 
 ### Command Line Learning / Internet Speedtest
 
-*   [navi (⭐12k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+*   [navi (⭐13k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
 ### Data Manipulation / JSON
 
-*   [strip-json-comments-cli (⭐60)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
-*   [GROQ (⭐161)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
+*   [strip-json-comments-cli (⭐61)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
+*   [GROQ (⭐170)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
 ## [44. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -586,17 +586,17 @@
 ### Asynchronous Programming
 
 *   [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    *   [awesome-asyncio (⭐3.8k)](https://github.com/timofurrer/awesome-asyncio)
+    *   [awesome-asyncio (⭐3.9k)](https://github.com/timofurrer/awesome-asyncio)
 *   [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
 
 ### GraphQL
 
 *   [tartiflette-aiohttp (⭐60)](https://github.com/tartiflette/tartiflette-aiohttp/) - An `aiohttp`-based wrapper for Tartiflette to expose GraphQL APIs over HTTP.
-*   [tartiflette-asgi (⭐99)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
+*   [tartiflette-asgi (⭐100)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
 
 ### Network Virtualization
 
-*   [pox (⭐591)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐598)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
@@ -607,7 +607,7 @@
 *   Framework agnostic
     *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
     *   [falcon (⭐9k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐53k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    *   [fastapi (⭐56k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
     *   [hug (⭐6.7k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
     *   [sandman2 (⭐1.9k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
     *   [sanic (⭐17k)](https://github.com/huge-success/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
@@ -615,9 +615,9 @@
 
 ### Task Queues
 
-*   [huey (⭐4.3k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
-*   [mrq (⭐871)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐8.7k)](https://github.com/rq/rq) - Simple job queues for Python.
+*   [huey (⭐4.4k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
+*   [mrq (⭐874)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
+*   [rq (⭐8.8k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### Web Frameworks
 
@@ -626,15 +626,15 @@
 
 ### WebSocket
 
-*   [channels (⭐5.5k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-*   [websockets (⭐4.3k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+*   [channels (⭐5.6k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
+*   [websockets (⭐4.5k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ### WSGI Servers
 
 *   [bjoern (⭐2.9k)](https://github.com/jonashaag/bjoern) - Asynchronous, very fast and written in C.
 *   [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) - A project aims at developing a full stack for building hosting services, written in C.
 *   [waitress (⭐1.2k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
-*   [werkzeug (⭐6.2k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
+*   [werkzeug (⭐6.3k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
 
 ## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -674,13 +674,13 @@
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
-*   [Prowler (⭐7k)](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
-*   [Scout Suite (⭐4.9k)](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+*   [Prowler (⭐7.9k)](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+*   [Scout Suite (⭐5.2k)](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [CertSpotter (⭐589)](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
-*   [mailspoof (⭐80)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
+*   [CertSpotter (⭐594)](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
+*   [mailspoof (⭐91)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 *   [phishing\_catcher (⭐1.5k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
 
 ## [49. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)

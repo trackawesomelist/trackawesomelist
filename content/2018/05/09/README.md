@@ -20,13 +20,13 @@
 
 ### Review Articles / Archeological and Historical Networks
 
-*   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); *IET Systems Biology*, 2007).
+*   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](https://arxiv.org/abs/q-bio/0604006); *IET Systems Biology*, 2007).
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Compilers, Transpilers and Languages
 
-*   [Mond (⭐308)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐311)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ## [4. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
@@ -42,11 +42,11 @@
 
 ### Open Source Repos / Elastic Beanstalk
 
-*   [eb-demo-php-simple-app :fire: (⭐143)](https://github.com/awslabs/eb-demo-php-simple-app) - Simple PHP app.
+*   [eb-demo-php-simple-app :fire: (⭐142)](https://github.com/awslabs/eb-demo-php-simple-app) - Simple PHP app.
 
 ### Open Source Repos / Elastic MapReduce
 
-*   [emr-bootstrap-actions :fire::fire::fire: (⭐613)](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
+*   [emr-bootstrap-actions :fire::fire::fire: (⭐612)](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
 
 ## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

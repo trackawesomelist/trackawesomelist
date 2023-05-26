@@ -22,7 +22,7 @@
 
 ### Contents / Libraries
 
-*   [Node-hl7-parser (⭐33)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
+*   [Node-hl7-parser (⭐34)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
 
 ## [4. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -89,7 +89,7 @@
 
 ### How to show your progress / Which programming languages should I use?
 
-*   **[Contributors (⭐131k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐137k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -117,27 +117,24 @@
 *   [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
 *   [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
 *   [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/article/242708)
-*   [Working remotely, coworking spaces, and mental health](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
 
 ### Books
 
 *   [Async Remote](https://products.arkency.com/async-remote/).
     by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
-*   [The Remote Jobseeker’s Handbook](https://cobyism.com/remotejobseeker/).
-    by Coby Chapple (GitHub), 2016.
 
 ## [9. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Economics on GitHub / Economists
 
-*   [gboehl](https://github.com/gboehl) - Goethe University Frankfurt, Frankfurt Germany.
+*   [gboehl](https://github.com/gboehl) - Universität Bonn, Bonn, Germany.
 *   [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 
 ### Economics on GitHub / Projects
 
 *   [EconForge](https://github.com/EconForge) - Team around Pablo Winant providing packages to solve economic models.
-*   [fecon235 (⭐808)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
-*   [zice-2014 (⭐26)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
+*   [fecon235 (⭐894)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+*   [zice-2014 (⭐27)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 
 ### Links Sent by Readers / Projects
 

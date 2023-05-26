@@ -10,7 +10,7 @@
 
 ### Related Awesome Lists / Galleries
 
-*   \[🔥] [amrzv/awesome-colab-notebooks (⭐697)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
+*   \[🔥] [amrzv/awesome-colab-notebooks (⭐808)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Debugging / Diagnostics
 
-*   [ofirgall/goto-breakpoints.nvim (⭐15)](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints for nvim-dap.
+*   [ofirgall/goto-breakpoints.nvim (⭐20)](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints for nvim-dap.
 
 ## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Games
 
-*   [dantecatalfamo/OpenCSE (⭐0)](https://github.com/dantecatalfamo/OpenCSE) - Free implementation of the Can't Stop Express dice game.
+*   [dantecatalfamo/OpenCSE (⭐1)](https://github.com/dantecatalfamo/OpenCSE) - Free implementation of the Can't Stop Express dice game.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -49,15 +49,15 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-sigsci (⭐21)](https://github.com/signalsciences/terraform-provider-sigsci) - Provider for Signal Sciences.
+*   [terraform-provider-sigsci (⭐25)](https://github.com/signalsciences/terraform-provider-sigsci) - Provider for Signal Sciences.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - Low Code
 
-*   [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code (⭐25k)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
+*   [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code (⭐27k)](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`
 *   [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes. Budibase is the open source alternative to Outsystems, Retool, Mendix, Appian. ([Source Code (⭐18k)](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs`
-*   [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code (⭐18k)](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
+*   [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code (⭐19k)](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
 
 ## [9. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 

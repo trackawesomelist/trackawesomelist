@@ -16,7 +16,7 @@
 
 ### Command Line Applications
 
-*   [loki (⭐80)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐81)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 
@@ -79,7 +79,7 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [awesome-honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
+*   [awesome-honeypots (⭐7k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

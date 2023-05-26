@@ -2,7 +2,7 @@
 
 🕶️  List of communities powered by Slack.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/filipelinhares/awesome-slack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack) · ⭐ 295 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/filipelinhares/awesome-slack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack) · ⭐ 307 · 🏷️ Work
 
 [ [Daily](/content/filipelinhares/awesome-slack/README.md) / [Weekly](/content/filipelinhares/awesome-slack/week/README.md) / Overview ]
 
@@ -54,7 +54,7 @@ A list of communities about web development and design that are powered by **Sla
 *   [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 *   [Kazan Developers](https://devkzn.slack.com/)
 *   [Polish developers](http://slackin.devstyle.pl/)
-*   [Spanish-speaking developer communities list (⭐167)](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
+*   [Spanish-speaking developer communities list (⭐174)](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
 *   [Ruby Turkey Community](https://rubytr.herokuapp.com/)
 *   [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
 *   [Vancouver Developers (yvrdev)](https://yvrdev.slack.com/)
@@ -78,6 +78,7 @@ A list of communities about web development and design that are powered by **Sla
 *   [First Contributors](https://firstcontributors.slack.com/join/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM#/) - Help / mentorship for open source contributors.
 *   [IT Pro Community](https://www.electric.ai/it-pro-slack) - Connect and network with IT practitioners and decision-makers
 *   [SaaS Community](https://join.slack.com/t/saas-hgv7803/shared_invite/zt-qwvrywyr-8DmSpEzBiSWD2WQuB9r9pw) - Community for SaaS product builders, to discuss the challenges involved.
+*   [Developer Marketing](https://marketingto.dev/) - Passionate marketing folks working in API Marketing, developer tooling, or actively marketing to developers.
 
 ## DevOps
 
@@ -89,11 +90,11 @@ A list of communities about web development and design that are powered by **Sla
 
 ## Looking for more lists like that
 
-*   [Awesome Community (⭐212)](https://github.com/phpearth/awesome-community)
+*   [Awesome Community (⭐227)](https://github.com/phpearth/awesome-community)
 
 ## Contribute
 
-Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines (⭐294)](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
+Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines (⭐307)](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
 
 ## License
 

@@ -36,7 +36,7 @@
 
 ### Software / Julia
 
-*   [TikzGraphs (⭐70)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
+*   [TikzGraphs (⭐73)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
 
 ---
 

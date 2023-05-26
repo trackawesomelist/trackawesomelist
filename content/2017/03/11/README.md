@@ -53,12 +53,12 @@
 
 ### Frameworks / Runtimes
 
-*   [GPars (⭐232)](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
+*   [GPars (⭐234)](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
 
 ### API Gateways / Edge Services / Scala
 
 *   [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
-*   [Envoy (⭐21k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
+*   [Envoy (⭐22k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
 
 ### Web APIs / Scala
 
@@ -99,8 +99,8 @@
 ### Packages / Hardware
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-*   [spi-device (⭐112)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐902)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [spi-device (⭐113)](https://github.com/fivdi/spi-device) - SPI serial bus access.
+*   [pigpio (⭐911)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

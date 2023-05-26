@@ -19,13 +19,19 @@
 
 *   [v-gallery (⭐62)](https://github.com/TerryZ/v-gallery) - A Vue2 plugin for images show in `gallery` or `carousel`
 
-## [3. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Miscellaneous
+
+*   [AlertHub (⭐145)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
+
+## [4. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
 *   [World Cup Slackbot (⭐12)](https://github.com/phstc/serverless-world-cup-slack-bot) - Post 2018 FIFA World Cup Russia™ matches events to Slack.
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -46,49 +52,49 @@
     *   [A very good example about EF Core (⭐115)](https://github.com/rowanmiller/Demo-EFCore)
     *   [Connect to Postgres with EF Core](http://en.otomatikmuhendis.com/2017/05/05/connect-to-postgres-with-ef-core/)
 
-## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Lighting / Firmwares for ESP based Devices
 
 *   [sunricher-wifi-mqtt (⭐15)](https://github.com/magcode/sunricher-wifi-mqtt) - control Sunricher LED devices using MQTT.
 
-## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Making Your Appium Tests Fast and Reliable, Part 7: Disabling Animations](https://appiumpro.com/editions/25)
 
-## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Middleware
 
 *   [Gravitee.io](https://gravitee.io) - An OSS API Platform including an API Gateway and an OAuth2 / OIDC authorization server based on Vert.x Core / Vert.x Web and other modules.
 
-## [8. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+## [9. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
 ### Components
 
 *   [DevExtreme Reactive](https://devexpress.github.io/devextreme-reactive/react) - High-performance plugin-based React components for Material Design.
 
-## [9. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [10. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / React
 
 *   [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 
-## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [11. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Books
 
 *   [Web Audio API](https://webaudioapi.com/book/) - Intended to be a springboard for web developers with little to no digital audio expertise. Geared towards game audio and interactive apps.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐444)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐462)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
-## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [13. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
@@ -107,25 +113,25 @@
 *   [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
 *   [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
-## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / H companies
 
 *   HERE <https://developer.here.com/blog>
 
-## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [15. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Testing / Mocking
 
 *   [JMockit](http://jmockit.github.io) - Integration testing, API mocking and faking, and code coverage.
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
 *   [albumentations (⭐12k)](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -139,34 +145,24 @@
 
 *   [enchant (⭐16)](https://github.com/tlikonen/cl-enchant) - bindings for the Enchant spell-checker library. Public domain.
 
-## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [DSL-JSON (⭐825)](http://github.com/ngs-doo/dsl-json) - High performance JSON library with advanced compile-time databinding.
 *   [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever (copy of DSL-JSON).
 
-## [18. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [jorgebastida/gordon :fire::fire::fire::fire::fire: (⭐2k)](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 
-## [19. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [20. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-json-schema-form (⭐13)](https://github.com/jbockle/aurelia-json-schema-form) \* A completely customizable plugin to dynamically generate forms & validate them based on JSON schema
-
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Miscellaneous
-
-*   [AlertHub (⭐135)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
-
-### Software / Pastebins
-
-*   [Snibox](https://snibox.github.io/) - Code snippets manager with attractive tag-oriented interface. ([Source Code (⭐1.6k)](https://github.com/snibox/snibox)) `MIT` `Ruby`
 
 ## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -212,7 +208,7 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐6.3k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐6.5k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
 ## [25. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -232,13 +228,13 @@ Webpage: <https://yoghut.com/>
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [LOKI (⭐2.6k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
+*   [LOKI (⭐2.9k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
 ## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
-*   [StatsLib (⭐431)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐443)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [28. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
@@ -309,7 +305,7 @@ Webpage: <https://yoghut.com/>
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐32)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐81)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐34)](https://github.com/thejpster/menu), [vga-framebuffer (⭐30)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐87)](https://github.com/thejpster/pc-keyboard).
 
 ## [35. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 

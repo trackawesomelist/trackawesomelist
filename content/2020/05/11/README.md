@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -122,19 +122,13 @@
 
 *   [Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier](https://www.youtube.com/watch?v=DlxbRYpZdQg) - Practical examples on how you can improve your workflows with WP-CLI.
 
-## [4. Awesome Preact](/content/preactjs/awesome-preact/README.md)
-
-### Contents / Example Apps
-
-*   [**Passwords Fountain**](https://passwords-fountain.com/) - modern & performant password manager interface which works everywhere *([Github project (⭐61)](https://github.com/kolodziejczakM/passwords-fountain))*.
-
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Plotter Art For Sale / Ephemera
 
 *   [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 
-## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Command Line Tools
 
@@ -144,7 +138,7 @@
 
 *   [vim](https://www.vim.org/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. ([GNU GPL compatible](https://vimhelp.org/uganda.txt.html#license))
 
-## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [6. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Learning / University Course Archives
 
@@ -166,13 +160,13 @@
 *   [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
 *   [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
 
-## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 
 *   [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cloud Storage & File Sharing
 
@@ -188,19 +182,19 @@
 
 
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Resources / Articles
 
 *   [How to Create and Manage Menus of Wagtail application](https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/)
 
-## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### History / 2018
 
 *   [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 
-## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### XSS
 
@@ -210,11 +204,11 @@
 
 *   [How we abused Slack's TURN servers to gain access to internal services](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/) - Written by [@sandrogauci](https://twitter.com/sandrogauci).
 
-## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedMe (⭐735)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐786)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -228,7 +222,7 @@
 
 *   [RSS Box](https://rssbox.herokuapp.com/) <sup>[581](https://t.me/s/aboutrss/581)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/stefansundin/rssbox)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### specifically from (  *a certain platform*  ) / GitHub
+### specifically from (*a certain platform*) / GitHub
 
 *   [gh-feed](http://gh-feed.imsun.net) <sup>[507](https://t.me/s/aboutrss/507)</sup> : Generate RSS feed from GitHub Issues [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/imsun/gh-feed)
 *   [opml-gen](https://opml.bb8.fun/) <sup>[579](https://t.me/s/aboutrss/579)</sup> : Generate an OPML file for your starred repositories on GitHub [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.captnemo.in/nemo/opml-gen)
@@ -238,18 +232,18 @@
 *   [Blogtrottr](https://blogtrottr.com/) <sup>[449](https://t.me/s/aboutrss/449)</sup>
 *   [Cortado](https://cortadomail.com/) <sup>[578](https://t.me/s/aboutrss/578)</sup>
 
-### WordPress plugins / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
+### WordPress plugins / Webpage Monitor Services with capability of moniting RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Ultimate Category Excluder](https://wordpress.org/plugins/ultimate-category-excluder/) <sup>[582](https://t.me/s/aboutrss/582)</sup> : Exclude category from Feeds
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-loader-kit ★1 (⭐19)](https://github.com/maitrungduc1410/react-native-loader-kit) - Purely native loading animations for React Native.
 *   [react-native-new-feature ★1 (⭐13)](https://github.com/maitrungduc1410/react-native-new-feature) - A simple and lightweight What's New component to show your latest React native Features.
 
-## [15. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 

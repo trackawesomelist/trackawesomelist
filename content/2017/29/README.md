@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐276)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐279)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -139,17 +139,17 @@
 *   [Kafka (⭐54)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
 *   [AMQP (⭐58)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
 *   [MPI (⭐20)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
-*   [MQTT (⭐19)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
+*   [MQTT (⭐20)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐385)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐397)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ### Queue
 
-*   [CAP (⭐5.9k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐6k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -186,18 +186,18 @@
 
 ### Web / Web Application Firewall
 
-*   [ironbee (⭐287)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
+*   [ironbee (⭐294)](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Big Data / Development
 
-*   [Apache Metron (incubating) (⭐835)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Apache Spot (incubating) (⭐336)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
+*   [Apache Metron (incubating) (⭐837)](https://github.com/apache/incubator-metron) - Metron integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
+*   [Apache Spot (incubating) (⭐340)](https://github.com/apache/incubator-spot) - Apache Spot is open source software for leveraging insights from flow and packet analysis.
 
 ## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
-*   [prettier (⭐44k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [prettier (⭐45k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -247,7 +247,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [dynamodb-transactions :fire::fire: (⭐351)](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
+*   [dynamodb-transactions :fire::fire: (⭐352)](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
 
 ### Open Source Repos / SQS
 
@@ -324,7 +324,7 @@
 
 ### Build Tools
 
-*   [PlatformIO (⭐6.5k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
+*   [PlatformIO (⭐6.7k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 
 ### CMS
 
@@ -336,7 +336,7 @@
 
 ### Data Validation
 
-*   [Cerberus (⭐2.9k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
+*   [Cerberus (⭐3k)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
 *   [colander](https://docs.pylonsproject.org/projects/colander/en/latest/) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
 
 ### Distribution
@@ -349,11 +349,11 @@
 
 ### Environment Management
 
-*   [pyenv (⭐30k)](https://github.com/pyenv/pyenv) - Simple Python version management.
+*   [pyenv (⭐31k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### Forms
 
-*   [django-crispy-forms (⭐4.6k)](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
+*   [django-crispy-forms (⭐4.7k)](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
 
 ### GUI Development
 
@@ -370,7 +370,7 @@
 
 ### Package Repositories
 
-*   [localshop (⭐383)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
+*   [localshop (⭐387)](https://github.com/jazzband/localshop) - Local PyPI server (custom packages and auto-mirroring of pypi).
 
 ### RESTful API
 
@@ -379,7 +379,7 @@
 
 ### Science
 
-*   [ObsPy (⭐978)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
+*   [ObsPy (⭐1k)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 *   [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
 ### Specific Formats Processing
@@ -390,13 +390,13 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐756)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐759)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐332)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐337)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
 ## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -435,7 +435,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [Todo app with Firebase, OAuth, and Immutable (⭐508)](https://github.com/r-park/todo-angular-firebase)
+*   [Todo app with Firebase, OAuth, and Immutable (⭐506)](https://github.com/r-park/todo-angular-firebase)
 
 ## [32. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
@@ -486,11 +486,11 @@
 
 ### Authentication
 
-*   [LoginKit (⭐653)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
+*   [LoginKit (⭐654)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 
 ### Chat
 
-*   [MessageKit (⭐5.4k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
+*   [MessageKit (⭐5.6k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 
 ### Fonts
 
@@ -503,7 +503,7 @@
 ### UI / Barcode
 
 *   [DeckTransition (⭐2.2k)](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS 10 Apple Music now playing transition.
-*   [InstantSearch iOS (⭐568)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐571)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ### UITableView / Barcode
 
@@ -617,23 +617,23 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐903)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐910)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.3k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
 *   [RAN! (⭐2.2k)](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
-*   [Next Simple Blog (⭐548)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
+*   [Next Simple Blog (⭐553)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 
 ### Apps
 
 *   [NextJS GOT (⭐32)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-*   [Relate (⭐329)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+*   [Relate (⭐330)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 *   [Password (⭐112)](https://github.com/dotcypress/password) - One password, right way.
-*   [Next Todos (⭐124)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
+*   [Next Todos (⭐123)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 *   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 *   [Jet Chat (⭐9)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐49)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐838)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Rauchg Blog (⭐959)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐164)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Mailto (⭐170)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
@@ -643,7 +643,7 @@
 ### Concurrency
 
 *   [libdill (⭐1.6k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
-*   [libmill (⭐2.6k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
+*   [libmill (⭐2.7k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
 ## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -654,8 +654,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dialog-drag (⭐173)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
-*   [vue-ya-semantic-modal (⭐20)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
+*   [vue-dialog-drag (⭐175)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
+*   [vue-ya-semantic-modal (⭐19)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
 
 ### Components & Libraries / Utilities
 
@@ -666,15 +666,15 @@
 
 ### CLI Utilities
 
-*   [colorls (⭐4.4k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐4.5k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
-*   [Chamber (⭐195)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+*   [Chamber (⭐198)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
 ### Third-party APIs
 
-*   [Restforce (⭐753)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐760)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

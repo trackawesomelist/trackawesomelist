@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,7 +23,7 @@
 
 ### FPS
 
-*   [BStone (⭐242)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+*   [BStone (⭐253)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
 ## [4. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Nucleus (⭐341)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐346)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -75,25 +75,19 @@
 
 *   [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 
-## [8. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Libraries
-
-*   [react-open-doodles (⭐50)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
-
-## [9. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [8. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
-*   🔧 [Svarog (⭐35)](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
+*   🔧 [Svarog (⭐36)](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 
-## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [9. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐58)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐62)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
-## [11. Amas](/content/sindresorhus/amas/README.md)
+## [10. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 

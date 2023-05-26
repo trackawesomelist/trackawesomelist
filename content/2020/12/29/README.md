@@ -10,7 +10,7 @@
 
 ### Network / Barcode
 
-*   [TermiNetwork (⭐91)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
+*   [TermiNetwork (⭐90)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Software Tools / Analysis Tools
 
-*   [emba (⭐1.4k)](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
+*   [emba (⭐1.9k)](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
 
 ## [5. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Concurrency
 
-*   [concurrencpp (⭐1.3k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
+*   [concurrencpp (⭐1.5k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 

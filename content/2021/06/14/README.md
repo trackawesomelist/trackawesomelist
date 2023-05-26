@@ -18,7 +18,11 @@
 
 *   [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) - An application for reviewing transactions on the Stacks blockchain.
 *   [Boom.money](https://boom.money) - A web wallet focused on NFTs, and custom tokens.
-*   [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source (⭐6)](https://github.com/friedger/speed-spend)).
+*   [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source (⭐7)](https://github.com/friedger/speed-spend)).
+
+### Apps / Stacking Apps
+
+*   [Friedger pool](https://pool.friedger.de/) - Community stacking pool with no fees.
 
 ### Clarity Resources / Developer Tools
 
@@ -30,13 +34,13 @@
 
 ### Clarity Resources / Contracts
 
-*   [SWAPR (⭐51)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
-*   [FLEXR (⭐18)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
-*   [ClarityDAO (⭐18)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
-*   [NFT Marketplace (⭐13)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
-*   [StackStarter (⭐11)](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
+*   [SWAPR (⭐52)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
+*   [FLEXR (⭐19)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
+*   [ClarityDAO (⭐19)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
+*   [NFT Marketplace (⭐14)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
+*   [StackStarter (⭐12)](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
 *   [Election Voting (⭐1)](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
-*   [DualX (⭐2)](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
+*   [DualX (⭐3)](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
 
 ### Clarity Resources / Non-Fungible Tokens
 
@@ -47,16 +51,11 @@
 
 *   [Nothing](https://www.nothingtoken.com/) - A fungible token that does nothing ([contract](https://explorer.stacks.co/txid/0x022bed728d648ff1a68036c40f3aff8136ee22fee18380731df0ab9d76d3c4a9?chain=mainnet)).
 
-### Clarity Resources / Stacking
-
-*   [stacking.club](https://stacking.club) - Stacking information and statistics.
-*   [Friedger pool](https://pool.friedger.de/) - Community stacking pool with no fees.
-
 ### App Development / Storage
 
-*   [CompassDB (⭐31)](https://github.com/eder-ai/compass-db) - A library for managing advanced collections in Gaia storage.
+*   [CompassDB (⭐30)](https://github.com/eder-ai/compass-db) - A library for managing advanced collections in Gaia storage.
 *   [lens-file-source](https://gitlab.com/MyLens/lens-file-source) - File storage abstraction through mechanisms like caching, transactions, and JSON map aggregation for Gaia.
-*   [GaiaDown (⭐10)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4k)](https://github.com/Level/levelup).
+*   [GaiaDown (⭐11)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4.1k)](https://github.com/Level/levelup).
 
 ### Learning Resources / Documentation
 
@@ -70,7 +69,7 @@
 *   [Developer Registry 101](https://www.crowdcast.io/e/clarity-program) - Learn how to build a Clarity smart contract from scratch.
 *   [How Clarity Prevents Common Smart Contract Vulnerabilities](https://www.youtube.com/watch?v=VYXhrwPsBws) - Explanation of Clarity's security princples.
 
-### Community / Books
+### Community / Courses
 
 *   [Discord](https://discord.gg/zrvWsQC) - Stacks ecosystem Discord.
 *   [Twitter](https://twitter.com/stacks) - Stacks ecosystem Twitter.
@@ -87,23 +86,23 @@
 
 ### Programming Languages / PHP
 
-*   [composer2nix (⭐79)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
-*   [composition-c4 (⭐6)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐24)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [composer2nix (⭐81)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+*   [composition-c4 (⭐7)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
+*   [nix-phps (⭐29)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [crystalg (⭐33)](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
+*   [crystalg (⭐34)](https://github.com/tobyapi/crystalg) - A Generic Algorithm Library
 
 ### CLI Utils
 
-*   [oq (⭐181)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐182)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐25k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Database Tools
 
-*   [queryit (⭐21)](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner
+*   [queryit (⭐22)](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner
 
 ### Dependency Injection
 
@@ -112,8 +111,8 @@
 ### Framework Components
 
 *   [mochi (⭐23)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
-*   [motion.cr (⭐47)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐142)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [motion.cr (⭐49)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
+*   [tourmaline (⭐144)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
@@ -121,11 +120,11 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐148)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐149)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐190)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐193)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -135,11 +134,11 @@
 ### Editor Plugins
 
 *   Geany
-    *   [geany-crystal (⭐6)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
+    *   [geany-crystal (⭐7)](https://github.com/crystal-lang-tools/geany-crystal) - Crystal support for the [Geany editor](https://www.geany.org/)
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐318)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐336)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -164,7 +163,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐417)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [hexagonkt/hexagon (⭐472)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -209,23 +208,23 @@
 
 ### Ask these people anything!
 
-*   [TheTechRobo (⭐0)](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
+*   [TheTechRobo](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐639)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐703)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Feature extraction
 
-*   [spafe (⭐281)](https://github.com/SuperKogito/spafe) [:octocat: (⭐281)](https://github.com/SuperKogito/spafe) [:package:](https://pypi.org/project/spafe/) - Python library for features extraction from audio files.
+*   [spafe (⭐349)](https://github.com/SuperKogito/spafe) [:octocat: (⭐349)](https://github.com/SuperKogito/spafe) [:package:](https://pypi.org/project/spafe/) - Python library for features extraction from audio files.
 
 ### Audio Related Packages / Data augmentation
 
-*   [pydiogment (⭐72)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐72)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
+*   [pydiogment (⭐76)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐76)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
 
 ## [15. Awesome Design](/content/gztchan/awesome-design/README.md)
 

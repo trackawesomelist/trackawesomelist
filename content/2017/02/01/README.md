@@ -16,7 +16,7 @@
 
 ### CLI Builders
 
-*   [admiral (⭐131)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+*   [admiral (⭐132)](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
 
 ## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Containers
 
-*   [Hopscotch map (⭐585)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
+*   [Hopscotch map (⭐628)](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. \[MIT]
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Libraries Visualization
 
-*   [Clubber.js (⭐343)](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
+*   [Clubber.js (⭐347)](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
 
 ### People to Follow
 

@@ -16,11 +16,11 @@
 
 ### Form Widgets / File Uploader
 
-*   [filepond (⭐13k)](https://github.com/pqina/filepond) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+*   [filepond (⭐14k)](https://github.com/pqina/filepond) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 
 ### Modals and Popups / Other
 
-*   [lightGallery (⭐5.6k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
+*   [lightGallery (⭐5.8k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 
 ### Menu / Other
 
@@ -36,17 +36,17 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐795)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [Couler (⭐810)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 
 ## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Configuration
 
-*   [djenv (⭐28)](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
+*   [djenv (⭐29)](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
 
 ### Third-Party Packages / Performance
 
-*   [django-silk (⭐3.6k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
+*   [django-silk (⭐3.9k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
 
 ### Resources / Educational
 
@@ -54,7 +54,7 @@
 
 ### Projects / Open Source Projects
 
-*   [PostHog (⭐9.8k)](https://github.com/PostHog/posthog) - Open-source product analytics.
+*   [PostHog (⭐12k)](https://github.com/PostHog/posthog) - Open-source product analytics.
 
 ## [6. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -64,15 +64,15 @@
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / Miscellaneous
+### Software / Database Management
 
-*   [MindsDB (⭐14k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`
+*   [MindsDB (⭐16k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Data Visualization and Mission Control / Annotation
 
-*   [universal-data-tool (⭐1.7k)](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
+*   [universal-data-tool (⭐1.8k)](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 
 ## [9. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

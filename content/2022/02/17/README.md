@@ -30,17 +30,17 @@
 ### Programming Languages / PHP
 
 *   [composer-plugin-nixify (⭐14)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐84)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [nix-shell (⭐89)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### NixOS Modules / Scala
 
-*   [base16.nix (⭐86)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐179)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐98)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐233)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [kubecolor (trejo08) (⭐3)](https://github.com/trejo08/kubecolor-zsh) - Prints colorized outputs from  `kubectl`. Includes helper functions.
+*   [kubecolor (trejo08) (⭐4)](https://github.com/trejo08/kubecolor-zsh) - Prints colorized outputs from  `kubectl`. Includes helper functions.
 *   [kubectl-config-switcher (⭐0)](https://github.com/chmouel/kubectl-config-switcher/) - Switch between config files in `~/.kube` via the `KUBECTL` environment variable.
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
@@ -76,11 +76,9 @@
 *   [Harvest](https://www.getharvest.com/careers) - Time tracking software.
 *   [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
 *   [Hatica](https://www.hatica.io) - Work analytics for engineering teams: Hatica equips engineering leaders and managers with actionable insights to promote effort alignment, accelerate delivery, drive team engagement, and promote team well-being.
-*   [HE:labs](https://helabs.com/us/)
 *   [Healthfinch](https://www.healthfinch.com/careers) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, JavaScript.
 *   [Heap](https://heapanalytics.com/careers/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
 *   [Heetch](https://jobs.heetch.com) – Ride Hailing service, operating in Europe and Africa. Fully Remote across Europe or similar timezones. Go, AWS.
-*   [Help Scout](https://www.helpscout.net/careers/) - A help desk for teams that insist on a delightful customer experience.
 *   [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, JavaScript, Golang, Python.
 *   [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
 *   [Hotjar](https://careers.hotjar.com/) - Analytics & Feedback tool.
@@ -97,7 +95,6 @@
 *   [Isos Technology](https://careers.isostech.com/) - premier Atlassian Platinum & Enterprise Solution Partner, helping organizations solve complex development and business problems with the Atlassian tools.
 *   [Jackson River](https://www.jacksonriver.com/about/jobs) - Digital-first technology and strategy for nonprofits.
 *   [Jibble Group](http://careers.jibblegroup.com/) - Remote team across 15 different countries building the next world-class workforce management and payroll Software-as-a-Service.
-*   [journy.io](https://angel.co/company/journy-io/jobs) - Customer Data Platform.
 *   [Judge.me](https://judge.me/) - A review platform for ecommerces. Our company is fully remote across 4 continents.
 *   [Keepsafe](https://www.getkeepsafe.com) - Mobile-first privacy products, making privacy easy for the world to opt into.
 *   [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
@@ -118,7 +115,6 @@
 *   [MariaDB](https://mariadb.com/about-us/careers) - Open source database.
 *   [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other JavaScript frameworks.
 *   [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
-*   [MCFTech](https://www.mcftech.com/careers/) - Applications to help you run your business succesfully.
 *   [MeetEdgar](https://meetedgar.com/careers/) - Automated social sharing. US remote.
 *   [Merico](https://merico.dev/) - Code deep analysis engine.
 *   [Mixmax](https://careers.mixmax.com/) - Email with superpowers.
@@ -127,7 +123,6 @@
 *   [MODLR](https://modlr.co) - MODLR is business modelling and collaborative planning tool for connected financial planning process
 *   [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
 *   [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
-*   [MVP Space](https://mvp-space.com/) - Test a business idea with your target audience or show its potential to your investors.
 *   [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
 *   [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
 *   [Netguru](https://www.netguru.com/career) - Software agency. JavaScript, Ruby on Rails, Python, Android, iOS
@@ -155,7 +150,6 @@
 *   [Prodperfect](https://prodperfect.com/) - Automated QA testing from live user data. Remote-first org with workplaces in Boston and San Fran.
 *   [ProFinda](https://profinda.com/) - Workforce planning & optimization. 100% remote dev team. Ruby on Rails, React.js and Python. Company based in UK.
 *   [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
-*   [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
 *   [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
 *   [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
 *   [Red Hat](https://www.redhat.com/jobs/)
@@ -172,15 +166,11 @@
 *   [ShakaCode](https://www.shakacode.com/career/) - A global web development software consultancy and product company.
 *   [Shogun](https://getshogun.com/team) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
 *   [Signal](https://www.signal.org/workworkwork/) - These people make the fantastic [Signal app](https://www.signal.org). US Only.
-*   [Simple](https://www.simple.com/careers)
 *   [Skyscrapers](https://skyscrapers.eu/jobs/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
 *   [SoftwareMill](https://softwaremill.com/join-us/)
 *   [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 *   [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
-*   [Soostone](http://www.soostone.com/careers)
-*   [Sourcegraph (⭐130)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
-*   [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
-*   [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
+*   [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 *   [StackExchange](https://stackoverflow.com/company/work-here)
 *   [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
 *   [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
@@ -202,7 +192,6 @@
 *   [Thermeon](https://thermeon.com/vacancies/) - Car rental software - 100% remote technical team
 *   [Thorn](https://thorn.org/careers) - 100% remote company, building technology to fight child sexual abuse & trafficking online.
 *   [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
-*   [Tipe](https://tipe.io) - Next Generation API-first CMS with GraphQL or REST API. Built with Nuxt.js, Serverless, AWS. 25% remote
 *   [Toggl](https://jobs.toggl.com/)
 *   [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
 *   [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
@@ -217,11 +206,9 @@
 *   [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
 *   [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
 *   [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
-*   [YourSports](https://www.yoursports.com/jobs) - A social network for your favorite teams.
 *   [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
 *   [Zapier](https://zapier.com/about/)
 *   [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
-*   [The Appraisal Lane](https://www.theappraisallane.com/careers) - A third-party vehicle appraisal service. Working space mainly in Austin and Montevideo but available in other countries.
 
 ## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -352,28 +339,28 @@
 
 ### Plugins / Code Quality
 
-*   [GitHub (⭐209)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
+*   [GitHub (⭐221)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 *   [@mysticatea/eslint-plugin (⭐25)](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 *   [@brettz9/eslint-plugin (⭐1)](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 
 ### Plugins / Languages and Environments
 
 *   [Babel (⭐42k)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - Adds replacements for built-in rules to include Babel features.
-*   [eslint-plugin-eslint-plugin (⭐135)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+*   [eslint-plugin-eslint-plugin (⭐147)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 
 ### Plugins / Misc
 
-*   [TypeLint (⭐175)](https://github.com/yarax/eslint-plugin-typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
+*   [TypeLint (⭐174)](https://github.com/yarax/eslint-plugin-typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
 
 ### Plugins / Practices and Specific ES Features
 
-*   [ESLint Comments (⭐302)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
-*   [eslint-plugin-write-good-comments (⭐16)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
-*   [import (⭐4.6k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+*   [ESLint Comments (⭐315)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
+*   [eslint-plugin-write-good-comments (⭐21)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
+*   [import (⭐4.8k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 
 ### Tools / Testing Tools
 
-*   [eslint-define-config (⭐182)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
+*   [eslint-define-config (⭐202)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
 
 ## [14. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

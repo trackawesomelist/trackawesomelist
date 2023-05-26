@@ -22,11 +22,11 @@
 
 ### Algorithms and Data structures
 
-*   [witchcraft (⭐1.1k)](https://github.com/expede/witchcraft) - Common algebraic structures and functions for Elixir.
+*   [witchcraft (⭐1.2k)](https://github.com/expede/witchcraft) - Common algebraic structures and functions for Elixir.
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐47)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐48)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
@@ -58,7 +58,7 @@
 
 ### API Builder and Discovery
 
-*   [JSONAPI::Utils (⭐213)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
+*   [JSONAPI::Utils (⭐215)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

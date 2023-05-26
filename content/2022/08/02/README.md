@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
-### Web / Runtime Application Self-Protection
+### Network / Monitoring / Logging
 
 *   [Falco](https://falco.org/) - The cloud-native runtime security project and de facto Kubernetes threat detection engine now part of the CNCF.
 
@@ -22,21 +22,15 @@
 
 ### Username Check / Telegram
 
-*   [Maigret (⭐8.2k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐8.5k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Office Suites
-
-*   [CryptPad](https://cryptpad.fr/) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐4.3k)](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
-
-## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Google Colaboratory](https://colab.research.google.com) - Cloud-based Jupyter environment aimed at machine learning education and research.  <!--lint disable double-link-->
 
-## [6. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [5. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
@@ -44,51 +38,52 @@
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
-## [7. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [6. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### editors & viewers
 
 *   [img2geojson](https://caseymm.github.io/img2geojson/): digitize images by overlaying on a web map and drawing
 
-## [8. Awesome Math](/content/rossant/awesome-math/README.md)
+## [7. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Learning Platforms
 
 *   [MathRelay](https://www.mathrelay.com/)
 
-## [9. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Container Composition
 
-*   [ctk (⭐241)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
+*   [ctk (⭐257)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
-## [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 
-*   [capy-ui/capy (⭐677)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+*   [capy-ui/capy (⭐802)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
-## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-build (⭐26)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+*   [vite-plugin-build (⭐40)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Others / Third-party APIs
 
-*   [maxima](http://maxima.sourceforge.net/) - Computer Algebra System. Not available on Quicklisp. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   ⭐ [maxima](http://maxima.sourceforge.net/) - Computer Algebra System. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
     *   [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
-    *   [Maxima on Jupyter (⭐160)](https://github.com/robert-dodier/maxima-jupyter)
-    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface (⭐12)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
+    *   [Maxima on Jupyter (⭐162)](https://github.com/robert-dodier/maxima-jupyter)
+    *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface (⭐13)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
+    *   it can be used [from a Lisp REPL](https://mahmoodsheikh36.github.io/post/20230510181916-maxima_in_lisp/).
 
 ### Documentation builders / Third-party APIs
 
 *   [cl-livedocs (⭐2)](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo, with full text search enabled by default.
 
-## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### ORM
 

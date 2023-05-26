@@ -10,15 +10,15 @@
 
 ### Network / HTTP
 
-*   [truemedian/zfetch (⭐61)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
-*   [ducdetronquito/requestz (⭐97)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
+*   [truemedian/zfetch (⭐60)](https://github.com/truemedian/zfetch) - HTTP(S) client based on iguanaTLS.
+*   [ducdetronquito/requestz (⭐102)](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [React (⭐54k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-    *   [Relay (⭐259)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+*   [React (⭐55k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+    *   [Relay (⭐260)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.1k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
@@ -35,7 +35,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfedit (⭐73)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
+*   [tfedit (⭐80)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
 ### Terraform Enterprise / Vendor supported providers
 
@@ -43,7 +43,7 @@
 
 ### Editor Plugins / Vendor supported providers
 
-*   [Terraform-ls (⭐813)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
+*   [Terraform-ls (⭐827)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -64,17 +64,13 @@
 
 ### Utilities
 
-*   [Vert.x JsonPath (⭐0)](https://github.com/NoEnv/vertx-jsonpath) - A very basic implementation of JsonPath using Vert.x’s JsonObject and JsonArray, mimicking their getX, containsKey, put and remove methods.
+*   [Vert.x JsonPath (⭐1)](https://github.com/NoEnv/vertx-jsonpath) - A very basic implementation of JsonPath using Vert.x’s JsonObject and JsonArray, mimicking their getX, containsKey, put and remove methods.
 
 ## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Deutsches Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper) - Discover historical newspapers from 1671 to 1950.
-
-### Learning / Switzerland
-
-*   [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - Methods and Readings in Digital History by Shawn Graham at Carleton University.
 
 ### More Awesome / Switzerland
 
@@ -90,13 +86,13 @@
 
 ### UI Animation / Syntax Highlight
 
-*   [react-animatable (⭐13)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
+*   [react-animatable (⭐16)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [phuslu/log (⭐467)](https://github.com/phuslu/log) - High performance structured logging.
+*   [phuslu/log (⭐495)](https://github.com/phuslu/log) - High performance structured logging.
 
 ---
 

@@ -27,11 +27,11 @@
 
 ### Packages / Streams
 
-*   [multistream (⭐278)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐280)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐241)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐247)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ---
 

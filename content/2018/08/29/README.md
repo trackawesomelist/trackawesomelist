@@ -16,16 +16,16 @@
 
 ### JupyterLab Extensions
 
-*   [celltags (⭐111)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
+*   [celltags (⭐112)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
 *   [google-drive (⭐386)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-*   [toc (⭐726)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
-*   [voyager (⭐281)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+*   [toc (⭐727)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+*   [voyager (⭐287)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
-*   [Dynamic Wallpaper Editor (⭐189)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+*   [Dynamic Wallpaper Editor (⭐194)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [PredictionBuilder (⭐11)](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
+*   [PredictionBuilder (⭐12)](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
 
 ## [6. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Other multimodal data formats / Ruby
 
-*   [Mobility as a Service API](http://maas-api.org/) - A set of open documents and test suite that defines a MaaS-compatible API (e.g., a [MaaS Transport Service Provider Booking API (⭐14)](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
+*   [Mobility as a Service API](http://maas-api.org/) - A set of open documents and test suite that defines a MaaS-compatible API (e.g., a [MaaS Transport Service Provider Booking API (⭐15)](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
 
 ### Government reports / Ruby
 
@@ -100,11 +100,11 @@
 
 *   [python-dshield (⭐21)](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
 *   [python-sandboxapi (⭐121)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
-*   [python-stix2 (⭐286)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
+*   [python-stix2 (⭐299)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
 
 ### Threat intelligence / Threat hunting
 
-*   [ThreatIngestor (⭐618)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
+*   [ThreatIngestor (⭐652)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
 
 ## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

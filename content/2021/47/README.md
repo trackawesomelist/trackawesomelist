@@ -16,16 +16,16 @@
 
 ### Charts
 
-*   [MicroCharts ★1052 (⭐1.8k)](https://github.com/microcharts-dotnet/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
+*   [MicroCharts ★1052 (⭐1.9k)](https://github.com/microcharts-dotnet/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 
 ### MVVM
 
-*   [MVVMLight (⭐1.1k)](https://github.com/lbugnion/mvvmlight) - Cross-platform MVVM development framework.
+*   [MVVMLight (⭐1.2k)](https://github.com/lbugnion/mvvmlight) - Cross-platform MVVM development framework.
 
 ### Xamarin.Forms
 
-*   [Xamarin.Forms.Skeleton (⭐318)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) - The latest trend for loading approaches in Xamarin Forms apps. Skeleton can be easily implemented on each view contained in your Xaml.
-*   [MaterialDesignControlsPlugin (⭐214)](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin) - MaterialDesignControls Plugin for Xamarin Forms is a collection of Xamarin.Forms controls that apply the Material Design Guidelines.
+*   [Xamarin.Forms.Skeleton (⭐381)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) - The latest trend for loading approaches in Xamarin Forms apps. Skeleton can be easily implemented on each view contained in your Xaml.
+*   [MaterialDesignControlsPlugin (⭐229)](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin) - MaterialDesignControls Plugin for Xamarin Forms is a collection of Xamarin.Forms controls that apply the Material Design Guidelines.
 
 ### Websites
 
@@ -66,20 +66,20 @@
     *   [fpm (⭐11k)](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
     *   [Linuxbrew (⭐1.2k)](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
     *   [Homebrew-cask (⭐20k)](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
-    *   [Homebrew (⭐35k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
+    *   [Homebrew (⭐36k)](https://github.com/Homebrew/brew) - The missing package manager for OS X.
     *   [Traveling Ruby](https://foobarwidget.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-super-fingers (⭐60)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
+*   [tmux-super-fingers (⭐59)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Honeypots / Supply chain security
 
-*   [Manuka (⭐281)](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
+*   [Manuka (⭐293)](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
@@ -87,13 +87,13 @@
 
 ### Windows-based defenses / Overlay and Virtual Private Networks (VPNs)
 
-*   [CobaltStrikeScan (⭐771)](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
+*   [CobaltStrikeScan (⭐787)](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
 
 ### Windows-based defenses / Active Directory
 
-*   [Active Directory Control Paths (⭐588)](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
+*   [Active Directory Control Paths (⭐597)](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
 *   [PingCastle](https://www.pingcastle.com/) - Active Directory vulnerability detection and reporting tool.
-*   [PlumHound (⭐714)](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
+*   [PlumHound (⭐771)](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
 
 ## [8. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -119,10 +119,10 @@
 
 ## [10. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
-### Extensions
+### Extensions / Community
 
-*   [Image Scout (⭐73)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
-*   [Date Picker Interface (⭐8)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
+*   [Image Scout (⭐89)](https://github.com/resauce-dev/directus-image-scout?ref=awesome-directus) - Search and select images found on a variety of royalty free image sites (Pexels, Pixabay, Unsplash & Giphy!).
+*   [Date Picker Interface (⭐10)](https://github.com/u12206050/directus-9-date-picker-interface) - An alternative Date Picker Interface to the original Directus DateTime interface.
 
 ## [11. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
@@ -134,12 +134,12 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-simple-gql (⭐19)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
-*   [vite-plugin-ali-oss (⭐10)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
+*   [vite-plugin-simple-gql (⭐20)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
+*   [vite-plugin-ali-oss (⭐15)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 
 ### Vue / Loaders
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐12)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐15)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 
 ## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -177,11 +177,11 @@
 
 ### CMS
 
-*   [Umbraco9 & Blazor WASM Starter Site (⭐32)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
+*   [Umbraco9 & Blazor WASM Starter Site (⭐35)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
 
 ### Hybrid
 
-*   [BlazorInAngularDemo (⭐20)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
+*   [BlazorInAngularDemo (⭐22)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
 
 ## [17. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -203,17 +203,17 @@
 
 ### Examples
 
-*   [ajeetdsouza/zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
+*   [ajeetdsouza/zoxide (⭐9.9k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
 ## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Carousel
 
-*   [swiper (⭐34k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+*   [swiper (⭐35k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ### UI Layout / Syntax Highlight
 
-*   [react-schematic (⭐4)](https://github.com/umeshmk/react-schematic) - [demo](https://umeshmk.github.io/react-schematic) - Build responsive layouts using styled schematics without an overhead of any theme configuration
+*   [react-schematic (⭐5)](https://github.com/umeshmk/react-schematic) - [demo](https://umeshmk.github.io/react-schematic) - Build responsive layouts using styled schematics without an overhead of any theme configuration
 
 ## [21. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -249,7 +249,7 @@
 
 ### Tools / Vulnerable Applications for practice
 
-*   [Oversecured Vulnerable Android App (OVAA) (⭐391)](https://github.com/oversecured/ovaa)
+*   [Oversecured Vulnerable Android App (OVAA) (⭐460)](https://github.com/oversecured/ovaa)
 
 ## [23. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
 
@@ -268,32 +268,32 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Bluetooth Security (⭐245)](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
-*   [Awesome WebSocket Security (⭐180)](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
+*   [Awesome Bluetooth Security (⭐304)](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
+*   [Awesome WebSocket Security (⭐207)](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
 
 ## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [oof (⭐788)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
+*   [oof (⭐792)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
 
 ### Memory Allocation
 
-*   [rpmalloc (⭐1.7k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
-*   [snmalloc (⭐1.1k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
-*   [TCMalloc (⭐3.3k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
+*   [rpmalloc (⭐1.8k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
+*   [snmalloc (⭐1.2k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
+*   [TCMalloc (⭐3.4k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
 
 ### Books
 
-*   [Free C Books (⭐269k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐269k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐281k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐281k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [ssuukk/Qotlin (⭐16)](https://github.com/ssuukk/Qotlin) - IBM Q Experience Kotlin toolkit - Kotlin library to interact and write assembly code for IBM Quantum computers
-*   [vittee/kformula (⭐26)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
+*   [vittee/kformula (⭐27)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
 
 ## [27. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -311,7 +311,7 @@
 
 ### Tools / XML
 
-*   [pre-commit-deno (⭐3)](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
+*   [pre-commit-deno (⭐4)](https://github.com/nozaq/pre-commit-deno) - pre-commit git hooks for Deno projects.
 
 ### Articles / XML
 
@@ -327,8 +327,8 @@
 
 ### Plugins
 
-*   🎨🧬 [Themeable (⭐35)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
-*   💼🧬 [Radix (⭐1.4k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   🎨🧬 [Themeable (⭐41)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
+*   💼🧬 [Radix (⭐1.6k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
 ### UI Libraries, Components & Templates
 
@@ -338,7 +338,7 @@
 
 ### Books / Misc
 
-*   [Distributed Machine Learning Patterns (⭐177)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
+*   [Distributed Machine Learning Patterns (⭐190)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 
 ## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -363,7 +363,7 @@
 
 ### Applications / System tools
 
-*   [sharkdp/fd (⭐27k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐28k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
 ## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 

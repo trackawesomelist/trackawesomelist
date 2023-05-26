@@ -34,32 +34,32 @@
 
 ### Video/Audio / Other
 
-*   [exifr (⭐762)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
+*   [exifr (⭐838)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
 
 ## [5. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### General
 
-*   [Fluent Validation ★3,570 (⭐7.7k)](https://github.com/FluentValidation/FluentValidation) - Fluent interface and lambda expressions for building validation rules.
+*   [Fluent Validation ★3,570 (⭐8.1k)](https://github.com/FluentValidation/FluentValidation) - Fluent interface and lambda expressions for building validation rules.
 
 ### Game Engine
 
-*   [CocosCreator ★2 (⭐10)](https://github.com/toanlcgift/xamarin-cocos-creator) - Xamarin binding for CocosCreator Engine.
+*   [CocosCreator ★2 (⭐12)](https://github.com/toanlcgift/xamarin-cocos-creator) - Xamarin binding for CocosCreator Engine.
 
 ### Media
 
 *   [Lottie ★643 (⭐1.2k)](https://github.com/Baseflow/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin.
-*   [MediaManager ★269 (⭐738)](https://github.com/Baseflow/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
+*   [MediaManager ★269 (⭐757)](https://github.com/Baseflow/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
 
 ### Network
 
-*   [RestSharp ★6,994 (⭐8.7k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET.
+*   [RestSharp ★6,994 (⭐9.1k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET.
 
 ### UI
 
-*   [SimpleBottomDrawer (⭐110)](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
+*   [SimpleBottomDrawer (⭐111)](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
 *   [SimpleColorPicker (⭐10)](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
-*   [SimpleAppIntro (⭐142)](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
+*   [SimpleAppIntro (⭐140)](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
 
 ## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [cl-sentry-client (⭐19)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-sentry-client (⭐21)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

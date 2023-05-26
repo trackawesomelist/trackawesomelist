@@ -36,22 +36,22 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Dim (⭐3.2k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
+*   [Dim (⭐3.3k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [ytdl-gui (⭐238)](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
-*   [uYouPlus (⭐4.5k)](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
-*   [SmartTubeNext (⭐9.4k)](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
-*   [ytcc (⭐148)](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
+*   [ytdl-gui (⭐239)](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
+*   [uYouPlus (⭐4.6k)](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
+*   [SmartTubeNext (⭐9.7k)](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+*   [ytcc (⭐151)](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
 *   [smtube (⭐31)](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
     *   Website: <https://www.smtube.org>
     *   SMTube is part of SMPlayer
     *   SMPlayer website: <https://www.smplayer.info>
-    *   SMPlayer repository: [https://github.com/smplayer-dev/smplayer (⭐355)](https://github.com/smplayer-dev/smplayer)
-*   [minitube (⭐314)](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
+    *   SMPlayer repository: [https://github.com/smplayer-dev/smplayer (⭐363)](https://github.com/smplayer-dev/smplayer)
+*   [minitube (⭐316)](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Game Frameworks / XML
 
-*   [gfm (⭐2)](https://github.com/drug007/gfm7) - D gamedev toolkit.
+*   [gfm (⭐3)](https://github.com/drug007/gfm7) - D gamedev toolkit.
 
 ## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -109,7 +109,7 @@
 
 ### LaTeX formulas on the web
 
-*   [xhub (⭐71)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [xhub (⭐81)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

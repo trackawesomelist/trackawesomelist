@@ -2,7 +2,7 @@
 
 Awesome speakers in the programming and design communities
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 749 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 760 · 🏷️ Miscellaneous
 
 [ [Daily](/content/karlhorky/awesome-speakers/README.md) / [Weekly](/content/karlhorky/awesome-speakers/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ Awesome speakers in the programming and design communities
 
 Let's make it more transparent and easy to find awesome speakers for meetups and conferences! This list of speakers, their contact details and the topics they talk about is a start towards this goal.
 
-Please add to the list and help make the community better connected and richer.
+Please add to the list and help make a better-connected, richer community.
 
 ## Contents
 
@@ -272,6 +272,14 @@ Topics: Design Systems, Web Design\
 **Phil Nash**\
 Topics: JavaScript, Web Development, Progressive Web Apps\
 <https://twitter.com/philnash>
+
+### Sydney
+
+<img src="https://s3.amazonaws.com/keybase_processed_uploads/8a4739ccde11be8cd6d020ffaf61e005_360_360.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Mario Nebl**\
+Topics: JavaScript, Node.js, JS Architecture\
+<https://www.linkedin.com/in/mario-nebl-62b6b3187>
 
 # Europe
 
@@ -636,12 +644,6 @@ Topics: Web Design, Web Development, Responsive Web Design\
 <https://twitter.com/smashingmag>
 
 ### Hamburg
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/marionebl" height="70px" width="70px" align="left" alt="" />
-
-**Mario Nebl**\
-Topics: JavaScript, Node, JS Architecture\
-<https://twitter.com/marionebl>
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="" />
 
@@ -1055,11 +1057,11 @@ Topics: HTML, CSS, JavaScript, Web Animations, Web Performance\
 Topics: JavaScript, Security, Service Workers\
 <https://twitter.com/kaapa_s>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kdzwinel" height="70px" width="70px" align="left" alt="" />
+<img src="https://assets.toot.cafe/accounts/avatars/000/000/504/original/e66815e29f46a5d5.jpg" height="70px" width="70px" align="left" alt="" />
 
 **Konrad Dzwinel**\
 Topics: Developer Tools, JavaScript\
-<https://twitter.com/kdzwinel>
+<https://toot.cafe/@kdzwinel>
 
 ### Poznań
 
@@ -1103,11 +1105,11 @@ Topics: React Native, JavaScript, Tooling\
 Topics: React Native, Jest, Testing, CSS\
 <https://twitter.com/thymikee>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michal_chudziak" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michalchudziak" height="70px" width="70px" align="left" alt="" />
 
-**Mike Chudziak**\
+**Michał Chudziak**\
 Topics: React, React Native, iOS, Android\
-<https://twitter.com/michal_chudziak>
+<https://twitter.com/michalchudziak>
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/satya164" height="70px" width="70px" align="left" alt="" />
 
@@ -1206,6 +1208,14 @@ Topics: Serverless\
 **Slobodan Stojanović**\
 Topics: Serverless, Offline Web, Chat Bots\
 <https://twitter.com/slobodan_>
+
+### Novi Sad
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stn1slv" height="70px" width="70px" align="left" alt="" />
+
+**Stanislav Deviatov**\
+Topics: Kafka, Mulesoft, API Management, Integration Platforms\
+<https://twitter.com/stn1slv>
 
 ## Spain 🇪🇸
 
@@ -1771,12 +1781,6 @@ Topics: Design, CSS, HTML, Web\
 Topics: Open Source, Community, Node.js, JavaScript\
 <https://twitter.com/joe_sepi>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kurtiskemple" height="70px" width="70px" align="left" alt="" />
-
-**Kurtis Kemple**\
-Topics: React, React Native, GraphQL, Universal Components\
-<https://twitter.com/kurtiskemple>
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lara_hogan" height="70px" width="70px" align="left" alt="" />
 
 **Lara Hogan**\
@@ -1993,12 +1997,6 @@ Topics: JavaScript, ES7, Observables, Reactive Programming, Falcor\
 Topics: Design Systems\
 <https://twitter.com/mybluewristband>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jongold" height="70px" width="70px" align="left" alt="" />
-
-**Jon Gold**\
-Topics: Design, Design Systems, React, Artificial Intelligence\
-<https://twitter.com/jongold>
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisaychuang" height="70px" width="70px" align="left" alt="" />
 
 **Lisa Huang**\
@@ -2072,6 +2070,14 @@ Topics: iOS, Swift, Software Architecture, Development Processes\
 **Shell Little**\
 Topics: Accessibility\
 <https://twitter.com/ShellELittle>
+
+### Virginia Beach
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bytes__" height="70px" width="70px" align="left" alt="" />
+
+**Kurtis Kemple**\
+Topics: React, React Native, GraphQL, Universal Components\
+<https://twitter.com/bytes__>
 
 # South America
 

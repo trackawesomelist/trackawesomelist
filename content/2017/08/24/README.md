@@ -26,11 +26,11 @@
 
 ### AI
 
-*   [CoreML-Models (⭐5.7k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+*   [CoreML-Models (⭐5.8k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
 ### UITableView / Barcode
 
-*   [AZTableViewController (⭐73)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
+*   [AZTableViewController (⭐72)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
 
 ## [4. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
@@ -142,14 +142,14 @@
 
 ### Laravel
 
-- Name: [Handesk (⭐1.2k)](https://github.com/BadChoice/handesk)
+- Name: [Handesk (⭐1.3k)](https://github.com/BadChoice/handesk)
 
   Description: A Powerful Laravel Help Desk and Lead Management App.
 
   Link: 
 
 
-- Name: [Multitrust (⭐1.2k)](https://github.com/BadChoice/handesk)
+- Name: [Multitrust (⭐1.3k)](https://github.com/BadChoice/handesk)
 
   Description: Latest roles and permission for multi-auth or single-auth.
 
@@ -159,7 +159,7 @@
 
 ### Android
 
-- Name: [Easy Diary (⭐309)](https://github.com/hanjoongcho/aaf-easydiary)
+- Name: [Easy Diary (⭐347)](https://github.com/hanjoongcho/aaf-easydiary)
 
   Description: This is a diary application optimized to user experience.
 

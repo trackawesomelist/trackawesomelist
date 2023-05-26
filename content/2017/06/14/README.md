@@ -30,7 +30,7 @@
 
 ### Applications
 
-*   [Startup Job (⭐95)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
+*   [Startup Job (⭐96)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 
 ### Date and Time
 
@@ -38,7 +38,7 @@
 
 ### Macros
 
-*   [backports (⭐3)](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2.
+*   [backports (⭐4)](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2.
 
 ### Text and Numbers
 
@@ -47,11 +47,7 @@
 
 ### Third Party APIs
 
-*   [ethereumex (⭐344)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
-
-### XML
-
-*   [meeseeks (⭐287)](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [ethereumex (⭐350)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 

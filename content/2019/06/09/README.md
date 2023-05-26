@@ -10,13 +10,13 @@
 
 ### Miscellaneous
 
-*   [Connectivity Data and Reports (⭐79)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+*   [Connectivity Data and Reports (⭐80)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Security and Cryptography
 
-*   [nocoiner (⭐8)](https://github.com/marcoonroad/nocoiner) - A Commitment Schemes library for Multi-party Computations such as online Auctions and Gambling.
+*   [nocoiner (⭐11)](https://github.com/marcoonroad/nocoiner) - A Commitment Schemes library for Multi-party Computations such as online Auctions and Gambling.
 
 ### Semantic Technology
 

@@ -23,7 +23,7 @@
 ### Frameworks / Runtimes
 
 *   [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
-*   [Wangle (⭐2.9k)](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+*   [Wangle (⭐3k)](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Documentation
 
-*   [phoenix\_api\_docs (⭐27)](https://github.com/smoku/phoenix_api_docs) - Generate API Blueprint documentation from controllers and tests in the Phoenix framework.
+*   [phoenix\_api\_docs (⭐26)](https://github.com/smoku/phoenix_api_docs) - Generate API Blueprint documentation from controllers and tests in the Phoenix framework.
 
 ### Framework Components
 

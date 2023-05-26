@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [karrot-frontend (⭐368)](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
+*   [karrot-frontend (⭐375)](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
 
 ## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -26,19 +26,25 @@
 
     <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 
-## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Factor Analysis
+
+*   [Spectre (⭐424)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
+
+## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Minifiers - HTML / Meetups
 
 *   [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
 
-## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Text Editors and IDEs
 
 *   [Apache NetBeans](https://netbeans.apache.org/) - An IDE with support for PHP and HTML5.
 
-## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Music / Third Party Hosts
 
@@ -48,38 +54,23 @@
 
 *   [betanin (⭐191)](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
-*   [Crystalizer (⭐36)](https://github.com/j8r/crystalizer) - (De)serialize any Crystal object; supporting JSON, YAML, and Byte formats out of the box
+*   [Crystalizer (⭐38)](https://github.com/j8r/crystalizer) - (De)serialize any Crystal object; supporting JSON, YAML, and Byte formats out of the box
 
-## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### JavaScript
 
 *   [HTPL Compiler (⭐9)](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
 
-## [9. Awesome Python](/content/vinta/awesome-python/README.md)
+## [10. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Functional Programming
 
-*   [returns (⭐2.5k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
-
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C++ / Non-X86
-
-*   [C++ GUI Programming With Qt 3](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf) - Jasmin Blanchette, Mark Summerfield (PDF)
-
-### JavaScript / Node.js
-
-*   [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB (⭐501)](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
-*   [Practical Node.js: Building Real-World Scalable Web Apps (⭐3.8k)](https://github.com/azat-co/practicalnode) - Azat Mardan
-
-### Ruby / Ruby on Rails
-
-*   [Ruby Notes for Professionals](https://books.goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
+*   [returns (⭐2.6k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 
 ## [11. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 

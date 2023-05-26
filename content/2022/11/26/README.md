@@ -10,7 +10,7 @@
 
 ### Development Environment / Other
 
-*   [Kitt (⭐11)](https://github.com/senges/kitt) - A portable and disposable Shell environment, based on Docker and Nix. By [@senges](https://github.com/senges)
+*   [Kitt (⭐13)](https://github.com/senges/kitt) - A portable and disposable Shell environment, based on Docker and Nix. By [@senges](https://github.com/senges)
 
 ---
 

@@ -91,11 +91,11 @@
 
 ### GUI
 
-*   [WinApi (⭐761)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+*   [WinApi (⭐767)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### State machines
 
-*   [LiquidState (⭐226)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+*   [LiquidState (⭐229)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -287,7 +287,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐389)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐391)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [27. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -400,7 +400,7 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐311)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐313)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [35. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -454,7 +454,7 @@
 
 ### Integrations
 
-*   [HapiJS Keycloak Auth (⭐34)](https://github.com/felixheck/hapi-auth-keycloak)
+*   [HapiJS Keycloak Auth (⭐35)](https://github.com/felixheck/hapi-auth-keycloak)
 
 ## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

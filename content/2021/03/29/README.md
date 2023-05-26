@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 29, 2021
 
-17 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,23 +46,13 @@
 
 *   [Security Rights Reporting (⭐5)](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Wicket
-
-*   [JavaScript Interview #35](https://gumroad.com/l/javascript-interview-35) - Coderslang Master (PDF, email address *requested*, not required)
-
-### JavaScript / Node.js
-
-*   [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
-
-## [7. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Identity
 
 *   [Affinidi](https://www.affinidi.com) provides building blocks to create portable, interoperable, decentralized identity and verifiable claims and credentials
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Artificial Intelligence
 
@@ -70,9 +60,9 @@
 
 ### Queue
 
-*   [kaffe (⭐139)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐142)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
@@ -80,19 +70,19 @@
 *   [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. 100 snapshots/day (max capacity: 300). 3 snapshot heatmaps which can be stored for 365 days. Unlimited Team Members.
 *   [StatCounter](https://statcounter.com/) — Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.
 
-## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [jut (⭐172)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 
-## [11. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [10. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Tools / Multi-accounts setup
 
 *   [CDK-Dia (⭐571)](https://github.com/pistazie/cdk-dia) - Automatic infrastructure diagrams for AWS CDK.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -122,13 +112,7 @@
 
 
 
-## [13. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Frameworks
-
-*   [Blitz](https://blitzjs.com) - The Fullstack React Framework
-
-## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -138,31 +122,31 @@
 
 *   [Podcast Addict](https://podcastaddict.com/app) - Android Podcast player
 
-## [15. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Miscellaneous
 
 *   [Smooks (⭐356)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
-## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Diet
 
 *   [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
 
-## [17. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Decorators / Components
 
-*   [ng-portal (⭐10)](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
+*   [ng-portal (⭐12)](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
 
 ### Pipes / Components
 
-*   [ng-generic-pipe (⭐7)](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
+*   [ng-generic-pipe (⭐12)](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
 
 ### State Management / Components
 
-*   [ng-http-caching (⭐21)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+*   [ng-http-caching (⭐24)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 
 ---
 

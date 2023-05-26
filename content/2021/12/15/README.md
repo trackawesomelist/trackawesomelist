@@ -38,7 +38,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [driftctl (⭐2.1k)](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
+*   [driftctl (⭐2.2k)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Developer tools and frameworks
 
-*   [OrbitDB (⭐7.4k)](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers. It's an eventually consistent database that uses CRDTs for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
+*   [OrbitDB (⭐7.6k)](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers. It's an eventually consistent database that uses CRDTs for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
 *   [RenderJS](http://www.renderjs.org) is a JavaScript library which provides an easy way to define gadgets (aka mashups) in pure HTML5, without requiring any application server. It is suitable for the development of mobile applications, desktop applications.
 
 ### Networking
@@ -73,7 +73,7 @@
 
 ### Dead
 
-*   [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol (⭐484)](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
+*   [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol (⭐485)](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -91,42 +91,38 @@
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [Triangle](https://www.cs.cmu.edu/\~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
+*   [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
     (C, *nonfree software*)
-*   [SeismicMesh (⭐80)](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
+*   [SeismicMesh (⭐93)](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
     (Python and C++, GPL 3, GitHub)
 
 ### Meshing / Quadrilateral and hexahedral meshing
 
-*   [QuadriFlow](https://stanford.edu/\~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation from triangulation.
-    (C++, BSD, [GitHub (⭐510)](https://github.com/hjwdzh/QuadriFlow))
+*   [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation from triangulation.
+    (C++, BSD, [GitHub (⭐533)](https://github.com/hjwdzh/QuadriFlow))
 
 ### Meshing / Mesh tools
 
-*   [meshio (⭐1.4k)](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion.
+*   [meshio (⭐1.5k)](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion.
     (Python, MIT, GitHub)
 *   [MOAB](https://sigma.mcs.anl.gov/moab-library/) - Representing and evaluating mesh data.
     (C++, mostly LGPL 3, [Bitbucket](https://bitbucket.org/fathomteam/moab/))
-*   [optimesh (⭐464)](https://github.com/nschloe/optimesh) - Triangular mesh smoothing.
-    (Python, GPL 3, GitHub)
 *   [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library.
-    (C++, MIT with Employer Disclaimer, [GitHub (⭐883)](https://github.com/pmp-library/pmp-library/))
+    (C++, MIT with Employer Disclaimer, [GitHub (⭐952)](https://github.com/pmp-library/pmp-library/))
 *   [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing.
-    (C, LGPL 3, [GitHub (⭐264)](https://github.com/MmgTools/mmg))
-*   [meshplex (⭐98)](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes.
-    (Python, GPL 3, GitHub)
+    (C, LGPL 3, [GitHub (⭐285)](https://github.com/MmgTools/mmg))
 
 ## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [iter-ops (⭐92)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+*   :octocat: [iter-ops (⭐102)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-next (⭐78)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
+*   [vue-datepicker-next (⭐91)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ## [13. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

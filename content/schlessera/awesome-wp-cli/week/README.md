@@ -2,15 +2,21 @@
 
 A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/schlessera/awesome-wp-cli/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) · ⭐ 159 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/schlessera/awesome-wp-cli/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) · ⭐ 167 · 🏷️ Miscellaneous
 
 [ [Daily](/content/schlessera/awesome-wp-cli/README.md) / Weekly / [Overview](/content/schlessera/awesome-wp-cli/readme/README.md) ]
+
+## [May 22 - May 28, 2023](/content/2023/21/README.md)
+
+### Tutorials & guides / Notable packages
+
+*   [CaptainCore Cookbook](https://captaincore.io/cookbook/) - Collection of WP-CLI commands and bash scripts for automating WordPress maintenance.
 
 ## [Sep 21 - Sep 27, 2020](/content/2020/38/README.md)
 
 ### Third-party packages / Notable packages
 
-*   [php-stubs/wp-cli-stubs (⭐12)](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
+*   [php-stubs/wp-cli-stubs (⭐15)](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
@@ -21,7 +27,7 @@ A curated list of packages and resources for WP-CLI, the command-line interface 
 
 ### Third-party packages / Notable packages
 
-*   [schlessera/wp-cli-psysh (⭐19)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
+*   [schlessera/wp-cli-psysh (⭐21)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
 
 ### Tutorials & guides / Notable packages
 
@@ -40,14 +46,14 @@ A curated list of packages and resources for WP-CLI, the command-line interface 
         *   [#cli channel](http://wordpress.slack.com/messages/cli/) - The official support channel for WP-CLI and the WordPress CLI team.
     *   [Good first issues](https://make.wordpress.org/cli/good-first-issues/) - List of issues on that are limited in scope and complexity.
 *   [WP-CLI GitHub organization](https://github.com/wp-cli) - Canonical home of the WP-CLI source code.
-    *   [WP-CLI framework repository (⭐4.6k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
-    *   [WP-CLI bundle repository (⭐65)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
-    *   [WP-CLI tests repository (⭐23)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
+    *   [WP-CLI framework repository (⭐4.7k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
+    *   [WP-CLI bundle repository (⭐72)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
+    *   [WP-CLI tests repository (⭐30)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
 
 ### Third-party packages / Notable packages
 
-*   [Yoast/wp-cli-faker (⭐48)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
-*   [aaemnnosttv/wp-cli-login-command (⭐254)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
+*   [Yoast/wp-cli-faker (⭐55)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
+*   [aaemnnosttv/wp-cli-login-command (⭐266)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
 
 ### Tutorials & guides / Notable packages
 

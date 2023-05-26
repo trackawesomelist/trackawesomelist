@@ -98,7 +98,7 @@
 
 ### Extensions
 
-*   [next-routes-middleware (⭐40)](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
+*   [next-routes-middleware (⭐41)](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
 
 ---
 

@@ -79,6 +79,7 @@
 *   [Animal Social Network Repository](https://bansallab.github.io/asnr/) - Large “[multi-species repository of social networks](https://doi.org/10.1038/s41597-019-0056-z).”
 *   [Colorado Index of Complex Networks (ICON)](https://icon.colorado.edu/) - Large collection of networks described and indexed by Aaron Clauset’s research group.
 *   [Network Science Book - Network Datasets](http://networksciencebook.com/translations/en/resources/data.html) - Network data sets from Albert-László Barabási’s *Network Science* book. Includes data on IMDB actors, arXiv scientific collaboration, network of routers, the US power grid, protein-protein interactions, cell phone users, citation networks, metabolic reactions, e-mail networks, and nd.edu Web pages.
+    <!-- -   [Nexus](http://nexus.igraph.org/) - Repository of network datasets in GraphML and igraph formats. -->
 *   [Philosophers Networks from Randall Collins’s *The Sociology of Philosophies*](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html#tab_1).
 
 ### Professional Groups / Topic-specific
@@ -94,16 +95,11 @@
 
 ### Review Articles / Archeological and Historical Networks
 
-*   [Analyse de réseaux et histoire](https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2005-2-page-88.htm), in French (*Revue d’histoire moderne et contemporaine*, 2005).
-*   [Analyser les réseaux du passé en archéologie et en histoire](https://journals.openedition.org/nda/2300), in French (*Les Nouvelles de l’Archéologie*, 2014).
-*   [Introduction : où en est l’analyse de réseaux en histoire ? \[Introducción: ¿en qué punto se encuentra el análisis de redes en Historia?\]](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299), in French ([also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298); *REDES*, 2011).
 *   [Networks in Historical Research](http://www.themacroscope.org/?page_id=308) (in *The Historian’s Macroscope*, 2013).
 
 ### Review Articles / Bibliographic, Citation and Semantic Networks
 
 *   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/wp-content/uploads/2017/12/dynamic-scientific-coauthorship-networks.pdf) (*[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)*, 2012).
-*   [Self-Citations, Co-Authorships and Keywords: A New Approach to Scientists’ Field Mobility?](https://link.springer.com/article/10.1007/s11192-007-1680-5) (*Scientometrics*, 2007).
-*   [Tradition and Innovation in Scientists’ Research Strategies](http://asr.sagepub.com/content/early/2015/08/12/0003122415601618) (*Annual Review of Sociology*, 2015).
 
 ### Review Articles / Complex and Multilayer Networks
 
@@ -115,14 +111,12 @@
 
 ### Review Articles / Social, Economic and Political Networks
 
-*   [A propos de la notion de rôle dans l’analyse des relations sociales](https://journals.openedition.org/msh/11969) (*Mathématiques et sciences humaines*, 2011).
 *   [Networks and Trade](https://doi.org/10.1146/annurev-economics-080217-053506) (*Annual Review of Economics*, 2018).
 *   [Social Networks and Crime: Pitfalls and Promises for Advancing the Field](https://doi.org/10.1146/annurev-criminol-011518-024701) (*Annual Review of Criminology*, 2019).
 
 ### Selected Papers / Social, Economic and Political Networks
 
 *   [Deux traditions d’analyse des reseaux sociaux](https://www.cairn.info/revue-reseaux1-2002-5-page-183.htm), by Michael Eve ([English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS); *Réseaux*, 2002).
-*   [Topics in Social Network Analysis and Network Science](http://arxiv.org/abs/1404.0067), by A. James O’Malley and Jukka-Pekka Onnela - 50-page introduction to network analysis, with just the right amount of detail on all aspects of it (*The Handbook of Health Services Research*, forthcoming 2017).
 
 ### Software / Social, Economic and Political Networks
 
@@ -138,10 +132,6 @@
 
 *   [TNT: The Network Thinkers](http://www.thenetworkthinkers.com/) - Valdis Krebs’ blog.
 *   [Under Roquentin’s Chestnut Tree](https://mboudour.github.io/) - Moses Boudourides’ blog on analyzing (mostly) networks with Python.
-
-### Varia / Two-Mode Networks
-
-*   [L’analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -163,18 +153,18 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Notable (⭐21k)](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
+*   [Notable (⭐22k)](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Theory
 
-*   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐486)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐502)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐479)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐500)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

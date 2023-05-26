@@ -149,20 +149,20 @@
 
 ### Miscellaneous
 
-*   [WebScreenshot (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
+*   [WebScreenshot (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ### System
 
-*   [AppFreeze (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
+*   [AppFreeze (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
 
 ### Web
 
-*   [BugNot (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
-*   [IncognitoClone (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
+*   [BugNot (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
+*   [IncognitoClone (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
 
 ### Helpers
 
-*   [OneUpdater (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
+*   [OneUpdater (⭐2.3k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
 
 ## [7. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
@@ -292,7 +292,7 @@
 
 ### HTTP Clients
 
-*   [httplib2 (⭐457)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
+*   [httplib2 (⭐462)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
 
 ## [12. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
 
@@ -403,7 +403,7 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [TensorFlow (⭐277)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+*   [TensorFlow (⭐279)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 ## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -421,7 +421,7 @@
 
 ### Questions
 
-*   [tensorflow-ocaml (⭐277)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+*   [tensorflow-ocaml (⭐279)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 
 ## [20. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
@@ -503,7 +503,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [itunes-remote (⭐421)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [itunes-remote (⭐422)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
@@ -544,7 +544,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [boto3 :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/boto/boto3)
+*   [boto3 :fire::fire::fire::fire::fire: (⭐8.1k)](https://github.com/boto/boto3)
 
 ### Open Source Repos / Elastic Container Service
 
@@ -599,14 +599,14 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-js-modal (⭐4.2k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
+*   [vue-js-modal (⭐4.3k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
 ## [35. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Frameworks
 
-*   [Intervention Engine FHIR Server (⭐100)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
-*   [Swift-SMART (⭐118)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
+*   [Intervention Engine FHIR Server (⭐103)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
+*   [Swift-SMART (⭐120)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ## [36. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -824,13 +824,13 @@
 
 ### Misc
 
-*   [crz (⭐86)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
+*   [crz (⭐88)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
 
 ## [45. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐215)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐218)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Videos
 
@@ -853,7 +853,7 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐939)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐945)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -865,7 +865,7 @@
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐145)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐154)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 
@@ -873,7 +873,7 @@
 
 ### Distributed Computing
 
-*   [protoactor-dotnet (⭐1.5k)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
+*   [protoactor-dotnet (⭐1.6k)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
 
 ---
 

@@ -35,12 +35,12 @@
 
 ### Single controls
 
-*   [VirtualTreeView (⭐543)](https://github.com/Virtual-TreeView/Virtual-TreeView). `[Delphi]` ([VirtualTreeView-Lazarus (⭐40)](https://github.com/blikblum/VirtualTreeView-Lazarus) port to FPC `[FPC]`). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
+*   [VirtualTreeView (⭐564)](https://github.com/Virtual-TreeView/Virtual-TreeView). `[Delphi]` ([VirtualTreeView-Lazarus (⭐42)](https://github.com/blikblum/VirtualTreeView-Lazarus) port to FPC `[FPC]`). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
     // *Extremely flexible visual component implementing virtual (callback-based) MVC paradigm. Could be also used as a listview or grid. Used in RAD Studio GUI.*
 
 ### Viewers
 
-*   [ATViewer](https://sourceforge.net/projects/atviewer) ([mirror at GitHub (⭐42)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Delphi components to view various file types: text, binary, images, multimedia, webpages, etc.
+*   [ATViewer](https://sourceforge.net/projects/atviewer) ([mirror at GitHub (⭐44)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Delphi components to view various file types: text, binary, images, multimedia, webpages, etc.
     // *Used in Universal Viewer software. Could be used to display hex dumps, features fast display of unlimited size files/streams. Supports Total Commander Lister plugins.*
 
 ### Scripting
@@ -50,17 +50,17 @@
 
 ### Memory managers
 
-*   [FastMM (⭐395)](https://github.com/pleriche/FastMM4). `[Delphi]` Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
+*   [FastMM (⭐403)](https://github.com/pleriche/FastMM4). `[Delphi]` Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
     // *Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.*
 
 ### System
 
-*   [OmniThreadLibrary (⭐405)](https://github.com/gabr42/OmniThreadLibrary). `[Delphi]` Simple to use threading library for Delphi.
+*   [OmniThreadLibrary (⭐421)](https://github.com/gabr42/OmniThreadLibrary). `[Delphi]` Simple to use threading library for Delphi.
     // *Easy integration of async processes in your app*
 
 ### RAD Studio IDE plugins/wizards
 
-*   [DDevExtensions (⭐98)](https://github.com/ahausladen/DDevExtensions). Extends the Delphi/C++Builder IDE by adding some new productivity features.
+*   [DDevExtensions (⭐107)](https://github.com/ahausladen/DDevExtensions). Extends the Delphi/C++Builder IDE by adding some new productivity features.
     // *Many useful IDE tweaks, must have.*
 *   [VCL Fix Pack](https://www.idefixpack.de/blog/bugfix-units/vclfixpack-10/). Delphi unit that fixes VCL and RTL bugs at runtime by patching the original functions. If you want all IDE Fix Pack fixes in your application this unit is what you are looking for. Adding the unit to your project (Delphi and C++Builder) automatically installs the patches that are available for your Delphi/C++Builder version.
     // *Actual for Delphi/C++ 6..2009*

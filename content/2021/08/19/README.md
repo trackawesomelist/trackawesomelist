@@ -110,14 +110,14 @@
 
 ### General Libraries
 
-*   [QuickLib (⭐438)](https://github.com/exilon/QuickLib). `[Delphi]` `[FPC]` Quick development library (AutoMapper, LinQ, IOC Dependency Injection, MemoryCache, Scheduled tasks, Config, Serializers, Json Serialize, Chronometer, Threads, Lists, Config, Console services etc) with crossplatform support for Delphi/Firemonkey (Windows,Linux,macOS/IOS/Android) and freepascal (Windows/Linux).
+*   [QuickLib (⭐478)](https://github.com/exilon/QuickLib). `[Delphi]` `[FPC]` Quick development library (AutoMapper, LinQ, IOC Dependency Injection, MemoryCache, Scheduled tasks, Config, Serializers, Json Serialize, Chronometer, Threads, Lists, Config, Console services etc) with crossplatform support for Delphi/Firemonkey (Windows,Linux,macOS/IOS/Android) and freepascal (Windows/Linux).
 
 ### Graphic
 
-*   [KIcon (⭐9)](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` This component makes sense if a more complex manipulation with icons (or better icon files \*.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
-*   [QuickImageFX (⭐49)](https://github.com/exilon/QuickImageFX). `[Delphi]` Delphi library for simplifying image load/save, conversion and transformation. Load/save png, jpg, gif and bmp. get image from different resources: file, stream, http, imagelist, associated windows icon, executable file icon, etc. Rotate, flip, grayscale and many other transformations.
-*   [SVGIconImageList (⭐225)](https://github.com/EtheaDev/SVGIconImageList). `[Delphi]` Four engines to render SVG (Delphi TSVG, Delphi Image32, Direct2D or Cairo) and four components to simplify use of SVG images (resize, fixedcolor, grayscale, etc).
-*   [Skia4Delphi (⭐462)](https://github.com/viniciusfbb/skia4delphi). `[Delphi]` Cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+*   [KIcon (⭐11)](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` This component makes sense if a more complex manipulation with icons (or better icon files \*.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
+*   [QuickImageFX (⭐52)](https://github.com/exilon/QuickImageFX). `[Delphi]` Delphi library for simplifying image load/save, conversion and transformation. Load/save png, jpg, gif and bmp. get image from different resources: file, stream, http, imagelist, associated windows icon, executable file icon, etc. Rotate, flip, grayscale and many other transformations.
+*   [SVGIconImageList (⭐240)](https://github.com/EtheaDev/SVGIconImageList). `[Delphi]` Four engines to render SVG (Delphi TSVG, Delphi Image32, Direct2D or Cairo) and four components to simplify use of SVG images (resize, fixedcolor, grayscale, etc).
+*   [Skia4Delphi (⭐532)](https://github.com/viniciusfbb/skia4delphi). `[Delphi]` Cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
 
 ### Control packs
 
@@ -127,16 +127,16 @@
 
 ### Single controls
 
-*   [ATTabs (⭐79)](https://github.com/Alexey-T/ATFlatControls). `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
+*   [ATTabs (⭐83)](https://github.com/Alexey-T/ATFlatControls). `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
 *   [RiverSoftAVG Charting Component Suite](http://www.riversoftavg.com/charting.htm). `[Delphi]` Free (for non-commercial use) with source charting Suite for adding charts and graphs to your programs. For Delphi 2010-Tokyo (Win32/Win64/macOS/iOS/Android) and Appmethod (Object Pascal).
 
 ### Other GUI
 
-*   [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here (⭐1)](https://github.com/bero/GMLibrary) and [here (⭐31)](https://github.com/cadetill/gmlib_v1)). `[Delphi]` Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines, etc. All objects that you can put into a map.
+*   [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here (⭐1)](https://github.com/bero/GMLibrary) and [here (⭐32)](https://github.com/cadetill/gmlib_v1)). `[Delphi]` Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines, etc. All objects that you can put into a map.
 
 ### Scripting
 
-*   [QuickJS-Engine (⭐76)](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) JavaScript Engine.
+*   [QuickJS-Engine (⭐78)](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) JavaScript Engine.
 
 ### Language
 
@@ -146,7 +146,7 @@
 
 *   [ICU4PAS](http://www.crossgl.com/icu4pas/index.html). `[Delphi]` `[FPC]` Object Pascal, cross platform, Direct Class Wrapper over the mature and widely used set of C/C++ ICU libraries providing Unicode support, software internationalization (i18n) and globalization (g11n), giving applications the same results on all platforms. You can use it on Windows with Delphi and FreePascal and on Linux with Kylix and FreePascal.
     // *Hadn't been updated since 2007 but ICU interface probably remains the same*
-*   [FreePascal Generics.Collections (⭐111)](https://github.com/maciej-izak/generics.collections). `[FPC]` FreePascal Generics.Collections library (TList, TDictionary, THashMap and more)
+*   [FreePascal Generics.Collections (⭐114)](https://github.com/maciej-izak/generics.collections). `[FPC]` FreePascal Generics.Collections library (TList, TDictionary, THashMap and more)
 
 ### OS
 
@@ -155,7 +155,7 @@
 ### RAD Studio IDE plugins/wizards
 
 *   [GExperts](https://sourceforge.net/projects/gexperts). Free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE. GExperts is developed as Open Source software and we encourage user contributions to the project. Grep search and replace supporting unicode files, DFMs, etc; Automatically rename components, insert text macros, open recent files; Easily backup your projects, with custom additional file lists; Keep nested lists of favorite files for quick access; Track dependencies between units in your project; Quickly jump to any procedure in the current unit; And much, much more.
-*   [Delphinus (⭐220)](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses GitHub as a Backend to Provide the packages.
+*   [Delphinus (⭐225)](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses GitHub as a Backend to Provide the packages.
 
 ## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [geeknote (⭐394)](https://github.com/jeffkowalski/geeknote) - Evernote client.
+*   [geeknote (⭐392)](https://github.com/jeffkowalski/geeknote) - Evernote client.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

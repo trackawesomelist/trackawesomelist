@@ -1,42 +1,36 @@
 # Awesome List Updates on Jan 19, 2018
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / URL Shorteners
-
-*   [reduc.io (⭐70)](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
-
-## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [1. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
 
-## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [retro-gtfs (⭐48)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
+*   [retro-gtfs (⭐49)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
 
-## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Design
 
 *   [AIGA](https://designjobs.aiga.org/)
 
-## [5. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [4. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### App Examples
 
 *   [Street Quality IDentification \[SQUID\]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code. (⭐19)](https://github.com/amyoshino/SQUID-Syracuse-Dashboard)
 
-## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
@@ -58,21 +52,21 @@
 *   [leaflet-d3 (⭐238)](https://github.com/Asymmetrik/leaflet-d3) - Collection of plugins for using D3 with Leaflet \[map, geo]
 *   [Wikimaps-D3js Atlas (⭐45)](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) - CLI to generate raster, topojson and svg maps \[map, geo]
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
-*   [opticl (⭐176)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [opticl (⭐175)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Apps / Third-party APIs
 
 *   [lake (⭐83)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
-## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
-- Name: [Laracom (⭐1.7k)](https://github.com/jsdecena/laracom)
+- Name: [Laracom (⭐1.8k)](https://github.com/jsdecena/laracom)
 
   Description: FREE E-Commerce Software
 
@@ -80,31 +74,31 @@
 
 
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### CLI
 
 *   [genact (⭐6.6k)](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Monitoring & Quality Control
 
-*   [SilentJack (⭐23)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
+*   [SilentJack (⭐22)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
 *   [Ooui (⭐1.6k)](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Debugging Tools / ORM
 
 *   [ADB Enhanced (⭐928)](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
 
-## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -114,11 +108,11 @@
 
 *   [ASP.NET-MVC-Template (⭐890)](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐706)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
+*   [vue-datepicker (⭐705)](https://github.com/hilongjw/vue-datepicker) - **\[unmaintained]** Calendar and datepicker component with material design for Vue.js.
 *   [vuejs-datepicker (⭐2.6k)](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
 *   [v2-datepicker (⭐90)](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.
 

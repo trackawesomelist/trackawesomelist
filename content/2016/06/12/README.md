@@ -23,13 +23,13 @@
 
 ### Web Apps (open source)
 
-*   [Transitive.js (⭐657)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+*   [Transitive.js (⭐658)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [LeeGo (⭐969)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
+*   [LeeGo (⭐968)](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 
 ### Walkthrough / Barcode
 
@@ -39,7 +39,7 @@
 
 ### Open Source Repos / Kinesis
 
-*   [amazon-kinesis-aggregators :fire: (⭐151)](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
+*   [amazon-kinesis-aggregators :fire: (⭐150)](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Artificial Intelligence
 
-*   [Recast/Detour (⭐5.3k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Recast/Detour (⭐5.5k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 
 ---
 

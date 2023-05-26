@@ -1,24 +1,18 @@
 # Awesome List Updates on Jul 11, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Pastebins
-
-*   [Snibox](https://snibox.github.io/) - Code snippets manager with attractive tag-oriented interface. ([Source Code (⭐1.6k)](https://github.com/snibox/snibox)) `MIT` `Ruby`
-
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Implementations/Compilers
 
 *   [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
 
-## [3. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / Texas
 
@@ -32,7 +26,7 @@ Webpage: <https://yoghut.com/>
 | ---- | ----- | ------------- | ------------------------------------------------------------------- | ------------------------------------ |
 | ✔    | ✔     | ❄️/♨️         | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2) | Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM |
 
-## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Advanced
 
@@ -42,13 +36,13 @@ Webpage: <https://yoghut.com/>
 
 *   [Book (⭐317)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 
 *   [Sica (⭐1k)](https://github.com/cats-oss/Sica) - Simple Interface Core Animation. Run type-safe animation sequencially or parallelly.
 
-## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
@@ -58,19 +52,19 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐6.3k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐6.5k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
-## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Offensive / XSS - Cross-Site Scripting
 
 *   [XSStrike (⭐11k)](https://github.com/s0md3v/XSStrike) - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@s0md3v](https://github.com/s0md3v).
 
-## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [LOKI (⭐2.6k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
+*   [LOKI (⭐2.9k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Productivity
 
-*   [Todoist (⭐316)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
+*   [Todoist (⭐327)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Web Crawling
 
-*   [Spidr (⭐745)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+*   [Spidr (⭐759)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐250)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Nitro 🚀 (⭐253)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 
 ## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -39,8 +39,6 @@
 ### Hosting and media
 
 *   [AnoNet](http://wiki.ucis.nl/Anonet) is a decentralized friend-to-friend network built using VPNs and software BGP routers. anoNet works by making it difficult to learn the identities of others on the network allowing them to anonymously host IPv4 and IPv6 services)
-*   [Bittubers](https://bittubers.com/about) - is a brand new social network for content creators and streamers. Developed by [BitTube](https://bit.tube/), BitTubers emphasizes free speech, fairness and unrestricted monetization across the board. This platform is the successor to bit.tube, launched in mid 2018, building upon its original peer-to-peer fundamentals with greatly improved monetization options, discoverability, interactivity and engagement features.
-*   [D.Tube](https://about.d.tube/) is the first crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network."
 *   [Funkwhale](https://funkwhale.audio/) is a community-driven project that lets you listen and share music and audio within a decentralised, open network.
 
 ### Networking
@@ -71,6 +69,8 @@
 *   [Lighthouse](https://www.vinumeris.com/lighthouse) is a peer to peer crowdfunding app that uses Bitcoin.
 *   The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized and opensource data platform. It is built in Erlang and includes [RCouch (⭐68)](https://github.com/refuge/rcouch), a static distribution of couchdb using rebar, and [Coffer (⭐23)](https://github.com/refuge/coffer), a blob server.
 *   [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
+*   [Bittubers](https://bittubers.com/about) - is a brand new social network for content creators and streamers. Developed by [BitTube](https://bit.tube/), BitTubers emphasizes free speech, fairness and unrestricted monetization across the board. This platform is the successor to bit.tube, launched in mid 2018, building upon its original peer-to-peer fundamentals with greatly improved monetization options, discoverability, interactivity and engagement features.
+*   [D.Tube](https://about.d.tube/) is the first crypto-decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network."
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Command Line Learning / Internet Speedtest
 
-*   [navi (⭐12k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+*   [navi (⭐13k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
 ## [10. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -142,12 +142,12 @@
 ### Asynchronous Programming
 
 *   [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    *   [awesome-asyncio (⭐3.8k)](https://github.com/timofurrer/awesome-asyncio)
+    *   [awesome-asyncio (⭐3.9k)](https://github.com/timofurrer/awesome-asyncio)
 *   [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
 
 ### Network Virtualization
 
-*   [pox (⭐591)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
+*   [pox (⭐598)](https://github.com/noxrepo/pox) - A Python-based SDN control applications, such as OpenFlow SDN controllers.
 
 ### Processes
 
@@ -158,7 +158,7 @@
 *   Framework agnostic
     *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
     *   [falcon (⭐9k)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
-    *   [fastapi (⭐53k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    *   [fastapi (⭐56k)](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
     *   [hug (⭐6.7k)](https://github.com/hugapi/hug) - A Python 3 framework for cleanly exposing APIs.
     *   [sandman2 (⭐1.9k)](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
     *   [sanic (⭐17k)](https://github.com/huge-success/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
@@ -166,9 +166,9 @@
 
 ### Task Queues
 
-*   [huey (⭐4.3k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
-*   [mrq (⭐871)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
-*   [rq (⭐8.7k)](https://github.com/rq/rq) - Simple job queues for Python.
+*   [huey (⭐4.4k)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
+*   [mrq (⭐874)](https://github.com/pricingassistant/mrq) - A distributed worker task queue in Python using Redis & gevent.
+*   [rq (⭐8.8k)](https://github.com/rq/rq) - Simple job queues for Python.
 
 ### Web Frameworks
 
@@ -177,15 +177,15 @@
 
 ### WebSocket
 
-*   [channels (⭐5.5k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-*   [websockets (⭐4.3k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+*   [channels (⭐5.6k)](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
+*   [websockets (⭐4.5k)](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ### WSGI Servers
 
 *   [bjoern (⭐2.9k)](https://github.com/jonashaag/bjoern) - Asynchronous, very fast and written in C.
 *   [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) - A project aims at developing a full stack for building hosting services, written in C.
 *   [waitress (⭐1.2k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
-*   [werkzeug (⭐6.2k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
+*   [werkzeug (⭐6.3k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
 
 ## [12. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

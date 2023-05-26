@@ -56,19 +56,19 @@
 ### Algorithms and Design Patterns
 
 *   Design Patterns
-    *   [PyPattyrn (⭐1.8k)](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
-    *   [python-patterns (⭐36k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-    *   [transitions (⭐4.7k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
+    *   [PyPattyrn (⭐1.9k)](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
+    *   [python-patterns (⭐37k)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
+    *   [transitions (⭐4.8k)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
 ### ASGI Servers
 
-*   [daphne (⭐1.9k)](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
+*   [daphne (⭐2k)](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
 
 ## [3. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Testing Prisma with PostgreSQL and Jest (⭐93)](https://github.com/ctrlplusb/prisma-pg-jest)
+*   [Testing Prisma with PostgreSQL and Jest (⭐103)](https://github.com/ctrlplusb/prisma-pg-jest)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
@@ -78,23 +78,23 @@
 
 ### Programming Languages
 
-*   [JavaScript (⭐30k)](https://github.com/sorrycc/awesome-javascript#readme)
+*   [JavaScript (⭐31k)](https://github.com/sorrycc/awesome-javascript#readme)
     *   [Promises (⭐1.5k)](https://github.com/wbinnssmith/awesome-promises#readme)
-    *   [Standard Style (⭐364)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+    *   [Standard Style (⭐370)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐12k)](https://github.com/loverajoel/jstips#readme)
-    *   [Network Layer (⭐528)](https://github.com/Kikobeats/awesome-network-js#readme)
-    *   [Micro npm Packages (⭐4.4k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-    *   [Mad Science npm Packages (⭐1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
+    *   [Network Layer (⭐533)](https://github.com/Kikobeats/awesome-network-js#readme)
+    *   [Micro npm Packages (⭐4.5k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
+    *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
     *   [Maintenance Modules (⭐347)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-    *   [npm (⭐4.2k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-    *   [AVA (⭐340)](https://github.com/avajs/awesome-ava#readme) - Test runner.
-    *   [ESLint (⭐3.5k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
-    *   [Functional Programming (⭐5.7k)](https://github.com/stoeffel/awesome-fp-js#readme)
+    *   [npm (⭐4.3k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+    *   [AVA (⭐342)](https://github.com/avajs/awesome-ava#readme) - Test runner.
+    *   [ESLint (⭐3.6k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+    *   [Functional Programming (⭐5.8k)](https://github.com/stoeffel/awesome-fp-js#readme)
     *   [Observables (⭐324)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐694)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐108k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    *   [Ponyfills (⭐47)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+    *   [npm scripts (⭐702)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [30 Seconds of Code (⭐111k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [Ponyfills (⭐48)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ## [5. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
@@ -186,15 +186,15 @@
 
 ### Tools & Software / Acquisition
 
-*   [Heritrix (⭐2.4k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
-    *   [Heritrix Q\&A (⭐2.4k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
+*   [Heritrix (⭐2.5k)](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
+    *   [Heritrix Q\&A (⭐2.5k)](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - A discussion forum for asking questions and getting answers about using Heritrix.
     *   [Heritrix Walkthrough (⭐8)](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
 *   [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
 
 ### Community Resources / Other Awesome Lists
 
-*   [Web Archiving Community (⭐15k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
-*   [Awesome Memento (⭐67)](https://github.com/machawk1/awesome-memento)
+*   [Web Archiving Community (⭐16k)](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
+*   [Awesome Memento (⭐68)](https://github.com/machawk1/awesome-memento)
 *   [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 *   [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
 
@@ -230,7 +230,7 @@
 
 ### Experiments
 
-*   [YouTube Musical Spectrum (⭐139)](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
+*   [YouTube Musical Spectrum (⭐142)](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 
 ## [13. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 

@@ -32,17 +32,17 @@
 
 ### Data Store / Mouse Events
 
-*   [react-3ducks (⭐6)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
+*   [react-3ducks (⭐7)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### QA Tools / Runner
 
-*   [Pre-evaluate code at buildtime (⭐117)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
+*   [Pre-evaluate code at buildtime (⭐120)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 
 ### API / Runner
 
-*   [wretch (⭐2.5k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+*   [wretch (⭐3.9k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -105,7 +105,7 @@
 
 ### GUI Development
 
-*   [enaml (⭐1.4k)](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
+*   [enaml (⭐1.5k)](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
 
 ### News Feed
 
@@ -115,11 +115,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pychat (⭐212)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
+*   [Pychat (⭐217)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-html-to-paper (⭐279)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-html-to-paper (⭐285)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 ## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [apk-mitm (⭐2.2k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
+*   [apk-mitm (⭐2.7k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 
 ---
 

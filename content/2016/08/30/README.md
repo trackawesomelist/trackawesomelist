@@ -55,16 +55,15 @@
 
 ### Database
 
-*   [Ignite (⭐4.4k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
+*   [Ignite (⭐4.5k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 
 ### IoC
 
-*   [Microsoft.Extensions.DependencyInjection (⭐872)](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
-*   [Scrutor (⭐2.8k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
+*   [Scrutor (⭐3k)](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 
 ### Markdown Processors
 
-*   [markdig (⭐3.4k)](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+*   [markdig (⭐3.6k)](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 ### ORM
 

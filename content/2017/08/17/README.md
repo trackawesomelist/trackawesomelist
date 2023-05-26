@@ -152,13 +152,13 @@
 ### Editor Plugins
 
 *   [CIDER (Emacs) (⭐3.4k)](https://github.com/clojure-emacs/cider)
-*   [smartparens (Emacs) (⭐1.6k)](https://github.com/Fuco1/smartparens)
-*   [rainbow-delimiters (Emacs) (⭐575)](https://github.com/Fanael/rainbow-delimiters)
-*   [aggressive-indent (Emacs) (⭐745)](https://github.com/Malabarba/aggressive-indent-mode)
+*   [smartparens (Emacs) (⭐1.7k)](https://github.com/Fuco1/smartparens)
+*   [rainbow-delimiters (Emacs) (⭐605)](https://github.com/Fanael/rainbow-delimiters)
+*   [aggressive-indent (Emacs) (⭐803)](https://github.com/Malabarba/aggressive-indent-mode)
 *   [vim-fireplace (Vim) (⭐1.7k)](https://github.com/tpope/vim-fireplace)
 *   [vim-redl (Vim) (⭐107)](https://github.com/dgrnbrg/vim-redl)
-*   [vim-leiningen (Vim) (⭐191)](https://github.com/tpope/vim-salve)
-*   [rainbow\_parentheses.vim (Vim) (⭐369)](https://github.com/junegunn/rainbow_parentheses.vim)
+*   [vim-leiningen (Vim) (⭐196)](https://github.com/tpope/vim-salve)
+*   [rainbow\_parentheses.vim (Vim) (⭐371)](https://github.com/junegunn/rainbow_parentheses.vim)
 *   [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
 
 ### Guides

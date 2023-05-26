@@ -78,7 +78,7 @@
 ### Ask these people anything!
 
 *   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) and passionate photographer.
-*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐114)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
+*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐124)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 
 ## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

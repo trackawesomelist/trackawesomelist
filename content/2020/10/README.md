@@ -16,7 +16,7 @@
 
 ### Applications / System tools
 
-*   [Kondo (⭐992)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
+*   [Kondo (⭐1.1k)](https://github.com/tbillington/kondo) - CLI & GUI tool for deleting software project artifacts and reclaiming disk space
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Projects
 
-*   [yew-styles-page (⭐128)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
+*   [yew-styles-page (⭐130)](https://github.com/spielrs/yew-styles-page) - This is an initial project of a framework style for yew.
 
 ## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -322,17 +322,7 @@
 
 *   [Battle for Wesnoth](https://liberapay.com/Wesnoth) - Turn-based strategy game.
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison (PDF)
-
-### SQL Server / Play Scala
-
-*   [SQL Server for C# Developers Succinctly](https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly) - Sander Rossel
-
-## [16. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [15. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -343,17 +333,23 @@
 
 *   [Has Changes (⭐26)](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 
-## [17. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Data Collection
 
 *   [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
 
-## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Security
 
 *   [Expose plugin (⭐8)](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
+
+## [18. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Data Sources
+
+*   [yahooquery (⭐595)](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
 
 ## [19. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -369,7 +365,7 @@
 
 ### Others / Third-party APIs
 
-*   [Petalisp (⭐281)](https://github.com/marcoheisig/Petalisp) - an attempt to
+*   [Petalisp (⭐291)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
     JIT-compiling array definitions. It works on a more
     fundamental level than NumPy, by providing even more powerful
@@ -378,11 +374,11 @@
 
 ### Matrix libraries / Third-party APIs
 
-*   [clem (⭐36)](https://github.com/slyrus/clem) - a matrix library. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [clem (⭐37)](https://github.com/slyrus/clem) - a matrix library. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### REPLs / Third-party APIs
 
-*   [magic-ed (⭐20)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT](https://opensource.org/licenses/MIT).
+*   [magic-ed (⭐21)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT](https://opensource.org/licenses/MIT).
 
 ### Developer utilities / Third-party APIs
 
@@ -391,14 +387,14 @@
 
 ### Security / Third-party APIs
 
-*   [cl-isolated (⭐34)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
+*   [cl-isolated (⭐35)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
 
 ## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Web Apps (open source)
 
 *   [OpenTripPlanner.js (⭐19)](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner (no longer under development)
-*   [OTP-UI React Component Library (⭐38)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
+*   [OTP-UI React Component Library (⭐42)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
 
 ### Blog posts / Ruby
 
@@ -443,22 +439,22 @@
 
 ### General
 
-*   [Workshop (⭐3k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square\&cacheSeconds=86400) Build a complete Blazor app and learn about the various Blazor framework features along the way.
+*   [Workshop (⭐3.1k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square\&cacheSeconds=86400) Build a complete Blazor app and learn about the various Blazor framework features along the way.
 
 ### Tutorials
 
-*   [Blazor workshop (⭐3k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
+*   [Blazor workshop (⭐3.1k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
 
 ### Tools & Utilities / Others
 
-*   [Blazored.LocalStorage (⭐875)](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/LocalStorage?style=flat-square\&cacheSeconds=86400) A library to provide access to local storage in Blazor applications.
-*   [Blazor-State (⭐396)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
-*   [CssBuilder (⭐176)](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=86400) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
+*   [Blazored.LocalStorage (⭐939)](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/LocalStorage?style=flat-square\&cacheSeconds=86400) A library to provide access to local storage in Blazor applications.
+*   [Blazor-State (⭐432)](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/TimeWarpEngineering/blazor-state?style=flat-square\&cacheSeconds=86400) Manage client side state in Blazor using MediatR pipeline.
+*   [CssBuilder (⭐180)](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square\&cacheSeconds=86400) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
 
 ### Others / Others
 
-*   [Bolero (⭐898)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
-*   [BlazorFabric (⭐769)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
+*   [Bolero (⭐922)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
+*   [BlazorFabric (⭐777)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 
 ## [28. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
@@ -470,10 +466,10 @@
 
 ### Tools / Dolby
 
-*   [slhck/ffmpeg-bitrate-stats (⭐57)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
-*   [slhck/ffmpeg-debug-qp (⭐63)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
-*   [slhck/ffmpeg-quality-metrics (⭐214)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
-*   [slhck/scenecut-extractor (⭐41)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
+*   [slhck/ffmpeg-bitrate-stats (⭐76)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+*   [slhck/ffmpeg-debug-qp (⭐71)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
+*   [slhck/ffmpeg-quality-metrics (⭐267)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+*   [slhck/scenecut-extractor (⭐45)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
 
 ## [30. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -485,7 +481,7 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐264)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐275)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [32. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -498,9 +494,9 @@
 ### Files and Directories / Directory Listing
 
 *   [alder (⭐210)](https://github.com/aweary/alder) - Minimal `tree` with colors.
-*   [exa (⭐21k)](https://github.com/ogham/exa) - Improved version of `ls`.
-*   [tre (⭐434)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
-*   [ll (⭐38)](https://github.com/antonmedv/ll) - `ls` with git status.
+*   [exa (⭐22k)](https://github.com/ogham/exa) - Improved version of `ls`.
+*   [tre (⭐505)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [ll (⭐41)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [34. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
@@ -580,14 +576,14 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐5.2k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐5.5k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Concurrency
 
-*   [HPX (⭐2.1k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
-*   [Kokkos (⭐1.2k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
-*   [marl (⭐1.5k)](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
-*   [Quantum (⭐504)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+*   [HPX (⭐2.2k)](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
+*   [Kokkos (⭐1.3k)](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
+*   [marl (⭐1.6k)](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
+*   [Quantum (⭐513)](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
 
 ### Game Engine
 
@@ -595,15 +591,15 @@
 
 ### Logging
 
-*   [Quill (⭐771)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐825)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ### Math
 
-*   [Klein (⭐646)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐655)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ### Networking
 
-*   [tlse (⭐489)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
+*   [tlse (⭐495)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 
 ## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -626,17 +622,17 @@
 
 ### WebSocket
 
-*   [Websocket.Client (⭐541)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+*   [Websocket.Client (⭐569)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
 ## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
-### Miscellaneous / Lazy Load
-
-*   [DataFormsJS JSX Loader (⭐161)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
-
 ### UI Layout / Syntax Highlight
 
-*   [muuri-react (⭐284)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
+*   [muuri-react (⭐292)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
+
+### Miscellaneous / Lazy Load
+
+*   [DataFormsJS JSX Loader (⭐163)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 
 ## [47. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -685,14 +681,14 @@
 
 ### Extensions
 
-*   [Next universal language detector (⭐70)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
+*   [Next universal language detector (⭐74)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
 ## [50. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Related / Awesome Lists
 
-*   [Awesome Tsung (⭐16)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-*   [Awesome Gatling (⭐50)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
+*   [Awesome Tsung (⭐17)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+*   [Awesome Gatling (⭐52)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ### Community / Forums
 
@@ -703,7 +699,7 @@
 
 ### Contents / Components
 
-*   [MU Forms (⭐56)](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for (P)React.
+*   [MU Forms (⭐57)](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for (P)React.
 
 ## [52. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -713,13 +709,13 @@
 
 ### Community Extensions
 
-*   [Keycloak Discord Support (⭐76)](https://github.com/wadahiro/keycloak-discord)
+*   [Keycloak Discord Support (⭐85)](https://github.com/wadahiro/keycloak-discord)
 
 ## [53. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Gitify (⭐3.9k)](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
+*   [Gitify (⭐4k)](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
 
 ### Closed Source / Other
 
@@ -727,19 +723,19 @@
 
 ### For Electron / Other
 
-*   [electronegativity (⭐833)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
+*   [electronegativity (⭐860)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
 ## [54. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Web Audio
 
-*   [TimeSide (Beta) (⭐333)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐333)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
+*   [TimeSide (Beta) (⭐347)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐347)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
 ## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐161)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐163)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 *   [vue-service-model (⭐19)](https://github.com/freakzlike/vue-service-model) - Vue.js library for handling REST service requests with caching, aggregation and model definitions.
 
 ## [56. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
@@ -761,11 +757,11 @@
 
 ### Runtime / Playground
 
-*   [type-plus (⭐197)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐233)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [sub-events (⭐30)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
+*   :octocat: [sub-events (⭐33)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 
 ## [58. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -783,7 +779,7 @@
 
 ### Learn
 
-*   [Learn Elm (⭐463)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
+*   [Learn Elm (⭐467)](https://github.com/dwyl/learn-elm) - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 
 ### Videos / Playlists
 
@@ -794,13 +790,13 @@
 
 ### Community and Support / Games
 
-*   [Companies using Elm (⭐408)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
+*   [Companies using Elm (⭐416)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
 ## [61. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Tools / React Awesome Components
+### React Graphics and Animations
 
-*   [react-parallax-tilt (⭐595)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+*   [react-parallax-tilt (⭐711)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
 ## [62. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -824,4 +820,4 @@
 ---
 
 - Prev: [Mar 16 - Mar 22, 2020](/content/2020/11/README.md)
-- Next: [Dec 30 - Jan 05, 2019](/content/2019/52/README.md)
+- Next: [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)

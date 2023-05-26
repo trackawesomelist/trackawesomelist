@@ -15,7 +15,7 @@
 
 ### Visual Changes / Design Tooling
 
-*   [Blur-my-shell (⭐886)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
+*   [Blur-my-shell (⭐1k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

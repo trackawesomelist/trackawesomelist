@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### Resources / Tutorials
 
-*   [how-to-markdown (⭐196)](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
+*   [how-to-markdown (⭐202)](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
 *   [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown.
 
 ## [2. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
@@ -78,35 +78,29 @@
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/hbase)
 *   [Twitter](https://twitter.com/HBase)
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C# / Non-X86
-
-*   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss
-
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Authorization
 
-*   [Petergate (⭐192)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
+*   [Petergate (⭐193)](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 
 ### CLI Utilities
 
-*   [TablePrint (⭐850)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐882)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
-## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 
-## [8. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [7. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Videos
 
 *   [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** \[19:07]
 
-## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Open Source Threat Intelligence / Tools
 

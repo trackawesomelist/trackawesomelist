@@ -39,7 +39,7 @@
 
 ### Example Projects
 
-*   [Keycloak Clustering examples (⭐93)](https://github.com/ivangfr/keycloak-clustered)
+*   [Keycloak Clustering examples (⭐106)](https://github.com/ivangfr/keycloak-clustered)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -57,8 +57,8 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-datatable-url-sync (⭐23)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
-*   [vue-sse (⭐109)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
+*   [vue-datatable-url-sync (⭐29)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
+*   [vue-sse (⭐118)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
 
 ## [9. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Projects
 
-*   [Flow.er (⭐51)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
+*   [Flow.er (⭐50)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 
 ## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

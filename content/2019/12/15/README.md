@@ -32,33 +32,18 @@
 
 ## [5. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tutorials / React and TypeScript
+### React Tutorials
 
-*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐38k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+*   [Cheatsheets for experienced React developers getting started with TypeScript (⭐41k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
-### React Tools / React Awesome Components
+### React Awesome Components
 
-*   [react-archer (⭐884)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+*   [react-archer (⭐917)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 
-### React Tools / React Integration
+### React Real Apps
 
-*   [ReasonReact](https://reasonml.github.io/reason-react/)
-
-### React Tools / React AR and VR
-
-*   [Viro React](https://viromedia.com/viroreact/) - Platform for rapidly building AR/VR applications using React Native
-
-### Video Tutorials / Charts
-
-*   [react-reduction (⭐1.4k)](https://github.com/reduction-admin/react-reduction) - Free Admin Template Built with React and Bootstrap4
-*   [reactjs-tmdb-app (⭐902)](https://github.com/SKempin/reactjs-tmdb-app) - Responsive React The Movie Database App
-*   [react-shopping-cart (⭐2.1k)](https://github.com/jeffersonRibeiro/react-shopping-cart) - Simple ecommerce cart application built with React Redux
 *   [kibana (⭐18k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-*   [firefox debugger (⭐4.6k)](https://github.com/firefox-devtools/debugger) - The Firefox debugger that works anywhere
-*   [spectrum (⭐11k)](https://github.com/withspectrum/spectrum) – Simple, powerful online communities
-*   [mattermost (⭐2.2k)](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
-*   [overreacted (⭐6.6k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
-*   [winamp2-js (⭐8.9k)](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
+*   [overreacted (⭐6.7k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 
 ---
 

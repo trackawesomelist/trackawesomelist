@@ -22,7 +22,7 @@
 
 ### TypeScript General Resources / Components
 
-*   [TypeScript Repository (GitHub) (⭐85k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+*   [TypeScript Repository (GitHub) (⭐90k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 
 ### Dart General Resources / Components
 
@@ -38,13 +38,13 @@
 
 ### React Native Projects / Components
 
-*   [Angular 2 React Native Renderer (GitHub) (⭐793)](https://github.com/angular/react-native-renderer)
+*   [Angular 2 React Native Renderer (GitHub) (⭐788)](https://github.com/angular/react-native-renderer)
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml.js (⭐2.3k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
+*   [ml.js (⭐2.4k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 
 ## [4. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 

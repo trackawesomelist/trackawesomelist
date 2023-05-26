@@ -10,13 +10,13 @@
 
 ### Network / Scanning / Pentesting
 
-*   [scapy (⭐81)](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
+*   [scapy (⭐119)](https://github.com/gpotter2/awesome-scapy) - Scapy: the python-based interactive packet manipulation program & library.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐332)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐358)](https://github.com/Atheos/Atheos)) `MIT` `PHP`
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Uncategorised
 
-*   [git-dit (⭐452)](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
+*   [git-dit (⭐453)](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Video / Barcode
 
-*   [Swifty360Player (⭐150)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
+*   [Swifty360Player (⭐152)](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -86,13 +86,13 @@
 
 ### Open Source Repos / CLI
 
-*   [dbcli/athenacli :fire: (⭐196)](https://github.com/dbcli/athenacli) - a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+*   [dbcli/athenacli :fire: (⭐197)](https://github.com/dbcli/athenacli) - a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
 
 ## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Productivity / Note Taking and Lists
 
-*   [dnote (⭐2.4k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+*   [dnote (⭐2.5k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 
 ### Utilities / Theming and Customization
 
@@ -102,11 +102,11 @@
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   [Typescript tooling for Neovim (⭐621)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+*   [Typescript tooling for Neovim (⭐618)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 
 ### Web / Playground
 
-*   :octocat: [Dnote (⭐2.4k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
+*   :octocat: [Dnote (⭐2.5k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 
 ---
 

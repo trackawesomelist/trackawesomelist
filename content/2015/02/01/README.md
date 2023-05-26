@@ -26,13 +26,13 @@
 
 ### Websites
 
-*   [Meteor boilerplate (⭐887)](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
+*   [Meteor boilerplate (⭐883)](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Miscellaneous
 
-*   [Countries (⭐134)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
+*   [Countries (⭐138)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 
 ---
 

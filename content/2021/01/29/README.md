@@ -10,11 +10,11 @@
 
 ### Artificial Intelligence
 
-*   [oneDNN (⭐3.1k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
+*   [oneDNN (⭐3.2k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
 
 ### Machine Learning
 
-*   [oneDAL (⭐545)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+*   [oneDAL (⭐559)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 
 ## [2. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -98,13 +98,13 @@ Language: English, 中文
 
 ### Projects / Godot 3.2+
 
-*   [ProtonGraph (⭐924)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+*   [ProtonGraph (⭐1.1k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [datanymizer/datanymizer (⭐389)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
+*   [datanymizer/datanymizer (⭐407)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
 ## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -125,16 +125,16 @@ Language: English, 中文
 
 ### Plugins / Practices and Specific ES Features
 
-*   [no-constructor-bind (⭐10)](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - Encourages use of class properties by reporting use of `this` with `bind` or setting state in constructors.
+*   [no-constructor-bind (⭐11)](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - Encourages use of class properties by reporting use of `this` with `bind` or setting state in constructors.
 
 ### Plugins / Style
 
 *   [const case](https://www.npmjs.com/package/eslint-plugin-const-case) - Enforce capitalization of constant primitive literals.
-*   [editorconfig (⭐8)](https://github.com/platinumazure/eslint-plugin-editorconfig) - Derive rules from [`.editorconfig`](https://editorconfig.org/).
+*   [editorconfig (⭐10)](https://github.com/platinumazure/eslint-plugin-editorconfig) - Derive rules from [`.editorconfig`](https://editorconfig.org/).
 
 ### Tools / Testing Tools
 
-*   [generator-eslint (⭐182)](https://github.com/eslint/generator-eslint) - Generate ESLint
+*   [generator-eslint (⭐196)](https://github.com/eslint/generator-eslint) - Generate ESLint
     plugin and rules with [Yeoman](http://yeoman.io/).
 
 ## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)

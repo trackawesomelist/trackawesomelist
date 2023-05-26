@@ -60,7 +60,7 @@
 
 ### Utility / Barcode
 
-*   [ZamzamKit (⭐260)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐264)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

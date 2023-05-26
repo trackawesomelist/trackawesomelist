@@ -99,7 +99,7 @@ $ git config --global merge.tool meld
 
 ### Command Line Applications
 
-*   [tabula (⭐87)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐88)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 
@@ -107,13 +107,13 @@ $ git config --global merge.tool meld
 
 ### Utilities
 
-*   [mnemonix (⭐35)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
+*   [mnemonix (⭐36)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
-*   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐611)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
+*   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐612)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
 ## [6. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
@@ -149,7 +149,7 @@ $ git config --global merge.tool meld
 
 ### Packages / Utilities
 
-*   [Audion (⭐304)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
+*   [Audion (⭐322)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
 ---
 

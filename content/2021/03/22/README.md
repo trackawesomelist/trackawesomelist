@@ -10,25 +10,25 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nixfmt (⭐340)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nixfmt (⭐379)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 
 ### Development / Newsletters
 
-*   [nix-direnv (⭐807)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+*   [nix-direnv (⭐904)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 
 ### Programming Languages / Haskell
 
-*   [cabal2nix (⭐317)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐467)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [cabal2nix (⭐328)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+*   [haskell.nix (⭐480)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Programming Languages / Python
 
-*   [mach-nix (⭐710)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
-*   [pypi2nix (⭐188)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
+*   [mach-nix (⭐743)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
+*   [pypi2nix (⭐189)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
 ### Overlays / Webinterface
 
-*   [awesome-nix-hpc (⭐43)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
+*   [awesome-nix-hpc (⭐44)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
 
 ## [2. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -64,7 +64,7 @@
 
 ### GTFS Libraries / PostgreSQL
 
-*   [gtfs-via-postgres (⭐42)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
+*   [gtfs-via-postgres (⭐45)](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
 ### Other multimodal data formats / Ruby
 
@@ -112,23 +112,19 @@
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐174)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐173)](https://github.com/change/linguist) - Elixir Internationalization library.
 
-## [12. Awesome React](/content/enaqx/awesome-react/README.md)
+## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
-### React Tutorials / React Interview Questions
+### Table of Contents / Streaming Engine
 
-*   [React Coding Challenges (⭐2.5k)](https://github.com/alexgurr/react-coding-challenges/)
+*   [HStreamDB (⭐609)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
+*   [Kuiper (⭐991)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
 ## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
-### Software / Frameworks
-
-*   [HStreamDB (⭐590)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
-
 ### Software / Middlewares
 
-*   [Kuiper (⭐910)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run on all kinds of resource-constrained edge devices.
 *   [NanoMQ (⭐738)](https://github.com/nanomq/nanomq) - A lightweight and Blazing-fast MQTT Broker for IoT Edge platform.
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)

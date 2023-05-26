@@ -84,21 +84,21 @@
 
 ### Open Source Repos / CloudFormation
 
-*   [envato/stack\_master :fire::fire: (⭐278)](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
+*   [envato/stack\_master :fire::fire: (⭐283)](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 
 ## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Algorithms and Data Structures
 
-*   [Decompress (⭐105)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐44)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
-*   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
+*   [Decompress (⭐112)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
+*   [Ke (⭐48)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Duff (⭐22)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Notable (⭐21k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
+*   [Notable (⭐22k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
 
 ### Articles / Other
 

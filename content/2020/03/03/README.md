@@ -19,7 +19,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [DataFormsJS JSX Loader (⭐161)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+*   [DataFormsJS JSX Loader (⭐163)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 
 ## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Extensions
 
-*   [Next universal language detector (⭐70)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
+*   [Next universal language detector (⭐74)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
 ## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Contents / Components
 
-*   [MU Forms (⭐56)](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for (P)React.
+*   [MU Forms (⭐57)](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for (P)React.
 
 ## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -72,17 +72,17 @@
 
 ### Community Extensions
 
-*   [Keycloak Discord Support (⭐76)](https://github.com/wadahiro/keycloak-discord)
+*   [Keycloak Discord Support (⭐85)](https://github.com/wadahiro/keycloak-discord)
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Gitify (⭐3.9k)](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
+*   [Gitify (⭐4k)](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
 
 ### For Electron / Other
 
-*   [electronegativity (⭐833)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
+*   [electronegativity (⭐860)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
 ## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -103,13 +103,13 @@
 
 ### Audio Related Packages / Web Audio
 
-*   [TimeSide (Beta) (⭐333)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐333)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
+*   [TimeSide (Beta) (⭐347)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐347)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Frameworks / Other
 
-*   [DataFormsJS (⭐156)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
+*   [DataFormsJS (⭐163)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 
 ---
 

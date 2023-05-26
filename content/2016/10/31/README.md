@@ -22,7 +22,7 @@
 
 ### Contents / High-Availability
 
-*   [BDR (⭐349)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
+*   [BDR (⭐348)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 
 ### Contents / CLI
 
@@ -30,7 +30,7 @@
 
 ### Contents / Utilities
 
-*   [pgcmp (⭐36)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
+*   [pgcmp (⭐38)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -94,7 +94,7 @@ git blame -L <start>,<end>
 
 ### Third Party APIs
 
-*   [sift\_ex (⭐14)](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
+*   [sift\_ex (⭐13)](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

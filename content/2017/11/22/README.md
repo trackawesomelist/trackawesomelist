@@ -22,17 +22,17 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Misc
 
-*   [XcodeGen (⭐5.9k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
+*   [XcodeGen (⭐6.1k)](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ### Events
 
-*   [VueFlux (⭐327)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
+*   [VueFlux (⭐328)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Configuration
 
-*   [habitat (⭐75)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
+*   [habitat (⭐80)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
 
 ### Web Frameworks
 
@@ -42,7 +42,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Mathematics
 
-*   [AutoDiff (⭐76)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
+*   [AutoDiff (⭐80)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -58,7 +58,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 ### Contents / Components
 
-*   [Preact Fluid (⭐178)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
+*   [Preact Fluid (⭐183)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
 
 ## [7. Bots](/content/hackerkid/bots/README.md)
 

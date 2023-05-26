@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 30, 2018
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,11 +18,11 @@
 
 ### Database
 
-*   [Realm Xamarin (⭐1.1k)](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - <https://realm.io/docs/dotnet/latest/>
+*   [Realm Xamarin (⭐1.2k)](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - <https://realm.io/docs/dotnet/latest/>
 
 ### GIS
 
-*   [CoordinateSharp (⭐282)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+*   [CoordinateSharp (⭐295)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
 
 ### IDE
 
@@ -107,9 +107,13 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
 
+### Endpoint / Mobile / Android / iOS
+
+*   [Themis (⭐1.7k)](https://github.com/cossacklabs/themis) - High-level multi-platform cryptographic framework for protecting sensitive data: secure messaging with forward secrecy and secure data storage (AES256GCM), suits for building end-to-end encrypted applications.
+
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Crypto Papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
+*   [Awesome Crypto Papers (⭐1.5k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
 ## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -118,31 +122,25 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   [DOMPurify (⭐9.8k)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
 
-## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
-
-### Security / Other
-
-*   [Themis (⭐1.7k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
-
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Other lists / Hash functions
 
 *   [Awesome crypto-papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Video Production
 
 *   [MOS-connection (⭐13)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
-## [13. Typography](/content/deanhume/typography/README.md)
+## [12. Typography](/content/deanhume/typography/README.md)
 
 ### Web Fonts & Web Performance
 
 *   [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 
-## [14. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [13. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### Types of QA
 

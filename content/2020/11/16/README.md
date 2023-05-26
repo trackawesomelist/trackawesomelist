@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2020
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [apex/apex  (⭐25)](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
+*   [apex/apex  (⭐27)](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
 
 ## [2. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -28,17 +28,17 @@
 
 ### Plugins
 
-*   [tmux-bitwarden (⭐22)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+*   [tmux-bitwarden (⭐24)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
-*   [kaolin (⭐3.4k)](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research.
+*   [kaolin (⭐3.7k)](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research.
 
 ### Network and Middleware / Sensor and Acuator Interfaces
 
-*   [blickfeld-scanner-lib (⭐15)](https://github.com/Blickfeld/blickfeld-scanner-lib) - Cross-platform library to communicate with LiDAR devices of the Blickfeld GmbH.
+*   [blickfeld-scanner-lib (⭐17)](https://github.com/Blickfeld/blickfeld-scanner-lib) - Cross-platform library to communicate with LiDAR devices of the Blickfeld GmbH.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -50,25 +50,25 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-svg-sprite (⭐59)](https://github.com/thierrymichel/vue-svg-sprite) - A plugin, component or directive to simply use SVG sprite (vue 3.x, vue 2.x).
+*   [vue-svg-sprite (⭐58)](https://github.com/thierrymichel/vue-svg-sprite) - A plugin, component or directive to simply use SVG sprite (vue 3.x, vue 2.x).
 
 ## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [Beatrix (⭐28)](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
+*   [Beatrix (⭐33)](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Games
 
-*   [AsteroidsWasm (⭐135)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
+*   [AsteroidsWasm (⭐137)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 
 ## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Image Optimizers / Meetups
 
-*   [Optimizt (⭐815)](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
+*   [Optimizt (⭐839)](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
 
 ## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -82,13 +82,7 @@
 
 *   [Ruby neural networks](https://www.honeybadger.io/blog/ruby-neural-networks/)
 
-## [13. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Frameworks
-
-*   [aleph.js (⭐4.9k)](https://github.com/alephjs/aleph.js) - The React Framework in Deno
-
-## [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [13. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
@@ -106,13 +100,13 @@
 
 *   [Pointcloudprinter :octocat: (⭐141)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 
-## [15. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [14. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Learning / Switzerland
 
-*   [Local Linkages](https://locallinkages.org/) - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
+*   [Local Linkages](https://locallinkages.org/) - Professional development curriculum to introduce to historical research methods and digital history skills.
 
-## [16. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [15. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Forms / Normal Forms
 

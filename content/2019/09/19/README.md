@@ -65,13 +65,13 @@
 
 ### Testing Frameworks / Runner
 
-*   [puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
+*   [puppeteer (⭐83k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 
 ## [4. Bots](/content/hackerkid/bots/README.md)
 
 ### Telegram
 
-*   [PHP (⭐3.3k)](https://github.com/php-telegram-bot/core)
+*   [PHP (⭐3.5k)](https://github.com/php-telegram-bot/core)
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Open Source Repos / Redshift
 
-*   [aws-lambda-redshift-loader :fire::fire::fire: (⭐591)](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
+*   [aws-lambda-redshift-loader :fire::fire::fire: (⭐593)](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
 
 ---
 

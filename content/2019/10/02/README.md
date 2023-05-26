@@ -244,7 +244,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Boilerplates
 
-*   [nextjs-mongodb-app (⭐1.3k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
+*   [nextjs-mongodb-app (⭐1.4k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
 ## [17. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 

@@ -44,17 +44,17 @@
     *   "Keeping Important Code Alive" ([slides](https://speakerdeck.com/indexzero/keeping-important-code-alive-seattlejs-march-2015))
     *   "Modernizing winston for node\@4" ([video](https://www.youtube.com/watch?v=uPw7QIx3JZM), [slides](https://speakerdeck.com/indexzero/modernizing-winston-for-node-at-4))
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
-### Kotlin / Vue.js
+### Python / Trading & Backtesting
 
-*   [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
+*   [PyPortfolioOpt (⭐3.5k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
-*   [raylib (⭐12k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+*   [raylib (⭐13k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
 ## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 

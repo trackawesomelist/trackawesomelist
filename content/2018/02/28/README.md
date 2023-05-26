@@ -10,7 +10,7 @@
 
 ### Programming fonts / Fonts
 
-*   [Lab Mono (⭐122)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+*   [Lab Mono (⭐121)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
 
 ## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -50,9 +50,9 @@
 
 ### Built-in Classes Enhancement
 
-*   [attrs (⭐4.6k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
-*   [bidict (⭐1.2k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
-*   [Box (⭐2.1k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
+*   [attrs (⭐4.7k)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+*   [bidict (⭐1.3k)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
+*   [Box (⭐2.2k)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
 
 ### Database Drivers
 

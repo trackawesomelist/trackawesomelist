@@ -10,13 +10,13 @@
 
 ### QA Tools / Runner
 
-*   [JS-Beautifier (⭐7.9k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
+*   [JS-Beautifier (⭐8.1k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### .NET / General-Purpose Machine Learning
 
-*   [MxNet.Sharp (⭐139)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
+*   [MxNet.Sharp (⭐141)](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. <https://mxnet.tech-quantum.com/>
 
 ## [3. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -28,11 +28,11 @@
 
 ### Community Extensions
 
-*   [zonaut/keycloak-extensions (⭐173)](https://github.com/zonaut/keycloak-extensions)
+*   [zonaut/keycloak-extensions (⭐181)](https://github.com/zonaut/keycloak-extensions)
 
 ### Integrations
 
-*   [python-keycloak (⭐490)](https://github.com/marcospereirampj/python-keycloak)
+*   [python-keycloak (⭐529)](https://github.com/marcospereirampj/python-keycloak)
 
 ### Themes
 
@@ -66,7 +66,7 @@
 ### Contents / Utilities
 
 *   [pg\_docs\_bot (⭐16)](https://github.com/mchristofides/pg_docs_bot/) - Browser extension to redirect PostgreSQL docs links to the current version.
-*   [pg-differ (⭐34)](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
+*   [pg-differ (⭐37)](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
 
 ### Resources / Blogs
 
@@ -158,7 +158,7 @@
 
 ### Just for Fun / Image Conversion
 
-*   [ricksay (⭐43)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+*   [ricksay (⭐50)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

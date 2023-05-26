@@ -16,7 +16,7 @@
 
 ### Languages
 
-*   [Vigil (⭐2.6k)](https://github.com/munificent/vigil) - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
+*   [Vigil (⭐2.7k)](https://github.com/munificent/vigil) - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
 
 ## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 

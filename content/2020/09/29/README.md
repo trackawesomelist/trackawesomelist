@@ -37,7 +37,7 @@
 
 ### Contents / Components
 
-*   [Pant (⭐18)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐20k)](https://github.com/youzan/vant).
+*   [Pant (⭐25)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐21k)](https://github.com/youzan/vant).
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐641)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐695)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -185,13 +185,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-scroll-picker (⭐19)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+*   [vue3-scroll-picker (⭐20)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
 ## [18. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Open Source / Community
 
-*   [TroisJS (⭐3.2k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
+*   [TroisJS (⭐3.5k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 
 ## [19. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 

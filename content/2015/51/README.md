@@ -32,13 +32,13 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Web Hacking (⭐4.3k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
+*   [Awesome Web Hacking (⭐4.8k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Go SDK
 
-*   [Repo :fire::fire::fire::fire::fire: (⭐8.2k)](https://github.com/aws/aws-sdk-go)
+*   [Repo :fire::fire::fire::fire::fire: (⭐8.3k)](https://github.com/aws/aws-sdk-go)
 
 ### Open Source Repos / Lambda
 
@@ -46,15 +46,15 @@
 
 ### Open Source Repos / S3
 
-*   [pgherveou/gulp-awspublish :fire::fire: (⭐399)](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
+*   [pgherveou/gulp-awspublish :fire::fire: (⭐397)](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 
 ### Open Source Repos / DevOps
 
-*   [chef-cookbooks/aws :fire::fire: (⭐552)](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
+*   [chef-cookbooks/aws :fire::fire: (⭐556)](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
 
 ### Open Source Repos / Security
 
-*   [sebsto/AWSVPN :fire: (⭐178)](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
+*   [sebsto/AWSVPN :fire: (⭐180)](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 
 ### Open Source Repos / Miscellaneous Repos
 
@@ -75,7 +75,7 @@
 
 ### XML
 
-*   [TinyXML++ (⭐91)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
+*   [TinyXML++ (⭐92)](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. \[MIT]
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -108,21 +108,21 @@
 ### Development / Frontend Development
 
 *   [strip-css-comments-cli (⭐36)](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
-*   [viewport-list-cli (⭐53)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
+*   [viewport-list-cli (⭐55)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 
 ### Files and Directories / Deleting, Copying, and Renaming
 
-*   [trash-cli (⭐1.1k)](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
-*   [empty-trash-cli (⭐113)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
+*   [trash-cli (⭐1.2k)](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
+*   [empty-trash-cli (⭐118)](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 
 ### Files and Directories / Directory Navigation
 
-*   [pm (⭐173)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
+*   [pm (⭐178)](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 *   [z (⭐15k)](https://github.com/rupa/z) - z is the new j, yo.
 
 ### Images / Gif Creation
 
-*   [gifsicle (⭐3.2k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+*   [gifsicle (⭐3.3k)](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 *   [ttygif (⭐3.8k)](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
 *   [ttygif (⭐261)](https://github.com/sugyan/ttygif) - ttyrec to gif.
 
@@ -162,7 +162,7 @@
 
 ### Cloud
 
-*   [browse-everything (⭐108)](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
+*   [browse-everything (⭐109)](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 
 ## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -261,7 +261,7 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Python / Computer Vision
 
-*   [Scikit-Image (⭐5.2k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
+*   [Scikit-Image (⭐5.4k)](https://github.com/scikit-image/scikit-image) - A collection of algorithms for image processing in Python.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -338,35 +338,78 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [Rest for Haskell (⭐387)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [28. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [28. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 
-### Haxe / Spock Framework
+### 0 - 言語非依存 / グラフィックスプログラミング
 
-*   [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
+*   [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 
-### iOS / Bootstrap
+### 0 - 言語非依存 / その他の話題
 
-*   [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
+*   [青木靖 翻訳集](http://www.aoky.net) - 青木靖
 
-### LaTeX / TeX / TeX
+### 0 - 言語非依存 / 正規表現
 
-*   [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) - Christian Feursänger (PDF)
-*   [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
+*   [正規表現メモ](http://www.kt.rim.or.jp/~kbk/regex/regex.html) - 木村浩一
 
-### Lisp / TeX
+### Android / 理論計算機科学
 
-*   [Common Lisp Quick Reference](http://clqr.boundp.org)
-*   [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
+*   [Android Open Text book (⭐255)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
+*   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 
-### Python / Constraint Logic Programming (extended Prolog)
+### AppleScript / 理論計算機科学
 
-*   [Learn Python, Break Python](http://learnpythonbreakpython.com)
-*   [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
-*   [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
+*   [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
 
-### Ruby / Sinatra
+### AWK / 理論計算機科学
 
-*   [Sinatra Book (⭐659)](https://github.com/sinatra/sinatra-book)
+*   [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
+
+### C / 理論計算機科学
+
+*   [C言語](https://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
+
+### C++ / 理論計算機科学
+
+*   [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
+
+### Git / 理論計算機科学
+
+*   [デザイナのための Git (⭐227)](https://github.com/hatena/Git-for-Designers) - はてな教科書
+
+### JavaScript / Spock Framework
+
+*   [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
+*   [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
+
+### JavaScript / Node.js
+
+*   [node.js 怒濤の50サンプル!! – socket.io編 (⭐23)](https://github.com/omatoro/NodeSample) - omatoro
+
+### Mercurial / Svelte
+
+*   [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
+
+### Objective-C / Svelte
+
+*   [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
+
+### PHP / Svelte
+
+*   [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
+
+### Python / Symfony
+
+*   [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
+
+### R / Flask
+
+*   [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
+
+### Scheme / Flask
+
+*   [Gauche プログラミング(立読み版)](https://web.archive.org/web/20140521224625/http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
+*   [Scheme 入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
 
 ## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -453,7 +496,7 @@ git update-index --no-assume-unchanged <file_name>
 
 ### Alert / Barcode
 
-*   [GSMessage (⭐704)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
+*   [GSMessage (⭐705)](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 
 ---
 

@@ -124,7 +124,7 @@
 
 ### Data Visualization / Runner
 
-*   [three.js (⭐87k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+*   [three.js (⭐91k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 ### Color / Runner
 
@@ -132,8 +132,8 @@
 
 ### Security / Runner
 
-*   [DOMPurify (⭐10k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
-*   [js-xss (⭐4.8k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+*   [DOMPurify (⭐11k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+*   [js-xss (⭐4.9k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ### Loading Status / Runner
 
@@ -152,14 +152,14 @@
 ### Animations / Other
 
 *   [velocity (⭐17k)](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
-*   [jquery.transit (⭐7.4k)](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
+*   [jquery.transit (⭐7.3k)](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 
 ### Podcasts / Other
 
-*   [emijrp/awesome-awesome (⭐2.3k)](https://github.com/emijrp/awesome-awesome)
+*   [emijrp/awesome-awesome (⭐2.4k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐229k)](https://github.com/sindresorhus/awesome)
-*   [jnv/list (⭐8.6k)](https://github.com/jnv/lists)
+*   [sindresorhus/awesome (⭐251k)](https://github.com/sindresorhus/awesome)
+*   [jnv/list (⭐8.9k)](https://github.com/jnv/lists)
 
 ---
 

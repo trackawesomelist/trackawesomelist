@@ -67,8 +67,8 @@
 
 ### Editor Plugins
 
-*   [vim-cljfmt (Vim) (⭐147)](https://github.com/venantius/vim-cljfmt)
-*   [vim-eastwood (Vim) (⭐84)](https://github.com/venantius/vim-eastwood)
+*   [vim-cljfmt (Vim) (⭐152)](https://github.com/venantius/vim-cljfmt)
+*   [vim-eastwood (Vim) (⭐85)](https://github.com/venantius/vim-eastwood)
 
 ## [9. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -109,7 +109,7 @@
 ### Supported Distributions / Fedora Remix for WSL
 
 *   [Fedora Remix for WSL Homepage](https://www.whitewaterfoundry.com/fedora-remix-for-wsl/)
-*   [Fedora Remix for WSL GitHub (⭐487)](https://github.com/WhitewaterFoundry/WSLFedoraRemix) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Fedora Remix for WSL GitHub (⭐546)](https://github.com/WhitewaterFoundry/WSLFedoraRemix) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Supported Distributions / Pengwin Enterprise
 

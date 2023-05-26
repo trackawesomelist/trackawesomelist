@@ -10,7 +10,7 @@
 
 ### Webpack / Components
 
-*   [Angular Webpack Tour of Heroes from michaelbazos (⭐3)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
+*   [Angular Webpack Tour of Heroes from michaelbazos (⭐5)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 
 ### TypeScript Seed Projects / Components
 
@@ -30,7 +30,7 @@
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [TruFont (⭐426)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+*   [TruFont (⭐437)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Network / Barcode
 
-*   [SolarNetwork (⭐100)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
+*   [SolarNetwork (⭐103)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
 ## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

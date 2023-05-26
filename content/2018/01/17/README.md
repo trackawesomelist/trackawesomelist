@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐769)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐781)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Detection and Hunting (⭐2.4k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+*   [Awesome Threat Detection and Hunting (⭐2.7k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
 ---
 

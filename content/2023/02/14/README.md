@@ -10,7 +10,7 @@
 
 ### Applications / Productivity
 
-*   [illacloud/illa (⭐119)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
+*   [illacloud/illa (⭐145)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
 
 ## [2. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Related Awesome Lists / Galleries
 
-*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐31)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐53)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -85,17 +85,17 @@
 
 ### DevOps / MIT
 
-*   [powerjoular (⭐20)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [powerjoular (⭐24)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [audioFlux (⭐106)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
+*   [audioFlux (⭐1.7k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
 
 ### JSON
 
-*   [jsonParse (⭐6)](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. \[MIT]
+*   [jsonParse (⭐8)](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. \[MIT]
 
 ## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -110,13 +110,6 @@
     *   [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### .NET Community Standup - Blazor United in .NET 8 (February 14, 2023).
-
-*   The Blazor team shares early thoughts on Blazor United in .NET 8, an effort to create a single unified model for all your web UI scenarios that combines the best of Razor Pages, Blazor Server, and Blazor WebAssembly.
-*   With Steve Sanderson, Dan Roth, Mackinnon Buck, Javier Calvarro Nelson, Jon Galloway.
-*   10:00 AM Pacific | 18:00 UTC
-*   [live.dot.net](https://live.dot.net)
 
 ### Videos / Others
 

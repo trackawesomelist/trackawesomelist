@@ -2,9 +2,29 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 443 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 466 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [May 08 - May 14, 2023](/content/2023/19/README.md)
+
+### GEO
+
+*   [PlaceKit](https://placekit.io/) - Locations search API.
+
+### Messaging
+
+*   [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
+
+### Misc
+
+*   [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
+
+## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
+
+### Mail
+
+*   [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 

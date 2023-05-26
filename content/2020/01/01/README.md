@@ -22,13 +22,19 @@
 
 *   [restSQL (⭐132)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### CLI
+
+*   [tabulate (⭐1.6k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
+
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
 *   [jasper (⭐402)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
 
-## [4. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [5. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Books / Books for Mathematics
 
@@ -60,7 +66,7 @@
 
 
 
-## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / C companies
 
@@ -82,21 +88,11 @@
 
 *   React <https://reactjs.org/blog/>
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### CLI
-
-*   [tabulate (⭐1.5k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ \[MIT]
-
-### Integrated Development Environment
-
-*   [Microsoft Visual Studio Code](https://code.visualstudio.com/) :zap: - An open-source IDE from Microsoft. \[MIT]
-
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Route 53
 
-*   [route53-infima :fire::fire: (⭐322)](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
+*   [route53-infima :fire::fire: (⭐326)](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
 
 ---
 

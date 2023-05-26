@@ -82,7 +82,7 @@ Topics: WebAPI, Microservices, JavaScript\
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/\~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
+*   [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
 
 ## [11. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 

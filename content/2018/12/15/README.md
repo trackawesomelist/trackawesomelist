@@ -16,7 +16,7 @@
 
 ### Types / Playground
 
-*   [ts-essentials (⭐2.9k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
+*   [ts-essentials (⭐3.1k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -139,12 +139,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-hotel-datepicker (⭐779)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
+*   [vue-hotel-datepicker (⭐794)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
 *   [vue2-persian-datepicker (⭐101)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-sync (⭐27)](https://github.com/metawin-m/vue-scroll-sync) - A component that synchronizes containers’ scroll positions
+*   [vue-scroll-sync (⭐28)](https://github.com/metawin-m/vue-scroll-sync) - A component that synchronizes containers’ scroll positions
 
 ## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -175,7 +175,7 @@
 
 ### Platforms
 
-*   [Flutter (⭐46k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+*   [Flutter (⭐47k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 
 ## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -183,7 +183,7 @@
 
 *   🔌 [React Native Firebase Cloud Messaging (⭐1.7k)](https://github.com/evollu/react-native-fcm) -
     React Native module for Firebase Cloud Messaging and local notification.
-*   💡 [Flutter Calendar App (⭐75)](https://github.com/mattgraham1/FlutterCalendar) -
+*   💡 [Flutter Calendar App (⭐76)](https://github.com/mattgraham1/FlutterCalendar) -
     New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 
 ## [13. Awesome D3](/content/wbkd/awesome-d3/README.md)

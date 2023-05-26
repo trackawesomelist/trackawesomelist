@@ -10,7 +10,7 @@
 
 ### Communications / MDNS
 
-*   [micropython-mdns (⭐37)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
+*   [micropython-mdns (⭐38)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐48)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐50)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Others
 
-*   [Blazor Weather (⭐233)](https://github.com/danroth27/BlazorWeather) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=86400) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
+*   [Blazor Weather (⭐234)](https://github.com/danroth27/BlazorWeather) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=86400) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
 
 ## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-material-admin (⭐275)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
+*   [django-material-admin (⭐290)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 
 ## [11. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 

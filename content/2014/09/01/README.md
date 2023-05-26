@@ -10,7 +10,7 @@
 
 ### Debugging
 
-*   [prone (⭐504)](https://github.com/magnars/prone)
+*   [prone (⭐510)](https://github.com/magnars/prone)
 
 ### Guides
 

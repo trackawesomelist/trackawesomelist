@@ -10,7 +10,7 @@
 
 ### Templating Engines / Runner
 
-*   [marko (⭐12k)](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
+*   [marko (⭐13k)](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -28,10 +28,10 @@
 
 ### Testing
 
-*   [Machine.Specifications (⭐852)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
-*   [Moq (⭐5.1k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
+*   [Machine.Specifications (⭐864)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
+*   [Moq (⭐5.2k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
 *   [NBuilder (⭐52)](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
-*   [Rhino Mocks (⭐253)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
+*   [Rhino Mocks (⭐255)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -56,9 +56,9 @@
 ### Scientific
 
 *   Data analysis/structures
-    *   [daru (⭐973)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
-    *   [Daru::View (⭐85)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐361)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+    *   [daru (⭐978)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
+    *   [Daru::View (⭐86)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+    *   [Rgl (⭐362)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

@@ -16,7 +16,7 @@
 
 ### IDE
 
-*   [Yasnippet (⭐2.5k)](https://github.com/capitaomorte/yasnippet) A template system for Emacs.
+*   [Yasnippet (⭐2.6k)](https://github.com/capitaomorte/yasnippet) A template system for Emacs.
 
 ## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -244,7 +244,7 @@
 ### Packages / Weird
 
 *   [cat-names (⭐262)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
-*   [dog-names (⭐124)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
+*   [dog-names (⭐125)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
 ## [8. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
@@ -433,21 +433,21 @@
 
 ### Money
 
-*   [Monetize (⭐360)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐368)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ### ORM/ODM Extensions
 
 *   Import
     *   [ActiveRecord Import (⭐3.8k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
     *   [bulk\_insert (⭐820)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
-    *   [data\_miner (⭐300)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
-    *   [ferry (⭐245)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
+    *   [data\_miner (⭐299)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
+    *   [ferry (⭐246)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
 ## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Markdown
 
-*   [Markdown (⭐84)](https://github.com/devinus/markdown) - Implemented entirely as a NIF binding to the Hoedown library.
+*   [Markdown (⭐86)](https://github.com/devinus/markdown) - Implemented entirely as a NIF binding to the Hoedown library.
 
 ### Websites
 

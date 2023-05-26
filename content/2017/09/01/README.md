@@ -1,24 +1,18 @@
 # Awesome List Updates on Sep 01, 2017
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### PowerShell / Zend
-
-*   [Mastering PowerShell v2](http://community.idera.com/powershell/powertips/b/ebookv2#pi619PostSortOrder=Ascending)
-
-## [2. Jstips](/content/loverajoel/jstips/README.md)
+## [1. Jstips](/content/loverajoel/jstips/README.md)
 
 ### Support the community / Let’s keep in touch
 
 *   73 - [Hash maps without side effects](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Plotting / Third-party APIs
 
@@ -26,17 +20,17 @@
     lispy, structure-less Gnuplot library. With its
     [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL](http://opensource.franz.com/preamble.html)
 
-## [4. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [3. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### LG webOS / Other
 
 *   [Identification of LG TV models 2011-2017](http://en.tab-tv.com/?page_id=7111) - How to get screen size, matrix type, year of development, series and ohter parameters from LG TV model name.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Authentication
 
-*   [SpotifyLogin (⭐345)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
+*   [SpotifyLogin (⭐344)](https://github.com/spotify/SpotifyLogin) - Authenticate with the Spotify API.
 
 ---
 

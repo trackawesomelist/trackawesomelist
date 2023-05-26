@@ -51,7 +51,7 @@
 
 ### Open Source / Other
 
-*   [Nuclear (⭐9.8k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐10k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### Community / Other
 
@@ -80,7 +80,7 @@
 
 ### Packages / MIDI
 
-*   [JZZ (⭐408)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
+*   [JZZ (⭐443)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
 *   [JZZ-midi-Gear (⭐11)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
 ## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)

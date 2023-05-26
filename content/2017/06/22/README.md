@@ -16,7 +16,7 @@
 
 ### Plugins / Misc
 
-*   [Notice (⭐22)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
+*   [Notice (⭐23)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -50,33 +50,33 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollactive (⭐538)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
+*   [vue-scrollactive (⭐537)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Analytics
 
-*   [Umbrella (⭐604)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐607)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
-*   [SwiftyXML (⭐99)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
+*   [SwiftyXML (⭐98)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐816)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐819)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Text / Barcode
 
-*   [MarkdownView (⭐1.8k)](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
+*   [MarkdownView (⭐1.9k)](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 
 ### Menu / Barcode
 
-*   [KWDrawerController (⭐157)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
+*   [KWDrawerController (⭐156)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 
 ### Template / Barcode
 
-*   [SwiftCssParser (⭐273)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐277)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
@@ -86,7 +86,7 @@
 
 ### Foundations of Mathematics / Surreal Numbers
 
-*   [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/\~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
+*   [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
 *   [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 *   [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25 - May 01, 2022
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### NixOS Modules / Scala
 
-*   [Stylix (⭐138)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+*   [Stylix (⭐201)](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -41,13 +41,13 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Final Fantasy Adventure (⭐13)](https://github.com/daid/FFA-disassembly)
+*   [Final Fantasy Adventure (⭐14)](https://github.com/daid/FFA-disassembly)
 
 ## [7. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Tutorials / Getting Started
 
-*   [Scene2D.UI From the Ground Up (⭐362)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+*   [Scene2D.UI From the Ground Up (⭐368)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
 
 ### Tutorials / Advanced
 
@@ -102,7 +102,7 @@
 
 ### Software / Search Engines
 
-*   [Searx](https://searx.github.io/searx/) - Privacy-respecting, hackable metasearch engine. ([Demo](https://searx.space/), [Source Code (⭐13k)](https://github.com/searx/searx)) `AGPL-3.0` `Python`
+*   [Searx](https://searx.github.io/searx/) `⚠` - Privacy-respecting, hackable metasearch engine. ([Demo](https://searx.space/), [Source Code (⭐13k)](https://github.com/searx/searx)) `AGPL-3.0` `Python`
 
 ### Anti-features / Wikis
 
@@ -157,12 +157,12 @@
 
 ### Tools / Vendor supported providers
 
-*   [terraform-docs (⭐3.3k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
-*   [terrascan (⭐3.9k)](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
-*   [tfaction (⭐165)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
-*   [tfsec (⭐5.6k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
-*   [tflint (⭐3.7k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
-*   [validIaC (⭐183)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
+*   [terraform-docs (⭐3.5k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
+*   [terrascan (⭐4k)](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+*   [tfaction (⭐177)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+*   [tfsec (⭐5.9k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+*   [tflint (⭐3.9k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+*   [validIaC (⭐198)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 
 ## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -205,7 +205,7 @@
 ### Archives and primary sources / North America
 
 *   [Digital Public Library of America](https://dp.la/) - Discovery tool, or union catalog, for public domain and openly licensed content held by the United States' archives, libraries, museums, and other cultural heritage institutions.
-*   [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - An International LGBTQ+ Linked Data Vocabulary.
+*   [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - Wide range of trans-related digitized historical materials, born-digital materials, and information on archival holdings throughout the world.
 
 ### Archives and primary sources / Switzerland
 
@@ -213,23 +213,23 @@
 
 ### Learning / Switzerland
 
-*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - You will learn how to critically analyse historical conditions, developments, patterns and ruptures – or, alternatively, how to call these into question.
+*   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
 
 ## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐53)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐63)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
-*   💼🔧 [tailwindcss-webpack-plugin (⭐20)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
+*   💼🔧 [tailwindcss-webpack-plugin (⭐27)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Out-of-the-box Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
 ## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-router-webcache (⭐3)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
+*   [vue-router-webcache (⭐6)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 
 ## [22. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
@@ -302,14 +302,14 @@
 
 ### SQL / Parsers
 
-*   [SQLGlot (⭐2.8k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
+*   [SQLGlot (⭐2.9k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
 ## [28. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
-*   [ZITADEL (⭐2.5k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
-*   [a12n-server (⭐359)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
+*   [ZITADEL (⭐3.2k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+*   [a12n-server (⭐383)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
 
 ## [29. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -327,45 +327,39 @@
 
 ### End-user applications / XML
 
-*   [Inochi Creator (⭐412)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
+*   [Inochi Creator (⭐513)](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
 
-## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### V / Deno
-
-*   [V Documentation (⭐33k)](https://github.com/vlang/v/blob/HEAD/doc/docs.md) - vlang.io (Markdown)
-
-## [32. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [31. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### YouTube Channels / Services
 
 *   [EOS Nation](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g) - EOS Hot Sauce, ENF, tech, and community content.
 *   [Helios](https://www.youtube.com/c/HeliosEOSIO) - Dedicated to growing EOS, interviews and spotlights.
 
-## [33. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [32. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Starters/Boilerplates / Other external resources
 
 *   [rails\_new](https://github.com/lockstep/rails_new) - A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.
 
-## [34. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [fluidsonic/fluid-pdf (⭐15)](https://github.com/fluidsonic/fluid-pdf) - Easy PDF generation with HTML & CSS using Chromium or Google Chrome
+*   [fluidsonic/fluid-pdf (⭐16)](https://github.com/fluidsonic/fluid-pdf) - Easy PDF generation with HTML & CSS using Chromium or Google Chrome
 
-## [35. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [34. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [fastest-validator (⭐1.3k)](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms
-*   [unified-deno-lock (⭐0)](https://github.com/yooneskh/unified-deno-lock) - Powerful and simple lock (mutex) library to handle race conditions with zero dependencies
+*   [unified-deno-lock (⭐2)](https://github.com/yooneskh/unified-deno-lock) - Powerful and simple lock (mutex) library to handle race conditions with zero dependencies
 
 ### Resources in Other Languages / Darija
 
 *   [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s)
 
-## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [miniplug](https://sr.ht/~yerinalexey/miniplug)
 
@@ -374,7 +368,7 @@
 
 ### [zplug](https://github.com/zplug/zplug)
 
-*   Unlike [antigen (⭐7.5k)](https://github.com/zsh-users/antigen), no ZSH plugin files (`*.plugin.zsh`) are required
+*   Unlike [antigen (⭐7.6k)](https://github.com/zsh-users/antigen), no ZSH plugin files (`*.plugin.zsh`) are required
 
 ### [zpm](https://github.com/zpm-zsh/zpm)
 
@@ -389,16 +383,16 @@
 
 ### zgenom
 
-*   [zsh-quickstart-kit (⭐619)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐252)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐252)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
+*   [zsh-quickstart-kit (⭐640)](https://github.com/unixorn/zsh-quickstart-kit) - A simple quickstart for using ZSH with [zgenom (⭐268)](https://github.com/jandamm/zgenom). This automatically configures ZSH to use [zgenom (⭐268)](https://github.com/jandamm/zgenom) to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [git-worktrees (⭐8)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
-*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐50k)](https://github.com/junegunn/fzf).
+*   [git-worktrees (⭐7)](https://github.com/egyptianbman/zsh-git-worktrees) - Makes `git` worktrees more functional. Includes tab completions.
+*   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐52k)](https://github.com/junegunn/fzf).
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [npm-scripts-autocomplete (⭐47)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
+*   [npm-scripts-autocomplete (⭐51)](https://github.com/grigorii-zander/zsh-npm-scripts-autocomplete) - Shows autocomplete suggestions from scripts found in the current directory's `package.json`. Works with `npm` and `yarn`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -406,19 +400,19 @@
 *   [daily-emoji (⭐1)](https://github.com/huytran-wq/zsh-daily-emoji-theme/) - Shows random emoji at the beginning of each command depending on the day of the week.
 *   [igeek (⭐37)](https://github.com/Saleh7/igeek-zsh-theme) - Displays system information when starting a new terminal session.
 *   [winline (⭐2)](https://github.com/khuei/winline) - Async version of Greg Hurrell's [prompt (⭐1.1k)](https://github.com/wincent/wincent/blob/master/aspects/dotfiles/files/.zshrc). Includes decorators for `git` status, duration of last command, current directory, nested shells, root status.
-*   [zen (⭐10)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, vcs status information,
+*   [zen (⭐11)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, vcs status information,
 *   [zshify (⭐1)](https://github.com/nrjdalal/zshify) - A minimalistic, one command installation to customize your prompt. Requires [npx](https://docs.npmjs.com/getting-started/installing-npm-packages-locally).
 
-## [37. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
-*   [GoLobby/Config (⭐319)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
-*   [nfigure (⭐5)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
+*   [GoLobby/Config (⭐325)](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
+*   [nfigure (⭐6)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 
 ### Maps
 
-*   [goradd/maps (⭐15)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+*   [goradd/maps (⭐22)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -426,7 +420,7 @@
 
 ### Database Tools
 
-*   [dynago (⭐7)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
+*   [dynago (⭐8)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
 
 ### SQL Query Builders
 
@@ -434,36 +428,36 @@
 
 ### Functional
 
-*   [fp-go (⭐181)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
+*   [fp-go (⭐216)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
 
 ### Logging
 
-*   [slf4g (⭐5)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
+*   [slf4g (⭐3)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
 
 ### Microsoft Excel
 
-*   [exl (⭐15)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
+*   [exl (⭐17)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
 
 ### Dependency Injection
 
-*   [GoLobby/Container (⭐432)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
+*   [GoLobby/Container (⭐461)](https://github.com/golobby/container) - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
 
 ### Morphological Analyzers
 
-*   [govader-backend (⭐3)](https://github.com/PIMPfiction/govader_backend) - Microservice implementation of [GoVader (⭐29)](https://github.com/jonreiter/govader).
+*   [govader-backend (⭐5)](https://github.com/PIMPfiction/govader_backend) - Microservice implementation of [GoVader (⭐34)](https://github.com/jonreiter/govader).
 
 ### ORM
 
-*   [golobby/orm (⭐127)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
+*   [golobby/orm (⭐130)](https://github.com/golobby/orm) - Simple, fast, type-safe, generic orm for developer happiness.
 
 ### Query Language
 
-*   [goven (⭐45)](https://github.com/SeldonIO/goven) - A drop-in query language for any database schema.
+*   [goven (⭐51)](https://github.com/SeldonIO/goven) - A drop-in query language for any database schema.
 
 ### Parsers/Encoders/Decoders
 
 *   [encdec (⭐8)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
-*   [go-fasttld (⭐14)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
+*   [go-fasttld (⭐17)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
 
 ### Third-party APIs
 
@@ -471,7 +465,7 @@
 
 ### Web Frameworks
 
-*   [golamb (⭐3)](https://github.com/twharmon/golamb) - Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.
+*   [golamb (⭐5)](https://github.com/twharmon/golamb) - Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.
 
 ### Routers / Libraries for creating HTTP middlewares
 
@@ -479,37 +473,37 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [go-rocket-update (⭐76)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
+*   [go-rocket-update (⭐82)](https://github.com/mouuff/go-rocket-update) - A simple way to make self updating Go applications - Supports Github and Gitlab.
 
-## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   [Coc (⭐22k)](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode.
+*   [Coc (⭐23k)](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode.
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Jest (⭐41k)](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
+*   :octocat: [Jest (⭐42k)](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
 
-## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Auditing / Logging
 
 *   [Version plugin (⭐52)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 
-## [40. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [39. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / E-commerce
 
 *   [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 
-## [41. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [40. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Miscellaneous / React
 
 *   [Blendbase (⭐19)](https://github.com/blendbase/blendbase): Single open-source GraphQL API to connect CRMs to your SaaS. Query any customer CRM system (Salesforce, Hubspot and more) with a single API query from your SaaS app.
 
-## [42. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [41. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
@@ -526,11 +520,11 @@
 *   [A Mathematical Theory of Communication](http://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf) - ***The Bell System Technical Journal***, 1948. \[[All Versions](https://scholar.google.com/scholar?cluster=8313213127749369813\&hl=en\&as_sdt=0,5)]. Shannon's original paper on Information Theory.
 *   [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NeurIPS'03***, 2003. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14721764738308036578)].
 
-### Analogy / Science Education
+### Analogy / Democratization
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 
-## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -543,16 +537,16 @@
 
 ### Email
 
-*   [EmailLabs.io](https://emaillabs.io/en) — Send up to 24 000 Email for free every month.
+*   [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails per day.
 *   [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 12,000 emails/month free for transactional emails
 
-## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
-*   [FLCharts (⭐252)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
+*   [FLCharts (⭐253)](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 
-## [45. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [44. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Emulators
 
@@ -560,9 +554,9 @@
 
 ### Parser / Package managers
 
-*   [Arwalk/zig-protobuf (⭐60)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+*   [Arwalk/zig-protobuf (⭐66)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
-## [46. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [45. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / E-commerce
 
@@ -584,40 +578,40 @@
 
 *   [Consumer Financial Protection Bureau (⭐200)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 
-## [47. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [46. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Knowledge Management
 
 *   [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 
-## [48. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [47. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### GUI
 
-*   [Taos.Studio (⭐77)](https://github.com/maikebing/Taos.Studio) - A GUI tool for viewing and editing data for TDengine.
+*   [Taos.Studio (⭐80)](https://github.com/maikebing/Taos.Studio) - A GUI tool for viewing and editing data for TDengine.
 *   [balloonfish (⭐8)](https://github.com/xielaoshi99/balloonfish) - Electron + Vue3 + Vite2.0 based TDengine time-series database visualized management tool.
 *   [tdengine-client (⭐3)](https://github.com/wurong1420/tdengine-client) - A simple TDengine interface.
 
 ### IoT
 
-*   [DG-IoT (⭐257)](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
+*   [DG-IoT (⭐264)](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
 *   [dgiot\_tdengine (⭐1)](https://github.com/dgiot/dgiot_tdengine) - TDengine adapter plugin.
-*   [node-red-contrib-tdengine (⭐9)](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
+*   [node-red-contrib-tdengine (⭐10)](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
 
 ### ORM
 
 *   [sqli (⭐1.9k)](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
 *   [TDengine ORM Framework (⭐3)](https://github.com/hxshun/TDengineORM) - ORM framework of TAOS Data's time-series database TDengine.
-*   [IoTSharp.EntityFrameworkCore.Taos (⭐146)](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
-*   [tdengine-orm (⭐7)](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.<!--lint ignore awesome-list-item-->
-*   [crown (⭐33)](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
+*   [IoTSharp.EntityFrameworkCore.Taos (⭐154)](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
+*   [tdengine-orm (⭐9)](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.<!--lint ignore awesome-list-item-->
+*   [crown (⭐34)](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 
 ### Connector
 
-*   [PDO\_TAOS (⭐39)](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
+*   [PDO\_TAOS (⭐40)](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
 *   [yii2-tdengine (⭐0)](https://github.com/bearlord/yii2-tdengine) - TDengine for yii2, pdo\_taos needed.
-*   [php-tdengine (⭐62)](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole.
-*   [tdengine-restful-connector (⭐13)](https://github.com/Yurunsoft/tdengine-restful-connector) - PHP extension of TDengine, support Swoole.
+*   [php-tdengine (⭐64)](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole.
+*   [tdengine-restful-connector (⭐14)](https://github.com/Yurunsoft/tdengine-restful-connector) - PHP extension of TDengine, support Swoole.
 *   [imi-tdengine (⭐4)](https://github.com/imiphp/imi-tdengine) - Encapsulated TDengine connection pools, used in imi framework.
 *   [pytaos (⭐2)](https://github.com/horennel/pytaos) - Python RESTful API of TDengine.
 *   [NestJS TDengine Driver (⭐2)](https://github.com/IricBing/nestjs-tdengine) - NestJS TDengine Driver(RESTful based).
@@ -628,7 +622,7 @@
 ### Stack
 
 *   [NewLife.Core (⭐1.6k)](https://github.com/NewLifeX/X) - NewLife.Core Database core.
-*   [NewLife.XCode (⭐28)](https://github.com/NewLifeX/NewLife.XCode) - NewLife.XCode Database Middle-ware.
+*   [NewLife.XCode (⭐34)](https://github.com/NewLifeX/NewLife.XCode) - NewLife.XCode Database Middle-ware.
 
 ### Plugin
 
@@ -655,15 +649,15 @@
 
 *   [auto\_taos\_cfg (⭐0)](https://github.com/glzhao89/auto_taos_cfg) - Auto generate TDengine log/data/cfg.
 *   [Sentinel Console (⭐0)](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDengine.
-*   [Davinci (⭐4.5k)](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform.
+*   [Davinci (⭐4.6k)](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform.
 
-## [49. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [48. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript Seed Projects / Components
 
-*   [Eoapi (⭐657)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
+*   [Eoapi (⭐3.4k)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
 
-## [50. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [49. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Learning / Community Tutorials
 
@@ -671,23 +665,23 @@
 
 ### Demo apps / Case study
 
-*   [capacitor-updater-plugin-demo (⭐0)](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates.
+*   [capacitor-updater-plugin-demo (⭐1)](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates.
 
 ### Community / Case study
 
-*   [Proposal (⭐65)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+*   [Proposal (⭐67)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
-## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [shuttle (⭐1.9k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐2.6k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
 
 ### Development tools / Build system
 
 *   [Fleet (⭐2.3k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
-## [52. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [51. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Link Shorteners
 
@@ -698,46 +692,46 @@
 
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
 
-## [53. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [52. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐34)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
-*   [vue-hbs-admin (⭐93)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
-*   [vite-vue-proste (⭐10)](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
+*   [ViTauri (⭐36)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [vue-hbs-admin (⭐103)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
+*   [vite-vue-proste (⭐11)](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
 
-## [54. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Inter-process communication
 
-*   [iceoryx (⭐1.1k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
+*   [iceoryx (⭐1.2k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
 
 ### Miscellaneous
 
-*   [fccf (⭐329)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
+*   [fccf (⭐333)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
-## [55. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [54. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [junnplus/nvim-lsp-setup (⭐196)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+*   [junnplus/nvim-lsp-setup (⭐198)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐191)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐230)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Fennel / Diagnostics
 
-*   [udayvir-singh/tangerine.nvim (⭐139)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
-*   [udayvir-singh/hibiscus.nvim (⭐79)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
+*   [udayvir-singh/tangerine.nvim (⭐149)](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: Fennel integration, aims to be as fast as possible.
+*   [udayvir-singh/hibiscus.nvim (⭐85)](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐347)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐374)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ### Scrolling / Diagnostics
 
-*   [declancm/cinnamon.nvim (⭐203)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
+*   [declancm/cinnamon.nvim (⭐229)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
 
 ---
 

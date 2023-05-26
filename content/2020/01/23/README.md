@@ -11,7 +11,7 @@
 ### Python / Computer Vision
 
 *   [Detectron (⭐26k)](https://github.com/facebookresearch/Detectron) - FAIR's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. **\[Deprecated]**
-*   [Detecto (⭐584)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
+*   [Detecto (⭐589)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -29,19 +29,19 @@
 
 ### GTFS Converters / Ruby
 
-*   [onebusaway-vdv-modules (⭐11)](https://github.com/OneBusAway/onebusaway-vdv-modules) - A Java library for working with transit data in the VDV format, including converting VDV-452 schedule data into GTFS.
+*   [onebusaway-vdv-modules (⭐12)](https://github.com/OneBusAway/onebusaway-vdv-modules) - A Java library for working with transit data in the VDV format, including converting VDV-452 schedule data into GTFS.
 
 ## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### eBPF Workflow: Tools and Utilities / User Space eBPF
 
-*   [oster (⭐267)](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
+*   [oster (⭐269)](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Sublist3r (⭐7.6k)](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+*   [Sublist3r (⭐8.3k)](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 
 ## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Clients
 
-*   [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐2.8k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+*   [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source (⭐2.9k)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 
 ---
 

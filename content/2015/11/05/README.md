@@ -35,7 +35,7 @@
 
 ### Admin Interface
 
-*   [Administrate (⭐5.5k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
+*   [Administrate (⭐5.6k)](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
 
 ## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Packages / Mad science
 
-*   [ipfs (⭐7.3k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐7.4k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ### Packages / Command-line utilities
 
@@ -60,11 +60,11 @@
 
 ### Packages / Streams
 
-*   [readable-stream (⭐988)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
+*   [readable-stream (⭐996)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 
 ### Packages / Real-time
 
-*   [SocketCluster (⭐6k)](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
+*   [SocketCluster (⭐6.1k)](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 
 ### Packages / Math
 
@@ -76,7 +76,7 @@
 
 ### Packages / Compression
 
-*   [Archiver (⭐2.5k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
+*   [Archiver (⭐2.6k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 
 ### Packages / Testing
 
@@ -85,11 +85,11 @@
 ### Packages / Minifiers
 
 *   [minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier.
-*   [imagemin (⭐5.3k)](https://github.com/imagemin/imagemin) - Image minifier.
+*   [imagemin (⭐5.4k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 
-*   [n (⭐17k)](https://github.com/tj/n) - Node.js version management.
+*   [n (⭐18k)](https://github.com/tj/n) - Node.js version management.
 
 ### Packages / Process management
 

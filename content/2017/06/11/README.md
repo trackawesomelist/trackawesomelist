@@ -10,7 +10,7 @@
 
 ### Menu / Barcode
 
-*   [FanMenu (⭐714)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
+*   [FanMenu (⭐717)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
 ## [2. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
@@ -30,7 +30,7 @@
 
 ### WPF
 
-*   [Data Grid Extensions (⭐629)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
+*   [Data Grid Extensions (⭐647)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
 ## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

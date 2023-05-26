@@ -26,7 +26,7 @@
 
 ### Audio Libraries
 
-*   [Librosa (⭐5.7k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐5.8k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -38,7 +38,7 @@
 
 ### System
 
-*   [Fkill (⭐462)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
+*   [Fkill (⭐467)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

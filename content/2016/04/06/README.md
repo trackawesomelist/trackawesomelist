@@ -10,7 +10,7 @@
 
 ### Resources / Tutorials
 
-*   [Percussion Synthesis Using Web Audio (⭐32)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
+*   [Percussion Synthesis Using Web Audio (⭐31)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -52,14 +52,14 @@ git config --global --unset <entry-name>
 
 ### Laravel
 
-- Name: [Katana (⭐380)](https://github.com/themsaid/katana)
+- Name: [Katana (⭐381)](https://github.com/themsaid/katana)
 
   Description: Laravel static site/blog generator with markdown support
 
   Link: 
 
 
-- Name: [CoasterCMS (⭐393)](https://github.com/web-feet/coastercms)
+- Name: [CoasterCMS (⭐395)](https://github.com/web-feet/coastercms)
 
   Description: Coaster CMS Project
 

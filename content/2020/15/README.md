@@ -333,7 +333,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.1k)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐1.2k)](https://github.com/megadose/toutatis)
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Go / Data Analysis / Data Visualization
 
-*   [dataframe-go (⭐940)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
+*   [dataframe-go (⭐979)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 
 ## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -376,7 +376,7 @@
 
 ## [14. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
-### Datasets / Annotated Text Data
+### Annotated Text Data / Other models
 
 *   [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) - also known as CQC or the Iowa collection, these are several thousand questions posed by physicians during office visits along with the associated answers.
 *   [BioNLP ST 2013 datasets](http://2013.bionlp-st.org/) - data from six shared tasks, though some may not be easily accessible; try the CG task set (BioNLP2013CG) for extensive entity and event annotations.
@@ -488,23 +488,23 @@
 
 ### Integrations
 
-*   [jest-playwright (⭐490)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐498)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐81)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐143k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐89k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
-*   [Elastic APM JS agent (⭐251)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐202)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [playwright-jest-examples (⭐87)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐147k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐91k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [Elastic APM JS agent (⭐255)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
+*   [Blockstack (⭐236)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐15k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [23. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Navigation
 
-*   [z.lua (⭐2.6k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
-*   [zoxide (⭐9.1k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+*   [z.lua (⭐2.7k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
+*   [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
 ## [24. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -576,7 +576,7 @@
 
 ### Packages / Miscellaneous
 
-*   [husky (⭐29k)](https://github.com/typicode/husky) - Create Git hook scripts.
+*   [husky (⭐30k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
 ## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -648,38 +648,42 @@
 
 ## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
+### Security / Barcode
+
+*   [SecurePropertyStorage (⭐464)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+
 ### Converters
 
 *   [Swiftify](https://swiftify.com/#/converter/code/) - Objective-C to Swift online code converter and Xcode extension.
-*   [Zolang (⭐137)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
+*   [Zolang (⭐139)](https://github.com/Zolang/Zolang) :penguin: - A DSL for generating code in multiple programming languages.
 
 ### Patterns
 
-*   [Spin (⭐119)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
+*   [Spin (⭐120)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
 
 ### Animation
 
-*   [Elephant (⭐128)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐129)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
-*   [GitHubAPI (⭐77)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
+*   [GitHubAPI (⭐78)](https://github.com/serhii-londar/GithubAPI) - Implementation of GitHub REST API v3.
 
 ### App Routing
 
-*   [LightRoute (⭐93)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
+*   [LightRoute (⭐92)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
 ### Multi Database
 
-*   [ModelAssistant (⭐28)](https://github.com/ssamadgh/ModelAssistant) - Elegant library to manage the interactions between view and model.
+*   [ModelAssistant (⭐27)](https://github.com/ssamadgh/ModelAssistant) - Elegant library to manage the interactions between view and model.
 
 ### XML
 
-*   [XMLCoder (⭐665)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐683)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐656)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐664)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
@@ -692,7 +696,7 @@
 ### UI / Barcode
 
 *   [Material Components for iOS (⭐4.6k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap (⭐119)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [YMTreeMap (⭐123)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
@@ -700,7 +704,7 @@
 
 ### Serverless / Barcode
 
-*   [Azure Functions for Swift (⭐87)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+*   [Azure Functions for Swift (⭐88)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 ## [37. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -741,13 +745,9 @@
 
 ## [41. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
-### Security
-
-*   [SecurePropertyStorage (⭐458)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
-
 ### CSV
 
-*   [CodableCSV (⭐374)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐376)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -921,7 +921,7 @@
 
 ### CMS
 
-*   [indico (⭐1.4k)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
+*   [indico (⭐1.5k)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
 
 ### Computer Vision
 
@@ -929,16 +929,16 @@
 
 ### Distribution
 
-*   [shiv (⭐1.5k)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
+*   [shiv (⭐1.6k)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
 
 ### Functional Programming
 
-*   [Coconut (⭐3.6k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [more-itertools (⭐2.9k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+*   [Coconut (⭐3.7k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
+*   [more-itertools (⭐3k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 
 ### RPC Servers
 
-*   [RPyC (⭐1.3k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
+*   [RPyC (⭐1.4k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
 ## [48. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -962,7 +962,7 @@
 
 ### Java VM / Java
 
-*   [Dubbo (⭐38k)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
+*   [Dubbo (⭐39k)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
 
 ### Rust / Scala
 
@@ -990,7 +990,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐21)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐20)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [51. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -1002,7 +1002,7 @@
 
 ### Languages
 
-*   [78 (⭐2)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
+*   [78 (⭐3)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
 
 ## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -1012,11 +1012,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-hawesome-modal (⭐5)](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
+*   [vue-hawesome-modal (⭐6)](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐243)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐254)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
 ## [54. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -1068,13 +1068,13 @@
 
 ### JupyterLab Extensions
 
-*   [debugger (⭐548)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
+*   [debugger (⭐551)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
 ## [60. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
-*   [CyLR (⭐531)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+*   [CyLR (⭐542)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 
 ### IR Tools Collection / Other Tools
 
@@ -1082,8 +1082,8 @@
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [Invoke-LiveResponse (⭐136)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
-*   [IRTriage (⭐116)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
+*   [Invoke-LiveResponse (⭐139)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
+*   [IRTriage (⭐121)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
 
 ## [61. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 

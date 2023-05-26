@@ -10,7 +10,7 @@
 
 ### Data Validation
 
-*   [Bouncer (⭐358)](https://github.com/leonardoborges/bouncer)
+*   [Bouncer (⭐361)](https://github.com/leonardoborges/bouncer)
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

@@ -42,9 +42,9 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [Angular 2 Starter (⭐527)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
-*   [Angular 2 Leaflet Starter (⭐212)](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
-*   [Angular 2 MapboxGL Starter (⭐50)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
+*   [Angular 2 Starter (⭐526)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
+*   [Angular 2 Leaflet Starter (⭐211)](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
+*   [Angular 2 MapboxGL Starter (⭐52)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
 
 ### Babel Demo, Samples, and Examples / Components
 
@@ -75,15 +75,15 @@
 ### Module Bundlers / Playground
 
 *   [Browserify](http://browserify.org/) - CommonJS module bundler. Does not support TypeScript "out of the box", but can be applied with \* [Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
-*   [fuse-box (⭐4k)](https://github.com/fuse-box/fuse-box) | <http://fuse-box.org/> - typescript sample: [fuse-box-ts-react-reflux-seed (⭐27)](https://github.com/fuse-box/fuse-box-ts-react-reflux-seed)
+*   [fuse-box (⭐4k)](https://github.com/fuse-box/fuse-box) | <http://fuse-box.org/> - typescript sample: [fuse-box-ts-react-reflux-seed (⭐28)](https://github.com/fuse-box/fuse-box-ts-react-reflux-seed)
 
 ## [8. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   C#
-    *   [by @shkolovy (⭐25)](https://github.com/shkolovy/classic-algorithms)
-    *   [by @aalhour (⭐5.3k)](https://github.com/aalhour/C-Sharp-Algorithms)
+    *   [by @shkolovy (⭐26)](https://github.com/shkolovy/classic-algorithms)
+    *   [by @aalhour (⭐5.4k)](https://github.com/aalhour/C-Sharp-Algorithms)
     *   [by @justcoding121 (⭐1.1k)](https://github.com/justcoding121/Advanced-Algorithms)
 
 ---

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 24, 2017
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -13,28 +13,13 @@
 *   [lmdbjni (⭐201)](https://github.com/deephacks/lmdbjni) - Java API to LMDB (HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
 *   [lmdbjava (⭐673)](https://github.com/lmdbjava/lmdbjava) - Java API to LMDB (JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Linux / TeX
-
-*   [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
-*   [Understanding the Linux Virtual Memory Manager](https://www.kernel.org/doc/gorman/) - Mel Gorman (HTML, PDF)
-
-### Modelica / PicoLisp
-
-*   [Modelica by Example](http://book.xogeny.com)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
-
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### SMS and Phone calls
 
-*   [Twilio-csharp (⭐613)](https://github.com/twilio/twilio-csharp) - A C#/.NET Library for sending and receiving phone calls and text messages with Twilio.
+*   [Twilio-csharp (⭐624)](https://github.com/twilio/twilio-csharp) - A C#/.NET Library for sending and receiving phone calls and text messages with Twilio.
 
-## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Spelling and Error Correction / Constituency Parsing
 
@@ -45,7 +30,7 @@
 *   [hunspell (⭐34)](https://github.com/segabor/Hunspell) -
     Ruby bindings to [Hunspell](https://hunspell.github.io/) via Ruby C API.
 
-## [5. Tips](/content/git-tips/tips/README.md)
+## [4. Tips](/content/git-tips/tips/README.md)
 
 ## Saving current state of unstaged changes to tracked files
 
@@ -78,7 +63,7 @@ git stash --all
 git stash push --all
 ```
 
-## [6. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/README.md)
+## [5. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/README.md)
 
 ### Rotterdam
 
@@ -102,7 +87,7 @@ git stash push --all
 
 *   [CocoaHeads](https://www.meetup.com/CocoaHeadsNL/) - Monthly meetup about iOS and MacOS development.
 
-## [7. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### Object Detection
 
@@ -110,20 +95,20 @@ git stash push --all
     *   Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
     *   Joseph Redmon, Ali Farhadi (Version 2)
 
-## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [7. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Supersets
 
 *   [TOML (⭐18k)](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
 *   [HCL (⭐4.3k)](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Datasets
 
 *   [The AR Face Database](http://www2.ece.ohio-state.edu/\~aleix/ARdatabase.html) - Contains over 4,000 color images corresponding to 126 people's faces (70 men and 56 women). Frontal views with variations in facial expressions, illumination, and occlusions. (Formats: RAW (RGB 24-bit))
 
-## [10. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [9. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Editors / Markdown
 

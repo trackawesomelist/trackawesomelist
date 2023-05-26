@@ -10,7 +10,7 @@
 
 ### 2FA
 
-*   [Owky (⭐10)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
+*   [Owky (⭐17)](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
 
 ### Password Managers
 
@@ -20,13 +20,13 @@
 
 ### Libraries / Caching
 
-*   [zkat/cacache-rs (⭐211)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
+*   [zkat/cacache-rs (⭐296)](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, optimized for async APIs [![build badge](https://github.com/zkat/cacache-rs/workflows/CI/badge.svg)](https://github.com/zkat/cacache-rs/actions/workflows/ci.yml)
 
 ### Libraries / Network programming
 
 *   gRPC
-    *   [hyperium/tonic (⭐6.8k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
-    *   [tikv/grpc-rs (⭐1.7k)](https://github.com/tikv/grpc-rs) — The gRPC library for Rust built on C Core library and futures [![Build Status](https://api.travis-ci.org/tikv/grpc-rs.svg?branch=master)](https://travis-ci.org/tikv/grpc-rs)
+    *   [hyperium/tonic (⭐7.3k)](https://github.com/hyperium/tonic) — A native gRPC client & server implementation with async/await support [![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
+    *   [tikv/grpc-rs (⭐1.7k)](https://github.com/tikv/grpc-rs) — The gRPC library for Rust built on C Core library and futures
 
 ## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -50,73 +50,53 @@
 
 ### Templates / Vue 3
 
-*   [vite-plugin-vue-sfc-in-js (⭐11)](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
+*   [vite-plugin-vue-sfc-in-js (⭐20)](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
 
 ### Templates / Electron
 
-*   [vite-plugin-doubleshot (⭐34)](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
+*   [vite-plugin-doubleshot (⭐45)](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-target (⭐2)](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
+*   [vite-plugin-target (⭐3)](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-importmap (⭐1)](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
+*   [vite-plugin-importmap (⭐2)](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-preview (⭐1)](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-preview (⭐7)](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [iamcco/markdown-preview.nvim (⭐4.5k)](https://github.com/iamcco/markdown-preview.nvim) - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
+*   [iamcco/markdown-preview.nvim (⭐4.9k)](https://github.com/iamcco/markdown-preview.nvim) - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [ML\_Finance\_Codes (⭐573)](https://github.com/mfrdixon/ML_Finance_Codes) - Machine Learning in Finance: From Theory to Practice Book
+
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Frameworks
 
 *   [Flowbite](https://flowbite.com/docs/getting-started/phoenix/) - An open-source UI component library built with Tailwind CSS and compatible with Phoenix/Elixir.
 
-## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Sensors / Temperature Digital
 
 *   [micropython-zacwire (⭐0)](https://github.com/mdaeron/micropython-zacwire) - MicroPython driver for the ZACwire protocol used in TSic 506F temperature sensors.
 
-## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Other Parsing
 
-*   [NetNewsWire (⭐6.6k)](https://github.com/Ranchero-Software/NetNewsWire) - It’s a free and open-source feed reader for macOS and iOS.
-
-## [11. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-### Education & Learning
-
-- Name: [teachology.ai](https://www.teachology.ai/)
-
-  Title: A Collection of Tools for Teachers and Educators to Harness the Power of AI in Their Pedagogy and Planning.
-
-  Description: Plan Lessons - Harness AI to draft your lessons and export to your favourite formats. Build Rich Assessments - Construct rich assessments with robust rubric driven marking criteria. And more.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Video
-
-- Name: [Eightify](https://eightify.app/)
-
-  Title: Get 8 Key Ideas From YouTube Videos.
-
-  Description: ⚡️ Get instant AI-powered summaries for YouTube videos, save time, translate in 28 languages.
-
-  Offer Free Version: :white\_check\_mark:
-
-
+*   [NetNewsWire (⭐6.7k)](https://github.com/Ranchero-Software/NetNewsWire) - It’s a free and open-source feed reader for macOS and iOS.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -128,7 +108,7 @@
 
 ### Command palette
 
-*   [kbar (⭐3.8k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
+*   [kbar (⭐3.9k)](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
 ## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -140,7 +120,7 @@
 
 ### Languages / C/C++
 
-*   [unreal-algorand-sdk (⭐2)](https://github.com/Wisdom-Labs/Algorand-Unreal-Engine-SDK) - Official Unreal Engine plugin for Algorand Blockchain Platform.
+*   [unreal-algorand-sdk (⭐4)](https://github.com/Wisdom-Labs/Algorand-Unreal-Engine-SDK) - Official Unreal Engine plugin for Algorand Blockchain Platform.
 *   [cplusplus-algorand-sdk (⭐2)](https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK) - Algorand C++ SDK: This repo is providing C++ sdk on algorand chain.
 
 ---

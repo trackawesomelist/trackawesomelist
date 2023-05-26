@@ -16,11 +16,11 @@
 
 ### JavaScript / Misc
 
-*   [regression-js (⭐886)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
+*   [regression-js (⭐895)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [GreatCircle (⭐72)](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
+*   [GreatCircle (⭐73)](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 
 ## [3. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

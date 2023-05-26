@@ -10,7 +10,7 @@
 
 ### Incident Response tools / Sandboxes
 
-*   [LogonTracer (⭐2.2k)](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
+*   [LogonTracer (⭐2.3k)](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 *   [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 
 ### Security monitoring / Network Security Monitoring (NSM)
@@ -43,8 +43,8 @@
 
 *   [GBDK Programming Video Tutorials](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) - A series of video tutorials introducing beginners to programming with GBDK.
 *   [GB raycaster, Vision-8 (⭐12)](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - and some other projects.
-*   [Dino's Offline Adventure (⭐53)](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
-*   [dino-gb (⭐19)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
+*   [Dino's Offline Adventure (⭐54)](https://github.com/gingemonster/DinosOfflineAdventure) - A clone of the Google Chrome offline game.
+*   [dino-gb (⭐21)](https://github.com/rnegron/dino-gb) - Another clone of the Chrome game.
 
 ### Websites / Syntax highlighting packages
 
@@ -54,7 +54,7 @@
 
 ### ORM and Datamapping
 
-*   [pillar (⭐59)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
+*   [pillar (⭐64)](https://github.com/sofakingworld/pillar) - Clickhouse HTTP based client.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Movie Paradise (⭐24)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
+*   [Movie Paradise (⭐23)](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 
 ## [9. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
@@ -98,7 +98,6 @@
 ### Resources / Community
 
 *   [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
-*   [@Coil on Twitter](https://twitter.com/Coil)
 *   [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 *   [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
 
@@ -106,7 +105,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [tslog (⭐978)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
+*   :octocat: [tslog (⭐1.1k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

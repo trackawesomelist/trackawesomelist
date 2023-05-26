@@ -172,7 +172,7 @@
 
 ### Android
 
-- Name: [Easy Photo Map (⭐37)](https://github.com/hanjoongcho/aaf-easyphotomap)
+- Name: [Easy Photo Map (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap)
 
   Description: Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo.
 

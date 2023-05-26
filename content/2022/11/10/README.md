@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 10, 2022
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Projects
 
-*   [theiskaa.com (⭐4)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
+*   [theiskaa.com (⭐1)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
 
 ## [4. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [terraform-diff (⭐54)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
+*   [terraform-diff (⭐58)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
 
 ## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -50,13 +50,13 @@
 
 ### Applications / Cryptocurrencies
 
-*   [cairo-rs (⭐299)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
+*   [cairo-rs (⭐342)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
 
 ## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### DevOps / Newsletters
 
-*   [Standard (⭐197)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+*   [Standard (⭐251)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -86,41 +86,35 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [Julian/lean.nvim (⭐116)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
+*   [Julian/lean.nvim (⭐121)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 
 ### Golang / Diagnostics
 
-*   [ray-x/go.nvim (⭐912)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
+*   [ray-x/go.nvim (⭐1.1k)](https://github.com/ray-x/go.nvim) - Golang plugin based on lsp and Treesitter.
 
 ### Bars and Lines / Diagnostics
 
-*   [utilyre/barbecue.nvim (⭐263)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
+*   [utilyre/barbecue.nvim (⭐407)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 
 ### Code Runner / Diagnostics
 
-*   [hkupty/iron.nvim (⭐633)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
+*   [hkupty/iron.nvim (⭐709)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 
 ## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [bat (⭐0)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐40k)](https://github.com/sharkdp/bat) users.
+*   [bat (⭐0)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐41k)](https://github.com/sharkdp/bat) users.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐156k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐10k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐10k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐11k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐11k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
 
 ## [15. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### CI/CD
 
 *   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
-
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Learn Python 3 (⭐149)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 
 ---
 

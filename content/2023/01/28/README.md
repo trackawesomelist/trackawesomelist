@@ -10,7 +10,7 @@
 
 ### Planning Coding Resources / Other
 
-*   [global-indicators (⭐38)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
+*   [global-indicators (⭐43)](https://github.com/global-healthy-liveable-cities/global-indicators) - Case study projected dedicated to developing global healthy and sustainable city-indicators collaboration.
 
 ## [2. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Extensions
 
-*   [UseSIWE (⭐15)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
+*   [UseSIWE (⭐18)](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [drie (⭐80)](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
+*   [drie (⭐70)](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
 
 ## [5. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Language / Diagnostics
 
-*   [niuiic/translate.nvim (⭐7)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+*   [niuiic/translate.nvim (⭐11)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 
 ### Project / Diagnostics
 
@@ -58,15 +58,15 @@
 
 ### Applications / Video
 
-*   [vidmerger (⭐57)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
+*   [vidmerger (⭐66)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
 
 ### Libraries / Parsing
 
-*   [comex/rust-shlex (⭐53)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] — Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
+*   [comex/rust-shlex (⭐59)](https://github.com/comex/rust-shlex) \[[shlex](https://crates.io/crates/shlex)] — Split a string into shell words, like Python's shlex. [![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Music and Audio projects / Text-related Generative Tools
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [MusicLM](https://google-research.github.io/seanet/musiclm/examples/): generating music from text
 
@@ -80,7 +80,7 @@
 
 ### Java / React
 
-*   [graphql-orchestrator-java (⭐35)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
+*   [graphql-orchestrator-java (⭐39)](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Gitblit](https://www.gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code (⭐2.1k)](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`
+*   [Gitblit](https://www.gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code (⭐2.2k)](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`
 
 ### List of Licenses / Wikis
 
@@ -142,5 +142,5 @@
 
 ---
 
-- Prev: [Jan 29, 2023](/content/2023/01/29/README.md)
+- Prev: [Jan 30, 2023](/content/2023/01/30/README.md)
 - Next: [Jan 27, 2023](/content/2023/01/27/README.md)

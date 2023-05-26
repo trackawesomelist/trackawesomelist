@@ -12,7 +12,7 @@
 
 *   [annoy (⭐11k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
 *   [fastFM (⭐1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
-*   [implicit (⭐3k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
+*   [implicit (⭐3.1k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

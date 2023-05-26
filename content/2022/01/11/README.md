@@ -444,26 +444,26 @@
 
 ### Overview / Hacker News
 
-*   [Hackers (⭐633)](https://github.com/weiran/Hackers): a native iOS app for Hacker News
+*   [Hackers (⭐640)](https://github.com/weiran/Hackers): a native iOS app for Hacker News
     *   Available to download on the Apple AppStore: <https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901>
 
 ### Overview / Other services
 
-*   [MediathekViewWeb (⭐772)](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
+*   [MediathekViewWeb (⭐777)](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
     *   Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
-*   [PrivateBin (⭐4.7k)](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
+*   [PrivateBin (⭐4.8k)](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 
 ## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Business
 
-*   [CLDR currency definitions (⭐676)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐690)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
-*   [HPDDM (⭐94)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
+*   [HPDDM (⭐104)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
     (C++, LGPL 3, GitHub)
 
 ## [6. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
@@ -483,7 +483,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/gli (⭐29)](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
+*   [kotlin-graphics/gli (⭐30)](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
 
 ## [9. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -507,7 +507,7 @@
 
 ### Tools
 
-*   [GitHub Readme Stats (⭐51k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+*   [GitHub Readme Stats (⭐53k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 
 ## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -569,7 +569,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [dtaidistance (⭐857)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
+*   [dtaidistance (⭐884)](https://github.com/wannesm/dtaidistance) - High performance library for time series distances (DTW) and time series clustering.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 

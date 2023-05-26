@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08 - Jul 14, 2019
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,29 +17,29 @@
 
 ### Miscellaneous
 
-*   [react-swipe-to-delete-ios (⭐33)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
+*   [react-swipe-to-delete-ios (⭐34)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 
 ## [3. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [bravefrontier\_data (⭐63)](https://github.com/cheahjs/bravefrontier_data) - Mobile game data, items and missions information.
-*   [GTA-3D Dataset (⭐114)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
+*   [GTA-3D Dataset (⭐118)](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
 
 ### Dataset / Related
 
-*   [Steam Game Data (⭐29)](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
-*   [Steam Review Datasets (⭐32)](https://github.com/mulhod/steam_reviews) - Steam user reviews.
+*   [Steam Game Data (⭐31)](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
+*   [Steam Review Datasets (⭐35)](https://github.com/mulhod/steam_reviews) - Steam user reviews.
 
 ### Miscellaneous / Related
 
-*   [datasets-games (⭐6)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
+*   [datasets-games (⭐9)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
-*   [cJSON (⭐8.5k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐8.8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐17k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
@@ -430,7 +430,7 @@
 
 ### Multimedia content processing
 
-*   [Libebur128 (⭐327)](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
+*   [Libebur128 (⭐335)](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 *   [MXFLib](https://sourceforge.net/projects/mxflib/) - A multi-platform C++ library for reading and writing MXF files.
 *   [OBS-Studio (⭐46k)](https://github.com/obsproject/obs-studio) - Software for live streaming and screen recording.
 *   [TuttleOFX (⭐167)](https://github.com/tuttleofx/TuttleOFX) - An open source image processing framework based on OpenFX plugin standard.
@@ -467,8 +467,8 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome ARM Exploitation (⭐190)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
-*   [Awesome Threat Modeling (⭐90)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
+*   [Awesome ARM Exploitation (⭐217)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
+*   [Awesome Threat Modeling (⭐97)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
 
 ## [9. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -570,7 +570,7 @@
 
 ### HTTP
 
-*   [Crawly (⭐655)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [Crawly (⭐706)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐20)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -581,13 +581,13 @@
 
 ### Utilities / macOS
 
-*   [open-pip-cli (⭐191)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
+*   [open-pip-cli (⭐192)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
 
 ## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Routing
 
-*   [Wouter (⭐4.6k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
+*   [Wouter (⭐5.1k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
 
 ## [17. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -611,7 +611,7 @@
 
 ### Program analysis
 
-*   [cwe\_checker (⭐759)](https://github.com/fkie-cad/cwe_checker) - cwe\_checker finds vulnerable patterns in binary executables.
+*   [cwe\_checker (⭐842)](https://github.com/fkie-cad/cwe_checker) - cwe\_checker finds vulnerable patterns in binary executables.
 
 ## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -675,25 +675,25 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Rapidbay (⭐474)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+*   [Rapidbay (⭐518)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
 ## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [the-elements-of-statistical-learning (⭐371)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
+*   [the-elements-of-statistical-learning (⭐376)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
 ## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [thetool (⭐207)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
+*   [thetool (⭐212)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 
 ## [32. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
-*   [Open Watcom V2 (⭐742)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
+*   [Open Watcom V2 (⭐773)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
 ## [33. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
@@ -732,19 +732,19 @@
 
 ### TOML
 
-*   [TOMLDecoder (⭐59)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
+*   [TOMLDecoder (⭐62)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
 
 ### Files
 
-*   [Pathos (⭐109)](https://github.com/dduan/Pathos) :penguin: - Efficient Unix file management.
+*   [Pathos (⭐110)](https://github.com/dduan/Pathos) :penguin: - Efficient Unix file management.
 
 ### Camera
 
-*   [CameraBackground (⭐64)](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
+*   [CameraBackground (⭐63)](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
 
 ### UI / Barcode
 
-*   [BatteryView (⭐50)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
+*   [BatteryView (⭐52)](https://github.com/yonat/BatteryView) - Simple battery shaped UIView.
 
 ### UICollectionView / Barcode
 
@@ -752,11 +752,11 @@
 
 ### UITableView / Barcode
 
-*   [DiffableDataSources (⭐766)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
+*   [DiffableDataSources (⭐780)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐899)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐917)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
 ## [36. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -774,31 +774,21 @@
 
 *   [BinarySerializer (⭐248)](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
 
-## [38. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Tutorials / React Performance
-
-*   [Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)
-
-### React Tools / React Libraries
-
-*   [react-extras (⭐692)](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
-
-## [39. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [38. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [zDog (⭐9.6k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 
-## [40. Amas](/content/sindresorhus/amas/week/README.md)
+## [39. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Wendell Hu](https://github.com/wendzhue/ama) - Front-end developer at Alibaba.
-*   [Jim Lesperance (⭐1)](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
+*   [Jim Lesperance (⭐2)](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
 *   [Greg Edelston (⭐1)](https://github.com/gredelston/ama) - Software engineer at Google. Zen Buddhist and improv lover.
 
-## [41. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [40. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
@@ -809,17 +799,17 @@
 
 *   [CryptOSS (⭐8)](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects.
 
-## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### PDF
 
 *   [Open HTML to PDF (⭐1.6k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
-## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
-*   [lambda-refarch-mobilebackend :fire::fire::fire: (⭐583)](https://github.com/awslabs/lambda-refarch-mobilebackend) - Reference Architecture for creating a Mobile Backend.
+*   [lambda-refarch-mobilebackend :fire::fire::fire: (⭐586)](https://github.com/awslabs/lambda-refarch-mobilebackend) - Reference Architecture for creating a Mobile Backend.
 
 ---
 

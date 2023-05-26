@@ -302,15 +302,15 @@
 
 ### Packages / HTTP
 
-*   [smoke (⭐161)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
+*   [smoke (⭐164)](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 
 ### Packages / Testing
 
-*   [testcontainers-node (⭐1.1k)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+*   [testcontainers-node (⭐1.2k)](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ### Packages / Automation
 
-*   [nut.js (⭐1.5k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+*   [nut.js (⭐1.6k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
 ## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

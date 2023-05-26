@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [posh-dotnet (⭐41)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
+*   [posh-dotnet (⭐42)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
 
 ## [2. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
@@ -49,11 +49,11 @@ Topics: React Native, JavaScript, Tooling\
 Topics: React Native, Jest, Testing, CSS\
 <https://twitter.com/thymikee>
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michal_chudziak" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michalchudziak" height="70px" width="70px" align="left" alt="" />
 
-**Mike Chudziak**\
+**Michał Chudziak**\
 Topics: React, React Native, iOS, Android\
-<https://twitter.com/michal_chudziak>
+<https://twitter.com/michalchudziak>
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/satya164" height="70px" width="70px" align="left" alt="" />
 

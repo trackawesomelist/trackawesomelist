@@ -46,11 +46,11 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Analytics (⭐119)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
+*   [Blazor Analytics (⭐121)](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 *   [BlazorPrettyCode (⭐35)](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
-*   [Blazor.EventAggregator (⭐101)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
-*   [Blazor Gamepad (⭐20)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
-*   [Blazor.LocalFiles (⭐45)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
+*   [Blazor.EventAggregator (⭐104)](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
+*   [Blazor Gamepad (⭐23)](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
+*   [Blazor.LocalFiles (⭐46)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 
 ## [7. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -101,13 +101,13 @@
 
 ### Software Tools / Analysis Tools
 
-*   [Firmadyne (⭐1.5k)](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
-*   [Trommel (⭐190)](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
+*   [Firmadyne (⭐1.6k)](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
+*   [Trommel (⭐196)](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
 ### Software Tools / Extraction Tools
 
-*   [FACT Extractor (⭐52)](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
-*   [Firmware Mod Kit (⭐599)](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
+*   [FACT Extractor (⭐62)](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
+*   [Firmware Mod Kit (⭐686)](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
 
 ### Hardware Tools / Misc Tools
 
@@ -123,7 +123,7 @@
 *   2017, Costin et al: [Towards Automated Classification of Firmware Images and Identification of Embedded Devices](http://s3.eurecom.fr/docs/ifip17_costin.pdf)
 *   2016, Chen et al: [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.dcddcc.com/docs/2016_paper_firmadyne.pdf)
 *   2016, Costin et al: [Automated Dynamic Firmware Analysis at Scale: A Case Study on Embedded Web Interfaces](http://s3.eurecom.fr/docs/asiaccs16_costin.pdf)
-*   2015, Papp et al: [Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy](http://www.cse.psu.edu/\~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf)
+*   2015, Papp et al: [Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy](http://www.cse.psu.edu/~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf)
 *   2014, Alimi et al: [Analysis of embedded applications by evolutionary fuzzing](http://ieeexplore.ieee.org/document/6903734/)
 *   2013, Davidson et al: [FIE on Firmware: Finding Vulnerabilities in Embedded Systems using Symbolic Execution](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf)
 

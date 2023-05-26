@@ -16,9 +16,9 @@
 
 ### Libraries / Artificial Intelligence
 
-*   [innoave/genevo (⭐118)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
+*   [innoave/genevo (⭐127)](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
 *   [m-decoster/RsGenetic (⭐74)](https://github.com/m-decoster/RsGenetic) — Genetic Algorithm library in Rust. In maintenance mode.
-*   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework. [![Build Status](https://api.travis-ci.org/autumnai/leaf.svg?branch=master)](https://travis-ci.org/autumnai/leaf). Abandoned project. The most updated fork is [spearow/juice (⭐1k)](https://github.com/spearow/juice).
+*   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework.. Abandoned project. The most updated fork is [spearow/juice (⭐1k)](https://github.com/spearow/juice).
 
 ## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -130,11 +130,11 @@
 
 ### Artificial Intelligence
 
-*   [Genann (⭐1.3k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
+*   [Genann (⭐1.4k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
 
 ### Database
 
-*   [nanodbc (⭐270)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
+*   [nanodbc (⭐280)](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. \[MIT]
 *   [ODB](https://www.codesynthesis.com/products/odb/) - An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. \[GPLv2]
 
 ### Game Engine
@@ -143,7 +143,7 @@
 
 ### Math
 
-*   [TinyExpr (⭐1.2k)](https://github.com/codeplea/tinyexpr) - A C library for parsing and evaluating math expressions from strings. \[zlib]
+*   [TinyExpr (⭐1.3k)](https://github.com/codeplea/tinyexpr) - A C library for parsing and evaluating math expressions from strings. \[zlib]
 
 ---
 

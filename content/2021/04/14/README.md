@@ -12,37 +12,13 @@
 
 *   [cam-geom](https://crates.io/crates/cam-geom): Geometric models of cameras for photogrammetry. ![crates.io](https://img.shields.io/crates/v/cam-geom.svg)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Awk / Non-X86
-
-*   [Awk](https://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
-*   [GNU awk](https://learnbyexample.github.io/learn_gnuawk/) - Sundeep Agarwal
-
-### Perl / PicoLisp
-
-*   [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/) - Sundeep Agarwal
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
-
-### Ruby / Tornado
-
-*   [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal
-
-### Sed / Play Scala
-
-*   [GNU sed](https://learnbyexample.github.io/learn_gnused/) - Sundeep Agarwal
-*   [Sed - An Introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html) - Bruce Barnett
-
-## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### WebApi
 
 *   [Sitecore Shared Source: Web API Client (⭐7)](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
 
-## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 
@@ -50,10 +26,10 @@
 
 ### C / Syntax highlighting packages
 
-*   [8-Bit Wonderland (⭐22)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
-*   [Infinity (⭐10)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
+*   [8-Bit Wonderland (⭐25)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
+*   [Infinity (⭐12)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
 
-## [5. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [4. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Cassandra Use Cases
 
@@ -122,13 +98,13 @@
 *   [Instaclustr Exporter (⭐54)](https://github.com/instaclustr/cassandra-exporter) - Java agent that exports Cassandra metrics to Prometheus.
 *   [Instaclustr Go Client for Instaclustr Icarus (⭐4)](https://github.com/instaclustr/instaclustr-icarus-go-client) - Go client for Instaclustr Icarus sidecar.
 
-## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Build and Package / MIT
 
 *   [cmake-ada-offa (⭐12)](https://github.com/offa/cmake-ada) - Ada language support for CMake.
 
-## [7. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [6. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Food
 
@@ -139,11 +115,17 @@
 
 *   [awesome-sustainability-jobs (⭐367)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
-## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Installation Media / Newsletters
 
-*   [nixos-up (⭐180)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+*   [nixos-up (⭐188)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
+
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Visualization
+
+*   [finplot (⭐672)](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
 
 ## [9. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
@@ -169,7 +151,7 @@
 
 ### Miscellaneous
 
-*   👍 [Qtools (⭐199)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
+*   👍 [Qtools (⭐201)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 
 ### Portability layers
 
@@ -200,11 +182,11 @@
 
 ### Writing, running scripts / Third-party APIs
 
-*   [cl-all (⭐15)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [cl-all (⭐16)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Apps / Third-party APIs
 
-*   [Parachute (⭐80)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Parachute (⭐81)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Data validation / Third-party APIs
 
@@ -216,13 +198,13 @@
 
 ### Documentation builders / Third-party APIs
 
-*   [Staple (⭐52)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Staple (⭐53)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Files and directories / Third-party APIs
 
-*   [pathname-utils (⭐9)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-    *   [filesystem-utils (⭐10)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
-    *   [file-attributes (⭐9)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
+*   [pathname-utils (⭐11)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+    *   [filesystem-utils (⭐11)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
+    *   [file-attributes (⭐10)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
 
 ### Git / Third-party APIs
 

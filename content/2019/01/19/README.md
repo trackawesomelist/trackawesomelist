@@ -14,7 +14,7 @@
 
 ## [2. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
-### Articles, Posts, Talks, and Presentations / Gradient boosting
+### Articles, Posts, Talks, and Presentations / Vector search
 
 *   2019
     *   *TensorStream: Bringing Machine Learning to Ruby* by [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/) <sup>\[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>

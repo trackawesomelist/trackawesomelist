@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   💼 [Tails Devtools (⭐167)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
+*   💼 [Tails Devtools (⭐180)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
 
 ## [2. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -27,7 +27,7 @@
 
 ### Books, blogs and training materials / Community Chat Rooms
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐214)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by \[Ferrous Systems] to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐221)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by \[Ferrous Systems] to corporate customers.
 
 ### Old books, blogs and training materials / WIP
 
@@ -49,12 +49,12 @@
 
 ### Modules / Database
 
-*   [cotton (⭐128)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
-*   [dangoDB (⭐100)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
-*   [deno\_mongo (⭐471)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
-*   [deno\_mysql (⭐243)](https://github.com/denodrivers/mysql) - MySQL database driver.
+*   [cotton (⭐131)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
+*   [dangoDB (⭐111)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
+*   [deno\_mongo (⭐484)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
+*   [deno\_mysql (⭐246)](https://github.com/denodrivers/mysql) - MySQL database driver.
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
-*   [redis (⭐418)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐428)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [Cyclops (⭐62)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
+*   [Cyclops (⭐81)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
 
 ---
 

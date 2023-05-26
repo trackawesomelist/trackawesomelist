@@ -40,7 +40,7 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐311)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐313)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
 ## [5. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Integrations
 
-*   [HapiJS Keycloak Auth (⭐34)](https://github.com/felixheck/hapi-auth-keycloak)
+*   [HapiJS Keycloak Auth (⭐35)](https://github.com/felixheck/hapi-auth-keycloak)
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

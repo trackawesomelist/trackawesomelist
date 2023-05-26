@@ -16,7 +16,7 @@
 
 ### Concurrency
 
-*   [cuda-api-wrappers (⭐577)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
+*   [cuda-api-wrappers (⭐611)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Open Source Repos / Redshift
 
-*   [amazon-redshift-utils :fire::fire::fire::fire::fire: (⭐2.5k)](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables.
+*   [amazon-redshift-utils :fire::fire::fire::fire::fire: (⭐2.6k)](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables.
 
 ---
 

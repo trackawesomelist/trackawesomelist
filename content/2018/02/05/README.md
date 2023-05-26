@@ -10,7 +10,7 @@
 
 ### Contents / Components
 
-*   [Preact Animate On Change (⭐16)](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change.
+*   [Preact Animate On Change (⭐17)](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomotroid (⭐3.1k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
+*   [Pomotroid (⭐3.3k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 
 ---
 

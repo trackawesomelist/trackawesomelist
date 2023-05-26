@@ -63,7 +63,7 @@
 
 ### Laravel
 
-- Name: [Akaunting (⭐5.6k)](https://github.com/akaunting/akaunting)
+- Name: [Akaunting (⭐6.2k)](https://github.com/akaunting/akaunting)
 
   Description: Free and Online Accounting Software
 

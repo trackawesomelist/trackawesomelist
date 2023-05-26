@@ -18,21 +18,21 @@
 
 ### Virtualisation / Newsletters
 
-*   [nixos-shell (⭐386)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [nixos-shell (⭐413)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Data Processing and ETL
 
-*   [CSV Reader (⭐179)](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
+*   [CSV Reader (⭐180)](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
 
 ### E-Commerce and Payments
 
-*   [Workarea (⭐324)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
+*   [Workarea (⭐325)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐587)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐600)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -44,7 +44,7 @@
 
 *   [Practical Business Python](https://pbpython.com) - A blog collecting and spreading ideas on how to use Python more effectively in the business setting.
 *   [`redash`](https://github.com/getredash/redash) - Connect and query your data sources, build dashboards to visualize data and share them with your company.
-*   [Apache Superset (⭐51k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
+*   [Apache Superset (⭐52k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
 *   [Meltano](https://gitlab.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
 *   [`insights`](https://github.com/mariusandra/insights) - Insights is a tool to visually explore a PostgreSQL database, with an emphasis on generating graphs that show business performance over time.
 
@@ -120,22 +120,19 @@
 
 ### Form Logic / Mouse Events
 
-*   [data-driven-forms (⭐242)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
+*   [data-driven-forms (⭐251)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 
 ## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / JavaScript
 
-*   [Oligrapher (⭐82)](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
+*   [Oligrapher (⭐88)](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
 
 ### Software / R
 
-*   [brainGraph](https://cran.r-project.org/package=brainGraph) - Tools for performing graph theory analysis of brain MRI data.
-*   [dodgr](https://cran.r-project.org/package=dodgr) - Computes distances on dual-weighted directed graphs, such as street networks, using priority-queue shortest paths.
-*   [neo4r (⭐96)](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
-*   [networkD3](http://christophergandrud.github.io/networkD3/) - Create d3.js network graphs from R.
+*   [neo4r (⭐100)](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
 *   [relevent](https://CRAN.R-project.org/package=relevent) - Tools to fit relational event models (REM).
-    *   [informR](https://cran.r-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
+    *   [informR](https://CRAN.R-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

@@ -39,7 +39,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ### Profiler and Optimization
 
-*   [Derailed Benchmarks (⭐2.8k)](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
+*   [Derailed Benchmarks (⭐2.9k)](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
 
 ## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -155,7 +155,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ### Repos, CodePens and Things / Repos
 
-*   [BEM Grid (⭐135)](https://github.com/bem-incubator/bem-grid)
+*   [BEM Grid (⭐136)](https://github.com/bem-incubator/bem-grid)
 
 ---
 

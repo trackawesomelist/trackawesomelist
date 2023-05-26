@@ -10,7 +10,7 @@
 
 ### Cryptography
 
-*   [Paseto.Core (⭐68)](https://github.com/daviddesmet/paseto-dotnet) - A Paseto (Platform-Agnostic Security Tokens) implementation for .NET
+*   [Paseto.Core (⭐73)](https://github.com/daviddesmet/paseto-dotnet) - A Paseto (Platform-Agnostic Security Tokens) implementation for .NET
 
 ## [2. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Thin Backend (⭐1.1k)](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
+*   :octocat: [Thin Backend (⭐1.2k)](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
 
 ## [6. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
@@ -65,8 +65,8 @@
 
 ### Java Examples / React
 
-*   [graphql-java-kickstart-federation-example (⭐9)](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
-*   [dgs-federation-example (⭐86)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
+*   [graphql-java-kickstart-federation-example (⭐11)](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
+*   [dgs-federation-example (⭐90)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
 
 ## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -94,7 +94,7 @@
 
 *   [BoxedApp Packer](https://www.boxedapp.com/boxedapppacker)
 *   [NPack](http://www.nsdsn.com/english/nspack.zip) - Can compress 32bits and 64bits exe, dll, ocx, scr Windows program.
-*   [VMPROTECT (⭐603)](https://github.com/eaglx/VMPROTECT) - Obfuscation method using virtual machine.
+*   [VMPROTECT (⭐648)](https://github.com/eaglx/VMPROTECT) - Obfuscation method using virtual machine.
 *   [VMProtect](https://vmpsoft.com/products/vmprotect) - VMProtect protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software.
 *   [Ward (⭐10)](https://github.com/ex0dus-0x/ward) - Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.
 
@@ -129,11 +129,11 @@
 
 ### Stream Processing
 
-*   [goio (⭐63)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
+*   [goio (⭐68)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
 
 ### Parsers/Encoders/Decoders
 
-*   [tokenizer (⭐31)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
+*   [tokenizer (⭐46)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -154,7 +154,7 @@
 
 ### Projects / Frameworks
 
-*   [ConCert (⭐80)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
+*   [ConCert (⭐89)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
 
 ## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -164,7 +164,7 @@
 
 ### Third-party
 
-*   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients.
+*   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients, [audited](https://ente.io/blog/cryptography-audit/) independently.
 *   [Stingle Photos](https://stingle.org/) - Open source solution that provides strong security, privacy and encryption to backup your photos.
 
 ## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)

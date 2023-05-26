@@ -68,7 +68,7 @@
 
 ### Input Methods / File Sharing
 
-*   [Type2Phone](https://www.houdah.com/type2Phone/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/type2phone-bluetooth-keyboard/id472717129)
+*   [Type2Phone](https://www.houdah.com/type2Phone/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV.
 
 ### Browsers / File Sharing
 

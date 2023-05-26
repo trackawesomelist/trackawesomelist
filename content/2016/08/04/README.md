@@ -33,13 +33,13 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 ### Developer
 
 *   [Github (⭐2.8k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
-*   [npms (⭐350)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
+*   [npms (⭐354)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Keo (⭐225)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+*   [Keo (⭐226)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

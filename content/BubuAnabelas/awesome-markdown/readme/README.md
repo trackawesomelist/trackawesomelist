@@ -2,7 +2,7 @@
 
 :memo: Delightful Markdown stuff.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/BubuAnabelas/awesome-markdown/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) · ⭐ 614 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/BubuAnabelas/awesome-markdown/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) · ⭐ 668 · 🏷️ Miscellaneous
 
 [ [Daily](/content/BubuAnabelas/awesome-markdown/README.md) / [Weekly](/content/BubuAnabelas/awesome-markdown/week/README.md) / Overview ]
 
@@ -77,7 +77,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 *   [Pelican](https://blog.getpelican.com/) - Static site generator that requires no database or server-side logic.
 *   [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
-*   [Laravel CommonMark Blog (⭐13)](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
+*   [Laravel CommonMark Blog (⭐17)](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
 
 ## Libraries
 
@@ -85,25 +85,25 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 ### C
 
-*   [cmark (⭐1.4k)](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
-*   [Hoedown (⭐917)](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
-*   [peg-markdown (⭐664)](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
+*   [cmark (⭐1.5k)](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
+*   [Hoedown (⭐926)](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
+*   [peg-markdown (⭐675)](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
 *   [Sundown (⭐1.9k)](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
 
 ### Java
 
-*   [commonmark-java (⭐1.9k)](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format.
-*   [flexmark-java (⭐1.9k)](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST.
+*   [commonmark-java (⭐2k)](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format.
+*   [flexmark-java (⭐2k)](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST.
 *   [pegdown (⭐1.3k)](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions.
 
 ### JavaScript
 
-*   [markdown-it (⭐14k)](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
-*   [markdown-js (⭐7.6k)](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
-*   [marked (⭐28k)](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
-*   [mmarkdown (⭐74)](https://github.com/albinotonnina/mmarkdown) - Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
+*   [markdown-it (⭐15k)](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
+*   [markdown-js (⭐7.7k)](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
+*   [marked (⭐30k)](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
+*   [mmarkdown (⭐75)](https://github.com/albinotonnina/mmarkdown) - Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
 *   [Showdown (⭐13k)](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber.
-*   [Snarkdown (⭐2k)](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
+*   [Snarkdown (⭐2.1k)](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
 
 ### Perl
 
@@ -111,17 +111,17 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 ### PHP
 
-*   [commonmark (⭐2.4k)](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+*   [commonmark (⭐2.5k)](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 *   [parsedown (⭐14k)](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP.
 *   [php-markdown (⭐3.3k)](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
 
 ### Python
 
-*   [markdown-it-py (⭐374)](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
-*   [markdown2 (⭐2.4k)](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python.
-*   [Mistune (⭐2.1k)](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
+*   [markdown-it-py (⭐476)](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
+*   [markdown2 (⭐2.5k)](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python.
+*   [Mistune (⭐2.3k)](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
 *   [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/) - A collection of extensions for Python Markdown.
-*   [Python-Markdown (⭐3k)](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
+*   [Python-Markdown (⭐3.2k)](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
 
 ### Ruby
 
@@ -134,14 +134,14 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 > Convert Markdown to other formats and vice versa.
 
-*   [csvtomd (⭐625)](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-*   [Dimer Markdown (⭐81)](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-*   [HTML To Markdown for PHP (⭐1.5k)](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
+*   [csvtomd (⭐640)](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [Dimer Markdown (⭐84)](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [HTML To Markdown for PHP (⭐1.6k)](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 *   [markdown-pdf (⭐2.5k)](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 *   [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 *   [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-*   [Torsimany (⭐54)](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-*   [turndown (⭐6.4k)](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
+*   [Torsimany (⭐59)](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [turndown (⭐6.9k)](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 *   [yamp (⭐27)](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) - Website to paste content and get a markdown version. Works on any modern browser with JavaScript.
 
@@ -154,15 +154,15 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 *   [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: *Really simple editor!* ![Android OS][android-os] ![iOS Logo][ios-logo] ![Mac OS X][macosx]
 *   [Let's Markdown!](https://letsmarkdown.com) - An online real-time collaborative markdown editor built on Rust. ![Globe][globe]
 *   [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-*   [MarkRight (⭐907)](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-*   [Mark Text (⭐37k)](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [MarkRight (⭐908)](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [Mark Text (⭐40k)](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 *   [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
 *   [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [Boostnote](https://boostnote.io/) - A markdown editor for developers. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-*   [Trilium Notes (⭐18k)](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [Trilium Notes (⭐21k)](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [Joplin](https://joplinapp.org/) - An open source note taking and to-do application with synchronisation capabilities. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows] ![iOS Logo][ios-logo] ![Android OS][android-os]
 *   [Visual Studio Code](https://code.visualstudio.com/) - An open source code editor with built-in markdown preview and many markdown extensions. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [Quiver](http://happenapps.com/) - A notebook built for programmers. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
@@ -174,37 +174,37 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 > Flag and standarize your Markdown documents.
 
-*   [Markdown Lint Tool (⭐1.4k)](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
-*   [Markdownlint (⭐583)](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
-*   [remark-lint (⭐832)](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
+*   [Markdown Lint Tool (⭐1.5k)](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
+*   [Markdownlint (⭐668)](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
+*   [remark-lint (⭐866)](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 *   [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
-*   [markdownlint (⭐666)](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
+*   [markdownlint (⭐755)](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
 
 ### Miscellaneous
 
 > Tools which let you edit, convert, export, *et al.* your Markdown documents.
 
 *   [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
-*   [GitDown (⭐440)](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
+*   [GitDown (⭐445)](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 *   [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
 *   [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: *Markdown notes with encryption!* ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
-*   [markcat (⭐34)](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: *`cat` with Markdown highlight.* ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-*   [Markdown Magic (⭐703)](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
+*   [markcat (⭐41)](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: *`cat` with Markdown highlight.* ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [Markdown Magic (⭐748)](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 *   [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
-*   [mdformat (⭐156)](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [mdformat (⭐229)](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 *   [remark](https://remark.js.org/) - Markdown processor powered by plugins
 *   [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
-*   [termd (⭐54)](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+*   [termd (⭐59)](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
 ### Presentations
 
 > Create and edit your slides presentations with Markdown.
 
-*   [gitpitch (⭐5.4k)](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe][globe]
-*   [hacker-slides (⭐340)](https://github.com/msoedov/hacker-slides) - Minimal UI for building presentation slides from markdown. ![Mac OS X][macosx] ![Linux][linux]
+*   [gitpitch (⭐5.5k)](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe][globe]
+*   [hacker-slides (⭐343)](https://github.com/msoedov/hacker-slides) - Minimal UI for building presentation slides from markdown. ![Mac OS X][macosx] ![Linux][linux]
 *   [Marp](https://marp.app/) - Markdown presentation ecosystem. :gem: *CLI, Web, IDE plugin and more to convert Markdown into various formats* ![Mac OS][macosx] ![Linux][linux] ![Windows][windows]
-*   [mdp (⭐4.5k)](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: *Like PowerPoint and Vim but with Markdown!* ![Mac OS X][macosx] ![Linux][linux]
+*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: *Like PowerPoint and Vim but with Markdown!* ![Mac OS X][macosx] ![Linux][linux]
 *   [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe][globe]
 *   [reveal.js](https://revealjs.com) - Open source HTML presentation framework with Markdown support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
@@ -238,9 +238,9 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 > Useful links and tutorials.
 
 *   [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-*   [how-to-markdown (⭐196)](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
+*   [how-to-markdown (⭐202)](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
 *   [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
-*   [Markdown Cheatsheet (⭐57k)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: *Where to look when you don't remember the syntax!*
+*   [Markdown Cheatsheet (⭐59k)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: *Where to look when you don't remember the syntax!*
 *   [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown.
 
 ***
@@ -255,15 +255,15 @@ To the extent possible under law, [Joaquín Serna](https://github.com/BubuAnabel
 
 <!--Definitions-->
 
-[globe]: https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe"
+[globe]: https://img.icons8.com/color/24/globe.png "Globe"
 
-[android-os]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png "Android OS"
+[android-os]: https://img.icons8.com/color/24/android-os.png "Android OS"
 
-[ios-logo]: https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png "iOS Logo"
+[ios-logo]: https://img.icons8.com/color/24/ios-logo.png "iOS Logo"
 
-[macosx]: https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X"
+[macosx]: https://img.icons8.com/color/24/mac-logo.png "Mac OS X"
 
-[linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux"
+[linux]: https://img.icons8.com/color/24//linux--v1.png "Linux"
 
-[windows]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows"
+[windows]: https://img.icons8.com/color/24/windows-11.png "Windows"
 

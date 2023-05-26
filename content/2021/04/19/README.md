@@ -10,7 +10,7 @@
 
 ### Open-Source Projects
 
-*   [Ubuntu 20.04 (⭐2.8k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
+*   [Ubuntu 20.04 (⭐2.9k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
 
 ## [2. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -73,7 +73,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
-    (Python/C++, MPL 2, [GitHub (⭐270)](https://github.com/esa/pygmo2))
+    (Python/C++, MPL 2, [GitHub (⭐309)](https://github.com/esa/pygmo2))
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -128,17 +128,17 @@
 
 ### Audio Related Packages / Source Separation
 
-*   [NUSSL](https://interactiveaudiolab.github.io/project/nussl.html) [:octocat: (⭐482)](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Holistic source separation framework including DSP methods and deep learning methods.
+*   [NUSSL](https://interactiveaudiolab.github.io/project/nussl.html) [:octocat: (⭐505)](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Holistic source separation framework including DSP methods and deep learning methods.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [Vue Todo PWA (⭐15)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
+*   [Vue Todo PWA (⭐16)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐79)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐84)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
 ## [10. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 

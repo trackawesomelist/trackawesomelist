@@ -70,7 +70,7 @@
 
 ### UI / Barcode
 
-*   [InstantSearch iOS (⭐568)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
+*   [InstantSearch iOS (⭐571)](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
 
 ## [7. Magictools](/content/ellisonleao/magictools/README.md)
 

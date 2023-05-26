@@ -74,7 +74,6 @@ Webpage: <http://4sq.com/14xZ71H>
 
 ### Tutorials / YouTube
 
-*   [Greasemonkey Hacks](http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks) - Complete wiki book on Userscripts.
 *   [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
 *   [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
 

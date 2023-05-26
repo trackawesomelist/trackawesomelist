@@ -103,7 +103,7 @@
 ### Cloud platform security / Kubernetes
 
 *   [Kyverno](https://kyverno.io/) - Policy engine designed for Kubernetes.
-*   [k-rail (⭐443)](https://github.com/cruise-automation/k-rail) - Workload policy enforcement tool for Kubernetes.
+*   [k-rail (⭐446)](https://github.com/cruise-automation/k-rail) - Workload policy enforcement tool for Kubernetes.
 *   [kubernetes-event-exporter (⭐1k)](https://github.com/opsgenie/kubernetes-event-exporter) - Allows exporting the often missed Kubernetes events to various outputs so that they can be used for observability or alerting purposes.
 
 ## [10. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
@@ -141,19 +141,19 @@ git push origin HEAD
 
 ### Resources / Examples
 
-*   [Vue simulating (⭐969)](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.
+*   [Vue simulating (⭐972)](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.
 
 ### Components & Libraries / UI Components
 
-*   [vue-concise-carousel (⭐9)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
+*   [vue-concise-carousel (⭐10)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lazyload (⭐24)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+*   [vue3-lazyload (⭐25)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 ### Components & Libraries / Scaffold
 
-*   [Vuetify-tailwind-animate-starter (⭐5)](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
+*   [Vuetify-tailwind-animate-starter (⭐6)](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
 
 ---
 

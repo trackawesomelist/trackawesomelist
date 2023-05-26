@@ -10,21 +10,21 @@
 
 ### Firebase
 
-- Name: [Friendlychat (⭐1.6k)](https://github.com/firebase/friendlychat)
+- Name: [Friendlychat (⭐1.7k)](https://github.com/firebase/friendlychat)
 
   Description: Firebase codelab for building a cross-platform chat app
 
   Link: 
 
 
-- Name: [Friendlypix (⭐730)](https://github.com/firebase/friendlypix)
+- Name: [Friendlypix (⭐727)](https://github.com/firebase/friendlypix)
 
   Description: FriendlyPix is a cross-platform Firebase example app
 
   Link: 
 
 
-- Name: [Firefeed (⭐460)](https://github.com/firebase/firefeed)
+- Name: [Firefeed (⭐459)](https://github.com/firebase/firefeed)
 
   Description: Firefeed is a web app that lets users post small messages called sparks to their feed.
 

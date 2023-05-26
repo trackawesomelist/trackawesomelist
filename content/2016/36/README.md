@@ -35,11 +35,11 @@
 
 ### Open Source Repos / CloudWatch
 
-*   [cloudwatch-logs-subscription-consumer :fire::fire: (⭐398)](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
+*   [cloudwatch-logs-subscription-consumer :fire::fire: (⭐397)](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [jvehent/haproxy-aws :fire::fire: (⭐277)](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
+*   [jvehent/haproxy-aws :fire::fire: (⭐279)](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -49,12 +49,12 @@
 
 ### Misc
 
-*   [Streams (⭐381)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+*   [Streams (⭐380)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 
 ### Source Generator
 
 *   [Awesome .NET Performance (⭐2.9k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
-*   [awesome-ddd (⭐9.6k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+*   [awesome-ddd (⭐9.9k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
 ## [7. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -174,9 +174,9 @@
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐332)](https://github.com/marijnh/Postmodern)
-*   Elixir: [postgrex (⭐961)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐2.7k)](https://github.com/sfackler/rust-postgres)
+*   Common Lisp: [Postmodern (⭐343)](https://github.com/marijnh/Postmodern)
+*   Elixir: [postgrex (⭐981)](https://github.com/elixir-ecto/postgrex)
+*   Rust: [rust-postgresql (⭐2.8k)](https://github.com/sfackler/rust-postgres), [pgx (⭐2.3k)](https://github.com/tcdi/pgx)
 
 ## [20. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
@@ -221,7 +221,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐805)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐857)](https://github.com/nelson-brochado/understanding-math)
 
 ## [24. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -351,7 +351,7 @@
 
 ### Template Engine
 
-*   [teeplate (⭐15)](https://github.com/mosop/teeplate) - A library for rendering multiple template files
+*   [teeplate (⭐16)](https://github.com/mosop/teeplate) - A library for rendering multiple template files
 
 ### Editor Plugins
 
@@ -444,7 +444,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Software / JavaScript
 
-*   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](http://www.sciencedirect.com/science/article/pii/S0378873316300284)).
+*   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](https://doi.org/10.1016/j.socnet.2016.07.007)).
 
 ### Software / Python
 
@@ -458,24 +458,24 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Configuration
 
-*   [confex (⭐296)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
+*   [confex (⭐297)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 
 ### Cryptography
 
-*   [rsa\_ex (⭐35)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
+*   [rsa\_ex (⭐36)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
 
 ### Deployment
 
-*   [ansible-elixir-stack (⭐292)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
+*   [ansible-elixir-stack (⭐293)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
 *   [bottler (⭐38)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
-*   [edeliver (⭐1.9k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
+*   [edeliver (⭐2k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐11)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
-*   [gatling (⭐501)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
-*   [heroku-buildpack-elixir (⭐797)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+*   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+*   [heroku-buildpack-elixir (⭐798)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 
-*   [silent\_video (⭐15)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
+*   [silent\_video (⭐16)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

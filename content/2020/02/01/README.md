@@ -62,7 +62,7 @@
 
 ### Projects
 
-*   [karaoke-rs (⭐146)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
+*   [karaoke-rs (⭐145)](https://github.com/tarkah/karaoke-rs) - A simple, network enabled karaoke player in Rust.
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -276,7 +276,7 @@
 
 ### Miscellaneous / Mouse Events
 
-*   [react-universal-hooks (⭐178)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
+*   [react-universal-hooks (⭐180)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -861,7 +861,7 @@
 
 ### Platforms
 
-*   [ESP (⭐564)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+*   [ESP (⭐597)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
 ## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

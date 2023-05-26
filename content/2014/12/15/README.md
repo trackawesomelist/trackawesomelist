@@ -31,8 +31,8 @@
 ### Third Party APIs
 
 *   [exgenius (⭐1)](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
-*   [exlingr (⭐1)](https://github.com/mtwtkman/exlingr) - A Lingr client module.
-*   [keenex (⭐28)](https://github.com/bryanjos/keenex) - A Keen.io API Client.
+*   [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
+*   [keenex (⭐29)](https://github.com/bryanjos/keenex) - A Keen.io API Client.
 *   [qiita\_ex (⭐7)](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 *   [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 

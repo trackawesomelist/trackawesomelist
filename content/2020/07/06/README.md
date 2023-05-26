@@ -44,7 +44,7 @@
 
 ### Themes
 
-*   [nord tmux (⭐903)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
+*   [nord tmux (⭐929)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
 
 ## [6. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -63,13 +63,13 @@
 
 ### Packages / Testing
 
-*   [axe-core (⭐5k)](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
+*   [axe-core (⭐5.1k)](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Apps / Mapping
 
-*   [Go-Wardley (⭐29)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
+*   [Go-Wardley (⭐30)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -106,11 +106,11 @@
 
 ### Game dev
 
-*   [Apus Game Engine (⭐133)](https://github.com/Cooler2/ApusGameEngine). `[Delphi]` `[FPC]` Cross-platform library for making mostly 2D games, GUI applications and web services. Supports UI, text rendering, on-fly localization, particles, basic scripting and many lower level subsystems. Uses OpenGL/GLES and DirectX.
+*   [Apus Game Engine (⭐146)](https://github.com/Cooler2/ApusGameEngine). `[Delphi]` `[FPC]` Cross-platform library for making mostly 2D games, GUI applications and web services. Supports UI, text rendering, on-fly localization, particles, basic scripting and many lower level subsystems. Uses OpenGL/GLES and DirectX.
 
 ### Single controls
 
-*   [decTreeView (⭐25)](https://github.com/DenisAnisimov/decTreeView). `[Delphi]` The decTreeView library is an alternative implementation of the TreeView (SysTreeView32) control
+*   [decTreeView (⭐27)](https://github.com/DenisAnisimov/decTreeView). `[Delphi]` The decTreeView library is an alternative implementation of the TreeView (SysTreeView32) control
 
 ### Other non-visual
 
@@ -151,7 +151,7 @@
 
 ### Open Source / Casual
 
-*   [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+*   [Ghost Rigger (⭐188)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 
 ---
 

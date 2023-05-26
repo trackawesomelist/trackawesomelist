@@ -22,13 +22,13 @@
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_templates (⭐321)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
+*   [jupyterlab\_templates (⭐332)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Authentication
 
-*   [Stegcloak (⭐2.7k)](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
+*   [Stegcloak (⭐2.9k)](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
 
 ## [4. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -58,8 +58,8 @@
 
 *   [Cookiefirst](https://cookiefirst.com/) - Cookie consent manager.
 *   [UniConsent](https://www.uniconsent.com/) - Consent management platform for GDPR, CCPA, COPPA compliance.
-*   [React Cookie Consent (⭐459)](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
-*   [React Cookie Banner (⭐181)](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
+*   [React Cookie Consent (⭐515)](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
+*   [React Cookie Banner (⭐182)](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
 
 ### Media
 
@@ -75,7 +75,7 @@
 
 ### Extensions
 
-*   [next-img (⭐194)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+*   [next-img (⭐203)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

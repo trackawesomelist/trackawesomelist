@@ -21,11 +21,11 @@
 
 ### Plugins / Misc
 
-*   [Misc (⭐5)](https://github.com/ilyub/eslint-plugin-misc) - Miscellaneous rules including rules for creating custom checks and wrapping (modifying) third-party rules.
+*   [Misc (⭐6)](https://github.com/ilyub/eslint-plugin-misc) - Miscellaneous rules including rules for creating custom checks and wrapping (modifying) third-party rules.
 
 ### Plugins / Practices and Specific ES Features
 
-*   [eslint-plugin-hexagonal-architecture (⭐187)](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practices.
+*   [eslint-plugin-hexagonal-architecture (⭐213)](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practices.
 
 ## [3. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -36,27 +36,27 @@
 ### Code generators / Individual Podcast episodes
 
 *   [Elm Bridge (⭐100)](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
-*   [Elm CodeGen (⭐94)](https://github.com/mdgriffith/elm-codegen) - Generate Elm code
-*   [elm-gql (⭐59)](https://github.com/vendrinc/elm-gql) - Generate GraphQl client code from GraphQL queries
-*   [elm-graphql (⭐747)](https://github.com/dillonkearns/elm-graphql) - Generate GraphQl client code from GraphQL schemas
+*   [Elm CodeGen (⭐106)](https://github.com/mdgriffith/elm-codegen) - Generate Elm code
+*   [elm-gql (⭐67)](https://github.com/vendrinc/elm-gql) - Generate GraphQl client code from GraphQL queries
+*   [elm-graphql (⭐754)](https://github.com/dillonkearns/elm-graphql) - Generate GraphQl client code from GraphQL schemas
 *   [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
-*   [JSON Schema to Elm (⭐78)](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
-*   [OpenApi Generator (⭐15k)](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
-*   [Quicktype (⭐9.1k)](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
-*   [Travelm Agency (⭐32)](https://github.com/andreasewering/travelm-agency) - Generate typesafe Elm code from translation files
+*   [JSON Schema to Elm (⭐80)](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
+*   [OpenApi Generator (⭐16k)](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
+*   [Quicktype (⭐9.6k)](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
+*   [Travelm Agency (⭐35)](https://github.com/andreasewering/travelm-agency) - Generate typesafe Elm code from translation files
 
 ### Frameworks / Outdated Boilerplates
 
 *   [elm-spa](https://www.elm-spa.dev/) - Framework for making single page apps in Elm.
 *   [Elm Land](https://elm.land/) - A framework for building Elm applications.
-*   [Spades (⭐297)](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world.
+*   [Spades (⭐301)](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world.
 
 ### Compile and bundle / Outdated Boilerplates
 
-*   [elm-compiler (⭐7k)](https://github.com/elm/compiler) - The official Elm compiler.
-*   [elm-webpack-loader (⭐534)](https://github.com/elm-community/elm-webpack-loader) - Webpack loader Elm.
+*   [elm-compiler (⭐7.2k)](https://github.com/elm/compiler) - The official Elm compiler.
+*   [elm-webpack-loader (⭐533)](https://github.com/elm-community/elm-webpack-loader) - Webpack loader Elm.
 *   [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel.
-*   [vite-plugin-elm (⭐111)](https://github.com/hmsk/vite-plugin-elm) - Vite plugin for Elm.
+*   [vite-plugin-elm (⭐131)](https://github.com/hmsk/vite-plugin-elm) - Vite plugin for Elm.
 
 ### Community and Support / Games
 
@@ -78,7 +78,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nix-du (⭐197)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
+*   [nix-du (⭐210)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 
 ## [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
@@ -94,23 +94,23 @@
 
 ### Distributed Systems
 
-*   [Kitex (⭐5.7k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
+*   [Kitex (⭐5.9k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
 
 ### Embeddable Scripting Languages
 
-*   [starlark-go (⭐1.9k)](https://github.com/google/starlark-go) - Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
+*   [starlark-go (⭐2k)](https://github.com/google/starlark-go) - Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Go in 7 days (⭐117)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
+*   [Go in 7 days (⭐121)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
 *   [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
-*   [skydoves/balloon (⭐3k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
-*   [ChuckerTeam/chucker (⭐3k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
+*   [skydoves/balloon (⭐3.2k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
+*   [ChuckerTeam/chucker (⭐3.2k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
 ## [10. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Utility / Diagnostics
 
-*   [folke/noice.nvim (⭐2k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [folke/noice.nvim (⭐2.4k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 
 ---
 

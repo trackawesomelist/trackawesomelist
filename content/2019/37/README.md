@@ -16,7 +16,7 @@
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐8.2k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐8.5k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -68,12 +68,12 @@
 
 ### Tools / Graphics utilities
 
-*   [Tilemap GB (⭐44)](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
-*   [Tilemap Helper (⭐21)](https://github.com/bbbbbr/gimp-tilemap-helper) - GIMP image editor plug-in for optimizing tile maps and tile sets.
+*   [Tilemap GB (⭐50)](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
+*   [Tilemap Helper (⭐25)](https://github.com/bbbbbr/gimp-tilemap-helper) - GIMP image editor plug-in for optimizing tile maps and tile sets.
 
 ## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
-### Remote / WebAssembly
+### Remote / TypeScript
 
 *   [DailyRemote](https://dailyremote.com/)
 
@@ -94,7 +94,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [padding-oracle-attacker (⭐154)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
+*   [padding-oracle-attacker (⭐173)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
 
 ## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Queues and Messaging
 
-*   [NATS.io (⭐41)](https://github.com/nats-io/nats.cr) - NATS client
+*   [NATS.io (⭐42)](https://github.com/nats-io/nats.cr) - NATS client
 
 ## [18. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [Hauk (⭐462)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐462)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
+*   [Hauk (⭐474)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐474)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
 
 ## [20. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -147,18 +147,18 @@
 
 ### Deployment Tools / Newsletters
 
-*   [morph (⭐581)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
+*   [morph (⭐615)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
 ## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
-*   [rsuite-table (⭐629)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
+*   [rsuite-table (⭐641)](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 
 ### Chart
 
-*   [react-chartjs-2 (⭐5.7k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
+*   [react-chartjs-2 (⭐5.8k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 
 ## [23. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -170,35 +170,149 @@
 
 ### Blockchains for AI algorithms / Blockchain projects for AI algorithms
 
-*   [Danku (⭐143)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
-*   [Decentralized & Collaborative AI on Blockchain (⭐476)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+*   [Danku (⭐146)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+*   [Decentralized & Collaborative AI on Blockchain (⭐486)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ### Blockchains for AI in medicine / Blockchain projects for AI algorithms
 
 *   [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
 
-## [25. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [25. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### 0 - 言語非依存 / グラフィックスプログラミング
+
+*   [DirectX プログラミング](https://docs.microsoft.com/ja-jp/windows/uwp/gaming/directx-programming) - Microsoft Docs
+*   [はじめてのBlenderアドオン開発 (Blender 2.7版)](https://colorful-pico.net/introduction-to-addon-development-in-blender/2.7/) - nutti
+
+### 0 - 言語非依存 / セキュリティ
+
+*   [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+*   [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+*   [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+
+### 0 - 言語非依存 / 正規表現
+
+*   [.NET の正規表現](https://docs.microsoft.com/ja-jp/dotnet/standard/base-types/regular-expressions) - Microsoft Docs
+
+### AWK / 理論計算機科学
+
+*   [AWK の第一歩](https://www.magata.net/memo/index.php?plugin=attach\&pcmd=open\&file=awk%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB.pdf\&refer=%A5%B7%A5%A7%A5%EB%A5%B3%A5%DE%A5%F3%A5%C9) - 小栗栖修 (PDF)
+
+### C / 理論計算機科学
+
+*   [お気楽Ｃ言語プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/clang.html) - 広井誠
+
+### C++ / 理論計算機科学
+
+*   [Google C++ スタイルガイド 日本語全訳](https://ttsuki.github.io/styleguide/cppguide.ja.html) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, ttsuki(翻訳)
+*   [お気楽Ｃ++プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/cpp.html) - 広井誠
+
+### Erlang / 理論計算機科学
+
+*   [お気楽 Erlang プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/erlang.html) - 広井誠
+
+### Haskell / Spock Framework
+
+*   [Haskell 基礎文法最速マスター](https://ruicc.hatenablog.jp/entry/20100131/1264905896) - id:ruicc
+*   [お気楽 Haskell プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/haskell.html) - 広井誠
+
+### iOS / Spock Framework
+
+*   [Cocoa Programming Tips 1001](https://web.archive.org/web/20170507034234/http://hmdt.jp/tips/cocoa/index.html) - 木下誠
+
+### JavaScript / Spock Framework
+
+*   [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
+
+### JavaScript / Node.js
+
+*   [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html) - Manuel Kiessling, Yuki Kawashima(翻訳)
+
+### Julia / Svelte
+
+*   [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
+
+### LaTeX / Svelte
+
+*   [TeX入門 TeX Wiki](https://texwiki.texjp.org/?TeX%E5%85%A5%E9%96%80) - 奥村晴彦
+
+### Lua / Svelte
+
+*   [Lua Programming](http://www.nct9.ne.jp/m_hiroi/light/lua.html) - 広井誠
+
+### Mercurial / Svelte
+
+*   [Mercurial チュートリアル hginit.com の和訳](https://mmitou.hatenadiary.org/entry/20100501/1272680474) - Joel Spolsky, id:mmitou(翻訳)
+
+### OCaml / Svelte
+
+*   [お気楽 OCaml プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/ocaml.html) - 広井誠
+
+### Perl / Svelte
+
+*   [2時間半で学ぶPerl](https://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi(翻訳)
+*   [Perl 基礎文法最速マスター](https://tutorial.perlzemi.com/blog/20091226126425.html) - 木本裕紀
+*   [お気楽 Perl プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/perl.html) - 広井誠
+
+### PowerShell / Symfony
+
+*   [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
+
+### Prolog / Symfony
+
+*   [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog/) - 畝見達夫
+
+### Python / Symfony
+
+*   [php プログラマのための Python チュートリアル](https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/) - INADA Naoki
+*   [Python 基礎文法最速マスター](https://dplusplus.hatenablog.com/entry/20100126/p1) - id:dplusplus
+
+### R / Flask
+
+*   [R 基本統計関数マニュアル](https://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
+*   [R 言語定義](https://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, 間瀬茂(翻訳) (PDF)
+*   [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/wordpress/wp-content/uploads/2014/01/R_tutorial20131.pdf) - 小杉考司, 押江隆 (PDF)
+
+### Ruby / Flask
+
+*   [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
+*   [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
+*   [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
+
+### Scheme / Flask
+
+*   [お気楽 Scheme プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/scheme.html) - 広井誠
+
+### Smalltalk / Flask
+
+*   [自由自在 Squeakプログラミング](https://swikis.ddo.jp/squeak/13) - 梅澤真史
+
+### Standard ML / Flask
+
+*   [お気楽 Standard ML of New Jersey 入門](http://www.nct9.ne.jp/m_hiroi/func/#sml) - 広井誠
+*   [プログラミング言語SML#解説](https://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
+*   [プログラミング言語Standard ML入門](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf) - 大堀淳 (PDF)
+
+### Tcl/Tk / Flask
+
+*   [Tcl/Tk お気楽 GUI プログラミング](http://www.nct9.ne.jp/m_hiroi/tcl_tk.html) - 広井誠
+
+### VBA / Angular
+
+*   [VBA基礎文法最速マスター](https://nattou-curry-2.hatenadiary.org/entry/20100129/1264787849) - id:nattou\_curry
+*   [Visual Basic for Applications (VBA) の言語リファレンス](https://docs.microsoft.com/ja-jp/office/vba/api/overview/language-reference) - Microsoft Docs
+
+## [26. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Learning
 
 *   [Awesome Neural Art (⭐72)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
-## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Bootstrap
-
-*   [Welcome to Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
-
-### Scala / Sinatra
-
-*   [A Scala Tutorial for Java programmers](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) (PDF)
-*   [Scala By Example](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)
-
 ## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Tools / React Component Libraries
+### React Component Libraries
 
-*   [rsuite (⭐7.3k)](https://github.com/rsuite/rsuite) - A suite of React components
+*   [rsuite (⭐7.5k)](https://github.com/rsuite/rsuite) - A suite of React components
 
 ## [28. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -228,7 +342,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [FoalTS (⭐1.7k)](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: <https://foalts.org>)
+*   :octocat: [FoalTS (⭐1.8k)](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: <https://foalts.org>)
 
 ## [33. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -260,7 +374,7 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐455)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐475)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [35. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -451,7 +565,7 @@
 
 ### Reflection
 
-*   [magic\_get (⭐158)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
+*   [magic\_get (⭐167)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
 ## [43. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -554,7 +668,7 @@
 
 ### Code Analysis and Linter
 
-*   [clj-kondo (⭐1.5k)](https://github.com/borkdude/clj-kondo)
+*   [clj-kondo (⭐1.6k)](https://github.com/borkdude/clj-kondo)
 
 ## [52. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -562,10 +676,10 @@
 
 *   Code Linters
     *   [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
-        *   [awesome-flake8-extensions (⭐997)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    *   [pylama (⭐968)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
+        *   [awesome-flake8-extensions (⭐1.1k)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+    *   [pylama (⭐979)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
     *   [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
-    *   [wemake-python-styleguide (⭐2.1k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
+    *   [wemake-python-styleguide (⭐2.2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 
 ## [53. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
@@ -586,7 +700,7 @@
 
 ### Miscellaneous / Related
 
-*   [Awesome Gamedev (⭐1.8k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
+*   [Awesome Gamedev (⭐1.9k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 
 ---
 

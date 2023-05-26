@@ -19,7 +19,7 @@
 *   [How to implement linear regression in Ruby](https://www.practicalai.io/implementing-linear-regression-using-ruby/) <sup>\[[code (⭐5)](https://github.com/daugaard/example-linear-regression)]</sup>
 *   [How to implement simple binary classification using a Neural Network in Ruby](https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/) <sup>\[[code (⭐10)](https://github.com/daugaard/example-neural-network)]</sup>
 
-### Books, Blogs, Channels / Gradient boosting
+### Books, Blogs, Channels / Vector search
 
 *   [Practical Artificial Intelligence](https://www.practicalai.io/) -
     Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.
@@ -49,8 +49,8 @@
 
 ### Example Projects
 
-*   [Red Hat Single Sign-On Labs (⭐12)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐191)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
+*   [Spring Boot Keycloak Tutorial (⭐192)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [7. Inspire](/content/noahbuscher/inspire/README.md)
 

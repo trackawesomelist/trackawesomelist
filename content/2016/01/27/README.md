@@ -39,7 +39,7 @@
 
 ### Testing
 
-*   [ex\_unit\_fixtures (⭐11)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
+*   [ex\_unit\_fixtures (⭐12)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 
 ## [6. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 

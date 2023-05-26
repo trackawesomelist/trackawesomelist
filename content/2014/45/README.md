@@ -10,11 +10,11 @@
 
 ### Date and Time Processing
 
-*   [local\_time (⭐1.7k)](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
+*   [local\_time (⭐1.8k)](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
 
 ### Environment Management
 
-*   [Tokaido (⭐616)](https://github.com/tokaido/tokaidoapp/releases) - Ruby, Rails, SQLite and Redis encapsulated in a single drag-and-drop OS X app, designed to make installing a working RoR environment easy for beginners.
+*   [Tokaido (⭐615)](https://github.com/tokaido/tokaidoapp/releases) - Ruby, Rails, SQLite and Redis encapsulated in a single drag-and-drop OS X app, designed to make installing a working RoR environment easy for beginners.
 
 ## [2. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 

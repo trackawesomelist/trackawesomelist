@@ -40,13 +40,13 @@
 
 ### Open Source Repos / S3
 
-*   [sorentwo/carrierwave-aws :fire::fire: (⭐408)](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
+*   [sorentwo/carrierwave-aws :fire::fire: (⭐405)](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
-*   [electron-context-menu (⭐1.2k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
+*   [electron-context-menu (⭐1.3k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ## [6. Tips](/content/git-tips/tips/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Platforms
 
-*   [WebExtensions (⭐1k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+*   [WebExtensions (⭐1.1k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
 
 ### Programming Languages
 
@@ -18,7 +18,7 @@
 
 ### Front-End Development
 
-*   [Angular (⭐8.8k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Angular (⭐8.9k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 
 ### Back-End Development
 
@@ -30,14 +30,14 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐242)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐249)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.7k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTTP
 
-*   [Cable (⭐111)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐112)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [3. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -61,19 +61,19 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [td-cli (⭐158)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
+*   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 
 ### Utilities / macOS
 
-*   [dark-mode (⭐630)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+*   [dark-mode (⭐635)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Utilities / System Interaction Utilities
 
-*   [battery-level-cli (⭐25)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
-*   [brightness-cli (⭐192)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
+*   [battery-level-cli (⭐26)](https://github.com/gillstrom/battery-level-cli) - Get current battery level.
+*   [brightness-cli (⭐195)](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows (⭐10)](https://github.com/sondreb/win-brightness)).
 *   [yank (⭐1.5k)](https://github.com/mptre/yank) - Yank terminal output to clipboard.
-*   [screensaver (⭐39)](https://github.com/gillstrom/screensaver) - Start the screensaver.
-*   [google-font-installer (⭐159)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+*   [screensaver (⭐40)](https://github.com/gillstrom/screensaver) - Start the screensaver.
+*   [google-font-installer (⭐163)](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -86,7 +86,7 @@
 ### Sparse linear solvers / Mesh tools
 
 *   [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
-    (C, Apache 2.0/MIT, [GitHub (⭐436)](https://github.com/hypre-space/hypre))
+    (C, Apache 2.0/MIT, [GitHub (⭐475)](https://github.com/hypre-space/hypre))
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

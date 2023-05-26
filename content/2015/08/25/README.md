@@ -64,12 +64,12 @@ git remote prune origin
 
 ### Graphic
 
-*   [AsciiImage (⭐34)](https://github.com/Memnarch/AsciiImage). `[Delphi]` AsciiImage-Implementation for Delphi by Alexander Benikowski based on AsciiImage by Charles Parnot. Read more on [his article](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring).
+*   [AsciiImage (⭐35)](https://github.com/Memnarch/AsciiImage). `[Delphi]` AsciiImage-Implementation for Delphi by Alexander Benikowski based on AsciiImage by Charles Parnot. Read more on [his article](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring).
     // *Creates scalable monochrome image from ASCII pixel map*
 
 ### Viewers
 
-*   [HtmlViewer (⭐332)](https://github.com/BerndGabriel/HtmlViewer). `[Delphi]` `[FPC]` Delphi/Lazarus HtmlViewer/FrameViewer.
+*   [HtmlViewer (⭐341)](https://github.com/BerndGabriel/HtmlViewer). `[Delphi]` `[FPC]` Delphi/Lazarus HtmlViewer/FrameViewer.
     // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
 ## [7. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
@@ -458,7 +458,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ### Templates / Misc
 
-*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
 ### Resources / Misc
 

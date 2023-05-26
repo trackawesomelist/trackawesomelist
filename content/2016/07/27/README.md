@@ -10,7 +10,7 @@
 
 ### Template Engine
 
-*   [Stubble (⭐335)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐344)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [2. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Geolocation
 
-*   [geohash (⭐24)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
+*   [geohash (⭐25)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 
 ### Text and Numbers
 
@@ -93,13 +93,13 @@
 
 ### Scientific Computing
 
-*   [Trilinos (⭐847)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
+*   [Trilinos (⭐877)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 
-*   [waynehoover/s3\_direct\_upload :fire::fire::fire: (⭐650)](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
+*   [waynehoover/s3\_direct\_upload :fire::fire::fire: (⭐651)](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
 
 ---
 

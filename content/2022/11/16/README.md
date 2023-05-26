@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2022
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,69 +29,65 @@
 ### Authorization / Policy models
 
 *   [AWS IAM Roles, a tale of unnecessary complexity](https://infosec.rodeo/posts/thoughts-on-aws-iam/) - The history of fast-growing AWS explains how the current sheme came to be, and how it compares to GCP's resource hierarchy.
-*   [SpiceDB (⭐3.2k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
+*   [SpiceDB (⭐3.4k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
 
 ### Authorization / Open-source policy frameworks
 
-*   [Open Policy Agent (⭐7.7k)](https://github.com/open-policy-agent/opa) - An open-source general-purpose decision engine to create and enforce attribute-based access control (ABAC) policies.
-*   [Topaz (⭐561)](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
+*   [Open Policy Agent (⭐7.9k)](https://github.com/open-policy-agent/opa) - An open-source general-purpose decision engine to create and enforce attribute-based access control (ABAC) policies.
+*   [Topaz (⭐638)](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
 
 ### Trust & Safety / User Identity
 
-*   [Ballerine (⭐1.3k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
+*   [Ballerine (⭐1.5k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
-*   [ImageQuality (⭐7)](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM\*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.
+*   [ImageQuality (⭐13)](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM\*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.
 *   [DelphiX](http://www.micrel.cz/Dx/) `[Delphi]` `[FPC]` A good wrapper to DirectX. It can be used to create games or any kind of graphical interface.
 
 ### Game dev
 
-*   [ZenGL (⭐22)](https://github.com/Seenkao/New-ZenGL). `[Delphi]` `[FPC]` OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc.
-
-### Serial port
-
-*   \[ComPortDriver] ([https://github.com/MHumm/ComPortDriver (⭐25)](https://github.com/MHumm/ComPortDriver)). '\[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included.
+*   [ZenGL (⭐32)](https://github.com/Seenkao/New-ZenGL). `[Delphi]` `[FPC]` OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc.
 
 ### Control packs
 
-*   [liblcl (⭐82)](https://github.com/ying32/liblcl). `[FPC]` A common cross-platform GUI library, the core uses Lazarus LCL.
+*   [liblcl (⭐98)](https://github.com/ying32/liblcl). `[FPC]` A common cross-platform GUI library, the core uses Lazarus LCL.
     // *Pascal-based lib with GUI bindings for use in languages like C++, Go, Rust.*
 
 ### Other GUI
 
-*   [GUI AutoSave (⭐3)](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
+*   [GUI AutoSave (⭐7)](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
 
 ### Database
 
-*   [Trysil (⭐49)](https://github.com/davidlastrucci/Trysil) \[Delphi] ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
+*   [Trysil (⭐51)](https://github.com/davidlastrucci/Trysil) \[Delphi] ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
 
 ### System
 
-*   [Storage Access Framework SAF (⭐13)](https://github.com/emozgun/delphi-android-SAF) `[Delphi]` Android Scoped Storage : Storage Access Framework SAF API
+*   [Storage Access Framework SAF (⭐23)](https://github.com/emozgun/delphi-android-SAF) `[Delphi]` Android Scoped Storage : Storage Access Framework SAF API
 
 ### Logging
 
-*   [LogLib (⭐3)](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
+*   [LogLib (⭐5)](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
 
 ### Other non-visual
 
-*   [Delphi LightSaber-CoreLib (⭐19)](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library. Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
-*   [DCContainers (⭐8)](https://github.com/dsapolska/dccontainers). `[Delphi]` Containers library with maps and sets based on red-black tree
-*   [DOSCommand (⭐77)](https://github.com/TurboPack/DOSCommand). `[Delphi]` Component lets you execute a dos program (exe, com or batch file) and catch the ouput in order to put it in a memo or in a listbox, ... You can also send inputs.
+*   [Delphi LightSaber-CoreLib (⭐35)](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library. Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
+*   [DCContainers (⭐10)](https://github.com/dsapolska/dccontainers). `[Delphi]` Containers library with maps and sets based on red-black tree
+*   [DOSCommand (⭐80)](https://github.com/TurboPack/DOSCommand). `[Delphi]` Component lets you execute a dos program (exe, com or batch file) and catch the ouput in order to put it in a memo or in a listbox, ... You can also send inputs.
 
 ### Unit Testing
 
-*   [DelphiCodeCoverageWizardPlus (⭐13)](https://github.com/MHumm/delphi-code-coverage-wizard-plus). `[Delphi]` GUI wizard for creating a batch file to call the commandline code coverage tool. Includes a project format for easier change of settings later on. Includes binaries of the code coverage tool itssel.
+*   [DelphiCodeCoverageWizardPlus (⭐21)](https://github.com/MHumm/delphi-code-coverage-wizard-plus). `[Delphi]` GUI wizard for creating a batch file to call the commandline code coverage tool. Includes a project format for easier change of settings later on. Includes binaries of the code coverage tool itssel.
 
 ### RAD Studio IDE plugins/wizards
 
-*   [Multi-RAD Studio IDE Expert Manager (⭐4)](https://github.com/DGH2112/Expert-Manager). Application allows you to manage the experts and packages loadsed into multiple versions of RAD Studio
-*   [Browse and Doc It (⭐2)](https://github.com/DGH2112/Browse-and-Doc-It). RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.
-*   [Integrated Testing Helper (⭐6)](https://github.com/DGH2112/Integrated-Testing-Helper). Plugin for Delphi and RAD Studio that allows you to run command-line application before and after the compilation of you projects. It also provides the ability to zip you projects files into an archive on each compile/build and manage the application's version information.
-*   [IDE-Notifiers (⭐9)](https://github.com/DGH2112/DGH-IDE-Notifiers). RAD Studio IDE plug-in to display notifications of various operations in the IDE as they occur.
+*   [Multi-RAD Studio IDE Expert Manager (⭐6)](https://github.com/DGH2112/Expert-Manager). Application allows you to manage the experts and packages loadsed into multiple versions of RAD Studio
+*   [Browse and Doc It (⭐4)](https://github.com/DGH2112/Browse-and-Doc-It). RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.
+*   [Integrated Testing Helper (⭐7)](https://github.com/DGH2112/Integrated-Testing-Helper). Plugin for Delphi and RAD Studio that allows you to run command-line application before and after the compilation of you projects. It also provides the ability to zip you projects files into an archive on each compile/build and manage the application's version information.
+*   [IDE-Notifiers (⭐13)](https://github.com/DGH2112/DGH-IDE-Notifiers). RAD Studio IDE plug-in to display notifications of various operations in the IDE as they occur.
 
 ### Code check/review, debug
 
@@ -105,7 +101,7 @@
 
 ### Cryptography
 
-*   [HEhub (⭐65)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
+*   [HEhub (⭐71)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
 ### Integrated Development Environment
 
@@ -115,23 +111,19 @@
 
 ### SQL Query Builders
 
-*   [builq (⭐58)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
+*   [builq (⭐63)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 
 ## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Machine Learning / Automated Machine Learning
 
-*   [AutoGluon (⭐5.3k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [AutoGluon (⭐5.8k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Data Manipulation / Data-centric AI
 
-*   [cleanlab (⭐5.3k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-*   [snorkel (⭐5.4k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-*   [dataprep (⭐1.5k)](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
-
-### Related Resources / NLP
-
-*   [Best of Machine Learning Libraries](https://kandi.openweaver.com/collections/machine-learning/python-machine-learning) - A curated list of best Machine Learning libraries in Python.
+*   [cleanlab (⭐5.9k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [snorkel (⭐5.5k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+*   [dataprep (⭐1.6k)](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -181,7 +173,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vue USWDS (⭐4)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
+*   [Vue USWDS (⭐5)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 
 ## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -191,11 +183,11 @@
 
 ### Templates / React
 
-*   [vite-plugin-react-views (⭐8)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
+*   [vite-plugin-react-views (⭐14)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 
 ### Templates / Electron
 
-*   [Vutron (⭐58)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐79)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -203,33 +195,13 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [cypress-vite (⭐36)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [cypress-vite (⭐51)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 ## [17. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Blog posts
 
 *   [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
-
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C++ / Non-X86
-
-*   [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) - Alex Allain
-
-### JavaScript / Wicket
-
-*   [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
-
-### JavaScript / Node.js
-
-*   [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
-*   [Serverless framework getting started](https://www.serverless.com/framework/docs/getting-started)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
-*   [Use The Index, Luke!: A Guide To SQL Database Performance](https://use-the-index-luke.com) - Markus Winand (HTML)
 
 ---
 

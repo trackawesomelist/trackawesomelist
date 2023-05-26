@@ -48,11 +48,11 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐277)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐294)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
-*   [jose-simple (⭐56)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+*   [jose-simple (⭐57)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
 ## [7. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐432)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐434)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

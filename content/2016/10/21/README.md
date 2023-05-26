@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2016
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -45,13 +45,7 @@
 
 *   [Cryptography](https://www.coursera.org/learn/cryptography) - A practical oriented course in Cryptography by University of Maryland College Park.
 
-## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
-
-### Results Processing / Results Analysis
-
-*   [JMeter Result Analysis Plugin (⭐56)](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
-
-## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Related Projects / Themes
 
@@ -71,7 +65,7 @@
 *   [React Redux Intro (⭐33)](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 
-## [7. Awesome Relay](/content/expede/awesome-relay/README.md)
+## [6. Awesome Relay](/content/expede/awesome-relay/README.md)
 
 ### Tutorials
 

@@ -28,7 +28,7 @@
 
 ### Contents / Tools
 
-*   [NetworkArch (⭐11)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
+*   [NetworkArch (⭐12)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Relational Database Drivers
 
-*   [KSQL (⭐210)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
+*   [KSQL (⭐221)](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
 
 ## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

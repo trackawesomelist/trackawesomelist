@@ -10,7 +10,7 @@
 
 ### Algorithms and Data Structures
 
-*   [ods (⭐44)](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
+*   [ods (⭐46)](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
 *   [combine (⭐34)](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
 
 ### Compilers and Compiler Tools
@@ -24,7 +24,7 @@
 
 ### Questions
 
-*   [biocaml (⭐113)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
+*   [biocaml (⭐117)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 *   [onumerical (⭐8)](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 
 ---

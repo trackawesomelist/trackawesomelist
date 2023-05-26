@@ -18,7 +18,7 @@
 
 ### External Services
 
-*   [goodreads-box (⭐14)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐18)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -28,7 +28,7 @@
 
 ## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
-### specifically from (  *a certain platform*  ) / Instagram
+### specifically from (*a certain platform*) / Instagram
 
 *   [rss.yuji.ne.jp](https://rss.yuji.ne.jp) <sup>[639](https://t.me/s/aboutrss/639)</sup>[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/yujixr/instarss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 

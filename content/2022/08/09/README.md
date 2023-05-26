@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -140,7 +140,7 @@
 
 ### Languages / Python
 
-*   [smart-asa (⭐27)](https://github.com/algorandlabs/smart-asa) - Smart ASA PyTeal reference implementation based on ARC-20.
+*   [smart-asa (⭐28)](https://github.com/algorandlabs/smart-asa) - Smart ASA PyTeal reference implementation based on ARC-20.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -162,55 +162,66 @@
 
 ![Screenshot from 2022-08-09 15-51-59](https://user-images.githubusercontent.com/19710754/183682207-df364826-3299-4945-9962-39e9996d177c.png)
 
-## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [pysystemtrade (⭐2k)](https://github.com/robcarver17/pysystemtrade) - pysystemtrade is the open source version of Robert Carver's backtesting and trading engine that implements systems according to the framework outlined in his book "Systematic Trading", which is further developed on his [blog](https://qoppac.blogspot.com/).
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [systematictradingexamples (⭐179)](https://github.com/robcarver17/systematictradingexamples) - Examples of code related to book [Systematic Trading](https://github.com/wilsonfreitas/awesome-quant/blob/main/README.md/www.systematictrading.org) and [blog](http://qoppac.blogspot.com)
+*   [pysystemtrade\_examples (⭐80)](https://github.com/robcarver17/pysystemtrade_examples) - Examples using pysystemtrade for Robert Carver's [blog](http://qoppac.blogspot.com).
+
+## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Others / Other Resource
 
-*   [FinancePy (⭐1.1k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+*   [FinancePy (⭐1.4k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Network programming
 
 *   Raknet
-    *   [b23r0/rust-raknet (⭐169)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation by Rust [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
+    *   [b23r0/rust-raknet (⭐181)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation by Rust [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 
-## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [jwave (⭐48)](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 
-## [8. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
+## [9. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
 ### Fundamental concepts
 
 *   [Responsive Design](https://web.dev/learn/design/) - Extensive information about all aspects of responsive design to make sites that look great and work well for everyone.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaunsingh/moonlight.nvim (⭐141)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
-*   [rebelot/kanagawa.nvim (⭐2k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [shaunsingh/moonlight.nvim (⭐149)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
+*   [rebelot/kanagawa.nvim (⭐2.5k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ### Utility / Diagnostics
 
-*   [rcarriga/nvim-notify (⭐1.9k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
+*   [rcarriga/nvim-notify (⭐2.1k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
 
 ### Editing Support / Diagnostics
 
-*   [Pocco81/TrueZen.nvim (⭐751)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
-*   [Pocco81/HighStr.nvim (⭐230)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
-*   [Pocco81/AutoSave.nvim (⭐372)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
+*   [Pocco81/TrueZen.nvim (⭐785)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
+*   [Pocco81/HighStr.nvim (⭐240)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
+*   [Pocco81/AutoSave.nvim (⭐413)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Abstract-IDE/Abstract (⭐149)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
-*   [vi-tality/neovitality (⭐53)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
-*   [cstsunfu/.sea.nvim (⭐103)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
+*   [Abstract-IDE/Abstract (⭐157)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
+*   [vi-tality/neovitality (⭐54)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
+*   [cstsunfu/.sea.nvim (⭐111)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -220,11 +231,11 @@
 
 *   [Skiff Mail](https://skiff.com/mail) - Encrypted & Decentralized Email -- available on web, iOS/Android, and macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/skiff-org/skiff-mail)
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Featured
 
-*   [Hyper (⭐40k)](https://github.com/zeit/hyper) - Terminal.
+*   [Hyper (⭐41k)](https://github.com/zeit/hyper) - Terminal.
 
 ### Open Source / Other
 

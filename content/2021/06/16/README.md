@@ -26,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-sweet-calendar (⭐34)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
+*   [vue-sweet-calendar (⭐35)](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
 
 ## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Automation / DSL
 
-*   [jmeter-as-code (⭐27)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
+*   [jmeter-as-code (⭐29)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
 ## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -55,20 +55,20 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-semantic-admin (⭐65)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-*   [django-baton (⭐657)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+*   [django-semantic-admin (⭐78)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐724)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [jubnzv/mdeval.nvim (⭐112)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
+*   [jubnzv/mdeval.nvim (⭐128)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
-- Name: [WinterCMS (⭐1k)](https://github.com/wintercms/winter)
+- Name: [WinterCMS (⭐1.1k)](https://github.com/wintercms/winter)
 
   Description: CMS platform built on Laravel
 

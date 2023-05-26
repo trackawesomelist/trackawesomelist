@@ -218,7 +218,7 @@
 
 ### Ahead-of-Time Compilation / Components
 
-*   [Code Example with Webpack (⭐317)](https://github.com/blacksonic/angular2-aot-webpack)
+*   [Code Example with Webpack (⭐315)](https://github.com/blacksonic/angular2-aot-webpack)
 *   [Code Example with Rollup (⭐81)](https://github.com/mgechev/angular2-ngc-rollup-build)
 
 ## [10. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
@@ -367,7 +367,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Math / Other
 
-*   [Math snippets (⭐99)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+*   [Math snippets (⭐103)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
 ## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -415,21 +415,21 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
   Link: <http://fatiherikli.github.io/fil>
 
 
-- Name: [Spectacle (⭐9.4k)](https://github.com/FormidableLabs/spectacle)
+- Name: [Spectacle (⭐9.5k)](https://github.com/FormidableLabs/spectacle)
 
   Description: A React library for Deck/Slide Presentations.
 
-  Link: [http://stack.formidable.com/spectacle (⭐9.4k)](https://github.com/FormidableLabs/spectacle)
+  Link: [http://stack.formidable.com/spectacle (⭐9.5k)](https://github.com/FormidableLabs/spectacle)
 
 
-- Name: [Google Map Clustering (⭐199)](https://github.com/istarkov/google-map-clustering-example)
+- Name: [Google Map Clustering (⭐197)](https://github.com/istarkov/google-map-clustering-example)
 
   Description: A Google Map Clustering Example
 
   Link: <http://istarkov.github.io/google-map-clustering-example>
 
 
-- Name: [Perseus (⭐1.2k)](https://github.com/Khan/perseus)
+- Name: [Perseus (⭐1.3k)](https://github.com/Khan/perseus)
 
   Description: Perseus is Khan Academy's new exercise question editor and renderer
 
@@ -488,12 +488,12 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Timeline / Runner
 
-*   [TimelineJS v3 (⭐2.6k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+*   [TimelineJS v3 (⭐2.7k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
 *   [timesheet.js (⭐6.9k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ### Notifications / Runner
 
-*   [notie (⭐6.2k)](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
+*   [notie (⭐6.3k)](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 
 ## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -690,7 +690,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 ### Libraries Audio
 
 *   [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-*   [audiowaveform (⭐1.5k)](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
+*   [audiowaveform (⭐1.6k)](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 
 ### Libraries Visualization
 
@@ -724,7 +724,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Cryptography
 
-*   [mbedTLS (⭐4k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+*   [mbedTLS (⭐4.2k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [mailspoof (⭐80)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
+*   [mailspoof (⭐91)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 
 ## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Development Tools
 
-*   [openapi-generator (⭐15k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+*   [openapi-generator (⭐16k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -75,22 +75,22 @@
 
 ### Related awesome-lists
 
-*   [Web Components (⭐1.9k)](https://github.com/mateusortiz/webcomponents-the-right-way)
-*   [Microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
-*   [Micro Frontends (⭐509)](https://github.com/ChristianUlbrich/awesome-microfrontends)
+*   [Web Components (⭐2.2k)](https://github.com/mateusortiz/webcomponents-the-right-way)
+*   [Microservices (⭐12k)](https://github.com/mfornos/awesome-microservices)
+*   [Micro Frontends (⭐531)](https://github.com/ChristianUlbrich/awesome-microfrontends)
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
-*   [Mamonsu (⭐176)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
+*   [Mamonsu (⭐175)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 *   [ZabbixDBA (⭐81)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
-*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐396)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
+*   [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐432)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
 ---
 

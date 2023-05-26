@@ -64,7 +64,7 @@
 *   [Intrigue Core (⭐1.3k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐541)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐550)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
@@ -78,7 +78,7 @@
 ### Ionic 2 General Resources / Components
 
 *   [Ionic 2 Repository (GitHub)](https://github.com//ionic-team/ionic)
-*   [Ionic 2 Awesome (⭐827)](https://github.com/candelibas/awesome-ionic)
+*   [Ionic 2 Awesome (⭐834)](https://github.com/candelibas/awesome-ionic)
 
 ## [4. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 

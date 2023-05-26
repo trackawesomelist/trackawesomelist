@@ -1,6 +1,6 @@
 # Awesome List Updates on May 27, 2021
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 
 ### Miscellaneous / Platforms
 
-*   [superseriousstats (⭐88)](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
+*   [superseriousstats (⭐89)](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
 
 ## [5. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [yor (⭐633)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
+*   [yor (⭐654)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -102,7 +102,22 @@
 
 *   [Thunderbird](https://www.thunderbird.net) - A free customizable open source email client.
 
-## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### R / Trading
+
+*   [blotter (⭐106)](https://github.com/braverock/blotter) - Transaction infrastructure for defining instruments, transactions, portfolios and accounts for trading systems and simulation. Provides portfolio support for multi-asset class and multi-currency portfolios. Actively maintained and developed.
+
+### R / Factor Analysis
+
+*   [FactorAnalytics (⭐49)](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
+*   [Expected Returns (⭐32)](https://github.com/JustinMShea/ExpectedReturns) - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen.
+
+### CSharp / Data Visualization
+
+*   [TDAmeritrade.DotNetCore (⭐47)](https://github.com/NVentimiglia/TDAmeritrade.DotNetCore) - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
+
+## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
@@ -192,58 +207,58 @@
 
 *   [Unraveling Golem's The Next Milestone](https://blog.golemproject.net/next-milestone) - Introduction to the Yagna implementation of Golem.
 
-## [12. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [13. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Finite Elements
 
-*   [scikit-fem (⭐296)](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
+*   [scikit-fem (⭐319)](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
     (Python, BSD/GPL, GitHub)
 
 ### Visualization / Mesh tools
 
 *   [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
-    (C++/Python, BSD, [GitHub (⭐332)](https://github.com/topology-tool-kit/ttk))
+    (C++/Python, BSD, [GitHub (⭐356)](https://github.com/topology-tool-kit/ttk))
 
-## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / LED Segment
 
-*   [TM74HC595 (⭐3)](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
+*   [TM74HC595 (⭐4)](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
 
 ### IO / DAC
 
 *   [mcp4728 (⭐2)](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
 
-## [14. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Continuous Integration / MIT
 
 *   [ada-actions (⭐17)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
 
-## [15. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [16. Awesome Security](/content/sbilly/awesome-security/README.md)
+
+### Network / Scanning / Pentesting
+
+*   [Netz (⭐357)](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
 
 ### DevOps / Development
 
-*   [Preflight (⭐136)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
-*   [Teller (⭐1k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
+*   [Preflight (⭐145)](https://github.com/spectralops/preflight) - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems.
+*   [Teller (⭐1.6k)](https://github.com/spectralops/teller) - a secrets management tool for devops and developers - manage secrets across multiple vaults and keystores from a single place.
 
-## [16. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [17. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
 *   [ytmdl (⭐2.7k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
 
-## [17. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
-
-### Dynamic Analysis
-
-*   [Netz (⭐339)](https://github.com/spectralops/netz) - *Spectral* - Discover internet-wide misconfigurations, using zgrab2 and others.
+## [18. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Secrets Scanning / Ansible
 
 *   [SpectralOps](https://spectralops.io) - *Spectral* - Automated code security, secrets, tokens and sensitive data scanning.
 
-## [18. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [19. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Compression
 
@@ -251,21 +266,21 @@
 *   [Zip](https://crystal-lang.org/api/Compress/Zip.html) - readers and writers of zip format (Crystal stdlib)
 *   [Zlib](https://crystal-lang.org/api/Compress/Zlib.html) - readers and writers of zlib format (Crystal stdlib)
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [20. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Third Party APIs
 
 *   [tradehub (⭐3)](https://github.com/anhmv/tradehub-elixir) - An Elixir client library for the Tradehub blockchain.
 
-## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐239)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐270)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐452)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+*   [tanvirtin/vgit.nvim (⭐483)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ---
 

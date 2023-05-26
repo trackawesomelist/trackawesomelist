@@ -27,23 +27,23 @@
 
 ### State Machines
 
-*   [state\_machines (⭐687)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐694)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Industrial Control System Security (⭐16)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
+*   [Awesome Industrial Control System Security (⭐25)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Vert.x Event Bus Clients
 
-*   [Java (⭐119)](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
+*   [Java (⭐117)](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
 
 ### Front-End
 
-*   [VertxUI (⭐119)](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
+*   [VertxUI (⭐117)](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
 
 ## [6. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoGameBoy (⭐117)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
+*   [ArduinoGameBoy (⭐127)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 
 ## [11. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

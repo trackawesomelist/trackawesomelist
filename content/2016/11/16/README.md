@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Button / Barcode
 
-*   [LTHRadioButton (⭐367)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
+*   [LTHRadioButton (⭐369)](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 
 ## [3. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -57,45 +57,39 @@
 ### Compilers, Transpilers and Languages
 
 *   [P (⭐2.7k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐706)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [Roslyn-linq-rewrite (⭐708)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
-## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
-
-### Experiments
-
-*   [Beat](http://experiments.kevinboudot.me/canvas-beat/) - Beat is a HTML5 audio/canvas experiment inspired by Propellerheads Figure iOS App.
-
-## [7. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### Framework / Question Answering
 
 *   Deepgaze: A computer vision library for human-computer interaction based on CNNs \[[Web (⭐1.6k)](https://github.com/mpatacchiola/deepgaze)]
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Examples and funny stuff
 
-*   [try.cr (⭐27)](https://github.com/maiha/try.cr) - Try monad
+*   [try.cr (⭐26)](https://github.com/maiha/try.cr) - Try monad
 
-## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / S companies
 
 *   Stack Overflow <https://stackoverflow.blog/engineering/>
 
-## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
 
-## [11. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [10. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Software as a service:
 
 *   [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
 
-## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 
@@ -103,13 +97,13 @@
 
 ### Web Programming • Libraries
 
-*   [regl (⭐4.8k)](https://github.com/regl-project/regl) - Functional WebGL.
+*   [regl (⭐4.9k)](https://github.com/regl-project/regl) - Functional WebGL.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐305)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
+*   [WebGL Lessons — Fragment Shaders (⭐307)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 
@@ -122,7 +116,7 @@
 *   [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
 *   [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) - Shadertoy GLSL 2D Tutorial.
 
-## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Devices and Wearables / Wealth
 

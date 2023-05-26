@@ -74,7 +74,7 @@
 
 ### Erlang VM / Erlang
 
-*   [Cowboy (⭐6.8k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
+*   [Cowboy (⭐6.9k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

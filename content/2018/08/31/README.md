@@ -34,9 +34,9 @@
 
 ### JupyterLab Extensions
 
-*   [drawio (⭐556)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-*   [latex (⭐543)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [variableinspector (⭐961)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
+*   [drawio (⭐562)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
+*   [latex (⭐545)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+*   [variableinspector (⭐971)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 
 ## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

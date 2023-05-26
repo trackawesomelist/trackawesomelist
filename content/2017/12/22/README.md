@@ -16,24 +16,24 @@
 
 ### Text / Barcode
 
-*   [Sprinter (⭐168)](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
+*   [Sprinter (⭐167)](https://github.com/nicklockwood/Sprinter) - A library for formatting strings.
 
 ### UI / Barcode
 
-*   [CountryPickerView (⭐459)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
+*   [CountryPickerView (⭐465)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
 ## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### General Libraries
 
-*   [GrijjyFoundation (⭐209)](https://github.com/grijjy/GrijjyFoundation). `[Delphi]` Foundation classes and utilities that are used throughout the other Grijjy Repositories.
+*   [GrijjyFoundation (⭐220)](https://github.com/grijjy/GrijjyFoundation). `[Delphi]` Foundation classes and utilities that are used throughout the other Grijjy Repositories.
     // *BSON/JSON, IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.*
 
 ## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Optimization / NLP
 
-*   [Bayesian Optimization (⭐6.6k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐6.8k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 

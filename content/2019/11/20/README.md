@@ -12,7 +12,7 @@
 
 *   [Bicycle Repair Man](http://bicyclerepair.sourceforge.net/) - Bicycle Repair Man, a refactoring tool for Python.
 *   [Bowler](https://pybowler.io/) - Safe code refactoring for modern Python.
-*   [Rope (⭐1.5k)](https://github.com/python-rope/rope) -  Rope is a python refactoring library.
+*   [Rope (⭐1.6k)](https://github.com/python-rope/rope) -  Rope is a python refactoring library.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Plugins / Frameworks
 
-*   [AngularJS (⭐612)](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide (⭐24k)](https://github.com/johnpapa/angular-styleguide).
+*   [AngularJS (⭐615)](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's AngularJS Styleguide (⭐24k)](https://github.com/johnpapa/angular-styleguide).
 
 ### Plugins / Practices and Specific ES Features
 
@@ -73,13 +73,13 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐3.7k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
+*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐3.8k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 
 ## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Open Source Projects / Wealth
 
-*   [Heedy (⭐357)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐363)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

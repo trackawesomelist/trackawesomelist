@@ -10,13 +10,13 @@
 
 ### Parser / Package managers
 
-*   [Arwalk/zig-protobuf (⭐60)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+*   [Arwalk/zig-protobuf (⭐66)](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-router-webcache (⭐3)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
+*   [vue-router-webcache (⭐6)](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 
 ## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Maps
 
-*   [goradd/maps (⭐15)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+*   [goradd/maps (⭐22)](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### SQL Query Builders
 
@@ -83,40 +83,40 @@
 
 ### Logging
 
-*   [slf4g (⭐5)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
+*   [slf4g (⭐3)](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
 
 ### Microsoft Excel
 
-*   [exl (⭐15)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
+*   [exl (⭐17)](https://github.com/go-the-way/exl) - Excel binding to struct written in Go.(Only supports Go1.18+)
 
 ### Parsers/Encoders/Decoders
 
 *   [encdec (⭐8)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
-*   [go-fasttld (⭐14)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
+*   [go-fasttld (⭐17)](https://github.com/elliotwutingfeng/go-fasttld) - High performance effective top level domains (eTLD) extraction module.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
-*   [EmailLabs.io](https://emaillabs.io/en) — Send up to 24 000 Email for free every month.
+*   [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails per day.
 
 ## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Parsers
 
-*   [SQLGlot (⭐2.8k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
+*   [SQLGlot (⭐2.9k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
 ## [11. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
-*   [ZITADEL (⭐2.5k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+*   [ZITADEL (⭐3.2k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
 ## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### ORM
 
-*   [tdengine-orm (⭐7)](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.<!--lint ignore awesome-list-item-->
+*   [tdengine-orm (⭐9)](https://github.com/Yurunsoft/tdengine-orm) - TDengine ORM based on tdengine-restful-connector & php-tdengine.<!--lint ignore awesome-list-item-->
 
 ### Data
 

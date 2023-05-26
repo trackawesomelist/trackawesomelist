@@ -46,7 +46,7 @@
 
 ### WSL Tools / Terminals
 
-*   [Fluent Terminal (⭐8.5k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+*   [Fluent Terminal (⭐8.9k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
 ## [6. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 

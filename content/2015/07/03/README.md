@@ -39,7 +39,7 @@
 
 ### Miscellaneous
 
-*   [html\_entities (⭐79)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
+*   [html\_entities (⭐82)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 
 ## [3. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Examples
 
-*   [Vert.x Markdown service (⭐6)](https://github.com/aesteve/vertx-markdown-service) - Example on how to use [service-proxy (⭐63)](https://github.com/vert-x3/vertx-service-proxy) with Gradle.
+*   [Vert.x Markdown service (⭐6)](https://github.com/aesteve/vertx-markdown-service) - Example on how to use [service-proxy (⭐64)](https://github.com/vert-x3/vertx-service-proxy) with Gradle.
 
 ## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 

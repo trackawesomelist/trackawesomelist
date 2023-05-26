@@ -10,18 +10,18 @@
 
 ### Algorithms and Data structures
 
-*   [eastar (⭐26)](https://github.com/herenowcoder/eastar) - A\* graph pathfinding in pure Elixir.
+*   [eastar (⭐27)](https://github.com/herenowcoder/eastar) - A\* graph pathfinding in pure Elixir.
 *   [fnv (⭐4)](https://github.com/asaaki/fnv.ex) - Pure Elixir implementation of Fowler–Noll–Vo hash functions.
 *   [remodel (⭐139)](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 
 ### Cloud Infrastructure and Management
 
-*   [discovery (⭐250)](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
+*   [discovery (⭐249)](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
 
 ### Examples and funny stuff
 
 *   [phoenix-flux-react (⭐160)](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
-*   [portal (⭐48)](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
+*   [portal (⭐47)](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
 
 ### Macros
 
@@ -35,13 +35,13 @@
 
 ### Text and Numbers
 
-*   [expletive (⭐35)](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
+*   [expletive (⭐38)](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
 
 ### Third Party APIs
 
 *   [edgarex (⭐1)](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
 *   [everex (⭐10)](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
-*   [pusher (⭐22)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
+*   [pusher (⭐23)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 
 ## [2. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md)
 

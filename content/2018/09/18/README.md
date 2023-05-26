@@ -36,12 +36,12 @@
 
 ### Misc
 
-*   [Tuist (⭐3.2k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
+*   [Tuist (⭐3.3k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
 *   [xcodeproj (⭐1.8k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Video / Barcode
 
-*   [PryntTrimmerView (⭐741)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
+*   [PryntTrimmerView (⭐749)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
 ## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -85,17 +85,17 @@
 
 ### Platforms
 
-*   [DigitalOcean (⭐299)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐312)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 
-*   [Game Boy Development (⭐3.4k)](https://github.com/gbdev/awesome-gbdev#readme)
+*   [Game Boy Development (⭐3.5k)](https://github.com/gbdev/awesome-gbdev#readme)
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Device Farm
 
-*   [aws-device-farm-sample-app-for-android :fire: (⭐161)](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
+*   [aws-device-farm-sample-app-for-android :fire: (⭐164)](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
 
 ---
 

@@ -35,13 +35,9 @@
 
 ### Articles
 
-*   [C++Now 2014 Presentations (⭐429)](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
-*   [C++Now 2013 Presentations (⭐191)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
-*   [C++Now 2012 Presentations (⭐171)](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
-
-### Websites
-
-*   [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
+*   [C++Now 2014 Presentations (⭐430)](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
+*   [C++Now 2013 Presentations (⭐192)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
+*   [C++Now 2012 Presentations (⭐172)](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 
 ### Other Awesome Projects
 
@@ -57,7 +53,7 @@
 
 ### Literate Programming
 
-*   [marginalia (⭐782)](https://github.com/gdeer81/marginalia)
+*   [marginalia (⭐788)](https://github.com/gdeer81/marginalia)
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -67,7 +63,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [pyhsmm (⭐528)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
+*   [pyhsmm (⭐530)](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
 
 ## [9. Magictools](/content/ellisonleao/magictools/README.md)
 

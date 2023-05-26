@@ -75,11 +75,11 @@
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [gtfs-realtime-bindings (⭐318)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐404)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
+*   [gtfs-realtime-bindings (⭐321)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐414)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [gtfsrdb (⭐31)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
+*   [gtfsrdb (⭐33)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 
 ### SIRI / Ruby
 
@@ -127,7 +127,7 @@
 
 ### Laravel
 
-- Name: [Openlaravel (⭐110)](https://github.com/ammezie/openlaravel)
+- Name: [Openlaravel (⭐113)](https://github.com/ammezie/openlaravel)
 
   Description: A collection of open source projects built using Laravel
 
@@ -151,7 +151,7 @@ Free
 
 ### Contents / Utilities
 
-*   [pg\_migrate (⭐26)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+*   [pg\_migrate (⭐27)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
 ## [17. Tips](/content/git-tips/tips/week/README.md)
 
@@ -326,10 +326,6 @@ git checkout master@{yesterday}
 
 ## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
-### Frameworks
-
-*   [Qt](https://www.qt.io/download-open-source/) :zap: - A cross-platform application and UI framework. \[GPL/LGPL/Commercial]
-
 ### Game Engine
 
 *   [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. \[MIT]
@@ -421,7 +417,7 @@ $ git config --global merge.tool meld
 
 ### Command Line Applications
 
-*   [tabula (⭐87)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐88)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 
@@ -429,13 +425,13 @@ $ git config --global merge.tool meld
 
 ### Utilities
 
-*   [mnemonix (⭐35)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
+*   [mnemonix (⭐36)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
 ## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
-*   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐611)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
+*   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐612)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
 ## [37. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
@@ -479,7 +475,7 @@ $ git config --global merge.tool meld
 
 ### Packages / Utilities
 
-*   [Audion (⭐304)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
+*   [Audion (⭐322)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
 ## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -517,7 +513,7 @@ $ git config --global merge.tool meld
 ### Developer
 
 *   [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-*   [DevDocs (⭐620)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+*   [DevDocs (⭐637)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
 
 ### Text Manipulation
 
@@ -525,7 +521,7 @@ $ git config --global merge.tool meld
 
 ### Scientific
 
-*   [Scientific Workflow (⭐99)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+*   [Scientific Workflow (⭐102)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 
 ### Miscellaneous
 
@@ -533,7 +529,7 @@ $ git config --global merge.tool meld
 
 ### System
 
-*   [Swift Windows Switcher (⭐317)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
+*   [Swift Windows Switcher (⭐325)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
 ## [45. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 

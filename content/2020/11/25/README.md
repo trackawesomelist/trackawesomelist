@@ -10,13 +10,13 @@
 
 ### API
 
-*   [Swiftkube (⭐96)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
+*   [Swiftkube (⭐100)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Language-related
 
-*   [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - See also: [\[1\]](https://www.seas.upenn.edu/\~cis500/cis500-f06/resources/programming_style.html), [\[2\]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [\[3\]](https://www.seas.upenn.edu/\~cis120/20fa/ocaml_style/).
+*   [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - See also: [\[1\]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [\[2\]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [\[3\]](https://www.seas.upenn.edu/~cis120/20fa/ocaml_style/).
 *   [A safe but strange way of modifying OCaml compiler](https://camlspotter.blogspot.com/2012/09/a-safe-but-strange-way-of-modifying.html)
 
 ## [3. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
@@ -29,7 +29,7 @@
 
 ### Developer Tools / Databases
 
-*   [Chrome MySQL Admin (⭐137)](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yoichiro/chrome_mysql_admin)
+*   [Chrome MySQL Admin (⭐136)](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yoichiro/chrome_mysql_admin)
 
 ## [5. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -48,7 +48,7 @@
 ### Packages / Ecosystem
 
 *   [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
-*   [Unity Robotics Hub (⭐1.4k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
+*   [Unity Robotics Hub (⭐1.5k)](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
 ### Organizations / Robotics Capture the Flag (RCTF)
 
@@ -58,7 +58,7 @@
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [gbdk-go (⭐19)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
+*   [gbdk-go (⭐20)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

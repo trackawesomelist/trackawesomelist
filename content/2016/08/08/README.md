@@ -31,7 +31,7 @@
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐86)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐88)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Third Party APIs
 
@@ -63,7 +63,7 @@
 
 ### Configuration
 
-*   [cr-dotenv (⭐93)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐95)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Web Frameworks
 
@@ -73,7 +73,7 @@
 
 ### Developer
 
-*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐47k)](https://github.com/google/material-design-icons).
+*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐48k)](https://github.com/google/material-design-icons).
 
 ## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

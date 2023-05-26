@@ -34,13 +34,13 @@
 
 ### Contents / Toolkits
 
-*   [Create Preact App (⭐98)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
+*   [Create Preact App (⭐99)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
 
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐109)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
+*   [ptags (⭐113)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -96,7 +96,7 @@
 
 ### CMS
 
-*   [Fae (⭐825)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐828)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

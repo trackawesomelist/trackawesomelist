@@ -10,11 +10,11 @@
 
 ### Libraries / Python
 
-*   [aiosnmp (⭐36)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported.
+*   [aiosnmp (⭐37)](https://github.com/hh-h/aiosnmp) - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported.
 
 ### Libraries / Rust
 
-*   [davedufresne/modern\_snmp (⭐13)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
+*   [davedufresne/modern\_snmp (⭐15)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
 *   [Svedrin/sunt (⭐24)](https://github.com/Svedrin/sunt) - This repository implements an SNMP Agent written in Rust.
 
 ## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-side-panel (⭐24)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
+*   [vue3-side-panel (⭐27)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Libraries / GUI
 
-*   [DioxusLabs/dioxus (⭐7.4k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
+*   [DioxusLabs/dioxus (⭐9.2k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 
 ## [6. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

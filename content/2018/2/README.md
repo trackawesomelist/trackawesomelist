@@ -79,13 +79,13 @@
 
 ### Utilities / System Related Tools
 
-*   [Juice (⭐733)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brianmichel/Juice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Juice (⭐731)](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brianmichel/Juice) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
-*   [REST.VertX (⭐142)](https://github.com/zandero/rest.vertx) - Lightweight JAX-RS (RestEasy) like annotation processor for Vert.x verticals.
+*   [REST.VertX (⭐145)](https://github.com/zandero/rest.vertx) - Lightweight JAX-RS (RestEasy) like annotation processor for Vert.x verticals.
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -209,11 +209,11 @@
 ### Software / Automation
 
 *   [Headphones (⭐3.2k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
-*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐8.4k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`
+*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐8.6k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`
 
 ### Software / Blogging Platforms
 
-*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐60)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
+*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐59)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -221,7 +221,7 @@
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code (⭐5.7k)](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
+*   [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code (⭐5.8k)](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`
 *   [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPL-3.0` `Ruby`
 *   [Sympa](https://www.sympa.org/) - Mailing list manager. `GPL-2.0` `Perl`
 
@@ -232,42 +232,37 @@
 ### Software / Communication - Social Networks and Forums
 
 *   [Elgg](https://elgg.org/) - Powerful open source social networking engine. ([Source Code (⭐1.6k)](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`
-*   [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([Source Code (⭐6k)](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
+*   [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([Source Code (⭐6.1k)](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - XMPP - Web Clients
 
-*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐683)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
+*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐684)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
 
 ### Software / Content Management Systems (CMS)
 
-*   [Pagekit](https://pagekit.com/) - New modern CMS to create and share. ([Source Code (⭐5.5k)](https://github.com/pagekit/pagekit)) `MIT` `PHP`
-*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐300)](https://github.com/redaxo/redaxo)) `MIT` `PHP`
-*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐910)](https://github.com/TYPO3/TYPO3.CMS)) `GPL-2.0` `PHP`
+*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐305)](https://github.com/redaxo/redaxo)) `MIT` `PHP`
+*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐922)](https://github.com/TYPO3/TYPO3.CMS)) `GPL-2.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Temboz (⭐63)](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
+*   [Temboz (⭐65)](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code (⭐9.4k)](https://github.com/transmission/transmission)) `GPL-3.0` `C`
+*   [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code (⭐9.8k)](https://github.com/transmission/transmission)) `GPL-3.0` `C`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [Plik (⭐1.2k)](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go`
 
-### Software / Media Streaming - Audio Streaming
-
-*   [Groove Basin (⭐1.8k)](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface inspired by Amarok 1.4. `MIT` `Nodejs`
-
 ### Software / Miscellaneous
 
-*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐364)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
+*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐380)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
 *   [google-webfonts-helper (⭐11k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://gwfh.mranftl.com/fonts)) `MIT` `Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐6.9k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
+*   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐7.1k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
 
 ### Software / Note-taking & Editors
 
@@ -275,27 +270,27 @@
 
 ### Software / Office Suites
 
-*   [Infinoted (⭐546)](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby (⭐546)](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code (⭐546)](https://github.com/gobby/gobby)) `MIT` `C++`
+*   [Infinoted (⭐550)](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby (⭐550)](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code (⭐550)](https://github.com/gobby/gobby)) `MIT` `C++`
 
 ### Software / Pastebins
 
-*   [Sup3rS3cretMes5age (⭐411)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
+*   [Sup3rS3cretMes5age (⭐418)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 
 ### Software / Proxy
 
-*   [PHP-Proxy](https://www.php-proxy.com/) - Web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube. ([Demo](https://unblockvideos.com/), [Source Code (⭐743)](https://github.com/Athlon1600/php-proxy-app)) `MIT` `PHP`
+*   [PHP-Proxy](https://www.php-proxy.com/) - Web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube. ([Demo](https://unblockvideos.com/), [Source Code (⭐758)](https://github.com/Athlon1600/php-proxy-app)) `MIT` `PHP`
 
 ### Software / Software Development - Project Management
 
-*   [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code (⭐35k)](https://github.com/go-gitea/gitea)) `MIT` `Go`
+*   [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code (⭐37k)](https://github.com/go-gitea/gitea)) `MIT` `Go`
 
 ### Software / Ticketing
 
-*   [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code (⭐3.3k)](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby`
+*   [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code (⭐3.4k)](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby`
 
 ### Software / Wikis
 
-*   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code (⭐3.6k)](https://github.com/splitbrain/dokuwiki)) `GPL-2.0` `PHP`
+*   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code (⭐3.7k)](https://github.com/splitbrain/dokuwiki)) `GPL-2.0` `PHP`
 *   [Gitit (⭐2.1k)](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`
 *   [Gollum (⭐13k)](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
 
@@ -425,19 +420,19 @@
 
 ### Libraries / Python
 
-*   [Python-Markdown (⭐3k)](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
+*   [Python-Markdown (⭐3.2k)](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
 
 ### Tools / Converters
 
-*   [turndown (⭐6.4k)](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
+*   [turndown (⭐6.9k)](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 
 ### Tools / Linters
 
-*   [Markdown Lint Tool (⭐1.4k)](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
+*   [Markdown Lint Tool (⭐1.5k)](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
 
 ### Tools / Miscellaneous
 
-*   [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Resources / Documentation
 
@@ -447,7 +442,7 @@
 
 ### Command Line Applications
 
-*   [ex\_prompt (⭐28)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
+*   [ex\_prompt (⭐29)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 
 ### Cryptography
 
@@ -455,7 +450,7 @@
 
 ### Debugging
 
-*   [rexbug (⭐223)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐226)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
@@ -467,7 +462,7 @@
 
 ### HTTP
 
-*   [gun (⭐830)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐837)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ### Miscellaneous
 
@@ -479,16 +474,16 @@
 
 ### Templating
 
-*   [calliope (⭐191)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
-*   [slime (⭐343)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [calliope (⭐193)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [slime (⭐346)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
 
-*   [remove\_emoji (⭐7)](https://github.com/guanting112/elixir_remove_emoji) - Emoji text sanitizer in Elixir. It can remove any emoji symbol.
+*   [remove\_emoji (⭐8)](https://github.com/guanting112/elixir_remove_emoji) - Emoji text sanitizer in Elixir. It can remove any emoji symbol.
 
 ### Third Party APIs
 
-*   [gringotts (⭐442)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐451)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 
@@ -496,7 +491,7 @@
 
 ### Editors
 
-*   [vim-mix-format (⭐215)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
+*   [vim-mix-format (⭐216)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
 
 ### Screencasts
 
@@ -512,7 +507,7 @@
 
 ### ASM / Music drivers and trackers
 
-*   [assemblydigest (⭐70)](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques:
+*   [assemblydigest (⭐72)](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques:
     *   [Making an Empty Game Boy ROM (in Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
     *   [Making Art for the Game Boy](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
 
@@ -569,26 +564,26 @@
 
 ### C, C++
 
-*   [cmacro (⭐840)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
-*   [C-mera (⭐357)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [lispc (⭐515)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
+*   [cmacro (⭐845)](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT](https://opensource.org/licenses/MIT).
+*   [C-mera (⭐366)](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [lispc (⭐519)](https://github.com/eratosthenesia/lispc) - a powerful "lispsy" macrolanguage for C. [MIT](https://opensource.org/licenses/MIT).
 
 ### To third parties
 
-*   [dyna (⭐19)](https://github.com/Rudolph-Miller/dyna) - an AWS DynamoDB ORM. [MIT](https://opensource.org/licenses/MIT).
+*   [dyna (⭐20)](https://github.com/Rudolph-Miller/dyna) - an AWS DynamoDB ORM. [MIT](https://opensource.org/licenses/MIT).
 
 ### Tools
 
 *   [pileup](http://nikodemus.github.io/pileup/) - a portable, performant, and thread-safe binary heap for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
-*   [sycamore (⭐106)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [sycamore (⭐109)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ### Objective-C
 
-*   [objc-lisp-bridge (⭐39)](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT](https://opensource.org/licenses/MIT).
+*   [objc-lisp-bridge (⭐40)](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 
-*   [cl-webkit (⭐48)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-webkit (⭐47)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT](https://opensource.org/licenses/MIT).
 
 ### Beginner
 
@@ -659,7 +654,7 @@ Wifi pw: `portuguesa`
 
 ### Artificial Intelligence
 
-*   [frugally-deep (⭐938)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
+*   [frugally-deep (⭐956)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 
 ### Containers
 
@@ -667,11 +662,11 @@ Wifi pw: `portuguesa`
 
 ### Cryptography
 
-*   [Tiny AES in C (⭐3.5k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
+*   [Tiny AES in C (⭐3.6k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 
 ### Logging
 
-*   [loguru (⭐1.5k)](https://github.com/emilk/loguru) - A lightweight C++ logging library. \[PublicDomain]
+*   [loguru (⭐1.6k)](https://github.com/emilk/loguru) - A lightweight C++ logging library. \[PublicDomain]
 
 ### Machine Learning
 

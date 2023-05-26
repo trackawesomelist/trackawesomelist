@@ -56,7 +56,7 @@
 
 ### TypeScript Seed Projects / Components
 
-*   [angular2-demo (⭐83)](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
+*   [angular2-demo (⭐82)](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 
 ## [5. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -82,7 +82,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐41)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐42)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [8. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
@@ -145,7 +145,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Community / Related Lists
 
-*   [Functional Programming Resources In JavaScript (⭐304)](https://github.com/busypeoples/functional-programming-javascript)
+*   [Functional Programming Resources In JavaScript (⭐302)](https://github.com/busypeoples/functional-programming-javascript)
 
 ---
 

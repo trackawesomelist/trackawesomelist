@@ -168,7 +168,7 @@ git rebase -i --autosquash
 
 ### Applications
 
-*   [Hydra (⭐62)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
+*   [Hydra (⭐63)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
 
 ### Files and Directories
 

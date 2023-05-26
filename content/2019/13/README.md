@@ -28,13 +28,13 @@
 
 ### Build and Package / MIT
 
-*   [alire (⭐203)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+*   [alire (⭐208)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Honeypots / Tarpits
 
-*   [Endlessh (⭐5.7k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
+*   [Endlessh (⭐5.8k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
 *   [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - Program that answers ARP requests for unused IP space, creating the appearance of fake machines that answer further requests very slowly in order to slow down scanners, worms, etcetera.
 
 ## [6. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
@@ -80,7 +80,7 @@
 
 ### Contents / Extensions
 
-*   [pgRouting (⭐955)](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
+*   [pgRouting (⭐1k)](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
 
 ### Contents / Language bindings
 
@@ -180,82 +180,87 @@
 
 ## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
+### Development / Database
+
+*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
+*   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
+
 ### Entertainment
 
-*   [football-cli (⭐1k)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
+*   [football-cli (⭐1.1k)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
 
 ### Entertainment / Music
 
-*   [cmus (⭐4.8k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
-*   [itunes-remote (⭐421)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+*   [cmus (⭐4.9k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
+*   [itunes-remote (⭐422)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 
 ### Entertainment / Social Media
 
-*   [TTYtter (⭐348)](https://github.com/oysttyer/oysttyer) - Twitter client.
+*   [TTYtter (⭐346)](https://github.com/oysttyer/oysttyer) - Twitter client.
 *   [Rainbowstream (⭐3.5k)](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 *   [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 
 ### Entertainment / Video
 
-*   [youtube-dl (⭐117k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
-*   [streamlink (⭐8.3k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
-*   [mps-youtube (⭐7.3k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
+*   [youtube-dl (⭐120k)](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
+*   [streamlink (⭐8.7k)](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
+*   [mps-youtube (⭐7.5k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 
 ### Entertainment / Movies
 
-*   [moviemon (⭐187)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
-*   [movie (⭐138)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
+*   [moviemon (⭐188)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
+*   [movie (⭐142)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Development / Books
 
-*   [legit (⭐543)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
-*   [mklicense (⭐167)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
+*   [legit (⭐547)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
+*   [mklicense (⭐171)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 
 ### Development / Text Editors
 
-*   [kakoune (⭐8.6k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
+*   [kakoune (⭐8.7k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 
 ### Productivity / HTTP Client
 
-*   [doing (⭐974)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+*   [doing (⭐999)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐43)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐811)](https://github.com/keepcosmos/terjira) - Jira client.
-*   [ipt (⭐8)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
+*   [terjira (⭐819)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
-*   [Buku (⭐5.5k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+*   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 
 ### Productivity / Time Tracking
 
-*   [moro (⭐445)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
+*   [moro (⭐452)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 
 ### Productivity / Note Taking and Lists
 
-*   [idea (⭐200)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
-*   [sncli (⭐375)](https://github.com/insanum/sncli) - Simplenote client.
-*   [taskbook (⭐8.6k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+*   [idea (⭐202)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
+*   [sncli (⭐381)](https://github.com/insanum/sncli) - Simplenote client.
+*   [taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Productivity / Finance
 
 *   [moeda (⭐130)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
-*   [cash-cli (⭐195)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
-*   [cointop (⭐3.5k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+*   [cash-cli (⭐202)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+*   [cointop (⭐3.6k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 
 ### Productivity / Presentations
 
 *   [WOPR (⭐3k)](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
 *   [decktape (⭐2k)](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-*   [mdp (⭐4.5k)](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+*   [mdp (⭐4.6k)](https://github.com/visit1985/mdp) - A markdown presentation tool.
 *   [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Utilities / Calendars
 
-*   [aria2 (⭐29k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+*   [aria2 (⭐30k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 
 ### Utilities / macOS
 
-*   [osx-wifi-cli (⭐84)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
-*   [stronghold (⭐979)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
+*   [osx-wifi-cli (⭐86)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
+*   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 
 ### Utilities / Terminal Sharing Utilities
 
@@ -265,7 +270,7 @@
 
 ### Utilities / Theming and Customization
 
-*   [pywal (⭐7k)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
+*   [pywal (⭐7.2k)](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 
 ## [21. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -306,7 +311,7 @@
 
 ### Contents / Libraries
 
-*   [ClearX (⭐20)](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
+*   [ClearX (⭐22)](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
 
 ## [25. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
@@ -741,21 +746,12 @@ Topics: Chrome DevTools, Performance\
 
 ## [28. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
-### CLI / dbcli
-
-*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-*   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-*   [athenacli (⭐196)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
-*   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
-*   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
-*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
-
 ### IDE
 
 *   [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
 *   [MySQL Workbench](https://www.mysql.com/products/workbench) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs.
 *   [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) - Complete and powerful database management, admin and development tool for PostgreSQL.
-*   [TOra (⭐277)](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
+*   [TOra (⭐278)](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
 *   [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
 
 ### GUI
@@ -774,6 +770,13 @@ Topics: Chrome DevTools, Performance\
 ### CLI
 
 *   [pg\_top (⭐99)](https://github.com/markwkm/pg_top) - Top for PostgreSQL.
+
+### CLI / dbcli
+
+*   [athenacli (⭐196)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+*   [litecli (⭐1.8k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
+*   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
+*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 ### Schema / Changes
 
@@ -801,33 +804,33 @@ Topics: Chrome DevTools, Performance\
 ### Control packs
 
 *   [D.P.F Delphi Android](http://sourceforge.net/projects/dpfdelphiandroid) / [D.P.F Delphi iOS](http://sourceforge.net/projects/dpfdelphiios) native components. `[Delphi]` D.P.F Delphi Native Components, 100% iOS Performance and styles. Develop iPhone & iPad & iPod Touch applications with fast native performance and native styles. Use native Android controls and services. Fast native performance. Mixed with FM VCL controls. Can be quick updated with latest Android controls & features.
-*   [Essentials (⭐42)](https://github.com/TurboPack/Essentials). `[Delphi]` Contains 13 native VCL controls for Embarcadero Delphi and C++Builder. The controls include drop-down calendars and calculators, roll-up dialogs, 3-D labels, tiled backgrounds, scrolling messages, menu buttons, and more.
-*   [FreeEsVCLComponents (⭐132)](https://github.com/errorcalc/FreeEsVCLComponents). `[Delphi]` Free library of VCL components for Delphi and C++Builder. This new controls and components to improve the appearance applications and to better user experience. Components support visual styles and has modern style. All components has best support transparency, not flicker, and has support interesting possibility for double buffering for TGraphicControl heirs.
-*   [SpTBXLib (⭐53)](https://github.com/SilverpointDev/sptbxlib). `[Delphi]` Add on package for Toolbar2000 components, it adds the following features: Skins, Unicode support, Custom painting events and many more.
+*   [Essentials (⭐43)](https://github.com/TurboPack/Essentials). `[Delphi]` Contains 13 native VCL controls for Embarcadero Delphi and C++Builder. The controls include drop-down calendars and calculators, roll-up dialogs, 3-D labels, tiled backgrounds, scrolling messages, menu buttons, and more.
+*   [FreeEsVCLComponents (⭐140)](https://github.com/errorcalc/FreeEsVCLComponents). `[Delphi]` Free library of VCL components for Delphi and C++Builder. This new controls and components to improve the appearance applications and to better user experience. Components support visual styles and has modern style. All components has best support transparency, not flicker, and has support interesting possibility for double buffering for TGraphicControl heirs.
+*   [SpTBXLib (⭐55)](https://github.com/SilverpointDev/sptbxlib). `[Delphi]` Add on package for Toolbar2000 components, it adds the following features: Skins, Unicode support, Custom painting events and many more.
 
 ### Single controls
 
-*   [TChromeTabs (⭐192)](https://github.com/norgepaul/tchrometabs). `[Delphi]` Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi 10.1 Berlin
-*   [TFrameStand (⭐241)](https://github.com/andrea-magni/TFrameStand). `[Delphi]` Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
-*   [TPrintPreview (⭐18)](https://github.com/landrix/TPrintPreview-for-Delphi). `[Delphi]` Print Preview Component for Delphi Vcl Win32/Win64
-*   [TTreeListView (⭐42)](http://github.com/benibela/treelistview). `[Delphi]` `[FPC]` This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
-*   [neTabControl (⭐36)](https://github.com/jkour/neTabControl). `[Delphi]` FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
+*   [TChromeTabs (⭐196)](https://github.com/norgepaul/tchrometabs). `[Delphi]` Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi 10.1 Berlin
+*   [TFrameStand (⭐244)](https://github.com/andrea-magni/TFrameStand). `[Delphi]` Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
+*   [TPrintPreview (⭐20)](https://github.com/landrix/TPrintPreview-for-Delphi). `[Delphi]` Print Preview Component for Delphi Vcl Win32/Win64
+*   [TTreeListView (⭐43)](http://github.com/benibela/treelistview). `[Delphi]` `[FPC]` This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
+*   [neTabControl (⭐37)](https://github.com/jkour/neTabControl). `[Delphi]` FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
 ### Editors
 
-*   [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub (⭐166)](https://github.com/TurboPack/SynEdit)). `[Delphi]` Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
+*   [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub (⭐173)](https://github.com/TurboPack/SynEdit)). `[Delphi]` Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
 *   [LazEdit](https://svn.code.sf.net/p/lazarus-ccr/svn/applications/lazedit). `[FPC]` General text editor with syntax highlighting and tools to help edit HTML.
 
 ### Viewers
 
-*   [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub (⭐42)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
-*   [SciDe (⭐67)](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
+*   [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub (⭐44)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
+*   [SciDe (⭐69)](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
 ## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [StellarGraph (⭐2.6k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+*   [StellarGraph (⭐2.7k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
 ## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -850,7 +853,7 @@ Topics: Chrome DevTools, Performance\
 
 ### GUI
 
-*   [AdonisUI (⭐1.4k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
+*   [AdonisUI (⭐1.5k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 
 ### Testing
 
@@ -871,21 +874,21 @@ Topics: Chrome DevTools, Performance\
 
 ### Memory Allocation
 
-*   [memory-allocators (⭐1.4k)](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. \[MIT]
+*   [memory-allocators (⭐1.5k)](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. \[MIT]
 
 ### Networking
 
-*   [MQTT-C (⭐587)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
-*   [WAFer (⭐692)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
+*   [MQTT-C (⭐616)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [WAFer (⭐693)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection
 
 *   [Better Enums (⭐1.4k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
-*   [CPFG (⭐210)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2] [website](http://www.cpgf.org/)
-*   [CPP-Reflection (⭐568)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
-*   [Nameof (⭐1.6k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
-*   [Ponder (⭐582)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
-*   [RTTR (⭐2.6k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
+*   [CPFG (⭐212)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2]
+*   [CPP-Reflection (⭐576)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [Nameof (⭐1.7k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
+*   [Ponder (⭐587)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [RTTR (⭐2.7k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis
 
@@ -903,7 +906,7 @@ Topics: Chrome DevTools, Performance\
 *   [Steam Database](https://github.com/SteamDatabase) - Serie of tools to Steam data. [Website](https://steamdb.info/).
 *   [Steam Spy](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
 *   [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
-*   [vgchartzScrape (⭐57)](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
+*   [vgchartzScrape (⭐66)](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 
 ### Artificial Intelligence
 
@@ -911,7 +914,7 @@ Topics: Chrome DevTools, Performance\
 
 ### Artificial Intelligence / Web
 
-*   [Digger (⭐55)](https://github.com/lutzroeder/digger) - Boulderdash game. [Play](http://games.leonardomauro.com/digger/).
+*   [Digger (⭐74)](https://github.com/lutzroeder/digger) - Boulderdash game. [Play](http://games.leonardomauro.com/digger/).
 
 ### Dataset / Web
 
@@ -925,7 +928,7 @@ Topics: Chrome DevTools, Performance\
 
 ### Frameworks / Bridges
 
-*   [matterbridge (⭐5.2k)](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ ... `Go`
+*   [matterbridge (⭐5.7k)](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
 
 ## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -1105,7 +1108,7 @@ Topics: Chrome DevTools, Performance\
 
 ### Open Source Repos / Code Deploy
 
-*   [aws-codedeploy-samples :fire::fire::fire: (⭐619)](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
+*   [aws-codedeploy-samples :fire::fire::fire: (⭐620)](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
 
 ## [45. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 

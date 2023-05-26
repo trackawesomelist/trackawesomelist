@@ -1,6 +1,6 @@
 # Awesome List Updates on May 09, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,21 +10,27 @@
 
 ### SDKs and Samples / C++ SDK
 
-*   [Repo :fire::fire::fire::fire: (⭐1.6k)](https://github.com/awslabs/aws-sdk-cpp)
+*   [Repo :fire::fire::fire::fire: (⭐1.7k)](https://github.com/awslabs/aws-sdk-cpp)
 
-## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Golang / Data Visualization
+
+*   [Kelp (⭐991)](https://github.com/stellar/kelp) - Kelp is an open-source Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX (command-line usage and desktop GUI).
+
+## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Navigation
 
 *   [react-native-navigation-hooks ★109 (⭐247)](https://github.com/underscopeio/react-native-navigation-hooks) - A set of React hooks for React Native Navigation.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 
 *   [MCP4725](https://crates.io/crates/mcp4725) - I2C - 12-bit DAC - ![crates.io](https://img.shields.io/crates/v/mcp4725)
 
-## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Digests
 
@@ -65,36 +71,36 @@
 
 *   [Implications of Loading .NET Assemblies](https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html) - Written by [Brian Wallace](https://threatvector.cylance.com/en_us/contributors/brian-wallace.html).
 
-## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### WebSocket
 
-*   [CableReady (⭐647)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [CableReady (⭐670)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2.1k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
-## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Imagery
 
 *   [image-comparison (⭐258)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
-## [7. Services Engineering](/content/mmcgrana/services-engineering/README.md)
+## [8. Services Engineering](/content/mmcgrana/services-engineering/README.md)
 
 ### Services Engineering Reading List / Posts
 
 *   [Stevey’s Google Platforms Rant](https://gist.github.com/chitchcock/1281611) (Yegge)
 
-## [8. Awesome R](/content/qinwf/awesome-R/README.md)
+## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Data Packages
 
 *   [RCOBOLDI (⭐10)](https://github.com/thospfuller/rcoboldi) - Import COBOL CopyBook data files directly into R as properly structured data frames. Package builds are available via [Drat (⭐0)](https://github.com/thospfuller/drat) and [DockerHub](https://hub.docker.com/r/thospfuller/rcoboldi-rocker-rstudio).
 
-## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Cards
 
-*   [Shuffle (⭐768)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder
+*   [Shuffle (⭐775)](https://github.com/mac-gallagher/Shuffle) - A multi-directional card swiping library inspired by Tinder
 
 ---
 

@@ -8,11 +8,11 @@
 
 ## [1. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
 
-### Contents / Companies
+### Companies
 
 *   [GitHub Next](https://github.com/githubnext) - Exploring the future of software development.
 
-### Contents / Telemetry
+### Telemetry
 
 *   [Sentry](https://github.com/getsentry) - Real-time crash reporting for your web apps, mobile apps, and games.
 
@@ -20,7 +20,7 @@
 
 ### Programming Languages / Ruby
 
-*   [ruby-nix (⭐65)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
+*   [ruby-nix (⭐76)](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -68,13 +68,13 @@
 
 ### Templates / Vue 3
 
-*   [vite-plugin-style-vw-loader (⭐0)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
+*   [vite-plugin-style-vw-loader (⭐1)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [echasnovski/mini.nvim#mini.splitjoin (⭐1.8k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
+*   [echasnovski/mini.nvim#mini.splitjoin (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -86,7 +86,7 @@
 
 ### SDKs and Samples / Haskell SDK
 
-*   [Repo :fire::fire::fire: (⭐552)](https://github.com/brendanhay/amazonka)
+*   [Repo :fire::fire::fire: (⭐558)](https://github.com/brendanhay/amazonka)
 
 ## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

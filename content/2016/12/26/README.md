@@ -28,7 +28,7 @@
 
 ### Algorithms and Data structures
 
-*   [qex (⭐26)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
+*   [qex (⭐27)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 
 ### Date and Time
 
@@ -50,7 +50,7 @@
 
 ### System
 
-*   [Keyboard Maestro (⭐375)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
+*   [Keyboard Maestro (⭐384)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
 
 ---
 

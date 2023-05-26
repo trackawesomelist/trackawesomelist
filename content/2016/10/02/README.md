@@ -38,36 +38,11 @@
     *   [Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22)
     *   [Readings](http://15418.courses.cs.cmu.edu/spring2015/reading)
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [4. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### Chapel / Non-X86
+### Java / Spock Framework
 
-*   [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial)
-
-### COBOL / Non-X86
-
-*   [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
-
-### F Sharp / Phoenix
-
-*   [F# for fun and profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) (ePub)
-
-### Haxe / Spock Framework
-
-*   [Kha Handbook (⭐1.3k)](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
-
-### Lisp / TeX
-
-*   [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-*   [Learning to Program](http://www.alan-g.me.uk)
-
-### Standard ML / Play Scala
-
-*   [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
+*   [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, 高橋徹(翻訳) (PDF)
 
 ## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

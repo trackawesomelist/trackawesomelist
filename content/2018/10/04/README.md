@@ -16,7 +16,7 @@
 
 ### Network
 
-*   [Tiny.RestClient ★31 (⭐194)](https://github.com/jgiacomini/Tiny.RestClient) - Description Simpliest Fluent REST client for Xamarin and .NET.
+*   [Tiny.RestClient ★31 (⭐197)](https://github.com/jgiacomini/Tiny.RestClient) - Description Simpliest Fluent REST client for Xamarin and .NET.
 
 ## [3. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Logging
 
-*   [Sentry (⭐451)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
+*   [Sentry (⭐480)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 
 ## [11. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -138,40 +138,40 @@
 
 ### Tools / Reverse Engineering
 
-*   [Jadx (⭐32k)](https://github.com/skylot/jadx)
+*   [Jadx (⭐35k)](https://github.com/skylot/jadx)
 
 ### Academic/Research/Publications/Books / Others
 
-*   [doridori/Android-Security-Reference (⭐776)](https://github.com/doridori/Android-Security-Reference)
-*   [android app security checklist (⭐769)](https://github.com/b-mueller/android_app_security_checklist)
-*   [Mobile App Pentest Cheat Sheet (⭐3.6k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+*   [doridori/Android-Security-Reference (⭐827)](https://github.com/doridori/Android-Security-Reference)
+*   [android app security checklist (⭐799)](https://github.com/b-mueller/android_app_security_checklist)
+*   [Mobile App Pentest Cheat Sheet (⭐4k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ## [14. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### 3D
 
-*   [bump-3dpd (⭐60)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+*   [bump-3dpd (⭐61)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 
 ### Helpers
 
-*   [cartographer (⭐62)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
+*   [cartographer (⭐63)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
 *   [lovely-windows (⭐14)](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 
 ### OO
 
-*   [knife.base (⭐369)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+*   [knife.base (⭐371)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 
 ### Physics
 
-*   [loveblobs (⭐61)](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
+*   [loveblobs (⭐62)](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 
 ### Shaders
 
-*   [Moonshine (⭐464)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+*   [Moonshine (⭐465)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ### Tweening
 
-*   [knife.timer (⭐369)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
+*   [knife.timer (⭐371)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 
 ### UI
 

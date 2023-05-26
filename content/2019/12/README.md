@@ -22,23 +22,17 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy Link Cable Breakout Board (⭐57)](https://github.com/Palmr/gb-link-cable)
-*   [GBCartFlasher firmware (⭐22)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐388)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [Game Boy Link Cable Breakout Board (⭐62)](https://github.com/Palmr/gb-link-cable)
+*   [GBCartFlasher firmware (⭐23)](https://github.com/Tauwasser/GBCartFlasher)
+*   [VerilogBoy (⭐402)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Test / Components
-
-*   [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
-
-## [5. Amas](/content/sindresorhus/amas/week/README.md)
+## [4. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Kevin Jalbert (⭐1)](https://github.com/kevinjalbert/ama) - Developer Lead at [Shopify](https://www.shopify.ca/about), primarily using Rails and React.
 
-## [6. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -54,13 +48,13 @@
 
 
 
-## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### File Hosting/Sharing / Others
 
 *   [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Frontend
 
@@ -172,12 +166,11 @@
 
 ### R / Angular
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐578)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐592)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Angular
 
 *   [Ruby Weekly](https://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
-*   [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 *   [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter). A collection of awesome Ruby gems, tools, frameworks and software.
 
 ### PHP / Angular
@@ -325,7 +318,7 @@
 *   [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 *   [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 *   [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
-*   [GitHub Trending Repos (⭐2.4k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
+*   [GitHub Trending Repos (⭐2.5k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 *   [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 
 ### Resilience / Angular
@@ -347,7 +340,7 @@
 *   [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 *   [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 
-## [9. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [8. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Art
 
@@ -385,13 +378,13 @@
 *   [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) - Huge amount of data about the world, released under CC0.
 *   [The Pig and the Box](https://en.wikisource.org/wiki/The_Pig_and_the_Box) - Children book about the dangers of DRM, later released under CC0 (CC-BY-NC-SA no longer applies).
 
-## [10. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [9. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Utility Scripts
 
 *   [ixm (⭐107)](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / SiFive
 
@@ -409,7 +402,7 @@
 
 *   [`hifive1`](https://github.com/riscv-rust/hifive1) - Board support crate for [HiFive1](https://www.sifive.com/boards/hifive1) and [LoFive](https://hackaday.io/project/26909-lofive) boards - ![crates.io](https://img.shields.io/crates/v/hifive.svg)
 
-## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -456,7 +449,7 @@
 
 
 
-## [13. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Torrenting
 
@@ -475,7 +468,7 @@
 
 *   [piratebazaar](https://t.me/piratebazaar) Curated list of piracy-related links.
 
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -485,18 +478,29 @@
 
 *   [Cascade Deleting Relationships in Ember Data](https://davidtang.io/2017/02/10/cascade-deleting-relationships-in-ember-data.html)
 
-## [15. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [14. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Case Studies
 
 *   [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Optimizations while building responsive websites.
 *   [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) - A Twitter Lite Web App at Scale.
 
-## [16. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [15. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Research Papers
 
 *   [Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016](https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf)
+
+## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Generators / Components
+
+*   Scaffold
+    *   [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
+
+### Test / Components
+
+*   [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 
 ## [17. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -533,41 +537,47 @@
     *   [Migrating to Vulkan with the New PowerVR Graphics Framework](https://www.imgtec.com/webinar/migrating-to-vulkan-with-the-powervr-framework/)
     *   [Migrating from OpenGLES to Vulkan](https://www.imgtec.com/downloads/download-info/migrating-from-opengl-es-to-vulkan/)
 
-## [21. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [21. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+
+### Non-JavaScript Libraries / Themes
+
+*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.6k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
+
+## [22. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Finite Elements
 
 *   [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
-    (Python, BSD, [GitHub (⭐579)](https://github.com/sfepy/sfepy))
+    (Python, BSD, [GitHub (⭐603)](https://github.com/sfepy/sfepy))
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
-    (Python, MIT, [GitHub (⭐2.1k)](https://github.com/mikedh/trimesh))
+    (Python, MIT, [GitHub (⭐2.3k)](https://github.com/mikedh/trimesh))
 
 ### Community / Mesh tools
 
-*   [Wolfgang Bangerth's video class](https://www.math.colostate.edu/\~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
+*   [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
 
-## [22. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [23. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Ladder Network (⭐102)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 
-## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [24. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Articles
 
 *   [Being helpful isn’t the same as being clear](https://medium.com/product-narrative/sharing-lessons-learned-in-okr-f802aff4c251): A useful note to understand the local culture when implementing OKR.
 
-## [24. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [25. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Integrations
 
 *   [remount (⭐635)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
-## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [26. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Mathematics / SpriteKit
 
@@ -627,16 +637,6 @@
 
 *   [Rubik's Cube (⭐17)](https://github.com/codelynx/CoreRubiksCube) - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁
 *   [SwiftChain](https://github.com/gg2001/SwiftChain) - Simple Cryptocurrency in a Swift Playground.
-
-## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
-
-### Boilerplates / Themes
-
-*   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack React + Ant Design applications with MongoDB, SQL or Firebase Firestore.
-
-### Non-JavaScript Libraries / Themes
-
-*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.6k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -701,7 +701,7 @@
 
 ### Package Repositories
 
-*   [bandersnatch (⭐347)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐364)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ## [32. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -722,17 +722,17 @@
 
 ### Date and Time Processing
 
-*   [timezone (⭐319)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐322)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐195)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐198)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Realm
 
-*   [RealmWrapper (⭐72)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
+*   [RealmWrapper (⭐73)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
 
 ## [35. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -744,13 +744,13 @@
 
 ### Transport-layer defenses / Threat signature packages and collections
 
-*   [MITMEngine (⭐631)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
+*   [MITMEngine (⭐678)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [libsndfile (⭐1.1k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
+*   [libsndfile (⭐1.2k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 
 ### GUI
 
@@ -778,15 +778,15 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐7.9k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐8.1k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
-*   [Tiny.RestClient (⭐196)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐197)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
 ### Package Management
 
-*   [Sleet (⭐293)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐304)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [42. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -796,7 +796,7 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Elixir (⭐15)](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
+*   [Elixir (⭐14)](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
 
 ### Template Engines
 
@@ -806,7 +806,7 @@
 
 ### Libraries
 
-*   [react-on-lambda (⭐253)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
+*   [react-on-lambda (⭐257)](https://github.com/sultan99/react-on-lambda) - Replace JSX in React with functions (currying, compositions and etc).
 
 ### Resources / Articles
 
@@ -843,11 +843,11 @@
 *   [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board games data.
 *   [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
 *   [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
-*   [smm-course-viewer (⭐12)](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
+*   [smm-course-viewer (⭐13)](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
 
 ### Artificial Intelligence / Web
 
-*   [Duck Hunt (⭐494)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+*   [Duck Hunt (⭐531)](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 *   [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game. [Play](http://games.leonardomauro.com/starshipsorades/).
 *   [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 

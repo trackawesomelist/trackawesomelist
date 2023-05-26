@@ -16,7 +16,7 @@
 
 ### Command Line Applications
 
-*   [optimus (⭐154)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
+*   [optimus (⭐0)](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
 
 ### Feature Flags and Toggles
 
@@ -25,7 +25,7 @@
 
 ### Geolocation
 
-*   [geonames (⭐18)](https://github.com/pareeohnos/geonames-elixir) - A simple Elixir wrapper around the GeoNames API.
+*   [geonames (⭐19)](https://github.com/pareeohnos/geonames-elixir) - A simple Elixir wrapper around the GeoNames API.
 
 ### HTTP
 
@@ -37,7 +37,7 @@
 
 ### Release Management
 
-*   [mix\_docker (⭐335)](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
+*   [mix\_docker (⭐334)](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

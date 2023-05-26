@@ -1,24 +1,18 @@
 # Awesome List Updates on Mar 27 - Apr 02, 2017
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Python / Django
-
-*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) (PDF) (1.10)
-
-## [2. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [1. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Community / Particles
 
 *   [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
 
-## [3. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [2. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Articles
 
@@ -70,26 +64,26 @@
 *   [docs.GL](http://docs.gl) - It is an alternative documentation for OpenGL.
 *   [OpenGL Wiki](https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
 
-## [4. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
+## [3. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
 ### Identity Applications / Unclear
 
 *   [Vida Identity](https://vidaidentity.com) - Enterprise-grade Blockchain Identity Software.
 
-## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [4. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Drawing / Others
 
 *   [A Web Whiteboard](https://awwapp.com/) - Touch-friendly online collaborative whiteboard app.
 
-## [6. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Sandboxes
 
 *   [Bubblewrap (⭐2.8k)](https://github.com/projectatomic/bubblewrap)\
     Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.
 
-## [7. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [6. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Official Links / PGF/TikZ
 
@@ -197,7 +191,7 @@
 *   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (ORM) diagrams.
 *   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
 
-## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / California   <a id="california">  </a>
 
@@ -210,17 +204,17 @@
 | ---- | ----- | ----------------------------------------------------------------------- | ---------- |
 | ✔    | ✔     | [34 Washington Blvd, Venice, CA 90292](https://goo.gl/maps/Swe3G5wnFuy) | 6AM - 9PM  |
 
-## [9. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [8. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### REST and API
 
 *   [rooster (⭐176)](https://github.com/FelipeBB/rooster) - rooster is a lightweight REST framework that runs on top of mochiweb.
 
-## [10. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
-*   [Odoo Medical (⭐245)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
+*   [Odoo Medical (⭐246)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
 *   [openMAXIMS (⭐56)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
 
 ### Contents / Specifications
@@ -230,7 +224,7 @@
 
 ### Contents / Prescribing
 
-*   [OpenEP (⭐18)](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
+*   [OpenEP (⭐19)](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
 
 ### Contents / Laboratory
 
@@ -242,15 +236,15 @@
 
 ### Contents / Libraries
 
-*   [fhir.js (⭐362)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
-*   [Node HL7 (⭐48)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Python HL7 (⭐239)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
-*   [Ruby FHIR (⭐140)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+*   [fhir.js (⭐375)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+*   [Node HL7 (⭐50)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
+*   [Python HL7 (⭐252)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+*   [Ruby FHIR (⭐146)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
 *   [Ruby HL7 (⭐96)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications
 
-*   [SMART Pediatric Growth Chart (⭐66)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
+*   [SMART Pediatric Growth Chart (⭐67)](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
 ### Contents / PHR
 
@@ -272,22 +266,22 @@
 
 ### Contents / Bioinformatics
 
-*   [ADAM (⭐937)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
+*   [ADAM (⭐949)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
 *   [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
 
-## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Libraries and Frameworks / Slides and Notes
 
 *   [RolleiFLEX](http://kaisermann.github.io/rolleiflex/) - Just a responsive flexbox grid
 
-## [12. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [11. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Texts / Folklore
 
 *   [The Story of the PING Program](http://ftp.arl.army.mil/\~mike/ping.html) (undated)
 
-## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
@@ -298,17 +292,117 @@
 
 *   [Apache Edgent (Incubating)](http://edgent.apache.org/) - a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the edge devices.
 
-## [14. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [13. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / Elixir
 
 *   [eventstore (⭐908)](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
 
-## [15. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [Dva Ant Admin](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
+
+## [15. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+
+### Books / Dissemination
+
+*   *[Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives](http://www.connectedthebook.com/)*, by Nicholas A. Christakis and James H. Fowler (2009).
+
+### Books / General Overviews
+
+*   *[Encyclopedia of Social Networks](http://sk.sagepub.com/reference/socialnetworks)*, edited by George A. Barnett - Covers all sorts of network-related themes (many of them not formal) as well as social network analysis (2011).
+
+### Books / Graph Theory
+
+*   *[Combinatorics and Graph Theory](https://www.springer.com/us/book/9780387797106)*, by John Harris, Jeffry L. Hirst and Michael Mossinghoff (2008).
+
+### Books / Method-specific
+
+*   *[Bayesian Networks in R with Applications in Systems Biology](https://www.springer.com/fr/book/9781461464457)*, by Radhakrishnan Nagarajan, Marco Scutari and Sophie Lèbre ([website](http://www.bnlearn.com/book-useR/); 2013).
+
+### Books / Software-specific
+
+*   *[Algorithmic Graph Theory and Sage](https://code.google.com/archive/p/graphbook/)*, by David Joyner, Minh Van Nguyen, and David Phillips - Full book online (2013).
+
+### Books / Topic-specific
+
+*   *[Communities and Networks: Using Social Network Analysis to Rethink Urban and Community Studies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0745654207.html)*, by Katherine Giuffre (2013).
+
+### Journals / Topic-specific
+
+*   *[Applied Network Science](http://appliednetsci.springeropen.com/)* (Springer Open).
+
+### Professional Groups / Research Groups (USA)
+
+*   [Annenberg Networks Network (ANN)](http://uscann.tumblr.com/) - Research group studying social networks at the University of Southern California.
+
+### Professional Groups / Research Groups (Other)
+
+*   [Cambridge Networks Network (CNN)](http://www.cnn.group.cam.ac.uk/) - Research network on complex networks.
+
+### Review Articles / Network Modeling
+
+*   [A Brief History of Statistical Models for Network Analysis and Open Challenges](http://www.stat.cmu.edu/~brian/780/hw01/Fienberg%20\(2012\)%20A%20Brief%20History%20of%20Statistical%20Models%20for%20Network%20Analysis%20and%20Open%20Challenges.pdf) (*Journal of Computational and Graphical Statistics*, 2012).
+
+### Review Articles / Network Visualization
+
+*   [Explorations into the Visualization of Policy Networks](https://www.academia.edu/17565685/Explorations_into_the_Visualization_of_Policy_Networks) (*Journal of Theoretical Politics*, 1999).
+
+### Software / Social, Economic and Political Networks
+
+*   [ArcGIS Network Analyst](http://www.esri.com/software/arcgis/extensions/networkanalyst) - Network-based spatial analysis software for solving complex routing problems.
+
+### Software / Algorithms
+
+*   [algo.graph (⭐16)](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
+
+### Software / C / C++
+
+*   [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
+
+### Software / MATLAB
+
+*   [Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/) - Toolbox for complex-network analysis of structural and functional brain-connectivity data, with links to many related projects.
+
+### Software / Python
+
+*   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
+
+### Software / Stata
+
+*   [nwcommands: Network Analysis Using Stata](https://nwcommands.wordpress.com/) ([discussion](http://www.statalist.org/forums/forum/general-stata-discussion/general/1290963-network-analysis-which-command-to-use), [tutorials and slides](https://nwcommands.wordpress.com/tutorials-and-slides/)).
+
+### Software / Syntaxes
+
+*   [DOT](http://www.graphviz.org/doc/info/lang.html) - Graph drawing syntax used by the Graphviz software.
+
+### Software / Tutorials
+
+*   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
+
+### Varia / Tutorials
+
+*   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - Long list of diverse applications of network analysis, with shorts descriptions in Spanish.
+
+### Varia / Blog Series
+
+*   [Archaeological Networks](http://archaeologicalnetworks.wordpress.com/) - Tom Brughmans’ blog, aimed at archaeologists and historians.
+
+### Varia / Fictional Networks
+
+*   [Analyzing Networks of Characters in *Love Actually*](http://varianceexplained.org/r/love-actually-network/) - Features a cluster analysis and a [Shiny app](https://dgrtwo.shinyapps.io/love-actually-network/) (using R + Shiny).
+
+### Varia / Small Worlds
+
+*   [The Erdös Number Project](http://wwwp.oakland.edu/enp/) - Research project on the collaborative ties and network distance between mathematicians.
+*   [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - Discussion of “*x* degrees of separation” small-world experiments.
+*   [The Oracle of Bacon](https://oracleofbacon.org/) - Based on an [online game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) that resulted in a [charity](http://www.sixdegrees.org/).
+*   [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - Video of a conference at Cornell University, featuring Duncan J. Watts, Steven H. Strogatz, Jon Kleinberg and other speakers.
+*   [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/) - Example of a two-mode network analysis based on metal artists and bands.
+*   [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) - Interactive visualization of a well-documented early modern historical network.
+*   [Six Degrees of Separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) - Wikipedia English entry.
 
 ## [16. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -320,7 +414,7 @@
 
 ### Libraries / JavaScript
 
-*   [Snarkdown (⭐2k)](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
+*   [Snarkdown (⭐2.1k)](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
 
 ## [18. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
@@ -333,7 +427,7 @@
 
 ### Cryptography
 
-*   [OpenSSL (⭐21k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
+*   [OpenSSL (⭐22k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
 
 ## [20. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -375,166 +469,49 @@
 
 ### Endpoint / Forensics
 
-*   [ir-rescue (⭐392)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [ir-rescue (⭐426)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ## [25. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Web / Playground
 
-*   :octocat: [APIs-guru/graphql-voyager (⭐7.1k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
-*   :octocat: [Rebilly/ReDoc (⭐19k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
+*   :octocat: [APIs-guru/graphql-voyager (⭐7.3k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
+*   :octocat: [Rebilly/ReDoc (⭐20k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 
-## [26. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
-
-### Books / Dissemination
-
-*   *[Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives](http://www.connectedthebook.com/)*, by Nicholas A. Christakis and James H. Fowler (2009).
-
-### Books / General Overviews
-
-*   *[Encyclopedia of Social Networks](http://sk.sagepub.com/reference/socialnetworks)*, edited by George A. Barnett - Covers all sorts of network-related themes (many of them not formal) as well as social network analysis (2011).
-
-### Books / Graph Theory
-
-*   *[Combinatorics and Graph Theory](https://www.springer.com/us/book/9780387797106)*, by John Harris, Jeffry L. Hirst and Michael Mossinghoff (2008).
-
-### Books / Method-specific
-
-*   *[Bayesian Networks in R with Applications in Systems Biology](https://www.springer.com/fr/book/9781461464457)*, by Radhakrishnan Nagarajan, Marco Scutari and Sophie Lèbre ([website](http://www.bnlearn.com/book-useR/); 2013).
-
-### Books / Software-specific
-
-*   *[Algorithmic Graph Theory and Sage](https://code.google.com/archive/p/graphbook/)*, by David Joyner, Minh Van Nguyen, and David Phillips - Full book online (2013).
-
-### Books / Topic-specific
-
-*   *[Communities and Networks: Using Social Network Analysis to Rethink Urban and Community Studies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0745654207.html)*, by Katherine Giuffre (2013).
-
-### Journals / Topic-specific
-
-*   *[Applied Network Science](http://appliednetsci.springeropen.com/)* (Springer Open).
-
-### Professional Groups / Research Groups (USA)
-
-*   [Annenberg Networks Network (ANN)](http://uscann.tumblr.com/) - Research group studying social networks at the University of Southern California.
-
-### Professional Groups / Research Groups (Other)
-
-*   [Cambridge Networks Network (CNN)](http://www.cnn.group.cam.ac.uk/) - Research network on complex networks.
-
-### Review Articles / Bibliographic, Citation and Semantic Networks
-
-*   [Assessing Impact and Quality from Local Dynamics of Citation Networks](http://www.sciencedirect.com/science/article/pii/S1751157711000770) (*Journal of Informetrics*, 2012).
-
-### Review Articles / Complex and Multilayer Networks
-
-*   [The Architecture of Complexity](http://barabasi.com/f/226.pdf) - From network theory to complexity theory (*IEEE Control Systems Magazine*, 2007).
-
-### Review Articles / Ethics of Network Analysis
-
-*   [A Cautionary Note on Data Inputs and Visual Outputs in Social Network Analysis (SNA)](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8551.2012.00835.x/abstract) ([preprint](https://lra.le.ac.uk/bitstream/2381/36068/2/Draft%20BJM%20Revised%20\(3rd%20iteration\)%20Manuscript.pdf); *British Journal of Management*, 2014).
-
-### Review Articles / Network Modeling
-
-*   [A Brief History of Statistical Models for Network Analysis and Open Challenges](http://www.stat.cmu.edu/\~brian/780/hw01/Fienberg%20\(2012\)%20A%20Brief%20History%20of%20Statistical%20Models%20for%20Network%20Analysis%20and%20Open%20Challenges.pdf) (*Journal of Computational and Graphical Statistics*, 2012).
-
-### Review Articles / Network Visualization
-
-*   [Explorations into the Visualization of Policy Networks](https://www.academia.edu/17565685/Explorations_into_the_Visualization_of_Policy_Networks) (*Journal of Theoretical Politics*, 1999).
-
-### Software / Social, Economic and Political Networks
-
-*   [ArcGIS Network Analyst](http://www.esri.com/software/arcgis/extensions/networkanalyst) - Network-based spatial analysis software for solving complex routing problems.
-
-### Software / Algorithms
-
-*   [algo.graph (⭐15)](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
-
-### Software / C / C++
-
-*   [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
-
-### Software / JavaScript
-
-*   [Cytoscape.js](http://js.cytoscape.org/) - Network analysis and visualization library.
-
-### Software / MATLAB
-
-*   [Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/) - Toolbox for complex-network analysis of structural and functional brain-connectivity data, with links to many related projects.
-
-### Software / Python
-
-*   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
-
-### Software / Stata
-
-*   [nwcommands: Network Analysis Using Stata](https://nwcommands.wordpress.com/) ([discussion](http://www.statalist.org/forums/forum/general-stata-discussion/general/1290963-network-analysis-which-command-to-use), [tutorials and slides](https://nwcommands.wordpress.com/tutorials-and-slides/)).
-
-### Software / Syntaxes
-
-*   [DOT](http://www.graphviz.org/doc/info/lang.html) - Graph drawing syntax used by the Graphviz software.
-
-### Software / Tutorials
-
-*   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
-
-### Varia / Tutorials
-
-*   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - Long list of diverse applications of network analysis, with shorts descriptions in Spanish.
-*   [(Psychological) Network Analysis Workshops](http://eiko-fried.com/network-workshop/) - 3-day workshop on psychological network analysis using R.
-
-### Varia / Blog Series
-
-*   [Archaeological Networks](http://archaeologicalnetworks.wordpress.com/) - Tom Brughmans’ blog, aimed at archaeologists and historians.
-
-### Varia / Fictional Networks
-
-*   [Analyzing Networks of Characters in *Love Actually*](http://varianceexplained.org/r/love-actually-network/) - Features a cluster analysis and a [Shiny app](https://dgrtwo.shinyapps.io/love-actually-network/) (using R + Shiny).
-
-### Varia / Small Worlds
-
-*   [The Erdös Number Project](http://wwwp.oakland.edu/enp/) - Research project on the collaborative ties and network distance between mathematicians.
-*   [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - Discussion of “*x* degrees of separation” small-world experiments.
-*   [The Oracle of Bacon](https://oracleofbacon.org/) - Based on an [online game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) that resulted in a [charity](http://www.sixdegrees.org/).
-*   [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - Video of a conference at Cornell University, featuring Duncan J. Watts, Steven H. Strogatz, Jon Kleinberg and other speakers.
-*   [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/) - Example of a two-mode network analysis based on metal artists and bands.
-*   [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) - Interactive visualization of a well-documented early modern historical network.
-*   [Six Degrees of Separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) - Wikipedia English entry.
-
-## [27. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [26. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### CFP
 
 *   [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
 
-## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
-*   [kemal-session (⭐49)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
+*   [kemal-session (⭐50)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
 
 ### Third-party APIs
 
 *   [crystal-darksky (⭐8)](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
 *   [crystal-swapi (⭐4)](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
 
-## [29. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
 *   Ruby
     *   [by @kanwei (⭐2.6k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
-    *   [by @kumar91gopi (⭐653)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    *   [by @kumar91gopi (⭐659)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 
-## [30. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [29. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [Visualforce TableGrid (⭐126)](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
     [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go\&repo=visualforce-table-grid)
 
-## [31. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [30. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Caches / DSP
 
@@ -552,7 +529,7 @@
 
 *   [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch) - Offical Elasticsearch client library
 
-## [32. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [31. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / New papers
 
@@ -569,13 +546,13 @@
 
 *   Consistency and Fluctuations For Stochastic Gradient Langevin Dynamics (2016), Yee Whye Teh et al. [\[pdf\]](http://www.jmlr.org/papers/volume17/teh16a/teh16a.pdf)
 
-## [33. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [32. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Libraries / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [vscode-test-content (⭐3)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
-## [34. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [33. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -589,13 +566,13 @@
 
 *   [jsonschema (⭐3.9k)](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
 
-## [35. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [34. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Packages and Middleware
 
 *   [REST API With Lumen (⭐484)](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
 
-## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
@@ -604,15 +581,15 @@
 ### Scheduling
 
 *   [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
-*   [Chroniton (⭐177)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
+*   [Chroniton (⭐179)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 
-## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [36. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Styleguide and Branding
 
 *   [Facebook - Brand Resource Center Book](https://en.facebookbrand.com/)
 
-## [38. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / M companies
 
@@ -622,7 +599,7 @@
 
 *   Kirill Shevchenko <https://medium.com/@kirill_shevch>
 
-## [39. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [38. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Map/Reduce
 
@@ -645,7 +622,7 @@
 
 ### Companies
 
-*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐306)](https://github.com/eHealthAfrica/couchdb-best-practices).
+*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐311)](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 ### Companies / Hosting
 
@@ -666,7 +643,7 @@
 *   [Simple CouchDB and Cloudant Backup](https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/) - Article on IBM about backups.
 *   [Cloudant Backup Guide](https://docs.cloudant.com/backup-guide.html) - Cloudant docs on backups.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -678,13 +655,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [awesome-mask (⭐165)](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
+*   [awesome-mask (⭐166)](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
 
 ### Components & Libraries / Utilities
 
-*   [@skyrpex/props-to-local (⭐6)](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
+*   [@skyrpex/props-to-local (⭐7)](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
 
-## [41. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [40. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Video Courses
 
@@ -698,7 +675,7 @@
 
 *   [framer-QueryInterface (⭐27)](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 
-## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -825,7 +802,7 @@
 *   [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
 *   [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Looks at the use of visualization to understand, explain and debug algorithms.
 *   [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
-*   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/\~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
+*   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
 
 ### Quick References • Cheatsheets / Other
 
@@ -892,28 +869,28 @@
 
 ### Related / Other
 
-*   [Awesome webgl (⭐1.1k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-*   [Awesome visualization research (⭐880)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
-*   [Awesome graphics (⭐950)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
+*   [Awesome webgl (⭐1.2k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+*   [Awesome visualization research (⭐886)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
+*   [Awesome graphics (⭐969)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 *   [Graphics resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
 *   [Magic tools (⭐11k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 *   [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-*   [Awesome public datasets (⭐53k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+*   [Awesome public datasets (⭐54k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
-## [43. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [SharpVk (⭐140)](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). \[MIT]
 
-## [44. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [43. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
 *   [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - Experimental harness and tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.
 
-## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -935,20 +912,20 @@
 
 *   [Edi.Net (⭐360)](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
 
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Image-to-Image Translation with Conditional Adversarial Networks (⭐141)](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).\[DEEP LEARNING]
 
-## [47. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [46. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   G2 Crowd - <https://www.g2crowd.com/products/new>
 *   Startup Collections - <http://startupcollections.com/>
 
-## [48. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [47. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -958,20 +935,20 @@
 *   [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
 *   [xortool (⭐1.2k)](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
 
-## [49. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [48. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [Flowblade (⭐1.9k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 *   [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 
-## [50. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [49. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### File Uploading / Omniauth
 
 *   [shrine (⭐3k)](https://github.com/janko-m/shrine) -File Attachment toolkit for Ruby applications
 
-## [51. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [50. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 

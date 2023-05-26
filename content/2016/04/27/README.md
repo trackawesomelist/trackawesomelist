@@ -37,7 +37,7 @@ Starting with time series analysis, you will also learn how to optimize portfoli
 
 ### Tools
 
-*   [Opserver (⭐4.2k)](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
+*   [Opserver (⭐4.3k)](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -47,7 +47,7 @@ Starting with time series analysis, you will also learn how to optimize portfoli
 
 ### Testing
 
-*   [wallaby (⭐1.4k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
+*   [wallaby (⭐1.5k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 

@@ -30,7 +30,7 @@
 
 ### Examples and funny stuff
 
-*   [butler\_cage (⭐2)](https://github.com/keathley/butler_cage) - A Butler plugin for showing silly photos of Nick Cage.
+*   [butler\_cage (⭐3)](https://github.com/keathley/butler_cage) - A Butler plugin for showing silly photos of Nick Cage.
 *   [butler\_tableflip (⭐2)](https://github.com/keathley/butler_tableflip) - Flipping tables with butler.
 
 ### Framework Components
@@ -43,7 +43,7 @@
 
 ### Images
 
-*   [imgex (⭐32)](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
+*   [imgex (⭐33)](https://github.com/ianwalter/imgex) - Unofficial client library for generating imgix URLs in Elixir.
 
 ### Macros
 
@@ -55,7 +55,7 @@
 
 ### OTP
 
-*   [erlexec (⭐474)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐481)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -72,13 +72,13 @@
 
 ### YAML
 
-*   [fast\_yaml (⭐48)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
+*   [fast\_yaml (⭐49)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Version Control / Git
 
-*   [dev-time (⭐177)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+*   [dev-time (⭐179)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐978)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐979)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 
@@ -102,7 +102,7 @@
 
 ### Network / Barcode
 
-*   [ResponseDetective (⭐1.9k)](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
+*   [ResponseDetective (⭐2k)](https://github.com/netguru/ResponseDetective) - A non-intrusive framework for intercepting any outgoing requests and incoming responses between your app and server for debugging purposes.
 
 ### UI / Barcode
 

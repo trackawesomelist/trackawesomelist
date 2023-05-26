@@ -51,13 +51,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [x5-gmaps (⭐105)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
+*   [x5-gmaps (⭐104)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Graviton Editor (⭐991)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
+*   [Graviton Editor (⭐1k)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
 ## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -78,16 +78,16 @@
 
 ### Archives and primary sources / Great Britain
 
-*   [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - London's Central Criminal Court, 1674 to 1913.
 *   [NLS](https://data.nls.uk/data/) - Data collections from the National Library of Scotland.
+*   [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - London's Central Criminal Court, 1674 to 1913.
 
 ### Archives and primary sources / Netherlands
 
-*   [Delpher](https://www.delpher.nl/) - More than 100 million pages from Dutch newspapers, books and magazines.
+*   [Delpher](https://www.delpher.nl/) - Dutch newspapers, books and magazines.
 
 ### Archives and primary sources / North America
 
-*   [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - More than 250,000 maps.
+*   [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - Online collection of scanned maps.
 *   [Women Working 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930) - An exploration of women's impact on the economic life of the United States between 1800 and the Great Depression.
 
 ### Archives and primary sources / Switzerland
@@ -101,7 +101,7 @@
 *   [infoclio.ch Edition projects](http://www.infoclio.ch/en/edition-projects) - A database containing current historical edition projects in Switzerland.
 *   [Le Temps](https://www.letempsarchives.ch/) - Archive of Gazette de Lausanne et du Journal de Genève.
 *   [map.geo.admin.ch](https://map.geo.admin.ch/) - Journey through time via maps of Switzerland.
-*   [MEMOBASE](http://www.memobase.ch/) - Provides access to 415'634 audiovisual documents from 67 Swiss memory institutions.
+*   [MEMOBASE](http://www.memobase.ch/) - Provides access to audiovisual documents from Swiss memory institutions.
 
 ### Learning / Switzerland
 
@@ -111,9 +111,9 @@
 ### More Awesome / Switzerland
 
 *   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.2k)](https://github.com/fasouto/awesome-dataviz#readme)
-*   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Scientific Writing (⭐520)](https://github.com/writing-resources/awesome-scientific-writing#readme)
+*   [Data Visualization (⭐3.3k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Research Tools (⭐1.7k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐546)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 
 ## [7. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
@@ -137,13 +137,13 @@
 
 ### Audio Related Packages / Realtime applications
 
-*   [Jupylet (⭐173)](https://github.com/nir/jupylet) [:octocat: (⭐173)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
+*   [Jupylet (⭐194)](https://github.com/nir/jupylet) [:octocat: (⭐194)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Decentralized Systems
 
-*   [Substrate (⭐648)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐664)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

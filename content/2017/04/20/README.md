@@ -32,15 +32,15 @@
 
 ## [3. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
-### Articles, Posts, Talks, and Presentations / Gradient boosting
+### Articles, Posts, Talks, and Presentations / Vector search
 
 *   2009
 *   2007
     *   *Decision Tree Learning in Ruby* by [Ilya Grigorik](https://twitter.com/igrigorik) <sup>\[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
 
-### Related Resources / Gradient boosting
+### Related Resources / Vector search
 
-*   [Awesome Ruby (⭐12k)](https://github.com/markets/awesome-ruby#natural-language-processing) -
+*   [Awesome Ruby (⭐13k)](https://github.com/markets/awesome-ruby#natural-language-processing) -
     Among other awesome items a short list of NLP related projects.
 *   [Ruby NLP (⭐1.2k)](https://github.com/diasks2/ruby-nlp) -
     State-of-Art collection of Ruby libraries for NLP.
@@ -50,7 +50,7 @@
     Linear Algebra, Visualization and Scientific Computing for Ruby.
 *   [Kiba (⭐1.7k)](https://github.com/thbar/kiba) -
     Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
-*   [Awesome OCR (⭐2.2k)](https://github.com/kba/awesome-ocr) -
+*   [Awesome OCR (⭐2.3k)](https://github.com/kba/awesome-ocr) -
     Multitude of OCR (Optical Character Recognition) resources.
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) -
     Machine Learning with TensorFlow libraries.
@@ -111,7 +111,7 @@
 
 ### Contents / Data
 
-*   [Synthea Patient Generator (⭐1.6k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+*   [Synthea Patient Generator (⭐1.7k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ## [8. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

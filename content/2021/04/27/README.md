@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 27, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,15 +28,9 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-beat (⭐1.3k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
+*   [django-celery-beat (⭐1.4k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
-## [5. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Native Libraries / Charts
-
-*   [uncompress-react-native (⭐40)](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
-
-## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Analytics
 
@@ -50,20 +44,20 @@
 
 *   [Respresso Image Converter](https://respresso.io/image-converter) - Multiplatform image converter for iOS, Android, and Web that supports pdf, svg, vector drawable, jpg, png, and webp formats.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
 *   [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
 
-## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [7. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Others / Object detection and object tracking
 
 *   [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
     *   [GitHub repository :octocat:](https://github.com/CloudCompare)
 
-## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [8. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
 - Name: [Kraken CI](https://kraken.ci/)
 
@@ -81,13 +75,13 @@
 
 
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simulation / Version Control
 
-*   [AI2-THOR (⭐708)](https://github.com/allenai/ai2thor) - Python framework with a Unity backend providing interaction, navigation, and manipulation support for household based robotic agents, consisting of 200+ of custom scenes, 1500+ custom annotated objects, and 200+ actions.
+*   [AI2-THOR (⭐807)](https://github.com/allenai/ai2thor) - Python framework with a Unity backend providing interaction, navigation, and manipulation support for household based robotic agents, consisting of 200+ of custom scenes, 1500+ custom annotated objects, and 200+ actions.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Environment
 
@@ -117,13 +111,13 @@
 
 
 
-## [12. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [11. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Projects / Smartwatches
 
 *   [Open SmartWatch](https://open-smartwatch.github.io/) - A FOSS smartwatch with GPS, an inertial unit and an extremely cool 3D-printed case.
 
-## [13. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [12. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Tools / IRC
 

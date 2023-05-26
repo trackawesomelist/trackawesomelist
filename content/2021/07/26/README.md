@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 26, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,21 +26,21 @@
 
 ### Action
 
-*   [Rigel Engine (⭐758)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
+*   [Rigel Engine (⭐771)](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 
 ### Online
 
-*   [Space Station 14 (⭐1.1k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
+*   [Space Station 14 (⭐1.2k)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Advanced datastructures
 
-*   [Duratom (⭐175)](https://github.com/jimpil/duratom): persisted atoms
+*   [Duratom (⭐182)](https://github.com/jimpil/duratom): persisted atoms
 
 ### Version Control Management
 
-*   [clj-jgit (⭐234)](https://github.com/clj-jgit/clj-jgit)
+*   [clj-jgit (⭐241)](https://github.com/clj-jgit/clj-jgit)
 
 ### GUI
 
@@ -50,12 +50,12 @@
 
 *   [Monger](http://clojuremongodb.info/): for MongoDB
 *   [Monglorious](https://baumandm.github.io/monglorious/): for MongoDB
-*   [clj-rethinkdb (⭐199)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
+*   [clj-rethinkdb (⭐200)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
 *   [Revise (⭐146)](https://github.com/bitemyapp/revise): for RethinkDB
-*   [Spandex (⭐226)](https://github.com/mpenet/spandex): for ElasticSearch
+*   [Spandex (⭐240)](https://github.com/mpenet/spandex): for ElasticSearch
 *   [Elastisch](http://clojureelasticsearch.info/): for ElasticSearch
 *   [neocons](http://clojureneo4j.info/): for Neo4j
-*   [Alia (⭐231)](https://github.com/mpenet/alia): for Cassandra
+*   [Alia (⭐239)](https://github.com/mpenet/alia): for Cassandra
 *   [aerospike-clj (⭐28)](https://github.com/AppsFlyer/aerospike-clj): for Aerospike
 
 ### Security
@@ -64,7 +64,7 @@
 
 ### Data Validation
 
-*   [domaintypes (⭐5)](https://github.com/friemen/domaintypes)
+*   [domaintypes (⭐6)](https://github.com/friemen/domaintypes)
 
 ### Pattern Matching
 
@@ -72,30 +72,30 @@
 
 ### Machine Learning
 
-*   [neanderthal (⭐979)](https://github.com/uncomplicate/neanderthal): fast matrix library
-*   [clojurecuda (⭐165)](https://github.com/uncomplicate/clojurecuda)
-*   [clojurecl (⭐272)](https://github.com/uncomplicate/clojurecl)
-*   [bayadera (⭐354)](https://github.com/uncomplicate/bayadera): bayesian data analysis on the GPU
-*   [Flare (⭐282)](https://github.com/aria42/flare)
+*   [neanderthal (⭐1k)](https://github.com/uncomplicate/neanderthal): fast matrix library
+*   [clojurecuda (⭐168)](https://github.com/uncomplicate/clojurecuda)
+*   [clojurecl (⭐276)](https://github.com/uncomplicate/clojurecl)
+*   [bayadera (⭐355)](https://github.com/uncomplicate/bayadera): bayesian data analysis on the GPU
+*   [Flare (⭐284)](https://github.com/aria42/flare)
 *   [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
-*   [clj-ml (⭐147)](https://github.com/antoniogarrote/clj-ml)
+*   [clj-ml (⭐148)](https://github.com/antoniogarrote/clj-ml)
 *   [Clatern (⭐67)](https://github.com/rinuboney/clatern)
-*   [k9 (⭐102)](https://github.com/gigasquid/k9)
+*   [k9 (⭐104)](https://github.com/gigasquid/k9)
 *   [Statistiker (⭐63)](https://github.com/clojurewerkz/statistiker)
-*   [Synaptic (⭐90)](https://github.com/japonophile/synaptic)
-*   [Infer (⭐176)](https://github.com/aria42/infer)
+*   [Synaptic (⭐88)](https://github.com/japonophile/synaptic)
+*   [Infer (⭐177)](https://github.com/aria42/infer)
 
 ### Computer Vision
 
-*   [origami (⭐92)](https://github.com/hellonico/origami): OpenCV 4 wrapper
+*   [origami (⭐102)](https://github.com/hellonico/origami): OpenCV 4 wrapper
 
 ### Editor Plugins
 
-*   [Notepad++ (⭐18)](https://github.com/linpengcheng/ClojureBoxNpp): modified config files of Lisp
+*   [Notepad++ (⭐19)](https://github.com/linpengcheng/ClojureBoxNpp): modified config files of Lisp
 
 ### Documentation
 
-*   [codox (⭐637)](https://github.com/weavejester/codox)
+*   [codox (⭐648)](https://github.com/weavejester/codox)
 
 ### Miscellaneous
 
@@ -103,11 +103,11 @@
 
 ### Terminal UI
 
-*   [clojure-lanterna (⭐203)](https://github.com/MultiMUD/clojure-lanterna)
+*   [clojure-lanterna (⭐206)](https://github.com/MultiMUD/clojure-lanterna)
 
 ### Exercises / YouTube
 
-*   [rich4clojure (⭐143)](https://github.com/PEZ/rich4clojure)
+*   [rich4clojure (⭐165)](https://github.com/PEZ/rich4clojure)
 
 ## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -125,15 +125,15 @@
 
 ### C / Syntax highlighting packages
 
-*   [Super Princess' 2092 Exodus (⭐24)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐550)](https://github.com/Zal0/ZGB/)).
-*   [Tobu Tobu Girl Deluxe (⭐53)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
+*   [Super Princess' 2092 Exodus (⭐25)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐590)](https://github.com/Zal0/ZGB/)).
+*   [Tobu Tobu Girl Deluxe (⭐61)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
 *   [Black Castle](https://gbdev.gg8.se/forums/viewtopic.php?id=743) - Side scrolling platformer for the Game Boy ([itch.io](https://user0x7f.itch.io/black-castle)).
 *   [Genesis](https://gbdev.gg8.se/forums/viewtopic.php?id=674) - Shmup for the Game Boy ([itch.io](https://user0x7f.itch.io/genesis)).
 *   [Indestructo Tank!](https://antonylavelle.itch.io/indestructotank-gb)
 *   [Super JetPak DX](https://pocketpixel.design/super-jetpak-dx-game-boy-rom.html)
-*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐550)](https://github.com/Zal0/ZGB/)).
-*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐550)](https://github.com/Zal0/ZGB/)).
-*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐550)](https://github.com/Zal0/ZGB/)).
+*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐590)](https://github.com/Zal0/ZGB/)).
+*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐590)](https://github.com/Zal0/ZGB/)).
+*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐590)](https://github.com/Zal0/ZGB/)).
 *   [The Bouncing Ball](https://gamejolt.com/games/the-bouncing-ball-gb/86699)
 *   [DMG Deals Damage](https://drludos.itch.io/dmg-deals-damage)
 
@@ -165,116 +165,112 @@
 
 *   [Clipboard](https://en.wikipedia.org/wiki/Clipboard_\(computing\)) - Where you temporarily put *files* you are working with (i.e. the copy & paste buffer).
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### JavaScript / FrameWorks
+
+*   [Ghostfolio (⭐1.4k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
 
-### PaaS
-
-*   [Deta](https://www.deta.sh) – Deploy unlimited number of Node.js and Python apps for free. Includes free DBs, Auth and email.
-
-## [10. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [11. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Incident Management
 
-*   [DFTimewolf (⭐225)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
-*   [Shuffle (⭐890)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
+*   [DFTimewolf (⭐238)](https://github.com/log2timeline/dftimewolf) - A framework for orchestrating forensic collection, processing and data export.
+*   [Shuffle (⭐951)](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 
 ### IR Tools Collection / Other Tools
 
-*   [Raccine (⭐859)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
-*   [sysmon-config (⭐4k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
-*   [sysmon-modular (⭐2.1k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+*   [Raccine (⭐882)](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
+*   [sysmon-config (⭐4.1k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
+*   [sysmon-modular (⭐2.2k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 
-## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Gateway
 
-*   [Tyk API Gateway (⭐8k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
+*   [Tyk API Gateway (⭐8.4k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
 
 ### Projects / BRE
 
-*   [Easy Rules (⭐4.3k)](https://github.com/j-easy/easy-rules) - A simple Java rules engine.
+*   [Easy Rules (⭐4.4k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
 
 ### Projects / BPM
 
-*   [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - A comprehensive business process management platform.
-*   [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - An integrated environment for developing, administering, and using business applications centered around business processes.
-*   [Pega Platform](https://www.pega.com/products/platform) - A combined business process management and robotic process automation (RPA) platform with advanced workforce analytics from Pegasystems.
+*   [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - A comprehensive business process management platform for developing and administering business applications.
+*   [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - An integrated environment for developing, administering, and using business applications that are centered around business processes.
+*   [Pega Platform](https://www.pega.com/products/platform) - A platform for business process management and robotic process automation (RPA) with advanced workforce analytics.
 *   [SAP Process Orchestration](https://www.sap.com/products/process-orchestration.html) - A business process management offering and application infrastructure.
-*   [TIBCO BPM Enterprise](https://www.tibco.com/products/business-process-management) - A business process management platform with capabilities for process automation, process documentation, human capital management, process patterns, and predictive operations analytics.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap](https://www.atlasmap.io/) - Data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, CSV and JSON data sources.
+*   [TIBCO BPM Enterprise](https://www.tibco.com/products/business-process-management) - Business process management platform that offers capabilities for process automation, documentation, human capital management, process patterns, and predictive operations analytics.
 
 ### Projects / ESB
 
-*   [ArcESB](https://www.arcesb.com/integration/) - Synchronize data across applications, seamlessly integrate with partners, or make data publicly accessible.
-*   [NServiceBus](https://particular.net/nservicebus) - The most developer-friendly service bus for .NET.
-*   [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - Transforms complex and brittle architectures into agile integration networks by connecting, virtualizing, and managing interactions between services and applications.
-*   [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - Enables system developers to set up and manage services and to orchestrate them into composite applications and business processes.
-*   [Red Hat Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse) - Distributed, cloud-native integration platform.
-*   [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - Integrate anything faster.
-*   [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - Implement enterprise patterns for hybrid integrations.
-*   [WSO2 Enterprise Integrator](https://wso2.com/integration/) - An API-centric, cloud-native, and distributed integration platform.
+*   [ArcESB](https://www.arcesb.com/integration/) - A versatile integration platform that seamlessly synchronizes data across applications, integrates with partners, and provides data accessibility.
+*   [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - An integration platform that connects, virtualizes, and manages interactions between services and applications.
+*   [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - A platform that enables system developers to set up and manage services and to orchestrate them into composite applications and business processes.
+*   [Red Hat Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse) - A cloud-native integration platform that supports distributed integration capabilities.
+*   [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - An integration platform that enables faster integration of any application.
+*   [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - A platform that implements enterprise patterns for hybrid integrations.
+*   [WSO2 Enterprise Integrator](https://wso2.com/integration/) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 ### Projects / ETL
 
-*   [CloverETL](http://www.cloveretl.com/) - A data integration software suite for data migration and data warehousing, and for feeding data into business intelligence and reporting applications.
-*   [IBM DataStage](https://www.ibm.com/products/datastage) - A data integration platform that helps businesses understand, cleanse, transform, and deliver trusted information.
-*   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - Delivers enterprise data integration and management software powering analytics for big data and cloud.
+*   [CloverETL](http://www.cloveretl.com/) - A comprehensive data integration software suite, ideal for data migration, warehousing, and feeding data into BI and reporting apps.
+*   [IBM DataStage](https://www.ibm.com/products/datastage) - A powerful data integration platform that helps businesses understand, cleanse, transform, and deliver trusted information.
+*   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - A trusted enterprise data integration and management software powering analytics for big data and cloud.
 *   [Oracle Data Integrator](https://www.oracle.com/middleware/technologies/data-integrator.html) - A comprehensive data integration platform that covers all data integration requirements, including batch loads, integration processes, and SOA-enabled data services.
-*   [Pentaho Data Integration (⭐6.3k)](https://github.com/pentaho/pentaho-kettle) - Enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools to eliminate coding and complexity.
-*   [SAS Data Management](https://www.sas.com/en_us/software/data-management.html) - Helps transform, integrate, govern, and secure data while improving its overall quality and reliability.
-*   [Stitch](https://www.stitchdata.com/) - A simple, powerful ETL service for businesses of all sizes, up to and including the enterprise. Running on a scalable, fault-tolerant cloud platform, Stitch integrates data from dozens of different sources.
-*   [Talend Data Integration](https://www.talend.com/products/integrate-data/) - Bring data together from multiple sources to power all your business decisions.
+*   [Pentaho Data Integration (⭐6.6k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+*   [SAS Data Management](https://www.sas.com/en_us/software/data-management.html) - A robust platform that helps transform, integrate, govern, and secure data while improving its overall quality and reliability.
+*   [Stitch](https://www.stitchdata.com/) - A simple yet powerful ETL service that integrates data from dozens of different sources, ideal for businesses of all sizes.
+*   [Talend Data Integration](https://www.talend.com/products/integrate-data/) - A versatile platform that brings data together from multiple sources to power all your business decisions.
 
 ### Projects / iPaaS
 
-*   [Dell Boomi AtomSphere](https://boomi.com/platform) - Connect everyone to everything with the cloud-native, unified, open, intelligent platform.
-*   [Jitterbit Harmony](https://www.jitterbit.com/platform/ipaas) - Integrates thousands of applications with pre-built templates and workflows to automate your business processes.
-*   [IBM Cloud Integration](https://www.ibm.com/cloud/integration) - AI-powered approach to integration.
-*   [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - Multiple cloud data management products designed to accelerate productivity and improve speed and scale.
-*   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - Enterprise data management, organizations move beyond basic integration and turn data into insights and action. Formerly known as Liaison ALLOY Platform.
-*   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - Accelerates time to go live with pre-built connectivity to any SaaS or on-premises application.
-*   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - Connect your application and data landscape.
-*   [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html) - One application integration platform integrates it all.
-*   [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - Empower everyone to integrate anything with API-led and event-driven integration.
-*   [Workato](https://www.workato.com/) - A single platform for integration & workflow automation across your organization.
+*   [Jitterbit Harmony](https://www.jitterbit.com/platform/ipaas) - A comprehensive integration platform that provides pre-built templates and workflows to automate business processes. It integrates thousands of applications and simplifies integration for software engineers.
+*   [IBM Cloud Integration](https://www.ibm.com/cloud/integration) - A next-generation integration platform that uses AI to provide software engineers with an innovative approach to integration. This platform accelerates integration processes, making it faster and more scalable.
+*   [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - A suite of cloud data management products designed to accelerate productivity and improve speed and scale. Software engineers can use this platform to manage data and integrate applications efficiently.
+*   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - A powerful enterprise data management platform that empowers organizations to move beyond basic integration and turn data into insights and action. Software engineers can use this platform to manage data and improve business outcomes.
+*   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - A robust platform that accelerates time to go live with pre-built connectivity to any SaaS or on-premises application. Software engineers can use this platform to simplify integration processes and streamline operations.
+*   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - A comprehensive integration platform that connects various applications and data landscapes. Software engineers can use this platform to integrate data and applications quickly and efficiently.
+*   [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
+*   [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - A flexible platform that enables software engineers to integrate anything with API-led and event-driven integration. This platform empowers everyone to integrate anything, making integration processes faster and more efficient.
+*   [Workato](https://www.workato.com/) - A single platform for integration and workflow automation across your organization, providing software engineers with a powerful platform for simplifying integration processes and streamlining operations.
 
 ### Projects / Managed File Transfer
 
-*   [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - All-in-One Enterprise-Class MFT.
-*   [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Make file transfer services easy to use.
-*   [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - Move over 1 million files per day with a fast and scalable file transfer platform.
-*   [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - Enables secure file exchange and management.
+*   [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - A comprehensive solution for enterprises seeking to streamline file transfer processes. Its user-friendly interface and powerful capabilities provide an all-in-one MFT solution that can efficiently handle file transfers.
+*   [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Designed to simplify file transfer services for businesses, this MFT solution offers advanced features and security measures to ensure secure and reliable data transfer.
+*   [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - A fast and scalable file transfer platform that offers advanced security features and flexible architecture. It is ideal for businesses that require a reliable and secure MFT platform.
+*   [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - A comprehensive MFT solution that enables secure file exchange and management, providing a reliable and efficient way for businesses to transfer data with ease.
 
 ### Projects / Master Data Management
 
-*   [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - All-in-one master data management.
-*   [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Adapt and respond to change faster and more effectively by managing your master data.
-*   [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - Improve the quality and consistency of information across your organization by consolidating and centrally governing the master data lifecycle.
-*   [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - Provides a single, accurate and unified view of corporate data, integrating information from various data sources into one master record.
-*   [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - Provides “one version of the truth” when it comes to data, ensuring that only reliable, accurate and approved information is flowing through your systems, processes and applications.
-*   [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - Drives significant ROI using consistent reference data to establish an accurate analytical data foundation.
-*   [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - A single solution to govern, manage, and consume all shared data assets.
+*   [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - An all-in-one solution that enables you to manage and govern all your master data domains in one place.
+*   [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Helps you adapt and respond to change faster and more effectively by centralizing and managing your master data.
+*   [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - Streamlines and improves the quality and consistency of your data by consolidating and centrally governing your master data lifecycle.
+*   [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - Provides a unified view of your corporate data, integrating information from various sources into one master record for greater accuracy and consistency.
+*   [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - Ensures that only reliable, accurate, and approved information flows through your systems, processes, and applications, providing "one version of the truth."
+*   [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - Establishes an accurate analytical data foundation by using consistent reference data, driving significant ROI.
+*   [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - A single solution to govern, manage, and consume all shared data assets, ensuring greater consistency and accuracy across your organization.
 
 ### Projects / RPA
 
-*   [UiPath](https://www.uipath.com/product) - Automattion repetitive digital tasks normally performed by people.
+*   [UiPath](https://www.uipath.com/product) - A platform that provides RPA solutions for automating repetitive digital tasks typically performed by people. This solution offers a comprehensive automation platform that enables businesses to automate their processes and increase efficiency.
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐29k)](https://github.com/apache/airflow) - A platform to programmatically author, schedule, and monitor workflows.
-*   [Argo Workflows (⭐12k)](https://github.com/argoproj/argo-workflows) -  An open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-*   [Azkaban (⭐4.2k)](https://github.com/azkaban/azkaban) - A distributed Workflow Manager, implemented at LinkedIn to solve the problem of Hadoop job dependencies.
-*   [Bonita (⭐128)](https://github.com/bonitasoft/bonita-engine) - BPMN engine that comes with an optional development environment, a designer, an optional user interface and administrative tools.
-*   [Elsa Core (⭐4.1k)](https://github.com/elsa-workflows/elsa-core) -  A workflows library that enables workflow execution in any .NET Core application.
-*   [Flowable (⭐6k)](https://github.com/flowable/flowable-engine) - Provides a core set of open source business process engines that are compact and highly efficient.
-*   [StackStorm (⭐5.3k)](https://github.com/StackStorm/st2) - Robust Automation Engine providing Sensors, Triggers, Rules, Workflows, and Actions. StackStorm is how you “glue” your applications together.
+*   [Apache Airflow (⭐30k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
+*   [Argo Workflows (⭐13k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
+*   [Azkaban (⭐4.3k)](https://github.com/azkaban/azkaban) - A distributed workflow manager that helps solve the problem of Hadoop job dependencies, making it easier to schedule and manage workflows in large-scale data processing environments.
+*   [Bonita (⭐133)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
+*   [Elsa Core (⭐4.5k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
+*   [Flowable (⭐6.4k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
+*   [StackStorm (⭐5.5k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
 
 ### Resources / Articles
 
@@ -292,21 +288,21 @@
 
 ### Resources / Protocols
 
-*   [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf) - Advanced Message Queuing Protocol (AMQP) Version 0-9-1.
-*   [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html) - Advanced Message Queuing Protocol (AMQP) Version 1.0.
-*   [STOMP](https://stomp.github.io/) - Simple (or Streaming) Text Orientated Messaging Protocol.
+*   [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf) - A message queuing protocol that enables the exchange of messages between applications or systems. AMQP 0-9-1 provides reliability, security, and flexibility to handle complex messaging scenarios.
+*   [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html) - A widely accepted message queuing protocol that provides reliable, interoperable, and efficient messaging between systems. AMQP 1.0 supports a broad range of messaging scenarios and is ideal for complex enterprise-level applications.
+*   [STOMP](https://stomp.github.io/) - A messaging protocol that offers simple, text-oriented communication between systems. STOMP is ideal for low-latency, high-performance messaging scenarios.
 
 ### Resources / Standard APIs
 
-*   [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) - Java Database Connectivity (JDBC) API provides universal data access from the Java programming language.
-*   [JMS](https://javaee.github.io/jms-spec/) - Java Message Service (JMS) API.
+*   [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) - A Java-based API that provides universal data access to relational databases. JDBC offers a consistent and efficient way to access and manipulate data, making it a popular choice among developers.
+*   [JMS](https://javaee.github.io/jms-spec/) - A messaging API that enables Java applications to send and receive messages. JMS supports reliable messaging and is widely used in enterprise-level applications.
 
 ### Resources / Structure and Validation
 
-*   [JSON Schema](https://json-schema.org/) - A powerful tool for validating the structure of JSON data.
-*   [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - Offers facilities for describing the structure and constraining the contents of XML documents.
+*   [JSON Schema](https://json-schema.org/) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+*   [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - A schema language that offers facilities for describing the structure and constraining the contents of XML documents. XML Schema enables developers to ensure that XML data conforms to a specific structure, making it easier to process and manipulate.
 
-## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Climate
 

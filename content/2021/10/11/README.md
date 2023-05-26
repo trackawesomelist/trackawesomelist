@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2021
 
-12 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ### Advanced datastructures
 
-*   [meander (⭐789)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
+*   [meander (⭐866)](https://github.com/noprompt/meander): transparent data transformation (defined as pattern-matching)
 
 ## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -42,48 +42,36 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Fleetdm (⭐1.1k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+*   [Fleetdm (⭐1.3k)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 
 ### IR Tools Collection / Other Tools
 
-*   [MFT Browser (⭐245)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
+*   [MFT Browser (⭐249)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 *   [traceroute-circl (⭐36)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [Coursebook (⭐583)](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
-
-## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Examples / Hardware Offload
 
-*   [redbpf examples (⭐1.5k)](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
+*   [redbpf examples (⭐1.6k)](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
 
 ### Projects Related to eBPF / Tools
 
-*   [redbpf (⭐1.5k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
+*   [redbpf (⭐1.6k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
-## [8. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tools / React Development Tools
-
-*   [jsx-ast-utils (⭐136)](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
-
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐145)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐168)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
-## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Libraries and Frameworks
 
-*   [Puppeteer (⭐81k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐83k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -399,7 +387,7 @@
 
 
 
-## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 

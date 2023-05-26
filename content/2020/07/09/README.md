@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [kopach/karma-sabarivka-reporter (⭐44)](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
+*   [kopach/karma-sabarivka-reporter (⭐43)](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -26,23 +26,23 @@
 
 ### Design and UI
 
-*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at [https://github.com/xlayers/xlayers (⭐807)](https://github.com/xlayers/xlayers))
+*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at [https://github.com/xlayers/xlayers (⭐804)](https://github.com/xlayers/xlayers))
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Electronics and Mechanics / Version Control
 
-*   [Horizon (⭐774)](https://github.com/horizon-eda/horizon) - EDA is an Electronic Design Automation package supporting an integrated end-to-end workflow for printed circuit board design including parts management and schematic entry.
+*   [Horizon (⭐883)](https://github.com/horizon-eda/horizon) - EDA is an Electronic Design Automation package supporting an integrated end-to-end workflow for printed circuit board design including parts management and schematic entry.
 
 ### Sensor Processing / Image Processing
 
-*   [meshroom (⭐8.5k)](https://github.com/alicevision/meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
+*   [meshroom (⭐9.2k)](https://github.com/alicevision/meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Documentation
 
-*   [xcribe (⭐56)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
+*   [xcribe (⭐57)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
 
 ## [6. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
@@ -61,37 +61,37 @@
 
 ### Web Development
 
-*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Simple tutorials using [hunchentoot](http://edicl.github.io/hunchentoot/), [cl-redis (⭐175)](https://github.com/vseloved/cl-redis), [restas (⭐246)](https://github.com/archimag/restas), [SEXML (⭐22)](https://github.com/madnificent/SEXML), [Postmodern (⭐343)](https://github.com/marijnh/Postmodern), and more.
+*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Simple tutorials using [hunchentoot](http://edicl.github.io/hunchentoot/), [cl-redis (⭐177)](https://github.com/vseloved/cl-redis), [restas (⭐251)](https://github.com/archimag/restas), [SEXML (⭐22)](https://github.com/madnificent/SEXML), [Postmodern (⭐349)](https://github.com/marijnh/Postmodern), and more.
 
 ## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Logging
 
 *   [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
-*   [sentry-python (⭐1.4k)](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
+*   [sentry-python (⭐1.5k)](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-ui-preloader (⭐21)](https://github.com/Bot-Academia/Vue-ui-preloader) - Pre Loader components for vue.js projects with playground.
-*   [vue-img-cutter (⭐400)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
+*   [vue-img-cutter (⭐420)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [eureka (⭐622)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [eureka (⭐645)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudTrail
 
-*   [GorillaStack/auto-tag :fire::fire: (⭐414)](https://github.com/GorillaStack/auto-tag) - Automatically tag AWS resources on creation, for cost assignment.
+*   [GorillaStack/auto-tag :fire::fire: (⭐420)](https://github.com/GorillaStack/auto-tag) - Automatically tag AWS resources on creation, for cost assignment.
 
 ### Open Source Repos / S3
 
-*   [mickael-kerjean/filestash :fire::fire::fire::fire::fire: (⭐7.5k)](https://github.com/mickael-kerjean/filestash) - A modern web client for S3.
+*   [mickael-kerjean/filestash :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/mickael-kerjean/filestash) - A modern web client for S3.
 
 ---
 

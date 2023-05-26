@@ -20,7 +20,7 @@
 
 ### Alert / Barcode
 
-*   [Loaf (⭐996)](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
+*   [Loaf (⭐1k)](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
 
 ## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

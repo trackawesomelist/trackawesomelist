@@ -60,7 +60,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Discord / Go
 
-*   [Discordgo (⭐3.4k)](https://github.com/bwmarrin/discordgo)
+*   [Discordgo (⭐3.8k)](https://github.com/bwmarrin/discordgo)
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -72,7 +72,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Related projects / Syntax highlighting packages
 
-*   [gb-save-states (⭐106)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
+*   [gb-save-states (⭐116)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 
 ## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

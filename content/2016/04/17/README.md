@@ -24,7 +24,6 @@
 ### Books / General Overviews
 
 *   *[Network Science: Theory and Practice](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118211014.html)*, by Ted G. Lewis (2011).
-*   *[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)*, by David Easley and Jon Kleinberg - Full pre-publication draft ([review](http://bactra.org/reviews/networks-crowds-markets.html); 2010).
 *   *[Social Networks: An Introduction](https://www.routledge.com/products/9780415458030)*, by Jeroen Bruggeman ([related material](https://sites.google.com/site/introsocnet/); 2008).
 
 ### Books / Method-specific
@@ -33,8 +32,8 @@
 
 ### Books / Software-specific
 
-*   *[Introduction to Social Network Methods](http://faculty.ucr.edu/\~hanneman/nettext/)* (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
-*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐236)](https://github.com/maksim2042/SNABook); 2011).
+*   *[Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/)* (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
+*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐237)](https://github.com/maksim2042/SNABook); 2011).
 
 ### Books / Topic-specific
 
@@ -54,7 +53,7 @@
 
 *   [Centre for Business Network Analysis, University of Greenwich](http://www.gre.ac.uk/business/research/centres/cbna/home) - Focused on economic/organisational network analysis.
 *   [Center for Network Science, Central European University, Budapest](http://cns.ceu.edu/) - Features a PhD in Network Science program.
-*   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).
+*   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/). Twitter: [@MitchellSNA](https://twitter.com/MitchellSNA).
 *   [UCL Centre for Organisational Network Analysis (CONA)](https://www.ucl.ac.uk/cona).
 
 ### Review Articles / Social, Economic and Political Networks
@@ -75,10 +74,6 @@
 
 *   [SNA with Stata](http://www.rensecorten.org/index.php/category/sna-with-stata/) - Blog documenting the use of the netplot Stata package.
 
-### Software / Syntaxes
-
-*   [JGraphT](http://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms (⭐8)](https://github.com/agouge/Java-Network-Analyzer)).
-
 ### Varia / Tutorials
 
 *   [Mixed-Method Approaches to Social Network Analysis](https://www.youtube.com/playlist?list=PL3zdEY084WkQD79mR00RSt8j5RuyPwMJE) - Videos of a conference at the Middlesex University School of Law (2014).
@@ -87,7 +82,7 @@
 
 ### Varia / Network Science
 
-*   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013 (⭐19)](https://github.com/raffaelevacca/EUSN-co-citation-networks).
+*   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013 (⭐20)](https://github.com/raffaelevacca/EUSN-co-citation-networks).
 
 ---
 

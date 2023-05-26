@@ -14,19 +14,19 @@
 
 ### Applications / Database
 
-*   [Lucid (⭐319)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
+*   [Lucid (⭐329)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 
 ### Applications / Web Servers
 
-*   [wyhaya/see (⭐181)](https://github.com/wyhaya/see) — Static HTTP file server [![Build Status](https://api.travis-ci.org/wyhaya/see.svg?branch=master)](https://travis-ci.org/wyhaya/see)
+*   [wyhaya/see (⭐185)](https://github.com/wyhaya/see) — Static HTTP file server
 
 ### Libraries / Logging
 
-*   [tokio-rs/tracing (⭐3.6k)](https://github.com/tokio-rs/tracing) — An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
+*   [tokio-rs/tracing (⭐3.9k)](https://github.com/tokio-rs/tracing) — An application level tracing framework for async-aware structured logging, error handling, metrics, and more [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
 
 ### Libraries / Text search
 
-*   [meilisearch/MeiliSearch (⭐34k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
+*   [meilisearch/MeiliSearch (⭐37k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
 
 ## [2. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
@@ -38,10 +38,10 @@
 
 ### Open Source / Other
 
-*   [Pomodoro (⭐220)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
+*   [Pomodoro (⭐227)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
 *   [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) - Decentralized file storage system based on cryptocurrency technology.
-*   [Sabaki (⭐2.1k)](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
-*   [Swifty (⭐777)](https://github.com/swiftyapp/swifty) - Password manager.
+*   [Sabaki (⭐2.2k)](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
+*   [Swifty (⭐812)](https://github.com/swiftyapp/swifty) - Password manager.
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -54,19 +54,19 @@
 
 ### Gesture
 
-*   [Sensitive (⭐548)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
+*   [Sensitive (⭐550)](https://github.com/hellowizman/Sensitive) - Special way to work with gestures in iOS.
 
 ### Logging
 
-*   [Diagnostics (⭐788)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
+*   [Diagnostics (⭐798)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 
 ### JSON
 
-*   [SBJson (⭐3.8k)](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C.
+*   [SBJson (⭐3.7k)](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C.
 
 ### Alert & Action Sheet
 
-*   [CFNotify (⭐493)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable views.
+*   [CFNotify (⭐494)](https://github.com/JT501/CFNotify) - A customizable framework to create draggable views.
 
 ### Deployment / Distribution / Collection View Layout
 
@@ -76,7 +76,7 @@
 
 ### Programming Languages
 
-*   [Coq (⭐214)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+*   [Coq (⭐220)](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 
 ## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -89,15 +89,15 @@
 ### Productivity / Calendars
 
 *   [gcalcli (⭐3k)](https://github.com/insanum/gcalcli) - Google calendar client.
-*   [khal (⭐2.1k)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
+*   [khal (⭐2.2k)](https://github.com/pimutils/khal) - CalDAV ready CLI and TUI calendar.
 
 ### Files and Directories / Search
 
-*   [broot (⭐8.1k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+*   [broot (⭐8.6k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 
 ### Images / Image Conversion
 
-*   [korkut (⭐355)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
+*   [korkut (⭐356)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Books / RFID NFC Tools
 
-*   2019, Yago Hansen: [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers (⭐1.9k)](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf)
+*   2019, Yago Hansen: [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers (⭐2k)](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf)
 
 ### Research Papers / RFID NFC Tools
 
@@ -159,7 +159,7 @@
 
 ### Database
 
-*   [DBreeze (⭐462)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
+*   [DBreeze (⭐468)](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
 
 ---
 

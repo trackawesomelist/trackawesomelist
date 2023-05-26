@@ -121,7 +121,7 @@
 
 ### Reading and Writing Tools / Note-taking
 
-*   [Notable (⭐21k)](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
+*   [Notable (⭐22k)](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 
 ## [6. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -208,23 +208,19 @@
 *   [NetSci - International School and Conference on Social Networks](http://www.netscisociety.net/) - Organized by the Network Science Society (NetSci).
     *   [Large-scale Structures in Networks: Hidden Communities and Latent Hierarchies](http://danlarremore.com/CommunityDetection_and_Ranking_Larremore_2019.pdf) - Talk by [Dan Larremore](http://danlarremore.com/) at NetSci 2019.
 
-### Courses / Topic-specific
-
-*   [Network Science (Physics)](https://www.barabasilab.com/course), by Albert-László Barabási, Sean Cornelius and Roberta Sinatra (Northeastern University, 2015).
-
 ### Datasets / Topic-specific
 
 *   [Animal Social Network Repository](https://bansallab.github.io/asnr/) - Large “[multi-species repository of social networks](https://doi.org/10.1038/s41597-019-0056-z).”
 *   [Colorado Index of Complex Networks (ICON)](https://icon.colorado.edu/) - Large collection of networks described and indexed by Aaron Clauset’s research group.
-*   [Manlio De Domenico’s Complex Multilayer Networks](https://comunelab.fbk.eu/data.php).
 *   [Network Science Book - Network Datasets](http://networksciencebook.com/translations/en/resources/data.html) - Network data sets from Albert-László Barabási’s *Network Science* book. Includes data on IMDB actors, arXiv scientific collaboration, network of routers, the US power grid, protein-protein interactions, cell phone users, citation networks, metabolic reactions, e-mail networks, and nd.edu Web pages.
+    <!-- -   [Nexus](http://nexus.igraph.org/) - Repository of network datasets in GraphML and igraph formats. -->
 *   [Philosophers Networks from Randall Collins’s *The Sociology of Philosophies*](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html#tab_1).
 
 ### Professional Groups / Topic-specific
 
 *   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association (APSA). Twitter: [@PolNetworks](https://twitter.com/PolNetworks).
 *   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research. Twitter: [@politicalnets](https://twitter.com/politicalnets).
-*   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)).
+*   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)). Twitter: [@SocNetAnalysts](https://twitter.com/SocNetAnalysts).
 
 ### Professional Groups / Research Groups (USA)
 
@@ -234,16 +230,11 @@
 
 ### Review Articles / Archeological and Historical Networks
 
-*   [Analyse de réseaux et histoire](https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2005-2-page-88.htm), in French (*Revue d’histoire moderne et contemporaine*, 2005).
-*   [Analyser les réseaux du passé en archéologie et en histoire](https://journals.openedition.org/nda/2300), in French (*Les Nouvelles de l’Archéologie*, 2014).
-*   [Introduction : où en est l’analyse de réseaux en histoire ? \[Introducción: ¿en qué punto se encuentra el análisis de redes en Historia?\]](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299), in French ([also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298); *REDES*, 2011).
 *   [Networks in Historical Research](http://www.themacroscope.org/?page_id=308) (in *The Historian’s Macroscope*, 2013).
 
 ### Review Articles / Bibliographic, Citation and Semantic Networks
 
 *   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/wp-content/uploads/2017/12/dynamic-scientific-coauthorship-networks.pdf) (*[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)*, 2012).
-*   [Self-Citations, Co-Authorships and Keywords: A New Approach to Scientists’ Field Mobility?](https://link.springer.com/article/10.1007/s11192-007-1680-5) (*Scientometrics*, 2007).
-*   [Tradition and Innovation in Scientists’ Research Strategies](http://asr.sagepub.com/content/early/2015/08/12/0003122415601618) (*Annual Review of Sociology*, 2015).
 
 ### Review Articles / Biological, Ecological and Disease Networks
 
@@ -259,14 +250,12 @@
 
 ### Review Articles / Social, Economic and Political Networks
 
-*   [A propos de la notion de rôle dans l’analyse des relations sociales](https://journals.openedition.org/msh/11969) (*Mathématiques et sciences humaines*, 2011).
 *   [Networks and Trade](https://doi.org/10.1146/annurev-economics-080217-053506) (*Annual Review of Economics*, 2018).
 *   [Social Networks and Crime: Pitfalls and Promises for Advancing the Field](https://doi.org/10.1146/annurev-criminol-011518-024701) (*Annual Review of Criminology*, 2019).
 
 ### Selected Papers / Social, Economic and Political Networks
 
 *   [Deux traditions d’analyse des reseaux sociaux](https://www.cairn.info/revue-reseaux1-2002-5-page-183.htm), by Michael Eve ([English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS); *Réseaux*, 2002).
-*   [Topics in Social Network Analysis and Network Science](http://arxiv.org/abs/1404.0067), by A. James O’Malley and Jukka-Pekka Onnela - 50-page introduction to network analysis, with just the right amount of detail on all aspects of it (*The Handbook of Health Services Research*, forthcoming 2017).
 
 ### Software / Social, Economic and Political Networks
 
@@ -275,7 +264,7 @@
 
 ### Software / Algorithms
 
-*   [Linkcomm - Link Communities in Complex Networks (⭐87)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://cran.r-project.org/package=linkcomm).
+*   [Linkcomm - Link Communities in Complex Networks (⭐87)](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 
 ### Software / Python
 
@@ -290,10 +279,6 @@
 
 *   [TNT: The Network Thinkers](http://www.thenetworkthinkers.com/) - Valdis Krebs’ blog.
 *   [Under Roquentin’s Chestnut Tree](https://mboudour.github.io/) - Moses Boudourides’ blog on analyzing (mostly) networks with Python.
-
-### Varia / Two-Mode Networks
-
-*   [L’analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
 
 ## [12. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -321,7 +306,7 @@
 
 ### UI
 
-*   [Animated Icon Button (⭐9)](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
+*   [Animated Icon Button (⭐11)](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
 
 ## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -342,7 +327,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-*   [QMK Configurator (⭐521)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐539)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Components & Libraries / UI Components
 
@@ -353,7 +338,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [CabloyJS (⭐734)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+*   [CabloyJS (⭐778)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 
 ### Components & Libraries / UI Utilities
 
@@ -364,10 +349,10 @@
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐4.7k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐593)](https://github.com/PetarV-/Algorithms)
-    *   [by @faheel (⭐489)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐138)](http://github.com/sslotin/algo)
+    *   [by @xtaci (⭐4.8k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐600)](https://github.com/PetarV-/Algorithms)
+    *   [by @faheel (⭐491)](https://github.com/faheel/Algos)
+    *   [by @sslotin (⭐140)](http://github.com/sslotin/algo)
 
 ## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -481,15 +466,15 @@
 
 ### Julia / Natural Language Processing
 
-*   [Word Tokenizers (⭐86)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
-*   [Corpus Loaders (⭐31)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
-*   [Embeddings (⭐71)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
-*   [Languages (⭐47)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
+*   [Word Tokenizers (⭐88)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+*   [Corpus Loaders (⭐32)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
+*   [Embeddings (⭐73)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
+*   [Languages (⭐48)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
 *   [WordNet (⭐31)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐132)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐134)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -565,7 +550,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [aws-lambda-java-libs :fire::fire: (⭐459)](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
+*   [aws-lambda-java-libs :fire::fire: (⭐473)](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
 
 ## [40. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
@@ -615,7 +600,7 @@
 
 ### Extensions
 
-*   [Terraform For Next.js (⭐50)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+*   [Terraform For Next.js (⭐52)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -683,9 +668,9 @@
 
 ### For Electron / Other
 
-*   [debugtron (⭐921)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-better-ipc (⭐643)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
-*   [electron-chrome-extension (⭐120)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
+*   [debugtron (⭐973)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-better-ipc (⭐657)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-chrome-extension (⭐123)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
@@ -695,16 +680,16 @@
 
 ### Theory
 
-*   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐486)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐502)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐479)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐500)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ### Security
 
-*   [Fuzzing (⭐638)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐662)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

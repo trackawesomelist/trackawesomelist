@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,31 +51,25 @@
 
 *   [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) - Best Paper Award at CVPR 2017, yielding improvements on state-of-the-art performances on CIFAR-10, CIFAR-100 and SVHN datasets, this new neural network architecture is named DenseNet.
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Hack / Spock Framework
-
-*   [Hack Documentation](https://docs.hhvm.com/hack/)
-
-## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Books
 
 *   [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) - Writing Great Specifications is an example-rich tutorial that teaches you how to write good Gherkin specification documents that take advantage of Specification by Example's benefits.
 
-## [5. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [4. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 
 *   [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 
-## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI / Video
 
 *   [VideoPlayView (⭐90)](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Dependency Injection
 
@@ -85,7 +79,7 @@
 
 *   [Closures (⭐1.7k)](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
@@ -96,13 +90,13 @@
 *   [Async in VueJS part 1](https://medium.com/js-dojo/async-in-vue-js-part-1-28d96f751a2e)
 *   [Async in VueJS part 2](https://medium.com/js-dojo/async-in-vuejs-part-2-45e81c836e38)
 
-## [9. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [8. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Function
 
 *   [throttle-debounce (⭐886)](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Articles / Workflow
 
@@ -114,13 +108,13 @@
     *   [Understanding ASP.NET Core Initialization](http://developer.telerik.com/featured/understanding-asp-net-core-initialization/)
     *   [Why you should join .NET Core and ASP.NET Core train](https://codingblast.com/why-you-should-join-asp-net-core/)
 
-## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [10. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Exception Reporting
 
 *   [BugSnag](https://www.bugsnag.com/) `requires-approval` - Exception tracking and reporting.
 
-## [12. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [11. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Miscellaneous / Others
 

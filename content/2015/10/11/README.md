@@ -56,7 +56,7 @@
 
 ### Web Framework
 
-*   [Pedestal (⭐2.5k)](https://github.com/pedestal/pedestal)
+*   [Pedestal (⭐2.6k)](https://github.com/pedestal/pedestal)
 
 ### Build Automation and Package management
 

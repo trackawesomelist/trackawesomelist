@@ -10,7 +10,7 @@
 
 ### Media Players
 
-*   [Dash.js (⭐12)](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+*   [Dash.js (⭐11)](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 
 ### Multimedia content processing
 
@@ -38,14 +38,14 @@
 
 ### Third Party APIs
 
-*   [parse\_client (⭐4)](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
+*   [parse\_client (⭐5)](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 *   [simplex (⭐3)](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 
 ## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Algorithms and Data Structures
 
-*   [ods (⭐44)](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
+*   [ods (⭐46)](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
 *   [combine (⭐34)](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
 
 ### Compilers and Compiler Tools
@@ -59,7 +59,7 @@
 
 ### Questions
 
-*   [biocaml (⭐113)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
+*   [biocaml (⭐117)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 *   [onumerical (⭐8)](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 
 ## [6. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
@@ -99,7 +99,7 @@
 
 ### E-Commerce and Payments
 
-*   [ServiceStack.Stripe (⭐195)](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
+*   [ServiceStack.Stripe (⭐194)](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 
 ---
 

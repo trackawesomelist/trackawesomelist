@@ -16,7 +16,7 @@
 
 ### Tools / Misc Tools
 
-*   [Android Mobile Device Hardening (⭐144)](https://github.com/SecTheTech/AMDH) - AMDH scans and harden device's settings and list harmful installed Apps based on permissions.
+*   [Android Mobile Device Hardening (⭐164)](https://github.com/SecTheTech/AMDH) - AMDH scans and harden device's settings and list harmful installed Apps based on permissions.
 *   ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 *   ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 *   ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
@@ -41,21 +41,21 @@
 
 ### Device Input / Keyboard Events
 
-*   [useKeyCapture (⭐20)](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
+*   [useKeyCapture (⭐22)](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
 
 ### Data Store / Mouse Events
 
-*   [effector-react (⭐4.1k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
+*   [effector-react (⭐4.2k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
 
 ### Boilerplate / Mouse Events
 
-*   [react-enterprise-starter-kit (⭐71)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+*   [react-enterprise-starter-kit (⭐73)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
 
 ## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Emojis / Fonts
 
-*   [Crypto Puzzles (⭐18)](https://github.com/2d4d/crypto_puzzles) - Includes e
+*   [Crypto Puzzles (⭐20)](https://github.com/2d4d/crypto_puzzles) - Includes e
     moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: <http://rupp.de/crypto_puzzles/crypto_puzzles_web.py>)
 
 ### Iconic fonts / Fonts
@@ -106,13 +106,13 @@
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐181)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐186)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### IDE
 
-*   [Brackets (⭐34k)](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
+*   [Brackets (⭐33k)](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
 ## [12. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐481)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐500)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
 
 ---
 

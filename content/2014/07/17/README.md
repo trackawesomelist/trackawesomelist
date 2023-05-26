@@ -22,7 +22,7 @@
 
 ### IDE
 
-*   [SharpDevelop (⭐1.9k)](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
+*   [SharpDevelop (⭐2k)](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 
 ## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
@@ -63,9 +63,9 @@
 ### Other Awesome Projects
 
 *   [algorithms (⭐4.8k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
-*   [c-algorithms (⭐2.9k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
+*   [c-algorithms (⭐3k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
 *   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [papers-we-love (⭐70k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐73k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -85,12 +85,12 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐326)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐330)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [sentiment\_classifier (⭐173)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
-*   [jProcessing (⭐144)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
+*   [sentiment\_classifier (⭐172)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
+*   [jProcessing (⭐146)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
 
 ## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

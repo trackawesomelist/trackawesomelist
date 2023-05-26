@@ -42,7 +42,7 @@
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
-### Files
+### File
 
 *   [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
 *   [PyFilesystem2 (⭐1.8k)](https://github.com/pyfilesystem/pyfilesystem2) - Python's filesystem abstraction layer.
@@ -98,7 +98,7 @@
 
 ### Visualization
 
-*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐54k)](https://github.com/apache/incubator-echarts) visualization library.
+*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐55k)](https://github.com/apache/incubator-echarts) visualization library.
 
 ## [10. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

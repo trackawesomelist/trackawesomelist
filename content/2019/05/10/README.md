@@ -61,19 +61,19 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [taskell (⭐1.5k)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
+*   [taskell (⭐1.6k)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 
 ### Files and Directories / Files
 
-*   [webtorrent-cli (⭐905)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
+*   [webtorrent-cli (⭐1k)](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
 
 ### Other Awesome Lists / Emoji
 
 *   [awesome-git-addons (⭐1.7k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
-*   [awesome-shell (⭐26k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
+*   [awesome-shell (⭐27k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
-*   [awesome-zsh-plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
-*   [awesome-nodejs clis (⭐49k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+*   [awesome-zsh-plugins (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
+*   [awesome-nodejs clis (⭐51k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
 ## [7. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
@@ -93,12 +93,12 @@
 
 ### Types / Playground
 
-*   [typesync (⭐1.3k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [type-fest (⭐9.9k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+*   [typesync (⭐1.4k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
+*   [type-fest (⭐11k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 
-*   :octocat: [armour/vue-typescript-admin-template (⭐5k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
+*   :octocat: [armour/vue-typescript-admin-template (⭐5.1k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

@@ -27,7 +27,7 @@
 
 ### Redis
 
-*   [celtuce (⭐46)](https://github.com/lerouxrgd/celtuce)
+*   [celtuce (⭐49)](https://github.com/lerouxrgd/celtuce)
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -35,7 +35,7 @@
 
 *   [dateutil (⭐2k)](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
 
-### Files
+### File
 
 *   [mimetypes](https://docs.python.org/3/library/mimetypes.html) - (Python standard library) Map filenames to MIME types.
 *   [path.py (⭐1k)](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html).
@@ -51,10 +51,10 @@
 ### Testing
 
 *   Testing Frameworks
-    *   [hypothesis (⭐6.4k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
-    *   [nose2 (⭐737)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
+    *   [hypothesis (⭐6.6k)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
+    *   [nose2 (⭐743)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on \`unittest2.
     *   [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
-    *   [Robot Framework (⭐7.7k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
+    *   [Robot Framework (⭐7.9k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
     *   [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
@@ -269,7 +269,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-airbnb-style-datepicker (⭐501)](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!
+*   [vue-airbnb-style-datepicker (⭐506)](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!
 
 ---
 

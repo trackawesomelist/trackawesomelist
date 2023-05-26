@@ -30,8 +30,8 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐498)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
-*   [HDBScan (⭐91)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
+*   [SOMPY (⭐503)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [HDBScan (⭐92)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Network / Monitoring / Logging
 
-*   [Fibratus (⭐1.7k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
+*   [Fibratus (⭐1.9k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -75,7 +75,7 @@
   Link: <https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched>
 
 
-- Name: [Project Frisbee (⭐266)](https://github.com/gdg-x/frisbee)
+- Name: [Project Frisbee (⭐264)](https://github.com/gdg-x/frisbee)
 
   Description: All GDG content in one place
 
@@ -100,7 +100,7 @@
 
 ### Resources / Docker Images
 
-*   [jupyter/docker-stacks/pyspark-notebook (⭐7.1k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
+*   [jupyter/docker-stacks/pyspark-notebook (⭐7.2k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 
 ---
 

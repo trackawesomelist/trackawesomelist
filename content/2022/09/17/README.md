@@ -26,48 +26,48 @@
 
 ### Software / Self-hosting Solutions
 
-*   [VivumLab](https://vivumlab.com) - An open-source data-center, owned by you, the user. VivumLab deploys web services to a server. ([Source Code (⭐37)](https://github.com/VivumLab/VivumLab)) `MIT` `Docker/Shell`
+*   [VivumLab](https://vivumlab.com) - An open-source data-center, owned by you, the user. VivumLab deploys web services to a server. ([Source Code (⭐40)](https://github.com/VivumLab/VivumLab)) `MIT` `Docker/Shell`
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
-*   [usbd-human-interface-device (⭐43)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐43)](https://github.com/dlkj/usbd-human-interface-device) - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
+*   [usbd-human-interface-device (⭐56)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐56)](https://github.com/dlkj/usbd-human-interface-device) - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [mcli (⭐11)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
+*   [mcli (⭐12)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [go-generics (⭐16)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
-*   [quadtree (⭐21)](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
+*   [go-generics (⭐22)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
+*   [quadtree (⭐22)](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
 
 ### Goroutines
 
-*   [go-workerpool (⭐6)](https://github.com/zenthangplus/go-workerpool) - Inspired from Java Thread Pool, Go WorkerPool aims to control heavy Go Routines.
-*   [routine (⭐108)](https://github.com/timandy/routine) - `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully.
+*   [go-workerpool (⭐7)](https://github.com/zenthangplus/go-workerpool) - Inspired from Java Thread Pool, Go WorkerPool aims to control heavy Go Routines.
+*   [routine (⭐125)](https://github.com/timandy/routine) - `routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance `goroutine` context access interfaces, which can help you access coroutine context information more gracefully.
 
 ### Messaging
 
-*   [mob (⭐11)](https://github.com/erni27/mob) - mob is a generic-based, simple mediator / event aggregator library. It supports in-process requests / events processing.
-*   [Ratus (⭐71)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
+*   [mob](https://github.com/erni27/mob) - mob is a generic-based, simple mediator / event aggregator library. It supports in-process requests / events processing.
+*   [Ratus (⭐82)](https://github.com/hyperonym/ratus) - Ratus is a RESTful asynchronous task queue server.
 
 ### Scrapers
 
-*   [go-recipe (⭐17)](https://github.com/kkyr/go-recipe) - A package for scraping recipes from websites.
+*   [go-recipe (⭐20)](https://github.com/kkyr/go-recipe) - A package for scraping recipes from websites.
 
 ### Utilities
 
-*   [countries (⭐73)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
-*   [graterm (⭐23)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
-*   [scan (⭐47)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
+*   [countries (⭐76)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
+*   [graterm (⭐24)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
+*   [scan (⭐49)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [asty (⭐39)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
+*   [asty (⭐46)](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 

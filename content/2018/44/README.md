@@ -32,11 +32,11 @@
 
 ### Tools / Converters
 
-*   [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
+*   [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
 ### Tools / Linters
 
-*   [remark-lint (⭐832)](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
+*   [remark-lint (⭐866)](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 
 ### Services / Presentations
 
@@ -725,11 +725,11 @@
 
 ### Utilities
 
-*   [Gifs (⭐1.6k)](https://github.com/jglovier/gifs) - storage place for GIFs
+*   [Gifs (⭐1.6k)](https://github.com/jglovier/gifs) - Storage place for GIFs.
 
 ### Libraries / C++
 
-*   [AnimatedGif (⭐119)](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs
+*   [AnimatedGif (⭐121)](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs.
 
 ## [13. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -781,12 +781,12 @@
 
 ### Math
 
-*   [FastMath (⭐134)](https://github.com/neslib/FastMath). `[Delphi]` Delphi math library that is optimized for fast performance (sometimes at the cost of not performing error checking or losing a little accuracy). It uses hand-optimized assembly code to achieve much better performance then the equivalent functions provided by the Delphi RTL.
+*   [FastMath (⭐143)](https://github.com/neslib/FastMath). `[Delphi]` Delphi math library that is optimized for fast performance (sometimes at the cost of not performing error checking or losing a little accuracy). It uses hand-optimized assembly code to achieve much better performance then the equivalent functions provided by the Delphi RTL.
     // *Floating-point, vector, matrix operations.*
 
 ### Other
 
-*   [Chet - C Header Translator for Delphi (⭐147)](https://github.com/neslib/Chet). Chet is a .h-to-.pas translator powered by libclang for Delphi. Uses the Clang compiler to parse header files, resulting in more accurate translations that require fewer manual adjustments.
+*   [Chet - C Header Translator for Delphi (⭐162)](https://github.com/neslib/Chet). Chet is a .h-to-.pas translator powered by libclang for Delphi. Uses the Clang compiler to parse header files, resulting in more accurate translations that require fewer manual adjustments.
 
 ## [20. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
@@ -867,7 +867,7 @@
 
 ### Contents / Libraries
 
-*   [Node-hl7-parser (⭐33)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
+*   [Node-hl7-parser (⭐34)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
 
 ## [26. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -948,7 +948,7 @@
 
 ### How to show your progress / Which programming languages should I use?
 
-*   **[Contributors (⭐131k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐137k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [29. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -1071,14 +1071,11 @@
 *   [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
 *   [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
 *   [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/article/242708)
-*   [Working remotely, coworking spaces, and mental health](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
 
 ### Books
 
 *   [Async Remote](https://products.arkency.com/async-remote/).
     by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
-*   [The Remote Jobseeker’s Handbook](https://cobyism.com/remotejobseeker/).
-    by Coby Chapple (GitHub), 2016.
 
 ### Newsletters
 
@@ -1088,14 +1085,14 @@
 
 ### Economics on GitHub / Economists
 
-*   [gboehl](https://github.com/gboehl) - Goethe University Frankfurt, Frankfurt Germany.
+*   [gboehl](https://github.com/gboehl) - Universität Bonn, Bonn, Germany.
 *   [nealbob](https://github.com/nealbob) - Australian National University, Canberra, Australia.
 
 ### Economics on GitHub / Projects
 
 *   [EconForge](https://github.com/EconForge) - Team around Pablo Winant providing packages to solve economic models.
-*   [fecon235 (⭐808)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
-*   [zice-2014 (⭐26)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
+*   [fecon235 (⭐894)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+*   [zice-2014 (⭐27)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 
 ### Links Sent by Readers / Projects
 
@@ -1125,7 +1122,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning in MatLab/Octave (⭐775)](https://github.com/trekhleb/machine-learning-octave) - examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+*   [Machine Learning in MatLab/Octave (⭐784)](https://github.com/trekhleb/machine-learning-octave) - examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 ### Tools / Misc
 
@@ -1182,7 +1179,7 @@
 
 ### More Awesome / Miscellaneous Tools
 
-*   [Awesome UNIX (⭐1.2k)](https://github.com/sirredbeard/Awesome-UNIX)
+*   [Awesome UNIX (⭐1.3k)](https://github.com/sirredbeard/Awesome-UNIX)
 
 ## [38. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
@@ -1340,25 +1337,25 @@
 
 ### Wrappers
 
-*   [cl-sqlite (⭐64)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
-*   [cl-memcached (⭐21)](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-sqlite (⭐63)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
+*   [cl-memcached (⭐20)](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-mongo (⭐134)](https://github.com/fons/cl-mongo) - MongoDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   [cl-redis (⭐175)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-redis (⭐177)](https://github.com/vseloved/cl-redis) - Redis client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [cl-disque (⭐12)](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-rethinkdb (⭐47)](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Tools
 
-*   ⭐ [pgloader (⭐4.4k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
+*   ⭐ [pgloader (⭐4.5k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
 
 ### C
 
-*   👍[cl-autowrap (⭐197)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   👍[cl-autowrap (⭐196)](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ### Miscellaneous
 
 *   [common-cv (⭐54)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
-*   [ftw (⭐50)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [ftw (⭐54)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Mobile
 
@@ -1374,11 +1371,11 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   👍 [spinneret (⭐241)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   👍 [spinneret (⭐252)](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
 ### Utils / Third-party APIs
 
-*   [lfarm (⭐100)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
+*   [lfarm (⭐101)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause)
 
 ### Emacs / Third-party APIs
 
@@ -1578,17 +1575,17 @@ Wifi pw: `ilovenicolau`
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [spulec/moto :fire::fire::fire::fire::fire: (⭐6.7k)](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
+*   [spulec/moto :fire::fire::fire::fire::fire: (⭐6.8k)](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
 
 ## [65. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
-*   [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. ([Source Code (⭐11k)](https://github.com/Chocobozzz/PeerTube)) `AGPL-3.0` `Nodejs`
+*   [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. ([Source Code (⭐12k)](https://github.com/Chocobozzz/PeerTube)) `AGPL-3.0` `Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [SilverStrike](https://silverstrike.org/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.org/), [Source Code (⭐359)](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`
+*   [SilverStrike](https://silverstrike.org/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.org/), [Source Code (⭐369)](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`
 
 ## [66. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
@@ -1779,24 +1776,24 @@ Wifi pw: `ilovenicolau`
 
 ### Game Engine
 
-*   [OpenXRay (⭐2.3k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+*   [OpenXRay (⭐2.4k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 
 ### Graphics
 
-*   [TinySpline (⭐945)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
+*   [TinySpline (⭐992)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
 
 ### Inter-process communication
 
-*   [nng (⭐3.1k)](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
+*   [nng (⭐3.2k)](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
 
 ### JSON
 
-*   [LIBUCL (⭐1.5k)](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser \[BSD-2-Clause]
+*   [LIBUCL (⭐1.5k)](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser. \[BSD-2-Clause]
 
 ### Multimedia
 
-*   [libav (⭐960)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
-*   [TagLib (⭐995)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
+*   [libav (⭐973)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
+*   [TagLib (⭐1k)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
 
 ### Networking
 
@@ -1804,7 +1801,7 @@ Wifi pw: `ilovenicolau`
 
 ### Scripting
 
-*   [sol2 (⭐3.3k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
+*   [sol2 (⭐3.5k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
 
 ### Build Systems
 

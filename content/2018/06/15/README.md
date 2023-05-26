@@ -1,30 +1,24 @@
 # Awesome List Updates on Jun 15, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Irc](/content/davisonio/awesome-irc/README.md)
-
-### License / Platforms
-
-*   Copyright © 2016+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
-
-## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [1. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
 *   [ssh-mitm (⭐1.5k)](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UITableView / Barcode
 
-*   [QuickTableViewController (⭐525)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
+*   [QuickTableViewController (⭐536)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Database
 
@@ -38,13 +32,13 @@
 
 *   [appserver.io (⭐951)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / System Related Tools
 
 *   [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704) - Override your energy saver settings and keep your Mac awake. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/amphetamine/id937984704)
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -56,23 +50,23 @@
 *   [Incidents, fixes, and the day after](https://medium.com/booking-com-infrastructure/incidents-fixes-and-the-day-after-c5d9aeae28c3)
 *   [10 Steps to Develop an Incident Response Plan You’ll ACTUALLY Use](https://engineering.salesforce.com/10-steps-to-develop-an-incident-response-plan-youll-actually-use-6cc49d9bf94c)
 
-## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Testing
 
 *   [Macaca (⭐3.1k)](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 
-## [8. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [Bringing serverless to Rock 'n Roll](http://www.thecloudcast.net/2018/05/the-cloudcast-348-bringing-serverless.html) - Podcast on how Fender utilizes serverless technologies for their digital learning platform.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-a11y-dialog (⭐92)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
+*   [vue-a11y-dialog (⭐93)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
 *   [vue-slideout-panel (⭐169)](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 
 ---

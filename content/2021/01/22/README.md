@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐175)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐201)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -47,7 +47,6 @@
 *   [Awesome point cloud analysis :octocat: (⭐3.6k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
 *   [Awesome robotics :octocat: (⭐3.2k)](https://github.com/Kiloreux/awesome-robotics#readme)
 *   [Awesome robotics libraries :octocat: (⭐1.7k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome ROS2 :octocat: (⭐1.2k)](https://github.com/fkromer/awesome-ros2#readme)
 *   [Awesome artificial intelligence :octocat: (⭐7.4k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome machine learning :octocat: (⭐58k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
@@ -60,7 +59,7 @@
 
 ### Packages / Node.js management
 
-*   [fnm (⭐10k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐12k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -121,11 +120,11 @@
 
 ### HTTP
 
-*   [WebApiClient (⭐1.8k)](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
+*   [WebApiClient (⭐1.9k)](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 
 ### Misc
 
-*   [Quickenshtein (⭐218)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐230)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

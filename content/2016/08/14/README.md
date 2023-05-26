@@ -24,7 +24,7 @@ git rev-list --count <branch-name>
 
 ### Misc. Tools
 
-*   [CaTeX (⭐8)](https://github.com/Alexis-benoist/CaTeX) - Concatenates LaTeX documents with attention for properly merging the preamble.
+*   [CaTeX (⭐9)](https://github.com/Alexis-benoist/CaTeX) - Concatenates LaTeX documents with attention for properly merging the preamble.
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

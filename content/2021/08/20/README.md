@@ -17,8 +17,8 @@
 ### Email
 
 *   [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP and phone number validation in free tier. No Credit Cards required.
-*   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector and more.
 *   [HotTempMail](https://hottempmail.com/) - Unlimited free temp email or disposable temporary email addresses. Autoexpires in one day.
+*   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector and more.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [Tabby (formerly Terminus) (⭐44k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Eugeny/terminus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Tabby (formerly Terminus) (⭐47k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Eugeny/terminus) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Crates / Utils
 
-*   [stylist-rs (⭐239)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
+*   [stylist-rs (⭐252)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Articles & Papers / Scala
 
-*   [Awesome Scalability (⭐43k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+*   [Awesome Scalability (⭐44k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 *   [A Sidecar for Your Service Mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - A short service mesh introduction.
 
 ## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
@@ -105,17 +105,17 @@
 
 ## [12. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
-### Integration
+### Integration / Community
 
 *   [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - The JS SDK provides an intuitive interface for the Directus API from within a JavaScript-powered project (Browsers and Node.js).
 *   [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
-*   [react-directus (⭐45)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
+*   [react-directus (⭐59)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
 ## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simulation / Version Control
 
-*   [safe-control-gym (⭐253)](https://github.com/utiasDSL/safe-control-gym) - PyBullet-based CartPole and Quadrotor environments—with CasADi symbolic dynamics and constraints—for safe and robust learning-based control.
+*   [safe-control-gym (⭐360)](https://github.com/utiasDSL/safe-control-gym) - PyBullet-based CartPole and Quadrotor environments—with CasADi symbolic dynamics and constraints—for safe and robust learning-based control.
 
 ---
 

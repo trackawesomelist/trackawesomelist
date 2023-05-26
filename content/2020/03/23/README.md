@@ -22,7 +22,7 @@
 
 ### Performance Testing / Streaming Protocols
 
-*   [HLS JMeter Plugin (⭐40)](https://github.com/Blazemeter/HLSPlugin)
+*   [HLS JMeter Plugin (⭐41)](https://github.com/Blazemeter/HLSPlugin)
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -76,11 +76,11 @@
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐35k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐36k)](https://github.com/gorhill/uBlock)
 
 ## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
-### Messaging
+### Dead
 
 *   [Apoapse](https://apoapse.space/) is dedicated to advancing cybersecurity into general use across the business ecosystem. A variety of open-source solutions are offered, such as Apoapse Pro, a self-hosted collaborative messaging platform, or Apoapse Protocol, a secure message and data sharing C++ network library.
 
@@ -88,7 +88,7 @@
 
 ### Tools / XML
 
-*   [denomander (⭐132)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐136)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

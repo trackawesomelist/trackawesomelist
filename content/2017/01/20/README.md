@@ -59,7 +59,7 @@
 
 ### Open Source Repos / DynamoDB
 
-*   [lyft/confidant :fire::fire::fire::fire: (⭐1.7k)](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
+*   [lyft/confidant :fire::fire::fire::fire: (⭐1.8k)](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 
 ---
 

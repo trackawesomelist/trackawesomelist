@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2022
 
-21 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,7 +25,7 @@
 
 ### Misc libraries
 
-*   [ryoppippi/zigcv (⭐61)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
+*   [ryoppippi/zigcv (⭐67)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [Shatur/neovim-tasks (⭐38)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
+*   [Shatur/neovim-tasks (⭐57)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Projects / Libraries
 
-*   [LibHyps (⭐15)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
+*   [LibHyps (⭐16)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
 
 ## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -177,7 +177,7 @@
 
 ### Software / Packaging
 
-*   [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code (⭐2.3k)](https://github.com/aptly-dev/aptly)) `MIT` `Go`
+*   [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code (⭐2.4k)](https://github.com/aptly-dev/aptly)) `MIT` `Go`
 
 ## [18. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -198,26 +198,11 @@
 
 ### Resources / Examples
 
-*   [Text Editor (⭐2)](https://github.com/devisasari/text-editor-vue-3) Text Editor made with Vue 3 Composition API, Bootstrap and Firebase by [İsa Sarı](https://github.com/devisasari)
+*   [Text Editor (⭐3)](https://github.com/devisasari/text-editor-vue-3) Text Editor made with Vue 3 Composition API, Bootstrap and Firebase by [İsa Sarı](https://github.com/devisasari)
 
 ### Components & Libraries / Utilities
 
-*   [vue-ts-types (⭐5)](https://github.com/FloEdelmann/vue-ts-types) - Lightweight TypeScript-first Vue prop type definitions.
-
-## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### iOS / Bootstrap
-
-*   [Develop in Swift Explorations](https://books.apple.com/in/book/develop-in-swift-explorations/id1581182728) - Apple Education (iBook)
-
-### JavaScript / Next.js
-
-*   [Learn Next.js](https://nextjs.org/learn) - Vercel Inc.
-
-### Raspberry Pi / Tornado
-
-*   [Raspberry Pi Beginner's Guide 4th Edition](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - The MagPi magazine (PDF)
-*   [The Official Raspberry Pi Handbook 2023](https://magpi.raspberrypi.com/books/handbook-2023) - The MagPi magazine (PDF)
+*   [vue-ts-types (⭐4)](https://github.com/FloEdelmann/vue-ts-types) - Lightweight TypeScript-first Vue prop type definitions.
 
 ---
 

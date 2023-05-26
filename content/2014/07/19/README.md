@@ -343,15 +343,15 @@
 
 ### Build Automation
 
-*   [Invoke-Build (⭐551)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐563)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Logging
 
-*   [StackExchange.Exceptional (⭐848)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [StackExchange.Exceptional (⭐852)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### Queue
 
-*   [MassTransit (⭐5.2k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [MassTransit (⭐5.5k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -461,8 +461,8 @@
 
 ### Log / Runner
 
-*   [console.log-wrapper (⭐407)](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
-*   [loglevel (⭐2.3k)](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
+*   [console.log-wrapper (⭐408)](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
+*   [loglevel (⭐2.4k)](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Open Source Repos / CloudWatch
 
-*   [cloudwatch-logs-subscription-consumer :fire::fire: (⭐398)](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
+*   [cloudwatch-logs-subscription-consumer :fire::fire: (⭐397)](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -20,12 +20,12 @@
 
 ### Misc
 
-*   [Streams (⭐381)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+*   [Streams (⭐380)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 
 ### Source Generator
 
 *   [Awesome .NET Performance (⭐2.9k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
-*   [awesome-ddd (⭐9.6k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+*   [awesome-ddd (⭐9.9k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
 ## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 

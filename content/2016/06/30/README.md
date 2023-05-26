@@ -64,7 +64,7 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 
 ### SDKs and Samples / Clojure SDK
 
-*   [Repo :fire::fire::fire: (⭐980)](https://github.com/mcohen01/amazonica)
+*   [Repo :fire::fire::fire: (⭐995)](https://github.com/mcohen01/amazonica)
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -82,7 +82,7 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 
 ### Queue
 
-*   [Warewolf ESB (⭐260)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
+*   [Warewolf ESB (⭐261)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 
 ### Testing
 

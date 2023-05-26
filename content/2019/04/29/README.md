@@ -11,7 +11,7 @@
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
-*   [Rerun (⭐934)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+*   [Rerun (⭐943)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -41,12 +41,12 @@
 ### Basic linear algebra
 
 *   [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
-    (C++, BSD, [GitHub (⭐260)](https://github.com/ginkgo-project/ginkgo))
+    (C++, BSD, [GitHub (⭐286)](https://github.com/ginkgo-project/ginkgo))
 
 ### Other libraries and tools / Mesh tools
 
 *   [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
-    (MATLAB, BSD, [GitHub (⭐475)](https://github.com/chebfun/chebfun))
+    (MATLAB, BSD, [GitHub (⭐496)](https://github.com/chebfun/chebfun))
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -56,15 +56,15 @@
 
 ### Packages / Date
 
-*   [Day.js (⭐42k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+*   [Day.js (⭐43k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐504)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐527)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 
-*   [nlp.js (⭐5.4k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+*   [nlp.js (⭐5.6k)](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 
 ### Resources / Books
 

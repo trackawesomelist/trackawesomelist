@@ -22,7 +22,7 @@
 
 ### Languages
 
-*   [FreakC (⭐124)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
+*   [FreakC (⭐126)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
 *   [JellyScript](https://github.com/nguyenphuminh/Jellyscript) - Brainfuck-based with delicious jelly.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -33,7 +33,7 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [Volar (⭐4.3k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+*   [Volar (⭐4.5k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

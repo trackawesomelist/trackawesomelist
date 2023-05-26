@@ -50,7 +50,7 @@
 
 ### Compression
 
-*   [LZ4 (⭐8k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐8.3k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -62,19 +62,19 @@
 
 ### Forms
 
-*   [django-bootstrap4 (⭐980)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
+*   [django-bootstrap4 (⭐985)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
-*   [type-config (⭐15)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+*   [type-config (⭐17)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTML Builders
 
-*   [form\_builder.cr (⭐31)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+*   [form\_builder.cr (⭐32)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
 ## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

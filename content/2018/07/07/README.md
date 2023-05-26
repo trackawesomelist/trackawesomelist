@@ -20,17 +20,17 @@
 
 ### SDKs and Samples / PHP SDK
 
-*   [aws-sdk-php-laravel :fire::fire::fire::fire: (⭐1.5k)](https://github.com/aws/aws-sdk-php-laravel)
+*   [aws-sdk-php-laravel :fire::fire::fire::fire: (⭐1.6k)](https://github.com/aws/aws-sdk-php-laravel)
 
 ## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / High-Availability
 
-*   [PAF (⭐311)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
+*   [PAF (⭐320)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 
 ### Contents / Extensions
 
-*   [HypoPG (⭐783)](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
+*   [HypoPG (⭐874)](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Packages / Libraries
 
-*   [Howler.js (⭐21k)](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
+*   [Howler.js (⭐22k)](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
 
 ---
 

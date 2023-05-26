@@ -10,7 +10,7 @@
 
 ### Open Source Repos / Lambda
 
-*   [eawsy/aws-lambda-go :fire::fire::fire: (⭐703)](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
+*   [eawsy/aws-lambda-go :fire::fire::fire: (⭐704)](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
 
 ## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Resources
 
-*   [Esofiles (⭐82)](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
+*   [Esofiles (⭐87)](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
 
 ## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -62,11 +62,11 @@
 
 ### Contents / Backups
 
-*   [pg\_probackup (⭐519)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
+*   [pg\_probackup (⭐569)](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 
 ### Contents / Extensions
 
-*   [PG\_Themis (⭐29)](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
+*   [PG\_Themis (⭐30)](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
 
 ---
 

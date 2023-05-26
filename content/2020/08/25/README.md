@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Automation / Conversion
 
-*   [swaggerjmx (⭐94)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
+*   [swaggerjmx (⭐95)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -31,19 +31,25 @@
 *   [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android.
 *   [Sanvello](https://sanvello.com) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
 
-## [5. Colorful](/content/Siddharth11/Colorful/README.md)
+## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Trading & Backtesting
+
+*   [Pandas TA (⭐3.6k)](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
+
+## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Color Palettes / Web App
 
 *   [ColorsWall](https://colorswall.com/) - Place to store your color Palettes and generate tool.
 
-## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Surveillance Report](https://techlore.tech) - A weekly security and privacy news roundup to keep you up-to-speed on important updated in our digital world. Uploaded every weekend!.
 
-## [7. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [8. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### Examples
 
@@ -54,20 +60,20 @@
 *   🔓 [novapackages.com](https://novapackages.com) - [repository (⭐315)](https://github.com/tightenco/novapackages) - Discover new Laravel Nova packages.
 *   🔐 [pingping.io](https://pingping.io?ref=awesome-tall-stack) - Website uptime && SSL monitoring.
 
-## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Geolocation / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Owntracks](https://owntracks.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/owntracks/android) - A privacy-respecting mobile app that allows you to keep track of your own location.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
-*   [Blazor I18n/Localization Text (⭐184)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
-*   [MvvmBlazor (⭐205)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
+*   [Blazor I18n/Localization Text (⭐188)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
+*   [MvvmBlazor (⭐220)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
 
-## [10. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [11. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Career / Presentations
 
@@ -85,38 +91,38 @@
 *   “This is what I loved about working at Netflix. We didn't have performance reviews. It was assumed that your performance was good to excellent, otherwise you wouldn't be working there anymore. You had a constant feedback loop with your manager on performance, but nothing was ever formal.” ([source](https://news.ycombinator.com/item?id=23861960)).
 *   “The system a software developer works in shapes their performance so much more than individual differences.” ([source](https://news.ycombinator.com/item?id=21972033)).
 
-## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Automation
 
 *   [Appian](https://www.appian.com/) - Discover the power of low-code automation.
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
 *   [Bank Git (⭐27)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
 
-## [13. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [14. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Blog posts and opinions
 
 *   [Alerting issues with Alertmanager](https://ali.sattari.me/posts/2020/alerting-issues-with-alertmanager/) - Addressing alert flapping and duplicates in Alertmanager by [Ali Sattari](https://github.com/ali-sattari).
 
-## [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [15. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
 *   [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH is an automotive industry / environmental detection laserscanner / LIDAR manufacturer, based in Hamburg, Germany.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
 *   [woopra.com](https://www.woopra.com/) — Free user analytics platform for 500K actions, 90 day data retention, 30+ one click integration.
 
-## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [17. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Case Studies
 
@@ -140,13 +146,13 @@
 *   [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
 *   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐5.8k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
-*   [BetterSafariView (⭐407)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+*   [BetterSafariView (⭐420)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 
-## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [19. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Security
 

@@ -20,7 +20,7 @@
 
 ### Visualization
 
-*   [itk-jupyter-widgets (⭐504)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
+*   [itk-jupyter-widgets (⭐516)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
 
 ### Testing
 

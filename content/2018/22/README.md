@@ -1,6 +1,6 @@
 # Awesome List Updates on May 28 - Jun 03, 2018
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -78,11 +78,11 @@
 *   [rgbds-template (⭐36)](https://github.com/nezticle/rgbds-template) - Basic hello-world example for Game Boy using RGBDS.
 *   [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
 *   [bootstrap.gb (⭐30)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
-*   [Gameboy Boilerplate (⭐25)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
+*   [Gameboy Boilerplate (⭐26)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
 
 ### C / Syntax highlighting packages
 
-*   [Simplified GBDK examples (⭐147)](https://github.com/mrombout/gbdk_playground)
+*   [Simplified GBDK examples (⭐157)](https://github.com/mrombout/gbdk_playground)
 
 ## [11. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Probability and Statistics / Stochastic processes
 
-*   [Convergence of Stochastic Processes](http://www.stat.yale.edu/\~pollard/Books/1984book/pollard1984.pdf) - David Pollard
+*   [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
 
 ## [12. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -614,32 +614,14 @@
 
 *   [CSS Is So Overpowered It Can Deanonymize Facebook Users](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/) - Written by [Ruslan Habalov](https://www.evonide.com/).
 
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
-
-### FreeBSD / Phoenix
-
-*   [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
-
-### Java / Bootstrap
-
-*   [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
-
-### Linux / TeX
-
-*   [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
-
-## [17. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [16. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### IoT / Resources-websites-projects
 
 *   [My Controller](https://www.mycontroller.org/#/home)
 *   [Kaa Project](https://www.kaaproject.org/)
 
-## [18. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [17. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
@@ -650,26 +632,26 @@
 *   [Postmortem culture: how you can learn from failure](https://rework.withgoogle.com/blog/postmortem-culture-how-you-can-learn-from-failure/)
 *   [re:Work - Postmortem discussion template](https://docs.google.com/document/d/1ob0dfG_gefr_gQ8kbKr0kS4XpaKbc0oVAk4Te9tbDqM/edit)
 
-## [19. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [18. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Web / Other
 
 *   [Gruyere](https://google-gruyere.appspot.com/)
 *   [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
 
-## [20. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [19. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Logging
 
 *   [lager\_slack (⭐3)](https://github.com/furmanOFF/lager_slack) - Simple Slack backend for lager.
 
-## [21. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
+## [20. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
 
 ### Icons
 
 *   [Ionicons](https://ionicons.com/)
 
-## [22. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [21. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Text & Rich Content / Navigation Demos
 
@@ -679,21 +661,21 @@
 
 *   [Build a chat app with React Native](https://pusher.com/tutorials/chat-react-native)
 
-## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [22. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 
 *   [config.cr (⭐14)](https://github.com/chris-huxtable/config.cr) - Easy to use configuration format parser
 *   [front\_matter.cr (⭐11)](https://github.com/chris-huxtable/front_matter.cr) - Separates a files front matter from its content
 
-## [24. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [23. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Miscellaneous / Hooks
 
 *   [influxdb-schema-updater (⭐7)](https://github.com/open-ch/influxdb-schema-updater) - A small DevOps tool to manage the schema of an InfluxDB instance with a set of configuration files
 *   [influx-prompt (⭐45)](https://github.com/RPing/influx-prompt) - An interactive command-line InfluxDB cli with auto completion
 
-## [25. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [24. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -708,19 +690,19 @@
 
 *   [build-pacman](http://www.jeffreybiles.com/build-pacman)
 
-## [26. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [25. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Parsers
 
 *   [Dart Tags](https://pub.dartlang.org/packages/dart_tags) - The library for parsing ID3 tags, written in pure Dart.
 
-## [27. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [26. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Graph Databases
 
 *   [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) - Directly related to Neo4j, but possibly applicable to any graph database.
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -738,13 +720,13 @@
 
 ### Projects Using Vue.js / A11y
 
-*   [vue-announcer (⭐222)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
+*   [vue-announcer (⭐223)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 
 ### Components & Libraries / Frameworks
 
-*   [Basys (⭐117)](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
+*   [Basys (⭐118)](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
 
-## [29. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [28. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -752,7 +734,7 @@
 *   [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
 *   [Build a realtime table with Next.js](https://pusher.com/tutorials/realtime-tables-nextjs)
 
-## [30. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [29. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Android
 
@@ -764,7 +746,7 @@
 
 
 
-## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Inputs
 
@@ -778,13 +760,13 @@
 
 *   [Android Weekly](https://androidweekly.net) - Newsletter with weekly information about android.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [WhatsNewKit (⭐2.9k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+*   [WhatsNewKit (⭐3.2k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 
-## [33. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [32. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / Java
 
@@ -813,62 +795,62 @@
 
     A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (similar to an internship).
 
-## [34. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [33. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Books
 
 *   [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -  Include insights from public (NIH), academic, and industrial sources at the same time.
 
-## [35. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [34. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### Layout / Grid
 
 *   [GridBugs (⭐1.2k)](https://github.com/rachelandrew/gridbugs) - Community-curated list of Grid interop issues and workarounds for them.
 
-## [36. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [35. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Node.js / Scala
 
 *   [ClaudiaJS](https://claudiajs.com/) - Easy to deploy Node.js projects to AWS Lambda and API Gateway.
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
-*   [doddle-model (⭐141)](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
+*   [doddle-model (⭐140)](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 
-## [38. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [37. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Operating Systems
 
 *   [Debian](https://www.debian.org/) - One of the earliest UNIX-like operating systems with a commitment to keeping nonfree software out of its system. ([DFSG](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines))
 *   [LineageOS](https://lineageos.org/) - Android distribution for phones and tablets and successor of CyanogenMod. (Multiple licenses)
 
-## [39. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [38. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [Cortex-M Quickstart](https://docs.rs/cortex-m-quickstart/0.3.1/cortex_m_quickstart/) by @japaric – a template and introduction to embedded Rust, suitable for developers familiar to embedded development but new to embedded Rust.
 
-## [40. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [39. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### CLI
 
 *   [pgcenter (⭐1.4k)](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
 
-## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Snipe-IT (⭐6.9k)](https://github.com/snipe/snipe-it) - IT asset/license management system
 
-## [42. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [41. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Writings
 
 *   [Test limits of Python aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html) - Making 1 million requests with python-aiohttp.
 
-## [43. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -885,13 +867,13 @@
 
 *   [Portable.Xaml (⭐152)](https://github.com/cwensley/Portable.Xaml) - Portable .NET library for reading/writing xaml files.
 
-## [44. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [43. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [FramerMapboxJS (⭐45)](https://github.com/NocheVolta/FramerMapboxJS) - Another module to integrate Mapbox maps on your Framer prototypes.
 
-## [45. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [44. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 

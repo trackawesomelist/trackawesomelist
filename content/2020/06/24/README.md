@@ -10,13 +10,13 @@
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [manual-gtfsrt (⭐1)](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
+*   [manual-gtfsrt (⭐2)](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Network perimeter defenses / Evidence collection
 
-*   [Gatekeeper (⭐897)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
+*   [Gatekeeper (⭐934)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 
 ## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Third-Party Packages / Models
 
-*   [django-polymorphic (⭐1.4k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+*   [django-polymorphic (⭐1.5k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Tools and session management
 
-*   [dmux (⭐245)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐255)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Intermediate
 
-*   [Lisp Tips (⭐100)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐102)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
 ## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
@@ -65,7 +65,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [prisma-relay-cursor-connection (⭐194)](https://github.com/devoxa/prisma-relay-cursor-connection)
+*   [prisma-relay-cursor-connection (⭐220)](https://github.com/devoxa/prisma-relay-cursor-connection)
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Packages / Apps
 
-*   [Web Audio Metronome (⭐503)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
+*   [Web Audio Metronome (⭐531)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
 ## [18. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

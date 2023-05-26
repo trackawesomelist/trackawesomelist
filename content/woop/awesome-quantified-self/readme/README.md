@@ -145,6 +145,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
 *   [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
 *   [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
+*   [Conjure](https://conjure.so) - Habits, goals and time tracker with rules engine, data layer, API, dashboards and more. (Web, Desktop, iOS, Android).
 
 ### Health
 
@@ -223,11 +224,11 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.4k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐4.6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 *   [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 *   [Actual](https://actualbudget.com/) - Personal home budget software.
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
-*   [Firefly III (⭐9.5k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐10k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## Devices and Wearables
 
@@ -269,14 +270,14 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 ## Open Source Projects
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Heedy (⭐357)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐363)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐143)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Fluxtream (⭐145)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 *   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 *   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
-*   [QS Ledger (⭐833)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
-*   [Awesome Biomarkers (⭐230)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
-*   [health-records (⭐14)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
+*   [QS Ledger (⭐884)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [Awesome Biomarkers (⭐254)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [health-records (⭐19)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 ## License
 

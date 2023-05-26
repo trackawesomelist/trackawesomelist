@@ -8,6 +8,10 @@
 
 ## [1. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 
+### UI Elements
+
+*   [Creative Designs Guru](https://creativedesignsguru.com) - Themes for React, Nextjs and Eleventy, built with Tailwind CSS.
+
 ### Booking
 
 *   [OnceHub](https://www.oncehub.com/) - Scheduling via ScheduleOnce and meeting management via InviteOnce.
@@ -34,7 +38,7 @@
 
 ### HTTP
 
-*   [finch (⭐1k)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+*   [finch (⭐1.1k)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -46,10 +50,10 @@
 
 ### Schematics / Components
 
-*   [Cypress (⭐162)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
-*   [Jest (⭐296)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
-*   [Prettier (⭐142)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
-*   [Tailwind CSS (⭐599)](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
+*   [Cypress (⭐159)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
+*   [Jest (⭐307)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
+*   [Prettier (⭐141)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
+*   [Tailwind CSS (⭐601)](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
 
 ## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -69,7 +73,7 @@
 
 *   [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
 
-### Payments
+### Payments & Pricing
 
 *   [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
@@ -77,7 +81,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [v-aspect-ratio (⭐27)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
+*   [v-aspect-ratio (⭐29)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
 
 ## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -94,10 +98,6 @@
 
 ## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
-### Jamstack Sites Showcase
-
-*   [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
-
 ### API / Forms
 
 *   [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
@@ -107,14 +107,14 @@
 ### Code Analysis
 
 *   Static Type Annotations Generators
-    *   [MonkeyType (⭐4.1k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
-    *   [pytype (⭐4k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
+    *   [MonkeyType (⭐4.2k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
+    *   [pytype (⭐4.2k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
 ## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
-*   [Cecilia (⭐155)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
+*   [Cecilia (⭐161)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
 
 ## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -138,7 +138,7 @@
 *   [RSS 2.0](https://www.rssboard.org/rss-specification) <sup>[823](https://t.me/s/aboutrss/823)</sup>
 *   [Atom](http://www.atomenabled.org/) <sup>[711](https://t.me/s/aboutrss/711), [823](https://t.me/s/aboutrss/823)</sup>
 
-### specifically from (  *a certain platform*  ) / Wechat Subscription Accounts (微信公众号)
+### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 
 *   [FreeRss](http://www.freerss.top/) <sup>[778](https://t.me/s/aboutrss/778)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 

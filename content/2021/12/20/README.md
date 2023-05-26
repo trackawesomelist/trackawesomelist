@@ -22,7 +22,7 @@
 
 ### :safety_vest: Community Prisma Tools / :man_technologist: Prisma Clients
 
-*   [Prisma Client Python (⭐838)](https://github.com/RobertCraigie/prisma-client-py)
+*   [Prisma Client Python (⭐1.1k)](https://github.com/RobertCraigie/prisma-client-py)
 
 ## [4. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -32,19 +32,19 @@
     *   [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
     *   [Polkadot: Vision for a heterogeneous multi-chain framework (⭐187)](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
     *   [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
-        *   [Chinese Translation (⭐31)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
+        *   [Chinese Translation (⭐32)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Community Chat Rooms
 
-*   [Embassy start (⭐20)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐1.6k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [Embassy start (⭐22)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐2.1k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
-*   [Invidious (⭐9.4k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
+*   [Invidious (⭐9.5k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
     *   Home page: <https://invidious.io>
     *   Invidious instances: <https://docs.invidious.io/instances/>
     *   Invidious instances API: <https://api.invidious.io>
@@ -54,12 +54,12 @@
 
 *   [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
     *   Official instance: <https://teddit.net>
-    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐183)](https://github.com/teddit-net/teddit#instances)
-    *   [Github mirror repository (⭐183)](https://github.com/teddit-net/teddit)
+    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐186)](https://github.com/teddit-net/teddit#instances)
+    *   [Github mirror repository (⭐186)](https://github.com/teddit-net/teddit)
     *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
-*   [Libreddit (⭐4.1k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-    *   Official instance: [libreddit.spike.codes](https://libreddit.spike.codes)
-    *   Public instances: [https://github.com/spikecodes/libreddit#instances (⭐4.1k)](https://github.com/spikecodes/libreddit#instances)
+*   [Libreddit (⭐4.2k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
+    *   Official instance: <https://libreddit.spike.codes>
+    *   Public instances: [https://github.com/spikecodes/libreddit#instances (⭐4.2k)](https://github.com/spikecodes/libreddit#instances)
 *   [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
     *   Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
 *   [Infinity (⭐2.8k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
@@ -69,7 +69,7 @@
 
 ### Overview / Spotify
 
-*   [Spotiqueue (⭐75)](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
+*   [Spotiqueue (⭐76)](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
 
 ### Overview / Google Search
 
@@ -78,7 +78,7 @@
 
 ### Overview / Other services
 
-*   [vaultwarden (⭐23k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [vaultwarden (⭐24k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 *   [snapdrop (⭐15k)](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
 *   [hedgedoc (⭐3.7k)](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
 *   [etherpad-lite (⭐14k)](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor
@@ -88,7 +88,7 @@
 
 ### Typescript Project Starters
 
-*   :octocat: [samchon/backend (⭐542)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐488)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐186)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
+*   :octocat: [samchon/backend (⭐554)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐869)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐212)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
 
 ## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

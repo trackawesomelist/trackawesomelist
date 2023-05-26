@@ -174,13 +174,14 @@
 ### Databases
 
 *   **Overlays**
-    *   [Sequoia (⭐117)](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
-    *   [Macaque (⭐37)](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
+    *   [Sequoia (⭐123)](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
+    *   [Macaque (⭐38)](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
     *   [ORM (⭐54)](https://github.com/mirage/orm) — ORM for SQLite.
-    *   [Caqti (⭐223)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
+    *   [Caqti (⭐239)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
 *   **Articles**:
     *   [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
     *   [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
+    *   [Caqti setence preparation, ppx\_rapper (⭐103)](https://github.com/roddyyaga/ppx_rapper)
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -192,7 +193,7 @@
 
 ### SDKs and Samples / Python SDK
 
-*   [Repo with Samples :fire: (⭐189)](https://github.com/awslabs/aws-python-sample)
+*   [Repo with Samples :fire: (⭐190)](https://github.com/awslabs/aws-python-sample)
 
 ## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 

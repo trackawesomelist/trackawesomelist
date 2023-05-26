@@ -83,12 +83,12 @@
 
 ### Server-Side Rendering
 
-*   [Angular Universal Repository (GitHub) (⭐3.9k)](https://github.com/angular/universal)
+*   [Angular Universal Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
 
 ### Material Design
 
 *   [Official Angular Material Design (GitHub) (⭐23k)](https://github.com/angular/material2)
-*   [Blox Material (⭐150)](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
+*   [Blox Material (⭐148)](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
 
 ### Cheatsheet
 
@@ -110,13 +110,13 @@
 
 ### Math
 
-*   [OpenBLAS (⭐5k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐5.2k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / How to report Security issues
 
-*   [Android Reports and Resources (⭐1.1k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
+*   [Android Reports and Resources (⭐1.2k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
 ## [14. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 

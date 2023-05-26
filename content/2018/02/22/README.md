@@ -67,7 +67,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐270)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐276)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### Networking
 
@@ -75,7 +75,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_facade (⭐70)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
+*   [ecto\_facade (⭐71)](https://github.com/azranel/ecto_facade) - Ecto facade that allows to separate writes and reads to different databases.
 
 ## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

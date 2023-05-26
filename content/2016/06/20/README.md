@@ -17,7 +17,7 @@
 
 ### Concurrency
 
-*   [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators \[Apache2]
+*   [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators. \[Apache2]
 
 ## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

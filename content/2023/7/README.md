@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13 - Feb 19, 2023
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,11 +48,11 @@
 
 ### Applications
 
-*   [utils (⭐6)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
+*   [utils (⭐5)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
 
 ### Podcasts
 
-*   [Thinking Elixir](https://podcast.thinkingelixir.com)
+*   [Thinking Elixir](https://podcast.thinkingelixir.com) - The Thinking Elixir podcast.
 
 ## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -74,16 +74,7 @@
 
 ### RPG
 
-*   [Zelda3 (⭐3.5k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
-*   [Shipwright (⭐1.8k)](https://github.com/HarbourMasters/Shipwright) - A PC port of Zelda Ocarina of Time allowing you to enjoy the game with modern controls, widescreen, high-resolution, gyroscopy and other great features!
-
-### Platformer
-
-*   [sm64-port (⭐791)](https://github.com/sm64-port/sm64-port) - A port of Super Mario 64 for modern devices.
-
-### Racing
-
-*   [REDRIVER2 (⭐792)](https://github.com/OpenDriver2/REDRIVER2) - A Driver 2 open source reimplementation, dissasembled and translated to C.
+*   [Zelda3 (⭐3.7k)](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
 
 ## [9. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
@@ -127,21 +118,21 @@
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars for Python (⭐15k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
+*   [polars for Python (⭐17k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
 *   [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
 
 ### Libraries/Packages/Scripts / Rust
 
-*   [polars for Rust (⭐15k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
+*   [polars for Rust (⭐17k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
 *   [GeoPolars](https://geopolars.org/) `Geopolars` Rust crate that extends the Polars DataFrame library for use with geospatial data.
 
 ### Libraries/Packages/Scripts / R
 
-*   [rpolars for R (⭐116)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+*   [rpolars for R (⭐230)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
 
 ### Libraries/Packages/Scripts / Node.js
 
-*   [nodejs-polars for Node.js (⭐87)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
+*   [nodejs-polars for Node.js (⭐134)](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
 
 ### Resources / Tutorials & workshops
 
@@ -177,19 +168,19 @@
 
 ### Applications
 
-*   [Databag (⭐132)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
+*   [Databag (⭐183)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
 
 ## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
-*   [r2d2 (⭐24)](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
+*   [r2d2 (⭐40)](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Network Analysis
 
-*   [Sniffnet (⭐3.2k)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GyulyVGC/sniffnet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Sniffnet (⭐7k)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/GyulyVGC/sniffnet) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -213,7 +204,7 @@
 
 ### Private Module Registries / Miscellaneous
 
-*   [tapir (⭐55)](https://github.com/PacoVK/tapir) - Modular Private Terraform Registry platform with provider and modules support. Provides powerful UI generates security metrics, dependency visualization and autogenerates documentation.
+*   [tapir (⭐78)](https://github.com/PacoVK/tapir) - Modular Private Terraform Registry platform with provider and modules support. Provides powerful UI generates security metrics, dependency visualization, and autogenerates documentation.
 
 ### Tools / Vendor supported providers
 
@@ -239,11 +230,11 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐846)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
+*   [Matchering (⭐945)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering. An open-source alternative to LANDR, eMastered, and MajorDecibel. `GPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
-*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐31)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
+*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐44)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
 
 ## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -275,7 +266,7 @@
 
 ### IR Tools Collection / Linux Evidence Collection
 
-*   [MAGNET DumpIt (⭐52)](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
+*   [MAGNET DumpIt (⭐71)](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
 
 ### IR Tools Collection / Memory Imaging Tools
 
@@ -285,23 +276,23 @@
 
 ### Command-line
 
-*   [vgoogle (⭐0)](https://github.com/changhz/vgoogle) - Make google search on the terminal.
+*   [vgoogle (⭐3)](https://github.com/changhz/vgoogle) - Make google search on the terminal.
 
 ### Utility
 
-*   [VInstall (⭐30)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
+*   [VInstall (⭐32)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 
 ## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### AI
 
-*   [OpenAI (⭐234)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
+*   [OpenAI (⭐507)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Blazor
 
-*   [blazork8s (⭐66)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
+*   [blazork8s (⭐101)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 
 ### Code Analysis and Metrics
 
@@ -309,7 +300,7 @@
 
 ### Serialization
 
-*   [FluentSerializer (⭐14)](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - A profile-based Serializer for multiple data-formats.
+*   [FluentSerializer (⭐18)](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - A profile-based Serializer for multiple data-formats.
 
 ### Source Generator
 
@@ -335,28 +326,28 @@
 
 ### Applications / Productivity
 
-*   [illacloud/illa (⭐119)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
+*   [illacloud/illa (⭐145)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
 
 ### Applications / Web Servers
 
-*   [emanuele-em/man-in-the-middle-proxy (⭐155)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
+*   [emanuele-em/man-in-the-middle-proxy (⭐254)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
-*   [64bit/async-openai (⭐174)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+*   [64bit/async-openai (⭐435)](https://github.com/64bit/async-openai) \[[async-openai](https://crates.io/crates/async-openai)] — Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐49)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library  [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐59)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ### Libraries / Filesystem
 
 *   Operations
-    *   [ParthJadhav/Rust\_Search (⭐77)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
-    *   [pop-os/dbus-udisks2 (⭐15)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
-    *   [pop-os/sys-mount (⭐34)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
-    *   [vitiral/path\_abs (⭐45)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods. [![build badge](https://api.travis-ci.org/vitiral/path_abs.svg?branch=master)](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_abs)
-    *   [webdesus/fs\_extra (⭐171)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io [![build badge](https://api.travis-ci.org/webdesus/fs_extra.svg?branch=master)](https://travis-ci.org/webdesus/fs_extra)
+    *   [ParthJadhav/Rust\_Search (⭐85)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [pop-os/dbus-udisks2 (⭐16)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [pop-os/sys-mount (⭐36)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
+    *   [vitiral/path\_abs (⭐46)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
+    *   [webdesus/fs\_extra (⭐189)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
 ### Libraries / System
 
@@ -417,9 +408,9 @@
 
 ### Related Awesome Lists / Galleries
 
-*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐31)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐53)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
-### Inbox: Developing + AI / Text-related Generative Tools
+### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
@@ -445,17 +436,17 @@
 
 ### DevOps / MIT
 
-*   [powerjoular (⭐20)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [powerjoular (⭐24)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
 
 ## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [audioFlux (⭐106)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
+*   [audioFlux (⭐1.7k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
 
 ### JSON
 
-*   [jsonParse (⭐6)](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. \[MIT]
+*   [jsonParse (⭐8)](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. \[MIT]
 
 ### Online Compiler
 
@@ -474,13 +465,6 @@
     *   [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
 ## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### .NET Community Standup - Blazor United in .NET 8 (February 14, 2023).
-
-*   The Blazor team shares early thoughts on Blazor United in .NET 8, an effort to create a single unified model for all your web UI scenarios that combines the best of Razor Pages, Blazor Server, and Blazor WebAssembly.
-*   With Steve Sanderson, Dan Roth, Mackinnon Buck, Javier Calvarro Nelson, Jon Galloway.
-*   10:00 AM Pacific | 18:00 UTC
-*   [live.dot.net](https://live.dot.net)
 
 ### Videos / Others
 
@@ -501,7 +485,7 @@
 
 ### Prerequisites
 
-*   [Cascadia Code (⭐22k)](https://github.com/microsoft/cascadia-code) - Microsoft's Cascadia Code
+*   [Cascadia Code (⭐23k)](https://github.com/microsoft/cascadia-code) - Microsoft's Cascadia Code
 *   [Fira Mono (⭐4.9k)](https://github.com/mozilla/Fira) - Mozilla's Fira type family.
 *   [Hack](http://sourcefoundry.org/hack/) - Another Powerline-compatible font designed for source code and terminal usage.
 *   [Input Mono](https://input.djr.com/) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes Powerline glyphs.
@@ -509,9 +493,9 @@
 *   [Monoid](http://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
 *   [Mononoki](https://madmalik.github.io/mononoki/) - Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
 *   [More Nerd Fonts](https://www.nerdfonts.com/font-downloads) - Another site to download nerd fonts.
-*   [Nerd fonts (⭐42k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
+*   [Nerd fonts (⭐44k)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
 *   [Victor Mono](https://rubjo.github.io/victor-mono/) - Victor Mono is a free programming font with semi-connected cursive italics, symbol ligatures (!=, ->>, =>, ===, <=, >=, ++) and Latin, Cyrillic and Greek characters.
-*   [spacemono (⭐300)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+*   [spacemono (⭐307)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -519,7 +503,7 @@
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
-*   [oh-plugin (⭐0)](https://github.com/mbergo/oh-plugin) - helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.
+*   [oh-plugin (⭐2)](https://github.com/mbergo/oh-plugin) - helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.
 
 ## [43. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -553,104 +537,21 @@
 
 *   [JsonUnit (⭐727)](https://github.com/lukas-krecan/JsonUnit) - Library that simplifies JSON comparison in tests.
 
-## [46. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
-
-### Art & Image Generator
-
-- Name: [Galileo AI](https://www.usegalileo.ai/)
-
-  Title: Idea to Design in an Instant, Powered by AI.
-
-  Description: Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.
-
-  Offer Free Version: :grey\_question:
-
-
-
-### Chat Bot
-
-- Name: [Chatbase](https://www.chatbase.co/)
-
-  Title: Build an AI Chatbot Trained on Your Data.
-
-  Description: Just upload a pdf and get a link to a GPT based chatbot that can answer any question on it.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Code & Database Assistant
-
-- Name: [CodiumAI](http://www.codium.ai/)
-
-  Title: Meaningful Tests for Busy Devs.
-
-  Description: CodiumAI analyzes your code and generates meaningful tests to catch bugs before you ship.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Organization & Automation
-
-- Name: [timeMaster](https://www.timemaster.ai/)
-
-  Title: Supercharge Your Focus and Productivity.
-
-  Description: TimeMaster automatically detects what you are working on, categorizes your activities, tags projects, and even writes time logs on your behalf.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Sales & Marketing
-
-- Name: [SimplePhones.ai](https://simplephones.ai/)
-
-  Title: Never Miss a Call From a Customer.
-
-  Description: Forward your missed calls, or get a new number, and Simple Phones will answer it using AI. You'll get a phone agent created for your business for free. You just pay 19¢/min for any incoming calls.
-
-  Offer Free Version: :x:
-
-
-
-### Slides & Web Design
-
-- Name: [Genius by Diagram](https://www.genius.design/)
-
-  Title: Genius - Your AI Design Companion.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Glimmer AI](https://glimmerai.tech)
-
-  Title: AI-Powered Presentation Magic.
-
-  Description: Glimmer AI uses GPT-3 and DALL-E 2 to make creating professional-quality presentations easy and fast using text or voice commands.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
-*   [figsoda/nix-develop.nvim (⭐17)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
+*   [figsoda/nix-develop.nvim (⭐29)](https://github.com/figsoda/nix-develop.nvim) - Run `nix develop` without restarting Neovim.
 
 ### Remote Development / Diagnostics
 
-*   [miversen33/netman.nvim (⭐232)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+*   [miversen33/netman.nvim (⭐251)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [LazyVim/LazyVim (⭐4.1k)](https://github.com/LazyVim/LazyVim) - Full-fledged IDE powered by **lazy.nvim**  to make it easy to customize and extend your config.
+*   [LazyVim/LazyVim (⭐5.2k)](https://github.com/LazyVim/LazyVim) - Full-fledged IDE powered by **lazy.nvim**  to make it easy to customize and extend your config.
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
@@ -676,13 +577,13 @@
 
 *   [Gamefresco.com](https://gamefresco.com/) — Discover, collect and share free game assets from game artists everywhere.
 
-## [49. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [48. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Modules / Various Godot versions
 
-*   [godot-luaAPI (⭐80)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
+*   [godot-luaAPI (⭐123)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 
-## [50. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [49. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
@@ -691,15 +592,15 @@
 *   [Knight Frame](https://seraguith.itch.io/knight-frame) - Add high-speed humanoid mech battles to your Starforged campaign
 *   [Voidforged](https://kerys.itch.io/voidforged) - A sci-fi horror supplement for Starforged
 
-## [51. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [50. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Orchestration
 
-*   [docker rollout (⭐1.1k)](https://github.com/Wowu/docker-rollout) - Zero downtime deployment for Docker Compose services by [@Wowu](https://github.com/Wowu)
+*   [docker rollout (⭐1.3k)](https://github.com/Wowu/docker-rollout) - Zero downtime deployment for Docker Compose services by [@Wowu](https://github.com/Wowu)
 
 ### Base Tools / Other
 
-*   [dockerize (⭐158)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
+*   [dockerize (⭐167)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
 
 ---
 

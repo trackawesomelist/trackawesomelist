@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [CodeceptJS UI (⭐79)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
+*   [CodeceptJS UI (⭐80)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 
 ## [3. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐191)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐194)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
@@ -78,11 +78,11 @@
 
 ### Permissions
 
-*   [SPPermissions (⭐5.1k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+*   [SPPermissions (⭐5.2k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 
 ### UI
 
-*   [DrawerKit (⭐776)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
+*   [DrawerKit (⭐774)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 
 ### Pull to Refresh
 
@@ -117,7 +117,7 @@
 
 ### Science and Data analysis
 
-*   [num.cr (⭐130)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐132)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

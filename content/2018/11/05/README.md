@@ -34,8 +34,8 @@
 
 ### CLI
 
-*   [linenoise (⭐3.2k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐344)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise (⭐3.3k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+*   [linenoise-ng (⭐343)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Xamarin.Forms
 
-*   [Xamarin.Forms.EntryAutoComplete (⭐40)](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
+*   [Xamarin.Forms.EntryAutoComplete (⭐38)](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
 
 ## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -92,20 +92,20 @@
 
 ### IoC
 
-*   [DryIoc (⭐821)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐861)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Advanced datastructures
 
-*   [Persistent AVL trees (⭐118)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
-*   [Finger Tree (⭐211)](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
+*   [Persistent AVL trees (⭐122)](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
+*   [Finger Tree (⭐212)](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
 *   [Hitchhiker Tree (⭐1.2k)](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
 *   [Hierarchical set (⭐7)](https://github.com/llasram/hier-set)
-*   [Ordered (⭐227)](https://github.com/amalloy/ordered): ordered sets and maps
-*   [Lazy Map (⭐47)](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
-*   [Durable Queue (⭐368)](https://github.com/Factual/durable-queue): queue persisted on disk
-*   [bifurcan (⭐915)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐915)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+*   [Ordered (⭐242)](https://github.com/amalloy/ordered): ordered sets and maps
+*   [Lazy Map (⭐48)](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
+*   [Durable Queue (⭐376)](https://github.com/Factual/durable-queue): queue persisted on disk
+*   [bifurcan (⭐925)](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure (⭐925)](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
 
 ---
 

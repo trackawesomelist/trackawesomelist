@@ -1,6 +1,6 @@
 # Awesome List Updates on May 06, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,9 +64,9 @@
 
 ### Audio Related Packages / Audio Dataset and Dataloaders
 
-*   [musdb](http://dsdtools.readthedocs.io) [:octocat: (⭐118)](https://github.com/sigsep/sigsep-mus-db) [:package:](https://pypi.python.org/pypi/musdb) - Parse and process the MUSDB18 dataset.
-*   [audiomate (⭐121)](https://github.com/ynop/audiomate) [:octocat: (⭐121)](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) - Loading different types of audio datasets.
-*   [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat: (⭐254)](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) - Common loaders for Music Information Retrieval (MIR) datasets.
+*   [musdb](http://dsdtools.readthedocs.io) [:octocat: (⭐124)](https://github.com/sigsep/sigsep-mus-db) [:package:](https://pypi.python.org/pypi/musdb) - Parse and process the MUSDB18 dataset.
+*   [audiomate (⭐122)](https://github.com/ynop/audiomate) [:octocat: (⭐122)](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) - Loading different types of audio datasets.
+*   [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat: (⭐274)](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) - Common loaders for Music Information Retrieval (MIR) datasets.
 
 ## [7. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Resources / Examples
 
-*   [Vue Word Game (⭐1)](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
+*   [Vue Word Game (⭐2)](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
 *   [Coinchartsvue (⭐4)](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
@@ -86,6 +86,12 @@
 ### Machine Learning
 
 *   [ncnn (⭐17k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
+
+## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [Stock\_Analysis\_For\_Quant (⭐1.3k)](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Different Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau.
 
 ---
 

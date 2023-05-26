@@ -52,7 +52,7 @@
 
 ### Books / Method-specific
 
-*   *[Handbook of Graph Drawing and Visualization](https://www.crcpress.com/Handbook-of-Graph-Drawing-and-Visualization/Tamassia/9781584884125)*, edited by Roberto Tamassia ([chapter proofs](https://cs.brown.edu/\~rt/gdhandbook/); 2013).
+*   *[Handbook of Graph Drawing and Visualization](https://www.crcpress.com/Handbook-of-Graph-Drawing-and-Visualization/Tamassia/9781584884125)*, edited by Roberto Tamassia ([chapter proofs](https://cs.brown.edu/~rt/gdhandbook/); 2013).
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Soketi is a free, open-source Pusher drop-in alternative. ([Source Code (⭐3.4k)](https://github.com/soketi/soketi)) `MIT` `Nodejs`
+*   [Soketi](https://soketi.app/) - Soketi is a free, open-source Pusher drop-in alternative. ([Source Code (⭐3.6k)](https://github.com/soketi/soketi)) `MIT` `Nodejs`
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -52,17 +52,17 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐22)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐24)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace-spec (⭐3)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐6)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Functional
 
-*   [valor (⭐11)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
+*   [valor (⭐12)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
 
 ### Goroutines
 
@@ -141,7 +141,7 @@
 *   [Volatility](https://tryhackme.com/room/bpvolatility) - Intro to memory analysis with volatility.
 *   [Autopsy](https://tryhackme.com/room/autopsy2ze0) - Use Autopsy to investigate artifacts from a disk image.
 
-### Free Beginner Blue Team Path / Level 2 - Security Operations & Incident Response
+### Free Beginner Blue Team Path / Level 2 - Security Operations, Incident Response & Threat Hunting
 
 *   [Juicy Details](https://tryhackme.com/room/juicydetails) - A popular juice shop has been breached! Analyze the logs to see what had happened.
 *   [Carnage](https://tryhackme.com/room/c2carnage) - Apply your analytical skills to analyze the malicious network traffic using Wireshark.

@@ -54,13 +54,13 @@
 
 ### JupyterLab Extensions
 
-*   [debugger (⭐548)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
+*   [debugger (⭐551)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
 ## [8. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
-*   [CyLR (⭐531)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+*   [CyLR (⭐542)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 
 ### IR Tools Collection / Other Tools
 
@@ -68,8 +68,8 @@
 
 ### IR Tools Collection / Windows Evidence Collection
 
-*   [Invoke-LiveResponse (⭐136)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
-*   [IRTriage (⭐116)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
+*   [Invoke-LiveResponse (⭐139)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
+*   [IRTriage (⭐121)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
 
 ## [9. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

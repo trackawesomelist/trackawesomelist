@@ -10,13 +10,13 @@
 
 ### API
 
-*   [Mobius: C# API for Spark (⭐935)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+*   [Mobius: C# API for Spark (⭐941)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
 ## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Rails
 
-- Name: [Copycopter (⭐684)](https://github.com/copycopter/copycopter-server)
+- Name: [Copycopter (⭐681)](https://github.com/copycopter/copycopter-server)
 
   Description: A service for editing the copy text of a Rails application.
 
@@ -71,31 +71,9 @@
 
 ## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
-### Review Articles / Network Modeling
-
-*   [Introduction to Stochastic Actor-Based Models for Network Dynamics](http://www.sciencedirect.com/science/article/pii/S0378873309000069) ([preprint](http://www.stats.ox.ac.uk/\~snijders/SnijdersSteglichVdBunt2009.pdf); *Social Networks*, 2010).
-
-### Review Articles / Social, Economic and Political Networks
-
-*   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (*Annual Review of Sociology*, 2012).
-
 ### Varia / Tutorials
 
 *   [Glossary of Terms for Statistical Network Models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
-
-### Varia / Fictional Networks
-
-*   [Social Network Analysis of *Alice in Wonderland*](http://www.cs.columbia.edu/\~apoorv/Homepage/Publications_files/naacl2012.pdf).
-*   [Universal Properties of Mythological Networks](http://epljournal.edpsciences.org/articles/epl/abs/2012/14/epl14724/epl14724.html) ([preprint](http://arxiv.org/abs/1205.4324)).
-
-### Varia / Network Science
-
-*   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network *science*” came up.
-
-### Varia / Two-Mode Networks
-
-*   [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/\~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/\~latapy/Bip/); *Social Networks*, 2008).
-*   [Generalized Blockmodeling of Two-mode Network Data](http://www.sciencedirect.com/science/article/pii/S0378873304000036) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
 
 ---
 

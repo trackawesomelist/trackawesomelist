@@ -53,7 +53,7 @@
 
 ### Web Servers
 
-*   [Agoo (⭐826)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐837)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -128,10 +128,10 @@
 
 ## [9. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tools / React Component Libraries
+### React Component Libraries
 
-*   [react-bootstrap (⭐21k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-*   [reactstrap (⭐10k)](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
+*   [react-bootstrap (⭐22k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
+*   [reactstrap (⭐10k)](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap components
 
 ## [10. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

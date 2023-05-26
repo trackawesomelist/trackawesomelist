@@ -16,7 +16,7 @@
 
 ### Authentication
 
-*   [aeacus (⭐36)](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
+*   [aeacus (⭐37)](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
 
 ### Email
 
@@ -79,7 +79,7 @@
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐380)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐386)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ---
 

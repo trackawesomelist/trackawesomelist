@@ -10,7 +10,7 @@
 
 ### Terminal / Development
 
-*   [shellclear (⭐139)](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
+*   [shellclear (⭐187)](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -30,11 +30,11 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [sokomishalov/skraper (⭐171)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
+*   [sokomishalov/skraper (⭐182)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [petertrr/kotlin-multiplatform-diff (⭐53)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
+*   [petertrr/kotlin-multiplatform-diff (⭐54)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
 
 ## [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -50,42 +50,42 @@
 
 ### Shells / On Host
 
-*   [mpremote (⭐16k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+*   [mpremote (⭐17k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 
 ## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deep Learning / PyTorch
 
-*   [ChemicalX (⭐610)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [ChemicalX (⭐635)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Time Series / NLP
 
-*   [darts (⭐5.4k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-*   [statsforecast (⭐2.2k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐229)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
-*   [neuralforecast (⭐1.2k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+*   [darts (⭐5.9k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+*   [statsforecast (⭐2.6k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+*   [mlforecast (⭐355)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+*   [neuralforecast (⭐1.4k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
 *   [greykite (⭐1.7k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-*   [Chaos Genius (⭐552)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+*   [Chaos Genius (⭐593)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ### Experimentation / NLP
 
-*   [envd (⭐1.5k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
+*   [envd (⭐1.7k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### JSON
 
-*   [marshmallow (⭐273)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
+*   [marshmallow (⭐293)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-ts-starter (⭐33)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
+*   [vue-ts-starter (⭐37)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-browser-sync (⭐15)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+*   [vite-plugin-browser-sync (⭐22)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 
 ## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -101,18 +101,18 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-redis (⭐2.5k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
-*   [django-dramatiq (⭐254)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
+*   [django-redis (⭐2.6k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
+*   [django-dramatiq (⭐280)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 
 ### Projects / Open Source Projects
 
-*   [Flagsmith (⭐2k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
+*   [Flagsmith (⭐2.4k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 
-*   [Airdash (⭐272)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
+*   [Airdash (⭐320)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
 
 ---
 

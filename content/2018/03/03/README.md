@@ -10,13 +10,13 @@
 
 ### Audio Related Packages / Feature extraction
 
-*   [pyYAAFE (⭐229)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐229)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
+*   [pyYAAFE (⭐235)](https://github.com/Yaafe/Yaafe) [:octocat: (⭐235)](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE feature extractor.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4.1k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

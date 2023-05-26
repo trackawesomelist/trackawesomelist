@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -57,13 +57,7 @@ git revert -m 1 <commit-ish>
 
 *   [Tailor (⭐1.7k)](https://github.com/zalando/tailor) - Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
 
-## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
-
-### Experiments
-
-*   [Arkade London](http://arkade.london/) - Arkade London is a pure personal and experimental webVJ fan art.
-
-## [7. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [6. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Other Awesome Resources / Interview Questions
 
@@ -78,20 +72,20 @@ git revert -m 1 <commit-ish>
 
 
 
-## [8. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Workflow / Extensions
 
 *   [Zappr (⭐532)](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Build Systems
 
 *   [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
 *   [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -198,13 +192,13 @@ git revert -m 1 <commit-ish>
 *   [ASP.NET Core Starter Kit (⭐1.1k)](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
 *   [saaskit (⭐1k)](https://github.com/saaskit/saaskit) - Developer toolkit for building SaaS applications.
 
-## [11. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [10. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Profilers
 
 *   [jitwatch-intellij (⭐165)](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
 
-## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / I individuals
 

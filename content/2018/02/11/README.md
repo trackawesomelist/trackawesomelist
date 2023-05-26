@@ -14,17 +14,17 @@
 
 ### Number Theory / Algebraic Number Theory
 
-*   [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/\~r-ash/ANT.html) - Robert Ash
+*   [A Course In Algebraic Number Theory](http://www.math.uiuc.edu/~r-ash/ANT.html) - Robert Ash
 
 ### Algebra / Analytic Number Theory
 
-*   [A Course in Universal Algebra](http://www.math.uwaterloo.ca/\~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
-*   [A Course in Commutative Algebra](https://faculty.math.illinois.edu/\~r-ash/ComAlg.html) - Robert Ash
+*   [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris, H.P. Sankappanavar
+*   [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) - Robert Ash
 
 ### Algebra / Abstract Algebra
 
-*   [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/\~ec/book) - E.H. Connell (University of Miami)
-*   [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/\~r-ash/Algebra.html) - Robert Ash
+*   [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
+*   [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
 
 ### Algebra / Linear Algebra
 
@@ -32,12 +32,12 @@
 
 ### Combinatorics / Lie Algebras
 
-*   [generatingfunctionology](http://www.math.upenn.edu/\~wilf/DownldGF.html) - Herbert Wilf
+*   [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf
 
 ### Geometry and Topology / Graph Theory
 
-*   [A=B](https://www.math.upenn.edu/\~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
-*   [Elements](http://aleph0.clarku.edu/\~djoyce/java/elements/toc.html) - Euclid
+*   [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger
+*   [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - Euclid
 *   [Euclid's Elements Redux](http://starrhorse.com/euclid/) - Daniel Callahan
 
 ### Geometry and Topology / Differential Geometry
@@ -76,13 +76,13 @@
 
 ### For Electron / Other
 
-*   [electron-serve (⭐376)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-serve (⭐385)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Security
 
-*   [RiotGames/cloud-inquisitor :fire::fire: (⭐451)](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security.
+*   [RiotGames/cloud-inquisitor :fire::fire: (⭐452)](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security.
 
 ## [6. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
@@ -94,7 +94,7 @@
 
 ### OCR Tools / Telegram
 
-*   [OCRmyPDF (⭐8.4k)](https://github.com/jbarlow83/OCRmyPDF/)
+*   [OCRmyPDF (⭐8.9k)](https://github.com/jbarlow83/OCRmyPDF/)
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

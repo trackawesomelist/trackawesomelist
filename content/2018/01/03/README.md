@@ -36,7 +36,7 @@
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐820)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐837)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -80,7 +80,7 @@
 
 ### GUI
 
-*   [QtSharp (⭐560)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
+*   [QtSharp (⭐562)](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 
 ### IDE
 
@@ -112,7 +112,7 @@
 
 ### Alert / Barcode
 
-*   [Zingle (⭐109)](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
+*   [Zingle (⭐111)](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
 
 ## [15. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

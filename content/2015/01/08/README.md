@@ -14,12 +14,12 @@
 
 ### Cryptography
 
-*   [rsa (⭐33)](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
+*   [rsa (⭐34)](https://github.com/trapped/elixir-rsa) - `public_key` cryptography wrapper for Elixir.
 
 ### Third Party APIs
 
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
-*   [slack (⭐642)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+*   [slack (⭐655)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Cryptography
 
-*   [retter (⭐81)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+*   [retter (⭐85)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

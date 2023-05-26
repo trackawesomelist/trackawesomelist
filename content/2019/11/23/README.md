@@ -33,7 +33,7 @@
 
 ### Types / Playground
 
-*   [ts-types-utils (⭐56)](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript
+*   [ts-types-utils (⭐59)](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript
 
 ### Back-end API / Playground
 
@@ -41,11 +41,11 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [prelude.ts (⭐363)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+*   :octocat: [prelude.ts (⭐364)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
 
 ### Badges / Chrome Extensions
 
-*   [TypeScript Badges (⭐39)](https://github.com/ellerbrock/typescript-badges/)
+*   [TypeScript Badges (⭐40)](https://github.com/ellerbrock/typescript-badges/)
     [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)

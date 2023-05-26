@@ -121,7 +121,7 @@
 
 ### Distribution
 
-*   [shiv (⭐1.5k)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
+*   [shiv (⭐1.6k)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
 
 ## [7. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Java VM / Java
 
-*   [Dubbo (⭐38k)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
+*   [Dubbo (⭐39k)](https://github.com/apache/dubbo) - A high-performance, java based RPC framework open-sourced by Alibaba.
 
 ### Rust / Scala
 
@@ -164,7 +164,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐21)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐20)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Languages
 
-*   [78 (⭐2)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
+*   [78 (⭐3)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
 
 ---
 

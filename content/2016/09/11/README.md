@@ -29,7 +29,7 @@
 
 ### Open Source Repos / Miscellaneous Repos
 
-*   [jvehent/haproxy-aws :fire::fire: (⭐277)](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
+*   [jvehent/haproxy-aws :fire::fire: (⭐279)](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
 
 ## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

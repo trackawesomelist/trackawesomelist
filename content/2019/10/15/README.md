@@ -43,7 +43,7 @@
 
 ### Tools / Miscellaneous
 
-*   [markcat (⭐34)](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: *`cat` with Markdown highlight.* ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
+*   [markcat (⭐41)](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: *`cat` with Markdown highlight.* ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
 ## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -68,7 +68,7 @@
 ### Official Resources
 
 *   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐6.8k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [GitHub Repository (⭐7k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 *   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 *   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 
@@ -135,7 +135,7 @@
 
 ### CLI
 
-*   [Lyra (⭐395)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐405)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ## [14. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 

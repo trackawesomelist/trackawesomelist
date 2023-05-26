@@ -22,7 +22,7 @@
 
 ### Community Extensions
 
-*   [Keycloak: Home IdP Discovery extension (⭐88)](https://github.com/sventorben/keycloak-home-idp-discovery)
+*   [Keycloak: Home IdP Discovery extension (⭐118)](https://github.com/sventorben/keycloak-home-idp-discovery)
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Examples
 
-*   [zenml-io/zenml (⭐2.6k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
+*   [zenml-io/zenml (⭐2.7k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
 
 ## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Blockchain dump
 
-*   [Chaingraph (⭐28)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
+*   [Chaingraph (⭐30)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/kotlin-unsigned (⭐75)](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
+*   [kotlin-graphics/kotlin-unsigned (⭐73)](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

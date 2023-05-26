@@ -52,13 +52,13 @@
 
 ### Tools / Communication
 
-*   [Matrix (⭐897)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐895)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Scroll / Other
 
-*   [simpleParallax (⭐1.5k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
+*   [simpleParallax (⭐1.6k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
 ## [9. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
@@ -87,10 +87,6 @@
 
 *   [Stremio](https://www.stremio.com/) - Movies, TV shows, series, live television or web channels like YouTube and Twitch.tv - you can find all this on Stremio. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Utilities / General Tools
-
-*   [Manta](https://getmanta.app/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hql287/Manta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ## [11. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools
@@ -117,18 +113,18 @@
 
 ### SDKs and Samples / IoT SDK
 
-*   [Repo for C :fire::fire::fire: (⭐876)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
+*   [Repo for C :fire::fire::fire: (⭐885)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Editable data grid / spreadsheet
 
-*   [gigatables-react (⭐136)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐5.9k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [gigatables-react (⭐138)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
+*   [react-data-grid (⭐6k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Menu
 
-*   [react-burger-menu (⭐4.8k)](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
+*   [react-burger-menu (⭐4.9k)](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 
 ### Collapse
 
@@ -136,27 +132,27 @@
 
 ### Chart
 
-*   [rumble-charts (⭐338)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
+*   [rumble-charts (⭐342)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 
 ### Audio / Video
 
-*   [react-player (⭐7.4k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐7.6k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐390)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐403)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
-*   [react-file-reader-input (⭐114)](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
+*   [react-file-reader-input (⭐115)](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
 
 ### Form Components / Date / Time picker
 
-*   [react-simple-timefield (⭐96)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
+*   [react-simple-timefield (⭐95)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
 
 ### Form Components / Sortable List
 
-*   [react-anything-sortable (⭐454)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
+*   [react-anything-sortable (⭐456)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
 
 ### Form Components / Image Editing
 
@@ -164,7 +160,7 @@
 
 ### Form Components / Form Component Collections
 
-*   [formsy-react-components (⭐288)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
+*   [formsy-react-components (⭐289)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 
 ### Component Collections / Material Design
 
@@ -176,11 +172,11 @@
 
 ### Reporter / Measurement Reporter
 
-*   [react-container-dimensions (⭐227)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
+*   [react-container-dimensions (⭐229)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
 
 ### Portal / Mouse Events
 
-*   [react-layer-stack (⭐157)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
+*   [react-layer-stack (⭐158)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
 
 ### Data Store / Mouse Events
 
@@ -208,24 +204,24 @@
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [backbone-react-component (⭐814)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
-*   [gl-react (⭐264)](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
+*   [backbone-react-component (⭐815)](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
+*   [gl-react (⭐265)](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
 
 ### UI / Mouse Events
 
-*   [react-static-container (⭐222)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
+*   [react-static-container (⭐224)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐896)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 
-*   [unexpected-react (⭐185)](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
+*   [unexpected-react (⭐186)](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 
 ### Miscellaneous / Lazy Load
 
-*   [jsonx (⭐146)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [jsonx (⭐151)](https://github.com/repetere/jsonx) - React JSON Syntax.
 
 ---
 

@@ -1,29 +1,18 @@
 # Awesome List Updates on Jan 02, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
-
-### LaTeX / TeX / LaTeX
-
-*   [Arbitrary LaTex Reference](http://latex.knobs-dials.com)
-*   [Begin Latex in minutes (⭐3.2k)](https://github.com/VoLuong/Begin-Latex-in-minutes)
-
-## [2. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [1. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Learn / Videos
 
 *   [User Interfaces as Pure Functions of Time](https://www.youtube.com/watch?v=9BG0Y3C6WqM) - Lightning talk by [Thomas Belin](http://twitter.com/atomrc) at [dotjs 2016](http://dotjs.io/)
 
-## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
@@ -33,19 +22,19 @@
 
 *   [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 
-## [4. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [3. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Articles
 
 *   [Polymer loves Redux](https://medium.com/collaborne-engineering/polymer-loves-redux-f89a863394d9#.7f4z92ppy)
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Serialization
 
 *   [Jil (⭐2.1k)](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
 
-## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
@@ -63,13 +52,13 @@
 *   `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 *   `docker pull bkimminich/juice-shop` - [OWASP Juice Shop (⭐7.3k)](https://github.com/bkimminich/juice-shop#docker-container--)
 
-## [7. Colorful](/content/Siddharth11/Colorful/README.md)
+## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Web App
 
 *   [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
 
-## [8. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Social, Economic and Political Networks
 
@@ -81,7 +70,7 @@
 *   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 *   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - Interface between R and Cytoscape.js.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Static Site Generators
 
@@ -89,7 +78,7 @@
 
 ### Web Frameworks
 
-*   [DotVVM (⭐665)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
+*   [DotVVM (⭐677)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
 
 ---
 

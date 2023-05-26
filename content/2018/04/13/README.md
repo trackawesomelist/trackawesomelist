@@ -16,7 +16,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [Amass (⭐1.7k)](https://github.com/caffix/amass) - Amass performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques.
+*   [Amass](https://github.com/caffix/amass) - Amass performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, crawling of web archives, permuting and altering names, reverse DNS sweeping and other techniques.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
