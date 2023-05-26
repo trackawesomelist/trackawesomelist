@@ -6,6 +6,18 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [May 26, 2023](/content/2023/05/26/README.md)
+
+### Videos / Others
+
+*   [What's new in .NET 8 for Web frontends backends and futures?](https://www.youtube.com/watch?v=pJGDPEk45Jc) - ![duration](https://img.shields.io/badge/Duration:%20-47%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 26, 2023 - Join this session to explore new features in .NET 8 for web frontends, backends, and future development. Discover how .NET 8 enhances web app development with better performance, new APIs, and modern development support. Get guidance on leveraging these tools for scalable, efficient cloud apps. Suitable for both experienced and new .NET developers, this session offers valuable insights into the latest developments in .NET 8 for web development.
+*   [Full stack web in .NET 8 with Blazor](https://www.youtube.com/watch?v=iDLWv3xM1s0) - ![duration](https://img.shields.io/badge/Duration:%20-16%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 24, 2023 - Learn how ASP.NET Blazor in .NET 8 allows you to use a single powerful component model to handle all of your web UI needs, including server-side rendering, client-side rendering, streaming rendering, progressive enhancement, and much more.
+*   [Blazor + .NET MAUI – the perfect “hybrid”](https://www.youtube.com/watch?v=kjKpZAgXLFY) - ![duration](https://img.shields.io/badge/Duration:%20-18%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 24, 2023 - In this session, we demonstrate how to leverage DevExpress Blazor/.NET MAUI UI components to deliver intuitive mobile solutions that amaze. We show you how Blazor Hybrid apps reduce time to market and how our adaptive Blazor Data Grid can be used alongside our rich collection of FREE .NET MAUI UI components to address a variety of usage scenarios.
+
+### Articles / Others
+
+*   [ASP.NET Core updates in .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/) - May 16, 2023 - .NET 8 Preview 4 is now available and includes many great new improvements to ASP.NET Core. Streaming rendering with Blazor components, Handling form posts with Blazor SSR, Route to named elements in Blazor, Webcil packaging for Blazor WebAssembly apps and more.
+
 ## [May 24, 2023](/content/2023/05/24/README.md)
 
 ### Are you ready for Build 2023? (May 23-25, 2023).

@@ -23,6 +23,7 @@
 *   [CollosalAI Chat (⭐30k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 *   [SuperAgent (⭐517)](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
 *   [ix (⭐382)](https://github.com/kreneskyp/ix): Autonomous GPT-4 agent platform
+*   [DuetGPT (⭐29)](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
 
 ### Tools / Platforms
 

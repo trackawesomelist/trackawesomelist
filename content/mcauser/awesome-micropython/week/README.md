@@ -21,6 +21,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-ds1307 (⭐0)](https://github.com/brainelectronics/micropython-ds1307) - MicroPython driver for DS1307 RTC.
 
+### Display / OLED
+
+*   [SH1107 (⭐5)](https://github.com/peter-l5/SH1107) - Driver for SH1107 OLED displays (128x128 and 128x64 pixels).
+
 ### IO / Rotary Encoder
 
 *   [micropython-8encoder (⭐0)](https://github.com/HowManyOliversAreThere/micropython-8encoder) - Driver for the I2C [M5Stack 8-Encoder Unit](https://shop.m5stack.com/products/8-encoder-unit-stm32f030)

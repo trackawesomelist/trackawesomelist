@@ -509,6 +509,7 @@ Other places you can look for MicroPython Libraries:
 *   [SH1106 (⭐122)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 *   [micropython-ssd1309 (⭐18)](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 Monochrome OLED Display Driver.
 *   [sh1107-micropython (⭐7)](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64x128).
+*   [SH1107 (⭐5)](https://github.com/peter-l5/SH1107) - Driver for SH1107 OLED displays (128x128 and 128x64 pixels).
 
 #### Printer
 

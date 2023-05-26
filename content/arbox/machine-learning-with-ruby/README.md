@@ -6,29 +6,36 @@ Curated list: Resources for machine learning in Ruby
 
 [ Daily / [Weekly](/content/arbox/machine-learning-with-ruby/week/README.md) / [Overview](/content/arbox/machine-learning-with-ruby/readme/README.md) ]
 
+## [May 26, 2023](/content/2023/05/26/README.md)
+
+### Machine Learning Libraries / Frameworks
+
+*   [LangChain.rb (⭐121)](https://github.com/andreibondarev/langchainrb) -
+    Build ML/AI-supercharged applications with Ruby's LangChain.
+
 ## [Apr 23, 2023](/content/2023/04/23/README.md)
 
 ### Machine Learning Libraries / Vector search
 
-*   [milvus (⭐5)](https://github.com/andreibondarev/milvus) —
+*   [milvus (⭐7)](https://github.com/andreibondarev/milvus) —
     Ruby client for Milvus Vector DB.
 
 ## [Apr 20, 2023](/content/2023/04/20/README.md)
 
 ### Machine Learning Libraries / Vector search
 
-*   [pinecone (⭐16)](https://github.com/ScotterC/pinecone) —
+*   [pinecone (⭐31)](https://github.com/ScotterC/pinecone) —
     Ruby client for Pinecone Vector DB.
-*   [qdrant-ruby (⭐2)](https://github.com/andreibondarev/qdrant-ruby) —
+*   [qdrant-ruby (⭐13)](https://github.com/andreibondarev/qdrant-ruby) —
     Ruby wrapper for the Qdrant vector search database API.
-*   [weaviate-ruby (⭐8)](https://github.com/andreibondarev/weaviate-ruby) —
+*   [weaviate-ruby (⭐18)](https://github.com/andreibondarev/weaviate-ruby) —
     Ruby wrapper for the Weaviate vector search database API.
 
 ## [Mar 07, 2021](/content/2021/03/07/README.md)
 
 ### Projects and Code Examples / Vector search
 
-*   [Handwritten Digits Recognition (⭐4)](https://github.com/jdrzj/handwritten-digits-recognition) -
+*   [Handwritten Digits Recognition (⭐5)](https://github.com/jdrzj/handwritten-digits-recognition) -
     Handwritten digits recognition using Neural Networks and Ruby.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
@@ -41,27 +48,27 @@ Curated list: Resources for machine learning in Ruby
 
 ### Related Resources / Vector search
 
-*   [iRuby (⭐756)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
+*   [iRuby (⭐762)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
 
 ## [Jul 28, 2020](/content/2020/07/28/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
-*   [red-chainer (⭐100)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
+*   [red-chainer (⭐102)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
 *   [mxnet (⭐49)](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
 ## [Dec 07, 2019](/content/2019/12/07/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
-*   [torch-rb (⭐533)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐66k)](https://github.com/pytorch/pytorch)
-    using [rice (⭐340)](https://github.com/jasonroelofs/rice).
+*   [torch-rb (⭐553)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐67k)](https://github.com/pytorch/pytorch)
+    using [rice (⭐344)](https://github.com/jasonroelofs/rice).
 
 ## [Aug 26, 2019](/content/2019/08/26/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
-*   [ruby-dnn (⭐41)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
+*   [ruby-dnn (⭐40)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
 
 ## [Aug 21, 2019](/content/2019/08/21/README.md)
 
@@ -76,14 +83,14 @@ Curated list: Resources for machine learning in Ruby
 
 ### Machine Learning Libraries / Frameworks
 
-*   [eps (⭐608)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+*   [eps (⭐609)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
     using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL](https://www.gnu.org/software/gsl/).
 
 ## [Jun 01, 2019](/content/2019/06/01/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [rumale (⭐644)](https://github.com/yoshoku/rumale) -
+*   [rumale (⭐658)](https://github.com/yoshoku/rumale) -
     Machine Learninig toolkit in Ruby with wide range of implemented algorithms
     (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
     interfaces similar to [Scikit-Learn](https://scikit-learn.org/stable/index.html) in Python.
@@ -157,7 +164,7 @@ Curated list: Resources for machine learning in Ruby
 *   [Deep NeuroEvolution (⭐126)](https://github.com/giuse/DNE) -
     Experimental setup based on the [machine\_learning\_workbench (⭐18)](https://github.com/giuse/machine_learning_workbench)
     towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
-    [OpenAI Gym (⭐31k)](https://github.com/openai/gym) using [PyCall (⭐894)](https://github.com/mrkn/pycall.rb).
+    [OpenAI Gym (⭐32k)](https://github.com/openai/gym) using [PyCall (⭐910)](https://github.com/mrkn/pycall.rb).
 
 ### Machine Learning Libraries / Neural networks
 
@@ -331,9 +338,9 @@ Curated list: Resources for machine learning in Ruby
 
 ### Machine Learning Libraries / Neural networks
 
-*   [neural-net-ruby (⭐120)](https://github.com/gbuesing/neural-net-ruby) -
+*   [neural-net-ruby (⭐121)](https://github.com/gbuesing/neural-net-ruby) -
     Neural network written in Ruby.
-*   [ruby-fann (⭐455)](https://github.com/tangledpath/ruby-fann) -
+*   [ruby-fann (⭐456)](https://github.com/tangledpath/ruby-fann) -
     Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 *   [cerebrum (⭐35)](https://github.com/irfansharif/cerebrum) -
     Experimental implementation for Artificial Neural Networks in Ruby.
@@ -349,7 +356,7 @@ Curated list: Resources for machine learning in Ruby
     Redis-backed Bayesian classifier.
 *   [naive\_bayes (⭐46)](https://github.com/reddavis/Naive-Bayes) -
     Simple Naive Bayes classifier.
-*   [nbayes (⭐150)](https://github.com/oasic/nbayes) -
+*   [nbayes (⭐152)](https://github.com/oasic/nbayes) -
     Full-featured, Ruby implementation of Naive Bayes.
 
 ### Machine Learning Libraries / Linear classifiers
@@ -405,7 +412,7 @@ Curated list: Resources for machine learning in Ruby
 
 *   [Awesome Ruby (⭐13k)](https://github.com/markets/awesome-ruby#natural-language-processing) -
     Among other awesome items a short list of NLP related projects.
-*   [Ruby NLP (⭐1.2k)](https://github.com/diasks2/ruby-nlp) -
+*   [Ruby NLP (⭐1.3k)](https://github.com/diasks2/ruby-nlp) -
     State-of-Art collection of Ruby libraries for NLP.
 *   [Speech and Natural Language Processing (⭐2.1k)](https://github.com/edobashira/speech-language-processing) -
     General List of NLP related resources (mostly not for Ruby programmers).

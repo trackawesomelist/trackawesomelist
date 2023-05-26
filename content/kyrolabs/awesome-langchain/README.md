@@ -8,6 +8,10 @@
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
+### Tools / Agents
+
+*   [DuetGPT (⭐29)](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
+
 ### Learn / Articles
 
 *   [Langchain Decoded](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain/)
