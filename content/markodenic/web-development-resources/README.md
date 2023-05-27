@@ -6,6 +6,17 @@ Awesome Web Development Resources.
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [May 27, 2023](/content/2023/05/27/README.md)
+
+### HTML/CSS/JavaScript templates:
+
+- Website: <https://builtatlightspeed.com>
+
+
+- Website: <https://web3templates.com>
+
+
+
 ## [May 23, 2023](/content/2023/05/23/README.md)
 
 ### Remote Jobs:
@@ -23,12 +34,6 @@ Awesome Web Development Resources.
 ### Chrome Extensions:
 
 - Website: [Hackertab.dev - All Developer news in 1 tab](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)
-
-
-
-### HTML/CSS/JavaScript templates:
-
-- Website: [Web3Templates](https://web3templates.com)
 
 
 

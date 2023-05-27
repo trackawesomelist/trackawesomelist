@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [May 27, 2023](/content/2023/05/27/README.md)
+
+### JSON
+
+*   [jsonvalue (⭐151)](https://github.com/Andrew-M-C/go.jsonvalue) - A fast and convinient library for unstructured JSON data, replacing `encoding/json`.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Advanced Console UIs

@@ -16,6 +16,11 @@ A curated list of awesome things related to Django
 
 *   [Weblate (⭐3.6k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 
+### Resources / Educational
+
+*   [Django for Everybody](https://www.dj4e.com/) - A complete course for webdev beginners focused on Django.
+*   [CS50W](https://cs50.harvard.edu/web/2020/) - Harvard's University introductory course to web development, it explains Django as backend framework.
+
 ### Projects / Boilerplate
 
 *   [django-docker-template (⭐78)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
@@ -425,7 +430,6 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Configuration
 
-*   [djenv (⭐29)](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
 *   [django-configurations (⭐994)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 
 ### Third-Party Packages / Performance

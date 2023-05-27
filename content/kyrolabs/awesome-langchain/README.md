@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [May 27, 2023](/content/2023/05/27/README.md)
+
+### Tools / Services
+
+*   [Gorilla (⭐633)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Tools / Agents
@@ -21,7 +27,7 @@
 ### Tools / Services
 
 *   [Chainlit (⭐220)](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
-*   [Zep (⭐114)](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications
+*   [Zep (⭐114)](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social)
 
 ### Tools / Agents
 

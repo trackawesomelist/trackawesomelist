@@ -28,7 +28,10 @@ Awesome Web Development Resources.
 
 ### HTML/CSS/JavaScript templates:
 
-- Website: [Web3Templates](https://web3templates.com)
+- Website: <https://builtatlightspeed.com>
+
+
+- Website: <https://web3templates.com>
 
 
 

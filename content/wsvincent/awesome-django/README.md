@@ -6,6 +6,13 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [May 27, 2023](/content/2023/05/27/README.md)
+
+### Resources / Educational
+
+*   [Django for Everybody](https://www.dj4e.com/) - A complete course for webdev beginners focused on Django.
+*   [CS50W](https://cs50.harvard.edu/web/2020/) - Harvard's University introductory course to web development, it explains Django as backend framework.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Third-Party Packages / Configuration
@@ -450,10 +457,6 @@ A curated list of awesome things related to Django
 *   [django-configurations (⭐994)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 
 ## [Sep 03, 2020](/content/2020/09/03/README.md)
-
-### Third-Party Packages / Configuration
-
-*   [djenv (⭐29)](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
 
 ### Third-Party Packages / Performance
 

@@ -47,6 +47,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### JSON
 
 *   [gojmapr (⭐19)](https://github.com/limiu82214/gojmapr) - Get simple struct from complex json by json path.
+*   [jsonvalue (⭐151)](https://github.com/Andrew-M-C/go.jsonvalue) - A fast and convinient library for unstructured JSON data, replacing `encoding/json`.
 
 ### Logging
 

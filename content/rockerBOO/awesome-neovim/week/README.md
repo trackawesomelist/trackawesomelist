@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [maxmx03/FluoroMachine.nvim (⭐64)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
+
 ### Remote Development / Diagnostics
 
 *   [OscarCreator/rsync.nvim (⭐4)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.

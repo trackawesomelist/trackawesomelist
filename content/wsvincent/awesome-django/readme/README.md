@@ -157,7 +157,6 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-environ (⭐2.8k)](https://github.com/joke2k/django-environ) - Environment variables.
 *   [django-split-settings (⭐985)](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
 *   [django-constance (⭐1.6k)](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
-*   [djenv (⭐29)](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
 *   [django-configurations (⭐994)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 *   [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
 *   [django-extra-settings (⭐341)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
@@ -385,6 +384,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 *   [Django Styleguide (⭐3.6k)](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
 *   [Django Template Tags and Filters](https://www.djangotemplatetagsandfilters.com/) - Additional docs on Django's 57 built-in template filters and 27 template tags.
+*   [Django for Everybody](https://www.dj4e.com/) - A complete course for webdev beginners focused on Django.
+*   [CS50W](https://cs50.harvard.edu/web/2020/) - Harvard's University introductory course to web development, it explains Django as backend framework.
 
 ### Community
 

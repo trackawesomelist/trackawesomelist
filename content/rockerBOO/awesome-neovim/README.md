@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [May 27, 2023](/content/2023/05/27/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [maxmx03/FluoroMachine.nvim (⭐64)](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine port.
+
 ## [May 25, 2023](/content/2023/05/25/README.md)
 
 ### Preconfigured Configuration / Diagnostics
