@@ -101,7 +101,7 @@
 *   [Covid-Care (⭐10)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
 *   [Covid19-Tracker (⭐34)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
 *   [Feeel](https://gitlab.com/enjoyingfoss/feeel/) — A home workout app that respects your privacy by [Enjoying FOSS](https://gitlab.com/enjoyingfoss).
-*   [Smooth App (⭐383)](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
+*   [Open Food Facts (⭐383)](https://github.com/openfoodfacts/smooth-app) - The new mobile app of Open Food Facts, with other 2 million installs, that allows you to understand the health and environmental impact of your food, as well as to contribute new products to the Open Database [Open Food facts](https://github.com/openfoodfacts/)
 *   [Watermaniac (⭐163)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
 *   [wger (⭐218)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
 *   [QuitSmoke (⭐61)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
@@ -143,6 +143,7 @@
 *   [Stream Music Player (⭐42)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
 *   [Movies App (⭐158)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 *   [MovieLab (⭐270)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [BlackHole (⭐5.2k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter by [Ankit Sangwan](https://github.com/Sangwan5688).
 
 ### News and Magazine
 
@@ -226,6 +227,7 @@
 *   [RSA Encryption (⭐26)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 *   [Immich (⭐11k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 *   [EasyWeather (⭐0)](https://github.com/tejasbadone/EasyWeather) - Displays real-time weather data for your current location and any other location you choose by [Tejas Badone](https://github.com/tejasbadone)
+*   [EncrytX (⭐0)](https://github.com/musfique113/EncryptX) - Encrypt and protect your text with ease using advanced ciphers including Caesar, Affine, Playfair, and RSA encryption in this all-in-one Android app by [Musfique](https://github.com/musfique113)
 
 ### Travel
 

@@ -12,9 +12,18 @@
 
 *   [Budgeto (⭐3)](https://github.com/tejasbadone/budgeto) - finance management prototype app with categories such as needs, expenses, and savings and features like autopay, investments, and planning tools by [Tejas Badone](https://github.com/tejasbadone).
 
+### Contents / Health and Fitness
+
+*   [Open Food Facts (⭐383)](https://github.com/openfoodfacts/smooth-app) - The new mobile app of Open Food Facts, with other 2 million installs, that allows you to understand the health and environmental impact of your food, as well as to contribute new products to the Open Database [Open Food facts](https://github.com/openfoodfacts/)
+
+### Contents / Media
+
+*   [BlackHole (⭐5.2k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter by [Ankit Sangwan](https://github.com/Sangwan5688).
+
 ### Contents / Tools
 
 *   [EasyWeather (⭐0)](https://github.com/tejasbadone/EasyWeather) - Displays real-time weather data for your current location and any other location you choose by [Tejas Badone](https://github.com/tejasbadone)
+*   [EncrytX (⭐0)](https://github.com/musfique113/EncryptX) - Encrypt and protect your text with ease using advanced ciphers including Caesar, Affine, Playfair, and RSA encryption in this all-in-one Android app by [Musfique](https://github.com/musfique113)
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
@@ -261,10 +270,6 @@
 ### Contents / Finance
 
 *   [Be Thrifty Today (⭐129)](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
-
-### Contents / Health and Fitness
-
-*   [Smooth App (⭐383)](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
 
 ### Contents / Media
 

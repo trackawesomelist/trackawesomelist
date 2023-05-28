@@ -6,6 +6,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [May 28, 2023](/content/2023/05/28/README.md)
+
+### Development and Design
+
+*   [Escambo (⭐97)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### System and Customization
@@ -23,7 +29,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Gaming
 
-*   [Cartridges (⭐214)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import.
+*   [Cartridges (⭐214)](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
