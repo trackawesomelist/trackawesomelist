@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [May 28, 2023](/content/2023/05/28/README.md)
+
+### Learning resources / Package managers
+
+*   [ratfactor/ziglings (⭐2.9k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Web / HTTP

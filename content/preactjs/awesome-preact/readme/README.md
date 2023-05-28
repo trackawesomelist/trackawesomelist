@@ -46,7 +46,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [React App Rewire Preact (⭐9.6k)](https://github.com/timarney/react-app-rewired) - Use Preact with create-react-app without ejecting.
 *   [Preact CLI PostCSS (⭐16)](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
 *   [Create Preact App (⭐99)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
-*   [Storybook Preact (⭐78k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
+*   [Storybook Preact (⭐79k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
 
 ### Boilerplates
 
@@ -62,6 +62,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Preact Chrome Extension (⭐584)](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
 *   [Preact Web Extension (⭐20)](https://github.com/PiyushSuthar/preact-webext) - ⚡️ WebExtension Vite Starter Template with Preact.
 *   [Preact Neutralino TypeScript Starter (⭐2)](https://github.com/ernest-rudnicki/preact-neutralino-typescript-starter) - Starter project for building lightweight desktop applications with Preact and neutralino.js.
+*   [Simple Deno Starter (⭐0)](https://github.com/nesterow/minizavr) - Tiny starter template with Preact and Deno for building single page applications.
 
 ### Routing
 
@@ -114,6 +115,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 *   [Pant (⭐25)](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant (⭐21k)](https://github.com/youzan/vant).
 *   [Preact Transitioning (⭐36)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 *   [Preact Nominal Allocator (⭐1)](https://github.com/TimDaub/preact-nominal-allocator) - A numerical input element that can also manipulated with two buttons (-/+).
+*   [Tailored Components (⭐10)](https://github.com/nesterow/tailored) - Unstyled components and hooks for Preact & Deno.
 
 ### Libraries
 
@@ -185,7 +187,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Related Libraries
 
-*   [React (⭐207k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐208k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 *   [Rax (⭐7.9k)](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 

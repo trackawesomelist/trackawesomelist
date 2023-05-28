@@ -10,7 +10,7 @@
 
 ### LangChain Framework
 
-*   [LangChain (⭐38k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐43k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 
 ### Tools / Services
 
@@ -43,6 +43,7 @@
 *   [DB GPT (⭐2.7k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
 *   [Psychic (⭐1.1k)](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 *   [Airtable-QnA (⭐12)](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
+*   [Voyager (⭐1.1k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 
 ### Learn / Articles
 
@@ -50,6 +51,7 @@
 *   [Create a Code Interpreter Chatbot with Pyodide, LangChain, and OpenAI](https://dylancastillo.co/code-interpreter-chatbot-pyodide-langchain-openai/)
 *   [LangChain has added Cypher Search](https://towardsdatascience.com/langchain-has-added-cypher-search-cb9d821120d5)
 *   [Langchain Decoded](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain/)
+*   [Implementing GPT4All Locally with Python and Langchain](https://medium.datadriveninvestor.com/offline-ai-magic-implementing-gpt4all-locally-with-python-b51971ce80af)
 
 ### Alternatives / Articles
 
@@ -211,11 +213,11 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [Paper QA (⭐2.4k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
+*   [Paper QA (⭐2.5k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 *   [Chat Langchain (⭐2.4k)](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
 *   [Book GPT (⭐358)](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
 *   [Chat LangchainJS (⭐235)](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)
-*   [Doc Search (⭐541)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
+*   [Doc Search (⭐552)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
 *   [Fact Checker (⭐172)](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)
 *   [QABot (⭐162)](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
 *   [GPT Automator (⭐123)](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant. ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/GPT-Automator?style=social)

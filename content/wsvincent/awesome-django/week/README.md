@@ -12,6 +12,10 @@ A curated list of awesome things related to Django
 
 *   [environs (⭐979)](https://github.com/sloria/environs) - Simplified environment variable parsing that comes with a [Django helper (⭐979)](https://github.com/sloria/environs#usage-with-django) that installs additional packages.
 
+### Third-Party Packages / Editors
+
+*   [django-prose (⭐114)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
+
 ### Third-Party Packages / General
 
 *   [Weblate (⭐3.6k)](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.

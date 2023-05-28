@@ -12,6 +12,10 @@ A list of awesome projects related to Zig
 
 *   [floscodes/zerve (⭐11)](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
 
+### Learning resources / Package managers
+
+*   [ratfactor/ziglings (⭐2.9k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Audio

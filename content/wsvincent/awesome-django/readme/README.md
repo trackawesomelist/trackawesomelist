@@ -198,6 +198,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-quill-editor (⭐163)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 *   [django-summernote (⭐961)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 *   [django-tinymce (⭐1.2k)](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
+*   [django-prose (⭐114)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
 
 ### Files/Images
 

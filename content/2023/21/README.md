@@ -331,6 +331,10 @@
 
 *   [floscodes/zerve (⭐11)](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
 
+### Learning resources / Package managers
+
+*   [ratfactor/ziglings (⭐2.9k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+
 ## [25. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
@@ -689,6 +693,10 @@
 ### Third-Party Packages / Configuration
 
 *   [environs (⭐979)](https://github.com/sloria/environs) - Simplified environment variable parsing that comes with a [Django helper (⭐979)](https://github.com/sloria/environs#usage-with-django) that installs additional packages.
+
+### Third-Party Packages / Editors
+
+*   [django-prose (⭐114)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
 
 ### Third-Party Packages / General
 
@@ -1057,6 +1065,38 @@
 
 *   [kciter/thing (⭐53)](https://github.com/kciter/thing) - A rule-based entity management library written in Kotlin
 
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐32)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Android / Tests
+
+*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐84)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐569)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐323)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
 ## [57. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Art & Image Generator
@@ -1376,6 +1416,10 @@
 
 *   :books: [Essential TypeScript 5](https://www.manning.com/books/essential-typescript-5) - Third edition of the bestselling guide to TypeScript. (by Adam Freeman)
 
+### Validation / Playground
+
+*   [fta (⭐9)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+
 ## [69. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
@@ -1526,6 +1570,10 @@
 
 ## [79. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
+### Software / Analytics
+
+*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐23k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
+
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [Pairdrop (⭐772)](https://github.com/schlagmichdoch/pairdrop) - Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop. `GPL-3.0` `Docker`
@@ -1533,6 +1581,7 @@
 ### Software / Miscellaneous
 
 *   [Gophish](https://getgophish.com/) - Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing. ([Source Code (⭐9.1k)](https://github.com/gophish/gophish)) `MIT` `Go/Docker`
+*   [Upsnap (⭐564)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Svelte/Go/Docker`
 
 ### Software / Note-taking & Editors
 
@@ -1545,6 +1594,7 @@
 ### Software / Personal Dashboards
 
 *   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐2.2k)](https://github.com/ajnart/homarr)) `MIT` `Docker/Nodejs`
+*   [Starbase 80 (⭐39)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 
 ### Software / Task Management & To-do Lists
 
@@ -1560,6 +1610,14 @@
 
 ## [80. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
+### Contents / Boilerplates
+
+*   [Simple Deno Starter (⭐0)](https://github.com/nesterow/minizavr) - Tiny starter template with Preact and Deno for building single page applications.
+
+### Contents / Components
+
+*   [Tailored Components (⭐10)](https://github.com/nesterow/tailored) - Unstyled components and hooks for Preact & Deno.
+
 ### Contents / Libraries
 
 *   [Modular Forms (⭐311)](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
@@ -1568,16 +1626,19 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
+*   [bitwarden (casonadams) (⭐1)](https://github.com/casonadams/bitwarden-cli) - A [Bitwarden](https://bitwarden.com/download/) CLI fuzzy finder using [fzf (⭐52k)](https://github.com/junegunn/fzf). Requires [jq](https://stedolan.github.io/jq/).
 *   [pack (⭐0)](https://github.com/fourdim/zsh-pack/) - Pack your source code with ZSH.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [argc-completions (⭐3)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐449)](https://github.com/sigoden/argc) and [jq (⭐25k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [fluxcd (⭐0)](https://github.com/l-umaca/omz-fluxcd-plugin) - Adds tab completion for the [FluxCD command line](https://fluxcd.io/flux/cmd/) tool, as well as some aliases for the most common flux commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [astro (⭐98)](https://github.com/iplaces/astro-zsh-theme) - Based on the `ys` and [robbyrussell (⭐159k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
 *   [bashlover (⭐0)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
+*   [htb (⭐1)](https://github.com/Idan1993/zsh-htb-theme) - Inspired by the pwnbox on a HackTheBox machine. Includes decorators for user\@host, IP address and the current directory.
 *   [msys2 (⭐0)](https://github.com/water-logger/MSYS2-Theme/) - Inspired by MSYS2. Includes decorators for user\@host, `git` status and the current directory.
 *   [pedantic (⭐0)](https://github.com/nemeshnorbert/pedantic-zsh-theme) - Customizable colors and output. Includes decorators for detailed `git` information, root status, last command's exit status, user\@host, current directory and the time.
 *   [stigmata (⭐0)](https://github.com/VLtim43/stigmata.zsh-theme) - Includes decorators for user\@host and current directory.
@@ -1586,7 +1647,7 @@
 
 ### LangChain Framework
 
-*   [LangChain (⭐38k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐43k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 
 ### Tools / Services
 
@@ -1619,6 +1680,7 @@
 *   [DB GPT (⭐2.7k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
 *   [Psychic (⭐1.1k)](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 *   [Airtable-QnA (⭐12)](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
+*   [Voyager (⭐1.1k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 
 ### Learn / Articles
 
@@ -1626,6 +1688,7 @@
 *   [Create a Code Interpreter Chatbot with Pyodide, LangChain, and OpenAI](https://dylancastillo.co/code-interpreter-chatbot-pyodide-langchain-openai/)
 *   [LangChain has added Cypher Search](https://towardsdatascience.com/langchain-has-added-cypher-search-cb9d821120d5)
 *   [Langchain Decoded](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain/)
+*   [Implementing GPT4All Locally with Python and Langchain](https://medium.datadriveninvestor.com/offline-ai-magic-implementing-gpt4all-locally-with-python-b51971ce80af)
 
 ### Alternatives / Articles
 

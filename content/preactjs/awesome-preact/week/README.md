@@ -8,6 +8,14 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
+### Contents / Boilerplates
+
+*   [Simple Deno Starter (⭐0)](https://github.com/nesterow/minizavr) - Tiny starter template with Preact and Deno for building single page applications.
+
+### Contents / Components
+
+*   [Tailored Components (⭐10)](https://github.com/nesterow/tailored) - Unstyled components and hooks for Preact & Deno.
+
 ### Contents / Libraries
 
 *   [Modular Forms (⭐311)](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
@@ -197,7 +205,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Toolkits
 
-*   [Storybook Preact (⭐78k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
+*   [Storybook Preact (⭐79k)](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
 
@@ -393,7 +401,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Contents / Related Libraries
 
-*   [React (⭐207k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐208k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 ## [Apr 17 - Apr 23, 2017](/content/2017/16/README.md)

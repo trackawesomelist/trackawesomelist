@@ -8,6 +8,10 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
+### Software / Analytics
+
+*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐23k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
+
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [Pairdrop (⭐772)](https://github.com/schlagmichdoch/pairdrop) - Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop. `GPL-3.0` `Docker`
@@ -15,6 +19,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Miscellaneous
 
 *   [Gophish](https://getgophish.com/) - Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing. ([Source Code (⭐9.1k)](https://github.com/gophish/gophish)) `MIT` `Go/Docker`
+*   [Upsnap (⭐564)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Svelte/Go/Docker`
 
 ### Software / Note-taking & Editors
 
@@ -27,6 +32,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Personal Dashboards
 
 *   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐2.2k)](https://github.com/ajnart/homarr)) `MIT` `Docker/Nodejs`
+*   [Starbase 80 (⭐39)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 
 ### Software / Task Management & To-do Lists
 
@@ -1404,10 +1410,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Mailtrain (⭐5.2k)](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter application. `GPL-3.0` `Nodejs`
 
-### Software / Communication - IRC
-
-*   [Dispatch (⭐643)](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go. `MIT` `Go`
-
 ### Software / Content Management Systems (CMS)
 
 *   [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code (⭐474)](https://github.com/bolt/core)) `MIT` `PHP`
@@ -2724,10 +2726,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Rustpad](https://rustpad.io/) - Efficient and minimal collaborative code editor, self-hosted, no database required. ([Source Code (⭐2.7k)](https://github.com/ekzhang/rustpad)) `MIT` `Rust`
 
-### Software / Personal Dashboards
-
-*   [Flame (⭐3.8k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
-
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
 ### Software / Communication - Social Networks and Forums
@@ -3944,10 +3942,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Office Suites
 
 *   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.3k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
-
-### Software / Ticketing
-
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐789)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
 
 ### External Links / Wikis
 

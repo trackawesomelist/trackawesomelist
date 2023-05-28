@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [May 28, 2023](/content/2023/05/28/README.md)
+
+### Third-Party Packages / Editors
+
+*   [django-prose (⭐114)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
+
 ## [May 27, 2023](/content/2023/05/27/README.md)
 
 ### Resources / Educational

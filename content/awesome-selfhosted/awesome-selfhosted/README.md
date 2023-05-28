@@ -6,6 +6,20 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [May 28, 2023](/content/2023/05/28/README.md)
+
+### Software / Analytics
+
+*   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐23k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
+
+### Software / Miscellaneous
+
+*   [Upsnap (⭐564)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Svelte/Go/Docker`
+
+### Software / Personal Dashboards
+
+*   [Starbase 80 (⭐39)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -1584,10 +1598,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Mailtrain (⭐5.2k)](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter application. `GPL-3.0` `Nodejs`
 
-### Software / Communication - IRC
-
-*   [Dispatch (⭐643)](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go. `MIT` `Go`
-
 ### Software / E-commerce
 
 *   [Vendure](https://www.vendure.io) - A headless commerce framework. ([Demo](https://demo.vendure.io), [Source Code (⭐4.4k)](https://github.com/vendure-ecommerce/vendure)) `MIT` `Nodejs`
@@ -2976,12 +2986,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐14k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`
 
-## [Jun 10, 2021](/content/2021/06/10/README.md)
-
-### Software / Personal Dashboards
-
-*   [Flame (⭐3.8k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
-
 ## [Jun 09, 2021](/content/2021/06/09/README.md)
 
 ### Software / Community-Supported Agriculture (CSA)
@@ -4369,10 +4373,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Office Suites
 
 *   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐3.3k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
-
-### Software / Ticketing
-
-*   [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code (⭐789)](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`
 
 ## [Jun 17, 2018](/content/2018/06/17/README.md)
 
