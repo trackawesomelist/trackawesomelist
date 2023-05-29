@@ -8,9 +8,17 @@ Collections of awesome neovim plugins.
 
 ## [May 29, 2023](/content/2023/05/29/README.md)
 
+### Color / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.hipatterns (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
+
 ### Utility / Diagnostics
 
 *   [reggie/licenses.nvim](https://git.sr.ht/~reggie/licenses.nvim) - Insert and write license headers and/or files.
+
+### Preconfigured Configuration / Diagnostics
+
+*   [OxygeNvim/OxygeNvim (⭐19)](https://github.com/OxygeNvim/OxygeNvim) - A configuration for all kinds of development with rock solid defaults.
 
 ## [May 27, 2023](/content/2023/05/27/README.md)
 
@@ -1767,10 +1775,6 @@ Collections of awesome neovim plugins.
 ### Completion / Diagnostics
 
 *   [noib3/nvim-compleet (⭐522)](https://github.com/noib3/nvim-compleet) - A Neovim autocompletion framework written in Rust.
-
-### Preconfigured Configuration / Diagnostics
-
-*   [CanKolay3499/CNvim](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 

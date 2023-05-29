@@ -6,6 +6,16 @@ Awesome Web Development Resources.
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / Weekly / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
+
+### CSS Generators:
+
+- Website: [Scrollbar.app](https://scrollbar.app/)
+
+  Description: A simple online tool for creating custom scrollbars for the web.
+
+
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Remote Jobs:
