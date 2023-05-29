@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 29, 2023](/content/2023/05/29/README.md)
+
+### Applications
+
+*   [Rio (⭐1.1k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+
 ## [May 27, 2023](/content/2023/05/27/README.md)
 
 ### Libraries / Astronomy

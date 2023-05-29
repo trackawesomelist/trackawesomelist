@@ -849,7 +849,7 @@ Community Repos:
 *   [mardix/flask-cloudy :fire::fire: (⭐239)](https://github.com/mardix/flask-cloudy) - Flask extension.
 *   [MathieuLoutre/grunt-aws-s3 :fire::fire: (⭐294)](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
 *   [mickael-kerjean/filestash :fire::fire::fire::fire::fire: (⭐7.9k)](https://github.com/mickael-kerjean/filestash) - A modern web client for S3.
-*   [minio/mc :fire::fire::fire::fire: (⭐2.5k)](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
+*   [minio/mc :fire::fire::fire::fire::fire: (⭐2.5k)](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
 *   [minio/minio :fire::fire::fire::fire::fire: (⭐39k)](https://github.com/minio/minio) - Object storage server compatible with S3.
 *   [mumrah/s3-multipart :fire: (⭐162)](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 *   [ncw/rclone :fire::fire::fire::fire::fire: (⭐38k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.

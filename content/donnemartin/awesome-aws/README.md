@@ -6,6 +6,12 @@ A curated list of awesome Amazon Web Services (AWS) libraries, open source repos
 
 [ Daily / [Weekly](/content/donnemartin/awesome-aws/week/README.md) / [Overview](/content/donnemartin/awesome-aws/readme/README.md) ]
 
+## [May 29, 2023](/content/2023/05/29/README.md)
+
+### Open Source Repos / S3
+
+*   [minio/mc :fire::fire::fire::fire::fire: (⭐2.5k)](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### SDKs and Samples / Ruby SDK
@@ -430,12 +436,6 @@ A curated list of awesome Amazon Web Services (AWS) libraries, open source repos
 ### Open Source Repos / SNS
 
 *   [aws-php-sns-message-validator :fire: (⭐198)](https://github.com/aws/aws-php-sns-message-validator) - Message validation for PHP.
-
-## [May 05, 2019](/content/2019/05/05/README.md)
-
-### Open Source Repos / S3
-
-*   [minio/mc :fire::fire::fire::fire: (⭐2.5k)](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
 
 ## [May 01, 2019](/content/2019/05/01/README.md)
 

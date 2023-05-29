@@ -6,6 +6,12 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 [ [Daily](/content/gbdev/awesome-gbdev/README.md) / Weekly / [Overview](/content/gbdev/awesome-gbdev/readme/README.md) ]
 
+## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
+
+### Tools / Development tools
+
+*   [opcode\_count (⭐2)](https://github.com/rondnelson99/opcode_count) - Generates statistics on which CPU instructions are run the most often using Python and Emulicious
+
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
 ### Tools / Development tools

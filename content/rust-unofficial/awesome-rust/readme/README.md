@@ -146,6 +146,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [nicohman/eidolon (⭐116)](https://github.com/nicohman/eidolon) — A steam and drm-free game registry and launcher for linux and macosx
 *   [notty (⭐2.2k)](https://github.com/withoutboats/notty) — A new kind of terminal
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
+*   [Rio (⭐1.1k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 *   [rx (⭐2.8k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 *   [Servo (⭐23k)](https://github.com/servo/servo) — A prototype web browser engine
 *   [shuttle (⭐2.6k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust

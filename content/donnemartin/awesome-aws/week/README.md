@@ -6,6 +6,12 @@ A curated list of awesome Amazon Web Services (AWS) libraries, open source repos
 
 [ [Daily](/content/donnemartin/awesome-aws/README.md) / Weekly / [Overview](/content/donnemartin/awesome-aws/readme/README.md) ]
 
+## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
+
+### Open Source Repos / S3
+
+*   [minio/mc :fire::fire::fire::fire::fire: (⭐2.5k)](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### SDKs and Samples / Ruby SDK
@@ -406,7 +412,6 @@ A curated list of awesome Amazon Web Services (AWS) libraries, open source repos
 ### Open Source Repos / S3
 
 *   [kahing/goofys :fire::fire::fire::fire::fire: (⭐4.7k)](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
-*   [minio/mc :fire::fire::fire::fire: (⭐2.5k)](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
 
 ## [Apr 29 - May 05, 2019](/content/2019/17/README.md)
 
