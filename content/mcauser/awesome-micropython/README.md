@@ -6,6 +6,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [May 30, 2023](/content/2023/05/30/README.md)
+
+### Display / Fonts
+
+*   [framebuf2 (⭐3)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Communications / Compression

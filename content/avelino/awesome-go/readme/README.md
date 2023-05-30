@@ -414,6 +414,7 @@ Please take a quick gander at the [contribution guidelines (⭐102k)](https://gi
 *   [mow.cli (⭐850)](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
 *   [ops (⭐1.1k)](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator.
 *   [pflag (⭐2.1k)](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+*   [readline (⭐23)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
 *   [sand (⭐19)](https://github.com/Zaba505/sand) - Simple API for creating interpreters and so much more.
 *   [sflags (⭐148)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
 *   [strumt (⭐53)](https://github.com/antham/strumt) - Library to create prompt chain.

@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [May 30, 2023](/content/2023/05/30/README.md)
+
+### Standard CLI
+
+*   [readline (⭐23)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
+
 ## [May 27, 2023](/content/2023/05/27/README.md)
 
 ### JSON

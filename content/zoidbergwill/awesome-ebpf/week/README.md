@@ -6,6 +6,12 @@ A curated list of awesome projects related to eBPF.
 
 [ [Daily](/content/zoidbergwill/awesome-ebpf/README.md) / Weekly / [Overview](/content/zoidbergwill/awesome-ebpf/readme/README.md) ]
 
+## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
+
+### Projects Related to eBPF / Tools
+
+*   [ebpf-explorer (⭐7)](https://github.com/ebpfdev/explorer) - A web interface to explore system's maps and programs.
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Tutorials / Hardware Offload

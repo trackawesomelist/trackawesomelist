@@ -36,6 +36,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
     *   [Package managers](#package-managers)
 *   [Parser](#parser)
 *   [Learning resources](#learning-resources)
+*   [C/C++ libraries packaged for Zig](#cc-libraries-packaged-for-zig)
 *   [Other](#other)
 
 ## Algorithms and data structures
@@ -269,6 +270,32 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [belse-de/zig-tut (⭐13)](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
 *   [Sobeston/ziglearn (⭐337)](https://github.com/Sobeston/ziglearn) - Zig learning resources.
 *   [ratfactor/ziglings (⭐2.9k)](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+
+## C/C++ libraries packaged for Zig
+
+These C/C++ libraries were packaged to be used with the Zig build and packaging system (build.zig.)
+
+### C
+
+*   [andrewrk/SDL (⭐19)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
+*   [andrewrk/ffmpeg (⭐21)](https://github.com/andrewrk/ffmpeg) - library only.
+*   [andrewrk/libgroove (⭐277)](https://github.com/andrewrk/libgroove)
+*   [andrewrk/libsoundio (⭐1.7k)](https://github.com/andrewrk/libsoundio/tree/zig-pkg)
+*   [kassane/openssl (⭐1)](https://github.com/kassane/openssl) - crypto, providers & ssl libraries only.
+*   [kassane/libbpf (⭐0)](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
+*   [kassane/winpthreads (⭐3)](https://github.com/kassane/winpthreads-zigbuild) - MinGW pthread library.
+
+### C++
+
+*   [andrewrk/libchromaprint (⭐0)](https://github.com/andrewrk/libchromaprint)
+*   [kassane/asio (⭐1)](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
+*   [kassane/fmt (⭐0)](https://github.com/kassane/fmt)
+*   [kassane/hana (⭐0)](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).>
+*   [kassane/catch2 (⭐0)](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
+*   [kassane/outcome (⭐0)](https://github.com/kassane/outcome) - (non-boost) Error handler (C++14/17/20).
+*   [kassane/json (⭐0)](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
+*   [kassane/range (⭐0)](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
+*   [kassane/libzmq (⭐0)](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
 
 ## Other
 

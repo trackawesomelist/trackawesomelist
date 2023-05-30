@@ -12,6 +12,28 @@ A list of awesome projects related to Zig
 
 *   [zigzap/zap (⭐210)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
 
+### C/C++ libraries packaged for Zig / C
+
+*   [andrewrk/SDL (⭐19)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
+*   [andrewrk/ffmpeg (⭐21)](https://github.com/andrewrk/ffmpeg) - library only.
+*   [andrewrk/libgroove (⭐277)](https://github.com/andrewrk/libgroove)
+*   [andrewrk/libsoundio (⭐1.7k)](https://github.com/andrewrk/libsoundio/tree/zig-pkg)
+*   [kassane/openssl (⭐1)](https://github.com/kassane/openssl) - crypto, providers & ssl libraries only.
+*   [kassane/libbpf (⭐0)](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
+*   [kassane/winpthreads (⭐3)](https://github.com/kassane/winpthreads-zigbuild) - MinGW pthread library.
+
+### C/C++ libraries packaged for Zig / C++
+
+*   [andrewrk/libchromaprint (⭐0)](https://github.com/andrewrk/libchromaprint)
+*   [kassane/asio (⭐1)](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
+*   [kassane/fmt (⭐0)](https://github.com/kassane/fmt)
+*   [kassane/hana (⭐0)](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).>
+*   [kassane/catch2 (⭐0)](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
+*   [kassane/outcome (⭐0)](https://github.com/kassane/outcome) - (non-boost) Error handler (C++14/17/20).
+*   [kassane/json (⭐0)](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
+*   [kassane/range (⭐0)](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
+*   [kassane/libzmq (⭐0)](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Web / HTTP
@@ -79,7 +101,7 @@ A list of awesome projects related to Zig
 
 *   [naneros/ztoml](https://codeberg.org/naneros/ztoml.git) - TOMLv1.0.0 parser and convert TOML to JSON.
 
-### Other / Package managers
+### Other / C++
 
 *   [zig.pm](https://zig.pm/) - A community-maintained repository of Zig packages.
 
@@ -164,7 +186,7 @@ A list of awesome projects related to Zig
 *   [sreehax/zig-ini (⭐2)](https://github.com/sreehax/zig-ini) - .ini parser.
 *   [Nulo/ini-parser](https://gitea.nulo.in/Nulo/ini-parser) - .ini parser.
 
-### Other / Package managers
+### Other / C++
 
 *   [All Your Codebase](https://allyourcodebase.com/) - Development status of Zig and its' ecosystem.
 
@@ -229,7 +251,7 @@ A list of awesome projects related to Zig
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
 
-### Other / Package managers
+### Other / C++
 
 *   [ynuwenhof/zigbraten (⭐1)](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
 
@@ -430,7 +452,7 @@ A list of awesome projects related to Zig
 *   [belse-de/zig-tut (⭐13)](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
 *   [Sobeston/ziglearn (⭐337)](https://github.com/Sobeston/ziglearn) - Zig learning resources.
 
-### Other / Package managers
+### Other / C++
 
 *   [hspak/geteltorito-zig (⭐7)](https://github.com/hspak/geteltorito-zig) - Geteltorito re-write in Zig.
 *   [momumi/x86-zig (⭐27)](https://github.com/momumi/x86-zig) - Library for assembling x86.

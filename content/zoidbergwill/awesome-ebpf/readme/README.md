@@ -393,6 +393,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 *   [FUSE](https://events.linuxfoundation.org/wp-content/uploads/2017/11/When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech.pdf) - Considers using eBPF.
 *   [upf-bpf (⭐149)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
 *   [redbpf (⭐1.6k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
+*   [ebpf-explorer (⭐7)](https://github.com/ebpfdev/explorer) - A web interface to explore system's maps and programs.
 
 # eBPF in Security
 
