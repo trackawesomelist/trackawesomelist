@@ -6,6 +6,22 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [May 30, 2023](/content/2023/05/30/README.md)
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Dokku](https://dokku.com)
+*   [Divio](https://www.divio.com)
+*   [Heroku](https://www.heroku.com)
+*   [Platform.sh](https://platform.sh)
+*   [Railway](https://railway.app)
+*   [Render](https://render.com)
+
+### Hosting / IaaS (Infrastructure-as-a-Service)
+
+*   [Linode](https://www.linode.com)
+*   [Hetzner](https://www.hetzner.com)
+
 ## [May 28, 2023](/content/2023/05/28/README.md)
 
 ### Third-Party Packages / Editors
@@ -67,14 +83,10 @@ A curated list of awesome things related to Django
 
 ### Hosting / PaaS (Platforms-as-a-Service)
 
-*   [Divio](https://www.divio.com/)
 *   [Fly](https://fly.io)
 *   [Google Cloud](https://cloud.google.com/python/django/)
-*   [Heroku](https://www.heroku.com/)
 *   [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
-*   [Platform.sh](https://platform.sh/)
 *   [PythonAnywhere](https://www.pythonanywhere.com)
-*   [Railway](https://railway.app/)
 *   [Vercel](https://vercel.com/home)
 
 ### Projects / Boilerplate
@@ -380,12 +392,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Search Engine Optimisation
 
 *   [django-check-seo (⭐124)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
-
-## [Oct 10, 2020](/content/2020/10/10/README.md)
-
-### Hosting / IaaS (Infrastructure-as-a-Service)
-
-*   [Hetzner](https://www.hetzner.com/)
 
 ## [Oct 08, 2020](/content/2020/10/08/README.md)
 
@@ -798,15 +804,9 @@ A curated list of awesome things related to Django
 *   [Django Chat](https://djangochat.com/) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
 *   [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
 
-### Hosting / PaaS (Platforms-as-a-Service)
-
-*   [Dokku](http://dokku.viewdocs.io/dokku/)
-*   [Render](https://render.com/)
-
 ### Hosting / IaaS (Infrastructure-as-a-Service)
 
 *   [Digital Ocean](https://www.digitalocean.com)
-*   [Linode](https://www.linode.com/)
 *   [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 
 ### Projects / Boilerplate
@@ -873,7 +873,5 @@ A curated list of awesome things related to Django
 
 ### Django REST Framework / DRF Tutorials
 
-*   [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 *   [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
-*   [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 *   [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)

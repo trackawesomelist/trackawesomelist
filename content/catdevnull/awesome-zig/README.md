@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [May 30, 2023](/content/2023/05/30/README.md)
+
+### Network / HTTP
+
+*   [zigzap/zap (⭐210)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
+
 ## [May 28, 2023](/content/2023/05/28/README.md)
 
 ### Learning resources / Package managers

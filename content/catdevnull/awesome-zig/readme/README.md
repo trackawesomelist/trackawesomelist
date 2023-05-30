@@ -205,6 +205,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [frmdstryr/zhp (⭐298)](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
 *   [axgdev/telegram\_echobot\_zig (⭐4)](https://github.com/axgdev/telegram_echobot_zig) - Telegram echo bot.
 *   [karlseguin/http.zig (⭐51)](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
+*   [zigzap/zap (⭐210)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
 
 ## Web
 

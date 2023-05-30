@@ -6,6 +6,41 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [May 30, 2023](/content/2023/05/30/README.md)
+
+### Chat Bot
+
+- Name: [Commandbar HelpHub](https://helphub.commandbar.com/)
+
+  Title: A GPT-Powered Chatbot for Any Site.
+
+  Description: You can add source content in 3 ways: -Crawling any public site via a URL (e.g. your marketing site or blog) -Syncing with a CMS (like Zendesk or Intercom) - Add content manually. The chatbot is then trained on that content and will answer questions based on that content only.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Docubro](https://www.docubro.com)
+
+  Title: ChatGPT for Your Website Documentation.
+
+  Description: ChatGPT for your documentation, make it accesible and easy to use by having a conversation to explore the content.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Text To Speech
+
+- Name: [Eleven Labs](https://beta.elevenlabs.io/?ref=aicollection)
+
+  Title: Prime Voice AI.
+
+  Description: The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Art & Image Generator
@@ -3371,6 +3406,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Productivity & Personal Growth
 
+- Name: [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection)
+
+  Title: AI Powered Skill-Suggestion.
+
+  Description: Using the power of Skill Suggestion AI we can help you extract in-demand skills in the world, from any kind of text. Try it out! We trained our AI by using more than 1 Million online available content in our Further Content Library which curated from different kinds of sources and topics.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [timeMaster](https://www.timemaster.ai/?ref=aicollection)
 
   Title: Supercharge Your Focus and Productivity.
@@ -4271,15 +4315,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Eleven](https://beta.elevenlabs.io/?ref=aicollection)
-
-  Title: Prime Voice AI.
-
-  Description: The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [FakeYou](http://fakeyou.com?ref=aicollection)
 
   Title: Fakeyou. Deep Fake Text to Speech.
@@ -4365,7 +4400,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Uberduck - Text-to-Speech, Voice Automation, Synthetic Media.
 
-  Description: .
+  Description: Make Music With AI Vocals, Make AI vocals and voiceovers with 5,000+ expressive voices, Build killer audio apps in minutes with our APIs, Synthesize yourself with your own custom voice clone.
 
   Offer Free Version: :grey\_question:
 
@@ -4701,9 +4736,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Durable: AI Website Builder and Service Business Software.
 
-  Description: .
+  Description: Build a website in 30 seconds with AI - The AI website builder that generates an entire website with images and copy in seconds.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :x:
 
 
 - Name: [Genius by Diagram](https://www.genius.design/?ref=aicollection)
@@ -7212,15 +7247,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection)
-
-  Title: Further: Automated Skill Suggestion.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection)

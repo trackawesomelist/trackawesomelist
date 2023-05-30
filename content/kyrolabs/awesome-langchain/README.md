@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [May 30, 2023](/content/2023/05/30/README.md)
+
+### Learn / Articles
+
+*   [GPT your GDrive with LangChain](https://www.haihai.ai/gpt-gdrive/)
+
 ## [May 28, 2023](/content/2023/05/28/README.md)
 
 ### Open Source Projects / Other / Chatbots

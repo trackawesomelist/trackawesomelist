@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [May 30, 2023](/content/2023/05/30/README.md)
+
+### Programming Languages / Python
+
+*   [pip2nix (⭐110)](https://github.com/nix-community/pip2nix) - A repository-agnostic Python package generator tool.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Installation Media / Newsletters
@@ -499,7 +505,6 @@
 ### Programming Languages / Python
 
 *   [mach-nix (⭐743)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
-*   [pypi2nix (⭐189)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
 ### Overlays / Webinterface
 

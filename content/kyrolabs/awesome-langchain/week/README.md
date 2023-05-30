@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kyrolabs/awesome-langchain/README.md) / Weekly / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
+
+### Learn / Articles
+
+*   [GPT your GDrive with LangChain](https://www.haihai.ai/gpt-gdrive/)
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### LangChain Framework
