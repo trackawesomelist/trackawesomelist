@@ -8,6 +8,10 @@
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
+### Open Source Projects / Other / Chatbots
+
+*   [WingmanAI (⭐284)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+
 ### Learn / Articles
 
 *   [GPT your GDrive with LangChain](https://www.haihai.ai/gpt-gdrive/)
@@ -170,7 +174,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [AudioGPT (⭐8.1k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐8.5k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 
 ### Alternatives / Articles
 

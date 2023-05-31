@@ -1,18 +1,38 @@
 # Awesome List Updates on May 31, 2023
 
-9 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Open Source Projects / Other / Chatbots
+
+*   [WingmanAI (⭐284)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Platform specific
+
+*   Windows
+    *   [microsoft/windows-rs (⭐8.5k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
+    *   [retep998/winapi-rs (⭐1.7k)](https://github.com/retep998/winapi-rs) — Windows API bindings [![Rust](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml/badge.svg?branch=dev)](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml)
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [react-vite-tailwindcss-template (⭐0)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Generative AI Tools Directories / Contribute to Our Repository
 
 *   [AI Finder](https://ai-finder.net/): repository with more than 1500 AI tools
 
-## [2. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [5. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Switzerland
 
@@ -22,25 +42,27 @@
 
 *   [Introduction to Digital History](https://wissen-ist-acht.github.io/digitalhistory.intro/) - This guide, created in the fall semester of 2022, accompanies the introductory courses in history at the University of Basel and is intended to provide a first insight into the field of digital history.
 
-## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Calendar
 
 *   [date-picker-svelte (⭐186)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
-## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
 *   [Woodpecker Build Status (⭐0)](https://github.com/sguter90/directus-extension-woodpecker-build-status) - Adds status bar for [Woodpecker](https://woodpecker-ci.org/) pipeline build status to Directus UI.
+*   [Imagga Hook (⭐6)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
+*   [Tiptap Interface & Display (⭐21)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
 
-## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### LLMs
 
 *   [Use chatgpt to adjust strategy parameters](https://twitter.com/0xUnicorn/status/1663413848593031170)
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -54,13 +76,13 @@
 
 *   [Ambrosia (⭐50)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### Clojure / Non-X86
 
 *   [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K
 
-## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Ingestion
 
@@ -74,7 +96,7 @@
 
 *   [Substation (⭐173)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
-## [9. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [12. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Base Tools / Other
 

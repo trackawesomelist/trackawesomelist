@@ -11,6 +11,8 @@ A curated list of awesome things related to Directus
 ### Extensions / Community
 
 *   [Woodpecker Build Status (⭐0)](https://github.com/sguter90/directus-extension-woodpecker-build-status) - Adds status bar for [Woodpecker](https://woodpecker-ci.org/) pipeline build status to Directus UI.
+*   [Imagga Hook (⭐6)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
+*   [Tiptap Interface & Display (⭐21)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
 
 ## [May 08 - May 14, 2023](/content/2023/19/README.md)
 
