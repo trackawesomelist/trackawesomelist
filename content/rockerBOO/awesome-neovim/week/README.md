@@ -15,6 +15,11 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [reggie/licenses.nvim](https://git.sr.ht/~reggie/licenses.nvim) - Insert and write license headers and/or files.
+*   [yagiziskirik/AirSupport.nvim (⭐2)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
+
+### Code Runner / Diagnostics
+
+*   [google/executor.nvim (⭐28)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -42,7 +47,7 @@ Collections of awesome neovim plugins.
 
 ### Session / Diagnostics
 
-*   [RutaTang/spectacle.nvim (⭐2)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
+*   [RutaTang/spectacle.nvim (⭐3)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
 
 ## [May 08 - May 14, 2023](/content/2023/19/README.md)
 
@@ -102,7 +107,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [VidocqH/lsp-lens.nvim (⭐82)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
+*   [VidocqH/lsp-lens.nvim (⭐94)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
 
 ### Markdown and LaTeX / Diagnostics
 

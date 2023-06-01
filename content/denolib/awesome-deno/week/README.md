@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
+
+### Modules / Utils
+
+*   [deno-envconfig (⭐2)](https://github.com/fernandolguevara/deno-envconfig) - Configuration management utility.
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Modules / Web framework
@@ -488,7 +494,7 @@ Curated list of awesome things related to Deno
 
 *   [bytes\_formater (⭐4)](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
 *   [coffee (⭐33)](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
-*   [computed\_types (⭐348)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
+*   [computed\_types (⭐349)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 *   [dcc (⭐12)](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 *   [type-fest (⭐14)](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 *   [watch (⭐42)](https://github.com/jinjor/deno-watch) - A file watcher.

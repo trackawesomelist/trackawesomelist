@@ -6,6 +6,68 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Jun 01, 2023](/content/2023/06/01/README.md)
+
+### Education & Learning
+
+- Name: [Wilco Sierra](https://trywilco.com/sierra)
+
+  Title: A Platform That Generates Engineering Challenges for Software Engineers Using AI.
+
+  Description: Meet Sierra! This Wilco experiment is a first-of-its-kind platform that generates challenges for software engineers using AI. Just tell it what you want to learn, and it will create personalized educational content for you.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Fun
+
+- Name: [Pit Stop ChatterGPT](https://apps.apple.com/us/app/pit-stop-chattergpt/id6449394370)
+
+  Title: Pit Stop ChatterGPT: Chat With F1 Legends, Your Race Day Companion.
+
+  Description: With this app, you can explore the mindset of your favorite drivers before a big race, ask about their preparation routines, or just have a friendly chat. It's like having a personal conversation with iconic F1 drivers like Lewis Hamilton or Max Verstappen.
+
+  Offer Free Version: :x:
+
+
+
+### Human Resources & Resume
+
+- Name: [AI Cover Letter Generator](https://aicoverlettergenerator.me)
+
+  Title: Ai Cover Letter Generator.
+
+  Description: Create a cover letter in seconds using AI. Instantly create a personalized and highly professional cover letters with the help of AI powered by GPT.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Text To Speech
+
+- Name: [AI Voice Generator](https://www.aivoicegenerator.org)
+
+  Title: AI Voice Generator: Free Text-to-Speech AI Voice Over Generator.
+
+  Description: Generate voice overs with natural human-sounding voices using generative voice AI.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Web Design
+
+- Name: [welovenocode](http://www.welovenocode.com?ref=aicollection)
+
+  Title: Hire Top No-Code and Low-Code Talent to Build Your Website Fast & Affordably.
+
+  Description: Work with reliable, vetted experts who built multi-million dollar products.
+
+  Offer Free Version: :x:
+
+
+
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
 ### Chat Bot
@@ -719,7 +781,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: AI Generated Images of You in Heaps of Styles.
 
-  Description: .
+  Description: Generate images in your, chosen style Select one or several styles to generate. The outcome of the AI generated images can be unpredictable, so experiment, and have fun!.
 
   Offer Free Version: :x:
 
@@ -773,7 +835,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Artbot.Ai - Let AI Create Your Perfect Halloween Art.
 
-  Description: .
+  Description: Do you feel like you are full of fun, bright, exciting, creative Halloween ideas? You are in need of an instrument to realize them then, and… this app is your choice!.
 
   Offer Free Version: :grey\_question:
 
@@ -1466,7 +1528,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: The AI Design Tool for Branded Content.
 
-  Description: .
+  Description: Get started with just a few clicks. Drag your product photos into the Canvas. Visually describe the scene surrounding your product. Edit, export, and share!.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -1613,7 +1675,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Create Your Passport Photo With AI.
 
-  Description: .
+  Description: How it works in four simple steps: Country & Input, Artificial Intelligence, Check & Crop, Enjoy Your Photos! Passphoto.ai is an idea of internet entrepreneur Gijs Heerkens. Since 2009, we are developing technologies that enable people to make passport photos online.
 
   Offer Free Version: :x:
 
@@ -2031,6 +2093,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ### Content Generation & Seo
+
+- Name: [AI Paraphrasing Tool](http://contentbot.ai?ref=aicollection)
+
+  Title: Contentbot - AI Writer - AI Content for Founders and Content Marketers.
+
+  Description: AI Automation At Its Best. Create customAI Content Workflows, run through Imports, or simply use our AI Writer.
+
+  Offer Free Version: :x:
+
 
 - Name: [Contentedge](http://www.contentedge.com?ref=aicollection)
 
@@ -2590,15 +2661,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [TextStyler](http://www.textstyler.org?ref=aicollection)
-
-  Title: Re-Write Anything in Fun Styles, Using AI.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 
 ### Gaming
 
@@ -2606,7 +2668,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Play and Create AI-Generated Adventures With Infinite Possibilities.
 
-  Description: .
+  Description: Choose Your Adventure. Pick or create a character, a world, and a story. The AI fills in details for your unique adventure: choose from predefined worlds by other creators, pick a random one using quick start, or make it up yourself!.
 
   Offer Free Version: :grey\_question:
 
@@ -2622,11 +2684,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Chess AI](http://betafish.gavinong.com?ref=aicollection)
 
-  Title: Betafish.Js - Chess AI.
+  Title: Betafish - An Amalgamation of AlphaZero and Stockfish.
 
-  Description: .
+  Description: Betafish is a chess engine and AI move finder written in Javascript, based on the Negamax algorithm. It beats Stockfish Level 6 on Lichess, and I estimate its around 1800-2000 Elo, depending on the thinking time afforded.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [IRMO](http://www.irmoai.com?ref=aicollection)
@@ -2810,7 +2872,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Getactyv - AI and Computer Vision Assisted Health and Fitness Platform.
 
-  Description: .
+  Description: GetActyv's AI-based personal trainer is here to revolutionize your fitness journey.
 
   Offer Free Version: :grey\_question:
 
@@ -3406,6 +3468,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Productivity & Personal Growth
 
+- Name: [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com?ref=aicollection)
+
+  Title: Improve Your English One Conversation at a Time.
+
+  Description: Speech Analyzer is an AI-powered conversational English fluency coach that listens to your speech and provides you with immediate feedback.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Ultimate Skill Extractor by Further](http://nlp.appfurther.io?ref=aicollection)
 
   Title: AI Powered Skill-Suggestion.
@@ -3866,6 +3937,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Lingostar is the AI who language learners can speak to in English, Spanish, or French. Reach fluency with REAL spoken conversations for free. No more tutors - chat with the Lingostar A.I. to improve your pronunciation, vocabulary, and comprehension.
 
   Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Poly AI](http://poly.ai?ref=aicollection)
+
+  Title: Customer-Led Voice Assistants.
+
+  Description: Consistently deliver your best brand experience, achieve accurate resolution and uncover data-driven business opportunities.
+
+  Offer Free Version: :x:
 
 
 
@@ -4491,7 +4571,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Scribebuddy](http://secure.scribebuddy.com?ref=aicollection)
 
-  Title: .
+  Title: Use A.I. For Transcription, Creating Subtitles, Translation & More.
 
   Description: Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More in Minutes.
 
@@ -4652,7 +4732,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Video Stories Generated by AI.
 
-  Description: .
+  Description: Short AI Videos. Generate, watch and share AI generated videos.
 
   Offer Free Version: :grey\_question:
 
@@ -4745,7 +4825,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Genius - Your AI Design Companion.
 
-  Description: .
+  Description: Join the waiting list of Genius by Diagram.
 
   Offer Free Version: :grey\_question:
 
@@ -4870,6 +4950,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [Quillbot Paraphraser](http://quillbot.com?ref=aicollection)
+
+  Title: QuillBot's AI-powered Paraphrasing Tool Will Enhance Your Writing.
+
+  Description: Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Rizz!](http://rizzai.com?ref=aicollection)
 
   Title: Unleash the Power of Infinite Rizz!.
@@ -4944,11 +5033,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Writefull Academizer](http://x.writefull.com?ref=aicollection)
 
-  Title: Writefull X: AI Applied to Academic Writing.
+  Title: Where AI 💛 Academic Writing.
 
-  Description: .
+  Description: At Writefull, we love to experiment with AI to help academic writing. This is the place where we publish some of our experiments.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -4999,27 +5088,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [AI Paraphrasing Tool](http://contentbot.ai?ref=aicollection)
-
-  Title: Contentbot - AI Writer - AI Content for Founders and Content Marketers.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [AI Pickup Lines Generator](http://www.aipickuplines.com?ref=aicollection)
 
   Title: AI Pickup Lines.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [AI Project Description Generator](http://www.welovenocode.com?ref=aicollection)
-
-  Title: .
 
   Description: .
 
@@ -5699,15 +5770,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: .
 
   Offer Free Version: :grey\_question:
-
-
-- Name: [ELSA SPEECH ANALYZER](http://speechanalyzer.elsaspeak.com?ref=aicollection)
-
-  Title: .
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Ebsynth](http://ebsynth.com?ref=aicollection)
@@ -6529,15 +6591,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Poly AI](http://poly.ai?ref=aicollection)
-
-  Title: .
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Polymath Robotics](http://www.polymathrobotics.com?ref=aicollection)
 
   Title: Polymath Robotics.
@@ -6651,15 +6704,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Scale Knowledge.
 
   Description: Question Base is a new kind of knowledge base. Powered by AI it answers your teams questions inside Slack. Automatically.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Quillbot Paraphraser](http://quillbot.com?ref=aicollection)
-
-  Title: .
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -7247,15 +7291,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Awesome AI generated ROYALTY FREE IMAGES for your stories and blog posts.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Unpromptedgame](http://www.unpromptedgame.com?ref=aicollection)
-
-  Title: .
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Unrealme](http://unrealme.io?ref=aicollection)

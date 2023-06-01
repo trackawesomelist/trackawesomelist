@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 01, 2023](/content/2023/06/01/README.md)
+
+### Utility / Diagnostics
+
+*   [yagiziskirik/AirSupport.nvim (⭐2)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
+
+### Code Runner / Diagnostics
+
+*   [google/executor.nvim (⭐28)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+
 ## [May 29, 2023](/content/2023/05/29/README.md)
 
 ### Color / Diagnostics
@@ -48,7 +58,7 @@ Collections of awesome neovim plugins.
 
 ### Session / Diagnostics
 
-*   [RutaTang/spectacle.nvim (⭐2)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
+*   [RutaTang/spectacle.nvim (⭐3)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
 
 ## [May 13, 2023](/content/2023/05/13/README.md)
 
@@ -118,7 +128,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [VidocqH/lsp-lens.nvim (⭐82)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
+*   [VidocqH/lsp-lens.nvim (⭐94)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
 
 ## [Apr 27, 2023](/content/2023/04/27/README.md)
 

@@ -129,6 +129,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [graphene-django (⭐4.1k)](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
 *   [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
 *   [django-tastypie (⭐3.8k)](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
+*   [drf-spectacular (⭐1.7k)](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 
 <!--lint enable double-link-->
 
@@ -182,7 +183,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### ECommerce
 
-*   [saleor (⭐16)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
+*   [saleor (⭐24)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
 *   [django-shop (⭐3k)](https://github.com/awesto/django-shop) - Django-based shop system.
 *   [shuup (⭐2k)](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 *   [django-oscar (⭐5.7k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.

@@ -8,6 +8,10 @@ A curated list of awesome things related to Django
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
+### Third-Party Packages / APIs
+
+*   [drf-spectacular (⭐1.7k)](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
+
 ### Hosting / PaaS (Platforms-as-a-Service)
 
 *   [Dokku](https://dokku.com)
@@ -547,7 +551,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / ECommerce
 
-*   [saleor (⭐16)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
+*   [saleor (⭐24)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
 *   [django-shop (⭐3k)](https://github.com/awesto/django-shop) - Django-based shop system.
 *   [shuup (⭐2k)](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 *   [django-oscar (⭐5.7k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.

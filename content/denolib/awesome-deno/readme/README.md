@@ -228,7 +228,7 @@ This list is a collection of the best Deno modules and resources.
 *   [coffee (⭐33)](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 *   [colors (⭐3)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 *   [croner (⭐1k)](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
-*   [computed\_types (⭐348)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
+*   [computed\_types (⭐349)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 *   [cubic-bezier (⭐1)](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 *   [dcc (⭐12)](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
 *   [denon (⭐1.1k)](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
@@ -239,6 +239,7 @@ This list is a collection of the best Deno modules and resources.
 *   deno-dotenv
     *   [pietvanzoen/deno-dotenv (⭐151)](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
     *   [cardosomarcos/deno-dotenv (⭐7)](https://github.com/cardosomarcos/deno-dotenv) - Loads environment variables from .env for Deno projects.
+*   [deno-envconfig (⭐2)](https://github.com/fernandolguevara/deno-envconfig) - Configuration management utility.
 *   [deno-fnparse (⭐11)](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 *   [deno-globrex (⭐7)](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 *   [deno\_notify (⭐39)](https://github.com/PandawanFr/deno_notify) - Send desktop notifications on all platforms.
