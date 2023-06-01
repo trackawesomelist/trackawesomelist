@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jun 01, 2023](/content/2023/06/01/README.md)
+
+### Learn / Videos
+
+*   [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
 ## [May 31, 2023](/content/2023/05/31/README.md)
 
 ### Open Source Projects / Other / Chatbots

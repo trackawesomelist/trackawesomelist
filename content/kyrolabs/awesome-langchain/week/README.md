@@ -12,6 +12,10 @@
 
 *   [WingmanAI (⭐284)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 
+### Learn / Videos
+
+*   [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
 ### Learn / Articles
 
 *   [GPT your GDrive with LangChain](https://www.haihai.ai/gpt-gdrive/)
