@@ -6,6 +6,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 02, 2023](/content/2023/06/02/README.md)
+
+### Web Hosting
+
+*   [telegra.ph](https://telegra.ph/) Easily create web page using Quill
+
+### Other Free Resources
+
+*   [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
+*   [OpenUtils](https://openutils.org/) - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.
+
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
 ### Web Hosting
@@ -859,10 +870,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Kiter.app](https://www.kiter.app/) - Let's anyone organize their job search and keep track of interviews, opportunities, and connections. Powerful web app and chrome extension. Completely free.
 
 ## [Sep 27, 2022](/content/2022/09/27/README.md)
-
-### DBaaS
-
-*   [bit.io](https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month
 
 ### Design and UI
 
@@ -3761,12 +3768,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Tweek](https://tweek.so/) — Simple Weekly To-Do Calendar & Task Management.
 
-## [Sep 10, 2020](/content/2020/09/10/README.md)
-
-### Web Hosting
-
-*   [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
-
 ## [Sep 03, 2020](/content/2020/09/03/README.md)
 
 ### Miscellaneous
@@ -3945,10 +3946,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform test runs, track defects and measure impact. The free tier includes all core features, with 500Mb available for attachments and up to 3 users.
 
 ## [Jun 19, 2020](/content/2020/06/19/README.md)
-
-### Web Hosting
-
-*   [txti.es](https://txti.es/) — Quickly create web pages with markdown.
 
 ### Issue Tracking and Project Management
 
@@ -4513,6 +4510,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
 *   [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
 *   [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
+    *   [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
 
 ### DNS
 

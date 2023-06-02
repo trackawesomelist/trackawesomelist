@@ -10,7 +10,9 @@
 
 ### Resources / Learning
 
+*   [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - An in-depth blog series about creating a Rust application with Nix.
 *   [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
+*   [Nix Shorts (⭐5)](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
 *   [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
 
 ## [May 30, 2023](/content/2023/05/30/README.md)
@@ -528,12 +530,6 @@
 ### Resources / Learning
 
 *   [Nix Notes (⭐47)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
-
-## [Oct 10, 2019](/content/2019/10/10/README.md)
-
-### Resources / Learning
-
-*   [Nix Shorts (⭐372)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 
 ## [Sep 16, 2019](/content/2019/09/16/README.md)
 

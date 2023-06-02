@@ -10,7 +10,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Web Hosting
 
+*   [telegra.ph](https://telegra.ph/) Easily create web page using Quill
 *   [Serv00.com](https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.
+
+### Other Free Resources
+
+*   [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
+*   [OpenUtils](https://openutils.org/) - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
@@ -680,10 +686,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Security and PKI
 
 *   [Escape GraphQL Quickscan](https://escape.tech/) - One-click security scan of your GraphQL endpoints. Free, no login required.
-
-### DBaaS
-
-*   [bit.io](https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month
 
 ### Issue Tracking and Project Management
 
@@ -2972,10 +2974,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [drone](https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place
 *   [Squash Labs](https://www.squash.io/) — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
 
-### Web Hosting
-
-*   [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
-
 ### Issue Tracking and Project Management
 
 *   [Tweek](https://tweek.so/) — Simple Weekly To-Do Calendar & Task Management.
@@ -3135,10 +3133,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [statusgator.com](https://statusgator.com/) — Status page monitoring, 3 monitors free
-
-### Web Hosting
-
-*   [txti.es](https://txti.es/) — Quickly create web pages with markdown.
 
 ### Issue Tracking and Project Management
 
@@ -3636,6 +3630,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
 *   [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
 *   [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
+    *   [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
 
 ### DNS
 

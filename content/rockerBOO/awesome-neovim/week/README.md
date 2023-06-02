@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [echasnovski/mini.nvim#mini.hipatterns (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
 
+### Bars and Lines / Diagnostics
+
+*   [Bekaboo/dropbar.nvim (⭐216)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
+
 ### Utility / Diagnostics
 
 *   [reggie/licenses.nvim](https://git.sr.ht/~reggie/licenses.nvim) - Insert and write license headers and/or files.
@@ -20,6 +24,10 @@ Collections of awesome neovim plugins.
 ### Code Runner / Diagnostics
 
 *   [google/executor.nvim (⭐28)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+
+### Competitive Programming / Diagnostics
+
+*   [Dhanus3133/Leetbuddy.nvim (⭐19)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
 
 ### Preconfigured Configuration / Diagnostics
 

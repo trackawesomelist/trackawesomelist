@@ -6,6 +6,12 @@ Curated list of awesome Esoteric languages and resources
 
 [ Daily / [Weekly](/content/angrykoala/awesome-esolangs/week/README.md) / [Overview](/content/angrykoala/awesome-esolangs/readme/README.md) ]
 
+## [Jun 02, 2023](/content/2023/06/02/README.md)
+
+### Languages
+
+*   [Malbolge](https://esolangs.org/wiki/Malbolge) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
+
 ## [Jun 01, 2023](/content/2023/06/01/README.md)
 
 ### Languages
@@ -358,10 +364,6 @@ Curated list of awesome Esoteric languages and resources
 *   [Wikipedia/Esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) - Wikipedia list of esoteric languages.
 
 ## [Mar 05, 2017](/content/2017/03/05/README.md)
-
-### Languages
-
-*   [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 
 ### Resources
 

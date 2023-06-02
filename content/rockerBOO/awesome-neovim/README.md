@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 02, 2023](/content/2023/06/02/README.md)
+
+### Bars and Lines / Diagnostics
+
+*   [Bekaboo/dropbar.nvim (⭐216)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
+
+### Competitive Programming / Diagnostics
+
+*   [Dhanus3133/Leetbuddy.nvim (⭐19)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
+
 ## [Jun 01, 2023](/content/2023/06/01/README.md)
 
 ### Utility / Diagnostics

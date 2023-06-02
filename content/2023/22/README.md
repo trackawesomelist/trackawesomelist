@@ -81,6 +81,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Languages
 
 *   [COW](https://esolangs.org/wiki/COW) - Brainfuck variant using twelve variations of *moos* as instructions.
+*   [Malbolge](https://esolangs.org/wiki/Malbolge) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 
 ## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -302,7 +303,9 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Resources / Learning
 
+*   [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - An in-depth blog series about creating a Rust application with Nix.
 *   [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
+*   [Nix Shorts (⭐5)](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
 *   [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
 
 ### Programming Languages / Python
@@ -439,7 +442,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Web Hosting
 
+*   [telegra.ph](https://telegra.ph/) Easily create web page using Quill
 *   [Serv00.com](https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.
+
+### Other Free Resources
+
+*   [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
+*   [OpenUtils](https://openutils.org/) - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.
 
 ## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -519,6 +528,10 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [echasnovski/mini.nvim#mini.hipatterns (⭐2.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
 
+### Bars and Lines / Diagnostics
+
+*   [Bekaboo/dropbar.nvim (⭐216)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
+
 ### Utility / Diagnostics
 
 *   [reggie/licenses.nvim](https://git.sr.ht/~reggie/licenses.nvim) - Insert and write license headers and/or files.
@@ -527,6 +540,10 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Code Runner / Diagnostics
 
 *   [google/executor.nvim (⭐28)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+
+### Competitive Programming / Diagnostics
+
+*   [Dhanus3133/Leetbuddy.nvim (⭐19)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
 
 ### Preconfigured Configuration / Diagnostics
 

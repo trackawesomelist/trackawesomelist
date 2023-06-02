@@ -11,6 +11,7 @@ Curated list of awesome Esoteric languages and resources
 ### Languages
 
 *   [COW](https://esolangs.org/wiki/COW) - Brainfuck variant using twelve variations of *moos* as instructions.
+*   [Malbolge](https://esolangs.org/wiki/Malbolge) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
@@ -326,10 +327,6 @@ Curated list of awesome Esoteric languages and resources
 *   [Wikipedia/Esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) - Wikipedia list of esoteric languages.
 
 ## [Feb 27 - Mar 05, 2017](/content/2017/9/README.md)
-
-### Languages
-
-*   [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 
 ### Resources
 
