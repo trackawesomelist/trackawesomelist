@@ -6,6 +6,12 @@ An Awesome List for getting started with web archiving
 
 [ [Daily](/content/iipc/awesome-web-archiving/README.md) / Weekly / [Overview](/content/iipc/awesome-web-archiving/readme/README.md) ]
 
+## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
+
+### Tools & Software / Utilities
+
+*   [Go Get Crawl (⭐26)](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Tools & Software / Acquisition

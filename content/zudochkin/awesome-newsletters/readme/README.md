@@ -127,6 +127,7 @@ Thanks to all [contributors (⭐3.3k)](https://github.com/zudochkin/awesome-news
 *   [React Digest](https://reactdigest.net/). A weekly newsletter for React developers with top 5 links. [Archive](https://reactdigest.net/digests).
 *   [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 *   [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
+*   [Nextjs Weekly](https://nextjsweekly.com/). A newsletter of the best Next.js articles, tools and projects.
 
 #### EmberJS
 
@@ -250,7 +251,7 @@ Thanks to all [contributors (⭐3.3k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐592)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐602)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 

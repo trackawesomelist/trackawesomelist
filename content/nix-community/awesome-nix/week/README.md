@@ -8,6 +8,11 @@
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
+### Resources / Learning
+
+*   [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
+*   [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
+
 ### Programming Languages / Python
 
 *   [pip2nix (⭐110)](https://github.com/nix-community/pip2nix) - A repository-agnostic Python package generator tool.
@@ -41,7 +46,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [deadnix (⭐250)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐253)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
 ### Programming Languages / Ruby
 

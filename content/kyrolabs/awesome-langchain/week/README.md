@@ -8,6 +8,10 @@
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
+### Tools / Agents
+
+*   [Local GPT (⭐1.8k)](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
+
 ### Open Source Projects / Other / Chatbots
 
 *   [WingmanAI (⭐284)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio

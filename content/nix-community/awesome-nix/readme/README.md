@@ -53,11 +53,13 @@
 ### Learning
 
 *   [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
+*   [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
 *   [Nix Notes (⭐47)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 *   [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 *   [Nix Shorts (⭐372)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 *   [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
 *   [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
+*   [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
 
 ### Discovery
 
@@ -111,7 +113,7 @@
 
 *   [alejandra (⭐388)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 *   [comma (⭐675)](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
-*   [deadnix (⭐250)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐253)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 *   [manix (⭐256)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 *   [nixfmt (⭐379)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 *   [nixpkgs-fmt (⭐430)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.

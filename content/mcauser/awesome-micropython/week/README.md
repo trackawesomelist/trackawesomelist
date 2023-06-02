@@ -8,6 +8,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
+### Audio
+
+*   [umidiparser (⭐7)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
+
 ### Display / Fonts
 
 *   [framebuf2 (⭐3)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.

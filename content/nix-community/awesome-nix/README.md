@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jun 02, 2023](/content/2023/06/02/README.md)
+
+### Resources / Learning
+
+*   [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
+*   [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
+
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
 ### Programming Languages / Python
@@ -41,7 +48,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [deadnix (⭐250)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [deadnix (⭐253)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
 ## [Mar 10, 2023](/content/2023/03/10/README.md)
 
