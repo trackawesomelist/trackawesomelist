@@ -614,7 +614,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [Monaka (⭐22)](https://github.com/naru-jpn/Monaka) - Convert custom struct and fundamental values to NSData.
 *   [Buffer (⭐350)](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration.
 *   [SwiftGraph (⭐716)](https://github.com/davecom/SwiftGraph) - Graph data structure and utility functions in pure Swift.
-*   [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - A priority queue with a classic binary heap implementation in pure Swift.
+*   [SwiftPriorityQueue (⭐355)](https://github.com/davecom/SwiftPriorityQueue) - A priority queue with a classic binary heap implementation in pure Swift.
 *   [Pencil (⭐88)](https://github.com/naru-jpn/pencil) - Write values to file and read it more easily.
 *   [HeckelDiff (⭐167)](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library.
 *   [Dekoter (⭐25)](https://github.com/artemstepanenko/Dekoter) - `NSCoding`'s counterpart for Swift structs.
@@ -1521,7 +1521,7 @@ Most of these are paid services, some have free tiers.
 *   [RLPSwift (⭐22)](https://github.com/bitfwdcommunity/RLPSwift) - Recursive Length Prefix encoding written in Swift.
 *   [AcknowledgementsPlist (⭐76)](https://github.com/cats-oss/AcknowledgementsPlist) - AcknowledgementsPlist manages the licenses of libraries that depend on your iOS app.
 *   [CoreXLSX (⭐736)](https://github.com/MaxDesiatov/CoreXLSX) - Excel spreadsheet (XLSX) format support in pure Swift.
-*   [SVGView](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐370)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 *   [CreateAPI (⭐346)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 *   [NetNewsWire (⭐6.9k)](https://github.com/Ranchero-Software/NetNewsWire) - It’s a free and open-source feed reader for macOS and iOS.
 
@@ -1615,6 +1615,7 @@ Most of these are paid services, some have free tiers.
 *   [LightweightObservable (⭐135)](https://github.com/fxm90/LightweightObservable) - A lightweight implementation of an observable sequence that you can subscribe to.
 *   [Bindy (⭐26)](https://github.com/MaximKotliar/Bindy) - Simple, lightweight swift bindings with KVO support and easy to read syntax.
 *   [OpenCombine (⭐2.5k)](https://github.com/broadwaylamb/OpenCombine) — Open source implementation of Apple's Combine framework for processing values over time.
+*   [OneWay (⭐52)](https://github.com/DevYeom/OneWay) - A Swift library for state management with unidirectional data flow.
 *   [Verge (⭐529)](https://github.com/muukii/Verge) - Verge is a faster and scalable state management library for UIKit and SwiftUI
 
 ### React-Like
@@ -2037,7 +2038,7 @@ Most of these are paid services, some have free tiers.
 *   [N8iveKit (⭐17)](https://github.com/n8iveapps/N8iveKit) - A set of frameworks making iOS development more fun.
 *   [Panda (⭐69)](https://github.com/wordlessj/Panda) - Create view hierarchies declaratively.
 *   [NotchKit (⭐1.8k)](https://github.com/HarshilShah/NotchKit) - A simple way to hide the notch on the iPhone X
-*   [Overlay](https://github.com/TintPoint/Overlay) - Overlay is a flexible UI framework designed for Swift. It allows you to write CSS like Swift code.
+*   [Overlay (⭐50)](https://github.com/TintPoint/Overlay) - Overlay is a flexible UI framework designed for Swift. It allows you to write CSS like Swift code.
 *   [SwiftyUI (⭐338)](https://github.com/haoking/SwiftyUI) - High performance and lightweight(one class each UI) UIView, UIImage, UIImageView, UIlabel, UIButton, Promise and more.
 *   [NotchToolkit (⭐56)](https://github.com/AFathi/NotchToolkit) - A framework for iOS that allow developers use the iPhone X notch in creative ways.
 *   [PullUpController (⭐1.2k)](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
@@ -2048,7 +2049,7 @@ Most of these are paid services, some have free tiers.
 *   [Shiny (⭐780)](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash).
 *   [StackViewController (⭐868)](https://github.com/seedco/StackViewController) - A controller that uses a UIStackView and view controller composition to display content in a list.
 *   [UberSignature (⭐1.3k)](https://github.com/uber/UberSignature) - Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
-*   [SwViewCapture](https://github.com/startry/SwViewCapture) - A nice iOS View Capture Swift Library which can capture all content.
+*   [SwViewCapture (⭐599)](https://github.com/startry/SwViewCapture) - A nice iOS View Capture Swift Library which can capture all content.
 *   [HGRippleRadarView (⭐362)](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable.
 *   [GDGauge (⭐79)](https://github.com/saeid/GDGauge) - Full Customizable, Beautiful, Easy to use gauge view Edit.
 *   [STAControls (⭐12)](https://github.com/Stunner/STAControls) - Handy UIControl subclasses. (Think Three20/NimbusKit of UIControls.) Written in Objective-C.
@@ -2573,7 +2574,7 @@ Most of these are paid services, some have free tiers.
 *   [SHPopup (⭐36)](https://github.com/iamshezad/SHPopup) - SHPopup is a simple lightweight library for popup view.
 *   [Popover (⭐2k)](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 *   [SwiftEntryKit (⭐6.2k)](https://github.com/huri000/SwiftEntryKit) - A highly customizable popups, alerts and banners presenter for iOS. It offers various presets and is written in pure Swift.
-*   [FFPopup](https://github.com/JonyFang/FFPopup) - ⛩FFPopup is a lightweight library for presenting custom views as a popup.
+*   [FFPopup (⭐855)](https://github.com/JonyFang/FFPopup) - ⛩FFPopup is a lightweight library for presenting custom views as a popup.
 *   [PopupView (⭐2.3k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ### ProgressView
@@ -2702,7 +2703,7 @@ Most of these are paid services, some have free tiers.
 ### Tab Bar
 
 *   [ESTabBarController (⭐123)](https://github.com/ezescaruli/ESTabBarController) - A tab bar controller for iOS that allows highlighting buttons and setting custom actions to them.
-*   [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar
+*   [GooeyTabbar (⭐936)](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar
 *   [animated-tab-bar (⭐11k)](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
 *   [FoldingTabBar.iOS (⭐3.7k)](https://github.com/Yalantis/FoldingTabBar.iOS) - Folding Tab Bar and Tab Bar Controller
 *   [GGTabBar (⭐157)](https://github.com/Goles/GGTabBar) - Another UITabBar & UITabBarController (iOS Tab Bar) replacement, but uses Auto Layout for arranging it's views hierarchy.
@@ -3005,7 +3006,7 @@ Most of these are paid services, some have free tiers.
 
 ## User Consent
 
-*   [SmartlookConsentSDK](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
+*   [SmartlookConsentSDK (⭐182)](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
 *   [PrivacyFlash Pro (⭐146)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
 ## VR

@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Jun 03, 2023](/content/2023/06/03/README.md)
+
+### Parser / Package managers
+
+*   [Himujjal/zig-json5 (⭐24)](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
+
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
 ### Network / HTTP

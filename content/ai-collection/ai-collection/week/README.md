@@ -8,6 +8,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
+### Art & Image Generator
+
+- Name: [PromeAI](https://www.promeai.com)
+
+  Title: AI Tool for Rendering and Coloring Sketches.
+
+  Description: Looking for an AI-powered design assistant that can help bring your creative ideas to life? Create stunning designs with our extensive controllable AIGC (C-AIGC) model style library. Whether you're architects, interior designers, product designers, or game animation designers.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Chat Bot
 
 - Name: [Commandbar HelpHub](https://helphub.commandbar.com/)
@@ -26,6 +38,27 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: ChatGPT for your documentation, make it accesible and easy to use by having a conversation to explore the content.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [PageLines](https://www.pagelines.com)
+
+  Title: AI Agents for Websites.
+
+  Description: ChapGPT powered agents and chatbots that improve your website and marketing.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Content Generation & Seo
+
+- Name: [unbound](https://www.unboundcontent.ai/?affiliate=aff_z0krz31)
+
+  Title: Automate Content Creation for Your Small Business.
+
+  Description: Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -64,6 +97,27 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [AI Resume Editor](https://rezi.ai/?via=aicollection)
+
+  Title: The Way the World Makes Resumes. The Smartest GPT-powered Resume Builder.
+
+  Description: Rezi is the only resume platform that uses leading AI to automate every aspect of creating a hirable resume—writing, editing, formatting, and optimizing.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Photo & Image Editing
+
+- Name: [DoMyShoot](https://domyshoot.com/)
+
+  Title: DoMyShoot - Product Photography Simplified.
+
+  Description: With DoMyShoot, you can instantly upgrade your eCommerce business with professional-looking product photos. Easily use the app's innovative features to create custom content for your brand - no experience required! Guide yourself through a photoshoot using just your smartphone and let our AI technology handle the rest of the process, turning everyday products into photo realistic images that are sure to take marketing strategies up a notch.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ### Text To Speech
 
@@ -95,6 +149,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Work with reliable, vetted experts who built multi-million dollar products.
 
   Offer Free Version: :x:
+
+
+
+### Writing Assistant
+
+- Name: [Quillbot Paraphraser](https://try.quillbot.com/aicollection)
+
+  Title: QuillBot's AI-powered Paraphrasing Tool Will Enhance Your Writing.
+
+  Description: Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -2921,6 +2987,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :x:
 
 
+- Name: [ResumAI](http://www.wonsulting.com?ref=aicollection)
+
+  Title: Wonsulting - We Find Dream Jobs.
+
+  Description: we have helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [rankode](http://www.rankode.ai?ref=aicollection)
 
   Title: AI for Human Resources - Rankode.
@@ -4928,15 +5003,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Quillbot Paraphraser](http://quillbot.com?ref=aicollection)
-
-  Title: QuillBot's AI-powered Paraphrasing Tool Will Enhance Your Writing.
-
-  Description: Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Rizz!](http://rizzai.com?ref=aicollection)
 
   Title: Unleash the Power of Infinite Rizz!.
@@ -5107,15 +5173,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: 🏡Sharehouse - Free Housemate Finder.
 
   Description: Connect with Sharehouses, Housemates Or Flatmates. Freely List & Advertise Your Room, House, or Flat.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [AI Resume Editor](http://www.rezi.ai?ref=aicollection)
-
-  Title: Rezi - The Leading AI Resume Builder Trusted by 352,894 Users.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -6749,15 +6806,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [ResumAI](http://www.wonsulting.com?ref=aicollection)
-
-  Title: Wonsulting - We Find Dream Jobs.
-
-  Description: we have helped over 100,000 people land their dream jobs. Let our job search strategies take you from resumes to better days.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Resume Studio](http://resumestudio.careers?ref=aicollection)
 
   Title: .
@@ -7679,15 +7727,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Writesonic - Best AI Writer, Copywriting & Paraphrasing Tool.
 
   Description: Create SEO-optimized and plagiarism-free contentfor your blogs, ads, emails, and website 10X faster.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [unbound](https://www.unboundcontent.ai/auth?affiliate=aff_z0krz31)
-
-  Title: Automate Content Creation for Your Small Business.
-
-  Description: Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.
 
   Offer Free Version: :white\_check\_mark:
 

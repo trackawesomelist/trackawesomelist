@@ -2,9 +2,19 @@
 
 Carefully curated list of awesome Jamstack resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/automata/awesome-jamstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) · ⭐ 1.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/automata/awesome-jamstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) · ⭐ 1.3K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/automata/awesome-jamstack/week/README.md) / [Overview](/content/automata/awesome-jamstack/readme/README.md) ]
+
+## [Jun 03, 2023](/content/2023/06/03/README.md)
+
+### General
+
+*   [Built At Lightspeed](https://www.builtatlightspeed.com/) - A large directory of Jamstack themes, starters & UI kits.
+
+### API / Authentication
+
+*   [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 
 ## [Jan 24, 2023](/content/2023/01/24/README.md)
 
@@ -34,7 +44,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Astro Snipcart (⭐39)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐54)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -77,7 +87,7 @@ Carefully curated list of awesome Jamstack resources
 ### API / Authentication
 
 *   [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐99k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐107k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
@@ -455,7 +465,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Automation
 
-*   [DataFire (⭐567)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐575)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [Mar 20, 2019](/content/2019/03/20/README.md)
 
@@ -539,7 +549,7 @@ Carefully curated list of awesome Jamstack resources
 *   [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 *   [Tipe](https://tipe.io) - Next Generation API-first CMS.
-*   [Coisas (⭐312)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+*   [Coisas (⭐313)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 
 ### API / Authentication
@@ -558,7 +568,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐985)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket (⭐988)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 

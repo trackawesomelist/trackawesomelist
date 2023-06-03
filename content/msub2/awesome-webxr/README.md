@@ -2,9 +2,19 @@
 
 All things WebXR.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 118 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 125 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/msub2/awesome-webxr/week/README.md) / [Overview](/content/msub2/awesome-webxr/readme/README.md) ]
+
+## [Jun 03, 2023](/content/2023/06/03/README.md)
+
+### Standout Projects
+
+*   [f60](https://heyvr.io/game/f60) - A cross-platform WebXR escape room series set within a Soviet prison.
+
+### Content Hubs / Reddit
+
+*   [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
 
 ## [Apr 01, 2023](/content/2023/04/01/README.md)
 
@@ -50,7 +60,7 @@ All things WebXR.
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐581)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐600)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [May 15, 2022](/content/2022/05/15/README.md)
 
@@ -70,7 +80,7 @@ All things WebXR.
 
 ### Avatars
 
-*   [Exokit Avatars (⭐59)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐4)](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐61)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐5)](https://github.com/msub2/avatars).
 
 ### Companies and Cooperatives / Reddit
 
@@ -262,7 +272,6 @@ All things WebXR.
 ### Content Hubs / Reddit
 
 *   [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
-*   [Construct Arcade](https://constructarcade.com/) - A curated hub of WebXR games, with games from both outside developers and in-house developers at Vhite Rabbit.
 *   [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 *   [XRSites](https://xrsites.com/) - An aggregator for WebXR games and experiences.
 
@@ -275,8 +284,8 @@ All things WebXR.
 *   [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
     *   [Official Documentation](https://developer.playcanvas.com/en/)
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
-    *   [WebXR Export (⭐692)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR (⭐494)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [WebXR Export (⭐730)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
+    *   [SimpleWebXR (⭐506)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
 
@@ -286,12 +295,12 @@ All things WebXR.
     *   [Official Documentation](https://aframe.io/docs/)
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
-*   [JanusWeb (⭐157)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐162)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 *   [LÖVR](https://lovr.org/) - A Lua-based framework that lets you create VR content across web and native platforms.
     *   [Official Documentation](https://lovr.org/docs/)
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
-*   [react-three-fiber (⭐22k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐1.5k)](https://github.com/pmndrs/react-xr) as well.
-*   [Spaces VR (⭐141)](https://github.com/spacesvr/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
+*   [react-three-fiber (⭐23k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐1.6k)](https://github.com/pmndrs/react-xr) as well.
+*   [Spaces VR (⭐154)](https://github.com/spacesvr/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 

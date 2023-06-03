@@ -12,6 +12,10 @@ A list of awesome projects related to Zig
 
 *   [zigzap/zap (⭐210)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
 
+### Parser / Package managers
+
+*   [Himujjal/zig-json5 (⭐24)](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
+
 ### C/C++ libraries packaged for Zig / C
 
 *   [andrewrk/SDL (⭐19)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.

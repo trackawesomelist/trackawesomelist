@@ -2,7 +2,7 @@
 
 Carefully curated list of awesome Jamstack resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/automata/awesome-jamstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) · ⭐ 1.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/automata/awesome-jamstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) · ⭐ 1.3K · 🏷️ Front-End Development
 
 [ [Daily](/content/automata/awesome-jamstack/README.md) / [Weekly](/content/automata/awesome-jamstack/week/README.md) / Overview ]
 
@@ -69,6 +69,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Jamstack resources](https://jamstack.org/resources/) - Videos and articles about Jamstack.
 *   [the New Dynamic](https://www.thenewdynamic.org/) - Pick up tools in our Directory to work with the Jamstack. Browse our showcase and get inspired.
 *   [Statichunt](https://statichunt.com/) - Jamstack Themes and Resources directory.
+*   [Built At Lightspeed](https://www.builtatlightspeed.com/) - A large directory of Jamstack themes, starters & UI kits.
 
 ## Chats
 
@@ -87,7 +88,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 *   [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 
-*For more resources about Static Web Apps see (Awesome Static Web Apps)\[[https://github.com/staticwebdev/awesome-azure-static-web-apps (⭐69)](https://github.com/staticwebdev/awesome-azure-static-web-apps)].*
+*For more resources about Static Web Apps see (Awesome Static Web Apps)\[[https://github.com/staticwebdev/awesome-azure-static-web-apps (⭐77)](https://github.com/staticwebdev/awesome-azure-static-web-apps)].*
 
 ## No-Code Platforms
 
@@ -145,7 +146,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 *   [Tipe](https://tipe.io) - Next Generation API-first CMS.
 *   [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
-*   [Coisas (⭐312)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+*   [Coisas (⭐313)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 *   [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for Jamstack Sites.
 *   [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
@@ -164,7 +165,8 @@ Carefully curated list of awesome Jamstack resources
 *   [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 *   [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 *   [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐99k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐107k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 
 ### Comments
 
@@ -185,8 +187,8 @@ Carefully curated list of awesome Jamstack resources
 
 ### E-commerce
 
-*   [Astro Snipcart (⭐39)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
-*   [Flatmarket (⭐985)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Astro Snipcart (⭐54)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Flatmarket (⭐988)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
@@ -218,7 +220,7 @@ Carefully curated list of awesome Jamstack resources
 ### Automation
 
 *   [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-*   [DataFire (⭐567)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐575)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## Serverless
 
