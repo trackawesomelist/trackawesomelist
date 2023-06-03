@@ -158,6 +158,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Airtable-QnA (⭐12)](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
 *   [Voyager (⭐1.1k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 *   [WingmanAI (⭐284)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [TutorGPT (⭐87)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 
 ## Learn
 
@@ -233,7 +234,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [PromptFlow (⭐157)](https://github.com/InsuranceToolkits/promptflow): Create executable flowcharts that link LLMs (Large Language Models), Prompts, Python functions, and conditional logic together. ![GitHub Repo stars](https://img.shields.io/github/stars/InsuranceToolkits/promptflow?style=social)
 *   [OpenLM (⭐280)](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript (⭐156)](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
 *   [Dust (⭐561)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
-*   [e2b](https://github.com/kyrolabs/awesome-langchain/blob/main/README.md/): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐5.1k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [SuperAGI (⭐1.5k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
+*   [SmartGPT (⭐1.3k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 
 ## Complement to this list
 

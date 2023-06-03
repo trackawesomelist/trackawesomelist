@@ -1983,6 +1983,7 @@ Tooltips / popovers
 *   [vite-plugin-vue-preview (⭐7)](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
 *   [vue3-calendar-heatmap (⭐45)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
 *   [vue3-code-block (⭐4)](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
+*   [v-image-magnifier (⭐6)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image.
 *   [Everright-filter (⭐2)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 
 #### Tabs
@@ -2670,7 +2671,7 @@ Tooltips / popovers
 
 *   [vue-formly (⭐236)](https://github.com/formly-js/vue-formly) - JavaScript powered forms for Vue.js.
 *   [vue-focus (⭐410)](https://github.com/simplesmiler/vue-focus) - A reusable focus directive for reusable Vue.js components.
-*   [vue-form-generator](https://github.com/icebob/vue-form-generator) - A schema-based form generator component for Vue.js.
+*   [vue-form-generator (⭐2.9k)](https://github.com/icebob/vue-form-generator) - A schema-based form generator component for Vue.js.
 *   [FormSchema Native](https://gitlab.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 *   [ic-formly (⭐9)](https://github.com/InCuca/ic-formly) - Simple form component powered by vue-formly.
 *   [Form Builder (⭐120)](https://github.com/laravel-enso/formbuilder) - Json template based form builder, based on Vue and Laravel.
@@ -2681,7 +2682,7 @@ Tooltips / popovers
 *   [Vue Formulate (⭐2.2k)](https://github.com/wearebraid/vue-formulate) - The easiest way to build forms with Vue. Validation, error handling, form generation, comprehensive documentation, and more.
 *   [Reforms.js (⭐14)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 *   [FormKit (⭐2.9k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
-*   [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
+*   [vrf (⭐9)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 
 ##### Validation
 
@@ -2697,7 +2698,7 @@ Tooltips / popovers
 *   [willvalidate (⭐8)](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
 *   [vue-isyourpasswordsafe (⭐34)](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
 *   [vue-form-send (⭐3)](https://github.com/AlekseyPleshkov/vue-form-send) - A Vue.js directive for sending data from form and primitive validation
-*   [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
+*   [FormVuelar (⭐299)](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 *   [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
 *   [vform (⭐608)](https://github.com/cretueusebiu/vform) - A simple way to handle Laravel back-end validation in Vue.
 *   [vue-form-container (⭐24)](https://github.com/VitorLuizC/vue-form-container) - A `Provider Component` that encapsulates your forms and handles their states and validations.
@@ -3313,7 +3314,7 @@ Tooltips / popovers
 *   [jsx-event-modifiers (⭐45)](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
 *   [jsx-v-model (⭐154)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 *   [vue-jsx-sync (⭐10)](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
-*   [vue2-jsx-runtime](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
+*   [vue2-jsx-runtime (⭐14)](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
 
 #### Migration
 

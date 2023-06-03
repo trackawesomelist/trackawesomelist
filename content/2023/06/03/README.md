@@ -1,24 +1,48 @@
 # Awesome List Updates on Jun 03, 2023
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Open Source Projects / Other / Chatbots
+
+*   [TutorGPT (⭐87)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
+
+### Alternatives / Articles
+
+*   [e2b (⭐5.1k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [SuperAGI (⭐1.5k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
+*   [SmartGPT (⭐1.3k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
+
+## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
+
+### Database
+
+*   [CosId (⭐300)](https://github.com/Ahoo-Wang/CosId) - Universal, flexible, high-performance distributed ID generator.
+
+## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+
+### Tools - Editors & IDEs & Explorers / React
+
+*   [Brangr (⭐0)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
+
+## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Parser / Package managers
 
 *   [Himujjal/zig-json5 (⭐24)](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
 
-## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Reactive Programming
 
 *   [OneWay (⭐52)](https://github.com/DevYeom/OneWay) - A Swift library for state management with unidirectional data flow.
 
-## [3. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [6. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Art & Image Generator
 
@@ -92,7 +116,7 @@
 
 
 
-## [4. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [7. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Standout Projects
 
@@ -102,7 +126,7 @@
 
 *   [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
 
-## [5. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### General
 
@@ -112,16 +136,17 @@
 
 *   [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-global-alert-utility](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
+*   [vue-global-alert-utility (⭐0)](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
+*   [v-image-magnifier (⭐6)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image.
 *   [Everright-filter (⭐2)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 
 ### Components & Libraries / UI Utilities
 
-*   [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
+*   [vrf (⭐9)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 *   [vueginate (⭐0)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 *   [blottie (⭐2)](https://github.com/Applelo/blottie) Lottie component for Vue 3
 *   [TresJs (⭐264)](https://github.com/tresjs/tres): Declarative ThreeJS using Vue Components

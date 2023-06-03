@@ -1,12 +1,24 @@
 # Awesome List Updates on May 29 - Jun 04, 2023
 
-46 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [1. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+
+### Database
+
+*   [CosId (⭐300)](https://github.com/Ahoo-Wang/CosId) - Universal, flexible, high-performance distributed ID generator.
+
+## [2. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+
+### Tools - Editors & IDEs & Explorers / React
+
+*   [Brangr (⭐0)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
+
+## [3. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
@@ -16,7 +28,7 @@
 
 *   [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
 
-## [2. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [4. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### General
 
@@ -26,28 +38,29 @@
 
 *   [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-global-alert-utility](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
+*   [vue-global-alert-utility (⭐0)](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
+*   [v-image-magnifier (⭐6)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image.
 *   [Everright-filter (⭐2)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 
 ### Components & Libraries / UI Utilities
 
-*   [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
+*   [vrf (⭐9)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 *   [vueginate (⭐0)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 *   [blottie (⭐2)](https://github.com/Applelo/blottie) Lottie component for Vue 3
 *   [TresJs (⭐264)](https://github.com/tresjs/tres): Declarative ThreeJS using Vue Components
 *   [Cientos (⭐6)](https://github.com/Tresjs/cientos): Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [Ferrous Systems' Embedded Rust on Espressif](https://esp-rs.github.io/std-training) - Training Material for learning to use Embedded Rust with the Espressif ESP32-C3.
 
-## [5. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [7. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Reactive Programming
 
@@ -57,13 +70,13 @@
 
 *   [AnimatedTabBar (⭐137)](https://github.com/exyte/AnimatedTabBar) - A tabbar with number of preset animations. Written with SwiftUI.
 
-## [6. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [Go Get Crawl (⭐26)](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
 
-## [7. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [9. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Party
 
@@ -79,7 +92,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -97,32 +110,32 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [OctoBot](https://www.octobot.online/) - Open-source cryptocurrency trading bot. ([Source Code (⭐2.1k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
 
-## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript / React
 
 *   [Nextjs Weekly](https://nextjsweekly.com/). A newsletter of the best Next.js articles, tools and projects.
 
-## [10. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
 *   [Column](https://gitlab.com/demonshreder/column)
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [deno-envconfig (⭐2)](https://github.com/fernandolguevara/deno-envconfig) - Configuration management utility.
 
-## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [14. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [COW](https://esolangs.org/wiki/COW) - Brainfuck variant using twelve variations of *moos* as instructions.
 *   [Malbolge](https://esolangs.org/wiki/Malbolge) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -132,19 +145,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [On .NET Live - Micro Frontends with Blazor](https://www.youtube.com/watch?v=t8w_OTkafNE) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 22, 2023 - Have you ever considered writing microservices in Blazor? In this week's episode, community MVP Florian Rappl joins us to talk about micro frontends. He'll show us how to break a Blazor UI into modules for maintainability and development by decoupled teams. ![stars](https://img.shields.io/github/stars/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/piral-samples/netflix-demo?style=flat-square\&cacheSeconds=86400) [Sample repo (⭐14)](https://github.com/piral-samples/netflix-demo). [Demo](https://notflix-demo.samples.piral.cloud/browse).
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [react-vite-tailwindcss-template (⭐0)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
 
-## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI Tools Directories / Contribute to Our Repository
 
 *   [AI Finder](https://ai-finder.net/): repository with more than 1500 AI tools
 
-## [16. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [18. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
@@ -154,13 +167,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Introduction to Digital History](https://wissen-ist-acht.github.io/digitalhistory.intro/) - This guide, created in the fall semester of 2022, accompanies the introductory courses in history at the University of Basel and is intended to provide a first insight into the field of digital history.
 
-## [17. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [19. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Calendar
 
 *   [date-picker-svelte (⭐186)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
-## [18. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [20. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
@@ -168,13 +181,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Imagga Hook (⭐6)](https://github.com/gbicou/directus-extension-imagga) - Hook for file uploads to automatically tag images with [Imagga API](https://imagga.com/).
 *   [Tiptap Interface & Display (⭐21)](https://github.com/gbicou/directus-extension-tiptap) - Tiptap rich text editor interface and display.
 
-## [19. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [21. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### LLMs
 
 *   [Use chatgpt to adjust strategy parameters](https://twitter.com/0xUnicorn/status/1663413848593031170)
 
-## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -188,13 +201,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Ambrosia (⭐50)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 
-## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [23. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Clojure / Non-X86
 
 *   [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K
 
-## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [24. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Ingestion
 
@@ -208,13 +221,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Substation (⭐173)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
-## [23. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [25. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Base Tools / Other
 
 *   [Ofelia (⭐2.4k)](https://github.com/mcuadros/ofelia/) - Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron. Supports configuration from container labels and/or configuration files.
 
-## [24. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -226,13 +239,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Polars – Laziness and SQL Context.](https://www.confessionsofadataguy.com/polars-laziness-and-sql-context/) - A blog post that presents two good reasons to adopt Polars :  Lazy and SQL Context by [@danielbeach](https://github.com/danielbeach).
 *   [Exploring Polars - The Lightning-Fast DataFrame Library in Python ](https://medium.com/@HeCanThink/exploring-polars-the-lightning-fast-dataframe-library-in-python-2d01aa332f70) - A blog post on the basics of Polars by [@mddas](https://github.com/mddas).
 
-## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
 *   [readline (⭐23)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
 
-## [26. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
@@ -242,19 +255,19 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [framebuf2 (⭐3)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
 
-## [27. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [29. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
 *   [pylyzer (⭐626)](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
 
-## [28. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [30. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Tools
 
 *   [ebpf-explorer (⭐7)](https://github.com/ebpfdev/explorer) - A web interface to explore system's maps and programs.
 
-## [29. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Tables
 
@@ -262,7 +275,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [ipyaggrid (⭐25)](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
 *   [ipydatagrid (⭐386)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
 
-## [30. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [32. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Integrations
 
@@ -272,7 +285,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [Increase](https://increase.com/) - Bare-metal banking APIs.
 
-## [31. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [33. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Agents
 
@@ -281,6 +294,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 ### Open Source Projects / Other / Chatbots
 
 *   [WingmanAI (⭐284)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [TutorGPT (⭐87)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 
 ### Learn / Videos
 
@@ -290,7 +304,13 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [GPT your GDrive with LangChain](https://www.haihai.ai/gpt-gdrive/)
 
-## [32. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+### Alternatives / Articles
+
+*   [e2b (⭐5.1k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [SuperAGI (⭐1.5k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
+*   [SmartGPT (⭐1.3k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
+
+## [34. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Network / HTTP
 
@@ -322,7 +342,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [kassane/range (⭐0)](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
 *   [kassane/libzmq (⭐0)](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
 
-## [33. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [35. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / APIs
 
@@ -342,7 +362,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [Linode](https://www.linode.com)
 *   [Hetzner](https://www.hetzner.com)
 
-## [34. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [36. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -355,7 +375,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [pip2nix (⭐110)](https://github.com/nix-community/pip2nix) - A repository-agnostic Python package generator tool.
 
-## [35. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [37. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Art & Image Generator
 
@@ -513,7 +533,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 
 
-## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
@@ -525,7 +545,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
 *   [OpenUtils](https://openutils.org/) - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.
 
-## [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -534,14 +554,14 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 *   [gpt (⭐3)](https://github.com/antonjs/zsh-gpt) - Enable querying ChatGPT from the command line.
 *   [macos-theme (⭐0)](https://github.com/gakimball/zsh-macos-theme) - Adds the theme command, which toggles between light and dark mode in macOS. Requires [lux (⭐27)](https://github.com/pndurette/zsh-lux) plugin.
 
-## [38. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [broot (⭐8.7k)](https://github.com/Canop/broot) - A better way to navigate directories
 *   [tere (⭐1.5k)](https://github.com/mgunyho/tere) - A faster alternative to cd + ls
 
-## [39. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [41. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
@@ -551,7 +571,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 *   [AppImaGen (⭐5)](https://github.com/ivan-hc/AppImaGen) - Generates an AppImage from Debian or from a PPA of your choice for the previous (unfortunately not the oldest as recommended) and still supported Ubuntu LTS.
 
-## [40. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [42. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### CSS Generators:
 
@@ -561,7 +581,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -573,31 +593,31 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
     *   [microsoft/windows-rs (⭐8.5k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
     *   [retep998/winapi-rs (⭐1.7k)](https://github.com/retep998/winapi-rs) — Windows API bindings [![Rust](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml/badge.svg?branch=dev)](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml)
 
-## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
 *   [Cloud Storage (⭐32)](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
 
-## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [45. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [minio/mc :fire::fire::fire::fire::fire: (⭐2.5k)](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
 
-## [44. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
 *   [pgMagic🪄](https://pgmagic.app/?ref=awesomemac) - Chat to Postgres in natural language or SQL.
 
-## [45. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [47. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Development tools
 
 *   [opcode\_count (⭐2)](https://github.com/rondnelson99/opcode_count) - Generates statistics on which CPU instructions are run the most often using Python and Emulicious
 
-## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 

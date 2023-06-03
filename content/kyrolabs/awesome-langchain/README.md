@@ -6,6 +6,18 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jun 03, 2023](/content/2023/06/03/README.md)
+
+### Open Source Projects / Other / Chatbots
+
+*   [TutorGPT (⭐87)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
+
+### Alternatives / Articles
+
+*   [e2b (⭐5.1k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [SuperAGI (⭐1.5k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
+*   [SmartGPT (⭐1.3k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
+
 ## [Jun 02, 2023](/content/2023/06/02/README.md)
 
 ### Tools / Agents
@@ -75,10 +87,6 @@
 
 *   [Create a Code Interpreter Chatbot with Pyodide, LangChain, and OpenAI](https://dylancastillo.co/code-interpreter-chatbot-pyodide-langchain-openai/)
 *   [LangChain has added Cypher Search](https://towardsdatascience.com/langchain-has-added-cypher-search-cb9d821120d5)
-
-### Alternatives / Articles
-
-*   [e2b](https://github.com/kyrolabs/awesome-langchain/blob/main/README.md/): Open-source platform for building & deploying virtual developers’ agents
 
 ## [May 23, 2023](/content/2023/05/23/README.md)
 
