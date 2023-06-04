@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jun 04, 2023](/content/2023/06/04/README.md)
+
+### Components & Libraries / UI Utilities
+
+*   [v-hide (⭐7)](https://github.com/ventralnet/v-hide) - v-hide directive to accompany v-if and v-show. Keeps layout space in the DOM
+
 ## [Jun 03, 2023](/content/2023/06/03/README.md)
 
 ### Components & Libraries / UI Components

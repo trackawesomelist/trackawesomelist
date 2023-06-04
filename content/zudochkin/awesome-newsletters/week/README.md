@@ -12,6 +12,10 @@ A list of amazing Newsletters
 
 *   [Nextjs Weekly](https://nextjsweekly.com/). A newsletter of the best Next.js articles, tools and projects.
 
+### Common Section / Angular
+
+*   [Big Tech Digest](https://bigtechdigest.substack.com/). A manually curated newsletter aggregating the latest tech articles from Big Tech and startup engineering blogs for Software Engineers and AI/ML folks.
+
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
 ### Miscellaneous / Angular
