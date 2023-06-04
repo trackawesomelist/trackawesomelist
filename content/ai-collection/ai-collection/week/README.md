@@ -50,6 +50,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Code & Database Assistant
+
+- Name: [BI.P.EYE](https://bipeye.com/)
+
+  Title: Self Service BI Platform.
+
+  Description: Make data analysis fun and interactive with chat-based charts.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Content Generation & Seo
 
 - Name: [unbound](https://www.unboundcontent.ai/?affiliate=aff_z0krz31)

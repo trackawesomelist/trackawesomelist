@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Aptabase](https://aptabase.com/) - Open Source, Privacy-First and Simple Analytics for Mobile and Desktop apps. SDKs available for Swift, Kotlin, Flutter and many others! ([Source Code (⭐65)](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 
+### Software / Document Management
+
+*   [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐2k)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python`
+
 ## [Jun 02, 2023](/content/2023/06/02/README.md)
 
 ### Software / Communication - Social Networks and Forums
@@ -692,10 +696,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Software Development - Project Management
 
 *   [Cgit](https://git.zx2c4.com/cgit/about/) - A fast lightweight web interface for git repositories. ([Source Code](https://git.zx2c4.com/cgit/tree/)) `GPL-2.0` `C`
-
-### Software / URL Shorteners
-
-*   [Clink](https://short.swurl.xyz/) - Dead-simple, super minimal URL shortener in C. ([Source Code](https://git.swurl.xyz/swirl/clink)) `AGPL-3.0` `C`
 
 ## [Oct 02, 2022](/content/2022/10/02/README.md)
 
@@ -2625,10 +2625,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Database Management
 
 *   [Databunker](https://databunker.org/) - Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ([Source Code (⭐1.1k)](https://github.com/securitybunker/databunker)) `MIT` `Go`
-
-### Software / Document Management
-
-*   [Papermerge](https://www.papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐2k)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python`
 
 ### Software / Document Management - E-books
 

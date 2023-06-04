@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Jun 04, 2023](/content/2023/06/04/README.md)
+
+### Code & Database Assistant
+
+- Name: [BI.P.EYE](https://bipeye.com/)
+
+  Title: Self Service BI Platform.
+
+  Description: Make data analysis fun and interactive with chat-based charts.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Jun 03, 2023](/content/2023/06/03/README.md)
 
 ### Art & Image Generator

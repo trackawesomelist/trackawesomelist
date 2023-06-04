@@ -53,6 +53,7 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ## Utils
 
+*   [Ask Playwright](https://ray.run/ask) - Accurate answers to Playwright questions provided by LLM trained on the latest Playwright documentation.
 *   [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 *   [query-selector-shadow-dom (⭐204)](https://github.com/Georgegriff/query-selector-shadow-dom) - Extend the selectors engine by selecting Shadow DOM roots.
 *   [playwright-fluent (⭐129)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.

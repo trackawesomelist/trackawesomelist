@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jun 04, 2023](/content/2023/06/04/README.md)
+
+### Alternatives / Articles
+
+*   [TermGPT (⭐117)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
+
 ## [Jun 03, 2023](/content/2023/06/03/README.md)
 
 ### Open Source Projects / Other / Chatbots

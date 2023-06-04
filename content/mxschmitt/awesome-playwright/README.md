@@ -6,6 +6,12 @@ A curated list of awesome tools, utils and projects using Playwright
 
 [ Daily / [Weekly](/content/mxschmitt/awesome-playwright/week/README.md) / [Overview](/content/mxschmitt/awesome-playwright/readme/README.md) ]
 
+## [Jun 04, 2023](/content/2023/06/04/README.md)
+
+### Utils
+
+*   [Ask Playwright](https://ray.run/ask) - Accurate answers to Playwright questions provided by LLM trained on the latest Playwright documentation.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Integrations

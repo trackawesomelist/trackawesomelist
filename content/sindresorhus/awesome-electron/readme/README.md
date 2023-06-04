@@ -109,7 +109,7 @@ Made with Electron.
 *   [WebTorrent (⭐9.3k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
 *   [Min (⭐6.6k)](https://github.com/minbrowser/min) - Minimal web browser.
 *   [Hyper (⭐41k)](https://github.com/zeit/hyper) - Terminal.
-*   [Visual Studio Code (⭐146k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [Visual Studio Code (⭐147k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ###### Other
 
@@ -184,6 +184,7 @@ Made with Electron.
 *   [Browserosaurus (⭐1.3k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
 *   [linked (⭐703)](https://github.com/lostdesign/linked) - Daily journal.
 *   [Sigma File Manager (⭐2.1k)](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
+*   [Ostara (⭐173)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 
 ### Closed Source
 
