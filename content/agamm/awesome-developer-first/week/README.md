@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Messaging
+
+*   [Ably](https://ably.com) - Pub/sub, real-time messaging, notifications, chat, multiplayer and data synchronization.
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Integrations
@@ -268,10 +274,6 @@ A curated list of awesome developer-first tools products.
 ### Authentication & Identity
 
 *   [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
-
-### Computer Vision
-
-*   [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications.
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
