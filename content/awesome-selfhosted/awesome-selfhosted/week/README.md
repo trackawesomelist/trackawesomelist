@@ -6,6 +6,24 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Software / Miscellaneous
+
+*   [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐22k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
+
+### Software / Money, Budgeting & Management
+
+*   [Kill Bill](https://killbill.io/) - Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports. ([Source Code (⭐4k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
+
+### Software / Software Development - Project Management
+
+*   [Rukovoditel](https://www.rukovoditel.net/) - Configurable open source project management, web-based application. ([Source Code](https://www.rukovoditel.net/download.php)) `GPL-2.0` `PHP`
+
+### Software / URL Shorteners
+
+*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.jck.cx), [Source Code (⭐49)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Software / Analytics
