@@ -2,7 +2,7 @@
 
 A curated list of awesome TypeDB frameworks libraries, software and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/vaticle/typedb-awesome) · ⭐ 45 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/vaticle/typedb-awesome) · ⭐ 51 · 🏷️ Databases
 
 [ [Daily](/content/vaticle/typedb-awesome/README.md) / [Weekly](/content/vaticle/typedb-awesome/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ A curated list of awesome TypeDB frameworks libraries, software and resources.
 
 > A curated list of awesome TypeDB resources.
 
-[TypeDB (⭐3.2k)](https://github.com/vaticle/typedb) is a strongly-typed database with a rich and logical type system built by [Vaticle](https://vaticle.com). TypeDB empowers you to tackle complex problems using TypeQL, TypeDB's very own query language.
+[TypeDB (⭐3.5k)](https://github.com/vaticle/typedb) is a strongly-typed database with a rich and logical type system built by [Vaticle](https://vaticle.com). TypeDB empowers you to tackle complex problems using TypeQL, TypeDB's very own query language.
 
 ## Contents
 
@@ -52,10 +52,10 @@ A curated list of awesome TypeDB frameworks libraries, software and resources.
 
 ## Example projects
 
-*   [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-examples/tree/master/biology/catalogue_of_life) - Catalogue of Life is a database of over 4.5 million currently known taxa in biology, compiled from over a hundred different sources.
+*   [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-driver-examples/tree/master/biology/catalogue_of_life) - Catalogue of Life is a database of over 4.5 million currently known taxa in biology, compiled from over a hundred different sources.
     TypeDB Loader loads this enormous dataset in so we can elegantly query it with rule-based inference TypeQL queries.
-*   [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/gaming/xcom) - XCOM 2 is a massive sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
-*   [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/software/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
+*   [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-driver-examples/tree/master/gaming/xcom) - XCOM 2 is a massive sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
+*   [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-driver-examples/tree/master/software/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
 
 ## Blog posts
 
@@ -86,10 +86,10 @@ A curated list of awesome TypeDB frameworks libraries, software and resources.
 
 List of officially supported drivers to connect with TypeDB Server.
 
-*   [Client Rust (⭐8)](https://github.com/vaticle/typedb-client-rust)
+*   [Client Rust (⭐10)](https://github.com/vaticle/typedb-client-rust)
 *   [Client Java (⭐16)](https://github.com/vaticle/typedb-client-java)
 *   [Client Node.js (⭐33)](https://github.com/vaticle/typedb-client-nodejs)
-*   [Client Python (⭐62)](https://github.com/vaticle/typedb-client-python)
+*   [Client Python (⭐65)](https://github.com/vaticle/typedb-client-python)
 
 ## Client Drivers (community)
 

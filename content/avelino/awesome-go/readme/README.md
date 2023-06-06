@@ -2850,6 +2850,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Microservice (⭐111)](https://github.com/claygod/microservice) - The framework for the creation of microservices, written in Golang.
 *   [neo (⭐418)](https://github.com/ivpusic/neo) - Neo is minimal and fast Go Web Framework with extremely simple API.
 *   [patron (⭐125)](https://github.com/beatlabs/patron) - Patron is a microservice framework following best cloud practices with a focus on productivity.
+*   [Pnutmux](https://gitlab.com/fruitygo/pnutmux) - Pnutmux is a powerful Go web framework that uses regex for matching and handling HTTP requests. It offers features such as CORS handling, structured logging, URL parameters extraction, middlewares, and concurrency limiting.
 *   [Pulse (⭐36)](https://github.com/gopulse/pulse) - Pulse is an HTTP web framework written in Go (Golang)
 *   [Resoursea (⭐33)](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 *   [REST Layer (⭐1.2k)](https://github.com/rs/rest-layer) - Framework to build REST/GraphQL API on top of databases with mostly configuration over code.

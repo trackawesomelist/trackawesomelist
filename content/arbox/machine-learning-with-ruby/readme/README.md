@@ -197,16 +197,12 @@ programming languages with appropriate bindings for Ruby.
 
 ### Clustering
 
-*   [flann (⭐2k)](https://github.com/mariusmuja/flann) -
-    Fast Library for Approximate Nearest Neighbors. <sup>\[[flann](#flann)]</sup>
 *   [kmeans-clusterer (⭐90)](https://github.com/gbuesing/kmeans-clusterer) -
     k-means clustering in Ruby.
 *   [k\_means (⭐115)](https://github.com/reddavis/K-Means) -
     Attempting to build a fast, memory efficient K-Means program.
 *   [knn (⭐36)](https://github.com/reddavis/knn) -
     Simple K Nearest Neighbour Algorithm.
-*   [annoy-rb (⭐24)](https://github.com/yoshoku/annoy.rb) -
-    bindings for the [Annoy (⭐11k)](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
 
 ### Linear classifiers
 
@@ -240,6 +236,14 @@ programming languages with appropriate bindings for Ruby.
 
 ### Vector search
 
+*   [flann (⭐2k)](https://github.com/mariusmuja/flann) -
+    Ruby bindings for the [FLANN (⭐2k)](https://github.com/flann-lib/flann) (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
+*   [annoy-rb (⭐24)](https://github.com/yoshoku/annoy.rb) -
+    Ruby bindings for the [Annoy (⭐11k)](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
+*   [hnswlib.rb (⭐11)](https://github.com/yoshoku/hnswlib.rb) -
+    Ruby bindings for the [Hnswlib (⭐3.1k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
+*   [ngt-ruby (⭐39)](https://github.com/ankane/ngt-ruby) -
+    Ruby bindings for the [NGT (⭐1k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
 *   [milvus (⭐7)](https://github.com/andreibondarev/milvus) —
     Ruby client for Milvus Vector DB.
 *   [pinecone (⭐31)](https://github.com/ScotterC/pinecone) —

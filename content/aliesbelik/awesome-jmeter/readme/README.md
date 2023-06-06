@@ -24,7 +24,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 <!--lint ignore double-link-->
 
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome (⭐254k)](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/main/README.md/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome (⭐257k)](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/main/README.md/CONTRIBUTORS.md).
 
 ## Contents
 
@@ -240,12 +240,13 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 *   [JtlReporter (⭐93)](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
 *   [JMeter Result Analysis Plugin (⭐56)](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 *   [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) - Web-based application for collating, analysing and reporting JMeter test results.
+*   [JMeter Graph Tool Maven Plugin (⭐7)](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from [JMeter Plugins](#plugins); usually used along with the [JMeter Maven Plugin](#tools--plugins) and  set of ["companion" plugins (⭐7)](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin#compagnion-tools).
 *   DB Results Collectors
     *   [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.
     *   [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
-*   [JMeter SLA Report (⭐38)](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
-*   [JMeter JUnit Reporter (⭐2)](https://github.com/tilln/jmeter-junit-reporter) - Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators).
-*   [JMeter Graph Tool Maven Plugin (⭐7)](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from [JMeter Plugins](#plugins); usually used along with the [JMeter Maven Plugin](#tools--plugins) and  set of ["companion" plugins (⭐7)](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin#compagnion-tools).
+*   SLA and KPIs
+    *   [JMeter SLA Report (⭐38)](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
+    *   [JMeter JUnit Reporter (⭐2)](https://github.com/tilln/jmeter-junit-reporter) - Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators).
 
 ### Reporting & Visualization
 
@@ -345,6 +346,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 *   [How to create a plugin in JMeter](https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 *   [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 *   [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
+*   [Hello JMeter plugin (⭐13)](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
 
 ### IDE Integration
 

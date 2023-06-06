@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Web Frameworks
+
+*   [Pnutmux](https://gitlab.com/fruitygo/pnutmux) - Pnutmux is a powerful Go web framework that uses regex for matching and handling HTTP requests. It offers features such as CORS handling, structured logging, URL parameters extraction, middlewares, and concurrency limiting.
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Standard CLI

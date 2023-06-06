@@ -6,6 +6,12 @@
 
 [ [Daily](/content/dlang-community/awesome-d/README.md) / Weekly / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Tutorials
+
+*   [Let's learn D programming Game Dev!](https://www.youtube.com/watch?v=j-Zm1zgSxMQ\&list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-\&ab_channel=KiRill) - A video series on learning game development with D from Ki Rill. [His channel](https://www.youtube.com/@rillki-dev/) also posts other videos related to D programming.
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Articles / Bare metal / kernel development
@@ -453,7 +459,7 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+*   [collie (⭐58)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
 
 ### Data serialization / Binary Serilization
 

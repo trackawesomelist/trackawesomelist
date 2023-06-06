@@ -6,6 +6,28 @@ Curated list: Resources for machine learning in Ruby
 
 [ Daily / [Weekly](/content/arbox/machine-learning-with-ruby/week/README.md) / [Overview](/content/arbox/machine-learning-with-ruby/readme/README.md) ]
 
+## [Jun 06, 2023](/content/2023/06/06/README.md)
+
+### Machine Learning Libraries / Clustering
+
+*   [kmeans-clusterer (⭐90)](https://github.com/gbuesing/kmeans-clusterer) -
+    k-means clustering in Ruby.
+*   [k\_means (⭐115)](https://github.com/reddavis/K-Means) -
+    Attempting to build a fast, memory efficient K-Means program.
+*   [knn (⭐36)](https://github.com/reddavis/knn) -
+    Simple K Nearest Neighbour Algorithm.
+
+### Machine Learning Libraries / Vector search
+
+*   [flann (⭐2k)](https://github.com/mariusmuja/flann) -
+    Ruby bindings for the [FLANN (⭐2k)](https://github.com/flann-lib/flann) (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
+*   [annoy-rb (⭐24)](https://github.com/yoshoku/annoy.rb) -
+    Ruby bindings for the [Annoy (⭐11k)](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
+*   [hnswlib.rb (⭐11)](https://github.com/yoshoku/hnswlib.rb) -
+    Ruby bindings for the [Hnswlib (⭐3.1k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
+*   [ngt-ruby (⭐39)](https://github.com/ankane/ngt-ruby) -
+    Ruby bindings for the [NGT (⭐1k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Machine Learning Libraries / Frameworks

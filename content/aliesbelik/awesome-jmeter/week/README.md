@@ -6,6 +6,12 @@ A collection of resources covering different aspects of JMeter usage.
 
 [ [Daily](/content/aliesbelik/awesome-jmeter/README.md) / Weekly / [Overview](/content/aliesbelik/awesome-jmeter/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Tools / Extending JMeter
+
+*   [Hello JMeter plugin (⭐13)](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Automation / Frameworks

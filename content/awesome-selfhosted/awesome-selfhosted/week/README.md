@@ -16,6 +16,14 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Kill Bill](https://killbill.io/) - Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports. ([Source Code (⭐4k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
 
+### Software / Pastebins
+
+*   [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐170)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
+
+### Software / Photo and Video Galleries
+
+*   [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://demo.memories.gallery/apps/memories/), [Source Code (⭐1.4k)](https://github.com/pulsejet/memories)) `AGPL-3.0` `PHP`
+
 ### Software / Software Development - Project Management
 
 *   [Rukovoditel](https://www.rukovoditel.net/) - Configurable open source project management, web-based application. ([Source Code](https://www.rukovoditel.net/download.php)) `GPL-2.0` `PHP`
@@ -228,7 +236,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Photo and Video Galleries
 
-*   [Nextcloud Memories (⭐1.4k)](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://memories-demo.radialapps.com/)) `AGPL-3.0` `PHP`
 *   [SPIS (⭐11)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Rust`
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
@@ -1778,10 +1785,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Groupware
 
 *   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐120)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
-
-### Software / Pastebins
-
-*   [Pastefy](https://pastefy.ga) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐170)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
 
 ### List of Licenses / Wikis
 

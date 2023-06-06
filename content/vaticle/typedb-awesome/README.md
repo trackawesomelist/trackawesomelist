@@ -2,16 +2,18 @@
 
 A curated list of awesome TypeDB frameworks libraries, software and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/vaticle/typedb-awesome) · ⭐ 45 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/vaticle/typedb-awesome) · ⭐ 51 · 🏷️ Databases
 
 [ Daily / [Weekly](/content/vaticle/typedb-awesome/week/README.md) / [Overview](/content/vaticle/typedb-awesome/readme/README.md) ]
 
-## [Jul 28, 2022](/content/2022/07/28/README.md)
+## [Jun 06, 2023](/content/2023/06/06/README.md)
 
 ### Example projects
 
-*   [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/gaming/xcom) - XCOM 2 is a massive sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
-*   [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/software/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
+*   [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-driver-examples/tree/master/biology/catalogue_of_life) - Catalogue of Life is a database of over 4.5 million currently known taxa in biology, compiled from over a hundred different sources.
+    TypeDB Loader loads this enormous dataset in so we can elegantly query it with rule-based inference TypeQL queries.
+*   [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-driver-examples/tree/master/gaming/xcom) - XCOM 2 is a massive sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
+*   [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-driver-examples/tree/master/software/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
 
 ## [Jul 26, 2022](/content/2022/07/26/README.md)
 
@@ -35,11 +37,6 @@ A curated list of awesome TypeDB frameworks libraries, software and resources.
 *   [`Client API`](https://docs.vaticle.com/docs/client-api/overview)
 *   [`TypeDB Studio`](https://docs.vaticle.com/docs/studio/overview)
 
-### Example projects
-
-*   [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-examples/tree/master/biology/catalogue_of_life) - Catalogue of Life is a database of over 4.5 million currently known taxa in biology, compiled from over a hundred different sources.
-    TypeDB Loader loads this enormous dataset in so we can elegantly query it with rule-based inference TypeQL queries.
-
 ### Blog posts
 
 *   [What is a Knowledge Graph?](https://blog.vaticle.com/what-is-a-knowledge-graph-5234363bf7f5)
@@ -57,10 +54,10 @@ A curated list of awesome TypeDB frameworks libraries, software and resources.
 
 ### Client Drivers (official)
 
-*   [Client Rust (⭐8)](https://github.com/vaticle/typedb-client-rust)
+*   [Client Rust (⭐10)](https://github.com/vaticle/typedb-client-rust)
 *   [Client Java (⭐16)](https://github.com/vaticle/typedb-client-java)
 *   [Client Node.js (⭐33)](https://github.com/vaticle/typedb-client-nodejs)
-*   [Client Python (⭐62)](https://github.com/vaticle/typedb-client-python)
+*   [Client Python (⭐65)](https://github.com/vaticle/typedb-client-python)
 
 ### Client Drivers (community)
 
