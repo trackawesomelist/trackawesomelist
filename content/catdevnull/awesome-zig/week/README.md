@@ -6,6 +6,17 @@ A list of awesome projects related to Zig
 
 [ [Daily](/content/catdevnull/awesome-zig/README.md) / Weekly / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### C/C++ libraries packaged for Zig / C
+
+*   [kassane/wolfssl (⭐0)](https://github.com/kassane/wolfssl) - wolfssl library.
+
+### C/C++ libraries packaged for Zig / C++
+
+*   [kassane/intrusive (⭐0)](https://github.com/kassane/intrusive) - (boost-intrusive) intrusive containers (header-only, C++03/11/14).
+*   [kassane/range-v3 (⭐0)](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Network / HTTP
@@ -20,22 +31,21 @@ A list of awesome projects related to Zig
 
 *   [andrewrk/SDL (⭐19)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
 *   [andrewrk/ffmpeg (⭐21)](https://github.com/andrewrk/ffmpeg) - library only.
-*   [andrewrk/libgroove (⭐277)](https://github.com/andrewrk/libgroove)
-*   [andrewrk/libsoundio (⭐1.7k)](https://github.com/andrewrk/libsoundio/tree/zig-pkg)
+*   [andrewrk/libgroove (⭐277)](https://github.com/andrewrk/libgroove) - streaming audio processing library.
+*   [andrewrk/libsoundio (⭐1.7k)](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - library for real-time audio input and output.
 *   [kassane/openssl (⭐1)](https://github.com/kassane/openssl) - crypto, providers & ssl libraries only.
 *   [kassane/libbpf (⭐0)](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
-*   [kassane/winpthreads (⭐3)](https://github.com/kassane/winpthreads-zigbuild) - MinGW pthread library.
+*   [kassane/winpthreads (⭐3)](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
 
 ### C/C++ libraries packaged for Zig / C++
 
-*   [andrewrk/libchromaprint (⭐0)](https://github.com/andrewrk/libchromaprint)
+*   [andrewrk/libchromaprint (⭐0)](https://github.com/andrewrk/libchromaprint) - library for generating audio fingerprints used by AcoustID.
 *   [kassane/asio (⭐1)](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
-*   [kassane/fmt (⭐0)](https://github.com/kassane/fmt)
-*   [kassane/hana (⭐0)](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).>
+*   [kassane/fmt (⭐0)](https://github.com/kassane/fmt) - Modern formatting library.
+*   [kassane/hana (⭐0)](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
 *   [kassane/catch2 (⭐0)](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
 *   [kassane/outcome (⭐0)](https://github.com/kassane/outcome) - (non-boost) Error handler (C++14/17/20).
 *   [kassane/json (⭐0)](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
-*   [kassane/range (⭐0)](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
 *   [kassane/libzmq (⭐0)](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)

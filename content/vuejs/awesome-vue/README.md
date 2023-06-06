@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jun 06, 2023](/content/2023/06/06/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue3-form-wizard (⭐16)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
+
 ## [Jun 04, 2023](/content/2023/06/04/README.md)
 
 ### Components & Libraries / UI Utilities

@@ -6,6 +6,12 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 [ Daily / [Weekly](/content/vsouza/awesome-ios/week/README.md) / [Overview](/content/vsouza/awesome-ios/readme/README.md) ]
 
+## [Jun 06, 2023](/content/2023/06/06/README.md)
+
+### Messaging
+
+*   [ExyteChat (⭐134)](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
+
 ## [Jun 03, 2023](/content/2023/06/03/README.md)
 
 ### Reactive Programming
