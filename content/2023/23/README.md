@@ -1,42 +1,111 @@
 # Awesome List Updates on Jun 05 - Jun 11, 2023
 
-24 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### General Search
+
+*   [Aol](https://search.aol.com) - The web for America.
+*   [Ask](https://www.ask.com) - Ask something and get a answer.
+*   [Bing](https://www.bing.com) - Microsoft´s search engine.
+*   [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
+*   [Google Search](https://www.google.com) - Most popular search engine.
+*   [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
+*   [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
+*   [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
+*   [SurfCanyon](https://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
+*   [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
+    algorithms, knowledgebase and AI technology.
+*   [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
+*   [YOU](https://you.com) - AI search engine.
+
+### Visual Search and Clustering Search Engines
+
+*   [Carrot2](https://search.carrot2.org) - Organizes your search results into topics.
+
+### Language Tools / Telegram
+
+*   see the [Awesome Translations list (⭐79)](https://github.com/mbiesiad/awesome-translations#tools)
+
+### Image Search / Telegram
+
+*   [Baidu Images](https://image.baidu.com)
+*   [Bing Images](https://www.bing.com/images)
+*   [Clarify](https://clarify.io)
+*   [Flickr](https://flickr.com/search/)
+*   [Lycos Image Search](https://search.lycos.com)
+*   [PhotoBucket](https://photobucket.com)
+*   [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces.
+
+### Stock Images / Telegram
+
+*   See the [Awesome Stock Resources (⭐12k)](https://github.com/neutraltone/awesome-stock-resources) list.
+
+## [2. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+
+### Development tools
+
+*   [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git) - A self-hosting Small-C Compiler Toolkit for DOS(8086) with: K\&R C Compiler, Make, Linker, Assembler. First released in 1982 by Jim E. Hendrix.
+
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Libraries / Python
+
+*   [gtfs-segments (⭐11)](https://github.com/UTEL-UIUC/gtfs_segments) - Python package that represents GTFS data for buses in a concise tabular manner using segments.
+
+### GTFS Timetable Publishing Tools / Ruby
+
+*   [Timetable Kit (⭐19)](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit (⭐5)](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
+
+## [4. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+
+### Collaborative Web Editors
+
+*   [CryptPad](https://cryptpad.org/) CryptPad is a collaborative office suite that is end-to-end encrypted and open-source. It provides a full-fledged office suite with all the tools necessary for productive collaboration. Applications include: Rich Text, Spreadsheets, Code/Markdown, Kanban, Slides, Whiteboard and Forms.
+
+## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+
+### Item Resource Files
+
+*   [Sitecore IAR Management (⭐0)](https://github.com/GAAOPS/Sitecore.IAR.Management) - PowerShell script for managing Item as resources.
+*   [Sitecore Item as Resource Explorer (⭐1)](https://github.com/GAAOPS/Sitecore.Protobuf.Browser) - WPF application which allows you to browse the Sitecore static databases files (.dat)
+
+## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tools / Extending JMeter
 
 *   [Hello JMeter plugin (⭐13)](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
 
-## [2. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [7. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
 *   [Let's learn D programming Game Dev!](https://www.youtube.com/watch?v=j-Zm1zgSxMQ\&list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-\&ab_channel=KiRill) - A video series on learning game development with D from Ki Rill. [His channel](https://www.youtube.com/@rillki-dev/) also posts other videos related to D programming.
 
-## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Web Frameworks
 
 *   [Pnutmux](https://gitlab.com/fruitygo/pnutmux) - Pnutmux is a powerful Go web framework that uses regex for matching and handling HTTP requests. It offers features such as CORS handling, structured logging, URL parameters extraction, middlewares, and concurrency limiting.
 
-## [4. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [9. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Exporters / Databases
 
 *   [Consul exporter (⭐402)](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
 
-## [5. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   ~~[Ferment ☠️ ☠️](https://github.com/mmckegg/ferment)~~: P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
 
-## [6. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [11. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
@@ -46,7 +115,7 @@
 
 *   [Phala Network](https://phala.network/) - A decentralized off-chain compute infrastructure for Web3 development.
 
-## [7. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [12. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Example projects
 
@@ -55,7 +124,7 @@
 *   [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-driver-examples/tree/master/gaming/xcom) - XCOM 2 is a massive sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
 *   [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-driver-examples/tree/master/software/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
 
-## [8. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Clustering
 
@@ -77,7 +146,7 @@
 *   [ngt-ruby (⭐39)](https://github.com/ankane/ngt-ruby) -
     Ruby bindings for the [NGT (⭐1k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
 
-## [9. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [14. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### C/C++ libraries packaged for Zig / C
 
@@ -88,50 +157,65 @@
 *   [kassane/intrusive (⭐0)](https://github.com/kassane/intrusive) - (boost-intrusive) intrusive containers (header-only, C++03/11/14).
 *   [kassane/range-v3 (⭐0)](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
 
-## [10. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Messaging
 
 *   [ExyteChat (⭐134)](https://github.com/exyte/Chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [17. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Vaults & Vows](https://ludicpen.itch.io/vaults-and-vows) - Classic fantasy roleplaying supplement
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
+
+### Projects Using Vue.js / Commercial Products
+
+*   [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
 
 ### Components & Libraries / UI Components
 
 *   [vue3-form-wizard (⭐16)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
 
-## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+### Components & Libraries / Integrations
+
+*   [hugoVueSFC (⭐0)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
+
+## [19. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Application
 
 *   [Zilla (⭐155)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Validations
 
 *   [goal (⭐31)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
 
-## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [21. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Messaging
 
 *   [Ably](https://ably.com) - Pub/sub, real-time messaging, notifications, chat, multiplayer and data synchronization.
 
-## [17. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [22. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### Using ChatGPT in other apps
 
@@ -150,13 +234,13 @@
 *   [Add widescreen + full-window modes to ChatGPT](https://chatgptevo.com/widescreen)
 *   [Auto-clear ChatGPT history for more privacy](https://chatgptevo.com/autoclear)
 
-## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [23. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
 *   [Everright-formEditor (⭐235)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -182,7 +266,7 @@
 
 *   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.jck.cx), [Source Code (⭐49)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
 
-## [20. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [25. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Online Tools:
 
@@ -192,13 +276,13 @@
 
 
 
-## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Code Runner / Diagnostics
 
 *   [milanglacier/yarepl.nvim (⭐27)](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
 
-## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Distributed Filesystems
 
@@ -220,14 +304,14 @@
 *   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐506)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
 *   [Telegraf (⭐13k)](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
-## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [fast-alias-tips (⭐0)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐711)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐59)](https://github.com/sei40kr/zsh-fast-alias-tips).
 *   [iterm2-shell-integration (⭐34)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
 
-## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [29. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / D
 

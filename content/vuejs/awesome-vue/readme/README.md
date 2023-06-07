@@ -946,6 +946,7 @@
 *   [vue-daisyui-theme-manager (⭐2)](https://github.com/kaandesu/vue-daisyui-theme-manager) - A Vue3 (with Typescript) plugin that allows you to change DaisyUI themes during runtime. As well as, setting default light and dark themes, and giving the option to match the web app theme with the system.
 *   [Overlay (⭐95)](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 *   [activist.org/](https://activist.org/) - Open-source, nonprofit activism platform.
+*   [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
 
 ### Commercial Products
 
@@ -973,6 +974,7 @@
 *   [KodaDot (⭐458)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 *   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 *   [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
+*   [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
 
 ### Apps/Websites
 
@@ -3411,6 +3413,7 @@ Payment utilities.
 *   [vue-tweet (⭐31)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 *   [vue-dapp (⭐155)](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
 *   [vue3-recaptcha2 (⭐23)](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
+*   [hugoVueSFC (⭐0)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
 
 #### Vue CLI Plugins
 

@@ -8,9 +8,21 @@
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
+### Projects Using Vue.js / Open Source
+
+*   [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
+
+### Projects Using Vue.js / Commercial Products
+
+*   [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
+
 ### Components & Libraries / UI Components
 
 *   [vue3-form-wizard (⭐16)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
+
+### Components & Libraries / Integrations
+
+*   [hugoVueSFC (⭐0)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 

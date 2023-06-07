@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jun 07, 2023](/content/2023/06/07/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
+
+### Projects Using Vue.js / Commercial Products
+
+*   [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
+
+### Components & Libraries / Integrations
+
+*   [hugoVueSFC (⭐0)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
+
 ## [Jun 06, 2023](/content/2023/06/06/README.md)
 
 ### Components & Libraries / UI Components

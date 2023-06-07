@@ -6,6 +6,12 @@ Curated list of references for development of DOS applications.
 
 [ Daily / [Weekly](/content/balintkissdev/awesome-dos/week/README.md) / [Overview](/content/balintkissdev/awesome-dos/readme/README.md) ]
 
+## [Jun 07, 2023](/content/2023/06/07/README.md)
+
+### Development tools
+
+*   [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git) - A self-hosting Small-C Compiler Toolkit for DOS(8086) with: K\&R C Compiler, Make, Linker, Assembler. First released in 1982 by Jim E. Hendrix.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Videos / Sound Blaster/OPL3
