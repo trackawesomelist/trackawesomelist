@@ -41,8 +41,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 ### Official Resources
 
 *   [Documentation](https://vitejs.dev/)
-*   [GitHub Repo (⭐56k)](https://github.com/vitejs/vite)
-*   [Release Notes (⭐56k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [GitHub Repo (⭐57k)](https://github.com/vitejs/vite)
+*   [Release Notes (⭐57k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 *   [Vue 3 Docs](https://vuejs.org/)
 *   [Awesome Vue (⭐69k)](https://github.com/vuejs/awesome-vue)
 *   [Migration from v2](https://vitejs.dev/guide/migration.html)
@@ -51,7 +51,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 ## Get Started
 
-*   [create-vite (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐57k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 *   [create-vitawind (⭐123)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 *   [create-electron-vite (⭐52)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 *   [create-vite-app (⭐151)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
@@ -134,7 +134,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 *   [vite-vue2-windicss-starter (⭐182)](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 *   [vite-ts-vue2-todo (⭐46)](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - Vue2 + ts + Vue-Router3 + Pinia1 + Composition API.
-*   [vite-vue2-ts-starter (⭐29)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
+*   [vite-vue2-ts-starter (⭐29)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 *   [vite-vue2-ts-vuetify-starter (⭐75)](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 *   [vite-vue2-ts-template-starter (⭐7)](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
 *   [vitify-admin (⭐87)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
@@ -249,7 +249,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Integrations
 
-*   [@vitejs/plugin-legacy (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐57k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 *   [vite-plugin-pwa (⭐2k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 *   [vite-plugin-windicss (⭐834)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 *   [vite-plugin-node (⭐739)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
@@ -293,7 +293,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-assemblyscript-asc (⭐11)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
 *   [vite-plugin-qiniu-oss (⭐5)](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 *   [vite-plugin-stylelint (⭐18)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
-*   [Vite-plugin-graphiql (⭐4)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+*   [Vite-plugin-graphiql (⭐4)](https://github.com/mammadataei/vite-plugin-graphiql) - Integration for GraphiQL IDE.
 *   [vite-plugin-graphql-server (⭐5)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 *   [vite-plugin-multiple (⭐2)](https://github.com/vite-plugin/vite-plugin-multiple) - Allow multiple Vite to run simultaneously.
 *   [vite-plugin-target (⭐3)](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
@@ -330,7 +330,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-copy-files (⭐6)](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
 *   [vite-plugin-progress (⭐172)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
 *   [vite-plugin-importus (⭐16)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
-*   [vite-plugin-build (⭐40)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+*   [vite-plugin-build (⭐40)](https://github.com/samonxian/vite-plugin-build) - Transform the whole folder in library mode.
 *   [vite-plugin-zip-file (⭐8)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 *   [vite-plugin-zip-pack (⭐8)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 *   [vite-plugin-cp (⭐36)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
@@ -378,10 +378,11 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [@vituum/vite-plugin-juice (⭐2)](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
 *   [vite-plugin-setting-css-module (⭐3)](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
 *   [vite-plugin-version-mark (⭐9)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
-*   [vite-plugin-css-export (⭐14)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
+*   [vite-plugin-css-export (⭐14)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JavaScript, and support nested rules.
 *   [vite-plugin-optimize-css-modules (⭐9)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 *   [Vite-plugin-haxe (⭐2)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 *   [vite-plugin-leader-line (⭐0)](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
+*   [vite-plugin-generate-html (⭐0)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
 
 #### Helpers
 
@@ -462,8 +463,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-*   ![v3] [@vitejs/plugin-vue (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
-*   ![v3] [@vitejs/plugin-vue-jsx (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v3] [@vitejs/plugin-vue (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v3] [@vitejs/plugin-vue-jsx (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v2] [@vitejs/plugin-vue2 (⭐466)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
+*   ![v2] [@vitejs/plugin-vue2-jsx (⭐41)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
 *   ![v2] [vite-plugin-vue2 (⭐611)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 *   ![v2] [unplugin-vue2-script-setup (⭐559)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
@@ -510,7 +513,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Official
 
-*   [@vitejs/plugin-react (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
+*   [@vitejs/plugin-react (⭐298)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react-swc (⭐467)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
 #### Presets
 
@@ -755,7 +759,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [îles (⭐964)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 *   [Astro (⭐31k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 *   [Hathora (⭐518)](https://github.com/hathora/hathora) - Multiplayer game framework.
-*   [Nhost (⭐6.6k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 *   [Ladle (⭐2.1k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐306)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐122)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.

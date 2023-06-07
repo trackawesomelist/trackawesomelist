@@ -1,12 +1,59 @@
 # Awesome List Updates on Jun 07, 2023
 
-7 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+
+### Apps / Productivity
+
+*   [Annotator (⭐161)](https://github.com/phase1geo/Annotator) - Annotate images for better communication.
+*   [Minder (⭐826)](https://github.com/phase1geo/Minder) - Mind-mapping application.
+*   [Outliner (⭐53)](https://github.com/phase1geo/Outliner) - Write outlines easily.
+*   [TextShine (⭐15)](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Utilities / Menu Bar Tools
+
+*   [TextSniper](https://textsniper.app/) - Simple yet powerful OCR app in your Menu Bar. Instantly copy and paste text from anywhere. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1528890965)
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-generate-html (⭐0)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
+
+### Vue / Integrations
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐466)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐41)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
+
+### React / Official
+
+*   [@vitejs/plugin-react (⭐298)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react-swc (⭐467)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
+
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [show-git-user (⭐2)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
+*   [wsl (⭐0)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
+*   [zsh-watch (⭐0)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
+
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Authentication & Identity
+
+*   [Corbado](https://corbado.com) - Passkey-first authentication as a service.
+
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### General Search
 
@@ -46,13 +93,13 @@
 
 *   See the [Awesome Stock Resources (⭐12k)](https://github.com/neutraltone/awesome-stock-resources) list.
 
-## [2. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [7. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
 *   [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git) - A self-hosting Small-C Compiler Toolkit for DOS(8086) with: K\&R C Compiler, Make, Linker, Assembler. First released in 1982 by Jim E. Hendrix.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -60,7 +107,7 @@
 *   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 
-## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Libraries / Python
 
@@ -70,7 +117,7 @@
 
 *   [Timetable Kit (⭐19)](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit (⭐5)](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -84,13 +131,13 @@
 
 *   [hugoVueSFC (⭐0)](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
 
-## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Collaborative Web Editors
 
 *   [CryptPad](https://cryptpad.org/) CryptPad is a collaborative office suite that is end-to-end encrypted and open-source. It provides a full-fledged office suite with all the tools necessary for productive collaboration. Applications include: Rich Text, Spreadsheets, Code/Markdown, Kanban, Slides, Whiteboard and Forms.
 
-## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Item Resource Files
 

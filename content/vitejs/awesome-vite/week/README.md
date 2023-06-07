@@ -6,6 +6,24 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-generate-html (⭐0)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
+
+### Vue / Integrations
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐229)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐466)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐41)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
+
+### React / Official
+
+*   [@vitejs/plugin-react (⭐298)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react-swc (⭐467)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Templates / React
@@ -178,7 +196,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [Vite-plugin-graphiql (⭐4)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+*   [Vite-plugin-graphiql (⭐4)](https://github.com/mammadataei/vite-plugin-graphiql) - Integration for GraphiQL IDE.
 *   [vite-plugin-graphql-server (⭐5)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 
 ### Framework-agnostic Plugins / Bundling
@@ -281,7 +299,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-css-export (⭐14)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
+*   [vite-plugin-css-export (⭐14)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JavaScript, and support nested rules.
 *   [vite-plugin-optimize-css-modules (⭐9)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 
 ### Framework-agnostic Plugins / Helpers
@@ -535,7 +553,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-build (⭐40)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+*   [vite-plugin-build (⭐40)](https://github.com/samonxian/vite-plugin-build) - Transform the whole folder in library mode.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -701,7 +719,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐6.6k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
@@ -936,7 +954,7 @@
 
 ### Templates / Vue 2
 
-*   [vite-vue2-ts-starter (⭐29)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
+*   [vite-vue2-ts-starter (⭐29)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 
 ### Templates / React
 
@@ -1075,11 +1093,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
-
-### Vue / Integrations
-
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+*   [@vitejs/plugin-legacy (⭐57k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ### Svelte / Integrations
 
@@ -1214,10 +1228,6 @@
 
 *   [vitespa (⭐36)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
 
-### React / Official
-
-*   [@vitejs/plugin-react (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
-
 ## [Sep 20 - Sep 26, 2021](/content/2021/38/README.md)
 
 ### Templates / Vue 3
@@ -1313,7 +1323,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐57k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -1516,7 +1526,6 @@
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐56k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
 *   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2 (⭐611)](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 
 ### Vue / Routing
@@ -1613,7 +1622,7 @@
 
 ### Official Resources
 
-*   [Release Notes (⭐56k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐57k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### React / Loaders
 
@@ -1668,7 +1677,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐56k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐57k)](https://github.com/vitejs/vite)
 *   [Awesome Vue (⭐69k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community

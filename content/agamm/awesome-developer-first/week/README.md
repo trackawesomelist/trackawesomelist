@@ -8,6 +8,10 @@ A curated list of awesome developer-first tools products.
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
+### Authentication & Identity
+
+*   [Corbado](https://corbado.com) - Passkey-first authentication as a service.
+
 ### Messaging
 
 *   [Ably](https://ably.com) - Pub/sub, real-time messaging, notifications, chat, multiplayer and data synchronization.
