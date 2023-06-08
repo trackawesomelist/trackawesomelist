@@ -1,24 +1,63 @@
 # Awesome List Updates on Jun 08, 2023
 
-6 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Interpreters/Compilers
+
+*   [vfuck (⭐1)](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Cryptocurrencies
+
+*   [svm-rs (⭐146)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
+
+### Applications / Utilities
+
+*   [nix-community/nix-melt (⭐109)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
+
+### Libraries / Scripting
+
+*   [KusionStack/kcl (⭐575)](https://github.com/KusionStack/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+
+## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+### Command-Line Tools / Discovery
+
+*   [nix-melt (⭐109)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Hypertechniques / Deforum
+
+*   \[🔥🔥🔥] [Parseq](https://sd-parseq.web.app): parameter sequencer for Stable Diffusion [\[Youtube Tutorials\]](https://www.youtube.com/playlist?list=PLXbx1PHKHwIHsYFfb5lq2wS8g1FKz6aP8)
+*   [deforum-art/sd-webui-deforum (⭐1.6k)](https://github.com/deforum-art/sd-webui-deforum): Deforum extension for AUTOMATIC1111's Stable Diffusion webui [\[wiki docs\] (⭐1.6k)](https://github.com/deforum-art/sd-webui-deforum/wiki)
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Money, Budgeting & Management
+
+*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code](https://github.com/bitcart)) `MIT` `Docker/Python/Nodejs`
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scripting
 
 *   [pocketpy (⭐984)](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Web Frameworks
 
 *   [Don (⭐20)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
 
-## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Development / Frameworks and Libraries
 
@@ -33,13 +72,13 @@
 *   [Voxels](https://www.voxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 *   [Ozone Metaverse](https://ozonemetaverse.io/) - A spatial computing cloud platform offering world creation tools with Web3 integrations and monetization.
 
-## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [9. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Action
 
 *   [re3 (⭐169)](https://github.com/halpz/re3) - Reversed source code for GTA III and GTA: Vice City.
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
@@ -49,7 +88,7 @@
 
 *   [8 Free and Open Source Blazor UI Libraries](https://www.claudiobernasconi.ch/2023/05/25/8-free-and-open-source-blazor-ui-libraries) - May 25, 2023 - List of available free and open-source user interface libraries for Blazor development.
 
-## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 

@@ -6,6 +6,12 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Command-Line Tools / Discovery
+
+*   [nix-melt (⭐109)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Resources / Learning
@@ -21,11 +27,11 @@
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
-### Installation Media / Newsletters
+### Installation Media / Discovery
 
 *   [nixos-infect (⭐788)](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [Devbox (⭐5.2k)](https://github.com/jetpack-io/devbox) - Instant, portable, and predictable development environments.
 *   [flox (⭐415)](https://github.com/flox/flox) - Manage and share development environments, package projects, and publish artifacts anywhere.
@@ -40,13 +46,13 @@
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
-### Installation Media / Newsletters
+### Installation Media / Discovery
 
 *   [nix-installer (⭐540)](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [deadnix (⭐253)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 
@@ -56,11 +62,11 @@
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [bento (⭐116)](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [nix-init (⭐403)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
 
@@ -80,29 +86,29 @@
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
-### Virtualisation / Newsletters
+### Virtualisation / Discovery
 
 *   [extra-container (⭐141)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
 *   [microvm (⭐474)](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [nurl (⭐222)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [nil (⭐606)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 *   [nix-update (⭐205)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [Nixinate (⭐127)](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
-### DevOps / Newsletters
+### DevOps / Discovery
 
 *   [Standard (⭐251)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
@@ -114,17 +120,17 @@
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [nix-du (⭐210)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [nvd](https://gitlab.com/khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [flake-utils-plus (⭐348)](https://github.com/gytis-ivaskevicius/flake-utils-plus) - A lightweight Nix library flake for painless NixOS flake configuration.
 
@@ -139,11 +145,11 @@
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [manix (⭐256)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [flake.parts (⭐318)](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 
@@ -153,13 +159,13 @@
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [nixpkgs-hammering (⭐187)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [dream2nix (⭐507)](https://github.com/nix-community/dream2nix) - A framework for automatically converting packages from other build systems to Nix.
 *   [rnix-lsp (⭐611)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
@@ -174,16 +180,16 @@
 
 *   [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [Nixery (⭐1.5k)](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [comma (⭐675)](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 *   [nix-diff (⭐235)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [lorri (⭐493)](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
 
@@ -202,7 +208,7 @@
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [alejandra (⭐388)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 
@@ -214,7 +220,7 @@
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
-### DevOps / Newsletters
+### DevOps / Discovery
 
 *   [Makes (⭐299)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 
@@ -225,7 +231,7 @@
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
-### Channel History / Newsletters
+### Channel History / Discovery
 
 *   [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.
 
@@ -242,7 +248,7 @@
 
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [robotnix (⭐441)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
 
@@ -258,11 +264,11 @@
 
 *   [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [deploy-rs (⭐773)](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [nix-alien (⭐224)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
@@ -290,7 +296,7 @@
 
 *   [Pkgs on Nix](https://pkgs.on-nix.com/) - A database with Nix packages at all versions, from all channels.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [statix (⭐377)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
@@ -312,11 +318,11 @@
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
 
-### Channel History / Newsletters
+### Channel History / Discovery
 
 *   [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [devshell (⭐794)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
 *   [flake-utils (⭐681)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
@@ -348,28 +354,28 @@
 
 ## [Apr 12 - Apr 18, 2021](/content/2021/15/README.md)
 
-### Installation Media / Newsletters
+### Installation Media / Discovery
 
 *   [nixos-up (⭐188)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [pushnix (⭐26)](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [nixpkgs-fmt (⭐430)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 *   [nix-tree (⭐381)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [Colmena (⭐558)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [pre-commit-hooks.nix (⭐313)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
@@ -392,20 +398,16 @@
 
 *   [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories.
 
-### Resources / Newsletters
-
-*   [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates.
-
-### Installation Media / Newsletters
+### Installation Media / Discovery
 
 *   [nixos-generators (⭐919)](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 
-### Channel History / Newsletters
+### Channel History / Discovery
 
 *   [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 *   [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
 *   [KubeNix (⭐296)](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
@@ -413,13 +415,13 @@
 *   [NixOps (⭐1.3k)](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
 *   [terraform-nixos (⭐251)](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 
-### Command-Line Tools / Newsletters
+### Command-Line Tools / Discovery
 
 *   [nixfmt (⭐379)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 *   [nix-index (⭐508)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 *   [nix-prefetch (⭐86)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 
-### Development / Newsletters
+### Development / Discovery
 
 *   [Arion (⭐410)](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
 *   [cached-nix-shell (⭐149)](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
@@ -471,7 +473,7 @@
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
-### Virtualisation / Newsletters
+### Virtualisation / Discovery
 
 *   [nixos-shell (⭐413)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
@@ -489,7 +491,7 @@
 
 ## [Sep 16 - Sep 22, 2019](/content/2019/37/README.md)
 
-### Deployment Tools / Newsletters
+### Deployment Tools / Discovery
 
 *   [morph (⭐615)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.

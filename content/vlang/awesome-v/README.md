@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jun 08, 2023](/content/2023/06/08/README.md)
+
+### Interpreters/Compilers
+
+*   [vfuck (⭐1)](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Command-line
@@ -203,8 +209,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Command-line
 
 *   [HN-top (⭐22)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-*   [portctl (⭐4)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 *   [klonol (⭐21)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
+*   [portctl (⭐4)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 *   [runner (⭐24)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 *   [symlinker (⭐8)](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 *   [vast (⭐25)](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
@@ -228,9 +234,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Interpreters/Compilers
 
 *   [monkey\_v (⭐37)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
+*   [v (⭐34k)](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
 *   [vbf (⭐18)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 *   [vcc (⭐93)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
-*   [v (⭐34k)](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
 *   [Vork (⭐28)](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
 ### Operating systems/Kernels
@@ -256,12 +262,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vss (⭐18)](https://github.com/vssio/vss) - Easy-to-use static site generator.
 *   [VTik (⭐18)](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
 *   [pico.v (⭐86)](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
+*   [v-jsonrpc (⭐32)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 *   [validate (⭐22)](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 *   [valval (⭐137)](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 *   [vcurrency (⭐7)](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for <https://api.exchangeratesapi.io>.
 *   [vex (⭐318)](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 *   [vigest (⭐5)](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
-*   [v-jsonrpc (⭐32)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 *   [vweb (⭐34k)](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 *   [vxbloauth (⭐9)](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 
@@ -307,11 +313,11 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Graphics
 
 *   [V Earcut (⭐13)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐1.9k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+*   [V\_sokol\_gp (⭐2)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol\_gp library for easy and fast 2d graphics.
 *   [vgl (⭐26)](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 *   [viup (⭐40)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
-*   [vsdl2 (⭐43)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 *   [vsdl (⭐12)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
-*   [V\_sokol\_gp (⭐2)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol\_gp library for easy and fast 2d graphics.
+*   [vsdl2 (⭐43)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 
 ### IRC
 
@@ -376,8 +382,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Editor plugins / Emacs
 
-*   [vlang-mode.el (⭐9)](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 *   [v-mode (⭐52)](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
+*   [vlang-mode.el (⭐9)](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 
 ### Editor plugins / Sublime Text 3
 
@@ -386,8 +392,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Editor plugins / Vim
 
-*   [vim-v (⭐20)](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 *   [v-vim (⭐162)](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
+*   [vim-v (⭐20)](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 *   [vim-vtools (⭐16)](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
 ### Forums / IntelliJ & CLion & GoLand etc

@@ -21,7 +21,6 @@
 *   [Resources](#resources)
     *   [Learning](#learning)
     *   [Discovery](#discovery)
-    *   [Newsletters](#newsletters)
 *   [Installation Media](#installation-media)
 *   [Channel History](#channel-history)
 *   [Deployment Tools](#deployment-tools)
@@ -69,10 +68,6 @@
 *   [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 *   [Pkgs on Nix](https://pkgs.on-nix.com/) - A database with Nix packages at all versions, from all channels.
 *   [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
-
-### Newsletters
-
-*   [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates.
 
 ## Installation Media
 
@@ -124,6 +119,7 @@
 *   [nix-du (⭐210)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 *   [nix-index (⭐508)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 *   [nix-init (⭐403)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+*   [nix-melt (⭐109)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 *   [nix-prefetch (⭐86)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 *   [nix-tree (⭐381)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 *   [nurl (⭐222)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.

@@ -6,6 +6,20 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jun 08, 2023](/content/2023/06/08/README.md)
+
+### Applications / Cryptocurrencies
+
+*   [svm-rs (⭐146)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
+
+### Applications / Utilities
+
+*   [nix-community/nix-melt (⭐109)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
+
+### Libraries / Scripting
+
+*   [KusionStack/kcl (⭐575)](https://github.com/KusionStack/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+
 ## [May 31, 2023](/content/2023/05/31/README.md)
 
 ### Libraries / Platform specific
@@ -31,10 +45,6 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [innernet (⭐4.3k)](https://github.com/tonarino/innernet) - An overlay or private mesh network that uses Wireguard under the hood
-
-### Applications / Cryptocurrencies
-
-*   [svm-rs (⭐140)](https://github.com/ethers-rs/svm-rs) - Solidity-Compiler Version Manager.
 
 ### Applications / Utilities
 
@@ -118,7 +128,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐78)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐90)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ## [Mar 29, 2023](/content/2023/03/29/README.md)
 
@@ -567,7 +577,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.1k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐5.2k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
 
 ## [Aug 17, 2022](/content/2022/08/17/README.md)
 
@@ -697,12 +707,6 @@ A curated list of Rust code and resources.
 
 *   Generic
     *   [Geal/rust\_on\_mobile (⭐163)](https://github.com/Geal/rust_on_mobile)
-
-## [Jul 12, 2022](/content/2022/07/12/README.md)
-
-### Libraries / Scripting
-
-*   [KusionStack/KCLVM (⭐556)](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 
 ## [Jul 10, 2022](/content/2022/07/10/README.md)
 
@@ -888,7 +892,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐369)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
+*   [orhun/rustypaste (⭐398)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
 
 ### Development tools / Web Servers
 
@@ -1063,7 +1067,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [Bartib (⭐422)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐426)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ## [Jan 17, 2022](/content/2022/01/17/README.md)
 
@@ -1281,7 +1285,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web
 
-*   [LemmyNet/lemmy (⭐7.7k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+*   [LemmyNet/lemmy (⭐8.3k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 
 ## [Oct 16, 2021](/content/2021/10/16/README.md)
 
@@ -1837,7 +1841,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [rust-lang/rustfix (⭐825)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
+*   [rust-lang/rustfix (⭐832)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
 *   [Rustup (⭐5.4k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 
 ### Development tools / FFI
@@ -2035,7 +2039,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [sharkdp/bat (⭐41k)](https://github.com/sharkdp/bat) — A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
+*   [sharkdp/bat (⭐42k)](https://github.com/sharkdp/bat) — A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 
 ### Libraries / Distributed systems
 
@@ -2219,7 +2223,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [Polaris (⭐1.1k)](https://github.com/agersant/polaris) — A music streaming application.
+*   [Polaris (⭐1.2k)](https://github.com/agersant/polaris) — A music streaming application.
 
 ### Applications / Cryptocurrencies
 
@@ -2307,7 +2311,7 @@ A curated list of Rust code and resources.
 ### Development tools / Web Servers
 
 *   [clippy](https://crates.io/crates/clippy) — Rust lints
-*   [clog-tool/clog-cli (⭐810)](https://github.com/clog-tool/clog-cli) — generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
+*   [clog-tool/clog-cli (⭐814)](https://github.com/clog-tool/clog-cli) — generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [dotenv-linter (⭐1.6k)](https://github.com/dotenv-linter/dotenv-linter) — Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/workflows/CI/badge.svg?branch=master)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 *   [git-journal (⭐559)](https://github.com/saschagrunert/git-journal/) — The Git Commit Message and Changelog Generation Framework
 *   [just (⭐12k)](https://github.com/casey/just) — A handy command runner for project-specific tasks
@@ -3163,7 +3167,7 @@ A curated list of Rust code and resources.
     *   [cargo-rdme (⭐62)](https://github.com/orium/cargo-rdme) \[[cargo-rdme](https://crates.io/crates/cargo-rdme)] — Cargo subcommand to create your README from your crate’s documentation. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI)
     *   [cargo-release](https://crates.io/crates/cargo-release) — tool for releasing git-managed cargo project, build, tag, publish, doc and push [![Rust](https://github.com/crate-ci/cargo-release/actions/workflows/ci.yml/badge.svg)](https://github.com/crate-ci/cargo-release/actions/workflows/rust.yml)
     *   [cargo-script](https://crates.io/crates/cargo-script) — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
-    *   [cargo-udeps (⭐1.1k)](https://github.com/est31/cargo-udeps) \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] — find unused dependencies
+    *   [cargo-udeps (⭐1.2k)](https://github.com/est31/cargo-udeps) \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] — find unused dependencies
     *   [cargo-update](https://crates.io/crates/cargo-update) — cargo subcommand for checking and applying updates to installed executables
     *   [cargo-watch](https://crates.io/crates/cargo-watch) — utility for cargo to compile projects when sources change
     *   [dtolnay/cargo-expand (⭐2k)](https://github.com/dtolnay/cargo-expand) — Expand macros in your source code

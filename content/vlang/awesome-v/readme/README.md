@@ -59,36 +59,36 @@ A curated list of awesome V frameworks, libraries, software and resources.
     *   [Editor plugins](#editor-plugins)
     *   [Forums](#forums)
     *   [GitHub actions](#github-actions)
+    *   [GitHub templates](#github-templates)
     *   [IDEs with V](#ides-with-v)
     *   [Online IDEs with V](#online-ides-with-v)
     *   [Operating Systems & OS Development Examples](#operating-systems--os-development-examples)
+    *   [Patterns](#patterns)
     *   [Programming contests](#programming-contests)
     *   [Syntax highlighting](#syntax-highlighting)
     *   [Tutorials](#tutorials)
     *   [Videos](#videos)
-    *   [GitHub templates](#github-templates)
-    *   [Patterns](#patterns)
 
 ## Applications
 
 ### Command-line
 
 *   [crepl (⭐20)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
-*   [HN-top (⭐22)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-*   [portctl (⭐4)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
-*   [klonol (⭐21)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
 *   [github-releases (⭐2)](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
+*   [HN-top (⭐22)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
+*   [klonol (⭐21)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
+*   [portctl (⭐4)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 *   [runner (⭐24)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 *   [symlinker (⭐8)](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 *   [vast (⭐25)](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
+*   [vcli (⭐2)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 *   [verve (⭐4)](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
+*   [vgoogle (⭐3)](https://github.com/changhz/vgoogle) - Make google search on the terminal.
+*   [vindex (⭐4)](https://github.com/wenxuanjun/vindex) - A simple file list server generating json strings, compatible with nginx's autoindex module.
 *   [vinit (⭐15)](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 *   [vLogQL (⭐14)](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
 *   [vqrcode (⭐17)](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 *   [vspect (⭐2)](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
-*   [vcli (⭐2)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
-*   [vgoogle (⭐3)](https://github.com/changhz/vgoogle) - Make google search on the terminal.
-*   [vindex (⭐4)](https://github.com/wenxuanjun/vindex) - A simple file list server generating json strings, compatible with nginx's autoindex module.
 *   [vzcc (⭐17)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
 
 ### Editors
@@ -109,17 +109,18 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Graphics
 
-*   [vRayTracer (⭐45)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 *   [mpv-v (⭐15)](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+*   [vRayTracer (⭐45)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ### Interpreters/Compilers
 
-*   [vas (⭐53)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
-*   [stas (⭐40)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 *   [monkey\_v (⭐37)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
-*   [vbf (⭐18)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
-*   [vcc (⭐93)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
+*   [stas (⭐40)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 *   [v (⭐34k)](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
+*   [vas (⭐53)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
+*   [vbf (⭐18)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
+*   [vfuck (⭐1)](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
+*   [vcc (⭐93)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 *   [Vork (⭐28)](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
 
 ### Operating systems/Kernels
@@ -137,15 +138,16 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Serialization
 
-*   [vlang-yaml (⭐19)](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
-*   [vproto (⭐49)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 *   [v-toxml (⭐7)](https://github.com/radare/v-toxml) - XML Serialization library for V.
 *   [vgura (⭐20)](https://github.com/gura-conf/vgura) - Official Gura parser for V.
+*   [vlang-yaml (⭐19)](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
+*   [vproto (⭐49)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ### Web
 
 *   [Gitly (⭐1.2k)](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
 *   [Heroku Buildpack for V (⭐1)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
+*   [v-admin-skeleton (⭐4)](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.
 *   [vblog (⭐23)](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 *   [Vebview.JS (⭐51)](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
 *   [Vieter (⭐9)](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
@@ -153,7 +155,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vorum (⭐195)](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 *   [vss (⭐18)](https://github.com/vssio/vss) - Easy-to-use static site generator.
 *   [VTik (⭐18)](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
-*   [v-admin-skeleton (⭐4)](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.
 
 ## Libraries
 
@@ -169,6 +170,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command line interface (CLI) / Terminal / Shell
 
+*   [bartender (⭐37)](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
 *   [boxx (⭐92)](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
 *   [lol (⭐16)](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
 *   [progressbar (⭐29)](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
@@ -176,7 +178,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [termtable (⭐42)](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
 *   [vargs (⭐39)](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
 *   [vesseract (⭐16)](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
-*   [bartender (⭐37)](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
 
 ### Database clients
 
@@ -205,18 +206,18 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [engine (⭐37)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 *   [raylib.v (⭐46)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 *   [V\_ecs (⭐12)](https://github.com/mohamedLT/V_ecs) - ECS library made in V inspired by Bevy ECS.
-*   [vraylib (⭐47)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 *   [vraylib (⭐4)](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
+*   [vraylib (⭐47)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 
 ### Graphics
 
 *   [V Earcut (⭐13)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐1.9k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+*   [V\_sokol\_gp (⭐2)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol\_gp library for easy and fast 2d graphics.
 *   [vgl (⭐26)](https://github.com/justicesuh/vgl) - Low-level graphics API access.
 *   [viup (⭐40)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
-*   [vsdl2 (⭐43)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 *   [vsdl (⭐12)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
+*   [vsdl2 (⭐43)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 *   [vsl.vcl (⭐276)](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writting programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
-*   [V\_sokol\_gp (⭐2)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol\_gp library for easy and fast 2d graphics.
 
 ### IRC
 
@@ -270,10 +271,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### User Interface toolkits
 
 *   [mui (⭐66)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
+*   [V UI (⭐2.1k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 *   [vgtk3 (⭐52)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 *   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐48k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐41)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
-*   [V UI (⭐2.1k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 *   [VWebui (⭐55)](https://github.com/webui-dev/v-webui) - V Library that makes easy creating WebUI.
 
 ### Utility
@@ -287,15 +288,15 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Web
 
 *   [pico.v (⭐86)](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
+*   [v-jsonrpc (⭐32)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
+*   [v-tiktok (⭐6)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 *   [validate (⭐22)](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 *   [valval (⭐137)](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 *   [vcurrency (⭐7)](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for <https://api.exchangeratesapi.io>.
 *   [vex (⭐318)](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 *   [vigest (⭐5)](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
-*   [v-jsonrpc (⭐32)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
 *   [vweb (⭐34k)](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 *   [vxbloauth (⭐9)](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
-*   [v-tiktok (⭐6)](https://github.com/walkingdevel/v-tiktok) - A V library for downloading TikTok videos.
 
 ## Other
 
@@ -319,8 +320,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 #### Emacs
 
-*   [vlang-mode.el (⭐9)](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 *   [v-mode (⭐52)](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
+*   [vlang-mode.el (⭐9)](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
 
 #### Sublime Text 3
 
@@ -333,8 +334,8 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 #### Vim
 
-*   [vim-v (⭐20)](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 *   [v-vim (⭐162)](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
+*   [vim-v (⭐20)](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 *   [vim-vtools (⭐16)](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 
 #### IntelliJ & CLion & GoLand etc
@@ -351,6 +352,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 *   [setup-v](https://github.com/marketplace/actions/setup-vlang) - GitHub action to install and use V in your workflow.
 
+### GitHub templates
+
+*   [v-project-basement (⭐10)](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
+
 ### IDEs with V
 
 *   [Vide (⭐85)](https://github.com/IsaiahPatton/Vide)
@@ -364,10 +369,14 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [Simple Linux kernel module example (⭐25)](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
 
+### Patterns
+
+*   [MVU.v (⭐5)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
+
 ### Programming contests
 
-*   [Advent of Code 2022 (⭐23)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 *   [Advent of Code 2019 (⭐12)](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
+*   [Advent of Code 2022 (⭐23)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 *   [Rosetta Code in V](https://rosettacode.org/wiki/Category:V_\(Vlang\)) - Solutions for Rosetta Code in V.
 *   [SoloLearn Coding Challenges (⭐13)](https://github.com/Serkonda/v-sololearn-coding-challenges) - Implementation of the SoloLearn coding challenges in V.
 
@@ -388,12 +397,4 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 *   [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY\&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
-
-### GitHub templates
-
-*   [v-project-basement (⭐10)](https://github.com/ArtemkaKun/v-project-basement) - A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.
-
-### Patterns
-
-*   [MVU.v (⭐5)](https://github.com/ArtemkaKun/MVU.v) - MVU pattern (The Elm Architecture) implemented in V programming language.
 

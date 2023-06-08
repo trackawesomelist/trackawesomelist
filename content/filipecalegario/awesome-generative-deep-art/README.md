@@ -2,9 +2,16 @@
 
 A curated list of Generative AI tools, works, models, and references
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 filipecalegario/awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-ai) · ⭐ 848 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/filipecalegario/awesome-generative-deep-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 filipecalegario/awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-ai) · ⭐ 938 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
+
+## [Jun 08, 2023](/content/2023/06/08/README.md)
+
+### Hypertechniques / Deforum
+
+*   \[🔥🔥🔥] [Parseq](https://sd-parseq.web.app): parameter sequencer for Stable Diffusion [\[Youtube Tutorials\]](https://www.youtube.com/playlist?list=PLXbx1PHKHwIHsYFfb5lq2wS8g1FKz6aP8)
+*   [deforum-art/sd-webui-deforum (⭐1.6k)](https://github.com/deforum-art/sd-webui-deforum): Deforum extension for AUTOMATIC1111's Stable Diffusion webui [\[wiki docs\] (⭐1.6k)](https://github.com/deforum-art/sd-webui-deforum/wiki)
 
 ## [Jun 04, 2023](/content/2023/06/04/README.md)
 
@@ -26,7 +33,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models / Contribute to Our Repository
 
-*   [google/BIG-bench (⭐1.9k)](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
+*   [google/BIG-bench (⭐2k)](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
 
 ### Inbox: Large Language Models / LLMOps
 
@@ -175,7 +182,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
 
-*   [gventuri/pandas-ai (⭐6.4k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
+*   [gventuri/pandas-ai (⭐7k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 
 ## [Apr 29, 2023](/content/2023/04/29/README.md)
 
@@ -295,7 +302,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models / Contribute to Our Repository
 
-*   [Haystack (⭐8.9k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
+*   [Haystack (⭐9.1k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
 ### Inbox: Large Language Models / Text-related Generative Tools
 
@@ -378,7 +385,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models / Contribute to Our Repository
 
-*   [logspace-ai/langflow (⭐7.2k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
+*   [logspace-ai/langflow (⭐8.4k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
 
 ### Inbox: Large Language Models / Embeddings and Semantic Search
 
@@ -543,7 +550,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Galleries
 
-*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐53)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
+*   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐55)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 
 ## [Feb 11, 2023](/content/2023/02/11/README.md)
 
@@ -628,7 +635,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
-*   [lucidrains/musiclm-pytorch (⭐2.4k)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+*   [lucidrains/musiclm-pytorch (⭐2.5k)](https://github.com/lucidrains/musiclm-pytorch): Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 *   \[🔥🔥🔥] [archinetai/audio-ai-timeline (⭐1.4k)](https://github.com/archinetai/audio-ai-timeline): A timeline of the latest AI models for audio generation, starting in 2023
 
 ## [Jan 28, 2023](/content/2023/01/28/README.md)
@@ -709,7 +716,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
 
-*   [dair-ai/Prompt-Engineering-Guide (⭐30k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
+*   [dair-ai/Prompt-Engineering-Guide (⭐32k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
 ### Courses and Educational Materials / Deforum
 
@@ -884,11 +891,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [camenduru/stable-diffusion-webui-colab (⭐11k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+*   [camenduru/stable-diffusion-webui-colab (⭐12k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
 
 ### Image Synthesis / Promptism
 
-*   [openai/point-e (⭐5.4k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [openai/point-e (⭐5.5k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
 
 ## [Dec 17, 2022](/content/2022/12/17/README.md)
 
@@ -927,7 +934,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [DDSP-VST](https://magenta.tensorflow.org/ddsp-vst-blog): Neural Audio Synthesis for All
 *   [Jukebox](https://openai.com/blog/jukebox/): "a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles"
 *   [Magenta](https://magenta.tensorflow.org/): Music and Art Generation with Machine Intelligence
-*   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
+*   [magenta/magenta (⭐19k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
 *   [archinetai/audio-diffusion-pytorch (⭐1.4k)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
 ### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
@@ -1001,13 +1008,13 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Galleries
 
-*   [chaosreactor/awesome-generative-ai (⭐18)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
+*   [chaosreactor/awesome-generative-ai (⭐21)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
 ## [Nov 24, 2022](/content/2022/11/24/README.md)
 
 ### Related Awesome Lists / Galleries
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐868)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐987)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 
 ## [Nov 23, 2022](/content/2022/11/23/README.md)
 
@@ -1029,7 +1036,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / DALL-E 2
 
-*   [lucidrains/DALLE2-pytorch (⭐9.7k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+*   [lucidrains/DALLE2-pytorch (⭐9.8k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
 
 ## [Nov 22, 2022](/content/2022/11/22/README.md)
 
@@ -1112,13 +1119,13 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Stable Diffusion / For text-to-image
 
-*   [TheLastBen/fast-stable-diffusion (⭐5.8k)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
+*   [TheLastBen/fast-stable-diffusion (⭐6k)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
 
 ## [Oct 23, 2022](/content/2022/10/23/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
-*   [some9000/StylePile (⭐443)](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
+*   [some9000/StylePile (⭐464)](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
@@ -1143,7 +1150,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Stable Diffusion / For text-to-image
 
 *   [NovelAI Improvements on Stable Diffusion | by NovelAI | Oct, 2022 | Medium](https://blog.novelai.net/novelai-improvements-on-stable-diffusion-e10d38db82ac)
-*   [ashawkey/stable-dreamfusion (⭐5.6k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+*   [ashawkey/stable-dreamfusion (⭐5.8k)](https://github.com/ashawkey/stable-dreamfusion): A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 
 ## [Oct 06, 2022](/content/2022/10/06/README.md)
 
@@ -1174,7 +1181,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Datasets / Generative Adversarial Networks (GANs)
 
 *   [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai\&index=laion5B\&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
-*   [rom1504/clip-retrieval (⭐1.3k)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+*   [rom1504/clip-retrieval (⭐1.4k)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
 
@@ -1218,7 +1225,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
 *   [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
 *   [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
-*   [pixray/pixray (⭐970)](https://github.com/pixray/pixray): Pixray is an image generation system
+*   [pixray/pixray (⭐973)](https://github.com/pixray/pixray): Pixray is an image generation system
 *   [pixray/pixray\_notebooks (⭐38)](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
 *   [dribnet/pixray-text2image – Run with an API on Replicate](https://replicate.com/dribnet/pixray-text2image)
 *   [sberbank-ai/ru-dalle (⭐1.6k)](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
@@ -1289,7 +1296,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### People and works / Interesting GitHub Repositories
 
-*   [dvschultz/ml-art-colabs (⭐817)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
+*   [dvschultz/ml-art-colabs (⭐816)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
 *   [dvschultz](https://github.com/dvschultz): Derrick Schultz's GitHub
 
 ### Image Upscaling / Generative Adversarial Networks (GANs)
@@ -1333,7 +1340,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Stable Diffusion / References Collection about Stable Diffusion
 
 *   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
-*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion (⭐1k)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
+*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
 *   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share\&utm_medium=web2x\&context=3): a general update on all the "most important" news/repos available
 *   [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
 *   [Stable Diffusion Akashic Records | Maks-s/sd-akashic (⭐1.5k)](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
@@ -1353,11 +1360,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Stable Diffusion / For text-to-image
 
-*   [examples/stable-diffusion-finetuning at main · LambdaLabsML/examples (⭐695)](https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning): Fine Tuning Stable Diffusion
-*   [lkwq007/stablediffusion-infinity (⭐3.3k)](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas
+*   [examples/stable-diffusion-finetuning at main · LambdaLabsML/examples (⭐703)](https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning): Fine Tuning Stable Diffusion
+*   [lkwq007/stablediffusion-infinity (⭐3.4k)](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas
 *   \[🔥🔥🔥] [ML News Stable Diffusion Takes Over! (Open Source AI Art) by Yannic Kilcher - YouTube](https://www.youtube.com/watch?v=xbxe-x6wvRw): video with examples, updates, and discussion about the impact of Stable Diffusion
 *   [Diffusion Models in Vision: A Survey | DeepAI](https://deepai.org/publication/diffusion-models-in-vision-a-survey): paper about the diffusion techniques which also discuss the relation with other generative deep learning models
-*   [ThereforeGames/txt2mask (⭐454)](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
+*   [ThereforeGames/txt2mask (⭐458)](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
 *   [basujindal/stable-diffusion (⭐3k)](https://github.com/basujindal/stable-diffusion): Optimized Stable Diffusion modified to run on lower GPU VRAM
 *   [Stable WarpFusion v0.5 (restricted to patreons)](https://www.patreon.com/sxela): conditioning video frames with Stable Diffusion by [@devdef](https://twitter.com/devdef)
 *   [nateraw/stable-diffusion-videos (⭐2.8k)](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
@@ -1375,8 +1382,8 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐77k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
-*   [GitHub - sd-webui/stable-diffusion-webui (⭐7.3k)](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
+*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐82k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
+*   [GitHub - sd-webui/stable-diffusion-webui (⭐7.4k)](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
 *   [Stable\_Diffusion\_WebUi\_Simplified.ipynb - Colaboratory](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb#scrollTo=gk1TyBA0Arxt)
 
 ### Hypertechniques / Textual Inversion
@@ -1407,7 +1414,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
 *   [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
-*   [GitHub - johnowhitaker/aiaiart (⭐532)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
+*   [GitHub - johnowhitaker/aiaiart (⭐535)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
 *   [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
 
 ### Discussions and Philosophy / Papers Collections
@@ -1426,8 +1433,8 @@ A curated list of Generative AI tools, works, models, and references
 *   \[🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
 *   \[🔥] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
 *   [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
-*   \[🔥] [yuval-alaluf/hyperstyle (⭐920)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
-*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐730)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
+*   \[🔥] [yuval-alaluf/hyperstyle (⭐926)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
+*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐734)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
@@ -1514,20 +1521,20 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   [yuval-alaluf/stylegan3-editing (⭐572)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
-*   [autonomousvision/projected\_gan (⭐834)](https://github.com/autonomousvision/projected_gan): \[NeurIPS'21] Projected GANs Converge Faster
+*   [yuval-alaluf/stylegan3-editing (⭐580)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
+*   [autonomousvision/projected\_gan (⭐841)](https://github.com/autonomousvision/projected_gan): \[NeurIPS'21] Projected GANs Converge Faster
 
 ## [Aug 18, 2022](/content/2022/08/18/README.md)
 
 ### Related Awesome Lists / Galleries
 
-*   \[🔥] [amrzv/awesome-colab-notebooks (⭐808)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
+*   \[🔥] [amrzv/awesome-colab-notebooks (⭐826)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
 
 ## [Aug 06, 2022](/content/2022/08/06/README.md)
 
 ### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
-*   [baowenbo/DAIN (⭐7.8k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
+*   [baowenbo/DAIN (⭐7.9k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 *   [Dain-App 1.0 \[Nvidia Only\] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 
 ## [Aug 01, 2022](/content/2022/08/01/README.md)
@@ -1616,8 +1623,8 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   [ouhenio/StyleGAN3-CLIP-notebooks (⭐181)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
-*   [k-l-lambda/stylegan-web (⭐152)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
+*   [ouhenio/StyleGAN3-CLIP-notebooks (⭐183)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
+*   [k-l-lambda/stylegan-web (⭐153)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
 
 ### Collections / Generative Adversarial Networks (GANs)
 
@@ -1631,7 +1638,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Promptism
 
-*   [mikaelalafriz/lucid-sonic-dreams (⭐749)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
+*   [mikaelalafriz/lucid-sonic-dreams (⭐751)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 
 ### Miscellaneous / Improving Google Colab experience
 
@@ -1671,7 +1678,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Creative Uses of Generative AI Tools / Deforum
 
-*   [AgaMiko/pixel\_character\_generator (⭐103)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+*   [AgaMiko/pixel\_character\_generator (⭐105)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
 ### Image Synthesis / Promptism
 
@@ -1680,11 +1687,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   [aakashjhawar/AvatarGAN (⭐54)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
+*   [aakashjhawar/AvatarGAN (⭐55)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
 
 ### Related Awesome Lists / Galleries
 
-*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐256)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐257)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 
 ## [Nov 16, 2021](/content/2021/11/16/README.md)
 
