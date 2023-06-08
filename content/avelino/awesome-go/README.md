@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jun 08, 2023](/content/2023/06/08/README.md)
+
+### Web Frameworks
+
+*   [Don (⭐20)](https://github.com/abemedia/go-don) - A highly performant and simple to use API framework.
+
 ## [Jun 06, 2023](/content/2023/06/06/README.md)
 
 ### Web Frameworks
@@ -1660,8 +1666,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [carapace (⭐102)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐218)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐108)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐229)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
 
@@ -3326,7 +3332,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [fzf (⭐53k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐28)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐35)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric (⭐933)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐936)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [go-actuator (⭐14)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
 *   [go-astitodo (⭐60)](https://github.com/asticode/go-astitodo) - Parse TODOs in your GO code.
 *   [go-bind-plugin (⭐183)](https://github.com/wendigo/go-bind-plugin) - go:generate tool for wrapping symbols exported by golang plugins (1.8 only).
@@ -3397,7 +3403,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [onecache (⭐132)](https://github.com/adelowo/onecache) - Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).
 *   [panicparse (⭐3.4k)](https://github.com/maruel/panicparse) - Groups similar goroutines and colorizes stack dump.
 *   [pattern-match (⭐221)](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matching library.
-*   [peco (⭐7.3k)](https://github.com/peco/peco) - Simplistic interactive filtering tool.
+*   [peco (⭐7.4k)](https://github.com/peco/peco) - Simplistic interactive filtering tool.
 *   [pgo (⭐79)](https://github.com/arthurkushman/pgo) - Convenient functions for PHP community.
 *   [pm (⭐78)](https://github.com/VividCortex/pm) - Process (i.e. goroutine) manager with an HTTP API.
 *   [ptr (⭐21)](https://github.com/gotidy/ptr) - Package that provide functions for simplified creation of pointers from constants of basic types.
@@ -3487,7 +3493,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gortsplib (⭐414)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
 *   [gst (⭐166)](https://github.com/ziutek/gst) - Go bindings for GStreamer.
 *   [libgosubs (⭐23)](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.
-*   [libvlc-go (⭐351)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
+*   [libvlc-go (⭐353)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 *   [m3u8 (⭐1k)](https://github.com/grafov/m3u8) - Parser and generator library of M3U8 playlists for Apple HLS.
 *   [v4l (⭐74)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 

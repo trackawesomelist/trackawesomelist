@@ -6,6 +6,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 [ [Daily](/content/alebcay/awesome-shell/README.md) / Weekly / [Overview](/content/alebcay/awesome-shell/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Multimedia and File Formats / Directory Navigation
+
+*   [jc (⭐6.3k)](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Command-Line Productivity
@@ -19,7 +25,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *   [arttime (⭐632)](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
 *   [await (⭐81)](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
-*   [lf (⭐5.8k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
+*   [lf (⭐5.9k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 
 ### Customization / Directory Navigation
 
@@ -34,7 +40,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [dzr (⭐130)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
+*   [dzr (⭐136)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
@@ -47,8 +53,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Command-Line Productivity
 
-*   [bartib (⭐422)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
-*   [lowcharts (⭐132)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
+*   [bartib (⭐426)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+*   [lowcharts (⭐138)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 
 ### Customization / Directory Navigation
 
@@ -90,7 +96,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 ### Command-Line Productivity
 
 *   [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
-*   [usql (⭐8k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
+*   [usql (⭐8.1k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 *   [xplr (⭐3.1k)](https://github.com/sayanarijit/xplr) -  A hackable, minimal, fast TUI file explorer
 
 ### Customization / Directory Navigation
@@ -202,7 +208,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [bd (⭐904)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 *   [commacd (⭐344)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 *   [enhancd (⭐2.3k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
-*   [goto (⭐832)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
+*   [goto (⭐834)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 *   [jump (⭐1.6k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 *   [lazy-cd (⭐19)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
 *   [up (⭐152)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
@@ -278,7 +284,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Command-Line Productivity
 
-*   [eureka (⭐645)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
+*   [eureka (⭐651)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
 *   [gitmux (⭐420)](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 *   [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 *   [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
@@ -324,7 +330,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [fx (⭐16k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
+*   [fx (⭐17k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
@@ -350,7 +356,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [browsh (⭐16k)](https://github.com/browsh-org/browsh) - The modern text-based browser
 *   [googlr (⭐41)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
 *   [mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
-*   [sqlline (⭐566)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+*   [sqlline (⭐569)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
 *   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 
 ### Command-Line Productivity / Directory Navigation
@@ -360,14 +366,14 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 ### For Developers / Directory Navigation
 
 *   [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-*   [bitwise (⭐557)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
+*   [bitwise (⭐560)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
 *   [forgit (⭐3.9k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
 *   [overcommit (⭐3.8k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 *   [wipe-modules (⭐335)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
 
 ### System Utilities / Directory Navigation
 
-*   [bat (⭐41k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
+*   [bat (⭐42k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
 *   [exa (⭐22k)](https://github.com/ogham/exa) - A modern version of `ls`.
 *   [nmtui (⭐293)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 
@@ -387,7 +393,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *   [bashful (⭐581)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 *   [Bashlets (⭐67)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
-*   [Fishtape (⭐324)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+*   [Fishtape (⭐325)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 
 ## [May 20 - May 26, 2019](/content/2019/20/README.md)
 
@@ -412,7 +418,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Applications / Directory Navigation
 
-*   [taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+*   [taskbook (⭐8.8k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 
 ## [Oct 22 - Oct 28, 2018](/content/2018/43/README.md)
 
@@ -458,7 +464,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### For Developers / Directory Navigation
 
-*   [add-gitignore (⭐586)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+*   [add-gitignore (⭐585)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 *   [mr](https://myrepos.branchable.com) - Multiple Repository management tool
 
 ### System Utilities / Directory Navigation
@@ -468,7 +474,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [korkut (⭐356)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+*   [korkut (⭐357)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 
 ### Applications / Directory Navigation
 
@@ -510,7 +516,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Shell Package Management / Directory Navigation
 
-*   [shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
+*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
 ## [May 07 - May 13, 2018](/content/2018/19/README.md)
 
@@ -618,7 +624,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Command-Line Productivity
 
-*   [has (⭐524)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [has (⭐529)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 
 ## [Aug 14 - Aug 20, 2017](/content/2017/33/README.md)
 
@@ -669,7 +675,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### For Developers / Directory Navigation
 
-*   [bcal (⭐591)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
+*   [bcal (⭐594)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
 
 ### System Utilities / Directory Navigation
 
@@ -677,7 +683,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [imgp (⭐947)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
+*   [imgp (⭐950)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
 ### Applications / Directory Navigation
 
@@ -879,7 +885,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Applications / Directory Navigation
 
-*   [moviemon (⭐188)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+*   [moviemon (⭐189)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 
 ## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
 
@@ -993,7 +999,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [cmus (⭐4.9k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+*   [cmus (⭐5k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 
 ## [Aug 24 - Aug 30, 2015](/content/2015/34/README.md)
 
@@ -1043,7 +1049,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 ### Command-Line Productivity
 
-*   [fzf (⭐52k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 *   [marker (⭐1.9k)](https://github.com/pindexis/marker) - Bookmark your shell commands
 *   [thefuck (⭐78k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 

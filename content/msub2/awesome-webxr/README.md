@@ -6,6 +6,21 @@ All things WebXR.
 
 [ Daily / [Weekly](/content/msub2/awesome-webxr/week/README.md) / [Overview](/content/msub2/awesome-webxr/readme/README.md) ]
 
+## [Jun 08, 2023](/content/2023/06/08/README.md)
+
+### Development / Frameworks and Libraries
+
+*   [Spaces VR (⭐155)](https://github.com/musehq/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
+
+### Monetization / Other
+
+*   [Zesty Market](https://www.zesty.market) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
+
+### Web3XR / Realms
+
+*   [Voxels](https://www.voxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
+*   [Ozone Metaverse](https://ozonemetaverse.io/) - A spatial computing cloud platform offering world creation tools with Web3 integrations and monetization.
+
 ## [Jun 03, 2023](/content/2023/06/03/README.md)
 
 ### Standout Projects
@@ -119,20 +134,12 @@ All things WebXR.
 
 *   [Obscura](https://obscura.world/) - Float around and explore a structure inspired by the architecture of Carlo Scarpa.
 
-### Companies and Cooperatives / Reddit
-
-*   [Third Axis](https://thirdaxis.io/) - A design studio based in NYC that creates 3D, AR, and VR content on the web.
-
 ## [Nov 09, 2021](/content/2021/11/09/README.md)
 
 ### Communities / Discord
 
 *   [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 *   [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
-
-### Web3XR / Monetization
-
-*   [Zesty Market](https://zesty.market) - A marketplace for rentable NFT banner spaces in XR. As of Nov 9, 2021, has generated over $3K for WebXR developers since July 2021.
 
 ## [Oct 21, 2021](/content/2021/10/21/README.md)
 
@@ -145,10 +152,6 @@ All things WebXR.
 ### Web3XR / Galleries
 
 *   [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
-
-### Web3XR / Realms
-
-*   [Cryptovoxels](https://www.cryptovoxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 
 ## [Sep 17, 2021](/content/2021/09/17/README.md)
 
@@ -193,9 +196,9 @@ All things WebXR.
 
 ## [Sep 12, 2021](/content/2021/09/12/README.md)
 
-### Social Spaces / Other
+### Web3XR / Realms
 
-*   [Raspberry Dream Land](https://www.rdland.io/) - A progressive WebXR events platform focused on inclusivity, radical self-expression, and virtual relationships.
+*   [Raspberry Dream Land](https://www.rdland.io/) - A progressive events platform focused on inclusivity, radical self-expression, and virtual relationships. Also has its own NFT avatar collection.
 
 ### YouTube / Realms
 
@@ -212,19 +215,11 @@ All things WebXR.
 *   [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
 *   [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 
-### E-Commerce / Other
-
-*   [Ozone Universe](https://ozoneuniverse.com/) - Virtual enterprise platform for meetings, marketing, and e-commerce.
-
 ## [Aug 17, 2021](/content/2021/08/17/README.md)
 
 ### Companies and Cooperatives / Reddit
 
 *   [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
-
-### E-Commerce / Other
-
-*   [VR Cybershop](https://vrshop.rebuffreality.com/) - Virtual storefront for Rebuff Reality.
 
 ### Social Spaces / Other
 
@@ -250,9 +245,7 @@ All things WebXR.
 ### Audio
 
 *   [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
-*   [Cybr](https://cybrxr.com/) - Offers a platform for live immersive listening parties. The recorded portions of their first listening party are still available to view.
 *   [Fathom VR](https://www.letsfathom.com/vr/play) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
-*   [Helicon](https://www.helicon.live/) - An immersive introduction to polyrhythms.
 *   [TRACK](https://demos.littleworkshop.fr/track) - A linear ride through an immersive audiovisual experience developed by [Little Workshop](https://www.littleworkshop.fr/).
 
 ### Avatars
@@ -273,7 +266,6 @@ All things WebXR.
 
 *   [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
 *   [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
-*   [XRSites](https://xrsites.com/) - An aggregator for WebXR games and experiences.
 
 ### Development / Engines
 
@@ -296,11 +288,8 @@ All things WebXR.
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
 *   [JanusWeb (⭐162)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
-*   [LÖVR](https://lovr.org/) - A Lua-based framework that lets you create VR content across web and native platforms.
-    *   [Official Documentation](https://lovr.org/docs/)
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 *   [react-three-fiber (⭐23k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐1.6k)](https://github.com/pmndrs/react-xr) as well.
-*   [Spaces VR (⭐154)](https://github.com/spacesvr/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
@@ -316,7 +305,7 @@ All things WebXR.
 
 ### Social Spaces / Other
 
-*   [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
+*   [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival Secret Sky 2021.
 *   [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
 *   [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
 

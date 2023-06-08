@@ -76,7 +76,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [arttime (⭐632)](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
 *   [autoenv (⭐5.2k)](https://github.com/inishchith/autoenv) - Directory-based environments
 *   [await (⭐81)](https://github.com/slavaGanzin/await) - single binary that run list of commands in parallel and waits for their termination
-*   [bartib (⭐422)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+*   [bartib (⭐426)](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 *   [bashhub (⭐1.1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 *   [boilr (⭐1.6k)](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 *   [boom (⭐1.2k)](https://github.com/holman/boom) - Store links and snippets in the command line
@@ -91,18 +91,18 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 *   [direnv (⭐10k)](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 *   [dnote (⭐2.5k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
-*   [eureka (⭐645)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
+*   [eureka (⭐651)](https://github.com/simeg/eureka/) - :bulb: CLI tool to input and store your ideas without leaving the terminal
 *   [fasd (⭐5.8k)](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 *   [fd (⭐28k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 *   [foxy (⭐39)](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
 *   [fselect (⭐3.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 *   [funky (⭐626)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
 *   [fz (⭐466)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
-*   [fzf (⭐52k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 *   [gitmux (⭐420)](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 *   [googler (⭐6k)](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 *   [googlr (⭐41)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-*   [has (⭐524)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [has (⭐529)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 *   [how2 (⭐5.6k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
 *   [navi (⭐13k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 *   [hhighlighter (⭐432)](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
@@ -111,9 +111,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [hstr (⭐3.6k)](https://github.com/dvorka/hstr) - Bash History Suggest Box
 *   [k (⭐1.7k)](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 *   [k alias (⭐18)](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
-*   [lf (⭐5.8k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
+*   [lf (⭐5.9k)](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger
 *   [lf.sh (⭐40)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
-*   [lowcharts (⭐132)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
+*   [lowcharts (⭐138)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs in terminal
 *   [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
 *   [loop (⭐636)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
 *   [marker (⭐1.9k)](https://github.com/pindexis/marker) - Bookmark your shell commands
@@ -146,7 +146,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 <!---->
 
-*   [sqlline (⭐566)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+*   [sqlline (⭐569)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
 *   [sshfs (⭐1k)](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 *   [sudocabulary (⭐156)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 *   [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
@@ -157,7 +157,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [tldr (⭐675)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 *   [tmux](https://tmux.github.io/) - Amazing terminal multiplexer
 *   [undollar (⭐139)](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
-*   [usql (⭐8k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
+*   [usql (⭐8.1k)](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 *   [v (⭐427)](https://github.com/rupa/v) - z for vim.
 *   [wemux (⭐3.6k)](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 *   [xiki](https://xiki.org) - Makes the shell console more friendly and powerful
@@ -173,7 +173,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [bd (⭐904)](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 *   [commacd (⭐344)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 *   [enhancd (⭐2.3k)](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with an interactive filter
-*   [goto (⭐832)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
+*   [goto (⭐834)](https://github.com/iridakos/goto) - A shell utility for navigation to aliased directories supporting auto-completion
 *   [jump (⭐1.6k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
 *   [lazy-cd (⭐19)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
 *   [up (⭐152)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
@@ -215,9 +215,9 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *   [1Password SSH Agent](https://developer.1password.com/docs/ssh/) - Authenticate Git and SSH workflows with biometric unlock using 1Password
 *   [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-*   [add-gitignore (⭐586)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
-*   [bcal (⭐591)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
-*   [bitwise (⭐557)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
+*   [add-gitignore (⭐585)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+*   [bcal (⭐594)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
+*   [bitwise (⭐560)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
 *   [bocker (⭐11k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 *   [cloc (⭐16k)](https://github.com/AlDanial/cloc) - Count Lines of Code
 *   [doclt (⭐44)](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
@@ -253,7 +253,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *OS-related tools, including system administration, system debugging, and file and process management.*
 
 *   [atop](https://www.atoptool.nl) - ASCII full-screen performance monitor that is capable of reporting the activity of all processes
-*   [bat (⭐41k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
+*   [bat (⭐42k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
 *   [bmon (⭐1k)](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
 *   [btop (⭐12k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
 *   [catcli (⭐178)](https://github.com/deadc0de6/catcli) -  The command line catalog tool for your offline data
@@ -310,16 +310,17 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [adb-export (⭐97)](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 *   [Android-Kitchen (⭐976)](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 *   [Beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
-*   [cmus (⭐4.9k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+*   [cmus (⭐5k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 *   [dasel (⭐4.2k)](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq (⭐25k)](https://github.com/stedolan/jq) / [yq (⭐2.2k)](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-*   [dzr (⭐130)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
-*   [fx (⭐16k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
+*   [dzr (⭐136)](https://github.com/yne/dzr) - Cross-platform Deezer.com audio player.
+*   [fx (⭐17k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 *   [gifgen (⭐508)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 *   [image-scraper (⭐723)](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
-*   [imgp (⭐947)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
+*   [imgp (⭐950)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
+*   [jc (⭐6.3k)](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
 *   [jo (⭐4.4k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
 *   [jq (⭐25k)](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
-*   [korkut (⭐356)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+*   [korkut (⭐357)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 *   [mpv](https://mpv.io/) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
 *   [nehm (⭐85)](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
 *   [PiCAST (⭐1.7k)](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
@@ -354,7 +355,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [ledger (⭐4.6k)](https://github.com/ledger/ledger) - Command line accounting
 *   [licen (⭐35)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 *   [md2png (⭐26)](https://github.com/weaming/md2png) - Convert markdown to PNG image
-*   [moviemon (⭐188)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+*   [moviemon (⭐189)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 *   [nomino (⭐501)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
 *   [pcalc (⭐485)](https://github.com/alt-romes/programmer-calculator) - Calculator made for programmers working with multiple number representations, sizes, and overall close to the bits.
 *   [pockyt (⭐483)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
@@ -363,7 +364,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [ranger (⭐13k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 *   [Reddit Terminal Viewer (⭐4.6k)](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 *   [SAWS (⭐5.1k)](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
-*   [taskbook (⭐8.7k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+*   [taskbook (⭐8.8k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 *   [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 *   [terjira (⭐819)](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 *   [ticker (⭐4.6k)](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
@@ -398,7 +399,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [dotfiler (⭐232)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 *   [fresh (⭐1.1k)](https://github.com/freshshell/fresh) - Keep your dotfiles fresh
 *   [homeshick (⭐2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
-*   [shallow-backup (⭐1k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
+*   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 *   [shundle (⭐79)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 *   [vcsh (⭐2.1k)](https://github.com/RichiH/vcsh) - Config manager based on Git
 *   [yadm](https://yadm.io/) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping
@@ -423,7 +424,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *   [critic.sh (⭐450)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 *   [dispatch (⭐89)](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 *   [esh (⭐182)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
-*   [Fishtape (⭐324)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+*   [Fishtape (⭐325)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 *   [getoptions (⭐291)](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 *   [getopts.fish (⭐208)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 *   [is.sh (⭐155)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty

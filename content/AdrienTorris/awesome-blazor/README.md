@@ -6,6 +6,16 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jun 08, 2023](/content/2023/06/08/README.md)
+
+### Others
+
+*   [BlazorSSR (⭐2)](https://github.com/danroth27/BlazorSSR) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorSSR?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorSSR?style=flat-square\&cacheSeconds=86400) Server-side rendering (SSR) with Blazor components, by Steve Sanderson.
+
+### Articles / Others
+
+*   [8 Free and Open Source Blazor UI Libraries](https://www.claudiobernasconi.ch/2023/05/25/8-free-and-open-source-blazor-ui-libraries) - May 25, 2023 - List of available free and open-source user interface libraries for Blazor development.
+
 ## [Jun 01, 2023](/content/2023/06/01/README.md)
 
 ### Others
