@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jun 09, 2023](/content/2023/06/09/README.md)
+
+### Open Source Projects / Other / Chatbots
+
+*   [Cheshire Cat (⭐686)](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
+
 ## [Jun 04, 2023](/content/2023/06/04/README.md)
 
 ### Alternatives / Articles
@@ -225,7 +231,7 @@
 ### Alternatives / Articles
 
 *   [Botpress (⭐10k)](https://github.com/botpress/botpress): The building blocks for building chatbots ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress?style=social)
-*   [Haystack (⭐8.9k)](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
+*   [Haystack (⭐9.1k)](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
 
 ## [May 13, 2023](/content/2023/05/13/README.md)
 
@@ -382,7 +388,7 @@
 
 ### Tools / Low-code
 
-*   [Langflow (⭐7.2k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+*   [Langflow (⭐8.4k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 *   [Flowise - LangchainJS UI (⭐5.7k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 *   [Databerry (⭐1.5k)](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
 *   [LangchainUI (⭐620)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)

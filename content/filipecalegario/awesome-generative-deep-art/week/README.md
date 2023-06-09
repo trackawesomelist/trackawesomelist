@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+
+*   [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "rur survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
+
 ### Hypertechniques / Deforum
 
 *   \[🔥🔥🔥] [Parseq](https://sd-parseq.web.app): parameter sequencer for Stable Diffusion [\[Youtube Tutorials\]](https://www.youtube.com/playlist?list=PLXbx1PHKHwIHsYFfb5lq2wS8g1FKz6aP8)
@@ -927,7 +931,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Stable Diffusion / References Collection about Stable Diffusion
 
 *   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
-*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
+*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion (⭐1.1k)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
 *   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share\&utm_medium=web2x\&context=3): a general update on all the "most important" news/repos available
 *   [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
 *   [Stable Diffusion Akashic Records | Maks-s/sd-akashic (⭐1.5k)](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)

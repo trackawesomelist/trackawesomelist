@@ -6,6 +6,12 @@ A list of awesome ESLint plugins, configs, etc.
 
 [ [Daily](/content/dustinspecker/awesome-eslint/README.md) / Weekly / [Overview](/content/dustinspecker/awesome-eslint/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Plugins / Style
+
+*   [perfectionist sorting (⭐128)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Plugins / Frameworks
@@ -389,7 +395,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Misc
 
-*   [PutOut (⭐494)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐494)](https://github.com/coderaiser/putout) linter into ESLint.
+*   [PutOut (⭐503)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐503)](https://github.com/coderaiser/putout) linter into ESLint.
 
 ### Plugins / Practices and Specific ES Features
 

@@ -6,6 +6,12 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Jun 09, 2023](/content/2023/06/09/README.md)
+
+### Playbooks, Roles and Collections / French
+
+*   [redhat-cop](https://github.com/search?q=topic%3Aansible+org%3Aredhat-cop\&type=Repositories\&s=updated\&o=desc) - Repositories with ansible topic of the Red Hat Communities of Practice project.
+
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Tools
@@ -249,7 +255,7 @@ Awesome Ansible List
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate (⭐668)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐673)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
 ## [Aug 30, 2019](/content/2019/08/30/README.md)
 

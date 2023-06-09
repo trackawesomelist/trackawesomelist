@@ -53,7 +53,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Low-code
 
-*   [Langflow (⭐7.2k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+*   [Langflow (⭐8.4k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 *   [Flowise - LangchainJS UI (⭐5.7k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 *   [Databerry (⭐1.5k)](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
 *   [LangchainUI (⭐620)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
@@ -159,6 +159,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Voyager (⭐1.1k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 *   [WingmanAI (⭐284)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 *   [TutorGPT (⭐87)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
+*   [Cheshire Cat (⭐686)](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
 
 ## Learn
 
@@ -218,7 +219,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 *   [LlamaIndex (⭐16k)](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
 *   [Botpress (⭐10k)](https://github.com/botpress/botpress): The building blocks for building chatbots ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress?style=social)
-*   [Haystack (⭐8.9k)](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
+*   [Haystack (⭐9.1k)](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
 *   [Semantic Kernel (⭐9.3k)](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
 *   [Promptify (⭐2k)](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output. ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)
 *   [PromptSource (⭐1.8k)](https://github.com/bigscience-workshop/promptsource): About Toolkit for creating, sharing and using natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource?style=social)

@@ -239,12 +239,12 @@ Here is the awesome badge for your project:
 *   [welvet/summer](https://github.com/welvet/summer) - Lightweight Jetty/JDBC wrapper library inspired by SparkJava and MyBatis with DI and Testing support for Kotlin
 *   [laviua/komock (⭐9)](https://github.com/laviua/komock) - HTTP/Consul/SMTP/Spring Config mocker framework written in Kotlin
 *   [AurityLab/graphql-kotlin-toolkit (⭐10)](https://github.com/AurityLab/graphql-kotlin-toolkit) - GraphQL toolkit for Kotlin (includes code generator and spring boot integration)
-*   [Ahoo-Wang/Wow (⭐7)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 *   [bootique/bootique-kotlin (⭐13)](https://github.com/bootique/bootique-kotlin) - Provides extension function and features for smooth development with Bootique and Kotlin.
 *   [phenax/h (⭐14)](https://github.com/phenax/h) - HTML templating library written in Kotlin
 *   [moia-dev/lambda-kotlin-request-router (⭐17)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
 *   [darkredz/zeko-restapi-framework (⭐18)](https://github.com/darkredz/zeko-restapi-framework) - Asynchronous web framework for Kotlin. Create REST APIs in Kotlin easily with automatic Swagger/OpenAPI doc generation
 *   [Ahoo-Wang/CoSec (⭐17)](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
+*   [Ahoo-Wang/Wow (⭐7)](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 *   [celtric/kotlin-html (⭐25)](https://github.com/celtric/kotlin-html) - A library to generate HTML in Kotlin.
 *   [sepatel/tekniq (⭐35)](https://github.com/sepatel/tekniq) - Full-feature HTTP DSL Framework, HTTP Client, JDBC DSL, Loading Cache and Configuration
 *   [spypunk/sponge (⭐38)](https://github.com/spypunk/sponge) - A website crawler and links downloader command line tool written in Kotlin
@@ -536,8 +536,8 @@ Here is the awesome badge for your project:
 *   [Rasalexman/KDispatcher (⭐64)](https://github.com/Rasalexman/KDispatcher) - Simple and light-weight event dispatcher for Kotlin
 *   [justwrote/kjob (⭐67)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
 *   [ziggy42/kolor (⭐71)](https://github.com/ziggy42/kolor) - A library to print colored strings, with Kotlin.
-*   [pearxteam/kasechange (⭐72)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 *   [Jire/Strukt (⭐73)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
+*   [pearxteam/kasechange (⭐72)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 *   [s1monw1/TLSLibrary (⭐75)](https://github.com/s1monw1/TLSLibrary) - Simple TlsLibrary written in Kotlin - Provides DSL for creating TLS connections
 *   [vjames19/kotlin-futures (⭐80)](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
 *   [KotUniL (⭐80)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
@@ -800,37 +800,37 @@ Here is the awesome badge for your project:
 
 ### <a name="projects-idea-plugins"></a>Idea Plugins <sup>[Back ⇈](#projects-idea-plugins-subcategory)</sup>
 
-*   [emedinaa/android-recyclerview (⭐2)](https://github.com/emedinaa/android-recyclerview) - Some samples about the RecyclerView and Adapters using kotlin
-*   [emedinaa/kotlin-viewmodel (⭐3)](https://github.com/emedinaa/kotlin-viewmodel) - Basic samples about ViewModel component
-*   [emedinaa/kotlin-mvp-volley (⭐9)](https://github.com/emedinaa/kotlin-mvp-volley) - Example of Android project in Kotlin using MVP(Model View Presenter) pattern and volley library
-*   [roger-yh99/AwesomeKotlinPlugin (⭐11)](https://github.com/roger-yh99/AwesomeKotlinPlugin) - <a href="https://plugins.jetbrains.com/plugin/11357-awesome-kotlin">AwesomeKotlin</a> plugin for IntelliJ IDEs
-*   [csense-oss/idea-kotlin-checked-exceptions (⭐14)](https://github.com/csense-oss/idea-kotlin-checked-exceptions) - Plugin to help integrate with java and exceptions (highlights, warns when not catching exceptions and a lot more)
-*   [roger-yh99/Readhub (⭐59)](https://github.com/roger-yh99/Readhub) - <a href="https://plugins.jetbrains.com/plugin/10539-readhub">Readhub</a> is a News Reader plugin for IntelliJ IDEs
+*   [Vektah/CodeGlance (⭐1.1k)](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
+*   [intellij-rust/intellij-rust (⭐4.4k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
 *   [dkandalov/activity-tracker (⭐63)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
 *   [dkandalov/limited-wip (⭐102)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
 *   [dkandalov/pomodoro-tm (⭐125)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐489)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
-*   [Vektah/CodeGlance (⭐1.1k)](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
-*   [wuseal/JsonToKotlinClass (⭐2.9k)](https://github.com/wuseal/JsonToKotlinClass) - Plugin for IntelliJ IDEs to generate Kotlin data class code from JSON text
 *   [izhangzhihao/intellij-rainbow-brackets (⭐4k)](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs.
-*   [intellij-rust/intellij-rust (⭐4.4k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
+*   [roger-yh99/Readhub (⭐59)](https://github.com/roger-yh99/Readhub) - <a href="https://plugins.jetbrains.com/plugin/10539-readhub">Readhub</a> is a News Reader plugin for IntelliJ IDEs
+*   [roger-yh99/AwesomeKotlinPlugin (⭐11)](https://github.com/roger-yh99/AwesomeKotlinPlugin) - <a href="https://plugins.jetbrains.com/plugin/11357-awesome-kotlin">AwesomeKotlin</a> plugin for IntelliJ IDEs
+*   [emedinaa/kotlin-mvvm (⭐489)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [emedinaa/kotlin-mvp-volley (⭐9)](https://github.com/emedinaa/kotlin-mvp-volley) - Example of Android project in Kotlin using MVP(Model View Presenter) pattern and volley library
+*   [emedinaa/android-recyclerview (⭐2)](https://github.com/emedinaa/android-recyclerview) - Some samples about the RecyclerView and Adapters using kotlin
+*   [emedinaa/kotlin-viewmodel (⭐3)](https://github.com/emedinaa/kotlin-viewmodel) - Basic samples about ViewModel component
+*   [wuseal/JsonToKotlinClass (⭐2.9k)](https://github.com/wuseal/JsonToKotlinClass) - Plugin for IntelliJ IDEs to generate Kotlin data class code from JSON text
+*   [csense-oss/idea-kotlin-checked-exceptions (⭐14)](https://github.com/csense-oss/idea-kotlin-checked-exceptions) - Plugin to help integrate with java and exceptions (highlights, warns when not catching exceptions and a lot more)
 
 ### <a name="projects-playground"></a>Playground <sup>[Back ⇈](#projects-playground-subcategory)</sup>
 
-*   [LouisCAD/kotlin-libraries-playground (⭐167)](https://github.com/LouisCAD/kotlin-libraries-playground) - A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
+*   [LouisCAD/kotlin-libraries-playground (⭐167)](https://github.com/LouisCAD/kotlin-libraries-playground)
 
 ### <a name="projects-android"></a>Android <sup>[Back ⇈](#projects-android-subcategory)</sup>
 
-*   [SimonSchubert/LinuxCommandBibliotheca (⭐381)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
-*   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
-*   [deva666/NewsReader (⭐22)](https://github.com/deva666/NewsReader) - Android app for reading news
-*   [pranayairan/CoinBit (⭐53)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
-*   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
-*   [skydoves/githubfollows (⭐292)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [skydoves/themovies (⭐430)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
-*   [zt64/Hyperion (⭐437)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
-*   [TonnyL/Mango (⭐654)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
+*   [skydoves/githubfollows (⭐292)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
+*   [deva666/NewsReader (⭐22)](https://github.com/deva666/NewsReader) - Android app for reading news
+*   [TonnyL/Mango (⭐654)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
+*   [SimonSchubert/LinuxCommandBibliotheca (⭐381)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
+*   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
+*   [pranayairan/CoinBit (⭐53)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
+*   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
+*   [zt64/Hyperion (⭐437)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
 
 ## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
 

@@ -2,9 +2,24 @@
 
 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.1K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/dend/awesome-product-management/week/README.md) / [Overview](/content/dend/awesome-product-management/readme/README.md) ]
+
+## [Jun 09, 2023](/content/2023/06/09/README.md)
+
+### Articles / Screeb
+
+*   [How to Deliver More Software Projects on Time](https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
+*   [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
+*   [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+*   [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+*   [Painless Functional Specifications – Part 3: But… How?](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+*   [Painless Functional Specifications – Part 4: Tips](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/) - By [Joel Spolsky](https://www.joelonsoftware.com).
+*   [How Am I Going To Move My Product Forward Today?](https://www.sachinrekhi.com/how-am-i-going-to-move-my-product-forward-today) - By [Sachin Rekhi](https://www.sachinrekhi.com/).
+*   [How to Listen to Customers](https://www.bringthedonuts.com/essays/how-to-listen-to-customers.html) - By [Ken Norton](https://www.bringthedonuts.com/).
+*   [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - By [Julie Zhuo](https://www.juliezhuo.com/).
+*   [The work is never just “the work”](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/) - By [Dave Stewart](https://davestewart.co.uk/).
 
 ## [May 18, 2023](/content/2023/05/18/README.md)
 

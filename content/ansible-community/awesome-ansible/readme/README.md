@@ -153,12 +153,13 @@ You can find the full list and how to connect in the official documentation [doc
 *   [Ansible Vagrant Examples by geerlingguy (⭐2k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 *   [Ansible playbook for Linux machine setup (⭐34)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 *   [DevSec Hardening Framework](https://dev-sec.io/) - The DevSec collection helps you harden your Linux Based OS as well as MySQL, NGINX and SSH Server/Services.
-*   [T.A.D.S. boilerplate (⭐668)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐673)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 *   [Openstack Ansible (⭐1.4k)](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 *   [Robert de Bock](https://robertdebock.nl) - A extensive collection of Ansible roles.
 *   [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 *   [ansible-ssm (⭐4)](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
 *   [BlueBanquise (⭐75)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+*   [redhat-cop](https://github.com/search?q=topic%3Aansible+org%3Aredhat-cop\&type=Repositories\&s=updated\&o=desc) - Repositories with ansible topic of the Red Hat Communities of Practice project.
 
 ## Editor and IDE Integrations
 

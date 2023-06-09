@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jun 09, 2023](/content/2023/06/09/README.md)
+
+### Applications / Database
+
+*   [Neon (⭐8.4k)](https://github.com/neondatabase/neon) Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+
 ## [Jun 08, 2023](/content/2023/06/08/README.md)
 
 ### Applications / Cryptocurrencies
@@ -48,7 +54,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [warpdotdev/Warp (⭐14k)](https://github.com/warpdotdev/Warp) — Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+*   [warpdotdev/Warp (⭐14k)](https://github.com/warpdotdev/Warp) :heavy\_dollar\_sign: — Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 
 ### Development tools / Web Servers
 

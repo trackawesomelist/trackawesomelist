@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [svm-rs (⭐146)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 
+### Applications / Database
+
+*   [Neon (⭐8.4k)](https://github.com/neondatabase/neon) Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+
 ### Applications / Utilities
 
 *   [nix-community/nix-melt (⭐109)](https://github.com/nix-community/nix-melt) — A ranger-like flake.lock viewer [![build-badge](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nix-melt/actions/workflows/ci.yml)
@@ -40,7 +44,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [warpdotdev/Warp (⭐14k)](https://github.com/warpdotdev/Warp) — Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+*   [warpdotdev/Warp (⭐14k)](https://github.com/warpdotdev/Warp) :heavy\_dollar\_sign: — Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 
 ### Development tools / Web Servers
 

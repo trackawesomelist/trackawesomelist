@@ -14,7 +14,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 > A list of awesome ESLint configs, plugins, etc.
 
-If you want to contribute, please read the [contribution guidelines](https://github.com/dustinspecker/awesome-eslint/blob/master/readme.md/contributing.md).
+If you want to contribute, please read the [contribution guidelines](https://github.com/dustinspecker/awesome-eslint/blob/main/readme.md/contributing.md).
 
 ## Contents
 
@@ -199,7 +199,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *   [Notice (⭐23)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 *   [Only-Error (⭐11)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
 *   [Only-Warn (⭐130)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
-*   [PutOut (⭐494)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐494)](https://github.com/coderaiser/putout) linter into ESLint.
+*   [PutOut (⭐503)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐503)](https://github.com/coderaiser/putout) linter into ESLint.
 *   [TypeLint (⭐174)](https://github.com/yarax/eslint-plugin-typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
 *   [Woke (⭐25)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
 
@@ -254,6 +254,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *   [editorconfig (⭐10)](https://github.com/platinumazure/eslint-plugin-editorconfig) - Derive rules from [`.editorconfig`](https://editorconfig.org/).
 *   [filenames (⭐282)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
 *   [Simple import sort (⭐1.4k)](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
+*   [perfectionist sorting (⭐128)](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
 *   [Switch case (⭐14)](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 *   [padding (⭐4)](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 

@@ -224,6 +224,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [indradb](https://crates.io/crates/indradb) — Rust based graph database
 *   [Lucid (⭐329)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 *   [Materialize (⭐5.1k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/tests)
+*   [Neon (⭐8.4k)](https://github.com/neondatabase/neon) Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 *   [noria (⭐4.7k)](https://github.com/mit-pdos/noria) \[[noria](https://crates.io/crates/noria)] — Dynamically changing, partially-stateful data-flow for web application backends
 *   [ParityDB (⭐201)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
 *   [PumpkinDB (⭐1.3k)](https://github.com/PumpkinDB/PumpkinDB) — an event sourcing database engine
@@ -472,7 +473,7 @@ See also [A comparison of operating systems written in Rust (⭐529)](https://gi
 *   [tversteeg/emplace (⭐214)](https://github.com/tversteeg/emplace) — Synchronize installed packages on multiple machines
 *   [vamolessa/verco (⭐220)](https://github.com/vamolessa/verco) \[[verco](https://crates.io/crates/verco)] — A simple Git/Hg tui client focused on keyboard shortcuts
 *   [vaultwarden (⭐25k)](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) — Alternative implementation of the Bitwarden server API written in Rust
-*   [warpdotdev/Warp (⭐14k)](https://github.com/warpdotdev/Warp) — Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+*   [warpdotdev/Warp (⭐14k)](https://github.com/warpdotdev/Warp) :heavy\_dollar\_sign: — Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 *   [yaa110/cb (⭐79)](https://github.com/yaa110/cb) — Command line interface to manage clipboard
 
 ### Video
