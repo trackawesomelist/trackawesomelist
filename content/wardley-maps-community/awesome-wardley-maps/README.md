@@ -2,9 +2,15 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 549 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 556 · 🏷️ Business
 
 [ Daily / [Weekly](/content/wardley-maps-community/awesome-wardley-maps/week/README.md) / [Overview](/content/wardley-maps-community/awesome-wardley-maps/readme/README.md) ]
+
+## [Jun 09, 2023](/content/2023/06/09/README.md)
+
+### Maps in the Wild
+
+*   [What do I use maps for?](https://blog.gardeviance.org/2023/06/what-do-i-use-maps-for.html) - Simon Wardley lists a range of examples. Jun 08, 2023.
 
 ## [May 24, 2023](/content/2023/05/24/README.md)
 
@@ -197,7 +203,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Apps / Mapping
 
-*   [OnlineWardleyMaps (⭐186)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [Dec 03, 2020](/content/2020/12/03/README.md)
 
@@ -209,7 +215,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Apps / Mapping
 
-*   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐15)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
+*   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐17)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 
 ## [Nov 09, 2020](/content/2020/11/09/README.md)
 

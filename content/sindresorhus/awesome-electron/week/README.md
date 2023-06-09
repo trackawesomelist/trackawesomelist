@@ -6,6 +6,12 @@ Useful resources for creating apps with Electron
 
 [ [Daily](/content/sindresorhus/awesome-electron/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-electron/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### For Electron / Other
+
+*   [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Open Source / Other
