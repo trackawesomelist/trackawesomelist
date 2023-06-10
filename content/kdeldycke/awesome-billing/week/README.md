@@ -8,6 +8,46 @@
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
+### Marketplace / Cloud Resources
+
+*   [Incentive Engineering for Computational Resource Management](https://papers.agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf) - Paper exploring the “mechanisms for the allocation of processor time and storage that are compatible both with programming practice and with market mechanisms.”
+*   [Usage Patterns and the Economics of the Public Cloud](https://mc4f.ee/Papers/PDF/EconPublicCloud.pdf) - “We examine the economics of demand and supply in cloud computing. (…) These results explain why fixed prices currently prevail despite the seeming need for time-varying dynamics. Examining the actual CPU utilization provides a lens into the future. (…) demand fluctuations would be on par with the three classic industries where dynamic pricing is important (hotels, electricity, airlines) and dynamic prices would be essential for efficiency.”
+
+### Accounting / Bookkeeping
+
+*   [So, you want to learn Bookkeeping!](https://www.dwmbeancounter.com/BCTutorials/BCIntro/index.html) - Focus on the daily operations of recording and maintaining the transactions of a business.
+
+### Finance / Currencies
+
+*   [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://www.amazon.com/dp/0273744704?\&linkCode=ll1\&tag=kevideld-20\&linkId=f491ee18c48fdaf3226904a39612cc22\&language=en_US\&ref_=as_li_ss_tl) - Helps you learn how to analyse and monitor your company's financial performance.
+*   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://www.amazon.com/dp/1422119157?\&linkCode=ll1\&tag=kevideld-20\&linkId=8d87e9235a1a05c4e0bec4b25230f28d\&language=en_US\&ref_=as_li_ss_tl) - Allows you to fully understand how to use financial data to make better decisions for your business.
+*   [Algebraic Models for Accounting Systems](https://www.amazon.com/dp/9814287113?\&linkCode=ll1\&tag=kevideld-20\&linkId=3d8973d09f9143db8db8639615d12413\&language=en_US\&ref_=as_li_ss_tl) - Advanced abstract algebra applied to the analysis of accounting systems.
+
+### Payments / Electronic invoices
+
+*   [EU's Late Payment Directive](https://single-market-economy.ec.europa.eu/smes/sme-strategy/late-payment-directive_en) - European rules on applicable fees for late payments.
+
+### Payments / Credit Cards
+
+*   [pci-blackbox (⭐0)](https://github.com/pjfoley/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
+
+### UX/UI / Billing
+
+*   [Apple In-app purchase Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Autorenewable-subscriptions) - Guide and recommendation on how to make [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) user-friendly.
+
+### Business Intelligence / Metrics
+
+*   [The SaaS Financial Model You'll Actually Use](https://web.archive.org/web/20230205234207/https://baremetrics.com/blog/saas-financial-model) - A complete tour of the financials of a statup, which gives you extra-context on how the metrics you produce fit into the larger picture.
+
+### Business Intelligence / Data Engineering
+
+*   [European Spreadsheet Risks Interest Group - Horror Stories](https://eusprig.org/research-info/horror-stories/) - A collection of cases in which uncontrolled and untested spreadsheet models led to lost revenue, mispricing, poor decision making, fraud and systemic financial failure.
+
+### Competitive Analysis / Cloud providers
+
+*   [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/2022/01/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
+*   [Orbitera](https://en.wikipedia.org/wiki/Orbitera) - GCP's billing subsidiary.
+
 ### Humour / Cloud providers
 
 *   [Detax](https://detax.framer.website) - A site mockup of an tax avoidance product for small businesses.
@@ -73,7 +113,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐2.5k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+*   [TigerBeetle (⭐2.6k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 ### Invoice / Structure
 
@@ -91,10 +131,6 @@
 
 *   [Survival Analysis For Customer Retention](https://two-wrongs.com/survival-analysis-for-customer-retention.html) - Illustrates how retention can be better modelled using a survival function like [Kaplan–Meier survival curves](https://two-wrongs.com/bootstrapping-kaplan-meier-confidence-intervals.html).
 
-### Competitive Analysis / Cloud providers
-
-*   [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
-
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
 ### Pricing / Usage-based Pricing
@@ -104,10 +140,6 @@
 ### Pricing / Market Research
 
 *   [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor%E2%80%93Granger_method) - Used in surveys to determine the price for a new product or service. The results can be used to produce a demand chart and a revenue curve.
-
-### Accounting / Bookkeeping
-
-*   [So, you want to learn Bookkeeping!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - Focus on the daily operations of recording and maintaining the transactions of a business.
 
 ### Coupons and Vouchers / Currencies
 
@@ -136,12 +168,6 @@
 
 *   [Ledger (⭐648)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
 *   [Akaunting (⭐6.3k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
-
-## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
-
-### Business Intelligence / Metrics
-
-*   [The SaaS Financial Model You'll Actually Use](https://baremetrics.com/blog/saas-financial-model) - A complete tour of the financials of a statup, which gives you extra-context on how the metrics you produce fit into the larger picture.
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
@@ -268,10 +294,7 @@
 
 ### Finance / Currencies
 
-*   [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://amzn.com/0273744704/?tag=kevideld-20) - Helps you learn how to analyse and monitor your company's financial performance.
 *   [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/) - “Malone created a new accounting metric, something he called ‘earnings before interest, depreciation, and taxes’, or EBITDA.” This is how a cable company CEO made sense of cash flow, like real-estate business did. The article starts with this example and describes other cash flow games for SaaS models.
-*   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://amzn.com/1422119157/?tag=kevideld-20) - Allows you to fully understand how to use financial data to make better decisions for your business.
-*   [Algebraic Models for Accounting Systems](https://amzn.com/9814287113/?tag=kevideld-20) - Advanced abstract algebra applied to the analysis of accounting systems.
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -473,10 +496,8 @@
 
 ### Marketplace / Cloud Resources
 
-*   [Incentive Engineering for Computational Resource Management](https://agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf) - Paper exploring the “mechanisms for the allocation of processor time and storage that are compatible both with programming practice and with market mechanisms.”
 *   [Pricing of Service in Clouds: Optimal Response and Strategic Interactions](http://www.sigmetrics.org/mama/2013/abstracts2013/UrgaonkarEtAl.pdf) - “How should the consumer modulate its demand to optimize its profits? (…) How should the provider and consumer negotiate the specific pricing structure they will employ?” Covers non-linear models, tiered pricing, elastic demand, consumer et provider strategies.
 *   [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf) - “Amazon's spot price is unlikely to be set according to market supply and demand. Rather, price oscillates within a very narrow band most of the time, which is more likely to be an artifact of some pricing algorithm with predetermined reserve price.”
-*   [Usage Patterns and the Economics of the Public Cloud](https://vita.mcafee.cc/PDF/EconPublicCloud.pdf) - “We examine the economics of demand and supply in cloud computing. (…) These results explain why fixed prices currently prevail despite the seeming need for time-varying dynamics. Examining the actual CPU utilization provides a lens into the future. (…) demand fluctuations would be on par with the three classic industries where dynamic pricing is important (hotels, electricity, airlines) and dynamic prices would be essential for efficiency.”
 *   [Maximizing Profit of Cloud Brokers under Quantized Billing Cycles: a Dynamic Pricing Strategy based on Ski-Rental Problem](https://arxiv.org/pdf/1507.02545.pdf) - “The key idea of our algorithms is to use pricing signal to regulate user demand. One may argue that such an algorithm gives poor service to the user as it pushes tasks out of the queue in order to maximize cloud broker's profit.”
 *   [Present or Future: Optimal Pricing for Spot Instances](https://web.archive.org/web/20150708151037/http://www.temple.edu/cis/icdcs2013/data/5000a410.pdf) - “Pricing policy of spot resources should be carefully designed and the impact on both present and future should be considered.”
 *   “You always pay the spot market price, not your bid.” ([source](https://news.ycombinator.com/item?id=20347716)) - Simple explanation of the bidding mechanism.
@@ -551,7 +572,6 @@
 ### Competitive Analysis / Cloud providers
 
 *   [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - A wrap-up of recent GCP pricing features.
-*   [Orbitera](https://www.orbitera.com) - GCP's billing subsidiary.
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
 
@@ -564,7 +584,6 @@
 ### Business Intelligence / Data Engineering
 
 *   [Why not use Double or Float to represent currency?](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040) - Because of precision: floats and doubles cannot accurately represent the base 10 multiples that we use for money.
-*   [European Spreadsheet Risks Interest Group - Horror Stories](http://www.eusprig.org/horror-stories.htm) - A collection of cases in which uncontrolled and untested spreadsheet models led to lost revenue, mispricing, poor decision making, fraud and systemic financial failure.
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
@@ -580,7 +599,6 @@
 ### Pricing / Hybrid
 
 *   [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - Beyond linear pricing, there is a place for additional platform fees and free-tiers in the pricing structure.
-*   [Google Ads API: `BillingCap` enum](https://developers.google.com/ad-manager/api/reference/v201911/CompanyService.BillingCap) - Capped actuals: monthly with rollover, an optimized pricing scheme to limit surprises from customers, in which we more or less sell quotas.
 
 ### Pricing / Strategy
 
@@ -612,10 +630,6 @@
 *   [Monzo's bank transfers post-mortem](https://monzo.com/blog/2019/06/20/why-bank-transfers-failed-on-30th-may-2019/) - Or why you should be prepared for and work around gateway provider's outages.
 *   [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox's experience trying to account for an unreliable payment provider.
 *   [Why was I charged?](https://wpchrg.wordpress.com) - Under a constant stream of user complaints about payments, WordPress created a dedicated subdomains to help customers understand unexpected transactions. The trick is to add the URL of that kind of site directly in the bank statement.
-
-### Payments / Credit Cards
-
-*   [pci-blackbox](https://github.com/trustly/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
 
 ### Payments / Bank Accounts
 
@@ -706,7 +720,6 @@
 ### Payments / Electronic invoices
 
 *   [How to Build an Insurance Company](https://www.moderntreasury.com/journal/how-to-build-an-insurance-company) - The importance of payment ops architecture.
-*   [EU's Late Payment Directive](https://ec.europa.eu/growth/smes/support/late-payment_en) - European rules on applicable fees for late payments.
 *   [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944) - The root cause? People wearing a lot of wool in low humidity air, generating a lot of static.
 *   How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
 
@@ -740,7 +753,6 @@
 
 ### UX/UI / Billing
 
-*   [Apple Subscriptions HIG](https://developer.apple.com/design/human-interface-guidelines/subscriptions/overview/) - Guide and recommendation on how to make [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) user-friendly.
 *   [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - Focus first on other things in the cart, like easing anxiety and second-guessing by adding reassurance (trust marks, testimonials) near the credit card and completion steps, as well as some guarantee language that you may have used earlier in the product exploration process.
 
 ### Competitive Analysis / Cloud providers

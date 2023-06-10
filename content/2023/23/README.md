@@ -14,6 +14,46 @@
 
 ## [2. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
+### Marketplace / Cloud Resources
+
+*   [Incentive Engineering for Computational Resource Management](https://papers.agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf) - Paper exploring the “mechanisms for the allocation of processor time and storage that are compatible both with programming practice and with market mechanisms.”
+*   [Usage Patterns and the Economics of the Public Cloud](https://mc4f.ee/Papers/PDF/EconPublicCloud.pdf) - “We examine the economics of demand and supply in cloud computing. (…) These results explain why fixed prices currently prevail despite the seeming need for time-varying dynamics. Examining the actual CPU utilization provides a lens into the future. (…) demand fluctuations would be on par with the three classic industries where dynamic pricing is important (hotels, electricity, airlines) and dynamic prices would be essential for efficiency.”
+
+### Accounting / Bookkeeping
+
+*   [So, you want to learn Bookkeeping!](https://www.dwmbeancounter.com/BCTutorials/BCIntro/index.html) - Focus on the daily operations of recording and maintaining the transactions of a business.
+
+### Finance / Currencies
+
+*   [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://www.amazon.com/dp/0273744704?\&linkCode=ll1\&tag=kevideld-20\&linkId=f491ee18c48fdaf3226904a39612cc22\&language=en_US\&ref_=as_li_ss_tl) - Helps you learn how to analyse and monitor your company's financial performance.
+*   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://www.amazon.com/dp/1422119157?\&linkCode=ll1\&tag=kevideld-20\&linkId=8d87e9235a1a05c4e0bec4b25230f28d\&language=en_US\&ref_=as_li_ss_tl) - Allows you to fully understand how to use financial data to make better decisions for your business.
+*   [Algebraic Models for Accounting Systems](https://www.amazon.com/dp/9814287113?\&linkCode=ll1\&tag=kevideld-20\&linkId=3d8973d09f9143db8db8639615d12413\&language=en_US\&ref_=as_li_ss_tl) - Advanced abstract algebra applied to the analysis of accounting systems.
+
+### Payments / Electronic invoices
+
+*   [EU's Late Payment Directive](https://single-market-economy.ec.europa.eu/smes/sme-strategy/late-payment-directive_en) - European rules on applicable fees for late payments.
+
+### Payments / Credit Cards
+
+*   [pci-blackbox (⭐0)](https://github.com/pjfoley/pci-blackbox) - PCI-DSS compliant card system built on PostgreSQL and PL/pgSQL.
+
+### UX/UI / Billing
+
+*   [Apple In-app purchase Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Autorenewable-subscriptions) - Guide and recommendation on how to make [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) user-friendly.
+
+### Business Intelligence / Metrics
+
+*   [The SaaS Financial Model You'll Actually Use](https://web.archive.org/web/20230205234207/https://baremetrics.com/blog/saas-financial-model) - A complete tour of the financials of a statup, which gives you extra-context on how the metrics you produce fit into the larger picture.
+
+### Business Intelligence / Data Engineering
+
+*   [European Spreadsheet Risks Interest Group - Horror Stories](https://eusprig.org/research-info/horror-stories/) - A collection of cases in which uncontrolled and untested spreadsheet models led to lost revenue, mispricing, poor decision making, fraud and systemic financial failure.
+
+### Competitive Analysis / Cloud providers
+
+*   [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/2022/01/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
+*   [Orbitera](https://en.wikipedia.org/wiki/Orbitera) - GCP's billing subsidiary.
+
 ### Humour / Cloud providers
 
 *   [Detax](https://detax.framer.website) - A site mockup of an tax avoidance product for small businesses.
@@ -448,16 +488,22 @@
 
 ### Software / Miscellaneous
 
+*   [Jellyseerr (⭐1.4k)](https://github.com/Fallenbagel/jellyseerr) - A free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers! `MIT` `Docker`
 *   [penpot](https://penpot.app/) - A web based design and prototyping platform meant for cross-domain teams. ([Source Code (⭐22k)](https://github.com/penpot/penpot)) `MPL-2.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
 *   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code](https://github.com/bitcart)) `MIT` `Docker/Python/Nodejs`
 *   [Kill Bill](https://killbill.io/) - Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports. ([Source Code (⭐4k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
+*   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐460)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
 
 ### Software / Pastebins
 
 *   [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more. ([Source Code (⭐170)](https://github.com/interaapps/pastefy), [Clients](https://github.com/topics/pastefy-addon)) `MIT` `Java`
+
+### Software / Personal Dashboards
+
+*   [envlinks (⭐3)](https://github.com/maxhollmann/envlinks) - A minimalist link dashboard showing links from environment variables. ([Demo](https://envlinks-demo.vercel.app/)) `MIT` `Docker`
 
 ### Software / Photo and Video Galleries
 
@@ -470,6 +516,14 @@
 ### Software / URL Shorteners
 
 *   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.jck.cx), [Source Code (⭐49)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
+
+### Software / Wikis
+
+*   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐140)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
+
+### List of Licenses / Wikis
+
+*   `GPL-1.0` - [GNU General Public License 1.0](https://spdx.org/licenses/GPL-1.0.html)
 
 ## [46. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
