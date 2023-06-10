@@ -6,6 +6,12 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / Weekly / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
+## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
+
+### Job boards
+
+*   [Dev Employ](https://devemploy.com) Hand-picked developer jobs
+
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Companies with "remote DNA"

@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jun 10, 2023](/content/2023/06/10/README.md)
+
+### Inbox: Large Language Models / Contribute to Our Repository
+
+*   [Falcon LLM - Home](https://falconllm.tii.ae/): a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens shared by Technology Innovation Institute from Abu Dhabi
+
 ## [Jun 09, 2023](/content/2023/06/09/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
