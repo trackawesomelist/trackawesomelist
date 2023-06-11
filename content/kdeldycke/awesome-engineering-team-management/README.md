@@ -2,9 +2,100 @@
 
 👔 How to transition from software development to engineering management
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-engineering-team-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) · ⭐ 1.2K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-engineering-team-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) · ⭐ 1.5K · 🏷️ Business
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-engineering-team-management/week/README.md) / [Overview](/content/kdeldycke/awesome-engineering-team-management/readme/README.md) ]
+
+## [Jun 11, 2023](/content/2023/06/11/README.md)
+
+### Engineering to Management Transition
+
+*   [On being an Engineering Manager](https://ruiper.es/posts/engineer-manager-2017/) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
+*   [The One Minute Manager Meets the Monkey](https://www.amazon.com/dp/0688103804?\&linkCode=ll1\&tag=kevideld-20\&linkId=704eff2e2cddae6d97ef082a6f25bafd\&language=en_US\&ref_=as_li_ss_tl) - The author use a parable in which problems are monkeys. Unexperienced managers let monkeys being transferred to them, accumulates on their back and compounds. From this, the book teach you how to change from taking on responsibilities to delegating them so you don't become a bottleneck.
+
+### Roles / Executives
+
+*   [US Air Force's Strategic Leadership Studies](https://web.archive.org/web/20190308062113/http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
+
+### Recruitment / Coding Challenge
+
+*   [How to Freaking Find Great Developers By Having Them Read Code](https://web.archive.org/web/20230416055512/https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) - “Instead of writing code, consider having the candidate read existing code and talk about how it works. 1) Reading code is 95% of what a developer does as part of their job. 2) A candidate can tell you a lot about their programming skill in the first five minutes of reading. 3) Stress is your enemy because it raises adrenaline which lowers IQ by several points, causing you to miss good candidates.”
+*   [The Horrifically Dystopian World of Software Engineering Interviews](https://web.archive.org/web/20210911031845/https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - The dark side on relying too much on algorithm challenges.
+*   [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://web.archive.org/web/20211020130141/https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - Five multiple-choice questions to easily separate the real software engineers from the rest.
+
+### Recruitment / Negotiation
+
+*   [How to answer the “What's your current salary?” job interview question](https://web.archive.org/web/20190228034111/https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad?gi=a7f878096392) - This article explain the dynamic of that sneaky question and how to defuse it.
+
+### Motivation / Happiness
+
+*   [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.amazon.com/dp/1595621113?\&linkCode=ll1\&tag=kevideld-20\&linkId=cc8ac8de84cb23f23ca5577dcb7af139\&language=en_US\&ref_=as_li_ss_tl) - We learn in this book that employee happiness was not correlated to company success. A comment on HN details the [questions that were highly correlated to company success](https://news.ycombinator.com/item?id=20571219).
+
+### Cognitive Tools / Behavioral
+
+*   [Intellectual Humility Cheat Sheet](https://web.archive.org/web/20200526135036/https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - “is about being open and able to change your mind about important things, and being able to discern when you should.”
+
+### Team Dynamics / Behavioral
+
+*   [Symptoms of Groupthink](https://web.archive.org/web/20210925184712/https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - Overconfidence, tunnel vision and conformity pressure can led a group astray.
+
+### Engineering / Systems Complexity
+
+*   [Living with Complexity, by Donald A. Norman](https://www.amazon.com/Living-Complexity-Donald-Norman-2010/dp/B00DEKM5GK?_encoding=UTF8\&qid=1686404524\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=497ae387bbd398624d897bdfbf90f7b6\&language=en_US\&ref_=as_li_ss_tl) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
+*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐21k)](https://github.com/kdeldycke/awesome-falsehood).
+
+### Engineering / Engineering Practices
+
+*   [How to Misuse Code Coverage](https://web.archive.org/web/20180508120159/http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf) - “If a part of your test suite is weak in a way that coverage can detect, it's likely also weak in a way coverage can't detect.” I.e. the great benefit of a coverage report is that it tells you what you forgot to think about when you wrote the test suite itself ([source](https://news.ycombinator.com/item?id=28678098)).
+
+### Engineering / Technical Debt
+
+*   [The Framing of the Developer](https://www.amazingcto.com/develop-for-impact-not-for-backlog/) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
+
+### Meetings / Standups
+
+*   [Your daily standups should be async. Here's why](https://web.archive.org/web/20200515171636/https://www.cadencework.com/blog/async-standups.html) - “Daily, real-time meetings aren't practical for remote teams” might be the best practical reason.
+
+### Product Management / Product Strategy
+
+*   [Reverse Engineering A Successful Lifestyle Business](https://web.archive.org/web/20230129184848/http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - Targets lifestyle entrepreneur, but still full of fantastic quotes from reference books on customer relation, pricing and marketing a product.
+
+### Product Management / User-Centered Design
+
+*   [Kasparov's Law](https://web.archive.org/web/20220120220730/https://curatedintelligence.wordpress.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
+
+### Project Management / Specifications
+
+*   “Walking on water and developing software from a specification are easy if both are frozen.” Edward V. Berard - [Essays on object-oriented software engineering](https://www.amazon.com/dp/0132888955?\&linkCode=ll1\&tag=kevideld-20\&linkId=559e579e5b00fde12559bbbb91ec1b95\&language=en_US\&ref_=as_li_ss_tl).
+*   [The art of destroying software](https://www.youtube.com/watch?v=Ed94CfxgsCA) - Greg Young described a good way to deal with requirements volatility: optimize from the beginning to be able to delete your code, and structure your code so that any part of it is no bigger than 1 week's worth of coding. So that any part can be re-written in 1 week.
+
+### Project Management / Estimations
+
+*   [Who are you trying to impress with your deadlines?](https://web.archive.org/web/20200102054540/http://jatins.gitlab.io/me/why-deadline/) - “There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.”
+
+### Key Performance Indicator (KPI) / Tickets
+
+*   “Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.” - [W. Edwards Deming](https://www.amazon.com/Out-Crisis-W-Edwards-Deming/dp/0911379010?_encoding=UTF8\&qid=\&sr=\&linkCode=ll1\&tag=kevideld-20\&linkId=ec7a442a2cd5bfcfb5b6c32ea1409f2f\&language=en_US\&ref_=as_li_ss_tl)
+
+### Communication / Reading
+
+*   [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) - Outlines a practical and efficient three-pass method for reading research papers.
+
+### Communication / Style
+
+*   [JStylo & Anonymouth (⭐9)](https://github.com/spencermwoo/anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
+
+### Communication / Presentations
+
+*   [Presentation Rules](https://web.archive.org/web/20220720230551/http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - A set of 16 rules to avoid boring and ineffective presentations, and have your message reach your audience.
+
+### Politics / Equity
+
+*   [The 48 Laws of Power](https://www.amazon.com/dp/0140280197?\&linkCode=ll1\&tag=kevideld-20\&linkId=bf129d7f7a3495a445cf2bf667d3d3c6\&language=en_US\&ref_=as_li_ss_tl) - By Robert Greene. Can teach you how to cover your ass and be effective in a highly political org.
+
+### Health / Burnout
+
+*   [Burnout Stage Analysis](https://catarina.skylyte.com) - Better understand where you land on the spectrum of burnout.
 
 ## [Dec 20, 2022](/content/2022/12/20/README.md)
 
@@ -38,11 +129,6 @@
 
 ## [Apr 28, 2022](/content/2022/04/28/README.md)
 
-### Engineering to Management Transition
-
-*   [On being an Engineering Manager](https://ruiper.es/f746f5b7fff042c0a2565b6e36d236a4) - Some of these points needs nuance, but others are a good taste of things to come for first-time managers.
-*   [The One Minute Manager Meets the Monkey](https://amzn.com/0688103804/?tag=kevideld-20) - The author use a parable in which problems are monkeys. Unexperienced managers let monkeys being transferred to them, accumulates on their back and compounds. From this, the book teach you how to change from taking on responsibilities to delegating them so you don't become a bottleneck.
-
 ### Onboarding / Negotiation
 
 *   [The Most Important Performance Management Rule For Software Engineers](https://staysaasy.com/startups/2022/04/03/performance-management.html) - “Merge code every week. That's what you should be saying to your new Software Engineering hire.”
@@ -53,11 +139,6 @@
 
 ## [Apr 27, 2022](/content/2022/04/27/README.md)
 
-### Recruitment / Coding Challenge
-
-*   [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) - “Instead of writing code, consider having the candidate read existing code and talk about how it works. 1) Reading code is 95% of what a developer does as part of their job. 2) A candidate can tell you a lot about their programming skill in the first five minutes of reading. 3) Stress is your enemy because it raises adrenaline which lowers IQ by several points, causing you to miss good candidates.”
-*   [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - Five multiple-choice questions to easily separate the real software engineers from the rest.
-
 ### Meetings / Technical Debt
 
 *   [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
@@ -65,7 +146,6 @@
 
 ### Meetings / Standups
 
-*   [Your daily standups should be async. Here's why](https://www.cadencework.com/blog/async-standups.html) - “Daily, real-time meetings aren't practical for remote teams” might be the best practical reason.
 *   [The Good, the Bad and the Ugly Standup](https://kristoff.it/blog/good-bad-ugly-standup/) - Author experienced 3 formats of stand-ups before ending with one working for his team, and concludes that “the details that make up a good meeting are subtle and the pursuit of an artificial standard of aesthetics will prevent you from doing the necessary experimentation to improve from an ugly equilibrium”.
 *   [We Cancelled Standups and Let The Team Build. Here's What Happened…](https://www.usehaystack.io/blog/we-cancelled-standups-and-let-the-team-build-heres-what-happened) - Team felt burned out by long, daily status update meetings masquerading as standups. Eliminating these faux standups got the team back on track.
 
@@ -98,10 +178,6 @@
 ### Product Management / Product Strategy
 
 *   Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
-
-### Product Management / User-Centered Design
-
-*   [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
 
 ### Agile / Tickets
 
@@ -151,15 +227,11 @@
 
 ### Recruitment / Interview
 
-*   [Engineering Leadership Interviews (⭐77)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
+*   [Engineering Leadership Interviews (⭐87)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
 
 ### Cognitive Tools / Collections
 
-*   [Awesome Concepts (⭐421)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
-
-### Engineering / Engineering Practices
-
-*   [How to Misuse Code Coverage](http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf) - “If a part of your test suite is weak in a way that coverage can detect, it's likely also weak in a way coverage can't detect.” I.e. the great benefit of a coverage report is that it tells you what you forgot to think about when you wrote the test suite itself ([source](https://news.ycombinator.com/item?id=28678098)).
+*   [Awesome Concepts (⭐443)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
 
 ## [Sep 27, 2021](/content/2021/09/27/README.md)
 
@@ -235,7 +307,6 @@
 ### Health / Burnout
 
 *   [Burnout From an Organizational Perspective](https://ssir.org/articles/entry/burnout_from_an_organizational_perspective) - “Extensive research by the military on sustainable performance in stressful conditions teaches that leaders should become champions of health, rather than taskmasters.” Describe the symptoms of toxic organizations and how managers can protect their teams from systemic burnout.
-*   [What makes you resilient?](https://www.skylyte.io/self-assessment) - A quick test to profile your energy source, the way you deal with stress, and how it impact your team.
 
 ## [May 20, 2021](/content/2021/05/20/README.md)
 
@@ -332,10 +403,6 @@
 
 *   [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication) - Microsoft's guide on how to improve writing to be more inclusive and diverse.
 
-### Communication / Presentations
-
-*   [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - A set of 16 rules to avoid boring and ineffective presentations, and have your message reach your audience.
-
 ### Setbacks and Failures / Burnout
 
 *   [Huge success in business is largely based on luck](https://theconversation.com/huge-success-in-business-is-largely-based-on-luck-new-research-130843) - “Management research and education should focus on prescriptive theories that can help business practitioners move from 'incompetent to OK', rather than focusing on those that address how to move from 'good to great'.”
@@ -362,7 +429,7 @@
 
 ### Recruitment / Interview
 
-*   [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - The essential of [*Who*, a popular book](https://amzn.com/0345504194/?tag=kevideld-20) on recruiting executives.
+*   [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - The essential of [*Who*, a popular book](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194?_encoding=UTF8\&qid=1686402298\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=d4a63bc5d11e6d00d942c293a640e2c1\&language=en_US\&ref_=as_li_ss_tl) on recruiting executives.
 
 ### Motivation / Happiness
 
@@ -430,10 +497,6 @@
 
 *   [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - “Startups need an exit strategy. (…) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.” So from this angle, the only reason to join a startup is for future money windfall.
 
-### Politics / Equity
-
-*   [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20) - By Robert Greene. Can teach you how to cover your ass and be effective in a highly political org.
-
 ### Health / Holidays
 
 *   [Should we take a few long holidays, or lots of short ones?](http://timharford.com/2019/09/should-we-take-a-few-long-holidays-or-lots-of-short-ones/) - Short ones. “Reason one: holiday memories tend to depend not on how long the holiday was, but on the intensity of the experiences. Reason two: a change of activity can be a spur to creativity. Reason three for taking a short break: if we need rest to prevent exhaustion, a single, long vacation won't do the trick.”
@@ -461,7 +524,7 @@
 
 *   [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. “Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.”
 *   “The best managers I met tended to be those that if the circumstance required it, could do the job of those two levels below.” ([source](https://news.ycombinator.com/item?id=23891984)) - Another way of putting it: managers needs domain knowledge and to know the work their reports do.
-*   “Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.” ([source](https://news.ycombinator.com/item?id=20683609)) - This quote is [from David Packard](https://amzn.com/0060845791/?tag=kevideld-20) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
+*   “Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.” ([source](https://news.ycombinator.com/item?id=20683609)) - This quote is [from David Packard](https://www.amazon.com/HP-Way-Hewlett-Built-Company/dp/0887307477?_encoding=UTF8\&qid=1686404404\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=e6069674f9b0b4ef884b0f8f70eb8f94\&language=en_US\&ref_=as_li_ss_tl) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
 
 ### Career / Presentations
 
@@ -520,10 +583,6 @@
 
 *   [What makes a Senior Dev](https://news.ycombinator.com/item?id=11341567) - “Time, man. You gotta do your fucking time.”
 
-### Engineering / Systems Complexity
-
-*   [Living with Complexity, by Donald A. Norman](https://amzn.com/0262014866/?tag=kevideld-20) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
-
 ### Engineering / Technology
 
 *   “Lots of people make the mistake of thinking there's only two vectors you can go to improve performance, high or wide. High - throw hardware at the problem, on a single machine. Wide - add more machines. [There's a third direction you can go, I call it *going deep*.](https://news.ycombinator.com/item?id=8902739)”
@@ -548,11 +607,11 @@
 
 ### Roles / Executives
 
-*   [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Paraphrasing [Andy Grove's book, High Output Management](https://amzn.com/0679762884/?tag=kevideld-20), “the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions.” The article also details the failures modes of a CEO: forcing his own decisions downstream, or various ways of not resolving conflicts.
+*   [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - Paraphrasing [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0394532341?\&linkCode=ll1\&tag=kevideld-20\&linkId=f80a2e0610594cad92d301c587380f0a\&language=en_US\&ref_=as_li_ss_tl), “the job of an executive is: to define and enforce culture and values for their whole organization, and to ratify good decisions.” The article also details the failures modes of a CEO: forcing his own decisions downstream, or various ways of not resolving conflicts.
 
 ### Recruitment / Job Boards
 
-*   [Awesome Job Boards (⭐691)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
+*   [Awesome Job Boards (⭐780)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 
 ### Recruitment / Hiring Process
 
@@ -582,7 +641,6 @@
 
 ### Motivation / Happiness
 
-*   [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://amzn.com/1595621113/?tag=kevideld-20) - We learn in this book that employee happiness was not correlated to company success. A comment on HN details the [questions that were highly correlated to company success](https://news.ycombinator.com/item?id=20571219).
 *   “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
 
 ### Team Dynamics / Behavioral
@@ -610,7 +668,7 @@
 ### Politics / Equity
 
 *   [The Prince](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honor and power as a leader. Resorting to that level of politics in a company is a sure way to render the culture highly toxic, as well as corrupting and demoralizing the organization at all levels.
-*   [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
+*   [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://archive.org/details/SimpleSabotageFieldManual), a classic read to spot harassing and demoralizing behaviors.
 
 ### Health / Burnout
 
@@ -654,7 +712,7 @@
 
 ### Engineering to Management Transition
 
-*   “So the trick is basically to put them (your direct reports) in charge, not you. You have the supporting role, they can request things from you. But the goal needs to be very clear.” ([source](https://news.ycombinator.com/item?id=23973859)) - A recipe on how to work with your direct reports, from a section of [7 habits of highly effective people](https://amzn.com/B01069X4H0/?tag=kevideld-20).
+*   “So the trick is basically to put them (your direct reports) in charge, not you. You have the supporting role, they can request things from you. But the goal needs to be very clear.” ([source](https://news.ycombinator.com/item?id=23973859)) - A recipe on how to work with your direct reports, from a section of [7 habits of highly effective people](https://www.amazon.com/dp/1982137274?\&linkCode=ll1\&tag=kevideld-20\&linkId=5920a3d486de941b37430f948d377bc9\&language=en_US\&ref_=as_li_ss_tl).
 
 ## [Aug 03, 2020](/content/2020/08/03/README.md)
 
@@ -681,12 +739,6 @@
 ### Project Management / Tickets
 
 *   [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
-
-## [Jun 16, 2020](/content/2020/06/16/README.md)
-
-### Engineering / Technical Debt
-
-*   [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
 
 ## [Jun 10, 2020](/content/2020/06/10/README.md)
 
@@ -740,10 +792,6 @@
 
 *   [Noise, Cognitive Function, and Worker Productivity](https://joshuatdean.com/wp-content/uploads/2020/02/NoiseCognitiveFunctionandWorkerProductivity.pdf) - “An increase of 10 dB reduces productivity by approximately 5%.”
 
-### Product Management / Product Strategy
-
-*   [Reverse Engineering A Successful Lifestyle Business](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - Targets lifestyle entrepreneur, but still full of fantastic quotes from reference books on customer relation, pricing and marketing a product.
-
 ### Product Management / User-Centered Design
 
 *   [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - “Fall in love with your problems and not with your solutions.”
@@ -762,7 +810,6 @@
 
 ### Project Management / Estimations
 
-*   [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/) - “There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.”
 *   [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/) - How not to manage projects approaching deadlines: “cutting finished features, yelling at people, and working people to the point of nervous breakdowns. Then they came upon a brilliant idea: let's steal over a hundred engineers from other teams and then the project will magically get done on time.”
 
 ## [May 13, 2020](/content/2020/05/13/README.md)
@@ -786,7 +833,7 @@
 ### Building Teams
 
 *   [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - “Google's data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.”
-*   [Paper we love: Software Engineering Organizations (⭐66k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+*   [Paper we love: Software Engineering Organizations (⭐73k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 *   [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes-2/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article “would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.”
 
 ### Roles / Executives
@@ -818,7 +865,7 @@
 
 ### Recruitment / Hiring Process
 
-*   [Open Sourced Interview Process (⭐363)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+*   [Open Sourced Interview Process (⭐376)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 *   [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
 ### Recruitment / Coding Challenge
@@ -828,7 +875,6 @@
 ### Recruitment / Negotiation
 
 *   [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/) - “A good negotiator is empathetic and collaborative. They don't try to control you or issue ultimatums. Rather, they try to think creatively about how to fulfill both your and their needs.”
-*   [How to answer the “What's your current salary?” job interview question](https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad#.izg4ips52) - This article explain the dynamic of that sneaky question and how to defuse it.
 
 ### Motivation / Negotiation
 
@@ -858,7 +904,6 @@
 
 *   “People make bad choices if they're mad or scared or stressed.” - [Disney's Frozen](https://i.pinimg.com/originals/b5/17/97/b5179700050b96f91f63e086e053b5ee.jpg).
 *   [I coached CEOs, founders, VCs and other executive: These are the biggest takeaways](https://leowid.com/2019-2) - Excerpt: “We're all just big, complicated bags of emotion walking around; Power comes with the ability to receive a No; Learning to manage your focus, not your time.”
-*   [Intellectual Humility Cheat Sheet](https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - “is about being open and able to change your mind about important things, and being able to discern when you should.”
 
 ### Team Dynamics / Behavioral
 
@@ -869,7 +914,6 @@
 ### Engineering / Systems Complexity
 
 *   [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - “Tendency of small, elegant, and successful systems, to be succeeded by over-engineered, bloated systems”.
-*   [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐19k)](https://github.com/kdeldycke/awesome-falsehood).
 
 ### Engineering / Technology
 
@@ -911,16 +955,11 @@
 
 ### Project Management / Specifications
 
-*   “Walking on water and developing software from a specification are easy if both are frozen.” Edward V. Berard - [Essays on object-oriented software engineering](https://amzn.com/0132888955/?tag=kevideld-20).
 *   [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/) - “Start by accepting that change is inevitable. (…) As a consequence of this, software is never finished, only abandoned. (…) This means that no software product is ever exactly, perfectly satisfactory.”
 
 ### Agile / Tickets
 
 *   “The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery.” ([source](https://news.ycombinator.com/item?id=20326074))
-
-### Key Performance Indicator (KPI) / Tickets
-
-*   “Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.” - [W. Edwards Deming](https://quotes.deming.org/authors/W._Edwards_Deming/quote/2068-2)
 
 ### Objectives and Key Results (OKR) / Tickets
 
@@ -946,7 +985,7 @@
 
 *   [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.”
 *   [`proselint`](https://github.com/amperser/proselint/) - Places the world's greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
-*   [alex (⭐4.5k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+*   [alex (⭐4.6k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 
 ### Compensation / Equity
 
@@ -1021,7 +1060,7 @@
 
 ### Remote Work / Technical Debt
 
-*   [Awesome Remote Job (⭐24k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+*   [Awesome Remote Job (⭐26k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ### Agile / Tickets
 
@@ -1038,23 +1077,18 @@
 
 *   [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
 
-### Communication / Style
-
-*   [Watson Text Tone Analyzer Demo](https://tone-analyzer-demo.ng.bluemix.net) - Analyzes text to get a sense of the overall tone of the document, or at the sentence level.
-*   [JStylo & Anonymouth](https://psal.cs.drexel.edu/index.php/JStylo-Anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
-
 ## [Mar 01, 2020](/content/2020/03/01/README.md)
 
 ### Roles / Engineering Managers
 
-*   [Engineering Manager Resources (⭐8k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
+*   [Engineering Manager Resources (⭐9.8k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 *   [The Leadership Library for Engineers](https://leadership-library.dev) - A list of books to help engineering leaders level up.
 
 ## [Feb 28, 2020](/content/2020/02/28/README.md)
 
 ### Recruitment / Job Boards
 
-*   [Hiring Without Whiteboards (⭐34k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+*   [Hiring Without Whiteboards (⭐37k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 *   [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
 
 ### Recruitment / Interview
@@ -1064,8 +1098,8 @@
 
 ### Recruitment / Coding Challenge
 
-*   [FizzBuzz Enterprise Edition (⭐18k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
-*   [Awesome Interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
+*   [FizzBuzz Enterprise Edition (⭐19k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
+*   [Awesome Interviews (⭐56k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
 
 ### Meetings / 1 on 1
 
@@ -1073,13 +1107,9 @@
 
 ### Objectives and Key Results (OKR) / Tickets
 
-*   [Awesome OKR (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr) - There is no shortage of content on how to measure and communicate objectives.
+*   [Awesome OKR (⭐1.5k)](https://github.com/domenicosolazzo/awesome-okr) - There is no shortage of content on how to measure and communicate objectives.
 
 ## [Feb 23, 2020](/content/2020/02/23/README.md)
-
-### Recruitment / Coding Challenge
-
-*   [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - The dark side on relying too much on algorithm challenges.
 
 ### Engineering / Technical Debt
 
@@ -1087,19 +1117,13 @@
 
 ### Product Management / Standups
 
-*   [Open Product Management (⭐3.3k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
+*   [Open Product Management (⭐3.5k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 *   [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
-*   [How to exit vim, the Product Manager way (⭐6.3k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+*   [How to exit vim, the Product Manager way (⭐6.4k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Compensation / Equity
 
 *   [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
-
-## [Feb 22, 2020](/content/2020/02/22/README.md)
-
-### Project Management / Specifications
-
-*   [The art of destroying software](https://vimeo.com/108441214) - Greg Young described a good way to deal with requirements volatility: optimize from the beginning to be able to delete your code, and structure your code so that any part of it is no bigger than 1 week's worth of coding. So that any part can be re-written in 1 week.
 
 ## [Feb 20, 2020](/content/2020/02/20/README.md)
 
@@ -1129,7 +1153,7 @@
 
 ### Meetings / 1 on 1
 
-*   [1 on 1 Meeting Questions (⭐9.1k)](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
+*   [1 on 1 Meeting Questions (⭐9.3k)](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 
 ## [Feb 15, 2020](/content/2020/02/15/README.md)
 
@@ -1149,7 +1173,6 @@
 
 *   [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - Refines the concept above adapting [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
 *   [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - Establishes and describes what leaders should be and do.
-*   [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - A reference of leadership's competencies and skills.
 *   [How CEOs Manage Time](https://hbr.org/2018/07/the-leaders-calendar) - A study on what CEO of large companies spent their time on, and how. Opens a new window into what leadership is all about and into its many components and dimensions.
 *   [Operations and Internal Communication Strategies For Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) - After insisting on the importance of context and narratives, the author provide an interesting template (good for inspiration) of ritual and recurring internal communication devices.
 
@@ -1162,7 +1185,7 @@
 
 ### Recruitment / Interview
 
-*   [Back-End Developer Interview Questions (⭐13k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
+*   [Back-End Developer Interview Questions (⭐14k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
 *   [Reverse interview (⭐25k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
 ### Motivation / Negotiation
@@ -1171,7 +1194,7 @@
 
 ### Culture / Procrastination
 
-*   [hacker-laws (⭐24k)](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
+*   [hacker-laws (⭐25k)](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
 *   [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 
 ### Cognitive Tools / Collections
@@ -1185,7 +1208,6 @@
 ### Team Dynamics / Behavioral
 
 *   [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
-*   [Symptoms of Groupthink](https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - Overconfidence, tunnel vision and conformity pressure can led a group astray.
 *   [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - Some kind of push backs shouldn't be interpreted as intentional sabotage, but as drowning people sinking the lifeboat in an attempt to save themselves.
 
 ### Remote Work / Technical Debt
@@ -1194,7 +1216,7 @@
 
 ### Product Management / Standups
 
-*   [Awesome Product Management (⭐898)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
+*   [Awesome Product Management (⭐1.1k)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 
 ### Product Management / Hiring PMs
 
@@ -1229,10 +1251,6 @@
 *   [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/) - Discusses mentorship practices that work well engineer-to-engineer.
 *   [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
 
-### Communication / Reading
-
-*   [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Outlines a practical and efficient three-pass method for reading research papers.
-
 ### Communication / Documentation
 
 *   [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - There is four kinds of documentation: tutorials, how-to guides, explanation and reference. Each with their own structure and mode of writing.
@@ -1241,7 +1259,7 @@
 ### Communication / Writing
 
 *   [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper, in the form of a typical journal publication.
-*   [Learning Technical Writing Using the Engineering Method](https://www.cs.tufts.edu/\~nr/pubs/learn.pdf) - An alternative approach, involving a weekly meeting of a writing group. An interesting dynamic to gather feedback and experience.
+*   [Learning Technical Writing Using the Engineering Method](https://www.cs.tufts.edu/~nr/pubs/learn.pdf) - An alternative approach, involving a weekly meeting of a writing group. An interesting dynamic to gather feedback and experience.
 *   [Algorithm for writing a scientific manuscript](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
 *   [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
 

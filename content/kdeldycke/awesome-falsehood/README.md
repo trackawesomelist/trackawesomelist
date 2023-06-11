@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-falsehood/week/README.md) / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
 
+## [Jun 11, 2023](/content/2023/06/11/README.md)
+
+### Dates and Time
+
+*   “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://www.amazon.com/dp/0316491705?\&linkCode=ll1\&tag=kevideld-20\&linkId=ec2881e22fb26c2d43de0daeebd5424d\&language=en_US\&ref_=as_li_ss_tl).
+
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
 ### Software Engineering
@@ -57,14 +63,10 @@
 *   [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/) - Same error as above at Google Ads, or the danger of separating your pennies from your dollars, where $250 internal coupons turned into $25,000. My advice: [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
 *   [Minutiae of company names](https://twitter.com/nthnmsmth/status/1587880523124408322) - How the rules of the State of Delaware and the IRS does not intersects.
 
-### Dates and Time
-
-*   “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491705/?tag=kevideld-20).
-
 ### Software Engineering
 
 *   [Falsehoods about Undefined Behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - Invoking undefined behavior can cause *anything* to happen, for a much broader definition of "anything" than one might think.
-*   [Facts about State Machines (⭐710)](https://github.com/cpressey/Facts-about-State-Machines) - State machines are often misunderstood and under-applied.
+*   [Facts about State Machines (⭐711)](https://github.com/cpressey/Facts-about-State-Machines) - State machines are often misunderstood and under-applied.
 *   [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) - There are edge-cases even in tagging systems which are suposed to be barebone.
 
 ## [Sep 01, 2022](/content/2022/09/01/README.md)
@@ -123,7 +125,7 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐630)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.2k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐549)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.3k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐640)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.2k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐549)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.4k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
@@ -137,7 +139,7 @@
 
 ### Business
 
-*   [CLDR currency definitions (⭐690)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐714)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [Nov 14, 2021](/content/2021/11/14/README.md)
 
@@ -210,12 +212,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐434)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐435)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐44)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐46)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -289,7 +291,7 @@
 
 ### Typography
 
-*   [Falsehoods about Fonts (⭐91)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+*   [Falsehoods about Fonts (⭐92)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
 ## [Dec 07, 2020](/content/2020/12/07/README.md)
 
@@ -338,7 +340,7 @@
 
 *   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
 *   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐839)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Awesome Unicode (⭐847)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 *   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
