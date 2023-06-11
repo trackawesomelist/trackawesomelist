@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jetli/awesome-yew/week/README.md) / [Overview](/content/jetli/awesome-yew/readme/README.md) ]
 
+## [Jun 11, 2023](/content/2023/06/11/README.md)
+
+### Crates / Utils
+
+*   [turf (⭐5)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
+
 ## [Jun 04, 2023](/content/2023/06/04/README.md)
 
 ### Projects
@@ -28,7 +34,7 @@
 
 ### Projects
 
-*   [Macige](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
+*   [Macige (⭐71)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 
 ## [Feb 22, 2023](/content/2023/02/22/README.md)
 
@@ -60,7 +66,7 @@
 
 ### Crates / Wasm
 
-*   [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
+*   [tauri-sys (⭐39)](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
 
 ### Crates / Frameworks
 
@@ -116,7 +122,7 @@
 
 ### Crates / Javascript Library Ports
 
-*   [Plotly.rs (⭐750)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
+*   [Plotly.rs (⭐757)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
 *   [ag-grid-rs (⭐7)](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
 
 ## [Sep 21, 2022](/content/2022/09/21/README.md)
@@ -138,7 +144,7 @@
 
 ### Projects
 
-*   [surfer](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
+*   [surfer (⭐52)](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://niqin.com). Backend for graphql services, and frontend for web application.
 
 ## [Aug 31, 2022](/content/2022/08/31/README.md)
 
@@ -174,7 +180,7 @@
 
 ### Projects
 
-*   [Rust Audio](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
+*   [Rust Audio (⭐38)](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
 
 ## [Jul 11, 2022](/content/2022/07/11/README.md)
 
@@ -187,13 +193,13 @@
 ### Projects
 
 *   [mb2](https://devctm.com) - A poker server with a Yew client. Click the `Demo` button and then `Start` to see the client.
-*   [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
+*   [Puzzle Cube (⭐7)](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 
 ## [Jun 09, 2022](/content/2022/06/09/README.md)
 
 ### Crates / Components
 
-*   [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
+*   [yew-scroll-area (⭐2)](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
 
 ## [May 22, 2022](/content/2022/05/22/README.md)
 
@@ -229,19 +235,19 @@
 
 ### Templates
 
-*   [rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
+*   [rust-yew-axum-tauri-desktop (⭐82)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 
 ## [Apr 12, 2022](/content/2022/04/12/README.md)
 
 ### Projects
 
-*   [Crabtyper](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
+*   [Crabtyper (⭐186)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 
 ## [Apr 11, 2022](/content/2022/04/11/README.md)
 
 ### Templates
 
-*   [axum-yew-setup](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
+*   [axum-yew-setup (⭐109)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
 
 ## [Apr 10, 2022](/content/2022/04/10/README.md)
 
@@ -263,7 +269,7 @@
 
 ### Templates
 
-*   [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
+*   [yew-template-for-github-io (⭐21)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
 
 ## [Mar 19, 2022](/content/2022/03/19/README.md)
 
@@ -422,7 +428,7 @@
 
 ### Crates / Component Libraries
 
-*   [yew-components](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
+*   [yew-components (⭐54)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 
 ## [Mar 31, 2021](/content/2021/03/31/README.md)
 
@@ -464,12 +470,12 @@
 
 ### Projects
 
-*   [wasm-2048](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
+*   [wasm-2048 (⭐144)](https://github.com/dev-family/wasm-2048) - 2048 game implemented with Rust and Yew and compiled to Wasm.
 
 ### Crates / Components
 
 *   [yew-component-size (⭐4)](https://github.com/AircastDev/yew-component-size) - A Yew component that emits events when the parent component changes width/height.
-*   [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
+*   [yew-virtual-scroller (⭐5)](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
 
 ## [Dec 11, 2020](/content/2020/12/11/README.md)
 
@@ -480,9 +486,9 @@
 ### Crates / Component Libraries
 
 *   [muicss-yew (⭐31)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
-*   [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
+*   [yew-bulma (⭐15)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
 *   [ybc (⭐229)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
-*   [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+*   [patternfly-yew (⭐97)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 
 ### Crates / Components
 

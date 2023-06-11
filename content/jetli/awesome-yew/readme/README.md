@@ -110,7 +110,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 *   [live-ask.com (⭐62)](https://github.com/liveask/liveask) - Realtime Event/Meetup Q\&A Platform. [Live at live-ask.com](https://live-ask.com).
 *   [Sumi (⭐5)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
 *   [hurlurl (⭐34)](https://github.com/lucasmerlin/hurlurl) - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
-*   [Macige](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
+*   [Macige (⭐71)](https://github.com/tramlinehq/macige) - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 *   [Spaceman (⭐342)](https://github.com/eliaperantoni/spaceman) - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
 *   [Crypto-helper (⭐23)](https://github.com/TheBestTvarynka/crypto-helper) - Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. [Website](https://crypto.qkation.com).
 
@@ -123,7 +123,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 *   [yew-template-for-github-io (⭐21)](https://github.com/Ja-sonYun/yew-template-for-github-io) - Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.
 *   [tailwindcss-yew-template (⭐12)](https://github.com/vvcaw/tailwindcss-yew-template) - Simple layout for using Tailwindcss with Yew.
 *   [axum-yew-setup (⭐109)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
-*   [rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
+*   [rust-yew-axum-tauri-desktop (⭐82)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 *   [Yew PWA Minimal (⭐39)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
 *   [Yew HTTP Starter (⭐3)](https://github.com/LeTurt333/yew_http_starter) - Yew template with a simple HTTP message & useful helper comments.
 
@@ -133,7 +133,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 
 *   [yew-mdc (⭐61)](https://github.com/dungeonfog/yew-mdc) - Material Design Components for the Yew framework.
 *   [muicss-yew (⭐31)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
-*   [yew-bulma](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
+*   [yew-bulma (⭐15)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
 *   [material-yew (⭐192)](https://github.com/hamza1311/material-yew) - Yew wrapper for Material Web Components.
 *   [Yewprint (⭐424)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
 *   [ybc (⭐229)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
@@ -150,7 +150,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 
 *   [Yew Form (⭐86)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 *   [yew-component-size (⭐4)](https://github.com/AircastDev/yew-component-size) - A Yew component that emits events when the parent component changes width/height.
-*   [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
+*   [yew-virtual-scroller (⭐5)](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
 *   [yew-oauth2 (⭐30)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 *   [yew-scroll-area (⭐2)](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
 
@@ -163,7 +163,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 
 ### Javascript Library Ports
 
-*   [Plotly.rs (⭐750)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
+*   [Plotly.rs (⭐757)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
 *   [ag-grid-rs (⭐7)](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
 
 ### Utils
@@ -178,6 +178,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 *   [yew\_icons (⭐23)](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
 *   [Yew-Template (⭐27)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 *   [yew-nested-router (⭐6)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
+*   [turf (⭐5)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
 
 ### Wasm
 
