@@ -183,7 +183,7 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 
 *   [Accelerated Text (⭐705)](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐705)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
 *   [Actionsflow](https://actionsflow.github.io/docs/) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. ([Source Code (⭐2.9k)](https://github.com/actionsflow/actionsflow)) `MIT` `Docker/Nodejs`
-*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Demo](https://demo.activepieces.com), [Source Code](https://www.github.com/activepieces/activepieces)) `MIT` `Typescript`
+*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code](https://www.github.com/activepieces/activepieces)) `MIT` `Typescript`
 *   [ActiveWorkflow (⭐702)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 *   [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on the Internet (browser fingerprinting tool). ([Source Code (⭐664)](https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`
 *   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐2.6k)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
@@ -1320,7 +1320,7 @@ Software that does not fit in another section.
 *   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐14k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go`
 *   [TeslaMate (⭐3.9k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir`
 *   [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code (⭐5.2k)](https://github.com/tmate-io/tmate)) `ISC` `C`
-*   [Upsnap (⭐564)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Svelte/Go/Docker`
+*   [Upsnap (⭐601)](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Svelte/Go/Docker`
 *   [ViMbAdmin](https://www.vimbadmin.net/) - Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases. ([Source Code (⭐473)](https://github.com/opensolutions/ViMbAdmin)) `GPL-3.0` `PHP`
 *   [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Source Code (⭐8.4k)](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 *   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐896)](https://github.com/weewx/weewx)) `GPL-3.0` `Python`
@@ -1506,7 +1506,7 @@ Dashboards for accessing information and applications.
 *   [LinkStack](https://linkstack.org/) - Open-source, customizable, self-hosted alternative to services like Linktree and Manylink with an intuitive, easy to use user/admin interface. LinkStack allows you to link all your social media platforms easily accessible on one page. ([Demo](https://linksta.cc/), [Source Code (⭐933)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP`
 *   [Organizr (⭐4.4k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
 *   [Smashing](https://smashing.github.io/) - Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs. ([Source Code (⭐3.1k)](https://github.com/Smashing/smashing)) `MIT` `Ruby`
-*   [Starbase 80 (⭐39)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
+*   [Starbase 80 (⭐44)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 *   [Web-Portal (⭐102)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 *   [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code (⭐2.3k)](https://github.com/wger-project/wger)) `AGPL-3.0` `Python`
 *   [Your Spotify (⭐1.6k)](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
@@ -1956,6 +1956,7 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 *   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐186)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs`
 *   [Easyshortener (⭐53)](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
 *   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang. `MIT` `Go`
+*   [Just Short It! (⭐2)](https://github.com/miawinter98/just-short-it) - A KISS, single-user URL shortener that runs in just one container. `MIT` `Docker`
 *   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐7.2k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 *   [liteshort](https://git.ikl.sh/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. `MIT` `Python`
 *   [Lstu (⭐189)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl`
@@ -2091,6 +2092,7 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively ed
 *   Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
 *   Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted/), [IndieWeb](https://indieweb.org/)
 *   Mirrors: [GitHub.com (⭐135k)](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+*   [theme.park](https://theme-park.dev/) - A collection of themes/skins for 50 selfhosted apps! ([Source Code (⭐1.9k)](https://github.com/GilbN/theme.park/)) `MIT` `CSS`
 *   [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 ***

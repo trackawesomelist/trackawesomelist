@@ -31,6 +31,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     *   [Operating systems](#operating-systems)
     *   [Payments](#payments)
     *   [Productivity](#productivity)
+    *   [Routing protocols](#routing-protocols)
     *   [Security tools](#security-tools)
     *   [Simulation](#simulation)
     *   [Social networks](#social-networks)
@@ -250,7 +251,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   Commodore 64
     *   [kondrak/rust64 (⭐241)](https://github.com/kondrak/rust64) —
 *   Flash Player
-    *   [Ruffle (⭐12k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
+    *   [Ruffle (⭐13k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
 *   Gameboy
     *   [Gekkio/mooneye-gb (⭐835)](https://github.com/Gekkio/mooneye-gb) —
     *   [mohanson/gameboy (⭐1.3k)](https://github.com/mohanson/gameboy) — Full featured Cross-platform GameBoy emulator. Forever boys!.
@@ -344,6 +345,11 @@ See also [A comparison of operating systems written in Rust (⭐532)](https://gi
 *   [illacloud/illa (⭐151)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
 *   [pier-cli/pier (⭐436)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 
+### Routing protocols
+
+*   [Holo (⭐52)](https://github.com/rwestphal/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
+*   [RustyBGP (⭐385)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
+
 ### Security tools
 
 *   [AFLplusplus/LibAFL (⭐1.4k)](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, etc. [![build and test](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml)
@@ -380,7 +386,7 @@ See also [A comparison of operating systems written in Rust (⭐532)](https://gi
 *   [brocode/fblog (⭐295)](https://github.com/brocode/fblog) — Small command-line JSON Log viewer
 *   [bustd (⭐192)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
 *   [buster/rrun (⭐107)](https://github.com/buster/rrun) — A command launcher for Linux, similar to gmrun
-*   [cantino/mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [cantino/mcfly (⭐5.2k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 *   [crabz (⭐259)](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 *   [cristianoliveira/funzzy (⭐198)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 *   [dalance/procs (⭐4k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
@@ -804,7 +810,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 \[[astronomy](https://crates.io/keywords/astronomy)]
 
-*   [cds-astro/aladin-lite (⭐53)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
+*   [cds-astro/aladin-lite (⭐58)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
 *   [fitsio](https://crates.io/crates/fitsio) — fits interface library wrapping cfitsio
 *   [flosse/rust-sun (⭐39)](https://github.com/flosse/rust-sun) \[[sun](https://crates.io/crates/sun)] — A rust port of the JS library suncalc
 *   [saurvs/astro-rust (⭐224)](https://github.com/saurvs/astro-rust) — astronomy for Rust
@@ -1123,7 +1129,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   SQL \[[sql](https://crates.io/keywords/sql)]
     *   Generic
         *   [launchbadge/sqlx (⭐9k)](https://github.com/launchbadge/sqlx) - async PostgreSQL/MySQL/SQLite connection pool with strong typing support [![build badge](https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square)](https://github.com/launchbadge/sqlx)
-        *   [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
+        *   [SeaQL/sea-query (⭐770)](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
         *   [SeaQL/sea-schema (⭐123)](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery [![crate](https://img.shields.io/crates/v/sea-schema.svg)](https://crates.io/crates/sea-schema) [![docs](https://img.shields.io/docsrs/sea-schema/latest)](https://docs.rs/sea-schema) [![build status](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml)
     *   Microsoft SQL
         *   [prisma/tiberius (⭐220)](https://github.com/prisma/tiberius) — [![Cargo tests](https://github.com/prisma/tiberius/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/prisma/tiberius/actions/workflows/test.yml)
@@ -1714,7 +1720,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 
 *   [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/product/formats/cargo-registry) — A fully managed package management SaaS, with first-class support for public and private Cargo/Rust registries (plus many others). Has a generous free-tier and is also completely free for open-source.
 *   [Crates](https://crates.io) — The official public registry for Rust/Cargo.
-*   [w4/chartered](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
+*   [w4/chartered (⭐125)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
 ## Resources
 

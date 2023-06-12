@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
+
+### Applications / Routing protocols
+
+*   [Holo (⭐52)](https://github.com/rwestphal/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
+*   [RustyBGP (⭐385)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
+
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
 ### Applications / Cryptocurrencies
@@ -63,7 +70,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Astronomy
 
-*   [cds-astro/aladin-lite (⭐53)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
+*   [cds-astro/aladin-lite (⭐58)](https://github.com/cds-astro/aladin-lite) - Web application for visualizing spatial and planetary image surveys in different projections
 
 ### Libraries / Cryptography
 
@@ -227,9 +234,9 @@ A curated list of Rust code and resources.
 ### Libraries / Filesystem
 
 *   Operations
-    *   [ParthJadhav/Rust\_Search](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [ParthJadhav/Rust\_Search (⭐88)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
     *   [pop-os/dbus-udisks2 (⭐16)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
-    *   [pop-os/sys-mount](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
+    *   [pop-os/sys-mount (⭐36)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
     *   [vitiral/path\_abs (⭐47)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
     *   [webdesus/fs\_extra (⭐190)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
@@ -446,7 +453,7 @@ A curated list of Rust code and resources.
 ### Applications / Emulators
 
 *   Flash Player
-    *   [Ruffle (⭐12k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
+    *   [Ruffle (⭐13k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
@@ -568,7 +575,7 @@ A curated list of Rust code and resources.
 ### Libraries / Concurrency
 
 *   [zonyitoo/coio-rs (⭐455)](https://github.com/zonyitoo/coio-rs) – Coroutine I/O for Rust
-*   [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – Support for parallelism and low-level concurrency in Rust
+*   [crossbeam-rs/crossbeam (⭐6.1k)](https://github.com/crossbeam-rs/crossbeam) – Support for parallelism and low-level concurrency in Rust
 *   [orium/archery (⭐117)](https://github.com/orium/archery) \[[archery](https://crates.io/crates/archery)] — Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
 *   [Rayon (⭐8.7k)](https://github.com/rayon-rs/rayon) – A data parallelism library for Rust
 *   [rustcc/coroutine-rs (⭐405)](https://github.com/rustcc/coroutine-rs) – Coroutine Library in Rust
@@ -1054,7 +1061,7 @@ A curated list of Rust code and resources.
 
 ### Registries / Web programming
 
-*   [w4/chartered](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
+*   [w4/chartered (⭐125)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
@@ -1112,7 +1119,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [cantino/mcfly (⭐5.2k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 *   [dalance/procs (⭐4k)](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ### Applications / Web
@@ -1203,7 +1210,7 @@ A curated list of Rust code and resources.
 ### Libraries / Network programming
 
 *   SSH
-    *   [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://www.libssh2.org/) bindings
+    *   [alexcrichton/ssh2-rs (⭐398)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://www.libssh2.org/) bindings
     *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] — an SSH library written from scratch in Rust, backed by [libsodium](https://doc.libsodium.org/)
 
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
@@ -1306,7 +1313,7 @@ A curated list of Rust code and resources.
     *   [housleyjk/ws-rs (⭐1.4k)](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets for Rust
     *   [rust-websocket (⭐1.3k)](https://github.com/websockets-rs/rust-websocket) — A framework for dealing with WebSocket connections (both clients and servers)
     *   [snapview/tungstenite-rs (⭐1.4k)](https://github.com/snapview/tungstenite-rs) — Lightweight stream-based WebSocket implementation for Rust.
-    *   [vi/websocat](https://github.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
+    *   [vi/websocat (⭐5.6k)](https://github.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat.
     *   [vityafx/urlshortener-rs (⭐38)](https://github.com/vityafx/urlshortener-rs) — A very simple urlshortener library for Rust. [![CI](https://github.com/vityafx/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/vityafx/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
@@ -1327,7 +1334,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [buster/rrun](https://github.com/buster/rrun) — A command launcher for Linux, similar to gmrun
+*   [buster/rrun (⭐107)](https://github.com/buster/rrun) — A command launcher for Linux, similar to gmrun
 
 ### Applications / Text processing
 
@@ -1368,7 +1375,7 @@ A curated list of Rust code and resources.
 *   NNTP
     *   [mattnenterprise/rust-nntp (⭐14)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client for Rust
 *   POP3
-    *   [mattnenterprise/rust-pop3](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client for Rust
+    *   [mattnenterprise/rust-pop3 (⭐27)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client for Rust
 
 ### Libraries / Parsing
 
@@ -1442,7 +1449,7 @@ A curated list of Rust code and resources.
     *   [ivanceras/titik (⭐114)](https://github.com/ivanceras/titik) - a crossplatform TUI widget library with the goal of providing interactive widgets
     *   ncurses
         *   [ihalila/pancurses (⭐371)](https://github.com/ihalila/pancurses) \[[pancurses](https://crates.io/crates/pancurses)] — curses library, supports linux and windows
-        *   [jeaye/ncurses-rs](https://github.com/jeaye/ncurses-rs) \[[ncurses](https://crates.io/crates/ncurses)] — [ncurses](https://www.gnu.org/software/ncurses/) bindings
+        *   [jeaye/ncurses-rs (⭐649)](https://github.com/jeaye/ncurses-rs) \[[ncurses](https://crates.io/crates/ncurses)] — [ncurses](https://www.gnu.org/software/ncurses/) bindings
     *   [ogham/rust-term-grid (⭐63)](https://github.com/ogham/rust-term-grid) \[[term\_grid](https://crates.io/crates/term_grid)] — Rust library for putting things in a grid
     *   [redox-os/termion (⭐1.9k)](https://github.com/redox-os/termion) \[[termion](https://crates.io/crates/termion)] — bindless library for controlling terminals/TTY
     *   Termbox
@@ -1482,7 +1489,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Geospatial
 
-*   [rust-reverse-geocoder](https://github.com/gx0r/rrgeo) — A fast, offline reverse geocoder in Rust, inspired by [thampiman/reverse-geocoder (⭐1.8k)](https://github.com/thampiman/reverse-geocoder)
+*   [rust-reverse-geocoder (⭐99)](https://github.com/gx0r/rrgeo) — A fast, offline reverse geocoder in Rust, inspired by [thampiman/reverse-geocoder (⭐1.8k)](https://github.com/thampiman/reverse-geocoder)
 
 ### Libraries / Graphics
 
@@ -1537,7 +1544,7 @@ A curated list of Rust code and resources.
 
 *   Miscellaneous
     *   [cargonauts (⭐180)](https://github.com/cargonauts-rs/cargonauts) — A web framework intended for building maintainable, well-factored web apps.
-    *   [causal-agent/scraper](https://github.com/causal-agent/scraper) \[[scraper](https://crates.io/crates/scraper)] - HTML parsing and querying with CSS selectors. [![Build Status](https://github.com/causal-agent/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/causal-agent/scraper/actions)
+    *   [causal-agent/scraper (⭐1.4k)](https://github.com/causal-agent/scraper) \[[scraper](https://crates.io/crates/scraper)] - HTML parsing and querying with CSS selectors. [![Build Status](https://github.com/causal-agent/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/causal-agent/scraper/actions)
     *   [hominee/dyer (⭐131)](https://github.com/hominee/dyer) \[[dyer](https://crates.io/crates/dyer)] - dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed.
     *   [juhaku/utoipa (⭐1.1k)](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io\&color=orange\&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml)
     *   [osohq/oso (⭐3.1k)](https://github.com/osohq/oso) \[[oso](https://crates.io/crates/oso)] - A policy engine for authorization that's embedded in your application. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment)
@@ -1573,7 +1580,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐2.6k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
+*   [tauri-apps/tauri (⭐64k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐2.6k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
 
@@ -1924,7 +1931,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐392)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 
@@ -2229,7 +2236,7 @@ A curated list of Rust code and resources.
 *   SQL \[[sql](https://crates.io/keywords/sql)]
     *   Generic
         *   [launchbadge/sqlx (⭐9k)](https://github.com/launchbadge/sqlx) - async PostgreSQL/MySQL/SQLite connection pool with strong typing support [![build badge](https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square)](https://github.com/launchbadge/sqlx)
-        *   [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
+        *   [SeaQL/sea-query (⭐770)](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
         *   [SeaQL/sea-schema (⭐123)](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery [![crate](https://img.shields.io/crates/v/sea-schema.svg)](https://crates.io/crates/sea-schema) [![docs](https://img.shields.io/docsrs/sea-schema/latest)](https://docs.rs/sea-schema) [![build status](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml)
     *   Microsoft SQL
         *   [prisma/tiberius (⭐220)](https://github.com/prisma/tiberius) — [![Cargo tests](https://github.com/prisma/tiberius/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/prisma/tiberius/actions/workflows/test.yml)
@@ -2324,7 +2331,7 @@ A curated list of Rust code and resources.
     *   [Kiss3d](http://kiss3d.org) — draw simple geometric figures and play with them with one-liners
     *   [PistonDevelopers/glfw-rs (⭐574)](https://github.com/PistonDevelopers/glfw-rs) —
 *   PDF
-    *   [fschutt/printpdf](https://github.com/fschutt/printpdf) — PDF writing library
+    *   [fschutt/printpdf (⭐653)](https://github.com/fschutt/printpdf) — PDF writing library
     *   [J-F-Liu/lopdf (⭐1.3k)](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
     *   [kaj/rust-pdf (⭐133)](https://github.com/kaj/rust-pdf) —
     *   [WASM-PDF (⭐422)](https://github.com/jussiniinikoski/wasm-pdf) – Generates PDF files with JavaScript and WASM (WebAssembly)
@@ -2799,7 +2806,7 @@ A curated list of Rust code and resources.
 
 *   [ChainX (⭐270)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
-*   [Nervos CKB](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
+*   [Nervos CKB (⭐1.1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
 *   [Polkadot (⭐6.8k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
 *   [Substrate (⭐8.2k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
@@ -2980,14 +2987,14 @@ A curated list of Rust code and resources.
 ### Libraries / Game development
 
 *   Game Engines
-    *   [Bevy](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
+    *   [Bevy (⭐24k)](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
         [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
     *   [Fyrox](https://fyrox.rs/) — Rust Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
     *   [ggez (⭐3.8k)](https://github.com/ggez/ggez) — A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
     *   [Kiss3d](http://kiss3d.org) — A Keep It Simple, Stupid 3d graphics engine written with Rust [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
-    *   [oxidator](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
+    *   [oxidator (⭐268)](https://github.com/Ruddle/oxidator) — A real time strategy game/engine written with Rust and WebGPU
     *   [Piston](https://www.piston.rs/) — [![Crates.io](https://img.shields.io/crates/v/piston.svg?style=flat-square)](https://crates.io/crates/piston) [![Crates.io](https://img.shields.io/crates/l/piston.svg)](https://github.com/PistonDevelopers/piston/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/piston.svg)](https://crates.io/crates/piston)
-    *   [Unrust](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
+    *   [Unrust (⭐375)](https://github.com/unrust/unrust) — unrust — A pure rust based (webgl 2.0 / native) game engine
 
 ### Libraries / GUI
 
