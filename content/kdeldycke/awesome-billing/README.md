@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-billing/week/README.md) / [Overview](/content/kdeldycke/awesome-billing/readme/README.md) ]
 
+## [Jun 12, 2023](/content/2023/06/12/README.md)
+
+### Competitive Analysis / Tools
+
+*   “You need a slightly more sophisticated developer team to cobble together a billing platform” ([source](https://www.techemails.com/i/124009734/google-pms-on-stripe)) - Google's Product Director take on building billing systems: you need a certain kind of engineers to tackle that domain. It is not for everyone.
+
 ## [Jun 10, 2023](/content/2023/06/10/README.md)
 
 ### Marketplace / Cloud Resources
