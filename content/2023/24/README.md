@@ -1,12 +1,43 @@
 # Awesome List Updates on Jun 12 - Jun 18, 2023
 
-18 awesome lists updated this week.
+21 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [1. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+
+### Databases / scRNA
+
+*   [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - Public database for single cell RNA.
+
+### Databases / Pathway
+
+*   [PathwayCommons](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
+
+### Databases / Genome
+
+*   [cBioPortal](https://www.cbioportal.org/) - Database of Cancer Genomics. This has overall metaview for a lot of patients.
+
+### Preprocess / Interaction
+
+*   [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
+*   [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
+
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Validation / Playground
+
+*   [dto-classes (⭐43)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
+
+## [3. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+
+### Examples / Showcases / Personal
+
+*   [Nuxt 3 Demo (⭐91)](https://github.com/bryantgillespie/nuxt3-directus-starter) - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
+
+## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### News and Resources
 
@@ -16,14 +47,14 @@
 
 *   [xml-ez-out (⭐2)](https://github.com/alire-project/xmlezout) - Library for emitting XML from Ada programs.
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Meta's tool for generating music
 *   [facebookresearch/audiocraft (⭐4.8k)](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Snippet / Diagnostics
 
@@ -33,7 +64,7 @@
 
 *   [dasupradyumna/midnight.nvim (⭐6)](https://github.com/dasupradyumna/midnight.nvim) - A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
 
-## [4. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Feature Flags
 
@@ -43,13 +74,18 @@
 
 *   [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
 
-## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [8. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Tutorials & workshops
+
+*   [Cookbook Polars for R](https://ddotta.github.io/cookbook-rpolars/) - A side-by-side comparison of Polars, R base, dplyr and data.table packages by [@ddotta](https://github.com/ddotta).
+*   [Polars Workshop on AWS (⭐5)](https://github.com/debnsuma/pycon_polars101) - A comprehensive workshop comparing Polars to Pandas, exploring a wide range of functions and features by [@debnsuma](https://github.com/debnsuma).
 
 ### Resources / Blog posts
 
 *   [Querying Polars DataFrames using SQL](https://levelup.gitconnected.com/querying-polars-dataframes-using-sql-2471c1ad3014) - A blog post that shows how to use the SQLContext object in Python to query a Polars DataFrame directly using SQL by [@weimenglee](https://github.com/weimenglee).
 
-## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -60,13 +96,13 @@
 *   [Dialoqbase (⭐230)](https://github.com/n4ze3m/dialoqbase): web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)
 *   [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain/csv-ai?style=social)
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Rize](https://rize.io/) - A.I. powered time tracker that automatically improves your focus and helps you build better work habits.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Desktop
 
@@ -80,7 +116,7 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [9. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [12. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Accounting & Finance
 
@@ -7564,33 +7600,66 @@
 
 
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   [july (⭐0)](https://github.com/skippyr/july) - Minimalist prompt. Includes decorators for user, host and current directory.
 *   [nablaman (⭐0)](https://github.com/kokkonisd/nablaman-zsh-theme) - Similar to [powerlevel10k (⭐37k)](https://github.com/romkatv/powerlevel10k). Includes decorators for the last command's exit status, user\@hostname, `git` status and the current directory. Works best with a dark terminal theme.
 
-## [11. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [14. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Competitive Analysis / Tools
 
 *   “You need a slightly more sophisticated developer team to cobble together a billing platform” ([source](https://www.techemails.com/i/124009734/google-pms-on-stripe)) - Google's Product Director take on building billing systems: you need a certain kind of engineers to tackle that domain. It is not for everyone.
 
-## [12. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [15. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Networking
 
 *   [vibe (⭐1)](https://github.com/tobealive/vibe) - A libcurl binding with an easy-access layer for fast and reliable requests.
 
-## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Routing protocols
 
 *   [Holo (⭐52)](https://github.com/rwestphal/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
 *   [RustyBGP (⭐385)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
 
-## [14. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+### Resources / Web programming
+
+*   Learning
+    *   [Aquascope (⭐1.2k)](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
+    *   [Awesome Rust Streaming (⭐632)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams about Rust.
+    *   [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — A list of helpful Rust mentors willing to take mentees and educate them about Rust and programming.
+    *   [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
+    *   [CodeCrafters.io](https://app.codecrafters.io/tracks/rust) — Build your own Redis, Git, Docker, or SQLite in Rust
+    *   [Easy Rust (⭐7.5k)](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
+    *   [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
+    *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
+    *   [Idiomatic Rust (⭐4.7k)](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+    *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) — in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
+    *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
+    *   [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
+    *   [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) - A book that introduces to Rust language.
+    *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+    *   [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+    *   [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
+    *   [Rust Gym (⭐721)](https://github.com/warycat/rustgym) - A big collection of coding interview problems solved in Rust.
+    *   [Rust in Action](https://www.manning.com/books/rust-in-action) — A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
+    *   [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols\&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
+    *   [Rust Language Cheat Sheet](https://cheats.rs/)
+    *   [Rust Online Courses at Classpert](https://classpert.com/search/rust) — A list of Rust online courses (paid) from Classpert Online Course Search
+    *   [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
+    *   [rust-how-do-i-start (⭐890)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
+    *   [rust-learning (⭐9.9k)](https://github.com/ctjhoa/rust-learning) — A collection of useful resources to learn Rust
+    *   [Rustlings (⭐39k)](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
+    *   [Rusty CS (⭐736)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
+    *   [stdx (⭐1.9k)](https://github.com/brson/stdx) — Learn these crates first as an extension to std
+    *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
+    *   [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
+
+## [17. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Application layer
 
@@ -7600,7 +7669,7 @@
 
 *   [A Concise Introduction to Robot Programming with ROS2 (⭐343)](https://github.com/fmrico/book_ros2)
 
-## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Web Feed Specifications / Specification Comparison Tool
 
@@ -7723,7 +7792,7 @@
 
 *   [杜冰. 基于RSS阅读器的文献追踪方法与实践\[J\]. 教育进展, 2023, 13(2): 795-798.](https://doi.org/10.12677/AE.2023.132129) <sup>[1328](https://t.me/s/aboutrss/1328)</sup>
 
-## [16. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [19. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Type / React
 
@@ -7733,7 +7802,7 @@
 
 *   [Next.js Advanced Graphql Crud MongoDB Starter (⭐10)](https://github.com/idurar/starter-advanced-graphql-crud-next-js-mongodb) - Starter Generic CRUD with Advanced Apollo Graphql server with Next.js and Mongodb (TypeScript)
 
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / URL Shorteners
 
@@ -7743,7 +7812,7 @@
 
 *   [theme.park](https://theme-park.dev/) - A collection of themes/skins for 50 selfhosted apps! ([Source Code (⭐1.9k)](https://github.com/GilbN/theme.park/)) `MIT` `CSS`
 
-## [18. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [21. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Wallets
 

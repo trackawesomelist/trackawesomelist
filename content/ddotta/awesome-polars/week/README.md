@@ -8,6 +8,11 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
+### Resources / Tutorials & workshops
+
+*   [Cookbook Polars for R](https://ddotta.github.io/cookbook-rpolars/) - A side-by-side comparison of Polars, R base, dplyr and data.table packages by [@ddotta](https://github.com/ddotta).
+*   [Polars Workshop on AWS (⭐5)](https://github.com/debnsuma/pycon_polars101) - A comprehensive workshop comparing Polars to Pandas, exploring a wide range of functions and features by [@debnsuma](https://github.com/debnsuma).
+
 ### Resources / Blog posts
 
 *   [Querying Polars DataFrames using SQL](https://levelup.gitconnected.com/querying-polars-dataframes-using-sql-2471c1ad3014) - A blog post that shows how to use the SQLContext object in Python to query a Polars DataFrame directly using SQL by [@weimenglee](https://github.com/weimenglee).

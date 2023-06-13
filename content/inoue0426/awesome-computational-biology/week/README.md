@@ -2,13 +2,32 @@
 
 Awesome list of computational biology.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 28 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 31 · 🏷️ Miscellaneous
 
 [ [Daily](/content/inoue0426/awesome-computational-biology/README.md) / Weekly / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
 
+## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
+
+### Databases / scRNA
+
+*   [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - Public database for single cell RNA.
+
+### Databases / Pathway
+
+*   [PathwayCommons](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
+
+### Databases / Genome
+
+*   [cBioPortal](https://www.cbioportal.org/) - Database of Cancer Genomics. This has overall metaview for a lot of patients.
+
+### Preprocess / Interaction
+
+*   [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
+*   [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
+
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
-### Databases / RNA Sequence
+### Databases / scRNA
 
 *   [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) - Public functional genemics database.
 *   [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) - Public database for single cell RNA.
@@ -43,7 +62,6 @@ Awesome list of computational biology.
 
 ### Databases / Pathway
 
-*   [PathwayCommon](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
 *   [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection fo drawn pathway maps.
 *   [WikiPathways](https://wikipathways.org/) - Database of biological pathways.
 
@@ -69,21 +87,21 @@ Awesome list of computational biology.
 
 ### Preprocess / Interaction
 
-*   [Chemistry Development Kit (⭐403)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐2k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐417)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐2.1k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DeepPurpose (⭐729)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DeepPurpose (⭐758)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
 
 ### Machine Learning Tasks and Models / Drug Target Interaction
 
-*   [NeoDTI (⭐64)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐65)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Machine Learning Tasks and Models / Compound Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐97)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [TransformerCPI (⭐102)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -97,9 +115,11 @@ Awesome list of computational biology.
     *   [DGIdb](https://www.dgidb.org/) - A database of drug-gene interactions and the druggable genome.
     *   [Comparative Toxicogenomics Database](http://ctdbase.org/) - A database of Chemical-gene interactions, Chemical-disease associations, Gene-disease associations, and Chemical-phenotype associations.
     *   [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - A dataset which contains Drug-gene interactions.
+    *   [Comparative Toxicogenomics Database](https://ctdbase.org/) - A database for drug-target interactions.
+    *   [Therapeutics Data Commons](https://tdcommons.ai/) - A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction.
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DRKG (⭐476)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DRKG (⭐485)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.

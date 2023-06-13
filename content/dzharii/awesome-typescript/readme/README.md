@@ -69,7 +69,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [pankod/next-boilerplate (⭐1.5k)](https://github.com/pankod/next-boilerplate) A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer and Built-in CLI
 *   [jsynowiec/node-typescript-boilerplate (⭐2.1k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
 *   [typescript-express-starter (⭐2.1k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
-*   [The Knests Stack (⭐291)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐292)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 *   [tRPC + Next.js](https://trpc.io/docs/nextjs/introduction) - Full-stack starter projects for end-to-end type safe development with React
 *   [nd.ts (⭐28)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 *   :octocat: [samchon/backend (⭐559)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐992)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐216)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
@@ -214,7 +214,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [json-schema-to-ts (⭐1.1k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 *   [Yunomix (⭐5)](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
 *   [typia (⭐2.8k)](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
-*   [fta (⭐9)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+*   [fta (⭐23)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+*   [dto-classes (⭐43)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
 
 ## Built with TypeScript
 
@@ -226,7 +227,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ### Web
 
 *   :octocat: [Angular (⭐88k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
-*   :octocat: [feednext.io (⭐249)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+*   :octocat: [feednext.io (⭐252)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 *   :octocat: [ionic (⭐49k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [React-UWP (⭐1.2k)](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
 *   :octocat: [palantir/plottable (⭐2.9k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
@@ -261,7 +262,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [React Server Example TSX (⭐274)](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
 *   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
 *   :octocat: [Typescript Monorepo CRA Example (⭐26)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
-*   :octocat: [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+*   :octocat: [Typescript Monorepo Next Example (⭐43)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 *   :stars: [Crisp React (⭐168)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 *   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 *   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐854)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.

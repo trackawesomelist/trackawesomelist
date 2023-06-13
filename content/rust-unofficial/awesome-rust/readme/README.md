@@ -147,7 +147,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [nicohman/eidolon (⭐117)](https://github.com/nicohman/eidolon) — A steam and drm-free game registry and launcher for linux and macosx
 *   [notty (⭐2.2k)](https://github.com/withoutboats/notty) — A new kind of terminal
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
-*   [Rio (⭐1.1k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐1.5k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 *   [rx (⭐2.8k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 *   [Servo (⭐23k)](https://github.com/servo/servo) — A prototype web browser engine
 *   [shuttle (⭐3k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
@@ -1732,6 +1732,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
     *   [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=t4CyEKb-ywA) — Presented by [Michael Gattozzi](https://github.com/mgattozzi) @ RustConf 2017
 *   [Discover Rust Libraries & Code Snippets](https://kandi.openweaver.com/explore/rust) - A curated list of Rust libraries, authors, kits, tutorials & learning resources on kandi
 *   Learning
+    *   [Aquascope (⭐1.2k)](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
     *   [Awesome Rust Streaming (⭐632)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams about Rust.
     *   [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — A list of helpful Rust mentors willing to take mentees and educate them about Rust and programming.
     *   [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)

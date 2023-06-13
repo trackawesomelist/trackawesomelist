@@ -6,6 +6,41 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jun 13, 2023](/content/2023/06/13/README.md)
+
+### Resources / Web programming
+
+*   Learning
+    *   [Aquascope (⭐1.2k)](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
+    *   [Awesome Rust Streaming (⭐632)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams about Rust.
+    *   [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — A list of helpful Rust mentors willing to take mentees and educate them about Rust and programming.
+    *   [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
+    *   [CodeCrafters.io](https://app.codecrafters.io/tracks/rust) — Build your own Redis, Git, Docker, or SQLite in Rust
+    *   [Easy Rust (⭐7.5k)](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
+    *   [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
+    *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
+    *   [Idiomatic Rust (⭐4.7k)](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+    *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) — in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
+    *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
+    *   [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
+    *   [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) - A book that introduces to Rust language.
+    *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+    *   [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+    *   [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
+    *   [Rust Gym (⭐721)](https://github.com/warycat/rustgym) - A big collection of coding interview problems solved in Rust.
+    *   [Rust in Action](https://www.manning.com/books/rust-in-action) — A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
+    *   [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols\&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
+    *   [Rust Language Cheat Sheet](https://cheats.rs/)
+    *   [Rust Online Courses at Classpert](https://classpert.com/search/rust) — A list of Rust online courses (paid) from Classpert Online Course Search
+    *   [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
+    *   [rust-how-do-i-start (⭐890)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
+    *   [rust-learning (⭐9.9k)](https://github.com/ctjhoa/rust-learning) — A collection of useful resources to learn Rust
+    *   [Rustlings (⭐39k)](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
+    *   [Rusty CS (⭐736)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
+    *   [stdx (⭐1.9k)](https://github.com/brson/stdx) — Learn these crates first as an extension to std
+    *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
+    *   [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
+
 ## [Jun 12, 2023](/content/2023/06/12/README.md)
 
 ### Applications / Routing protocols
@@ -55,7 +90,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Rio (⭐1.1k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐1.5k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 
 ## [May 27, 2023](/content/2023/05/27/README.md)
 
@@ -3382,40 +3417,6 @@ A curated list of Rust code and resources.
 ### Libraries / Caching
 
 *   [jaemk/cached (⭐1.1k)](https://github.com/jaemk/cached) — Simple function caching/memoization
-
-## [May 06, 2017](/content/2017/05/06/README.md)
-
-### Resources / Web programming
-
-*   Learning
-    *   [Awesome Rust Streaming (⭐632)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams about Rust.
-    *   [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — A list of helpful Rust mentors willing to take mentees and educate them about Rust and programming.
-    *   [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
-    *   [CodeCrafters.io](https://app.codecrafters.io/tracks/rust) — Build your own Redis, Git, Docker, or SQLite in Rust
-    *   [Easy Rust (⭐7.5k)](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
-    *   [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
-    *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
-    *   [Idiomatic Rust (⭐4.7k)](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
-    *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) — in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
-    *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
-    *   [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
-    *   [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) - A book that introduces to Rust language.
-    *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
-    *   [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
-    *   [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
-    *   [Rust Gym (⭐721)](https://github.com/warycat/rustgym) - A big collection of coding interview problems solved in Rust.
-    *   [Rust in Action](https://www.manning.com/books/rust-in-action) — A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
-    *   [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols\&a_bid=6a993c2e) — A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
-    *   [Rust Language Cheat Sheet](https://cheats.rs/)
-    *   [Rust Online Courses at Classpert](https://classpert.com/search/rust) — A list of Rust online courses (paid) from Classpert Online Course Search
-    *   [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
-    *   [rust-how-do-i-start (⭐890)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
-    *   [rust-learning (⭐9.9k)](https://github.com/ctjhoa/rust-learning) — A collection of useful resources to learn Rust
-    *   [Rustlings (⭐39k)](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
-    *   [Rusty CS (⭐736)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
-    *   [stdx (⭐1.9k)](https://github.com/brson/stdx) — Learn these crates first as an extension to std
-    *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
-    *   [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
 
 ## [Feb 15, 2017](/content/2017/02/15/README.md)
 

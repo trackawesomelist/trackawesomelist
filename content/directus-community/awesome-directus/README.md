@@ -6,6 +6,12 @@ A curated list of awesome things related to Directus
 
 [ Daily / [Weekly](/content/directus-community/awesome-directus/week/README.md) / [Overview](/content/directus-community/awesome-directus/readme/README.md) ]
 
+## [Jun 13, 2023](/content/2023/06/13/README.md)
+
+### Examples / Showcases / Personal
+
+*   [Nuxt 3 Demo (⭐91)](https://github.com/bryantgillespie/nuxt3-directus-starter) - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
+
 ## [May 31, 2023](/content/2023/05/31/README.md)
 
 ### Extensions / Community
