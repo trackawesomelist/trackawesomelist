@@ -6,6 +6,16 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
+
+### Feature Flags
+
+*   [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution.
+
+### Testing
+
+*   [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
+
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
 ### Authentication & Identity

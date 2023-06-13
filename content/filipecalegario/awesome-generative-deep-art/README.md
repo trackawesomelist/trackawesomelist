@@ -6,6 +6,13 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jun 13, 2023](/content/2023/06/13/README.md)
+
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
+
+*   [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Meta's tool for generating music
+*   [facebookresearch/audiocraft (⭐4.8k)](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
+
 ## [Jun 10, 2023](/content/2023/06/10/README.md)
 
 ### Inbox: Large Language Models / Contribute to Our Repository
@@ -16,7 +23,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
-*   [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "rur survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
+*   [A survey of Generative AI Applications | arxiv](https://arxiv.org/abs/2306.02781): "this survey aims to serve as a valuable resource for researchers and practitioners to navigate the rapidly expanding landscape of generative AI"
 
 ## [Jun 08, 2023](/content/2023/06/08/README.md)
 
@@ -432,7 +439,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Papers and References / AI Tools for Searching
 
-*   [whitead/paper-qa (⭐2.5k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐2.6k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Image Synthesis / Promptism
 
@@ -532,7 +539,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models / Contribute to Our Repository
 
-*   [hwchase17/langchain (⭐43k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [hwchase17/langchain (⭐47k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 
@@ -738,7 +745,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐552)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐562)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### Papers and References / Papers Collections
