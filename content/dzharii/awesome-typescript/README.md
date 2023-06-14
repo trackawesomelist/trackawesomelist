@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Jun 14, 2023](/content/2023/06/14/README.md)
+
+### Books
+
+*   :books: [The Concise TypeScript Book (Free and Open Source) (⭐11)](https://github.com/gibbok/typescript-book) by Simone Poggiali
+
 ## [Jun 13, 2023](/content/2023/06/13/README.md)
 
 ### Validation / Playground

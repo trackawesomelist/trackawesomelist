@@ -1189,7 +1189,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [smartcache (⭐17)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 *   [smartinput (⭐4)](https://github.com/momo-lab/zsh-smartinput) - When you type brackets or quotes, the corresponding end brackets/quotes are automatically added.
 *   [smile (⭐1)](https://github.com/fundor333/smile) - Adds function to display random smileys.
-*   [snippets](https://github.com/willghatch/zsh-snippets) - Command line snippet expansion.
+*   [snippets (⭐33)](https://github.com/willghatch/zsh-snippets) - Command line snippet expansion.
 *   [solarized-man (⭐27)](https://github.com/zlsun/solarized-man) - A modified version of oh-my-zsh's plugin colored-man-pages, optimized for the [solarized dark (⭐16k)](https://github.com/altercation/solarized/blob/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors) theme in the terminal.
 *   [spaceship-ocm (⭐0)](https://github.com/iamkirkbater/spaceship-ocm-plugin) - Queries your OpenShift Cluster Manager (ocm) configuration to show which environment you're connected to. Requires [NerdFont](https://www.nerdfonts.com/font-downloads) in your terminal.
 *   [spack (⭐2)](https://github.com/Game4Move78/zsh-spack) - Includes some useful aliases and functions for loading/unloading [Spack (⭐3.4k)](https://github.com/spack/spack)-generated modules. As it makes use of the `module` command it is much more efficient than `spack load`.
@@ -1255,7 +1255,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 *   [traista (⭐0)](https://github.com/odgon/traista) - Includes `git` status decorations and color-coded exit status of the last command run. Better with dark terminal themes.
 *   [travis (⭐4)](https://github.com/denolfe/zsh-travis) - Opens the [Travis CI](https://www.travis-ci.com/) page for the current repo if one exists.
-*   [tre](https://github.com/redxtech/zsh-tre) - Makes using [tre (⭐521)](https://github.com/dduan/tre#editor-aliasing) easier.
+*   [tre (⭐0)](https://github.com/redxtech/zsh-tre) - Makes using [tre (⭐521)](https://github.com/dduan/tre#editor-aliasing) easier.
 *   [tsm (⭐16)](https://github.com/RobertAudi/tsm) - Adds a [tmux](https://tmux.github.io) Session Manager.
 *   [tumult (⭐151)](https://github.com/unixorn/tumult.plugin.zsh) - Adds tools for macOS.
 *   [ubuntualiases (⭐2)](https://github.com/GuilleDF/zsh-ubuntualiases) - Ubuntu 16 aliases.
@@ -1274,7 +1274,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [vagrant-box-wrapper (⭐2)](https://github.com/evanthegrayt/vagrant-box-wrapper) - A wrapper plugin for [vagrant](https://www.vagrantup.com/) that allows for calling `vagrant` commands from outside of the box directory. The plugin also ships with a few extra commands that help to manage more than one box, along with custom tab-completion.
 *   [valet (⭐8)](https://github.com/NasirNobin/zsh-valet/) - Reads `.valetphprc` from the project root and will switch to that PHP version automatically.
 *   [vanilli.sh (⭐19)](https://github.com/yous/vanilli.sh) - A lightweight start point of shell configuration.
-*   [vapor](https://github.com/notf0und/zsh-vapor) - Laravel [vapor (⭐282)](https://github.com/laravel/vapor-cli) plugin for ZSH to help you to run `vapor` from anywhere in the project tree, with auto-completion!
+*   [vapor (⭐1)](https://github.com/notf0und/zsh-vapor) - Laravel [vapor (⭐282)](https://github.com/laravel/vapor-cli) plugin for ZSH to help you to run `vapor` from anywhere in the project tree, with auto-completion!
 *   [vcshr (⭐0)](https://github.com/aubreypwd/zsh-plugin-vcshr) - Help vcsh users require Github repositories using `vcsh` for auto-installation in `~/.zshrc`, etc.
 *   [velocity (⭐3)](https://github.com/rahulsalvi/velocity-python) - Powerline-based theme elements for ZSH and [tmux](https://tmux.github.io).
 *   [venv-lite (⭐4)](https://github.com/gimbo/venv-lite.zsh) - A super-lightweight sort-of-clone of [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/); it pretty much expects you to be using [pyenv (⭐32k)](https://github.com/pyenv/pyenv) (though you don't \*have- to), and because it's based on the [`venv` module](https://docs.python.org/3/library/venv.html), (creation) only works for python >= 3.3.
@@ -1653,7 +1653,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [bash (⭐1)](https://github.com/starseekist/bash-zsh-theme) - Looks like the default `bash` prompt.
 *   [bashi (⭐5)](https://github.com/eli-oat/bashi) - Optimized for Ahmet Sülek's [Flat UI Terminal (⭐623)](https://github.com/ahmetsulek/flat-terminal) theme and Pasquale D'Silva's [Saturn Terminal (⭐73)](https://github.com/psql/saturn-colors) theme.
 *   [bashlover (⭐0)](https://github.com/Vu0811/bashlover) - Designed for those who appreciate the powerful features of ZSH shell but still prefer a simple, classic interface similar to the `bash` shell. Includes decorators for `git` information, user\@host and the current working directory
-*   [bashpluszsh (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default `bash` prompt with decorators for `virtualenv` and `git` status.
+*   [bashplus (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default `bash` prompt with decorators for `virtualenv` and `git` status.
 *   [bastard (⭐2)](https://github.com/jsundqvist/bastard.zsh-theme) - Modified version of [gitster (⭐4)](https://github.com/zimfw/gitster) theme for [ZIM (⭐3.1k)](https://github.com/zimfw/zimfw).
 *   [bearable (⭐0)](https://github.com/JanmanX/bearable-zsh) - Works well with dark terminal backgrounds.
 *   [bearings (⭐191)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
@@ -1680,6 +1680,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [bogo (⭐0)](https://github.com/cubasepp/zsh-bogo-theme) - Inspired by [zeta (⭐214)](https://github.com/skylerlee/zeta-zsh-theme). Includes `git` and ruby version decorations.
 *   [boom (⭐2)](https://github.com/the0neWhoKnocks/zsh-theme-boom) - Multiline theme, best on dark backgrounds.
 *   [born-in-the-purple (⭐1)](https://github.com/LeonardMH/born-in-the-purple) - Simple theme with a purple motif. Inspired by [Pure (⭐12k)](https://github.com/sindresorhus/pure).
+*   [bouni (⭐0)](https://github.com/Bouni/bouni-zsh-theme) - Includes decorators for user\@host, current directory, active python virtualenv, and `git` status.
 *   [boxy (⭐0)](https://github.com/evil-tim/boxy-zsh-theme) - Works well with solarized terminal colors. Includes decorators for `username@hostname`, current directory, `git` status, return code for last command, and time last command was run.
 *   [bref (⭐3)](https://github.com/mpostaire/bref-zsh-prompt) - A simple prompt. It includes decorators to display `git` status asynchronously, a notification if the `ssh` session is remote, the battery level and the number of background jobs.
 *   [brisa (⭐1)](https://github.com/brisa-dev/oh-my-zsh-brisa-theme) - Multiline theme based on [fino-time (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes decorations for username, host, current directory, and `git` status.
@@ -1776,7 +1777,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [dissonance (⭐4)](https://github.com/RyanScottLewis/theme-dissonance-zsh) - Comes with custom `LSCOLORS` and `LS_COLORS` settings files, works with both dark and light terminal themes.
 *   [diy-ys (⭐0)](https://github.com/aprilnops/zsh-theme) - Variant of [ys (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme) without hostname or time.
 *   [djkakaroto (⭐0)](https://github.com/djkakaroto/theme-zsh/) - Includes `git` status decorations, works with all fonts.
-*   [dkniffin](https://github.com/dkniffin/zsh-theme) - Includes `ruby` version and `git` status.
+*   [dkniffin (⭐1)](https://github.com/dkniffin/zsh-theme) - Includes `ruby` version and `git` status.
 *   [dmx (⭐1)](https://github.com/domix/dmx.zsh-theme) - Optimized for dark terminal windows.
 *   [doodleshell (⭐3)](https://github.com/cdodd/doodleshell-zsh-theme) - Minimalist theme, includes `git`, `terraform` and `aws` status decorations.
 *   [doom (⭐0)](https://github.com/CMOISDEAD/doom-zsh) - Doom-inspired. Looks similar to powerline. Has customizable segments, decorators for `git` status, `rust`, `node.js`, `python` and `ruby` versions.
@@ -1796,7 +1797,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [easytocloud (⭐0)](https://github.com/easytocloud/oh-my-easytocloud) - Based on [agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme), with an added AWS environment decorator.
 *   [eckig (⭐0)](https://github.com/fouladi/eckig) - Minimalist theme with utf-8 icons. Includes `git` status decorations and a clock.
 *   [efritas (⭐4)](https://github.com/erikfritas/efritas) - Includes username, hostname, `venv`, `rvm` and `git` status decorations.
-*   [eggshausted](https://github.com/inutano/eggshausted) - A `git`-aware theme for people who are tired of getting errors.
+*   [eggshausted (⭐1)](https://github.com/inutano/eggshausted) - A `git`-aware theme for people who are tired of getting errors.
 *   [elagoht (⭐0)](https://github.com/Elagoht/Elagoht.zsh-theme) - Includes decorators for user\@hostname, current directory, virtual environment, `git` status, whether it is running in an `ssh` session, and the execution time of the last command.
 *   [elessar (⭐19)](https://github.com/fjpalacios/elessar-theme) - A `git`-aware theme based on [gitster (⭐66)](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme). Requires a Powerline-compatible font.
 *   [elm (⭐1)](https://github.com/gacallea/elm-zsh-theme) - Includes `git` status, user\@host, date, time and path decorators.
@@ -1885,7 +1886,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [gugulenok (⭐0)](https://github.com/gugulen0k/gugulenok/) - Has both a dark and a light mode. Includes decorators for `git` status, time and current directory.
 *   [guri (⭐22)](https://github.com/victorfsf/guri) - A Simple and fast Oh-My-Zsh theme, based on [Pure (⭐12k)](https://github.com/sindresorhus/pure)'s design.
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
-*   [hackersaurus](https://github.com/bhilburn/hackersaurus) - A theme with `git` status and exit code of last command run decorators embedded in the prompt. Related to [powerlevel9k (⭐13k)](https://github.com/bhilburn/powerlevel9k).
+*   [hackersaurus (⭐10)](https://github.com/bhilburn/hackersaurus) - A theme with `git` status and exit code of last command run decorators embedded in the prompt. Related to [powerlevel9k (⭐13k)](https://github.com/bhilburn/powerlevel9k).
 *   [halfeld (⭐5)](https://github.com/IgorHalfeld/halfeld-zsh-theme) - Minimalist theme with `git` decorations.
 *   [halil (⭐2)](https://github.com/5m0k3r/zsh-themes) - Fork of oh-my-zsh's [amuse (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/amuse.zsh-theme) theme.
 *   [hana-matcha (⭐2)](https://github.com/arturoalviar/hana-matcha-zsh-theme) - A simple theme with the first character being 花(hana), the kanji for flower. This theme was inspired by a keycap set called DSA Hana. This pairs well with the [hana atom (⭐0)](https://github.com/arturoalviar/hana-matcha-syntax) theme. Includes `git` status decorations.
@@ -1900,6 +1901,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [hedroed-bureau (⭐0)](https://github.com/Hedroed/hedroed-bureau.zsh-theme) - Based on [bureau (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bureau), with added `git` status decorations and `npm` status.
 *   [helb (⭐0)](https://github.com/helb/helb.zshtheme) - Loosely based on Gentoo's old `bash` theme. Includes `git` information, return value of last command, and uses different username color and prompt char for users (`$`) and root (`#`).
 *   [hematite (⭐0)](https://github.com/bigdave/hematite) - Minimalist promot that tries to show only the status decorations that are actively useful at a given time.
+*   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐89)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
 *   [hexagon (⭐2)](https://github.com/diogoazevedos/hexagon) - Minimalist zsh theme based on [geometry (⭐877)](https://github.com/geometry-zsh/geometry).
 *   [hfulldate (⭐1)](https://github.com/fusion809/zsh-theme) - Displays time, date, OS (including distro if on Linux), directory and whether running as root.
 *   [hhktony (⭐0)](https://github.com/hhktony/hhktony.zsh-theme) - Inspired by robbyrussell theme + ssh connection status prompt.
@@ -1907,6 +1909,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [hip-fellow (⭐0)](https://github.com/haitaim/hip-fellow) - Includes `git` status decorations and works with standard fonts.
 *   [hipstersmoothie-p9x (⭐9)](https://github.com/hipstersmoothie/PowerlevelHipstersmoothie) - A variant of [powerlevel9k (⭐13k)](https://github.com/bhilburn/powerlevel9k).
 *   [ho-my-zsh (⭐1)](https://github.com/Mboukhal/hoMyZsh_theme) - Includes decorators for current directory and `git` information.
+*   [hoffish (⭐0)](https://github.com/emilHof/hoffish-zsh-theme) - If the [agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme) theme and [fish](https://fishshell.com/) shell had a ZSH theme for a child. Includes decorators for `git` status, trimmed path to current directory, root status, exit status of the last command run and the active python virtualenv. Requires a Powerline font and the [zsh-autosuggestions (⭐26k)](https://github.com/zsh-users/zsh-autosuggestions) and [shrink-path (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/shrink-path/shrink-path.plugin.zsh) plugins.
 *   [hogbal (⭐0)](https://github.com/hogbal/hogbal.zsh-theme) - Works best with a dark background and a 256 color terminal program. Includes decorators for `virtualenv`, `git` information, `username@hostname` and current directory.
 *   [home (⭐3)](https://github.com/sheerun/home) - Pretty and short one-line theme that makes you feel at home.
 *   [hometown (⭐3)](https://github.com/olets/hometown-prompt) - A feature rich, high performance `git`-aware ZSH theme with segments for the user, host, time, the current working directory and its parent, and detailed full Git status within a Git repo.
@@ -2019,7 +2022,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [lish (⭐0)](https://github.com/bashelled/lish) - A casual theme. No roughness, just smooth. Includes `git`, user\@host, last command exit status, current directory, current time and root status decorators.
 *   [liver (⭐0)](https://github.com/RenoirTan/liver.zsh-theme) - Colorful, includes `git` status, user, host, current and relative path to the current repository root decorations.
 *   [lkdev (⭐2)](https://github.com/lolkekdev/lkdev-CustomZsh) -
-*   [llama](https://github.com/PsychoLlama/llama.zsh-theme) - Minimalist theme used by discerning llamas.
+*   [llama (⭐6)](https://github.com/PsychoLlama/llama.zsh-theme) - Minimalist theme used by discerning llamas.
 *   [logico (⭐3)](https://github.com/logico/logico-zsh-theme) - Has `git` decorations. Shows remote status and indicator for vi-mode.
 *   [lone-star (⭐0)](https://github.com/designfrontier/lonestar-zsh-theme/blob/master/lone-star.zsh-theme) - Texas-themed theme based on Sindre Sorhus' pure theme.
 *   [longsilvern (⭐1)](https://github.com/long263/longsilvern-zsh-theme) - Includes `git` and compact `pwd` decorations.
@@ -2167,7 +2170,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [plain-ui (⭐0)](https://github.com/purveshpatel511/plain-ui) - Minimalist, but includes `git` status decorations.
 *   [plain (⭐0)](https://github.com/jimeh/plain.zsh-theme) - A plain and simple theme for ZSH which shows basic `git` information.
 *   [planet (⭐0)](https://github.com/borb/planet-zsh) - A slimmed down version of [steef (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/steeef.zsh-theme) from [oh-my-zsh (⭐160k)](https://github.com/ohmyzsh/ohmyzsh).
-*   [plankton](https://github.com/tobiaseichert/plankton-zsh-theme) - Simple, no-frills theme.
+*   [plankton (⭐1)](https://github.com/tobiaseichert/plankton-zsh-theme) - Simple, no-frills theme.
 *   [plantyhoe (⭐1)](https://github.com/totoroot/plantyhoe.zsh-theme) - Minimalist theme based on a love of plants and apples. Includes `git` status decorations.
 *   [platypus (⭐1)](https://github.com/fdv/platypus) - Platypus is a simple and convenient theme for oh-my-zsh used by Frédéric de Villamil.
 *   [pog7x (⭐1)](https://github.com/pog7x/pog7x-zsh-theme) - Works with unicode. Includes decorators for `git` information, current directory, last command exit status & execution time, time, virtualenv, nvm, rvm, rust, go, kubernetes context, and elixir.
@@ -2181,7 +2184,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [powerlevel9k (⭐13k)](https://github.com/bhilburn/powerlevel9k) - Powerlevel9k is a theme for ZSH which uses [Powerline Fonts (⭐25k)](https://github.com/powerline/fonts). It can be used with vanilla ZSH or ZSH frameworks such as [Oh-My-Zsh (⭐160k)](https://github.com/ohmyzsh/ohmyzsh), [Prezto (⭐13k)](https://github.com/sorin-ionescu/prezto), [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), and [many others (⭐13k)](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions).
 *   [powerlevelHipstersmoothie (⭐9)](https://github.com/hipstersmoothie/PowerlevelHipstersmoothie) - Add-on for [powerlevel9k (⭐13k)](https://github.com/bhilburn/powerlevel9k).
 *   [powerline (brucehsu) (⭐10)](https://github.com/brucehsu/oh-my-zsh-powerline-theme) - A two-line version of powerline: one for information, one for input.
-*   [powerline (jeremy)](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) - Another take on a powerline theme. Nicely configurable, but requires at least a 256 color-capable terminal with a powerline-compatible terminal font.
+*   [powerline (jeremy) (⭐1.1k)](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) - Another take on a powerline theme. Nicely configurable, but requires at least a 256 color-capable terminal with a powerline-compatible terminal font.
 *   [powerline (syui) (⭐1)](https://github.com/syui/powerline.zsh) - A `git` aware powerline theme.
 *   [powerline-cute (⭐28)](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - Based on [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh).
 *   [powerline-go (⭐2.6k)](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt, written in golang. Includes `git` and `hg` status decorations, exit status of the last command run, current Python virtualenv, whether you're in a [nix](https://nixos.org/) shell, and is easy to extend.
@@ -2192,7 +2195,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [powerline-train (⭐4)](https://github.com/sherubthakur/powerline-train) - A powerline variant.
 *   [powerline (⭐125)](https://github.com/carlcarl/powerline-zsh) - A [Powerline (⭐2.9k)](https://github.com/Lokaltog/vim-powerline)-like prompt, based on [powerline-bash (⭐15)](https://github.com/milkbikis/powerline-bash). Displays virtualenv, `git` status information and the exit code of the last command run.
 *   [powermore (⭐0)](https://github.com/primejade/powermore-zsh) - Forked from [powerless (⭐64)](https://github.com/martinrotter/powerless). Simple prompt that shows `git` status and current directory.
-*   [powerzeesh (⭐0)](https://github.com/sevaho/Powerzeesh) - A Powerline based ZSH theme. It aims for simplicity, showing information only when it's relevant, optimized for speed and look. Inspired by [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme) and [Powerline](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme).
+*   [powerzeesh (⭐0)](https://github.com/sevaho/Powerzeesh) - A Powerline based ZSH theme. It aims for simplicity, showing information only when it's relevant, optimized for speed and look. Inspired by [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme) and [Powerline (⭐1.1k)](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme).
 *   [pre (⭐49)](https://github.com/leandromatos/pre-theme) - A collection of themes for Sublime Text, Terminal, iTerm 2 and ZSH.
 *   [predawn-shell (⭐51)](https://github.com/jamiewilson/predawn-shell) - Theme optimized for dark terminal themes.
 *   [prezto-cloud-prompt (⭐1)](https://github.com/klaude/prezto-cloud-prompt) - Prezto port of oh-my-zsh's cloud prompt.
@@ -2219,7 +2222,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [purs (⭐238)](https://github.com/xcambar/purs) - A fast [pure (⭐12k)](https://github.com/sindresorhus/pure)-inspired prompt written in [Rust](https://www.rust-lang.org/).
 *   [pustelto (⭐0)](https://github.com/Pustelto/shell_theme) - Colorful theme inspired by the [Spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt) theme, includes `git` decorations.
 *   [pwn (⭐0)](https://github.com/gh05t-4/pwn-theme) - Includes decorators for user\@host, `git` & `hg` status, ruby version, python virtualenv and current working directory.
-*   [pyhack](https://github.com/williamcanin/pyhack) - Works well with dark terminal themes. Shows Python version, Python package version (pyproject.toml) and `git` current branch information.
+*   [pyhack (⭐1)](https://github.com/williamcanin/pyhack) - Works well with dark terminal themes. Shows Python version, Python package version (pyproject.toml) and `git` current branch information.
 *   [qi3ber2 (⭐0)](https://github.com/nichus/qi3ber2) - A dark multiline theme. Includes `git`, load average and exit code of last command decorators.
 *   [qoomon (⭐2)](https://github.com/qoomon/zsh-theme-qoomon) - Optimized for dark backgrounds, includes `git` information. Theme repo includes iTerm 2 and Terminal color settings.
 *   [quewui (⭐1)](https://github.com/kauefontes/oh-my-quewui) - Simple and clean theme optimized for dark terminal themes. Includes decorations for the current time, user, directory and `git` status.
@@ -2284,7 +2287,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [senpai (⭐11)](https://github.com/hiroru/senpai-zsh) - Clean prompt theme for Devops. Includes decorators for `git` status, the kubernetes context, AWS profile, GCP project and Azure active cloud.
 *   [sensa (⭐0)](https://github.com/miccou/sensa-theme) - Includes decorators for `git` status, github username and current directory.
 *   [sepshell (⭐17)](https://github.com/sepehr/sepshell) - Clean and minimal ZSH theme based on the old lost taybalt theme, with `git` bisecting/merging/rebasing modes and configurable prompt symbols.
-*   [serious](https://github.com/oliversandli/serious-zsh-theme) - Includes command exit status and `git` status decorations.
+*   [serious (⭐0)](https://github.com/oliversandli/serious-zsh-theme) - Includes command exit status and `git` status decorations.
 *   [seti\_UX (⭐2)](https://github.com/ginfuru/iTerm-Seti_UX) - A simple oh-my-zsh-compatible theme with a corresponding iTerm 2 color scheme.
 *   [sfz (⭐1)](https://github.com/mreinhardt/sfz-prompt.zsh) - An evolution of lean prompt which itself is a rewrite of pure.
 *   [shadow (⭐0)](https://github.com/agentshadow/shadow-zsh-theme) - Includes `git` status, directory, host name, username and time decorations.
@@ -2318,11 +2321,12 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [simple-git (⭐0)](https://github.com/BazaJayGee66/simple-git-theme) - Minimalist theme inspired by [gitstatus (⭐5)](https://github.com/kimyvgy/gitstatus-zsh-theme). Includes `git` decorations.
 *   [simple-yet-beautiful (⭐0)](https://github.com/mathiasmoeller/simple-yet-beautiful-zsh-theme) - Minimalist theme. Includes `git` status and `user@host` prompt decorations.
 *   [simplezsh (⭐0)](https://github.com/fr0zn/simplezsh) - Minimal theme with `git` info display.
-*   [sinon](https://github.com/k-kinzal/oh-my-zsh-sinon-theme) - k-kinzal's sinon theme. Includes `git` status decorations.
+*   [sinon (⭐0)](https://github.com/k-kinzal/oh-my-zsh-sinon-theme) - k-kinzal's sinon theme. Includes `git` status decorations.
 *   [sit (⭐0)](https://github.com/svensen/sit.zsh-theme) - Minimalist theme with `git`, command exit status and path decorations.
 *   [sixlive (⭐4)](https://github.com/sixlive/sixlive-zsh-theme) - This theme has a unique directory listing. When inside a `git` project, the directory display is scoped to the current repository root.
 *   [sk9 (⭐0)](https://github.com/skeiter9/sk9-zsh) - Skeiter9's ZSH theme.
 *   [skeletor-syntax (⭐17)](https://github.com/ramonmcros/skeletor-syntax) - Theme collection for Atom, Prism and ZSH inspired by Skeletor from He-Man and the Masters of the Universe.
+*   [skgeek (⭐0)](https://github.com/skippyr/skgeek) - Includes decorators for hostname, directory and `git` branch.
 *   [skill (asafaeirad) (⭐10)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
 *   [skill (frontendmonster) (⭐10)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 *   [skull (⭐14)](https://github.com/tahadostifam/skull-zsh) - Includes `git` status, python virtual environment and ruby `rvm` status decorations.
@@ -2381,6 +2385,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [thetraveler (⭐2)](https://github.com/bassopenguin/thetraveler) - Inspired by theunraveler, uses symbols to display `git` status.
 *   [thm (⭐2)](https://github.com/thm-unix/thm-zshtheme) - Includes decorators for virtualenv, current directory and `git` status.
 *   [thnikk (⭐1)](https://github.com/thnikk/zsh-theme-thnikk) - A minimal version of the [spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt) theme.
+*   [thygod (⭐0)](https://github.com/Thy-GoD/thy-god-zsh-theme) - Based off [gnzh (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) and [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes a `git` status decorator and changes prompt to a red cross when a command fails.
 *   [thyme (chenhao-ye) (⭐21)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 *   [thyme (kawamurakazushi) (⭐1)](https://github.com/kawamurakazushi/thyme) - Simple theme with `git` status decorations.
 *   [toledo (⭐7)](https://github.com/mmatongo/toledo) - Quick minimalist theme with `git` status decorations. Works with `zsh`, `bash`, `dash` and `yash`.
@@ -2463,7 +2468,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [zero (⭐16)](https://github.com/arlimus/zero.zsh) - Zero's theme & plugin. Has variants for both light and dark terminal backgrounds.
 *   [zeroastro (⭐4)](https://github.com/zeroastro/zeroastro-zsh-theme) - Works best on dark backgrounds, includes `git` status decorations.
 *   [zerocake (⭐0)](https://github.com/ZeroPoke/ZeroCake.zsh-theme) - Works better on dark brackgrounds.
-*   [zest (⭐0)](https://github.com/hash-bang/zsh-theme-zest) - A functional theme for ZSH. Influenced by [zsh2000 (⭐81)](https://github.com/consolemaverick/zsh2000), [agnoster](https://gist.github.com/agnoster/3712874) and [powerline](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) themes.
+*   [zest (⭐0)](https://github.com/hash-bang/zsh-theme-zest) - A functional theme for ZSH. Influenced by [zsh2000 (⭐81)](https://github.com/consolemaverick/zsh2000), [agnoster](https://gist.github.com/agnoster/3712874) and [powerline (⭐1.1k)](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) themes.
 *   [zeta (⭐214)](https://github.com/skylerlee/zeta-zsh-theme) - Shows decorations for username, `git` status information, machine name, the current working directory and success/fail status of last command.
 *   [zhiyin (⭐68)](https://github.com/AmyangXYZ/zhiyin-zsh-theme) - Includes decorators for user @ host, current working directory and `git` status information.
 *   [zinc](https://gitlab.com/robobenklein/zinc) - A blazing-fast, pure ZSH, mixed asynchronous prompt inspired by [Powerlevel9k (⭐13k)](https://github.com/bhilburn/powerlevel9k) and [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme) that's easily extensible and extremely configurable. It supports async segments using [zsh-async (⭐699)](https://github.com/mafredri/zsh-async).

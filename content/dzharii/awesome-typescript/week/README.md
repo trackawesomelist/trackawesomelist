@@ -8,6 +8,10 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
+### Books
+
+*   :books: [The Concise TypeScript Book (Free and Open Source) (⭐11)](https://github.com/gibbok/typescript-book) by Simone Poggiali
+
 ### Validation / Playground
 
 *   [dto-classes (⭐43)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
