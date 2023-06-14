@@ -2,9 +2,31 @@
 
 A curated list of awesome MicroPython libraries, frameworks, software and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mcauser/awesome-micropython/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) · ⭐ 916 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mcauser/awesome-micropython/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) · ⭐ 934 · 🏷️ Programming Languages
 
 [ [Daily](/content/mcauser/awesome-micropython/README.md) / Weekly / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
+
+## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
+
+### Display / LED Segment
+
+*   [micropython-tm1638spi](https://gitlab.com/robhamerling/micropython-tm1638spi) - MicroPython Library for a popular board with 8 7-segment digits, 8 separate LEDs and 8 push buttons controlled by a TM1638.
+
+### Motion / Stepper
+
+*   [micropython-drv8825](https://gitlab.com/robhamerling/micropython-drv8825) - Driver and example in MicroPython to control a stepper motor via a DRV8825 controller board.
+
+### Sensors / Colour
+
+*   [micropython-as7341](https://gitlab.com/robhamerling/micropython-as7341) - MicroPython library for AS7341.
+
+### Code Generation / SRAM
+
+*   [micropython-stubs (⭐72)](https://github.com/Josverl/micropython-stubs) - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
+
+### Shells / Jupyter
+
+*   [micropython-magic (⭐2)](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
@@ -41,7 +63,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Gaseous
 
-*   [MicroPython\_SCD4X (⭐2)](https://github.com/peter-l5/MicroPython_SCD4X) - MicroPython I2C driver for Sensirion SCD40 and SCD41 CO2 sensors.
+*   [MicroPython\_SCD4X (⭐3)](https://github.com/peter-l5/MicroPython_SCD4X) - MicroPython I2C driver for Sensirion SCD40 and SCD41 CO2 sensors.
 
 ### Storage / EEPROM
 
@@ -59,11 +81,11 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Display / LCD Character
 
-*   [micropython-i2c-lcd (⭐6)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
+*   [micropython-i2c-lcd (⭐7)](https://github.com/brainelectronics/micropython-i2c-lcd) - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
 
 ### Motion / Servo
 
-*   [micropython-servo (⭐4)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
+*   [micropython-servo (⭐5)](https://github.com/redoxcode/micropython-servo) - Library to control RC servos using direct PWM output in a tidy way.
 
 ### Motion / Stepper
 
@@ -108,7 +130,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Display / E-Paper
 
-*   [Inkplate-micropython (⭐61)](https://github.com/SolderedElectronics/Inkplate-micropython) - MicroPython driver for Inkplate boards.
+*   [Inkplate-micropython (⭐62)](https://github.com/SolderedElectronics/Inkplate-micropython) - MicroPython driver for Inkplate boards.
 
 ### Display / LCD Graphic
 
@@ -143,21 +165,21 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### IDEs / SRAM
 
 *   [BIPES](https://bipes.net.br/ide/) - Web-based IDE for MicroPython with file manager, editor, code generation from blocks, IoT dashboard and Serial/USB/Bluetooth/WebREPL console on the web browser. Source: <https://github.com/BIPES>.
-*   [ESP32-MPY-Jama (⭐297)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
+*   [ESP32-MPY-Jama (⭐307)](https://github.com/jczic/ESP32-MPY-Jama) - Tool for managing Espressif ESP32 microcontrollers with MicroPython.
 
 ### Logging / SRAM
 
-*   [micropython-ulogger (⭐26)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
+*   [micropython-ulogger (⭐28)](https://github.com/whales-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
 
 ### Shells / On Host
 
-*   [mpsync (⭐4)](https://github.com/thilomichael/mpsync) - A tool that automatically synchronizes code to a MicroPython board.
+*   [mpsync (⭐5)](https://github.com/thilomichael/mpsync) - A tool that automatically synchronizes code to a MicroPython board.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Communications / Ethernet
 
-*   [Official WIZnet5k (⭐0)](https://github.com/andrewleech/wiznet_ioLibrary_Driver) - Driver for the WIZnet5x00 series of Ethernet controllers.
+*   [Official WIZnet5k (⭐1)](https://github.com/andrewleech/wiznet_ioLibrary_Driver) - Driver for the WIZnet5x00 series of Ethernet controllers.
 
 ### Community / SRAM
 
@@ -171,7 +193,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Shells / On Host
 
-*   [mpbridge (⭐24)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
+*   [mpbridge (⭐26)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
@@ -197,13 +219,13 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Code Generation / SRAM
 
-*   [micropython-package-template (⭐1)](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
+*   [micropython-package-template (⭐2)](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
 ### Scheduling / Touch Resistive
 
-*   [Schedule (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates.
+*   [Schedule (⭐616)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) - A scheduler for uasyncio based applications. Schedule events at specified times and dates.
 
 ### Frameworks / SRAM
 
@@ -254,10 +276,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Tutorials / SRAM
 
-*   [uasyncio (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
-*   [Asynchronous drivers (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
+*   [uasyncio (⭐616)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
+*   [Asynchronous drivers (⭐616)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 *   [Pyboard micropower (⭐44)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
-*   [3D rotation with quaternions (⭐350)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
+*   [3D rotation with quaternions (⭐355)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
 *   [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
 *   [Bhavesh Kakwani](https://bhave.sh/) - MicroPython videos + written tutorials.
 
@@ -308,23 +330,23 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / Modbus
 
-*   [micropython-modbus (⭐47)](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
+*   [micropython-modbus (⭐50)](https://github.com/brainelectronics/micropython-modbus) - ModBus TCP and RTU library supporting client and host mode. Based on pycom-modbus from Pycom.
 
 ### Communications / Serial
 
-*   [I2C Slave (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
+*   [I2C Slave (⭐616)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md) - Uses the Pyboard's I2C slave mode to implement a full duplex asynchronous link. Principal use case is for ESP8266 which has only one UART.
 
 ### Communications / WiFi
 
-*   [Micropython-ESP-WiFi-Manager (⭐16)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
+*   [Micropython-ESP-WiFi-Manager (⭐18)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
 
 ### Display / GUI
 
-*   [TFT-GUI (⭐78)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
+*   [TFT-GUI (⭐79)](https://github.com/peterhinch/micropython-tft-gui) - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
 
 ### Storage / Flash
 
-*   [micropython-winbond (⭐3)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
+*   [micropython-winbond (⭐4)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
@@ -345,7 +367,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / IR
 
-*   [pico-ir (⭐4)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
+*   [pico-ir (⭐5)](https://github.com/bartoszadamczyk/pico-ir) - IR library for Raspberry Pi Pico.
 
 ### Frameworks / SRAM
 
@@ -370,42 +392,42 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / GPS
 
-*   [Asynchronous GPS driver (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/GPS.md) - Receive and parse GPS data as a uasyncio task.
+*   [Asynchronous GPS driver (⭐616)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/GPS.md) - Receive and parse GPS data as a uasyncio task.
 
 ### Communications / IoT
 
-*   [micropython-iot (⭐77)](https://github.com/peterhinch/micropython-iot) - An approach to designing IoT applications using ESP8266, ESP32 or Pyboard D endpoints.
+*   [micropython-iot (⭐78)](https://github.com/peterhinch/micropython-iot) - An approach to designing IoT applications using ESP8266, ESP32 or Pyboard D endpoints.
 
 ### Display / Fonts
 
-*   [writer (⭐296)](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) - A simple way to render above Python fonts to displays whose driver is subclassed from `framebuf`.
+*   [writer (⭐297)](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) - A simple way to render above Python fonts to displays whose driver is subclassed from `framebuf`.
 
 ### Display / GUI
 
-*   [micropython-nano-gui (⭐342)](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the `framebuf` class. With drivers for TFT, ePaper and OLED displays.
-*   [micro-gui (⭐144)](https://github.com/peterhinch/micropython-micro-gui) - Derived from nano-gui and supporting the same displays and hosts, this provides for user
+*   [micropython-nano-gui (⭐348)](https://github.com/peterhinch/micropython-nano-gui) - A tiny display-only GUI with a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the `framebuf` class. With drivers for TFT, ePaper and OLED displays.
+*   [micro-gui (⭐146)](https://github.com/peterhinch/micropython-micro-gui) - Derived from nano-gui and supporting the same displays and hosts, this provides for user
     input via push buttons or a navigation joystick and an optional rotary encoder.
 
 ### IO / Rotary Encoder
 
-*   [encoders (⭐350)](https://github.com/peterhinch/micropython-samples/blob/master/encoders/ENCODERS.md) - Short document explaining issues around encoder technology.
-*   [asynchronous encoder driver (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/primitives/encoder.py) - Interface an encoder to uasyncio code.
+*   [encoders (⭐355)](https://github.com/peterhinch/micropython-samples/blob/master/encoders/ENCODERS.md) - Short document explaining issues around encoder technology.
+*   [asynchronous encoder driver (⭐616)](https://github.com/peterhinch/micropython-async/blob/master/v3/primitives/encoder.py) - Interface an encoder to uasyncio code.
 
 ### Sensors / Temperature Digital
 
-*   [HTU21D (⭐610)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - Asynchronous driver for HTU21D temperature and humidity sensor.
+*   [HTU21D (⭐616)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - Asynchronous driver for HTU21D temperature and humidity sensor.
 
 ### Storage / EEPROM
 
-*   [micropython\_eeprom (⭐55)](https://github.com/peterhinch/micropython_eeprom) - Cross-platform MicroPython device drivers for memory chips (EEPROM, FRAM, Flash, PSRAM).
+*   [micropython\_eeprom (⭐56)](https://github.com/peterhinch/micropython_eeprom) - Cross-platform MicroPython device drivers for memory chips (EEPROM, FRAM, Flash, PSRAM).
 
 ### Storage / Flash
 
-*   [micropython\_data\_to\_py (⭐22)](https://github.com/peterhinch/micropython_data_to_py) - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
+*   [micropython\_data\_to\_py (⭐23)](https://github.com/peterhinch/micropython_data_to_py) - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
 
 ### Debugging / SRAM
 
-*   [micropython-aiosentry (⭐7)](https://github.com/devbis/micropython-aiosentry) - Asynchronous Sentry.io micro client for MicroPython.
+*   [micropython-aiosentry (⭐8)](https://github.com/devbis/micropython-aiosentry) - Asynchronous Sentry.io micro client for MicroPython.
 *   [Asynchronous monitor (⭐23)](https://github.com/peterhinch/micropython-monitor) - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
@@ -450,8 +472,8 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-jq6500 (⭐16)](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
 *   [micropython-buzzer (⭐13)](https://github.com/fruch/micropython-buzzer) - Play Nokia compose and mid files on buzzers.
-*   [micropython-i2s-examples (⭐127)](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
-*   [micropython-osc (⭐48)](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython.
+*   [micropython-i2s-examples (⭐130)](https://github.com/miketeachman/micropython-i2s-examples) - Examples for I2S support on microcontrollers that run MicroPython.
+*   [micropython-osc (⭐51)](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython.
 
 ### Communications / APIs
 
@@ -468,7 +490,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Communications / Bluetooth
 
 *   [uble (⭐75)](https://github.com/dmazzella/uble) - Lightweight Bluetooth Low Energy driver written in pure Python for MicroPython.
-*   [MicroPythonBLEHID (⭐126)](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
+*   [MicroPythonBLEHID (⭐129)](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 *   [upyble (⭐12)](https://github.com/Carglglz/upyble) - Command line tool for Bluetooth Low Energy MicroPython devices.
 
 ### Communications / CAN
@@ -480,7 +502,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [ucrypto (⭐13)](https://github.com/dmazzella/ucrypto) - MicroPython package for doing fast RSA and elliptic curve cryptography, specifically digital signatures. ECDSA API design inspired from fastecdsa and implementation based on tomsfastmath.
 *   [ucryptoauthlib (⭐35)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure Python for MicroPython.
-*   [embit (⭐54)](https://github.com/diybitcoinhardware/embit) - A minimal Bitcoin library for MicroPython and Python 3 with a focus on embedded systems.
+*   [embit (⭐59)](https://github.com/diybitcoinhardware/embit) - A minimal Bitcoin library for MicroPython and Python 3 with a focus on embedded systems.
 *   [microotp (⭐18)](https://github.com/gdassori/microotp) - An ESP8266 MicroPython OTP Generator.
 *   [micropython-rsa-signing (⭐16)](https://github.com/artem-smotrakov/micropython-rsa-signing) - RSA signing on MicroPython.
 *   [micropython-cryptomsg (⭐4)](https://github.com/jacklinquan/micropython-cryptomsg) - A MicroPython module to encrypt and decrypt messages with AES CBC mode.
@@ -489,7 +511,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [tinydns (⭐24)](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
 *   [micropython-captiveportal (⭐11)](https://github.com/metachris/micropython-captiveportal) -  Minimal async captive portal for MicroPython (compatible with uasyncio v3/MicroPython 1.13+ as well as earlier versions).
-*   [Micropython-DNSServer-Captive-Portal (⭐12)](https://github.com/p-doyle/Micropython-DNSServer-Captive-Portal) - MicroPython WiFi AP Captive Portal with DNS and Web Server.
+*   [Micropython-DNSServer-Captive-Portal (⭐13)](https://github.com/p-doyle/Micropython-DNSServer-Captive-Portal) - MicroPython WiFi AP Captive Portal with DNS and Web Server.
 
 ### Communications / FTP
 
@@ -503,14 +525,14 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / IoT
 
-*   [iot-core-micropython (⭐52)](https://github.com/GoogleCloudPlatform/iot-core-micropython) - Use MicroPython to connect to Google Cloud IoT Core.
+*   [iot-core-micropython (⭐51)](https://github.com/GoogleCloudPlatform/iot-core-micropython) - Use MicroPython to connect to Google Cloud IoT Core.
 *   [SmartUPy (⭐9)](https://github.com/lemariva/SmartUPy) - Controlling "Tuya-type" smart power outlets using MicroPython.
 *   [aws-iot-GET-POST-loop (⭐15)](https://github.com/manningt/aws-iot-GET-POST-loop) - MicroPython code which uses the AWS IoT REST API to GET/POST device state info.
-*   [sensor-mqtt-homeassistant (⭐7)](https://github.com/DougWilkinson/sensor-mqtt-homeassistant) - An ESP8266/ESP32 MicroPython-based sensor platform for GPIO, DHT, analog, LED and more. Includes remote updates for .py code from web server and MQTT/Home Assistant integration.
+*   [sensor-mqtt-homeassistant (⭐8)](https://github.com/DougWilkinson/sensor-mqtt-homeassistant) - An ESP8266/ESP32 MicroPython-based sensor platform for GPIO, DHT, analog, LED and more. Includes remote updates for .py code from web server and MQTT/Home Assistant integration.
 
 ### Communications / IR
 
-*   [micropython\_espX\_IR\_Transceiver (⭐5)](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython ESP32 IR Transceiver.
+*   [micropython\_espX\_IR\_Transceiver (⭐6)](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython ESP32 IR Transceiver.
 
 ### Communications / LoRaWAN
 
@@ -518,19 +540,19 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [LightLora\_MicroPython (⭐20)](https://github.com/MZachmann/LightLora_MicroPython) - Lightweight Interrupt-driven Semtech SX127x Library for MicroPython.
 *   [sx127x\_esp (⭐8)](https://github.com/azorg/sx127x_esp) - Connect Ra-01 module base on LoRaTM sx127x chip to ESP8266/ESP32 under MicroPython.
 *   [nanoserver (⭐5)](https://github.com/gradoj/nanoserver) - MicroPython embedded LoRaWAN server.
-*   [micropySX126X (⭐41)](https://github.com/ehong-tl/micropySX126X) - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
+*   [micropySX126X (⭐43)](https://github.com/ehong-tl/micropySX126X) - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
 
 ### Communications / Modbus
 
 *   [micropython-modbus](https://gitlab.com/extel-open-source/micropython-modbus) - MicroPython port of modbus-tk.
-*   [micropython-modbus (⭐57)](https://github.com/techbase123/micropython-modbus) - Modbus Master library for MicroPython ESP32 devices. Based on pycom-modbus from Pycom.
+*   [micropython-modbus (⭐59)](https://github.com/techbase123/micropython-modbus) - Modbus Master library for MicroPython ESP32 devices. Based on pycom-modbus from Pycom.
 *   [mp\_modbus (⭐8)](https://github.com/eydam-prototyping/mp_modbus) - Modbus library for MicroPython.
 
 ### Communications / MQTT
 
 *   [micropython-mqtt (⭐30)](https://github.com/chrismoorhouse/micropython-mqtt) - Async MQTT library with auto reconnect for MicroPython devices such as the ESP32 or Pycom devices.
-*   [micropython-adafruit-mqtt-esp8266 (⭐54)](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266) - Using MQTT to Publish/Subscribe to Adafruit IO. MicroPython/CircuitPython implementation on ESP8266/ESP32.
-*   [MicropythonCayenneMQTTClient (⭐5)](https://github.com/uraich/MicropythonCayenneMQTTClient) - A port of the Python Cayenne MQTT Client to MicroPython.
+*   [micropython-adafruit-mqtt-esp8266 (⭐55)](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266) - Using MQTT to Publish/Subscribe to Adafruit IO. MicroPython/CircuitPython implementation on ESP8266/ESP32.
+*   [MicropythonCayenneMQTTClient (⭐6)](https://github.com/uraich/MicropythonCayenneMQTTClient) - A port of the Python Cayenne MQTT Client to MicroPython.
 *   [mqtt\_upython (⭐0)](https://github.com/matbgn/mqtt_upython) - MQTT Client using MicroPython on ESP8266.
 
 ### Communications / NFC
@@ -548,9 +570,9 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / OTA
 
-*   [micropython-ota-updater (⭐318)](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython.
+*   [micropython-ota-updater (⭐320)](https://github.com/rdehuyss/micropython-ota-updater) - OTA Updater for MicroPython.
 *   [Micropython-ESP32-OTA (⭐12)](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - MicroPython updater based on rdehuyss/micropython-ota-updater.
-*   [senko (⭐64)](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
+*   [senko (⭐65)](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
 
 ### Communications / Radio
 
@@ -561,7 +583,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / REPL
 
-*   [FBConsole (⭐42)](https://github.com/boochow/FBConsole) - Framebuffer console class for MicroPython.
+*   [FBConsole (⭐43)](https://github.com/boochow/FBConsole) - Framebuffer console class for MicroPython.
 
 ### Communications / RFID
 
@@ -569,7 +591,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / RTC
 
-*   [micropython-ds1302-rtc (⭐28)](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
+*   [micropython-ds1302-rtc (⭐29)](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
 *   [DS3231micro (⭐11)](https://github.com/notUnique/DS3231micro) - MicroPython library for DS3231.
 
 ### Communications / Serial
@@ -578,9 +600,9 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / Serialization
 
-*   [micropython-msgpack (⭐21)](https://github.com/peterhinch/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
+*   [micropython-msgpack (⭐22)](https://github.com/peterhinch/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
 *   [micropython-uprotobuf (⭐18)](https://github.com/jazzycamel/micropython-uprotobuf) - A lightweight implementation of Google's Protocol Buffers (protobuf) for MicroPython.
-*   [minipb (⭐42)](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
+*   [minipb (⭐43)](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 
 ### Communications / SOCKS
 
@@ -588,7 +610,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / TCP
 
-*   [us2n (⭐19)](https://github.com/tiagocoutinho/us2n) - MicroPython bridge between UART and TCP for the ESP32.
+*   [us2n (⭐21)](https://github.com/tiagocoutinho/us2n) - MicroPython bridge between UART and TCP for the ESP32.
 
 ### Communications / VoIP
 
@@ -596,24 +618,24 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / WiFi
 
-*   [WiFiManager (⭐286)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
+*   [WiFiManager (⭐289)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 
 ### Communications / Web
 
-*   [micropython-nanoweb (⭐78)](https://github.com/hugokernel/micropython-nanoweb) - Full async MicroPython web server with small memory footprint.
+*   [micropython-nanoweb (⭐80)](https://github.com/hugokernel/micropython-nanoweb) - Full async MicroPython web server with small memory footprint.
 *   [MicroWebCli (⭐48)](https://github.com/jczic/MicroWebCli) - A micro HTTP web client for MicroPython (used on Pycom modules & ESP32).
 *   [micropython-configserver (⭐15)](https://github.com/carstenblt/micropython-configserver) - Captive portal for MicroPython including a dumb DNS server and a web server to configure WiFi networks.
-*   [micropython-aioweb (⭐15)](https://github.com/wybiral/micropython-aioweb) - A minimalist asyncio web framework for MicroPython.
+*   [micropython-aioweb (⭐16)](https://github.com/wybiral/micropython-aioweb) - A minimalist asyncio web framework for MicroPython.
 
 ### Display / E-Paper
 
 *   [micropython-inkplate6 (⭐16)](https://github.com/tve/micropython-inkplate6) - MicroPython driver for the Inkplate 6.
 *   [eink (⭐12)](https://github.com/chevdor/eink) - An eInk, ePaper display driver for MicroPython and ESP32.
-*   [micropython\_DEPG0213BN (⭐13)](https://github.com/Inqbus/micropython_DEPG0213BN) - Pure MicroPython driver for the DEPG0213BN eInk display found on the TTGO T5 V2.3 ESP32 boards.
+*   [micropython\_DEPG0213BN (⭐14)](https://github.com/Inqbus/micropython_DEPG0213BN) - Pure MicroPython driver for the DEPG0213BN eInk display found on the TTGO T5 V2.3 ESP32 boards.
 
 ### Display / Fonts
 
-*   [micropython-font-to-py (⭐296)](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
+*   [micropython-font-to-py (⭐297)](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode.
 *   [ssd1306big (⭐14)](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel SSD1306 OLED display.
 
 ### Display / Graphics
@@ -634,12 +656,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Display / LCD TFT
 
-*   [st7789\_mpy (⭐363)](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for ST7789 display module written in C.
-*   [st7789py\_mpy (⭐80)](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
+*   [st7789\_mpy (⭐371)](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for ST7789 display module written in C.
+*   [st7789py\_mpy (⭐83)](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
 *   [ili9342c\_mpy (⭐33)](https://github.com/russhughes/ili9342c_mpy) - ILI9342C Fast 'C' Driver for MicroPython (M5Stack Core).
 *   [gc9a01py (⭐20)](https://github.com/russhughes/gc9a01py) - GC9A01 Display driver in MicroPython.
-*   [gc9a01\_mpy (⭐50)](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C.
-*   [st7735-esp8266-micropython (⭐21)](https://github.com/cheungbx/st7735-esp8266-micropython) - An ESP8266 MicroPython library for ST7735 160x80, 128x128, 128x160 TFT LCD displays.
+*   [gc9a01\_mpy (⭐52)](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C.
+*   [st7735-esp8266-micropython (⭐24)](https://github.com/cheungbx/st7735-esp8266-micropython) - An ESP8266 MicroPython library for ST7735 160x80, 128x128, 128x160 TFT LCD displays.
 *   [TTGO-ST7789-MicroPython (⭐15)](https://github.com/schumixmd/TTGO-ST7789-MicroPython) - MicroPython ST7789 display driver for TTGO T-Display ESP32 CP2104 WiFi Bluetooth Module 1.14 Inch LCD.
 *   [st7735\_micropython (⭐1)](https://github.com/cheungbx/st7735_micropython) - ST7735 MicroPython drivers for 80x160, 128x128, 128x160 for ESP8266.
 *   [ili934x-micropython](https://gitlab.com/mhepp63/ili934x-micropython) - Library for using ILI9341 display drivers with MicroPython.
@@ -650,7 +672,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [ws2812-SPI (⭐23)](https://github.com/nickovs/ws2812-SPI) - An efficient MicroPython WS2812 (NeoPixel) driver.
 *   [micropython-rgbled (⭐13)](https://github.com/Warringer/micropython-rgbled) - This wrapper module aims to reduce the work needed to work with NeoPixel (WS2812) and DotStar (APA102) RGB LED strips and matrixes.
 *   [micropython\_fastled (⭐19)](https://github.com/kdschlosser/micropython_fastled) - Port of FastLED to MicroPython.
-*   [micropython\_quickled](https://github.com/thebaron88/micropython_quickled) - MicroPython module which allows Python to pump data into the WS2811 LEDs at full speed.
 *   [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - Tiny driver to control an RGB LED with PWM.
 
 ### Display / OLED
@@ -663,8 +684,8 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### IO / Keyboard
 
-*   [micropython-keyboard (⭐29)](https://github.com/mcameron/micropython-keyboard) - 47 key keyboard running on a MicroPython Pyboard.
-*   [pico-rgbkeypad (⭐57)](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
+*   [micropython-keyboard (⭐30)](https://github.com/mcameron/micropython-keyboard) - 47 key keyboard running on a MicroPython Pyboard.
+*   [pico-rgbkeypad (⭐58)](https://github.com/martinohanlon/pico-rgbkeypad) - A Python class for controlling the Pimoroni RGB Keypad for Raspberry Pi Pico.
 *   [micropython-aiobutton (⭐4)](https://github.com/jacklinquan/micropython-aiobutton) - A MicroPython module for asyncio button.
 
 ### IO / Potentiometers
@@ -726,8 +747,8 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Camera
 
-*   [esp32-cam-micropython (⭐75)](https://github.com/shariltumin/esp32-cam-micropython) - MicroPython ESP32-CAM.
-*   [uPyCam (⭐111)](https://github.com/lemariva/uPyCam) - Take a photo with an ESP32-CAM running MicroPython.
+*   [esp32-cam-micropython (⭐76)](https://github.com/shariltumin/esp32-cam-micropython) - MicroPython ESP32-CAM.
+*   [uPyCam (⭐112)](https://github.com/lemariva/uPyCam) - Take a photo with an ESP32-CAM running MicroPython.
 *   [OV2640\_uPy (⭐7)](https://github.com/FunPythonEC/OV2640_uPy) - OV2640 camera library for MicroPython.
 *   [MQTT-Cam (⭐7)](https://github.com/jono-allen/MQTT-Cam) - ESP32-CAM MicroPython MQTT AWS S3 Uploader.
 
@@ -741,7 +762,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Current
 
-*   [INA219 (⭐6)](https://github.com/robert-hh/INA219) - INA219 MicroPython driver.
+*   [INA219 (⭐7)](https://github.com/robert-hh/INA219) - INA219 MicroPython driver.
 *   [TI\_INA226\_micropython (⭐16)](https://github.com/elschopi/TI_INA226_micropython) - MicroPython driver for Texas Instruments INA226 power measuring IC.
 *   [micropython-current-monitor](https://gitlab.com/n.rj.powers/micropython-current-monitor) - Current monitor using the INA219 and an SSD1306 OLED.
 
@@ -761,7 +782,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Energy
 
-*   [micropython-p1meter (⭐12)](https://github.com/Josverl/micropython-p1meter) - A ESP32 sensor to read a p1 electricity meter and publish this to MQTT and Home Assistant, written in MicroPython.
+*   [micropython-p1meter (⭐13)](https://github.com/Josverl/micropython-p1meter) - A ESP32 sensor to read a p1 electricity meter and publish this to MQTT and Home Assistant, written in MicroPython.
 *   [esp32-solar2 (⭐0)](https://github.com/octopusengine/esp32-solar2) - Simple solar regulator - MicroPython project.
 
 ### Sensors / Gaseous
@@ -776,10 +797,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Motion Inertial
 
-*   [micropython-fusion (⭐287)](https://github.com/micropython-IMU/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
+*   [micropython-fusion (⭐289)](https://github.com/micropython-IMU/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
 *   [flight\_controller (⭐55)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
 *   [micropython-mpu6050-mqtt-streamer (⭐8)](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - Stream data from MPU6050 to MQTT server using MicroPython on ESP8266.
-*   [upy-motion (⭐9)](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
+*   [upy-motion (⭐10)](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
 *   [micropython-bno08x-rvc (⭐2)](https://github.com/rdagger/micropython-bno08x-rvc) - MicroPython library for BNO08x.
 *   [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.
 
@@ -812,7 +833,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [esp-sht3x-micropython (⭐5)](https://github.com/HAIZAKURA/esp-sht3x-micropython) - A SHT3x (SHT30/31/35) library for ESP8266/ESP32 with MicroPython.
 *   [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 humidity and temperature sensor.
 *   [micropython-sht30 (⭐2)](https://github.com/schinckel/micropython-sht30) - SHT30 sensor driver in pure Python based on I2C bus.
-*   [micropython\_ahtx0 (⭐18)](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
+*   [micropython\_ahtx0 (⭐19)](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
 
 ### Sensors / Touch Capacitive
 
@@ -867,14 +888,14 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Shells / On Host
 
-*   [ampy (⭐655)](https://github.com/scientifichackers/ampy) - Utility to interact with a MicroPython board over a serial connection.
+*   [ampy (⭐656)](https://github.com/scientifichackers/ampy) - Utility to interact with a MicroPython board over a serial connection.
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
 ### Display / LCD TFT
 
 *   [micropython-ili9341 (⭐1)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
-*   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐25)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
+*   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐26)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
 
 ### Display / LED Segment
 
@@ -894,7 +915,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### IO / Rotary Encoder
 
-*   [encodermenu (⭐87)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
+*   [encodermenu (⭐89)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
 
 ### Motion / Servo
 
@@ -969,13 +990,13 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Display / GUI
 
-*   [lvgl (⭐187)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
+*   [lvgl (⭐190)](https://github.com/lvgl/lv_binding_micropython) - An object-oriented, component-based high-level GUI library with MicroPython binding.
 *   [micropython-lcd160cr-gui (⭐24)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
-*   [micropython\_ra8875 (⭐7)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
+*   [micropython\_ra8875 (⭐8)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 
 ### Sensors / Camera
 
-*   [micropython-camera-driver (⭐292)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
+*   [micropython-camera-driver (⭐294)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 
 ### Sensors / Temperature Digital
 
@@ -985,7 +1006,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Frameworks / SRAM
 
-*   [micrOS (⭐62)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
+*   [micrOS (⭐64)](https://github.com/BxNxM/micrOS) - MicroPython-based IoT Framework.
 *   [terkin-datalogger (⭐48)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ### Code Generation / SRAM
@@ -1022,7 +1043,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / MQTT
 
-*   [MQBoard (⭐104)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
+*   [MQBoard (⭐105)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
 *   [sonoff-mqtt by davea (⭐57)](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 *   [micropython-thingspeak-mqtt-esp8266 (⭐26)](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 
@@ -1038,7 +1059,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Analytics
 
-*   [micropython-ulab (⭐325)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
+*   [micropython-ulab (⭐331)](https://github.com/v923z/micropython-ulab) - A NumPy-like fast vector module for MicroPython.
 *   [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 *   [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
 
@@ -1070,12 +1091,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / Web
 
-*   [uwebsockets (⭐157)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
-*   [microdot (⭐673)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
+*   [uwebsockets (⭐158)](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
+*   [microdot (⭐685)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 
 ### Display / LCD TFT
 
-*   [st7789py\_mpy (⭐56)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
+*   [st7789py\_mpy (⭐57)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from AliExpress, written in MicroPython.
 
 ### Display / LED Segment
 
@@ -1088,7 +1109,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### IO / ADC
 
-*   [micropython-hx711 (⭐60)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
+*   [micropython-hx711 (⭐62)](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
 
 ### IO / GPIO
 
@@ -1121,23 +1142,23 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Code Generation / SRAM
 
 *   [micropy-cli (⭐249)](https://github.com/BradenM/micropy-cli) - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
-*   [micropython-stubber (⭐121)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code and/or Pylint.
+*   [micropython-stubber (⭐123)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 
 ### Shells / On Device
 
-*   [upy-shell (⭐35)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
-*   [Micropython-Editor (⭐184)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
+*   [upy-shell (⭐36)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
+*   [Micropython-Editor (⭐186)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
 
 ### Shells / On Host
 
-*   [rshell (⭐805)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
-*   [mpfshell (⭐385)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
+*   [rshell (⭐810)](https://github.com/dhylands/rshell) - Copy or sync files to boards, enter REPL from your terminal.
+*   [mpfshell (⭐386)](https://github.com/wendlers/mpfshell) - A simple shell-based file explorer for ESP8266 and WiPy.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
 ### AI
 
-*   [MicroMLP (⭐152)](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
+*   [MicroMLP (⭐153)](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
 
 ### Analytics
 
@@ -1147,7 +1168,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Audio
 
 *   [micropython-vs1053 (⭐21)](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
-*   [micropython-midi (⭐41)](https://github.com/cjbarnes18/micropython-midi) - A MIDI implementation example for MicroPython.
+*   [micropython-midi (⭐42)](https://github.com/cjbarnes18/micropython-midi) - A MIDI implementation example for MicroPython.
 *   [upy-rtttl (⭐25)](https://github.com/dhylands/upy-rtttl) - Python Parser for Ring Tone Text Transfer Language (RTTTL).
 
 ### Communications / DNS
@@ -1156,7 +1177,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / FTP
 
-*   [micropython-ftplib (⭐22)](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython.
+*   [micropython-ftplib (⭐23)](https://github.com/SpotlightKid/micropython-ftplib) - An FTP client library for MicroPython.
 *   [FTP-Server-for-ESP8266-ESP32-and-PYBD (⭐129)](https://github.com/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD) - Small FTP server for ESP8266/ESP32/Pyboard on the MicroPython platform.
 *   [MicroFTPServer (⭐32)](https://github.com/cpopp/MicroFTPServer) - Minimal FTP Server that can run on an ESP8266 with MicroPython.
 
@@ -1172,11 +1193,11 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [microhomie (⭐76)](https://github.com/microhomie/microhomie) - MicroPython implementation of the Homie MQTT convention for IoT.
 *   [uPyEcho (⭐50)](https://github.com/lemariva/uPyEcho) - Emulated Belkin WeMo device that works with Amazon Echo (Alexa) using MicroPython on an ESP32.
-*   [SonosRemote (⭐50)](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
+*   [SonosRemote (⭐51)](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
 
 ### Communications / IR
 
-*   [micropython\_ir (⭐157)](https://github.com/peterhinch/micropython_ir) - Nonblocking device drivers to receive from IR remotes and for IR "blaster" apps.
+*   [micropython\_ir (⭐159)](https://github.com/peterhinch/micropython_ir) - Nonblocking device drivers to receive from IR remotes and for IR "blaster" apps.
 *   [micropython-amg88xx (⭐13)](https://github.com/peterhinch/micropython-amg88xx) - Driver for Grid-EYE thermal infrared array sensor (Adafruit 3538).
 *   [micropython-ys-irtm (⭐20)](https://github.com/mcauser/micropython-ys-irtm) - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
 *   [esp8266\_ir (⭐47)](https://github.com/ruoyu0088/esp8266_ir) - Control IR signal by WebSocket.
@@ -1187,8 +1208,8 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / MQTT
 
-*   [micropython-mqtt (⭐438)](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
-*   [pysmartnode (⭐102)](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smart Home framework.
+*   [micropython-mqtt (⭐445)](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
+*   [pysmartnode (⭐103)](https://github.com/kevinkk525/pysmartnode) -  MicroPython Smart Home framework.
 *   [umqtt\_aws\_iot (⭐18)](https://github.com/juwul/umqtt_aws_iot) - Publish UMQTT messages with MicroPython to AWS IoT.
 *   [micropython-sonoff-switch (⭐9)](https://github.com/kfricke/micropython-sonoff-switch) - Implements an MQTT-controllable switch for the iTead Sonoff Switch using MicroPython.
 *   [uMQTT (⭐9)](https://github.com/andrewmk/uMQTT) - MQTT publish for MicroPython on the WiPy board.
@@ -1218,17 +1239,17 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / WiFi
 
-*   [micropython-wifimanager (⭐51)](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
+*   [micropython-wifimanager (⭐53)](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
 
 ### Communications / Web
 
-*   [MicroWebSrv (⭐566)](https://github.com/jczic/MicroWebSrv) - A micro HTTP web server that supports WebSockets, HTML/Python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32).
-*   [MicroWebSrv2 (⭐553)](https://github.com/jczic/MicroWebSrv2) - The last micro web server for IoTs (MicroPython) or large servers (CPython), that supports WebSocket, routes, template engine and with really optimized architecture (mem allocations, async I/Os).
-*   [tinyweb (⭐206)](https://github.com/belyalov/tinyweb) - Simple and lightweight HTTP async server for MicroPython.
-*   [upy-websocket-server (⭐66)](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) WebSocket server implementation.
+*   [MicroWebSrv (⭐571)](https://github.com/jczic/MicroWebSrv) - A micro HTTP web server that supports WebSockets, HTML/Python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32).
+*   [MicroWebSrv2 (⭐555)](https://github.com/jczic/MicroWebSrv2) - The last micro web server for IoTs (MicroPython) or large servers (CPython), that supports WebSocket, routes, template engine and with really optimized architecture (mem allocations, async I/Os).
+*   [tinyweb (⭐208)](https://github.com/belyalov/tinyweb) - Simple and lightweight HTTP async server for MicroPython.
+*   [upy-websocket-server (⭐65)](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) WebSocket server implementation.
 *   [micropython-captive-portal (⭐47)](https://github.com/amora-labs/micropython-captive-portal) - A captive portal demo for MicroPython.
 *   [uPyPortal (⭐37)](https://github.com/lemariva/uPyPortal) - A captive portal for MicroPython using ESP32 (Wemos).
-*   [ESP8266WebServer (⭐49)](https://github.com/codemee/ESP8266WebServer) - ESP8266 web server for MicroPython.
+*   [ESP8266WebServer (⭐50)](https://github.com/codemee/ESP8266WebServer) - ESP8266 web server for MicroPython.
 *   [microCoAPy (⭐45)](https://github.com/insighio/microCoAPy) - A mini client/server implementation of CoAP (Constrained Application Protocol) into MicroPython.
 *   [micropyserver (⭐49)](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 *   [MicroRESTCli (⭐28)](https://github.com/jczic/MicroRESTCli) - A micro JSON REST web client based on MicroWebCli for MicroPython (used on Pycom modules & ESP32).
@@ -1252,8 +1273,8 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Display / LCD TFT
 
-*   [micropython-ili9341 (⭐90)](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 display & XPT2046 touch screen driver.
-*   [st7789\_mpy (⭐145)](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
+*   [micropython-ili9341 (⭐96)](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 display & XPT2046 touch screen driver.
+*   [st7789\_mpy (⭐147)](https://github.com/devbis/st7789_mpy) - Fast pure-C driver for MicroPython that can handle display modules on ST7789 chip.
 *   [micropython-ili9341 (⭐96)](https://github.com/jeffmer/micropython-ili9341) - MicroPython Driver for ILI9341 display.
 *   [micropython-ili9341 (⭐13)](https://github.com/tkurbad/micropython-ili9341) - ILI9341 TFT driver for MicroPython on ESP32.
 
@@ -1278,7 +1299,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### IO / Rotary Encoder
 
-*   [micropython-rotary (⭐203)](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
+*   [micropython-rotary (⭐204)](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 
 ### Motion / Stepper
 
@@ -1293,7 +1314,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Sensors / Barometer
 
 *   [BME280 (⭐82)](https://github.com/robert-hh/BME280) - MicroPython driver for the BME280 sensor, target platform Pycom devices.
-*   [micropython-bmp280 (⭐61)](https://github.com/dafvid/micropython-bmp280) - Module for the BMP280 sensor.
+*   [micropython-bmp280 (⭐62)](https://github.com/dafvid/micropython-bmp280) - Module for the BMP280 sensor.
 
 ### Sensors / Camera
 
@@ -1324,7 +1345,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [uPyMySQL (⭐19)](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
 *   [micropython-redis (⭐20)](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 *   [picoredis (⭐7)](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
-*   [micropg (⭐16)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
+*   [micropg (⭐17)](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
 
 ### Storage / FRAM
 
@@ -1363,7 +1384,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / GPS
 
-*   [micropyGPS (⭐296)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
+*   [micropyGPS (⭐299)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
 *   [micropython-gnssl76l (⭐2)](https://github.com/tuupola/micropython-gnssl76l) - MicroPython I2C driver for Quectel GNSS L76-L (GPS).
 
 ### Communications / IR
@@ -1377,7 +1398,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / RFID
 
-*   [micropython-mfrc522 (⭐139)](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
+*   [micropython-mfrc522 (⭐141)](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
 *   [micropython-wiegand (⭐23)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 
 ### Communications / RTC
@@ -1391,21 +1412,21 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Display / E-Paper
 
-*   [micropython-waveshare-epaper (⭐254)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
+*   [micropython-waveshare-epaper (⭐259)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare ePaper modules.
 
 ### Display / LCD Character
 
 *   [Grove\_RGB\_LCD (⭐3)](https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py) - Driver for SeeedStudio's Grove RGB LCD.
-*   [lcdi2c (⭐3)](https://github.com/slothyrulez/lcdi2c) - Driver for HD44780-compatible dot matrix LCDs.
+*   [lcdi2c (⭐4)](https://github.com/slothyrulez/lcdi2c) - Driver for HD44780-compatible dot matrix LCDs.
 *   [micropython-charlcd (⭐13)](https://github.com/rdagger/micropython-charlcd) - Driver for HD44780-compatible LCDs.
 *   [micropython-i2c-lcd (⭐23)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
 *   [pyboard-LCD-character-display (⭐1)](https://github.com/scitoast/pyboard-LCD-character-display) - Pyboar driver for HDD44780-compatible 1602 LCDs.
-*   [python\_lcd (⭐266)](https://github.com/dhylands/python_lcd) - Driver for HD44780-compatible dot matrix LCDs.
+*   [python\_lcd (⭐268)](https://github.com/dhylands/python_lcd) - Driver for HD44780-compatible dot matrix LCDs.
 
 ### Display / LCD Graphic
 
 *   [micropython-lcd-AQM1248A (⭐0)](https://github.com/forester3/micropython-lcd-AQM1248A) - ESP8266 driver for AQM1248A graphic LCD.
-*   [micropython-pcd8544 (⭐55)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
+*   [micropython-pcd8544 (⭐56)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
 *   [micropython-st7565 (⭐11)](https://github.com/nquest/micropython-st7565) - Driver for ST7565 128x64 LCDs.
 *   [micropython-st7920 (⭐10)](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
 *   [MicroPython\_PCD8544 (⭐3)](https://github.com/AnthonyKNorman/MicroPython_PCD8544) - ESP8266 driver for Nokia 5110 PCD8544.
@@ -1413,16 +1434,16 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 ### Display / LCD TFT
 
 *   [micropython-ili934x (⭐15)](https://github.com/tuupola/micropython-ili934x) - SPI driver for ILI934X series based TFT / LCD displays.
-*   [MicroPython-ST7735 (⭐127)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
+*   [MicroPython-ST7735 (⭐130)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
 *   [micropython-st7735 (⭐26)](https://github.com/hosaka/micropython-st7735) - Driver for ST7735 TFT LCDs.
 *   [MicroPython\_ST7735 (⭐22)](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
-*   [ST7735 (⭐112)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
+*   [ST7735 (⭐114)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
 
 ### Display / LED Matrix
 
 *   [micropython-ht1632c (⭐5)](https://github.com/vrialland/micropython-ht1632c) - Driver for HT1632C 32x16 bicolor LED matrix.
 *   [micropython-matrix8x8 (⭐14)](https://github.com/JanBednarik/micropython-matrix8x8) - Driver for Adafruit 8x8 LED Matrix display with HT16K33 backpack.
-*   [micropython-max7219 (⭐146)](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules.
+*   [micropython-max7219 (⭐147)](https://github.com/mcauser/micropython-max7219) - Driver for MAX7219 8x8 LED matrix modules.
 *   [micropython-wemos-led-matrix-shield (⭐7)](https://github.com/mactijn/micropython-wemos-led-matrix-shield) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
 *   [micropython-wemos-led-matrix (⭐1)](https://github.com/mattytrentini/micropython-wemos-led-matrix) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
 
@@ -1432,7 +1453,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [max7219\_8digit (⭐18)](https://github.com/pdwerryhouse/max7219_8digit) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-max7219 (⭐4)](https://github.com/JulienBacquart/micropython-max7219) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-my9221 (⭐6)](https://github.com/mcauser/micropython-my9221) - Driver for MY9221 10-segment LED bar graph modules.
-*   [micropython-tm1637 (⭐136)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
+*   [micropython-tm1637 (⭐138)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
 *   [micropython-tm1638 (⭐22)](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
 *   [micropython-tm1640 (⭐12)](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 
@@ -1441,20 +1462,20 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [micropython-morsecode (⭐5)](https://github.com/mampersat/micropython-morsecode) - Blink an LED with Morse Coded message.
 *   [micropython-p9813 (⭐4)](https://github.com/mcauser/micropython-p9813) - Driver for P9813 RGB LED used in SeeedStudio's Grove chainable RGB LED.
 *   [micropython-ws2812-7seg (⭐1)](https://github.com/HubertD/micropython-ws2812-7seg) - 7-segment display using WS2812 RGB LEDs.
-*   [micropython-ws2812 (⭐177)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
-*   [tlc5940-micropython (⭐4)](https://github.com/oysols/tlc5940-micropython) - Driver for TLC5940 16 channel LED driver.
+*   [micropython-ws2812 (⭐179)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
+*   [tlc5940-micropython (⭐5)](https://github.com/oysols/tlc5940-micropython) - Driver for TLC5940 16 channel LED driver.
 
 ### Display / OLED
 
 *   [Grove\_OLED (⭐3)](https://github.com/dda/MicroPython/blob/master/Grove_OLED.py) - Driver for SSD1327 used by SeeedStudio's Grove OLED Display 1.12" v1.0.
-*   [micropython-ssd1327 (⭐23)](https://github.com/mcauser/micropython-ssd1327) - Driver for SSD1327 128x128 4-bit greyscale OLED displays.
-*   [micropython-ssd1351 (⭐45)](https://github.com/rdagger/micropython-ssd1351) - Driver for SSD1351 OLED displays.
+*   [micropython-ssd1327 (⭐24)](https://github.com/mcauser/micropython-ssd1327) - Driver for SSD1327 128x128 4-bit greyscale OLED displays.
+*   [micropython-ssd1351 (⭐47)](https://github.com/rdagger/micropython-ssd1351) - Driver for SSD1351 OLED displays.
 *   [MicroPython\_SSD1306 (⭐6)](https://github.com/AnthonyKNorman/MicroPython_SSD1306) - ESP8266 driver for SSD1306 OLED 128x64 displays.
-*   [SH1106 (⭐122)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
+*   [SH1106 (⭐123)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 
 ### IO / ADC
 
-*   [ads1x15 (⭐72)](https://github.com/robert-hh/ads1x15) - Driver for the ADS1015/ADS1115 ADC, I2C interface.
+*   [ads1x15 (⭐75)](https://github.com/robert-hh/ads1x15) - Driver for the ADS1015/ADS1115 ADC, I2C interface.
 *   [Micropython\_ADS1115 (⭐4)](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 
 ### IO / DAC
@@ -1467,7 +1488,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### IO / Joystick
 
-*   [micropython-nunchuck (⭐10)](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
+*   [micropython-nunchuck (⭐11)](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 
 ### IO / Waveform Generator
 
@@ -1475,7 +1496,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Motion / DC Motor
 
-*   [L298N (⭐112)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
+*   [L298N (⭐114)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual H-bridge motor controller.
 
 ### Motion / Stepper
 
@@ -1501,7 +1522,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Camera
 
-*   [micropython-ov2640 (⭐91)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
+*   [micropython-ov2640 (⭐92)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
 
 ### Sensors / Compass
 
@@ -1514,7 +1535,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Distance Ultrasonic
 
-*   [micropython-hcsr04 (⭐117)](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
+*   [micropython-hcsr04 (⭐118)](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
 
 ### Sensors / Energy
 
@@ -1527,7 +1548,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Light
 
-*   [MicroPython-SI1145 (⭐6)](https://github.com/neliogodoi/MicroPython-SI1145) - SI1145 UV index, IR, visible light and proximity sensor.
+*   [MicroPython-SI1145 (⭐7)](https://github.com/neliogodoi/MicroPython-SI1145) - SI1145 UV index, IR, visible light and proximity sensor.
 *   [micropython-tsl2561 (⭐3)](https://github.com/kfricke/micropython-tsl2561) - Driver for the TSL2561 illumination sensor from TAOS / ams.
 *   [mpy\_bh1750fvi\_esp8266 (⭐18)](https://github.com/catdog2/mpy_bh1750fvi_esp8266) - ESP8266 driver for BH1750FVI sensor.
 
@@ -1537,7 +1558,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [micropython-bno055 (⭐4)](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
 *   [micropython-lsm9ds0 (⭐4)](https://github.com/micropython-IMU/micropython-lsm9ds0) - LSM9DS0 g-force linear acceleration, Gauss magnetic and DPS angular rate sensors.
 *   [micropython-mpu9250 (⭐107)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
-*   [micropython-mpu9x50 (⭐224)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
+*   [micropython-mpu9x50 (⭐225)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
 *   [MPU6050-ESP8266-MicroPython (⭐75)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 *   [py-mpu6050 (⭐80)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 
@@ -1569,11 +1590,11 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Sensors / Temperature IR
 
-*   [micropython-mlx90614 (⭐27)](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
+*   [micropython-mlx90614 (⭐26)](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
 
 ### Sensors / Touch Capacitive
 
-*   [micropython-mpr121 (⭐13)](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
+*   [micropython-mpr121 (⭐14)](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
 *   [micropython-ttp223 (⭐6)](https://github.com/mcauser/micropython-ttp223) - Examples using TTP223 capacitive touch module.
 
 ### Resources / SRAM
@@ -1581,7 +1602,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [MicroPython on GitHub (⭐17k)](https://github.com/micropython/micropython) - Submit bug reports, follow and join in development on GitHub.
 *   [MicroPython Store](https://store.micropython.org/) - Where you can buy the Pyboard, housings, skins, books, connectors and peripherals.
 
-### Miscellaneous / On Host
+### Miscellaneous / Jupyter
 
 *   [MicroPython Kickstarter](https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers) - 1,931 backers pledged £97,803 to help bring this project to life.
 *   [MicroPython on the ESP8266 Kickstarter](https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot) - 1,399 backers pledged £28,534 to help bring this project to life.

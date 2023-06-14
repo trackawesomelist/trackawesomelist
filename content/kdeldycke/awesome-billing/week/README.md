@@ -8,6 +8,18 @@
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
+### Accounting / Software design and implementation
+
+*   [Triple‐entry accounting with blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.”
+
+### Contracts / Currencies
+
+*   [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://sci-hub.st/https://www.pnas.org/doi/pdf/10.1073/pnas.1510501113) - “Implementing price reductions ranging from 9–70% for large purchases, we found remarkably little impact on revenue, either positively or negatively.”
+
+### Payments / Receipt
+
+*   [The humble receipt gets a brilliant redesign](https://susielu.com/data-viz/reviziting-the-receipt) - When a Netflix data engineer revisit receipts.
+
 ### Competitive Analysis / Tools
 
 *   “You need a slightly more sophisticated developer team to cobble together a billing platform” ([source](https://www.techemails.com/i/124009734/google-pms-on-stripe)) - Google's Product Director take on building billing systems: you need a certain kind of engineers to tackle that domain. It is not for everyone.
@@ -276,7 +288,6 @@
 ### Contracts / Currencies
 
 *   [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://www.cloudbakers.com/blog/cuds-vs.-commit-contracts-vs.-suds-in-google-cloud) - Explain the differences between various types of discounts and commits in GCP.
-*   [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://www.pnas.org/content/pnas/113/27/7323.full.pdf) - “Implementing price reductions ranging from 9–70% for large purchases, we found remarkably little impact on revenue, either positively or negatively.”
 
 ### Payments / Online Payments
 
@@ -434,7 +445,6 @@
 *   [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - Explain the basic data model of a double-entry accounting system relying on Google Spanner for internal use at Square.
 *   [Django Hordak](https://django-hordak.readthedocs.io) - Core functionality of a double entry accounting system for Django.
 *   [Managed accounts for Django (⭐201)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
-*   [Triple‐entry accounting with blockchain: How far have we come?](https://onlinelibrary.wiley.com/doi/abs/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.”
 
 ### Invoice / Generators
 
@@ -728,10 +738,6 @@
 *   [How to Build an Insurance Company](https://www.moderntreasury.com/journal/how-to-build-an-insurance-company) - The importance of payment ops architecture.
 *   [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944) - The root cause? People wearing a lot of wool in low humidity air, generating a lot of static.
 *   How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
-
-### Payments / Receipt
-
-*   [The humble receipt gets a brilliant redesign](https://www.fastcompany.com/90347782/the-humble-receipt-gets-a-brilliant-redesign) - When a Netflix data engineer revisit receipts.
 
 ### Payments / Credit Cards
 

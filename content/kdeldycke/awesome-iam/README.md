@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-iam/week/README.md) / [Overview](/content/kdeldycke/awesome-iam/readme/README.md) ]
 
+## [Jun 14, 2023](/content/2023/06/14/README.md)
+
+### Authentication / SAML
+
+*   [SAML vs. OAuth](https://web.archive.org/web/20230327071347/https://www.cloudflare.com/learning/access-management/what-is-oauth/) - “OAuth is a protocol for authorization: it ensures Bob goes to the right parking lot. In contrast, SAML is a protocol for authentication, or allowing Bob to get past the guardhouse.”
+
+### Trust & Safety / Fraud
+
+*   [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://web.archive.org/web/20230526073109/https://www.bloomberg.com/news/articles/2019-07-11/mercedes-thieves-showed-just-how-vulnerable-car-sharing-can-be) - Why background check are sometimes necessary.
+
+### Trust & Safety / Captcha
+
+*   [You (probably) don't need ReCAPTCHA](https://web.archive.org/web/20190611190134/https://kevv.net/you-probably-dont-need-recaptcha/) - Starts with a rant on how the service is a privacy nightmare and is tedious UI-wise, then list alternatives.
+
 ## [Jun 11, 2023](/content/2023/06/11/README.md)
 
 ### Authentication / Multi-Factor
@@ -462,7 +476,6 @@
 
 ### Trust & Safety / Fraud
 
-*   [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://archive.is/MuNrZ) - Why background check are sometimes necessary.
 *   [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf) - A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.
 *   [MIDAS: Detecting Microcluster Anomalies in Edge Streams (⭐715)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
 *   [Gephi (⭐5.3k)](https://github.com/gephi/gephi) - Open-source platform for visualizing and manipulating large graphs.
@@ -488,7 +501,6 @@
 
 *   [Awesome Captcha (⭐1k)](https://github.com/ZYSzys/awesome-captcha) - Reference all open-source captcha libraries, integration, alternatives and cracking tools.
 *   [reCaptcha](https://www.google.com/recaptcha) - reCaptcha is still an effective, economical and quick solution when your company can't afford to have a dedicated team to fight bots and spammers at internet scale.
-*   [You (probably) don't need ReCAPTCHA](https://kevv.net/you-probably-dont-need-recaptcha/) - Starts with a rant on how the service is a privacy nightmare and is tedious UI-wise, then list alternatives.
 
 ### Blocklists / Captcha
 
@@ -605,7 +617,7 @@
 
 ### Authentication / OAuth2 & OpenID
 
-*   [IdentityServer (⭐9.1k)](https://github.com/IdentityServer/IdentityServer4) - Free, open source OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
+*   [IdentityServer (⭐9.1k)](https://github.com/IdentityServer/IdentityServer4) - Free, open source OpenID Connect and OAuth 2.0 framework for ASP-NET Core.
 
 ### Authorization / Open-source policy frameworks
 
@@ -634,7 +646,6 @@
 
 ### Authentication / SAML
 
-*   [SAML vs. OAuth](https://www.cloudflare.com/learning/access-management/what-is-oauth/) - “OAuth is a protocol for authorization: it ensures Bob goes to the right parking lot. In contrast, SAML is a protocol for authentication, or allowing Bob to get past the guardhouse.”
 *   [The Difference Between SAML 2.0 and OAuth 2.0](https://www.ubisecure.com/uncategorized/difference-between-saml-and-oauth/) - “Even though SAML was actually designed to be widely applicable, its contemporary usage is typically shifted towards enterprise SSO scenarios. On the other hand, OAuth was designed for use with applications on the Internet, especially for delegated authorisation.”
 
 ## [Jun 18, 2020](/content/2020/06/18/README.md)

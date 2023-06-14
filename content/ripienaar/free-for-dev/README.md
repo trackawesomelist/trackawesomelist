@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jun 14, 2023](/content/2023/06/14/README.md)
+
+### Email
+
+*   [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, 1 custom domain.
+
 ## [Jun 04, 2023](/content/2023/06/04/README.md)
 
 ### Monitoring
@@ -446,10 +452,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Meteosource Weather API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. Free plan comes with 400 calls per day.
 
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
-
-### Security and PKI
-
-*   [FingerprintJS Browser Fingerprinting](https://www.fingerprint.com) - FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged. Free tier version of Pro has 20,000 Requests per month.
 
 ### DBaaS
 
@@ -1078,10 +1080,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Quidlo Timesheets](https://www.quidlo.com/timesheets) - A simple timesheet and time tracking app for teams. Free plan has time tracking and generating reports features, it is available for up to 10 users.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
-
-### PaaS
-
-*   [Railway](https://railway.app) - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 1GB Disk, 512 MB RAM, limited to $5 or 500 hours of usage monthly available for free.
 
 ### Miscellaneous
 
@@ -1791,8 +1789,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IaaS
 
 *   [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for unlimited duration.
-*   [scaleway](https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic.
-*   [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 150 GB storage, 150 GB bandwidth per month.
+*   [scaleway](https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic(credit card required).
+*   [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 25 GB storage, 25 GB bandwidth per month.
 
 ### Dev Blogging Sites
 
@@ -2518,12 +2516,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [HeroTofu.com](https://herotofu.com/) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 100 submissions per month.
 
-## [Jul 21, 2021](/content/2021/07/21/README.md)
-
-### Web Hosting
-
-*   [Deploy Now](https://deploynow.space) — Deploy smarter. Deploy faster. Deploy Now. - Deploy up to 3 web projects from your GitHub repository for free.
-
 ## [Jul 16, 2021](/content/2021/07/16/README.md)
 
 ### APIs, Data and ML
@@ -3143,7 +3135,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### PaaS
 
 *   [encore.dev](https://encore.dev/) — Backend framework using static analysis to provide automatic infrastructure, boilerplate free code, and more. Includes free cloud hosting for hobby projects.
-*   [opeNode](https://openode.io) — Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository.
 
 ### Other Free Resources
 

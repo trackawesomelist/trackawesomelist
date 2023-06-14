@@ -6,6 +6,32 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-engineering-team-management/week/README.md) / [Overview](/content/kdeldycke/awesome-engineering-team-management/readme/README.md) ]
 
+## [Jun 14, 2023](/content/2023/06/14/README.md)
+
+### Recruitment / Interview
+
+*   [The Technical Interview is an Ego Trip](https://web.archive.org/web/20221101193146/https://kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicule to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
+
+### Culture / Procrastination
+
+*   [Adaptation vs adaptability](https://sci-hub.st/10.1016/s0303-2647%2801%2900170-8) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
+
+### Facilities / Standups
+
+*   [The impact of the 'open' workspace on human collaboration](https://sci-hub.st/https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - Open-plan offices decrease face-to-face collaboration.
+
+### Communication / Writing
+
+*   [Algorithm for writing a scientific manuscript](https://sci-hub.st/https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
+
+### Politics / Equity
+
+*   [HiPPO FAQ](https://exp-platform.com/hippo/) - HiPPO stands for “Highest Paid Person's Opinion”, a trait of dysfunctional culture, in which power politics trumps data.
+
+### Setbacks and Failures / Burnout
+
+*   [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=B-fAinNDbQU\&t=6s) - On how sales and marketing takes over product focused companies.
+
 ## [Jun 11, 2023](/content/2023/06/11/README.md)
 
 ### Engineering to Management Transition
@@ -462,10 +488,6 @@
 *   [Things to look for when hiring remote workers](https://news.ycombinator.com/item?id=17022563) - “1. You have to adhere to employment laws within the country you're hiring from; 2. To employ someone full time, many countries require you to have a legally entity within that country; 3. Prioritize countries where we have the most interest; 4. Keep a healthy timezone overlap in each of our teams.”
 *   [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - Compilation of easy rules and processes to bootstrap a remote team.
 
-### Facilities / Standups
-
-*   [The impact of the 'open' workspace on human collaboration](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - Open-plan offices decrease face-to-face collaboration.
-
 ### Product Management / Product Strategy
 
 *   [Sustainable Sources of Competitive Advantage](https://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/) - “The ability to learn faster than your competition; to empathize with customers more than your competition; to communicate more effectively than your competition; The willingness to fail more than your competition; to wait longer than your competition”.
@@ -621,7 +643,6 @@
 
 ### Recruitment / Interview
 
-*   [The Technical Interview is an Ego Trip](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicule to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
 *   “It's true that not all developers make positive contributions, however, I think that blaming "lowering hiring standards" (…) is a complete red herring.” ([source](https://news.ycombinator.com/item?id=13209317)) - Examples in which developers that might pass tough job interview just fine are bringing negative value later.
 
 ### Recruitment / Coding Challenge
@@ -673,10 +694,6 @@
 ### Health / Burnout
 
 *   “Burnout is caused by resentment. (…) No. Burnout is caused when you repeatedly make large amounts of sacrifice and or effort into high-risk problems that fail. It's the result of a negative prediction error in the nucleus accumbens. You effectively condition your brain to associate work with failure.” ([source](https://news.ycombinator.com/item?id=5630618)).
-
-### Setbacks and Failures / Burnout
-
-*   [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=yfeWhYj5zkQ) - On how sales and marketing takes over product focused companies.
 
 ## [Sep 19, 2020](/content/2020/09/19/README.md)
 
@@ -994,7 +1011,6 @@
 
 ### Politics / Equity
 
-*   [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO stands for “Highest Paid Person's Opinion”, a trait of dysfunctional culture, in which power politics trumps data.
 *   [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) - “In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. (…) To remain in power, leaders must maintain their winning coalition.”
 *   “Playing the game well is now front and center” ([source](https://news.ycombinator.com/item?id=21925738)), or why the [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) is missing the parts about office politics.
 *   [“Company I've worked for had manager who tried to ship features over the weekend with a ragtag team of developers who don't understand why that's a bad idea.”](https://news.ycombinator.com/item?id=22285123) - Tactics of hustling managers, and how the company reacting to that kind of manager makes or break a good place to work.
@@ -1082,14 +1098,12 @@
 ### Roles / Engineering Managers
 
 *   [Engineering Manager Resources (⭐9.8k)](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
-*   [The Leadership Library for Engineers](https://leadership-library.dev) - A list of books to help engineering leaders level up.
 
 ## [Feb 28, 2020](/content/2020/02/28/README.md)
 
 ### Recruitment / Job Boards
 
 *   [Hiring Without Whiteboards (⭐37k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
-*   [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
 
 ### Recruitment / Interview
 
@@ -1178,7 +1192,7 @@
 
 ### Roles / Engineering Managers
 
-*   [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
+*   [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - Google tried to prove managers don't matter. Instead, it discovered [10 Traits of the Very Best Ones](https://web.archive.org/web/20200811104655/https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
 *   [As a product manager, how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 *   [Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/) - Not on solutions, no. But on customer's problems.
 *   [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) - Some interesting points here, some others needs to be challenged.
@@ -1195,7 +1209,6 @@
 ### Culture / Procrastination
 
 *   [hacker-laws (⭐25k)](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
-*   [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf) - There is a spectrum between perfect efficiency and being completely flexible. This article explores ecosystems and the flows of material and energy between different organisms within the ecosystem. ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 
 ### Cognitive Tools / Collections
 
@@ -1260,7 +1273,6 @@
 
 *   [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper, in the form of a typical journal publication.
 *   [Learning Technical Writing Using the Engineering Method](https://www.cs.tufts.edu/~nr/pubs/learn.pdf) - An alternative approach, involving a weekly meeting of a writing group. An interesting dynamic to gather feedback and experience.
-*   [Algorithm for writing a scientific manuscript](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - A process to guide the preparation and refinement of manuscripts.
 *   [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) - Tips on structure and style to produce great blog posts.
 
 ### Communication / Style
