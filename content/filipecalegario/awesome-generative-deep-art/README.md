@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jun 15, 2023](/content/2023/06/15/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
+
 ## [Jun 13, 2023](/content/2023/06/13/README.md)
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)

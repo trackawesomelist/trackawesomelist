@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jun 15, 2023](/content/2023/06/15/README.md)
+
+### Text processing
+
+*   [slugify (⭐0)](https://github.com/Coachonko/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
+
 ## [Jun 12, 2023](/content/2023/06/12/README.md)
 
 ### Networking
@@ -307,7 +313,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [eventbus (⭐34k)](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
 
-### Files
+### File handling
 
 *   [v-mime (⭐22)](https://github.com/nedpals/v-mime) - MIME detection library for V.
 *   [vmon (⭐21)](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.

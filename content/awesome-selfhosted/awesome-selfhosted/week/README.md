@@ -8,6 +8,14 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
+### Software / Analytics
+
+*   [PoeticMetric](https://www.poeticmetric.com) - Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool. ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code (⭐146)](https://github.com/th0th/poeticmetric)) `AGPL-3.0` `Docker`
+
+### Software / Polls and Events
+
+*   [Input](https://getinput.co) - A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐29)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
+
 ### Software / URL Shorteners
 
 *   [Just Short It! (⭐2)](https://github.com/miawinter98/just-short-it) - A KISS, single-user URL shortener that runs in just one container. `MIT` `Docker`
@@ -1295,7 +1303,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [BigBlueButton](https://bigbluebutton.org/) - Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms. ([Demo](https://demo.bigbluebutton.org/gl), [Source Code (⭐8k)](https://github.com/bigbluebutton/bigbluebutton)) `LGPL-3.0` `Java`
 *   [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. ([Source Code (⭐2.7k)](https://github.com/jitsi/jitsi-videobridge)) `Apache-2.0` `Java`
-*   [LiveKit](https://livekit.io/) - Modern, scalable WebRTC conferencing platform with client SDKs. ([Demo](https://livekit.io/playground), [Source Code (⭐5k)](https://github.com/livekit/livekit-server)) `Apache-2.0` `Go`
+*   [LiveKit](https://livekit.io/) - Modern, scalable WebRTC conferencing platform with client SDKs. ([Demo (⭐5.1k)](https://github.com/livekit/livekit#live-demos), [Source Code (⭐5k)](https://github.com/livekit/livekit-server)) `Apache-2.0` `Go`
 
 ### Software / Maps and Global Positioning System (GPS)
 

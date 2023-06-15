@@ -38,7 +38,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
     *   [Database clients](#database-clients)
     *   [Discord](#discord)
     *   [Eventing](#eventing)
-    *   [Files](#files)
+    *   [File handling](#file-handling)
     *   [Game development](#game-development)
     *   [Graphics](#graphics-1)
     *   [IRC](#irc)
@@ -196,7 +196,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [eventbus (⭐34k)](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
 
-### Files
+### File handling
 
 *   [v-mime (⭐22)](https://github.com/nedpals/v-mime) - MIME detection library for V.
 *   [vmon (⭐21)](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
@@ -263,6 +263,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [iconv (⭐3)](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 *   [pcre2 (⭐3)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 *   [Rosie-RPL (⭐3)](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
+*   [slugify (⭐0)](https://github.com/Coachonko/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 *   [strfmt (⭐4)](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 *   [text-processing (⭐6)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 *   [v-regex (⭐15)](https://github.com/spytheman/v-regex) - A simple regex library for V.
