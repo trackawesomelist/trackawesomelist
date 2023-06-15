@@ -1,18 +1,24 @@
 # Awesome List Updates on Jun 15, 2023
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/README.md)
+## [1. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+
+### Private Module Registries / Miscellaneous
+
+*   [Terrareg (⭐62)](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import, cost estimation, security analysis, resource graphing, APIs and single-sign on
+
+## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Text processing
 
 *   [slugify (⭐0)](https://github.com/Coachonko/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 
-## [2. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [3. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / User Interfaces
 
@@ -22,13 +28,13 @@
 
 *   [Homotopy Type Theory (⭐1.2k)](https://github.com/HoTT/Coq-HoTT) - Development of homotopy-theoretic ideas.
 
-## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Testing Tools
 
 *   [Playwright (⭐129)](https://github.com/playwright-community/eslint-plugin-playwright) - Linting rules for Playwright.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -70,13 +76,13 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
 *   [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Analytics
 
@@ -86,7 +92,7 @@
 
 *   [Input](https://getinput.co) - A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐29)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -97,7 +103,7 @@
 
 *   [vue-use-active-scroll (⭐16)](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
 
-## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Distributed Filesystems
 
