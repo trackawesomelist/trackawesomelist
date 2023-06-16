@@ -6,6 +6,16 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jun 16, 2023](/content/2023/06/16/README.md)
+
+### Videos / Others
+
+*   [ASP.NET Community Standup - Featured community project: Blazor Studio](https://www.youtube.com/watch?v=tOHihL9Lf7Y) - ![duration](https://img.shields.io/badge/Duration:%20-69%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 14, 2023 - Chat about Blazor Studio, this month's featured Blazor community project. [Community links](https://aka.ms/AAl2w0l).
+
+### Articles / Others
+
+*   [ASP.NET Core updates in .NET 8 Preview 5](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-5/) - June 13, 2023 - .NET 8 Preview 5 is now available and includes many great new improvements to ASP.NET Core. New Blazor Web App project template, Blazor router integration with endpoint routing, Blazor Content Security Policy (CSP) compatibility and more.
+
 ## [Jun 08, 2023](/content/2023/06/08/README.md)
 
 ### Others
@@ -50,11 +60,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [CodeBeam.MudExtensions (⭐148)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
+*   [CodeBeam.MudExtensions (⭐181)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
 
 ### Individual components / Charts
 
-*   [ChartJs for Blazor (⭐41)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
+*   [ChartJs for Blazor (⭐43)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
 
 ### Individual components / Others
 
@@ -840,7 +850,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [MASA Blazor (⭐747)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
+*   [MASA Blazor (⭐783)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
 
 ## [Jan 12, 2022](/content/2022/01/12/README.md)
 
@@ -1185,7 +1195,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### CMS
 
-*   [JHipster.NET (⭐283)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
+*   [JHipster.NET (⭐284)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
 *   [RapidCMS (⭐269)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
@@ -1270,7 +1280,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Individual components / Others
 
-*   [Stl.Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐139)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
+*   [Stl.Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐142)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
 *   [Blazor-DragDrop (⭐339)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
 *   [BlazorTransitionableRoute (⭐134)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
 
@@ -1643,7 +1653,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### E-Books / Others
 
-*   [Archives (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.7k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐7.8k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.8k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## [Sep 30, 2019](/content/2019/09/30/README.md)
 

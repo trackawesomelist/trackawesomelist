@@ -2,11 +2,16 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 481 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 493 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
+
+### Automation
+
+*   [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool.
+*   [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand.
 
 ### Feature Flags
 

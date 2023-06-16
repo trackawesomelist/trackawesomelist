@@ -706,7 +706,8 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [deer (⭐296)](https://github.com/Vifon/deer) - A file navigator for ZSH heavily inspired by [ranger](https://ranger.github.io/).
 *   [def (⭐9)](https://github.com/thevinter/def) - Allows you to specify and run a default command in any directory of your choice.
 *   [defer (⭐234)](https://github.com/romkatv/zsh-defer) - Defers execution of a `zsh` command until `zsh` has nothing else to do and is waiting for user input. Its intended purpose is staged `zsh` startup. It works similarly to Turbo mode in [zinit (⭐1.8k)](https://github.com/zdharma-continuum/zinit).
-*   [deno (⭐0)](https://github.com/Tricked-dev/deno-zsh-plugin) - Automatically installs [deno](https://deno.land/) to `$HOME/.deno` on startup if deno is not already installed.
+*   [deno (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-deno) - Useful [deno](https://deno.land/) aliases and settings.
+*   [deno (tricked-dev) (⭐0)](https://github.com/Tricked-dev/deno-zsh-plugin) - Automatically installs [deno](https://deno.land/) to `$HOME/.deno` on startup if deno is not already installed.
 *   [depot-tools (⭐0)](https://github.com/kuoe0/zsh-depot-tools) - Simple [oh-my-zsh](https://ohmyz.sh/) plugin for installing the chromium depot\_tools. Installing this plugin will add all of the chromium depot\_tools to your `$PATH` automatically.
 *   [dev (⭐4)](https://github.com/sbfaulkner/dev-plugin-zsh) - Provides a lightweight version of Shopify's internal dev tool
 *   [dietpi (⭐0)](https://github.com/unixorn/dietpi.plugin.zsh) - Adds utilities for [dietpi](https://dietpi.com) to your `$PATH` (and includes aliases to automagically run them with `sudo`) when you log into a machine running  [dietpi](https://dietpi.com).
@@ -1579,6 +1580,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [a (⭐2)](https://github.com/chammanganti/a-zsh-theme) - Simple theme with current directory and `git` status decorations.
 *   [aaron (⭐4)](https://github.com/aaronjamesyoung/aaron-zsh-theme) - Based on the Sorin theme.
 *   [abbr (theme) (⭐1)](https://github.com/PhilsLab/abbr-zsh-theme) - Displays an abbreviated version of the current directory path, shows the Python virtualenv, Rust version, `git` status, and the exit code of last command. Works well on dark backgrounds by default but colors can be easily customized.
+*   [abhiyan (⭐1)](https://github.com/abhiyandhakal/abhiyan.zsh/) - Segmented prompt. Includes decorators for `git` branch, staged file count, unstaged file count & untracked file count, username, current working directory and the time. Requires Powerline-compatible fonts.
 *   [absolute (⭐35)](https://github.com/NelsonBrandao/absolute) - Very clean looking theme with decorators for `git` status, `node` version and the exit code from the last command.
 *   [acenoster (⭐5)](https://github.com/HiDe-Techno-Tips/Acenoster-ZSH-Theme) - A multi-purpose theme with very detailed `git` and `mercurial` support. Also includes decorators for AWS profile name, virtual environment name if any, number of background tasks, current directory and previous command's exit code if non-zero.
 *   [adamdodev (⭐1)](https://github.com/adamdodev/adamdodev-zsh-theme) - Includes decorators for `git` status, the name of your AWS profile, the name of your Azure Service Principal, kubernetes context, terraform workspace, last command exit status and current working directory.
@@ -1742,6 +1744,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [colorbira (⭐0)](https://github.com/CristianCantoro/colorbira-zsh-theme) - Allows per-host prompt coloring, displays `rvm`, `virtualenv` and `git` information.
 *   [common (⭐319)](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt, displays current working directory, hostname, AWS vault role, background jobs, current SHA, exit code of last command, and `git` branch and status.
 *   [comxtohr (⭐3)](https://github.com/comxtohr/comxtohr-zsh-iterm-theme) - Brightly colored theme optimized for dark backgrounds.
+*   [coolmelon (⭐0)](https://github.com/omkarpai/coolmelon-zsh-theme/) - Includes decorators for user\@host, time, current directory, node version and `git` information.
 *   [cordial (⭐20)](https://github.com/stevelacy/cordial-zsh-theme) - Clean and effective ZSH theme with git and npm support.
 *   [cr (⭐1)](https://github.com/cruzrovira/cr-zsh-theme) - Includes directory, time, host name, last command exit status, and `git` status decorations.
 *   [cramin (⭐7)](https://github.com/FelipeCRamos/craminzsh) - Minimal interface with support for github plugins, based on [hyperzsh (⭐513)](https://github.com/tylerreckart/hyperzsh).
@@ -2123,7 +2126,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [nox (⭐10)](https://github.com/kbrsh/nox) - Dark theme, displays the current working directory and git status.
 *   [nt9 (⭐30)](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - A clean, distraction free and `git` focused development theme. Shows path relative to `git` root (or `~` when outside `git` repo), time since last commit, current SHA, branch and branch state.
 *   [nunorc (⭐0)](https://github.com/nunorc/nunorc.zsh-theme) - Minimalist theme, works well on dark backgrounds. Includes `git`, `mercurial` and `svn` satus decorations.
-*   [nuqlezsh (⭐1)](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - A simple theme for prezto and oh-my-zsh.
+*   [nuqle (⭐1)](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - A simple theme for prezto and oh-my-zsh.
 *   [nuts (⭐5)](https://github.com/rafaelsq/nuts.zsh-theme) - Minimalist theme, includes `git` status decorations and time.
 *   [oblong (⭐1)](https://github.com/Ansimorph/oblong) - Simple `bash`-inspired theme based on [gitster (⭐66)](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) and [basher](https://gitlab.com/Spriithy/basher). Includes status decorations to show if user is root, the exit status of last command run, `git` branch and its clean/dirty status.
 *   [odie (⭐0)](https://github.com/masterodie/zsh-theme-odie/) - Works well on a dark background. Includes `git` status, python virtualenv and `vi`-mode status decorations.
@@ -2424,6 +2427,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [wade (⭐5)](https://github.com/wadehammes/wade.zsh-theme) - Mashup of the popular ZSH themes [Agnoster](https://gist.github.com/agnoster/3712874) and [Fishy (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fishy.zsh-theme), with some visual tweaks.
 *   [wang-iterm (⭐5)](https://github.com/0532/wang-iterm-zsh) - Based on the 0532 theme.
 *   [warm-colours (⭐0)](https://github.com/BastionAtackDev/Warm-Colours.zsh-theme/) - Includes decorators for user\@host, current directory and datetime.
+*   [warmblood (⭐1)](https://github.com/D42H5/warmblood) - Based on [darkblood (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `git` information, user\@hostname and the current directory.
 *   [whale (⭐2)](https://github.com/whalesea520/whale-zsh-theme) - Fast reimplementation of the whale theme.
 *   [whales (⭐0)](https://github.com/lbergelson/zsh_whales_theme) - Includes decorators for `git` status, java version, last command return status, and directory.
 *   [wild-cherry (⭐471)](https://github.com/mashaal/wild-cherry) - A fairy-tale inspired theme for ZSH, iTerm 2, Sublime, Atom, & Mou.

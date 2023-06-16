@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Jun 16, 2023](/content/2023/06/16/README.md)
+
+### Authentication
+
+*   [ex\_aws\_msk\_iam\_auth (⭐2)](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) - AWS Managed Streaming for Apache Kafka (MSK) IAM Authentication plugin for Broadway Kafka.
+
 ## [Jun 14, 2023](/content/2023/06/14/README.md)
 
 ### Reading
@@ -407,7 +413,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Macros
 
-*   [matcha](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir `:ets` querying and function call tracing.
+*   [matcha (⭐68)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir `:ets` querying and function call tracing.
 
 ## [Aug 08, 2022](/content/2022/08/08/README.md)
 
@@ -1135,7 +1141,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### JSON
 
-*   [json\_stream\_encoder](https://github.com/TreyE/json_stream_encoder) - JsonStreamEncoder is a streaming encoder for streaming JSON to an IOish thing in Elixir.
+*   [json\_stream\_encoder (⭐7)](https://github.com/TreyE/json_stream_encoder) - JsonStreamEncoder is a streaming encoder for streaming JSON to an IOish thing in Elixir.
 *   [tiny (⭐46)](https://github.com/whitfin/tiny) - Tiny, fast and fully compliant JSON parser for Elixir.
 
 ### Macros
@@ -1144,7 +1150,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Miscellaneous
 
-*   [expool](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
+*   [expool (⭐25)](https://github.com/whitfin/expool) - A small process pooling library for parallel tasks in Elixir.
 *   [hammer (⭐566)](https://github.com/ExHammer/hammer) - A rate-limiter with pluggable storage backends, including Redis.
 *   [vessel (⭐21)](https://github.com/whitfin/vessel) - Elixir MapReduce interfaces with Hadoop Streaming integration.
 
@@ -1556,7 +1562,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Macros
 
-*   [unsafe](https://github.com/whitfin/unsafe) - Generate easy unsafe (!) bindings for Elixir functions.
+*   [unsafe (⭐12)](https://github.com/whitfin/unsafe) - Generate easy unsafe (!) bindings for Elixir functions.
 
 ### Networking
 
@@ -2176,7 +2182,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Miscellaneous
 
-*   [elixir-browser](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
+*   [elixir-browser (⭐94)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 
 ## [Oct 31, 2016](/content/2016/10/31/README.md)
 
@@ -3379,7 +3385,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Macros
 
-*   [pipe\_here](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
+*   [pipe\_here (⭐33)](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
 
 ## [Jan 20, 2016](/content/2016/01/20/README.md)
 
@@ -3812,7 +3818,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Macros
 
-*   [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
+*   [mdef (⭐48)](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
 
 ### Screencasts
 
@@ -3974,7 +3980,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Logging
 
-*   [rollbax](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
+*   [rollbax (⭐242)](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
 
 ## [Aug 19, 2015](/content/2015/08/19/README.md)
 
@@ -5223,7 +5229,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Miscellaneous
 
-*   [dye](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
+*   [dye (⭐21)](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 
 ### Security
 
@@ -5435,11 +5441,11 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 ### JSON
 
 *   [json (⭐219)](https://github.com/cblage/elixir-json) - Native JSON library for Elixir.
-*   [poison](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
+*   [poison (⭐2k)](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 
 ### Miscellaneous
 
-*   [exprint](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
+*   [exprint (⭐36)](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 
 ### ORM and Datamapping
 

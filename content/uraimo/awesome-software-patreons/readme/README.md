@@ -2,7 +2,7 @@
 
 A curated list of awesome programmers and software projects you can support!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 443 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 458 · 🏷️ Miscellaneous
 
 [ [Daily](/content/uraimo/awesome-software-patreons/README.md) / [Weekly](/content/uraimo/awesome-software-patreons/week/README.md) / Overview ]
 
@@ -76,6 +76,8 @@ A tangible way to give back to the open source community!
 *   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 *   [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
 *   [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
+*   [NewPipe](https://liberapay.com/TeamNewPipe) - FLOSS video player on Android for services like YouTube, Soundcloud etc.
+*   [Nitter](https://www.patreon.com/nitter), [#2](https://liberapay.com/zedeus), [#3](https://github.com/sponsors/zedeus) - Free and open source Twitter client focused on privacy.
 *   [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 *   [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
 *   [Oni](https://www.patreon.com/onivim) - Modal code editor.
@@ -126,9 +128,10 @@ A tangible way to give back to the open source community!
 *   [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 *   [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 *   [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
-*   [Dear ImGui (⭐44k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐48k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 *   [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
+*   [Iced](https://github.com/sponsors/hecrj), [#2](https://ko-fi.com/hecrj_) - A cross-platform GUI library for Rust, inspired by Elm.
 *   [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 *   [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
 *   [MicroG](https://github.com/sponsors/mar-v-in), [#2](https://liberapay.com/microG/) - A free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.
@@ -214,6 +217,7 @@ A tangible way to give back to the open source community!
 *   [Geoffrey D. Bennett](https://liberapay.com/gdb) - Linux Focusrite Scarlett software.
 *   [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi, Linux support for Apple Silicon Macs.
 *   [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware.
+*   [Martin Povišer](https://github.com/sponsors/povik) - Reverse-engineering and writing Linux drivers for audio hardware on Apple Silicon Macs.
 *   [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others.
 *   [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 *   [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming.
@@ -305,9 +309,11 @@ A tangible way to give back to the open source community!
 ### Articles and Tutorials
 
 *   [Alecaddd](https://www.patreon.com/alecaddd) - Various programming tutorials.
+*   [Boiling Steam](https://www.patreon.com/boiling_steam_linux) - Linux gaming news, reviews, guides.
 *   [Chris Bradfield](https://www.patreon.com/kidscancode) - Programming tutorials for kids.
 *   [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 *   [Fluent C++](https://www.patreon.com/fluentcpp) - C++ articles.
+*   [GamingOnLinux](https://www.patreon.com/liamdawe) - articles and videos about Linux, Steam Deck, SteamOS gaming.
 *   [Kyle Simpson](https://www.patreon.com/getify) - Author of the "You Don't Know JS" book series. Doing articles, podcasts and OSS contributions.
 *   [Meeting C++](https://www.patreon.com/meetingcpp) - C++ articles.
 *   [Modernes C++](https://www.patreon.com/rainer_grimm) - C++ articles.
@@ -333,7 +339,7 @@ A tangible way to give back to the open source community!
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines (⭐442)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐442)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines (⭐458)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐458)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
 
 ## License
 

@@ -289,6 +289,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [coherence (⭐1.2k)](https://github.com/smpallen99/coherence) - Coherence is a full featured, configurable authentication system for Phoenix. ([Docs](https://hexdocs.pm/coherence/Coherence.html)).
 *   [doorman (⭐119)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 *   [elixir\_auth\_google (⭐169)](https://github.com/dwyl/elixir-auth-google) - The simplest way to add Google OAuth authentication ("Sign in with Google") to your Elixir/Phoenix app.
+*   [ex\_aws\_msk\_iam\_auth (⭐2)](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) - AWS Managed Streaming for Apache Kafka (MSK) IAM Authentication plugin for Broadway Kafka.
 *   [github\_oauth (⭐4)](https://github.com/lidashuang/github_oauth) - A simple github oauth library.
 *   [goth (⭐260)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 *   [guardian (⭐3.3k)](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications. ([Docs](https://hexdocs.pm/guardian/Guardian.html)).

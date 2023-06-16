@@ -1,18 +1,58 @@
 # Awesome List Updates on Jun 12 - Jun 18, 2023
 
-36 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [1. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+
+### Open Source Projects
+
+*   [NewPipe](https://liberapay.com/TeamNewPipe) - FLOSS video player on Android for services like YouTube, Soundcloud etc.
+*   [Nitter](https://www.patreon.com/nitter), [#2](https://liberapay.com/zedeus), [#3](https://github.com/sponsors/zedeus) - Free and open source Twitter client focused on privacy.
+
+### Open Source Projects / Libraries
+
+*   [Iced](https://github.com/sponsors/hecrj), [#2](https://ko-fi.com/hecrj_) - A cross-platform GUI library for Rust, inspired by Elm.
+
+### Open Source Projects / Hardware related
+
+*   [Martin Povišer](https://github.com/sponsors/povik) - Reverse-engineering and writing Linux drivers for audio hardware on Apple Silicon Macs.
+
+### Other kinds of content / Articles and Tutorials
+
+*   [Boiling Steam](https://www.patreon.com/boiling_steam_linux) - Linux gaming news, reviews, guides.
+*   [GamingOnLinux](https://www.patreon.com/liamdawe) - articles and videos about Linux, Steam Deck, SteamOS gaming.
+
+## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+
+### Tools
+
+*   💼 [Raycast Extension](https://www.raycast.com/vimtor/tailwindcss) - Search classes, documentation and colors in Raycast Launcher.
+
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### Videos / Others
+
+*   [ASP.NET Community Standup - Featured community project: Blazor Studio](https://www.youtube.com/watch?v=tOHihL9Lf7Y) - ![duration](https://img.shields.io/badge/Duration:%20-69%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 14, 2023 - Chat about Blazor Studio, this month's featured Blazor community project. [Community links](https://aka.ms/AAl2w0l).
+
+### Articles / Others
+
+*   [ASP.NET Core updates in .NET 8 Preview 5](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-5/) - June 13, 2023 - .NET 8 Preview 5 is now available and includes many great new improvements to ASP.NET Core. New Blazor Web App project template, Blazor router integration with endpoint routing, Blazor Content Security Policy (CSP) compatibility and more.
+
+## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Private Module Registries / Miscellaneous
 
 *   [Terrareg (⭐62)](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import, cost estimation, security analysis, resource graphing, APIs and single-sign on
 
-## [2. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+### Providers / Vendor supported providers
+
+*   [terraform-provider-artifactory (⭐230)](https://github.com/jfrog/terraform-provider-artifactory) - Provider for [JFrog Artifactory](https://jfrog.com/artifactory/).
+
+## [5. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / User Interfaces
 
@@ -22,13 +62,13 @@
 
 *   [Homotopy Type Theory (⭐1.2k)](https://github.com/HoTT/Coq-HoTT) - Development of homotopy-theoretic ideas.
 
-## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Testing Tools
 
 *   [Playwright (⭐129)](https://github.com/playwright-community/eslint-plugin-playwright) - Linting rules for Playwright.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -39,7 +79,7 @@
 
 *   [vue-use-active-scroll (⭐16)](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
 
-## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Distributed Filesystems
 
@@ -56,13 +96,13 @@
 *   [Openstack Swift](https://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store. ([Source Code](https://opendev.org/openstack/swift)) `Apache-2.0` `Python`
 *   [XtreemFS](https://www.xtreemfs.org/) - Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. ([Source Code (⭐324)](https://github.com/xtreemfs/xtreemfs)) `BSD-3-Clause` `Java`
 
-## [6. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [9. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
 *   [playwright-bdd (⭐44)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Display / LED Segment
 
@@ -84,25 +124,25 @@
 
 *   [micropython-magic (⭐2)](https://github.com/josverl/micropython-magic) - MicroPython integrated into Jupyter notebooks.
 
-## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / Certifications
 
 *   [SAP Certified Development Associate - SAP Integration Suite](https://training.sap.com/certification/c_cpi_14) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
 
-## [9. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [12. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Geography
 
 *   [Top 5 most insane kanji place names in Japan](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%E3%80%90weird-top-five%E3%80%91/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, 1 custom domain.
 
-## [11. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [14. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Recruitment / Interview
 
@@ -128,7 +168,7 @@
 
 *   [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=B-fAinNDbQU\&t=6s) - On how sales and marketing takes over product focused companies.
 
-## [12. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [15. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / SAML
 
@@ -142,25 +182,29 @@
 
 *   [You (probably) don't need ReCAPTCHA](https://web.archive.org/web/20190611190134/https://kevv.net/you-probably-dont-need-recaptcha/) - Starts with a rant on how the service is a privacy nightmare and is tedious UI-wise, then list alternatives.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Documentation
 
 *   [Doxide (⭐8)](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
 
-## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Authentication
+
+*   [ex\_aws\_msk\_iam\_auth (⭐2)](https://github.com/BigThinkcode/ex_aws_msk_iam_auth) - AWS Managed Streaming for Apache Kafka (MSK) IAM Authentication plugin for Broadway Kafka.
 
 ### Reading
 
 *   [Elixir Code Smells (⭐1.2k)](https://github.com/lucasvegi/Elixir-Code-Smells) - A catalog of Elixir-specific code smells that can harm the quality of software developed using this language.
 
-## [15. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [18. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Photo / Image
 
 *   [@frameright/react-image-display-control (⭐2)](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
 
-## [16. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [19. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / scRNA
 
@@ -179,7 +223,7 @@
 *   [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
 *   [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
 
-## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Books
 
@@ -189,13 +233,13 @@
 
 *   [dto-classes (⭐43)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
 
-## [18. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [21. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Examples / Showcases / Personal
 
 *   [Nuxt 3 Demo (⭐91)](https://github.com/bryantgillespie/nuxt3-directus-starter) - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 
-## [19. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [22. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### News and Resources
 
@@ -205,7 +249,7 @@
 
 *   [xml-ez-out (⭐2)](https://github.com/alire-project/xmlezout) - Library for emitting XML from Ada programs.
 
-## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
@@ -216,7 +260,7 @@
 *   [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Meta's tool for generating music
 *   [facebookresearch/audiocraft (⭐4.8k)](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
 
-## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Snippet / Diagnostics
 
@@ -226,7 +270,12 @@
 
 *   [dasupradyumna/midnight.nvim (⭐6)](https://github.com/dasupradyumna/midnight.nvim) - A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
 
-## [22. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Automation
+
+*   [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool.
+*   [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand.
 
 ### Feature Flags
 
@@ -236,7 +285,7 @@
 
 *   [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
 
-## [23. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -247,7 +296,7 @@
 
 *   [Querying Polars DataFrames using SQL](https://levelup.gitconnected.com/querying-polars-dataframes-using-sql-2471c1ad3014) - A blog post that shows how to use the SQLContext object in Python to query a Polars DataFrame directly using SQL by [@weimenglee](https://github.com/weimenglee).
 
-## [24. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [27. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -258,59 +307,19 @@
 *   [Dialoqbase (⭐230)](https://github.com/n4ze3m/dialoqbase): web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)
 *   [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain/csv-ai?style=social)
 
-## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Rize](https://rize.io/) - A.I. powered time tracker that automatically improves your focus and helps you build better work habits.
 
-## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Desktop
 
 *   [krud-dev/ostara (⭐173)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
 
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐32)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐84)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐569)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐323)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [27. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [30. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Accounting & Finance
 
@@ -7794,20 +7803,29 @@
 
 
 
-## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [deno (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-deno) - Useful [deno](https://deno.land/) aliases and settings.
+*   [deno (tricked-dev) (⭐0)](https://github.com/Tricked-dev/deno-zsh-plugin) - Automatically installs [deno](https://deno.land/) to `$HOME/.deno` on startup if deno is not already installed.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
+*   [abhiyan (⭐1)](https://github.com/abhiyandhakal/abhiyan.zsh/) - Segmented prompt. Includes decorators for `git` branch, staged file count, unstaged file count & untracked file count, username, current working directory and the time. Requires Powerline-compatible fonts.
 *   [bashplus (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default `bash` prompt with decorators for `virtualenv` and `git` status.
 *   [bouni (⭐0)](https://github.com/Bouni/bouni-zsh-theme) - Includes decorators for user\@host, current directory, active python virtualenv, and `git` status.
+*   [coolmelon (⭐0)](https://github.com/omkarpai/coolmelon-zsh-theme/) - Includes decorators for user\@host, time, current directory, node version and `git` information.
 *   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐89)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
 *   [hoffish (⭐0)](https://github.com/emilHof/hoffish-zsh-theme) - If the [agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme) theme and [fish](https://fishshell.com/) shell had a ZSH theme for a child. Includes decorators for `git` status, trimmed path to current directory, root status, exit status of the last command run and the active python virtualenv. Requires a Powerline font and the [zsh-autosuggestions (⭐26k)](https://github.com/zsh-users/zsh-autosuggestions) and [shrink-path (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/shrink-path/shrink-path.plugin.zsh) plugins.
 *   [july (⭐0)](https://github.com/skippyr/july) - Minimalist prompt. Includes decorators for user, host and current directory.
 *   [nablaman (⭐0)](https://github.com/kokkonisd/nablaman-zsh-theme) - Similar to [powerlevel10k (⭐37k)](https://github.com/romkatv/powerlevel10k). Includes decorators for the last command's exit status, user\@hostname, `git` status and the current directory. Works best with a dark terminal theme.
+*   [nuqle (⭐1)](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - A simple theme for prezto and oh-my-zsh.
 *   [skgeek (⭐0)](https://github.com/skippyr/skgeek) - Includes decorators for hostname, directory and `git` branch.
 *   [thygod (⭐0)](https://github.com/Thy-GoD/thy-god-zsh-theme) - Based off [gnzh (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) and [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes a `git` status decorator and changes prompt to a red cross when a command fails.
+*   [warmblood (⭐1)](https://github.com/D42H5/warmblood) - Based on [darkblood (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `git` information, user\@hostname and the current directory.
 
-## [29. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [32. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Software design and implementation
 
@@ -7825,7 +7843,7 @@
 
 *   “You need a slightly more sophisticated developer team to cobble together a billing platform” ([source](https://www.techemails.com/i/124009734/google-pms-on-stripe)) - Google's Product Director take on building billing systems: you need a certain kind of engineers to tackle that domain. It is not for everyone.
 
-## [30. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [33. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Networking
 
@@ -7835,12 +7853,20 @@
 
 *   [slugify (⭐0)](https://github.com/Coachonko/slugify) - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 
-## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Games
+
+*   [mtkennerly/ludusavi (⭐1.1k)](https://github.com/mtkennerly/ludusavi) — Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
 
 ### Applications / Routing protocols
 
 *   [Holo (⭐52)](https://github.com/rwestphal/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
 *   [RustyBGP (⭐385)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
+
+### Applications / Security tools
+
+*   [cotp (⭐102)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 
 ### Resources / Web programming
 
@@ -7875,7 +7901,7 @@
     *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
     *   [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
 
-## [32. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [35. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Application layer
 
@@ -7885,7 +7911,7 @@
 
 *   [A Concise Introduction to Robot Programming with ROS2 (⭐343)](https://github.com/fmrico/book_ros2)
 
-## [33. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [36. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Web Feed Specifications / Specification Comparison Tool
 
@@ -8008,7 +8034,7 @@
 
 *   [杜冰. 基于RSS阅读器的文献追踪方法与实践\[J\]. 教育进展, 2023, 13(2): 795-798.](https://doi.org/10.12677/AE.2023.132129) <sup>[1328](https://t.me/s/aboutrss/1328)</sup>
 
-## [34. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [37. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Type / React
 
@@ -8018,7 +8044,7 @@
 
 *   [Next.js Advanced Graphql Crud MongoDB Starter (⭐10)](https://github.com/idurar/starter-advanced-graphql-crud-next-js-mongodb) - Starter Generic CRUD with Advanced Apollo Graphql server with Next.js and Mongodb (TypeScript)
 
-## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -8036,7 +8062,7 @@
 
 *   [theme.park](https://theme-park.dev/) - A collection of themes/skins for 50 selfhosted apps! ([Source Code (⭐1.9k)](https://github.com/GilbN/theme.park/)) `MIT` `CSS`
 
-## [36. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [39. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Wallets
 

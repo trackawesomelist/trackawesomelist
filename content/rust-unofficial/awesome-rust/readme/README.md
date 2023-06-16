@@ -285,6 +285,7 @@ See also [Games Made With Piston (⭐4.4k)](https://github.com/PistonDevelopers/
 *   [gorilla-devs/ferium (⭐806)](https://github.com/gorilla-devs/ferium) — Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 *   [lifthrasiir/angolmois-rust (⭐97)](https://github.com/lifthrasiir/angolmois-rust) — A minimalistic music video game which supports the BMS format
 *   [mara214/rsnake (⭐102)](https://github.com/mara214/rsnake) — Snake written in Rust.
+*   [mtkennerly/ludusavi (⭐1.1k)](https://github.com/mtkennerly/ludusavi) — Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
 *   [ozkriff/zemeroth (⭐1.3k)](https://github.com/ozkriff/zemeroth) — A small 2D turn-based hexagonal strategy game
 *   [rhex (⭐138)](https://github.com/dpc/rhex) — hexagonal ascii roguelike
 *   [rsaarelm/magog (⭐353)](https://github.com/rsaarelm/magog) — A roguelike game in Rust
@@ -358,6 +359,7 @@ See also [A comparison of operating systems written in Rust (⭐532)](https://gi
 *   [cargo-crev](https://crates.io/crates/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
 *   [cargo-deny](https://crates.io/crates/cargo-deny) - Cargo plugin to help you manage large dependency graphs
 *   [Cherrybomb (⭐797)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+*   [cotp (⭐102)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 *   [epi052/feroxbuster (⭐4.3k)](https://github.com/epi052/feroxbuster) - A simple, fast, recursive content discovery tool written in Rust (
 *   [Inspektor (⭐263)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
 *   [kpcyrd/authoscope (⭐353)](https://github.com/kpcyrd/authoscope) — A scriptable network authentication cracker
@@ -1549,7 +1551,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [rustix (⭐899)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
     *   [zargony/fuse-rs (⭐965)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.5k)](https://github.com/libfuse/libfuse) bindings
 *   Windows
-    *   [microsoft/windows-rs (⭐8.5k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
+    *   [microsoft/windows-rs (⭐8.6k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
     *   [retep998/winapi-rs (⭐1.7k)](https://github.com/retep998/winapi-rs) — Windows API bindings [![Rust](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml/badge.svg?branch=dev)](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml)
 
 ### Scripting

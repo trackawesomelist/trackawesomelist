@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Jun 16, 2023](/content/2023/06/16/README.md)
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-artifactory (⭐230)](https://github.com/jfrog/terraform-provider-artifactory) - Provider for [JFrog Artifactory](https://jfrog.com/artifactory/).
+
 ## [Jun 15, 2023](/content/2023/06/15/README.md)
 
 ### Private Module Registries / Miscellaneous
@@ -837,7 +843,7 @@ Curated list of resources on HashiCorp's Terraform
 *   [AirIAM (⭐715)](https://github.com/bridgecrewio/AirIAM) - AirIAM is a tool for AWS IAM to least privilege Terraform execution framework.
 *   [atlantis (⭐6.2k)](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 *   [fogg (⭐261)](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
-*   [former2](https://github.com/iann0036/former2) - Generate terraform configuration from your existing resources within your AWS account.
+*   [former2 (⭐1.8k)](https://github.com/iann0036/former2) - Generate terraform configuration from your existing resources within your AWS account.
 *   [iam-policy-json-to-terraform (⭐690)](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws\_iam\_policy\_document
 *   [k2tf (⭐1.1k)](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter.
 *   [pre-commit-terraform (⭐2.5k)](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (auto-format, validate, update docs).

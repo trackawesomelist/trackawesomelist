@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jun 16, 2023](/content/2023/06/16/README.md)
+
+### Applications / Games
+
+*   [mtkennerly/ludusavi (⭐1.1k)](https://github.com/mtkennerly/ludusavi) — Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
+
+### Applications / Security tools
+
+*   [cotp (⭐102)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+
 ## [Jun 13, 2023](/content/2023/06/13/README.md)
 
 ### Resources / Web programming
@@ -83,7 +93,7 @@ A curated list of Rust code and resources.
 ### Libraries / Platform specific
 
 *   Windows
-    *   [microsoft/windows-rs (⭐8.5k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
+    *   [microsoft/windows-rs (⭐8.6k)](https://github.com/microsoft/windows-rs) — Rust for Windows [![Actions Status](https://github.com/microsoft/windows-rs/workflows/CI/badge.svg)](https://github.com/microsoft/windows-rs/actions)
     *   [retep998/winapi-rs (⭐1.7k)](https://github.com/retep998/winapi-rs) — Windows API bindings [![Rust](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml/badge.svg?branch=dev)](https://github.com/retep998/winapi-rs/actions/workflows/rust.yml)
 
 ## [May 29, 2023](/content/2023/05/29/README.md)

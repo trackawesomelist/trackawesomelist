@@ -2,9 +2,29 @@
 
 A curated list of awesome programmers and software projects you can support!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 443 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 458 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/uraimo/awesome-software-patreons/week/README.md) / [Overview](/content/uraimo/awesome-software-patreons/readme/README.md) ]
+
+## [Jun 16, 2023](/content/2023/06/16/README.md)
+
+### Open Source Projects
+
+*   [NewPipe](https://liberapay.com/TeamNewPipe) - FLOSS video player on Android for services like YouTube, Soundcloud etc.
+*   [Nitter](https://www.patreon.com/nitter), [#2](https://liberapay.com/zedeus), [#3](https://github.com/sponsors/zedeus) - Free and open source Twitter client focused on privacy.
+
+### Open Source Projects / Libraries
+
+*   [Iced](https://github.com/sponsors/hecrj), [#2](https://ko-fi.com/hecrj_) - A cross-platform GUI library for Rust, inspired by Elm.
+
+### Open Source Projects / Hardware related
+
+*   [Martin Povišer](https://github.com/sponsors/povik) - Reverse-engineering and writing Linux drivers for audio hardware on Apple Silicon Macs.
+
+### Other kinds of content / Articles and Tutorials
+
+*   [Boiling Steam](https://www.patreon.com/boiling_steam_linux) - Linux gaming news, reviews, guides.
+*   [GamingOnLinux](https://www.patreon.com/liamdawe) - articles and videos about Linux, Steam Deck, SteamOS gaming.
 
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
 
@@ -153,7 +173,7 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects / Libraries
 
 *   [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript charts library.
-*   [Dear ImGui (⭐44k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐48k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 
 ### People Doing Open Source Work / Hardware related

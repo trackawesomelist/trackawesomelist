@@ -8,16 +8,25 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [deno (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-deno) - Useful [deno](https://deno.land/) aliases and settings.
+*   [deno (tricked-dev) (⭐0)](https://github.com/Tricked-dev/deno-zsh-plugin) - Automatically installs [deno](https://deno.land/) to `$HOME/.deno` on startup if deno is not already installed.
+
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
+*   [abhiyan (⭐1)](https://github.com/abhiyandhakal/abhiyan.zsh/) - Segmented prompt. Includes decorators for `git` branch, staged file count, unstaged file count & untracked file count, username, current working directory and the time. Requires Powerline-compatible fonts.
 *   [bashplus (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default `bash` prompt with decorators for `virtualenv` and `git` status.
 *   [bouni (⭐0)](https://github.com/Bouni/bouni-zsh-theme) - Includes decorators for user\@host, current directory, active python virtualenv, and `git` status.
+*   [coolmelon (⭐0)](https://github.com/omkarpai/coolmelon-zsh-theme/) - Includes decorators for user\@host, time, current directory, node version and `git` information.
 *   [hex (⭐0)](https://github.com/hectorBrown/hex-zsh) - Heavily based on [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#bira), and [gruvbox (⭐89)](https://github.com/sbugzu/gruvbox-zsh), which in turn is based on [agnoster](https://gist.github.com/agnoster/3712874). Includes decorators for current directory, `git` status information, active python virtualenv, exit status of the last command run. Requires a Powerline-compatible font.
 *   [hoffish (⭐0)](https://github.com/emilHof/hoffish-zsh-theme) - If the [agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme) theme and [fish](https://fishshell.com/) shell had a ZSH theme for a child. Includes decorators for `git` status, trimmed path to current directory, root status, exit status of the last command run and the active python virtualenv. Requires a Powerline font and the [zsh-autosuggestions (⭐26k)](https://github.com/zsh-users/zsh-autosuggestions) and [shrink-path (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/shrink-path/shrink-path.plugin.zsh) plugins.
 *   [july (⭐0)](https://github.com/skippyr/july) - Minimalist prompt. Includes decorators for user, host and current directory.
 *   [nablaman (⭐0)](https://github.com/kokkonisd/nablaman-zsh-theme) - Similar to [powerlevel10k (⭐37k)](https://github.com/romkatv/powerlevel10k). Includes decorators for the last command's exit status, user\@hostname, `git` status and the current directory. Works best with a dark terminal theme.
+*   [nuqle (⭐1)](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - A simple theme for prezto and oh-my-zsh.
 *   [skgeek (⭐0)](https://github.com/skippyr/skgeek) - Includes decorators for hostname, directory and `git` branch.
 *   [thygod (⭐0)](https://github.com/Thy-GoD/thy-god-zsh-theme) - Based off [gnzh (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) and [bira (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes a `git` status decorator and changes prompt to a red cross when a command fails.
+*   [warmblood (⭐1)](https://github.com/D42H5/warmblood) - Based on [darkblood (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `git` information, user\@hostname and the current directory.
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -1041,10 +1050,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [shtab (⭐263)](https://github.com/iterative/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
-
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
-
-*   [deno (⭐0)](https://github.com/Tricked-dev/deno-zsh-plugin) - Automatically installs [deno](https://deno.land/) to `$HOME/.deno` on startup if deno is not already installed.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -2469,7 +2474,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [nothing (⭐29)](https://github.com/eendroroy/nothing) - Lightning fast and really simple because it has almost nothing in it.
 *   [nox (⭐10)](https://github.com/kbrsh/nox) - Dark theme, displays the current working directory and git status.
 *   [nunorc (⭐0)](https://github.com/nunorc/nunorc.zsh-theme) - Minimalist theme, works well on dark backgrounds. Includes `git`, `mercurial` and `svn` satus decorations.
-*   [nuqlezsh (⭐1)](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - A simple theme for prezto and oh-my-zsh.
 *   [nuts (⭐5)](https://github.com/rafaelsq/nuts.zsh-theme) - Minimalist theme, includes `git` status decorations and time.
 *   [oblong (⭐1)](https://github.com/Ansimorph/oblong) - Simple `bash`-inspired theme based on [gitster (⭐66)](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) and [basher](https://gitlab.com/Spriithy/basher). Includes status decorations to show if user is root, the exit status of last command run, `git` branch and its clean/dirty status.
 *   [odie (⭐0)](https://github.com/masterodie/zsh-theme-odie/) - Works well on a dark background. Includes `git` status, python virtualenv and `vi`-mode status decorations.
