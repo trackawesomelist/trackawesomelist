@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Jun 17, 2023](/content/2023/06/17/README.md)
+
+### Software Packs
+
+*   [Github Student Developer Pack](https://education.github.com/pack/) \[FREE] - The GitHub Student Developer Pack is a collection of tools and resources that are available to students for free. It includes access to various developer tools, cloud services, and learning resources.
+
 ## [May 25, 2023](/content/2023/05/25/README.md)
 
 ### Design and Photo Editing

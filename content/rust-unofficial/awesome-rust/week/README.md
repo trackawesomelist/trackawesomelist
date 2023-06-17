@@ -21,6 +21,10 @@ A curated list of Rust code and resources.
 
 *   [cotp (⭐102)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 
+### Libraries / Email
+
+*   [mailtutan/mailtutan (⭐75)](https://github.com/mailtutan/mailtutan) An SMTP server for test and development environment.
+
 ### Resources / Web programming
 
 *   Learning
@@ -2855,7 +2859,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [Module Linker (⭐248)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+*   [Module Linker (⭐247)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 
 ## [Apr 29 - May 05, 2019](/content/2019/17/README.md)
 

@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jun 17, 2023](/content/2023/06/17/README.md)
+
+### Commonsense / AI Commonsense Reasoning
+
+*   [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) - 2023.
+
 ## [Jun 16, 2023](/content/2023/06/16/README.md)
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase

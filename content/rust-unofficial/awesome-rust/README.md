@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jun 17, 2023](/content/2023/06/17/README.md)
+
+### Libraries / Email
+
+*   [mailtutan/mailtutan (⭐75)](https://github.com/mailtutan/mailtutan) An SMTP server for test and development environment.
+
 ## [Jun 16, 2023](/content/2023/06/16/README.md)
 
 ### Applications / Games
@@ -3110,7 +3116,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [Module Linker (⭐248)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+*   [Module Linker (⭐247)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 
 ## [Apr 28, 2019](/content/2019/04/28/README.md)
 
