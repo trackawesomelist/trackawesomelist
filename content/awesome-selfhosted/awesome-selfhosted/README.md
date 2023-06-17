@@ -6,6 +6,24 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jun 17, 2023](/content/2023/06/17/README.md)
+
+### Software / Automation
+
+*   [YoutubeDL-Server (⭐126)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
+
+### Software / Bookmarks and Link Sharing
+
+*   [SyncMarks](https://codeberg.org/Offerel/SyncMarks-Webapp) - Sync and manage your browser bookmarks from Edge, Firefox and Chromium. ([Clients](https://codeberg.org/Offerel/SyncMarks-Extension)) `AGPL-3.0` `PHP`
+
+### Software / Database Management
+
+*   [Limbas](https://www.limbas.com/en/) - Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ([Source Code (⭐31)](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
+
+### Software / Miscellaneous
+
+*   [Flagsmith](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md/www.flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications. Alternative to LaunchDarkly. ([Source Code (⭐2.4k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker`
+
 ## [Jun 15, 2023](/content/2023/06/15/README.md)
 
 ### Software / Analytics
@@ -1345,7 +1363,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / E-commerce
 
 *   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐520)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
-*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐24)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
+*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐29)](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -4317,7 +4335,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.9k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐8k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [Oct 19, 2018](/content/2018/10/19/README.md)
 
@@ -4619,7 +4637,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐6.2k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐6.3k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 
 ### Software / Communication - IRC
 

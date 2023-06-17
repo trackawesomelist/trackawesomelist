@@ -16,6 +16,10 @@ Curated list of resources on HashiCorp's Terraform
 
 *   [terraform-provider-artifactory (⭐230)](https://github.com/jfrog/terraform-provider-artifactory) - Provider for [JFrog Artifactory](https://jfrog.com/artifactory/).
 
+### Libraries / Vendor supported providers
+
+*   [nu\_plugin\_hcl (⭐0)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐25k)](https://github.com/nushell/nushell)
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Tools / Vendor supported providers

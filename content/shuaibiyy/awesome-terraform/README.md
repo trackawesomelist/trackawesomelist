@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Jun 17, 2023](/content/2023/06/17/README.md)
+
+### Libraries / Vendor supported providers
+
+*   [nu\_plugin\_hcl (⭐0)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐25k)](https://github.com/nushell/nushell)
+
 ## [Jun 16, 2023](/content/2023/06/16/README.md)
 
 ### Providers / Vendor supported providers

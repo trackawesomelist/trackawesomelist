@@ -401,6 +401,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [pyhcl (⭐312)](https://github.com/virtuald/pyhcl) - HCL parser in Python
 *   [python-hcl2 (⭐192)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 *   [rhcl (⭐15)](https://github.com/winebarrel/rhcl) - Pure Ruby HCL parser
+*   [nu\_plugin\_hcl (⭐0)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐25k)](https://github.com/nushell/nushell)
 
 ## Boilerplates
 
