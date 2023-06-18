@@ -106,7 +106,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### CLI
 
-*   [atlas (⭐2.9k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐3.1k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 *   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 *   [pgsh (⭐523)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 *   [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
@@ -220,10 +220,10 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Language bindings
 
-*   Common Lisp: [Postmodern (⭐349)](https://github.com/marijnh/Postmodern)
+*   Common Lisp: [Postmodern (⭐351)](https://github.com/marijnh/Postmodern)
 *   Clojure: [clj-postgresql (⭐157)](https://github.com/remodoy/clj-postgresql)
-*   Elixir: [postgrex (⭐996)](https://github.com/elixir-ecto/postgrex)
-*   Go: [pq (⭐8.1k)](https://github.com/lib/pq), [pgx (⭐7.2k)](https://github.com/jackc/pgx)
+*   Elixir: [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex)
+*   Go: [pq (⭐8.1k)](https://github.com/lib/pq), [pgx (⭐7.3k)](https://github.com/jackc/pgx)
 *   Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 *   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 *   .Net/.Net Core: [Npgsql (⭐2.9k)](https://github.com/npgsql/npgsql)
@@ -232,8 +232,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   PHP: [Pomm](http://www.pomm-project.org), [pecl/pq (⭐35)](https://github.com/m6w6/ext-pq)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
 *   R: [RPostgreSQL (⭐61)](https://github.com/tomoakin/RPostgreSQL)
-*   Ruby: [pg (⭐686)](https://github.com/ged/ruby-pg)
-*   Rust: [rust-postgresql (⭐2.9k)](https://github.com/sfackler/rust-postgres), [pgx (⭐2.5k)](https://github.com/tcdi/pgx)
+*   Ruby: [pg (⭐695)](https://github.com/ged/ruby-pg)
+*   Rust: [rust-postgresql (⭐3k)](https://github.com/sfackler/rust-postgres), [pgx (⭐2.5k)](https://github.com/tcdi/pgx)
 *   Lua: [luapgsql (⭐103)](https://github.com/arcapos/luapgsql)
 
 ### PaaS *(PostgreSQL as a Service)*
@@ -249,6 +249,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
 *   [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
 *   [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
+*   [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
 
 ### Docker images
 

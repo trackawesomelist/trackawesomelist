@@ -6,11 +6,17 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 [ [Daily](/content/dhamaniasad/awesome-postgres/README.md) / Weekly / [Overview](/content/dhamaniasad/awesome-postgres/readme/README.md) ]
 
+## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
+
+### Contents / PaaS *(PostgreSQL as a Service)*
+
+*   [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
+
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
 ### Contents / CLI
 
-*   [atlas (⭐2.9k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+*   [atlas (⭐3.1k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 
 ### Contents / Server
 
@@ -185,10 +191,10 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐8.1k)](https://github.com/lib/pq), [pgx (⭐7.2k)](https://github.com/jackc/pgx)
+*   Go: [pq (⭐8.1k)](https://github.com/lib/pq), [pgx (⭐7.3k)](https://github.com/jackc/pgx)
 *   Node: [node-postgres (⭐11k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.3k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐138)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐3.9k)](https://github.com/gajus/slonik), [postgres (⭐4.6k)](https://github.com/porsager/postgres)
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
-*   Ruby: [pg (⭐686)](https://github.com/ged/ruby-pg)
+*   Ruby: [pg (⭐695)](https://github.com/ged/ruby-pg)
 
 ### Resources / Articles
 
@@ -671,9 +677,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐349)](https://github.com/marijnh/Postmodern)
-*   Elixir: [postgrex (⭐996)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐2.9k)](https://github.com/sfackler/rust-postgres), [pgx (⭐2.5k)](https://github.com/tcdi/pgx)
+*   Common Lisp: [Postmodern (⭐351)](https://github.com/marijnh/Postmodern)
+*   Elixir: [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex)
+*   Rust: [rust-postgresql (⭐3k)](https://github.com/sfackler/rust-postgres), [pgx (⭐2.5k)](https://github.com/tcdi/pgx)
 
 ## [Jul 18 - Jul 24, 2016](/content/2016/29/README.md)
 

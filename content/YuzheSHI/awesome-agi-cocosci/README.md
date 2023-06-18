@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jun 18, 2023](/content/2023/06/18/README.md)
+
+### Science Logology / Democratization
+
+*   [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11479406257389837824\&hl=en\&as_sdt=0,5)].
+
 ## [Jun 17, 2023](/content/2023/06/17/README.md)
 
 ### Commonsense / AI Commonsense Reasoning

@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
+### Science Logology / Democratization
+
+*   [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11479406257389837824\&hl=en\&as_sdt=0,5)].
+
 ### Commonsense / AI Commonsense Reasoning
 
 *   [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) - 2023.
