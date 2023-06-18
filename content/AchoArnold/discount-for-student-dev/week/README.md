@@ -12,6 +12,10 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [Github Student Developer Pack](https://education.github.com/pack/) \[FREE] - The GitHub Student Developer Pack is a collection of tools and resources that are available to students for free. It includes access to various developer tools, cloud services, and learning resources.
 
+### Learning Resources
+
+*   [Scrimba](https://apply.githubcampus.expert/) \[FREE] - Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses available via [Github Student Developer Pack](https://education.github.com/pack).
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Design and Photo Editing

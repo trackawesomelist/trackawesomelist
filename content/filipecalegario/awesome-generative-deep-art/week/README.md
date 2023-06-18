@@ -12,8 +12,13 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
 
+### Discussions and Philosophy / Papers Collections
+
+*   [Art and the science of generative AI | Science](https://www.science.org/doi/10.1126/science.adh4451)
+
 ### Discussions and Philosophy / Critical Views about Generative AI
 
+*   [Yuval Noah Harari argues that AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
 *   [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)

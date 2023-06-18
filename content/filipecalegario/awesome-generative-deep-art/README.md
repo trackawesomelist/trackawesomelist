@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jun 18, 2023](/content/2023/06/18/README.md)
+
+### Discussions and Philosophy / Papers Collections
+
+*   [Art and the science of generative AI | Science](https://www.science.org/doi/10.1126/science.adh4451)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Yuval Noah Harari argues that AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
+
 ## [Jun 17, 2023](/content/2023/06/17/README.md)
 
 ### Creative Uses of Generative AI Tools / Deforum
