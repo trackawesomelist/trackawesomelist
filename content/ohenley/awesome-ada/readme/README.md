@@ -553,7 +553,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 
 *   [libadalang (⭐129)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
-*   [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators.
+*   [aflex-ayacc](https://blog.vacs.fr/vacs/blogs/post.html?post=2021/12/18/Aflex-1.5-and-Ayacc-1.3.0) - Ada scanner and parser generators.
 *   [wisitoken](https://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 *   [gela (⭐0)](https://github.com/reznikmm/gela) - Ada code analyzer.
 *   [anagram (⭐3)](https://github.com/reznikmm/anagram) - Grammar handling and parser generation Ada library.

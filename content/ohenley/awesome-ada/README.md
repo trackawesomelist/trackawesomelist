@@ -6,6 +6,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ Daily / [Weekly](/content/ohenley/awesome-ada/week/README.md) / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Jun 19, 2023](/content/2023/06/19/README.md)
+
+### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
+
+*   [aflex-ayacc](https://blog.vacs.fr/vacs/blogs/post.html?post=2021/12/18/Aflex-1.5-and-Ayacc-1.3.0) - Ada scanner and parser generators.
+
 ## [Jun 13, 2023](/content/2023/06/13/README.md)
 
 ### News and Resources
@@ -1143,7 +1149,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT
 
-*   [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 scanner and parser generators.
 *   [gela (⭐0)](https://github.com/reznikmm/gela) - Ada code analyzer.
 *   [anagram (⭐3)](https://github.com/reznikmm/anagram) - Grammar handling and parser generation Ada library.
 *   [ada-pretty (⭐3)](https://github.com/reznikmm/ada-pretty) - Pretty printing library for Ada.

@@ -12,9 +12,9 @@ Curated list: Resources for machine learning in Ruby
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
-\[[RubyNLP (⭐998)](https://github.com/arbox/nlp-with-ruby) |
-[RubyDataScience (⭐658)](https://github.com/arbox/data-science-with-ruby) |
-[RubyInterop (⭐36)](https://github.com/arbox/ruby-interoperability)]
+\[[RubyNLP (⭐997)](https://github.com/arbox/nlp-with-ruby) |
+[RubyDataScience (⭐660)](https://github.com/arbox/data-science-with-ruby) |
+[RubyInterop (⭐37)](https://github.com/arbox/ruby-interoperability)]
 
 # Awesome Machine Learning with Ruby [<img src="https://github.com/arbox/machine-learning-with-ruby/raw/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
@@ -99,7 +99,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Frameworks
 
-*   [LangChain.rb (⭐121)](https://github.com/andreibondarev/langchainrb) -
+*   [LangChain.rb (⭐267)](https://github.com/andreibondarev/langchainrb) -
     Build ML/AI-supercharged applications with Ruby's LangChain.
 *   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
@@ -112,8 +112,8 @@ programming languages with appropriate bindings for Ruby.
 *   [rblearn (⭐1)](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 *   [data\_modeler (⭐1)](https://github.com/giuse/data_modeler) -
     Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.
-*   [shogun (⭐2.9k)](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
-    machine learning toolbox with [Ruby bindings (⭐2.9k)](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
+*   [shogun (⭐3k)](https://github.com/shogun-toolbox/shogun) - Polyfunctional and mature
+    machine learning toolbox with [Ruby bindings (⭐3k)](https://github.com/shogun-toolbox/shogun/tree/develop/src/interfaces/ruby).
 *   [aws-sdk-machinelearning (⭐3.4k)](https://github.com/aws/aws-sdk-ruby) -
     Machine Learning API of the Amazon Web Services.
 *   [azure\_mgmt\_machine\_learning (⭐273)](https://github.com/Azure/azure-sdk-for-ruby) -
@@ -126,19 +126,19 @@ programming languages with appropriate bindings for Ruby.
 *   [Deep NeuroEvolution (⭐126)](https://github.com/giuse/DNE) -
     Experimental setup based on the [machine\_learning\_workbench (⭐18)](https://github.com/giuse/machine_learning_workbench)
     towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
-    [OpenAI Gym (⭐32k)](https://github.com/openai/gym) using [PyCall (⭐910)](https://github.com/mrkn/pycall.rb).
-*   [rumale (⭐658)](https://github.com/yoshoku/rumale) -
+    [OpenAI Gym (⭐32k)](https://github.com/openai/gym) using [PyCall (⭐916)](https://github.com/mrkn/pycall.rb).
+*   [rumale (⭐661)](https://github.com/yoshoku/rumale) -
     Machine Learninig toolkit in Ruby with wide range of implemented algorithms
     (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
     interfaces similar to [Scikit-Learn][scikit] in Python.
-*   [eps (⭐609)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+*   [eps (⭐608)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
     using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL][gsl].
 
 ### Neural networks
 
-*   [neural-net-ruby (⭐121)](https://github.com/gbuesing/neural-net-ruby) -
+*   [neural-net-ruby (⭐123)](https://github.com/gbuesing/neural-net-ruby) -
     Neural network written in Ruby.
-*   [ruby-fann (⭐456)](https://github.com/tangledpath/ruby-fann) -
+*   [ruby-fann (⭐458)](https://github.com/tangledpath/ruby-fann) -
     Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 *   [cerebrum (⭐35)](https://github.com/irfansharif/cerebrum) -
     Experimental implementation for Artificial Neural Networks in Ruby.
@@ -159,10 +159,10 @@ programming languages with appropriate bindings for Ruby.
 *   [tensor\_stream (⭐506)](https://github.com/jedld/tensor_stream) -
     Ground-up and standalone reimplementation of TensorFlow for Ruby.
 *   [red-chainer (⭐102)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
-*   [tensorflow (⭐825)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
+*   [tensorflow (⭐823)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 *   [ruby-dnn (⭐40)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
-*   [torch-rb (⭐553)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐67k)](https://github.com/pytorch/pytorch)
-    using [rice (⭐344)](https://github.com/jasonroelofs/rice).
+*   [torch-rb (⭐557)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐68k)](https://github.com/pytorch/pytorch)
+    using [rice (⭐346)](https://github.com/jasonroelofs/rice).
 *   [mxnet (⭐49)](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
 ### Kernel methods
@@ -244,33 +244,36 @@ programming languages with appropriate bindings for Ruby.
     Ruby bindings for the [Hnswlib (⭐3.1k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
 *   [ngt-ruby (⭐39)](https://github.com/ankane/ngt-ruby) -
     Ruby bindings for the [NGT (⭐1k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
-*   [milvus (⭐7)](https://github.com/andreibondarev/milvus) —
+*   [milvus (⭐9)](https://github.com/andreibondarev/milvus) —
     Ruby client for Milvus Vector DB.
-*   [pinecone (⭐31)](https://github.com/ScotterC/pinecone) —
+*   [pinecone (⭐37)](https://github.com/ScotterC/pinecone) —
     Ruby client for Pinecone Vector DB.
-*   [qdrant-ruby (⭐13)](https://github.com/andreibondarev/qdrant-ruby) —
+*   [qdrant-ruby (⭐16)](https://github.com/andreibondarev/qdrant-ruby) —
     Ruby wrapper for the Qdrant vector search database API.
-*   [weaviate-ruby (⭐18)](https://github.com/andreibondarev/weaviate-ruby) —
+*   [weaviate-ruby (⭐19)](https://github.com/andreibondarev/weaviate-ruby) —
     Ruby wrapper for the Weaviate vector search database API.
 
 ## Applications of machine learning
 
-*   [phashion (⭐693)](https://github.com/westonplatter/phashion) -
+*   [phashion (⭐695)](https://github.com/westonplatter/phashion) -
     Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files. <sup>\[[ImageMagick](#imagemagick) | [libjpeg](#libjpeg)]</sup>
 
 ## Data structures
 
 If you're going to implement your own ML algorithms you're probably interested
 in storing your feature sets efficiently. Look for appropriate
-[data structures (⭐658)](https://github.com/arbox/data-science-with-ruby#data-structures)
+[data structures (⭐660)](https://github.com/arbox/data-science-with-ruby#data-structures)
 in our [Data Science with Ruby][ds-with-ruby] list.
 
 ## Data visualization
 
-Please refer to the [Data Visualization (⭐658)](https://github.com/arbox/data-science-with-ruby#visualization)
+Please refer to the [Data Visualization (⭐660)](https://github.com/arbox/data-science-with-ruby#visualization)
 section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
+
+*   2022
+    *   *Discover Machine Learning in Ruby* by [Justin Bowen](https://twitter.com/TonsOfFun111) <sup>\[[video](https://www.youtube.com/watch?v=HPbizNgcyFk)]</sup>
 
 *   2019
     *   *TensorStream: Bringing Machine Learning to Ruby* by [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/) <sup>\[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>
@@ -407,10 +410,10 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
     General List of NLP related resources (mostly not for Ruby programmers).
 *   [Scientific Ruby](http://sciruby.com/) -
     Linear Algebra, Visualization and Scientific Computing for Ruby.
-*   [iRuby (⭐762)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
+*   [iRuby (⭐769)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
 *   [Kiba (⭐1.7k)](https://github.com/thbar/kiba) -
     Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
-*   [Awesome OCR (⭐2.3k)](https://github.com/kba/awesome-ocr) -
+*   [Awesome OCR (⭐2.4k)](https://github.com/kba/awesome-ocr) -
     Multitude of OCR (Optical Character Recognition) resources.
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) -
     Machine Learning with TensorFlow libraries.

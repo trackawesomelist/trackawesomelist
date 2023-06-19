@@ -131,6 +131,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI Tools Directories
 
+*   [AI Tool Master List](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207): directory maintained by ClickUp
 *   [AI Valley](https://aivalley.ai/): "The Newest AI Tools And Prompts"
 *   [AI Finder](https://ai-finder.net/): repository with more than 1500 AI tools
 *   [BestWebbs](https://bestwebbs.com/): "one-stop destination for all AI Tools"
@@ -142,6 +143,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Large Language Models
 
+*   [Advanced Guide to ChatGPT](https://aaditsh.notion.site/aaditsh/Advanced-Guide-to-ChatGPT-b8d5901b8bba44f580bb0c0835644567): guide by Neatprompts.com
 *   [Falcon LLM - Home](https://falconllm.tii.ae/): a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens shared by Technology Innovation Institute from Abu Dhabi
 *   \[🔥🔥🔥] [The Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): "the 🤗 Open LLM Leaderboard aims to track, rank and evaluate LLMs and chatbots as they are released"
 *   [google/BIG-bench (⭐2k)](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
@@ -215,6 +217,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### ChatGPT
 
+*   [Advanced Guide to ChatGPT](https://aaditsh.notion.site/aaditsh/Advanced-Guide-to-ChatGPT-b8d5901b8bba44f580bb0c0835644567): guide by Neatprompts.com
 *   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
 *   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 *   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
@@ -739,6 +742,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Music and Audio projects
 
+*   [Introducing Voicebox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech): The first generative AI model for speech to generalize across tasks with state-of-the-art performance
 *   [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Meta's tool for generating music
 *   [facebookresearch/audiocraft (⭐4.8k)](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
 *   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐8.7k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)

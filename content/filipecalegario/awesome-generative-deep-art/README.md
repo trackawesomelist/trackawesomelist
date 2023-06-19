@@ -6,6 +6,20 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jun 19, 2023](/content/2023/06/19/README.md)
+
+### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [AI Tool Master List](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207): directory maintained by ClickUp
+
+### Inbox: Large Language Models / ChatGPT
+
+*   [Advanced Guide to ChatGPT](https://aaditsh.notion.site/aaditsh/Advanced-Guide-to-ChatGPT-b8d5901b8bba44f580bb0c0835644567): guide by Neatprompts.com
+
+### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
+
+*   [Introducing Voicebox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech): The first generative AI model for speech to generalize across tasks with state-of-the-art performance
+
 ## [Jun 18, 2023](/content/2023/06/18/README.md)
 
 ### Discussions and Philosophy / Papers Collections
