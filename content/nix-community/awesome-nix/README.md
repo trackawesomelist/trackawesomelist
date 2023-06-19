@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jun 19, 2023](/content/2023/06/19/README.md)
+
+### Channel History / Discovery
+
+*   [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch.
+
+### Development / Discovery
+
+*   [nixd (⭐204)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
+
+### Overlays / Webinterface
+
+*   [chaotic-nyx (⭐32)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
+
 ## [Jun 18, 2023](/content/2023/06/18/README.md)
 
 ### Command-Line Tools / Discovery

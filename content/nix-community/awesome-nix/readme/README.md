@@ -81,6 +81,7 @@
 *   [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 *   [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
 *   [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.
+*   [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch.
 *   [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
 
 ## Deployment Tools
@@ -147,6 +148,7 @@
 *   [niv (⭐1.2k)](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
 *   [nix-direnv (⭐934)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 *   [nix-update (⭐214)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
+*   [nixd (⭐204)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
 *   [nixpkgs-review (⭐250)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 *   [pre-commit-hooks.nix (⭐327)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 *   [rnix-lsp (⭐617)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
@@ -257,6 +259,7 @@
 ## Overlays
 
 *   [awesome-nix-hpc (⭐45)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
+*   [chaotic-nyx (⭐32)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
 *   [nix-darwin (⭐1.6k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 *   [nixpkgs-firefox-darwin (⭐13)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 *   [nixpkgs-wayland (⭐344)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
