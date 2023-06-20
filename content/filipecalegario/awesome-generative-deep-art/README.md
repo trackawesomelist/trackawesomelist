@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jun 20, 2023](/content/2023/06/20/README.md)
+
+### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [Vondy - Next Generation AI Apps](https://www.vondy.com/): collection of AI tools organized by tasks
+
+### Discussions and Philosophy / Papers Collections
+
+*   [Embracing change and resetting expectations | Microsoft Unlocked](https://unlocked.microsoft.com/ai-anthology/terence-tao/): text by Terence Tao
+
 ## [Jun 19, 2023](/content/2023/06/19/README.md)
 
 ### Generative AI Tools Directories / Contribute to Our Repository
@@ -127,7 +137,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models / Contribute to Our Repository
 
-*   [togethercomputer/OpenChatKit (⭐8.5k)](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
+*   [togethercomputer/OpenChatKit (⭐8.6k)](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
 
 ### Inbox: Large Language Models / Autonomous LLM Agents
 
@@ -135,9 +145,9 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
-*   [timqian/openprompt.co (⭐932)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
+*   [timqian/openprompt.co (⭐951)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐78k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [f/awesome-chatgpt-prompts (⭐81k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
@@ -155,7 +165,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models / Autonomous LLM Agents
 
-*   [101dotxyz/GPTeam (⭐737)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
+*   [101dotxyz/GPTeam (⭐982)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 
 ### Inbox: Large Language Models / Text-related Generative Tools
 

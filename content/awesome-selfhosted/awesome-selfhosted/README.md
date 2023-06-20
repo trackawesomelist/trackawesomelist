@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jun 20, 2023](/content/2023/06/20/README.md)
+
+### Software / Money, Budgeting & Management
+
+*   [Bigcapital](https://bigcapital.ly) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐1.1k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
+
 ## [Jun 19, 2023](/content/2023/06/19/README.md)
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Web-based Clients

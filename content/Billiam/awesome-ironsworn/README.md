@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Jun 20, 2023](/content/2023/06/20/README.md)
+
+### Resources / Ironsworn
+
+*   [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
+
 ## [Jun 06, 2023](/content/2023/06/06/README.md)
 
 ### Hacks and homebrew / Ironsworn

@@ -20,6 +20,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Dovel](https://dovel.email) - SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails. ([Source Code](https://blmayer.dev/x/dovel)) `LGPL-3.0` `Go`
 
+### Software / Money, Budgeting & Management
+
+*   [Bigcapital](https://bigcapital.ly) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐1.1k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Software / Analytics
