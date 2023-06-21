@@ -522,6 +522,7 @@
 *   [Esports (⭐42)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 *   [Learn Gamedev (⭐2k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
 *   [GameMaker (⭐120)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+*   [Game Production (⭐12)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
 ## Development Environment
 
@@ -636,6 +637,8 @@
 *   [Malware Persistence (⭐100)](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
 *   [EVM Security (⭐104)](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
 *   [Password Cracking (⭐324)](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+*   [Security Card Games (⭐20)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
+*   [Suricata (⭐55)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 
 ## Content Management Systems
 
@@ -661,6 +664,7 @@
 *   [Robotic Tooling (⭐2.6k)](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 *   [LIDAR (⭐550)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 *   [Open Hardware (⭐221)](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
+*   [ADS-B (⭐16)](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 *   [Flying FPV (⭐39)](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
 
 ## Business
@@ -714,8 +718,9 @@
 *   [Substrate (⭐672)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 *   [Golem (⭐160)](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 *   [Stacks (⭐86)](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
-*   [Algorand (⭐131)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+*   [Algorand (⭐138)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 *   [ZeroNet (⭐26)](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+*   [Cosmos SDK (⭐383)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 
 ## Health and Social Science
 

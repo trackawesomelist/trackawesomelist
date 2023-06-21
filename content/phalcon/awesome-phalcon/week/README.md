@@ -2,27 +2,39 @@
 
 A curated list of awesome Phalcon libraries and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 601 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 604 · 🏷️ Back-End Development
 
 [ [Daily](/content/phalcon/awesome-phalcon/README.md) / Weekly / [Overview](/content/phalcon/awesome-phalcon/readme/README.md) ]
+
+## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
+
+### Conferences / Communities
+
+*   [MeWe](https://mewe.com/join-front/phalcon) - Phalcon on MeWe
+*   [Phalcon Russian Community Chat](https://app.gitter.im/#/room/#phalcon-rus_chat:gitter.im) - Russian Community Chat in Gitter.im
+*   [Telegram](https://t.me/phalcon_news) - Phalcon on Telegram
+
+### Books / Communities
+
+*   [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-version-en-ligne-9782409022753) - Phalcon : Develop complex and powerful web applications in PHP
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### CMS & Blogs
 
-*   [Element CMF (⭐19)](https://github.com/odvapro/element) - Admin panel for everything [Demo](https://element-demo.odva.pro/element/) (admin | adminpass)
+*   [Element CMF (⭐23)](https://github.com/odvapro/element) - Admin panel for everything [Demo](https://element-demo.odva.pro/element/) (admin | adminpass)
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Miscellaneous
 
-*   [Upgrade Adviser (⭐7)](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
+*   [Upgrade Adviser (⭐10)](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
 
 ## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
 
 ### Authentication & OAuth
 
-*   [Phalcon Auth (⭐6)](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers.
+*   [Phalcon Auth (⭐7)](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers.
 
 ## [Jan 04 - Jan 10, 2021](/content/2020/53/README.md)
 
@@ -30,46 +42,28 @@ A curated list of awesome Phalcon libraries and resources
 
 *   [Phalcon-autorouter (⭐28)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 
-### Magazines / Slides
-
-*   [German magazine - PHPMagazin n°1.21](https://kiosk.entwickler.de/php-magazin/php-magazin-1-2021/) - The Phalcon among the PHP frameworks
-
 ### Websites / Tutorials
 
 *   [Phalcon Documentation](https://docs.phalcon.io/4.0/en/introduction) - Phalcon Documentation
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
-### Conferences / Slides
-
-*   [Phalcon - Develop powerful web applications in PHP](https://les-enovateurs.com/talks/HumanTalks2020/#/) - Slides used to present Phalcon V4 during the Human Talks Lyon - 11 february 2020
-
-### Magazines / Slides
+### Magazines / Communities
 
 *   [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 *   [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new must-know PHP framework
-
-## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
-
-### Application Skeleton
-
-*   [Sakura Panel](https://github.com/yassinrais/sakura-panel) - A Phalcon Panel created to install plugins Without Editing the Panel Source Code (Auth, ACL, Lite Bootstrap Template, And more...).
 
 ## [Mar 23 - Mar 29, 2020](/content/2020/12/README.md)
 
 ### Application Skeleton
 
-*   [NovaMOOC (⭐19)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
-
-### Books / Slides
-
-*   [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-9782409022746) - Phalcon : Develop complex and powerful web applications in PHP
+*   [NovaMOOC (⭐21)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
 
 ## [Mar 16 - Mar 22, 2020](/content/2020/11/README.md)
 
 ### CMS & Blogs
 
-*   [Hummingbird CMS (⭐6)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
+*   [Hummingbird CMS (⭐7)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
@@ -87,7 +81,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### RESTful
 
-*   [REST API (⭐83)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐84)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ### Shop & Ecommerce
 
@@ -103,7 +97,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### CMS & Blogs
 
-*   [KikCMS (⭐53)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
+*   [KikCMS (⭐54)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
 
 ### ODM
 
@@ -113,7 +107,7 @@ A curated list of awesome Phalcon libraries and resources
 
 *   [Phalcon Forums](https://forum.phalcon.io/) - Phalcon Forums
 
-### Websites / Slides
+### Websites / Communities
 
 *   [Built With](https://builtwith.phalcon.io/) - Gallery of applications, demos and projects built with Phalcon Framework
 *   [Phalcon Blog](https://blog.phalcon.io/) - Phalcon Blog
@@ -132,11 +126,11 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Application Skeleton
 
-*   [Webird (⭐101)](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
+*   [Webird (⭐99)](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐370)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐368)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -158,7 +152,7 @@ A curated list of awesome Phalcon libraries and resources
 
 *   [Gab](https://gab.com/phalcon) - Phalcon on Gab
 
-### E-Books / Slides
+### E-Books / Communities
 
 *   [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
 
@@ -166,7 +160,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Debug
 
-*   [Phalcon BB Debugger (⭐6)](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install.
+*   [Phalcon BB Debugger (⭐5)](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install.
 
 ## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
 
@@ -176,7 +170,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
 
-### Websites / Slides
+### Websites / Communities
 
 *   [Phalconist (⭐28)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
@@ -184,20 +178,20 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Authentication & OAuth
 
-*   [Padlock (⭐22)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
+*   [Padlock (⭐24)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
 
 ## [Jul 16 - Jul 22, 2018](/content/2018/29/README.md)
 
 ### Application Skeleton
 
 *   [Album O'Rama (⭐84)](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
-*   [Base App (⭐63)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
-*   [INVO Application (⭐344)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
-*   [Vökuró (⭐369)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
+*   [Base App (⭐62)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+*   [INVO Application (⭐347)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
+*   [Vökuró (⭐370)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 
 ### CMS & Blogs
 
-*   [PhalconCMS (⭐151)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
+*   [PhalconCMS (⭐152)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 
 ### Command Line
 
@@ -205,11 +199,11 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Debug
 
-*   [Phalcon Debugbar (⭐162)](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
+*   [Phalcon Debugbar (⭐163)](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
 
 ### Miscellaneous
 
-*   [Incubator (⭐735)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+*   [Incubator (⭐731)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
 
 ### RESTful
 
@@ -233,7 +227,6 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Conferences / Communities
 
-*   [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) - Phalcon on Facebook
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow Tagged Questions
 *   [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
 
@@ -281,7 +274,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### i18n
 
-*   [xgettext-template (⭐80)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+*   [xgettext-template (⭐79)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
 ## [Nov 21 - Nov 27, 2016](/content/2016/47/README.md)
 
@@ -297,21 +290,11 @@ A curated list of awesome Phalcon libraries and resources
 
 ### ACL
 
-*   [PhalconUserPlugin (⭐186)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
+*   [PhalconUserPlugin (⭐185)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 ### CMS & Blogs
 
-*   [giada-www (⭐15)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
-
-### Websites / Tutorials
-
-*   [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
-
-## [Aug 22 - Aug 28, 2016](/content/2016/34/README.md)
-
-### Testing
-
-*   [packagecloud (⭐26)](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
+*   [giada-www (⭐13)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 
 ## [May 16 - May 22, 2016](/content/2016/20/README.md)
 
@@ -335,7 +318,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### ORM
 
-*   [phalcon-boundmodels (⭐3)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
+*   [phalcon-boundmodels (⭐4)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 
 ## [Oct 05 - Oct 11, 2015](/content/2015/40/README.md)
 
@@ -347,7 +330,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Application Skeleton
 
-*   [MVC (⭐805)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐809)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 
@@ -363,7 +346,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Talks
 
-*   [Phosphorum (⭐360)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
+*   [Phosphorum (⭐366)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 ## [Jun 08 - Jun 14, 2015](/content/2015/23/README.md)
 
@@ -371,12 +354,8 @@ A curated list of awesome Phalcon libraries and resources
 
 *   [Skopy Blog Engine (⭐9)](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
 
-### Conferences / Communities
-
-*   [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) - Russian Community Chat in Gitter.im
-
 ## [Jun 01 - Jun 07, 2015](/content/2015/22/README.md)
 
 ### Debug
 
-*   [Prophiler (⭐444)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
+*   [Prophiler (⭐442)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)

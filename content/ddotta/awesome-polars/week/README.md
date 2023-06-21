@@ -6,6 +6,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
+
+### Resources / Talks and videos
+
+*   [Polars - make the switch to lightning-fast dataframes](https://www.youtube.com/watch?v=CtkMzCIXOWk) ⏳ `30 min` - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai). Slides are available [here (⭐2)](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf).
+*   [Polars: A highly optimized dataframe library](https://www.youtube.com/watch?v=tAV-1hPHtsY) ⏳ `20 min` - A video that presents some mains features of Polars by [@mattharrison](https://github.com/mattharrison).
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Resources / Tutorials & workshops
@@ -78,7 +85,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Resources / Talks and videos
 
 *   [An opinionated introduction to Polars](https://www.dropbox.com/s/fphay3yav2b2rdq/2023_polars.pdf?dl=1) - Great Polars introduction slides from [@krlng](https://github.com/krlng) at PyCon 2023.
-*   [Polars - make the switch to lightning-fast dataframes (⭐2)](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf) - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai).
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 

@@ -8,13 +8,27 @@
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
+### Gaming
+
+*   [Game Production (⭐12)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+
 ### Learn
 
 *   [STEAM (⭐28)](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
 
+### Security
+
+*   [Security Card Games (⭐20)](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
+*   [Suricata (⭐55)](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
+
 ### Hardware
 
+*   [ADS-B (⭐16)](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 *   [Flying FPV (⭐39)](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+
+### Decentralized Systems
+
+*   [Cosmos SDK (⭐383)](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
@@ -278,7 +292,7 @@
 
 ### Decentralized Systems
 
-*   [Algorand (⭐131)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+*   [Algorand (⭐138)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
