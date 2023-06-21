@@ -2,9 +2,15 @@
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fcambus/nginx-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) · ⭐ 3.2K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fcambus/nginx-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) · ⭐ 3.3K · 🏷️ Back-End Development
 
 [ [Daily](/content/fcambus/nginx-resources/README.md) / Weekly / [Overview](/content/fcambus/nginx-resources/readme/README.md) ]
+
+## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
+
+### Configuration
+
+*   [Nginx common configuration - Universal config and snippets (⭐573)](https://github.com/tldr-devops/nginx-common-configuration)
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
@@ -17,7 +23,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 ### Configuration
 
 *   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-*   [Gixy - Nginx configuration static analyzer (⭐7.5k)](https://github.com/yandex/gixy)
+*   [Gixy - Nginx configuration static analyzer (⭐7.6k)](https://github.com/yandex/gixy)
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 
@@ -34,7 +40,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### Nginx + Lua
 
-*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐91)](https://github.com/fabiocicerchia/nginx-lua)
+*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐135)](https://github.com/fabiocicerchia/nginx-lua)
 
 ## [Jun 08 - Jun 14, 2020](/content/2020/23/README.md)
 
@@ -93,7 +99,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 *   [Adding OAuth Support to Nginx via Lua](https://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/)
 *   [Scripting libdrizzle with Lua inside Nginx](https://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf)
 *   [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
-*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐42)](https://github.com/pirogoeth/lsso)
+*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐43)](https://github.com/pirogoeth/lsso)
 *   [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
 
 ### OpenResty
@@ -192,7 +198,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### OpenResty
 
-*   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards (⭐5.8k)](https://github.com/alexazhou/VeryNginx)
+*   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards (⭐5.9k)](https://github.com/alexazhou/VeryNginx)
 
 ## [Dec 14 - Dec 20, 2015](/content/2015/50/README.md)
 
@@ -287,4 +293,4 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### OpenResty
 
-*   [Building an OpenResty events server (⭐65)](https://github.com/cagerton/dropthat/)
+*   [Building an OpenResty events server (⭐64)](https://github.com/cagerton/dropthat/)

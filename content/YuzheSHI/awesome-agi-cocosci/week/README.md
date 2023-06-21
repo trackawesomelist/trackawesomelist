@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
+
+### Science Logology / Democratization
+
+*   [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Science Logology / Democratization

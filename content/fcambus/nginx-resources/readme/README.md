@@ -2,7 +2,7 @@
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fcambus/nginx-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) · ⭐ 3.2K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/fcambus/nginx-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) · ⭐ 3.3K · 🏷️ Back-End Development
 
 [ [Daily](/content/fcambus/nginx-resources/README.md) / [Weekly](/content/fcambus/nginx-resources/week/README.md) / Overview ]
 
@@ -48,7 +48,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 *   [Nice nginx features for developers](https://alex.dzyoba.com/blog/nginx-features-for-developers/)
 *   [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 *   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-*   [Gixy - Nginx configuration static analyzer (⭐7.5k)](https://github.com/yandex/gixy)
+*   [Gixy - Nginx configuration static analyzer (⭐7.6k)](https://github.com/yandex/gixy)
+*   [Nginx common configuration - Universal config and snippets (⭐573)](https://github.com/tldr-devops/nginx-common-configuration)
 
 ## Tutorials
 
@@ -108,22 +109,22 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 *   [Nginx and Lua](https://web.archive.org/web/20141223070856/http://devblog.mixlr.com/2012/09/01/nginx-lua/)
 *   [Writing an Nginx authentication module in Lua](https://www.stavros.io/posts/writing-an-nginx-authentication-module-in-lua/)
 *   [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
-*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐42)](https://github.com/pirogoeth/lsso)
+*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐43)](https://github.com/pirogoeth/lsso)
 *   [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
-*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐91)](https://github.com/fabiocicerchia/nginx-lua)
+*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐135)](https://github.com/fabiocicerchia/nginx-lua)
 
 ## OpenResty
 
 *   [OpenResty - Fast web app server by extending Nginx](https://openresty.org/en/)
 *   [Lapis - A web framework for Lua or MoonScript powered by OpenResty](https://leafo.net/lapis/)
 *   [Nginx image processing server with OpenResty and Lua](https://leafo.net/posts/creating_an_image_server.html)
-*   [Building an OpenResty events server (⭐65)](https://github.com/cagerton/dropthat/)
+*   [Building an OpenResty events server (⭐64)](https://github.com/cagerton/dropthat/)
 *   [SysAdvent 2014 - OpenResty, Nginx and Lua](https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source (⭐9)](https://github.com/lusis/sysadvent-2014))
 *   [OpenResty (Nginx) with dynamically generated certificates](https://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 *   [Ceryx - A dynamic reverse proxy](https://ide.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 *   [An Introduction To OpenResty](https://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 *   [Programming OpenResty (written by the OpenResty creator)](https://openresty.gitbooks.io/programming-openresty/content/)
-*   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards (⭐5.8k)](https://github.com/alexazhou/VeryNginx)
+*   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards (⭐5.9k)](https://github.com/alexazhou/VeryNginx)
 
 ## Tengine
 

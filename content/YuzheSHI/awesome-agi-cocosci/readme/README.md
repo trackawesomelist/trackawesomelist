@@ -1379,6 +1379,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908\&hl=en\&as_sdt=0,10)].
 
+*   [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
+
 \*[Back to Top](#c)
 
 ### Theory of Mind

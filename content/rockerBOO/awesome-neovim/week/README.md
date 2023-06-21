@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
+### (requires Neovim 0.5)
+
+*   [chrisgrieser/nvim-dr-lsp (⭐3)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
+
 ### Git / Diagnostics
 
 *   [linrongbin16/gitlinker.nvim (⭐4)](https://github.com/linrongbin16/gitlinker.nvim) - Generate sharable file permalinks (with line ranges) for git host websites, a fork of [ruifm's gitlinker (⭐362)](https://github.com/ruifm/gitlinker.nvim), refactored with pattern based rule engine, windows support and other enhancements.

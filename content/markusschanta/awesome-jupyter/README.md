@@ -6,13 +6,23 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ Daily / [Weekly](/content/markusschanta/awesome-jupyter/week/README.md) / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Jun 21, 2023](/content/2023/06/21/README.md)
+
+### Hosted Notebook Solutions
+
+*   [Pinggy](https://pinggy.io) - Create a tunnel to your Jupyter instance even if it is behind a firewall or NAT.
+
+### Articles/Guides/Tutorials
+
+*   [Sharing Jupyter Notebooks from localhost](https://pinggy.io/blog/share_jupyter_notebook_from_localhost/) - Sharing Jupyter Notebooks from localhost.
+
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
 ### Tables
 
-*   [buckaroo (⭐11)](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
-*   [ipyaggrid (⭐25)](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
-*   [ipydatagrid (⭐386)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
+*   [buckaroo (⭐14)](https://github.com/paddymul/buckaroo) - GUI Data Wrangling tool for Jupyter and pandas.
+*   [ipyaggrid (⭐26)](https://github.com/widgetti/ipyaggrid) -  The power of ag-Grid in Jupyter.
+*   [ipydatagrid (⭐395)](https://github.com/bloomberg/ipydatagrid) - Fast datagrid widget for Jupyter.
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
@@ -25,7 +35,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Domain-Specific Projects
 
-*   [xontrib-jupyter (⭐14)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
+*   [xontrib-jupyter (⭐15)](https://github.com/xonsh/xontrib-jupyter) - Jupyter kernel for xonsh, a Python-powered, cross-platform, Unix-gazing shell language.
 
 ## [Mar 10, 2023](/content/2023/03/10/README.md)
 
@@ -49,7 +59,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Runtimes/Frontends
 
-*   [Panel (⭐2.8k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
+*   [Panel (⭐2.9k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 
 ## [Dec 24, 2022](/content/2022/12/24/README.md)
 
@@ -92,7 +102,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [jupyterlab-tensorboard-pro (⭐51)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
+*   [jupyterlab-tensorboard-pro (⭐55)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
 
 ## [Jul 17, 2022](/content/2022/07/17/README.md)
 
@@ -104,7 +114,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [ipyvizzu (⭐830)](https://github.com/vizzuhq/ipyvizzu) - Animated data storytelling tool.
+*   [ipyvizzu (⭐839)](https://github.com/vizzuhq/ipyvizzu) - Animated data storytelling tool.
 
 ## [Jun 27, 2022](/content/2022/06/27/README.md)
 
@@ -117,12 +127,12 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Rendering/Publishing/Conversion
 
-*   [Mercury (⭐2.8k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
+*   [Mercury (⭐3.2k)](https://github.com/mljar/mercury) - Convert notebooks into web applications.
 *   [nbconvert](https://nbconvert.readthedocs.io) - Convert notebooks to other formats.
 
 ### JupyterLab Extensions
 
-*   [lineapy (⭐592)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐601)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 
 ## [May 05, 2022](/content/2022/05/05/README.md)
 
@@ -136,18 +146,18 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [ipycytoscape (⭐230)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
-*   [ipydagred3 (⭐56)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.8k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
+*   [ipycytoscape (⭐232)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
+*   [ipydagred3 (⭐54)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.8k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
 *   [IPySigma (⭐16)](https://github.com/bsnacks000/IPySigma-Demo) - Prototype network visualization frontend for Jupyter notebooks.
 *   [ipyvolume (⭐1.9k)](https://github.com/maartenbreddels/ipyvolume) - 3D plotting for Python in Jupyter based on widgets and WebGL.
-*   [ipywebrtc (⭐224)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
+*   [ipywebrtc (⭐226)](https://github.com/maartenbreddels/ipywebrtc) - Video/Audio streaming in Jupyter. <!--lint disable double-link-->
 *   [ipywidgets (⭐2.8k)](https://github.com/jupyter-widgets/ipywidgets) - UI widgets for Jupyter.  <!--lint enable double-link-->
 *   [jupyter-manim (⭐187)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐52k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
 *   [tributary (⭐11)](https://github.com/timkpaine/tributary) - Python data streams with Jupyter support.
 
 ### Tables
 
-*   [ipysheet (⭐519)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
+*   [ipysheet (⭐520)](https://github.com/QuantStack/ipysheet/) - Interactive spreadsheets in Jupyter.
 
 ### Version Control
 
@@ -155,13 +165,13 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [jupyter-fs (⭐149)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
-*   [jupyter-notify (⭐570)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
-*   [jupyterlab-executor (⭐6)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
+*   [jupyter-fs (⭐151)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
+*   [jupyter-notify (⭐573)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
+*   [jupyterlab-executor (⭐7)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
 *   [jupyterlab-kyso (⭐1)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
 *   [jupyterlab-notifications (⭐47)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
-*   [jupyterlab\_iframe (⭐97)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
-*   [jupyterlab\_miami\_nights (⭐86)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
+*   [jupyterlab\_iframe (⭐98)](https://github.com/timkpaine/jupyterlab_iframe) - View HTML as an embedded iframe in JupyterLab.
+*   [jupyterlab\_miami\_nights (⭐88)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 
 ### Hosted Notebook Solutions
 
@@ -184,15 +194,15 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [Perspective (⭐6.3k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
+*   [Perspective (⭐6.4k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
 
 ### Tables
 
-*   [ipyregulartable (⭐87)](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
+*   [ipyregulartable (⭐88)](https://github.com/jpmorganchase/ipyregulartable) - High performance, editable, stylable datagrids in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
-*   [jupyterlab\_nbconvert\_nocode (⭐13)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
+*   [jupyterlab\_nbconvert\_nocode (⭐14)](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - NBConvert exporters for PDF/HTML export without code cells.
 
 ### JupyterLab Extensions
 
@@ -208,7 +218,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [stickyland (⭐322)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
+*   [stickyland (⭐324)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 
 ### Hosted Notebook Solutions
 
@@ -237,7 +247,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [ipychart (⭐76)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐77)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
@@ -248,7 +258,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [Evidently (⭐3.5k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐3.6k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [May 17, 2021](/content/2021/05/17/README.md)
 
@@ -288,7 +298,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Collaboration/Education
 
-*   [nbgitpuller (⭐179)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
+*   [nbgitpuller (⭐181)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
 
 ## [Jan 06, 2021](/content/2021/01/06/README.md)
 
@@ -324,7 +334,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Version Control
 
-*   [nbQA (⭐786)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
+*   [nbQA (⭐804)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 
 ## [Aug 31, 2020](/content/2020/08/31/README.md)
 
@@ -337,7 +347,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Rendering/Publishing/Conversion
 
-*   [nbdev (⭐4.3k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
+*   [nbdev (⭐4.4k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 
 ## [Aug 10, 2020](/content/2020/08/10/README.md)
 
@@ -355,7 +365,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_templates (⭐337)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
+*   [jupyterlab\_templates (⭐340)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 
 ## [Apr 26, 2020](/content/2020/04/26/README.md)
 
@@ -385,7 +395,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [debugger (⭐553)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
+*   [debugger (⭐554)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
 ## [Mar 24, 2020](/content/2020/03/24/README.md)
 
@@ -396,7 +406,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Articles/Guides/Tutorials
 
-*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐518)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
+*   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐517)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
 
 ## [Feb 26, 2020](/content/2020/02/26/README.md)
 
@@ -420,22 +430,22 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [lsp (⭐48)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
+*   [lsp (⭐51)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 
 ## [Oct 10, 2019](/content/2019/10/10/README.md)
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐707)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐349)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐32k)](https://github.com/psf/black).
+*   [code\_formatter (⭐715)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐350)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐33k)](https://github.com/psf/black).
 *   [python-bytecode (⭐59)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
 *   [quickopen (⭐76)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐219)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐392)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐284)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [sidecar (⭐220)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐393)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐290)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
 *   [theme-darcula (⭐180)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 *   [topbar (⭐5)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐944)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [vim (⭐945)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
 ## [Sep 28, 2019](/content/2019/09/28/README.md)
 
@@ -447,7 +457,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Runtimes/Frontends
 
-*   [ML Workspace (⭐3k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
+*   [ML Workspace (⭐3.1k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 
 ### Hosted Notebook Solutions
 
@@ -469,13 +479,13 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [jupyterlab\_email (⭐53)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
+*   [jupyterlab\_email (⭐52)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 
 ## [Apr 11, 2019](/content/2019/04/11/README.md)
 
 ### Visualization
 
-*   [ipytree (⭐114)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
+*   [ipytree (⭐115)](https://github.com/QuantStack/ipytree/) - Tree UI element for Jupyter.
 *   [xleaflet (⭐77)](https://github.com/QuantStack/xleaflet) - C++ Backend for ipyleaflet.
 *   [xwebrtc (⭐14)](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 *   [xwidgets (⭐131)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
@@ -484,7 +494,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Runtimes/Frontends
 
-*   [JupyterWith (⭐467)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
+*   [JupyterWith (⭐477)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 
 ## [Feb 14, 2019](/content/2019/02/14/README.md)
 
@@ -496,7 +506,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Collaboration/Education
 
-*   [IPythonBlocks (⭐155)](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyter.
+*   [IPythonBlocks (⭐154)](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyter.
 
 ## [Jan 14, 2019](/content/2019/01/14/README.md)
 
@@ -508,17 +518,17 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [go-to-definition (⭐217)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
+*   [go-to-definition (⭐218)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 
 ## [Sep 05, 2018](/content/2018/09/05/README.md)
 
 ### Visualization
 
-*   [itk-jupyter-widgets (⭐531)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
+*   [itk-jupyter-widgets (⭐535)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
 
 ### Testing
 
-*   [ipytest (⭐258)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
+*   [ipytest (⭐263)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
 
 ## [Sep 03, 2018](/content/2018/09/03/README.md)
 
@@ -538,24 +548,24 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [drawio (⭐568)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
-*   [latex (⭐551)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [variableinspector (⭐984)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
+*   [drawio (⭐570)](https://github.com/QuantStack/jupyterlab-drawio) - Extension that displays drawio/mxgraph diagrams.
+*   [latex (⭐552)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
+*   [variableinspector (⭐991)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 
 ## [Aug 29, 2018](/content/2018/08/29/README.md)
 
 ### JupyterLab Extensions
 
 *   [celltags (⭐112)](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
-*   [google-drive (⭐388)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
-*   [toc (⭐727)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
-*   [voyager (⭐289)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+*   [google-drive (⭐391)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+*   [toc (⭐728)](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+*   [voyager (⭐292)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## [Aug 12, 2018](/content/2018/08/12/README.md)
 
 ### Visualization
 
-*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐55k)](https://github.com/apache/incubator-echarts) visualization library.
+*   [pyecharts (⭐14k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐56k)](https://github.com/apache/incubator-echarts) visualization library.
 
 ## [Aug 11, 2018](/content/2018/08/11/README.md)
 
@@ -588,7 +598,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Collaboration/Education
 
-*   [callgraph (⭐65)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
+*   [callgraph (⭐66)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
 *   [jupyter-drive (⭐416)](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
 *   [LTI Launch JupyterHub Authenticator (⭐57)](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 *   [nbautoeval (⭐18)](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
@@ -597,10 +607,10 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [Altair (⭐8.3k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐4.1k)](https://github.com/vega/vega-lite).
+*   [Altair (⭐8.3k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐4.2k)](https://github.com/vega/vega-lite).
 *   [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 *   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
-*   [pythreejs (⭐870)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
+*   [pythreejs (⭐877)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 ### Tables
 
@@ -609,24 +619,24 @@ A curated list of awesome Jupyter projects, libraries and resources
 ### Rendering/Publishing/Conversion
 
 *   [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
-*   [Bookbook (⭐96)](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+*   [Bookbook (⭐97)](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
 *   [nbscan (⭐24)](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 *   [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
-*   [notedown (⭐843)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
-*   [Papermill (⭐5.2k)](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
-*   [pynb (⭐244)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
-*   [RISE (⭐3.5k)](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
+*   [notedown (⭐841)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
+*   [Papermill (⭐5.3k)](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
+*   [pynb (⭐245)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
+*   [RISE (⭐3.6k)](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
 
 ### Testing
 
-*   [nbval (⭐405)](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
+*   [nbval (⭐406)](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 *   [nosebook (⭐79)](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests.
 
 ### Domain-Specific Projects
 
 *   [GenePattern Notebook](http://genepattern-notebook.org) - Integrating Genomic Analysis with Interactive Notebooks.
 *   [GeoNotebook (⭐1.1k)](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
-*   [lolviz (⭐795)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
+*   [lolviz (⭐799)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 *   [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 *   [vpython-jupyter (⭐65)](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
 
@@ -653,7 +663,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 *   [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - Collection of notebooks covering scientific computing.
 *   [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
-*   [Interactive Web Plotting with Bokeh (⭐716)](https://github.com/bokeh/bokeh-notebooks)
+*   [Interactive Web Plotting with Bokeh (⭐718)](https://github.com/bokeh/bokeh-notebooks)
 *   [Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 *   [Jupyter Notebook Themes (⭐9.6k)](https://github.com/dunovank/jupyter-themes)
 *   [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)

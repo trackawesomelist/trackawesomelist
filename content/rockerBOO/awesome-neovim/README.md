@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jun 21, 2023](/content/2023/06/21/README.md)
+
+### (requires Neovim 0.5)
+
+*   [chrisgrieser/nvim-dr-lsp (⭐3)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
+
 ## [Jun 20, 2023](/content/2023/06/20/README.md)
 
 ### Formatting / Diagnostics

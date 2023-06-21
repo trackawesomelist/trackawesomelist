@@ -65,7 +65,8 @@ Contributions welcome! Read the [contribution guidelines (⭐228)](https://githu
 *   [Company-Coq (⭐331)](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
 *   [jsCoq (⭐0)](https://github.com/ejgallego/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
 *   [Jupyter kernel for Coq (⭐82)](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
-*   [VsCoq (⭐243)](https://github.com/coq-community/vscoq) - Extension for the Visual Studio Code and VSCodium editors.
+*   [VsCoq1 (⭐243)](https://github.com/coq-community/vscoq/tree/vscoq1) - Extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
+*   [VsCoq2 (⭐243)](https://github.com/coq-community/vscoq) - Experimental language server and extension for the Visual Studio Code and VSCodium editors.
 
 ### Libraries
 

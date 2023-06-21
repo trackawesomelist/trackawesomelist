@@ -158,6 +158,7 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [linrongbin16/lsp-progress.nvim (⭐37)](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
 *   [jinzhongjia/LspUI.nvim (⭐75)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
 *   [VidocqH/lsp-lens.nvim (⭐107)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
+*   [chrisgrieser/nvim-dr-lsp (⭐3)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
 
 ##### LSP Installer
 

@@ -6,6 +6,13 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 [ [Daily](/content/coq-community/awesome-coq/README.md) / Weekly / [Overview](/content/coq-community/awesome-coq/readme/README.md) ]
 
+## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
+
+### Projects / User Interfaces
+
+*   [VsCoq1 (⭐243)](https://github.com/coq-community/vscoq/tree/vscoq1) - Extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
+*   [VsCoq2 (⭐243)](https://github.com/coq-community/vscoq) - Experimental language server and extension for the Visual Studio Code and VSCodium editors.
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Projects / User Interfaces
@@ -97,10 +104,6 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 *   [Coq keyword on Zenodo](https://zenodo.org/search?q=keywords%3A%22Coq%22)
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
-
-### Projects / User Interfaces
-
-*   [VsCoq (⭐243)](https://github.com/coq-community/vscoq) - Extension for the Visual Studio Code and VSCodium editors.
 
 ### Projects / Tools
 
