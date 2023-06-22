@@ -8,6 +8,10 @@
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
+### Transpilers
+
+*   [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
+
 ### Notifications / Runner
 
 *   [toastify-js (⭐1.5k)](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.

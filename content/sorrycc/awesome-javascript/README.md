@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Jun 22, 2023](/content/2023/06/22/README.md)
+
+### Transpilers
+
+*   [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
+
 ## [Jun 21, 2023](/content/2023/06/21/README.md)
 
 ### Notifications / Runner

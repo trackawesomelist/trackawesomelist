@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Jun 22, 2023](/content/2023/06/22/README.md)
+
+### Gaming
+
+*   [Game Engine Development (⭐237)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+
 ## [Jun 21, 2023](/content/2023/06/21/README.md)
 
 ### Gaming
@@ -502,7 +508,7 @@
 
 ### Miscellaneous
 
-*   [Translations (⭐79)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐81)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [Mar 07, 2021](/content/2021/03/07/README.md)
 
@@ -683,7 +689,7 @@
     *   [Standard Style (⭐371)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐12k)](https://github.com/loverajoel/jstips#readme)
-    *   [Network Layer (⭐535)](https://github.com/Kikobeats/awesome-network-js#readme)
+    *   [Network Layer (⭐537)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.5k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
     *   [Maintenance Modules (⭐348)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.

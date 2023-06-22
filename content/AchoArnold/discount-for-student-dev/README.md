@@ -6,6 +6,84 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Jun 22, 2023](/content/2023/06/22/README.md)
+
+### IDE and Code Editing
+
+*   [Xamarin IDE](https://devblogs.microsoft.com/xamarin/xamarin-for-students/) \[FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
+*   [DeepScan](https://education.github.com/pack) \[FREE] - DeepScan is a platform for building better and more reliable JavaScript apps.Free 6-month trial while you are a student.
+*   [PopSQL](https://education.github.com/pack) \[FREE] - Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.Free Premium subscription for PopSQL while you're a student.
+*   [Kodika](https://education.github.com/pack) \[FREE] - Build iOS applications with drag & drop.Kodika Unlimited Pro subscription free for 6 months.
+*   [Polypane](https://education.github.com/pack) \[FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.Polypane free for 1 year.
+*   [Xojo](https://education.github.com/pack) \[FREE] - A cross-platform development tool for making native apps for the Desktop.Xojo Desktop license free while you are a student.
+*   [Yakindu](https://education.github.com/pack) \[FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
+
+### Version Control
+
+*   [AcessLint](https://education.github.com/pack) \[FREE] - AccessLint brings automated web accessibility testing into your development workflow\.Unlimited use for public and private repositories while you are a student.
+*   [Coveralls](https://education.github.com/pack) \[FREE] - We help you deliver code confidently by showing which parts of your code aren’t covered by your test suite.Free coverage for unlimited private repos on your personal account.
+*   [DeepSource](https://education.github.com/pack) \[FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities.Free Pro subscription for students.
+*   [Side](https://education.github.com/pack) \[FREE] - Maximize your engineering team's productivity by automatically analyzing every pull request.Sider Standard Plan free while you are a student.
+
+### Web Hosting
+
+*   [Education Host](https://education.github.com/pack) \[FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
+
+### Design and Photo Editing
+
+*   [Sketch](https://www.sketch.com/education/) \[FREE] - Get Sketch for free as a student or educator.
+
+### SaaS
+
+*   [Blockchair](https://education.github.com/pack) \[FREE] - Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.100,000 free requests.
+*   [Customerly](https://education.github.com/pack) \[FREE] - Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS.Customerly Pro free for 6 months.
+
+### Email
+
+*   [Mailgun](https://education.github.com/pack) \[FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months, available via [Github Student Developer Pack](https://education.github.com/pack).
+
+### CI / CD
+
+*   [StyleCI](https://blog.styleci.io/introducing-the-student-plan/) \[FREE / CREDIT] - Free Student Plan with access to StyleCI for up to five private repositories.
+
+### Management Systems
+
+*   [LingoHub](https://education.github.com/pack) \[FREE] - Translation management service for web, desktop and mobile apps.Free Professional Plan containing 10,000 text segments for students.
+*   [MongoDB](https://education.github.com/pack) \[FREE] - A general purpose, document-based, distributed database built for modern application developers and for the cloud era.$200 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification.
+
+### Localization
+
+*   [Crowdin](https://education.github.com/pack)\[FREE] - Crowdin is a cloud-based solution that streamlines localization management.Bronze plan for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
+*   [POEditor](https://education.github.com/pack) \[FREE] - POEditor is a highly scalable localization management platform for teams.Plus Plan for free for one year.
+
+### Programming Help
+
+*   [Covalence](https://education.github.com/pack)\[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
+*   [Jaamly](https://education.github.com/pack) \[FREE] - Helping developers, designers, and startups to launch their apps on the App Store.Jaamly Startup plan free for 6 months.
+
+### Security
+
+*   [LambdaTest](https://education.github.com/pack) \[FREE] - Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
+*   [SOFY](https://education.github.com/pack) \[FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
+
+### Visual Analytics
+
+*   [Scrapinghub](https://education.github.com/pack) \[FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+*   [Typeform](https://education.github.com/pack) \[FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
+*   [Baremetrics](https://education.github.com/pack) \[FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
+*   [CodeScene](https://education.github.com/pack) \[FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
+*   [DailyBot](https://education.github.com/pack) \[FREE] - Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.DailyBot Business plan free for 1 year.
+*   [Freshpaint](https://education.github.com/pack) \[FREE] - Integrate your marketing and analytics tools with one click.Free Freshpaint Growth Plan while you are a student.
+*   [Raygun](https://education.github.com/pack) \[FREE] - Error, crash and performance monitoring for web and mobile apps. Startup Platform plan, free for one year.
+
+### Game Development Tools
+
+*   [Unity3D](https://education.github.com/pack) \[FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
+
+### Infrastructure Monitoring
+
+*   [HoneyBadger](https://education.github.com/pack)\[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
+
 ## [Jun 18, 2023](/content/2023/06/18/README.md)
 
 ### Learning Resources
@@ -40,7 +118,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ### IDE and Code Editing
 
-*   [Xamarin IDE](https://xamarin.com/student) \[FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
 *   [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/community/) \[FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
 *   [MATLAB](https://in.mathworks.com/products/matlab/student.html) \[DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
 *   [Repl](https://replit.com/site/github-students) \[FREE] - An online IDE that lets you instantly code in over fifty languages.Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
@@ -147,18 +224,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [Qoddi](https://qoddi.com) \[CREDIT] - Qoddi offers $1000 per year for [every student](https://blog.qoddi.com/flashdrive-student-program/)
 
-## [Sep 02, 2021](/content/2021/09/02/README.md)
-
-### IDE and Code Editing
-
-*   [Tabnine](https://www.tabnine.com/students) \[FREE] - Tabnine is an AI code completion tool that works on any IDE and supports all programming languages. Tabnine Pro Edition free for 1 year.
-
-## [Jun 18, 2021](/content/2021/06/18/README.md)
-
-### PaaS
-
-*   [FlashDrive.io](https://flashdrive.io) - Deploy any code directly from Git with lot of supported languages out of the box and Docker support. $100 free credits for everyone + $1000 free credits per year with student program (ask [support@flashdrive.io](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/mailto:support@flashdrive.io))
-
 ## [May 07, 2021](/content/2021/05/07/README.md)
 
 ### Data science
@@ -226,13 +291,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
     *   WebStorm - JavaScript IDE
     *   RubyMine - Ruby IDE
 *   [Wisej](https://wisej.com/github-studentpack/) \[FREE] - Build powerful web applications in Visual Studio with C# or VB.NET.Free Wisej Developer license plus free updates for a year.
-*   [DeepScan](https://education.github.com/pack/redeem/deepscan) \[FREE] - DeepScan is a platform for building better and more reliable JavaScript apps.Free 6-month trial while you are a student.
-*   [PopSQL](https://education.github.com/pack/redeem/popsql) \[FREE] - Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.Free Premium subscription for PopSQL while you're a student.
 *   [SQLGate](https://www.sqlgate.com/student-pack) \[FREE] - Simple but powerful IDE for multiple SQL databases.Access to most Standard Subscription features for 1 year.
-*   [Kodika](https://education.github.com/pack/redeem/kodika) \[FREE] - Build iOS applications with drag & drop.Kodika Unlimited Pro subscription free for 6 months.
-*   [Polypane](https://education.github.com/pack/redeem/polypane) \[FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.Polypane free for 1 year.
-*   [Xojo](https://education.github.com/pack/redeem/xojo) \[FREE] - A cross-platform development tool for making native apps for the Desktop.Xojo Desktop license free while you are a student.
-*   [Yakindu](https://education.github.com/pack/redeem/yakindu) \[FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
 
 ### Version Control
 
@@ -242,23 +301,16 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 *   [Working Copy](https://workingcopy.app/education/) \[FREE] - Powerful Git client for iOS that clones, edits, commits, pushes.All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Github Desktop](https://desktop.github.com/) \[FREE] - Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
 *   [Better Code Hub](https://bettercodehub.com/github-student-developer-pack) \[FREE] -Better Code Hub provides a definition of done for code quality and actionable refactoring feedback for every push and pull request. A free upgrade to an Individual license to analyse your personal private repos.
-*   [AcessLint](https://education.github.com/pack/redeem/accesslint-student) \[FREE] - AccessLint brings automated web accessibility testing into your development workflow\.Unlimited use for public and private repositories while you are a student.
-*   [Coveralls](https://education.github.com/pack/redeem/coveralls-student) \[FREE] - We help you deliver code confidently by showing which parts of your code aren’t covered by your test suite.Free coverage for unlimited private repos on your personal account.
 *   [Datree](https://app.datree.io/github-student-pack) \[FREE] - Datree is a git-based rules engine for enforcing best development practices, coding standards, and security policies on every commit.Free Pro subscription while you are a student.
-*   [DeepSource](https://education.github.com/pack/redeem/deepsource) \[FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities.Free Pro subscription for students.
 *   [Imgbot](https://imgbot.net/github-students/) \[FREE] - Imgbot is a GitHub App that automatically optimizes your images.Free image optimization for all your public and private projects while you are a student.
 *   [Restyled](https://restyled.io/github-students) \[FREE] - With Restyled, automatically re-format Pull Requests to have consistent style.Run Restyled for free on private repositories while you're a student.
-*   [Side](https://education.github.com/pack/redeem/sider) \[FREE] - Maximize your engineering team's productivity by automatically analyzing every pull request.Sider Standard Plan free while you are a student.
 
 ### Web Hosting
 
-*   [SiteGround](https://www.siteground.com/students-plan.htm) \[DISCOUNT] - $1.99/month instead of $3.95/month on their [StartUp plan](https://www.siteground.com/shared-hosting-features.htm).
-*   [Education Host](https://education.github.com/pack/redeem/educationhost) \[FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Pageclip](https://pageclip.co/github-students) \[FREE] - A server for your static websites and HTML forms.Free basic plan while you are a student.
 
 ### Design and Photo Editing
 
-*   [Sketch](https://backend.bohemiancoding.com/store/edu/) \[DISCOUNT] - 50% off your copy of Sketch when you get an educational license.
 *   [Canva](https://www.canva.com) \[FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Icons8](https://icons8.com/github-students)\[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. Full 3-month all access subscription with icons, photos, illustrations, and music via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Figma](https://www.figma.com/education/) \[FREE] - Receive Professional Team features for free when verified as a student.
@@ -268,23 +320,18 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [Taskade - Team Productivity](https://www.taskade.com/) \[DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.
 *   [Netlicensing](https://netlicensing.io/github-students/) \[FREE] - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan free while you are a student at [GitHub Student Developer Pack](https://education.github.com/pack).
-*   [Blockchair](https://education.github.com/pack/redeem/blockchair-student) \[FREE] - Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.100,000 free requests.
-*   [Customerly](https://education.github.com/pack/redeem/customerly) \[FREE] - Live chat, behavioural funnels, newsletters, and in-app surveys for SaaS.Customerly Pro free for 6 months.
 
 ### PaaS
 
 *   [Google Cloud Platform](https://cloud.google.com) \[TEMPORARILY FREE] - Access Cloud Services and G-Suite either on a trial of 14 days or register for one year through educational license or by card details.
 *   [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications. Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
-*   [Kaltura](https://developer.kaltura.com/github-student-developer-pack) \[FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
 
 ### Email
 
-*   [Mailgun](https://education.github.com/pack/redeem/mailgun) \[FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months, available via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Testmail.app](https://testmail.app/github-students) \[FREE] - Get unlimited email addresses and mailboxes for automating email tests with our powerful APIs. Free Essential plan while you're a student.
 
 ### CI / CD
 
-*   [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) \[FREE / CREDIT] - Free Student Plan with access to StyleCI for up to five private repositories.
 *   [Semaphore](https://docs.semaphoreci.com/account-management/discounts/) \[FREE / DISCOUNT]- Free account for students and educators with a 25% discount for qualifying schools and institutions.
 
 ### Management Systems
@@ -292,20 +339,11 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 *   [PushBots](https://pushbots.com/for/education/) \[FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
 *   [EverSQL](https://www.eversql.com/github-students/) \[FREE] - Boost your database performance by automatically optimizing your SQL queries.Free 6-month subscription to the Basic plan
 *   [Weglot](https://weglot.com/github-students/) \[FREE] - Make any website multilingual and manage your translations through a single platform.Free 1-year Pro Plan giving you access to unlimited languages + up to 200k translated words.
-*   [LingoHub](https://education.github.com/pack/redeem/lingohub) \[FREE] - Translation management service for web, desktop and mobile apps.Free Professional Plan containing 10,000 text segments for students.
-*   [MongoDB](https://education.github.com/pack/redeem/mongodb) \[FREE] - A general purpose, document-based, distributed database built for modern application developers and for the cloud era.$200 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification.
-
-### Localization
-
-*   [Crowdin](https://education.github.com/pack/redeem/crowdin)\[FREE] - Crowdin is a cloud-based solution that streamlines localization management.Bronze plan for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
-*   [POEditor](https://education.github.com/pack/redeem/poeditor) \[FREE] - POEditor is a highly scalable localization management platform for teams.Plus Plan for free for one year.
 
 ### Programming Help
 
 *   [Evernote](https://evernote.com/students) \[DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
-*   [Covalence](https://education.github.com/pack/redeem/covalence)\[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Transloadit](https://transloadit.com/github-students/) \[FREE] - A versatile uploading & encoding API to automate any file conversion. The Startup plan for free, including 10GB of encoding credit.
-*   [Jaamly](https://education.github.com/pack/redeem/jaamly) \[FREE] - Helping developers, designers, and startups to launch their apps on the App Store.Jaamly Startup plan free for 6 months.
 
 ### Domain Name Registers
 
@@ -319,8 +357,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 *   [Termius](https://termius.com/education) \[FREE] - SSH client that works on desktop and mobile. Termius securely syncs data across all your devices. Free access to the Premium plan while you're a student.
 *   [Astra](https://www.getastra.com/github-student-developer-pack) \[FREE] - Security suite for your website - firewall, malware scanner & managed bug bounty platform.6 month access to website firewall & malware scanner.
 *   [BrowserStack](https://www.browserstack.com/github-students) \[FREE] - Test your web apps with BrowserStack's Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices.Free Automate Mobile Plan for 1 parallel and 1 user for 1 year.
-*   [LambdaTest](https://education.github.com/pack/redeem/lambdatest) \[FREE] - Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.Free LambdaTest Live Plan for one year.
-*   [SOFY](https://education.github.com/pack/redeem/sofy) \[FREE] - SOFY automates your software testing, uses machine learning to create tests, suggests test scenarios based on product changes, customer usage data and runs at scale.6 months of free website and mobile app testing.
 
 ### Software Modeling Tools
 
@@ -331,18 +367,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [Tableau Desktop](https://www.tableau.com/academic/students) \[FREE] - One Year Professional License for Students.
 *   [Appfigures](https://appfigures.com/landing/github-student) \[FREE] - App Store analytics, optimization, and intelligence. Free access to the Grow plan for 1 year.
-*   [Scrapinghub](https://education.github.com/pack/redeem/scrapinghub) \[FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-*   [Typeform](https://education.github.com/pack/redeem/typeform) \[FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
-*   [Baremetrics](https://education.github.com/pack/redeem/baremetrics-student) \[FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
-*   [CodeScene](https://education.github.com/pack/redeem/codescene-student) \[FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
 *   [Simple Analytics](https://simpleanalytics.com/students) \[FREE] - Privacy-friendly analytics with a simple interface and API.Starter plan free for one year, including 100k page views per month.
-*   [DailyBot](https://education.github.com/pack/redeem/dailybot) \[FREE] - Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.DailyBot Business plan free for 1 year.
-*   [Freshpaint](https://education.github.com/pack/redeem/freshpaint) \[FREE] - Integrate your marketing and analytics tools with one click.Free Freshpaint Growth Plan while you are a student.
-*   [Raygun](https://education.github.com/pack/redeem/raygun) \[FREE] - Error, crash and performance monitoring for web and mobile apps. Startup Platform plan, free for one year.
-
-### Game Development Tools
-
-*   [Unity3D](https://education.github.com/pack/redeem/unity) \[FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
 
 ### Password Managers
 
@@ -351,14 +376,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ### Infrastructure Monitoring
 
-*   [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)\[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Netwise](https://www.netwise.co.uk/students/) \[FREE] - Turnkey data centre services for the hosting of critical IT infrastructure systems.Free single unit server colocation package free for 12 months.
 
 ### Software Packs
 
 *   [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) \[FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
 *   [IBM Student Developer Community](https://developer.ibm.com/students/) \[FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
-*   [Figure Eight](https://www.figure-eight.com/) \[FREE] - CrowdFlower is now Figure Eight.Figure Eight is the essential Human-in-the-Loop AI platform for data science & machine learning teams.
 *   [Exploratory](https://exploratory.io/) \[FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
 ### Learning Resources
@@ -437,7 +460,3 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 ### Localization
 
 *   [Transifex](https://www.transifex.com) \[FREE / CREDIT]- A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
-
-### Programming Help
-
-*   [HackHands](https://hackhands.com/education/) \[CREDIT]- Live programming help available 24/7. $25 in platform credit to students via [Github Student Developer Pack](https://education.github.com/pack).

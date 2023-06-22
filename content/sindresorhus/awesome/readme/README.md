@@ -221,7 +221,7 @@
     *   [Standard Style (⭐371)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐12k)](https://github.com/loverajoel/jstips#readme)
-    *   [Network Layer (⭐535)](https://github.com/Kikobeats/awesome-network-js#readme)
+    *   [Network Layer (⭐537)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.5k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
     *   [Maintenance Modules (⭐348)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
@@ -521,6 +521,7 @@
 *   [Games of Coding (⭐1.7k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 *   [Esports (⭐42)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 *   [Learn Gamedev (⭐2k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+*   [Game Engine Development (⭐237)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 *   [GameMaker (⭐120)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 *   [Game Production (⭐12)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
@@ -868,7 +869,7 @@
 *   [Biological Visualizations (⭐128)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 *   [QR Code (⭐58)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 *   [Veganism (⭐54)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
-*   [Translations (⭐79)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐81)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 *   [Scriptable (⭐847)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 *   [WebXR (⭐129)](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 *   [Computational Geometry (⭐39)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
