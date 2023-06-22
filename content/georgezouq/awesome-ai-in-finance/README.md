@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Jun 22, 2023](/content/2023/06/22/README.md)
+
+### LLMs
+
+*   [FinGPT (⭐5.5k)](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for all people interested in LLMs and NLP in Finance.
+
 ## [Jun 19, 2023](/content/2023/06/19/README.md)
 
 ### LLMs

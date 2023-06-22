@@ -10,7 +10,7 @@
 
 ### Free Courses
 
-*   \[<https://www.scaler.com/topics/course/python-for-data-science/>] - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
+*   [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
 
 ### MOOC's
 
