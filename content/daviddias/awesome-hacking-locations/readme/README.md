@@ -2,7 +2,7 @@
 
 :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 980 · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 1K · 🏷️ Security
 
 [ [Daily](/content/daviddias/awesome-hacking-locations/README.md) / [Weekly](/content/daviddias/awesome-hacking-locations/week/README.md) / Overview ]
 
@@ -10,7 +10,7 @@
 
 # Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐238k)](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐258k)](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 
@@ -39,6 +39,7 @@
     *   [Tallinn](#tallinn)
 *   [France 🇫🇷](#france-)
     *   [Paris](#paris)
+    *   [Lille](#lille)
 *   [Germany 🇩🇪](#germany-)
     *   [Berlin](#berlin)
     *   [Dresden](#dresden)
@@ -476,6 +477,18 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 | Wifi | Power | Address                                                                            | Open Hours                |
 | ---- | ----- | ---------------------------------------------------------------------------------- | ------------------------- |
 | ✔    | ✔     | [10 place du Panthéon (Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM |
+
+## Lille
+
+#### Café Citoyen
+
+Community-owned (see their website for details of their organisation organisation) and encouraging of event hosting and other activities. Café with great food and many speciality beers.
+
+Webpage: <https://cafecitoyen.org/>
+
+| Wifi | Power | Climatization                                                                           | Address                                                                     | Open Hours |
+| ---- | ----- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------- |
+| ✔    | ?     | [7 Pl. du Vieux Marché aux Chevaux, 59000 Lille](https://goo.gl/maps/DC4ge4iJMVLaS7vt7) | Mon-Tues 11:02 AM-10:01 PM, Wed-Fri 11:00 AM-11:58PM, Sat 14:00 PM-11:58 PM |            |
 
 ***
 
@@ -1334,7 +1347,7 @@ Webpage: <http://www.jimmymonkey.com/>
 
 # Slovenia 🇸🇮
 
-See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐93)](https://github.com/otobrglez/awesome-workplaces-slovenia)
+See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
 ***
 
@@ -1374,6 +1387,26 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ## Barcelona
 
+#### Federal Café
+
+> Café with great natural lightning and delicious food
+
+Webpage: <http://federalcafe.es/barcelona-gotic/>
+
+| Wifi | Power | Address                                                   | Open Hours |
+| ---- | ----- | --------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |            |
+
+#### Frenesi Cafe
+
+> Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
+
+Webpage: <http://frenesicafe.com>
+
+| Wifi | Power | Address                                                           | Open Hours                                 |
+| ---- | ----- | ----------------------------------------------------------------- | ------------------------------------------ |
+| ✔    | ✔     | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz) | Mon: Closed, Tue-Thu: 9-19, Fri-Sun: 10-17 |
+
 #### Ideal
 
 > Cozy coffee shop which also serves natural juices and tasty food. Has a nice terrace on the back.
@@ -1398,25 +1431,25 @@ Webpage: <http://espaijoliu.tumblr.com/>
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
-#### Frenesi Cafe
+#### Morrow Coffee
 
-> Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
+> Coffee shop with a multicultural vibe. Good music and great people.
 
-Webpage: <http://frenesicafe.com>
+Webpage: <https://morrowcoffee.com/>
 
-| Wifi | Power | Address                                                           | Open Hours                                 |
-| ---- | ----- | ----------------------------------------------------------------- | ------------------------------------------ |
-| ✔    | ✔     | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz) | Mon: Closed, Tue-Thu: 9-19, Fri-Sun: 10-17 |
+| Wifi | Power | Address                                                                                                             | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelonaa](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |            |
 
-#### Federal Café
+#### ÖSS Kaffe Barcelona
 
-> Café with great natural lightning and delicious food
+> Friendly place to work and drink Coffee in El Raval. The staff is great.
 
-Webpage: <http://federalcafe.es/barcelona-gotic/>
+Webpage: <https://www.instagram.com/osskaffe.es/>
 
-| Wifi | Power | Address                                                   | Open Hours |
-| ---- | ----- | --------------------------------------------------------- | ---------- |
-| ✔    | ✔     | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |            |
+| Wifi | Power | Address                                                                                    | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------------ | ---------- |
+| ✔    | ✔     | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |            |
 
 #### 52 Moments
 

@@ -6,6 +6,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jun 26, 2023](/content/2023/06/26/README.md)
+
+### Sensors / Barometer
+
+*   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor.
+
 ## [Jun 14, 2023](/content/2023/06/14/README.md)
 
 ### Display / LED Segment

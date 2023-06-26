@@ -6,6 +6,56 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Jun 26, 2023](/content/2023/06/26/README.md)
+
+### Content Generation & Seo
+
+- Name: [Backlink GPT](https://www.backlinkgpt.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Generate Quality Backlinks With AI.
+
+  Description: Boost your website's SEO and improve your online visibility.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Gift Ideas
+
+- Name: [Gift Ideas AI](https://www.giftideasai.xyz?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: GiftIdeasAI
+
+  Description: Discover ideal gifts swiftly! Our platform offers personalized solutions based on loved ones' interests.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Sales & Marketing
+
+- Name: [Ctrl](https://getctrl.co/)
+
+  Title: A modern UI for your complex CRM workflows
+
+  Description: simplify your sales workflows and tasks by automating CRM updates, generating tailored follow-ups, and facilitating deal execution
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Search Engines
+
+- Name: [Broker One AI Engine](https://mybrokerone.com)
+
+  Title: Broker One AI Engine is an AI-powered tool that simplifies real estate. It provides accurate property valuations and property search with customizable filters. It is a must-have for real estate brokers, investors, and homeowners.
+
+  Description: Broker One AI Engine is a state-of-the-art, AI-powered tool designed specifically for the complex world of real estate. This innovative platform combines the power of artificial intelligence with a vast and comprehensive dataset of properties to provide accurate property valuations and enable efficient property browsing. Broker One AI Engine stands out with its sophisticated property search functionality. Users can peruse through a vast database of properties, fine-tuning their search with an array of customizable filters such as property type, size, location, price range, and more. This feature enables users to pinpoint properties that align perfectly with their requirements, facilitating swift and effective decision-making. The platform goes beyond simple property browsing, harnessing advanced machine learning algorithms to provide precise property valuations. The AI takes into account a multitude of factors such as property age, location, size, and local amenities to compute an estimated property value, providing users with the critical insights needed to make informed decisions. Broker One AI Engine is the ultimate tool for real estate brokers, investors, and homeowners alike. It simplifies the complex landscape of real estate, delivering accurate valuations and streamlined property search capabilities at your fingertips. Elevate your real estate ventures with the power of AI through the Broker One AI Engine.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Jun 20, 2023](/content/2023/06/20/README.md)
 
 ### Art & Image Generator

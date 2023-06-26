@@ -653,6 +653,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-bmp180](https://gitlab.com/flowolf/micropython-bmp180) - A module for MicroPython which provides a class for the BMP180 pressure sensor.
 *   [BMP390 (⭐2)](https://github.com/octaprog7/BMP390) - MicroPython module for BMP390 pressure & temperature sensor.
 *   [BMP180 (⭐3)](https://github.com/octaprog7/BMP180) - MicroPython module for BMP180 pressure & temperature sensor.
+*   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor.
 
 #### Battery
 

@@ -2,9 +2,44 @@
 
 :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 980 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/daviddias/awesome-hacking-locations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 daviddias/awesome-hacking-locations](https://github.com/daviddias/awesome-hacking-locations) · ⭐ 1K · 🏷️ Security
 
 [ Daily / [Weekly](/content/daviddias/awesome-hacking-locations/week/README.md) / [Overview](/content/daviddias/awesome-hacking-locations/readme/README.md) ]
+
+## [Jun 26, 2023](/content/2023/06/26/README.md)
+
+### Germany 🇩🇪 / Berlin
+
+#### Café Citoyen
+
+Community-owned (see their website for details of their organisation organisation) and encouraging of event hosting and other activities. Café with great food and many speciality beers.
+
+Webpage: <https://cafecitoyen.org/>
+
+| Wifi | Power | Climatization                                                                           | Address                                                                     | Open Hours |
+| ---- | ----- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------- |
+| ✔    | ?     | [7 Pl. du Vieux Marché aux Chevaux, 59000 Lille](https://goo.gl/maps/DC4ge4iJMVLaS7vt7) | Mon-Tues 11:02 AM-10:01 PM, Wed-Fri 11:00 AM-11:58PM, Sat 14:00 PM-11:58 PM |            |
+
+### Spain 🇪🇸 / Barcelona
+
+#### Morrow Coffee
+
+> Coffee shop with a multicultural vibe. Good music and great people.
+
+Webpage: <https://morrowcoffee.com/>
+
+| Wifi | Power | Address                                                                                                             | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelonaa](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |            |
+#### ÖSS Kaffe Barcelona
+
+> Friendly place to work and drink Coffee in El Raval. The staff is great.
+
+Webpage: <https://www.instagram.com/osskaffe.es/>
+
+| Wifi | Power | Address                                                                                    | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------------ | ---------- |
+| ✔    | ✔     | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |            |
 
 ## [Aug 09, 2022](/content/2022/08/09/README.md)
 
@@ -66,7 +101,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 ### Austria 🇦🇹 / Vienna
 
-> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐238k)](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐258k)](https://github.com/sindresorhus/awesome) thing.
 
 This is a community curated list, please submit your PR with the spots you know and love for hacking!
 
@@ -154,7 +189,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 ## [Oct 22, 2019](/content/2019/10/22/README.md)
 
-### United States 🇺🇸 / South Carolina   <a id="south-carolina-">  </a>
+### United States 🇺🇸 / South Carolina <a id="south-carolina-"></a>
 
 #### Peace Coffee
 
@@ -203,7 +238,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ## [Jun 17, 2019](/content/2019/06/17/README.md)
 
-### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
+### United States 🇺🇸 / Seattle, WA <a id="seattle-wa"></a>
 
 #### Zeitgeist
 
@@ -217,7 +252,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ## [Jan 29, 2019](/content/2019/01/29/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Backyard Brew
 
@@ -303,7 +338,7 @@ Webpage: <http://ilovenicolau.com>
 
 Wifi pw: `ilovenicolau`
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Shot in the Dark Cafe
 
@@ -313,7 +348,7 @@ Wifi pw: `ilovenicolau`
 | ---- | ----- | ------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) | 24/7       |
 
-### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
+### United States 🇺🇸 / Seattle, WA <a id="seattle-wa"></a>
 
 #### Fix Coffeehouse
 
@@ -325,7 +360,7 @@ Wifi pw: `ilovenicolau`
 
 ## [Sep 27, 2018](/content/2018/09/27/README.md)
 
-### United States 🇺🇸 / Washington   <a id="washington">  </a>
+### United States 🇺🇸 / Washington <a id="washington"></a>
 
 #### Ironclad Coffee
 
@@ -381,7 +416,7 @@ Webpage: <http://ogniwo.org/>
 
 ## [Jun 14, 2018](/content/2018/06/14/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Vinaka Cafe
 
@@ -444,7 +479,7 @@ Webpage: <https://cafepascal.se>
 | ---- | ----- | ------------------------------------------ | ---------- |
 | ✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19       |
 
-### United States 🇺🇸 / New York   <a id="new-york">  </a>
+### United States 🇺🇸 / New York <a id="new-york"></a>
 
 #### Amazon AWS Loft
 
@@ -523,7 +558,7 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ## [Apr 02, 2018](/content/2018/04/02/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### The Bun Shop
 
@@ -648,11 +683,11 @@ Webpage: <http://www.jimmymonkey.com/>
 | ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------- |
 | ✔    | ✔     | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM |
 
-See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐93)](https://github.com/otobrglez/awesome-workplaces-slovenia)
+See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐95)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
 ## [Nov 15, 2017](/content/2017/11/15/README.md)
 
-### United States 🇺🇸 / New York   <a id="new-york">  </a>
+### United States 🇺🇸 / New York <a id="new-york"></a>
 
 #### Houndstooth Coffee
 
@@ -678,7 +713,7 @@ Webpage: <http://4sq.com/XuO7me>
 
 ## [Nov 01, 2017](/content/2017/11/01/README.md)
 
-### United States 🇺🇸 / New York   <a id="new-york">  </a>
+### United States 🇺🇸 / New York <a id="new-york"></a>
 
 #### Ground Support Cafe
 
@@ -739,7 +774,7 @@ Webpage: <http://the-refinery.cafes-city.com/>
 | ---- | ----- | ------ | --------------------------------------------------------------------------------- | ------------------------------------------------ |
 | (✔)  | ✔     | ✔      | [413 Santa Monica Blvd, Santa Monica, CA 90401](https://goo.gl/maps/uBJQacVNWd62) | Mon-Fri 7:30-18:00, Sat 8:00-18:00, Sun *closed* |
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### Diesel Cafe
 
@@ -963,7 +998,7 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 
 ## [Apr 06, 2017](/content/2017/04/06/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Arbor Cafe
 
@@ -983,7 +1018,7 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 
 ## [Apr 01, 2017](/content/2017/04/01/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### The Cow's End Cafe
 
@@ -1368,7 +1403,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ## [Aug 04, 2016](/content/2016/08/04/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### Pavement Coffeehouse
 
@@ -1517,7 +1552,7 @@ Webpage: <https://activspaces.com>
 | ---- | ----- | ------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00 |
 
-### Canada 🇨🇦 / Montréal   <a id="montreal">  </a>
+### Canada 🇨🇦 / Montréal <a id="montreal"></a>
 
 #### Mulberry Street Coffeehouse
 
@@ -1601,7 +1636,7 @@ Webpage: <https://istanbulhs.org>
 | ---- | ----- | -------------------------------------------------------------------------------------------- | ---------- |
 | ✔    | ✔     | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |            |
 
-### United States 🇺🇸 / Arizona   <a id="arizona">  </a>
+### United States 🇺🇸 / Arizona <a id="arizona"></a>
 
 #### BrewLab
 
@@ -1617,7 +1652,7 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ## [May 28, 2016](/content/2016/05/28/README.md)
 
-### Germany 🇩🇪 / Berlin
+### France 🇫🇷 / Lille
 
 #### Bibliothèque Sainte-Geneviève
 
@@ -1631,7 +1666,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ## [May 12, 2016](/content/2016/05/12/README.md)
 
-### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
+### United States 🇺🇸 / Seattle, WA <a id="seattle-wa"></a>
 
 #### Bellevue Public Library
 
@@ -1657,7 +1692,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ## [May 11, 2016](/content/2016/05/11/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### Bloc 11
 
@@ -1669,7 +1704,7 @@ Webpage: <http://blocsomerville.com/>
 | ------ | ----- | ------ | ----------------------------------------------------------------------- | ------------------- |
 | paying | ✔     | ✔      | [11 bow st. union sq, Somerville, MA](https://goo.gl/maps/eytUQsvC6sB2) | Mon-Sun 07:00-20:00 |
 
-### United States 🇺🇸 / Minnesota   <a id="minnesota">  </a>
+### United States 🇺🇸 / Minnesota <a id="minnesota"></a>
 
 #### Forge Baking Company
 
@@ -1683,7 +1718,7 @@ Webpage: <http://www.forgebakingco.com/>
 
 ## [May 10, 2016](/content/2016/05/10/README.md)
 
-### United States 🇺🇸 / Virginia   <a id="virginia">  </a>
+### United States 🇺🇸 / Virginia <a id="virginia"></a>
 
 #### Pushcart Coffee Chelsea
 
@@ -1697,7 +1732,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 ## [Mar 07, 2016](/content/2016/03/07/README.md)
 
-### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
+### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
 #### District Hall
 
@@ -1729,7 +1764,7 @@ Webpage: <http://www.tosci.com/>
 
 ## [Feb 05, 2016](/content/2016/02/05/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### HanaHaus
 
@@ -1743,7 +1778,7 @@ Webpage: <http://hanahaus.com/>
 
 ## [Jan 17, 2016](/content/2016/01/17/README.md)
 
-### United States 🇺🇸 / California   <a id="california">  </a>
+### United States 🇺🇸 / California <a id="california"></a>
 
 #### Red Rock Coffee
 
@@ -1869,7 +1904,7 @@ Webpage: <http://dolcecasacafe.com/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92) | Mon-Fri 7:00-16:00, Sat-Sun 8:00-15:00 |
 
-### United States 🇺🇸 / Maryland   <a id="maryland">  </a>
+### United States 🇺🇸 / Maryland <a id="maryland"></a>
 
 #### The Perfect Cup
 
