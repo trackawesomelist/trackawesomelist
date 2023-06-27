@@ -1044,6 +1044,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [open-pr (⭐63)](https://github.com/caarlos0/zsh-open-pr) - A ZSH plugin to open pull requests from command line.
 *   [openshift-origin (⭐0)](https://github.com/ryanswart/openshift-origin-zsh-plugin) - Add a few shortcuts to common openshift origin (oc) actions.
 *   [opera-git-plugin (⭐0)](https://github.com/aswitalski/oh-my-zsh-opera-git-plugin) - `git` aliases.
+*   [opera-gx (⭐0)](https://github.com/troykelly/oh-my-zsh-opera-gx) - Enables starting Opera GX with a specific user profile by using the `opgx` command followed by the profile's name. The plugin also implements autocompletion for profile names.
 *   [operator (⭐5)](https://github.com/nivv/operator-theme) - Clean and simple theme, works best with [Menlo for Powerline (⭐768)](https://github.com/abertsch/Menlo-for-Powerline).
 *   [opp (⭐235)](https://github.com/hchbaw/opp.zsh) - Vim's text-objects-ish for ZSH.
 *   [opt-path (⭐11)](https://github.com/jreese/zsh-opt-path) - Automatically add `~/opt` subpaths to your `$PATH`.
@@ -1341,8 +1342,8 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [zcolors (⭐62)](https://github.com/marlonrichert/zcolors) - Uses your `$LS_COLORS` to generate a coherent theme for Git and your Zsh prompt, completions and [ZSH syntax highlighting (⭐17k)](https://github.com/zsh-users/zsh-syntax-highlighting).
 *   [zconvey (⭐1)](https://github.com/zdharma-continuum/zconvey) - Adds ability to send commands to other ZSH sessions, you can use this to `cd $PWD` on all active ZSH sessions, for example.
 *   [zed (⭐6)](https://github.com/eendroroy/zed-zsh) - A simple wrapper for [z (⭐15k)](https://github.com/rupa/z) to install it via a ZSH plugin.
-*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐12k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐29k)](https://github.com/tmux/tmux).
-*   [zellij (tranzystorek-io) (⭐6)](https://github.com/tranzystorek-io/zellij-zsh) - Provides an environment that autostarts [zellij (⭐12k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
+*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐13k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐29k)](https://github.com/tmux/tmux).
+*   [zellij (tranzystorek-io) (⭐6)](https://github.com/tranzystorek-io/zellij-zsh) - Provides an environment that autostarts [zellij (⭐13k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 *   [zeno (⭐125)](https://github.com/yuki-yano/zeno.zsh) - Fuzzy completion and utility plugin powered by [Deno](https://deno.land/).
 *   [zenplash (⭐2)](https://github.com/Chivier/zenplash) - Creates files from templates stored in a user directory.
 *   [zero (⭐16)](https://github.com/arlimus/zero.zsh) - Zero is both a plugin and a theme. See the github page for installation details. Includes `git` and `hg` status decorators.
@@ -2090,6 +2091,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [modesty (⭐0)](https://github.com/saravanabalagi/zsh-theme-modesty) - A clean and modest ZSH theme with `condaenv`, `virtualenv` and `git` status decorations displayed neatly right aligned. Requires [condaenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-condaenv) plugin.
 *   [molokai-powerline (⭐10)](https://github.com/prikhi/molokai-powerline-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874).
 *   [momoyo (⭐2)](https://github.com/momoyo-droid/momoyo-zsh-theme) - Reminiscent of powerline. Includes decorations for `git` status, username, and working directory.
+*   [monsi (⭐0)](https://github.com/rafa-wine/monsi_oh-my-zsh_theme) - Includes `git` status, last command exit status and current directory decorators.
 *   [moonline (⭐16)](https://github.com/kagamilove0707/moonline.zsh) - Minimal but easily extensible prompt.
 *   [msys2 (⭐0)](https://github.com/water-logger/MSYS2-Theme/) - Inspired by MSYS2. Includes decorators for user\@host, `git` status and the current directory.
 *   [moux (⭐0)](https://github.com/gagbo/moux) - Works well with a dark terminal background, includes `git` decorations in `RPROMPT`.

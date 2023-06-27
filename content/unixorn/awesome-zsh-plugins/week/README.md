@@ -6,6 +6,16 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [opera-gx (⭐0)](https://github.com/troykelly/oh-my-zsh-opera-gx) - Enables starting Opera GX with a specific user profile by using the `opgx` command followed by the profile's name. The plugin also implements autocompletion for profile names.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [monsi (⭐0)](https://github.com/rafa-wine/monsi_oh-my-zsh_theme) - Includes `git` status, last command exit status and current directory decorators.
+
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
@@ -813,7 +823,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [vterm (⭐0)](https://github.com/randomphrase/vterm-zsh-plugin) - Lets you run `emacs` commands directly from [vterm (⭐80)](https://github.com/vterm/vterm) shell sessions.
 *   [yapipenv (⭐0)](https://github.com/AnonGuy/yapipenv.zsh) - Automatically activate a directory's `pip` environment if `pipenv` detects the presence of one.
 *   [yup (⭐0)](https://github.com/redxtech/zsh-yup) - Adds helper function to upgrade all the dependencies in a `yarn`/`npm` project.
-*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐12k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐29k)](https://github.com/tmux/tmux).
+*   [zellij (jaeheonji) (⭐6)](https://github.com/jaeheonji/zsh-zellij-plugin) - Provides an environment that uses [zellij (⭐13k)](https://github.com/zellij-org/zellij). Requires [tmux (⭐29k)](https://github.com/tmux/tmux).
 *   [zgen-compinit-tweak (⭐3)](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make `compinit` run only once after all loading is done by [zgen (⭐1.4k)](https://github.com/tarjoilija/zgen).
 *   [zsh-in-docker (⭐660)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
 *   [zsh-not-vim (⭐4)](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
@@ -1935,7 +1945,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [zcolors (⭐62)](https://github.com/marlonrichert/zcolors) - Uses your `$LS_COLORS` to generate a coherent theme for Git and your Zsh prompt, completions and [ZSH syntax highlighting (⭐17k)](https://github.com/zsh-users/zsh-syntax-highlighting).
 *   [zconvey (⭐1)](https://github.com/zdharma-continuum/zconvey) - Adds ability to send commands to other ZSH sessions, you can use this to `cd $PWD` on all active ZSH sessions, for example.
 *   [zed (⭐6)](https://github.com/eendroroy/zed-zsh) - A simple wrapper for [z (⭐15k)](https://github.com/rupa/z) to install it via a ZSH plugin.
-*   [zellij (tranzystorek-io) (⭐6)](https://github.com/tranzystorek-io/zellij-zsh) - Provides an environment that autostarts [zellij (⭐12k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
+*   [zellij (tranzystorek-io) (⭐6)](https://github.com/tranzystorek-io/zellij-zsh) - Provides an environment that autostarts [zellij (⭐13k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 *   [zeno (⭐125)](https://github.com/yuki-yano/zeno.zsh) - Fuzzy completion and utility plugin powered by [Deno](https://deno.land/).
 *   [zflai (⭐3)](https://github.com/zdharma-continuum/zflai) - A fast logging framework for ZSH.
 *   [zfzf (⭐18)](https://github.com/b0o/zfzf) - A fzf-powered file picker for ZSH which allows you to quickly navigate the directory hierarchy.

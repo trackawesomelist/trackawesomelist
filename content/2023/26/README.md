@@ -1,12 +1,70 @@
 # Awesome List Updates on Jun 26 - Jul 02, 2023
 
-16 awesome lists updated this week.
+21 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [1. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+
+### Misc / MIT
+
+*   [adage (⭐2)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
+
+## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Custom Communication Systems
+
+*   [Dendrite](https://matrix-org.github.io/dendrite/) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4.6k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
+*   [Synapse](https://matrix-org.github.io/synapse/latest/) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐11k)](https://github.com/matrix-org/synapse)) `Apache-2.0` `Python`
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [Kubek](https://kubek.seeroycloud.tk) - Web management panel for Minecraft servers. ([Source Code (⭐27)](https://github.com/seeroy/kubek-minecraft-dashboard)) `MIT` `Nodejs`
+*   [Lodestone (⭐468)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
+*   [SourceBans++](https://sbpp.github.io/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐300)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
+
+### Software / Miscellaneous
+
+*   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐15)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
+
+### External Links / Wikis
+
+*   Communities/forums: [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosed Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [/c/selfhosted on lemmy.ml](https://lemmy.ml/c/selfhost), [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
+
+## [4. Magictools](/content/ellisonleao/magictools/week/README.md)
+
+### Graphics / Vector/Image Editor
+
+*   :tada: [CR8tracer](http://cr8.netfirms.com/tracer.html) - Convert bitmap images into monochrome vector formats.
+*   :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
+*   :money\_with\_wings: [Vector mMgic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
+*   :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
+
+### Graphics / Voxel Editors
+
+*   :free: [Vengi](https://mgerhardy.github.io/vengi/)
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [opera-gx (⭐0)](https://github.com/troykelly/oh-my-zsh-opera-gx) - Enables starting Opera GX with a specific user profile by using the `opgx` command followed by the profile's name. The plugin also implements autocompletion for profile names.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+
+*   [monsi (⭐0)](https://github.com/rafa-wine/monsi_oh-my-zsh_theme) - Includes `git` status, last command exit status and current directory decorators.
+
+## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -31,7 +89,8 @@
 *   [Robby-Chatbot (⭐373)](https://github.com/yvann-hub/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
 *   [AI Chatbot (⭐1.7k)](https://github.com/vercel-labs/ai-chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)
 *   [Instrukt (⭐97)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
-*   [OpenChat](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
+*   [OpenChat (⭐3.8k)](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
+*   [Twitter Agent (⭐5)](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal
 
 ### Alternatives / Articles
 
@@ -40,13 +99,13 @@
 *   [FlagAI (⭐3.2k)](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
 *   [AI.JSX (⭐185)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
 *   [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***Cerebral Cortex***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081\&hl=en\&as_sdt=0,5)]. Visual and haptic shape perception fMRI experiments suggesting that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
 
-## [3. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Berlin
 
@@ -81,49 +140,53 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 | ---- | ----- | ------------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |            |
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [idsp](https://crates.io/crates/idsp): integer DSP algorithms (trigonometry, filtering, PLL...) tuned for precision and speed - ![crates.io](https://img.shields.io/crates/v/idsp.svg)
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [Speedb (⭐383)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
 *   [ellie/atuin (⭐10k)](https://github.com/ellie/atuin) \[[atuin](https://crates.io/crates/atuin)] — Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+### Libraries / Artificial Intelligence
+
+*   [coreylowman/dfdx (⭐1.1k)](https://github.com/coreylowman/dfdx) — CUDA accelearted machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
+
+## [12. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Barometer
 
 *   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor.
 
-## [8. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [13. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Audio / SpriteKit
 
 *   [Rhythm Snap (⭐0)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
 *   [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor providing view, edit, annotate, protect, convert, Copilot assistant, and more possibilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
 
-## [10. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Transition
 
 *   [TBIconTransitionKit (⭐1.3k)](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - Easy to use icon transition kit that allows to smoothly change from one shape to another.
 
-## [11. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [16. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Content Generation & Seo
 
@@ -173,23 +236,24 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   [The economic potential of generative AI: The next productivity frontier](https://www.linkedin.com/posts/genai-works_gen-ai-activity-7074980736268726272-LiiG): report by McKinsey Jun 2023
 
-## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [18. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms
 
 *   [GeoComment](https://www.viewprogis.com/geocomment) - Allows the City staff, citizens and stakeholders of governance to interact digitally and offer meaningful inputs into the decision-making processes at all stages of project development through a map enabled platform.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### DNS
 
 *   [Zonomi](https://zonomi.com/) — Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name) with up to 10 DNS records.
+*   [Dual.my](https://dual.my/) — Free dynamic/static DNS hosting service offering 5 domains and 10 records each, complete with API support.
 
 ### Storage and Media Processing
 
@@ -203,13 +267,13 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   [3Dassets.one](https://3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
 
-## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [20. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Elegy](https://miraclem.itch.io/elegy) - Solo role playing game about being a vampire and surviving the big city nights
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 

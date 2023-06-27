@@ -11,6 +11,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### DNS
 
 *   [Zonomi](https://zonomi.com/) — Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name) with up to 10 DNS records.
+*   [Dual.my](https://dual.my/) — Free dynamic/static DNS hosting service offering 5 domains and 10 records each, complete with API support.
 
 ### Storage and Media Processing
 

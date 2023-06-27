@@ -6,6 +6,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ [Daily](/content/ohenley/awesome-ada/README.md) / Weekly / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
+
+### Misc / MIT
+
+*   [adage (⭐2)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
+
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / MIT

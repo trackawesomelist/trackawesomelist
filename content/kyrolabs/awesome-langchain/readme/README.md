@@ -40,7 +40,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## LangChain Framework
 
-*   [LangChain (⭐47k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
+*   [LangChain (⭐51k)](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 *   [LangChain.js (⭐5.9k)](https://github.com/hwchase17/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)
 *   [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 *   [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
@@ -135,12 +135,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Other / Chatbots
 
 *   [AudioGPT (⭐8.7k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
-*   [Paper QA (⭐2.6k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
+*   [Paper QA (⭐2.7k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 *   [Chat Langchain (⭐2.7k)](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
 *   [Langchain Chat (⭐764)](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat. ![GitHub Repo stars](https://img.shields.io/github/stars/zahidkhawaja/langchain-chat-nextjs?style=social)
 *   [Book GPT (⭐365)](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
 *   [Chat LangchainJS (⭐252)](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)
-*   [Doc Search (⭐562)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
+*   [Doc Search (⭐576)](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
 *   [Fact Checker (⭐180)](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)
 *   [MM ReAct (⭐700)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
 *   [QABot (⭐169)](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
@@ -175,7 +175,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Robby-Chatbot (⭐373)](https://github.com/yvann-hub/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
 *   [AI Chatbot (⭐1.7k)](https://github.com/vercel-labs/ai-chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)
 *   [Instrukt (⭐97)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
-*   [OpenChat](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
+*   [OpenChat (⭐3.8k)](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
+*   [Twitter Agent (⭐5)](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal
 
 ## Learn
 

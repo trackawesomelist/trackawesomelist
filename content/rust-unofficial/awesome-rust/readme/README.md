@@ -158,7 +158,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [wasmer (⭐16k)](https://github.com/wasmerio/wasmer) — A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
 *   [Weld (⭐266)](https://github.com/serayuzgur/weld) — Full fake REST API generator
 *   [wezterm (⭐9.2k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
-*   [zellij (⭐12k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
+*   [zellij (⭐13k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
 
 ### Audio and Music
 
@@ -350,7 +350,7 @@ See also [A comparison of operating systems written in Rust (⭐537)](https://gi
 ### Routing protocols
 
 *   [Holo (⭐52)](https://github.com/rwestphal/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
-*   [RustyBGP (⭐385)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
+*   [RustyBGP (⭐388)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
 
 ### Security tools
 
@@ -493,7 +493,7 @@ See also [A comparison of operating systems written in Rust (⭐537)](https://gi
 *   [dertuxmalwieder/yaydl (⭐231)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 *   [harlanc/xiu (⭐760)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 *   [vidmerger (⭐70)](https://github.com/TGotwig/vidmerger) — 📼 Merge video & audio files via CLI
-*   [xiph/rav1e (⭐3.2k)](https://github.com/xiph/rav1e) — The fastest and safest AV1 encoder.
+*   [xiph/rav1e (⭐3.3k)](https://github.com/xiph/rav1e) — The fastest and safest AV1 encoder.
 
 ### Virtualization
 
@@ -799,6 +799,7 @@ See \[[Machine learning](https://crates.io/keywords/machine-learning)]
 See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f) and [Are we learning yet?](https://www.arewelearningyet.com).
 
 *   [autumnai/leaf (⭐5.5k)](https://github.com/autumnai/leaf) — Open Machine Intelligence framework.. Abandoned project. The most updated fork is [spearow/juice (⭐1k)](https://github.com/spearow/juice).
+*   [coreylowman/dfdx (⭐1.1k)](https://github.com/coreylowman/dfdx) — CUDA accelearted machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
 *   [huggingface/tokenizers (⭐7.2k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 *   [LaurentMazare/tch-rs (⭐3k)](https://github.com/LaurentMazare/tch-rs) — Rust language bindings for PyTorch.
 *   [maciejkula/rustlearn (⭐584)](https://github.com/maciejkula/rustlearn) — Machine learning crate for Rust. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
@@ -1136,7 +1137,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   SQL \[[sql](https://crates.io/keywords/sql)]
     *   Generic
         *   [launchbadge/sqlx (⭐9.1k)](https://github.com/launchbadge/sqlx) - async PostgreSQL/MySQL/SQLite connection pool with strong typing support [![build badge](https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square)](https://github.com/launchbadge/sqlx)
-        *   [SeaQL/sea-query (⭐770)](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
+        *   [SeaQL/sea-query (⭐776)](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
         *   [SeaQL/sea-schema (⭐123)](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery [![crate](https://img.shields.io/crates/v/sea-schema.svg)](https://crates.io/crates/sea-schema) [![docs](https://img.shields.io/docsrs/sea-schema/latest)](https://docs.rs/sea-schema) [![build status](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml)
     *   Microsoft SQL
         *   [prisma/tiberius (⭐222)](https://github.com/prisma/tiberius) — [![Cargo tests](https://github.com/prisma/tiberius/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/prisma/tiberius/actions/workflows/test.yml)

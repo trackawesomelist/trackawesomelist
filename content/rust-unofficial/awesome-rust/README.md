@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jun 27, 2023](/content/2023/06/27/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [coreylowman/dfdx (⭐1.1k)](https://github.com/coreylowman/dfdx) — CUDA accelearted machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
+
 ## [Jun 26, 2023](/content/2023/06/26/README.md)
 
 ### Applications / System tools
@@ -87,7 +93,7 @@ A curated list of Rust code and resources.
 ### Applications / Routing protocols
 
 *   [Holo (⭐52)](https://github.com/rwestphal/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks
-*   [RustyBGP (⭐385)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
+*   [RustyBGP (⭐388)](https://github.com/osrg/rustybgp) - BGP implemented in the Rust Programming Language
 
 ## [Jun 11, 2023](/content/2023/06/11/README.md)
 
@@ -1178,7 +1184,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [zellij (⭐12k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
+*   [zellij (⭐13k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
 
 ## [Jan 10, 2022](/content/2022/01/10/README.md)
 
@@ -2395,7 +2401,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Video
 
-*   [xiph/rav1e (⭐3.2k)](https://github.com/xiph/rav1e) — The fastest and safest AV1 encoder.
+*   [xiph/rav1e (⭐3.3k)](https://github.com/xiph/rav1e) — The fastest and safest AV1 encoder.
 
 ### Applications / Virtualization
 
@@ -2536,7 +2542,7 @@ A curated list of Rust code and resources.
 *   SQL \[[sql](https://crates.io/keywords/sql)]
     *   Generic
         *   [launchbadge/sqlx (⭐9.1k)](https://github.com/launchbadge/sqlx) - async PostgreSQL/MySQL/SQLite connection pool with strong typing support [![build badge](https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square)](https://github.com/launchbadge/sqlx)
-        *   [SeaQL/sea-query (⭐770)](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
+        *   [SeaQL/sea-query (⭐776)](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
         *   [SeaQL/sea-schema (⭐123)](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery [![crate](https://img.shields.io/crates/v/sea-schema.svg)](https://crates.io/crates/sea-schema) [![docs](https://img.shields.io/docsrs/sea-schema/latest)](https://docs.rs/sea-schema) [![build status](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml)
     *   Microsoft SQL
         *   [prisma/tiberius (⭐222)](https://github.com/prisma/tiberius) — [![Cargo tests](https://github.com/prisma/tiberius/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/prisma/tiberius/actions/workflows/test.yml)
