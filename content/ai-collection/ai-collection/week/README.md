@@ -8,13 +8,37 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
+### Accounting & Finance
+
+- Name: [FlowCog](https://flowcog.com/?via=aicollection?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: SaaS Financial Projections Quick & Easy ⚡.
+
+  Description: Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Content Generation & Seo
 
 - Name: [Backlink GPT](https://www.backlinkgpt.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Generate Quality Backlinks With AI.
 
-  Description: Boost your website's SEO and improve your online visibility.
+  Description: Boost your website's SEO and improve your online visibility. BacklinkGPT.com utilizes advanced AI technology to create highly effective outreach messages, helping you acquire more backlinks and improve your website's performance.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Ecommerce
+
+- Name: [manifest](https://getmanifest.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Re-Imagining eCommerce With Artificial Intelligence.
+
+  Description: Get your own AI Shopping Assistant live within 1 minute. Transform your store with AI-Powered personalization & boost your sales.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -22,11 +46,23 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Gift Ideas
 
-- Name: [Gift Ideas AI](https://www.giftideasai.xyz?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+- Name: [Gift Ideas AI](https://www.giftideasai.xyz/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: GiftIdeasAI
+  Title: Find the Perfect Gift in No Time!.
 
-  Description: Discover ideal gifts swiftly! Our platform offers personalized solutions based on loved ones' interests.
+  Description: Discover ideal gifts swiftly! Our platform offers personalized solutions based on loved ones interests.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Human Resources & Resume
+
+- Name: [SidekicAI](https://sidekic.zimfy.co/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: A Helping Hand to End Your Job Hunt Faster. A Job Application Assistant to Help You Apply for Jobs Faster.
+
+  Description: Meet SidekicAI. A Chrome Extension assistant that helps you apply for jobs at triple the speed with AI powered cover letter generation. SidekicAI helps you generate cover letters faster during your job hunt. Input your existing cover letter and a few skills and generate an AI modified cover letter for each job you're applying to.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -34,11 +70,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Sales & Marketing
 
-- Name: [Ctrl](https://getctrl.co/)
+- Name: [Ctrl](https://getctrl.co/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: A modern UI for your complex CRM workflows
+  Title: A Modern UI for Your Complex CRM Workflows.
 
-  Description: simplify your sales workflows and tasks by automating CRM updates, generating tailored follow-ups, and facilitating deal execution
+  Description: simplify your sales workflows and tasks by automating CRM updates, generating tailored follow-ups, and facilitating deal execution.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -46,11 +82,23 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Search Engines
 
-- Name: [Broker One AI Engine](https://mybrokerone.com)
+- Name: [Broker One AI Engine](https://mybrokerone.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Broker One AI Engine is an AI-powered tool that simplifies real estate. It provides accurate property valuations and property search with customizable filters. It is a must-have for real estate brokers, investors, and homeowners.
+  Title: Broker One AI Engine Is an AI-powered Tool That Simplifies Real Estate.
 
-  Description: Broker One AI Engine is a state-of-the-art, AI-powered tool designed specifically for the complex world of real estate. This innovative platform combines the power of artificial intelligence with a vast and comprehensive dataset of properties to provide accurate property valuations and enable efficient property browsing. Broker One AI Engine stands out with its sophisticated property search functionality. Users can peruse through a vast database of properties, fine-tuning their search with an array of customizable filters such as property type, size, location, price range, and more. This feature enables users to pinpoint properties that align perfectly with their requirements, facilitating swift and effective decision-making. The platform goes beyond simple property browsing, harnessing advanced machine learning algorithms to provide precise property valuations. The AI takes into account a multitude of factors such as property age, location, size, and local amenities to compute an estimated property value, providing users with the critical insights needed to make informed decisions. Broker One AI Engine is the ultimate tool for real estate brokers, investors, and homeowners alike. It simplifies the complex landscape of real estate, delivering accurate valuations and streamlined property search capabilities at your fingertips. Elevate your real estate ventures with the power of AI through the Broker One AI Engine.
+  Description: Broker One AI Engine is a state-of-the-art, AI-powered tool designed specifically for the complex world of real estate. This innovative platform combines the power of artificial intelligence with a vast and comprehensive dataset of properties to provide accurate property valuations and enable efficient property browsing. Broker One AI Engine stands out with its sophisticated property search functionality.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Writing Assistant
+
+- Name: [FireTexts](https://www.firetexts.co/)
+
+  Title: Never Waste Time Thinking of the Perfect Text Again.
+
+  Description: Unleash the power of AI and create the perfect text message for a birthday, thank you, flirting, rejection or any other situation. We use ChatGPT and custom inputs to craft the perfect text for any occasion.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -163,15 +211,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Accounting & Finance
-
-- Name: [FlowCog](https://flowcog.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: SaaS Financial Projections Quick & Easy ⚡.
-
-  Description: Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors.
-
-  Offer Free Version: :white\_check\_mark:
-
 
 - Name: [Jinnee](http://jinnee.co?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
@@ -463,11 +502,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Artbreeder](http://www.artbreeder.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Artbreeder.
+  Title: Craft AI Art Like Never Before.
 
-  Description: .
+  Description: artbreeder collager - Make a simple collage from shapes and images, describe it with a prompt, and watch as Artbreeder brings it to life. breed portraits and more - Splicer lets you create images by mixing them together and editing their genes. Create portraits, landscapes, paintings, and more — then watch as others take your art in exciting new directions.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Artshop](http://artshops.xyz?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -549,15 +588,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Create inspiring visual content in a collaboration with our AI enabled tools.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Deep Nostalgia](http://www.myheritage.ro?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Arbore Genealogic Gratuit, Genealogie Şi Istoric De Familie - Myheritage.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Designify](http://www.designify.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -1138,11 +1168,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Vizcom AI](http://www.vizcom.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Vizcom Ai: The AI Creative Design Tool.
+  Title: The Next Generation of Product Visualization.
 
-  Description: See your drawings and ideas come to life in seconds, not hours.
+  Description: Vizcom's powerful combination of hand sketching and AI processing tools enables designers to create and render faster than ever before.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Zazow](http://www.zazow.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -1922,15 +1952,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Embolden](http://embolden.co?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Use AI to Power Your Ecommerce Writing.
-
-  Description: Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Enwrite](http://enwrite.co?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: The AI Tool That Aims to Help Writers Save Time - Not Replace Them.
@@ -2053,15 +2074,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Typli.Ai - AI Writer & Seo Writing Assistant.
 
   Description: The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Wizishop](http://wizishop.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Grow Your Business With Seo-Powered Ecommerce.
-
-  Description: WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2239,6 +2251,45 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: ChatGPT for Customer Service.
 
   Description: Use GPT-4 to engage with leads, answer questions about your business, record customer data and connect any API of your choice.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Ecommerce
+
+- Name: [DoMyShoot](https://domyshoot.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: DoMyShoot - Product Photography Simplified.
+
+  Description: With DoMyShoot, you can instantly upgrade your eCommerce business with professional-looking product photos. Easily use the app's innovative features to create custom content for your brand - no experience required! Guide yourself through a photoshoot using just your smartphone and let our AI technology handle the rest of the process, turning everyday products into photo realistic images that are sure to take marketing strategies up a notch.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Embolden](http://embolden.co?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Use AI to Power Your Ecommerce Writing.
+
+  Description: Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Octie.ai](http://octie.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Octie.Ai - Your A.I. Ecommerce Marketing Assistant.
+
+  Description: Write emails, product descriptions, and more, with A.I. Created by Octane AI.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Wizishop](http://wizishop.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Grow Your Business With Seo-Powered Ecommerce.
+
+  Description: WiziShop makes SEO-powered ecommerce easier than ever before, bringing success within reach. Artificial Intelligence at the service of your ecommerce business!.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -2430,9 +2481,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Generate Fakemon Using AI.
 
-  Description: .
+  Description: Craft your Fakemon like never before, using simple text prompts to guide the design. Want a fiery, dragon-like creature or a cute, grassy critter? You've got the power! Dive in, explore, and create your dream Fakemon today!.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [AI Story Generator](https://www.aistorygenerator.org?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -2586,9 +2637,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: AI-Powered, Unique & Curated Assets for Your Games.
 
-  Description: .
+  Description: Unleash the power of AI in your game design and development. Get bespoke game assets in a multitude of styles to inspire and help you in building your next game!.
 
-  Offer Free Version: :x:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Chess AI](http://betafish.gavinong.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -2715,9 +2766,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Cool Gift Ideas - AI-Powered Gift Suggestions.
 
-  Description: .
+  Description: Give the perfect gift! Discover creative gift ideas for anyone based on who they are.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Elf Help](http://www.elfhelp.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -2774,6 +2825,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [Gifts Genie](http://gen.gifts?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Genie - AI Gifts Generator.
+
+  Description: Welcome to Genie! Our AI-powered app helps you find unique and thoughtful gifts for your loved ones. Just provide us with a few details about their interests, and we’ll suggest the perfect gift 🎁.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 - Name: [Kindred Tales](https://kindredtales.net/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Online Platform That Helps People Capture and Preserve Their Life Stories in a Beautiful Hardcover Book.
@@ -2781,6 +2841,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: For anyone who wants to create a memoir but doesn't know where to start or has difficulty writing. With the help of AI, users can easily answer questions about their life, and we'll turn it into a professionally designed book that they can cherish for generations to come.
 
   Offer Free Version: :x:
+
+
+- Name: [Outdone V2](http://www.outdone.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Find the Perfect Gift in Minutes or Less.
+
+  Description: Built to take The stress out. Of gift shopping. Backed by real consumer data and our thorough review process, Outdone brings hundreds of the worlds best brands to shoppers fingertips in a quick, easy-to-use tool for finding great gifts.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Text2present](http://text2present.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -2886,6 +2955,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter.
 
   Offer Free Version: :x:
+
+
+- Name: [Prodigy AI](http://ai.prodi.gg?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Using AI to Improve the Careers of Software Engineers.
+
+  Description: We're on a mission to use the latest AI to build tools that help software engineers build better careers. Our AI tools are 100% free.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [ResumAI](http://www.wonsulting.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3270,9 +3348,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Online AI Image Enhancer That Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More.
 
-  Description: .
+  Description: Use deep learning algorithm to improve and restore photo quality automatically and effortlessly. Get A Better Photo Quality with the Power of AI. Upscale the image resolution from low to high, and enhance its quality by denoising, sharpening, face retouching, colorizing, color calibration, and more.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :x:
 
 
 - Name: [Blend](https://www.blendnow.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3304,20 +3382,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Colorize](http://colorize.cc?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Colorize Photo Online.
+  Title: Colorize Photo With Power of Deep Learning.
 
-  Description: .
+  Description: Colorize photo online Colorize.cc - is AI service which colorize black and white photo and video. In few clicks you can touch the magic of machine learning technologies. Colorize hundreds of your family photos in few minutes.
 
-  Offer Free Version: :grey\_question:
-
-
-- Name: [DoMyShoot](https://domyshoot.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: DoMyShoot - Product Photography Simplified.
-
-  Description: With DoMyShoot, you can instantly upgrade your eCommerce business with professional-looking product photos. Easily use the app's innovative features to create custom content for your brand - no experience required! Guide yourself through a photoshoot using just your smartphone and let our AI technology handle the rest of the process, turning everyday products into photo realistic images that are sure to take marketing strategies up a notch.
-
-  Offer Free Version: :white\_check\_mark:
+  Offer Free Version: :x:
 
 
 - Name: [ExtendImage](http://www.extendimage.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3578,6 +3647,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Cogram](http://www.cogram.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Double Your Productivity With an Intelligent Coworker for Your Team.
+
+  Description: Cogram uses AI to take notes in virtual meetings, track action items, and automate downstream tasks, while keeping your data private and secure.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Dewey](http://www.withdewey.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Do More With Dewey. Get Reminders and Stay Motivated With Text Messages From Dewey, Your AI Accountability Buddy.
@@ -3633,6 +3711,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Explainpaper](http://www.explainpaper.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: The Fastest Way to Read Research Papers.
+
+  Description: Upload a paper, highlight confusing text, get an explanation. We make research papers easy to read.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [RTutor](http://rtutor.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3790,15 +3877,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: The Future of Marketing Is Here.
 
   Description: Human-like all-in-one AI marketing assistant that creates landing pages, promo videos, ads, marketing copy, graphics, emails, voiceovers, blog posts, art & more.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Octie.ai](http://octie.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Octie.Ai - Your A.I. Ecommerce Marketing Assistant.
-
-  Description: Write emails, product descriptions, and more, with A.I. Created by Octane AI.
 
   Offer Free Version: :grey\_question:
 
@@ -4228,15 +4306,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Excel & Google Sheets AI Formula Generator - Excelformulabot.Com.
 
   Description: Transform your text instructions into Excel & Google Sheets formulas in seconds with the help of AI.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Explainpaper](http://www.explainpaper.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Explainpaper.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -5783,15 +5852,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Cogram](http://www.cogram.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Cogram - Effortless Meeting Notes and Action Items.
-
-  Description: Cogram uses artificial intelligence to create high-quality meeting minutes and propose action items.
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Colossyan](http://www.colossyan.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Colossyan Creator.
@@ -6049,15 +6109,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Genius Sheets Financial Automation.
 
   Description: Genius Sheets AI Text To Reports solutions help you analyze financial data faster - empowering teams to make better decisions. Stay in Excel and Google Sheets and automate your financial reporting process with live data connections.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Gifts Genie](http://gen.gifts?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Genie - AI Gifts Generator.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -6548,15 +6599,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Outdone V2](http://www.outdone.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Outdone.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Patience](http://patience.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Patience - AI Art With Stable Diffusion.
@@ -6751,15 +6793,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Prettysmart.
 
   Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Prodigy AI](http://ai.prodi.gg?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Prodigy AI Coach.
-
-  Description: Are you an engineer wondering about your next gig? Tell HAL what you're looking for and get personalized career advice sent directly to your inbox.
 
   Offer Free Version: :grey\_question:
 

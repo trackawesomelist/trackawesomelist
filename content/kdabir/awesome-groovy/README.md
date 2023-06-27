@@ -2,9 +2,19 @@
 
 A curated list of awesome groovy libraries, frameworks and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdabir/awesome-groovy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy) · ⭐ 659 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdabir/awesome-groovy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy) · ⭐ 689 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/kdabir/awesome-groovy/week/README.md) / [Overview](/content/kdabir/awesome-groovy/readme/README.md) ]
+
+## [Jun 27, 2023](/content/2023/06/27/README.md)
+
+### Database
+
+*   [GORM](https://gorm.grails.org) - Grails ORM, but can be used stand-alone without Grails
+
+### Conferences
+
+*   [Community Over Code](https://communityovercode.org/) - have a Groovy Track
 
 ## [Jul 11, 2022](/content/2022/07/11/README.md)
 
@@ -14,7 +24,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### HTTP
 
-*   [Hyperpoet (⭐2)](https://github.com/tambapps/hyperpoet) - Easy-to-use and customizable HTTP client for Groovy
+*   [Hyperpoet (⭐3)](https://github.com/tambapps/hyperpoet) - Easy-to-use and customizable HTTP client for Groovy
 
 ## [Sep 21, 2019](/content/2019/09/21/README.md)
 
@@ -26,7 +36,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Scripting Tools
 
-*   [picocli (⭐3.9k)](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+*   [picocli (⭐4.3k)](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 
 ### Staying up to date
 
@@ -36,7 +46,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Language Utilities
 
-*   [Fuzzy-CSV (⭐13)](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
+*   [Fuzzy-CSV (⭐15)](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
 
 ## [Oct 22, 2018](/content/2018/10/22/README.md)
 
@@ -44,7 +54,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 *   [EasyDokkaPlugin (⭐13)](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
-*   [sshoogr (⭐347)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
+*   [sshoogr (⭐350)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 ## [Oct 18, 2018](/content/2018/10/18/README.md)
 
@@ -65,11 +75,11 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Web Frameworks
 
-*   [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run"
+*   [Spring-Boot](https://projects.spring.io/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that can you can "just run". Use Groovy as your coding language.
 
 ### Testing
 
-*   [Betamax (⭐459)](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+*   [Betamax (⭐462)](https://github.com/betamaxteam/betamax) - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 
 ### Concurrency
 
@@ -77,23 +87,23 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Code Analysis
 
-*   [Sonar-Groovy (⭐52)](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
+*   [Sonar-Groovy (⭐53)](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
 
 ### Conferences
 
-*   [GR8Conf Europe](https://gr8conf.eu)
+*   [GR8Conf Europe](https://gr8conf.eu) (discontinued)
 
 ## [Apr 22, 2018](/content/2018/04/22/README.md)
 
 ### Build tools, setup and CI
 
-*   [GMavenPlus (⭐246)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
+*   [GMavenPlus (⭐258)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
 *   [Jenkins job-dsl-plugin (⭐1.8k)](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 *   [travis-groovy (⭐3)](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci
 
 ### Official Resources
 
-*   [Groovy's source (⭐4.7k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
+*   [Groovy's source (⭐4.9k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
 
 ## [Apr 19, 2018](/content/2018/04/19/README.md)
 
@@ -122,8 +132,8 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### HTTP
 
-*   [HTTP Builder NG (⭐178)](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
-*   [HTTP Builder NG Gradle Plugin (⭐30)](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
+*   [HTTP Builder NG (⭐177)](https://github.com/http-builder-ng/http-builder-ng) - HTTP Builder NG is a modern Groovy DSL for making http requests.
+*   [HTTP Builder NG Gradle Plugin (⭐31)](https://github.com/http-builder-ng/gradle-http-plugin) - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 
 ### Testing
 
@@ -139,8 +149,8 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Conferences
 
-*   [Greachconf](http://greachconf.com)
-*   [GR8Conf USA](http://gr8conf.us)
+*   [Greachconf](http://greachconf.com) (discontinued)
+*   [GR8Conf USA](http://gr8conf.us) (discontinued)
 
 ## [Mar 23, 2017](/content/2017/03/23/README.md)
 
@@ -167,8 +177,8 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Rule Engines
 
-*   [grules (⭐36)](https://github.com/zhaber/grules) - rule engine for data preprocessing
-*   [n-cube (⭐167)](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
+*   [grules (⭐35)](https://github.com/zhaber/grules) - rule engine for data preprocessing
+*   [n-cube (⭐170)](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
 ## [Apr 25, 2016](/content/2016/04/25/README.md)
 
@@ -198,7 +208,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Concurrency
 
-*   [GPars (⭐234)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
+*   [GPars (⭐235)](https://github.com/GPars/GPars) - The GPars concurrency and parallelism framework for the JVM
 
 ## [Dec 09, 2015](/content/2015/12/09/README.md)
 
@@ -251,14 +261,14 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Database
 
-*   [Tayra (⭐144)](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
+*   [Tayra (⭐143)](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 
 ## [Jul 14, 2015](/content/2015/07/14/README.md)
 
 ### File System Utilities
 
-*   [Groovy-Vfs (⭐63)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
-*   [Directree (⭐11)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
+*   [Groovy-Vfs (⭐62)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
+*   [Directree (⭐12)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 ## [May 28, 2015](/content/2015/05/28/README.md)
 
@@ -271,7 +281,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Web Frameworks
 
-*   [gServ (⭐48)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
+*   [gServ (⭐50)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 
 ## [Feb 11, 2015](/content/2015/02/11/README.md)
 
@@ -289,21 +299,21 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### HTTP
 
-*   [Groovy-wslite (⭐394)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
+*   [Groovy-wslite (⭐397)](https://github.com/jwagenleitner/groovy-wslite) - Lightweight SOAP and REST webservice clients for Groovy
 
 ### Transpilers
 
-*   [Grooscript (⭐219)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
+*   [Grooscript (⭐220)](https://github.com/chiquitinxx/grooscript) - Converts your Groovy code to Javascript
 
 ### Static Web
 
-*   [Grain (⭐151)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
-*   [Gaiden (⭐162)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
+*   [Grain (⭐154)](https://github.com/sysgears/grain) - Static Web Site Building Framework For Groovy
+*   [Gaiden (⭐166)](https://github.com/kobo/gaiden) - Gaiden is a tool that makes it easy to create documentation with Markdown.
 
 ### Language Utilities
 
 *   [Functionalgroovy (⭐67)](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
-*   [Groovy-stream (⭐67)](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
+*   [Groovy-stream (⭐66)](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 *   [Flipside (⭐21)](https://github.com/johnnywey/flipside) - Simple Groovy options library
 
 ## [Jul 17, 2014](/content/2014/07/17/README.md)
@@ -324,19 +334,19 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Build tools, setup and CI
 
-*   [Lazybones (⭐614)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
+*   [Lazybones (⭐615)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
 ### Web Frameworks
 
-*   [Grails (⭐446)](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
-*   [Gaelyk (⭐221)](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
+*   [Grails (⭐445)](https://github.com/grails/grails) - A powerful web application framework based on the Groovy language
+*   [Gaelyk (⭐220)](https://github.com/gaelyk/gaelyk) - A lightweight Groovy toolkit for Google App Engine Java
 *   [Glide (⭐53)](https://github.com/kdabir/glide) - Create awesome apps on Google App Engine in a snap
 *   [Ratpack (⭐1.9k)](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications
 
 ### Database
 
-*   [Gmongo (⭐183)](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
-*   [Gstorm (⭐79)](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
+*   [Gmongo (⭐182)](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
+*   [Gstorm (⭐81)](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 
 ### Rich Application
 
@@ -344,5 +354,5 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Testing
 
-*   [Spock (⭐3.3k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
+*   [Spock (⭐3.4k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 *   [Geb (⭐1.1k)](https://github.com/geb/geb) - Very Groovy Browser Automation

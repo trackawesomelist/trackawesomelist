@@ -1,30 +1,160 @@
 # Awesome List Updates on Jun 27, 2023
 
-8 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [1. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+
+### Database
+
+*   [GORM](https://gorm.grails.org) - Grails ORM, but can be used stand-alone without Grails
+
+### Conferences
+
+*   [Community Over Code](https://communityovercode.org/) - have a Groovy Track
+
+## [2. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Accounting & Finance
+
+- Name: [FlowCog](https://flowcog.com/?via=aicollection?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: SaaS Financial Projections Quick & Easy ⚡.
+
+  Description: Unlock cash runway & growth insights — no spreadsheets! 7 minute onboarding. QuickBooks & Stripe ready. Trusted by boards & investors.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Ecommerce
+
+- Name: [manifest](https://getmanifest.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Re-Imagining eCommerce With Artificial Intelligence.
+
+  Description: Get your own AI Shopping Assistant live within 1 minute. Transform your store with AI-Powered personalization & boost your sales.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Gift Ideas
+
+- Name: [Gift Ideas AI](https://www.giftideasai.xyz/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Find the Perfect Gift in No Time!.
+
+  Description: Discover ideal gifts swiftly! Our platform offers personalized solutions based on loved ones interests.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Human Resources & Resume
+
+- Name: [SidekicAI](https://sidekic.zimfy.co/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: A Helping Hand to End Your Job Hunt Faster. A Job Application Assistant to Help You Apply for Jobs Faster.
+
+  Description: Meet SidekicAI. A Chrome Extension assistant that helps you apply for jobs at triple the speed with AI powered cover letter generation. SidekicAI helps you generate cover letters faster during your job hunt. Input your existing cover letter and a few skills and generate an AI modified cover letter for each job you're applying to.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Sales & Marketing
+
+- Name: [Ctrl](https://getctrl.co/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: A Modern UI for Your Complex CRM Workflows.
+
+  Description: simplify your sales workflows and tasks by automating CRM updates, generating tailored follow-ups, and facilitating deal execution.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Search Engines
+
+- Name: [Broker One AI Engine](https://mybrokerone.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Broker One AI Engine Is an AI-powered Tool That Simplifies Real Estate.
+
+  Description: Broker One AI Engine is a state-of-the-art, AI-powered tool designed specifically for the complex world of real estate. This innovative platform combines the power of artificial intelligence with a vast and comprehensive dataset of properties to provide accurate property valuations and enable efficient property browsing. Broker One AI Engine stands out with its sophisticated property search functionality.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Writing Assistant
+
+- Name: [FireTexts](https://www.firetexts.co/)
+
+  Title: Never Waste Time Thinking of the Perfect Text Again.
+
+  Description: Unleash the power of AI and create the perfect text message for a birthday, thank you, flirting, rejection or any other situation. We use ChatGPT and custom inputs to craft the perfect text for any occasion.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+## [3. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
+
+### Go / Misc
+
+*   [steam (⭐2)](https://github.com/0xAozora/steam) - Simple steam library for trading in Go.
+*   [go-steam (⭐343)](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
+
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### IDE Extensions
+
+*   [LSP support for Emacs (⭐135)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
+
+## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+
+### Entrepreneurship / Angular
+
+*   [Indie Hacker Newsletter](https://www.indiehackers.com/newsletter). A free bi-daily newsletter with actionable insights, founder stories and market updates to help you start and grow your business.
+*   [Founder Notes](https://www.foundernotes.io/). A free weekly newsletter that shares the secrets of successful founders, giving you actionable strategies to grow your business and keep you updated on the latest news and opportunities.
+*   [Hungry Minds](https://hungryminds.dev). A free weekly newsletter that get one mind-shaping idea, high-signal AI/Tech/Business news, and under-the-radar trends and tools to keep you hungry.
+*   [Product Hunt](https://www.producthunt.com/newsletter). Daily curated tech products and startups.
+
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Authentication & Identity
+
+*   [Aserto](https://www.aserto.com) - Cloud-native authorization for applications and APIs.
+
+## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+
+### Authentication / OAuth2 & OpenID
+
+*   [The problem with OAuth for Authentication](http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html) - “The problem is that OAuth 2.0 is a Delegated Authorization protocol, and not a Authentication protocol.” 10 years after, this article is still the best explanation on [why use OpenID Connect instead of plain OAuth2](https://security.stackexchange.com/a/260519)?
+
+## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Open Source Projects / Other / Chatbots
 
 *   [Twitter Agent (⭐5)](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal
 
-## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Misc / MIT
 
 *   [adage (⭐2)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Artificial Intelligence
 
 *   [coreylowman/dfdx (⭐1.1k)](https://github.com/coreylowman/dfdx) — CUDA accelearted machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -32,7 +162,7 @@
 *   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -53,13 +183,13 @@
 
 *   Communities/forums: [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosed Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [/c/selfhosted on lemmy.ml](https://lemmy.ml/c/selfhost), [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DNS
 
 *   [Dual.my](https://dual.my/) — Free dynamic/static DNS hosting service offering 5 domains and 10 records each, complete with API support.
 
-## [7. Magictools](/content/ellisonleao/magictools/README.md)
+## [14. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Graphics / Vector/Image Editor
 
@@ -72,7 +202,7 @@
 
 *   :free: [Vengi](https://mgerhardy.github.io/vengi/)
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 

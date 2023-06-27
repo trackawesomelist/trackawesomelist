@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jun 27, 2023](/content/2023/06/27/README.md)
+
+### Authentication & Identity
+
+*   [Aserto](https://www.aserto.com) - Cloud-native authorization for applications and APIs.
+
 ## [Jun 16, 2023](/content/2023/06/16/README.md)
 
 ### Automation

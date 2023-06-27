@@ -2,7 +2,7 @@
 
 😎 A curated list of packages and resources regarding Steam development
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/scholtzm/awesome-steam/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) · ⭐ 416 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/scholtzm/awesome-steam/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam) · ⭐ 443 · 🏷️ Miscellaneous
 
 [ [Daily](/content/scholtzm/awesome-steam/README.md) / [Weekly](/content/scholtzm/awesome-steam/week/README.md) / Overview ]
 
@@ -45,44 +45,44 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### General
 
-*   [steam (⭐996)](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js.
-*   [steam-client (⭐50)](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient.
-*   [steam-user (⭐575)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
-*   [vapor (⭐107)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
+*   [steam (⭐1k)](https://github.com/seishun/node-steam) - Interface directly with Steam servers from Node.js.
+*   [steam-client (⭐53)](https://github.com/DoctorMcKay/node-steam-client) - API-compatible fork of node-steam's SteamClient.
+*   [steam-user (⭐677)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
+*   [vapor (⭐106)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
 *   [steam-parentbot (⭐33)](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot.
 
 #### WebAPI
 
 *   [steam-webapi (⭐18)](https://github.com/DoctorMcKay/node-steam-webapi) - Complete WebAPI wrapper with support for extra HTTP headers sent by Steam.
-*   [steamapi (⭐126)](https://github.com/lloti/node-steamapi) - A nice Steam API wrapper.
+*   [steamapi (⭐140)](https://github.com/lloti/node-steamapi) - A nice Steam API wrapper.
 
 #### Trading
 
 *   [steam-trade (⭐162)](https://github.com/seishun/node-steam-trade) - Node.js wrapper around Steam live trading.
 *   [steam-tradeoffers (⭐291)](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js.
-*   [steam-tradeoffer-manager (⭐391)](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
+*   [steam-tradeoffer-manager (⭐438)](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
 *   [steam-inventory-stream (⭐9)](https://github.com/timvandam/steam-inventory-stream) - Fetch inventories as readable streams.
-*   [steam-inventory-api-ng (⭐2)](https://github.com/itsjfx/node-steam-inventory-api-ng) - A Steam Inventory API wrapper with advanced features such as retries and proxy support.
+*   [steam-inventory-api-ng (⭐3)](https://github.com/itsjfx/node-steam-inventory-api-ng) - A Steam Inventory API wrapper with advanced features such as retries and proxy support.
 
 #### Game Interaction
 
-*   [steam-gameserver (⭐12)](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types.
-*   [tf2 (⭐44)](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
-*   [csgo (⭐404)](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
-*   [dota2 (⭐528)](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
+*   [steam-gameserver (⭐15)](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types.
+*   [tf2 (⭐48)](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
+*   [csgo (⭐433)](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
+*   [dota2 (⭐540)](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
 
 #### Community & Store Automation
 
-*   [steamcommunity (⭐352)](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
-*   [steamstore (⭐53)](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
+*   [steamcommunity (⭐399)](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
+*   [steamstore (⭐59)](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
 *   [steam-weblogon (⭐27)](https://github.com/Alex7Kom/node-steam-weblogon) - Retrieve SteamCommunity cookies if you are running Steam network client.
 *   [steam-web-api-key (⭐21)](https://github.com/Alex7Kom/node-steam-web-api-key) - Automatically registers and retrieves Steam API key.
 *   [steam-parental (⭐4)](https://github.com/Alex7Kom/node-steam-parental) - Disable parental lock.
 
 #### Authentication
 
-*   [steam-login (⭐53)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
-*   [passport-steam (⭐306)](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
+*   [steam-login (⭐57)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
+*   [passport-steam (⭐317)](https://github.com/liamcurry/passport-steam) - Steam (OpenID) authentication strategy for Passport and Node.js.
 *   [meteor-accounts-steam (⭐16)](https://github.com/scholtzm/meteor-accounts-steam) - Steam OpenID integration for Meteor Accounts.
 
 #### Misc
@@ -90,22 +90,22 @@ The purpose of this document is to provide a quick overview over existing packag
 *   [steam-resources (⭐23)](https://github.com/seishun/node-steam-resources) - Steam's enums, protobufs and structs.
 *   [steam-crypto (⭐15)](https://github.com/seishun/node-steam-crypto) - Node.js implementation of Steam crypto.
 *   [steam-groups (⭐16)](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions.
-*   [steamid (⭐59)](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
-*   [steam-totp (⭐192)](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
-*   [steam-chat-bot (⭐94)](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
-*   [vdf (⭐20)](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
+*   [steamid (⭐63)](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
+*   [steam-totp (⭐209)](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
+*   [steam-chat-bot (⭐99)](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
+*   [vdf (⭐19)](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
 *   [steamrep (⭐10)](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation.
 *   [reptf (⭐2)](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation.
-*   [steamapis (⭐4)](https://github.com/itsjfx/node-steamapis) - Module to use the API of [steamapis.com](https://steamapis.com).
+*   [steamapis (⭐6)](https://github.com/itsjfx/node-steamapis) - Module to use the API of [steamapis.com](https://steamapis.com).
 
 ### C\#
 
 #### General
 
-*   [SteamKit2 (⭐2.1k)](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network.
-*   [SteamAuth (⭐215)](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
-*   [SteamBot (⭐1.2k)](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade.
-*   [SteamTradeOffersBot (⭐46)](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers.
+*   [SteamKit2 (⭐2.3k)](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network.
+*   [SteamAuth (⭐238)](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
+*   [SteamBot (⭐1.3k)](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade.
+*   [SteamTradeOffersBot (⭐49)](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers.
 *   [SteamStandardProject (⭐2)](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam.
 
 #### Misc
@@ -116,56 +116,57 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### PHP
 
-*   [SteamCommunity (⭐68)](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
-*   [SteamAuthentication (⭐431)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
-*   [SteamAuthOOP (⭐34)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
+*   [SteamCommunity (⭐75)](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
+*   [SteamAuthentication (⭐443)](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
+*   [SteamAuthOOP (⭐36)](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
 *   [steam-api (⭐79)](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
-*   [steamid (⭐6)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
+*   [steamid (⭐8)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
 *   [steam-totp (⭐21)](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
-*   [steam-auth (⭐16)](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
+*   [steam-auth (⭐18)](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
 
 ### Go
 
-*   [steam (⭐313)](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
-*   [steam-mobileauth (⭐15)](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
+*   [steam (⭐2)](https://github.com/0xAozora/steam) - Simple steam library for trading in Go.
+*   [go-steam (⭐343)](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
+*   [steam-mobileauth (⭐19)](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
 
 ### Python
 
 #### General
 
-*   [steam (⭐739)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
+*   [steam (⭐861)](https://github.com/ValvePython/steam) - Module for various interactions with Steam.
 *   [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
-*   [steamodd (⭐70)](https://github.com/Lagg/steamodd) - Steam tools library.
-*   [steampy (⭐318)](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
-*   [SteamAPI (⭐430)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
+*   [steamodd (⭐72)](https://github.com/Lagg/steamodd) - Steam tools library.
+*   [steampy (⭐403)](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
+*   [SteamAPI (⭐436)](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 *   [Steam-Trade (⭐15)](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
 
 #### Game Interaction
 
-*   [csgo (⭐100)](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
-*   [dota2 (⭐166)](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
+*   [csgo (⭐116)](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
+*   [dota2 (⭐177)](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
 
 #### Misc
 
-*   [vpk (⭐115)](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
-*   [vdf (⭐127)](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
+*   [vpk (⭐137)](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
+*   [vdf (⭐149)](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
 
 ### C++
 
-*   [SteamPP (⭐96)](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers.
+*   [SteamPP (⭐100)](https://github.com/seishun/SteamPP) - C++ library to interoperate with Steam servers.
 
 ### Java
 
-*   [SteamKit-Java (⭐44)](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
-*   [JavaSteam (⭐65)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
+*   [SteamKit-Java (⭐47)](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
+*   [JavaSteam (⭐75)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
 
 ### Objective-C
 
-*   [SteamAuth (⭐5)](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
+*   [SteamAuth (⭐6)](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
 
 ### Ruby
 
-*   [steam-trade (⭐8)](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
+*   [steam-trade (⭐9)](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
 
 ## Resources
 
@@ -174,7 +175,7 @@ The purpose of this document is to provide a quick overview over existing packag
 *   [Steam WebAPI @ ValveSoftware](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 *   [Steam WebAPI @ TF2 Wiki](https://wiki.teamfortress.com/wiki/WebAPI)
 *   [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
-*   [Steam Internal WebAPI Documentation by Revadike (⭐100)](https://github.com/Revadike/UnofficialSteamWebAPI)
+*   [Steam Internal WebAPI Documentation by Revadike (⭐198)](https://github.com/Revadike/UnofficialSteamWebAPI)
 *   [Steam as OpenID Provider](http://steamcommunity.com/dev)
 *   [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 *   [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
@@ -183,7 +184,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 *   [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
 *   [Charred's node.js Guide to Steam Bots (⭐46)](https://github.com/charredgrass/nodejs-bot-guide)
-*   [In-depth Steam Bot Guide with Node.js (⭐498)](https://github.com/andrewda/node-steam-guide)
+*   [In-depth Steam Bot Guide with Node.js (⭐580)](https://github.com/andrewda/node-steam-guide)
 *   [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
 
 ### Posts
@@ -194,12 +195,12 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone Tools
 
-*   [NetHook2 (⭐2.1k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
-*   [NetHook2 Analyzer (⭐2.1k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
+*   [NetHook2 (⭐2.3k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
+*   [NetHook2 Analyzer (⭐2.3k)](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 *   [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
-*   [SteamDesktopAuthenticator (⭐2.2k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
+*   [SteamDesktopAuthenticator (⭐2.6k)](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 *   [protonenv (⭐2)](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
-*   [steam-desktop-authenticator-multiplatform (⭐5)](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
+*   [steam-desktop-authenticator-multiplatform (⭐8)](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
 
 ### Discussion Boards
 
