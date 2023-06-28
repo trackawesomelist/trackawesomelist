@@ -1,12 +1,25 @@
 # Awesome List Updates on Jun 26 - Jul 02, 2023
 
-27 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [1. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+
+### Queues and Messaging
+
+*   [JobIteration (⭐923)](https://github.com/Shopify/job-iteration) - An ActiveJob extension to make long-running jobs interruptible and resumable.
+*   [SidekiqIteration (⭐187)](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
+
+## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Other / [Other](#other-1)
+
+*   [RefactorFirst (⭐256)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
+
+## [3. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Database
 
@@ -16,20 +29,20 @@
 
 *   [Community Over Code](https://communityovercode.org/) - have a Groovy Track
 
-## [2. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [4. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Go / Misc
 
 *   [steam (⭐2)](https://github.com/0xAozora/steam) - Simple steam library for trading in Go.
 *   [go-steam (⭐343)](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
 
-## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### IDE Extensions
 
 *   [LSP support for Emacs (⭐135)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
 
-## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Entrepreneurship / Angular
 
@@ -38,25 +51,25 @@
 *   [Hungry Minds](https://hungryminds.dev). A free weekly newsletter that get one mind-shaping idea, high-signal AI/Tech/Business news, and under-the-radar trends and tools to keep you hungry.
 *   [Product Hunt](https://www.producthunt.com/newsletter). Daily curated tech products and startups.
 
-## [5. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
 *   [Aserto](https://www.aserto.com) - Cloud-native authorization for applications and APIs.
 
-## [6. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [8. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
 *   [The problem with OAuth for Authentication](http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html) - “The problem is that OAuth 2.0 is a Delegated Authorization protocol, and not a Authentication protocol.” 10 years after, this article is still the best explanation on [why use OpenID Connect instead of plain OAuth2](https://security.stackexchange.com/a/260519)?
 
-## [7. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [9. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Misc / MIT
 
 *   [adage (⭐2)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -64,7 +77,7 @@
 *   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -85,7 +98,7 @@
 
 *   Communities/forums: [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosed Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [/c/selfhosted on lemmy.ml](https://lemmy.ml/c/selfhost), [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 
-## [10. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [12. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Vector/Image Editor
 
@@ -98,7 +111,7 @@
 
 *   :free: [Vengi](https://mgerhardy.github.io/vengi/)
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -108,7 +121,7 @@
 
 *   [monsi (⭐0)](https://github.com/rafa-wine/monsi_oh-my-zsh_theme) - Includes `git` status, last command exit status and current directory decorators.
 
-## [12. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [14. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -143,13 +156,17 @@
 *   [FlagAI (⭐3.2k)](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
 *   [AI.JSX (⭐185)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Courses
+
+*   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics.
 
 ### Concepts / Human Concept Representation
 
 *   [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***Cerebral Cortex***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081\&hl=en\&as_sdt=0,5)]. Visual and haptic shape perception fMRI experiments suggesting that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
 
-## [14. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [16. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Berlin
 
@@ -184,19 +201,19 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 | ---- | ----- | ------------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |            |
 
-## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [idsp](https://crates.io/crates/idsp): integer DSP algorithms (trigonometry, filtering, PLL...) tuned for precision and speed - ![crates.io](https://img.shields.io/crates/v/idsp.svg)
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [Speedb (⭐383)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
-## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
@@ -206,31 +223,31 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   [coreylowman/dfdx (⭐1.1k)](https://github.com/coreylowman/dfdx) — CUDA accelearted machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
 
-## [18. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [20. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Barometer
 
 *   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor.
 
-## [19. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [21. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Audio / SpriteKit
 
 *   [Rhythm Snap (⭐0)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
 *   [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor providing view, edit, annotate, protect, convert, Copilot assistant, and more possibilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
 
-## [21. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [23. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Transition
 
 *   [TBIconTransitionKit (⭐1.3k)](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - Easy to use icon transition kit that allows to smoothly change from one shape to another.
 
-## [22. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [24. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Accounting & Finance
 
@@ -328,19 +345,19 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 
 
-## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   [The economic potential of generative AI: The next productivity frontier](https://www.linkedin.com/posts/genai-works_gen-ai-activity-7074980736268726272-LiiG): report by McKinsey Jun 2023
 
-## [24. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [26. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms
 
 *   [GeoComment](https://www.viewprogis.com/geocomment) - Allows the City staff, citizens and stakeholders of governance to interact digitally and offer meaningful inputs into the decision-making processes at all stages of project development through a map enabled platform.
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### DNS
 
@@ -359,13 +376,13 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   [3Dassets.one](https://3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
 
-## [26. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [28. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Elegy](https://miraclem.itch.io/elegy) - Solo role playing game about being a vampire and surviving the big city nights
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 

@@ -139,6 +139,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. \[[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450\&hl=en\&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
 
+*   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics.
+
 \*[Back to Top](#c)
 
 ### Programming

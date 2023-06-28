@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
+### Courses
+
+*   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics.
+
 ### Concepts / Human Concept Representation
 
 *   [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***Cerebral Cortex***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081\&hl=en\&as_sdt=0,5)]. Visual and haptic shape perception fMRI experiments suggesting that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
