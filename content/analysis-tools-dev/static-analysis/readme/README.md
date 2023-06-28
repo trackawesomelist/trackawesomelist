@@ -93,6 +93,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐715)](https://g
 *   [Perl](#perl)
 *   [Python](#python)
 *   [R](#r)
+*   [Rego](#rego)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
 *   [SQL](#sql)
@@ -900,6 +901,10 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐715)](https://g
 *   [lintr (⭐1.1k)](https://github.com/jimhester/lintr) — Static Code Analysis for R.
 
 *   [styler](https://styler.r-lib.org) — Formatting of R source code files and pretty-printing of R code.
+
+<h2 id="rego">Rego</h2>
+
+*   [Regal (⭐133)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
 
 <h2 id="ruby">Ruby</h2>
 

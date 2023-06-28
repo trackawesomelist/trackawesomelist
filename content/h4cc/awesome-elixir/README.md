@@ -6,6 +6,20 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Jun 28, 2023](/content/2023/06/28/README.md)
+
+### Artificial Intelligence
+
+*   [Noizu-OpenAi (⭐0)](https://github.com/noizu-labs/elixir-openai) - An Elixir Api for the OpenAI Library.
+
+### Templating
+
+*   [sneeze (⭐42)](https://github.com/JuneKelly/sneeze) - Render elixir data structures to HTML. Inspired by [hiccup (⭐2.5k)](https://github.com/weavejester/hiccup).
+
+### Third Party APIs
+
+*   [telegex (⭐76)](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
+
 ## [Jun 16, 2023](/content/2023/06/16/README.md)
 
 ### Authentication
@@ -28,7 +42,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Validations
 
-*   [goal (⭐31)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
+*   [goal (⭐34)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -370,7 +384,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Artificial Intelligence
 
-*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
 
 ### Configuration
 
@@ -391,7 +405,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Networking
 
-*   [Firezone (⭐4.3k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐4.4k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 
 ### Protocols
 
@@ -754,12 +768,6 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 ### Documentation
 
 *   [xcribe (⭐58)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
-
-## [Jul 05, 2020](/content/2020/07/05/README.md)
-
-### Third Party APIs
-
-*   [telegex (⭐63)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
 
 ## [Jun 22, 2020](/content/2020/06/22/README.md)
 

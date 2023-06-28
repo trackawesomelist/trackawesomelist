@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Speedb (⭐383)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
+### Talks
+
+*   [C++ Conferences (⭐3)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Documentation

@@ -335,6 +335,10 @@ Other places you can look for MicroPython Libraries:
 
 *   [MicroTelnetServer (⭐65)](https://github.com/cpopp/MicroTelnetServer) - Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.
 
+#### Text-to-Speech
+
+*   [micropython-SYN6988 (⭐1)](https://github.com/scruss/micropython-SYN6988) - MicroPython library for the VoiceTX SYN6988 text to speech module.
+
 #### VoIP
 
 *   [uPyVoip (⭐14)](https://github.com/RetepRelleum/uPyVoip) - VoIP for MicroPython ESP32 with Interactive Voice Response.
@@ -969,6 +973,7 @@ Other places you can look for MicroPython Libraries:
 *   [JetBrains IntelliJ/PyCharm MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Plugin for MicroPython devices in IntelliJ and PyCharm.
 *   [MicroPython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for Visual Studio Code.
 *   [MicroPython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
+*   [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - An extension to provide easy access to some of mpremote's functionality from within Visual Studio Code.
 *   [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python/MicroPython/CircuitPython editor for beginner programmers.
 *   [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
 *   [Pyboard File Manager (⭐3)](https://github.com/joewez/PyboardFileManager) - Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.

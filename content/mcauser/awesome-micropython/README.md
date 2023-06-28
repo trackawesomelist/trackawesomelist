@@ -6,6 +6,16 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jun 28, 2023](/content/2023/06/28/README.md)
+
+### Communications / Text-to-Speech
+
+*   [micropython-SYN6988 (⭐1)](https://github.com/scruss/micropython-SYN6988) - MicroPython library for the VoiceTX SYN6988 text to speech module.
+
+### IDEs / SRAM
+
+*   [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - An extension to provide easy access to some of mpremote's functionality from within Visual Studio Code.
+
 ## [Jun 26, 2023](/content/2023/06/26/README.md)
 
 ### Sensors / Barometer

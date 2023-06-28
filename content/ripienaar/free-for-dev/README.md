@@ -6,11 +6,15 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
-## [Jun 27, 2023](/content/2023/06/27/README.md)
+## [Jun 28, 2023](/content/2023/06/28/README.md)
 
-### DNS
+### Code Quality
 
-*   [Dual.my](https://dual.my/) — Free dynamic/static DNS hosting service offering 5 domains and 10 records each, complete with API support.
+*   [semanticdiff.com](https://app.semanticdiff.com/) — Programming language aware diff for GitHub pull requests and commits, free for public repositories
+
+### Authentication, Authorization and User Management
+
+*   [Aserto](https://www.aserto.com) - Fine-grained authorization as a service for applications and APIs. Free up to 1000 MAUs and 100 authorizer instances.
 
 ## [Jun 26, 2023](/content/2023/06/26/README.md)
 

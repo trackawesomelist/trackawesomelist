@@ -1283,6 +1283,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Talks
 
+*   [C++ Conferences (⭐3)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
 *   [CppCon Talks](https://www.youtube.com/user/CppCon/videos) :zap: - The C++ conference.
 *   [Quick game development with C++11/C++14 (⭐87)](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 *   [Presentation on Hana for C++Now 2015 (⭐10)](https://github.com/ldionne/hana-cppnow-2015)

@@ -2,9 +2,15 @@
 
 💰 Billing & Payments knowledge for cloud platforms
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 588 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 604 · 🏷️ Business
 
 [ [Daily](/content/kdeldycke/awesome-billing/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-billing/readme/README.md) ]
+
+## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
+
+### Marketplace / Market Research
+
+*   [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/) - A bit of vocabulary: “In a casino, the term *rake* refers to the commission that the house earns for operating a poker game. (…) While casinos use the term *rake*, a plethora of interesting word choices exist which all describe the same thing – keeping a little bit of the revenue for the company that is running the service.”
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
@@ -148,7 +154,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐2.6k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+*   [TigerBeetle (⭐2.7k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 ### Invoice / Structure
 
@@ -201,14 +207,14 @@
 
 ### Accounting / Bookkeeping
 
-*   [Ledger (⭐648)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Ledger (⭐654)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
 *   [Akaunting (⭐6.3k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Go DB Ledger (⭐466)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐467)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 
@@ -373,7 +379,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐88)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐89)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
 
 ### Business Intelligence / Metrics
 
@@ -407,11 +413,11 @@
 
 ### Product Catalog / Market Research
 
-*   [Akeneo PIM (⭐899)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐902)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐104)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐107)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
 ### Payments / Bank Accounts
@@ -430,7 +436,7 @@
 
 ### Cost Forecast / Market Research
 
-*   [Forecasting with sktime (⭐6.5k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
+*   [Forecasting with sktime (⭐6.6k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
 
 ### Invoice / Generators
 
@@ -440,7 +446,7 @@
 
 ### Accounting / Bookkeeping
 
-*   [Sequence (⭐447)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐451)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
 ## [Sep 07 - Sep 13, 2020](/content/2020/36/README.md)
 
@@ -449,7 +455,7 @@
 *   [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 *   And a list of graphical accounting tools: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) (C), [Firefly III](https://firefly-iii.org) (PHP).
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
-*   [Frappe Books (⭐2k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
+*   [Frappe Books (⭐2.1k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
 *   [Luca (⭐64)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
 
 ### Accounting / Software design and implementation
@@ -457,11 +463,11 @@
 *   [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html) - Design decisions behind a billing and accounting system. Key takeaway: some companies still pays by checks; do not use floats; complex customer workflows; date and time issues; mutable data.
 *   [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - Explain the basic data model of a double-entry accounting system relying on Google Spanner for internal use at Square.
 *   [Django Hordak](https://django-hordak.readthedocs.io) - Core functionality of a double entry accounting system for Django.
-*   [Managed accounts for Django (⭐201)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
+*   [Managed accounts for Django (⭐200)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
 
 ### Invoice / Generators
 
-*   [InvoiceGenerator (⭐146)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
+*   [InvoiceGenerator (⭐147)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
 *   [Ruby Invoicing Framework (⭐261)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Invoice / Extrators
@@ -572,7 +578,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐73k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐74k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Taxes / Currencies
 
@@ -661,7 +667,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐160)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐161)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ### Fraud / Billing
 
@@ -729,7 +735,7 @@
 
 ### Taxes / Currencies
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐86)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐88)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 ### Invoice / European VAT
 

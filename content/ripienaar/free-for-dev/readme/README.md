@@ -512,6 +512,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [parsers.dev](https://parsers.dev/) - Abstract syntax tree parsers and intermediate representation compilers as a service
 *   [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
 *   [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
+*   [semanticdiff.com](https://app.semanticdiff.com/) — Programming language aware diff for GitHub pull requests and commits, free for public repositories
 *   [shields.io](https://shields.io) — Quality metadata badges for open source projects
 *   [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
 *   [SourceLevel](https://sourcelevel.io/) — Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.
@@ -648,6 +649,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Authentication, Authorization and User Management
 
+*   [Aserto](https://www.aserto.com) - Fine-grained authorization as a service for applications and APIs. Free up to 1000 MAUs and 100 authorizer instances.
 *   [asgardeo.io](https://wso2.com/asgardeo) - Seamless Integration of SSO, MFA, passwordless auth and more. Includes SDKs for frontend and backend apps. Free up to 1000 MAUs and 5 identity providers.
 *   [Auth0](https://auth0.com/) — Hosted SSO. Up to 7000 active users and 2 social identity providers.
 *   [Authgear](https://www.authgear.com) - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.
@@ -1136,7 +1138,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
 *   [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
 *   [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
-*   [Dual.my](https://dual.my/) — Free dynamic/static DNS hosting service offering 5 domains and 10 records each, complete with API support.
 
 **[⬆️ Back to Top](#table-of-contents)**
 

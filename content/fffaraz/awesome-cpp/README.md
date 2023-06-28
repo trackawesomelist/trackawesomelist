@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Jun 28, 2023](/content/2023/06/28/README.md)
+
+### Talks
+
+*   [C++ Conferences (⭐3)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
+
 ## [Jun 26, 2023](/content/2023/06/26/README.md)
 
 ### Database

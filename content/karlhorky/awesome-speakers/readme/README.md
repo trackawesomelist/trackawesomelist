@@ -2,7 +2,7 @@
 
 Awesome speakers in the programming and design communities
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 760 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 759 · 🏷️ Miscellaneous
 
 [ [Daily](/content/karlhorky/awesome-speakers/README.md) / [Weekly](/content/karlhorky/awesome-speakers/week/README.md) / Overview ]
 
@@ -1142,6 +1142,12 @@ Topics: IPFS, Peer to Peer, JavaScript, Node.js\
 <https://twitter.com/daviddias>
 
 ### Porto
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/luisabrpereira" height="70px" width="70px" align="left" alt="" />
+
+**Luis Pereira**\
+Topics: SSDLC, Web Security, Pentesting, Social Engineering, Security Awareness\
+<https://twitter.com/luisabrpereira>
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maskedwarrior" height="70px" width="70px" align="left" alt="" />
 

@@ -8,9 +8,17 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
+### Communications / Text-to-Speech
+
+*   [micropython-SYN6988 (⭐1)](https://github.com/scruss/micropython-SYN6988) - MicroPython library for the VoiceTX SYN6988 text to speech module.
+
 ### Sensors / Barometer
 
 *   [MicroPython\_BMP581 (⭐0)](https://github.com/jposada202020/MicroPython_BMP581) - MicroPython driver for the Bosch BMP581 pressure & temperature sensor.
+
+### IDEs / SRAM
+
+*   [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - An extension to provide easy access to some of mpremote's functionality from within Visual Studio Code.
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 

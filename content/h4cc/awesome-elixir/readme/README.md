@@ -261,8 +261,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [Axon (⭐1.3k)](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
 *   [Beaver (⭐69)](https://github.com/beaver-lodge/beaver) - Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.
 *   [Exnn (⭐97)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
-*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Elixir code with zero dependencies.
 *   [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
+*   [Noizu-OpenAi (⭐0)](https://github.com/noizu-labs/elixir-openai) - An Elixir Api for the OpenAI Library.
 *   [Nx (⭐2.2k)](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
 *   [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 *   [simple\_bayes (⭐388)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
@@ -1236,7 +1237,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [download (⭐32)](https://github.com/asiniy/download) - Download files from the internet easily.
 *   [eio (⭐12)](https://github.com/falood/eio) - Elixir server of engine.io.
 *   [ExPcap (⭐28)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
-*   [Firezone (⭐4.3k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐4.4k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
 *   [hades (⭐23)](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
 *   [mac (⭐5)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
@@ -1552,6 +1553,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [mustache (⭐52)](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
 *   [mustachex (⭐16)](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
 *   [slime (⭐348)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
+*   [sneeze (⭐42)](https://github.com/JuneKelly/sneeze) - Render elixir data structures to HTML. Inspired by [hiccup (⭐2.5k)](https://github.com/weavejester/hiccup).
 *   [taggart (⭐35)](https://github.com/ijcd/taggart) - HTML as code in Elixir.
 *   [templates (⭐4)](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 *   [temple (⭐420)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
@@ -1827,7 +1829,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 *   [stripity\_stripe (⭐823)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 *   [tagplay (⭐0)](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
-*   [telegex (⭐63)](https://github.com/Hentioe/telegex) - Telegram bot library for Elixir.
+*   [telegex (⭐76)](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
 *   [telephonist (⭐39)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
 *   [tentacat (⭐425)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 *   [tg\_client (⭐14)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
@@ -1891,7 +1893,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [ex\_nric (⭐2)](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 *   [exop (⭐209)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 *   [form (⭐40)](https://github.com/synrc/form) - Document forms and validation library.
-*   [goal (⭐31)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
+*   [goal (⭐34)](https://github.com/martinthenth/goal) - A parameter validation library for LiveViews and JSON/HTML controllers - based on Ecto.
 *   [is (⭐19)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 *   [jeaux (⭐11)](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
 *   [optimal (⭐48)](https://github.com/albert-io/optimal) - A schema based keyword list option validator.

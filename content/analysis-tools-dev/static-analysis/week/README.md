@@ -12,6 +12,10 @@
 
 *   [RefactorFirst (⭐256)](https://github.com/jimbethancourt/RefactorFirst) — Identifies and prioritizes God Classes and Highly Coupled classes in Java codebases you should refactor first.
 
+### Programming Languages / [Other](#other-1)
+
+*   [Regal (⭐133)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
+
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
 ### Programming Languages / [Other](#other-1)

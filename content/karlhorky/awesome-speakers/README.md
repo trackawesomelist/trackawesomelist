@@ -2,9 +2,33 @@
 
 Awesome speakers in the programming and design communities
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 760 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/awesome-speakers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) · ⭐ 759 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/karlhorky/awesome-speakers/week/README.md) / [Overview](/content/karlhorky/awesome-speakers/readme/README.md) ]
+
+## [Jun 28, 2023](/content/2023/06/28/README.md)
+
+### Europe / Russia 🇷🇺
+
+### Porto
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/luisabrpereira" height="70px" width="70px" align="left" alt="" />
+
+**Luis Pereira**\
+Topics: SSDLC, Web Security, Pentesting, Social Engineering, Security Awareness\
+<https://twitter.com/luisabrpereira>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maskedwarrior" height="70px" width="70px" align="left" alt="" />
+
+**Miguel Andrade**\
+Topics: Ember, JavaScript\
+<https://twitter.com/maskedwarrior>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/martonkodok" height="70px" width="70px" align="left" alt="" />
+
+**Márton Kodok**\
+Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
+<https://twitter.com/martonkodok>
 
 ## [May 18, 2023](/content/2023/05/18/README.md)
 
@@ -624,22 +648,6 @@ Topics: NativeScript, Browser APIs\
 **Filipa Lacerda**\
 Topics: Vue, Vuex\
 <https://twitter.com/FilipaLacerda>
-
-### Europe / Russia 🇷🇺
-
-### Porto
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maskedwarrior" height="70px" width="70px" align="left" alt="" />
-
-**Miguel Andrade**\
-Topics: Ember, JavaScript\
-<https://twitter.com/maskedwarrior>
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/martonkodok" height="70px" width="70px" align="left" alt="" />
-
-**Márton Kodok**\
-Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
-<https://twitter.com/martonkodok>
 
 ### Europe / United Kingdom 🇬🇧
 

@@ -6,6 +6,16 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ [Daily](/content/AdrienTorris/awesome-blazor/README.md) / Weekly / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
+
+### Others
+
+*   [Blazor.MediaCaptureStreams (⭐36)](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. [Demo](https://kristofferstrube.github.io/Blazor.MediaCaptureStreams/).
+
+### Videos / Others
+
+*   [Burke learns Blazor by porting a Vue.js app to Blazor](https://www.youtube.com/watch?v=fetGhhVYsLY) - ![duration](https://img.shields.io/badge/Duration:%20-86%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 16, 2021 - This summer, Burke and Jon are porting theurlist.com to Blazor - a real world JavaScript application written in Vue.js. Join them each week as they use Visual Studio, Visual Studio Code and GitHub Copilot to rebuild this app and try to tackle every frontend issue you might encounter along the way. [Community links](https://www.theurlist.com/burke-learns-blazor).
+
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
 ### Videos / Others
