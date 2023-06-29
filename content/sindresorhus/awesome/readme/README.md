@@ -158,7 +158,7 @@
 
 ## Platforms
 
-*   [Node.js (⭐51k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐52k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 *   [Frontend Development (⭐39k)](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 *   [iOS (⭐43k)](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
@@ -169,13 +169,13 @@
 *   [React Native (⭐33k)](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 *   [Xamarin (⭐1.9k)](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
 *   [Linux (⭐3.8k)](https://github.com/inputsh/awesome-linux#readme)
-    *   [Containers (⭐1.5k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
+    *   [Containers (⭐1.6k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
     *   [eBPF (⭐3.2k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
     *   [Arch-based Projects (⭐334)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
     *   [AppImage (⭐301)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐3k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐61k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Apps (⭐62k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐36k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 *   [watchOS (⭐439)](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 *   [JVM (⭐1.9k)](https://github.com/deephacks/awesome-jvm#readme)
@@ -208,7 +208,7 @@
 *   [Deno (⭐4k)](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 *   [DOS (⭐344)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 *   [Nix (⭐1.5k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
-*   [Integration (⭐220)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐223)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 *   [Node-RED (⭐370)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 *   [Low Code (⭐187)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 *   [Capacitor (⭐317)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
@@ -236,13 +236,13 @@
 *   [Swift (⭐23k)](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
     *   [Education (⭐5.6k)](https://github.com/hsavit1/Awesome-Swift-Education#readme)
     *   [Playgrounds (⭐3.9k)](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-*   [Python (⭐170k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐172k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.1k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
     *   [CircuitPython (⭐550)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
     *   [Data Science (⭐2k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
     *   [Typing (⭐1.4k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    *   [MicroPython (⭐934)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+    *   [MicroPython (⭐955)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 *   [Rust (⭐35k)](https://github.com/rust-unofficial/awesome-rust#readme)
 *   [Haskell (⭐2.9k)](https://github.com/krispo/awesome-haskell#readme)
 *   [PureScript (⭐446)](https://github.com/passy/awesome-purescript#readme)
@@ -303,7 +303,7 @@
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.5k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐25k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐6.2k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐6.3k)](https://github.com/troxler/awesome-css-frameworks#readme)
 *   [React (⭐56k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
     *   [Relay (⭐265)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.1k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
@@ -381,7 +381,7 @@
 ## Back-End Development
 
 *   [Flask (⭐1.2k)](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
-*   [Docker (⭐25k)](https://github.com/veggiemonk/awesome-docker#readme)
+*   [Docker (⭐26k)](https://github.com/veggiemonk/awesome-docker#readme)
 *   [Vagrant (⭐581)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
 *   [Pyramid (⭐538)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 *   [Play1 Framework (⭐41)](https://github.com/PerfectCarl/awesome-play1#readme)
@@ -449,7 +449,7 @@
 *   [Quantum Computing (⭐2.1k)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 *   [Theoretical Computer Science (⭐434)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 *   [Conversational AI (⭐95)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
-*   [Generative AI (⭐987)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+*   [Generative AI (⭐1.1k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ## Big Data
 
@@ -464,7 +464,7 @@
 
 ## Theory
 
-*   [Papers We Love (⭐73k)](https://github.com/papers-we-love/papers-we-love#readme)
+*   [Papers We Love (⭐74k)](https://github.com/papers-we-love/papers-we-love#readme)
 *   [Talks (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#readme)
 *   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms#readme)
     *   [Education (⭐515)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
@@ -479,7 +479,7 @@
 
 ## Books
 
-*   [Free Programming Books (⭐283k)](https://github.com/EbookFoundation/free-programming-books#readme)
+*   [Free Programming Books (⭐285k)](https://github.com/EbookFoundation/free-programming-books#readme)
 *   [Go Books (⭐14k)](https://github.com/dariubs/GoBooks#readme)
 *   [R Books (⭐210)](https://github.com/RomanTsegelskyi/rbooks#readme)
 *   [Mind Expanding Books (⭐10k)](https://github.com/hackerkid/Mind-Expanding-Books#readme)
@@ -681,7 +681,7 @@
 *   [Social Enterprise (⭐64)](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 *   [Engineering Team Management (⭐1.5k)](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
 *   [Developer-First Products (⭐493)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
-*   [Billing (⭐588)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+*   [Billing (⭐603)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 *   [Engineering Strategy (⭐448)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
 ## Work
@@ -690,7 +690,7 @@
     *   [Communities (⭐308)](https://github.com/filipelinhares/awesome-slack#readme)
 *   [Remote Jobs (⭐26k)](https://github.com/lukasz-madon/awesome-remote-job#readme)
 *   [Productivity (⭐2k)](https://github.com/jyguyomarch/awesome-productivity#readme)
-*   [Niche Job Boards (⭐780)](https://github.com/tramcar/awesome-job-boards#readme)
+*   [Niche Job Boards (⭐795)](https://github.com/tramcar/awesome-job-boards#readme)
 *   [Programming Interviews (⭐56k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 *   [Code Review (⭐3.9k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 *   [Creative Technology (⭐298)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
@@ -751,7 +751,7 @@
 *   [TAP (⭐595)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
 *   [JMeter (⭐615)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 *   [k6 (⭐407)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
-*   [Playwright (⭐432)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐445)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 *   [Quality Assurance Roadmap (⭐1.4k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 *   [Gatling (⭐53)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
@@ -777,7 +777,7 @@
 *   [GitHub Wiki (⭐73)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
 *   [Design and Development Guides (⭐2.1k)](https://github.com/NARKOZ/guides#readme)
 *   [Software Engineering Blogs (⭐24k)](https://github.com/kilimchoi/engineering-blogs#readme)
-*   [Self Hosted (⭐135k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Self Hosted (⭐138k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 *   [FOSS Production Apps (⭐256)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Gulp (⭐603)](https://github.com/alferov/awesome-gulp#readme) - Task runner.
 *   [AMA (⭐1.4k)](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
@@ -799,7 +799,7 @@
 *   [MQTT (⭐2k)](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
 *   [For Girls (⭐511)](https://github.com/cristianoliveira/awesome4girls#readme)
 *   [Vorpal (⭐136)](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
-*   [Vulkan (⭐2.8k)](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
+*   [Vulkan (⭐2.9k)](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
 *   [LaTeX (⭐1.2k)](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
 *   [Economics (⭐1.1k)](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
 *   [Funny Markov Chains (⭐197)](https://github.com/sublimino/awesome-funny-markov#readme)
@@ -864,7 +864,7 @@
 *   [Naming (⭐1.2k)](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 *   [Web Archiving (⭐1.5k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 *   [WP-CLI (⭐168)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
-*   [Credit Modeling (⭐88)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐89)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 *   [Ansible (⭐973)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 *   [Biological Visualizations (⭐128)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 *   [QR Code (⭐58)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
@@ -877,6 +877,8 @@
 *   [Computational Biology (⭐33)](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 *   [Read the Docs (⭐49)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 *   [Quarto (⭐987)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+*   [ChatGPT (⭐2.9k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
+*   [Whisper (⭐466)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 
 ## Related
 

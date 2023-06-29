@@ -1,24 +1,63 @@
 # Awesome List Updates on Jun 29, 2023
 
-9 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome List](/content/sindresorhus/awesome/README.md)
+
+### Miscellaneous
+
+*   [ChatGPT (⭐2.9k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
+*   [Whisper (⭐466)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+
+## [2. Awesome Yew](/content/jetli/awesome-yew/README.md)
+
+### Projects
+
+*   [zoom-rs (⭐919)](https://github.com/security-union/zoom-rs) - Zoom clone written in rust for research purposes.
+
+## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+
+### General Section / Svelte
+
+*   [Console](https://console.dev/). A free weekly email digest of the best tools for developers.
+
+### Business/Finance / Svelte
+
+*   [Wellfound Weekly](https://wellfound.com/newsletters). The best of the startup world, curated weekly.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Colorscheme Switchers / Diagnostics
+
+*   [zaldih/themery.nvim (⭐19)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
+
+### Motion / Diagnostics
+
+*   [folke/flash.nvim (⭐570)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
+
+## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+
+### Protocols
+
+*   [remoteStorage](https://remotestorage.io) is an open protocol for per-user storage on the Web. Users can: own their data, have everything stored in one place, syncronise across multiple devices, use the same data across different apps, and work offline. Developers can: avoid creating backends, scale without cost, and start quickly with a JavaScript library handling all aspects of the protocol.
+
+## [6. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Tutorials & workshops
 
 *   [Polars cookbook in Python (⭐84)](https://github.com/escobar-west/polars-cookbook) - This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By [@escobar-west](https://github.com/escobar-west), it uses real-world examples with "all the bugs and weirdness that entails."
 
-## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Open Source Projects / Knowledge Management
 
 *   [ChatFiles (⭐2.3k)](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)
 
-## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Audio
 
@@ -325,7 +364,7 @@
 
 *   [jupyter\_upydevice\_kernel (⭐12)](https://github.com/Carglglz/jupyter_upydevice_kernel) - Jupyter kernel to interact with a MicroPython board over its REPL interface.
 
-## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Social, Economic and Political Networks
 
@@ -347,19 +386,23 @@
 
 *   [GEXF](https://gexf.net) - File format used by the Gephi software.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Examples
 
 *   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / DNS
 
 *   [Pi-hole](https://pi-hole.net/) - A blackhole for Internet qdvertisements with a GUI for management and monitoring. ([Source Code (⭐43k)](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
 
-## [7. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+### Software / Software Development - FaaS & Serverless
+
+*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐939)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
+
+## [12. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Other
 
@@ -371,14 +414,14 @@ Free (Open Source)
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/ealain-examples.jpg)](https://www.github.com/amiantos/ealain)
 
-## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / DNS - Control Panels & Domain Management
 
 *   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐935)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
 *   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐236)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Payments & Pricing
 

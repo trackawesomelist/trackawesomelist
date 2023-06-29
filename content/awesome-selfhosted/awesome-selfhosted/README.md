@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Pi-hole](https://pi-hole.net/) - A blackhole for Internet qdvertisements with a GUI for management and monitoring. ([Source Code (⭐43k)](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
 
+### Software / Software Development - FaaS & Serverless
+
+*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐939)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
+
 ## [Jun 27, 2023](/content/2023/06/27/README.md)
 
 ### Software / Communication - Custom Communication Systems
@@ -2808,10 +2812,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code (⭐257)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
 
-### Software / Pastebins
-
-*   [0bin (⭐1.3k)](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/)) `WTFPL` `Python`
-
 ### Software / Software Development - IDE & Tools
 
 *   [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code (⭐2.3k)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
@@ -2914,7 +2914,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Photo and Video Galleries
 
-*   [Photonix](https://photonix.org/) - A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms. ([Demo](https://demo.photonix.org/), [Source Code (⭐1.6k)](https://github.com/photonixapp/photonix)) `AGPL-3.0` `Python`
 *   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Source Code (⭐3.9k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go`
 
 ### Software / Proxy
@@ -3279,12 +3278,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / File Transfer - Peer-to-peer Filesharing
 
 *   [Send (⭐3.3k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐3.3k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`
-
-## [Feb 06, 2021](/content/2021/02/06/README.md)
-
-### Software / Photo and Video Galleries
-
-*   [ImageStore (⭐677)](https://github.com/gregordr/ImageStore) - Self-hosted Google Photos alternative, with a very similar UI. ([Demo](https://gregordr.github.io/ImageStore/)) `Apache-2.0` `Nodejs/Docker`
 
 ## [Feb 03, 2021](/content/2021/02/03/README.md)
 
@@ -4630,10 +4623,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Gollum (⭐13k)](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
 
 ## [Dec 30, 2017](/content/2017/12/30/README.md)
-
-### Software / Communication - Social Networks and Forums
-
-*   [twister](http://twister.net.co/) - Fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols. ([Source Code (⭐1.4k)](https://github.com/miguelfreitas/twister-core)) `MIT` `C++`
 
 ### Software / Groupware
 

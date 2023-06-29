@@ -27,6 +27,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐15)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
 
+### Software / Software Development - FaaS & Serverless
+
+*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐939)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
+
 ### External Links / Wikis
 
 *   Communities/forums: [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosed Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [/c/selfhosted on lemmy.ml](https://lemmy.ml/c/selfhost), [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
@@ -2659,13 +2663,8 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with webapp, browser extension, and mobile app. ([Source Code (⭐13k)](https://github.com/bitwarden/server)) `AGPL-3.0` `C#`
 
-### Software / Pastebins
-
-*   [0bin (⭐1.3k)](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/)) `WTFPL` `Python`
-
 ### Software / Photo and Video Galleries
 
-*   [Photonix](https://photonix.org/) - A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms. ([Demo](https://demo.photonix.org/), [Source Code (⭐1.6k)](https://github.com/photonixapp/photonix)) `AGPL-3.0` `Python`
 *   [Photoview](https://photoview.github.io/) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Source Code (⭐3.9k)](https://github.com/photoview/photoview)) `GPL-3.0` `Go`
 
 ### Software / Proxy
@@ -2983,7 +2982,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Photo and Video Galleries
 
-*   [ImageStore (⭐677)](https://github.com/gregordr/ImageStore) - Self-hosted Google Photos alternative, with a very similar UI. ([Demo](https://gregordr.github.io/ImageStore/)) `Apache-2.0` `Nodejs/Docker`
 *   [LibrePhotos (⭐5.6k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
@@ -4233,7 +4231,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code (⭐42k)](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
 *   [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code (⭐963)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
 *   [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([Source Code (⭐1.7k)](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`
-*   [twister](http://twister.net.co/) - Fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols. ([Source Code (⭐1.4k)](https://github.com/miguelfreitas/twister-core)) `MIT` `C++`
 *   [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code (⭐2.7k)](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`
 
 ### Software / Communication - XMPP - Servers

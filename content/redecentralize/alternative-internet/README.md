@@ -6,6 +6,12 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 [ Daily / [Weekly](/content/redecentralize/alternative-internet/week/README.md) / [Overview](/content/redecentralize/alternative-internet/readme/README.md) ]
 
+## [Jun 29, 2023](/content/2023/06/29/README.md)
+
+### Protocols
+
+*   [remoteStorage](https://remotestorage.io) is an open protocol for per-user storage on the Web. Users can: own their data, have everything stored in one place, syncronise across multiple devices, use the same data across different apps, and work offline. Developers can: avoid creating backends, scale without cost, and start quickly with a JavaScript library handling all aspects of the protocol.
+
 ## [Jun 23, 2023](/content/2023/06/23/README.md)
 
 ### Protocols
@@ -34,7 +40,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ### Developer tools and frameworks
 
-*   [DB3 Network (⭐267)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
+*   [DB3 Network (⭐270)](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source decentralized firebase firestore alternative to build dapps quickly with minimal engineering effort.
 
 ## [Nov 18, 2022](/content/2022/11/18/README.md)
 
@@ -99,7 +105,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 ## [Jan 02, 2022](/content/2022/01/02/README.md)
 
-### Uncategorised
+### Hosting and media
 
 *   [LibreServer](https://libreserver.org/) is a small server system which enables you to run your own internet services independently. It includes all of the things you'd expect such as email, chat, VoIP, wikis, blogs, social networks, and more. You can run LibreServer on an old laptop or single board computer. You can also run it on an onion address.
 
@@ -156,7 +162,7 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 *   [LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
 
-### General
+### Protocols
 
 *   [Solidproject.org](https://solidproject.org/) Solid is a project lead by Tim Berners Lee that aims to re-decentralize the web. Solid (derived from "social linked data") is a proposed set of conventions and tools for building decentralized Web applications based on Linked Data principles. Solid is modular and extensible. It relies as much as possible on existing W3C standards and protocols. You can find more information also at [Inrupt](https://inrupt.com/solid) and [Solid MIT](https://solid.mit.edu/) webpages
 
@@ -531,6 +537,10 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 *   [Mailpile](http://www.mailpile.is/) is free software, a web-mail program that you run on your own computer, so your data stays under your control. Because it is free software (a.k.a. open source), you can look under the hood and see how it works, or even modify it to make it better suit your particular needs. Mailpile is designed for speed and vast amounts of e-mail, it is flexible and themeable and has support for strong encryption built in from the very start.
 *   [Matrix](http://matrix.org/) is an open standard for decentralised communication, providing simple HTTP APIs and open source reference implementations for securely distributing and persisting JSON over an open federation of servers. You can use Matrix for any project where you need a common data fabric to link together fragmented silos of communication.
 
+### Protocols
+
+*   [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project (⭐41)](http://github.com/glennjones/webmentions) is working on a unified API.
+
 ### Uncategorised
 
 *   [Aktie (⭐20)](https://github.com/retsamknaps/aktie) A decentralized and anonymous forum and file sharing app for I2P.
@@ -592,7 +602,6 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 *   [SyncNet](http://jack.minardi.org/software/syncnet-a-decentralized-web-browser/) is a decentralized web browser built on top of BitTorrent Sync and (soon) Colored Coins for name resolution. Every time you access a site, you store all of its contents on your machine. The next user to request the site can get the contents from both your machine and the original server. As more people access a page, it becomes available from more machines, reducing the load on the original server.
 *   [Syncthing](http://syncthing.net/) replaces Dropbox and BitTorrent Sync with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
 *   [Syndie](http://syndie.i2p2.de/)  is an open source system for operating distributed forums offering a secure and consistent interface to various anonymous and non-anonymous content networks.
-*   [Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
 *   Dyne's [Tomb](https://tomb.dyne.org/) the crypto-undertaker is free software for easy encryption and backup of personal files, written in a single ZShell script that is easy to review and links commonly shared components (such as cryptsetup), unlike [TrueCrypt](#Truecrypt).  Tomb implements and encourages OPSEC best-practice, and comes with bind and execution hooks, steganography of keys and fast search over filenames and contents, and a graphical user interface.
 *   [Tor](https://www.torproject.org/) protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your Internet connection from learning what sites you visit, and it prevents the sites you visit from learning your physical location.
 *   [Tribler (⭐4.3k)](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
@@ -604,10 +613,8 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 *   [Village Telco](http://villagetelco.org) is a an easy-to-use, scalable, standards-based, wireless, local, DIY, telephone company toolkit.  Their mission is to making voice and data communication affordable and accessible to anyone.
 *   [Wave](http://incubator.apache.org/wave/) is a distributed, near-real-time, rich collaboration platform that allows users to work together in new and exciting ways. Wave allows for flexible modes of communication, blending chat, email and collaborative document editing in to one seamless environment.
 *   [Webfist](http://webfist.org/) is a fallback for when providers don't support WebFinger natively. It lets you do WebFinger lookups for email addresses even if the owner of the domain name isn't playing along. WebFist works because of a judo move on an existing infrastructure: DKIM.
-*   [Webmentions](http://indiewebcamp.com/webmention) are an interesting method of notify another site that a *comment* /post on your own site is written in response to a post on their site. The site receiving the webmention notification can then verify the request and gather the message adding into a conversation flow in their post.[This project (⭐41)](http://github.com/glennjones/webmentions) is working on a unified API.
 *   [Yaler](https://yaler.net/) is a simple, open and scalable relay infrastructure for secure Web and SSH access to embedded systems located behind a firewall, NAT or mobile network router.
 *   [ZeroTier One](https://www.zerotier.com/) is an open source application that creates huge distributed Ethernet networks. It makes use of supernodes, but these run the same code as ordinary nodes and end-to-end encryption protects all unicast traffic. Semi-commercial with a freemium model.
-*   [arkOS](https://arkos.io) is an operating system and software stack to easily host your own websites, email addresses, cloud services and more. It uses a graphical interface (called Genesis) to do all of this, with a focus on end-user experience and simple design. Presently in active development, it is currently functional on the Raspberry Pi with new services and platforms in the works.
 *   [dn42](https://dn42.net/Home) is a big dynamic VPN network, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec), and exchange routes thanks to the Border Gateway Protocol. Network addresses are assigned in the 172.22.0.0/15 range, and private AS numbers are used: see registry. See the About page for more information.
 *   [eDonkey network](http://en.wikipedia.org/wiki/EDonkey_network) is a decentralized, mostly server-based, peer-to-peer file sharing network best suited to share big files among users, and to provide long term availability of files
 *   The [ePlug](http://kenCode.de/projects) is a tiny circuit board that resides inside of 'ePlug Certified' electrical outlets. Decentralized Meshnet, distributed computing, 6 gig WiFi. ISP's, CDN's and racks of servers, switches and wire no longer needed.
@@ -623,3 +630,5 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 
 *   [Zero Bin](http://0bin.net/) is an open source alternative for pastebin with burn-after-read function & client side encryption. Source code is also available on github [https://github.com/sametmax/0bin (⭐1.3k)](https://github.com/sametmax/0bin)
 *   [Yaap it !](http://yaap.it/) is another client-side encrypted burn-after-reading sharing service. It's written in JavaScript and you can install it on you own server: [https://github.com/SeyZ/yaapit (⭐27)](https://github.com/SeyZ/yaapit)
+*   [Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
+*   [arkOS](https://arkos.io) is an operating system and software stack to easily host your own websites, email addresses, cloud services and more. It uses a graphical interface (called Genesis) to do all of this, with a focus on end-user experience and simple design. Presently in active development, it is currently functional on the Raspberry Pi with new services and platforms in the works.

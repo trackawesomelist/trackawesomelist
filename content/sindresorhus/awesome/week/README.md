@@ -6,6 +6,13 @@
 
 [ [Daily](/content/sindresorhus/awesome/README.md) / Weekly / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
+
+### Miscellaneous
+
+*   [ChatGPT (⭐2.9k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
+*   [Whisper (⭐466)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
 ### Gaming
@@ -68,7 +75,7 @@
 
 ### Computer Science
 
-*   [Generative AI (⭐987)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+*   [Generative AI (⭐1.1k)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ### Decentralized Systems
 
@@ -325,14 +332,14 @@
 
 ### Platforms
 
-*   [Integration (⭐220)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐223)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
 ### Platforms
 
 *   [Linux (⭐3.8k)](https://github.com/inputsh/awesome-linux#readme)
-    *   [Containers (⭐1.5k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
+    *   [Containers (⭐1.6k)](https://github.com/Friz-zy/awesome-linux-containers#readme)
     *   [eBPF (⭐3.2k)](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
     *   [Arch-based Projects (⭐334)](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
     *   [AppImage (⭐301)](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
@@ -359,7 +366,7 @@
 
 ### Business
 
-*   [Billing (⭐588)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+*   [Billing (⭐603)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ### Work
 
@@ -573,7 +580,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐88)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐89)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -655,7 +662,7 @@
 
 ### Testing
 
-*   [Playwright (⭐432)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐445)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
@@ -671,13 +678,13 @@
 
 ### Programming Languages
 
-*   [Python (⭐170k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐172k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.1k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
     *   [CircuitPython (⭐550)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
     *   [Data Science (⭐2k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
     *   [Typing (⭐1.4k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    *   [MicroPython (⭐934)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+    *   [MicroPython (⭐955)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
 ### Front-End Development
 
@@ -704,7 +711,7 @@
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.7k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐135k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Self Hosted (⭐138k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 *   [Homematic (⭐170)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
@@ -1067,7 +1074,7 @@
 
 ### Platforms
 
-*   [Node.js (⭐51k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐52k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
@@ -1093,7 +1100,7 @@
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.5k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐25k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐6.2k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐6.3k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
@@ -1215,7 +1222,7 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐3k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐61k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Apps (⭐62k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐36k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [Sep 17 - Sep 23, 2018](/content/2018/38/README.md)
@@ -1380,7 +1387,7 @@
 
 ### Back-End Development
 
-*   [Docker (⭐25k)](https://github.com/veggiemonk/awesome-docker#readme)
+*   [Docker (⭐26k)](https://github.com/veggiemonk/awesome-docker#readme)
 *   [Play1 Framework (⭐41)](https://github.com/PerfectCarl/awesome-play1#readme)
 *   [CakePHP (⭐889)](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
 *   [Symfony (⭐1.5k)](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
@@ -1421,7 +1428,7 @@
 
 ### Theory
 
-*   [Papers We Love (⭐73k)](https://github.com/papers-we-love/papers-we-love#readme)
+*   [Papers We Love (⭐74k)](https://github.com/papers-we-love/papers-we-love#readme)
 *   [Talks (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#readme)
 *   [Algorithm Visualizations (⭐1.5k)](https://github.com/enjalot/algovis#readme)
 *   [Artificial Intelligence (⭐7.9k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
@@ -1432,7 +1439,7 @@
 
 ### Books
 
-*   [Free Programming Books (⭐283k)](https://github.com/EbookFoundation/free-programming-books#readme)
+*   [Free Programming Books (⭐285k)](https://github.com/EbookFoundation/free-programming-books#readme)
 *   [Go Books (⭐14k)](https://github.com/dariubs/GoBooks#readme)
 *   [R Books (⭐210)](https://github.com/RomanTsegelskyi/rbooks#readme)
 *   [Mind Expanding Books (⭐10k)](https://github.com/hackerkid/Mind-Expanding-Books#readme)
@@ -1555,7 +1562,7 @@
     *   [Communities (⭐308)](https://github.com/filipelinhares/awesome-slack#readme)
 *   [Remote Jobs (⭐26k)](https://github.com/lukasz-madon/awesome-remote-job#readme)
 *   [Productivity (⭐2k)](https://github.com/jyguyomarch/awesome-productivity#readme)
-*   [Niche Job Boards (⭐780)](https://github.com/tramcar/awesome-job-boards#readme)
+*   [Niche Job Boards (⭐795)](https://github.com/tramcar/awesome-job-boards#readme)
 
 ### Networking
 
@@ -1605,7 +1612,7 @@
 *   [MQTT (⭐2k)](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
 *   [For Girls (⭐511)](https://github.com/cristianoliveira/awesome4girls#readme)
 *   [Vorpal (⭐136)](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
-*   [Vulkan (⭐2.8k)](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
+*   [Vulkan (⭐2.9k)](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
 *   [LaTeX (⭐1.2k)](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
 *   [Economics (⭐1.1k)](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
 *   [Funny Markov Chains (⭐197)](https://github.com/sublimino/awesome-funny-markov#readme)

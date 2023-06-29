@@ -1,18 +1,37 @@
 # Awesome List Updates on Jun 26 - Jul 02, 2023
 
-37 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome List](/content/sindresorhus/awesome/week/README.md)
+
+### Miscellaneous
+
+*   [ChatGPT (⭐2.9k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
+*   [Whisper (⭐466)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+
+## [2. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+
+### Projects
+
+*   [zoom-rs (⭐919)](https://github.com/security-union/zoom-rs) - Zoom clone written in rust for research purposes.
+
+## [3. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+
+### Protocols
+
+*   [remoteStorage](https://remotestorage.io) is an open protocol for per-user storage on the Web. Users can: own their data, have everything stored in one place, syncronise across multiple devices, use the same data across different apps, and work offline. Developers can: avoid creating backends, scale without cost, and start quickly with a JavaScript library handling all aspects of the protocol.
+
+## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
 *   [Polars cookbook in Python (⭐84)](https://github.com/escobar-west/polars-cookbook) - This cookbook is a fork of the popular pandas-cookbook and has been modified to use the polars library. By [@escobar-west](https://github.com/escobar-west), it uses real-world examples with "all the bugs and weirdness that entails."
 
-## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Social, Economic and Political Networks
 
@@ -34,7 +53,7 @@
 
 *   [GEXF](https://gexf.net) - File format used by the Gephi software.
 
-## [3. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [6. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Other
 
@@ -46,7 +65,13 @@ Free (Open Source)
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/ealain-examples.jpg)](https://www.github.com/amiantos/ealain)
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Payments & Pricing
+
+*   [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
+
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Artificial Intelligence
 
@@ -60,7 +85,7 @@ Free (Open Source)
 
 *   [telegex (⭐76)](https://github.com/telegex/telegex) - Telegram bot framework and API client written in Elixir.
 
-## [5. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Russia 🇷🇺
 
@@ -84,7 +109,7 @@ Topics: Ember, JavaScript\
 Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 <https://twitter.com/martonkodok>
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -94,7 +119,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [Burke learns Blazor by porting a Vue.js app to Blazor](https://www.youtube.com/watch?v=fetGhhVYsLY) - ![duration](https://img.shields.io/badge/Duration:%20-86%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 16, 2021 - This summer, Burke and Jon are porting theurlist.com to Blazor - a real world JavaScript application written in Vue.js. Join them each week as they use Visual Studio, Visual Studio Code and GitHub Copilot to rebuild this app and try to tackle every frontend issue you might encounter along the way. [Community links](https://www.theurlist.com/burke-learns-blazor).
 
-## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
@@ -140,20 +165,20 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [pfSense CE](https://www.pfsense.org/) - Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ([Source Code (⭐4.2k)](https://github.com/pfsense/pfsense)) `Apache-2.0` `Shell/PHP/Other`
 
-## [8. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [12. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Marketplace / Market Research
 
 *   [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/) - A bit of vocabulary: “In a casino, the term *rake* refers to the commission that the house earns for operating a poker game. (…) While casinos use the term *rake*, a plethora of interesting word choices exist which all describe the same thing – keeping a little bit of the revenue for the company that is running the service.”
 
-## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Queues and Messaging
 
 *   [JobIteration (⭐923)](https://github.com/Shopify/job-iteration) - An ActiveJob extension to make long-running jobs interruptible and resumable.
 *   [SidekiqIteration (⭐187)](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
@@ -163,7 +188,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [Regal (⭐133)](https://github.com/styrainc/regal) — Regal is a linter for the policy language Rego. Regal aims to catch bugs and mistakes in policy code, while at the same time helping people learn the language, best practices and idiomatic constructs.
 
-## [11. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [15. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Database
 
@@ -173,51 +198,49 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [Community Over Code](https://communityovercode.org/) - have a Groovy Track
 
-## [12. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [16. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Go / Misc
 
 *   [steam (⭐2)](https://github.com/0xAozora/steam) - Simple steam library for trading in Go.
 *   [go-steam (⭐343)](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
 
-## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [17. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### IDE Extensions
 
 *   [LSP support for Emacs (⭐135)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
 
-## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [18. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Entrepreneurship / Angular
+### General Section / Svelte
+
+*   [Console](https://console.dev/). A free weekly email digest of the best tools for developers.
+
+### Business/Finance / Svelte
+
+*   [Wellfound Weekly](https://wellfound.com/newsletters). The best of the startup world, curated weekly.
+
+### Entrepreneurship / Svelte
 
 *   [Indie Hacker Newsletter](https://www.indiehackers.com/newsletter). A free bi-daily newsletter with actionable insights, founder stories and market updates to help you start and grow your business.
 *   [Founder Notes](https://www.foundernotes.io/). A free weekly newsletter that shares the secrets of successful founders, giving you actionable strategies to grow your business and keep you updated on the latest news and opportunities.
 *   [Hungry Minds](https://hungryminds.dev). A free weekly newsletter that get one mind-shaping idea, high-signal AI/Tech/Business news, and under-the-radar trends and tools to keep you hungry.
 *   [Product Hunt](https://www.producthunt.com/newsletter). Daily curated tech products and startups.
 
-## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
-
-### Authentication & Identity
-
-*   [Aserto](https://www.aserto.com) - Cloud-native authorization for applications and APIs.
-
-### Payments & Pricing
-
-*   [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
-
-## [16. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [19. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
 *   [The problem with OAuth for Authentication](http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html) - “The problem is that OAuth 2.0 is a Delegated Authorization protocol, and not a Authentication protocol.” 10 years after, this article is still the best explanation on [why use OpenID Connect instead of plain OAuth2](https://security.stackexchange.com/a/260519)?
 
-## [17. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [20. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Misc / MIT
 
 *   [adage (⭐2)](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
 
-## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Examples
 
@@ -229,7 +252,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 *   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -250,11 +273,15 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [Mere Medical](https://meremedical.co/) `⚠` - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code (⭐15)](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
 
+### Software / Software Development - FaaS & Serverless
+
+*   [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code (⭐939)](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
+
 ### External Links / Wikis
 
 *   Communities/forums: [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosed Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [/c/selfhosted on lemmy.ml](https://lemmy.ml/c/selfhost), [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 
-## [20. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [23. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Vector/Image Editor
 
@@ -267,7 +294,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   :free: [Vengi](https://mgerhardy.github.io/vengi/)
 
-## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
@@ -277,7 +304,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [monsi (⭐0)](https://github.com/rafa-wine/monsi_oh-my-zsh_theme) - Includes `git` status, last command exit status and current directory decorators.
 
-## [22. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [25. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -313,7 +340,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 *   [FlagAI (⭐3.2k)](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
 *   [AI.JSX (⭐185)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 
-## [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Courses
 
@@ -323,7 +350,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 
 *   [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***Cerebral Cortex***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081\&hl=en\&as_sdt=0,5)]. Visual and haptic shape perception fMRI experiments suggesting that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
 
-## [24. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [27. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Berlin
 
@@ -358,13 +385,13 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 | ---- | ----- | ------------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |            |
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [28. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [idsp](https://crates.io/crates/idsp): integer DSP algorithms (trigonometry, filtering, PLL...) tuned for precision and speed - ![crates.io](https://img.shields.io/crates/v/idsp.svg)
 
-## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
@@ -374,7 +401,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   [C++ Conferences (⭐3)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
@@ -384,7 +411,7 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   [coreylowman/dfdx (⭐1.1k)](https://github.com/coreylowman/dfdx) — CUDA accelearted machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
 
-## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [31. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
@@ -700,25 +727,25 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   [jupyter\_upydevice\_kernel (⭐12)](https://github.com/Carglglz/jupyter_upydevice_kernel) - Jupyter kernel to interact with a MicroPython board over its REPL interface.
 
-## [29. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [32. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Audio / SpriteKit
 
 *   [Rhythm Snap (⭐0)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁
 
-## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
 *   [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor providing view, edit, annotate, protect, convert, Copilot assistant, and more possibilities. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
 
-## [31. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [34. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Transition
 
 *   [TBIconTransitionKit (⭐1.3k)](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - Easy to use icon transition kit that allows to smoothly change from one shape to another.
 
-## [32. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [35. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Accounting & Finance
 
@@ -816,19 +843,23 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 
 
-## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [36. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   [The economic potential of generative AI: The next productivity frontier](https://www.linkedin.com/posts/genai-works_gen-ai-activity-7074980736268726272-LiiG): report by McKinsey Jun 2023
 
-## [34. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [37. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms
 
 *   [GeoComment](https://www.viewprogis.com/geocomment) - Allows the City staff, citizens and stakeholders of governance to interact digitally and offer meaningful inputs into the decision-making processes at all stages of project development through a map enabled platform.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Authentication, Authorization and User Management
+
+*   [Aserto](https://www.aserto.com) - Fine-grained authorization as a service for applications and APIs. Free up to 1000 MAUs and 100 authorizer instances.
 
 ### Code Quality
 
@@ -850,17 +881,25 @@ Webpage: <https://www.instagram.com/osskaffe.es/>
 
 *   [3Dassets.one](https://3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
 
-## [36. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [39. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Elegy](https://miraclem.itch.io/elegy) - Solo role playing game about being a vampire and surviving the big city nights
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Colorscheme Switchers / Diagnostics
+
+*   [zaldih/themery.nvim (⭐19)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
 
 ### Utility / Diagnostics
 
 *   [aPeoplesCalendar/apc.nvim (⭐3)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
+
+### Motion / Diagnostics
+
+*   [folke/flash.nvim (⭐570)](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
 
 ### Editing Support / Diagnostics
 
