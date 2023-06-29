@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [Aserto](https://www.aserto.com) - Cloud-native authorization for applications and APIs.
 
+### Payments & Pricing
+
+*   [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Automation
@@ -168,7 +172,6 @@ A curated list of awesome developer-first tools products.
 ### Misc
 
 *   [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
-*   [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 

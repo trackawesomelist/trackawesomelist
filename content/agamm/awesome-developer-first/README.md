@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jun 29, 2023](/content/2023/06/29/README.md)
+
+### Payments & Pricing
+
+*   [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
+
 ## [Jun 27, 2023](/content/2023/06/27/README.md)
 
 ### Authentication & Identity
@@ -177,7 +183,6 @@ A curated list of awesome developer-first tools products.
 ### Misc
 
 *   [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
-*   [Zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ## [Mar 28, 2023](/content/2023/03/28/README.md)
 

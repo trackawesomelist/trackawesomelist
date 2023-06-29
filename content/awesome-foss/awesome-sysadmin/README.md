@@ -6,6 +6,13 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Jun 29, 2023](/content/2023/06/29/README.md)
+
+### Software / DNS - Control Panels & Domain Management
+
+*   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐935)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
+*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐236)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
+
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
 ### Software / Backups
@@ -88,7 +95,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ## [May 07, 2023](/content/2023/05/07/README.md)
 
-### Software / DNS - Control Panels
+### Software / DNS - Control Panels & Domain Management
 
 *   [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code (⭐357)](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
 *   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐520)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
@@ -104,7 +111,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 *   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
 *   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐341)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
-*   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends.. ([Source Code (⭐3.1k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
+*   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code (⭐3.1k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
 *   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.3k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
 *   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐53)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
@@ -234,11 +241,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [Virtualmin](http://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
 *   [Webmin](http://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code (⭐2.7k)](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
 
-### Software / DNS - Control Panels
-
-*   [Pi-hole](https://pi-hole.net/) - A blackhole for Internet qdvertisements with a GUI for management and monitoring. ([Source Code (⭐43k)](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
-
-### Software / DNS - Domain Management
+### Software / DNS - Control Panels & Domain Management
 
 *   [DNSControl](https://stackexchange.github.io/dnscontrol/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code (⭐2.6k)](https://github.com/StackExchange/dnscontrol)) `MIT` `Go/Docker`
 
@@ -418,7 +421,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ## [Nov 13, 2019](/content/2019/11/13/README.md)
 
-### Software / DNS - Domain Management
+### Software / DNS - Control Panels & Domain Management
 
 *   [octoDNS (⭐2.7k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
@@ -669,7 +672,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns)) `Public Domain` `C`
 *   [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns)) `GPL-3.0` `C`
 
-### Software / DNS - Domain Management
+### Software / DNS - Control Panels & Domain Management
 
 *   [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate))
 *   [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
