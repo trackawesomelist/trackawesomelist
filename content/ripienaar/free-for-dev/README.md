@@ -11,6 +11,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### PaaS
 
 *   [Cosmonic](https://cosmonic.com) - Feature rich WebAssembly PaaS and SDKs for low boilerplate, flexible, and secure by default microservices. Always free tier includes a managed host, 25 microservices, and included capabilities like a robust keyvalue store, load balanced public HTTP endpoints, and more.
+*   [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for 3 services, with US$ 5 free credits per month.
+
+### Web Hosting
+
+*   [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
 
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
@@ -108,7 +113,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Design and UI
 
 *   [storyset.com](https://storyset.com/) — Create awesome free customised illustrations for your project using this tool.
-*   [NextUI](https://nextui.org/) -- Free. Beautiful, fast and modern React & Nxt.js UI library.
+*   [NextUI](https://nextui.org/) -- Free. Beautiful, fast and modern React & Next.js UI library.
 *   [Glyphs](https://glyphs.fyi/) -- Free, The Mightiest Icons on the Web, Fully editable & truly open source design system.
 *   [ShadcnUI](https://ui.shadcn.com/) -- Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 *   [HyperUI](https://www.hyperui.dev/) -- Free Open Source Tailwind CSS Components.
@@ -4473,7 +4478,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
 *   [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
 *   [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
-    *   [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
 
 ### DNS
 
