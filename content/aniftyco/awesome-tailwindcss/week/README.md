@@ -12,6 +12,10 @@
 
 *   [LSP support for Emacs (⭐135)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
 
+### Tools
+
+*   💼 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Tools

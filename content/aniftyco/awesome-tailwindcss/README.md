@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Jun 30, 2023](/content/2023/06/30/README.md)
+
+### Tools
+
+*   💼 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
+
 ## [Jun 27, 2023](/content/2023/06/27/README.md)
 
 ### IDE Extensions

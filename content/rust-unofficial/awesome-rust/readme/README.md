@@ -87,6 +87,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     *   [Email](#email)
     *   [Encoding](#encoding)
     *   [Filesystem](#filesystem)
+    *   [Finance](#finance)
     *   [Functional Programming](#functional-programming)
     *   [Game development](#game-development)
     *   [Geospatial](#geospatial)
@@ -147,7 +148,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [nicohman/eidolon (⭐117)](https://github.com/nicohman/eidolon) — A steam and drm-free game registry and launcher for linux and macosx
 *   [notty (⭐2.2k)](https://github.com/withoutboats/notty) — A new kind of terminal
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
-*   [Rio (⭐1.5k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rio (⭐1.6k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 *   [rx (⭐2.8k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 *   [Servo (⭐23k)](https://github.com/servo/servo) — A prototype web browser engine
 *   [shuttle (⭐3.2k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
@@ -1277,6 +1278,10 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [Stebalien/tempfile (⭐884)](https://github.com/Stebalien/tempfile) — temporary file library
     *   [Stebalien/xattr (⭐42)](https://github.com/Stebalien/xattr) \[[xattr](https://crates.io/crates/xattr)] — list and manipulate unix extended file attributes
     *   [zboxfs/zbox (⭐1.4k)](https://github.com/zboxfs/zbox) \[[zbox](https://crates.io/crates/zbox)] — Zero-details, privacy-focused embeddable file system.
+
+### Finance
+
+*   [avhz/RustQuant (⭐102)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 
 ### Functional Programming
 

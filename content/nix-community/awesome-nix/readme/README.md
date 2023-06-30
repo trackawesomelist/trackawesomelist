@@ -53,11 +53,13 @@
 
 *   [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - An in-depth blog series about creating a Rust application with Nix.
 *   [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
+*   [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
 *   [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
 *   [Nix Notes (⭐47)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 *   [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 *   [Nix Shorts (⭐8)](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
 *   [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
+*   [NixOS & Flakes Book (⭐79)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 *   [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
 *   [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
 
@@ -119,12 +121,12 @@
 *   [nix-diff (⭐239)](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 *   [nix-du (⭐212)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 *   [nix-index (⭐528)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
-*   [nix-init (⭐413)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
-*   [nix-melt (⭐109)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-init (⭐421)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+*   [nix-melt (⭐119)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 *   [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - A tool to produce useful graphs and statistics when building derivations.
 *   [nix-prefetch (⭐87)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 *   [nix-tree (⭐393)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
-*   [nurl (⭐227)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [nurl (⭐233)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 *   [nvd](https://gitlab.com/khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 *   [statix (⭐384)](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
@@ -223,7 +225,7 @@
 
 *   [cargo2nix (⭐232)](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
 *   [crane (⭐468)](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
-*   [fenix (⭐348)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [fenix (⭐360)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
 *   [naersk (⭐508)](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 *   [nix-cargo-integration (⭐138)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
 *   [nixpkgs-mozilla (⭐435)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.

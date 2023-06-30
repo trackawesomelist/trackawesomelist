@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jun 30, 2023](/content/2023/06/30/README.md)
+
+### Resources / Learning
+
+*   [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
+*   [NixOS & Flakes Book (⭐79)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
+
 ## [Jun 19, 2023](/content/2023/06/19/README.md)
 
 ### Channel History / Discovery
@@ -30,7 +37,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-melt (⭐109)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
+*   [nix-melt (⭐119)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 
 ## [Jun 02, 2023](/content/2023/06/02/README.md)
 
@@ -98,7 +105,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-init (⭐413)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+*   [nix-init (⭐421)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
 
 ### Programming Languages / PureScript
 
@@ -119,7 +126,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nurl (⭐227)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
+*   [nurl (⭐233)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 
 ### Development / Discovery
 
@@ -328,7 +335,7 @@
 
 ### Programming Languages / Rust
 
-*   [fenix (⭐348)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
+*   [fenix (⭐360)](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
 *   [nixpkgs-mozilla (⭐435)](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
 *   [rust-overlay (⭐471)](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
