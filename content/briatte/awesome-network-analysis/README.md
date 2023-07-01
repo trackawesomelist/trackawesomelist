@@ -6,6 +6,16 @@ A curated list of awesome network analysis resources.
 
 [ Daily / [Weekly](/content/briatte/awesome-network-analysis/week/README.md) / [Overview](/content/briatte/awesome-network-analysis/readme/README.md) ]
 
+## [Jul 01, 2023](/content/2023/07/01/README.md)
+
+### Software / Python
+
+*   [Raphtory](https://www.raphtory.com/) - A platform for building and analysing temporal networks.
+
+### Software / R
+
+*   [netUtils (⭐11)](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
+
 ## [Jun 29, 2023](/content/2023/06/29/README.md)
 
 ### Software / Social, Economic and Political Networks

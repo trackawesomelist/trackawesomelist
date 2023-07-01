@@ -24,6 +24,14 @@ A curated list of awesome network analysis resources.
 
 *   [Gephi Lite (⭐115)](https://github.com/gephi/gephi-lite) - Web-based, lighter version of Gephi.
 
+### Software / Python
+
+*   [Raphtory](https://www.raphtory.com/) - A platform for building and analysing temporal networks.
+
+### Software / R
+
+*   [netUtils (⭐11)](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
+
 ### Software / Syntaxes
 
 *   [GEXF](https://gexf.net) - File format used by the Gephi software.

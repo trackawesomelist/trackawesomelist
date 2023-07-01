@@ -18,7 +18,9 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
 
+*   \[🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
 *   \[🔥🔥🔥] [Prompt Engineering | Lil'Log](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): prompt engineering learning notes by Lilian Weng
+*   \[🔥🔥🔥] [Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
@@ -327,10 +329,6 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐15k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
 *   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
-
-### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
-
-*   \[🔥🔥🔥] [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 
 ### Hypertechniques / References Collection about Stable Diffusion
 

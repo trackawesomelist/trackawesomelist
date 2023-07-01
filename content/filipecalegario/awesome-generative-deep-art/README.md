@@ -6,6 +6,13 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 01, 2023](/content/2023/07/01/README.md)
+
+### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
+
+*   \[🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
+*   \[🔥🔥🔥] [Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
+
 ## [Jun 30, 2023](/content/2023/06/30/README.md)
 
 ### Inbox: Large Language Models / Autonomous LLM Agents
@@ -453,10 +460,6 @@ A curated list of Generative AI tools, works, models, and references
 *   [AudioLDM](https://audioldm.github.io/): Text-to-Audio Generation with Latent Diffusion Models - Speech Research
 
 ## [Mar 22, 2023](/content/2023/03/22/README.md)
-
-### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
-
-*   \[🔥🔥🔥] [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 
 ### Discussions and Philosophy / Papers Collections
 

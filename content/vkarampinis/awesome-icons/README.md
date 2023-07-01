@@ -2,9 +2,16 @@
 
 A curated list of awesome Web Font Icons
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vkarampinis/awesome-icons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) · ⭐ 1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vkarampinis/awesome-icons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) · ⭐ 1.1K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
+
+## [Jul 01, 2023](/content/2023/07/01/README.md)
+
+### Generic
+
+*   [Google Material Design Icons, by Google](https://fonts.google.com/icons) - Official Google Material Design Icons.
+*   [Flowbite Icons](https://flowbite.com/icons/) - Open-source collection of over 430+ solid and outline icons built for Tailwind CSS and Figma.
 
 ## [Oct 19, 2022](/content/2022/10/19/README.md)
 
@@ -20,19 +27,19 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Tabler Icons (⭐13k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Tabler Icons (⭐16k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
 
 ### Generic
 
-*   [Akar Icons (⭐380)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐390)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## [Feb 26, 2022](/content/2022/02/26/README.md)
 
 ### Generic
 
-*   [Icons8 Line Awesome (⭐1.1k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
+*   [Icons8 Line Awesome (⭐1.2k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
 
 ## [Jan 03, 2022](/content/2022/01/03/README.md)
 
@@ -59,19 +66,19 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Material Design Icons (⭐10k)](https://github.com/Templarian/MaterialDesign) - 6200+ Material Design Icons from the Community
+*   [Material Design Icons (⭐11k)](https://github.com/Templarian/MaterialDesign) - 6200+ Material Design Icons from the Community
 *   [Evil Icons (⭐5k)](https://github.com/evil-icons/evil-icons) - Free ‘plug and play’ set of SVG icons designed specifically for web projects
 *   [Lineicons](https://lineicons.com/) - 532 Line Icons for Designers and Developers
 
 ### Merchants
 
-*   [Bitcoin-Icons (⭐78)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐86)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [Oct 15, 2021](/content/2021/10/15/README.md)
 
 ### Merchants
 
-*   [CMC Cryptocurrency Icons (⭐122)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [CMC Cryptocurrency Icons (⭐148)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 
 ## [Oct 05, 2021](/content/2021/10/05/README.md)
 
@@ -108,7 +115,7 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Cryptocurrency Icons (⭐2.3k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Cryptocurrency Icons (⭐2.5k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
 ## [Oct 03, 2020](/content/2020/10/03/README.md)
 
@@ -140,13 +147,13 @@ A curated list of awesome Web Font Icons
 ### Social
 
 *   [Social Media Icons Pack](https://www.fontfabric.com/fonts/social-media-icons-pack/) - Socialico is a package of 74 social media icons, combined within a single weight font.
-*   [Stackicons](http://stackicons.com/) - Over 60 icons for old social brands (last commit in [2014 (⭐973)](https://github.com/parkerbennett/stackicons), with multi-color option.
+*   [Stackicons](http://stackicons.com/) - Over 60 icons for old social brands (last commit in [2014 (⭐970)](https://github.com/parkerbennett/stackicons), with multi-color option.
 
 ## [Mar 01, 2020](/content/2020/03/01/README.md)
 
 ### Generic
 
-*   [Heroicons (⭐17k)](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+*   [Heroicons (⭐19k)](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 
 ## [Dec 30, 2019](/content/2019/12/30/README.md)
 
@@ -172,7 +179,7 @@ A curated list of awesome Web Font Icons
 
 ### Tools
 
-*   [svgtofont (⭐328)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐409)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [May 10, 2019](/content/2019/05/10/README.md)
 
@@ -186,7 +193,7 @@ A curated list of awesome Web Font Icons
 
 *   [iconmonstr](http://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 *   [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
-*   [svg-icon (⭐978)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
+*   [svg-icon (⭐1k)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
 *   [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
 *   [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 
@@ -203,7 +210,6 @@ A curated list of awesome Web Font Icons
 *   [Marka](http://fian.my.id/marka/) - 36 Beautiful transformable icons.
 *   [Octicons](https://octicons.github.com/) - All GitHub's icons.
 *   [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) - A fantasy themed font and CSS toolkit.
-*   [Google Material Design Icons, by Google](https://design.google.com/icons/) - Official Google Material Design Icons.
 *   [pictonic](https://pictonic.co) - Over 260+ free icons.
 *   [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 
