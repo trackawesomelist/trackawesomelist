@@ -6,6 +6,12 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 [ Daily / [Weekly](/content/kdabir/awesome-groovy/week/README.md) / [Overview](/content/kdabir/awesome-groovy/readme/README.md) ]
 
+## [Jul 01, 2023](/content/2023/07/01/README.md)
+
+### Build tools, setup and CI
+
+*   [skeletal (⭐11)](https://github.com/cbmarcum/skeletal) - A simple project creation tool that uses packaged templates (successor of Lazybones)
+
 ## [Jun 27, 2023](/content/2023/06/27/README.md)
 
 ### Database

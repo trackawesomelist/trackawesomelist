@@ -8,6 +8,10 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
+### Build tools, setup and CI
+
+*   [skeletal (⭐11)](https://github.com/cbmarcum/skeletal) - A simple project creation tool that uses packaged templates (successor of Lazybones)
+
 ### Database
 
 *   [GORM](https://gorm.grails.org) - Grails ORM, but can be used stand-alone without Grails

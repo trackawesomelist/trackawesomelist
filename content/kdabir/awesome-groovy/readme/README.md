@@ -38,6 +38,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 *   [Gradle](https://www.gradle.org/) - A powerful build system for the JVM
 *   [GMavenPlus (⭐258)](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
 *   [SDKMAN](https://sdkman.io) - The Software Development Kit Manager (Previously known as GVM)
+*   [skeletal (⭐11)](https://github.com/cbmarcum/skeletal) - A simple project creation tool that uses packaged templates (successor of Lazybones)
 *   [Lazybones (⭐615)](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 *   [Jenkins job-dsl-plugin (⭐1.8k)](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs
 *   [travis-groovy (⭐3)](https://github.com/kdabir/travis-groovy) - execute groovy scripts on travis-ci

@@ -1,12 +1,39 @@
 # Awesome List Updates on Jul 01, 2023
 
-7 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+
+### Unit Test, Testing / MIT
+
+*   [aunit (⭐8)](https://github.com/AdaCore/aunit) - Ada unit testing framework.
+
+## [2. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+
+### Build tools, setup and CI
+
+*   [skeletal (⭐11)](https://github.com/cbmarcum/skeletal) - A simple project creation tool that uses packaged templates (successor of Lazybones)
+
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+
+### Implementations
+
+*   [Pyston (⭐2.4k)](https://github.com/pyston/pyston/) - A Python implementation using JIT techniques.
+
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### CUDA / Non-X86
+
+*   [CUDA C Best Practices Guide](https://web.archive.org/web/20170517050133/https://docs.nvidia.com/pdf/CUDA_C_Best_Practices_Guide.pdf) - Nvidia (PDF) *(:card\_file\_box: archived)*
+*   [CUDA C Programming Guide](https://web.archive.org/web/20181228130113/https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) - Nvidia (PDF) *(:card\_file\_box: archived)*
+*   [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf) - Nvidia (PDF)
+*   [CUDA C++ Programming guide](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) - Nvidia (PDF)
+
+## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Sensors / Colour
 
@@ -24,7 +51,7 @@
 
 *   [MicroPython\_AS6212 (⭐0)](https://github.com/jposada202020/MicroPython_AS6212) - MicroPython Library for the ASM AS6212 Temperature Sensor.
 
-## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Python
 
@@ -34,7 +61,7 @@
 
 *   [netUtils (⭐11)](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -73,21 +100,21 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
 *   [Google Material Design Icons, by Google](https://fonts.google.com/icons) - Official Google Material Design Icons.
 *   [Flowbite Icons](https://flowbite.com/icons/) - Open-source collection of over 430+ solid and outline icons built for Tailwind CSS and Figma.
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
 
 *   \[🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
 *   \[🔥🔥🔥] [Prompt Engineering Guide](https://www.promptingguide.ai/): a project by DAIR.AI that intends to educate researchers and practitioners about prompt engineering
 
-## [6. Magictools](/content/ellisonleao/magictools/README.md)
+## [10. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Graphics / Modeling
 
@@ -98,7 +125,7 @@
 *   :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
 *   :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculpris by MAXON
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Data Manipulation / Processors
 
