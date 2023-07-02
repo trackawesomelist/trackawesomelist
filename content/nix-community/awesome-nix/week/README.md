@@ -12,6 +12,7 @@
 
 *   [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
 *   [NixOS & Flakes Book (⭐79)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
+*   [Wombat's Book of Nix](https://mhwombat.codeberg.page/nix-book/) - A book-length introduction to Nix and flakes.
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 

@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Jul 02, 2023](/content/2023/07/02/README.md)
+
+### Business/Finance / Svelte
+
+*   [Indie Hackers Newsletter](https://www.indiehackers.com/newsletter). The best news for founders, not consumers.
+
 ## [Jun 29, 2023](/content/2023/06/29/README.md)
 
 ### General Section / Svelte

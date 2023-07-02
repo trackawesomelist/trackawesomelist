@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jul 02, 2023](/content/2023/07/02/README.md)
+
+### Resources / Learning
+
+*   [Wombat's Book of Nix](https://mhwombat.codeberg.page/nix-book/) - A book-length introduction to Nix and flakes.
+
 ## [Jun 30, 2023](/content/2023/06/30/README.md)
 
 ### Resources / Learning

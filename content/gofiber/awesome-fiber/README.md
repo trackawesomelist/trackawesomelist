@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/gofiber/awesome-fiber/week/README.md) / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
 
+## [Jul 02, 2023](/content/2023/07/02/README.md)
+
+### ⚙️ Middlewares / 🌱 Third Party
+
+*   [Idan-Fishman/fiber-bind (⭐5)](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
+
+### 🛠️ Tools / 🌱 Third Party
+
+*   [deepmap/oapi-codegen (⭐3.7k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
+
 ## [Jun 25, 2023](/content/2023/06/25/README.md)
 
 ### ⚙️ Middlewares / ‍💻 Contrib
@@ -40,12 +50,6 @@
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [samber/slog-fiber (⭐1)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
-
-## [Apr 29, 2023](/content/2023/04/29/README.md)
-
-### ⚙️ Middlewares / 🌱 Third Party
-
-*   [Idan-Fishman/validation (⭐1)](https://github.com/Idan-Fishman/validation) - Data validation middleware that validates sources such as the request body, query string parameters, and route parameters.
 
 ## [Feb 19, 2023](/content/2023/02/19/README.md)
 

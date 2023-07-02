@@ -117,7 +117,7 @@ List of middlewares that are created by the Fiber community.
 *   [airbrake/gobrake (⭐103)](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
 *   [samber/slog-fiber (⭐1)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 *   [mikhail-bigun/fiberlogrus (⭐5)](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
-*   [Idan-Fishman/validation (⭐1)](https://github.com/Idan-Fishman/validation) - Data validation middleware that validates sources such as the request body, query string parameters, and route parameters.
+*   [Idan-Fishman/fiber-bind (⭐5)](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
 
 ## 🚧 Boilerplates
 
@@ -151,6 +151,7 @@ Several tools to make Fiber usage easier.
 *   [go-dawn/dawn (⭐8)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
 *   [tompston/gomakeme (⭐7)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 *   [ryanbekhen/feserve (⭐7)](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or docker image to serve frontend and load balancer applications.
+*   [deepmap/oapi-codegen (⭐3.7k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ## 📖 Articles
 

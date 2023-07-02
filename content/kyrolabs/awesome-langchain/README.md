@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jul 02, 2023](/content/2023/07/02/README.md)
+
+### Tools / Agents
+
+*   [DemoGPT (⭐60)](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
+
 ## [Jun 29, 2023](/content/2023/06/29/README.md)
 
 ### Open Source Projects / Knowledge Management
@@ -56,7 +62,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [MindGeniusAI (⭐1)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
+*   [MindGeniusAI (⭐17)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 
 ## [Jun 12, 2023](/content/2023/06/12/README.md)
 
@@ -119,7 +125,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [WingmanAI (⭐338)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [WingmanAI (⭐351)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
@@ -181,7 +187,7 @@
 
 ### Tools / Agents
 
-*   [CollosalAI Chat (⭐30k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
+*   [CollosalAI Chat (⭐31k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 
 ### Tools / Platforms
 
@@ -379,7 +385,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [AudioGPT (⭐8.7k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐8.8k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 
 ### Alternatives / Articles
 

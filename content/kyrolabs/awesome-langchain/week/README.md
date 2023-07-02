@@ -15,6 +15,7 @@
 ### Tools / Agents
 
 *   [Multi-Modal LangChain agents in Production (⭐225)](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
+*   [DemoGPT (⭐60)](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
 
 ### Tools / Templates
 
@@ -52,7 +53,7 @@
 
 *   [Dialoqbase (⭐448)](https://github.com/n4ze3m/dialoqbase): web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)
 *   [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files.
-*   [MindGeniusAI (⭐1)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
+*   [MindGeniusAI (⭐17)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -78,7 +79,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [WingmanAI (⭐338)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [WingmanAI (⭐351)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 *   [TutorGPT (⭐433)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 
 ### Learn / Videos
@@ -111,7 +112,7 @@
 
 ### Tools / Agents
 
-*   [CollosalAI Chat (⭐30k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
+*   [CollosalAI Chat (⭐31k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 *   [SuperAgent (⭐1.1k)](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
 *   [Voyager (⭐3.6k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 *   [ix (⭐594)](https://github.com/kreneskyp/ix): Autonomous GPT-4 agent platform ![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)
@@ -253,7 +254,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [AudioGPT (⭐8.7k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐8.8k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 
 ### Alternatives / Articles
 

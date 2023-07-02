@@ -15,6 +15,7 @@ A list of amazing Newsletters
 ### Business/Finance / Svelte
 
 *   [Wellfound Weekly](https://wellfound.com/newsletters). The best of the startup world, curated weekly.
+*   [Indie Hackers Newsletter](https://www.indiehackers.com/newsletter). The best news for founders, not consumers.
 
 ### Entrepreneurship / Svelte
 

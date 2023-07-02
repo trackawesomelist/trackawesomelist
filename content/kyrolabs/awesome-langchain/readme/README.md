@@ -88,7 +88,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Agents
 
-*   [CollosalAI Chat (⭐30k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
+*   [CollosalAI Chat (⭐31k)](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 *   [AgentGPT (⭐24k)](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 *   [Local GPT (⭐8.8k)](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 *   [ThinkGPT (⭐1.3k)](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)
@@ -103,6 +103,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [ix (⭐594)](https://github.com/kreneskyp/ix): Autonomous GPT-4 agent platform ![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)
 *   [DuetGPT (⭐109)](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
 *   [Multi-Modal LangChain agents in Production (⭐225)](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
+*   [DemoGPT (⭐60)](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
 
 ### Templates
 
@@ -135,7 +136,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Other / Chatbots
 
-*   [AudioGPT (⭐8.7k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐8.8k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 *   [Paper QA (⭐2.7k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 *   [Chat Langchain (⭐2.9k)](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
 *   [Langchain Chat (⭐801)](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat. ![GitHub Repo stars](https://img.shields.io/github/stars/zahidkhawaja/langchain-chat-nextjs?style=social)
@@ -166,13 +167,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [DB GPT (⭐4.9k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
 *   [Psychic (⭐1.3k)](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 *   [Airtable-QnA (⭐19)](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
-*   [WingmanAI (⭐338)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+*   [WingmanAI (⭐351)](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 *   [TutorGPT (⭐433)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 *   [Cheshire Cat (⭐728)](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
 *   [Got Chaat Bot (⭐9)](https://github.com/parker84/GoT-chat-bot): Repo for creating GoT Chatbots (ex: talk with Tyrion Lannister) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social)
 *   [Dialoqbase (⭐448)](https://github.com/n4ze3m/dialoqbase): web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)
 *   [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files.
-*   [MindGeniusAI (⭐1)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
+*   [MindGeniusAI (⭐17)](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 *   [Robby-Chatbot (⭐373)](https://github.com/yvann-hub/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
 *   [AI Chatbot (⭐1.7k)](https://github.com/vercel-labs/ai-chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)
 *   [Instrukt (⭐97)](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
