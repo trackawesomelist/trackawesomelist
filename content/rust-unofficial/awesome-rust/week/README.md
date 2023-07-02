@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
+### Applications / Cryptocurrencies
+
+*   [cairo-vm (⭐368)](https://github.com/lambdaclass/cairo-vm) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
+
 ### Applications / System tools
 
 *   [ellie/atuin (⭐10k)](https://github.com/ellie/atuin) \[[atuin](https://crates.io/crates/atuin)] — Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
@@ -15,6 +19,16 @@ A curated list of Rust code and resources.
 ### Libraries / Artificial Intelligence
 
 *   [coreylowman/dfdx (⭐1.1k)](https://github.com/coreylowman/dfdx) — CUDA accelearted machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
+
+### Libraries / Command-line
+
+*   Style
+    *   [colored (⭐1.3k)](https://github.com/colored-rs/colored) \[[colored](https://crates.io/crates/colored)] — Coloring terminal so simple, you already know how to do it!
+    *   [console-rs/dialoguer (⭐990)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] — A rust library for command line prompts and similar things.
+    *   [LukasKalbertodt/bunt (⭐213)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
+    *   [LukasKalbertodt/term-painter (⭐74)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output
+    *   [ogham/rust-ansi-term (⭐423)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals
+    *   [SergioBenitez/yansi (⭐189)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
 
 ### Libraries / Finance
 
@@ -47,11 +61,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Security tools
 
-*   [cotp (⭐102)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+*   [cotp (⭐106)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 
 ### Libraries / Email
 
-*   [mailtutan/mailtutan (⭐75)](https://github.com/mailtutan/mailtutan) An SMTP server for test and development environment.
+*   [mailtutan/mailtutan (⭐105)](https://github.com/mailtutan/mailtutan) An SMTP server for test and development environment.
 
 ### Resources / Web programming
 
@@ -218,16 +232,6 @@ A curated list of Rust code and resources.
 ### Development tools / Profiling
 
 *   [Bencher (⭐100)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
-
-### Libraries / Command-line
-
-*   Style
-    *   [console-rs/dialoguer (⭐990)](https://github.com/console-rs/dialoguer) \[[dialoguer](https://crates.io/crates/dialoguer)] — A rust library for command line prompts and similar things.
-    *   [LukasKalbertodt/bunt (⭐213)](https://github.com/LukasKalbertodt/bunt) \[[bunt](https://crates.io/crates/bunt)] — cross-platform terminal colors and styling with macros [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
-    *   [LukasKalbertodt/term-painter (⭐74)](https://github.com/LukasKalbertodt/term-painter) \[[term-painter](https://crates.io/crates/term-painter)] — cross-platform styled terminal output
-    *   [mackwic/colored (⭐1.3k)](https://github.com/mackwic/colored) \[[colored](https://crates.io/crates/colored)] — Coloring terminal so simple, you already know how to do it!
-    *   [ogham/rust-ansi-term (⭐423)](https://github.com/ogham/rust-ansi-term) \[[ansi\_term](https://crates.io/crates/ansi_term)] — control colours and formatting on ANSI terminals
-    *   [SergioBenitez/yansi (⭐189)](https://github.com/SergioBenitez/yansi) \[[yansi](https://crates.io/crates/yansi)] — A dead simple ANSI terminal color painting library
 
 ### Libraries / Video
 
@@ -479,7 +483,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Cryptocurrencies
 
-*   [cairo (⭐958)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
+*   [cairo (⭐958)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/en), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
 *   [sigma-rust (⭐59)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
 
 ### Applications / Social networks
@@ -496,10 +500,6 @@ A curated list of Rust code and resources.
 *   [s1ck/graph (⭐289)](https://github.com/s1ck/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/s1ck/graph/CI/main?label=CI)](https://github.com/s1ck/graph/actions/workflows/rust.yml)
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
-
-### Applications / Cryptocurrencies
-
-*   [cairo-rs (⭐364)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
 
 ### Applications / Web
 
@@ -871,15 +871,15 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [orhun/systeroid (⭐986)](https://github.com/orhun/systeroid) — A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
+*   [orhun/systeroid (⭐986)](https://github.com/orhun/systeroid) — A more powerful alternative to sysctl(8) with a terminal user interface ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/actions/workflow/status/orhun/systeroid/ci.yml?branch=main\&label=build)
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐409)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/workflow/status/orhun/rustypaste/Continuous%20Integration/master?label=build)
+*   [orhun/rustypaste (⭐409)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
 
 ### Development tools / Web Servers
 
-*   [git-cliff (⭐5.7k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
+*   [git-cliff (⭐5.7k)](https://github.com/orhun/git-cliff) — A highly customizable Changelog Generator that follows Conventional Commit specifications ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/actions/workflow/status/orhun/git-cliff/ci.yml?branch=main\&label=build)
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
@@ -2664,7 +2664,7 @@ A curated list of Rust code and resources.
 ### Applications / System tools
 
 *   [ajeetdsouza/zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide/) — A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
-*   [orhun/kmon (⭐1.9k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
+*   [orhun/kmon (⭐1.9k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
 
@@ -2886,7 +2886,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [Module Linker (⭐247)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+*   [Module Linker (⭐246)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 
 ## [Apr 29 - May 05, 2019](/content/2019/17/README.md)
 
