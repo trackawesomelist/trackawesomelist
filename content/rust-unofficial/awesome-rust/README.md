@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Jul 03, 2023](/content/2023/07/03/README.md)
 
+### Applications / Graphics
+
+*   [rustq/vue-skia (⭐93)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+
 ### Libraries / Finance
 
 *   [d-e-s-o/apca (⭐80)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
@@ -62,7 +66,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [LLDAP (⭐2.6k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
+*   [LLDAP (⭐2.7k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 
 ## [Jun 17, 2023](/content/2023/06/17/README.md)
 
