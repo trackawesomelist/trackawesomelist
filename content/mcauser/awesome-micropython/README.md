@@ -6,21 +6,39 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jul 04, 2023](/content/2023/07/04/README.md)
+
+### AI
+
+*   [upython-chat-gpt (⭐2)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
+
+### Communications / IoT
+
+*   [micropython-switchbot-thermometer-hygrometer (⭐0)](https://github.com/hilch/micropython-switchbot-thermometer-hygrometer) - Read SwitchBot Thermometer/Hygrometer via Bluetooth.
+
+### Sensors / Accelerometer Digital
+
+*   [MicroPython\_MMA8452Q (⭐0)](https://github.com/jposada202020/MicroPython_MMA8452Q) - MicroPython Driver for the NXP MMA8452Q Accelerometer.
+
+### Sensors / Motion Inertial
+
+*   [MicroPython\_ICG20660 (⭐0)](https://github.com/jposada202020/MicroPython_ICG20660) - MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.
+
 ## [Jul 01, 2023](/content/2023/07/01/README.md)
 
 ### Sensors / Colour
 
 *   [MicroPython\_TCS3430 (⭐0)](https://github.com/jposada202020/MicroPython_TCS3430) - MicroPython driver for the AMS TCS3430 Color and ALS sensor.
 
-### Magnetometer / Light
+### Sensors / Magnetometer
 
 *   [MicroPython\_BMM150 (⭐0)](https://github.com/jposada202020/MicroPython_BMM150) - MicroPython Driver for the Bosch BMM150 Magnetometer.
 
-### Magnetometer / Pressure
+### Sensors / Pressure
 
 *   [MicroPython\_MS5611 (⭐0)](https://github.com/jposada202020/MicroPython_MS5611) - MicroPython Driver for the TE MS5611 Pressure and Temperature Sensor.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [MicroPython\_AS6212 (⭐0)](https://github.com/jposada202020/MicroPython_AS6212) - MicroPython Library for the ASM AS6212 Temperature Sensor.
 
@@ -116,14 +134,14 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [XAsyncSockets (⭐31)](https://github.com/jczic/XAsyncSockets) - XAsyncSockets is an efficient Python/MicroPython library of managed asynchronous sockets.
 
-### Communications / WiFi
-
-*   [mpy-wpa\_supplicant (⭐0)](https://github.com/Carglglz/mpy-wpa_supplicant) - MicroPython module to connect to the nearest known Wifi AP.
-
 ### Communications / Web
 
 *   [CaptiveWebServer (⭐1)](https://github.com/joewez/CaptiveWebServer) - Simple MicroPython web server for serving a website from a captive portal.
 *   [micropython-urouter (⭐38)](https://github.com/whales-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
+
+### Communications / WiFi
+
+*   [mpy-wpa\_supplicant (⭐0)](https://github.com/Carglglz/mpy-wpa_supplicant) - MicroPython module to connect to the nearest known Wifi AP.
 
 ### Display / E-Paper
 
@@ -259,37 +277,37 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [BH1750 (⭐0)](https://github.com/octaprog7/BH1750) - MicroPython module for the BH1750 ambient light sensor (ALS).
 *   [veml7700 (⭐0)](https://github.com/octaprog7/veml7700) - MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay.
 
-### Magnetometer / Light
+### Sensors / Magnetometer
 
 *   [MicroPython\_LIS2MDL (⭐0)](https://github.com/jposada202020/MicroPython_LIS2MDL) - MicroPython Driver for the ST LIS2MDL Magnetometer sensor.
 *   [MicroPython\_LIS3MDL (⭐0)](https://github.com/jposada202020/MicroPython_LIS3MDL) - MicroPython Driver for the ST LIS3MDL magnetometer.
 *   [MicroPython\_MLX90393 (⭐0)](https://github.com/jposada202020/MicroPython_MLX90393) - MicroPython Driver for the MLX90393 Magnetometer.
 *   [MicroPython\_MMC5603 (⭐0)](https://github.com/jposada202020/MicroPython_MMC5603) - MicroPython driver for the Memsic MMC5603 Magnetometer.
 
-### Magnetometer / Motion Inertial
+### Sensors / Motion Inertial
 
 *   [MicroPython\_ICM20948 (⭐1)](https://github.com/jposada202020/MicroPython_ICM20948) - MicroPython Driver for the TDK ICM20948 Accelerometer/Gyro Sensor.
 *   [MicroPython\_BMI160 (⭐0)](https://github.com/jposada202020/MicroPython_BMI160) - MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.
 *   [micropython-mpu6050 (⭐1)](https://github.com/wybiral/micropython-mpu6050) - MicroPython library for reading from MPU-6050 accelerometer and gyroscope modules.
 
-### Magnetometer / Pressure
+### Sensors / Pressure
 
 *   [MicroPython\_MMR902 (⭐0)](https://github.com/jposada202020/MicroPython_MMR902) - MicroPython Driver for the Mitsumi MMR902 Micro Pressure Sensor.
 *   [MicroPython\_MPL3115A2 (⭐0)](https://github.com/jposada202020/MicroPython_MPL3115A2) - MicroPython driver for the NXP MPL3115A2 Pressure and Temperature sensor.
 
-### Magnetometer / Proximity
+### Sensors / Proximity
 
 *   [MicroPython\_VCNL4010 (⭐0)](https://github.com/jposada202020/MicroPython_VCNL4010) - MicroPython Driver for the Vishay VCNL4010 Proximity and Ambient Light Sensor.
 
-### Magnetometer / Soil Moisture
+### Sensors / Soil Moisture
 
 *   [micropython-miflora (⭐1)](https://github.com/agners/micropython-miflora) - MicroPython library for Xiaomi Mi Flora BLE plant sensors.
 
-### Magnetometer / Spectral
+### Sensors / Spectral
 
 *   [MicroPython\_AS7262X\_driver (⭐2)](https://github.com/rcolistete/MicroPython_AS7262X_driver) - MicroPython driver for AS7262/AS7263 nano spectrometer sensor.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [MicroPython\_HTU31D (⭐1)](https://github.com/jposada202020/MicroPython_HTU31D) - MicroPython library for TE HTU31D temperature and humidity sensors.
 *   [MicroPython\_SHTC3 (⭐0)](https://github.com/jposada202020/MicroPython_SHTC3) - MicroPython Driver for the Sensirion SHTC3 Temperature and Humidity Sensor.
@@ -308,11 +326,11 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [BME680 (⭐0)](https://github.com/octaprog7/BME680) - MicroPython module for the BME680, Bosch low power gas, pressure, temperature & humidity sensor.
 *   [SHT30 (⭐0)](https://github.com/robert-hh/SHT30) - MicroPython driver for the Sensirion SHT3x sensor.
 
-### Magnetometer / Temperature IR
+### Sensors / Temperature IR
 
 *   [MicroPython\_MLX90615\_driver (⭐1)](https://github.com/rcolistete/MicroPython_MLX90615_driver) - MicroPython driver for Melexis MLX90615 IR temperature sensor.
 
-### Magnetometer / Touch Capacitive
+### Sensors / Touch Capacitive
 
 *   [MicroPythonTrill (⭐2)](https://github.com/Heerkog/MicroPythonTrill) - Trill touch sensor library for MicroPython.
 *   [L58Touch (⭐4)](https://github.com/russhughes/L58Touch) - L58 Multi-Touch MicroPython Module.
@@ -322,14 +340,14 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [scd30logger (⭐0)](https://github.com/agners/scd30logger) - Sensirion SCD30 based CO2, Humidity and Temperature Logger for MicroPython.
 *   [sht15logger (⭐0)](https://github.com/agners/sht15logger) - MicroPython Temperature and Humidity Logger using Sensirion SHT15.
 
+### Shells / Jupyter
+
+*   [jupyter\_upydevice\_kernel (⭐12)](https://github.com/Carglglz/jupyter_upydevice_kernel) - Jupyter kernel to interact with a MicroPython board over its REPL interface.
+
 ### Shells / On Host
 
 *   [MPRemoteEditor (⭐2)](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
 *   [uPyExplorer (⭐6)](https://github.com/RetepRelleum/uPyExplorer) - Explorer for MicroPython Device.
-
-### Shells / Jupyter
-
-*   [jupyter\_upydevice\_kernel (⭐12)](https://github.com/Carglglz/jupyter_upydevice_kernel) - Jupyter kernel to interact with a MicroPython board over its REPL interface.
 
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
@@ -442,7 +460,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## [Feb 28, 2023](/content/2023/02/28/README.md)
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [micropython-zacwire (⭐0)](https://github.com/mdaeron/micropython-zacwire) - MicroPython driver for the ZACwire protocol used in TSic 506F temperature sensors.
 
@@ -489,7 +507,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [uMath (⭐16)](https://github.com/albaEDA/uMath) - Computer Algebra for microcontrollers.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [Official DHT11+DHT12 (⭐2k)](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/sensor/dht) - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.
 
@@ -582,7 +600,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## [Aug 31, 2022](/content/2022/08/31/README.md)
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [sht85 (⭐0)](https://github.com/octaprog7/sht85) - MicroPython driver for the [Sensiron SHT85](https://sensirion.com/products/catalog/SHT85/) humidity and temperature sensor.
 
@@ -774,7 +792,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [Filters (⭐56)](https://github.com/peterhinch/micropython-filters) - FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph of required frequency response to a filter implementation.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [HTU21D (⭐618)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - Asynchronous driver for HTU21D temperature and humidity sensor.
 
@@ -817,7 +835,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [mcp4131 (⭐3)](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
 
-### Magnetometer / Motion Inertial
+### Sensors / Motion Inertial
 
 *   [micropython-bno055 (⭐35)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 
@@ -915,30 +933,30 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-sgp40 (⭐3)](https://github.com/agners/micropython-sgp40) - MicroPython I2C driver for SGP40 VOC sensor module.
 
-### Magnetometer / Motion Inertial
+### Sensors / Motion Inertial
 
 *   [flight\_controller (⭐55)](https://github.com/wagnerc4/flight_controller) - MicroPython flight controller.
 *   [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.
 
-### Magnetometer / Pressure
+### Sensors / Pressure
 
 *   [ms5803-micropython (⭐0)](https://github.com/minyiky/ms5803-micropython) - A MicroPython implementation of the driver for an MS5803 pressure & temperature sensor.
 
-### Magnetometer / Proximity
+### Sensors / Proximity
 
 *   [uPy\_APDS9960 (⭐7)](https://github.com/rlangoy/uPy_APDS9960) - MicroPython proximity library for ESP8266 using APDS9960.
 
-### Magnetometer / Temperature Analog
+### Sensors / Temperature Analog
 
 *   [mcp9700](https://gitlab.com/CrispyCrafter/mcp9700) - Generic MicroPython driver for MCP9700.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - MicroPython implementation of API of SHT25 humidity and temperature sensor.
 *   [micropython-sht30 (⭐2)](https://github.com/schinckel/micropython-sht30) - SHT30 sensor driver in pure Python based on I2C bus.
 *   [micropython\_ahtx0 (⭐19)](https://github.com/targetblank/micropython_ahtx0) - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
 
-### Magnetometer / Touch Capacitive
+### Sensors / Touch Capacitive
 
 *   [uFT6336U (⭐2)](https://github.com/fantasticdonkey/uFT6336U) - MicroPython I2C driver for the Focus LCDs FT6336U capacitive touch panel controller IC.
 
@@ -1233,33 +1251,33 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [veml7700 (⭐6)](https://github.com/palouf34/veml7700) - Library for MicroPython for VEML7700 light sensor.
 *   [MicroPython\_MAX44009\_driver (⭐2)](https://github.com/rcolistete/MicroPython_MAX44009_driver) - MicroPython driver for MAX44009 light sensor.
 
-### Magnetometer / Motion Inertial
+### Sensors / Motion Inertial
 
 *   [micropython-fusion (⭐291)](https://github.com/micropython-IMU/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
 *   [micropython-mpu6050-mqtt-streamer (⭐8)](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - Stream data from MPU6050 to MQTT server using MicroPython on ESP8266.
 *   [upy-motion (⭐11)](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
 *   [micropython-bno08x-rvc (⭐2)](https://github.com/rdagger/micropython-bno08x-rvc) - MicroPython library for BNO08x.
 
-### Magnetometer / Pressure
+### Sensors / Pressure
 
 *   [MPL3115A2\_MicroPython (⭐3)](https://github.com/PinsonJonas/MPL3115A2_MicroPython) - MicroPython library for the MPL3115A2 altimeter.
 
-### Magnetometer / Radiation
+### Sensors / Radiation
 
 *   [micropython-geiger (⭐4)](https://github.com/Josep/micropython-geiger) - Geiger counter with MicroPython card.
 *   [ESPGeiger (⭐18)](https://github.com/biemster/ESPGeiger) - MicroPython library for the ESP8266 Geiger counter.
 
-### Magnetometer / Spectral
+### Sensors / Spectral
 
 *   [AS726X\_LoPy (⭐8)](https://github.com/jajberni/AS726X_LoPy) - MicroPython driver for the AS726X spectral sensor.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [BME680-Micropython (⭐22)](https://github.com/robert-hh/BME680-Micropython) - MicroPython driver for the BME680 sensor.
 *   [htu21d-esp8266 (⭐5)](https://github.com/julianhille/htu21d-esp8266) - This is a MicroPython module / class to measure data from the HTU21D.
 *   [esp-sht3x-micropython (⭐5)](https://github.com/HAIZAKURA/esp-sht3x-micropython) - A SHT3x (SHT30/31/35) library for ESP8266/ESP32 with MicroPython.
 
-### Magnetometer / Touch Capacitive
+### Sensors / Touch Capacitive
 
 *   [micropython-TTP229-BSF (⭐8)](https://github.com/alankrantas/micropython-TTP229-BSF) - MicroPython ESP8266/ESP32 driver for TTP229-BSF 16-key capacitive keypad in serial interface mode.
 
@@ -1328,11 +1346,11 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-vl53l0x (⭐0)](https://github.com/mcauser/deshipu-micropython-vl53l0x) - Time-of-Flight laser-ranging sensor.
 
-### Magnetometer / Temperature Analog
+### Sensors / Temperature Analog
 
 *   [micropython-max31855 (⭐1)](https://github.com/mcauser/deshipu-micropython-max31855) - Thermocouple amplifier, SPI interface.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [micropython-si7021 (⭐0)](https://github.com/mcauser/deshipu-micropython-si7021) - SI7021 Temperature and humidity sensor, I2C interface.
 
@@ -1359,7 +1377,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## [May 04, 2021](/content/2021/05/04/README.md)
 
-### Magnetometer / Soil Moisture
+### Sensors / Soil Moisture
 
 *   [MicroPython-MiFlora (⭐4)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
 
@@ -1406,7 +1424,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-camera-driver (⭐298)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [micropython-tmp1075 (⭐0)](https://github.com/mattytrentini/micropython-tmp1075) - Driver for the TI TMP1075 temperature sensor.
 *   [micropython-sht11 (⭐2)](https://github.com/2black0/micropython-sht11) - Driver for Sensirion SHT11 temperature and humidity sensor.
@@ -1661,10 +1679,6 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [MicroTelnetServer (⭐65)](https://github.com/cpopp/MicroTelnetServer) - Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.
 
-### Communications / WiFi
-
-*   [micropython-wifimanager (⭐53)](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
-
 ### Communications / Web
 
 *   [MicroWebSrv (⭐576)](https://github.com/jczic/MicroWebSrv) - A micro HTTP web server that supports WebSockets, HTML/Python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32).
@@ -1678,6 +1692,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [micropyserver (⭐51)](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 *   [MicroRESTCli (⭐28)](https://github.com/jczic/MicroRESTCli) - A micro JSON REST web client based on MicroWebCli for MicroPython (used on Pycom modules & ESP32).
 *   [micropython-noggin (⭐17)](https://github.com/larsks/micropython-noggin) - A very simple web server for MicroPython.
+
+### Communications / WiFi
+
+*   [micropython-wifimanager (⭐53)](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
 
 ### Communications / Zigbee
 
@@ -1761,11 +1779,11 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [CCS811 (⭐29)](https://github.com/Notthemarsian/CCS811) - Basic MicroPython driver for CCS811 on ESP8266 boards.
 
-### Magnetometer / Motion Inertial
+### Sensors / Motion Inertial
 
 *   [micropython-mpu6886 (⭐17)](https://github.com/tuupola/micropython-mpu6886) - MicroPython I2C driver for MPU6886 6-axis motion tracking device.
 
-### Magnetometer / Touch Resistive
+### Sensors / Touch Resistive
 
 *   [XPT2046-touch-pad-driver (⭐12)](https://github.com/robert-hh/XPT2046-touch-pad-driver) - Driver for XPT2046 touch pad controller used in many TFT modules.
 
@@ -1930,7 +1948,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [micropython-tsl2561 (⭐3)](https://github.com/kfricke/micropython-tsl2561) - Driver for the TSL2561 illumination sensor from TAOS / ams.
 *   [mpy\_bh1750fvi\_esp8266 (⭐18)](https://github.com/catdog2/mpy_bh1750fvi_esp8266) - ESP8266 driver for BH1750FVI sensor.
 
-### Magnetometer / Motion Inertial
+### Sensors / Motion Inertial
 
 *   [micropython-bmx055 (⭐5)](https://github.com/micropython-IMU/micropython-bmx055) - Driver for Bosch BMX055 IMU sensor.
 *   [micropython-bno055 (⭐4)](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
@@ -1940,15 +1958,15 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [MPU6050-ESP8266-MicroPython (⭐75)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 *   [py-mpu6050 (⭐80)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 
-### Magnetometer / Soil Moisture
+### Sensors / Soil Moisture
 
 *   [micropython-chirp (⭐2)](https://github.com/robberwick/micropython-chirp) - Driver for the Chirp Soil Moisture Sensor.
 
-### Magnetometer / Temperature Analog
+### Sensors / Temperature Analog
 
 *   [max31856 (⭐1)](https://github.com/alinbaltaru/max31856) - Precision thermocouple to digital converter with linearization, SPI interface.
 
-### Magnetometer / Temperature Digital
+### Sensors / Temperature Digital
 
 *   [bme680-mqtt-micropython (⭐14)](https://github.com/robmarkcole/bme680-mqtt-micropython) - Driver for BME680 gas, pressure, temperature and humidity sensor.
 *   [LM75-MicroPython (⭐3)](https://github.com/OldhamMade/LM75-MicroPython) - Driver for LM75 digital temperature sensor, I2C interface.
@@ -1966,11 +1984,11 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [micropython-tmp102 (⭐7)](https://github.com/khoulihan/micropython-tmp102) - Driver for TMP102 digital temperature sensor.
 *   [sht25-micropython (⭐4)](https://github.com/Miceuz/sht25-micropython) - Driver for SHT25 temperature and humidity sensor.
 
-### Magnetometer / Temperature IR
+### Sensors / Temperature IR
 
 *   [micropython-mlx90614 (⭐27)](https://github.com/mcauser/micropython-mlx90614) - Driver for Melexis MLX90614 IR temperature sensor.
 
-### Magnetometer / Touch Capacitive
+### Sensors / Touch Capacitive
 
 *   [micropython-mpr121 (⭐14)](https://github.com/mcauser/micropython-mpr121) - Driver for MPR121 capacitive touch keypads and breakout boards.
 *   [micropython-ttp223 (⭐6)](https://github.com/mcauser/micropython-ttp223) - Examples using TTP223 capacitive touch module.
@@ -2054,7 +2072,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 *   [MicroPython on GitHub (⭐17k)](https://github.com/micropython/micropython) - Submit bug reports, follow and join in development on GitHub.
 *   [MicroPython Store](https://store.micropython.org/) - Where you can buy the Pyboard, housings, skins, books, connectors and peripherals.
 
-### Miscellaneous / Jupyter
+### Miscellaneous / On Host
 
 *   [MicroPython Kickstarter](https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers) - 1,931 backers pledged £97,803 to help bring this project to life.
 *   [MicroPython on the ESP8266 Kickstarter](https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot) - 1,399 backers pledged £28,534 to help bring this project to life.
