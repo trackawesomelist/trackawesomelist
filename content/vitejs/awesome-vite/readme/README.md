@@ -98,7 +98,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
 *   [vue3-ts-vite-vitest-todo (⭐8)](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
 *   [vue3-tailwind3-website-starter](https://github.com/feitian124/vue3-tailwind3-website-starter.git) - Vue3 / Vite / TailwindCSS website starter template, with guides on each page.
-*   [vite-boot (⭐146)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
+*   [vite-boot (⭐150)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 *   [Vue Naive (⭐849)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 *   [vue-admin-box (⭐1.5k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 *   [vivu-npm (⭐41)](https://github.com/logustra/vivu-npm) - Starter template to build component library.
@@ -289,7 +289,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-msg-log (⭐0)](https://github.com/PengBoUESTC/vite-plugin-msg-log) - Log the msg you want to confirm frequently (like env info) when HMR.
 *   [vite-plugin-bullet-msg (⭐3)](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
 *   [vite-plugin-virtual-mpa (⭐59)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
-*   [tailwindcss-vite-plugin (⭐28)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
+*   [tailwindcss-vite-plugin (⭐29)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 *   [vite-plugin-assemblyscript-asc (⭐12)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
 *   [vite-plugin-qiniu-oss (⭐5)](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 *   [vite-plugin-stylelint (⭐18)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
@@ -504,6 +504,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   ![v2] [vite-plugin-vue2-suffix (⭐8)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 *   ![v23] [vite-plugin-vue-inspector (⭐539)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 *   ![v23] [vite-plugin-vue-static-sfc (⭐1)](https://github.com/arikw/vite-plugin-vue-static-sfc) - Serve ".vue" files as static assets.
+*   ![v3] [vite-plugin-vue-nested-sfc (⭐81)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
 
 <!--lint enable awesome-list-item-->
 
@@ -763,7 +764,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [îles (⭐976)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 *   [Astro (⭐32k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 *   [Hathora (⭐520)](https://github.com/hathora/hathora) - Multiplayer game framework.
-*   [Nhost (⭐6.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.8k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 *   [Ladle (⭐2.2k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐326)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐196)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.

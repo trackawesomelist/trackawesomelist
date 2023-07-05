@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jul 05, 2023](/content/2023/07/05/README.md)
+
+### Videos / Others
+
+*   [Running ASP.NET Core Apps without a server? WHAT???](https://www.youtube.com/watch?v=IXCZAFwT5GY) - ![duration](https://img.shields.io/badge/Duration:%20-46%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could.
+
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
 ### Others
@@ -76,11 +82,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [CodeBeam.MudExtensions (⭐181)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
+*   [CodeBeam.MudExtensions (⭐199)](https://github.com/CodeBeamOrg/CodeBeam.MudExtensions) - ![stars](https://img.shields.io/github/stars/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeBeamOrg/CodeBeam.MudExtensions?style=flat-square\&cacheSeconds=86400) Useful third party extension components for MudBlazor, from the contributors. +20 components includes Stepper, SpeedDial, Wheel, Splitter, Animate, Popup, Material 3 Switch, Gallery, CodeInput and more.  [Documentation](https://codebeam-mudextensions.pages.dev/).
 
 ### Individual components / Charts
 
-*   [ChartJs for Blazor (⭐43)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
+*   [ChartJs for Blazor (⭐44)](https://github.com/erossini/BlazorChartjs) - ![stars](https://img.shields.io/github/stars/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/erossini/BlazorChartjs?style=flat-square\&cacheSeconds=86400) This is a NuGet package for Blazor to use ChartJs, constantly updated with new features.
 
 ### Individual components / Others
 
@@ -866,7 +872,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [MASA Blazor (⭐783)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
+*   [MASA Blazor (⭐814)](https://github.com/BlazorComponent/MASA.Blazor) - ![stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorComponent/MASA.Blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Material Design and Blazor. It's an almost perfect copy of Vuetify, and Long-term roadmaps have been mapped out. It is powered by the MASA team and remains free and open source. [Documentation](http://blazor.masastack.com/). [Pro Demo](https://blazor-pro.masastack.com/).
 
 ## [Jan 12, 2022](/content/2022/01/12/README.md)
 
@@ -1211,7 +1217,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### CMS
 
-*   [JHipster.NET (⭐284)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
+*   [JHipster.NET (⭐288)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
 *   [RapidCMS (⭐272)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
@@ -1296,7 +1302,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Individual components / Others
 
-*   [Stl.Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐142)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
+*   [Stl.Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐143)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
 *   [Blazor-DragDrop (⭐341)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
 *   [BlazorTransitionableRoute (⭐134)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
 
@@ -1329,7 +1335,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Machine Learning
 
 *   [Scalable sentiment analysis (⭐4.1k)](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=86400) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
-*   [optimizer.ml (⭐52)](https://github.com/jameschch/LeanParameterOptimization) - ![stars](https://img.shields.io/github/stars/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=86400) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean (⭐7.5k)](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
+*   [optimizer.ml (⭐52)](https://github.com/jameschch/LeanParameterOptimization) - ![stars](https://img.shields.io/github/stars/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=86400) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean (⭐7.6k)](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
 *   [Baseball Machine Learning Workbench (⭐42)](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) - ![stars](https://img.shields.io/github/stars/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=86400) A web application that showcases performing what-if analysis using in-memory Machine Learning models. [Live demo](https://baseballmlworkbench-v1.azurewebsites.net).
 *   [BlazorML5 (⭐50)](https://github.com/sps014/BlazorML5) - ![last-commit](https://img.shields.io/github/last-commit/sps014/BlazorML5?style=flat-square\&cacheSeconds=86400) ML5 Machine Learning for Blazor with JSInterop mechanism.
 
@@ -1510,7 +1516,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [Ant Design Blazor (⭐5k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
+*   [Ant Design Blazor (⭐5.1k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
 
 ## [May 20, 2020](/content/2020/05/20/README.md)
 

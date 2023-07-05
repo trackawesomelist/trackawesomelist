@@ -6,6 +6,16 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jul 05, 2023](/content/2023/07/05/README.md)
+
+### Communications / APIs
+
+*   [micropython-linenotify (⭐4)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+
+### Communications / ESP-NOW
+
+*   [mesh-espnow-micropython (⭐0)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
+
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
 ### AI

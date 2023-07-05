@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jul 05, 2023](/content/2023/07/05/README.md)
+
+### Vue / Helpers
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-nested-sfc (⭐81)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
+
 ## [Jun 30, 2023](/content/2023/06/30/README.md)
 
 ### TYPO3 CMS / Community
@@ -457,7 +463,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [tailwindcss-vite-plugin (⭐28)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
+*   [tailwindcss-vite-plugin (⭐29)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 
 ## [Oct 11, 2022](/content/2022/10/11/README.md)
 
@@ -860,7 +866,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐6.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐6.8k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [Jun 15, 2022](/content/2022/06/15/README.md)
 
@@ -1140,7 +1146,7 @@
 
 ### Templates / Vue 3
 
-*   [vite-boot (⭐146)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
+*   [vite-boot (⭐150)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 
 ## [Mar 13, 2022](/content/2022/03/13/README.md)
 

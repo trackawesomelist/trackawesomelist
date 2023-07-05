@@ -2,9 +2,74 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.2K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
+
+## [Jul 05, 2023](/content/2023/07/05/README.md)
+
+### Art & Image Generator
+
+- Name: [CustomQR AI](http://customqrai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: QR Code Generation Service for Business.
+
+  Description: Get artistic beautiful QR codes on your email in under 10 minutes. Choose from available QR code categories or request your own. Make your business stand out with unique QR arts!.
+
+  Offer Free Version: :x:
+
+
+- Name: [DigitalMuses](https://digitalmuses.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Create Your Own Crush.
+
+  Description: THE SKY IS YOUR LIMIT. Let your crush do, wear, and be whatever you imagine. no limitations. CHOOSE YOUR MODEL Discover DigitalMuses' captivating ensemble of 6 unique individuals, each boasting their own remarkable charm and allure. New models to be released every month.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Music & Audio Generation
+
+- Name: [Song Donkey](https://songdonkey.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Audio Splitting by SongDonkey - Extract Vocals and Instruments With Artificial Intelligence.
+
+  Description: SongDonkey is a high-quality vocal remover that allows you to separate stems easily. Remove vocals and instruments (drums, bass, piano, etc.) from any song with just a few clicks.
+
+  Offer Free Version: :x:
+
+
+
+### Photo & Image Editing
+
+- Name: [Edit @ Scale](https://edit-at-scale.cloudinary.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: AI Batch Editor for Your Product Photos.
+
+  Description: Transform your e-commerce business with Edit @ Scale, the ultimate batch editor for product photos. Save time and effort by seamlessly enhancing multiple images at once with beautiful, unique backgrounds.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [FinalTouch](https://final-tou.ch/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Professional Photography and Design Power at Your Fingertips.
+
+  Description: FinalTouch takes you from a plain product photo to a captivating scene, in an instant. You don’t need to be an expert designer to wow customers with studio-quality images. Create multiple images of the same product in any setting you like, to breathe new life into your digital presence and marketing campaigns.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [ImageColorizer](https://imagecolorizer.com/app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Colorize - Mobile APP for iOS and Android.
+
+  Description: Looking for the best picture colorizer apps on iOS and Android phones? Try our Apps - 'Colorize!' and colourize your old black and white pictures instantly. No Photoshop skills required and it is easiest way to neutralize the color for beginners. Download right now and use it for 100% free!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ## [Jun 27, 2023](/content/2023/06/27/README.md)
 
@@ -549,9 +614,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Cartoonize](http://imagetocartoon.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Image to Cartoon.
+  Title: Image to Cartoon - AI Cartoonizer. Create Amazing Cartoon Avatars and Characters With Different Styles Instantly for Free!.
 
-  Description: Best AI cartoonizer online for free.
+  Description: Cartoonize your face photo with styles and make great avatars. Convert face images or photos to cartoon and cartoonize yourself 100 % automatically in 5 seconds with zero clicks.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -756,11 +821,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [IMGCreator](http://imgcreator.zmo.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Create Any Image Using Text - Imgcreator.Ai.
+  Title: The Ultimate AI Image, Art, Design Generator.
 
-  Description: .
+  Description: From Text To Image in Seconds Using Power of AI. Text to image, image to image & chatGPT powered AI designer. Simply describe the what you want to see with the text selector input, and then pick the best results out of four candidate images. If you want to edit photo, please erase out the part you want to edit, and describe desired result of that section.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [IMGN - Image Engine](http://imagine-ai.net?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3339,11 +3404,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [AI Image Enlarger](http://imglarger.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: AI Image Enlarger - Enlarge Image Without Losing Quality!.
+  Title: Enlarge and Enhance Images With AI Image Enlarger.
 
-  Description: .
+  Description: One-click AI solution to Make Your Photos Sharper, Crisper, and Cleaner. Increase image resolution without losing quality. Stunning Quality and Result. Enlarge any small image to 2k and 4k without losing quality. Sharpen details to improve image's visual for sharing and printing. Photo Enhancement Made Easy for Everyone!.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [AVC AI](http://avc.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3445,29 +3510,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [PhotoFix](http://photofix.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Photofix - Magically Edit Photos With AI.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Photorestoration](http://photorestoration.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Old Photo Restoration Online - Photorestoration.Ai.
 
-  Description: .
+  Description: VanceAI Photo Restorer helps restore old photos 100% automatically. Powered by AI photo restoration technology, it instantly removes scratches from damaged old photos online, as well as tears, spots, dust, and sepia. Restore old photo online or simply download the photo restoration.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :x:
 
 
 - Name: [Photospells](http://photospells.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Photo Spells - Professional Photo Edition With AI.
 
-  Description: .
+  Description: Change hair color, clothing and style with Photo Spell.
 
   Offer Free Version: :grey\_question:
 
@@ -3492,9 +3548,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Remover.app](http://remover.zmo.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Removeanythingunwanted in Seconds, for Free.
+  Title: REMOVE ANYTHING - Remover.app Can Remove Anything Unwanted in a Photo, in Seconds, for Free.
 
-  Description: .
+  Description: Make your products shine. Impress your audience, remove distractions. remover.app Use remover.app (a free creative editing tool) to remove unwanted objects, people, or defects. The A.I. algorithm will reconstruct what was behind the object in just one click. Be sure that the unwanted elements are covered to remove objects. You can remove persons, or remove text the same way.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -4119,9 +4175,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [ReContent.AI](http://recontent.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Transform Your Newsletter, Blog Post, Into Twitter Content With Recontent.Ai.
+  Title: Generate Viral Social Media Content From Your Blog Post - Newsletter - Audio Content - Long-Form Content.
 
-  Description: .
+  Description: Spending hours on repurposing your content? You already did the heavy lifting, now maximize the potential of your content Let AI do the work for you.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -7261,15 +7317,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - Name: [Text Assistant](http://goodsnooze.gumroad.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Jordi Bruin.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Text to Image Editor](http://imgeditor.zmo.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Create Any Image Using Text - Imgcreator.Ai.
 
   Description: .
 

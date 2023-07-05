@@ -12,6 +12,14 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [upython-chat-gpt (⭐2)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 
+### Communications / APIs
+
+*   [micropython-linenotify (⭐4)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+
+### Communications / ESP-NOW
+
+*   [mesh-espnow-micropython (⭐0)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
+
 ### Communications / IoT
 
 *   [micropython-switchbot-thermometer-hygrometer (⭐0)](https://github.com/hilch/micropython-switchbot-thermometer-hygrometer) - Read SwitchBot Thermometer/Hygrometer via Bluetooth.

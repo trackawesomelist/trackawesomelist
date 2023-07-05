@@ -2,9 +2,44 @@
 
 A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/heynickc/awesome-ddd/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) · ⭐ 9.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/heynickc/awesome-ddd/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) · ⭐ 10K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/heynickc/awesome-ddd/week/README.md) / [Overview](/content/heynickc/awesome-ddd/readme/README.md) ]
+
+## [Jul 05, 2023](/content/2023/07/05/README.md)
+
+### Books
+
+*   [Architecture Modernization](https://www.manning.com/books/architecture-modernization) - Concrete tools, techniques, and processes to align software architecture with your business domains, organizational design, team topologies, and corporate strategy.
+*   [Collaborative Software Design](https://www.manning.com/books/collaborative-software-design) - A practical guide for effectively involving all stakeholders in the design of software.A practical guide for effectively involving all stakeholders in the design of software.
+
+### Training Courses
+
+*   [Distilling Domain-Driven Design](https://www.informit.com/store/domain-driven-design-livelessons-video-training-9780134597324) - Vaughn Vernon's online training course.
+*   [Event Sourcery](https://www.youtube.com/@EventSourcery) - Introduction to DDD, CQRS, and Event Sourcing.
+*   [EventStorming Fundamentals Course](https://elearning.dsolemorera.com/courses/eventstorming-fundamentals) ([also in Spanish](https://elearning.dsolemorera.com/courses/fundamentos-eventstorming)) - learn the fundamentals of EventStorming. Everything about EventStorming with examples.
+
+### Community Resources
+
+*   [DDD-es Google Group](https://groups.google.com/g/ddd-es) - The Google Group to discuss Domain-Driven Design in Spanish.
+*   [EventStorming Google Group](https://groups.google.com/g/eventstorming) - The Google Group to discuss EventStorming.
+*   [DDD/CQRS/ES Discord (⭐68)](https://github.com/ddd-cqrs-es/community) - A Discord (old Slack) team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
+*   [Domain StoryTelling Discord](https://discord.gg/KsYaHNNn33) - A Discord team about Domain StoryTelling (#domain-storytelling channel) by [@hofstef](https://twitter.com/hofstef). The homepage is at [domainstorytelling.org](http://domainstorytelling.org/).
+*   [Awesome Domain Storytelling (⭐150)](https://github.com/hofstef/awesome-domain-storytelling) - awesome list that focuses only on Domain Storytelling.
+*   [Domain-Driven Design in dynamic languages GitHub (⭐1.3k)](https://github.com/valignatev/ddd-dynamic) - GitHub's profile of Domain-Driven Design in dynamic languages.
+*   [Domain-Driven Design Crew GitHub](https://github.com/ddd-crew) - GitHub's profile of Domain-Driven Design Crew.
+
+### Sample Projects / JavaScript / TypeScript
+
+*   [Over-engineered ToDo app (⭐853)](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS generated using the [Bitloops Language (BL) (⭐316)](https://github.com/bitloops/bitloops-language).
+
+### Libraries and Frameworks / JavaScript / TypeScript
+
+*   [Bitloops Language (BL) (⭐316)](https://github.com/bitloops/bitloops-language) - Open-source, 4th-generation, transpiled programming language that helps you write clean code, well-designed systems, and build high-quality software that is testable, auditable and maintainable using DDD and Hexagonal Architecture.
+
+### Libraries and Frameworks / Python
+
+*   [PyAssimilator (⭐124)](https://github.com/knucklesuganda/py_assimilator/) - Quickly create DDD Python patterns, Event-Based Systems, CRUD applications. Set of Python patterns for database access that support SQLAlchemy, MongoDB, Redis, or Pure Python. PyAssimilator allows you to write code without dependencies, meaning you can switch SQL to NoSQL without changing a single file in your system.
 
 ## [Nov 04, 2022](/content/2022/11/04/README.md)
 
@@ -20,7 +55,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Community Resources
 
-*   [Context Mapping by ddd-crew (⭐633)](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
+*   [Context Mapping by ddd-crew (⭐974)](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
 
 ## [Dec 02, 2021](/content/2021/12/02/README.md)
 
@@ -42,13 +77,13 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / Idris
 
-*   [OrderTaking (⭐116)](http://github.com/andorp/order-taking) - Dependently typed implementation of the Domain Modeling Made Functional book. An example project how to formalize Bounded Context and Workflow diagram with dependent types. A NodeJS deployable demo.
+*   [OrderTaking (⭐128)](http://github.com/andorp/order-taking) - Dependently typed implementation of the Domain Modeling Made Functional book. An example project how to formalize Bounded Context and Workflow diagram with dependent types. A NodeJS deployable demo.
 
 ## [Oct 31, 2021](/content/2021/10/31/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [TaskoMask (⭐448)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
+*   [TaskoMask (⭐555)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
 
 ## [Oct 15, 2021](/content/2021/10/15/README.md)
 
@@ -60,50 +95,50 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Libraries and Frameworks / .NET
 
-*   [CommandQuery (⭐69)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
+*   [CommandQuery (⭐97)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 
 ## [May 30, 2021](/content/2021/05/30/README.md)
 
 ### Sample Projects / PHP
 
-*   [Symfony 5 DDD ES CQRS backend (⭐958)](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate) - DDD, CQRS and Event Sourcing app using Symfony and PHP 8.
+*   [Symfony 5 DDD ES CQRS backend (⭐1k)](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate) - DDD, CQRS and Event Sourcing app using Symfony and PHP 8.
 
 ## [May 25, 2021](/content/2021/05/25/README.md)
 
 ### Sample Projects / JVM languages
 
-*   [Eclipse CargoTracker](https://eclipse-ee4j.github.io/cargotracker/) - This project demonstrates how you can develop applications with the Jakarta EE platform using widely adopted architectural best practices like Domain-Driven Design (DDD). [The code (⭐226)](https://github.com/eclipse-ee4j/cargotracker/) is intended to mirror a non-trivial application that developers in the real work would work on. It attempts to demonstrate first-hand how you can use Jakarta EE to effectively meet practical enterprise concerns such as productivity, agility, testability, flexibility, maintainability, scalability and security. The project is directly based on the well known original [Java DDD sample application (⭐4.2k)](https://github.com/citerus/dddsample-core) developed by DDD pioneer Eric Evans' company Domain Language and the Swedish software consulting company Citerus.
+*   [Eclipse CargoTracker](https://eclipse-ee4j.github.io/cargotracker/) - This project demonstrates how you can develop applications with the Jakarta EE platform using widely adopted architectural best practices like Domain-Driven Design (DDD). [The code (⭐270)](https://github.com/eclipse-ee4j/cargotracker/) is intended to mirror a non-trivial application that developers in the real work would work on. It attempts to demonstrate first-hand how you can use Jakarta EE to effectively meet practical enterprise concerns such as productivity, agility, testability, flexibility, maintainability, scalability and security. The project is directly based on the well known original [Java DDD sample application (⭐4.5k)](https://github.com/citerus/dddsample-core) developed by DDD pioneer Eric Evans' company Domain Language and the Swedish software consulting company Citerus.
 
 ## [Apr 22, 2021](/content/2021/04/22/README.md)
 
 ### Sample Projects / JVM languages
 
-*   [https://github.com/felipexw/clean-arch-ddd-intro (⭐10)](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
+*   [https://github.com/felipexw/clean-arch-ddd-intro (⭐12)](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
 
 ## [Feb 18, 2021](/content/2021/02/18/README.md)
 
 ### Sample Projects / GO
 
-*   [BDD in GO (⭐2)](https://github.com/JankariTech/bsDateServer) - Sample app demonstrating the use of Cucumber + GO for a BDD testing approach. Blog post can be found [here](https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci).
-*   [Citerus DDD Sample App GO Port (⭐2.2k)](https://github.com/marcusolsson/goddd) - This is an attempt to port the [DDD Sample App (⭐4.2k)](https://github.com/citerus/dddsample-core) to idiomatic Go. It can be run in a dockerized mode for previewing the application.
-*   [DDD by Refactoring (⭐3.1k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project. A full blog series about it can be found at <https://threedots.tech/>.
-*   [DDD Food App (⭐461)](https://github.com/victorsteven/food-app-server) - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
-*   [DDD Sample in GO (⭐224)](https://github.com/takashabe/go-ddd-sample) - Just another sample application implementing the four layers of DDD.
-*   [Evolutive CRUD API (⭐70)](https://github.com/friendsofgo/gopherapi) - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
-*   [Simple Hexagonal Architecture PoC API (⭐23)](https://github.com/tomiok/patients-API) - PoC for a patients API using the hexagonal architecture pattern.
+*   [BDD in GO (⭐3)](https://github.com/JankariTech/bsDateServer) - Sample app demonstrating the use of Cucumber + GO for a BDD testing approach. Blog post can be found [here](https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci).
+*   [Citerus DDD Sample App GO Port (⭐2.3k)](https://github.com/marcusolsson/goddd) - This is an attempt to port the [DDD Sample App (⭐4.5k)](https://github.com/citerus/dddsample-core) to idiomatic Go. It can be run in a dockerized mode for previewing the application.
+*   [DDD by Refactoring (⭐4.2k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project. A full blog series about it can be found at <https://threedots.tech/>.
+*   [DDD Food App (⭐551)](https://github.com/victorsteven/food-app-server) - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
+*   [DDD Sample in GO (⭐251)](https://github.com/takashabe/go-ddd-sample) - Just another sample application implementing the four layers of DDD.
+*   [Evolutive CRUD API (⭐73)](https://github.com/friendsofgo/gopherapi) - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
+*   [Simple Hexagonal Architecture PoC API (⭐26)](https://github.com/tomiok/patients-API) - PoC for a patients API using the hexagonal architecture pattern.
 
 ### Libraries and Frameworks / GO
 
-*   [Ginkgo (⭐6.5k)](https://github.com/onsi/ginkgo) - Ginkgo builds on Go's testing package, allowing expressive Behavior-Driven Development ("BDD") style tests.
-*   [GOBDD (⭐71)](https://github.com/go-bdd/gobdd) - Small BDD framework for GO.
-*   [GoConvey (⭐7.5k)](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-*   [Godog (⭐1.8k)](https://github.com/cucumber/godog) - Package godog is the official Cucumber BDD framework for Golang, it merges specification and test documentation into one cohesive whole, using Gherkin formatted scenarios in the format of Given, When, Then.
+*   [Ginkgo (⭐7.3k)](https://github.com/onsi/ginkgo) - Ginkgo builds on Go's testing package, allowing expressive Behavior-Driven Development ("BDD") style tests.
+*   [GOBDD (⭐92)](https://github.com/go-bdd/gobdd) - Small BDD framework for GO.
+*   [GoConvey (⭐7.8k)](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+*   [Godog (⭐2k)](https://github.com/cucumber/godog) - Package godog is the official Cucumber BDD framework for Golang, it merges specification and test documentation into one cohesive whole, using Gherkin formatted scenarios in the format of Given, When, Then.
 
 ## [Feb 08, 2021](/content/2021/02/08/README.md)
 
 ### Libraries and Frameworks / Databases
 
-*   [Message DB (⭐1.5k)](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
+*   [Message DB (⭐1.6k)](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
 
 ### Libraries and Frameworks / Ruby
 
@@ -123,11 +158,11 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ## [Dec 14, 2020](/content/2020/12/14/README.md)
 
-### Sample Projects / JavaScript
+### Sample Projects / JavaScript / TypeScript
 
-*   [Booster framework examples (⭐297)](https://github.com/boostercloud/booster/tree/master/docs/examples) Example applications built with Booster Framework.
+*   [Booster framework examples (⭐361)](https://github.com/boostercloud/booster/tree/master/docs/examples) Example applications built with Booster Framework.
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
 *   [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.
 
@@ -141,7 +176,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / JVM languages
 
-*   [DDDSample (⭐4.2k)](https://github.com/citerus/dddsample-core) - Sample DDD project using Spring Boot (originally hosted in <http://dddsample.sourceforge.net/>)
+*   [DDDSample (⭐4.5k)](https://github.com/citerus/dddsample-core) - Sample DDD project using Spring Boot (originally hosted in <http://dddsample.sourceforge.net/>)
 
 ## [Nov 15, 2020](/content/2020/11/15/README.md)
 
@@ -163,13 +198,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Libraries and Frameworks / JVM
 
-*   [DDDplus framework (⭐866)](https://github.com/funkygao/cp-ddd-framework) - A lightweight flexible development framework for complex business architecture based on DDD.
-
-## [Oct 12, 2020](/content/2020/10/12/README.md)
-
-### Community Resources
-
-*   [DDD/CQRS/ES Slack (⭐54)](https://github.com/ddd-cqrs-es/slack-community) - A slack team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
+*   [DDDplus framework (⭐960)](https://github.com/funkygao/cp-ddd-framework) - A lightweight flexible development framework for complex business architecture based on DDD.
 
 ## [Sep 24, 2020](/content/2020/09/24/README.md)
 
@@ -191,13 +220,13 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [DDD-starter-dotnet (⭐181)](https://github.com/itlibrium/DDD-starter-dotnet) - Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD .net project.
+*   [DDD-starter-dotnet (⭐251)](https://github.com/itlibrium/DDD-starter-dotnet) - Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD .net project.
 
 ## [Aug 06, 2020](/content/2020/08/06/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [EventFlow.Example (⭐181)](https://github.com/OKTAYKIR/EventFlow.Example) - DDD, CQRS, and Event-Sourcing example and contains following technology stack: [EventFlow (⭐2.1k)](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
+*   [EventFlow.Example (⭐198)](https://github.com/OKTAYKIR/EventFlow.Example) - DDD, CQRS, and Event-Sourcing example and contains following technology stack: [EventFlow (⭐2.2k)](https://github.com/eventflow/EventFlow), [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
 
 ## [Jul 09, 2020](/content/2020/07/09/README.md)
 
@@ -209,23 +238,23 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Blogs
 
-*   [Ardalis.com](https://ardalis.com/blog) - Steve Smith. Pluralsight author and author of [DDD Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) course and Microsoft [eShopOnWeb sample app (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb).
+*   [Ardalis.com](https://ardalis.com/blog) - Steve Smith. Pluralsight author and author of [DDD Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) course and Microsoft [eShopOnWeb sample app (⭐9k)](https://github.com/dotnet-architecture/eShopOnWeb).
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [eShopOnWeb (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb) - Full ASP.NET Core 3.1 reference application from Microsoft showing monolithic deployment architecture
+*   [eShopOnWeb (⭐9k)](https://github.com/dotnet-architecture/eShopOnWeb) - Full ASP.NET Core 3.1 reference application from Microsoft showing monolithic deployment architecture
 
 ## [Jun 24, 2020](/content/2020/06/24/README.md)
 
 ### Sample Projects / PHP
 
-*   [DDD CQRS Todo Sample (⭐300)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
+*   [DDD CQRS Todo Sample (⭐328)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 
 ## [Jun 12, 2020](/content/2020/06/12/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Equinox Project (⭐5.7k)](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with Clean Architecture, DDD, CQRS and Event Sourcing concepts
+*   [Equinox Project (⭐6k)](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with Clean Architecture, DDD, CQRS and Event Sourcing concepts
 
 ### Libraries and Frameworks / .NET
 
@@ -282,27 +311,27 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Event Sourcing .NET (⭐2.5k)](https://github.com/oskardudycz/EventSourcing.NetCore) - samples and resources about Event Sourcing and CQRS in .NET. Contains also a self-paced kit of how to built own Event Store
+*   [Event Sourcing .NET (⭐2.9k)](https://github.com/oskardudycz/EventSourcing.NetCore) - samples and resources about Event Sourcing and CQRS in .NET. Contains also a self-paced kit of how to built own Event Store
 
 ### Libraries and Frameworks / .NET
 
-*   [Marten (⭐1.9k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
+*   [Marten (⭐2.4k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
 
 ## [Mar 21, 2020](/content/2020/03/21/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [DotNet CQRS Intro (⭐138)](https://github.com/asc-lab/dotnet-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
+*   [DotNet CQRS Intro (⭐143)](https://github.com/asc-lab/dotnet-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
 
 ### Sample Projects / JVM languages
 
-*   [Java CQRS Intro (⭐175)](https://github.com/asc-lab/java-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
+*   [Java CQRS Intro (⭐180)](https://github.com/asc-lab/java-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
 
 ## [Mar 05, 2020](/content/2020/03/05/README.md)
 
 ### Libraries and Frameworks / .NET
 
-*   [Core.EventStore (⭐5)](https://github.com/younos1986/Core.EventStore) - A library to facilitate communication between CommandService and QueryService. The Idea is when any event occures in commandService, it should be persisted in QueryService in MongoDb.
+*   [Core.EventStore (⭐4)](https://github.com/younos1986/Core.EventStore) - A library to facilitate communication between CommandService and QueryService. The Idea is when any event occures in commandService, it should be persisted in QueryService in MongoDb.
 
 ## [Feb 27, 2020](/content/2020/02/27/README.md)
 
@@ -314,7 +343,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / JVM languages
 
-*   [EventStormingWorkshop - Designing Cloud Native Microservices On AWS (⭐273)](https://github.com/humank/EventStormingWorkShop/) - A concrete sample to go through EventStorming workshop and implement DDD tactical design pattern in Java, apply AWS cloud native services to build up business Event based Coffeeshop scenario.
+*   [EventStormingWorkshop - Designing Cloud Native Microservices On AWS (⭐302)](https://github.com/humank/EventStormingWorkShop/) - A concrete sample to go through EventStorming workshop and implement DDD tactical design pattern in Java, apply AWS cloud native services to build up business Event based Coffeeshop scenario.
 
 ### User Groups / Ruby
 
@@ -340,20 +369,20 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Libraries and Frameworks / .NET
 
-*   [MediatR (⭐8.6k)](https://github.com/jbogard/MediatR) - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
+*   [MediatR (⭐9.7k)](https://github.com/jbogard/MediatR) - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
 
 ## [Dec 13, 2019](/content/2019/12/13/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Better code with DDD building blocks (⭐247)](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
+*   [Better code with DDD building blocks (⭐279)](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
 *   [Photostock CQRS-DDD Example (⭐7)](https://github.com/mr0zek/Photostock)
 
 ## [Nov 08, 2019](/content/2019/11/08/README.md)
 
 ### Libraries and Frameworks / Python
 
-*   [Eventsoucing in Python (⭐1.2k)](https://github.com/johnbywater/eventsourcing) - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
+*   [Eventsoucing in Python (⭐1.3k)](https://github.com/johnbywater/eventsourcing) - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
 
 ## [Oct 27, 2019](/content/2019/10/27/README.md)
 
@@ -365,7 +394,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Modular Monolith (⭐7.5k)](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
+*   [Modular Monolith (⭐8.6k)](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
 
 ## [Sep 22, 2019](/content/2019/09/22/README.md)
 
@@ -375,11 +404,11 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Companion Code for Microsoft .NET Architecting Applications for the Enterprise (⭐464)](https://github.com/mastreeno/Merp) - An event based Micro ERP.
+*   [Companion Code for Microsoft .NET Architecting Applications for the Enterprise (⭐478)](https://github.com/mastreeno/Merp) - An event based Micro ERP.
 
 ### Sample Projects / JVM languages
 
-*   [Kotlin DDD Sample (⭐240)](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin.
+*   [Kotlin DDD Sample (⭐260)](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin.
 
 ### Libraries and Frameworks / .NET
 
@@ -389,7 +418,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / JVM languages
 
-*   [DDD Workshop - Project Manager (⭐54)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
+*   [DDD Workshop - Project Manager (⭐60)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 
 ## [Jun 28, 2019](/content/2019/06/28/README.md)
 
@@ -407,13 +436,13 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / PHP
 
-*   [Shop Cart in PHP (⭐86)](https://github.com/simara-svatopluk/cart) - Sample project that demonstrates how simple shop cart can look like. Domain objects,Doctrine integration.,TDD,layers,unit testing
+*   [Shop Cart in PHP (⭐96)](https://github.com/simara-svatopluk/cart) - Sample project that demonstrates how simple shop cart can look like. Domain objects,Doctrine integration.,TDD,layers,unit testing
 
 ## [May 23, 2019](/content/2019/05/23/README.md)
 
 ### Sample Projects / PHP
 
-*   [Eric Evans DDD Cargo Sample (⭐781)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
+*   [Eric Evans DDD Cargo Sample (⭐792)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
 
 ## [May 13, 2019](/content/2019/05/13/README.md)
 
@@ -425,7 +454,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / JVM languages
 
-*   [DDD By Examples - Library (⭐3.3k)](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
+*   [DDD By Examples - Library (⭐3.7k)](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 
 ## [Apr 24, 2019](/content/2019/04/24/README.md)
 
@@ -468,7 +497,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Sample .NET Core CQRS REST API (⭐2.2k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+*   [Sample .NET Core CQRS REST API (⭐2.5k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
 ## [Feb 28, 2019](/content/2019/02/28/README.md)
 
@@ -478,59 +507,59 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Community Resources
 
-*   [Awesome Event Storming (⭐1.8k)](https://github.com/mariuszgil/awesome-eventstorming) - awesome list that focuses only on Event Storming.
+*   [Awesome Event Storming (⭐2k)](https://github.com/mariuszgil/awesome-eventstorming) - awesome list that focuses only on Event Storming.
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [CQRS-DDD Example (⭐124)](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
-*   [ContosoUniversityCore (⭐567)](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
-*   [DDDInventoryItemFSharp (⭐182)](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
-*   [DDDSkeletonNet (⭐172)](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
-*   [EmailMaker (⭐10)](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd (⭐69)](https://github.com/xhafan/coreddd) usage
-*   [eShopOnContainersDDD (⭐253)](https://github.com/volak/eShopOnContainersDDD) - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
-*   [Fohjin (⭐685)](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
+*   [CQRS-DDD Example (⭐129)](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
+*   [ContosoUniversityCore (⭐585)](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
+*   [DDDInventoryItemFSharp (⭐181)](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
+*   [DDDSkeletonNet (⭐180)](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
+*   [EmailMaker (⭐12)](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd (⭐69)](https://github.com/xhafan/coreddd) usage
+*   [eShopOnContainersDDD (⭐284)](https://github.com/volak/eShopOnContainersDDD) - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
+*   [Fohjin (⭐696)](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
 *   [FsUno (⭐75)](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
-*   [IDDD Samples in .NET (⭐837)](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
-*   [NLayerAppV3 (⭐152)](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
-*   [Reactive Trader Cloud (⭐1.7k)](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
+*   [IDDD Samples in .NET (⭐882)](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
+*   [NLayerAppV3 (⭐151)](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
+*   [Reactive Trader Cloud (⭐1.8k)](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
 *   [SimpleCQRS (⭐2k)](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
-*   [TodoMVC-DDD-CQRS-EventSourcing (⭐224)](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
+*   [TodoMVC-DDD-CQRS-EventSourcing (⭐239)](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
 
 ### Sample Projects / Haskell
 
 *   [Eventuria gsd (⭐50)](https://github.com/Eventuria/gsd) - Haskell todo list reactive application with DDD, CQRS and Event Sourcing, FRP.
 
-### Sample Projects / JavaScript
+### Sample Projects / JavaScript / TypeScript
 
 *   [wolkenkit Sample Applications](https://docs.wolkenkit.io/latest/media/sample-applications/wolkenkit-boards/) - A collection of DDD sample applications, such as TodoMVC, a geocaching app, collaborative boards etc.
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing Example (⭐84)](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
-*   [IDDD Samples (⭐3.2k)](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
+*   [Event Sourcing Example (⭐92)](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
+*   [IDDD Samples (⭐3.5k)](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
 
 ### Sample Projects / PHP
 
-*   [DDD Wish List (⭐195)](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
-*   [DDD Playground (⭐565)](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
+*   [DDD Wish List (⭐198)](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
+*   [DDD Playground (⭐581)](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
 
 ### Libraries and Frameworks / .NET
 
-*   [Aggregates.NET (⭐381)](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
-*   [AggregateSource (⭐255)](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
+*   [Aggregates.NET (⭐421)](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
+*   [AggregateSource (⭐257)](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
 *   [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 *   [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
 *   [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling) - Middleware to handling commands over HTTP; typically used in CQRS applications.
-*   [Cirqus (⭐226)](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
+*   [Cirqus (⭐230)](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
 *   [CoreDdd (⭐69)](https://github.com/xhafan/coreddd) - Set of open-source .NET libraries helping with DDD and CQRS, with NHibernate persistence
-*   [CQRS on Azure (⭐25)](https://github.com/MerrionComputing/CQRSAzure) CQRS on Windows Azure.
-*   [EventFlow (⭐2.1k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
-*   [Its.Cqrs (⭐75)](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
-*   [MassTransit (⭐4.9k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
-*   [NServiceBus (⭐1.9k)](https://github.com/Particular/NServiceBus) - Service bus for .NET.
+*   [CQRS on Azure (⭐26)](https://github.com/MerrionComputing/CQRSAzure) CQRS on Windows Azure.
+*   [EventFlow (⭐2.2k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
+*   [Its.Cqrs (⭐78)](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
+*   [MassTransit (⭐5.6k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+*   [NServiceBus (⭐2k)](https://github.com/Particular/NServiceBus) - Service bus for .NET.
 *   [shriek-fx (⭐666)](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 *   [SqlStreamStore (⭐4)](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
-*   [Stringly.Typed (⭐44)](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
+*   [Stringly.Typed (⭐45)](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
 *   [Xer.Cqrs (⭐98)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ### Libraries and Frameworks / Databases
@@ -539,11 +568,11 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Libraries and Frameworks / Elixir
 
-*   [Event Bus (⭐651)](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
+*   [Event Bus (⭐670)](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
-*   [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore (⭐535)](https://github.com/adrai/node-eventstore), [node-cqrs-domain (⭐269)](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer (⭐38)](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga (⭐59)](https://github.com/adrai/node-cqrs-saga).
+*   [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore (⭐538)](https://github.com/adrai/node-eventstore), [node-cqrs-domain (⭐268)](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer (⭐37)](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga (⭐60)](https://github.com/adrai/node-cqrs-saga).
 
 ### Libraries and Frameworks / JVM
 
@@ -583,14 +612,14 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 ### Free eBooks
 
 *   [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - An infographic on the anatomy of Domain-Driven Design.
-*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb)
+*   [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample (⭐9k)](https://github.com/dotnet-architecture/eShopOnWeb)
 *   [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - Exploring CQRS and Event Sourcing.
 *   [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - A summary of the patterns and definitions of DDD.
 *   [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD.
 *   [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) -  In this three-part series, Vaughn Vernon walks through some common design pitfalls, discusses the pros and cons of various aggregate modeling choices, and provides rules of thumb to guide modeling of aggregates.
 *   [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) - Describes three strategies for getting started with DDD when you have a big commitment to legacy systems.
 *   [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - Discover how a Living Documentation can help you in all aspects of your projects, from the business goals to the business domain knowledge, architecture and design, processes and deployment, even if you hate writing documentation.
-*   [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample (⭐22k)](https://github.com/dotnet-architecture/eShopOnContainers)
+*   [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample (⭐24k)](https://github.com/dotnet-architecture/eShopOnContainers)
 *   [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) - A 68 pages long free ebook on what DDD, CQRS and event-sourcing are, and how they fit each other.
 
 ## [Feb 23, 2019](/content/2019/02/23/README.md)
@@ -603,7 +632,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Tools / Ruby
 
-*   [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source (⭐546)](https://github.com/wps/domain-story-modeler)).
+*   [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source (⭐632)](https://github.com/wps/domain-story-modeler)).
 
 ## [Jan 21, 2019](/content/2019/01/21/README.md)
 
@@ -671,7 +700,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Libraries and Frameworks / PHP
 
-*   [Broadway (⭐1.4k)](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
+*   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
 
 ### Libraries and Frameworks / Ruby
 
@@ -703,41 +732,35 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing and CQRS Sample (⭐441)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
+*   [Event Sourcing and CQRS Sample (⭐455)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 
 ## [Jul 10, 2017](/content/2017/07/10/README.md)
 
 ### Community Resources
 
-*   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐102)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
+*   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐105)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
 
 ## [Jun 29, 2017](/content/2017/06/29/README.md)
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing and CQRS Examples (⭐428)](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
+*   [Event Sourcing and CQRS Examples (⭐486)](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
 *   [wolkenkit](https://www.wolkenkit.io/) - A CQRS, DDD, and event-sourcing framework for JavaScript and Node.js.
 
-## [Jun 07, 2017](/content/2017/06/07/README.md)
-
-### Community Resources
-
-*   [Domain StoryTelling Slack](https://domainstorytelling.slack.com) - A slack team about Domain StoryTelling. It is currently invite only, but you can ask [@hofstef](https://twitter.com/hofstef) for an invitation. The homepage is at [domainstorytelling.org](http://domainstorytelling.org/).
-
 ## [Apr 13, 2017](/content/2017/04/13/README.md)
 
-### Libraries and Frameworks / JavaScript
+### Libraries and Frameworks / JavaScript / TypeScript
 
-*   [Node API Boilerplate (⭐3k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
+*   [Node API Boilerplate (⭐3.1k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 
 ## [Mar 31, 2017](/content/2017/03/31/README.md)
 
 ### Libraries and Frameworks / Elixir
 
-*   [eventstore (⭐908)](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
+*   [eventstore (⭐952)](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
 
 ## [Mar 18, 2017](/content/2017/03/18/README.md)
 
@@ -750,7 +773,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Libraries and Frameworks / Elixir
 
-*   [Commanded (⭐1.6k)](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
+*   [Commanded (⭐1.7k)](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
 
 ## [Feb 18, 2017](/content/2017/02/18/README.md)
 
@@ -780,7 +803,7 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ### Training Courses
 
-*   [Mixter (⭐282)](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
+*   [Mixter (⭐284)](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
 
 ## [Dec 08, 2016](/content/2016/12/08/README.md)
 
@@ -814,7 +837,6 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 *   [Domain Language eLearning](http://elearn.domainlanguage.com/) - Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.
 *   [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class.
 *   [Nomad PHP](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Introduction to Event Sourcing and CQRS.
-*   [Event Sourcery](https://eventsourcery.com/) - Introduction to DDD, CQRS, and Event Sourcing.
 *   [Pluralsight](https://pluralsight.com)
     *   [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans.
     *   [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.
@@ -864,19 +886,19 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 ### Sample Projects / .NET (C#/F#)
 
 *   [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d) - Example of Domain Driven Design for the game of checkers. There are two files: a scratch file with a series of designs, and a final version.
-*   [Microsoft Patterns and Practices: CQRS Journey Sample Code (⭐1.3k)](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
-*   [Simple CQRS in F# (⭐70)](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
+*   [Microsoft Patterns and Practices: CQRS Journey Sample Code (⭐1.4k)](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
+*   [Simple CQRS in F# (⭐72)](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
 
 ### Sample Projects / JVM languages
 
-*   [Akka CQRS ES Demo (⭐59)](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
-*   [DDD Leaven (⭐776)](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
+*   [Akka CQRS ES Demo (⭐58)](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
+*   [DDD Leaven (⭐813)](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 
 ### Libraries and Frameworks / .NET
 
-*   [MessageRouter (⭐45)](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
-*   [Projac (⭐135)](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
-*   [Streamstone (⭐352)](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
+*   [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
+*   [Projac (⭐138)](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
+*   [Streamstone (⭐371)](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 
 ### Podcasts and Interviews / Ruby
 
@@ -890,19 +912,13 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 ## [Oct 12, 2016](/content/2016/10/12/README.md)
 
-### Training Courses
-
-*   [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course.
-
 ### Community Resources
 
-*   [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages) - This group is for discussion of the domain-driven style of designing software, and the book by Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Business Software. Questions and discussion of the book content is welcome here, as well as sharing of experiences applying DDD, and discussions of the topic in general.
 *   [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - The place to discuss Domain-Driven Design, CQRS, Event Sourcing, Model Storming, Hexagonal Architecture, Distributed Systems, Reactive... in the context of PHP.
-*   [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - A public discussion group for everybody interested in EventStorming, and related themes.
 
 ### Libraries and Frameworks / .NET
 
-*   [NEventStore (⭐1.5k)](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
+*   [NEventStore (⭐1.6k)](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 
 ### Libraries and Frameworks / Databases
 
