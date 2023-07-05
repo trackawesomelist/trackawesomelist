@@ -6,6 +6,14 @@ An Awesome List for getting started with web archiving
 
 [ Daily / [Weekly](/content/iipc/awesome-web-archiving/week/README.md) / [Overview](/content/iipc/awesome-web-archiving/readme/README.md) ]
 
+## [Jul 05, 2023](/content/2023/07/05/README.md)
+
+### Tools & Software / Analysis
+
+*   [Common Crawl Columnar Index](https://commoncrawl.org/tag/columnar-index/) - SQL-queryable index, with CDX info plus language classification. *(Stable)*
+*   [Common Crawl Web Graph](https://commoncrawl.org/category/web-graph/) - A host or domain-level graph of the web, with ranking information. *(Stable)*
+*   [Common Crawl Jupyter notebooks (⭐29)](https://github.com/commoncrawl/cc-notebooks) - A collection of notebooks using Common Crawl's various datasets. *(Stable)*
+
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
 ### Tools & Software / Utilities

@@ -14,6 +14,9 @@ An Awesome List for getting started with web archiving
 
 ### Tools & Software / Analysis
 
+*   [Common Crawl Columnar Index](https://commoncrawl.org/tag/columnar-index/) - SQL-queryable index, with CDX info plus language classification. *(Stable)*
+*   [Common Crawl Web Graph](https://commoncrawl.org/category/web-graph/) - A host or domain-level graph of the web, with ranking information. *(Stable)*
+*   [Common Crawl Jupyter notebooks (⭐29)](https://github.com/commoncrawl/cc-notebooks) - A collection of notebooks using Common Crawl's various datasets. *(Stable)*
 *   [Web Data Commons](http://webdatacommons.org/) - Structured data extracted from Common Crawl. *(Stable)*
 
 ### Community Resources / Mailing Lists

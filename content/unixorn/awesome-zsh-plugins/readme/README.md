@@ -29,6 +29,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 ## Table of Contents
 
 *   [Frameworks](#frameworks)
+    *   [alf](#alf)
     *   [ansible-role-zsh](#ansible-role-zsh)
     *   [ant-zsh](#ant-zsh)
     *   [antibody](#antibody)
@@ -89,7 +90,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
     *   [Zgen](#zgen)
     *   [Zinit (né zplugin)](#zinit-n%C3%A9-zplugin)
     *   [ZSH on Windows](#zsh-on-windows)
-        *   [superconsole - Windows-only.](#superconsole---windows-only)
+        *   [superconsole - Windows-only](#superconsole---windows-only)
 *   [Plugins](#plugins)
 *   [Completions](#completions)
 *   [Themes](#themes)
@@ -525,7 +526,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 
 ### ZSH on Windows
 
-#### [superconsole (⭐74)](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+#### [superconsole (⭐74)](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   `ConEmu`/`zsh` out-of-the-box configured to restore previously opened tabs and shell working directories after `ConEmu` restart
 *   Choose between clean and inherited environment when starting new SuperConsole sessions
@@ -791,7 +792,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [fuzzy-wd (⭐1)](https://github.com/spodin/zsh-fuzzy-wd) - Adds fuzzy search for directories warped with the [WD (⭐160k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) plugin.
 *   [fz (⭐468)](https://github.com/changyuheng/fz) - Seamlessly adds fuzzy search to [z (⭐15k)](https://github.com/rupa/z)'s tab completion and lets you easily jump around among directories in your history.
 *   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐53k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
-*   [fzf (unixorn) (⭐169)](https://github.com/unixorn/fzf-zsh-plugin/tree/master) - Enables [fzf (⭐53k)](https://github.com/junegunn/fzf) history and file searches.
+*   [fzf (unixorn) (⭐169)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐53k)](https://github.com/junegunn/fzf) history and file searches.
 *   [fzf-copyq-clipboard (⭐0)](https://github.com/magidc/fzf-copyq-clipboard-zsh-plugin) - Add [fzf (⭐53k)](https://github.com/junegunn/fzf) support for [CopyQ](https://hluk.github.io/CopyQ/).
 *   [fzf-dir-navigator (⭐26)](https://github.com/KulkarniKaustubh/fzf-dir-navigator) - This is a cool and user-friendly directory navigation plugin for `zsh` using `fzf`.
 *   [fzf-fasd (⭐53)](https://github.com/wookayin/fzf-fasd) - Integrates [fzf (⭐53k)](https://github.com/junegunn/fzf) and [fasd (⭐5.8k)](https://github.com/clvv/fasd) --- tab completion of `z` with `fzf`'s fuzzy search!
@@ -808,7 +809,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [fzf-tools (⭐3)](https://github.com/happycod3r/fzf-tools) - Designed to enhance your command-line workflow by providing interactive selection capabilities through [fzf (⭐53k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
 *   [fzf-utils (⭐1)](https://github.com/redxtech/zsh-fzf-utils) - Provides functions to kill proceses and find in path with [fzf (⭐53k)](https://github.com/junegunn/fzf).
 *   [fzf-widgets (⭐86)](https://github.com/ytet5uy4/fzf-widgets) - Adds some ZLE widgets for [fzf (⭐53k)](https://github.com/junegunn/fzf).
-*   [fzf-z (⭐162)](https://github.com/andrewferrier/fzf-z) - Brings together the \*z- plugin and \*[fzf (⭐53k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
+*   [fzf-z (⭐162)](https://github.com/andrewferrier/fzf-z) - Brings together the `z` plugin and [fzf (⭐53k)](https://github.com/junegunn/fzf)- to allow you to easily browse recently used directories at any point on the command line.
 *   [fzy (⭐55)](https://github.com/aperezdc/zsh-fzy) - Plugin that uses [fzy (⭐2.8k)](https://github.com/jhawthorn/fzy) for certain fuzzy matching operations.
 *   [gcloud-project (⭐9)](https://github.com/avivl/gcloud-project) - Easy selection of Google Cloud Projects.
 *   [gdbm (⭐0)](https://github.com/zdharma-continuum/zgdbm) - Adds GDBM as a plugin.
@@ -1301,7 +1302,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [visit (⭐1)](https://github.com/justinpchang/visit) - Custom plugin for faster navigation.
 *   [vivid (⭐3)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.3k)](https://github.com/sharkdp/vivid).
 *   [volta (cowboyd) (⭐6)](https://github.com/cowboyd/zsh-volta) - Seamlessly install and configure the [Volta](https://volta.sh) NodeJS toolchain manager.
-*   [volta (⭐2)](https://github.com/ri7nz/zsh-volta) - Installs and loads [ Volta: JS Toolchains as Code (⭐8.3k)](https://github.com/volta-cli/volta).
+*   [volta (⭐2)](https://github.com/ri7nz/zsh-volta) - Installs and loads [Volta: JS Toolchains as Code (⭐8.3k)](https://github.com/volta-cli/volta).
 *   [vox (⭐8)](https://github.com/andrewbonnington/vox.plugin.zsh) - An [oh-my-zsh](https://ohmyz.sh/) plugin to control [VOX](https://vox.rocks/), a lightweight full-featured audio player for macOS that can play a variety of formats including FLAC and Ogg Vorbis.
 *   [vsc (⭐2)](https://github.com/davidtong/vsc.plugin.zsh) - Plugin for [Visual Studio Code](https://code.visualstudio.com/) on macOS.
 *   [vscode (kasperhesthaven) (⭐1)](https://github.com/kasperhesthaven/vscode) - Simple plugin to open [Visual Studio Code](https://code.visualstudio.com/) a little more easily across systems.
@@ -2590,7 +2591,7 @@ There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.gi
 *   [awesome-sysadmin (⭐19k)](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
 *   [Terminals Are Sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
 
-Find other useful awesome-\* lists at the [awesome collection (⭐258k)](https://github.com/sindresorhus/awesome)
+Find other useful awesome-\* lists at the [awesome collection](https://github.com/sindresorhus/awesome)
 
 ### Other References
 

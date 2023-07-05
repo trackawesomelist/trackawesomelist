@@ -6,6 +6,20 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [ [Daily](/content/josephmisiti/awesome-machine-learning/README.md) / Weekly / [Overview](/content/josephmisiti/awesome-machine-learning/readme/README.md) ]
 
+## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+
+### Go / Natural Language Processing
+
+*   [Cybertron (⭐144)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
+
+### Go / General-Purpose Machine Learning
+
+*   [Spago (⭐1.5k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
+
+### Python / Computer Vision
+
+*   [joliGEN (⭐93)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
+
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
 ### Python / General-Purpose Machine Learning
@@ -36,7 +50,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / Natural Language Processing
 
-*   [Haystack (⭐9.1k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
+*   [Haystack (⭐9.2k)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 
 ### Python / General-Purpose Machine Learning
 
@@ -105,7 +119,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Tools / Misc
 
-*   [DockerDL (⭐35)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
+*   [DockerDL (⭐38)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -197,7 +211,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 *   [Shapash (⭐2.2k)](https://github.com/MAIF/shapash) : Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
 *   [Eurybia (⭐181)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
-*   [Colossal-AI (⭐30k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+*   [Colossal-AI (⭐31k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -223,7 +237,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Tools / Misc
 
-*   [milvus](https://milvus.io) – Milvus is [open source (⭐20k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
+*   [milvus](https://milvus.io) – Milvus is [open source (⭐21k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
@@ -255,7 +269,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Tools / Misc
 
-*   [Chaos Genius (⭐607)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+*   [Chaos Genius (⭐609)](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
 
@@ -382,7 +396,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Rust / General-Purpose Machine Learning
 
-*   [smartcore (⭐534)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
+*   [smartcore (⭐546)](https://github.com/smartcorelib/smartcore) - "The Most Advanced Machine Learning Library In Rust."
 *   [linfa (⭐2.7k)](https://github.com/rust-ml/linfa) - a comprehensive toolkit to build Machine Learning applications with Rust
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
@@ -463,7 +477,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Intel® oneAPI Data Analytics Library (⭐561)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
+*   [Intel® oneAPI Data Analytics Library (⭐563)](https://github.com/oneapi-src/oneDAL) - A high performance software library developed by Intel and optimized for Intel's architectures. Library provides algorithmic building blocks for all stages of data analytics and allows to process data in batch, online and distributed modes.
 
 ### JavaScript / Demos and Scripts
 
@@ -594,7 +608,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐97)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐98)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)
 
@@ -626,7 +640,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐6.5k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐6.6k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
@@ -712,7 +726,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C++ / Computer Vision
 
-*   [VIGRA (⭐387)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
+*   [VIGRA (⭐389)](https://github.com/ukoethe/vigra) - VIGRA is a genertic cross-platform C++ computer vision and machine learning library for volumes of arbitrary dimensionality with Python bindings.
 
 ### C++ / General-Purpose Machine Learning
 
@@ -923,7 +937,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐661)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐662)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
 
@@ -959,7 +973,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Tools / Misc
 
-*   [m2cgen (⭐2.5k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
+*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
@@ -1399,7 +1413,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Common Lisp / General-Purpose Machine Learning
 
-*   [mgl (⭐529)](https://github.com/melisgl/mgl/) - Neural networks (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes.
+*   [mgl (⭐531)](https://github.com/melisgl/mgl/) - Neural networks (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes.
 *   [mgl-gpr (⭐58)](https://github.com/melisgl/mgl-gpr/) - Evolutionary algorithms. **\[Deprecated]**
 *   [cl-libsvm (⭐16)](https://github.com/melisgl/cl-libsvm/) - Wrapper for the libsvm support vector machine library. **\[Deprecated]**
 
@@ -1430,7 +1444,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [go-ml (⭐199)](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution. **\[Deprecated]**
 *   [bayesian (⭐762)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang. **\[Deprecated]**
 *   [go-galib (⭐195)](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / Golang. **\[Deprecated]**
-*   [Cloudforest (⭐727)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
+*   [Cloudforest (⭐728)](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in Go/Golang. **\[Deprecated]**
 
 ### Go / Data Analysis / Data Visualization
 
@@ -1655,7 +1669,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [cerebro2 (⭐24)](https://github.com/numenta/nupic.cerebro2) A web-based visualization and debugging platform for NuPIC. **\[Deprecated]**
 *   [NuPIC Studio (⭐93)](https://github.com/htm-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool! **\[Deprecated]**
 *   [Seaborn](https://seaborn.pydata.org/) - A python visualization library based on matplotlib.
-*   [Superset (⭐52k)](https://github.com/apache/incubator-superset) - A data exploration platform designed to be visual, intuitive, and interactive.
+*   [Superset (⭐53k)](https://github.com/apache/incubator-superset) - A data exploration platform designed to be visual, intuitive, and interactive.
 *   [visualize\_ML (⭐179)](https://github.com/ayush1997/visualize_ML) - A python package for data exploration and data analysis. **\[Deprecated]**
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
@@ -1885,7 +1899,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐840)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐843)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
@@ -1897,7 +1911,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐59k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐175k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
+*   [keras (⭐59k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐176k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.7k)](https://github.com/Theano/Theano).
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 
@@ -2045,7 +2059,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
     *   [sfm (⭐3)](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package. **\[Deprecated]**
     *   [fex (⭐10)](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules. **\[Deprecated]**
     *   [OverFeat (⭐597)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
-    *   [wav2letter (⭐6.2k)](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
+    *   [wav2letter (⭐6.3k)](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
 
@@ -2055,7 +2069,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐365)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐366)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [Nov 06 - Nov 12, 2017](/content/2017/45/README.md)
 
@@ -2067,7 +2081,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C / Computer Vision
 
-*   [CCV (⭐6.9k)](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
+*   [CCV (⭐7k)](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 
 ### C++ / General-Purpose Machine Learning
 
@@ -2083,9 +2097,9 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [thinking bayes (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.
 *   [nilearn (⭐1k)](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
 *   [Theano (⭐9.7k)](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
-*   [TensorFlow (⭐175k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
+*   [TensorFlow (⭐176k)](https://github.com/tensorflow/tensorflow/) - Open source software library for numerical computation using data flow graphs.
 *   [Neural Networks and Deep Learning (⭐14k)](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning" \[DEEP LEARNING].
-*   [Annoy (⭐11k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
+*   [Annoy (⭐12k)](https://github.com/spotify/annoy) - Approximate nearest neighbours implementation.
 *   [skbayes (⭐490)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API.
 *   [Xcessiv (⭐1.3k)](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.
 
@@ -2354,7 +2368,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Ruby / Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐997)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
+*   [Awesome NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 
 ## [Jun 05 - Jun 11, 2017](/content/2017/23/README.md)
 
@@ -2548,7 +2562,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 *   [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional \[DEEP LEARNING]
 *   [DyNet (⭐3.4k)](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python.
-*   [Fido (⭐417)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
+*   [Fido (⭐419)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics.
 *   [LightGBM (⭐15k)](https://github.com/Microsoft/LightGBM) - Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 *   [ROOT](https://root.cern.ch) - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 *   [shark](http://image.diku.dk/shark/sphinx_pages/build/html/index.html) - A fast, modular, feature-rich open-source C++ machine learning library.
@@ -2668,7 +2682,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 ### Rust / General-Purpose Machine Learning
 
 *   [deeplearn-rs (⭐206)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐579)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [rustlearn (⭐584)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ## [Jan 18 - Jan 24, 2016](/content/2016/3/README.md)
 
@@ -2782,7 +2796,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐665)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐671)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -2790,7 +2804,7 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐387)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐389)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [May 04 - May 10, 2015](/content/2015/18/README.md)
 
@@ -3048,4 +3062,4 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐170k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐172k)](https://github.com/vinta/awesome-python)

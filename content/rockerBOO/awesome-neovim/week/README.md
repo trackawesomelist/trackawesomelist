@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [zootedb0t/citruszest.nvim (⭐1)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Colorscheme Switchers / Diagnostics
@@ -41,7 +47,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [linrongbin16/gitlinker.nvim (⭐4)](https://github.com/linrongbin16/gitlinker.nvim) - Generate sharable file permalinks (with line ranges) for git host websites, a fork of "ruifm's gitlinker", refactored with pattern based rule engine, windows support and other enhancements.
+*   [linrongbin16/gitlinker.nvim (⭐12)](https://github.com/linrongbin16/gitlinker.nvim) - Generate sharable file permalinks (with line ranges) for git host websites, a fork of "ruifm's gitlinker", refactored with pattern based rule engine, windows support and other enhancements.
 
 ### Formatting / Diagnostics
 
@@ -71,7 +77,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/dropbar.nvim (⭐334)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
+*   [Bekaboo/dropbar.nvim (⭐392)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
 
 ### Utility / Diagnostics
 
@@ -80,11 +86,11 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Diagnostics
 
-*   [google/executor.nvim (⭐50)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+*   [google/executor.nvim (⭐53)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 
 ### Competitive Programming / Diagnostics
 
-*   [Dhanus3133/Leetbuddy.nvim (⭐41)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
+*   [Dhanus3133/Leetbuddy.nvim (⭐45)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -112,7 +118,7 @@ Collections of awesome neovim plugins.
 
 ### Session / Diagnostics
 
-*   [RutaTang/spectacle.nvim (⭐7)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
+*   [RutaTang/spectacle.nvim (⭐8)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
 
 ## [May 08 - May 14, 2023](/content/2023/19/README.md)
 
@@ -172,7 +178,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [VidocqH/lsp-lens.nvim (⭐107)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
+*   [VidocqH/lsp-lens.nvim (⭐110)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -407,7 +413,7 @@ Collections of awesome neovim plugins.
 ### (requires Neovim 0.5)
 
 *   [DNLHC/glance.nvim (⭐409)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
-*   [linrongbin16/lsp-progress.nvim (⭐61)](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
+*   [linrongbin16/lsp-progress.nvim (⭐61)](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status.
 
 ### Colorscheme Switchers / Diagnostics
 

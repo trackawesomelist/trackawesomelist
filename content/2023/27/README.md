@@ -1,24 +1,91 @@
 # Awesome List Updates on Jul 03 - Jul 09, 2023
 
-12 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+
+### :books: Literature / Documentation
+
+*   :pushpin: [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)
+
+### :books: Literature / Scientific Research
+
+*   :mortar\_board: [Adversarial learning on static detection techniques for executable packing](https://dial.uclouvain.be/memoire/ucl/object/thesis:40178) (June 2023)
+*   :notebook: [Malware makeover: Breaking ML-based static analysis by modifying executable bytes](http://arxiv.org/abs/1912.09064) (May 2021)
+*   :newspaper: [On deceiving malware classification with section injection](https://www.semanticscholar.org/paper/On-deceiving-malware-classification-with-section-Silva-Segundo/915faa4486a78a4f449c0f8028b773078bfdbd84) (August 2022)
+*   :mortar\_board: Static features exploration for executable packing with unsupervised learning (June 2023)
+
+## [2. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+
+### Docker Images for Penetration Testing & Security
+
+*   `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-last-release/)
+
+### Tools / Other
+
+*   [Shodan](https://www.shodan.io/) - A web-crawling search engine that lets users search for various types of servers connected to the internet.
+*   [masscan (⭐21k)](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
+*   [Keyscope (⭐371)](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
+*   [CyLR (⭐546)](https://github.com/orlikoski/CyLR) - NTFS forensic image collector
+*   [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
+
+## [3. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+
+### Try Groovy in Browser
+
+*   [Groovy Web Console](https://gwc-experiment.appspot.com/)
+
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Mobile
+
+*   [cl-jwk (⭐5)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
+
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+
+### Software / R
+
+*   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
+
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Email - Mailing Lists and Newsletters
+
+*   [Sympa](https://www.sympa.community/) - Mailing list manager. `GPL-2.0` `Perl`
+
+### Software / Communication - Social Networks and Forums
+
+*   [GNU social](https://www.gnusocial.rocks/) - Social communication software for both public and private communications. ([Source Code](https://codeberg.org/GNUsocial/gnu-social)) `AGPL-3.0` `PHP`
+
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [zootedb0t/citruszest.nvim (⭐1)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### Go / Natural Language Processing
+
+*   [Cybertron (⭐144)](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go.
+
+### Go / General-Purpose Machine Learning
+
+*   [Spago (⭐1.5k)](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go.
+
+### Python / Computer Vision
+
+*   [joliGEN (⭐93)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
+
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Http Clients
 
 *   [corbella83/kotliny.network (⭐2)](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 
 ### Android / Libraries
 
@@ -60,7 +127,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
@@ -68,13 +135,16 @@
 
 ### Tools & Software / Analysis
 
+*   [Common Crawl Columnar Index](https://commoncrawl.org/tag/columnar-index/) - SQL-queryable index, with CDX info plus language classification. *(Stable)*
+*   [Common Crawl Web Graph](https://commoncrawl.org/category/web-graph/) - A host or domain-level graph of the web, with ranking information. *(Stable)*
+*   [Common Crawl Jupyter notebooks (⭐29)](https://github.com/commoncrawl/cc-notebooks) - A collection of notebooks using Common Crawl's various datasets. *(Stable)*
 *   [Web Data Commons](http://webdatacommons.org/) - Structured data extracted from Common Crawl. *(Stable)*
 
 ### Community Resources / Mailing Lists
 
 *   [Common Crawl](https://groups.google.com/g/common-crawl)
 
-## [3. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [11. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### AI
 
@@ -92,7 +162,7 @@
 
 *   [MicroPython\_ICG20660 (⭐0)](https://github.com/jposada202020/MicroPython_ICG20660) - MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Service Discovery
 
@@ -104,13 +174,13 @@
 *   [OpenVZ](https://openvz.org) - Container-based virtualization for Linux. ([Source Code](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
 *   [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code (⭐26k)](https://github.com/portainer/portainer)) `Zlib` `Go`
 
-## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Other Development Tools / Nodes and Indexers
 
 *   [AlgoRun (⭐17)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
-## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [14. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Agents
 
@@ -133,7 +203,7 @@
 *   [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
 *   [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://medium.com/towards-artificial-intelligence/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 
-## [7. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
@@ -143,19 +213,19 @@
 
 *   [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh.
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [TerraVide](https://pypi.org/project/TerraVide/) - TerraVide is an open source python package to process large urban environments mapped with LiDAR (Light Detection and Ranging) data. As of v0.1.6, focuses on tree extraction.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Inter-process communication
 
 *   [SRPC (⭐1.7k)](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Graphics
 
@@ -165,7 +235,7 @@
 
 *   [d-e-s-o/apca (⭐80)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -194,13 +264,14 @@
 
 *   [wolfia-app/gpt-code-search (⭐102)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
-## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
-### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [fzf (unixorn) (⭐169)](https://github.com/unixorn/fzf-zsh-plugin/) - Enables [fzf (⭐53k)](https://github.com/junegunn/fzf) history and file searches.
 *   [fzf-tools (⭐3)](https://github.com/happycod3r/fzf-tools) - Designed to enhance your command-line workflow by providing interactive selection capabilities through [fzf (⭐53k)](https://github.com/junegunn/fzf), allowing you to quickly find files, search & run commands from history, run scripts of many supported types, browse `git` commits, and more.
 
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [agnoster-multiline (⭐0)](https://github.com/mxkrsv/agnoster-multiline) - Based on [Agnoster (⭐3.7k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for current directory and `git` status. Requires a font with powerline and `git` glyphs. Automatically disables non-ascii glyphs on linux ttys.
 *   [riverside (⭐0)](https://github.com/skippyr/riverside) - A more portable descendent of [River Dreams (⭐2)](https://github.com/skippyr/river_dreams) inspired by robbyrussell and kafeitu. Includes decorators for `git` status, user\@hostname, current directory and the current python virtual environment.

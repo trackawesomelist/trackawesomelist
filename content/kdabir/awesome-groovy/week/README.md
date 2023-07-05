@@ -6,6 +6,12 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 [ [Daily](/content/kdabir/awesome-groovy/README.md) / Weekly / [Overview](/content/kdabir/awesome-groovy/readme/README.md) ]
 
+## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+
+### Try Groovy in Browser
+
+*   [Groovy Web Console](https://gwc-experiment.appspot.com/)
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Build tools, setup and CI
@@ -264,7 +270,6 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ### Try Groovy in Browser
 
-*   [Groovy Web Console](http://groovyconsole.appspot.com/)
 *   [Groovy Playground](https://groovy-playground.appspot.com/)
 
 ## [May 25 - May 31, 2015](/content/2015/21/README.md)

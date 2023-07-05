@@ -6,6 +6,12 @@ A curated list of awesome network analysis resources.
 
 [ [Daily](/content/briatte/awesome-network-analysis/README.md) / Weekly / [Overview](/content/briatte/awesome-network-analysis/readme/README.md) ]
 
+## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+
+### Software / R
+
+*   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Software / Social, Economic and Political Networks

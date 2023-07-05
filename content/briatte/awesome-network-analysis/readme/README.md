@@ -10,7 +10,7 @@ A curated list of awesome network analysis resources.
 
 # Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481)
 
-An [awesome list (⭐258k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
+An [awesome list (⭐261k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
 Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math (⭐7.2k)](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
 
@@ -739,6 +739,7 @@ Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristof
     *   [Network Centrality in R: An Introduction](http://blog.schochastics.net/post/network-centrality-in-r-introduction/) - Includes a review of relevant R packages.
     *   [Network Centrality in R: Neighborhood Inclusion](http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/).
     *   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
+*   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
 *   [NetSim](http://www.christoph-stadtfeld.com/netsim/) - Simulate and combine micro-models to research their impact on the macro-features of social networks.
 *   [netUtils (⭐11)](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
 *   [network](https://CRAN.R-project.org/package=network) - Basic tools to manipulate relational data in R.
