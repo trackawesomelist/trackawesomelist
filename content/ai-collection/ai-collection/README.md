@@ -6,11 +6,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
-## [Jul 05, 2023](/content/2023/07/05/README.md)
+## [Jul 06, 2023](/content/2023/07/06/README.md)
 
 ### Art & Image Generator
 
-- Name: [CustomQR AI](http://customqrai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+- Name: [CustomQR AI](https://customqrai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: QR Code Generation Service for Business.
 
@@ -18,6 +18,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Offer Free Version: :x:
 
+
+
+## [Jul 05, 2023](/content/2023/07/05/README.md)
+
+### Art & Image Generator
 
 - Name: [DigitalMuses](https://digitalmuses.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 

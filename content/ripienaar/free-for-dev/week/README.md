@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+
+### Testing
+
+*   [Apptim](https://apptim.com) — A mobile testing tool that enables people without performance engineering skills to evaluate app's performance and user experience (UX). Desktop version using your own device is 100% FREE with unlimited tests on both iOS and Android.
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Code Quality
@@ -317,7 +323,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### PaaS
 
 *   [WunderGraph](https://cloud.wundergraph.com) - An open source platform that allows you to  quickly build, ship and manage modern APIs. Builtin CI/CD, GitHub integration, automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
-*   [Doprax Cloud](https://www.doprax.com) — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 \* 256MB ram and 2 GB of disk.
+*   [Doprax Cloud](https://www.doprax.com) — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 \* 256MB ram and 2 GB of disk. To create an app space, you need to have at least $3 in your account credit balance.
 
 ### Design and UI
 
@@ -1570,7 +1576,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data and ML
 
-*   [Public-Apis Github Repo (⭐245k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐247k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Code Quality
 
@@ -2501,7 +2507,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐843)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐852)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
 
@@ -3467,7 +3473,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [gocover.io](https://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
 *   [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
 *   [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
-*   [lgtm.com](https://lgtm.com) — Continuous security analysis for Java, Python, JavaScript, TypeScript, C#, C and C++, free for Open Source
 *   [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
 *   [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
 *   [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
@@ -3530,7 +3535,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
 *   [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
-*   [blackfire.io](https://blackfire.io/) — Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan (PHP only)
 *   [circonus.com](https://www.circonus.com/) — Free for 20 metrics
 *   [cloudsploit.com](https://cloudsploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc.
 *   [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes

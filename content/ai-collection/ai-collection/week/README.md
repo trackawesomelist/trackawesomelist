@@ -10,7 +10,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Art & Image Generator
 
-- Name: [CustomQR AI](http://customqrai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+- Name: [CustomQR AI](https://customqrai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: QR Code Generation Service for Business.
 

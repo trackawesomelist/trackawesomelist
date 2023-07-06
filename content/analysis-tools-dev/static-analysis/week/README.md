@@ -6,6 +6,12 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [Bearer (⭐1.2k)](https://github.com/bearer/bearer) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Other / [Other](#other-1)
@@ -69,10 +75,6 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [PC-lint](https://pclintplus.com/) :copyright: — Static analysis for C/C++. Runs natively under Windows/Linux/MacOS. Analyzes code for virtually any platform, supporting C11/C18 and C++17.
-
-### Multiple languages / [Other](#other-1)
-
-*   [Bearer](https://bearer.com) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
@@ -274,7 +276,7 @@
 *   [pure (⭐232)](https://github.com/ronomon/pure) — Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow,  sparseness, accidental buffer bleeds etc.
 *   [Parker (⭐2.5k)](https://github.com/katiefenn/parker) — Stylesheet analysis tool.
 *   [scsslint (⭐3.6k)](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
-*   [gixy (⭐7.6k)](https://github.com/yandex/gixy) — A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.
+*   [gixy (⭐7.9k)](https://github.com/yandex/gixy) — A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.
 *   [Puppet Lint (⭐803)](https://github.com/rodjek/puppet-lint) — Check that your Puppet manifests conform to the style guide.
 *   [collector (⭐290)](https://github.com/banyanops/collector) — Run arbitrary scripts inside containers, and gather useful information.
 *   [Docker Label Inspector (⭐80)](https://github.com/garethr/docker-label-inspector) — Lint and validate Dockerfile labels.
@@ -907,7 +909,7 @@
 *   [ChkTeX](http://www.nongnu.org/chktex) — A linter for LaTex which catches some typographic errors LaTeX oversees.
 *   [markdownlint (⭐3.9k)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 *   [Android Lint](http://tools.android.com/tips/lint) — Run static analysis on Android projects.
-*   [deadnix (⭐256)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
+*   [deadnix (⭐261)](https://github.com/astro/deadnix) — Scan Nix files for dead code (unused variable bindings)
 *   [lintian](https://lintian.debian.org) — Static analysis tool for Debian packages.
 *   [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 *   [mythril (⭐3.4k)](https://github.com/ConsenSys/mythril) — A symbolic execution framework with batteries included, can be used to find and exploit vulnerabilities in smart contracts automatically.
