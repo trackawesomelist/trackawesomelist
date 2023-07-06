@@ -8,9 +8,44 @@
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
+### Templates / Vanilla
+
+*   [vite-tinybase (⭐0)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
+*   [vite-tinybase-ts (⭐1)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
+
+### Templates / Vue 3
+
+*   [antdv-pro (⭐58)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
+
+### Templates / React
+
+*   [create-react-app-vite (⭐89)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [vite-tinybase-react (⭐0)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
+*   [vite-tinybase-ts-react (⭐2)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@spiriit/vite-plugin-svg-spritemap (⭐1)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-css-injected-by-js (⭐209)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-global-const (⭐1)](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
+
+### Vue / Routing
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-router (⭐555)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
+
 ### Vue / Helpers
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-nested-sfc (⭐81)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
+
+### Libraries / Community
+
+*   [vue-ssr (⭐6)](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -968,10 +1003,6 @@
 
 *   [vite-vue2-ts-starter (⭐29)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 
-### Templates / React
-
-*   [vite-react-ts-extended (⭐88)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
-
 ### Templates / Svelte
 
 *   [SvelteKit (⭐15k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
@@ -1248,7 +1279,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-comlink (⭐113)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.7k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+*   [vite-plugin-comlink (⭐113)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.8k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 

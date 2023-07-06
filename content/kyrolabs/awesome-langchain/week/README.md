@@ -8,6 +8,10 @@
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
+### Tools / Services
+
+*   [AilingBot (⭐8)](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
+
 ### Tools / Agents
 
 *   [Autonomous HR Chatbot (⭐34)](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)

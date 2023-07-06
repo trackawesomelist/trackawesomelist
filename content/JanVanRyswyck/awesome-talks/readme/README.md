@@ -18,18 +18,18 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 ### Categories
 
-*   [Software Development (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#software-development)
-*   [Object-Oriented Programming (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
-*   [Functional Programming (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
-*   [Software Design (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#software-design)
-*   [Web Development (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#web-development)
-*   [Test-Driven Development (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
-*   [Methodologies (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
-*   [Computer History (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
-*   [Databases (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#databases)
-*   [Security (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#security)
-*   [Cognitive Development (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
-*   [Cryptocurrencies (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
+*   [Software Development (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#software-development)
+*   [Object-Oriented Programming (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
+*   [Functional Programming (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
+*   [Software Design (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#software-design)
+*   [Web Development (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#web-development)
+*   [Test-Driven Development (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
+*   [Methodologies (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
+*   [Computer History (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
+*   [Databases (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#databases)
+*   [Security (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#security)
+*   [Cognitive Development (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
+*   [Cryptocurrencies (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
 
@@ -59,6 +59,8 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 *   [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** \[50:42]
 *   [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** \[1:07:57]
 *   [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** \[49:38]
+*   [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** \[55:34]
+*   [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** \[56:45]
 
 #### Object-Oriented Programming
 
@@ -109,6 +111,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 *   [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** \[40:35]
 *   [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** \[39:41]
 *   [The Lost Art Of Software Design](https://www.youtube.com/watch?v=XPSZC3mJRO0) by **Simon Brown** \[46:15]
+*   [Tidy First](https://www.youtube.com/watch?v=XmsyvStDuqI) by **Kent Beck** \[46:19]
 
 #### Web Development
 
@@ -195,11 +198,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 *   [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** \[39:48]
 *   [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** \[10:47]
 *   [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** \[21:22]
-
-#### Cryptocurrencies
-
-*   [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** \[23:47]
-*   [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** \[30:15]
 
 ## License
 

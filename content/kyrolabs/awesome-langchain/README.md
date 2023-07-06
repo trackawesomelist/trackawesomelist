@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jul 06, 2023](/content/2023/07/06/README.md)
+
+### Tools / Services
+
+*   [AilingBot (⭐8)](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
+
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
 ### Tools / Agents

@@ -68,6 +68,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 *   [docker-vitejs-tailwind-handlebars (⭐4)](https://github.com/dendrofen/docker-vitejs-tailwind-handlebars) - Starter template for TailwindCSS and Handlebars (Docker Compose).
 *   [vite-phaser-ts (⭐9)](https://github.com/iwantantra/vite-phaser-ts) - Starter template with Phaser and Typescript.
+*   [vite-tinybase (⭐0)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
+*   [vite-tinybase-ts (⭐1)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
 
 #### Vue 3
 
@@ -129,6 +131,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-vue-lib-template (⭐7)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 *   [vite-plugin-style-vw-loader (⭐1)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
 *   [vue3-ts-pinia-vant (⭐40)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vant, Pinia, VueUse, TypeScript, SocketIO, Mobile Demo.
+*   [antdv-pro (⭐58)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
 
 #### Vue 2
 
@@ -162,7 +165,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-react-ts-ghactions-template (⭐39)](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Vitest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
 *   [vite-react-tailwind-v3 (⭐12)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 *   [vite-react-ts-tailwind-v3 (⭐21)](https://github.com/huibizhang/template-vite-react-ts-tailwind-v3) - Starter template for React + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
-*   [vite-react-ts-extended (⭐88)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [create-react-app-vite (⭐89)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
 *   [vite-react-starter (⭐51)](https://github.com/fabgrel10/vite-react-starter) - React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library.
 *   [chrome-extension-boilerplate-react-vite (⭐717)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
 *   [vite-ant-design-pro (⭐68)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
@@ -192,6 +195,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-react-ts-tailwind-template (⭐3)](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
 *   [vite-react-ts-template (⭐26)](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 *   [react-vite-tailwindcss-template (⭐4)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
+*   [vite-tinybase-react (⭐0)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
+*   [vite-tinybase-ts-react (⭐2)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
 
 #### Svelte
 
@@ -261,7 +266,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-tauri (⭐123)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 *   [vite-plugin-federation (⭐1.4k)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
 *   [vite-plugin-wasm-pack (⭐157)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.2k)](https://github.com/rustwasm/wasm-pack), the simple way.
-*   [vite-plugin-comlink (⭐113)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.7k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+*   [vite-plugin-comlink (⭐113)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.8k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 *   [vite-plugin-sass-dts (⭐75)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 *   [vite-esbuild-typescript-checker](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
 *   [vite-plugin-simple-gql (⭐21)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
@@ -301,6 +306,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [unplugin-fonts (⭐189)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 *   [unplugin-config (⭐4)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 *   [vite-plugin-svg-spritemap (⭐8)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
+*   [@spiriit/vite-plugin-svg-spritemap (⭐1)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
 
 #### Loaders
 
@@ -339,6 +345,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-image-optimizer (⭐85)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 *   [vite-plugin-no-bundle (⭐19)](https://github.com/ManBearTM/vite-plugin-no-bundle) - Generate unbundled code for use with native ESM or other bundlers.
 *   [vite-plugin-clean (⭐8)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
+*   [vite-plugin-css-injected-by-js (⭐209)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 
 #### Transformers
 
@@ -432,6 +439,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-find-image-duplicates (⭐1)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
 *   [@froxz/vite-plugin-s3 (⭐9)](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
 *   [vite-plugin-vitepress-auto-sidebar (⭐20)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
+*   [vite-plugin-global-const (⭐1)](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
 
 #### Testing
 
@@ -474,6 +482,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 *   ![v23] [vite-plugin-pages (⭐1.5k)](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 *   ![v3] [v-route-generate (⭐8)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
+*   ![v3] [unplugin-vue-router (⭐555)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
 
 #### Loaders
 
@@ -658,6 +667,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [vite-plugin-ssr](https://vite-plugin-ssr.com) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
 *   [ssr (⭐2.4k)](https://github.com/zhangyuang/ssr) - A Server Side Rendering framework combined with Webpack/Vite. ![react] ![vue3] ![vue2]
 *   [vavite (⭐317)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+*   [vue-ssr (⭐6)](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3]
 
 ### Frameworks
 

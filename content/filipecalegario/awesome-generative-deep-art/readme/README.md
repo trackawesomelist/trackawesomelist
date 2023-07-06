@@ -186,7 +186,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 *   \[🔥🔥🔥] [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/): the LLM agents learning notes by Lilian Weng
 *   [Vercel for AI agents (⭐5.2k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
-*   [101dotxyz/GPTeam (⭐982)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
+*   [101dotxyz/GPTeam (⭐1.1k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 *   [Fine-Tuner.ai](https://fine-tuner.ai/): no code approach to build AI agents
 *   [AI Agent Basics: Let’s Think Step By Step - by Jon Stokes](https://www.jonstokes.com/p/ai-agent-basics-lets-think-step-by)
 *   \[🔥🔥] [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents): provides a natural language API on top of Hugging Face's transformers library
@@ -275,9 +275,9 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### For text-to-text
 
-*   [timqian/openprompt.co (⭐951)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
+*   [timqian/openprompt.co (⭐969)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐81k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [f/awesome-chatgpt-prompts (⭐83k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
 *   [brexhq/prompt-engineering (⭐6.3k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 *   [How to write an effective GPT-3 prompt | Zapier](https://zapier.com/blog/gpt-3-prompt/): a list of 6 GPT-3 tips for getting the desired output
 *   [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting): e-book by Fatih Kadir Akın ([@fkadev](http://twitter.com/fkadev))
@@ -525,6 +525,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Critical Views about Generative AI
 
+*   [Why transformative artificial intelligence is really, really hard to achieve](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
 *   [AI and the automation of work — Benedict Evans](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 *   [Yuval Noah Harari argues that AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
 *   [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)

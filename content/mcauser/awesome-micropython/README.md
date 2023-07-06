@@ -6,6 +6,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jul 06, 2023](/content/2023/07/06/README.md)
+
+### Communications / RPC
+
+*   [ujrpc (⭐0)](https://github.com/zcattacz/ujrpc) - JSON RPC for MicroPython.
+
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Communications / APIs

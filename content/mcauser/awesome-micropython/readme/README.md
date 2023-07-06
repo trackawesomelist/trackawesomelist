@@ -328,6 +328,10 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-wiegand (⭐23)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 *   [urdm6300 (⭐2)](https://github.com/membermatters/urdm6300) - A MicroPython driver for the popular RDM6300 RFID card reader.
 
+#### RPC
+
+*   [ujrpc (⭐0)](https://github.com/zcattacz/ujrpc) - JSON RPC for MicroPython.
+
 #### RTC
 
 *   [micropython-tinyrtc-i2c (⭐61)](https://github.com/mcauser/micropython-tinyrtc-i2c) - Driver for DS1307 RTC and AT24C32N EEPROM.

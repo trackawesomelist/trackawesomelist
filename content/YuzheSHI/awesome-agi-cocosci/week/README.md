@@ -2,15 +2,21 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 161 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 165 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
+
+## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+
+### Science Logology / Democratization
+
+*   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Courses
 
-*   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics.
+*   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics, including matheatical logic, set theory, graph theory, formal language (and automata), basic number theory (e.g., counting), and other related topics.
 
 ### Concepts / Human Concept Representation
 
@@ -738,7 +744,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐568)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐569)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
@@ -746,7 +752,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
 *   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐23)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐125)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐126)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
 ### Embodied Intelligence / Explainable Deep Learning
@@ -1056,7 +1062,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Explainability / Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐7.6k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐7.7k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 ### John Hopcroft / Commonsense Knowledgebase
 
@@ -1099,7 +1105,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Explainability / Strong Machine Learning
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐834)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐836)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -1333,7 +1339,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Bayesian Modeling / Generative Model
 
-*   [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4399294843209736764)]. \[[Code (⭐41)](https://github.com/ruiqigao/recovery_likelihood)].
+*   [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4399294843209736764)]. \[[Code (⭐42)](https://github.com/ruiqigao/recovery_likelihood)].
 
 ### Problem Solving / Human-Level Problem Solving
 
@@ -1720,7 +1726,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576\&hl=en\&as_sdt=0,5)]. \[[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
 *   [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf) - ***CVPR'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6285495755337309034\&hl=en\&as_sdt=0,5)].
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐954)](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐957)](https://github.com/JosephKJ/OWOD)].
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
 ### Learning with Cognitive Plausibility / Commonsense Knowledgebase

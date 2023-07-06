@@ -1,24 +1,53 @@
 # Awesome List Updates on Jul 03 - Jul 09, 2023
 
-32 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Blog posts
+
+*   [EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-for-pandas-users-part-1-b2ec500a1008) - A blog post that describes the main data processing operations with Polars in Python by [@AntonsRuberts](https://github.com/AntonsRuberts).
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Science Logology / Democratization
+
+*   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].
+
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** \[55:34]
+*   [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** \[56:45]
+
+### Software Design
+
+*   [Tidy First](https://www.youtube.com/watch?v=XmsyvStDuqI) by **Kent Beck** \[46:19]
+
+## [4. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+
+### Design tokens
+
+*   [Design Tokens Validator](https://animaapp.github.io/design-token-validator-site/) - Validate your design tokens against the Design Token Community Group spec.
+
+## [5. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Encyclopedia
 
 *   [The On-Line Encyclopedia of Integer Sequences](https://oeis.org) - Great compendium of many different integer sequences. Founded 1964 by N. J. A. Sloane.
 
-## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Text processing
 
 *   [read\_xlsx\_v (⭐0)](https://github.com/fanlia/read_xlsx_v) - Read xlsx using vlang.
 
-## [3. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [7. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
@@ -38,13 +67,13 @@
 *   [AgML (⭐79)](https://github.com/Project-AgML/AgML) - Centralized framework for agricultural machine learning.
 *   [FarmVibes.AI (⭐504)](https://github.com/microsoft/farmvibes-ai) - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
 *   [Apptim](https://apptim.com) — A mobile testing tool that enables people without performance engineering skills to evaluate app's performance and user experience (UX). Desktop version using your own device is 100% FREE with unlimited tests on both iOS and Android.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -55,19 +84,19 @@
 
 *   [Vue Play](https://www.vueplay.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
 
-## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Bearer (⭐1.2k)](https://github.com/bearer/bearer) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 
 *   [Pulp (⭐4)](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bazalp/pulp)
 
-## [8. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [12. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Art & Image Generator
 
@@ -132,13 +161,13 @@
 
 
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSSHub / Outline Processor Markup Language
 
 *   <https://rsshub.services.woodland.cafe> by [untitaker](https://github.com/untitaker) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frsshub.services.woodland.cafe)
 
-## [10. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [14. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -173,19 +202,54 @@
 
 *   [PyAssimilator (⭐124)](https://github.com/knucklesuganda/py_assimilator/) - Quickly create DDD Python patterns, Event-Based Systems, CRUD applications. Set of Python patterns for database access that support SQLAlchemy, MongoDB, Redis, or Pure Python. PyAssimilator allows you to write code without dependencies, meaning you can switch SQL to NoSQL without changing a single file in your system.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
 *   [Running ASP.NET Core Apps without a server? WHAT???](https://www.youtube.com/watch?v=IXCZAFwT5GY) - ![duration](https://img.shields.io/badge/Duration:%20-46%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could.
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vanilla
+
+*   [vite-tinybase (⭐0)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
+*   [vite-tinybase-ts (⭐1)](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
+
+### Templates / Vue 3
+
+*   [antdv-pro (⭐58)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
+
+### Templates / React
+
+*   [create-react-app-vite (⭐89)](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
+*   [vite-tinybase-react (⭐0)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
+*   [vite-tinybase-ts-react (⭐2)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@spiriit/vite-plugin-svg-spritemap (⭐1)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-css-injected-by-js (⭐209)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-global-const (⭐1)](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
+
+### Vue / Routing
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-router (⭐555)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
 
 ### Vue / Helpers
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-nested-sfc (⭐81)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
 
-## [13. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+### Libraries / Community
+
+*   [vue-ssr (⭐6)](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+
+## [17. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -198,7 +262,7 @@
 *   :newspaper: [On deceiving malware classification with section injection](https://www.semanticscholar.org/paper/On-deceiving-malware-classification-with-section-Silva-Segundo/915faa4486a78a4f449c0f8028b773078bfdbd84) (August 2022)
 *   :mortar\_board: Static features exploration for executable packing with unsupervised learning (June 2023)
 
-## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [18. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
@@ -212,25 +276,32 @@
 *   [CyLR (⭐546)](https://github.com/orlikoski/CyLR) - NTFS forensic image collector
 *   [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
 
-## [15. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [19. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Try Groovy in Browser
 
 *   [Groovy Web Console](https://gwc-experiment.appspot.com/)
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [20. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
 *   [cl-jwk (⭐5)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
 
-## [17. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+### Reference
+
+*   NEW! [CL CommunitySpec](https://cl-community-spec.github.io/pages/index.html) - a rendition of the Common Lisp ANSI Specification draft.
+    *   with an interactive search, syntax highlighting! And open-source.
+*   NEW! [novaspec](https://novaspec.org/) - a modern rendition of the CL ANSI draft.
+    *   not open-source?
+
+## [21. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / R
 
 *   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
@@ -240,13 +311,13 @@
 
 *   [GNU social](https://www.gnusocial.rocks/) - Social communication software for both public and private communications. ([Source Code](https://codeberg.org/GNUsocial/gnu-social)) `AGPL-3.0` `PHP`
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [zootedb0t/citruszest.nvim (⭐1)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
 
-## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / Natural Language Processing
 
@@ -260,7 +331,7 @@
 
 *   [joliGEN (⭐93)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Http Clients
 
@@ -306,7 +377,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [22. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [26. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
@@ -323,7 +394,7 @@
 
 *   [Common Crawl](https://groups.google.com/g/common-crawl)
 
-## [23. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [27. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### AI
 
@@ -341,6 +412,10 @@
 
 *   [micropython-switchbot-thermometer-hygrometer (⭐0)](https://github.com/hilch/micropython-switchbot-thermometer-hygrometer) - Read SwitchBot Thermometer/Hygrometer via Bluetooth.
 
+### Communications / RPC
+
+*   [ujrpc (⭐0)](https://github.com/zcattacz/ujrpc) - JSON RPC for MicroPython.
+
 ### Sensors / Accelerometer Digital
 
 *   [MicroPython\_MMA8452Q (⭐0)](https://github.com/jposada202020/MicroPython_MMA8452Q) - MicroPython Driver for the NXP MMA8452Q Accelerometer.
@@ -349,7 +424,7 @@
 
 *   [MicroPython\_ICG20660 (⭐0)](https://github.com/jposada202020/MicroPython_ICG20660) - MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.
 
-## [24. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [28. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Service Discovery
 
@@ -361,13 +436,17 @@
 *   [OpenVZ](https://openvz.org) - Container-based virtualization for Linux. ([Source Code](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
 *   [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code (⭐26k)](https://github.com/portainer/portainer)) `Zlib` `Go`
 
-## [25. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [29. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Other Development Tools / Nodes and Indexers
 
 *   [AlgoRun (⭐17)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
-## [26. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [30. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+
+### Tools / Services
+
+*   [AilingBot (⭐8)](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
 
 ### Tools / Agents
 
@@ -390,7 +469,7 @@
 *   [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
 *   [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://medium.com/towards-artificial-intelligence/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 
-## [27. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
@@ -400,19 +479,19 @@
 
 *   [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh.
 
-## [28. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [TerraVide](https://pypi.org/project/TerraVide/) - TerraVide is an open source python package to process large urban environments mapped with LiDAR (Light Detection and Ranging) data. As of v0.1.6, focuses on tree extraction.
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Inter-process communication
 
 *   [SRPC (⭐1.7k)](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
 
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Graphics
 
@@ -422,7 +501,7 @@
 
 *   [d-e-s-o/apca (⭐80)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
-## [31. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -438,6 +517,7 @@
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
+*   [Why transformative artificial intelligence is really, really hard to achieve](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
 *   [AI and the automation of work — Benedict Evans](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 
 ### Image Upscaling / Generative Adversarial Networks (GANs)
@@ -451,7 +531,7 @@
 
 *   [wolfia-app/gpt-code-search (⭐102)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

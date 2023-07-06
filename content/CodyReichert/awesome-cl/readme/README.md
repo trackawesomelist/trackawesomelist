@@ -767,13 +767,26 @@ See also:
 
 ## Reference
 
+*   NEW! [CL CommunitySpec](https://cl-community-spec.github.io/pages/index.html) - a rendition of the Common Lisp ANSI Specification draft.
+    *   with an interactive search, syntax highlighting! And open-source.
+
+*   NEW! [novaspec](https://novaspec.org/) - a modern rendition of the CL ANSI draft.
+    *   not open-source?
+
 *   [Common Lisp Quick Reference](http://clqr.boundp.org/index.html) - A distilled, pocket-size version of the ANSI CL spec. Available for download as a PDF.
+
 *   [CLHS](http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm) - The Common Lisp HyperSpec; the ANSI CL standard, in hypertext form.
+
 *   [CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) - A modern public domain online version of chapters 5 and 6 of The Art of the Metaobject Protocol
+
 *   [Common Lisp Standard Draft (pdf)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) - The standard draft of the Common Lisp specifications, in a well formatted PDF with a sidebar.
+
 *   [Common Lisp the Language](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) - The original standard for Common Lisp before the ANSI spec.
+
 *   [Minispec](https://lamberta.github.io/minispec/) - A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (such as Alexandria).
+
 *   [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) - The simplified version of CLHS.
+
 *   [CDR](https://cdr.common-lisp.dev/) - Common Lisp Document Repository. a repository of documents that are of interest to the Common Lisp community. The most important property of a CDR document is that it will never change: if you refer to it, you can be sure that your reference will always refer to exactly the same document.
     *   the Common Lisp Document Repository is hosted at [Zenodo](https://zenodo.org/communities/cdr/).
 
@@ -1338,6 +1351,7 @@ This contains plugins and other goodies for various text editors.
     *   [Slime breakpoints (⭐10)](https://github.com/mmontone/slime-breakpoints)
     *   [Slite (⭐46)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
     *   [Quicklisp-apropos (⭐9)](https://github.com/mmontone/quicklisp-apropos) - Perform `apropos` queries across libraries in Quicklisp (full-text search on symbol names, classes, documentation…).
+    *   [slime-critic (⭐7)](https://github.com/mmontone/slime-critic) - the lisp critic gently critiques your code for bad patterns.
 
 ## Vim & Neovim
 

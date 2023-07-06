@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+
+### Resources / Blog posts
+
+*   [EDA with Polars: Step-by-Step Guide for Pandas Users (Part 1)](https://towardsdatascience.com/eda-with-polars-step-by-step-guide-for-pandas-users-part-1-b2ec500a1008) - A blog post that describes the main data processing operations with Polars in Python by [@AntonsRuberts](https://github.com/AntonsRuberts).
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Resources / Tutorials & workshops
@@ -42,7 +48,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Resources / Tutorials & workshops
 
-*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐7)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
+*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐8)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
 
 ### Resources / Blog posts
 

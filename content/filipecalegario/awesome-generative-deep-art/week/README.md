@@ -22,6 +22,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
+*   [Why transformative artificial intelligence is really, really hard to achieve](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
 *   [AI and the automation of work — Benedict Evans](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 
 ### Image Upscaling / Generative Adversarial Networks (GANs)
@@ -149,7 +150,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
 *   [Vercel for AI agents (⭐5.2k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
-*   [101dotxyz/GPTeam (⭐982)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
+*   [101dotxyz/GPTeam (⭐1.1k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 
 ### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
@@ -157,9 +158,9 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
-*   [timqian/openprompt.co (⭐951)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
+*   [timqian/openprompt.co (⭐969)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐81k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [f/awesome-chatgpt-prompts (⭐83k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
 *   [brexhq/prompt-engineering (⭐6.3k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools

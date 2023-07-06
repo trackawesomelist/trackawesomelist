@@ -6,6 +6,17 @@ Awesome online talks and screencasts
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
+## [Jul 06, 2023](/content/2023/07/06/README.md)
+
+### Software Development
+
+*   [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** \[55:34]
+*   [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** \[56:45]
+
+### Software Design
+
+*   [Tidy First](https://www.youtube.com/watch?v=XmsyvStDuqI) by **Kent Beck** \[46:19]
+
 ## [Nov 04, 2021](/content/2021/11/04/README.md)
 
 ### Software Development
@@ -179,21 +190,11 @@ Awesome online talks and screencasts
 
 *   [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** \[33:05]
 
-### Cryptocurrencies
-
-*   [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** \[30:15]
-
 ## [Dec 24, 2017](/content/2017/12/24/README.md)
 
 ### Test-Driven Development
 
 *   [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** \[32:22]
-
-## [Dec 16, 2017](/content/2017/12/16/README.md)
-
-### Cryptocurrencies
-
-*   [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) by **Andreas Antonopoulos** \[23:47]
 
 ## [Nov 05, 2017](/content/2017/11/05/README.md)
 

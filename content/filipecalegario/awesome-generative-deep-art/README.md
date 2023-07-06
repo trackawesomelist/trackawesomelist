@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 06, 2023](/content/2023/07/06/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Why transformative artificial intelligence is really, really hard to achieve](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
+
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
 ### Hypertechniques / ControlNet
@@ -205,9 +211,9 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
-*   [timqian/openprompt.co (⭐951)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
+*   [timqian/openprompt.co (⭐969)](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 *   [60 ChatGPT Prompts for Data Science (Tried, Tested, and Rated)](https://medium.datadriveninvestor.com/60-chatgpt-prompts-for-data-science-tried-tested-and-rated-4994c7e6adb2): post by Travis Tang from DataDrivenInvestor
-*   [f/awesome-chatgpt-prompts (⭐81k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
+*   [f/awesome-chatgpt-prompts (⭐83k)](https://github.com/f/awesome-chatgpt-prompts): this repo includes ChatGPT prompt curation to use ChatGPT better
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
@@ -225,7 +231,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
-*   [101dotxyz/GPTeam (⭐982)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
+*   [101dotxyz/GPTeam (⭐1.1k)](https://github.com/101dotxyz/GPTeam): "GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals"
 
 ### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 

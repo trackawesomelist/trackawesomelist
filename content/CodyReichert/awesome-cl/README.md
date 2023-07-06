@@ -6,6 +6,15 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Jul 06, 2023](/content/2023/07/06/README.md)
+
+### Reference
+
+*   NEW! [CL CommunitySpec](https://cl-community-spec.github.io/pages/index.html) - a rendition of the Common Lisp ANSI Specification draft.
+    *   with an interactive search, syntax highlighting! And open-source.
+*   NEW! [novaspec](https://novaspec.org/) - a modern rendition of the CL ANSI draft.
+    *   not open-source?
+
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Mobile
@@ -705,6 +714,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [Slime breakpoints (⭐10)](https://github.com/mmontone/slime-breakpoints)
     *   [Slite (⭐46)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
     *   [Quicklisp-apropos (⭐9)](https://github.com/mmontone/quicklisp-apropos) - Perform `apropos` queries across libraries in Quicklisp (full-text search on symbol names, classes, documentation…).
+    *   [slime-critic (⭐7)](https://github.com/mmontone/slime-critic) - the lisp critic gently critiques your code for bad patterns.
 
 ## [Mar 23, 2022](/content/2022/03/23/README.md)
 

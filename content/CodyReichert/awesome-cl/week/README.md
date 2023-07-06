@@ -12,6 +12,13 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [cl-jwk (⭐5)](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
 
+### Reference
+
+*   NEW! [CL CommunitySpec](https://cl-community-spec.github.io/pages/index.html) - a rendition of the Common Lisp ANSI Specification draft.
+    *   with an interactive search, syntax highlighting! And open-source.
+*   NEW! [novaspec](https://novaspec.org/) - a modern rendition of the CL ANSI draft.
+    *   not open-source?
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### C, C++
@@ -685,6 +692,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [Slime breakpoints (⭐10)](https://github.com/mmontone/slime-breakpoints)
     *   [Slite (⭐46)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
     *   [Quicklisp-apropos (⭐9)](https://github.com/mmontone/quicklisp-apropos) - Perform `apropos` queries across libraries in Quicklisp (full-text search on symbol names, classes, documentation…).
+    *   [slime-critic (⭐7)](https://github.com/mmontone/slime-critic) - the lisp critic gently critiques your code for bad patterns.
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 

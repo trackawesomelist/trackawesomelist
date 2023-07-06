@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 161 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 165 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / Overview ]
 
@@ -20,7 +20,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 ## Contributing
 
-Contributions are greatly welcomed! Please read the [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/Contributing.md) before taking any action.
+Contributions are greatly welcomed! Please refer to the [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/Contributing.md) before taking any action.
 
 <span id = "c"></span>
 
@@ -139,7 +139,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. \[[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450\&hl=en\&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
 
-*   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics.
+*   [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics, including matheatical logic, set theory, graph theory, formal language (and automata), basic number theory (e.g., counting), and other related topics.
 
 \*[Back to Top](#c)
 
@@ -461,7 +461,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9945264852135249894)]. \[[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. \[[Code (⭐28)](https://github.com/bpucla/latent-space-EBM-prior)]. A milestone paper on Latent Energy-Based Model.
 
-*   [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4399294843209736764)]. \[[Code (⭐41)](https://github.com/ruiqigao/recovery_likelihood)].
+*   [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4399294843209736764)]. \[[Code (⭐42)](https://github.com/ruiqigao/recovery_likelihood)].
 
 *   [Score-Based Generative Modeling through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS\&utm_campaign=NLP%20News\&utm_medium=email\&utm_source=Revue%20newsletter) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14592788616550656262)].
 
@@ -979,15 +979,15 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐834)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐836)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐568)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐569)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 \*[Back to Top](#c)
 
 #### Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐7.6k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐7.7k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 
@@ -1001,7 +1001,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526\&hl=en\&as_sdt=0,5)].
 
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐125)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐126)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
@@ -1386,6 +1386,8 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 *   [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976\&hl=en\&as_sdt=0,5)].
 
 *   [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
+
+*   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].
 
 \*[Back to Top](#c)
 
@@ -1909,7 +1911,7 @@ Contributions are greatly welcomed! Please read the [Contribution Guidelines](ht
 
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
 
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐954)](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐957)](https://github.com/JosephKJ/OWOD)].
 
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 

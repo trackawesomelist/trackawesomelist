@@ -24,6 +24,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [micropython-switchbot-thermometer-hygrometer (⭐0)](https://github.com/hilch/micropython-switchbot-thermometer-hygrometer) - Read SwitchBot Thermometer/Hygrometer via Bluetooth.
 
+### Communications / RPC
+
+*   [ujrpc (⭐0)](https://github.com/zcattacz/ujrpc) - JSON RPC for MicroPython.
+
 ### Sensors / Accelerometer Digital
 
 *   [MicroPython\_MMA8452Q (⭐0)](https://github.com/jposada202020/MicroPython_MMA8452Q) - MicroPython Driver for the NXP MMA8452Q Accelerometer.
