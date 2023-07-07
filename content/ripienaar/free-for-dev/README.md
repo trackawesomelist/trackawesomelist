@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 07, 2023](/content/2023/07/07/README.md)
+
+### Email
+
+*   [Skiff](https://skiff.com/)- Open source, end-to-end encrypted anonymous email service, no additional details asked at signup, free 10GB drive storage, 1 custom domain for your own website, free 4 aliases for your email address per account. Additional Crypto Wallet support for E2EE environment.
+
 ## [Jul 06, 2023](/content/2023/07/06/README.md)
 
 ### Testing

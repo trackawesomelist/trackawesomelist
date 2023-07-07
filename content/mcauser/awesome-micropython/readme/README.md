@@ -419,6 +419,7 @@ Other places you can look for MicroPython Libraries:
 *   [WiFiManager (⭐290)](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 *   [Micropython-ESP-WiFi-Manager (⭐19)](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi Manager to configure and connect to networks.
 *   [mpy-wpa\_supplicant (⭐0)](https://github.com/Carglglz/mpy-wpa_supplicant) - MicroPython module to connect to the nearest known Wifi AP.
+*   [micropython-wifi\_manager (⭐35)](https://github.com/ferreira-igor/micropython-wifi_manager) - WiFi Manager for ESP8266 and ESP32 using MicroPython.
 
 #### Zigbee
 

@@ -28,6 +28,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [ujrpc (⭐0)](https://github.com/zcattacz/ujrpc) - JSON RPC for MicroPython.
 
+### Communications / WiFi
+
+*   [micropython-wifi\_manager (⭐35)](https://github.com/ferreira-igor/micropython-wifi_manager) - WiFi Manager for ESP8266 and ESP32 using MicroPython.
+
 ### Sensors / Accelerometer Digital
 
 *   [MicroPython\_MMA8452Q (⭐0)](https://github.com/jposada202020/MicroPython_MMA8452Q) - MicroPython Driver for the NXP MMA8452Q Accelerometer.

@@ -8,6 +8,10 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
+### Data Processing
+
+*   [Nextflow](https://www.nextflow.io/) - Groovy DSL for Data-driven computational pipelines
+
 ### Try Groovy in Browser
 
 *   [Groovy Web Console](https://gwc-experiment.appspot.com/)

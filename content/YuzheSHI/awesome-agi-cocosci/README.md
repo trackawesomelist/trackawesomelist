@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jul 07, 2023](/content/2023/07/07/README.md)
+
+### Paper Reading
+
+*   [Text Visualization Browser](https://textvis.lnu.se/) - ***ISOVIS group***, 2015. \[[Paper](https://cs.lnu.se/isovis/pubs/docs/kucher-pacificvis15-postprint.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7000995325728444282\&hl=en\&as_sdt=0,5)]. A Hub of Text Visualization Techniques.
+
 ## [Jul 06, 2023](/content/2023/07/06/README.md)
 
 ### Science Logology / Democratization

@@ -177,6 +177,8 @@ Contributions are greatly welcomed! Please refer to the [Contribution Guidelines
 
 *   [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) - ***MIT***. MIT guidance on strategies for reading papers given different time constraints.
 
+*   [Text Visualization Browser](https://textvis.lnu.se/) - ***ISOVIS group***, 2015. \[[Paper](https://cs.lnu.se/isovis/pubs/docs/kucher-pacificvis15-postprint.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7000995325728444282\&hl=en\&as_sdt=0,5)]. A Hub of Text Visualization Techniques.
+
 \*[Back to Top](#c)
 
 ### Literature Management

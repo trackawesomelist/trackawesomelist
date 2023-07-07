@@ -6,6 +6,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jul 07, 2023](/content/2023/07/07/README.md)
+
+### Communications / WiFi
+
+*   [micropython-wifi\_manager (⭐35)](https://github.com/ferreira-igor/micropython-wifi_manager) - WiFi Manager for ESP8266 and ESP32 using MicroPython.
+
 ## [Jul 06, 2023](/content/2023/07/06/README.md)
 
 ### Communications / RPC

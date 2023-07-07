@@ -6,6 +6,12 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 [ Daily / [Weekly](/content/kdabir/awesome-groovy/week/README.md) / [Overview](/content/kdabir/awesome-groovy/readme/README.md) ]
 
+## [Jul 07, 2023](/content/2023/07/07/README.md)
+
+### Data Processing
+
+*   [Nextflow](https://www.nextflow.io/) - Groovy DSL for Data-driven computational pipelines
+
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Try Groovy in Browser

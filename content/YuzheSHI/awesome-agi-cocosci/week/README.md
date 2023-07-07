@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
+### Paper Reading
+
+*   [Text Visualization Browser](https://textvis.lnu.se/) - ***ISOVIS group***, 2015. \[[Paper](https://cs.lnu.se/isovis/pubs/docs/kucher-pacificvis15-postprint.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7000995325728444282\&hl=en\&as_sdt=0,5)]. A Hub of Text Visualization Techniques.
+
 ### Science Logology / Democratization
 
 *   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].

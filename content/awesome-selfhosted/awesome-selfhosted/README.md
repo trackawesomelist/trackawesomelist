@@ -6,6 +6,28 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 07, 2023](/content/2023/07/07/README.md)
+
+### Software / Analytics
+
+*   [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs. ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code (⭐0)](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
+
+### Software / Miscellaneous
+
+*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution. Alternative to LaunchDarkly. ([Source Code (⭐738)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
+
+### Software / Pastebins
+
+*   [YABin (⭐54)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs`
+
+### Software / Proxy
+
+*   [Koblas (⭐26)](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
+
+### Software / Remote Access
+
+*   [httprd (⭐2)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
+
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
@@ -173,7 +195,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / URL Shorteners
 
-*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.jck.cx), [Source Code (⭐56)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
+*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.jck.cx), [Source Code (⭐61)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
 
 ## [Jun 04, 2023](/content/2023/06/04/README.md)
 
@@ -630,7 +652,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Recipe Management
 
-*   [Bar Assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
+*   [Bar Assistant (⭐201)](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ([Demo](https://bar.karlomikus.com/)) `MIT` `PHP/Docker`
 
 ## [Jan 19, 2023](/content/2023/01/19/README.md)
 
@@ -2637,7 +2659,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [iodine](https://code.kryo.se/iodine/) - IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code (⭐5.2k)](https://github.com/yarrick/iodine)) `ISC` `C`
 *   [Privoxy](https://www.privoxy.org) - Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. `GPL-2.0` `C`
-*   [SWAG (Secure Web Application Gateway)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
+*   [SWAG (Secure Web Application Gateway) (⭐2.1k)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
@@ -3847,12 +3869,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Archiving and Digital Preservation (DP)
 
 *   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐3.9k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
-
-## [Nov 13, 2019](/content/2019/11/13/README.md)
-
-### Software / Communication - IRC
-
-*   [Tiny Tiny IRC](https://tt-rss.org/tt-irc/) - An open source AJAX-powered chat platform with support for IRC ([Source Code](https://git.tt-rss.org/fox/tt-irc)). `GPL-3.0` `PHP/Java`
 
 ## [Nov 09, 2019](/content/2019/11/09/README.md)
 
