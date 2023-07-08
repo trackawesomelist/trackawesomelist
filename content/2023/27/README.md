@@ -1,12 +1,216 @@
 # Awesome List Updates on Jul 03 - Jul 09, 2023
 
-43 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [1. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+
+### Static type checkers
+
+*   [basedmypy (⭐33)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
+
+## [2. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+
+### Game engines
+
+*   [Armory (Kha) (⭐2.8k)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Away3D (⭐182)](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
+*   [ceramic (⭐191)](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+*   [HaxeFlixel (OpenFL) (⭐1.8k)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Haxegon (OpenFL) (⭐190)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Heaps (⭐2.9k)](https://github.com/HeapsIO/heaps) - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [hxdefold (⭐163)](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
+*   [OpenFL (⭐1.8k)](https://github.com/openfl/openfl) - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Starling (⭐222)](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
+*   [Stencyl (OpenFL) (⭐179)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
+*   [unreal.hx (⭐412)](https://github.com/proletariatgames/unreal.hx) - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [HxGodot (Godot 4.0) (⭐156)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
+
+### Low-level Engine
+
+*   [Kha (⭐1.4k)](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Lime (⭐704)](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
+*   [linc\_glfw (⭐16)](https://github.com/Sunjammer/linc_glfw) - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) *(Desktop)*.
+*   [NME (⭐466)](https://github.com/haxenme/nme) - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
+*   [3DSHaxe (⭐11)](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
+
+### Physics
+
+*   [echo (⭐138)](https://github.com/AustinEast/echo/) - Simple Physics Library.
+*   [haxebullet (⭐93)](https://github.com/armory3d/haxebullet) - Bullet 3D Physics.
+*   [nape-haxe4 (⭐43)](https://github.com/HaxeFlixel/nape-haxe4) - Physics Engine (the original Haxe3 version of nape can be found [here (⭐542)](https://github.com/deltaluca/nape)).
+
+### Architecture
+
+*   [awe6 (⭐82)](https://github.com/hypersurge/awe6) - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
+*   [ecx (⭐52)](https://github.com/eliasku/ecx) - `ECS` - An Entity Component System framework.
+*   [hexMachina (⭐7)](https://github.com/DoclerLabs/hexCore) - `MVC` - A powerful multi-modular MVC framework.
+*   [OSIS (⭐43)](https://github.com/Dvergar/OSIS) - `ECS` - Entity Component System architecture with networking support.
+
+### Networking
+
+*   [Anette (⭐38)](https://github.com/Dvergar/Anette) - Simple network library (no UDP).
+*   [colyseus-hx (⭐66)](https://github.com/colyseus/colyseus-hx) - Multiplayer Game Client.
+*   [haxe-simple-peer (js) (⭐4)](https://github.com/melonin/haxe-simple-peer) - Haxe externs for simple-peer.
+*   [hxWebSockets (⭐73)](https://github.com/ianharrigan/hxWebSockets) - Websockets for all platforms.
+*   Built-in - Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
+
+### Serialization and storage
+
+*   [Bits (⭐21)](https://github.com/RealyUniqueName/Bits) - Binary bit flags with unlimited amount of bits.
+*   [CastleDB (⭐494)](https://github.com/ncannasse/castle) - A structured static database easing collaboration.
+*   [hxbit (⭐142)](https://github.com/ncannasse/hxbit) - A binary serialization and network synchronization library.
+*   [PODStream (⭐20)](https://github.com/Dvergar/PODStream) - Plain Old Data serializer.
+
+### Games
+
+*   [Darksburg](https://store.steampowered.com/app/939100/Darksburg/) - Heaps - `Desktop`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/darksburg.jpg)
+*   [Dead Cells](https://dead-cells.com/) - Heaps - `Desktop`, `Consoles`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dead-cells.jpg)
+*   [Defender's Quest](http://www.defendersquest.com/) - HaxeFlixel (OpenFL) - `Desktop`, `Consoles`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest.jpg)
+*   [Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/) - HaxeFlixel (OpenFL) - `Desktop`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest-2.jpg)
+*   [Dicey Dungeons](http://diceydungeons.com/) - Haxegon (OpenFL) - `Desktop`, `Consoles`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dicey-dungeons.jpg)
+*   [Evoland](http://evoland.shirogames.com/) - Heaps - `Desktop`, `Mobile`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/evoland.jpg)
+*   [Northgard](http://northgard.net/) - Heaps - `Desktop`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/northgard.jpg)
+*   [Papers, Please](http://papersplea.se/) - OpenFL - `Desktop`, `iOS`, `PsVita`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/papers-please.jpg)
+*   [Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) - HaxePunk (OpenFL)- `Desktop`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/pocket-kingdom.jpg)
+*   [rymdkapsel](https://rymdkapsel.com/) - OpenFL - `Desktop`, `Mobile`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/rymdkapsel.jpg)
+*   [Spellbreak](https://playspellbreak.com/) - unreal.hx -  `PC`, `PS`, `Xbox`, `Switch`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/spellbreak.jpg)
+*   [The Westport Independent](http://www.doublezeroonezero.com/westport.html) - Luxe - `Desktop`, `Mobile`.
+    *   ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/westport-independent.jpg)
+
+### Miscellaneous / 3rd party API
+
+*   [SteamWrap (⭐92)](https://github.com/larsiusprime/SteamWrap) - Native extension for the SteamAPI.
+*   [newgrounds](https://lib.haxe.org/p/newgrounds) - Newgrounds API.
+*   [hxgamejolt-api (⭐7)](https://github.com/MAJigsaw77/hxgamejolt-api) - Haxe bindings for GameJolt API.
+
+### Miscellaneous / Animation
+
+*   [spine-hx (⭐54)](https://github.com/jeremyfa/spine-hx) - Spine runtime automatically converted from the official Java/libgdx runtime.
+*   HaxeFlixel - Spine parser.
+*   [Heaps-Spine (⭐18)](https://github.com/Beeblerox/Heaps-Spine) - Spine player for heaps.
+*   [heaps-aseprite (⭐23)](https://github.com/AustinEast/heaps-aseprite) - Load and render sprites and animations in Aseprite format.
+*   [openfl-aseprite (⭐15)](https://github.com/miriti/openfl-aseprite) - Load and render sprites and animations in Aseprite format.
+*   [openfl-spine (⭐16)](https://github.com/rainyt/openfl-spine) - Render Spine animation in the OpenFL engine, rendering processing can be achieved throughSprite and Tilemap.
+*   [ase (⭐14)](https://github.com/miriti/ase) - File format reader/writer for .ase/.aseprite without external dependencies.
+*   [flxgif (⭐8)](https://github.com/MAJigsaw77/flxgif) - Yagp's Gif Player for HaxeFlixel.
+
+### Miscellaneous / Audio
+
+*   [sfxr-hx (⭐5)](https://github.com/jobf/sfxr-hx) - Pure haxe implementation of Sfxr.
+
+### Miscellaneous / Color manipulation
+
+*   [nxColor (⭐38)](https://github.com/oscarcs/nxColor) - Color manipulation library.
+
+### Miscellaneous / Collision
+
+*   [differ (⭐156)](https://github.com/snowkit/differ) - A separation axis theorem collision library.
+
+### Miscellaneous / Computer Vision
+
+*   [Vision (⭐32)](https://github.com/ShaharMS/Vision) - Cross platform computer vision library.
+
+### Miscellaneous / Data structures
+
+*   [polygonal-ds (⭐339)](https://github.com/polygonal/ds) - Data structures for games.
+
+### Miscellaneous / Editor
+
+*   [flixel-studio (⭐92)](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
+
+### Miscellaneous / Helpers
+
+*   [deepnightLibs (⭐205)](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
+    |Procedural generation|[Dungeon builder (⭐63)](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
+
+### Miscellaneous / Localization
+
+*   [firetongue (⭐140)](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
+
+### Miscellaneous / Map parser
+
+*   [PyxelEdit Map Importer (⭐33)](https://github.com/Dvergar/PyxelEdit-Map-Importer) - Parser for maps generated by the editor PyxelEdit.
+*   Heaps - Built-in parser for Tiled.
+*   HaxeFlixel - Parser for Tiled & Ogmo.
+*   [LEd (⭐81)](https://github.com/deepnight/led-haxe-api) - 2D level editor with a typed compile time loader.
+*   [TiledHX (⭐6)](https://github.com/yanrishatum/tiledhx) - A comprehensive modern Tiled parser.
+
+### Miscellaneous / Math helpers
+
+*   [hxmath (⭐88)](https://github.com/tbrosman/hxmath) - A game-oriented math library.
+*   [haxe-glm (⭐44)](https://github.com/hamaluik/haxe-glm) - A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.
+*   [hx-vector2d (⭐12)](https://github.com/markknol/hx-vector2d) - Worlds most complete Vector2d / Point class. With operator overloading.
+
+### Miscellaneous / Modding
+
+*   [polymod (⭐138)](https://github.com/larsiusprime/polymod) - An atomic modding framework for games/apps.
+
+### Miscellaneous / Particles
+
+*   [Sparkler (⭐15)](https://github.com/RudenkoArts/sparkler) - Modular Particle System.
+
+### Miscellaneous / Monetization
+
+*   [extension-iap (⭐8)](https://github.com/charmdev/extension-iap) - Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this (⭐69)](https://github.com/HaxeExtension/extension-iap).
+
+### Miscellaneous / Pathfinding
+
+*   [pathfinder (⭐28)](https://github.com/hypersurge/pathfinder) - Easy A\* pathfinding algorithm.
+*   [astar](https://gitlab.com/haath/astar) - Versatile framework-agnostic A-star solver Library.
+
+### Miscellaneous / Shaders
+
+*   [HGSL (⭐120)](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
+*   [parasol (⭐14)](https://github.com/47rooks/parasol) - HaxeFlixel library of shaders.
+
+### Miscellaneous / Sprite
+
+*   [haxe-aseprite (⭐20)](https://github.com/PongoEngine/haxe-aseprite) - Parser for .ase and .aseprite files.
+
+### Miscellaneous / Texture Packer
+
+*   [hxpk (⭐45)](https://github.com/bendmorris/hxpk) - Port of the libGDX Texture Packer.
+
+### Miscellaneous / Tweening
+
+*   [actuate (⭐148)](https://github.com/jgranick/actuate) - A flexible, fast "tween" library.
+*   [YATL (⭐16)](https://github.com/Yanrishatum/yatl) - Yet Another (Haxe) Tweening Library.
+*   [TweenX/TweenXCore (⭐89)](https://github.com/shohei909/tweenx) - Tween library.
+
+### Miscellaneous / UI
+
+*   [domkit (⭐73)](https://github.com/ncannasse/domkit) - CSS Components based strictly typed UI framework.
+*   [flixel-ui (⭐149)](https://github.com/HaxeFlixel/flixel-ui) - GUI library for HaxeFlixel.
+*   [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
+*   [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
+
+### Miscellaneous / Video
+
+*   [hxCodec (⭐97)](https://github.com/polybiusproxy/hxCodec) - Adds native video playback on HaxeFlixel and OpenFL.
+
+## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Tools / Vendor supported providers
+
+*   [tfgpt (⭐58)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
+*   [tfvar (⭐128)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
+
+## [4. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Algorithms and data structures
 
@@ -20,13 +224,13 @@
 
 *   [karlseguin/singleflight.zig (⭐2)](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
 
-## [2. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [5. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Community
 
 *   [Sherlocoq code search](https://sherlocoq.sirref.org)
 
-## [3. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [6. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors
 
@@ -57,31 +261,31 @@
 
 
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### JavaScript / Node.js
 
 *   [Node.js Best Practices (⭐90k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
 
-## [5. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [8. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
 *   [podiscover (⭐16)](https://github.com/enderahmetyurt/podiscover) - An open source social media platform to discover new podcasts. (using Rails 7.0) - [:earth\_africa:](https://www.podiscover.me)
 
-## [6. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [9. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Streaming Server and Storage / SRT
 
 *   [prologic/tube](https://git.mills.io/prologic/tube)  - 📺 a Youtube-like (without censorship and features you don't need!) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and R...
 
-## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Application
 
 *   [javactrl-kafka (⭐5)](https://github.com/javactrl/javactrl-kafka) \[Java] - An application of a stateful stream processing for workflow as Java code (microservices orchestration, business process automation, and more).
 
-## [8. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [11. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
@@ -91,7 +295,7 @@
 
 *   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐2)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Reading
 
@@ -101,7 +305,7 @@
 
 *   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].
 
-## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [13. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
@@ -112,19 +316,19 @@
 
 *   [Tidy First](https://www.youtube.com/watch?v=XmsyvStDuqI) by **Kent Beck** \[46:19]
 
-## [11. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [14. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### Design tokens
 
 *   [Design Tokens Validator](https://animaapp.github.io/design-token-validator-site/) - Validate your design tokens against the Design Token Community Group spec.
 
-## [12. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [15. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Encyclopedia
 
 *   [The On-Line Encyclopedia of Integer Sequences](https://oeis.org) - Great compendium of many different integer sequences. Founded 1964 by N. J. A. Sloane.
 
-## [13. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [16. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Text processing
 
@@ -134,7 +338,7 @@
 
 *   [vest (⭐0)](https://github.com/alexferl/vest) - A REST client in V.
 
-## [14. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [17. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
@@ -154,7 +358,7 @@
 *   [AgML (⭐79)](https://github.com/Project-AgML/AgML) - Centralized framework for agricultural machine learning.
 *   [FarmVibes.AI (⭐504)](https://github.com/microsoft/farmvibes-ai) - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
@@ -168,7 +372,7 @@
 
 *   [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Redis plans on its open source data platform. Single node, 1 CPU, 1GB RAM and for PostgreSQL and MySQL, 5GB storage. Easy migration to larger plans or across clouds.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -179,19 +383,23 @@
 
 *   [Vue Play](https://www.vueplay.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
 
-## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [20. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Bearer (⭐1.2k)](https://github.com/bearer/bearer) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Design and Product / Prototyping and Mind-Mapping Tools
+
+*   [QuikFlow](https://quikflow.app) - Create flowcharts with a mind-mapping workflow.
 
 ### Audio and Video Tools / File Sharing
 
 *   [Pulp (⭐4)](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bazalp/pulp)
 
-## [19. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [22. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Art & Image Generator
 
@@ -256,7 +464,7 @@
 
 
 
-## [20. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [23. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
@@ -274,7 +482,7 @@
 
 *   [Tumblr RSS feed with original-size image](https://blog.wizos.me/20180412-139.html) <sup>[289](https://t.me/s/aboutrss/289)</sup> ![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)
 
-## [21. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [24. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -309,13 +517,13 @@
 
 *   [PyAssimilator (⭐124)](https://github.com/knucklesuganda/py_assimilator/) - Quickly create DDD Python patterns, Event-Based Systems, CRUD applications. Set of Python patterns for database access that support SQLAlchemy, MongoDB, Redis, or Pure Python. PyAssimilator allows you to write code without dependencies, meaning you can switch SQL to NoSQL without changing a single file in your system.
 
-## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [25. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
 *   [Running ASP.NET Core Apps without a server? WHAT???](https://www.youtube.com/watch?v=IXCZAFwT5GY) - ![duration](https://img.shields.io/badge/Duration:%20-46%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could.
 
-## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -362,7 +570,7 @@
 
 *   [vue-ssr (⭐6)](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
 
-## [24. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [27. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -375,7 +583,7 @@
 *   :newspaper: [On deceiving malware classification with section injection](https://www.semanticscholar.org/paper/On-deceiving-malware-classification-with-section-Silva-Segundo/915faa4486a78a4f449c0f8028b773078bfdbd84) (August 2022)
 *   :mortar\_board: Static features exploration for executable packing with unsupervised learning (June 2023)
 
-## [25. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [28. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
@@ -389,7 +597,7 @@
 *   [CyLR (⭐546)](https://github.com/orlikoski/CyLR) - NTFS forensic image collector
 *   [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
 
-## [26. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [29. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Data Processing
 
@@ -399,7 +607,7 @@
 
 *   [Groovy Web Console](https://gwc-experiment.appspot.com/)
 
-## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -412,14 +620,14 @@
 *   NEW! [novaspec](https://novaspec.org/) - a modern rendition of the CL ANSI draft.
     *   not open-source?
 
-## [28. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [31. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / R
 
 *   [edgebundle (⭐104)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
 *   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -449,13 +657,14 @@
 
 *   [httprd (⭐2)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
 
-## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [zootedb0t/citruszest.nvim (⭐1)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+*   [2nthony/vitesse.nvim (⭐21)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / Natural Language Processing
 
@@ -469,7 +678,7 @@
 
 *   [joliGEN (⭐93)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 
-## [32. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Http Clients
 
@@ -523,7 +732,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [33. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [36. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
@@ -540,7 +749,7 @@
 
 *   [Common Crawl](https://groups.google.com/g/common-crawl)
 
-## [34. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [37. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### AI
 
@@ -574,7 +783,7 @@
 
 *   [MicroPython\_ICG20660 (⭐0)](https://github.com/jposada202020/MicroPython_ICG20660) - MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.
 
-## [35. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [38. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Service Discovery
 
@@ -586,13 +795,13 @@
 *   [OpenVZ](https://openvz.org) - Container-based virtualization for Linux. ([Source Code](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
 *   [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code (⭐26k)](https://github.com/portainer/portainer)) `Zlib` `Go`
 
-## [36. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [39. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Other Development Tools / Nodes and Indexers
 
 *   [AlgoRun (⭐17)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
-## [37. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [40. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
@@ -601,6 +810,7 @@
 ### Tools / Agents
 
 *   [Autonomous HR Chatbot (⭐34)](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
+*   [BlockAGI (⭐96)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 
 ### Open Source Projects / Knowledge Management
 
@@ -619,7 +829,7 @@
 *   [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
 *   [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://medium.com/towards-artificial-intelligence/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 
-## [38. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [41. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
@@ -629,29 +839,37 @@
 
 *   [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh.
 
-## [39. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [42. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [TerraVide](https://pypi.org/project/TerraVide/) - TerraVide is an open source python package to process large urban environments mapped with LiDAR (Light Detection and Ranging) data. As of v0.1.6, focuses on tree extraction.
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Inter-process communication
 
 *   [SRPC (⭐1.7k)](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
 
-## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Graphics
 
 *   [rustq/vue-skia (⭐93)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
+### Libraries / Data visualization
+
+*   [blitzarx1/egui\_graphs (⭐152)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget for rust powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+
 ### Libraries / Finance
 
 *   [d-e-s-o/apca (⭐80)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
-## [42. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+### Libraries / Scripting
+
+*   [kcl (⭐605)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+
+## [45. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -685,7 +903,7 @@
 
 *   [wolfia-app/gpt-code-search (⭐102)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
-## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
