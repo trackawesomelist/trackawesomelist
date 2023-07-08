@@ -41,8 +41,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 ### Official Resources
 
 *   [Documentation](https://vitejs.dev/)
-*   [GitHub Repo (⭐57k)](https://github.com/vitejs/vite)
-*   [Release Notes (⭐57k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [GitHub Repo (⭐58k)](https://github.com/vitejs/vite)
+*   [Release Notes (⭐58k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 *   [Vue 3 Docs](https://vuejs.org/)
 *   [Awesome Vue (⭐69k)](https://github.com/vuejs/awesome-vue)
 *   [Migration from v2](https://vitejs.dev/guide/migration.html)
@@ -51,7 +51,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 ## Get Started
 
-*   [create-vite (⭐57k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐58k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 *   [create-vitawind (⭐128)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 *   [create-electron-vite (⭐72)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 *   [create-vite-app (⭐158)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
@@ -254,7 +254,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Integrations
 
-*   [@vitejs/plugin-legacy (⭐57k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐58k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 *   [vite-plugin-pwa (⭐2.1k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 *   [vite-plugin-windicss (⭐838)](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 *   [vite-plugin-node (⭐768)](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
@@ -307,6 +307,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [unplugin-config (⭐4)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 *   [vite-plugin-svg-spritemap (⭐8)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 *   [@spiriit/vite-plugin-svg-spritemap (⭐1)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+*   [vite-plugin-auto-mpa-html (⭐0)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 
 #### Loaders
 
@@ -323,6 +324,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-remark-rehype (⭐2)](https://github.com/y-nk/vite-plugin-remark-rehype) - Loads and transform markdown files using the unified ecosystem.
 *   [vite-plugin-gltf (⭐104)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
 *   [vite-plugin-importmap (⭐2)](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
+*   [vite-plugin-thumbhash (⭐5)](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
 
 #### Bundling
 
@@ -513,6 +515,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   ![v2] [vite-plugin-vue2-suffix (⭐8)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 *   ![v23] [vite-plugin-vue-inspector (⭐539)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 *   ![v23] [vite-plugin-vue-static-sfc (⭐1)](https://github.com/arikw/vite-plugin-vue-static-sfc) - Serve ".vue" files as static assets.
+*   ![v3] [vite-plugin-vue-devtools (⭐1.1k)](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
 *   ![v3] [vite-plugin-vue-nested-sfc (⭐81)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
 
 <!--lint enable awesome-list-item-->

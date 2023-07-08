@@ -10,6 +10,7 @@ A curated list of awesome network analysis resources.
 
 ### Software / R
 
+*   [edgebundle (⭐104)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
 *   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
@@ -345,7 +346,7 @@ A curated list of awesome network analysis resources.
 
 ### Software / Python
 
-*   [littleballoffur (⭐649)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
+*   [littleballoffur (⭐652)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
@@ -602,7 +603,7 @@ A curated list of awesome network analysis resources.
     *   [MetaGraphs (⭐47)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 *   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
     *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐248)](https://github.com/JuliaGL/GLVisualize.jl).
-    *   [LightGraphs.jl (⭐675)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+    *   [LightGraphs.jl (⭐674)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
     *   [LightGraphsExtras.jl (⭐22)](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
     *   [NetworkLayout.jl (⭐85)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
     *   [Networks.jl (⭐3)](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
@@ -639,7 +640,7 @@ A curated list of awesome network analysis resources.
 
 ### Varia / Tutorials
 
-*   [Awesome community detection (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
+*   [Awesome community detection (⭐2.2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
 
 ## [May 07 - May 13, 2018](/content/2018/19/README.md)
 

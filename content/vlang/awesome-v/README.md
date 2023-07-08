@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jul 08, 2023](/content/2023/07/08/README.md)
+
+### Web
+
+*   [vest (⭐0)](https://github.com/alexferl/vest) - A REST client in V.
+
 ## [Jul 06, 2023](/content/2023/07/06/README.md)
 
 ### Text processing

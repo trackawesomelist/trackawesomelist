@@ -26,6 +26,11 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [@spiriit/vite-plugin-svg-spritemap (⭐1)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+*   [vite-plugin-auto-mpa-html (⭐0)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-thumbhash (⭐5)](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -41,6 +46,7 @@
 
 ### Vue / Helpers
 
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-devtools (⭐1.1k)](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-nested-sfc (⭐81)](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
 
 ### Libraries / Community
@@ -1136,7 +1142,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐57k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐58k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ### Svelte / Integrations
 
@@ -1366,7 +1372,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐57k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐58k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -1665,7 +1671,7 @@
 
 ### Official Resources
 
-*   [Release Notes (⭐57k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐58k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### React / Loaders
 
@@ -1720,7 +1726,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐57k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐58k)](https://github.com/vitejs/vite)
 *   [Awesome Vue (⭐69k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community

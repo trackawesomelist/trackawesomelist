@@ -12,7 +12,7 @@ A curated list of awesome network analysis resources.
 
 An [awesome list (⭐261k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
-Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math (⭐7.2k)](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
+Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math (⭐7.3k)](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
@@ -624,7 +624,7 @@ Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristof
     *   [MetaGraphs (⭐47)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 *   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
     *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐248)](https://github.com/JuliaGL/GLVisualize.jl).
-    *   [LightGraphs.jl (⭐675)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+    *   [LightGraphs.jl (⭐674)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
     *   [LightGraphsExtras.jl (⭐22)](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
     *   [NetworkLayout.jl (⭐85)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
     *   [Networks.jl (⭐3)](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
@@ -663,7 +663,7 @@ Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristof
 *   [hiveplot](https://pypi.python.org/pypi/hiveplot) - Python utility for drawing networks as hive plots on matplotlib, a more comprehensive network visualization.
 *   [karateclub (⭐1.9k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
 *   [linkpred (⭐134)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
-*   [littleballoffur (⭐649)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
+*   [littleballoffur (⭐652)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 *   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
 *   [networkx](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
     *   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
@@ -685,7 +685,7 @@ Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristof
 
 ### R
 
-> For more awesome R resources, see the [Awesome R (⭐5.5k)](https://github.com/qinwf/awesome-R) and [Awesome R Books (⭐210)](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
+> For more awesome R resources, see the [Awesome R (⭐5.5k)](https://github.com/qinwf/awesome-R) and [Awesome R Books (⭐211)](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
 > To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
 *   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
@@ -702,6 +702,7 @@ Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristof
 *   [ContentStructure (⭐5)](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 *   [DiagrammeR (⭐1.6k)](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 *   [dodgr](https://CRAN.R-project.org/package=dodgr) - Computes distances on dual-weighted directed graphs, such as street networks, using priority-queue shortest paths.
+*   [edgebundle (⭐104)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
 *   [egor](https://CRAN.R-project.org/package=egor) - Tools for importing, analyzing and visualizing ego-centered network data, in various formats.
 *   [EpiModel](https://CRAN.R-project.org/package=EpiModel) - Tools for simulating mathematical models of infectious disease dynamics ([presentation paper](https://doi.org/10.18637%2Fjss.v084.i08)).
 *   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGMs).
@@ -822,7 +823,7 @@ Inspired by [Awesome Deep Learning (⭐21k)](https://github.com/ChristosChristof
 
 *   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - Long list of diverse applications of network analysis, with shorts descriptions in Spanish.
 *   [Awesome graph classification (⭐4.6k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
-*   [Awesome community detection (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
+*   [Awesome community detection (⭐2.2k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
 *   [Centrality Measures as a Signature of Roles in Rousseau’s *Les Confessions*](http://yro.ch/centrality-measures-signature-roles-rousseaus-les-confessions/) - Analysis of a real-world character network.
 *   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106) - Basic notions to remember when assembling and manipulating network data.
 *   [Computer Technologies for the Historical Research of Intellectual Networks](https://www.youtube.com/playlist?list=PLz79Il7EOvUJxdQ9r2IefFtr--BNkfOa7) - Series of videos by historians, featuring Marten Düring and Scott Weingart.

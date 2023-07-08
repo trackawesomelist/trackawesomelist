@@ -12,6 +12,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [read\_xlsx\_v (⭐0)](https://github.com/fanlia/read_xlsx_v) - Read xlsx using vlang.
 
+### Web
+
+*   [vest (⭐0)](https://github.com/alexferl/vest) - A REST client in V.
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Networking
