@@ -48,11 +48,174 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Skiff Drive](https://https://skiff.com/drive) - Skiff Drive protects your dataq with end-to-end encryption.
 
-#### [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [5. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+
+##### Creative Technology
+
+- Name: [**Digital Ambiance**](https://www.digitalambiance.com/)
+
+  Locations: \[Berkeley, CA]
+
+  Keywords: lighting design, projection mapping, interactive design
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.digitalambiance.com%2F)
+
+
+- Name: [**Dpt.**](https://dpt.co/)
+
+  Locations: \[Montreal]
+
+  Keywords: generating wonder with immersive platforms, AR, & VR
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdpt.co%2F)
+
+
+- Name: [**Eness**](https://www.eness.com/)
+
+  Locations: \[Melbourne]
+
+  Keywords: evocative interactive experiences for public, commercial and cultural entities
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.eness.com%2F)
+
+
+- Name: [**iart**](https://iart.ch/en/)
+
+  Locations: \[Basel]
+
+  Keywords: studio for media architectures, enhancing physical spaces with digital technology
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fiart.ch%2Fen%2F)
+
+
+- Name: [**Immersive International**](https://www.immersive.international/)
+
+  Locations: \[London] \[Shanghai] \[Ottawa] \[Hong Kong] \[Cape Town]
+
+  Keywords: live experiences and art installations in public, private and commercial spaces
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.immersive.international%2F)
+
+
+- Name: [**NEXT/NOW**](https://www.nextnowagency.com/)
+
+  Locations: \[Chicago]
+
+  Keywords: brand activations, immersive environments, emerging technologies
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.nextnowagency.com%2F)
+
+
+- Name: [**Nohlab**](https://nohlab.com/works)
+
+  Locations: \[Istanbul]
+
+  Keywords: producing interdisciplinary experiences around art, design and technology
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fnohlab.com%2Fworks)
+
+
+- Name: [**Normal**](https://normal.studio/en/)
+
+  Locations: \[Montreal]
+
+  Keywords: public installations, entertainment, performing arts, stage design
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fnormal.studio%2Fen%2F)
+
+
+- Name: [**RGI Creative**](https://www.rgicreative.com/)
+
+  Locations: \[Cleveland]
+
+  Keywords: corporate experience design, museums exhibits and displays
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.rgicreative.com%2F)
+
+
+- Name: [**Set Reset**](https://set-reset.com/)
+
+  Locations: \[London]
+
+  Keywords: transforming data into compelling stories that fuel growth and create opportunity
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fset-reset.com%2F)
+
+
+- Name: [**Spectra Studio**](https://spectra.studio/)
+
+  Locations: \[LA]
+
+  Keywords: installations, projection, sculpture, robotics, light and sound
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fspectra.studio%2F)
+
+
+
+##### Fabricators
+
+- Name: [**Eventscape**](https://eventscape.com/)
+
+  Locations: \[Toronto]
+
+  Keywords: building the extraordinary, full service
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Feventscape.com%2F)
+
+
+
+##### Event Production
+
+- Name: [**SAT**](https://sat.qc.ca/en)
+
+  Locations: \[Montreal]
+
+  Keywords: immersive experiences, concerts, workshops, conferences, exhibitions
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fsat.qc.ca%2Fen)
+
+
+
+##### Museums
+
+- Name: [**Gagarin**](https://gagarin.is/)
+
+  Locations: \[Reykjavík]
+
+  Keywords: weaving education, information and data into compelling stories
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fgagarin.is%2F)
+
+
+
+##### Festivals & Conferences
+
+- Name: [**MUTEK**](https://montreal.mutek.org/)
+
+  Locations: \[Montreal]
+
+  Keywords: electronic music, audiovisual performance, digital art
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmontreal.mutek.org%2F)
+
+
+
+#### [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Problem Solving / Reinforcement Learning
 
 *   [Trust Region Policy Optimization](https://proceedings.mlr.press/v37/schulman15.html) - ***ICML'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=4215501129336400677\&hl=en\&as_sdt=0,5)]. The original paper introducing TRPO, a method for optimizing control policies, with guaranteed monotonic improvement.
+
+##### Meta-Level Considerations / The Aha! Moment
+
+*   [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***Journal of Experimental Psychology***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2002-01361-014)].
+
+#### [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+##### Alternatives / Articles
+
+*   [Outlines (⭐157)](https://github.com/normal-computing/outlines): Generative Model Programming (Python) ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
+*   [AI Utils (⭐59)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
 
 ### [Jul 08, 2023](/content/2023/07/08/README.md)
 
@@ -406,17 +569,17 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [kcl (⭐605)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 
-#### [19. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
-
-##### Tools / Agents
-
-*   [BlockAGI (⭐96)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
-
-#### [20. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [19. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Design and Product / Prototyping and Mind-Mapping Tools
 
 *   [QuikFlow](https://quikflow.app) - Create flowcharts with a mind-mapping workflow.
+
+#### [20. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+##### Tools / Agents
+
+*   [BlockAGI (⭐96)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 
 ### [Jul 07, 2023](/content/2023/07/07/README.md)
 
@@ -524,7 +687,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 36. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 24K 📝 06&#x2F;20 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
 37. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.2K 📝 07&#x2F;06 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 38. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 9K 📝 06&#x2F;30 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-39. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 3.4K 📝 07&#x2F;08 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+39. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 3.4K 📝 07&#x2F;09 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 40. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 36K 📝 06&#x2F;14 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 41. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.3K 📝 07&#x2F;08 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
 42. [Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md) - ([Source ⭐ 3.1K 📝 07&#x2F;08 ](https://github.com/briatte/awesome-network-analysis)) - A curated list of awesome network analysis resources.
@@ -610,7 +773,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md) - ([Source ⭐ 536, 📝 03&#x2F;13 ](https://github.com/Kamigami55/awesome-chatgpt)) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md) - ([Source ⭐ 531, 📝 06&#x2F;05 ](https://github.com/saharmor/awesome-chatgpt)) - Selected ChatGPT demos, tools, articles, and more ✨
 - [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 4K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/f/awesome-chatgpt-prompts)) - This repo includes ChatGPT promt curation to use ChatGPT better.
-- [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 3.4K, 📝 07&#x2F;08 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+- [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 3.4K, 📝 07&#x2F;09 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 
 ### Computer Science
 
@@ -953,7 +1116,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md) - ([Source ⭐ 31, 📝 06&#x2F;13 ](https://github.com/inoue0426/awesome-computational-biology)) - Awesome list of computational biology.
 - [Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md) - ([Source ⭐ 80, 📝 05&#x2F;19 ](https://github.com/stevesong/awesome-connectivity-info)) - Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 - [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 11K, 📝 04&#x2F;06 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-- [Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md) - ([Source ⭐ 289, 📝 05&#x2F;26 ](https://github.com/j0hnm4r5/awesome-creative-technology)) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
+- [Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md) - ([Source ⭐ 303, 📝 07&#x2F;09 ](https://github.com/j0hnm4r5/awesome-creative-technology)) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
 - [Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md) - ([Source ⭐ 66, 📝 21&#x2F;05&#x2F;15 ](https://github.com/mourarthur/awesome-credit-modeling)) - A collection of awesome papers, articles and various resources on credit and credit risk modeling
 - [Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md) - ([Source ⭐ 53, 📝 01&#x2F;19 ](https://github.com/cytodata/awesome-cytodata)) - A curated list of awesome cytodata resources
 - [Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md) - ([Source ⭐ 3.1K, 📝 22&#x2F;02&#x2F;17 ](https://github.com/javierluraschi/awesome-dataviz)) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.

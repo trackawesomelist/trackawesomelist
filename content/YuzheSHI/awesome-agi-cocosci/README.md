@@ -12,6 +12,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Trust Region Policy Optimization](https://proceedings.mlr.press/v37/schulman15.html) - ***ICML'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=4215501129336400677\&hl=en\&as_sdt=0,5)]. The original paper introducing TRPO, a method for optimizing control policies, with guaranteed monotonic improvement.
 
+### Meta-Level Considerations / The Aha! Moment
+
+*   [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***Journal of Experimental Psychology***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2002-01361-014)].
+
 ## [Jul 07, 2023](/content/2023/07/07/README.md)
 
 ### Paper Reading

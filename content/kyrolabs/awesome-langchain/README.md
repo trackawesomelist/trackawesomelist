@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jul 09, 2023](/content/2023/07/09/README.md)
+
+### Alternatives / Articles
+
+*   [Outlines (⭐157)](https://github.com/normal-computing/outlines): Generative Model Programming (Python) ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
+*   [AI Utils (⭐59)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
+
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
 ### Tools / Agents

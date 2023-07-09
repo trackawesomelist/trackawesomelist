@@ -427,37 +427,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Redis plans on its open source data platform. Single node, 1 CPU, 1GB RAM and for PostgreSQL and MySQL, 5GB storage. Easy migration to larger plans or across clouds.
 
-#### [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Analytics
-
-*   [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs. ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code (⭐0)](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
-
-##### Software / Communication - Email - Mailing Lists and Newsletters
-
-*   [Sympa](https://www.sympa.community/) - Mailing list manager. `GPL-2.0` `Perl`
-
-##### Software / Communication - Social Networks and Forums
-
-*   [GNU social](https://www.gnusocial.rocks/) - Social communication software for both public and private communications. ([Source Code](https://codeberg.org/GNUsocial/gnu-social)) `AGPL-3.0` `PHP`
-
-##### Software / Miscellaneous
-
-*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution. Alternative to LaunchDarkly. ([Source Code (⭐738)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
-
-##### Software / Pastebins
-
-*   [YABin (⭐54)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs`
-
-##### Software / Proxy
-
-*   [Koblas (⭐26)](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
-
-##### Software / Remote Access
-
-*   [httprd (⭐2)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
-
-#### [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -491,7 +461,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [wolfia-app/gpt-code-search (⭐102)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
-#### [29. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+#### [28. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ##### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
@@ -509,7 +479,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Tumblr RSS feed with original-size image](https://blog.wizos.me/20180412-139.html) <sup>[289](https://t.me/s/aboutrss/289)</sup> ![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)
 
-#### [30. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+#### [29. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ##### Self-Hosted Bitcoin Payment Processors
 
@@ -540,20 +510,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [31. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+#### [30. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ##### Software / R
 
 *   [edgebundle (⭐104)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
 *   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
 
-#### [32. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+#### [31. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ##### Resources / Community
 
 *   [Sherlocoq code search](https://sherlocoq.sirref.org)
 
-#### [33. Awesome V](/content/vlang/awesome-v/README.md)
+#### [32. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Text processing
 
@@ -563,7 +533,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vest (⭐0)](https://github.com/alexferl/vest) - A REST client in V.
 
-#### [34. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+#### [33. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ##### Algorithms and data structures
 
@@ -577,7 +547,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [karlseguin/singleflight.zig (⭐2)](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
 
-#### [35. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [34. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
@@ -587,21 +557,21 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐2)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 
-#### [36. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+#### [35. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ##### Tools / Vendor supported providers
 
 *   [tfgpt (⭐58)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
 *   [tfvar (⭐128)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
 
-#### [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [zootedb0t/citruszest.nvim (⭐1)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
 *   [2nthony/vitesse.nvim (⭐21)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 
-#### [38. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
+#### [37. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
 ##### Game engines
 
@@ -792,13 +762,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [hxCodec (⭐97)](https://github.com/polybiusproxy/hxCodec) - Adds native video playback on HaxeFlixel and OpenFL.
 
-#### [39. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+#### [38. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ##### Static type checkers
 
 *   [basedmypy (⭐33)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 
-#### [40. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [39. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Graphics
 
@@ -816,35 +786,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [kcl (⭐605)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 
-#### [41. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
-
-##### Tools / Services
-
-*   [AilingBot (⭐8)](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
-
-##### Tools / Agents
-
-*   [Autonomous HR Chatbot (⭐34)](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
-*   [BlockAGI (⭐96)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
-
-##### Open Source Projects / Knowledge Management
-
-*   [DataChad (⭐175)](https://github.com/gustavz/DataChad): A streamlit app that let's you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
-
-##### Open Source Projects / Other / Chatbots
-
-*   [GPT Migrate (⭐862)](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
-
-##### Learn / Videos
-
-*   [Greg Kamradt Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ\&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
-
-##### Learn / Articles
-
-*   [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
-*   [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://medium.com/towards-artificial-intelligence/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
-
-#### [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+#### [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ##### Videos / Others
 
@@ -853,7 +795,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [The Blazor Power Hour: Sections, SectionOutlet, and SectionContent in .NET 8 Preview](https://www.youtube.com/watch?v=6iUNRitiJTQ) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 28, 2023 - Let's take a deep dive into a .NET 8 Preview feature, sections. What are SectionOutlet, and SectionContent? How do we use them to build an extensive layout system for Blazor applications?
 *   [Running ASP.NET Core Apps without a server? WHAT???](https://www.youtube.com/watch?v=IXCZAFwT5GY) - ![duration](https://img.shields.io/badge/Duration:%20-46%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 26, 2023 - By Isaac Levin at the NDC Oslo 2023. With the introduction of WebAssembly-based Blazor, .NET developers can now build solutions that can run on all sorts of new hosting platforms, even ones without servers. Building applications that can run nearly anywhere, all written in C# is an amazing experience for web developers, far and wide. Write code in the programming language you love, without having to learn the newest Javascript framework (though you can interop if you want to!) is the reason why Blazor is one of the most exciting things in the current .NET landscape. In this session, we will go over the technology of Blazor WebAssembly and showcase deploying a .NET app that can run in places we never thought we could.
 
-#### [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Http Clients
 
@@ -899,7 +841,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [44. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [42. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Design and Product / Prototyping and Mind-Mapping Tools
 
@@ -913,7 +855,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - An application for inspecting macOS installer packages. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [45. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [43. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### DSP
 
@@ -927,11 +869,193 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SRPC (⭐1.7k)](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
 
-#### [46. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [44. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Cloud Storage
 
 *   [Skiff Drive](https://https://skiff.com/drive) - Skiff Drive protects your dataq with end-to-end encryption.
+
+#### [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Analytics
+
+*   [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs. ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code (⭐0)](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
+
+##### Software / Communication - Email - Mailing Lists and Newsletters
+
+*   [Sympa](https://www.sympa.community/) - Mailing list manager. `GPL-2.0` `Perl`
+
+##### Software / Communication - Social Networks and Forums
+
+*   [GNU social](https://www.gnusocial.rocks/) - Social communication software for both public and private communications. ([Source Code](https://codeberg.org/GNUsocial/gnu-social)) `AGPL-3.0` `PHP`
+
+##### Software / Miscellaneous
+
+*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution. Alternative to LaunchDarkly. ([Source Code (⭐738)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
+
+##### Software / Pastebins
+
+*   [YABin (⭐54)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs`
+
+##### Software / Proxy
+
+*   [Koblas (⭐26)](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
+
+##### Software / Remote Access
+
+*   [httprd (⭐2)](https://github.com/bitrate16/httprd) - Single-script remote desktop via web browser. `GPL-3.0` `Python`
+
+#### [46. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+
+##### Creative Technology
+
+- Name: [**Digital Ambiance**](https://www.digitalambiance.com/)
+
+  Locations: \[Berkeley, CA]
+
+  Keywords: lighting design, projection mapping, interactive design
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.digitalambiance.com%2F)
+
+
+- Name: [**Dpt.**](https://dpt.co/)
+
+  Locations: \[Montreal]
+
+  Keywords: generating wonder with immersive platforms, AR, & VR
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdpt.co%2F)
+
+
+- Name: [**Eness**](https://www.eness.com/)
+
+  Locations: \[Melbourne]
+
+  Keywords: evocative interactive experiences for public, commercial and cultural entities
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.eness.com%2F)
+
+
+- Name: [**iart**](https://iart.ch/en/)
+
+  Locations: \[Basel]
+
+  Keywords: studio for media architectures, enhancing physical spaces with digital technology
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fiart.ch%2Fen%2F)
+
+
+- Name: [**Immersive International**](https://www.immersive.international/)
+
+  Locations: \[London] \[Shanghai] \[Ottawa] \[Hong Kong] \[Cape Town]
+
+  Keywords: live experiences and art installations in public, private and commercial spaces
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.immersive.international%2F)
+
+
+- Name: [**NEXT/NOW**](https://www.nextnowagency.com/)
+
+  Locations: \[Chicago]
+
+  Keywords: brand activations, immersive environments, emerging technologies
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.nextnowagency.com%2F)
+
+
+- Name: [**Nohlab**](https://nohlab.com/works)
+
+  Locations: \[Istanbul]
+
+  Keywords: producing interdisciplinary experiences around art, design and technology
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fnohlab.com%2Fworks)
+
+
+- Name: [**Normal**](https://normal.studio/en/)
+
+  Locations: \[Montreal]
+
+  Keywords: public installations, entertainment, performing arts, stage design
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fnormal.studio%2Fen%2F)
+
+
+- Name: [**RGI Creative**](https://www.rgicreative.com/)
+
+  Locations: \[Cleveland]
+
+  Keywords: corporate experience design, museums exhibits and displays
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.rgicreative.com%2F)
+
+
+- Name: [**Set Reset**](https://set-reset.com/)
+
+  Locations: \[London]
+
+  Keywords: transforming data into compelling stories that fuel growth and create opportunity
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fset-reset.com%2F)
+
+
+- Name: [**Spectra Studio**](https://spectra.studio/)
+
+  Locations: \[LA]
+
+  Keywords: installations, projection, sculpture, robotics, light and sound
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fspectra.studio%2F)
+
+
+
+##### Fabricators
+
+- Name: [**Eventscape**](https://eventscape.com/)
+
+  Locations: \[Toronto]
+
+  Keywords: building the extraordinary, full service
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Feventscape.com%2F)
+
+
+
+##### Event Production
+
+- Name: [**SAT**](https://sat.qc.ca/en)
+
+  Locations: \[Montreal]
+
+  Keywords: immersive experiences, concerts, workshops, conferences, exhibitions
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fsat.qc.ca%2Fen)
+
+
+
+##### Museums
+
+- Name: [**Gagarin**](https://gagarin.is/)
+
+  Locations: \[Reykjavík]
+
+  Keywords: weaving education, information and data into compelling stories
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fgagarin.is%2F)
+
+
+
+##### Festivals & Conferences
+
+- Name: [**MUTEK**](https://montreal.mutek.org/)
+
+  Locations: \[Montreal]
+
+  Keywords: electronic music, audiovisual performance, digital art
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmontreal.mutek.org%2F)
+
+
 
 #### [47. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -943,9 +1067,46 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Trust Region Policy Optimization](https://proceedings.mlr.press/v37/schulman15.html) - ***ICML'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=4215501129336400677\&hl=en\&as_sdt=0,5)]. The original paper introducing TRPO, a method for optimizing control policies, with guaranteed monotonic improvement.
 
+##### Meta-Level Considerations / The Aha! Moment
+
+*   [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***Journal of Experimental Psychology***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2002-01361-014)].
+
 ##### Science Logology / Democratization
 
 *   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].
+
+#### [48. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+##### Tools / Services
+
+*   [AilingBot (⭐8)](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
+
+##### Tools / Agents
+
+*   [Autonomous HR Chatbot (⭐34)](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
+*   [BlockAGI (⭐96)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
+
+##### Open Source Projects / Knowledge Management
+
+*   [DataChad (⭐175)](https://github.com/gustavz/DataChad): A streamlit app that let's you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
+
+##### Open Source Projects / Other / Chatbots
+
+*   [GPT Migrate (⭐862)](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
+
+##### Learn / Videos
+
+*   [Greg Kamradt Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ\&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
+
+##### Learn / Articles
+
+*   [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
+*   [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://medium.com/towards-artificial-intelligence/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
+
+##### Alternatives / Articles
+
+*   [Outlines (⭐157)](https://github.com/normal-computing/outlines): Generative Model Programming (Python) ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
+*   [AI Utils (⭐59)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
 
 ---
 
@@ -991,7 +1152,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 36. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 24K 📝 06&#x2F;20 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
 37. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.2K 📝 07&#x2F;06 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 38. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 9K 📝 06&#x2F;30 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-39. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 3.4K 📝 07&#x2F;08 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+39. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 3.4K 📝 07&#x2F;09 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 40. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 36K 📝 06&#x2F;14 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 41. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.3K 📝 07&#x2F;08 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
 42. [Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md) - ([Source ⭐ 3.1K 📝 07&#x2F;08 ](https://github.com/briatte/awesome-network-analysis)) - A curated list of awesome network analysis resources.
@@ -1077,7 +1238,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md) - ([Source ⭐ 536, 📝 03&#x2F;13 ](https://github.com/Kamigami55/awesome-chatgpt)) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md) - ([Source ⭐ 531, 📝 06&#x2F;05 ](https://github.com/saharmor/awesome-chatgpt)) - Selected ChatGPT demos, tools, articles, and more ✨
 - [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 4K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/f/awesome-chatgpt-prompts)) - This repo includes ChatGPT promt curation to use ChatGPT better.
-- [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 3.4K, 📝 07&#x2F;08 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+- [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 3.4K, 📝 07&#x2F;09 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 
 ### Computer Science
 
@@ -1420,7 +1581,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md) - ([Source ⭐ 31, 📝 06&#x2F;13 ](https://github.com/inoue0426/awesome-computational-biology)) - Awesome list of computational biology.
 - [Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md) - ([Source ⭐ 80, 📝 05&#x2F;19 ](https://github.com/stevesong/awesome-connectivity-info)) - Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 - [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 11K, 📝 04&#x2F;06 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-- [Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md) - ([Source ⭐ 289, 📝 05&#x2F;26 ](https://github.com/j0hnm4r5/awesome-creative-technology)) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
+- [Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md) - ([Source ⭐ 303, 📝 07&#x2F;09 ](https://github.com/j0hnm4r5/awesome-creative-technology)) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
 - [Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md) - ([Source ⭐ 66, 📝 21&#x2F;05&#x2F;15 ](https://github.com/mourarthur/awesome-credit-modeling)) - A collection of awesome papers, articles and various resources on credit and credit risk modeling
 - [Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md) - ([Source ⭐ 53, 📝 01&#x2F;19 ](https://github.com/cytodata/awesome-cytodata)) - A curated list of awesome cytodata resources
 - [Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md) - ([Source ⭐ 3.1K, 📝 22&#x2F;02&#x2F;17 ](https://github.com/javierluraschi/awesome-dataviz)) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
