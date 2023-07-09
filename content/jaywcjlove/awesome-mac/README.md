@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Jul 09, 2023](/content/2023/07/09/README.md)
+
+### Security Tools / File Sharing
+
+*   [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - An application for inspecting macOS installer packages. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
 ### Design and Product / Prototyping and Mind-Mapping Tools

@@ -12,6 +12,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Text Visualization Browser](https://textvis.lnu.se/) - ***ISOVIS group***, 2015. \[[Paper](https://cs.lnu.se/isovis/pubs/docs/kucher-pacificvis15-postprint.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7000995325728444282\&hl=en\&as_sdt=0,5)]. A Hub of Text Visualization Techniques.
 
+### Problem Solving / Reinforcement Learning
+
+*   [Trust Region Policy Optimization](https://proceedings.mlr.press/v37/schulman15.html) - ***ICML'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=4215501129336400677\&hl=en\&as_sdt=0,5)]. The original paper introducing TRPO, a method for optimizing control policies, with guaranteed monotonic improvement.
+
 ### Science Logology / Democratization
 
 *   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].

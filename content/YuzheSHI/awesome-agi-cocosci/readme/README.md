@@ -837,6 +837,8 @@ Contributions are greatly welcomed! Please refer to the [Contribution Guidelines
 
 *   [On the Expressivity of Markov Reward](https://papers.NeurIPS.cc/paper/2021/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4524686816939437211\&hl=en\&as_sdt=0,5)]. A formal treatment of tasks and rewards in reinforcement learning modeling.
 
+*   [Trust Region Policy Optimization](https://proceedings.mlr.press/v37/schulman15.html) - ***ICML'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=4215501129336400677\&hl=en\&as_sdt=0,5)]. The original paper introducing TRPO, a method for optimizing control policies, with guaranteed monotonic improvement.
+
 *   [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185\&hl=en\&as_sdt=0,5)]. The original paper on constrained reinforcement learning (safe reinforcement learning).
 
 *   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)].
