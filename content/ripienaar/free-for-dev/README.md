@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 10, 2023](/content/2023/07/10/README.md)
+
+### Web Hosting
+
+*   [Lecturify](https://www.lecturify.net/index.en.html) - Web hosting with sftp access for file upload and download, php available.
+
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
 ### Managed Data Services

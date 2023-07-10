@@ -1,12 +1,77 @@
 # Awesome List Updates on Jul 10, 2023
 
-2 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Workout planners
+
+*   [workout.lol (⭐255)](https://github.com/Vincenius/workout-lol) - A small web application to create workouts based on your available equipment and the muscles you want to train that you can selfhost.
+
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+### Peripheral Access Crates / Espressif
+
+*   [`esp32c6`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c6) - ![crates.io](https://img.shields.io/crates/v/esp32c6.svg)
+
+## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+
+### Communications / Web
+
+*   [wlan-relays (⭐0)](https://github.com/oliver-joos/wlan-relays) - Very simple HTTP server written in MicroPython for controlling the pins of an ESP32 board.
+
+## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+
+### Clients
+
+*   [gqty (⭐634)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+
+### Frontend Framework Integrations / React
+
+*   [@gqty/react (⭐634)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+
+### Services / React
+
+*   [Grafbase](https://grafbase.com) - Instant GraphQL APIs for any data source.
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Analytics
+
+*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place. Alternative to Hootsuite, Buffer, and other social media tools. ([Source Code (⭐11)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
+
+### Software / Database Management
+
+*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐5.7k)](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Web Hosting
+
+*   [Lecturify](https://www.lecturify.net/index.en.html) - Web hosting with sftp access for file upload and download, php available.
+
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+
+### Technology in General / Svelte
+
+*   [MindByte Weekly Pulse](https://mindbyte.beehiiv.com) Fuel your week with MindByte Weekly Pulse, your indispensable guide to navigating the dynamic world of GitHub, Azure, and .NET. Discover the latest insights, tips, and trends, curated by an industry expert, delivered to your inbox every week.
+
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Prerequisites
+
+*   [Spacemono (⭐313)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [club\_house (⭐0)](https://github.com/skippyr/club_house) - Requires a [Nerd Font (⭐45k)](https://github.com/ryanoasis/nerd-fonts).
+*   [hoozeth (⭐1)](https://github.com/hooay233/Hoozeeth) - Minimalist theme, includes decorators for user\@hostname, the date & time, and the current working directory.
+
+## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Open Source Projects / Knowledge Management
 
@@ -16,7 +81,7 @@
 
 *   [MetaGPT (⭐2.1k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 
-## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Graphics and Multimedia / MIT
 
