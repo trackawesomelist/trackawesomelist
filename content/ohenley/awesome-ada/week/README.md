@@ -6,6 +6,16 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ [Daily](/content/ohenley/awesome-ada/README.md) / Weekly / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
+
+### Graphics and Multimedia / MIT
+
+*   [vulkada](https://phasercat.com/vulkada/) - A complete Vulkan 1.1 thick binding for Ada 2012.
+
+### Sound / MIT
+
+*   \[adaogg] - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Unit Test, Testing / MIT

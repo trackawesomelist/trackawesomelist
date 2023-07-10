@@ -6,6 +6,16 @@
 
 [ [Daily](/content/kyrolabs/awesome-langchain/README.md) / Weekly / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
+
+### Open Source Projects / Knowledge Management
+
+*   [Second Brain AI Agent (⭐14)](https://github.com/flepied/second-brain-agent): A streamlit app automaticall dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
+
+### Alternatives / Articles
+
+*   [MetaGPT (⭐2.1k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
 ### Tools / Services

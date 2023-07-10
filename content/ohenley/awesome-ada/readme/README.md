@@ -623,6 +623,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [free-type-ada (⭐1)](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 *   [asfml (⭐21)](https://github.com/mgrojo/ASFML) - Ada binding to the Simple and Fast Multimedia Library.
 *   [plplot](https://sourceforge.net/projects/plplot/) - Cross-platform, scientific graphics plotting library, including an Ada binding.
+*   [vulkada](https://phasercat.com/vulkada/) - A complete Vulkan 1.1 thick binding for Ada 2012.
 
 [asfml]: https://github.com/mgrojo/ASFML
 
@@ -644,6 +645,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [ada-synthetizer (⭐15)](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
 *   [scala](https://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 *   [portable-openal-sound (⭐0)](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
+*   \[adaogg] - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
 
 ### Localization
 

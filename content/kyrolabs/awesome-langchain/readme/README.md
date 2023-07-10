@@ -138,6 +138,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [DocNavigator (⭐47)](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)
 *   [ChatFiles (⭐2.3k)](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)
 *   [DataChad (⭐175)](https://github.com/gustavz/DataChad): A streamlit app that let's you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)
+*   [Second Brain AI Agent (⭐14)](https://github.com/flepied/second-brain-agent): A streamlit app automaticall dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
 
 ### Other / Chatbots
 
@@ -273,6 +274,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [AI.JSX (⭐185)](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 *   [Outlines (⭐157)](https://github.com/normal-computing/outlines): Generative Model Programming (Python) ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
 *   [AI Utils (⭐59)](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
+*   [MetaGPT (⭐2.1k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 
 ## Complement to this list
 
