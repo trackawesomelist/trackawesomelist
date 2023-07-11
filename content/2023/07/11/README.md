@@ -1,24 +1,24 @@
-# Awesome List Updates on Jul 10 - Jul 16, 2023
+# Awesome List Updates on Jul 11, 2023
 
-21 awesome lists updated this week.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Meta-Level Considerations / The Aha! Moment
 
 *   [Constraint relaxation and chunk decomposition in insight problem solving](https://www.hf.uni-koeln.de/data/fgpsych/File/Haider/Knoblich_etal_1999.pdf) - ***Journal of Experimental Psychology***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=8057214169831054227\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/1999-01477-011)].
 
-## [2. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [2. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### DSLs
 
 *   [Groogle](https://groogle.gitlab.io/groogle/latest/index.html) - A Groovy DSL written to use Google services APIs.
 
-## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Frameworks
 
@@ -36,20 +36,26 @@
 
 *   [eslint-docgen (⭐9)](https://github.com/wikimedia/eslint-docgen) - Automatically generate ESLint plugin documentation from rule metadata and test cases.
 
-## [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Tools
 
 *   [ebpfmon (⭐31)](https://github.com/redcanaryco/ebpfmon) - A TUI (terminal user interface) application for real time monitoring of eBPF programs.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Multiplatform
 
 *   [Ashampoo/xmpcore (⭐5)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
 *   [Ashampoo/kim (⭐57)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 
-## [6. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Money, Budgeting & Management
+
+*   [HyperSwitch](https://hyperswitch.io/) `⚠` - HyperSwitch is an Open Source Financial Switch to make payments Fast, Reliable and Affordable. It lets you connect with multiple payment processors and route traffic effortlessly, all with a single API integration. ([Source Code (⭐4.3k)](https://github.com/juspay/hyperswitch)) `Apache-2.0` `Docker/Rust`
+
+## [7. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Learning / Computer Graphics
 
@@ -66,7 +72,7 @@
 
 *   🆓 [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. \[[Source](https://github.com/DragonBones/)]
 
-## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
@@ -80,7 +86,7 @@
 
 *   [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -94,19 +100,19 @@
 
 *   [Olical/nfnl (⭐25)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 
-## [9. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
 *   [tmux-cht-sh (⭐3)](https://github.com/kenos1/tmux-cht-sh) Access cheatsheets easily in a popup
 
-## [10. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Messaging
 
 *   [ADPS](https://adps-project.org/) (Amateur Digital Post Service) is an offline sneakernet software which enables using USB-drives for communication between other nodes which also use removable storages. It has two separate implemetantions. [The first one (⭐0)](https://github.com/ivanmihval/SharpADPS) is for Windows, has GUI and is written on C#. [Another one (⭐1)](https://github.com/ivanmihval/PyADPS) is crossplatform but uses CLI instead of GUI and it's written on Python.
 
-## [11. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Admin
 
@@ -125,95 +131,6 @@
 
 *   [Bitcart (⭐344)](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
 
-## [12. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
-
-### Workout planners
-
-*   [workout.lol (⭐255)](https://github.com/Vincenius/workout-lol) - A small web application to create workouts based on your available equipment and the muscles you want to train that you can selfhost.
-
-## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
-
-### Peripheral Access Crates / Espressif
-
-*   [`esp32c6`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c6) - ![crates.io](https://img.shields.io/crates/v/esp32c6.svg)
-
-## [14. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
-
-### Communications / Web
-
-*   [wlan-relays (⭐0)](https://github.com/oliver-joos/wlan-relays) - Very simple HTTP server written in MicroPython for controlling the pins of an ESP32 board.
-
-## [15. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
-
-### Clients
-
-*   [gqty (⭐634)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
-
-### Frontend Framework Integrations / React
-
-*   [@gqty/react (⭐634)](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
-
-### Services / React
-
-*   [Grafbase](https://grafbase.com) - Instant GraphQL APIs for any data source.
-
-## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Analytics
-
-*   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place. Alternative to Hootsuite, Buffer, and other social media tools. ([Source Code (⭐11)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
-
-### Software / Database Management
-
-*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐5.7k)](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
-
-### Software / Money, Budgeting & Management
-
-*   [HyperSwitch](https://hyperswitch.io/) `⚠` - HyperSwitch is an Open Source Financial Switch to make payments Fast, Reliable and Affordable. It lets you connect with multiple payment processors and route traffic effortlessly, all with a single API integration. ([Source Code (⭐4.3k)](https://github.com/juspay/hyperswitch)) `Apache-2.0` `Docker/Rust`
-
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Web Hosting
-
-*   [Lecturify](https://www.lecturify.net/index.en.html) - Web hosting with sftp access for file upload and download, php available.
-
-## [18. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
-
-### Technology in General / Svelte
-
-*   [MindByte Weekly Pulse](https://mindbyte.beehiiv.com) Fuel your week with MindByte Weekly Pulse, your indispensable guide to navigating the dynamic world of GitHub, Azure, and .NET. Discover the latest insights, tips, and trends, curated by an industry expert, delivered to your inbox every week.
-
-## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
-
-### Prerequisites
-
-*   [Spacemono (⭐313)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [club\_house (⭐0)](https://github.com/skippyr/club_house) - Requires a [Nerd Font (⭐45k)](https://github.com/ryanoasis/nerd-fonts).
-*   [hoozeth (⭐1)](https://github.com/hooay233/Hoozeeth) - Minimalist theme, includes decorators for user\@hostname, the date & time, and the current working directory.
-
-## [20. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
-
-### Open Source Projects / Knowledge Management
-
-*   [Second Brain AI Agent (⭐14)](https://github.com/flepied/second-brain-agent): A streamlit app automaticall dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
-
-### Alternatives / Articles
-
-*   [MetaGPT (⭐2.1k)](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
-
-## [21. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
-
-### Graphics and Multimedia / MIT
-
-*   [vulkada](https://phasercat.com/vulkada/) - A complete Vulkan 1.1 thick binding for Ada 2012.
-
-### Sound / MIT
-
-*   \[adaogg] - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
-
 ---
 
-- Next: [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
+- Next: [Jul 10, 2023](/content/2023/07/10/README.md)

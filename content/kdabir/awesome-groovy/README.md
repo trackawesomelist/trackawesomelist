@@ -6,6 +6,12 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 [ Daily / [Weekly](/content/kdabir/awesome-groovy/week/README.md) / [Overview](/content/kdabir/awesome-groovy/readme/README.md) ]
 
+## [Jul 11, 2023](/content/2023/07/11/README.md)
+
+### DSLs
+
+*   [Groogle](https://groogle.gitlab.io/groogle/latest/index.html) - A Groovy DSL written to use Google services APIs.
+
 ## [Jul 07, 2023](/content/2023/07/07/README.md)
 
 ### Data Processing
@@ -130,7 +136,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 *   [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
 *   [Gru](https://agorapulse.github.io/gru/) - Groovy HTTP Testing Framework for running integration and semi-ingetration tests for any HTTP backend with native unit test support for Grails and Spring MVC.
 
-### File Format DSL
+### DSLs
 
 *   [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
 
@@ -157,7 +163,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 *   [Ersatz Mock Server (⭐44)](https://github.com/cjstehno/ersatz) - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 
-### File Format DSL
+### DSLs
 
 *   [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
 
@@ -271,7 +277,7 @@ A curated list of awesome groovy libraries, frameworks and resources
 
 ## [Oct 11, 2015](/content/2015/10/11/README.md)
 
-### File Format DSL
+### DSLs
 
 *   [document-builder (⭐95)](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
 

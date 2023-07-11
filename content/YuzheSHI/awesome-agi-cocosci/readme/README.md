@@ -1243,6 +1243,8 @@ Contributions are greatly welcomed! Please refer to the [Contribution Guidelines
 
 *   [What Makes an Insight Problem? The Roles of Heuristics, Goal Conception, and Solution Recoding in Knowledge-Lean Problems](https://www.researchgate.net/profile/Thomas-Ormerod/publication/8909475_What_Makes_an_Insight_Problem_The_Roles_of_Heuristics_Goal_Conception_and_Solution_Recoding_in_Knowledge-Lean_Problems/links/00b7d5159f3c057eb5000000/What-Makes-an-Insight-Problem-The-Roles-of-Heuristics-Goal-Conception-and-Solution-Recoding-in-Knowledge-Lean-Problems.pdf) - ***Journal of Experimental Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=17529631069707671285\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2003-10949-002)].
 
+*   [Constraint relaxation and chunk decomposition in insight problem solving](https://www.hf.uni-koeln.de/data/fgpsych/File/Haider/Knoblich_etal_1999.pdf) - ***Journal of Experimental Psychology***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=8057214169831054227\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/1999-01477-011)].
+
 *   [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***Journal of Experimental Psychology***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2002-01361-014)].
 
 \*[Back to Top](#c)

@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 11, 2023](/content/2023/07/11/README.md)
+
+### Software / Money, Budgeting & Management
+
+*   [HyperSwitch](https://hyperswitch.io/) `⚠` - HyperSwitch is an Open Source Financial Switch to make payments Fast, Reliable and Affordable. It lets you connect with multiple payment processors and route traffic effortlessly, all with a single API integration. ([Source Code (⭐4.3k)](https://github.com/juspay/hyperswitch)) `Apache-2.0` `Docker/Rust`
+
 ## [Jul 10, 2023](/content/2023/07/10/README.md)
 
 ### Software / Analytics

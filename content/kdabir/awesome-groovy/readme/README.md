@@ -138,11 +138,12 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 *   [Groovy-Vfs (⭐62)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
 *   [Directree (⭐12)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
-## File Format DSL
+## DSLs
 
 *   [document-builder (⭐95)](https://github.com/craigburke/document-builder) - A document builder for Groovy for PDF or Word documents.
 *   [spreadsheet-builder](http://spreadsheet.dsl.builders/) - Spreadsheet builder provides convenient way how to create MS Excel OfficeOpenXML Documents (XSLX)
 *   [GroovyCSV](http://xlson.com/groovycsv/) - A simple CSV parsing library for groovy
+*   [Groogle](https://groogle.gitlab.io/groogle/latest/index.html) - A Groovy DSL written to use Google services APIs.
 
 ## Scripting Tools
 
