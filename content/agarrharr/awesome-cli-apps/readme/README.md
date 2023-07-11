@@ -18,7 +18,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -107,7 +107,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 
 *   [cmus (⭐5k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-*   [itunes-remote (⭐423)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+*   [itunes-remote (⭐424)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
 *   [somafm-cli (⭐123)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 *   [mpd (⭐1.9k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
@@ -173,7 +173,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 *   [is-up-cli (⭐352)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 *   [reachable (⭐23)](https://github.com/italolelis/reachable) - Check if a domain is up.
 *   [loadtest (⭐2.4k)](https://github.com/alexfernandez/loadtest) - Run load tests.
-*   [diff2html-cli (⭐437)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [diff2html-cli (⭐438)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Text Editors
 
@@ -218,7 +218,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 *   [k9s (⭐21k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 *   [PingMe (⭐649)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 *   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐22k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-*   [Discharge (⭐531)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+*   [Discharge (⭐533)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 *   [updatecli (⭐301)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ### Docker
@@ -232,7 +232,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 ### Release
 
 *   [release-it (⭐6.7k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [clog (⭐816)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐815)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 *   [np (⭐7.2k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 *   [release (⭐3.5k)](https://github.com/vercel/release) - Generate changelogs with a single command.
 *   [semantic-release (⭐18k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
@@ -287,7 +287,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 *   [Timewarrior (⭐996)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 *   [Watson (⭐2.3k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 *   [utt (⭐273)](https://github.com/larose/utt) - Simple time tracking tool.
-*   [Bartib (⭐432)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐438)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ### Note Taking and Lists
 
@@ -295,7 +295,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 *   [geeknote (⭐392)](https://github.com/jeffkowalski/geeknote) - Evernote client.
 *   [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐652)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐660)](https://github.com/simeg/eureka) - Input and store your ideas.
 *   [sncli (⭐382)](https://github.com/insanum/sncli) - Simplenote client.
 *   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 *   [taskell (⭐1.6k)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
@@ -337,6 +337,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 *   [crawley (⭐143)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 *   [kill-tabs (⭐379)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 *   [alex (⭐4.6k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+*   [clevercli (⭐49)](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
 
 ### macOS
 
@@ -401,7 +402,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 *   [grip (⭐6.1k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 *   [mdv (⭐1.7k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 *   [glow (⭐13k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
-*   [gtree (⭐126)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐129)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ### Security
 
@@ -437,7 +438,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 *   [speedtest-net (⭐587)](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 *   [speedtest-cli (⭐13k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
-*   [bandwhich (⭐7.9k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+*   [bandwhich (⭐8k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
 
 ## Command Line Learning
 
@@ -450,6 +451,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 *   [Wat (⭐475)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐358)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐13k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+*   [yai (⭐318)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## Data Manipulation
 
@@ -459,7 +461,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 
 *   [jq (⭐25k)](https://github.com/stedolan/jq) - JSON processor.
 *   [yq (⭐2.2k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐4.3k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [dasel (⭐4.4k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 *   [yaml-cli (⭐83)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 *   [ramda-cli (⭐556)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 *   [xq (⭐594)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
@@ -557,7 +559,7 @@ Inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) lis
 
 *   [happyfinder (⭐329)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐31)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
-*   [ripgrep (⭐38k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
+*   [ripgrep (⭐39k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
 *   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 *   [fselect (⭐3.6k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 *   [fd (⭐28k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.

@@ -62,7 +62,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
     *   [Project Management](#project-management)
     *   [Queuing](#queuing)
     *   [Router](#router)
-    *   [Remote Management](#remote-management)
+    *   [Remote Desktop Clients](#remote-desktop-clients)
     *   [Service Discovery](#service-discovery)
     *   [Software Containers](#software-containers)
     *   [Troubleshooting](#troubleshooting)
@@ -186,7 +186,7 @@ Managing software on desktop computers.
 *   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐53)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 *   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐99k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
+*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐100k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
 *   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐14k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 *   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
@@ -422,6 +422,7 @@ Configuration management database (CMDB) software.
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 *   [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code (⭐17k)](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
+*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐4.2k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
 *   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐17k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
 ### IT Asset Management
@@ -581,7 +582,11 @@ Configuration management database (CMDB) software.
 *   [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code (⭐11k)](https://github.com/rabbitmq/rabbitmq-server)) `Erlang`
 *   [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
 
-### Remote Management
+### Remote Desktop Clients
+
+[Remote Desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) client software.
+
+*See also: [awesome-selfhosted/Remote Access (⭐138k)](https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access)*
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 

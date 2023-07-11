@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Jul 11, 2023](/content/2023/07/11/README.md)
+
+### CMS / React
+
+*   [Hygraph](https://hygraph.com/) - Build Scalable Content Experiences.
+
 ## [Jul 10, 2023](/content/2023/07/10/README.md)
 
 ### Clients
@@ -853,7 +859,6 @@ Awesome list of GraphQL
 ### CMS / React
 
 *   [DatoCMS](https://www.datocms.com/) - CDN-based GraphQL based Headless Content Management System.
-*   [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 *   [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 
 ### Books / React

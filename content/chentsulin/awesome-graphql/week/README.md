@@ -20,6 +20,10 @@ Awesome list of GraphQL
 
 *   [Grafbase](https://grafbase.com) - Instant GraphQL APIs for any data source.
 
+### CMS / React
+
+*   [Hygraph](https://hygraph.com/) - Build Scalable Content Experiences.
+
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Type / React
@@ -822,7 +826,6 @@ Awesome list of GraphQL
 ### CMS / React
 
 *   [DatoCMS](https://www.datocms.com/) - CDN-based GraphQL based Headless Content Management System.
-*   [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 *   [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 
 ### Books / React
