@@ -12,6 +12,18 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [wlan-relays (⭐0)](https://github.com/oliver-joos/wlan-relays) - Very simple HTTP server written in MicroPython for controlling the pins of an ESP32 board.
 
+### Display / Fonts
+
+*   [packed-font (⭐2)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
+
+### Motion / Servo
+
+*   [MicroPython\_PCA9685 (⭐0)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
+
+### IDEs / SRAM
+
+*   [uPIDE (⭐17)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
+
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
 ### AI

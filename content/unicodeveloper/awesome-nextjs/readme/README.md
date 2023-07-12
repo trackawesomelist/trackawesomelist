@@ -14,9 +14,9 @@
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
-[Next.js (⭐108k)](https://github.com/vercel/next.js): The React Framework.
+[Next.js (⭐109k)](https://github.com/vercel/next.js): The React Framework.
 
-*List inspired by the [awesome (⭐258k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐771)](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd (⭐771)](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 
@@ -37,8 +37,8 @@
 
 ## Community
 
-*   [GitHub (⭐108k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐108k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐109k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐109k)](https://github.com/vercel/next.js/discussions)
 
 ## Essentials
 
@@ -206,6 +206,8 @@
 *   [Tottem (⭐942)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 *   [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
 *   [Twitter Clone (⭐94)](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+*   [Taxonomy (⭐14k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
+*   [shadcn/ui (⭐24k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
 ## Books
 

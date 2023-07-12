@@ -6,6 +6,13 @@
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
+
+### Apps
+
+*   [Taxonomy (⭐14k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
+*   [shadcn/ui (⭐24k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Extensions
@@ -171,8 +178,8 @@
 
 ### Community
 
-*   [GitHub (⭐108k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐108k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐109k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐109k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 

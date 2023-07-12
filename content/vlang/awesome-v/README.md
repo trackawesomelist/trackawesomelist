@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jul 12, 2023](/content/2023/07/12/README.md)
+
+### Editors
+
+*   [polygon-editor (⭐4)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
+
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
 ### Web
@@ -570,5 +576,5 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### User Interface toolkits
 
-*   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐48k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐49k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐41)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.

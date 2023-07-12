@@ -93,6 +93,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Editors
 
+*   [polygon-editor (⭐4)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
 *   [text\_editor (⭐34k)](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - Small text editor from the official V examples.
 *   [ved (⭐1.2k)](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 *   [vee (⭐34)](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example (⭐34)](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
@@ -276,7 +277,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [mui (⭐71)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
 *   [V UI (⭐2.1k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 *   [vgtk3 (⭐54)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
-*   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐48k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐43)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐49k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐41)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 *   [VWebui (⭐57)](https://github.com/webui-dev/v-webui) - V Library that makes easy creating WebUI.
 

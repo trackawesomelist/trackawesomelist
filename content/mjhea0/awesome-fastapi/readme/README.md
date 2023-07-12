@@ -50,6 +50,7 @@ A curated list of awesome things related to FastAPI
 ### Admin
 
 *   [FastAPI Admin (⭐1.9k)](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
+*   [FastAPI Amis Admin (⭐557)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
 *   [Piccolo Admin (⭐234)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
 *   [SQLAlchemy Admin (⭐1.1k)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
 *   [Starlette Admin (⭐206)](https://github.com/jowilf/starlette-admin) - Admin framework for FastAPI/Starlette, supporting SQLAlchemy, SQLModel, MongoDB, and ODMantic.
@@ -255,11 +256,11 @@ Frameworks:
 
 *   [Chalice (⭐9.8k)](https://github.com/aws/chalice)
 *   [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
-*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐26)](https://github.com/paul121/fastapi-zeit-now)).
+*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐29)](https://github.com/Snailedlt/Markdown-Videos)).
 
 Compute:
 
-*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐124)](https://github.com/iwpnd/fastapi-aws-lambda-example))
+*   [AWS Lambda](https://aws.amazon.com/lambda/) ([example (⭐124)](https://github.com/iwpnd/fastapi-aws-lambda-example))
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 *   [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
 *   [Google Cloud Run](https://cloud.google.com/run) ([example (⭐170)](https://github.com/anthonycorletti/cloudrun-fastapi))
@@ -303,12 +304,14 @@ Compute:
 *   FastAPI CRUD Example:
     *   [Async flavor (⭐333)](https://github.com/testdrivenio/fastapi-crud-async)
     *   [Sync Flavor (⭐68)](https://github.com/testdrivenio/fastapi-crud-sync)
+*   [FastAPI with Observability (⭐196)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
 *   [DogeAPI (⭐118)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
 *   [FastAPI Websocket Broadcast (⭐116)](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
 *   [FastAPI with Celery, RabbitMQ, and Redis (⭐406)](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
 *   [JeffQL (⭐27)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 *   [JSON-RPC Server (⭐230)](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
 *   [Mailer (⭐46)](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
+*   [Markdown-Videos (⭐29)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
 *   [Nemo (⭐6)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
 *   [OPAL (Open Policy Administration Layer) (⭐12)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
 *   [RealWorld Example App - mongo (⭐412)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)

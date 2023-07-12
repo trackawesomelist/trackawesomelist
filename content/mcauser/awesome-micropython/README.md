@@ -6,6 +6,20 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jul 12, 2023](/content/2023/07/12/README.md)
+
+### Display / Fonts
+
+*   [packed-font (⭐2)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
+
+### Motion / Servo
+
+*   [MicroPython\_PCA9685 (⭐0)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
+
+### IDEs / SRAM
+
+*   [uPIDE (⭐17)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
+
 ## [Jul 10, 2023](/content/2023/07/10/README.md)
 
 ### Communications / Web

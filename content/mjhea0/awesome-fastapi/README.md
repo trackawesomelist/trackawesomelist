@@ -6,6 +6,17 @@ A curated list of awesome things related to FastAPI
 
 [ Daily / [Weekly](/content/mjhea0/awesome-fastapi/week/README.md) / [Overview](/content/mjhea0/awesome-fastapi/readme/README.md) ]
 
+## [Jul 12, 2023](/content/2023/07/12/README.md)
+
+### Admin
+
+*   [FastAPI Amis Admin (⭐557)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
+
+### Open Source Projects / Other Tools
+
+*   [FastAPI with Observability (⭐196)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
+*   [Markdown-Videos (⭐29)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
+
 ## [Jul 11, 2023](/content/2023/07/11/README.md)
 
 ### Admin
@@ -580,7 +591,7 @@ A curated list of awesome things related to FastAPI
 
 ### Serverless / Other Tools
 
-*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐26)](https://github.com/paul121/fastapi-zeit-now)).
+*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐29)](https://github.com/Snailedlt/Markdown-Videos)).
 
 ### Boilerplate / Other Tools
 
@@ -627,7 +638,7 @@ A curated list of awesome things related to FastAPI
 ### Serverless / Other Tools
 
 *   [Chalice (⭐9.8k)](https://github.com/aws/chalice)
-*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐124)](https://github.com/iwpnd/fastapi-aws-lambda-example))
+*   [AWS Lambda](https://aws.amazon.com/lambda/) ([example (⭐124)](https://github.com/iwpnd/fastapi-aws-lambda-example))
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Other Tools
