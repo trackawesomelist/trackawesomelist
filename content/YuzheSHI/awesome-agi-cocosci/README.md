@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jul 12, 2023](/content/2023/07/12/README.md)
+
+### Problem Solving / Reinforcement Learning
+
+*   [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16197919002723407603\&hl=en\&as_sdt=0,5)]. Yaodong Yang's review on multi-agent reinforcement learning from the perspective of game theory.
+
 ## [Jul 11, 2023](/content/2023/07/11/README.md)
 
 ### Meta-Level Considerations / The Aha! Moment
@@ -1820,7 +1826,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Problem Solving / Human-Level Problem Solving
 
 *   [Learning to Solve Problems: A Handbook for Designing Problem-Solving Learning Environments](http://196.223.158.148/bitstream/handle/123456789/2978/596.pdf?sequence=1\&isAllowed=y) - ***Taylorfrancis***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=13262690779319271809\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094\&context=jps) - ***The Journal of Problem Solving***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883\&hl=en\&as_sdt=0,5)].
 *   [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***Machine Learning***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473\&hl=en\&as_sdt=0,5)].
 *   [Representations in distributed cognitive tasks](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1801_3) - ***Cognitive Science***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14781266698447195483)].
 *   [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***Cognitive Science***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430\&hl=en\&as_sdt=0,5)].
@@ -1900,6 +1905,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Fast and flexible: Human program induction in abstract reasoning tasks](https://arxiv.org/pdf/2103.05823.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5294483826040237516\&hl=en\&as_sdt=0,5)].
 *   [Investigating Human Priors for Playing Video Games](http://proceedings.mlr.press/v80/dubey18a.html) - ***ICML'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2202192690517876762\&hl=en\&as_sdt=0,5)].
 *   [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622) - ***Current Opinion in Behavioral Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598\&hl=en\&as_sdt=0,5)].
+
+### Meta-Level Considerations / The Aha! Moment
+
+*   [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094\&context=jps) - ***The Journal of Problem Solving***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883\&hl=en\&as_sdt=0,5)].
 
 ### Meta-Level Considerations / Cognitive Architecture
 

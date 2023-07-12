@@ -6,6 +6,20 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 [ Daily / [Weekly](/content/j0hnm4r5/awesome-creative-technology/week/README.md) / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
 
+## [Jul 12, 2023](/content/2023/07/12/README.md)
+
+### Creative Technology
+
+- Name: [**Art Processors**](https://www.artprocessors.net)
+
+  Locations: \[Melbourne] \[NYC]
+
+  Keywords: partner with cultural and tourism organisations to invent new realities of human experience
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.artprocessors.net)
+
+
+
 ## [Jul 09, 2023](/content/2023/07/09/README.md)
 
 ### Creative Technology

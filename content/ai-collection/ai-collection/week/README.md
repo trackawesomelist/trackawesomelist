@@ -6,6 +6,56 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
+
+### Code & Database Assistant
+
+- Name: [Fine](https://www.fine.dev?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Build Better Software, Faster.
+
+  Description: Fine transforms your tasks into tailor-made specifications and uses AI agents to implement them for you. Accelerate software development with a new standard for efficiency. Jumpstart your team by generating code based on detailed specifications, reducing up to 80% of your coding time.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Ecommerce
+
+- Name: [Gizzmo Ai](https://gizzmo.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Skyrocket Your Earnings With WordPress Affiliate Content.
+
+  Description: Gizzmo is a powerful WordPress plugin that simplifies the process of creating Amazon affiliate articles. With just a few clicks, you can generate fully optimised content, including product reviews, roundups, and gift guides. It's a game-changer for affiliate marketers!.
+
+  Offer Free Version: :x:
+
+
+
+### Photo & Image Editing
+
+- Name: [img-cut](https://img-cut.aishoot.co/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: The Ultimate AI Solution for Background Removal Accurate, Secure, and Free.
+
+  Description: Your pictures, your device - Stop sending your private photos to random places in the internet. Take control, run state-of-the-art AI locally in your browser and get the job done.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Text To Speech
+
+- Name: [Resemble’s AI voice generator](http://www.resemble.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Your Complete Generative Voice AI Toolkit.
+
+  Description: Resembles AI voice generator lets you create human–like voice overs in seconds.
+
+  Offer Free Version: :x:
+
+
+
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
 ### Art & Image Generator
@@ -421,15 +471,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Art & Image Generator
 
-- Name: [AI Art Latitude](http://ai-art.latitude.io?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: AI Art.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [AI Background Generator by PhotoRoom](http://www.photoroom.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Photoroom - Remove Background and Create Product Pictures.
@@ -729,11 +770,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Dreamlike](http://dreamlike.art?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: AI Art Generator, AI Art Maker - Dreamlike.Art.
+  Title: Create Stunning Original Art in Seconds With the Power of AI.
 
-  Description: .
+  Description: Create, upscale, edit with natural language, fix faces, copy pose/depth/sketch, make variations, and more. Choose from 8 AI Models. Customize your creations to your liking with advanced parameters. Everything you need right in your browser, available from anywhere on any device.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Erase.bg](http://www.erase.bg?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -794,18 +835,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Generated Photos - Unique, Worry-Free Model Photos.
 
-  Description: .
+  Description: Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Getimg.ai](http://getimg.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Everything You Need to Create Images With AI - Getimg.Ai.
+  Title: Create Amazing Avatars, Images, Art, Photos With the Power of AI.
 
-  Description: Magical AI art tools. Generate original images, modify existing ones, expand pictures beyond its original borders, and more.
+  Description: getimg.ai is a suite of magical AI tools. Generate original images at scale, modify photos, expand pictures beyond their original borders, or create custom AI models.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Green Screen AI](http://greenscreenai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -1400,9 +1441,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Preview Your Fue/Fut Hair Transplant Using AI - Hairgen.Ai.
 
-  Description: .
+  Description: Ever wonder how you would look after a hair transplant? Get an idea of how you would look before you spend thousands of dollars on a FUE/FUT procedure. See your hairline lowered with AI right now.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :x:
 
 
 - Name: [HeroPack](http://www.heropack.me?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -3438,11 +3479,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Claid.ai](http://claid.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Claid.Ai: Automated Photo Enhancer for Ugc. Web, Mobile & Printing.
+  Title: Create Beautiful Converting Content With AI.
 
-  Description: AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically.
+  Description: Automate end-to-end Image creation and boost your business using our suite of AI products. Create multiple product images that suit your brand. Simplify your content creation process by transforming boring product images to photoshoot-quality marketing images.
 
-  Offer Free Version: :grey\_question:
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Colorize](http://colorize.cc?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -4763,15 +4804,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-sounding speech and download as MP3 and WAV audio files.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Speech-to-Speech](http://www.resemble.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Your Complete Generative Voice AI Toolkit.
-
-  Description: Resembles AI voice generator lets you create human–like voice overs in seconds.
-
-  Offer Free Version: :x:
 
 
 - Name: [Speechelo](http://speechelo.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)

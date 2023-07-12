@@ -1,18 +1,106 @@
 # Awesome List Updates on Jul 12, 2023
 
-8 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Blog posts
+
+*   [Pyspark or Polars — What should you use?](https://medium.com/data-engineer-things/pyspark-or-polars-what-should-you-use-breakdown-of-similarities-and-differences-b261a825b9d6) - A blog post that explores and breaks down some of the similarities between PySpark and Polars. It provides insights on when to choose one over the other by [Vivek Kovvuru](https://www.linkedin.com/in/vivekkovvuru/).
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Problem Solving / Reinforcement Learning
+
+*   [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16197919002723407603\&hl=en\&as_sdt=0,5)]. Yaodong Yang's review on multi-agent reinforcement learning from the perspective of game theory.
+
+## [3. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+
+### Creative Technology
+
+- Name: [**Art Processors**](https://www.artprocessors.net)
+
+  Locations: \[Melbourne] \[NYC]
+
+  Keywords: partner with cultural and tourism organisations to invent new realities of human experience
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.artprocessors.net)
+
+
+
+## [4. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+### Code & Database Assistant
+
+- Name: [Fine](https://www.fine.dev?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Build Better Software, Faster.
+
+  Description: Fine transforms your tasks into tailor-made specifications and uses AI agents to implement them for you. Accelerate software development with a new standard for efficiency. Jumpstart your team by generating code based on detailed specifications, reducing up to 80% of your coding time.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Ecommerce
+
+- Name: [Gizzmo Ai](https://gizzmo.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Skyrocket Your Earnings With WordPress Affiliate Content.
+
+  Description: Gizzmo is a powerful WordPress plugin that simplifies the process of creating Amazon affiliate articles. With just a few clicks, you can generate fully optimised content, including product reviews, roundups, and gift guides. It's a game-changer for affiliate marketers!.
+
+  Offer Free Version: :x:
+
+
+
+### Photo & Image Editing
+
+- Name: [img-cut](https://img-cut.aishoot.co/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: The Ultimate AI Solution for Background Removal Accurate, Secure, and Free.
+
+  Description: Your pictures, your device - Stop sending your private photos to random places in the internet. Take control, run state-of-the-art AI locally in your browser and get the job done.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Text To Speech
+
+- Name: [Resemble’s AI voice generator](http://www.resemble.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Your Complete Generative Voice AI Toolkit.
+
+  Description: Resembles AI voice generator lets you create human–like voice overs in seconds.
+
+  Offer Free Version: :x:
+
+
+
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Articles / Others
+
+*   [ASP.NET Core updates in .NET 8 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-6/) - July 11, 2023 - .NET 8 Preview 6 is now available and includes many great new improvements to ASP.NET Core. Here’s a summary of what’s new in this preview release: Form model binding & validation with server-side rendering, Enhanced page navigation & form handling, Preserve existing DOM elements with streaming rendering, Interactive rendering with Blazor WebAssembly and more.
+
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Messaging
+
+*   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management.
+
+## [7. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Editors
 
 *   [polygon-editor (⭐4)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
 
-## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / Fonts
 
@@ -26,7 +114,7 @@
 
 *   [uPIDE (⭐17)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -40,7 +128,7 @@
 
 *   [Tiles](https://freemacsoft.net/tiles/) - Easily reorganize windows by either dragging them to the edges of the screen, using keyboard shortcuts, or the menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -72,14 +160,14 @@
 
 *   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 
-## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [Taxonomy (⭐14k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
 *   [shadcn/ui (⭐24k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
-## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [12. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
@@ -95,13 +183,13 @@
 *   [GNUnet](https://gnunet.org): GNUnet is a network protocol stack for building secure, distributed, and privacy-preserving applications. The Internet of tomorrow needs GNUnet today.
 *   [Gun (⭐17k)](https://github.com/amark/gun): A cybersecurity protocol for syncing decentralized graph data; GUN is an ecosystem of tools that let you build community run and encrypted applications - like an Open Source Firebase or a Decentralized Dropbox.
 
-## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [13. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [alpody/golang-fiber-realworld-example-app (⭐66)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
 
-## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [14. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Admin
 

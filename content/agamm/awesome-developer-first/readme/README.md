@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 493 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 510 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ A curated list of awesome developer-first tools products.
 
 A curated list of awesome developer-first products.\
 I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).\
-You can follow me on [Twitter](https://twitter.com/agammore) for more dev related content :)
+You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :)
 
 The definition of developer-first for this repo is:
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐493)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐510)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -290,6 +290,7 @@ For the latest additions [click here (⭐493)](https://github.com/agamm/awesome-
 *   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 *   [Knock](https://knock.app) - Notifications as a service.
 *   [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
+*   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management.
 *   [Stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
@@ -407,5 +408,5 @@ For the latest additions [click here (⭐493)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐493)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐510)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

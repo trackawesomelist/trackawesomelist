@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
+### Problem Solving / Reinforcement Learning
+
+*   [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16197919002723407603\&hl=en\&as_sdt=0,5)]. Yaodong Yang's review on multi-agent reinforcement learning from the perspective of game theory.
+
 ### Meta-Level Considerations / The Aha! Moment
 
 *   [Constraint relaxation and chunk decomposition in insight problem solving](https://www.hf.uni-koeln.de/data/fgpsych/File/Haider/Knoblich_etal_1999.pdf) - ***Journal of Experimental Psychology***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=8057214169831054227\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/1999-01477-011)].
@@ -1528,7 +1532,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Problem Solving / Human-Level Problem Solving
 
 *   [Learning to Solve Problems: A Handbook for Designing Problem-Solving Learning Environments](http://196.223.158.148/bitstream/handle/123456789/2978/596.pdf?sequence=1\&isAllowed=y) - ***Taylorfrancis***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=13262690779319271809\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-*   [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094\&context=jps) - ***The Journal of Problem Solving***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883\&hl=en\&as_sdt=0,5)].
 *   [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***Machine Learning***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473\&hl=en\&as_sdt=0,5)].
 *   [Representations in distributed cognitive tasks](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1801_3) - ***Cognitive Science***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14781266698447195483)].
 *   [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***Cognitive Science***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430\&hl=en\&as_sdt=0,5)].
@@ -1612,6 +1615,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Meta-Level Considerations / Gestalt
 
 *   [Restructuring revisited I. Summary and critique of the Gestalt theory of problem solving](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01001.x) - ***Scandinavian Journal of Psychology***, 1984. \[[All Versions](https://scholar.google.com/scholar?cluster=1540079499182933565\&hl=en\&as_sdt=0,5)].
+
+### Meta-Level Considerations / The Aha! Moment
+
+*   [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094\&context=jps) - ***The Journal of Problem Solving***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883\&hl=en\&as_sdt=0,5)].
 
 ### Meta-Level Considerations / Cognitive Architecture
 
