@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md) / [Overview](/content/alexk111/awesome-bitcoin-payment-processors/readme/README.md) ]
 
+## [Jul 13, 2023](/content/2023/07/13/README.md)
+
+### Self-Hosted Bitcoin Payment Processors
+
+- Processor: [LNURL Daemon (⭐4)](https://github.com/yanascz/lnurld)
+
+  Fees: No fees
+
+  Lightning: Yes
+
+  Directly to Your Wallet: Yes
+
+  Conversion to Fiat: No
+
+  Requirements: LND node
+
+
+
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors

@@ -8,6 +8,10 @@ A curated list of awesome developer-first tools products.
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
+### Analytics
+
+*   [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
+
 ### Messaging
 
 *   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management.

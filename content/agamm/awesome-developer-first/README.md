@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jul 13, 2023](/content/2023/07/13/README.md)
+
+### Analytics
+
+*   [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
+
 ## [Jul 12, 2023](/content/2023/07/12/README.md)
 
 ### Messaging
