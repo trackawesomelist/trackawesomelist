@@ -6,6 +6,13 @@ Curated list of awesome things related to Deno
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
+
+### Modules / Machine learning
+
+*   [classy-lala (⭐1)](https://github.com/retraigo/classy-lala) - Regression and Classification library.
+*   [vectorizer (⭐2)](https://github.com/retraigo/vectorizer) - Convert text into vectors.
+
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
 ### Modules / Database
@@ -85,16 +92,19 @@ Curated list of awesome things related to Deno
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
+### Modules / Image
+
+*   [monke (⭐4)](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
+
 ### Modules / Utils
 
 *   [colors (⭐3)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
-*   [monke (⭐4)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
 ### Modules / Frontend framework
 
-*   [fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+*   [fresh (⭐11k)](https://github.com/denoland/fresh) - The next-gen web framework.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
@@ -198,7 +208,6 @@ Curated list of awesome things related to Deno
 ### Modules / Utils
 
 *   [bettermap (⭐15)](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
-*   [cubic-bezier (⭐1)](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 *   [durationjs (⭐20)](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
 *   [fortuna (⭐16)](https://github.com/retraigo/fortuna) - Weighted gacha system.
 
@@ -423,7 +432,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Image
 
-*   [ImageScript (⭐511)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐519)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
@@ -533,7 +542,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web utils
 
-*   [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
+*   [compression (⭐39)](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 *   [djwt (⭐189)](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 *   [forwarded (⭐9)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 *   [gentleRpc (⭐43)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
@@ -762,7 +771,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Utils
 
-*   [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
+*   [denon (⭐1.1k)](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
 *   [deno-context (⭐6)](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
 *   [ensure (⭐3)](https://github.com/eankeen/ensure) - Ensure you are running a minimum version of Deno, Typescript, or V8.
 *   [invert-kv (⭐3)](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
@@ -779,7 +788,7 @@ Curated list of awesome things related to Deno
 ### Tools / XML
 
 *   [dedep (⭐66)](https://github.com/egoist/dedep) - Manage dependency versions.
-*   [denon](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
+*   [denon (⭐1.1k)](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
 *   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 *   [starter (⭐25)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 

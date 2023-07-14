@@ -20,7 +20,7 @@ An **awesome & curated** list for **Artificial General Intelligence**, an emergi
 
 ## Contributing
 
-Contributions are greatly welcomed! Please refer to the [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/Contributing.md) before taking any action.
+Contributions are greatly welcomed! Please refer to [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md/Contributing.md) before taking any action.
 
 <span id = "c"></span>
 
@@ -446,6 +446,8 @@ Contributions are greatly welcomed! Please refer to the [Contribution Guidelines
 \*[Back to Top](#c)
 
 #### Generative Model
+
+*   [Generative Modeling Explained (⭐36)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
 
 *   [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***Chapman and Hall/CRC***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689\&hl=en\&as_sdt=0,5)]. Don Rubin's introductory book on Bayesian models.
 

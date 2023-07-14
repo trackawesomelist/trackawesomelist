@@ -6,6 +6,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jul 14, 2023](/content/2023/07/14/README.md)
+
+### Articles / Others
+
+*   [Silverlight Just Won't Die: 'XAML for Blazor' Arrives](https://visualstudiomagazine.com/articles/2023/07/13/xaml-blazor.aspx) - July 13, 2023 - Userware is using vestiges of the long-gone and sorely missed Microsoft Silverlight web-dev platform to power its new "XAML for Blazor" offering, which lets .NET developers use markup language within client-side Blazor applications.
+*   [What’s New in Blazor: 2023 Volume 2](https://www.syncfusion.com/blogs/post/whats-new-blazor-2023-volume-2.aspx) - July 12, 2023 - New components and features added in the Syncfusion Essential Studio 2023 Volume 2 release for the Blazor platform.
+
 ## [Jul 12, 2023](/content/2023/07/12/README.md)
 
 ### Articles / Others
@@ -37,7 +44,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Others
 
-*   [Blazor.MediaCaptureStreams (⭐36)](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. [Demo](https://kristofferstrube.github.io/Blazor.MediaCaptureStreams/).
+*   [Blazor.MediaCaptureStreams (⭐40)](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) - ![stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.MediaCaptureStreams?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the Media Capture and Streams browser API. The API standardizes ways to request access to local multimedia devices, such as microphones or video cameras. This also includes the MediaStream API, which provides the means to control where multimedia stream data is consumed, and provides some information and configuration options for the devices that produce the media. This project implements a wrapper around the API for Blazor so that we can easily and safely interact with the media streams of the browser. [Demo](https://kristofferstrube.github.io/Blazor.MediaCaptureStreams/).
 
 ### Videos / Others
 
@@ -93,10 +100,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ## [May 24, 2023](/content/2023/05/24/README.md)
 
-### Are you ready for Build 2023? (May 23-25, 2023).
-
-*   Sessions : [build.microsoft.com](https://build.microsoft.com/en-US/sessions?filter=additionalTrack%2FlogicalValue%3E.NET)
-
 ### Others
 
 *   [Moldinium (⭐1)](https://github.com/jtheisen/moldinium) - ![last commit](https://img.shields.io/github/last-commit/jtheisen/moldinium?style=flat-square\&cacheSeconds=86400) MobX-style dependency tracking in Blazor (proof-of-concept level maturity)
@@ -127,11 +130,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [BurnRate is fueling revenue success with Blazor](https://dotnet.microsoft.com/en-us/platform/customers/burnrate) - May, 2023 - [Customer success case](https://dotnet.microsoft.com/en-us/platform/customers) with BurnRate.
 
 ## [May 11, 2023](/content/2023/05/11/README.md)
-
-### Are you ready for Build 2023? (May 23-25, 2023).
-
-*   Get an overview of some of the .NET sessions and live Q\&A coming to #MSBuild this year.
-*   May 23-25, 2023
 
 ### Videos / Others
 

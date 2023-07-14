@@ -6,6 +6,13 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Jul 14, 2023](/content/2023/07/14/README.md)
+
+### Modules / Machine learning
+
+*   [classy-lala (⭐1)](https://github.com/retraigo/classy-lala) - Regression and Classification library.
+*   [vectorizer (⭐2)](https://github.com/retraigo/vectorizer) - Convert text into vectors.
+
 ## [Jul 03, 2023](/content/2023/07/03/README.md)
 
 ### Modules / Database
@@ -85,16 +92,19 @@ Curated list of awesome things related to Deno
 
 ## [Dec 14, 2022](/content/2022/12/14/README.md)
 
+### Modules / Image
+
+*   [monke (⭐4)](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
+
 ### Modules / Utils
 
 *   [colors (⭐3)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
-*   [monke (⭐4)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 
 ## [Nov 23, 2022](/content/2022/11/23/README.md)
 
 ### Modules / Frontend framework
 
-*   [fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+*   [fresh (⭐11k)](https://github.com/denoland/fresh) - The next-gen web framework.
 
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
@@ -202,7 +212,6 @@ Curated list of awesome things related to Deno
 ### Modules / Utils
 
 *   [bettermap (⭐15)](https://github.com/retraigo/bettermap) - A TypeScript extension of the JavaScript Map with Array-like features.
-*   [cubic-bezier (⭐1)](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 *   [durationjs (⭐20)](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
 *   [fortuna (⭐16)](https://github.com/retraigo/fortuna) - Weighted gacha system.
 
@@ -439,7 +448,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Image
 
-*   [ImageScript (⭐511)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐519)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [Sep 08, 2021](/content/2021/09/08/README.md)
 
@@ -549,7 +558,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web utils
 
-*   [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
+*   [compression (⭐39)](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 *   [djwt (⭐189)](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 *   [forwarded (⭐9)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 *   [gentleRpc (⭐43)](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
@@ -791,11 +800,11 @@ Curated list of awesome things related to Deno
 
 ### Modules / Utils
 
-*   [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
+*   [denon (⭐1.1k)](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
 
 ### Tools / XML
 
-*   [denon](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
+*   [denon (⭐1.1k)](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
 
 ### Resources in Other Languages / Spanish
 

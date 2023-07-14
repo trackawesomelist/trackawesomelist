@@ -273,7 +273,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐43)](https://github.com/specious/meetup-cli) - Meetup.com client.
 *   [NeoMutt](https://neomutt.org) - Email client.
-*   [terjira (⭐823)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐824)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
 *   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
@@ -501,6 +501,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [lf (⭐6k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 *   [fff (⭐3.9k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 *   [clifm (⭐1k)](https://github.com/leo-arch/clifm) - The command line file manager.
+*   [far2l (⭐1.5k)](https://github.com/elfmz/far2l) - Orthodox file manager.
 
 ### Deleting, Copying, and Renaming
 

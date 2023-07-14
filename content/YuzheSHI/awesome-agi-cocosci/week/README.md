@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
+### Bayesian Modeling / Generative Model
+
+*   [Generative Modeling Explained (⭐36)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
+
 ### Problem Solving / Reinforcement Learning
 
 *   [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16197919002723407603\&hl=en\&as_sdt=0,5)]. Yaodong Yang's review on multi-agent reinforcement learning from the perspective of game theory.

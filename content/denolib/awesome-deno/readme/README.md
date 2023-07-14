@@ -140,7 +140,7 @@ This list is a collection of the best Deno modules and resources.
 ### Frontend framework
 
 *   [aleph.js (⭐5.2k)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
-*   [fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+*   [fresh (⭐11k)](https://github.com/denoland/fresh) - The next-gen web framework.
 *   [packup (⭐312)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 *   [ultra (⭐2.9k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
@@ -152,7 +152,8 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 
-*   [ImageScript (⭐511)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐519)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [monke (⭐4)](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
 
 ### Logging
 
@@ -161,8 +162,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Machine learning
 
+*   [classy-lala (⭐1)](https://github.com/retraigo/classy-lala) - Regression and Classification library.
 *   [netsaur (⭐148)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
+*   [vectorizer (⭐2)](https://github.com/retraigo/vectorizer) - Convert text into vectors.
 
 ### Mail
 
@@ -230,9 +233,8 @@ This list is a collection of the best Deno modules and resources.
 *   [colors (⭐3)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 *   [croner (⭐1.2k)](https://github.com/hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 *   [computed\_types (⭐351)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
-*   [cubic-bezier (⭐1)](https://github.com/retraigo/cubic-bezier) - Get an array of points in a cubic bezier curve or visualize in a canvas.
 *   [dcc (⭐12)](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
-*   [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
+*   [denon (⭐1.1k)](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
 *   [deno-config (⭐4)](https://github.com/yooneskh/deno-config) - Utility to streamline deno app configuration management through cli, .env and json files
 *   [deno-context (⭐6)](https://github.com/code-hex/deno-context) - Propagate deadlines, a cancellation and other request-scoped values to multiple promise. The behaviour is like Go's context.
 *   [deno\_cron (⭐90)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
@@ -264,7 +266,6 @@ This list is a collection of the best Deno modules and resources.
 *   [lazy (⭐30)](https://github.com/luvies/lazy) - A linq-like lazy-evaluation iteration module.
 *   [locale-kit](https://deno.land/x/localekit) ([GitHub (⭐1)](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 *   [maze\_generator (⭐36)](https://github.com/mjrlowe/maze_generator) - Javascript module for generating, solving, analyzing and displaying mazes.
-*   [monke (⭐4)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 *   [ms (⭐15)](https://github.com/denolib/ms) - Easily convert various time formats to milliseconds.
 *   [online (⭐7)](https://github.com/denorg/online) - Check if you're currently online in Deno.
 *   [optionals (⭐143)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
@@ -318,7 +319,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Web utils
 
-*   [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
+*   [compression (⭐39)](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 *   [djwt (⭐189)](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 *   [forwarded (⭐9)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
 *   [fresh\_chart (⭐89)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
@@ -376,7 +377,7 @@ This list is a collection of the best Deno modules and resources.
 *   [denoinit (⭐29)](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit generates useful files for Deno project.
 *   [denoliver (⭐94)](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
 *   [denomander (⭐138)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
-*   [denon](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
+*   [denon (⭐1.1k)](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
 *   [denopendabot](https://github.com/apps/denopendabot) - Dependabot for Deno projects.
 *   [denopkg (⭐238)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 *   [denoversion (⭐7)](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
