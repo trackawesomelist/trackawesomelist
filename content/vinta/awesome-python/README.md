@@ -6,6 +6,12 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 [ Daily / [Weekly](/content/vinta/awesome-python/week/README.md) / [Overview](/content/vinta/awesome-python/readme/README.md) ]
 
+## [Jul 14, 2023](/content/2023/07/14/README.md)
+
+### Deep Learning
+
+*   [lightning (⭐24k)](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
+
 ## [Jul 01, 2023](/content/2023/07/01/README.md)
 
 ### Implementations
@@ -50,7 +56,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 ### Data Visualization
 
-*   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
+*   [bqplot (⭐3.5k)](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
 *   [Cartopy (⭐1.2k)](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
 
 ## [Feb 03, 2021](/content/2021/02/03/README.md)
@@ -292,7 +298,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 ### Downloader
 
-*   [akshare (⭐6.7k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+*   [akshare (⭐6.8k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 
 ### E-commerce
 
@@ -658,7 +664,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
     *   [Flask](http://flask.pocoo.org/) - A microframework for Python.
         *   [awesome-flask (⭐11k)](https://github.com/humiaozuzu/awesome-flask)
     *   [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-        *   [awesome-pyramid (⭐538)](https://github.com/uralbash/awesome-pyramid)
+        *   [awesome-pyramid (⭐540)](https://github.com/uralbash/awesome-pyramid)
     *   [Masonite (⭐2k)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 
 ## [Oct 25, 2019](/content/2019/10/25/README.md)
@@ -839,7 +845,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 ### Admin Panels
 
-*   [ajenti (⭐7.1k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+*   [ajenti (⭐7.2k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
 *   [wooey (⭐2k)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
 ### Authentication
@@ -935,7 +941,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 *   [caffe (⭐33k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning..
 *   [keras (⭐59k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 *   [mxnet (⭐20k)](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
-*   [pytorch (⭐68k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [pytorch (⭐69k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [SerpentAI (⭐6.5k)](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
 *   [tensorflow (⭐176k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
@@ -946,7 +952,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
     *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [mrjob (⭐2.6k)](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
     *   [PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
-    *   [Ray (⭐26k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+    *   [Ray (⭐27k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
     *   [faust (⭐6.6k)](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     *   [streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
@@ -1083,7 +1089,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
     *   [dejavu (⭐6.1k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
     *   [kapre (⭐891)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
     *   [librosa (⭐6k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-    *   [matchering (⭐970)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
+    *   [matchering (⭐986)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     *   [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
     *   [pyAudioAnalysis (⭐5.3k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
     *   [pydub (⭐7.4k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
@@ -1150,7 +1156,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 ### Machine Learning
 
-*   [H2O (⭐6.3k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
+*   [H2O (⭐6.4k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 
 ## [Jun 03, 2018](/content/2018/06/03/README.md)
 
@@ -1372,7 +1378,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 ### Recommender Systems
 
-*   [annoy (⭐11k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
+*   [annoy (⭐12k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
 *   [fastFM (⭐1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
 *   [implicit (⭐3.2k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 
@@ -1471,7 +1477,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 ### Data Analysis
 
-*   [Blaze (⭐3.1k)](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data.
+*   [Blaze (⭐3.2k)](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data.
 *   [Open Mining (⭐1.2k)](https://github.com/mining/mining) - Business Intelligence (BI) in Pandas interface.
 *   [Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 
@@ -1485,7 +1491,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 ### Data Visualization
 
-*   [Altair (⭐8.3k)](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
+*   [Altair (⭐8.4k)](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
 *   [Bokeh (⭐18k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 *   [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
 *   [Pygal](http://www.pygal.org/en/latest/) - A Python SVG Charts Creator.
@@ -1515,7 +1521,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 
 ### Deep Learning
 
-*   [Theano (⭐9.7k)](https://github.com/Theano/Theano) - A library for fast numerical computation.
+*   [Theano (⭐9.8k)](https://github.com/Theano/Theano) - A library for fast numerical computation.
 
 ### Distribution
 
@@ -1857,7 +1863,7 @@ A curated list of awesome Python frameworks, libraries, software and resources
 *   [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 *   [PyMC (⭐7.6k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
-*   [statsmodels (⭐8.6k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐8.7k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 *   [SymPy (⭐11k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 
 ### Third-party APIs

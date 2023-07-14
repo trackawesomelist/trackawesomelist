@@ -118,7 +118,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 
 *Libraries for administrative interfaces.*
 
-*   [ajenti (⭐7.1k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+*   [ajenti (⭐7.2k)](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
 *   [django-grappelli](https://grappelliproject.com/) - A jazzy skin for the Django Admin-Interface.
 *   [django-jet (⭐3.4k)](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality.
 *   [django-suit](https://djangosuit.com/) - Alternative Django Admin-Interface (free only for Non-commercial use).
@@ -130,7 +130,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 
 ## Algorithms and Design Patterns
 
-*Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms).*
+*Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms).*
 
 *   Algorithms
     *   [algorithms (⭐23k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
@@ -167,7 +167,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
     *   [dejavu (⭐6.1k)](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
     *   [kapre (⭐891)](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
     *   [librosa (⭐6k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-    *   [matchering (⭐970)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
+    *   [matchering (⭐986)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     *   [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
     *   [pyAudioAnalysis (⭐5.3k)](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
     *   [pydub (⭐7.4k)](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
@@ -369,7 +369,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 *Libraries for data analyzing.*
 
 *   [AWS Data Wrangler (⭐3.5k)](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
-*   [Blaze (⭐3.1k)](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data.
+*   [Blaze (⭐3.2k)](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data.
 *   [Open Mining (⭐1.2k)](https://github.com/mining/mining) - Business Intelligence (BI) in Pandas interface.
 *   [Optimus (⭐1.4k)](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with PySpark.
 *   [Orange](https://orange.biolab.si/) - Data mining, data visualization, analysis and machine learning through visual programming or scripts.
@@ -391,9 +391,9 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 
 *Libraries for visualizing data. Also see [awesome-javascript (⭐31k)](https://github.com/sorrycc/awesome-javascript#data-visualization).*
 
-*   [Altair (⭐8.3k)](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
+*   [Altair (⭐8.4k)](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
 *   [Bokeh (⭐18k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
-*   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
+*   [bqplot (⭐3.5k)](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
 *   [Cartopy (⭐1.2k)](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
 *   [Dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
     *   [awesome-dash (⭐1.9k)](https://github.com/Acrotrend/awesome-dash)
@@ -489,10 +489,11 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 *   [caffe (⭐33k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning..
 *   [keras (⭐59k)](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
 *   [mxnet (⭐20k)](https://github.com/dmlc/mxnet) - A deep learning framework designed for both efficiency and flexibility.
-*   [pytorch (⭐68k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+*   [pytorch (⭐69k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 *   [SerpentAI (⭐6.5k)](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
 *   [tensorflow (⭐176k)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
-*   [Theano (⭐9.7k)](https://github.com/Theano/Theano) - A library for fast numerical computation.
+*   [Theano (⭐9.8k)](https://github.com/Theano/Theano) - A library for fast numerical computation.
+*   [lightning (⭐24k)](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 
 ## DevOps Tools
 
@@ -527,7 +528,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
     *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [mrjob (⭐2.6k)](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
     *   [PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
-    *   [Ray (⭐26k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+    *   [Ray (⭐27k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
     *   [faust (⭐6.6k)](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     *   [streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
@@ -558,7 +559,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 
 *Libraries for downloading.*
 
-*   [akshare (⭐6.7k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+*   [akshare (⭐6.8k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 *   [s3cmd (⭐4.2k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 *   [s4cmd (⭐1.3k)](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
 *   [you-get](https://you-get.org/) - A YouTube/Youku/Niconico video downloader written in Python 3.
@@ -846,7 +847,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 *Libraries for Machine Learning. Also see [awesome-machine-learning (⭐59k)](https://github.com/josephmisiti/awesome-machine-learning#python).*
 
 *   [gym (⭐32k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
-*   [H2O (⭐6.3k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
+*   [H2O (⭐6.4k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 *   [Metrics (⭐1.6k)](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
 *   [NuPIC (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 *   [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
@@ -977,7 +978,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 
 *Libraries for building recommender systems.*
 
-*   [annoy (⭐11k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
+*   [annoy (⭐12k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
 *   [fastFM (⭐1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
 *   [implicit (⭐3.2k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 *   [libffm (⭐1.6k)](https://github.com/guestwalk/libffm) - A library for Field-aware Factorization Machine (FFM).
@@ -1052,7 +1053,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 *   [RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.
 *   [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 *   [SimPy](https://gitlab.com/team-simpy/simpy) -  A process-based discrete-event simulation framework.
-*   [statsmodels (⭐8.6k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐8.7k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 *   [SymPy (⭐11k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 *   [Zipline (⭐16k)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
@@ -1295,7 +1296,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
 
 ## Web Frameworks
 
-*Traditional full stack web frameworks. Also see [RESTful API (⭐172k)](https://github.com/vinta/awesome-python#restful-api).*
+*Traditional full stack web frameworks. Also see [RESTful API (⭐174k)](https://github.com/vinta/awesome-python#restful-api).*
 
 *   Synchronous
     *   [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
@@ -1304,7 +1305,7 @@ Inspired by [awesome-php (⭐29k)](https://github.com/ziadoz/awesome-php).
     *   [Flask](http://flask.pocoo.org/) - A microframework for Python.
         *   [awesome-flask (⭐11k)](https://github.com/humiaozuzu/awesome-flask)
     *   [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-        *   [awesome-pyramid (⭐538)](https://github.com/uralbash/awesome-pyramid)
+        *   [awesome-pyramid (⭐540)](https://github.com/uralbash/awesome-pyramid)
     *   [Masonite (⭐2k)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 *   Asynchronous
     *   [Tornado](http://www.tornadoweb.org/en/latest/) - A web framework and asynchronous networking library.
@@ -1370,9 +1371,9 @@ Where to discover learning resources or new Python libraries.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐172k)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐174k)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them (⭐172k)](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them (⭐174k)](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 ***
 

@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Jul 14, 2023](/content/2023/07/14/README.md)
+
+### Web Application Framework
+
+*   [C++ wfrest (⭐668)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
+
 ## [Jul 09, 2023](/content/2023/07/09/README.md)
 
 ### DSP
@@ -26,13 +32,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Talks
 
-*   [C++ Conferences (⭐3)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
+*   [C++ Conferences (⭐4)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
 
 ## [Jun 26, 2023](/content/2023/06/26/README.md)
 
 ### Database
 
-*   [Speedb (⭐383)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
+*   [Speedb (⭐407)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 
 ## [Jun 14, 2023](/content/2023/06/14/README.md)
 
@@ -446,7 +452,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Debug
 
-*   [Touca (⭐432)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐433)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
 ## [Jun 06, 2022](/content/2022/06/06/README.md)
 
@@ -508,13 +514,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### GUI
 
-*   [Slint (⭐8.7k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Commercial] [website](https://slint-ui.com)
+*   [Slint (⭐9k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Commercial] [website](https://slint-ui.com)
 
 ## [Feb 14, 2022](/content/2022/02/14/README.md)
 
 ### Graphics
 
-*   [Skia (⭐7.6k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
+*   [Skia (⭐7.7k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 
 ## [Jan 07, 2022](/content/2022/01/07/README.md)
 
@@ -740,7 +746,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Machine Learning
 
-*   [ncnn (⭐17k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
+*   [ncnn (⭐18k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
 
 ## [May 05, 2021](/content/2021/05/05/README.md)
 
@@ -1740,7 +1746,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Artificial Intelligence
 
-*   [PyTorch (⭐68k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐69k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 
@@ -2373,7 +2379,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Video
 
-*   [Vireo (⭐901)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐902)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
@@ -2726,7 +2732,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Machine Learning
 
-*   [mlpack (⭐4.4k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.5k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ## [Feb 01, 2017](/content/2017/02/01/README.md)
 
@@ -2904,7 +2910,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐3.1k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3.2k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [Jun 09, 2016](/content/2016/06/09/README.md)
 
@@ -3607,7 +3613,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome-algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+*   [awesome-algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
 ## [Dec 04, 2014](/content/2014/12/04/README.md)
 
@@ -3959,7 +3965,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. \[LGPL]
 *   [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. \[LGPL]
-*   [imgui (⭐48k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
+*   [imgui (⭐49k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
 *   [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. \[Own based on LGPL]
 *   [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. \[zlib]
 *   [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. \[Own LGPL]
@@ -4165,4 +4171,4 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [algorithms (⭐4.9k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐3k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
 *   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [papers-we-love (⭐74k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐75k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.

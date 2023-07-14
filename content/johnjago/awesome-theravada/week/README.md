@@ -2,9 +2,24 @@
 
 Curated list of Theravada Buddhist teachings
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/johnjago/awesome-theravada/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 johnjago/awesome-theravada](https://github.com/johnjago/awesome-theravada) · ⭐ 111 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/johnjago/awesome-theravada/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 johnjago/awesome-theravada](https://github.com/johnjago/awesome-theravada) · ⭐ 126 · 🏷️ Miscellaneous
 
 [ [Daily](/content/johnjago/awesome-theravada/README.md) / Weekly / [Overview](/content/johnjago/awesome-theravada/readme/README.md) ]
+
+## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
+
+### Academic
+
+*   [Tipitaka](https://www.accesstoinsight.org/tipitaka/index.html) - The Tipitaka, or Pali canon, is the collection of primary Pali language texts which form the doctrinal foundation of Theravada Buddhism.
+*   [Early Buddhist texts, translations, and parallels](https://suttacentral.net/) - The Tipitaka; translated by [Bhante Sujato](https://en.wikipedia.org/wiki/Bhante_Sujato) along with related translations.
+
+### Forums / Audio
+
+*   [Dhammaloka Community](https://bswa.org/about-dhammaloka-community/) - Ask and learn from the members of Dhammaloka City Centre in Australia.
+
+### Videos / Individual Videos
+
+*   [The Mindful Way](https://viewtube.io/watch?v=eFy-a9VaVvE) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
 
 ## [Dec 09 - Dec 15, 2019](/content/2019/49/README.md)
 
@@ -103,7 +118,7 @@ Curated list of Theravada Buddhist teachings
 
 ### Suttas / Resources
 
-*   [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/\~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
+*   [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
 
 ## [May 21 - May 27, 2018](/content/2018/21/README.md)
 
@@ -191,10 +206,6 @@ Curated list of Theravada Buddhist teachings
 *   [dhammadāna](http://dhammadana.org/) - Learn about the Buddha's original teachings in French, English, Italian, Burmese, and Japanese.
 *   [Sādhu!](https://www.dhamma.ru/sadhu/) - World directory of physical locations and websites.
 
-### Videos / Individual Videos
-
-*   [The Mindful Way](https://www.youtube.com/watch?v=Anf1yhX9VQo) - BBC documentary about the life and function of a Buddhist monastery of the Forest Tradition in Thailand.
-
 ### Videos / YouTube Channels
 
 *   [Short Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UCQRkIum1cnPNI5QZ0XtIMWw) - Daily talks given by Thanissaro Bhikkhu at Metta Forest Monastery.
@@ -249,7 +260,6 @@ Curated list of Theravada Buddhist teachings
 ### Forums / Audio
 
 *   [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
-*   [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
 
 ### Suttas / Individual Suttas
 

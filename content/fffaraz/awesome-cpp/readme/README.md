@@ -148,7 +148,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [frugally-deep (⭐967)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 *   [Genann (⭐1.4k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
 *   [MXNet (⭐20k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more. [website](https://mxnet.apache.org)
-*   [PyTorch (⭐68k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐69k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 *   [flashlight (⭐4.9k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
 *   [Recast/Detour (⭐5.6k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 *   [TensorFlow (⭐176k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
@@ -423,7 +423,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [RocksDB (⭐26k)](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. \[BSD]
 *   [SimDB (⭐473)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
 *   [SOCI (⭐1.3k)](https://github.com/SOCI/soci) - A database abstraction layer for C++. \[Boost]
-*   [Speedb (⭐383)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
+*   [Speedb (⭐407)](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 *   [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. \[PublicDomain]
 *   [SQLiteC++ (⭐1.8k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
 *   [sqlite\_modern\_cpp (⭐763)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
@@ -472,7 +472,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Nonius (⭐353)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 *   [Remotery (⭐2.5k)](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. \[Apache2]
 *   [snitch (⭐190)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
-*   [Touca (⭐432)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐433)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 *   [UnitTest++ (⭐526)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 *   [Unity (⭐3.1k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 *   [utest.h (⭐648)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
@@ -547,7 +547,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [GacUI (⭐2.2k)](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
 *   [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. \[LGPL]
 *   [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. \[LGPL]
-*   [imgui (⭐48k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
+*   [imgui (⭐49k)](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
 *   [implot (⭐3.3k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 *   [iup](https://www.tecgraf.puc-rio.br/iup) - Multi-platform toolkit for building graphical user interfaces. \[MIT]
 *   [libui (⭐10k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
@@ -560,7 +560,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. \[zlib]
 *   [RmlUi (⭐1.9k)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
 *   [Sciter](http://sciter.com/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. \[Free/Commercial]
-*   [Slint (⭐8.7k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Commercial] [website](https://slint-ui.com)
+*   [Slint (⭐9k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Commercial] [website](https://slint-ui.com)
 *   [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. \[Own LGPL]
 *   [xtd (⭐561)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 *   [Yue (⭐3.1k)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. \[LGPLv2]
@@ -592,7 +592,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. \[MPL2]
 *   [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++. \[BSD]
 *   [Partio (⭐422)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
-*   [Skia (⭐7.6k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
+*   [Skia (⭐7.7k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 *   [TinySpline (⭐1k)](https://github.com/msteinbeck/tinyspline) - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
 *   [urho3d (⭐4.4k)](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. \[Many different, mostly MIT]
 *   [Yocto/GL (⭐2.6k)](https://github.com/xelatihy/yocto-gl) - Tiny C++ Libraries for Data-Driven Physically-based Graphics. \[MIT]
@@ -723,7 +723,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
 *   [MeTA (⭐671)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 *   [Minerva (⭐686)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
-*   [mlpack (⭐4.4k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.5k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 *   [OpenCV (⭐70k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 *   [oneDAL (⭐563)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 *   [ONNX runtime (⭐9.7k)](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
@@ -733,7 +733,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. \[Apache2]
 *   [VLFeat (⭐1.5k)](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. \[BSD-2-Clause] [website](http://www.vlfeat.org/)
 *   [xgboost (⭐24k)](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. \[Apache2]
-*   [ncnn (⭐17k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
+*   [ncnn (⭐18k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
 
 ## Math
 
@@ -1003,7 +1003,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [x265](https://bitbucket.org/multicoreware/x265_git/src) - Open h.265 video codec implementation. \[GPL2] [website](https://x265.readthedocs.io/en/master/)
 *   [OpenH264 (⭐5k)](https://github.com/cisco/openh264) - Open Source H.264 Codec. \[BSD] [website](http://www.openh264.org/)
 *   [Theora](http://www.theora.org/) - A free and open video compression format. \[BSD]
-*   [Vireo (⭐901)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐902)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ## Virtual Machines
 
@@ -1019,6 +1019,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Crow (⭐2k)](https://github.com/CrowCpp/Crow) - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. \[BSD] [website](https://crowcpp.org)
 *   [Cutelyst (⭐840)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 *   [Drogon (⭐9.4k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
+*   [C++ wfrest (⭐668)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
 *   [facil.io (⭐1.8k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 *   [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. \[ISC]
 *   [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. \[LGPLv3]
@@ -1296,7 +1297,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Talks
 
-*   [C++ Conferences (⭐3)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
+*   [C++ Conferences (⭐4)](https://github.com/eoan-ermine/cpp-conferences) - Catalog of C++ conferences
 *   [CppCon Talks](https://www.youtube.com/user/CppCon/videos) :zap: - The C++ conference.
 *   [Quick game development with C++11/C++14 (⭐87)](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 *   [Presentation on Hana for C++Now 2015 (⭐10)](https://github.com/ldionne/hana-cppnow-2015)
@@ -1377,13 +1378,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [C++ links (⭐3.6k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐3.1k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3.2k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 *   [Awesome Modern C++ (⭐10k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 *   [AwesomePerfCpp (⭐2.2k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 *   [free-programming-books (⭐285k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 *   [Inqlude](http://inqlude.org/) - The Qt library archive.
-*   [papers-we-love (⭐74k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-*   [awesome-algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+*   [papers-we-love (⭐75k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [awesome-algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 *   [awesome-hpp (⭐2.6k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 *   [awesome-talks (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 *   [Projects (⭐42k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.

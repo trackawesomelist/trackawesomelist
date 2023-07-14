@@ -6,7 +6,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Jul 12, 2023](/content/2023/07/12/README.md)
+## [Jul 14, 2023](/content/2023/07/14/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -38,23 +38,10 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 *   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 
-## [Jul 11, 2023](/content/2023/07/11/README.md)
-
-### Libraries/Frameworks / Multiplatform
-
-*   [Ashampoo/xmpcore (⭐5)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
-*   [Ashampoo/kim (⭐57)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
-
-## [Jul 04, 2023](/content/2023/07/04/README.md)
-
-### Libraries/Frameworks / Http Clients
-
-*   [corbella83/kotliny.network (⭐2)](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client
-
 ### Android / Libraries
 
 *   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
@@ -90,6 +77,19 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Kotlin Native / Projects
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [Jul 11, 2023](/content/2023/07/11/README.md)
+
+### Libraries/Frameworks / Multiplatform
+
+*   [Ashampoo/xmpcore (⭐5)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
+*   [Ashampoo/kim (⭐57)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
+
+## [Jul 04, 2023](/content/2023/07/04/README.md)
+
+### Libraries/Frameworks / Http Clients
+
+*   [corbella83/kotliny.network (⭐2)](https://github.com/corbella83/kotliny.network) - Simple, powerful and lightweight Kotlin Multiplatform Network Client
 
 ## [Jun 22, 2023](/content/2023/06/22/README.md)
 
@@ -399,7 +399,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [inorichi/tachiyomi (⭐23k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
 *   [skydoves/DisneyMotions (⭐1.4k)](https://github.com/skydoves/DisneyMotions) - A beautiful Disney app using transformation motions based on MVVM architecture.
 *   [ziggy42/Blum-kotlin (⭐78)](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
-*   [TwidereProject/Twidere-Android (⭐2.7k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
 *   [SimpleMobileTools/Simple-Calendar (⭐3.3k)](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads.
 *   [SimpleMobileTools/Simple-Camera (⭐680)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
 *   [SimpleMobileTools/Simple-Draw (⭐469)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
@@ -426,6 +425,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [PatilShreyas/NotyKT (⭐1.5k)](https://github.com/PatilShreyas/NotyKT) - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
 *   [Marwa-Eltayeb/CurrencyExchange (⭐9)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
 *   [AmrDeveloper/Linkhub (⭐117)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
+*   [TwidereProject/Twidere-Android (⭐2.7k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
 
 ### Android / Extensions
 
@@ -542,7 +542,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Browsers
 
-*   [wendigo/chrome-reactive-kotlin (⭐76)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
+*   [wendigo/chrome-reactive-kotlin (⭐76)](https://github.com/wendigo/chrome-reactive-kotlin)
 
 ### Libraries/Frameworks / I/O
 
@@ -1586,7 +1586,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [gimlet2/kottpd (⭐74)](https://github.com/gimlet2/kottpd) - REST framework in pure Kotlin, inspired by spark-java
 *   [brianmadden/krawler (⭐128)](https://github.com/brianmadden/krawler) - A web crawling framework written in Kotlin
 *   [alpas/alpas (⭐178)](https://github.com/alpas/alpas) - Kotlin web framework inspired by Laravel/Rails. Easy, elegant and productive.
-*   [vert-x3/vertx-lang-kotlin (⭐280)](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
+*   [vert-x3/vertx-lang-kotlin (⭐279)](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
 *   [hypercube1024/firefly (⭐289)](https://github.com/hypercube1024/firefly) - An asynchronous web framework for rapid development of high-performance web application.
 *   [SeunAdelekan/Kanary (⭐326)](https://github.com/SeunAdelekan/Kanary) - A micro webframework for Kotlin
 *   [TinyMission/kara (⭐472)](https://github.com/TinyMission/kara) - Web framework written in Kotlin.
@@ -1630,7 +1630,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [KingFalse/harrier (⭐4)](https://github.com/KingFalse/harrier) - Simpler use of multithreading in Kotlin.
 *   [Rasalexman/coroutinesmanager (⭐15)](https://github.com/Rasalexman/coroutinesmanager) - try-catch safety coroutines manager
 *   [rozkminiacz/FlowRiddles (⭐32)](https://github.com/rozkminiacz/FlowRiddles) - Repository for learning Kotlin Flow API
-*   [cloudoptlab/cloudopt-next (⭐320)](https://github.com/cloudoptlab/cloudopt-next) - A next-generation Java web lightweight framework based on vertx and kotlin.
+*   [cloudoptlab/cloudopt-next (⭐319)](https://github.com/cloudoptlab/cloudopt-next) - A next-generation Java web lightweight framework based on vertx and kotlin.
 *   [Kotlin/kotlin-coroutines (⭐1.5k)](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin.
 *   [Kotlin/kotlinx.coroutines (⭐12k)](https://github.com/Kotlin/kotlinx.coroutines) - Libraries built upon Kotlin coroutines.
 

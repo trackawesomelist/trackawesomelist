@@ -259,7 +259,7 @@ Here is the awesome badge for your project:
 *   [mvysny/vaadin-on-kotlin (⭐172)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 *   [alpas/alpas (⭐178)](https://github.com/alpas/alpas) - Kotlin web framework inspired by Laravel/Rails. Easy, elegant and productive.
 *   [aPureBase/KGraphQL (⭐276)](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
-*   [vert-x3/vertx-lang-kotlin (⭐280)](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
+*   [vert-x3/vertx-lang-kotlin (⭐279)](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
 *   [hypercube1024/firefly (⭐289)](https://github.com/hypercube1024/firefly) - An asynchronous web framework for rapid development of high-performance web application.
 *   [SeunAdelekan/Kanary (⭐326)](https://github.com/SeunAdelekan/Kanary) - A micro webframework for Kotlin
 *   [TinyMission/kara (⭐472)](https://github.com/TinyMission/kara) - Web framework written in Kotlin.
@@ -342,7 +342,7 @@ Here is the awesome badge for your project:
 *   [KingFalse/harrier (⭐4)](https://github.com/KingFalse/harrier) - Simpler use of multithreading in Kotlin.
 *   [Rasalexman/coroutinesmanager (⭐15)](https://github.com/Rasalexman/coroutinesmanager) - try-catch safety coroutines manager
 *   [rozkminiacz/FlowRiddles (⭐32)](https://github.com/rozkminiacz/FlowRiddles) - Repository for learning Kotlin Flow API
-*   [cloudoptlab/cloudopt-next (⭐320)](https://github.com/cloudoptlab/cloudopt-next) - A next-generation Java web lightweight framework based on vertx and kotlin.
+*   [cloudoptlab/cloudopt-next (⭐319)](https://github.com/cloudoptlab/cloudopt-next) - A next-generation Java web lightweight framework based on vertx and kotlin.
 *   [konrad-kaminski/spring-kotlin-coroutine (⭐424)](https://github.com/konrad-kaminski/spring-kotlin-coroutine) - Kotlin coroutine support for Spring.
 *   [marcoferrer/kroto-plus (⭐486)](https://github.com/marcoferrer/kroto-plus) - Protoc plugin for bringing together Kotlin, Protobuf, Coroutines, and gRPC.
 *   [Kotlin/kotlin-coroutines (⭐1.5k)](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin.
@@ -688,7 +688,7 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-browsers"></a>Browsers <sup>[Back ⇈](#libraries-frameworks-browsers-subcategory)</sup>
 
-*   [wendigo/chrome-reactive-kotlin (⭐76)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
+*   [wendigo/chrome-reactive-kotlin (⭐76)](https://github.com/wendigo/chrome-reactive-kotlin)
 
 ### <a name="libraries-frameworks-i-o"></a>I/O <sup>[Back ⇈](#libraries-frameworks-i-o-subcategory)</sup>
 
@@ -855,7 +855,7 @@ Here is the awesome badge for your project:
 *   [MarcinMoskala/ActivityStarter (⭐429)](https://github.com/MarcinMoskala/ActivityStarter)
 *   [MarcinMoskala/KotlinPreferences (⭐50)](https://github.com/MarcinMoskala/KotlinPreferences)
 *   [MarcinMoskala/PreferenceHolder (⭐156)](https://github.com/MarcinMoskala/PreferenceHolder)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [pawegio/KAndroid (⭐893)](https://github.com/pawegio/KAndroid)
 *   [chibatching/Kotpref (⭐695)](https://github.com/chibatching/Kotpref)
 *   [TouK/bubble (⭐100)](https://github.com/TouK/bubble)
@@ -953,7 +953,6 @@ Here is the awesome badge for your project:
 *   [inorichi/tachiyomi (⭐23k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
 *   [skydoves/DisneyMotions (⭐1.4k)](https://github.com/skydoves/DisneyMotions) - A beautiful Disney app using transformation motions based on MVVM architecture.
 *   [ziggy42/Blum-kotlin (⭐78)](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
-*   [TwidereProject/Twidere-Android (⭐2.7k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
 *   [SimpleMobileTools/Simple-Calendar (⭐3.3k)](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads.
 *   [SimpleMobileTools/Simple-Camera (⭐680)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
 *   [SimpleMobileTools/Simple-Draw (⭐469)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
@@ -989,6 +988,7 @@ Here is the awesome badge for your project:
 *   [Marwa-Eltayeb/CurrencyExchange (⭐9)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
 *   [AmrDeveloper/Linkhub (⭐117)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
 *   [AnkitSuda/Rebound (⭐140)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+*   [TwidereProject/Twidere-Android (⭐2.7k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
 
 ### <a name="android-extensions"></a>Extensions <sup>[Back ⇈](#android-extensions-subcategory)</sup>
 

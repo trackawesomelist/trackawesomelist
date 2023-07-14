@@ -8,6 +8,28 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
+### Upcoming ProductHunt Launches 🚀
+
+- Date: July 15
+
+  Name: [CustomQR AI](https://ai-collection.org/en/application/customqr-ai/)
+
+  ProductHunt Link: <https://www.producthunt.com/products/customqr-ai>
+
+
+
+### Art & Image Generator
+
+- Name: [Getimg.ai](https://getimg.ai/?via=aicollection?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Create Amazing Avatars, Images, Art, Photos With the Power of AI.
+
+  Description: getimg.ai is a suite of magical AI tools. Generate original images at scale, modify photos, expand pictures beyond their original borders, or create custom AI models.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Code & Database Assistant
 
 - Name: [Fine](https://www.fine.dev?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -45,6 +67,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 ### Text To Speech
+
+- Name: [Murf.ai](https://get.murf.ai/drehqr9f9o73?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Go From Text to Speech With a Versatile AI Voice Generator.
+
+  Description: AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations.
+
+  Offer Free Version: :white\_check\_mark:
+
 
 - Name: [Resemble’s AI voice generator](http://www.resemble.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
@@ -836,15 +867,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Generated Photos - Unique, Worry-Free Model Photos.
 
   Description: Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Getimg.ai](http://getimg.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Create Amazing Avatars, Images, Art, Photos With the Power of AI.
-
-  Description: getimg.ai is a suite of magical AI tools. Generate original images at scale, modify photos, expand pictures beyond their original borders, or create custom AI models.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -4775,15 +4797,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Lovo AI - Free Text to Speech Online With Natural Voices.
 
   Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Murf.ai](http://murf.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Go From Text to Speech With a Versatile AI Voice Generator.
-
-  Description: AI enabled, real people's voices. Make studio-quality voice overs in minutes. Use Murfs lifelike AI voices for podcasts, videos, and all your professional presentations.
 
   Offer Free Version: :white\_check\_mark:
 
