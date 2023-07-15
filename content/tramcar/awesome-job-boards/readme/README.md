@@ -2,7 +2,7 @@
 
 null
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 769 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 800 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / Overview ]
 
@@ -45,6 +45,7 @@ A curated list of awesome niche job boards.
 *   [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 *   [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 *   [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
+*   [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
 
 ## Blockchain
 
@@ -56,6 +57,7 @@ A curated list of awesome niche job boards.
 *   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
 *   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
 *   [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
+*   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs.
 
 ## Cloud
 
@@ -80,7 +82,7 @@ A curated list of awesome niche job boards.
 
 ## eCommerce
 
-*   \[eComPortal] (<https://ecomportal.co>) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
+*   \[eComPortal] (<https://www.ecomportal.co/>) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
 ## Finance
 
@@ -98,10 +100,6 @@ A curated list of awesome niche job boards.
 
 *   [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 *   [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
-
-## Metaverse
-
-*   [Hire.AR](https://www.hire.ar/) - Job board for Augmented Reality jobs
 
 ## Machine Learning
 
@@ -131,7 +129,6 @@ A curated list of awesome niche job boards.
 ### Go
 
 *   [Golangprojects](https://www.golangprojects.com/)- Golang jobs since 2014, also got a remote section
-*   [we love golang](https://www.welovegolang.com/)
 *   [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 *   [Golang Developer Jobs](https://golangjob.xyz)
 *   [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
@@ -216,6 +213,7 @@ A curated list of awesome niche job boards.
 *   [Free & Open Source Jobs](https://www.fossjobs.net/)
 *   [Relocate.me](https://relocate.me/) - Verified relocation packages
 *   [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
+*   [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 
 ### Canada
 

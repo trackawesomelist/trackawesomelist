@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Jul 15, 2023](/content/2023/07/15/README.md)
+
+### AlgoKit Templates
+
+*   [algokit-goracle-template (⭐2)](https://github.com/GoracleNetwork/algokit_default_template) - Algokit community template for quick starting a smart contract project interacting with goracle.
+
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
 ### Other Development Tools / Nodes and Indexers

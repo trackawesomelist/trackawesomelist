@@ -1,8 +1,26 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 769 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 800 · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Jul 15, 2023](/content/2023/07/15/README.md)
+
+### Big Data
+
+*   [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
+
+### Blockchain
+
+*   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs.
+
+### eCommerce
+
+*   \[eComPortal] (<https://www.ecomportal.co/>) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
+
+### Tech / Aggregator
+
+*   [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -47,10 +65,6 @@
 ### Artificial Intelligence (AI)
 
 *   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
-
-### eCommerce
-
-*   \[eComPortal] (<https://ecomportal.co>) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
 ### Finance
 
@@ -195,10 +209,6 @@
 *   [remote | OK](https://remoteok.com/)
 
 ## [Oct 28, 2021](/content/2021/10/28/README.md)
-
-### Metaverse
-
-*   [Hire.AR](https://www.hire.ar/) - Job board for Augmented Reality jobs
 
 ### Programming / Aggregator
 
@@ -435,12 +445,6 @@
 ### Remote / Aggregator
 
 *   [whoishiring.io](https://whoishiring.io/)
-
-## [Mar 15, 2017](/content/2017/03/15/README.md)
-
-### Programming / Go
-
-*   [we love golang](https://www.welovegolang.com/)
 
 ## [Dec 05, 2016](/content/2016/12/05/README.md)
 
