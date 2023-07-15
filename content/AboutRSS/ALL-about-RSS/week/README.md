@@ -6,6 +6,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 [ [Daily](/content/AboutRSS/ALL-about-RSS/README.md) / Weekly / [Overview](/content/AboutRSS/ALL-about-RSS/readme/README.md) ]
 
+## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
+
+### 🔱 Workflow Automation / 酷Q Plugin
+
+*   [~~Automate.io~~](https://automate.io/)
+
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
@@ -1009,7 +1015,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Mac iOS Tech Blogs By Women](https://inessential.com/2015/11/16/blogs_by_women)
-*   [Software Engineering Blogs (⭐24k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
+*   [Software Engineering Blogs (⭐25k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
 *   [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
@@ -1802,7 +1808,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### 🔱 Workflow Automation / 酷Q Plugin
 
 *   [Pipethru](https://www.pipethru.com/)
-*   [Automate.io](https://automate.io/)
 
 ### universally from / Kanban
 
@@ -2723,7 +2728,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### 💖 Acknowledgement / Crypto or Blockchain relevant
 
-*   [Feed Readers @ Awesome-Selfhosted (⭐138k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
+*   [Feed Readers @ Awesome-Selfhosted (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers)
 *   [Substats API](https://substats.spencerwoo.com/)
 
 ### TTRSS / Outline Processor Markup Language
