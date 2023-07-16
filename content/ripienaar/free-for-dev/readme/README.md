@@ -101,7 +101,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     *   Full, detailed list - <https://cloud.google.com/free>
 
 *   [Amazon Web Services](https://aws.amazon.com)
-    *   [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month
+    *   [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month and 2M Function invocations per month
     *   [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and 10 alarms
     *   [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
     *   [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month
@@ -266,6 +266,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Glitterly](https://glitterly.app/) - Programatically generate dynamic images from base templates. Restful API and nocode integrations. Free tier comes with 50 images/month and 5 templates.
 *   [GoodData](https://www.gooddata.com/) - Data as a Service - Create interactive and insightful dashboards. Free tier comes with 5 workspaces and 100 MB/workspace.
 *   [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps and knowledge libraries. Free community version with up to 3 authors and 5 projects. One compute profile per author with 4GB RAM.
+*   [Hook0](https://www.hook0.com/) - Hook0 is an open source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free.
 *   [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
 *   [Hybiscus](https://hybiscus.dev/) - Build pdf reports using a simple declarative API. Free tier includes upto 100 single page reports per month with the ability to customise color pallet and fonts.
 *   [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
@@ -875,6 +876,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
 *   [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
+*   [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Loging, Tracking, Webhooks, and more...
 *   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector and more.
 *   [Sender](https://www.sender.net) Up to 15 000 emails/month, up to 2,500 subscribers
 *   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
@@ -1296,6 +1298,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Zube](https://zube.io) — Project management with free plan for 4 Projects & 4 users. GitHub integration available.
 *   [Toggl](https://toggl.com/) — Provides 2 free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://toggl.com/plan/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.
 *   [Sflow](https://sflow.io) — sflow\.io is a project management tool that is built for software agile development, marketing, sales, and customer support, especially for outsourcing project and cross-organization collaboration project. Free plan up to 3 projects and 5 members.
+*   [Pulse.red](https://pulse.red) — Free Minimalistic Time Tracker and Timesheet app for projects.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1572,6 +1575,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Microsoft Clarity](https://clarity.microsoft.com/) - Clarity is a free, easy-to-use tool that captures how real people actually use your site.
 *   [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
 *   [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
+*   [Aptabase](https://aptabase.com) — Open Source, Privacy-Friendly and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron and many others. Free for up to 20.000 events per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 

@@ -6,6 +6,24 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 16, 2023](/content/2023/07/16/README.md)
+
+### APIs, Data and ML
+
+*   [Hook0](https://www.hook0.com/) - Hook0 is an open source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free.
+
+### Email
+
+*   [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Loging, Tracking, Webhooks, and more...
+
+### Issue Tracking and Project Management
+
+*   [Pulse.red](https://pulse.red) — Free Minimalistic Time Tracker and Timesheet app for projects.
+
+### Analytics, Events and Statistics
+
+*   [Aptabase](https://aptabase.com) — Open Source, Privacy-Friendly and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron and many others. Free for up to 20.000 events per month.
+
 ## [Jul 10, 2023](/content/2023/07/10/README.md)
 
 ### Web Hosting
@@ -3570,7 +3588,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Major Cloud Providers
 
 *   [Amazon Web Services](https://aws.amazon.com)
-    *   [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month
+    *   [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month and 2M Function invocations per month
     *   [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and 10 alarms
     *   [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
     *   [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month

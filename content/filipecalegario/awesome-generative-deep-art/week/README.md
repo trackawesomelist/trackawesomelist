@@ -8,6 +8,16 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+
+*   [The Story of AI Winters and What it Teaches Us Today](https://www.turingpost.com/p/aiwinters)
+*   [There Would Have Been No LLMs Without This (episode#3 in the History series)](https://www.turingpost.com/p/llmshistory3): timeline of LLMs by Turing Post
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
+*   [Inside the AI Factory: the humans that make tech seem human - The Verge](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots?s=08)
+
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [Ultimate Vocal Remover](https://ultimatevocalremover.com/): vocal removal using AI
@@ -107,7 +117,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
 *   [MusicGen](https://huggingface.co/spaces/facebook/MusicGen): Meta's tool for generating music
-*   [facebookresearch/audiocraft (⭐8.2k)](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
+*   [facebookresearch/audiocraft (⭐8.7k)](https://github.com/facebookresearch/audiocraft): a library for audio processing and generation with deep learning.
 
 ### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
 
