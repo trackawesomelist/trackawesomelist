@@ -1607,6 +1607,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [mix\_test\_interactive (⭐58)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 *   [mix\_test\_watch (⭐857)](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 *   [mixunit (⭐3)](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
+*   [mneme (⭐50)](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
 *   [mock (⭐603)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 *   [mockery (⭐88)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 *   [mockingbird (⭐3)](https://github.com/Driftrock/mockingbird) - A set of helpers to test code that involves http requests.

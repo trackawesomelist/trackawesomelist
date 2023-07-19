@@ -2,7 +2,7 @@
 
 🥰 List of awesome GitHub organizations
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/beansource/awesome-orgs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 beansource/awesome-orgs](https://github.com/beansource/awesome-orgs) · ⭐ 11 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/beansource/awesome-orgs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 beansource/awesome-orgs](https://github.com/beansource/awesome-orgs) · ⭐ 13 · 🏷️ Miscellaneous
 
 [ [Daily](/content/beansource/awesome-orgs/README.md) / [Weekly](/content/beansource/awesome-orgs/week/README.md) / Overview ]
 
@@ -107,6 +107,7 @@ Curating awesome GitHub organizations\
 
 <!-- @other -->
 
+*   [Studio Freight Darkroom](https://github.com/studio-freight) - Curating the best of open source, remixing it, sampling it, and making magic with it.
 *   [OpenSauced](https://github.com/open-sauced) - The open source intelligence platform for developers and maintainers. Unlock the power of open source with project insights by the slice.
 *   [Words](https://github.com/words) - Linguistic JavaScript modules.
 *   [Axo](https://github.com/axodotdev) - Collection of open source Rust libraries and tools.

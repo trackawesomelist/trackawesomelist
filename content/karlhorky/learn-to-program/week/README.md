@@ -2,13 +2,72 @@
 
 Educational resources to learn to program (Foundation in Web Development)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 2.7K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 3.3K · 🏷️ Learn
 
 [ [Daily](/content/karlhorky/learn-to-program/README.md) / Weekly / [Overview](/content/karlhorky/learn-to-program/readme/README.md) ]
 
-## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
+
+### Beginner
+
+#### [Shay Howe's Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+
+**Free** beginner to intermediate guides on web development\
+*(HTML, CSS, JavaScript)*
+#### [freeCodeCamp](https://www.freecodecamp.org/)
+
+**Free** learn to code and help nonprofits at the same time\
+*(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js, Python)*
+#### [The Odin Project](https://www.theodinproject.com)
+
+**Free** beginner to intermediate full-stack courses with Ruby and JS learning paths\
+*(HTML, CSS, JavaScript, Ruby, Rails)*
+#### [GitHub Skills](https://github.com/skills)
+
+**Free** self paced, interactive projects to learn Git and GitHub, created and maintained by GitHub's training team\
+*(Git, GitHub)*
+#### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org)
+
+**Freemium** wide range of tracks in popular programming languages and development frameworks\
+*(Python, Java, Kotlin, SQL)*
+#### [DataCamp](https://www.datacamp.com/)
+
+**Freemium** interactive platform for learning data science\
+*(Python, R, SQL, Power BI, ChatGPT)*
 
 ### Intermediate
+
+#### [Developer Roadmaps](https://roadmap.sh/)
+
+**Free** learning roadmap guides with links to educational content\
+*(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
+#### [PluralSight](https://www.pluralsight.com/browse)
+
+**Paid** platform for courses in web development, software development, security and more\
+*(HTML, CSS, JavaScript, React, AngularJS, Java, SQL)*
+#### [CodeChef Courses](https://www.codechef.com/learn)
+
+**Freemium** platform with courses in web development and software development\
+*(HTML, CSS, JavaScript, Python, Java, C++)*
+
+### Advanced
+
+#### [Level Up Tutorials](https://levelup.video/library)
+
+**Free** video tutorials for web developers and designers\
+*(HTML, CSS, JavaScript, React, Svelte, Vue, Node.js, GraphQL, TypeScript, Deno, GitHub, Figma, Ruby, Drupal, Magento, Wordpress)*
+#### [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Computer%20Science)
+
+**Free** courses from MIT on advanced computer science topics\
+*(varied and extensive computer science topics, C, C++, ..)*
+#### [edX](https://www.edx.org/learn/computer-programming)
+
+**Free** courses from Harvard, MIT, and other universities\
+*(varied computer science subjects including theory and programming, data science, algorithms, ...)*
+
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Beginner
 
 #### [Cratecode](https://cratecode.com/)
 
@@ -25,13 +84,6 @@ Educational resources to learn to program (Foundation in Web Development)
 *(HTML, CSS, JavaScript, web development, web design)*
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
-
-### Beginner
-
-#### [Free Code Camp](https://www.freecodecamp.org/)
-
-**Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
-*(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
 
 ### Advanced
 
@@ -80,34 +132,14 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 **Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
 *(CSS)*
 
-### Advanced
-
-#### [Paqmind](http://paqmind.com)
-
-**Free** Quiz your knowledge of programming\
-*(JavaScript, Node.js, React, functional programming)*
-
 ## [Dec 02 - Dec 08, 2019](/content/2019/48/README.md)
 
-### Advanced
+### Intermediate
 
 #### [Wes Bos](https://wesbos.com/courses/)
 
 **Mixed** guided video courses to build products using new technologies\
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
-#### [EDX](https://www.edx.org/course/subject/computer-science)
-
-**Free** courses from Harvard, MIT, and other universities\
-*(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-
-## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
-
-### Beginner
-
-#### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
-
-**Free** teaches programming in Java by creating small applications built step by step\
-*(Java, OOP, Gradle, Maven, Spring Boot)*
 
 ## [Aug 12 - Aug 18, 2019](/content/2019/32/README.md)
 
@@ -115,18 +147,18 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 #### [Programming Historian](https://programminghistorian.org/en/lessons/)
 
-**Free** Peer reviewed introductory courses for digital humanists.\
+**Free** peer reviewed introductory courses for digital humanists\
 *(Python, R, Unity, QGIS, HTML, Regular Expressions)*
 #### [Software Carpentry](https://software-carpentry.org/lessons/)
 
-**Free** Foundational coding and data science skills for researchers.\
+**Free** foundational coding and data science skills for researchers\
 *(Python, R, OpenRefine, Unix Shell, Git)*
 
 ## [Oct 15 - Oct 21, 2018](/content/2018/42/README.md)
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐625)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐623)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -137,17 +169,8 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 #### [Hexlet.io](https://en.hexlet.io)
 
-**Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.\
+**Mixed** self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general\
 *(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
-
-## [Dec 05 - Dec 11, 2016](/content/2016/49/README.md)
-
-### Beginner
-
-#### [GitHub Learning Lab](https://lab.github.com/)
-
-**Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
-*(Git, GitHub)*
 
 ## [Apr 25 - May 01, 2016](/content/2016/17/README.md)
 
@@ -182,7 +205,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 #### [Codewars](https://www.codewars.com/)
 
-**Free** code challenges. Compare your solution with those of others.\
+**Free** code challenges - compare your solution with those of others\
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
 ## [Feb 09 - Feb 15, 2015](/content/2015/6/README.md)
@@ -191,11 +214,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 #### [Codecademy](https://www.codecademy.com/)
 
-**Free** platform for learning to code in web technologies\
-*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
+**Freemium** platform for learning to code in many different programming languages\
+*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP, C++, Java)*
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
 
-**Free** interactive 1-hour course to learn the very basics of web development\
+**Free** interactive 1-hour courses to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 #### [Treehouse](https://teamtreehouse.com/)
 
@@ -207,31 +230,23 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *(CSS)*
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
 
-**Freemium** marketplace of courses from third party providers. Quality may vary.\
+**Freemium** marketplace of courses from third party providers - quality may vary\
 *(HTML, CSS, JavaScript, Ruby, Rails, Python, iOS, Android)*
 #### [Code Avengers](https://www.codeavengers.com/)
 
-**Freemium** platform for basic web and app develoment courses\
-*(HTML, CSS, JavaScript)*
-#### [learn.shayhowe.com](https://learn.shayhowe.com/)
-
-**Free** beginner to intermediate guides on web development\
+**Freemium** platform for basic web and app development courses\
 *(HTML, CSS, JavaScript)*
 #### [HTML Dog](https://www.htmldog.com/)
 
 **Free** beginner and intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
-#### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
-
-**Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
-*(HTML, CSS, JavaScript, AngularJS, Rails)*
 
 ### Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
 
 **Free** intermediate to advanced courses on how to program drawings, animations, games and webpages and more advanced computer science topics\
-*(HTML, CSS, JavaScript, algorithms, cryptography)*
+*(HTML, CSS, JavaScript, SQL, algorithms, cryptography)*
 #### [Udacity](https://www.udacity.com/)
 
 **Free** platform for computer science and web development courses\
@@ -252,17 +267,9 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 **Free** crowdsourced mentorship platform of programming exercises and code reviews\
 *(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
-#### [Stanford on iTunes U](https://itunes.stanford.edu/)
-
-**Free** programming and mobile development courses on iTunes from Stanford University\
-*(programming, startups, iOS)*
-#### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48\&sort=popular)
-
-**Paid** platform for web development courses\
-*(JavaScript, AngularJS, Java)*
 #### [CodeChef Problems](https://www.codechef.com/problems/easy/)
 
-**Free** intermediate to advanced programming problems\
+**Freemium** intermediate to advanced programming problems\
 *(programming)*
 #### [CodingBat](https://codingbat.com/)
 
@@ -271,15 +278,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Advanced
 
-#### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)
-
-**Free** courses from MIT on advanced computer science topics\
-*(varied and extensive computer science topics, C, C++, ..)*
 #### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
 
-**Free** platform for courses from universities and organizations worldwide\
+**Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐44k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐48k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*

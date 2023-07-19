@@ -2,7 +2,7 @@
 
 A curated list for when naming things is done right.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / [Weekly](/content/gruhn/awesome-naming/week/README.md) / Overview ]
 
@@ -78,7 +78,7 @@ This is a curated list for when naming things is done right.
 ## Libraries and Frameworks
 
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
-*   [Puppeteer (⭐83k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐84k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
 *   [uppy (⭐27k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
@@ -105,6 +105,7 @@ This is a curated list for when naming things is done right.
 
 ## Theoretical Computer Science
 
+*   [Busy Beaver](https://en.wikipedia.org/wiki/Busy_beaver) - Turing machines that produce numbers so insanly large, no other algorithm can keep up with them.
 *   [Clique problem](https://en.wikipedia.org/wiki/Clique_problem) - The problem of finding groups of mutual friends in a network of people with friendship relations. Or more general, finding complete subgraphs.
 *   [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - A game world that showcases how astonishing complexity can arise from very simple ingredients.
 *   [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undeciable questions like the halting problem.

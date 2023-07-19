@@ -159,6 +159,7 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [VidocqH/lsp-lens.nvim (⭐110)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
 *   [chrisgrieser/nvim-dr-lsp (⭐6)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
 *   [creativenull/efmls-configs-nvim (⭐51)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
+*   [creativenull/diagnosticls-configs-nvim (⭐66)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 
 ##### LSP Installer
 
@@ -387,6 +388,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [RRethy/nvim-base16 (⭐378)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
 *   [fenetikm/falcon (⭐651)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 *   [andersevenrud/nordic.nvim (⭐167)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
+*   [AlexvZyl/nordic.nvim (⭐263)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
 *   [shaunsingh/nord.nvim (⭐650)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
 *   [svrana/neosolarized.nvim (⭐120)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
 *   [ishan9299/nvim-solarized-lua (⭐151)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
@@ -653,6 +655,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ofirgall/goto-breakpoints.nvim (⭐22)](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints for nvim-dap.
 *   [andrewferrier/debugprint.nvim (⭐142)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 *   [t-troebst/perfanno.nvim (⭐122)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
+*   [niuiic/dap-utils (⭐2)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
 
 #### Quickfix
 
@@ -891,6 +894,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [\~nedia/auto-format.nvim](https://git.sr.ht/~nedia/auto-format.nvim) - Does no formatting by itself, but sets up an autocmd to format on save, preferring null-ls over LSP client formatting.
 *   [tenxsoydev/tabs-vs-spaces.nvim (⭐12)](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
 *   [bennypowers/svgo.nvim (⭐1)](https://github.com/bennypowers/svgo.nvim) - Optimize SVG files.
+*   [niuiic/format.nvim (⭐3)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
 
 #### Indent
 

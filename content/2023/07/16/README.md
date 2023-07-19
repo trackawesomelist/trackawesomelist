@@ -1,18 +1,28 @@
 # Awesome List Updates on Jul 16, 2023
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [1. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### (requires Neovim 0.5)
+
+*   [creativenull/diagnosticls-configs-nvim (⭐66)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
+
+### Debugging / Diagnostics
+
+*   [niuiic/dap-utils (⭐2)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
+
+## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Sensors / Pressure
 
 *   [D6F-PH (⭐0)](https://github.com/ekspla/D6F-PH) - MicroPython module for differential pressure sensor, D6F-PH (OMRON).
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -24,13 +34,13 @@
 *   [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 *   [Inside the AI Factory: the humans that make tech seem human - The Verge](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots?s=08)
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo and Video Galleries
 
 *   [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐177)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -48,7 +58,7 @@
 
 *   [Aptabase](https://aptabase.com) — Open Source, Privacy-Friendly and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron and many others. Free for up to 20.000 events per month.
 
-## [5. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Editors
 
@@ -72,4 +82,5 @@
 
 ---
 
+- Prev: [Jul 17, 2023](/content/2023/07/17/README.md)
 - Next: [Jul 15, 2023](/content/2023/07/15/README.md)

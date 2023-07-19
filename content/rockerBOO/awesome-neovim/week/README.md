@@ -6,11 +6,22 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [AlexvZyl/nordic.nvim (⭐263)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
+
+### Formatting / Diagnostics
+
+*   [niuiic/format.nvim (⭐3)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [creativenull/efmls-configs-nvim (⭐51)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
+*   [creativenull/diagnosticls-configs-nvim (⭐66)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -19,6 +30,10 @@ Collections of awesome neovim plugins.
 ### Tabline / Diagnostics
 
 *   [tomiis4/BufferTabs.nvim (⭐8)](https://github.com/tomiis4/BufferTabs.nvim) - Simple and Fancy tabline.
+
+### Debugging / Diagnostics
+
+*   [niuiic/dap-utils (⭐2)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
 
 ### Fennel / Diagnostics
 

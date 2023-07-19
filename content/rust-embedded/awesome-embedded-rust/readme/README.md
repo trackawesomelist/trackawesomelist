@@ -102,7 +102,7 @@ This project is developed and maintained by the [Resources team][team].
 
 In 2018 the Rust community created an embedded working group to help drive adoption in the Rust ecosystem.
 
-*   [Embedded WG (⭐1.6k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
+*   [Embedded WG (⭐1.7k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
 
 ### Community Chat Rooms
 
@@ -166,14 +166,14 @@ In 2018 the Rust community created an embedded working group to help drive adopt
 *   [Building a sailing starter board with Rust (RTIC)](https://gill.net.in/posts/stm32-pcb-sailing-and-rust/) A step by step story/guide to build STM32 based PCB and program it with rust for fun and games.
 *   [STM32F4xx with Embedded Rust at the HAL](https://apollolabsblog.hashnode.dev/series/stm32f4-embedded-rust-hal) A blog containing a series of tutorials demonstrating the use of several peripherals through simple examples leveraging the stm32f4xx-hal crate.
 *   [Embedded Rust programming playlist](https://www.youtube.com/playlist?list=PLP_X41VhYn5X6Wwjnm0bRwI3n2pdaszxU) Various livestreams with Embedded Rust live coding
-*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐23)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
+*   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐26)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
     \[Ferrous Systems]: <https://ferrous-systems.com>
 
 ## Tools
 
 *   [xargo (⭐1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build rust runtime for your own embedded system.
-    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐246)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
-*   [svd2rust (⭐564)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+    *   xargo is great but it's in maintenance mode, [cargo-xbuild (⭐247)](https://github.com/rust-osdev/cargo-xbuild) is catching up as intended replacement.
+*   [svd2rust (⭐566)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 *   [edc2svd (⭐4)](https://github.com/kiffie/edc2svd) Generate SVD files for PIC32 devices from EDC files. - ![crates.io](https://img.shields.io/crates/v/edc2svd.svg)
 *   [embedded-hal-mock] Mock implementation of `embedded-hal` traits for testing without accessing real hardware. - ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
 *   [bindgen](https://crates.io/crates/bindgen) Automatically generates Rust FFI bindings to C and C++ libraries. - ![crates.io](https://img.shields.io/crates/v/bindgen.svg)
@@ -186,17 +186,17 @@ In 2018 the Rust community created an embedded working group to help drive adopt
 *   [cargo-bloat (⭐1.9k)](https://github.com/RazrFalcon/cargo-bloat) Find out what takes most of the space in your executable.
 *   [cargo-call-stack](https://crates.io/crates/cargo-call-stack) Static, whole program stack usage analyzer.
 *   [cargo-dfu](https://crates.io/crates/cargo-dfu) Cargo extension for flashing embedded rust programs via DFU.
-*   [espflash (⭐323)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
-*   [espup (⭐120)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+*   [espflash (⭐334)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
+*   [espup (⭐128)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
 *   [uf2 (⭐23)](https://github.com/sajattack/uf2conv-rs) Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - ![crates.io](https://img.shields.io/crates/v/uf2.svg)
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by \[Ferrous Systems] to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
-    *   [Probe Run (⭐586)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
-    *   [defmt (⭐548)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [flip-link (⭐174)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐240)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [Probe Run (⭐597)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
+    *   [defmt (⭐554)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+    *   [flip-link (⭐176)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐242)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐8)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
-*   [embedded-hal-compat (⭐7)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
-*   [Embassy start (⭐23)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐2.3k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
+*   [embedded-hal-compat (⭐9)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
+*   [Embassy start (⭐22)](https://github.com/titanclass/embassy-start) is a GitHub repo template for setting up async embedded Rust projects that use [Embassy (⭐2.4k)](https://github.com/embassy-rs/embassy). This particular template targets nRF hardware and networking using the Uarte for the purposes of illustration only.
 
 [embedded-hal-mock]: https://crates.io/crates/embedded-hal-mock
 
@@ -205,8 +205,8 @@ In 2018 the Rust community created an embedded working group to help drive adopt
 ### Real-time Operating System (RTOS)
 
 *   [Drone OS](https://drone-os.github.io) An Embedded Operating System for writing real-time applications in Rust.
-*   [FreeRTOS.rs (⭐219)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
-*   [FreeRTOS-rust (⭐250)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
+*   [FreeRTOS.rs (⭐221)](https://github.com/hashmismatch/freertos.rs) Rust interface for the FreeRTOS API
+*   [FreeRTOS-rust (⭐256)](https://github.com/lobaro/FreeRTOS-rust) Rust interface for FreeRTOS with Rust entry point and build support crate.
 *   [RIOT-OS](https://doc.riot-os.org/using-rust.html) directly supports applications written in Rust, both in terms of build system integration and by having safe and idiomatic wrappers.
 *   [Tock](https://www.tockos.org) An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 *   [Hubris (⭐2.3k)](https://github.com/oxidecomputer/hubris) A real-time operating systems built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.
@@ -806,75 +806,80 @@ Otherwise please add it to the [WIP section](#WIP) below.
 5.  [ADXL313] - SPI - 3-axis accelerometer - ![crates.io](https://img.shields.io/crates/v/adxl313.svg)
 6.  [ADXL343] - I2C - 3-axis accelerometer - ![crates.io](https://img.shields.io/crates/v/adxl343.svg)
 7.  [ADXL355] - SPI - 3-axis accelerometer - [Intro blog post][43] - ![crates.io](https://img.shields.io/crates/v/adxl355.svg)
-8.  [AHT20] - I2C - Humidity and temperature sensor - [github (⭐2)](https://github.com/chocol4te/aht20) - ![crates.io](https://img.shields.io/crates/v/aht20.svg)
-9.  [AHT20-driver] - I2C - Humidity and temperature sensor - [Intro blog post][61] - [github][62] - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
-10. [AnyLeaf] - I2C - pH sensor module - [github (⭐3)](https://github.com/AnyLeaf/ph-rust) - ![crates.io](https://img.shields.io/crates/v/anyleaf.svg)
-11. [AT86RF212] - SPI - Low power IEEE 802.15.4-2011 ISM RF Transceiver - [Intro blog post][36] - ![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)
-12. [BlueNRG] - SPI - driver for BlueNRG-MS Bluetooth module - [Intro post][15] ![crates.io](https://img.shields.io/crates/v/bluenrg.svg)
-13. [BNO055] - I2C - Bosch Sensortec BNO055 9-axis IMU driver - [Intro post][18] ![crates.io](https://img.shields.io/crates/v/bno055.svg)
-14. [CD74HC4067] - GPIO - 16-channel digital and analog multiplexer - [Intro blog post][55] - [github][54] - ![crates.io](https://img.shields.io/crates/v/cd74hc4067.svg)
-15. [dht-sensor] - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github][48] - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
-16. [DRV8825] - DRV8825 Stepper Motor Driver (based on [Stepper]) - [Intro blog post][52] - ![crates.io](https://img.shields.io/crates/v/drv8825.svg)
-17. [DS1307] - I2C - Real-time clock driver - [Intro blog post][13] - ![crates.io](https://img.shields.io/crates/v/ds1307.svg)
-18. [ebyte-e32] - SERIAL - Ebyte E32 LoRa module driver - [Intro blog post][67] - ![crates.io](https://img.shields.io/crates/v/ebyte-e32.svg)
-19. [EEPROM24x] - I2C - 24x series serial EEPROM driver - [Intro blog post][12] - ![crates.io](https://img.shields.io/crates/v/eeprom24x.svg)
-20. [embedded-ccs811] - I2C - Gas and VOC sensor driver for monitoring indoor air quality - [Intro blog post][49] - ![crates.io](https://img.shields.io/crates/v/embedded-ccs811.svg)
-21. [embedded-sdmmc] - SPI - SD/MMC Card Driver with MS-DOS Partition and FAT16/FAT32 support - [Intro post][20] ![crates.io](https://img.shields.io/crates/v/embedded-sdmmc.svg)
-22. [ENC28J60] - SPI - Ethernet controller - [Intro blog post][4] - ![crates.io](https://img.shields.io/crates/v/enc28j60.svg)
-23. [HC-12] - SERIAL - Wireless serial transceiver module - [Intro blog post][56] - [github][53] - ![crates.io](https://img.shields.io/crates/v/hc12-at.svg)
-24. [HTS221] - I2C - Humidity and temperature sensor - [Intro blog post][7] - ![crates.io](https://img.shields.io/crates/v/hts221.svg)
-25. [IIS2MDC] - I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - ![crates.io](https://img.shields.io/crates/v/iis2mdc.svg)
-26. [ISM330DHCX] - I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - ![crates.io](https://img.shields.io/crates/v/ism330dhcx.svg)
-27. [keypad] - GPIO - Keypad matrix circuits - [Intro post][14] - ![crates.io](https://img.shields.io/crates/v/keypad.svg)
-28. [KXCJ9] - I2C - KXCJ9/KXCJB 3-axis accelerometers - [Intro blog post][24] - ![crates.io](https://img.shields.io/crates/v/kxcj9.svg)
-29. [L3GD20] - SPI - Gyroscope - [Intro blog post][1&2] - ![crates.io](https://img.shields.io/crates/v/l3gd20.svg)
-30. [LSM303DLHC] - I2C - Accelerometer + compass (magnetometer) - [Intro blog post][1&2] - ![crates.io](https://img.shields.io/crates/v/lsm303dlhc.svg)
-31. [MAX6955] - I2C - Driver for Alphanumeric LED display driver - [Intro blog post][46] - ![crates.io](https://img.shields.io/crates/v/max6955.svg)
-32. [MAX116xx-10bit] - SPI - Driver for the MAX11619-MAX11621, MAX11624 and MAX11625 10-bit ADCs - [Intro blog post][59] - ![crates.io](https://img.shields.io/crates/v/max116xx-10bit.svg)
-33. [MCP25LCXX] - SPI - Driver for Microchip's 25LC series of EEPROMs - ![crates.io](https://img.shields.io/crates/v/microchip-eeprom-25lcxx.svg)
-34. [MCP3008] - SPI - 8 channel 10-bit ADC - [Intro blog post][3] - ![crates.io](https://img.shields.io/crates/v/adc-mcp3008.svg)
-35. [MCP3425] - I2C - 16-bit ADC - [Intro blog post][5] - ![crates.io](https://img.shields.io/crates/v/mcp3425.svg)
-36. [MCP794xx] - I2C - Real-time clock / calendar driver - [Intro blog post][26] - ![crates.io](https://img.shields.io/crates/v/mcp794xx.svg)
-37. [MMA7660FC] - I2C - 3-axis accelerometer - [Intro blog post][9]
-38. [OPT300x] - I2C - Ambient light sensor family driver  - [Intro blog post][30] - ![crates.io](https://img.shields.io/crates/v/opt300x.svg)
-39. [PAC194X] - I2C - Single/multi channel power monitor - [Intro blog post][63] - ![crates.io](https://img.shields.io/crates/v/pac194x)
-40. [port-expander] - I2C - Driver for I2C port expanders (supports `PCA95xx`, `PCF85xx`) - [Intro blog post][58] - ![crates.io](https://img.shields.io/crates/v/port-expander.svg)
-41. [pwm-pca9685] - I2C - 16-channel, 12-bit PWM/Servo/LED controller - [Intro blog post][32] - ![crates.io](https://img.shields.io/crates/v/pwm-pca9685.svg)
-42. [rainbow-hat-rs] - I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - [github][57] - ![crates.io](https://img.shields.io/crates/v/rainbow-hat-rs.svg)
-43. [rotary-encoder-hal] - GPIO - A rotary encoder driver using `embedded-hal` - [Intro blog post][28] - ![crates.io](https://img.shields.io/crates/v/rotary-encoder-hal.svg)
-44. [sega-controller] - GPIO - Sega controller input - [github][68] - ![crates.io](https://img.shields.io/crates/v/sega-controller.svg)
-45. [SGP30] - I2C - Gas sensor - [Intro blog post][6] - ![crates.io](https://img.shields.io/crates/v/sgp30.svg)
-46. [SH1106] - I2C - Monochrome OLED display controller - [Intro post][19] ![crates.io](https://img.shields.io/crates/v/sh1106.svg)
-47. [shared-bus] - I2C - utility driver for sharing a bus between multiple devices - [Intro post][16] ![crates.io](https://img.shields.io/crates/v/shared-bus.svg)
-48. [shift-register-driver] - GPIO - Shift register - [Intro blog post][10] - ![crates.io](https://img.shields.io/crates/v/shift-register-driver.svg)
-49. [Si4703] - I2C - FM radio turner (receiver) driver  - [Intro blog post][31] - ![crates.io](https://img.shields.io/crates/v/si4703.svg)
-50. [SRAM23x] - SPI - Microchip 23x series serial SRAM/NVSRAM driver - [Intro blog post][51] - ![crates.io](https://img.shields.io/crates/v/sram23x.svg)
-51. [SSD1306] - I2C/SPI - OLED display controller - [Intro blog post][8] - ![crates.io](https://img.shields.io/crates/v/ssd1306.svg)
-52. [SSD1309] - I2C/SPI - OLED display controller - [Intro blog post][60] - ![crates.io](https://img.shields.io/crates/v/ssd1309.svg)
-53. [STSPIN220] - STSPIN220 Stepper Motor Driver (based on [Stepper]) - [Intro blog post][52] - ![crates.io](https://img.shields.io/crates/v/stspin220.svg)
-54. [Sx127x] - SPI - Long Range Low Power Sub GHz (Gfsk, LoRa) RF Transceiver - [Intro blog post][34] - ![crates.io](https://img.shields.io/crates/v/radio-sx127x.svg)
-55. [Sx128x] - SPI - Long range, low power 2.4 GHz (Gfsk, Flrc, LoRa) RF Transceiver - [Intro blog post][35] - ![crates.io](https://img.shields.io/crates/v/radio-sx128x.svg)
-56. [TC72] - SPI - Microchip TC72 temperature sensor - ![crates.io](https://img.shields.io/crates/v/microchip-tc72r-rs.svg)
-57. [TCN75A] - I2C - Microchip TCN75A temperature sensor - ![crates.io](https://img.shields.io/crates/v/tcn75a.svg)
-58. [TMP006] - I2C - Contact-less infrared (IR) thermopile temperature sensor driver - [Intro post][17] ![crates.io](https://img.shields.io/crates/v/tmp006.svg)
-59. [TMP1x2] - I2C - TMP102 and TMP112x temperature sensor driver - [Intro blog post][22] ![crates.io](https://img.shields.io/crates/v/tmp1x2.svg)
-60. [TSIC] - GPIO - TSIC 306 temperature sensor driver - [Intro blog post][50] ![crates.io](https://img.shields.io/crates/v/tsic.svg)
-61. [TSL256X] - I2C - Light Intensity Sensor - [Intro blog post][11] - ![crates.io](https://img.shields.io/crates/v/tsl256x.svg)
-62. [VEML6030/VEML7700] - I2C - Ambient light sensors - [Intro blog post][33] - ![crates.io](https://img.shields.io/crates/v/veml6030.svg)
-63. [VEML6075] - I2C - UVA and UVB light sensor - [Intro blog post][27] - ![crates.io](https://img.shields.io/crates/v/veml6075.svg)
-64. [usbd-serial] - USB CDC-ACM class (serial) implementation - [github][37] - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
-65. [usbd-hid] - USB HID class implementation - [github][38] - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
-66. [usbd-hid-device] - USB HID class implementation without `unsafe` - [github][40] - ![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)
-67. [usbd-human-interface-device] - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github][65] - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
-68. [usbd-midi] - USB MIDI class implementation - [github][41] - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
-69. [usbd-webusb] - USB webUSB class implementation - [github][39] - ![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)
-70. [SHTCx] - I2C - Temperature / humidity sensors - [github][42] - ![crates.io](https://img.shields.io/crates/v/shtcx.svg)
-71. [ST7789] - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github][44] - ![crates.io](https://img.shields.io/crates/v/st7789.svg)
-72. [DW1000] - SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - [Article][45] - ![crates.io](https://img.shields.io/crates/v/dw1000.svg)
-73. [Adafruit-7segment] - I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - [github][47] - ![crates.io](https://img.shields.io/crates/v/adafruit-7segment.svg)
-74. [ST7565] - SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - [github][64] - ![crates.io](https://img.shields.io/crates/v/st7565.svg)
-75. [tb6612fng] - A `no_std` driver for the TB6612FNG motor driver - ![Crates.io](https://img.shields.io/crates/v/tb6612fng.svg)
-76. [vl53l1x-uld] - I2C - A pure-rust driver for the [ST VL53L1X](https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html) - ![crates.io](https://img.shields.io/crates/v/vl53l1x-uld.svg)
+8.  [AFE4404] - I2C - Pulse oximeter - ![crates.io](https://img.shields.io/crates/v/afe4404.svg)
+9.  [AHT20] - I2C - Humidity and temperature sensor - [github (⭐2)](https://github.com/chocol4te/aht20) - ![crates.io](https://img.shields.io/crates/v/aht20.svg)
+10. [AHT20-driver] - I2C - Humidity and temperature sensor - [Intro blog post][61] - [github][62] - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
+11. [AnyLeaf] - I2C - pH sensor module - [github (⭐4)](https://github.com/AnyLeaf/ph-rust) - ![crates.io](https://img.shields.io/crates/v/anyleaf.svg)
+12. [AT86RF212] - SPI - Low power IEEE 802.15.4-2011 ISM RF Transceiver - [Intro blog post][36] - ![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)
+13. [BlueNRG] - SPI - driver for BlueNRG-MS Bluetooth module - [Intro post][15] ![crates.io](https://img.shields.io/crates/v/bluenrg.svg)
+14. [BMA400] - I2C/SPI - Bosch 12-bit 3-axis accelerometer - [github][70] ![crates.io](https://img.shields.io/crates/v/bma400.svg)
+15. [BNO055] - I2C - Bosch Sensortec BNO055 9-axis IMU driver - [Intro post][18] ![crates.io](https://img.shields.io/crates/v/bno055.svg)
+16. [CD74HC4067] - GPIO - 16-channel digital and analog multiplexer - [Intro blog post][55] - [github][54] - ![crates.io](https://img.shields.io/crates/v/cd74hc4067.svg)
+17. [dht-sensor] - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github][48] - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
+18. [DRV8825] - DRV8825 Stepper Motor Driver (based on [Stepper]) - [Intro blog post][52] - ![crates.io](https://img.shields.io/crates/v/drv8825.svg)
+19. [DS1307] - I2C - Real-time clock driver - [Intro blog post][13] - ![crates.io](https://img.shields.io/crates/v/ds1307.svg)
+20. [ebyte-e32] - SERIAL - Ebyte E32 LoRa module driver - [Intro blog post][67] - ![crates.io](https://img.shields.io/crates/v/ebyte-e32.svg)
+21. [EEPROM24x] - I2C - 24x series serial EEPROM driver - [Intro blog post][12] - ![crates.io](https://img.shields.io/crates/v/eeprom24x.svg)
+22. [embedded-ccs811] - I2C - Gas and VOC sensor driver for monitoring indoor air quality - [Intro blog post][49] - ![crates.io](https://img.shields.io/crates/v/embedded-ccs811.svg)
+23. [embedded-sdmmc] - SPI - SD/MMC Card Driver with MS-DOS Partition and FAT16/FAT32 support - [Intro post][20] ![crates.io](https://img.shields.io/crates/v/embedded-sdmmc.svg)
+24. [ENC28J60] - SPI - Ethernet controller - [Intro blog post][4] - ![crates.io](https://img.shields.io/crates/v/enc28j60.svg)
+25. [FUSB302B] - I2C - Programmable USB Type‐C Controller with USB Power Delivery - [github][69]
+26. [HC-12] - SERIAL - Wireless serial transceiver module - [Intro blog post][56] - [github][53] - ![crates.io](https://img.shields.io/crates/v/hc12-at.svg)
+27. [HTS221] - I2C - Humidity and temperature sensor - [Intro blog post][7] - ![crates.io](https://img.shields.io/crates/v/hts221.svg)
+28. [IIS2MDC] - I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - ![crates.io](https://img.shields.io/crates/v/iis2mdc.svg)
+29. [ISM330DHCX] - I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - ![crates.io](https://img.shields.io/crates/v/ism330dhcx.svg)
+30. [keypad] - GPIO - Keypad matrix circuits - [Intro post][14] - ![crates.io](https://img.shields.io/crates/v/keypad.svg)
+31. [KXCJ9] - I2C - KXCJ9/KXCJB 3-axis accelerometers - [Intro blog post][24] - ![crates.io](https://img.shields.io/crates/v/kxcj9.svg)
+32. [L3GD20] - SPI - Gyroscope - [Intro blog post][1&2] - ![crates.io](https://img.shields.io/crates/v/l3gd20.svg)
+33. [LSM303DLHC] - I2C - Accelerometer + compass (magnetometer) - [Intro blog post][1&2] - ![crates.io](https://img.shields.io/crates/v/lsm303dlhc.svg)
+34. [MAX6955] - I2C - Driver for Alphanumeric LED display driver - [Intro blog post][46] - ![crates.io](https://img.shields.io/crates/v/max6955.svg)
+35. [MAX116xx-10bit] - SPI - Driver for the MAX11619-MAX11621, MAX11624 and MAX11625 10-bit ADCs - [Intro blog post][59] - ![crates.io](https://img.shields.io/crates/v/max116xx-10bit.svg)
+36. [MCP25LCXX] - SPI - Driver for Microchip's 25LC series of EEPROMs - ![crates.io](https://img.shields.io/crates/v/microchip-eeprom-25lcxx.svg)
+37. [MCP3008] - SPI - 8 channel 10-bit ADC - [Intro blog post][3] - ![crates.io](https://img.shields.io/crates/v/adc-mcp3008.svg)
+38. [MCP3425] - I2C - 16-bit ADC - [Intro blog post][5] - ![crates.io](https://img.shields.io/crates/v/mcp3425.svg)
+39. [MCP794xx] - I2C - Real-time clock / calendar driver - [Intro blog post][26] - ![crates.io](https://img.shields.io/crates/v/mcp794xx.svg)
+40. [MMA7660FC] - I2C - 3-axis accelerometer - [Intro blog post][9]
+41. [OPT300x] - I2C - Ambient light sensor family driver  - [Intro blog post][30] - ![crates.io](https://img.shields.io/crates/v/opt300x.svg)
+42. [PAC194X] - I2C - Single/multi channel power monitor - [Intro blog post][63] - ![crates.io](https://img.shields.io/crates/v/pac194x)
+43. [port-expander] - I2C - Driver for I2C port expanders (supports `PCA95xx`, `PCF85xx`) - [Intro blog post][58] - ![crates.io](https://img.shields.io/crates/v/port-expander.svg)
+44. [pwm-pca9685] - I2C - 16-channel, 12-bit PWM/Servo/LED controller - [Intro blog post][32] - ![crates.io](https://img.shields.io/crates/v/pwm-pca9685.svg)
+45. [rainbow-hat-rs] - I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - [github][57] - ![crates.io](https://img.shields.io/crates/v/rainbow-hat-rs.svg)
+46. [rotary-encoder-hal] - GPIO - A rotary encoder driver using `embedded-hal` - [Intro blog post][28] - ![crates.io](https://img.shields.io/crates/v/rotary-encoder-hal.svg)
+47. [sega-controller] - GPIO - Sega controller input - [github][68] - ![crates.io](https://img.shields.io/crates/v/sega-controller.svg)
+48. [SGP30] - I2C - Gas sensor - [Intro blog post][6] - ![crates.io](https://img.shields.io/crates/v/sgp30.svg)
+49. [SH1106] - I2C - Monochrome OLED display controller - [Intro post][19] ![crates.io](https://img.shields.io/crates/v/sh1106.svg)
+50. [shared-bus] - I2C - utility driver for sharing a bus between multiple devices - [Intro post][16] ![crates.io](https://img.shields.io/crates/v/shared-bus.svg)
+51. [shift-register-driver] - GPIO - Shift register - [Intro blog post][10] - ![crates.io](https://img.shields.io/crates/v/shift-register-driver.svg)
+52. [Si4703] - I2C - FM radio turner (receiver) driver  - [Intro blog post][31] - ![crates.io](https://img.shields.io/crates/v/si4703.svg)
+53. [SRAM23x] - SPI - Microchip 23x series serial SRAM/NVSRAM driver - [Intro blog post][51] - ![crates.io](https://img.shields.io/crates/v/sram23x.svg)
+54. [SSD1306] - I2C/SPI - OLED display controller - [Intro blog post][8] - ![crates.io](https://img.shields.io/crates/v/ssd1306.svg)
+55. [SSD1309] - I2C/SPI - OLED display controller - [Intro blog post][60] - ![crates.io](https://img.shields.io/crates/v/ssd1309.svg)
+56. [STSPIN220] - STSPIN220 Stepper Motor Driver (based on [Stepper]) - [Intro blog post][52] - ![crates.io](https://img.shields.io/crates/v/stspin220.svg)
+57. [Sx127x] - SPI - Long Range Low Power Sub GHz (Gfsk, LoRa) RF Transceiver - [Intro blog post][34] - ![crates.io](https://img.shields.io/crates/v/radio-sx127x.svg)
+58. [Sx128x] - SPI - Long range, low power 2.4 GHz (Gfsk, Flrc, LoRa) RF Transceiver - [Intro blog post][35] - ![crates.io](https://img.shields.io/crates/v/radio-sx128x.svg)
+59. [TC72] - SPI - Microchip TC72 temperature sensor - ![crates.io](https://img.shields.io/crates/v/microchip-tc72r-rs.svg)
+60. [TCN75A] - I2C - Microchip TCN75A temperature sensor - ![crates.io](https://img.shields.io/crates/v/tcn75a.svg)
+61. [TMP006] - I2C - Contact-less infrared (IR) thermopile temperature sensor driver - [Intro post][17] ![crates.io](https://img.shields.io/crates/v/tmp006.svg)
+62. [TMP1x2] - I2C - TMP102 and TMP112x temperature sensor driver - [Intro blog post][22] ![crates.io](https://img.shields.io/crates/v/tmp1x2.svg)
+63. [TSIC] - GPIO - TSIC 306 temperature sensor driver - [Intro blog post][50] ![crates.io](https://img.shields.io/crates/v/tsic.svg)
+64. [TSL256X] - I2C - Light Intensity Sensor - [Intro blog post][11] - ![crates.io](https://img.shields.io/crates/v/tsl256x.svg)
+65. [VEML6030/VEML7700] - I2C - Ambient light sensors - [Intro blog post][33] - ![crates.io](https://img.shields.io/crates/v/veml6030.svg)
+66. [VEML6075] - I2C - UVA and UVB light sensor - [Intro blog post][27] - ![crates.io](https://img.shields.io/crates/v/veml6075.svg)
+67. [usbd-serial] - USB CDC-ACM class (serial) implementation - [github][37] - ![crates.io](https://img.shields.io/crates/v/usbd-serial.svg)
+68. [usbd-hid] - USB HID class implementation - [github][38] - ![crates.io](https://img.shields.io/crates/v/usbd-hid.svg)
+69. [usbd-hid-device] - USB HID class implementation without `unsafe` - [github][40] - ![crates.io](https://img.shields.io/crates/v/usbd-hid-device.svg)
+70. [usbd-human-interface-device] - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github][65] - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
+71. [usbd-midi] - USB MIDI class implementation - [github][41] - ![crates.io](https://img.shields.io/crates/v/usbd-midi.svg)
+72. [usbd-webusb] - USB webUSB class implementation - [github][39] - ![crates.io](https://img.shields.io/crates/v/usbd-webusb.svg)
+73. [SHTCx] - I2C - Temperature / humidity sensors - [github][42] - ![crates.io](https://img.shields.io/crates/v/shtcx.svg)
+74. [ST7789] - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github][44] - ![crates.io](https://img.shields.io/crates/v/st7789.svg)
+75. [DW1000] - SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - [Article][45] - ![crates.io](https://img.shields.io/crates/v/dw1000.svg)
+76. [Adafruit-7segment] - I2C - Driver for Adafruit 7-segment LED Numeric Backpack based on the ht16k33 chip - [github][47] - ![crates.io](https://img.shields.io/crates/v/adafruit-7segment.svg)
+77. [ST7565] - SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - [github][64] - ![crates.io](https://img.shields.io/crates/v/st7565.svg)
+78. [tb6612fng] - A `no_std` driver for the TB6612FNG motor driver - ![Crates.io](https://img.shields.io/crates/v/tb6612fng.svg)
+79. [vl53l1x-uld] - I2C - A pure-rust driver for the [ST VL53L1X](https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html) - ![crates.io](https://img.shields.io/crates/v/vl53l1x-uld.svg)
+80. [i2c-multiplexer] - I2C - An I2C Multiplexer library that supports the PCA9546 and TCA9546A chips - [github][71] - ![crates.io](https://img.shields.io/crates/v/i2c-multiplexer.svg)
+81. [SHT31-rs] - I2C - Fully supported SHT temperature / humidity sensors - [github][72] - ![crates.io](https://img.shields.io/crates/v/sht31.svg)
 
 [1&2]: http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/
 
@@ -996,7 +1001,7 @@ Otherwise please add it to the [WIP section](#WIP) below.
 
 [62]: https://github.com/anglerud/aht20-driver
 
-[63]: https://blog.kiranshila.com/blog/pac_rust_driver.md
+[63]: https://blog.kiranshila.com/post/pac_rust_driver
 
 [64]: https://github.com/Finomnis/st7565
 
@@ -1007,6 +1012,14 @@ Otherwise please add it to the [WIP section](#WIP) below.
 [67]: https://barafael.github.io/A-Platform-Agnostic-Driver-for-EBYTE-E32-LoRa-Modules/
 
 [68]: https://github.com/UnderLogic/sega-controller
+
+[69]: https://github.com/fmckeogh/usb-pd-rs
+
+[70]: https://github.com/cfrenette/bma400-rs
+
+[71]: https://github.com/FloppyDisck/i2c-multiplexer
+
+[72]: https://github.com/FloppyDisck/SHT31-rs
 
 [AD983x]: https://crates.io/crates/ad983x
 
@@ -1022,6 +1035,8 @@ Otherwise please add it to the [WIP section](#WIP) below.
 
 [ADXL355]: https://crates.io/crates/adxl355
 
+[AFE4404]: https://github.com/pulse-loop/afe4404
+
 [AHT20]: https://crates.io/crates/aht20
 
 [AHT20-driver]: https://crates.io/crates/aht20-driver
@@ -1031,6 +1046,8 @@ Otherwise please add it to the [WIP section](#WIP) below.
 [at86rf212]: https://crates.io/crates/radio-at86rf212
 
 [BlueNRG]: https://crates.io/crates/bluenrg
+
+[BMA400]: https://crates.io/crates/bma400
 
 [BNO055]: https://crates.io/crates/bno055
 
@@ -1049,6 +1066,8 @@ Otherwise please add it to the [WIP section](#WIP) below.
 [embedded-sdmmc]: https://crates.io/crates/embedded-sdmmc
 
 [ENC28J60]: https://crates.io/crates/enc28j60
+
+[FUSB302B]: https://github.com/fmckeogh/usb-pd-rs
 
 [HTS221]: https://crates.io/crates/hts221
 
@@ -1156,6 +1175,10 @@ Otherwise please add it to the [WIP section](#WIP) below.
 
 [vl53l1x-uld]: https://crates.io/crates/vl53l1x-uld
 
+[i2c-multiplexer]: https://crates.io/crates/i2c-multiplexer
+
+[SHT31-rs]: https://crates.io/crates/sht31
+
 *NOTE* You may be able to find even more driver crates by searching for the [`embedded-hal-driver`]
 keyword on crates.io!
 
@@ -1166,102 +1189,99 @@ keyword on crates.io!
 Work in progress drivers. Help the authors make these crates awesome!
 
 1.  [AFE4400] - SPI - Pulse oximeter
-2.  [AFE4404] - I2C - Pulse oximeter - ![crates.io](https://img.shields.io/crates/v/afe4404.svg)
-3.  [APDS9960] - I2C - Proximity, ambient light, RGB and gesture sensor - ![crates.io](https://img.shields.io/crates/v/apds9960.svg)
-4.  [AS5048A] - SPI - AMS AS5048A Magnetic Rotary Encoder
-5.  [AXP209] - I2C - Power management unit
-6.  [BH1750] - I2C - ambient light sensor (lux meter)
-7.  [BME280] - A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor. ![crates.io](https://img.shields.io/crates/v/bme280.svg)
-8.  [bme680] - I2C - Temperature / humidity / gas / pressure sensor - ![crates.io](https://img.shields.io/crates/v/bme680.svg)
-9.  [BMI160] - I2C / SPI - Inertial Measurement Unit - ![crates.io](https://img.shields.io/crates/v/bmi160.svg)
-10. [BMP280] - A platform agnostic driver to interface with the BMP280 pressure sensor ![crates.io](https://img.shields.io/crates/v/bmp280-ehal.svg)
-11. [CC1101] - SPI - Sub-1GHz RF Transceiver - ![crates.io](https://img.shields.io/crates/v/cc1101.svg)
-12. [DS3231] - I2C - real time clock
-13. [DS3234] - SPI - Real time clock
-14. [DS323x] - I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - ![crates.io](https://img.shields.io/crates/v/ds323x.svg)
-15. [epd-waveshare] - SPI - driver for E-Paper Modules from Waveshare ![crates.io](https://img.shields.io/crates/v/epd-waveshare.svg)
-16. [embedded-morse] - Output morse messages - ![crates.io](https://img.shields.io/crates/v/embedded-morse.svg)
-17. [embedded-nrf24l01] - SPI+GPIO - 2.4 GHz radio
-18. [Ft6x36] - I2C - Rust driver for focal tech touch screen FT6236, FT6336 - ![crates.io](https://img.shields.io/crates/v/ft6x36.svg)
-19. [grove-matrix-led-my9221-rs] - I2C - Rust driver for Grove RGB Matrix Led with my-9221 Driver - ![crates.io](https://img.shields.io/crates/v/grove-matrix-led-my9221-rs.svg)
-20. [GridEYE] - I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - ![crates.io](https://img.shields.io/crates/v/GridEYE.svg)
-21. [HC-SR04] - DIO - Ultrasound sensor
-22. [HD44780-driver] - GPIO - LCD controller - ![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)
-23. [HD44780] - Parallel port - LCD controller
-24. [HM11] - USART - HM-11 bluetooth module AT configuration crate - ![crates.io](https://img.shields.io/crates/v/hm11.svg)
-25. [HRS3300] - I2C - Heart rate sensor / monitor used in the PineTime smartwatch, for example. - ![crates.io](https://img.shields.io/crates/v/hrs3300.svg)
-26. [HDC20xx] - I2C - Temperature and humidity sensor compatible with HDC2080, HDC2021 and HDC2010. - ![crates.io](https://img.shields.io/crates/v/hdc20xx.svg)
-27. [hub75] - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
-28. [hzgrow-r502] - UART capacitive fingerprint reader - ![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)
-29. [iAQ-Core] - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
-30. [ILI9341] - SPI - TFT LCD display
-31. [INA260] - I2C - power monitor - ![crates.io](https://img.shields.io/crates/v/ina260.svg)
-32. [ISL29125] - I2C - RGB Color Light Sensor with IR Blocking Filter - ![crates.io](https://img.shields.io/crates/v/isl29125.svg)
-33. [IST7920] - SPI monochrome LCD display - ![crates.io](https://img.shields.io/crates/v/ist7920.svg)
-34. [LM75] - I2C - Temperature sensor and thermal watchdog - ![crates.io](https://img.shields.io/crates/v/lm75.svg)
-35. [LS010B7DH01] - SPI - Memory LCD
-36. [LSM303C] - A platform agnostic driver to interface with the LSM303C (accelerometer + compass) ![crates.io](https://img.shields.io/crates/v/lsm303c.svg)
-37. [LSM9DS1] - I2C/SPI - 9-axis motion sensor module ![crates.io](https://img.shields.io/crates/v/lsm9ds1.svg)
-38. [ltr-559] - I2C - Ambient Light Sensor and Proximity sensor ![crates.io](https://img.shields.io/crates/v/ltr-559.svg)
-39. [lvgl] - no\_std [LittleVGL (⭐12k)](https://github.com/littlevgl/lvgl) port - ![crates.io](https://img.shields.io/crates/v/lvgl.svg)
-40. [M95320] - SPI - STMicroelectronics Serial flash EEPROM - ![crates.io](https://img.shields.io/crates/v/m95320.svg)
-41. [MAG3110] - I2C - Magnetometer
-42. [MAX17048/9] - I2C - LiPo Fuel gauge, battery monitoring IC - ![crates.io](https://img.shields.io/crates/v/max17048.svg)
-43. [MAX170xx] - I2C - LiPo Fuel gauge, battery monitoring ICs compatible with MAX17043/4, MAX17048/9, MAX17058/9.
-44. [MAX3010x] - I2C - Pulse oximeter and heart-rate sensor. ATM Compatible with MAX30102. -![crates.io](https://img.shields.io/crates/v/max3010x.svg)
-45. [MAX31855] - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
-46. [MAX31865] - SPI - RTD to Digital converter - ![crates.io](https://img.shields.io/crates/v/max31865.svg)
-47. [MAX44009] - I2C - Ambient light sensor - ![crates.io](https://img.shields.io/crates/v/max44009.svg)
-48. [MAX7219] - SPI - LED display driver - ![crates.io](https://img.shields.io/crates/v/max7219.svg)
-49. [MCP4725] - I2C - 12-bit DAC - ![crates.io](https://img.shields.io/crates/v/mcp4725)
-50. [MCP49xx] - SPI - 8/10/12-bit DACs like MCP4921, MCP4922, MCP4801, etc. - ![crates.io](https://img.shields.io/crates/v/mcp49xx.svg)
-51. [MCP9808] - I2C - Temperature sensor - ![crates.io](https://img.shields.io/crates/v/mcp9808.svg)
-52. [MFRC522] - SPI - RFID tag reader/writer
-53. [midi-port] - UART - MIDI input - ![crates.io](https://img.shields.io/crates/v/midi-port.svg)
-54. [MLX9061x] - I2C - MLX90614/MLX90615 Contact-less infrared (IR) temperature sensor driver. - ![crates.io](https://img.shields.io/crates/v/mlx9061x.svg)
-55. [motor-driver] - Motor drivers: L298N, TB6612FNG, etc.
-56. [MPU6050] - I2C - no\_std driver for the MPU6050 ![crates.io](https://img.shields.io/crates/v/mpu6050.svg)
-57. [MPU9250] - no\_std driver for the MPU9250 (and other MPU\* devices) & onboard AK8963 (accelerometer + gyroscope +  magnetometer IMU) ![crates.io](https://img.shields.io/crates/v/mpu9250.svg)
-58. [NRF24L01] - SPI - 2.4 GHz wireless communication
-59. [OneWire] - 1wire - OneWire protocol implementation with drivers for devices such as [DS18B20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf) - ![crates.io](https://img.shields.io/crates/v/onewire.svg)
-60. [PCD8544] - SPI - 48x84 pixels matrix LCD controller
-61. [PCD8544\_rich][PCD8544_rich] - SPI - Rich driver for 48x84 pixels matrix LCD controller  - ![crates.io](https://img.shields.io/crates/v/pcd8544.svg)
-62. [PCF857x] - I2C - I/O expanders: PCF8574, PCF8574A, PCF8575 ![crates.io](https://img.shields.io/crates/v/pcf857x.svg)
-63. [radio-at86rf212] - SPI - Sub GHz 802.15.4 radio transceiver ![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)
-64. [RFM69] - SPI - ISM radio transceiver
-65. [RN2xx3] - Serial - A driver for the RN2483 / RN2903 LoRaWAN modems by Microchip
-66. [SCD30] - I2C - CO₂ sensor - ![crates.io](https://img.shields.io/crates/v/scd30.svg)
-67. [SHT2x] - I2C - temperature / humidity sensors
-68. [SHT3x] - I2C - Temperature / humidity sensors
-69. [SI5351] - I2C - clock generator
-70. [SI7021] - I2C - Humidity and temperature sensor
-71. [SPL06-007] - I2C - Pressure and temerature sensor - ![crates.io](https://img.shields.io/crates/v/spl06-007.svg)
-72. [spi-memory] - SPI - A generic driver for various SPI Flash and EEPROM chips - ![crates.io](https://img.shields.io/crates/v/spi-memory.svg)
-73. [SSD1320] - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1320.svg)
-74. [SSD1322] - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1322.svg)
-75. [SSD1351] - SPI - 16bit colour OLED display driver - ![crates.io](https://img.shields.io/crates/v/ssd1351.svg)
-76. [SSD1675] - SPI - Tri-color ePaper display controller - ![crates.io](https://img.shields.io/crates/v/ssd1675.svg)
-77. [st7032i] - I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - ![crates.io](https://img.shields.io/crates/v/st7032i.svg)
-78. [ST7735-lcd] - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix ![crates.io](https://img.shields.io/crates/v/st7735-lcd.svg)
-79. [ST7920] - SPI - LCD displays using the ST7920 controller ![crates.io](https://img.shields.io/crates/v/st7920.svg)
-80. [stm32-eth] - MCU - Ethernet
-81. [SX1278] - SPI - Long range (LoRa) transceiver
-82. [SX1509] - I2C - IO Expander / Keypad driver
-83. [TCS3472] - I2C - RGB color light sensor - ![crates.io](https://img.shields.io/crates/v/tcs3472.svg)
-84. [TPA2016D2] - I2C - A driver for interfacing with the Texas Instruments TPA2016D2 Class-D amplifier - ![crates.io](https://img.shields.io/crates/v/tpa2016d2.svg)
-85. [VEML6040] - I2C - RGBW color light sensor - ![crates.io](https://img.shields.io/crates/v/veml6040.svg)
-86. [VEML6070] - I2C - UVA light sensor - ![crates.io](https://img.shields.io/crates/v/veml6070.svg)
-87. [VEML7700] - I2C - Ambient light sensors - ![crates.io](https://img.shields.io/crates/v/veml7700.svg)
-88. [vesc-comm] - A driver for communicating with [VESC-compatible electronic speed controllers](http://vedder.se/2015/01/vesc-open-source-esc/) ![crates.io](https://img.shields.io/crates/v/vesc-comm.svg)
-89. [VL53L0X] - A platform agnostic driver to interface with the vl53l0x (time-of-flight sensor) ![crates.io](https://img.shields.io/crates/v/vl53l0x.svg)
-90. [w5500] - SPI - Ethernet Module with hardwired protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE - ![crates.io](https://img.shields.io/crates/v/w5500.svg)
-91. [xCA9548A] - I2C - I2C switches/multiplexers: TCA9548A, PCA9548A - ![crates.io](https://img.shields.io/crates/v/xca9548a.svg)
-92. [ublox-cellular-rs] - Serial - Cellular driver for the full Ublox cellular serial based family
-93. [atwinc1500-rs] - SPI - A host driver for the Atwinc1500 network controller
+2.  [APDS9960] - I2C - Proximity, ambient light, RGB and gesture sensor - ![crates.io](https://img.shields.io/crates/v/apds9960.svg)
+3.  [AS5048A] - SPI - AMS AS5048A Magnetic Rotary Encoder
+4.  [AXP209] - I2C - Power management unit
+5.  [BH1750] - I2C - ambient light sensor (lux meter)
+6.  [BME280] - A rust device driver for the Bosch BME280 temperature, humidity, and atmospheric pressure sensor and the Bosch BMP280 temperature and atmospheric pressure sensor. ![crates.io](https://img.shields.io/crates/v/bme280.svg)
+7.  [bme680] - I2C - Temperature / humidity / gas / pressure sensor - ![crates.io](https://img.shields.io/crates/v/bme680.svg)
+8.  [BMI160] - I2C / SPI - Inertial Measurement Unit - ![crates.io](https://img.shields.io/crates/v/bmi160.svg)
+9.  [BMP280] - A platform agnostic driver to interface with the BMP280 pressure sensor ![crates.io](https://img.shields.io/crates/v/bmp280-ehal.svg)
+10. [CC1101] - SPI - Sub-1GHz RF Transceiver - ![crates.io](https://img.shields.io/crates/v/cc1101.svg)
+11. [DS3231] - I2C - real time clock
+12. [DS3234] - SPI - Real time clock
+13. [DS323x] - I2C/SPI - Real-time clocks (RTC): DS3231, DS3232 and DS3234 - ![crates.io](https://img.shields.io/crates/v/ds323x.svg)
+14. [epd-waveshare] - SPI - driver for E-Paper Modules from Waveshare ![crates.io](https://img.shields.io/crates/v/epd-waveshare.svg)
+15. [embedded-morse] - Output morse messages - ![crates.io](https://img.shields.io/crates/v/embedded-morse.svg)
+16. [embedded-nrf24l01] - SPI+GPIO - 2.4 GHz radio
+17. [Ft6x36] - I2C - Rust driver for focal tech touch screen FT6236, FT6336 - ![crates.io](https://img.shields.io/crates/v/ft6x36.svg)
+18. [grove-matrix-led-my9221-rs] - I2C - Rust driver for Grove RGB Matrix Led with my-9221 Driver - ![crates.io](https://img.shields.io/crates/v/grove-matrix-led-my9221-rs.svg)
+19. [GridEYE] - I2C - Rust driver for Grid-EYE / Panasonic AMG88(33) - ![crates.io](https://img.shields.io/crates/v/GridEYE.svg)
+20. [HC-SR04] - DIO - Ultrasound sensor
+21. [HD44780-driver] - GPIO - LCD controller - ![crates.io](https://img.shields.io/crates/v/hd44780-driver.svg)
+22. [HD44780] - Parallel port - LCD controller
+23. [HM11] - USART - HM-11 bluetooth module AT configuration crate - ![crates.io](https://img.shields.io/crates/v/hm11.svg)
+24. [HRS3300] - I2C - Heart rate sensor / monitor used in the PineTime smartwatch, for example. - ![crates.io](https://img.shields.io/crates/v/hrs3300.svg)
+25. [HDC20xx] - I2C - Temperature and humidity sensor compatible with HDC2080, HDC2021 and HDC2010. - ![crates.io](https://img.shields.io/crates/v/hdc20xx.svg)
+26. [hub75] - A driver for rgb led matrices with the hub75 interface  - ![crates.io](https://img.shields.io/crates/v/hub75.svg)
+27. [hzgrow-r502] - UART capacitive fingerprint reader - ![crates.io](https://img.shields.io/crates/v/hzgrow-r502.svg)
+28. [iAQ-Core] - I2C - iAQ-Core-C/iAQ-Core-P Gas and VOC sensor driver for monitoring indoor air quality.
+29. [ILI9341] - SPI - TFT LCD display
+30. [INA260] - I2C - power monitor - ![crates.io](https://img.shields.io/crates/v/ina260.svg)
+31. [ISL29125] - I2C - RGB Color Light Sensor with IR Blocking Filter - ![crates.io](https://img.shields.io/crates/v/isl29125.svg)
+32. [IST7920] - SPI monochrome LCD display - ![crates.io](https://img.shields.io/crates/v/ist7920.svg)
+33. [LM75] - I2C - Temperature sensor and thermal watchdog - ![crates.io](https://img.shields.io/crates/v/lm75.svg)
+34. [LS010B7DH01] - SPI - Memory LCD
+35. [LSM303C] - A platform agnostic driver to interface with the LSM303C (accelerometer + compass) ![crates.io](https://img.shields.io/crates/v/lsm303c.svg)
+36. [LSM9DS1] - I2C/SPI - 9-axis motion sensor module ![crates.io](https://img.shields.io/crates/v/lsm9ds1.svg)
+37. [ltr-559] - I2C - Ambient Light Sensor and Proximity sensor ![crates.io](https://img.shields.io/crates/v/ltr-559.svg)
+38. [lvgl] - no\_std [LittleVGL (⭐12k)](https://github.com/littlevgl/lvgl) port - ![crates.io](https://img.shields.io/crates/v/lvgl.svg)
+39. [M95320] - SPI - STMicroelectronics Serial flash EEPROM - ![crates.io](https://img.shields.io/crates/v/m95320.svg)
+40. [MAG3110] - I2C - Magnetometer
+41. [MAX17048/9] - I2C - LiPo Fuel gauge, battery monitoring IC - ![crates.io](https://img.shields.io/crates/v/max17048.svg)
+42. [MAX170xx] - I2C - LiPo Fuel gauge, battery monitoring ICs compatible with MAX17043/4, MAX17048/9, MAX17058/9.
+43. [MAX3010x] - I2C - Pulse oximeter and heart-rate sensor. ATM Compatible with MAX30102. -![crates.io](https://img.shields.io/crates/v/max3010x.svg)
+44. [MAX31855] - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
+45. [MAX31865] - SPI - RTD to Digital converter - ![crates.io](https://img.shields.io/crates/v/max31865.svg)
+46. [MAX44009] - I2C - Ambient light sensor - ![crates.io](https://img.shields.io/crates/v/max44009.svg)
+47. [MAX7219] - SPI - LED display driver - ![crates.io](https://img.shields.io/crates/v/max7219.svg)
+48. [MCP4725] - I2C - 12-bit DAC - ![crates.io](https://img.shields.io/crates/v/mcp4725)
+49. [MCP49xx] - SPI - 8/10/12-bit DACs like MCP4921, MCP4922, MCP4801, etc. - ![crates.io](https://img.shields.io/crates/v/mcp49xx.svg)
+50. [MCP9808] - I2C - Temperature sensor - ![crates.io](https://img.shields.io/crates/v/mcp9808.svg)
+51. [MFRC522] - SPI - RFID tag reader/writer
+52. [midi-port] - UART - MIDI input - ![crates.io](https://img.shields.io/crates/v/midi-port.svg)
+53. [MLX9061x] - I2C - MLX90614/MLX90615 Contact-less infrared (IR) temperature sensor driver. - ![crates.io](https://img.shields.io/crates/v/mlx9061x.svg)
+54. [motor-driver] - Motor drivers: L298N, TB6612FNG, etc.
+55. [MPU6050] - I2C - no\_std driver for the MPU6050 ![crates.io](https://img.shields.io/crates/v/mpu6050.svg)
+56. [MPU9250] - no\_std driver for the MPU9250 (and other MPU\* devices) & onboard AK8963 (accelerometer + gyroscope +  magnetometer IMU) ![crates.io](https://img.shields.io/crates/v/mpu9250.svg)
+57. [NRF24L01] - SPI - 2.4 GHz wireless communication
+58. [OneWire] - 1wire - OneWire protocol implementation with drivers for devices such as [DS18B20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf) - ![crates.io](https://img.shields.io/crates/v/onewire.svg)
+59. [PCD8544] - SPI - 48x84 pixels matrix LCD controller
+60. [PCD8544\_rich][PCD8544_rich] - SPI - Rich driver for 48x84 pixels matrix LCD controller  - ![crates.io](https://img.shields.io/crates/v/pcd8544.svg)
+61. [PCF857x] - I2C - I/O expanders: PCF8574, PCF8574A, PCF8575 ![crates.io](https://img.shields.io/crates/v/pcf857x.svg)
+62. [radio-at86rf212] - SPI - Sub GHz 802.15.4 radio transceiver ![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)
+63. [RFM69] - SPI - ISM radio transceiver
+64. [RN2xx3] - Serial - A driver for the RN2483 / RN2903 LoRaWAN modems by Microchip
+65. [SCD30] - I2C - CO₂ sensor - ![crates.io](https://img.shields.io/crates/v/scd30.svg)
+66. [SHT2x] - I2C - temperature / humidity sensors
+67. [SHT3x] - I2C - Temperature / humidity sensors
+68. [SI5351] - I2C - clock generator
+69. [SI7021] - I2C - Humidity and temperature sensor
+70. [SPL06-007] - I2C - Pressure and temerature sensor - ![crates.io](https://img.shields.io/crates/v/spl06-007.svg)
+71. [spi-memory] - SPI - A generic driver for various SPI Flash and EEPROM chips - ![crates.io](https://img.shields.io/crates/v/spi-memory.svg)
+72. [SSD1320] - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1320.svg)
+73. [SSD1322] - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1322.svg)
+74. [SSD1351] - SPI - 16bit colour OLED display driver - ![crates.io](https://img.shields.io/crates/v/ssd1351.svg)
+75. [SSD1675] - SPI - Tri-color ePaper display controller - ![crates.io](https://img.shields.io/crates/v/ssd1675.svg)
+76. [st7032i] - I2C - Dot Matrix LCD Controller driver (Sitronix ST7032i or similar). - ![crates.io](https://img.shields.io/crates/v/st7032i.svg)
+77. [ST7735-lcd] - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix ![crates.io](https://img.shields.io/crates/v/st7735-lcd.svg)
+78. [ST7920] - SPI - LCD displays using the ST7920 controller ![crates.io](https://img.shields.io/crates/v/st7920.svg)
+79. [stm32-eth] - MCU - Ethernet
+80. [SX1278] - SPI - Long range (LoRa) transceiver
+81. [SX1509] - I2C - IO Expander / Keypad driver
+82. [TCS3472] - I2C - RGB color light sensor - ![crates.io](https://img.shields.io/crates/v/tcs3472.svg)
+83. [TPA2016D2] - I2C - A driver for interfacing with the Texas Instruments TPA2016D2 Class-D amplifier - ![crates.io](https://img.shields.io/crates/v/tpa2016d2.svg)
+84. [VEML6040] - I2C - RGBW color light sensor - ![crates.io](https://img.shields.io/crates/v/veml6040.svg)
+85. [VEML6070] - I2C - UVA light sensor - ![crates.io](https://img.shields.io/crates/v/veml6070.svg)
+86. [VEML7700] - I2C - Ambient light sensors - ![crates.io](https://img.shields.io/crates/v/veml7700.svg)
+87. [vesc-comm] - A driver for communicating with [VESC-compatible electronic speed controllers](http://vedder.se/2015/01/vesc-open-source-esc/) ![crates.io](https://img.shields.io/crates/v/vesc-comm.svg)
+88. [VL53L0X] - A platform agnostic driver to interface with the vl53l0x (time-of-flight sensor) ![crates.io](https://img.shields.io/crates/v/vl53l0x.svg)
+89. [w5500] - SPI - Ethernet Module with hardwired protocols : TCP, UDP, ICMP, IPv4, ARP, IGMP, PPPoE - ![crates.io](https://img.shields.io/crates/v/w5500.svg)
+90. [xCA9548A] - I2C - I2C switches/multiplexers: TCA9548A, PCA9548A - ![crates.io](https://img.shields.io/crates/v/xca9548a.svg)
+91. [ublox-cellular-rs] - Serial - Cellular driver for the full Ublox cellular serial based family
+92. [atwinc1500-rs] - SPI - A host driver for the Atwinc1500 network controller
 
 [AFE4400]: https://github.com/ReeceStevens/afe4400
-
-[AFE4404]: https://github.com/pulse-loop/afe4404
 
 [APDS9960]: https://crates.io/crates/apds9960
 
@@ -1465,22 +1485,22 @@ Work in progress drivers. Help the authors make these crates awesome!
 10. [combine](https://crates.io/crates/combine): parser combinator library - ![crates.io](https://img.shields.io/crates/v/combine.svg)
 11. [console-traits (⭐3)](https://github.com/thejpster/console-traits): Describes a basic text console. Used by [menu] and implemented by [vga-framebuffer]. ![crates.io](https://img.shields.io/crates/v/console-tratis.svg)
 12. [`cmim`], or Cortex-M Interrupt Move: A crate for Cortex-M devices to move data to interrupt context, without needing a critical section to access the data within an interrupt, and to remove the need for the "mutex dance" - ![crates.io](https://img.shields.io/crates/v/cmim.svg)
-13. [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐969)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
+13. [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐981)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
 14. [dcmimu]: An algorithm for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements ![crates.io](https://img.shields.io/crates/v/dcmimu.svg)
 15. [debouncr]: A simple no-std input debouncer to detect rising/falling edges with minimal RAM requirements. ![crates.io](https://img.shields.io/crates/v/debouncr.svg)
 16. [device-driver]: A toolkit to write better device drivers, faster. ![crates.io](https://img.shields.io/crates/v/device-driver.svg)
-17. [drogue-device (⭐156)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
+17. [drogue-device (⭐157)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
 18. [dummy-pin](https://crates.io/crates/dummy-pin): Dummy implementations of the input/output pin traits. ![crates.io](https://img.shields.io/crates/v/dummy-pin.svg)
-19. [crossbus (⭐114)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
+19. [crossbus (⭐115)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
 20. [ector (⭐17)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
 21. [embassy]: A set of embedded async tools to make async/await a first-class option for embedded development
 22. [embedded-crc-macros](https://crates.io/crates/embedded-crc-macros): Macros implementing portable CRC algorithms and build-time lookup table generation. ![crates.io](https://img.shields.io/crates/v/embedded-crc-macros.svg)
 23. [embedded-update (⭐10)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-24. [embedded-tls (⭐102)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+24. [embedded-tls (⭐105)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 25. [embedded-websocket](https://crates.io/crates/embedded-websocket): A lightweight server and client websocket library for embedded systems. ![crates.io](https://img.shields.io/crates/v/embedded-websocket.svg)
 26. [endian\_codec][endian_codec]: (En/De)code rust types as packed bytes with specific order (endian). Supports derive. - [![crates.io](https://img.shields.io/crates/v/endian_codec.svg)](https://crates.io/crates/endian_codec)
 27. [fixed-fft](https://crates.io/crates/fixed-fft): Fixed-point Fast Fourier Transform - [![Crates.io](https://img.shields.io/crates/v/fixed-fft.svg)](https://crates.io/crates/fixed-fft)
-28. [gcode (⭐83)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
+28. [gcode (⭐84)](https://github.com/Michael-F-Bryan/gcode-rs): A gcode parser for no-std applications - [![crates.io](https://img.shields.io/crates/v/gcode.svg)](https://crates.io/crates/gcode)
 29. [gdbstub](https://crates.io/crates/gdbstub): zero-allocation, pure Rust implementation of the GDB Remote Serial Protocol - [![crates.io](https://img.shields.io/crates/v/gdbstub.svg)](https://crates.io/crates/gdbstub)
 30. [heapless](https://crates.io/crates/heapless): provides `Vec`, `String`, `LinearMap`, `RingBuffer` backed by fixed-size buffers  - ![crates.io](https://img.shields.io/crates/v/heapless.svg)
 31. [idsp](https://crates.io/crates/idsp): integer DSP algorithms (trigonometry, filtering, PLL...) tuned for precision and speed - ![crates.io](https://img.shields.io/crates/v/idsp.svg)
@@ -1489,13 +1509,13 @@ Work in progress drivers. Help the authors make these crates awesome!
 34. [intrusive-collections](https://crates.io/crates/intrusive-collections): intrusive (non-allocating) singly/doubly linked lists and red-black trees - ![crates.io](https://img.shields.io/crates/v/intrusive-collections.svg)
 35. [inverted-pin](https://crates.io/crates/inverted-pin): Implementations of the input/output pin traits with inverted logic. ![crates.io](https://img.shields.io/crates/v/inverted-pin.svg)
 36. [irq](https://crates.io/crates/irq): utilities for writing interrupt handlers (allows moving data into interrupts, and sharing data between them) - ![crates.io](https://img.shields.io/crates/v/irq.svg)
-37. [lorawan-encoding (⭐114)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
-38. [lorawan-device (⭐114)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
+37. [lorawan-encoding (⭐118)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
+38. [lorawan-device (⭐118)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
 39. [managed](https://crates.io/crates/managed): provides `ManagedSlice`, `ManagedMap` backed by either their std counterparts or fixed-size buffers for `#![no_std]`. - ![crates.io](https://img.shields.io/crates/v/managed.svg)
 40. [menu]: A basic command-line interface library. Has nested menus and basic help functionality. ![crates.io](https://img.shields.io/crates/v/menu.svg)
 41. [mqtt-sn](https://crates.io/crates/mqtt-sn): Implementation of the MQTT-SN protocol - ![crates.io](https://img.shields.io/crates/v/mqtt-sn.svg)
 42. [microfft](https://crates.io/crates/microfft): Embedded-friendly (`no_std`, no-`alloc`) fast fourier transforms - ![crates.io](https://img.shields.io/crates/v/microfft.svg)
-43. [micromath (⭐343)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
+43. [micromath (⭐345)](https://github.com/NeoBirth/micromath): Embedded Rust math library featuring fast, safe floating point approximations for common arithmetic operations, 2D and 3D vector types, and statistical analysis - ![crates.io](https://img.shields.io/crates/v/micromath.svg)
 44. [minimq](https://crates.io/crates/minimq): A minimal MQTT5 client designed for no\_std platforms - ![crates.io](https://img.shields.io/crates/v/minimq.svg)
 45. [moonboot (⭐18)](https://github.com/jhbruhn/moonboot): OTA Bootloader Construction Framework for Rust no\_std environments, especially embedded devices without an OS
 46. [nalgebra](https://crates.io/crates/nalgebra): general-purpose and low-dimensional linear algebra library - ![crates.io](https://img.shields.io/crates/v/nalgebra.svg)
@@ -1517,8 +1537,9 @@ Work in progress drivers. Help the authors make these crates awesome!
 62. [Stepper]: Universal Stepper Motor Interface - ![crates.io](https://img.shields.io/crates/v/stepper.svg)
 63. [tinybmp](https://crates.io/crates/tinybmp): No-std, no-alloc BMP parser for embedded systems. [Introductory blog post](https://wapl.es/rust/2019/03/04/embedded-graphics-0.4.7-bmp-support.html) - ![crates.io](https://img.shields.io/crates/v/tinybmp.svg)
 64. [vga-framebuffer]: A VGA signal generator and font renderer for VGA-less microcontrollers. Used by [Monotron (⭐185)](https://github.com/thejpster/monotron) to generate 48 by 36 character display using 3 SPI peripherals and a timer. ![crates.io](https://img.shields.io/crates/v/vga-framebuffer.svg)
-65. [wyhash]: A fast, simple and portable hashing algorithm and random number generator. - ![crates.io](https://img.shields.io/crates/v/wyhash.svg)
-66. [adafruit-bluefruit-protocol]: A `no_std` parser for the [Adafruit Bluefruit LE Connect controller protocol]. - ![crates.io](https://img.shields.io/crates/v/adafruit-bluefruit-protocol)
+65. [usb-pd (⭐4)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
+66. [wyhash]: A fast, simple and portable hashing algorithm and random number generator. - ![crates.io](https://img.shields.io/crates/v/wyhash.svg)
+67. [adafruit-bluefruit-protocol]: A `no_std` parser for the [Adafruit Bluefruit LE Connect controller protocol]. - ![crates.io](https://img.shields.io/crates/v/adafruit-bluefruit-protocol)
 
 [`cmim`]: https://crates.io/crates/cmim
 
@@ -1562,15 +1583,19 @@ Work in progress crates. Help the authors make these crates awesome!
 
 *   [light-cli (⭐15)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface ![crates.io](https://img.shields.io/crates/v/light_cli.svg)
 *   [OxCC (⭐16)](https://github.com/jonlamb-gh/oxcc): A port of Open Source Car Control written in Rust
-*   [Rubble (⭐392)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
+*   [Rubble (⭐393)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
 [no-std-category]: https://crates.io/categories/no-std
 
 ## Firmware projects
 
-*   [anne-key (⭐563)](https://github.com/ah-/anne-key): Alternate keyboard firmware for the Obins ANNE Pro
-*   [μLA (⭐370)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
-*   [air-gradient-pro-rs (⭐2)](https://github.com/jonlamb-gh/air-gradient-pro-rs): Bootloader, firmware and CLI tools for the AirGradient PRO
+*   [anne-key (⭐562)](https://github.com/ah-/anne-key): Alternate keyboard firmware for the Obins ANNE Pro
+*   [μLA (⭐381)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [air-gradient-pro-rs (⭐3)](https://github.com/jonlamb-gh/air-gradient-pro-rs): Bootloader, firmware and CLI tools for the AirGradient PRO
+*   [Stabilizer (⭐76)](https://github.com/quartiq/stabilizer): Firmware for a DSP tool used in quantum physics experimentation, includes telemetry via MQTT and run-time configuration
+*   [Booster (⭐6)](https://github.com/quartiq/booster): Firmware for an RF power amplifier, including telemetry via MQTT and run-time configuration
+*   [Thermostat EEM (⭐6)](https://github.com/quartiq/thermostat-eem): Firmware for a multi-channel temperature controller used in physics experiments
+*   [Card/IO ECG (⭐5)](https://github.com/card-io-ecg/card-io-fw): Firmware for a business-card sized ECG device with Wifi connectivity
 
 ## Old books, blogs and training materials
 

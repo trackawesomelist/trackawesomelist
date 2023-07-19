@@ -6,6 +6,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jul 18, 2023](/content/2023/07/18/README.md)
+
+### Source generators / Others
+
+*   [BlazorInteropGenerator (⭐5)](https://github.com/surgicalcoder/BlazorInteropGenerator) - ![GitHub stars](https://img.shields.io/github/stars/surgicalcoder/BlazorInteropGenerator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/surgicalcoder/BlazorInteropGenerator?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/design/foundations/icons/) Generates Blazor -> Javascript strongly typed interop methods, by parsing the Javascript it self and generating extension methods for IJSRuntime.
+*   [RazorPageRouteGenerator (⭐3)](https://github.com/surgicalcoder/RazorPageRouteGenerator) - ![GitHub stars](https://img.shields.io/github/stars/surgicalcoder/RazorPageRouteGenerator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/surgicalcoder/RazorPageRouteGenerator?style=flat-square\&cacheSeconds=86400) Generates methods with parameters for Razor and Blazor pages, so you can navigate without having to guess URLs or parameters.
+
 ## [Jul 14, 2023](/content/2023/07/14/README.md)
 
 ### Articles / Others
@@ -925,9 +932,9 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ## [Nov 18, 2021](/content/2021/11/18/README.md)
 
-### Component bundles
+### Source generators / Others
 
-*   [BlazorOcticons (⭐7)](https://github.com/BlazorOcticons/BlazorOcticons) - ![last commit](https://img.shields.io/github/last-commit/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/octicons/) created as a `.razor` components and available via the NuGet package. The project [website](https://blazorocticons.net/) is an example using the generated components.
+*   [BlazorOcticons (⭐7)](https://github.com/BlazorOcticons/BlazorOcticons) ![GitHub stars](https://img.shields.io/github/stars/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/design/foundations/icons/) created as a .razor components using source generator. The generated components are available via the NuGet package, the generator itself is available as a separate NuGet package. The project website is an example using the generated components.
 
 ## [Nov 04, 2021](/content/2021/11/04/README.md)
 

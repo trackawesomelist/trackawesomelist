@@ -2,7 +2,7 @@
 
 A curated list of awesome Phalcon libraries and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 604 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 607 · 🏷️ Back-End Development
 
 [ [Daily](/content/phalcon/awesome-phalcon/README.md) / [Weekly](/content/phalcon/awesome-phalcon/week/README.md) / Overview ]
 
@@ -13,11 +13,11 @@ A curated list of awesome Phalcon libraries and resources
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go (⭐103k)](https://github.com/avelino/awesome-go).
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go (⭐104k)](https://github.com/avelino/awesome-go).
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/phalcon/awesome-phalcon/blob/master/README.md/CONTRIBUTING.md) first. Thanks to all [contributors (⭐604)](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/phalcon/awesome-phalcon/blob/master/README.md/CONTRIBUTING.md) first. Thanks to all [contributors (⭐607)](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
 Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
@@ -69,13 +69,14 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Various application skeletons.*
 
 *   [Album O'Rama (⭐84)](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
-*   [Base App (⭐62)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+*   [Base App (⭐63)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
 *   [INVO Application (⭐347)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
-*   [MVC (⭐809)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐810)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 *   [Phalcon Composer (⭐35)](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
 *   [Vökuró (⭐370)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 *   [Webird (⭐99)](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
 *   [NovaMOOC (⭐21)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
+*   [PhalconTool (⭐25)](https://github.com/corentin-begne/phalconTool) - Alternative to Phalcon devtools with complete frontend stack without any framework but helpers system allowing to automaticaly bind HTML events using Phalcon 5, PHP 8, Apache, MYSQL, SASS, ES6 and jQuery.
 
 ## Authentication & OAuth
 
@@ -120,8 +121,8 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *   [dd (⭐20)](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application
 *   [Phalcon BB Debugger (⭐5)](https://github.com/ismail0234/Phalcon-BB-Debugger) - Phalcon BB Debugger Strong and easy install.
-*   [Phalcon Debugbar (⭐163)](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
-*   [Prophiler (⭐442)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
+*   [Phalcon Debugbar (⭐164)](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
+*   [Prophiler (⭐444)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 ## i18n
 
@@ -147,7 +148,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *   [Breadcrumbs (⭐40)](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 *   [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-*   [Incubator (⭐731)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+*   [Incubator (⭐732)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
 *   [Upgrade Adviser (⭐10)](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
 *   [yarak (⭐27)](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools
 *   [phalcon-data-table (⭐1)](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
@@ -180,7 +181,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *   [phalcon-json-api-package (⭐36)](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon
 *   [PhREST API (⭐29)](https://github.com/phrest/api) - Phalcon Framework REST API Package
-*   [REST API (⭐84)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐85)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ## Routing
 

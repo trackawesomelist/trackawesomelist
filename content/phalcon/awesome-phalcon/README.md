@@ -2,9 +2,15 @@
 
 A curated list of awesome Phalcon libraries and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 604 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 607 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/phalcon/awesome-phalcon/week/README.md) / [Overview](/content/phalcon/awesome-phalcon/readme/README.md) ]
+
+## [Jul 17, 2023](/content/2023/07/17/README.md)
+
+### Application Skeleton
+
+*   [PhalconTool (⭐25)](https://github.com/corentin-begne/phalconTool) - Alternative to Phalcon devtools with complete frontend stack without any framework but helpers system allowing to automaticaly bind HTML events using Phalcon 5, PHP 8, Apache, MYSQL, SASS, ES6 and jQuery.
 
 ## [Jun 21, 2023](/content/2023/06/21/README.md)
 
@@ -87,7 +93,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### RESTful
 
-*   [REST API (⭐84)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐85)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ## [Sep 28, 2019](/content/2019/09/28/README.md)
 
@@ -187,7 +193,7 @@ A curated list of awesome Phalcon libraries and resources
 ### Application Skeleton
 
 *   [Album O'Rama (⭐84)](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
-*   [Base App (⭐62)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+*   [Base App (⭐63)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
 *   [INVO Application (⭐347)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
 *   [Vökuró (⭐370)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 
@@ -201,11 +207,11 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Debug
 
-*   [Phalcon Debugbar (⭐163)](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
+*   [Phalcon Debugbar (⭐164)](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon Framework
 
 ### Miscellaneous
 
-*   [Incubator (⭐731)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+*   [Incubator (⭐732)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
 
 ### RESTful
 
@@ -336,7 +342,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Application Skeleton
 
-*   [MVC (⭐809)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐810)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 
@@ -364,4 +370,4 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Debug
 
-*   [Prophiler (⭐442)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
+*   [Prophiler (⭐444)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)

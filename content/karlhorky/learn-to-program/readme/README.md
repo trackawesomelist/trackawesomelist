@@ -2,7 +2,7 @@
 
 Educational resources to learn to program (Foundation in Web Development)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 2.7K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 3.3K · 🏷️ Learn
 
 [ [Daily](/content/karlhorky/learn-to-program/README.md) / [Weekly](/content/karlhorky/learn-to-program/week/README.md) / Overview ]
 
@@ -20,12 +20,12 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [Codecademy](https://www.codecademy.com/)
 
-**Free** platform for learning to code in web technologies\
-*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
+**Freemium** platform for learning to code in many different programming languages\
+*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP, C++, Java)*
 
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
 
-**Free** interactive 1-hour course to learn the very basics of web development\
+**Free** interactive 1-hour courses to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 
 #### [UpLeveled Bootcamp Prep Course](https://learn.upleveled.io/)
@@ -45,15 +45,15 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
 
-**Freemium** marketplace of courses from third party providers. Quality may vary.\
+**Freemium** marketplace of courses from third party providers - quality may vary\
 *(HTML, CSS, JavaScript, Ruby, Rails, Python, iOS, Android)*
 
 #### [Code Avengers](https://www.codeavengers.com/)
 
-**Freemium** platform for basic web and app develoment courses\
+**Freemium** platform for basic web and app development courses\
 *(HTML, CSS, JavaScript)*
 
-#### [learn.shayhowe.com](https://learn.shayhowe.com/)
+#### [Shay Howe's Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 
 **Free** beginner to intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
@@ -63,24 +63,24 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** beginner and intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
 
-#### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
+#### [freeCodeCamp](https://www.freecodecamp.org/)
 
-**Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
-*(HTML, CSS, JavaScript, AngularJS, Rails)*
-
-#### [Free Code Camp](https://www.freecodecamp.org/)
-
-**Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
-*(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
+**Free** learn to code and help nonprofits at the same time\
+*(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js, Python)*
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 
 **Free** SQL courses with interactive exercises and quizzes\
 *(SQL, database concepts)*
 
-#### [GitHub Learning Lab](https://lab.github.com/)
+#### [The Odin Project](https://www.theodinproject.com)
 
-**Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
+**Free** beginner to intermediate full-stack courses with Ruby and JS learning paths\
+*(HTML, CSS, JavaScript, Ruby, Rails)*
+
+#### [GitHub Skills](https://github.com/skills)
+
+**Free** self paced, interactive projects to learn Git and GitHub, created and maintained by GitHub's training team\
 *(Git, GitHub)*
 
 #### [Grid Garden](https://cssgridgarden.com/)
@@ -90,35 +90,45 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [Hexlet.io](https://en.hexlet.io)
 
-**Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.\
+**Mixed** self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general\
 *(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
 
 #### [Programming Historian](https://programminghistorian.org/en/lessons/)
 
-**Free** Peer reviewed introductory courses for digital humanists.\
+**Free** peer reviewed introductory courses for digital humanists\
 *(Python, R, Unity, QGIS, HTML, Regular Expressions)*
 
 #### [Software Carpentry](https://software-carpentry.org/lessons/)
 
-**Free** Foundational coding and data science skills for researchers.\
+**Free** foundational coding and data science skills for researchers\
 *(Python, R, OpenRefine, Unix Shell, Git)*
 
-#### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
+#### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org)
 
-**Free** teaches programming in Java by creating small applications built step by step\
-*(Java, OOP, Gradle, Maven, Spring Boot)*
+**Freemium** wide range of tracks in popular programming languages and development frameworks\
+*(Python, Java, Kotlin, SQL)*
 
 #### [Cratecode](https://cratecode.com/)
 
 **Free** online platform that teaches programming through interactive lessons\
 *(JavaScript, TypeScript, HTML, p5.js, Backend Web Development)*
 
+#### [DataCamp](https://www.datacamp.com/)
+
+**Freemium** interactive platform for learning data science\
+*(Python, R, SQL, Power BI, ChatGPT)*
+
+#### [Developer Roadmaps](https://roadmap.sh/)
+
+**Free** learning roadmap guides with links to educational content\
+*(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
 
 **Free** intermediate to advanced courses on how to program drawings, animations, games and webpages and more advanced computer science topics\
-*(HTML, CSS, JavaScript, algorithms, cryptography)*
+*(HTML, CSS, JavaScript, SQL, algorithms, cryptography)*
 
 #### [Udacity](https://www.udacity.com/)
 
@@ -150,19 +160,19 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** crowdsourced mentorship platform of programming exercises and code reviews\
 *(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
 
-#### [Stanford on iTunes U](https://itunes.stanford.edu/)
+#### [PluralSight](https://www.pluralsight.com/browse)
 
-**Free** programming and mobile development courses on iTunes from Stanford University\
-*(programming, startups, iOS)*
+**Paid** platform for courses in web development, software development, security and more\
+*(HTML, CSS, JavaScript, React, AngularJS, Java, SQL)*
 
-#### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48\&sort=popular)
+#### [CodeChef Courses](https://www.codechef.com/learn)
 
-**Paid** platform for web development courses\
-*(JavaScript, AngularJS, Java)*
+**Freemium** platform with courses in web development and software development\
+*(HTML, CSS, JavaScript, Python, Java, C++)*
 
 #### [CodeChef Problems](https://www.codechef.com/problems/easy/)
 
-**Free** intermediate to advanced programming problems\
+**Freemium** intermediate to advanced programming problems\
 *(programming)*
 
 #### [CodingBat](https://codingbat.com/)
@@ -172,7 +182,7 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [Codewars](https://www.codewars.com/)
 
-**Free** code challenges. Compare your solution with those of others.\
+**Free** code challenges - compare your solution with those of others\
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
 #### [CodinGame](https://www.codingame.com/)
@@ -180,7 +190,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** Learn to code and game at the same time.\
 *(C#, C++, Java, JavaScript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
 
-#### [1 Million Women To Tech Summer of Code (⭐625)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐623)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -190,29 +200,29 @@ This list aims to be a curated set of high quality educational resources. The av
 **Mixed** guided video courses to build products using new technologies\
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
 
+#### [Level Up Tutorials](https://levelup.video/library)
+
+**Free** video tutorials for web developers and designers\
+*(HTML, CSS, JavaScript, React, Svelte, Vue, Node.js, GraphQL, TypeScript, Deno, GitHub, Figma, Ruby, Drupal, Magento, Wordpress)*
+
 ## Advanced
 
-#### [Paqmind](http://paqmind.com)
-
-**Free** Quiz your knowledge of programming\
-*(JavaScript, Node.js, React, functional programming)*
-
-#### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)
+#### [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Computer%20Science)
 
 **Free** courses from MIT on advanced computer science topics\
 *(varied and extensive computer science topics, C, C++, ..)*
 
-#### [EDX](https://www.edx.org/course/subject/computer-science)
+#### [edX](https://www.edx.org/learn/computer-programming)
 
 **Free** courses from Harvard, MIT, and other universities\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
 #### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
 
-**Free** platform for courses from universities and organizations worldwide\
+**Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
-#### [Awesome CS Courses (⭐44k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐48k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*

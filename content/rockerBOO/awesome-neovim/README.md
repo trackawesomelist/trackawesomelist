@@ -6,6 +6,28 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 19, 2023](/content/2023/07/19/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [AlexvZyl/nordic.nvim (⭐263)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
+
+## [Jul 17, 2023](/content/2023/07/17/README.md)
+
+### Formatting / Diagnostics
+
+*   [niuiic/format.nvim (⭐3)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
+
+## [Jul 16, 2023](/content/2023/07/16/README.md)
+
+### (requires Neovim 0.5)
+
+*   [creativenull/diagnosticls-configs-nvim (⭐66)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
+
+### Debugging / Diagnostics
+
+*   [niuiic/dap-utils (⭐2)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
+
 ## [Jul 15, 2023](/content/2023/07/15/README.md)
 
 ### (requires Neovim 0.5)

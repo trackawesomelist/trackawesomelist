@@ -2,7 +2,7 @@
 
 ✉️ An awesome list of resources to build better emails.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jonathandion/awesome-emails/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) · ⭐ 1.9K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jonathandion/awesome-emails/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) · ⭐ 2.1K · 🏷️ Front-End Development
 
 [ [Daily](/content/jonathandion/awesome-emails/README.md) / [Weekly](/content/jonathandion/awesome-emails/week/README.md) / Overview ]
 
@@ -62,21 +62,21 @@ AWESOME EMAILS ✉ ✨
 
 *   [Cerberusemail](https://www.cerberusemail.com/) - Patterns for Responsive HTML Email Templates.
 *   [Responsive templates](https://templates.emailoctopus.com/) - Free HTML templates from EmailOctopus, usable with any provider.
-*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 *   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open source email templates.
 *   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
 *   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
-*   [Cerberus (⭐4.7k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+*   [Cerberus (⭐4.8k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐688)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐687)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
-*   [Grunt Email Boilerplate (⭐286)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
+*   [Grunt Email Boilerplate (⭐287)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 *   [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 *   [Email boilerplate (⭐3.8k)](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 *   [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
-*   [Postmark Transactional Email Templates (⭐2.7k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐2.8k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 *   [Stripo](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 *   [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 *   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
@@ -100,7 +100,7 @@ AWESOME EMAILS ✉ ✨
 *   [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 *   [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 *   [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
-*   [email-verifier (⭐653)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+*   [email-verifier (⭐908)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 *   [DevMail](https://devmail.email/) - An email sandbox for software developers. Capture emails from your dev, staging, QA, or CI environment.
 *   [Disposable Email Check API](https://open.kickbox.com/) - A free API for checking if an email address is disposable. No sign up required.
 
@@ -112,7 +112,7 @@ AWESOME EMAILS ✉ ✨
 *   [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components.
 *   [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-*   [Postal (⭐12k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+*   [Postal (⭐13k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 *   [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
 *   [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 *   [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
@@ -122,6 +122,7 @@ AWESOME EMAILS ✉ ✨
 *   [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 *   [Kickbox](https://kickbox.com) - Email verification service (check an email exists).
 *   [Forward Email](https://forwardemail.net) - The 100% open-source and privacy-focused email service.
+*   [Campaign Cleaner](https://campaigncleaner.com) - The Ultimate Tool for Optimized, High-Performance Email Campaigns.
 
 ## Self-Hosted Services
 
@@ -132,7 +133,7 @@ AWESOME EMAILS ✉ ✨
 *   [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 *   [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 *   [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
-*   [SimpleLogin (⭐3.5k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐3.9k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## Articles
 
@@ -169,7 +170,7 @@ AWESOME EMAILS ✉ ✨
 
 ## Resources
 
-*   [Email marketing regulations (⭐404)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐409)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 *   [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 *   [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp.
 *   [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
@@ -177,6 +178,7 @@ AWESOME EMAILS ✉ ✨
 *   [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 *   [Mailchimp](http://templates.mailchimp.com/) - Mailchimp Email Design Reference.
 *   [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - Tutorial on how to build your own email server.
+*   [Mailmodo](https://www.mailmodo.com/email-templates/)- Mega Email Template Library, from where you can get the template for free or customize your own Email Templates
 
 ## Inspirations
 
@@ -223,13 +225,13 @@ AWESOME EMAILS ✉ ✨
 ### Contribution
 
 Suggestions and PRs are welcome! 🤙
-If you want to contribute, please read the [contribution guidelines (⭐1.9k)](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
+If you want to contribute, please read the [contribution guidelines (⭐2.1k)](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
 
 ### Check Also
 
-*   [Awesome JS Books (⭐56)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
-*   [Web Configs (⭐2)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
-*   [My Neovim Config (⭐39)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
+*   [Awesome JS Books (⭐58)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
+*   [Web Configs (⭐5)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
+*   [My Neovim Config (⭐52)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
 
 ### License
 

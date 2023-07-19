@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ [Daily](/content/h4cc/awesome-elixir/README.md) / Weekly / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
+
+### Testing
+
+*   [mneme (⭐50)](https://github.com/zachallaun/mneme) - Assertions that know how to update themselves, otherwise known as snapshot or approval testing.
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Caching

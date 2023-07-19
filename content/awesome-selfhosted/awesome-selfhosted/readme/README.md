@@ -198,7 +198,7 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 *   [feed2toot](https://feed2toot.readthedocs.io/en/latest/) - Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon. ([Source Code](https://gitlab.com/chaica/feed2toot)) `GPL-3.0` `Python`
 *   [feedmixer (⭐113)](https://github.com/cristoper/feedmixer) - FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON). ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest\&f=https://americancynic.net/atom.xml\&n=1)) `WTFPL` `Python`
 *   [Headphones (⭐3.2k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
-*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐6.3k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐6.4k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [homebank-converter (⭐47)](https://github.com/Binnette/homebank-converter) - Web app to convert an export bank file to compatible Homebank csv. ([Demo](https://binnette.github.io/homebank-converter/)) `AGPL-3.0` `HTML5`
 *   [HRConvert2 (⭐697)](https://github.com/zelon88/HRConvert2) - Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. `GPL-3.0` `PHP`
 *   [Huginn (⭐39k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
@@ -393,7 +393,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 *   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2.4k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
 *   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐1.1k)](https://github.com/debops/debops)) `GPL-3.0` `YAML/Ansible/Python`
 *   [docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. Only configuration files, no SQL database. ([Source Code (⭐11k)](https://github.com/docker-mailserver/docker-mailserver)) `MIT` `Docker`
-*   [Dovel](https://dovel.email) - SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails. ([Source Code](https://blmayer.dev/x/dovel)) `LGPL-3.0` `Go`
+*   [Dovel](https://dovel.email) - SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails. ([Source Code](https://git.derelict.garden/dovel/email/tree)) `LGPL-3.0` `Go`
 *   [emailwiz (⭐1.3k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Bash`
 *   [homebox (⭐386)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
 *   [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code (⭐255)](https://github.com/Inboxen/Inboxen)) `GPL-3.0` `Python`
@@ -546,9 +546,9 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 *   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.8k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 *   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐651)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
 *   [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust. ([Source Code (⭐11k)](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Docker/Rust`
-*   [Libreddit (⭐4.7k)](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
+*   [Libreddit (⭐4.8k)](https://github.com/libreddit/libreddit) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
 *   [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code (⭐2.2k)](https://github.com/loomio/loomio)) `AGPL-3.0` `Docker`
-*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code (⭐42k)](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
+*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code (⭐43k)](https://github.com/mastodon/mastodon)) `AGPL-3.0` `Ruby`
 *   [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([Source Code (⭐2.3k)](https://github.com/rafalp/Misago)) `GPL-2.0` `Docker`
 *   [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code (⭐7k)](https://github.com/misskey-dev/misskey)) `AGPL-3.0` `Nodejs/Docker`
 *   [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code (⭐1.6k)](https://github.com/movim/movim)) `AGPL-3.0` `PHP/Docker`
@@ -565,7 +565,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 *   [Retrospring (⭐147)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 *   [schnack (⭐1.8k)](https://github.com/schn4ck/schnack) - Schnack is simple self-hosted node app for Disqus-like drop-in commenting on static websites. `LIL-1.0` `Nodejs`
 *   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐748)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐515)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐514)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 *   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐341)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 *   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐889)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
 *   [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code (⭐1.6k)](https://github.com/debiki/talkyard)) `AGPL-3.0` `Docker/Scala`
@@ -666,7 +666,7 @@ Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_ma
 *   [Bolt CMS](https://boltcms.io/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Source Code (⭐482)](https://github.com/bolt/core)) `MIT` `PHP`
 *   [CMS Made Simple](https://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL-2.0` `PHP`
 *   [Cockpit](https://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code (⭐218)](https://github.com/Cockpit-HQ/Cockpit)) `MIT` `PHP`
-*   [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code (⭐735)](https://github.com/concrete5/concrete5)) `MIT` `PHP`
+*   [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code (⭐737)](https://github.com/concretecms/concretecms)) `MIT` `PHP`
 *   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐284)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 *   [CouchCMS](https://www.couchcms.com/) - Simple Open-Source CMS for designers. ([Source Code (⭐320)](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`
 *   [Drupal](https://www.drupal.org/) - Advanced open source content management platform. ([Source Code](https://git.drupalcode.org/project/drupal)) `GPL-2.0` `PHP`
@@ -766,7 +766,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 *   [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code](https://launchpad.net/calibre)) `GPL-3.0` `Python`
 *   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐3k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
 *   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐2.5k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
-*   [Mango (⭐1.4k)](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal/Docker`
+*   [Mango (⭐1.4k)](https://github.com/getmango/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal/Docker`
 *   [pyShelf (⭐503)](https://github.com/th3r00t/pyShelf) - Lightweight Ebook Server. `GPL-3.0` `Python`
 *   [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code (⭐486)](https://github.com/stumpapp/stump)) `MIT` `Rust`
 *   [Tanoshi (⭐367)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust/Docker`
@@ -953,7 +953,7 @@ Simplified file servers for sharing of one-time/short-lived/temporary files, pro
 *   [Sharry (⭐577)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java`
 *   [Shifter (⭐5)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
 *   [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code (⭐14k)](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
-*   [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code (⭐639)](https://github.com/nokonoko/uguu)) `MIT` `PHP`
+*   [Uguu (⭐639)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
 *   [Uploady (⭐38)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
 *   [Void (⭐187)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐187)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
 *   [XBackBone](https://xbackbone.app/) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). ([Source Code (⭐820)](https://github.com/SergiX44/XBackBone)) `AGPL-3.0` `PHP`
@@ -1014,6 +1014,7 @@ Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Brows
 Utilities for managing game servers.
 
 *   [ARRCON (⭐24)](https://github.com/radj307/ARRCON) - Terminal-based RCON client compatible with any game servers using the Source RCON Protocol. `GPL-3.0` `C++`
+*   [Crafty Controller](https://craftycontrol.com/) - Crafty Controller is a free and open-source Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface. ([Source Code](https://gitlab.com/crafty-controller/crafty-4)) `GPL-3.0` `Docker/Python`
 *   [EasyWI](https://easy-wi.com) - Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ([Source Code (⭐195)](https://github.com/easy-wi/developer/)) `GPL-3.0` `PHP/Bash`
 *   [Kubek](https://kubek.seeroycloud.tk) - Web management panel for Minecraft servers. ([Source Code (⭐32)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 *   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐611)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
@@ -1614,7 +1615,7 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 *   [Recepturer](https://recepturer.com/) `⚠` - Let Recepturer help you organize all your recipes in one place. You can add, edit and delete recipes, and create meal plans. Simply type your recipe and all ingredients will be listed as you go. Data is stored on Dropbox. ([Source Code (⭐2)](https://github.com/sjoerdvanderhoorn/recepturer)) `MIT` `Javascript`
 *   [RecipeSage (⭐376)](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
 *   [reciphpes! (⭐8)](https://github.com/nanawel/reciphpes) - A lightweight, Symfony-based recipes indexing software supporting search and tags, using a SQLite database. `MIT` `Docker`
-*   [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code (⭐4.2k)](https://github.com/vabene1111/recipes/)) `MIT` `Python`
+*   [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code (⭐4.2k)](https://github.com/TandoorRecipes/recipes)) `MIT` `Python`
 
 ### Remote Access
 
@@ -1727,6 +1728,7 @@ Software for easy installation, management and configuration of self-hosted serv
 *   [Kong](https://konghq.com/kong/) - The World’s Most Popular Open Source Microservice API Gateway and Platform. ([Source Code (⭐35k)](https://github.com/Kong/kong)) `Apache-2.0` `Lua`
 *   [Lura](https://luraproject.org/) - Open source High-Performance API Gateway. ([Source Code (⭐5.6k)](https://github.com/luraproject/lura)) `Apache-2.0` `Go`
 *   [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. ([Source Code (⭐481)](https://github.com/erudika/para)) `Apache-2.0` `Java`
+*   [Psychic](https://www.psychic.dev/) - Universal API to connect large language models to dynamic data sources. ([Source Code (⭐1.4k)](https://github.com/psychic-api/psychic)) `GPL-3.0` `Python`
 *   [Svix](https://svix.com) - Open-source webhooks as a service that makes it super easy for API providers to send webhooks. ([Source Code (⭐1.5k)](https://github.com/svix/svix-webhooks)) `MIT` `Docker/Rust`
 *   [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code (⭐8.6k)](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go`
 *   [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment. ([Source Code (⭐1.2k)](https://github.com/EsperoTech/yaade)) `MIT` `Docker`
@@ -1776,7 +1778,7 @@ An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Inte
 *   [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code (⭐13k)](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
 *   [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code (⭐2.3k)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
 *   [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code (⭐4.3k)](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐8.3k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐8.6k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 *   [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code (⭐1.6k)](https://github.com/muety/wakapi)) `GPL-3.0` `Go`
 
 ### Software Development - Localization
@@ -1882,8 +1884,8 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 *Related: [Monitoring](#monitoring)*
 
 *   [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/), [Source Code (⭐2.1k)](https://github.com/cstate/cstate)) `MIT` `Go`
-*   [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code (⭐824)](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
 *   [Gatus (⭐3.8k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
+*   [StatPing.ng](https://statping-ng.github.io/) - An easy to use Status Page for your websites and applications. Statping will automatically fetch the application and render a beautiful status page with tons of features for you to build an even better status page. ([Source Code (⭐824)](https://github.com/statping-ng/statping-ng)) `GPL-3.0` `Docker/Go`
 *   [Uptime Kuma (⭐35k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.uptime.kuma.pet)) `MIT` `Nodejs`
 *   [Vigil](https://crates.io/crates/vigil-server) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). ([Demo](https://status.crisp.chat/), [Source Code (⭐1.5k)](https://github.com/valeriansaliou/vigil)) `MPL-2.0` `Rust/Docker`
 
@@ -1944,7 +1946,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 [Time-tracking software](https://en.wikipedia.org/wiki/Time-tracking_software) is a category of computer software that allows its users to record time spent on tasks or projects.
 
 *   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐8.8k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
-*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.3k)](https://github.com/kevinpapst/kimai2/)) `MIT` `PHP`
+*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.3k)](https://github.com/kimai/kimai)) `MIT` `PHP`
 *   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐732)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 *   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐779)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
@@ -2012,7 +2014,6 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively ed
 *   [Pepperminty Wiki (⭐150)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 *   [PineDocs (⭐127)](https://github.com/xy2z/PineDocs) - Simple, fast, customizable and lightweight site for browsing files. `GPL-3.0` `PHP`
 *   [PmWiki](https://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites. `GPL-3.0` `PHP`
-*   [PukiWiki](https://pukiwiki.osdn.jp/) - PukiWiki is a free, simple, open-source wiki management system. Minimalistic and simple design with many tools for collaborative work. Created in Japanese, so translator needed. ([Source Code](https://ja.osdn.net/projects/pukiwiki/scm/git/pukiwiki/)) `GPL-2.0` `PHP`
 *   [Raneto](https://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. ([Source Code (⭐2.6k)](https://github.com/ryanlelek/Raneto)) `MIT` `Nodejs`
 *   [TiddlyWiki](https://tiddlywiki.com/) - Reusable non-linear personal web notebook. ([Source Code (⭐7.4k)](https://github.com/Jermolene/TiddlyWiki5)) `BSD-3-Clause` `Nodejs`
 *   [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPL-2.1` `PHP`

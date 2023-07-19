@@ -226,6 +226,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [IdentityServer](https://github.com/IdentityServer) - Extensible OAuth2 and OpenID Connect provider framework.
 *   [OAuth (⭐74)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 *   [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
+*   [Topaz](https://www.topaz.sh) - An open-source authorization project for .NET applications.
 
 ## Blazor
 
@@ -729,7 +730,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [CppSharp (⭐2.7k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 *   [Sharpen (⭐369)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 *   [CXXI (⭐197)](https://github.com/mono/cxxi) - C++ interop framework
-*   [pythonnet (⭐3.8k)](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
+*   [pythonnet (⭐3.9k)](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 *   [PInvoke Interop Assistant (⭐378)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
 *   [pinvoke (⭐2k)](https://github.com/dotnet/pinvoke) - A library containing P/Invoke code for latest Windows OS.
 *   [LegacyWrapper (⭐73)](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).

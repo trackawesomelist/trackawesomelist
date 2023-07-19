@@ -66,7 +66,7 @@ Other places you can look for MicroPython Libraries:
 
 *   [MicroMLP (⭐154)](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
 *   [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network for MicroPython.
-*   [upython-chat-gpt (⭐2)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
+*   [upython-chat-gpt (⭐3)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 
 ### Audio
 
@@ -680,6 +680,7 @@ Other places you can look for MicroPython Libraries:
 *   [ad9850\_signalgen (⭐0)](https://github.com/brenn/ad9850_signalgen) - MicroPython library for AD9850 synthesizer.
 *   [pico-wave-vibration-generator (⭐3)](https://github.com/gurgleapps/pico-wave-vibration-generator) - A MicroPython-based frequency generator for Raspberry Pi Pico designed to create vibrations on solenoids or speakers, enabling wave experimentation and exploration at home.
 *   [micropython-m5stack-dds (⭐0)](https://github.com/mattytrentini/micropython-m5stack-dds) - MicroPython driver for the M5Stack DDS frequency generator.
+*   [AD9833-MicroPython-Module (⭐0)](https://github.com/owainm713/AD9833-MicroPython-Module) - MicroPython module to use the AD9833 programable waveform generator.
 
 ### Mathematics
 
@@ -883,6 +884,7 @@ Other places you can look for MicroPython Libraries:
 *   [MicroPython\_MLX90393 (⭐0)](https://github.com/jposada202020/MicroPython_MLX90393) - MicroPython Driver for the MLX90393 Magnetometer.
 *   [MicroPython\_MMC5603 (⭐0)](https://github.com/jposada202020/MicroPython_MMC5603) - MicroPython driver for the Memsic MMC5603 Magnetometer.
 *   [MicroPython\_BMM150 (⭐1)](https://github.com/jposada202020/MicroPython_BMM150) - MicroPython Driver for the Bosch BMM150 Magnetometer.
+*   [MicroPython\_MMC5983 (⭐0)](https://github.com/jposada202020/MicroPython_MMC5983) - MicroPython Library for the Memsic MMC5983 Magnetometer.
 
 #### Motion Inertial
 

@@ -327,44 +327,24 @@ Thanks to our main contributors
 
 ### [↑](#-Table-of-Contents) Twitter
 
-*   [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
-*   [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
-*   [Blue Nod](http://bluenod.com)
 *   [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 *   [Foller.me](http://foller.me)
-*   [Followerwonk](http://followerwonk.com)
-*   [GeoSocial Footprint](http://geosocialfootprint.com)
-*   [GetTwitterID](http://gettwitterid.com)
-*   [Ground Signal](https://www.groundsignal.com)
 *   [HappyGrumpy](https://www.happygrumpy.com)
-*   [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
-*   [Hashtagify](http://hashtagify.me)
-*   [Hashtags.org](http://www.hashtags.org)
 *   [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 *   [OneMillionTweetMap](http://onemilliontweetmap.com)
 *   [RiteTag](https://ritetag.com)
 *   [Sentiment140](http://www.twittersentiment.appspot.com)
-*   [Social Bearing](http://www.socialbearing.com)
-*   [Spoonbill](http://spoonbill.io)
 *   [Tagdef](https://tagdef.com)
-*   [Tinfoleak](https://tinfoleak.com)
 *   [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 *   [Trends24](http://trends24.in)
-*   [TrendsMap](http://trendsmap.com)
-*   [Todaytagz](https://todaytagz.com)
 *   [TwChat](http://twchat.com)
-*   [TweetArchivist](http://www.tweetarchivist.com)
 *   [TweetDeck](https://www.tweetdeck.com)
 *   [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 *   [TweetMap](http://worldmap.harvard.edu/tweetmap)
-*   [TweetStats](http://www.tweetstats.com)
-*   [Twiangulate](http://www.twiangulate.com)
-*   [Twitonomy](http://www.twitonomy.com)
 *   [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
 *   [Twitter Audit](https://www.twitteraudit.com)
 *   [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
 *   [Twitter Search](http://search.twitter.com)
-*   [Schedule Warble](https://warble.co)
 
 ### [↑](#-Table-of-Contents) Facebook
 
@@ -713,6 +693,7 @@ Thanks to our main contributors
 *   [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 *   [urlQuery](http://urlquery.net)
 *   [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
+*   [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 *   [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 *   [Website Informer](http://website.informer.com)
 *   [WebsiteTechMiner.py (⭐0)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
@@ -825,7 +806,7 @@ Thanks to our main contributors
 *   [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [yt-dlp (⭐50k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐51k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 *   [Video Stabilization Methods (⭐236)](https://github.com/yaochih/awesome-video-stabilization)
 *   [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 

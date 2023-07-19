@@ -6,6 +6,28 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 19, 2023](/content/2023/07/19/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [Libreddit (⭐4.8k)](https://github.com/libreddit/libreddit) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
+
+### Software / Document Management - E-books
+
+*   [Mango (⭐1.4k)](https://github.com/getmango/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal/Docker`
+
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [Uguu (⭐639)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [Crafty Controller](https://craftycontrol.com/) - Crafty Controller is a free and open-source Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface. ([Source Code](https://gitlab.com/crafty-controller/crafty-4)) `GPL-3.0` `Docker/Python`
+
+### Software / Software Development - API Management
+
+*   [Psychic](https://www.psychic.dev/) - Universal API to connect large language models to dynamic data sources. ([Source Code (⭐1.4k)](https://github.com/psychic-api/psychic)) `GPL-3.0` `Python`
+
 ## [Jul 16, 2023](/content/2023/07/16/README.md)
 
 ### Software / Photo and Video Galleries
@@ -17,10 +39,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Database Management
 
 *   [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code (⭐17k)](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
-
-### Software / Document Management - E-books
-
-*   [Mango (⭐1.4k)](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal/Docker`
 
 ## [Jul 13, 2023](/content/2023/07/13/README.md)
 
@@ -177,7 +195,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Dovel](https://dovel.email) - SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails. ([Source Code](https://blmayer.dev/x/dovel)) `LGPL-3.0` `Go`
+*   [Dovel](https://dovel.email) - SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails. ([Source Code](https://git.derelict.garden/dovel/email/tree)) `LGPL-3.0` `Go`
 
 ## [Jun 18, 2023](/content/2023/06/18/README.md)
 
@@ -682,10 +700,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jan 27, 2023](/content/2023/01/27/README.md)
 
-### Software / Communication - Social Networks and Forums
-
-*   [Libreddit (⭐4.7k)](https://github.com/spikecodes/libreddit/) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
-
 ### Software / Communication - XMPP - Web Clients
 
 *   [Libervia](https://repos.goffi.org/libervia-web) - Web frontend from Salut à Toi. `AGPL-3.0` `Python`
@@ -759,10 +773,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Note-taking & Editors
 
 *   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Source Code (⭐518)](https://github.com/fr0tt/benotes)) `MIT` `PHP`
-
-### Software / Wikis
-
-*   [PukiWiki](https://pukiwiki.osdn.jp/) - PukiWiki is a free, simple, open-source wiki management system. Minimalistic and simple design with many tools for collaborative work. Created in Japanese, so translator needed. ([Source Code](https://ja.osdn.net/projects/pukiwiki/scm/git/pukiwiki/)) `GPL-2.0` `PHP`
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
@@ -1446,7 +1456,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Recipe Management
 
 *   [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐3.3k)](https://github.com/hay-kot/mealie)) `MIT` `Python`
-*   [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code (⭐4.2k)](https://github.com/vabene1111/recipes/)) `MIT` `Python`
+*   [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code (⭐4.2k)](https://github.com/TandoorRecipes/recipes)) `MIT` `Python`
 
 ## [Aug 01, 2022](/content/2022/08/01/README.md)
 
@@ -1997,7 +2007,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Time Tracking
 
 *   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐8.8k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
-*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.3k)](https://github.com/kevinpapst/kimai2/)) `MIT` `PHP`
+*   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐2.3k)](https://github.com/kimai/kimai)) `MIT` `PHP`
 *   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐732)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 
 ## [Apr 29, 2022](/content/2022/04/29/README.md)
@@ -2575,7 +2585,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [CMS Made Simple](https://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL-2.0` `PHP`
 *   [Cockpit](https://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code (⭐218)](https://github.com/Cockpit-HQ/Cockpit)) `MIT` `PHP`
-*   [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code (⭐735)](https://github.com/concrete5/concrete5)) `MIT` `PHP`
+*   [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code (⭐737)](https://github.com/concretecms/concretecms)) `MIT` `PHP`
 *   [CouchCMS](https://www.couchcms.com/) - Simple Open-Source CMS for designers. ([Source Code (⭐320)](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`
 *   [Drupal](https://www.drupal.org/) - Advanced open source content management platform. ([Source Code](https://git.drupalcode.org/project/drupal)) `GPL-2.0` `PHP`
 *   [eLabFTW](https://www.elabftw.net) - Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators…. ([Demo](https://demo.elabftw.net), [Source Code (⭐766)](https://github.com/elabftw/elabftw)) `AGPL-3.0` `PHP`
@@ -4346,7 +4356,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐515)](https://github.com/SimpleMachines/SMF2.1)) `BSD-3-Clause` `PHP`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐514)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ### Software / Pastebins
 
@@ -4356,7 +4366,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐8.3k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐8.6k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [Oct 19, 2018](/content/2018/10/19/README.md)
 
@@ -4639,7 +4649,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐6.3k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code (⭐6.4k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 
 ### Software / Communication - IRC
 
@@ -4689,7 +4699,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache-2.0` `Java`
 *   [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code (⭐2.2k)](https://github.com/loomio/loomio)) `AGPL-3.0` `Docker`
-*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code (⭐42k)](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`
+*   [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code (⭐43k)](https://github.com/mastodon/mastodon)) `AGPL-3.0` `Ruby`
 *   [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code (⭐966)](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`
 *   [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([Source Code (⭐1.7k)](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`
 *   [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code (⭐2.7k)](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`
@@ -4723,7 +4733,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [Files Sharing (⭐94)](https://github.com/axeloz/filesharing) - Open Source and self-hosted files sharing application based on unique and temporary links. `GPL-3.0` `PHP`
-*   [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code (⭐639)](https://github.com/nokonoko/uguu)) `MIT` `PHP`
 
 ### Software / Human Resources Management (HRM)
 

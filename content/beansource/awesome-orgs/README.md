@@ -2,9 +2,15 @@
 
 🥰 List of awesome GitHub organizations
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/beansource/awesome-orgs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 beansource/awesome-orgs](https://github.com/beansource/awesome-orgs) · ⭐ 11 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/beansource/awesome-orgs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 beansource/awesome-orgs](https://github.com/beansource/awesome-orgs) · ⭐ 13 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/beansource/awesome-orgs/week/README.md) / [Overview](/content/beansource/awesome-orgs/readme/README.md) ]
+
+## [Jul 19, 2023](/content/2023/07/19/README.md)
+
+### Other
+
+*   [Studio Freight Darkroom](https://github.com/studio-freight) - Curating the best of open source, remixing it, sampling it, and making magic with it.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 

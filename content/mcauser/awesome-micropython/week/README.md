@@ -6,6 +6,16 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ [Daily](/content/mcauser/awesome-micropython/README.md) / Weekly / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
+
+### IO / Waveform Generator
+
+*   [AD9833-MicroPython-Module (⭐0)](https://github.com/owainm713/AD9833-MicroPython-Module) - MicroPython module to use the AD9833 programable waveform generator.
+
+### Sensors / Magnetometer
+
+*   [MicroPython\_MMC5983 (⭐0)](https://github.com/jposada202020/MicroPython_MMC5983) - MicroPython Library for the Memsic MMC5983 Magnetometer.
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Communications / Web
@@ -36,7 +46,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### AI
 
-*   [upython-chat-gpt (⭐2)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
+*   [upython-chat-gpt (⭐3)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
 
 ### Communications / APIs
 

@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
+
+### Code & Database Assistant
+
+- Name: [Hiphops AI](https://www.hiphops.io/ai)
+
+  Title: Inject AI Anywhere In Your Dev Workflow
+
+  Description: Hiphops AI lets you integrate generative AI anywhere in your development workflow so you can fully automate you development, testing, deployment and release process.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Upcoming ProductHunt Launches 🚀

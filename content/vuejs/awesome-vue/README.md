@@ -6,13 +6,19 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jul 19, 2023](/content/2023/07/19/README.md)
+
+### Components & Libraries / UI Components
+
+*   [@tato30/vue-pdf (⭐85)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
+
 ## [Jul 13, 2023](/content/2023/07/13/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [tanstack-table (⭐22k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐3)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐93)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐126)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [@kolirt/vue-web3-auth (⭐4)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
@@ -121,8 +127,8 @@
 
 ### Resources / Examples
 
-*   [Vitesse Starter (⭐7.6k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
-*   [Vitesse-lite Starter (⭐884)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+*   [Vitesse Starter (⭐7.8k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
+*   [Vitesse-lite Starter (⭐896)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 
 ## [Apr 24, 2023](/content/2023/04/24/README.md)
 
@@ -156,7 +162,7 @@
 ### Components & Libraries / Frameworks
 
 *   [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
-*   [îles (⭐976)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
+*   [îles (⭐984)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
 
 ### Components & Libraries / UI Utilities
 
@@ -166,7 +172,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vite-plugin-vue-preview (⭐14)](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
+*   [vite-plugin-vue-preview (⭐18)](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
 
 ## [Jan 28, 2023](/content/2023/01/28/README.md)
 
@@ -220,7 +226,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vutron (⭐84)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+*   [Vutron (⭐87)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -401,7 +407,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vitify Admin (⭐90)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
+*   [Vitify Admin (⭐93)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 
 ## [Aug 06, 2022](/content/2022/08/06/README.md)
 
@@ -857,7 +863,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐287)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐289)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [Feb 16, 2022](/content/2022/02/16/README.md)
 
@@ -1229,7 +1235,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Context Note (⭐654)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
+*   [Context Note (⭐657)](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 
 ## [Sep 24, 2021](/content/2021/09/24/README.md)
 
@@ -1907,7 +1913,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐397)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐401)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [Feb 01, 2021](/content/2021/02/01/README.md)
 
@@ -4665,7 +4671,7 @@
 *   [Awesome Vue Boilerplate (⭐63)](https://github.com/NarHakobyan/awesome-vue-boilerplate) - 😍 Awesome Vue, 🥰 Vuex, Vuex-pathify, element-ui, tailwindcss
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Vue applications with SQL, MongoDB or Firebase Firestore databases.
 *   [VuePlay](https://christiankienle.github.io/vueplay/) - Generate disposable Vue playgrounds in seconds. Allows you to test things quickly.
-*   [Mevn-CLI (⭐807)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN stack based apps.
+*   [Mevn-CLI (⭐809)](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN stack based apps.
 *   [vue-cli-template-registry (⭐2)](https://github.com/eliranmal/vue-cli-template-registry) - A solution for installing vue-cli custom templates hosted on private/enterprise repositories.
 *   [Vuejs Firebase CRUD Starter with Auth (⭐16)](https://github.com/Timtech4u/vuejs-firebase-cruder)
 *   [vue-enterprise-boilerplate (⭐7.7k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
@@ -5531,7 +5537,7 @@
 *   [Lulumi-browser (⭐417)](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
 *   [vue-wordpress-pwa (⭐694)](https://github.com/bstavroulakis/vue-wordpress-pwa)
 *   [OpenAPI 3 viewer (⭐90)](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
-*   [Stacer (⭐8.4k)](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
+*   [Stacer (⭐8.5k)](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
 *   [Distrochooser.de (⭐4)](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
 *   [Buka (⭐1k)](https://github.com/oguzhaninan/Buka) - EBook Management
 *   [Docute (⭐3.7k)](https://github.com/egoist/docute) - A framework for writing documentation without build process
@@ -6871,7 +6877,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐793)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐794)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ## [May 18, 2017](/content/2017/05/18/README.md)
 

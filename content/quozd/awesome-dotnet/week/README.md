@@ -6,6 +6,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ [Daily](/content/quozd/awesome-dotnet/README.md) / Weekly / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
+
+### Authentication and Authorization
+
+*   [Topaz](https://www.topaz.sh) - An open-source authorization project for .NET applications.
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Object to object mapping
@@ -2371,7 +2377,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Interoperability
 
-*   [pythonnet (⭐3.8k)](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
+*   [pythonnet (⭐3.9k)](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 
 ### SMS and Phone calls
 
