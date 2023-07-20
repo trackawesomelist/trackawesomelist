@@ -1,31 +1,98 @@
 # Awesome List Updates on Jul 20, 2023
 
-14 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [shoes (⭐60)](https://github.com/cfal/shoes) - A multi-protocol proxy server
+
+## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+
+### Motion / Servo
+
+*   [MicroPython\_MOTOR (⭐0)](https://github.com/jposada202020/MicroPython_MOTOR) - MicroPython Helper for controlling PWM based motors.
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Utilities / Productivity
+
+*   [Parrotflow](https:/parrotflow.com) - Copilot for your Mac. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/id6450801102?)
+
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-hierarchy (⭐0)](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### (requires Neovim 0.5)
+
+*   [nvimdev/lspsaga.nvim (⭐2.9k)](https://github.com/nvimdev/lspsaga.nvim) - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [nvimdev/zephyr-nvim (⭐297)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
+
+### Startup / Diagnostics
+
+*   [nvimdev/dashboard-nvim (⭐1.6k)](https://github.com/nvimdev/dashboard-nvim) - A minimalist dashboard, inspired by doom-emacs.
+
+### Formatting / Diagnostics
+
+*   [elentok/format-on-save.nvim (⭐39)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
+
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [An Introduction to the USA Computing Olympiad, C++ Edition](https://darrenyao.com/usacobook/cpp.pdf) - Darren Yao (PDF)
+
+### Java / Bootstrap
+
+*   [An Introduction to the USA Computing Olympiad, Java Edition](https://darrenyao.com/usacobook/java.pdf) - Darren Yao (PDF)
+
+### JavaScript / Wicket
+
+*   [JavaScript with Classes](https://diogoeichert.github.io/JSwC.epub) - Diogo Eichert (EPUB)
+
+### Python / PyOpenCl
+
+*   [Programming GPUs with Python: PyOpenCL and PyCUDA](http://homepages.math.uic.edu/~jan/mcs572f16/mcs572notes/lec29.html) - Jan Verschelde, University of Illinois Chicago (HTML)
+*   [PyOpenCl Documentation](https://documen.tician.de/pyopencl/) - Andreas Kloeckner (HTML)
+
+## [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+
+### External Resources / Other external resources
+
+*   [RailsNotes Blog](https://railsnotes.xyz) — The Ruby on Rails guides you wished you had!
+
+## [8. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
 ### Coding
 
 *   [I Don't Care About Commit Message (VS Code Extension) (⭐75)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Meta-Level Considerations / The Aha! Moment
 
 *   [Insight Is Not in the Problem: Investigating Insight in Problem Solving across Task Types](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01424/full) - ***Frontiers in Psychology***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=4564128114316001308\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
-## [3. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [10. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [Facebook](https://research.facebook.com/publications/)
 *   [Microsoft Research](https://www.microsoft.com/en-us/research/publications/)
 
-## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Wikipedia
 
@@ -35,13 +102,13 @@
 
 *   [Loggit](https://loggit.net) - Simple and Encrypted Life Tracking & Logging.
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [12. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### OS and Kernels / MIT
 
 *   [hirtos (⭐11)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
-## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [13. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Reddit
 
@@ -67,30 +134,41 @@
 *   [SimplyTranslate](https://codeberg.org/SimpleWeb/SimplyTranslate-Web): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
     *   Home page and public instances: <https://simple-web.org/projects/simplytranslate.html>
 
-## [7. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [14. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Development / Frameworks and Libraries
 
 *   [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements. Support will be included in release 1.8.3. Until then, build from master branch of the [GitHub repository (⭐785)](https://github.com/x3dom/x3dom).
     *   [Official Documentation](https://doc.x3dom.org/)
 
-## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
+
+*   [CoPrompt](https://www.coprompt.io/login): platform for teams to use ChatGPT together
 
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
+*   [BrainstormGPT](https://brainstormgpt.ai/#/): AI multi-agent problem solving
 *   [ChatArena](https://www.chatarena.org/): building multi-agent environments for LLMs
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Image Upscaling / Generative Adversarial Networks (GANs)
 
+*   [Remini - AI Photo Enhancer](https://remini.ai/): photo and video enhancer
+
+### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+
+*   [Shaunwei/RealChar (⭐3.3k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
+*   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 *   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
-## [9. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [16. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### services
 
 *   [geojson minify](https://open-innovations.github.io/geojson-minify/): Minifier (compressor) to reduce file sizes
 
-## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [17. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
@@ -109,19 +187,19 @@
 
 *   🚀 [Tailwind sites](https://tailwindsites.com) - Free Tailwind CSS site templates for your next project.
 
-## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [18. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
 *   [zoom-image (⭐164)](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
 
-## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [19. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Ruby / Svelte
 
 *   [The RailsNotes Newsletter](https://railsnotes.xyz/newsletter). The Ruby on Rails guides you wished you had — now as a weekly newsletter!
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -133,7 +211,11 @@
 *   [theozera (⭐0)](https://github.com/theogandara/zsh-theme) - Includes decorators for `git` status, a truncated current directory, and the exit status of the last command run.
 *   [vtex (⭐0)](https://github.com/charleseduardome/oh-my-zsh-vtex) - Includes decorators for `git` status, current directory, vtex account and vtex workspace.
 
-## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [21. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Mail
+
+*   [Resend](https://resend.com/) - Email API to build, test, and deliver transactional emails.
 
 ### Security
 

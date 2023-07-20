@@ -8,6 +8,10 @@ A curated list of awesome developer-first tools products.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
+### Mail
+
+*   [Resend](https://resend.com/) - Email API to build, test, and deliver transactional emails.
+
 ### Security
 
 *   [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. ![Infisical](https://img.shields.io/github/contributors-anon/infisical/infisical?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)

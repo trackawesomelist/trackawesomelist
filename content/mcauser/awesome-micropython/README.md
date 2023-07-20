@@ -6,6 +6,12 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jul 20, 2023](/content/2023/07/20/README.md)
+
+### Motion / Servo
+
+*   [MicroPython\_MOTOR (⭐0)](https://github.com/jposada202020/MicroPython_MOTOR) - MicroPython Helper for controlling PWM based motors.
+
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
 ### IO / Waveform Generator

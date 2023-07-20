@@ -8,12 +8,23 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
+
+*   [CoPrompt](https://www.coprompt.io/login): platform for teams to use ChatGPT together
+
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
+*   [BrainstormGPT](https://brainstormgpt.ai/#/): AI multi-agent problem solving
 *   [ChatArena](https://www.chatarena.org/): building multi-agent environments for LLMs
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Image Upscaling / Generative Adversarial Networks (GANs)
 
+*   [Remini - AI Photo Enhancer](https://remini.ai/): photo and video enhancer
+
+### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+
+*   [Shaunwei/RealChar (⭐3.3k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
+*   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 *   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
@@ -859,7 +870,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
 
 *   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
 
@@ -953,7 +964,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
@@ -1013,7 +1024,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
 
 *   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 
@@ -1036,7 +1047,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Stable Diffusion KLMC2 Animation.ipynb forked](https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb): fork by [@DigThatData](https://twitter.com/DigThatData)
 *   [Stable Diffusion KLMC2 Animation.ipynb](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G): notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
 
 *   [neonbjb/tortoise-tts (⭐8.1k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 
@@ -1377,7 +1388,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Runway ML](http://runwayml.com/): AI video creation suite
 *   [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 
-### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
 
 *   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
 *   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]

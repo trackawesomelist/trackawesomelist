@@ -12,6 +12,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 *   [AD9833-MicroPython-Module (⭐0)](https://github.com/owainm713/AD9833-MicroPython-Module) - MicroPython module to use the AD9833 programable waveform generator.
 
+### Motion / Servo
+
+*   [MicroPython\_MOTOR (⭐0)](https://github.com/jposada202020/MicroPython_MOTOR) - MicroPython Helper for controlling PWM based motors.
+
 ### Sensors / Magnetometer
 
 *   [MicroPython\_MMC5983 (⭐0)](https://github.com/jposada202020/MicroPython_MMC5983) - MicroPython Library for the Memsic MMC5983 Magnetometer.

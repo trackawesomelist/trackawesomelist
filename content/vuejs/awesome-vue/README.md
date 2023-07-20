@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jul 20, 2023](/content/2023/07/20/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-hierarchy (⭐0)](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
+
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
 ### Components & Libraries / UI Components
@@ -665,7 +671,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Bagisto (⭐6.5k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐6.9k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [vue-birthday-reminder (⭐2)](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue3.
 
 ### Components & Libraries / UI Components
@@ -5962,7 +5968,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Socialhome (⭐341)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐343)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ## [Apr 28, 2018](/content/2018/04/28/README.md)
 
