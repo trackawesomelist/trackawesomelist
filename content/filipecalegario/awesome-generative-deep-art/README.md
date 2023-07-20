@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 20, 2023](/content/2023/07/20/README.md)
+
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
+
+*   [ChatArena](https://www.chatarena.org/): building multi-agent environments for LLMs
+
+### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+
+*   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
+
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository

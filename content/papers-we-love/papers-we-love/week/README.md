@@ -2,9 +2,16 @@
 
 Papers from the computer science community to read and discuss.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 68K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 75K · 🏷️ Theory
 
 [ [Daily](/content/papers-we-love/papers-we-love/README.md) / Weekly / [Overview](/content/papers-we-love/papers-we-love/readme/README.md) ]
+
+## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [Facebook](https://research.facebook.com/publications/)
+*   [Microsoft Research](https://www.microsoft.com/en-us/research/publications/)
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
@@ -16,7 +23,7 @@ Papers from the computer science community to read and discuss.
 
 ### Info / How To Read a Paper
 
-*   [Advice on reading academic papers](https://userpages.umbc.edu/\~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+*   [Advice on reading academic papers](https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 
 ## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
 
@@ -28,7 +35,7 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/\~rwh/papers/index.html)
+*   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/~rwh/papers/index.html)
 
 ## [Feb 19 - Feb 25, 2018](/content/2018/8/README.md)
 
@@ -41,7 +48,6 @@ Papers from the computer science community to read and discuss.
 ### Info / Other Good Places to Find Papers
 
 *   [2 Minute Papers](https://www.youtube.com/user/keeroyz)
-*   [Facebook](https://research.fb.com/publications/)
 
 ## [Aug 29 - Sep 04, 2016](/content/2016/35/README.md)
 
@@ -87,8 +93,7 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
-*   [Services Engineering Reading List (⭐3.4k)](https://github.com/mmcgrana/services-engineering)
+*   [Services Engineering Reading List (⭐3.5k)](https://github.com/mmcgrana/services-engineering)
 *   [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 
 ## [Apr 14 - Apr 20, 2014](/content/2014/15/README.md)

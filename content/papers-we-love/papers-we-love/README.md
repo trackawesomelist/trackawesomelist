@@ -2,9 +2,16 @@
 
 Papers from the computer science community to read and discuss.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 68K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 75K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/papers-we-love/papers-we-love/week/README.md) / [Overview](/content/papers-we-love/papers-we-love/readme/README.md) ]
+
+## [Jul 20, 2023](/content/2023/07/20/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [Facebook](https://research.facebook.com/publications/)
+*   [Microsoft Research](https://www.microsoft.com/en-us/research/publications/)
 
 ## [Oct 01, 2022](/content/2022/10/01/README.md)
 
@@ -16,7 +23,7 @@ Papers from the computer science community to read and discuss.
 
 ### Info / How To Read a Paper
 
-*   [Advice on reading academic papers](https://userpages.umbc.edu/\~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+*   [Advice on reading academic papers](https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 
 ## [Jun 18, 2020](/content/2020/06/18/README.md)
 
@@ -28,19 +35,13 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/\~rwh/papers/index.html)
+*   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/~rwh/papers/index.html)
 
 ## [Feb 22, 2018](/content/2018/02/22/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [Security Data Science Papers](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-
-## [Nov 05, 2017](/content/2017/11/05/README.md)
-
-### Info / Other Good Places to Find Papers
-
-*   [Facebook](https://research.fb.com/publications/)
 
 ## [Nov 04, 2017](/content/2017/11/04/README.md)
 
@@ -98,8 +99,7 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
-*   [Services Engineering Reading List (⭐3.4k)](https://github.com/mmcgrana/services-engineering)
+*   [Services Engineering Reading List (⭐3.5k)](https://github.com/mmcgrana/services-engineering)
 
 ## [Apr 09, 2014](/content/2014/04/09/README.md)
 

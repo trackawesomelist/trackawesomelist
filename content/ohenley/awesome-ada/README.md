@@ -6,11 +6,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ Daily / [Weekly](/content/ohenley/awesome-ada/week/README.md) / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
-## [Jul 19, 2023](/content/2023/07/19/README.md)
+## [Jul 20, 2023](/content/2023/07/20/README.md)
 
 ### OS and Kernels / MIT
 
-*   [HiRTOS (⭐11)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
+*   [hirtos (⭐11)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
+
+## [Jul 19, 2023](/content/2023/07/19/README.md)
 
 ### Sound / MIT
 

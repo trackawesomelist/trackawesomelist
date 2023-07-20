@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
+
+### Security
+
+*   [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. ![Infisical](https://img.shields.io/github/contributors-anon/infisical/infisical?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Analytics
@@ -14,7 +20,7 @@ A curated list of awesome developer-first tools products.
 
 ### Messaging
 
-*   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management.
+*   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management. ![Novu](https://img.shields.io/github/contributors-anon/novuhq/novu?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -30,12 +36,12 @@ A curated list of awesome developer-first tools products.
 
 ### Automation
 
-*   [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool.
-*   [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand.
+*   [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. ![n8n](https://img.shields.io/github/contributors-anon/n8n-io/n8n?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. ![trigger.dev](https://img.shields.io/github/contributors-anon/triggerdotdev/trigger.dev?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Feature Flags
 
-*   [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution.
+*   [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution. ![Unleash](https://img.shields.io/github/contributors-anon/unleash/unleash?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Testing
 
@@ -85,7 +91,7 @@ A curated list of awesome developer-first tools products.
 
 ### Analytics
 
-*   [PostHog](https://posthog.com/) - Open-source product analytics platform.
+*   [PostHog](https://posthog.com/) - Open-source product analytics platform. ![PostHog](https://img.shields.io/github/contributors-anon/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Authentication & Identity
 
@@ -95,11 +101,11 @@ A curated list of awesome developer-first tools products.
 
 ### Databases & Spreadsheets
 
-*   [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics.
+*   [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Search
 
-*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine.
+*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine. ![Meilisearch](https://img.shields.io/github/contributors-anon/meilisearch/meilisearch?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -156,7 +162,7 @@ A curated list of awesome developer-first tools products.
 
 ### Search
 
-*   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
+*   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service. ![Typesense](https://img.shields.io/github/contributors-anon/typesense/typesense?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Security
 
@@ -208,7 +214,7 @@ A curated list of awesome developer-first tools products.
 
 ### CMS (headless)
 
-*   [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript.
+*   [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript. ![Strapi](https://img.shields.io/github/contributors-anon/strapi/strapi?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
@@ -220,7 +226,7 @@ A curated list of awesome developer-first tools products.
 
 ### Analytics
 
-*   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool.
+*   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. ![Plausible](https://img.shields.io/github/contributors-anon/plausible/analytics?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Debugging
 
@@ -248,7 +254,7 @@ A curated list of awesome developer-first tools products.
 
 ### Feature Flags
 
-*   [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform.
+*   [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. ![GrowthBook](https://img.shields.io/github/contributors-anon/growthbook/growthbook?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -286,7 +292,7 @@ A curated list of awesome developer-first tools products.
 
 ### Documentation
 
-*   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
+*   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). ![Mintlify](https://img.shields.io/github/contributors-anon/mintlify/writer?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -299,7 +305,7 @@ A curated list of awesome developer-first tools products.
 ### Infrastructure as Code
 
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
-*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
+*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...). ![Terraform](https://img.shields.io/github/contributors-anon/hashicorp/terraform?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
@@ -317,13 +323,13 @@ A curated list of awesome developer-first tools products.
 
 ### Authentication & Identity
 
-*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI.
+*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. ![SuperTokens](https://img.shields.io/github/contributors-anon/supertokens/supertokens-core?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
 ### CI/CD
 
-*   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments.
+*   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. ![Gitpod](https://img.shields.io/github/contributors-anon/gitpod-io/gitpod?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
 
@@ -388,7 +394,7 @@ A curated list of awesome developer-first tools products.
 
 ### Authentication & Identity
 
-*   [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
+*   [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. ![Hanko](https://img.shields.io/github/contributors-anon/teamhanko/hanko?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Media
 
@@ -420,7 +426,7 @@ A curated list of awesome developer-first tools products.
 
 ### Databases & Spreadsheets
 
-*   [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
+*   [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
 
@@ -598,7 +604,7 @@ A curated list of awesome developer-first tools products.
 
 ### CMS (headless)
 
-*   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
+*   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). ![Ghost](https://img.shields.io/github/contributors-anon/tryghost/ghost?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ### Testing
 

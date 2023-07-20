@@ -12,6 +12,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The Generative AI Revolution: Exploring the Current Landscape | by Towards AI Editorial Team | Jun, 2023 | Towards AI](https://pub.towardsai.net/the-generative-ai-revolution-exploring-the-current-landscape-4b89998fcc5f)
 
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
+
+*   [ChatArena](https://www.chatarena.org/): building multi-agent environments for LLMs
+
 ### Inbox: Stable Diffusion / For text-to-image
 
 *   [Complete guide to samplers in Stable Diffusion - Félix Sanz](https://www.felixsanz.dev/articles/complete-guide-to-samplers-in-stable-diffusion)
@@ -19,6 +23,10 @@ A curated list of Generative AI tools, works, models, and references
 ### Discussions and Philosophy / Critical Views about Generative AI
 
 *   [Hollywood studios proposed AI contract that would give them likeness rights ‘for the rest of eternity’ - The Verge](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
+
+### Inbox: Text-to-speech (TTS) tools / Generative Adversarial Networks (GANs)
+
+*   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
