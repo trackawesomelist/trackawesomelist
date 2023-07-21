@@ -8,6 +8,10 @@ Curated list of resources on HashiCorp's Terraform
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
+### Tools / Vendor supported providers
+
+*   [terragrunt-atlantis-config (⭐477)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
+
 ### Terraform Enterprise / Vendor supported providers
 
 *   [cloud-concierge (⭐15)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
@@ -627,7 +631,7 @@ Curated list of resources on HashiCorp's Terraform
 
 ### Tools / Vendor supported providers
 
-*   [Checkov (⭐5.7k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [Checkov (⭐5.8k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 *   [TerraDepot (⭐60)](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
 *   [Terraform-Visual (⭐501)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
 *   [terratag (⭐799)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.

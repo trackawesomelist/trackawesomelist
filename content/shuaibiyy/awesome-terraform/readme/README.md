@@ -295,7 +295,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [aws2tf (⭐276)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 *   [aztfexport (⭐1.2k)](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
 *   [blast radius (⭐1.9k)](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
-*   [Checkov (⭐5.7k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
+*   [Checkov (⭐5.8k)](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 *   [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 *   [driftctl (⭐2.3k)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
 *   [flora (⭐20)](https://github.com/ketchoop/flora) - Terraform version manager.
@@ -359,6 +359,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraformsh (⭐51)](https://github.com/pwillis-els/terraformsh) - A wrapper in Bash for easier CLI UX and DRY hierarchical configs
 *   [Terraform-Visual (⭐501)](https://github.com/hieven/terraform-visual) - A simple but powerful tool to visualize Terraform plan.
 *   [terragrunt (⭐6.9k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+*   [terragrunt-atlantis-config (⭐477)](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 *   [Terrahaxs](https://www.terrahaxs.com) - A GitOps Terraform CI/CD GitHub Application :heavy\_dollar\_sign:
 *   [terrahelp (⭐373)](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 *   [terrahub (⭐220)](https://github.com/TerraHubCorp/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:

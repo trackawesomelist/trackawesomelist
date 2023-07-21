@@ -190,6 +190,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Autonomous LLM Agents
 
+*   [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 *   [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
 *   [BrainstormGPT](https://brainstormgpt.ai/#/): AI multi-agent problem solving
 *   [ChatArena](https://www.chatarena.org/): building multi-agent environments for LLMs
@@ -535,6 +536,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Critical Views about Generative AI
 
+*   [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 *   [Hollywood studios proposed AI contract that would give them likeness rights ‘for the rest of eternity’ - The Verge](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
 *   [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 *   [Inside the AI Factory: the humans that make tech seem human - The Verge](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots?s=08)

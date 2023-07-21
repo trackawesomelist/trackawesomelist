@@ -10,6 +10,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
+*   [HiPhish/rainbow-delimiters.nvim (⭐92)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
 *   [00sapo/visual.nvim (⭐68)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
@@ -648,12 +649,6 @@ Collections of awesome neovim plugins.
 ### Project / Diagnostics
 
 *   [jinzhongjia/PS\_manager.nvim (⭐6)](https://github.com/jinzhongjia/PS_manager.nvim) - Multi-project management, switch pwd automatically.
-
-## [Jan 26, 2023](/content/2023/01/26/README.md)
-
-### Editing Support / Diagnostics
-
-*   [mrjones2014/nvim-ts-rainbow (⭐185)](https://github.com/mrjones2014/nvim-ts-rainbow) - Rainbow :rainbow: delimiters using tree-sitter :rainbow:.
 
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 

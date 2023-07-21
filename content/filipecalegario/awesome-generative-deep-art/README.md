@@ -14,7 +14,12 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
+*   [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 *   [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 
 ### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
 

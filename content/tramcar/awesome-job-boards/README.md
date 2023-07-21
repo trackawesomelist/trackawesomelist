@@ -4,6 +4,12 @@
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Jul 21, 2023](/content/2023/07/21/README.md)
+
+### Programming / Aggregator
+
+*   [Dev Employ](https://devemploy.com/) - Hand-picked developer jobs
+
 ## [Jul 15, 2023](/content/2023/07/15/README.md)
 
 ### Big Data
