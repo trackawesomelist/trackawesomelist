@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 21, 2023](/content/2023/07/21/README.md)
+
+### Editing Support / Diagnostics
+
+*   [00sapo/visual.nvim (⭐68)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
+
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
 ### (requires Neovim 0.5)

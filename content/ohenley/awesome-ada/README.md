@@ -6,6 +6,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ Daily / [Weekly](/content/ohenley/awesome-ada/week/README.md) / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Jul 21, 2023](/content/2023/07/21/README.md)
+
+### Science / MIT
+
+*   [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
+*   [si\_units (⭐6)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
+
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
 ### OS and Kernels / MIT

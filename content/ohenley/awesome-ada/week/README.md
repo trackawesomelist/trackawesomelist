@@ -12,6 +12,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [hirtos (⭐11)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
+### Science / MIT
+
+*   [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
+*   [si\_units (⭐6)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
+
 ### Sound / MIT
 
 *   [adaogg](https://phasercat.com/adaogg/) - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.

@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [shoes (⭐60)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
+### Libraries / Geospatial
+
+*   [MapLibre/Martin (⭐1.2k)](https://github.com/maplibre/martin) — Map tile server with PostGIS, MBTiles, PMTiles, and sprites support. [![CI build](https://github.com/maplibre/martin/workflows/CI/badge.svg)](https://github.com/maplibre/martin/actions)[![crates.io version](https://img.shields.io/crates/v/martin.svg)](https://crates.io/crates/martin)[![Book](https://img.shields.io/badge/docs-Book-informational)](https://maplibre.org/martin/)
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Applications / System tools

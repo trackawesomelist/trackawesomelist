@@ -484,6 +484,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Science
 
 *   [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
+*   [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
+*   [si\_units (⭐6)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
 
 ### Algorithms, Containers and Protocols
 
