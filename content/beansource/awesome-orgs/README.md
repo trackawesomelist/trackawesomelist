@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/beansource/awesome-orgs/week/README.md) / [Overview](/content/beansource/awesome-orgs/readme/README.md) ]
 
+## [Jul 22, 2023](/content/2023/07/22/README.md)
+
+### Other
+
+*   [Tinylibs](https://github.com/tinylibs) - A place for tiny and minimal libraries.
+
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
 ### Other

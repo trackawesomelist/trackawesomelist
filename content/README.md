@@ -43,6 +43,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Multiple Causes of Difficulty in Insight: The Case of the Nine-Dot Problem](https://www.researchgate.net/profile/Trina-Kershaw/publication/8909474_Multiple_Causes_of_Difficulty_in_Insight_The_Case_of_the_Nine-Dot_Problem/links/55dca27e08aeb38e8a8d23b6/Multiple-Causes-of-Difficulty-in-Insight-The-Case-of-the-Nine-Dot-Problem.pdf) - ***Journal of Experimental Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=15600199808825346018\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2003-10949-001)].
 
+#### [5. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+
+##### Extensions / Community
+
+*   [Flexible Editor (⭐5)](https://github.com/formfcw/directus-extension-flexible-editor) - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
+
+#### [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+##### Components & Libraries / Frameworks
+
+*   [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
+
+##### Components & Libraries / UI Utilities
+
+*   [vue-to-print (⭐0)](https://github.com/siaikin/vue-to-print) - Print Vue 3 components in the browser. Supports Chrome, Safari, Firefox and EDGE.
+
+#### [7. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
+
+##### Other
+
+*   [Tinylibs](https://github.com/tinylibs) - A place for tiny and minimal libraries.
+
 ### [Jul 21, 2023](/content/2023/07/21/README.md)
 
 
@@ -93,14 +115,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [cloud-concierge (⭐15)](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
 
-#### [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-##### Components & Libraries / UI Components
-
-*   [vue-use-fixed-header (⭐3)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
-*   [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
-
-#### [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -120,7 +135,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
 *   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
 
-#### [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Related Awesome Lists / Telegram
 
@@ -142,24 +157,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [SecLists (⭐48k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
 *   [security-list (⭐1.6k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
 
-#### [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+#### [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ##### Programming / Aggregator
 
 *   [Dev Employ](https://devemploy.com/) - Hand-picked developer jobs
 
-#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Editing Support / Diagnostics
 
 *   [HiPhish/rainbow-delimiters.nvim (⭐92)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
 *   [00sapo/visual.nvim (⭐68)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
 
-#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Geospatial
 
 *   [MapLibre/Martin (⭐1.2k)](https://github.com/maplibre/martin) — Map tile server with PostGIS, MBTiles, PMTiles, and sprites support. [![CI build](https://github.com/maplibre/martin/workflows/CI/badge.svg)](https://github.com/maplibre/martin/actions)[![crates.io version](https://img.shields.io/crates/v/martin.svg)](https://crates.io/crates/martin)[![Book](https://img.shields.io/badge/docs-Book-informational)](https://maplibre.org/martin/)
+
+#### [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+##### Components & Libraries / UI Components
+
+*   [vue-use-fixed-header (⭐3)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
+*   [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
 ### [Jul 20, 2023](/content/2023/07/20/README.md)
 
@@ -323,13 +345,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [hirtos (⭐11)](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
-#### [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-##### Components & Libraries / UI Components
-
-*   [vue-hierarchy (⭐0)](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
-
-#### [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -350,7 +366,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 *   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
-#### [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### (requires Neovim 0.5)
 
@@ -368,17 +384,23 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [elentok/format-on-save.nvim (⭐39)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 
-#### [20. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [19. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
 *   [shoes (⭐60)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
-#### [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Meta-Level Considerations / The Aha! Moment
 
 *   [Insight Is Not in the Problem: Investigating Insight in Problem Solving across Task Types](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01424/full) - ***Frontiers in Psychology***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=4564128114316001308\&hl=en\&as_sdt=2005\&sciodt=0,5)].
+
+#### [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+##### Components & Libraries / UI Components
+
+*   [vue-hierarchy (⭐0)](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
 
 ---
 
@@ -390,7 +412,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 138K 📝 07&#x2F;19 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 105K 📝 07&#x2F;21 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 4. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 173K 📝 07&#x2F;14 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
-5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 69K 📝 07&#x2F;21 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 69K 📝 07&#x2F;22 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 6. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source ⭐ 75K 📝 07&#x2F;20 ](https://github.com/papers-we-love/papers-we-love)) - Papers from the computer science community to read and discuss.
 7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 62K 📝 07&#x2F;20 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 8. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 71K 📝 07&#x2F;16 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -554,7 +576,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Content Management Systems
 
 - [Awesome](/content/craftcms/awesome/README.md) - ([Source ⭐ 491, 📝 02&#x2F;02 ](https://github.com/craftcms/awesome)) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
-- [Awesome Directus](/content/directus-community/awesome-directus/README.md) - ([Source ⭐ 273, 📝 06&#x2F;24 ](https://github.com/directus-community/awesome-directus)) - A curated list of awesome things related to Directus
+- [Awesome Directus](/content/directus-community/awesome-directus/README.md) - ([Source ⭐ 287, 📝 07&#x2F;22 ](https://github.com/directus-community/awesome-directus)) - A curated list of awesome things related to Directus
 - [Awesome Drupal](/content/nirgn975/awesome-drupal/README.md) - ([Source ⭐ 79, 📝 18&#x2F;07&#x2F;05 ](https://github.com/nirgn975/awesome-drupal)) - Useful resources for Drupal CMS 💧
 - [Awesome Plone](/content/collective/awesome-plone/README.md) - ([Source ⭐ 29, 📝 04&#x2F;28 ](https://github.com/collective/awesome-plone)) - Add-ons and resources for the CMS Plone
 - [Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md) - ([Source ⭐ 29, 📝 16&#x2F;04&#x2F;07 ](https://github.com/refinerycms-contrib/awesome-refinerycms)) - A collection of awesome Refinery CMS extensions, resources and shiny things.
@@ -713,7 +735,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Text Editing](/content/dok/awesome-text-editing/README.md) - ([Source ⭐ 245, 📝 20&#x2F;06&#x2F;18 ](https://github.com/dok/awesome-text-editing)) - Collection of text editing resources and libraries for the web
 - [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4K, 📝 06&#x2F;14 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 - [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 11K, 📝 07&#x2F;08 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-- [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 69K, 📝 07&#x2F;21 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+- [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 69K, 📝 07&#x2F;22 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 - [Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md) - ([Source ⭐ 1.1K, 📝 21&#x2F;09&#x2F;16 ](https://github.com/sergey-pimenov/awesome-web-animation)) - A list of awesome web animation libraries, books, apps etc.
 - [Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md) - ([Source ⭐ 76, 📝 22&#x2F;02&#x2F;19 ](https://github.com/pajaydev/awesome-web-performance-budget)) - ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)
 - [Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md) - ([Source ⭐ 922, 📝 04&#x2F;25 ](https://github.com/notthetup/awesome-webaudio)) - A curated list of awesome WebAudio packages and resources.
@@ -907,7 +929,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md) - ([Source ⭐ 2.8K, 📝 05&#x2F;22 ](https://github.com/unicodeveloper/awesome-opensource-apps)) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md) - ([Source ⭐ 413, 📝 22&#x2F;03&#x2F;20 ](https://github.com/ibaaj/awesome-OpenSourcePhotography)) - A list of awesome free open source software & libraries for photography. Also tools for video.
 - [Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md) - ([Source ⭐ 452, 📝 06&#x2F;17 ](https://github.com/osmlab/awesome-openstreetmap)) - 😎 Curated list of awesome OpenSteetMap-projects
-- [Awesome Orgs](/content/beansource/awesome-orgs/README.md) - ([Source ⭐ 13, 📝 07&#x2F;19 ](https://github.com/beansource/awesome-orgs)) - 🥰 List of awesome GitHub organizations
+- [Awesome Orgs](/content/beansource/awesome-orgs/README.md) - ([Source ⭐ 13, 📝 07&#x2F;22 ](https://github.com/beansource/awesome-orgs)) - 🥰 List of awesome GitHub organizations
 - [Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md) - ([Source ⭐ 25, 📝 02&#x2F;15 ](https://github.com/ecohealthalliance/awesome-parasite)) - A curated list of host-parasite information
 - [Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md) - ([Source ⭐ 503, 📝 22&#x2F;06&#x2F;15 ](https://github.com/tobiasbueschel/awesome-pokemon)) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 - [Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md) - ([Source ⭐ 522, 📝 04&#x2F;09 ](https://github.com/catalinmiron/awesome-prisma)) - A collection of awesome things regarding Prisma ecosystem.

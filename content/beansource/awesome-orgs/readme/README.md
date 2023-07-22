@@ -107,6 +107,7 @@ Curating awesome GitHub organizations\
 
 <!-- @other -->
 
+*   [Tinylibs](https://github.com/tinylibs) - A place for tiny and minimal libraries.
 *   [Studio Freight Darkroom](https://github.com/studio-freight) - Curating the best of open source, remixing it, sampling it, and making magic with it.
 *   [OpenSauced](https://github.com/open-sauced) - The open source intelligence platform for developers and maintainers. Unlock the power of open source with project insights by the slice.
 *   [Words](https://github.com/words) - Linguistic JavaScript modules.

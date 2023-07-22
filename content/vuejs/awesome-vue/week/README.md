@@ -15,6 +15,14 @@
 *   [vue-hierarchy (⭐0)](https://github.com/pratik227/vue-hierarchy) - Library to display hierarchical data
 *   [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
+### Components & Libraries / Frameworks
+
+*   [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
+
+### Components & Libraries / UI Utilities
+
+*   [vue-to-print (⭐0)](https://github.com/siaikin/vue-to-print) - Print Vue 3 components in the browser. Supports Chrome, Safari, Firefox and EDGE.
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Components & Libraries / UI Components

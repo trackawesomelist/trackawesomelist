@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jul 22, 2023](/content/2023/07/22/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
+
+### Components & Libraries / UI Utilities
+
+*   [vue-to-print (⭐0)](https://github.com/siaikin/vue-to-print) - Print Vue 3 components in the browser. Supports Chrome, Safari, Firefox and EDGE.
+
 ## [Jul 21, 2023](/content/2023/07/21/README.md)
 
 ### Components & Libraries / UI Components

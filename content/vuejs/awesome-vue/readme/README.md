@@ -2519,6 +2519,7 @@ Tooltips / popovers
 *   [Vue USWDS (⭐6)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 *   [Vuetensils](https://vuetensils.com) - A 'naked' component library for building accessible, lightweight, bespoke applications.
 *   [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
+*   [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 
 #### Mobile
 
@@ -2967,6 +2968,7 @@ Tooltips / popovers
 #### Printing
 
 *   [vue-html-to-paper (⭐288)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
+*   [vue-to-print (⭐0)](https://github.com/siaikin/vue-to-print) - Print Vue 3 components in the browser. Supports Chrome, Safari, Firefox and EDGE.
 
 ### Utilities
 

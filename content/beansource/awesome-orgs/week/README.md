@@ -10,6 +10,7 @@
 
 ### Other
 
+*   [Tinylibs](https://github.com/tinylibs) - A place for tiny and minimal libraries.
 *   [Studio Freight Darkroom](https://github.com/studio-freight) - Curating the best of open source, remixing it, sampling it, and making magic with it.
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
