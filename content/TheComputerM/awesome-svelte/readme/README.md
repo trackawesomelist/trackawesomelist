@@ -72,7 +72,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
 *   [GitHub Repo (⭐71k)](https://github.com/sveltejs/svelte)
-*   [Changelog (⭐71k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
+*   [Changelog (⭐71k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
 
 ### Community
 
@@ -279,7 +279,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [svelte-i18n (⭐984)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
 *   [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 *   [sveltekit-i18n (⭐256)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
-*   [@tolgee/svelte (⭐190)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+*   [@tolgee/svelte (⭐191)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
 ## Routers
 

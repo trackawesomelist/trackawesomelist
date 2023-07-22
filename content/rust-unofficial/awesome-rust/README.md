@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 22, 2023](/content/2023/07/22/README.md)
+
+### Development tools / Embedded
+
+*   Firmware
+    *   [oreboot/oreboot (⭐1.3k)](https://github.com/oreboot/oreboot) — oreboot is a fork of coreboot, with C removed, written in Rust
+
 ## [Jul 21, 2023](/content/2023/07/21/README.md)
 
 ### Libraries / Geospatial

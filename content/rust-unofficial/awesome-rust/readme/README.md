@@ -627,6 +627,8 @@ See also [A comparison of operating systems written in Rust (⭐544)](https://gi
     *   [japaric/xargo (⭐1k)](https://github.com/japaric/xargo) — effortless cross compilation of Rust programs to custom bare-metal targets like ARM Cortex-M
 *   Espressif
     *   [esp-rs](https://github.com/esp-rs) home to a number of community projects enabling the use of the Rust programming language on various SoCs and modules produced by Espressif Systems.
+*   Firmware
+    *   [oreboot/oreboot (⭐1.3k)](https://github.com/oreboot/oreboot) — oreboot is a fork of coreboot, with C removed, written in Rust
 *   nRF
     *   [nrf-rs/nrf-hal (⭐398)](https://github.com/nrf-rs/nrf-hal) — A Rust HAL for the nRF family of devices
 

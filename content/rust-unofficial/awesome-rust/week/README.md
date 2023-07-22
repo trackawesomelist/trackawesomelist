@@ -12,6 +12,11 @@ A curated list of Rust code and resources.
 
 *   [shoes (⭐60)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
+### Development tools / Embedded
+
+*   Firmware
+    *   [oreboot/oreboot (⭐1.3k)](https://github.com/oreboot/oreboot) — oreboot is a fork of coreboot, with C removed, written in Rust
+
 ### Libraries / Geospatial
 
 *   [MapLibre/Martin (⭐1.2k)](https://github.com/maplibre/martin) — Map tile server with PostGIS, MBTiles, PMTiles, and sprites support. [![CI build](https://github.com/maplibre/martin/workflows/CI/badge.svg)](https://github.com/maplibre/martin/actions)[![crates.io version](https://img.shields.io/crates/v/martin.svg)](https://crates.io/crates/martin)[![Book](https://img.shields.io/badge/docs-Book-informational)](https://maplibre.org/martin/)

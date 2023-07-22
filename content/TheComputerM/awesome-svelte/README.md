@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Jul 22, 2023](/content/2023/07/22/README.md)
+
+### Official Resources
+
+*   [Changelog (⭐71k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
+
 ## [Jul 11, 2023](/content/2023/07/11/README.md)
 
 ### UI Libraries
@@ -176,7 +182,7 @@
 
 ### Internationalisation / Checkbox
 
-*   [@tolgee/svelte (⭐190)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+*   [@tolgee/svelte (⭐191)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
 ## [Feb 01, 2022](/content/2022/02/01/README.md)
 
@@ -489,7 +495,6 @@
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
 *   [GitHub Repo (⭐71k)](https://github.com/sveltejs/svelte)
-*   [Changelog (⭐71k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
 
 ### Community
 
