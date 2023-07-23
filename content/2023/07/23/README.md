@@ -77,6 +77,10 @@
 
 *   [richardbizik/nvim-toc (⭐2)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 
+### Quickfix / Diagnostics
+
+*   [ashfinal/qfview.nvim (⭐4)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
+
 ## [7. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Command-Line Productivity

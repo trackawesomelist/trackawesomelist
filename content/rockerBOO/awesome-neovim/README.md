@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [richardbizik/nvim-toc (⭐2)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 
+### Quickfix / Diagnostics
+
+*   [ashfinal/qfview.nvim (⭐4)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
+
 ## [Jul 22, 2023](/content/2023/07/22/README.md)
 
 ### Editing Support / Diagnostics
