@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 23, 2023](/content/2023/07/23/README.md)
+
+### Markdown and LaTeX / Diagnostics
+
+*   [richardbizik/nvim-toc (⭐2)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
+
 ## [Jul 22, 2023](/content/2023/07/22/README.md)
 
 ### Editing Support / Diagnostics

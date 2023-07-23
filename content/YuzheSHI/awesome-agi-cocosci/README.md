@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jul 23, 2023](/content/2023/07/23/README.md)
+
+### Meta-Level Considerations / The Aha! Moment
+
+*   [Insight solutions are correct more often than analytic solutions](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/a/699/files/2015/11/Salvi_etal_Insight-is-right_TR2016-2n3ns9l.pdf) - ***Thinking & Reasoning***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=883561570778414219\&hl=en\&as_sdt=0,5)].
+
 ## [Jul 22, 2023](/content/2023/07/22/README.md)
 
 ### Meta-Level Considerations / The Aha! Moment

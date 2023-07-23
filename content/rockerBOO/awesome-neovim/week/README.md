@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [nvimdev/lspsaga.nvim (⭐2.9k)](https://github.com/nvimdev/lspsaga.nvim) - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
 
+### Markdown and LaTeX / Diagnostics
+
+*   [richardbizik/nvim-toc (⭐2)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [nvimdev/zephyr-nvim (⭐297)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
