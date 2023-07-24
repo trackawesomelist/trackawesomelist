@@ -6,6 +6,12 @@ A curated list of useful Elm tutorials, libraries and software. Inspired by awes
 
 [ [Daily](/content/sporto/awesome-elm/README.md) / Weekly / [Overview](/content/sporto/awesome-elm/readme/README.md) ]
 
+## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
+
+### Conferences / Games
+
+*   [Elm Camp](https://elm.camp/)
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### News / Video tutorials

@@ -1259,6 +1259,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Multiple Causes of Difficulty in Insight: The Case of the Nine-Dot Problem](https://www.researchgate.net/profile/Trina-Kershaw/publication/8909474_Multiple_Causes_of_Difficulty_in_Insight_The_Case_of_the_Nine-Dot_Problem/links/55dca27e08aeb38e8a8d23b6/Multiple-Causes-of-Difficulty-in-Insight-The-Case-of-the-Nine-Dot-Problem.pdf) - ***Journal of Experimental Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=15600199808825346018\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2003-10949-001)].
 
+*   [Investigating the effect of Mental Set on Insight Problem Solving](https://www.researchgate.net/profile/Gary-Jones-14/publication/23152585_Investigating_the_Effect_of_Mental_Set_on_Insight_Problem_Solving/links/0fcfd50abb767b1102000000/Investigating-the-Effect-of-Mental-Set-on-Insight-Problem-Solving.pdf) - ***Experimental Psychology***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11054712671934144981\&hl=en\&as_sdt=0,5)].
+
 \*[Back to Top](#c)
 
 #### Rationality

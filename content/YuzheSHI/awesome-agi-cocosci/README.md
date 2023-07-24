@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jul 24, 2023](/content/2023/07/24/README.md)
+
+### Meta-Level Considerations / The Aha! Moment
+
+*   [Investigating the effect of Mental Set on Insight Problem Solving](https://www.researchgate.net/profile/Gary-Jones-14/publication/23152585_Investigating_the_Effect_of_Mental_Set_on_Insight_Problem_Solving/links/0fcfd50abb767b1102000000/Investigating-the-Effect-of-Mental-Set-on-Insight-Problem-Solving.pdf) - ***Experimental Psychology***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11054712671934144981\&hl=en\&as_sdt=0,5)].
+
 ## [Jul 23, 2023](/content/2023/07/23/README.md)
 
 ### Meta-Level Considerations / The Aha! Moment
