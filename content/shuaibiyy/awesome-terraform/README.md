@@ -8,6 +8,10 @@ Curated list of resources on HashiCorp's Terraform
 
 ## [Jul 24, 2023](/content/2023/07/24/README.md)
 
+### Books
+
+*   [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
+
 ### Tools / Vendor supported providers
 
 *   [tftui (⭐29)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.

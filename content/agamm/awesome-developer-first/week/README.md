@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
+
+### Deployment Hosting
+
+*   [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Mail
