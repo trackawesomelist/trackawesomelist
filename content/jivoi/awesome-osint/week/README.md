@@ -6,6 +6,16 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
+
+### Domain and IP Research / Telegram
+
+*   [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
+
+### DNS / Telegram
+
+*   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Domain and IP Research / Telegram
@@ -327,7 +337,6 @@
 ### Pastebins
 
 *   [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
-*   [Skidbin](https://skidbin.net/) - A dox style pastebin ran by hackers
 
 ### Social Media Tools / Instagram
 

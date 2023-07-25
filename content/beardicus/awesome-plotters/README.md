@@ -6,6 +6,12 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [Jul 25, 2023](/content/2023/07/25/README.md)
+
+### Software / Vector Creation
+
+*   [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
+
 ## [Jul 18, 2023](/content/2023/07/18/README.md)
 
 ### Software / Plotter Control

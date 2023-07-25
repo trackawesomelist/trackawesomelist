@@ -183,7 +183,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [DotNetty (⭐3.9k)](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 *   [AspectCore Framework (⭐1.6k)](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
 *   [HopFramework (⭐50)](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
-*   [Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐143)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐69)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐146)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐69)](https://github.com/alexyakunin/BoardGames)
 *   [silky (⭐245)](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 
 ## Application Templates
@@ -194,8 +194,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Serene (⭐2.4k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service-based architecture. Serene is a starter template to build Serenity applications.
 *   [Side-Waffle (⭐654)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 *   [Template10 (⭐1.4k)](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
-*   [Nucleus (⭐349)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
-*   [JHipster.NET (⭐288)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
+*   [Nucleus (⭐350)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [JHipster.NET (⭐290)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
 
 ## Artificial Intelligence
 
@@ -226,14 +226,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [IdentityServer](https://github.com/IdentityServer) - Extensible OAuth2 and OpenID Connect provider framework.
 *   [OAuth (⭐74)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 *   [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
-*   [Topaz](https://www.topaz.sh) - An open-source authorization project for .NET applications.
+*   [openiddict (⭐3.6k)](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 
 ## Blazor
 
 *   [BootstrapBlazor (⭐1.5k)](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 *   [ant-design-blazor (⭐5.1k)](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-*   [MASA.Blazor (⭐814)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
-*   [Megabit.Blazorise (⭐2.8k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
+*   [MASA.Blazor (⭐833)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
+*   [Megabit.Blazorise (⭐2.9k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 *   [blazork8s (⭐109)](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 
 ## Blockchain
@@ -306,7 +306,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Appccelerate - Command Line Parser](https://appccelerate.github.io/commandlineparser.html) - A command-line parser with fluent definition syntax, different argument types, required and optional arguments, value restrictions, aliases, type conversion and semi-automatic usage help message composition
 *   [Argu (⭐393)](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
 *   [CliFx (⭐1.3k)](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
-*   [Typin (⭐221)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
+*   [Typin (⭐223)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 *   [clipr (⭐89)](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
 *   [CliWrap (⭐3.7k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
 *   [Colorful.Console (⭐1.2k)](https://github.com/tomakita/Colorful.Console) - Colorful console output.
@@ -422,7 +422,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [RavenDB (⭐3.3k)](https://github.com/ravendb/ravendb) - A LINQ-enabled document database for .NET
 *   [Marten (⭐2.4k)](https://github.com/JasperFx/marten) - PostgreSQL as a document database and event store for .NET applications
 *   [Realm Xamarin (⭐1.2k)](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - <https://realm.io/docs/dotnet/latest/>
-*   [Streamstone (⭐371)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+*   [Streamstone (⭐370)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 *   [StringDB (⭐68)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume tiny amounts of ram & produce tiny databases.
 *   [Ignite (⭐4.5k)](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 *   [Yessql (⭐1.1k)](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
@@ -502,7 +502,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Stripe.Net (⭐1.3k)](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for <https://stripe.com/>
 *   [Virto Commerce (⭐1.1k)](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. <https://virtocommerce.com>
 *   [SimplCommerce (⭐3.9k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
-*   [GrandNode (⭐797)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
+*   [GrandNode (⭐810)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 *   [Square (⭐28)](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
 *   [Adyen (⭐91)](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
@@ -523,7 +523,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Event aggregator and messenger
 
 *   [Mediator.Net (⭐340)](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .NET for sending command, publishing event and request response with pipelines supported
-*   [MediatR (⭐9.7k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
+*   [MediatR (⭐9.8k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 *   [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - Super-simple Reactive-Extension code from Reactive.EventAggregator
 *   [TinyMessenger (⭐273)](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
 *   [Xer.Cqrs (⭐98)](https://github.com/XerProjects/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
@@ -953,7 +953,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## OpenAI
 
-*   [Cledev.OpenAI (⭐60)](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
+*   [Cledev.OpenAI (⭐65)](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
 
 ## ORM
 
@@ -1037,7 +1037,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Hangfire (⭐8.4k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 *   [RabbitMQ.NET (⭐1.9k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 *   [NetMQ (⭐2.8k)](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
-*   [MassTransit (⭐5.6k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [MassTransit (⭐5.7k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 *   [Rebus (⭐2.1k)](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 *   [RestBus (⭐361)](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
 *   [RawRabbit (⭐731)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.

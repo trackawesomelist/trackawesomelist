@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jul 25, 2023](/content/2023/07/25/README.md)
+
+### Concepts / Theory of Concepts
+
+*   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)]. Gentner's theory on humans' similarity judgement by attributes and relations.
+
 ## [Jul 24, 2023](/content/2023/07/24/README.md)
 
 ### Meta-Level Considerations / The Aha! Moment

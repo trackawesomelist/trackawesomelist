@@ -6,11 +6,11 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
-## [Jul 19, 2023](/content/2023/07/19/README.md)
+## [Jul 25, 2023](/content/2023/07/25/README.md)
 
 ### Authentication and Authorization
 
-*   [Topaz](https://www.topaz.sh) - An open-source authorization project for .NET applications.
+*   [openiddict (⭐3.6k)](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 
 ## [Jul 15, 2023](/content/2023/07/15/README.md)
 
@@ -59,7 +59,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### OpenAI
 
-*   [Cledev.OpenAI (⭐60)](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
+*   [Cledev.OpenAI (⭐65)](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
 
 ## [Mar 03, 2023](/content/2023/03/03/README.md)
 
@@ -316,7 +316,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Blazor
 
-*   [Megabit.Blazorise (⭐2.8k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
+*   [Megabit.Blazorise (⭐2.9k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 
 ## [Jun 03, 2022](/content/2022/06/03/README.md)
 
@@ -418,7 +418,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Blazor
 
-*   [MASA.Blazor (⭐814)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
+*   [MASA.Blazor (⭐833)](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
 
 ## [Dec 10, 2021](/content/2021/12/10/README.md)
 
@@ -569,7 +569,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### CLI
 
-*   [Typin (⭐221)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
+*   [Typin (⭐223)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
 ### Distributed Computing
 
@@ -654,7 +654,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Application Frameworks
 
-*   [Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐143)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐69)](https://github.com/alexyakunin/BoardGames)
+*   [Fusion (⭐1.6k)](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1 (⭐146)](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2 (⭐69)](https://github.com/alexyakunin/BoardGames)
 
 ### Caching
 
@@ -662,7 +662,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### E-Commerce and Payments
 
-*   [GrandNode (⭐797)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
+*   [GrandNode (⭐810)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 
 ## [Mar 03, 2021](/content/2021/03/03/README.md)
 
@@ -931,7 +931,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Application Templates
 
-*   [JHipster.NET (⭐288)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
+*   [JHipster.NET (⭐290)](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
 
 ### Deployment
 
@@ -1425,7 +1425,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Event aggregator and messenger
 
-*   [MediatR (⭐9.7k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
+*   [MediatR (⭐9.8k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 
 ### Logging
 
@@ -1456,7 +1456,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Application Templates
 
-*   [Nucleus (⭐349)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐350)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [Dec 10, 2018](/content/2018/12/10/README.md)
 
@@ -2876,7 +2876,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Database
 
-*   [Streamstone (⭐371)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+*   [Streamstone (⭐370)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 
 ## [Aug 19, 2016](/content/2016/08/19/README.md)
 
@@ -3641,7 +3641,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Queue
 
-*   [MassTransit (⭐5.6k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [MassTransit (⭐5.7k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ## [Jul 18, 2014](/content/2014/07/18/README.md)
 

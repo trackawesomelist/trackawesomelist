@@ -234,7 +234,6 @@ Thanks to our main contributors
 *   [paste.centos](https://paste.centos.org)
 *   [paste.kde](https://Paste.kde.org)
 *   [Rentry](https://rentry.co/)
-*   [Skidbin](https://skidbin.net/) - A dox style pastebin ran by hackers
 
 ## [↑](#-Table-of-Contents) Code Search
 
@@ -669,6 +668,7 @@ Thanks to our main contributors
 *   [Threat Jammer](https://threatjammer.com) - Risk scoring service from curated threat intelligence data.
 *   [urlQuery](http://urlquery.net)
 *   [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
+*   [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
 *   [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 *   [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 *   [Website Informer](http://website.informer.com)
@@ -1279,6 +1279,7 @@ Thanks to our main contributors
 
 *   [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 *   [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
+*   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
 ## [↑](#-Table-of-Contents) Maritime
 

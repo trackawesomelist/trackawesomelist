@@ -6,6 +6,12 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
+
+### Resources / Examples
+
+*   [vue-plugin-boilerplate (⭐0)](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Components & Libraries / UI Components

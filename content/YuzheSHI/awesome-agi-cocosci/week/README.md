@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
+### Concepts / Theory of Concepts
+
+*   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)]. Gentner's theory on humans' similarity judgement by attributes and relations.
+
 ### Meta-Level Considerations / The Aha! Moment
 
 *   [Investigating the effect of Mental Set on Insight Problem Solving](https://www.researchgate.net/profile/Gary-Jones-14/publication/23152585_Investigating_the_Effect_of_Mental_Set_on_Insight_Problem_Solving/links/0fcfd50abb767b1102000000/Investigating-the-Effect-of-Mental-Set-on-Insight-Problem-Solving.pdf) - ***Experimental Psychology***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11054712671934144981\&hl=en\&as_sdt=0,5)].

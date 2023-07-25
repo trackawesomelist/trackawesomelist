@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ [Daily](/content/chentsulin/awesome-graphql/README.md) / Weekly / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
+
+### Tools - Security / React
+
+*   [GraphQL Cop (⭐212)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
+
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Clients
@@ -315,7 +321,7 @@ Awesome list of GraphQL
 
 ### Frontend Framework Integrations
 
-*   [sveltekit-kitql (⭐297)](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way with SvelteKit and GraphQL.
+*   [sveltekit-kitql (⭐302)](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way with SvelteKit and GraphQL.
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
@@ -429,7 +435,7 @@ Awesome list of GraphQL
 *   [graphql-api-koa (⭐50)](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.
 *   [koa-graphql (⭐839)](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 *   [graphql-koa-scripts (⭐2)](https://github.com/ryanhs/graphql-koa-scripts) - GraphQL Koa 1 file simplified. usefull for quick test
-*   [gql (⭐178)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
+*   [gql (⭐179)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
 *   [mercurius (⭐2.2k)](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify.
 *   [graphql-yoga (⭐7.7k)](https://github.com/prisma-labs/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.
 *   [graphitejs (⭐119)](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
@@ -517,11 +523,11 @@ Awesome list of GraphQL
 
 ### Ruby / React
 
-*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
+*   [graphql-ruby (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 *   [graphql-auth (⭐23)](https://github.com/o2web/graphql-auth) - A JWT auth wrapper working with devise.
-*   [agoo (⭐838)](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
+*   [agoo (⭐843)](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
 *   [GQLi (⭐208)](https://github.com/contentful-labs/gqli.rb) - A GraphQL client and DSL. Allowing to write queries in native Ruby.
 
 ### Ruby Examples / React
@@ -531,8 +537,8 @@ Awesome list of GraphQL
 *   [relay-on-rails (⭐42)](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 *   [relay-rails-blog (⭐140)](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
 *   [to\_eat\_app (⭐13)](https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
-*   [agoo-demo (⭐838)](https://github.com/ohler55/agoo/tree/develop/example/graphql) - Use of the Agoo server to demonstrate a simple GraphQL application.
-*   [rails-devise-graphql (⭐279)](https://github.com/zauberware/rails-devise-graphql) - A rails 6 boilerplate with devise, graphql & JWT auth.
+*   [agoo-demo (⭐843)](https://github.com/ohler55/agoo/tree/develop/example/graphql) - Use of the Agoo server to demonstrate a simple GraphQL application.
+*   [rails-devise-graphql (⭐278)](https://github.com/zauberware/rails-devise-graphql) - A rails 6 boilerplate with devise, graphql & JWT auth.
 
 ### PHP / React
 
@@ -720,7 +726,7 @@ Awesome list of GraphQL
 
 ### Dart / React
 
-*   [graphql-flutter (⭐3.1k)](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
+*   [graphql-flutter (⭐3.2k)](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
 *   [Artemis (⭐488)](https://github.com/comigor/artemis) - A GraphQL type and query generator for Dart/Flutter.
 
 ### Rust / React
@@ -752,7 +758,7 @@ Awesome list of GraphQL
 ### Crystal / React
 
 *   [graphql (⭐131)](https://github.com/graphql-crystal/graphql) - GraphQL server library.
-*   [graphql-crystal (⭐217)](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) & [go-graphql (⭐247)](https://github.com/playlyfe/go-graphql) & [graphql-parser (⭐199)](https://github.com/graphql-dotnet/parser).
+*   [graphql-crystal (⭐217)](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) & [go-graphql (⭐247)](https://github.com/playlyfe/go-graphql) & [graphql-parser (⭐199)](https://github.com/graphql-dotnet/parser).
 *   [crystal-gql (⭐5)](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client.
 *   [graphql.cr (⭐1)](https://github.com/garymardell/graphql.cr) - GraphQL shard.
 
@@ -817,7 +823,7 @@ Awesome list of GraphQL
 *   [Booster framework](https://booster.cloud/) - An open-source framework that makes you *completely* forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
 *   [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
 *   [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
-*   [Saleor (⭐39)](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
+*   [Saleor (⭐47)](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 
 ### CDN / React
 
