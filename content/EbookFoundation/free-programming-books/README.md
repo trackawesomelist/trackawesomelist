@@ -13,6 +13,12 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
+## [Jul 25, 2023](/content/2023/07/25/README.md)
+
+### C++ / Non-X86
+
+*   [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) (HTML)
+
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
 ### C++ / Non-X86
@@ -42,7 +48,7 @@
 
 ### JavaScript / Node.js
 
-*   [Node.js Best Practices (⭐90k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
+*   [Node.js Best Practices (⭐91k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
 
 ## [Jul 01, 2023](/content/2023/07/01/README.md)
 
@@ -2355,7 +2361,7 @@
 *   [Thinking in JavaScript](https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ) - Aravind Shenoy (Kindle)
 *   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
 *   [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
-*   [You Don't Know JS (⭐169k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+*   [You Don't Know JS (⭐170k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 ### JavaScript / jQuery
 
@@ -4596,10 +4602,6 @@
 *   [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 *   [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 
-### C++ / Non-X86
-
-*   [Game Programming Patterns](http://gameprogrammingpatterns.com)
-
 ### Clojure / Non-X86
 
 *   [Clojure for the Brave and True](http://www.braveclojure.com)
@@ -5048,7 +5050,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Lectures on scientific computing with python (⭐3.3k)](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
+*   [Lectures on scientific computing with python (⭐3.4k)](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 *   [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
 *   [Python Koans (⭐4.7k)](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 *   [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)

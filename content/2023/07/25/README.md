@@ -1,18 +1,55 @@
 # Awesome List Updates on Jul 25, 2023
 
-15 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Tutorials & workshops
+
+*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐10)](https://github.com/aruberts/tutorials/tree/main/polars).
+
+## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+
+### Utils
+
+*   [playwright-ui5 (⭐3)](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
+*   [playwright-xpath (⭐3)](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Networking
+
+*   [gnet (⭐9)](https://github.com/fish-tennis/gnet) - `gnet` is a high-performance networking framework,especially for game servers.
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [Hex Monscape (⭐40)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### AI / Diagnostics
+
+*   [Robitx/gp.nvim (⭐16)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
+*   [dpayne/CodeGPT.nvim (⭐673)](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
+*   [jackMort/ChatGPT.nvim (⭐2.3k)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
+
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) (HTML)
+
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Concepts / Theory of Concepts
 
 *   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)]. Gentner's theory on humans' similarity judgement by attributes and relations.
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Domain and IP Research / Telegram
 
@@ -22,13 +59,13 @@
 
 *   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
 *   [openiddict (⭐3.6k)](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### UI Testing
 
@@ -38,7 +75,7 @@
 
 *   [Stacktrace](https://stacktracepodcast.fm)
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Desktop
 
@@ -56,13 +93,13 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS-Bridge / Outline Processor Markup Language
 
 *   <https://rss-bridge.org/bridge01/> (Official instance)
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -76,13 +113,13 @@
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 
-## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [13. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Security / React
 
 *   [GraphQL Cop (⭐212)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -97,19 +134,19 @@
 
 *   Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 
-## [10. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [15. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Standards
 
 *   [JSend (⭐1.2k)](https://github.com/omniti-labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
 
-## [11. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [16. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Vector Creation
 
 *   [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
 
-## [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [17. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Tools / Software / Pixel Art
 
@@ -122,19 +159,19 @@
     *   🔥 - Hot! Amazing Resource!
     *   🌎 - Website
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [vue-plugin-boilerplate (⭐0)](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
 
-## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Diagramming
 
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.2k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [20. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

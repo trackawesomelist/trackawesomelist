@@ -8,6 +8,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
+### Resources / Tutorials & workshops
+
+*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐10)](https://github.com/aruberts/tutorials/tree/main/polars).
+
 ### Resources / Blog posts
 
 *   [All that Polars that Make You Forget Pandas](https://medium.com/@tq9695/all-that-polars-that-make-you-forget-pandas-3dc0fdfaefbe) - A blog post that explores some deeper reasons behind the performance gains of Polars over Pandas.

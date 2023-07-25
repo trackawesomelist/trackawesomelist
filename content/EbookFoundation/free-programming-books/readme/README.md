@@ -513,7 +513,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Essential C++](https://www.programming-books.io/essential/cpp/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
 *   [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) - Richard L. Halterman (PDF) *(:card\_file\_box: archived)*
-*   [Game Programming Patterns](http://gameprogrammingpatterns.com)
+*   [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) (HTML)
 *   [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 *   [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)
 *   [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) - Samy Pesse
@@ -1107,7 +1107,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
 *   [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 *   [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
-*   [You Don't Know JS (⭐169k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+*   [You Don't Know JS (⭐170k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 #### AngularJS
 
@@ -1220,7 +1220,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Mixu's Node Book](http://book.mixu.net/node/)
 *   [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 *   [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
-*   [Node.js Best Practices (⭐90k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
+*   [Node.js Best Practices (⭐91k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
 *   [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
 *   [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
 *   [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
@@ -1834,7 +1834,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Learn Python the Right Way](https://learnpythontherightway.com)
 *   [Learn to Program Using Python](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF) *(:card\_file\_box: archived)*
 *   [Learning to Program](http://www.alan-g.me.uk)
-*   [Lectures on scientific computing with python (⭐3.3k)](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
+*   [Lectures on scientific computing with python (⭐3.4k)](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 *   [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/) - Al Sweigart (3.2)
 *   [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
 *   [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) - Allen B. Downey (PDF)

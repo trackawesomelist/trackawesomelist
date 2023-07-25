@@ -31,6 +31,7 @@ Collections of awesome neovim plugins.
     *   [Plugin Manager](#plugin-manager)
     *   [LSP](#lsp)
     *   [Completion](#completion)
+    *   [AI](#ai)
     *   [Programming Languages Support](#programming-languages-support)
         *   [Golang](#golang)
         *   [YAML](#yaml)
@@ -103,8 +104,8 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 
 ## Starter Templates
 
-*   [tokiory/neovim-boilerplate (⭐27)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐21)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐34)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐22)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ## Plugin
 
@@ -157,7 +158,7 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [linrongbin16/lsp-progress.nvim (⭐68)](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status.
 *   [jinzhongjia/LspUI.nvim (⭐88)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
 *   [VidocqH/lsp-lens.nvim (⭐118)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
-*   [chrisgrieser/nvim-dr-lsp (⭐6)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
+*   [chrisgrieser/nvim-dr-lsp (⭐7)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
 *   [creativenull/efmls-configs-nvim (⭐51)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
 *   [creativenull/diagnosticls-configs-nvim (⭐66)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 
@@ -185,6 +186,12 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [vigoux/complementree.nvim (⭐40)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
 *   [simrat39/rust-tools.nvim (⭐1.9k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 *   [zbirenbaum/copilot.lua (⭐1.2k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐5.8k)](https://github.com/github/copilot.vim).
+
+### AI
+
+*   [Robitx/gp.nvim (⭐16)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
+*   [dpayne/CodeGPT.nvim (⭐673)](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
+*   [jackMort/ChatGPT.nvim (⭐2.3k)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
 
 ### Programming Languages Support
 
@@ -232,7 +239,7 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [NFrid/markdown-togglecheck (⭐14)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
 *   [toppair/peek.nvim (⭐393)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
 *   [yaocccc/nvim-hl-mdcodeblock.lua (⭐17)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
-*   [kiran94/edit-markdown-table.nvim (⭐16)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
+*   [kiran94/edit-markdown-table.nvim (⭐17)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 *   [richardbizik/nvim-toc (⭐2)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 
 ### Language
@@ -265,7 +272,7 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [gennaro-tedesco/nvim-peekup (⭐244)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
 *   [tversteeg/registers.nvim (⭐530)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 *   [acksld/nvim-neoclip.lua (⭐726)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
-*   [tenxsoydev/karen-yank.nvim (⭐55)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
+*   [tenxsoydev/karen-yank.nvim (⭐58)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
 
 ### Marks
 
@@ -273,8 +280,8 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [chentoast/marks.nvim (⭐538)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 *   [ThePrimeagen/harpoon (⭐2.9k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 *   [ofirgall/open.nvim (⭐40)](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthand for example.
-*   [LeonHeidelbach/trailblazer.nvim (⭐163)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
-*   [tomasky/bookmarks.nvim (⭐41)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
+*   [LeonHeidelbach/trailblazer.nvim (⭐169)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+*   [tomasky/bookmarks.nvim (⭐44)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
 
 ### Search
 
@@ -313,7 +320,7 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [dinhhuy258/sfm.nvim (⭐33)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
 *   [kiran94/s3edit.nvim (⭐31)](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
 *   [stevearc/oil.nvim (⭐985)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
-*   [kelly-lin/ranger.nvim (⭐64)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐14k)](https://github.com/ranger/ranger) integration for neovim.
+*   [kelly-lin/ranger.nvim (⭐71)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐14k)](https://github.com/ranger/ranger) integration for neovim.
 *   [echasnovski/mini.nvim#mini.files (⭐2.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 
 ### Project
@@ -366,7 +373,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [ChristianChiarulli/nvcode-color-schemes.vim (⭐281)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
 *   [folke/tokyonight.nvim (⭐3.9k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
 *   [sainnhe/sonokai (⭐1.3k)](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro.
-*   [nyoom-engineering/oxocarbon.nvim (⭐696)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
+*   [nyoom-engineering/oxocarbon.nvim (⭐717)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 *   [kyazdani42/blue-moon (⭐158)](https://github.com/kyazdani42/blue-moon) - A dark color scheme derived from palenight and carbonight.
 *   [mhartington/oceanic-next (⭐1.1k)](https://github.com/mhartington/oceanic-next) - Oceanic Next theme.
 *   [nvimdev/zephyr-nvim (⭐297)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
@@ -446,7 +453,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [sonjiku/yawnc.nvim (⭐1)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
 *   [sekke276/dark\_flat.nvim (⭐20)](https://github.com/sekke276/dark_flat.nvim) - A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
 *   [zootedb0t/citruszest.nvim (⭐9)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
-*   [2nthony/vitesse.nvim (⭐21)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
+*   [2nthony/vitesse.nvim (⭐24)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 *   [xero/miasma.nvim (⭐10)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
 
 #### Lua Colorscheme
@@ -477,8 +484,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### Bars and Lines
 
-*   [Bekaboo/deadcolumn.nvim (⭐124)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
-*   [ecthelionvi/NeoColumn.nvim (⭐58)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+*   [Bekaboo/deadcolumn.nvim (⭐126)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [ecthelionvi/NeoColumn.nvim (⭐60)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 *   [m4xshen/smartcolumn.nvim (⭐153)](https://github.com/m4xshen/smartcolumn.nvim) - Hide your colorcolumn when unneeded.
 *   [utilyre/barbecue.nvim (⭐456)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 *   [Bekaboo/dropbar.nvim (⭐420)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
@@ -623,7 +630,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [hbac.nvim (⭐89)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
 *   [ecthelionvi/NeoComposer.nvim (⭐256)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 *   [LukasPietzschmann/telescope-tabs (⭐143)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
-*   [RutaTang/compter.nvim (⭐17)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
+*   [RutaTang/compter.nvim (⭐16)](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
 *   [reggie/licenses.nvim](https://git.sr.ht/~reggie/licenses.nvim) - Insert and write license headers and/or files.
 *   [yagiziskirik/AirSupport.nvim (⭐6)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
 *   [aPeoplesCalendar/apc.nvim (⭐7)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
@@ -632,7 +639,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [LoricAndre/OneTerm.nvim (⭐42)](https://github.com/LoricAndre/OneTerm.nvim) - Plugin framework for running commands in the terminal.
 *   [nikvdp/neomux (⭐275)](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
-*   [willothy/flatten.nvim (⭐219)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+*   [willothy/flatten.nvim (⭐228)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
 *   [akinsho/nvim-toggleterm.lua (⭐2.8k)](https://github.com/akinsho/nvim-toggleterm.lua) - A Neovim Lua plugin to help easily manage multiple terminal windows.
 *   [norcalli/nvim-terminal.lua (⭐166)](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode which leverages conceal and highlights your buffer with the correct color codes.
 *   [numToStr/FTerm.nvim (⭐622)](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in Lua.
@@ -644,7 +651,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [samjwill/nvim-unception (⭐177)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
 *   [nyngwang/NeoTerm.lua (⭐51)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 *   [idanarye/nvim-channelot (⭐4)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
-*   [chomosuke/term-edit.nvim (⭐100)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
+*   [chomosuke/term-edit.nvim (⭐112)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
 
 ### Debugging
 
@@ -684,7 +691,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [smzm/hydrovim (⭐61)](https://github.com/smzm/hydrovim) - Run python code inside Neovim.
 *   [desdic/greyjoy.nvim (⭐19)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
 *   [Shatur/neovim-tasks (⭐67)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
-*   [milanglacier/yarepl.nvim (⭐49)](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
+*   [milanglacier/yarepl.nvim (⭐54)](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
 *   [hkupty/iron.nvim (⭐730)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 *   [Civitasv/cmake-tools.nvim (⭐115)](https://github.com/Civitasv/cmake-tools.nvim) - CMake integration.
 *   [idanarye/nvim-moonicipal (⭐11)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
@@ -694,7 +701,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ### Neovim Lua Development
 
 *   [folke/neodev.nvim (⭐1.3k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
-*   [nvim-neorocks/luarocks-tag-release (⭐25)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
+*   [nvim-neorocks/luarocks-tag-release (⭐29)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 *   [svermeulen/vimpeccable (⭐362)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
 *   [nanotee/nvim-lua-guide (⭐5.4k)](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim.
 *   [rafcamlet/nvim-luapad (⭐435)](https://github.com/rafcamlet/nvim-luapad) - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
@@ -740,7 +747,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [kdheepak/lazygit.nvim (⭐749)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 *   [AckslD/nvim-gfold.lua (⭐35)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐241)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 *   [akinsho/git-conflict.nvim (⭐554)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
-*   [aaronhallaert/advanced-git-search.nvim (⭐184)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
+*   [aaronhallaert/advanced-git-search.nvim (⭐190)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 *   [linrongbin16/gitlinker.nvim (⭐13)](https://github.com/linrongbin16/gitlinker.nvim) - Generate sharable file permalinks (with line ranges) for git host websites, a fork of "ruifm's gitlinker", refactored with pattern based rule engine, windows support and other enhancements.
 
 #### GitHub
@@ -847,7 +854,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [gbprod/yanky.nvim (⭐462)](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities.
 *   [sQVe/sort.nvim (⭐102)](https://github.com/sQVe/sort.nvim) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
 *   [booperlv/nvim-gomove (⭐174)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
-*   [willothy/moveline.nvim (⭐67)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
+*   [willothy/moveline.nvim (⭐75)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 *   [echasnovski/mini.nvim#mini.move (⭐2.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
 *   [anuvyklack/pretty-fold.nvim (⭐370)](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization.
 *   [bennypowers/nvim-regexplainer (⭐519)](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
@@ -911,7 +918,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [Darazaki/indent-o-matic (⭐154)](https://github.com/Darazaki/indent-o-matic) - Dumb automatic fast indentation detection written in Lua.
 *   [Abstract-IDE/penvim (⭐37)](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader.
 *   [yaocccc/nvim-hlchunk (⭐41)](https://github.com/yaocccc/nvim-hlchunk) - Highlight a `{}` chunk.
-*   [shellRaining/hlchunk.nvim (⭐78)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+*   [shellRaining/hlchunk.nvim (⭐81)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
 ### Command Line
 

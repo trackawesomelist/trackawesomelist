@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
+
+### Networking
+
+*   [gnet (⭐9)](https://github.com/fish-tennis/gnet) - `gnet` is a high-performance networking framework,especially for game servers.
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [Hex Monscape (⭐40)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Blockchain
@@ -1645,8 +1655,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [argparse (⭐534)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐38)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐113)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐240)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐115)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐249)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [cli (⭐686)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [cli (⭐120)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 *   [climax (⭐207)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
@@ -3189,7 +3199,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [fzf (⭐53k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐29)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐35)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric (⭐944)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐945)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [go-actuator (⭐14)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
 *   [go-astitodo (⭐60)](https://github.com/asticode/go-astitodo) - Parse TODOs in your GO code.
 *   [go-bind-plugin (⭐183)](https://github.com/wendigo/go-bind-plugin) - go:generate tool for wrapping symbols exported by golang plugins (1.8 only).
@@ -3511,10 +3521,10 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gostatus (⭐244)](https://github.com/shurcooL/gostatus) - Command line tool, shows the status of repositories that contain Go packages.
 *   [lint (⭐67)](https://github.com/surullabs/lint) - Run linters as part of go test.
 *   [php-parser (⭐929)](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go.
-*   [staticcheck (⭐5.4k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
+*   [staticcheck (⭐5.5k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tickgit (⭐307)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
 *   [todocheck (⭐398)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐358)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [unconvert (⭐359)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [validate (⭐60)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
 ### Editor Plugins / Libraries for creating HTTP middlewares

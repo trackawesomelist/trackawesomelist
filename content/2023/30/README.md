@@ -1,12 +1,43 @@
 # Awesome List Updates on Jul 24 - Jul 30, 2023
 
-21 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [1. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+
+### Utils
+
+*   [playwright-ui5 (⭐3)](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
+*   [playwright-xpath (⭐3)](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
+
+## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Networking
+
+*   [gnet (⭐9)](https://github.com/fish-tennis/gnet) - `gnet` is a high-performance networking framework,especially for game servers.
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [Hex Monscape (⭐40)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### AI / Diagnostics
+
+*   [Robitx/gp.nvim (⭐16)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
+*   [dpayne/CodeGPT.nvim (⭐673)](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
+*   [jackMort/ChatGPT.nvim (⭐2.3k)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
+
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) (HTML)
+
+## [5. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / Telegram
 
@@ -16,13 +47,13 @@
 
 *   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
 *   [openiddict (⭐3.6k)](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 
-## [3. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [7. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### UI Testing
 
@@ -32,7 +63,7 @@
 
 *   [Stacktrace](https://stacktracepodcast.fm)
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Desktop
 
@@ -50,13 +81,13 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS-Bridge / Outline Processor Markup Language
 
 *   <https://rss-bridge.org/bridge01/> (Official instance)
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -70,13 +101,13 @@
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 
-## [7. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Security / React
 
 *   [GraphQL Cop (⭐212)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -91,19 +122,19 @@
 
 *   Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 
-## [9. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [13. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Standards
 
 *   [JSend (⭐1.2k)](https://github.com/omniti-labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
 
-## [10. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [14. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Vector Creation
 
 *   [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
 
-## [11. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [15. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Tools / Software / Pixel Art
 
@@ -116,19 +147,19 @@
     *   🔥 - Hot! Amazing Resource!
     *   🌎 - Website
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [vue-plugin-boilerplate (⭐0)](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
 
-## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Diagramming
 
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.2k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 
-## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -138,7 +169,11 @@
 
 *   [nerdps1 (⭐3)](https://github.com/joknarf/nerdps1) - Reminiscent of powerline. Requires a nerdfont. Includes decorators for user\@hostname, `git` information, truncated current directory, python virtualenv, exit status of last command run and the time.
 
-## [15. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Tutorials & workshops
+
+*   [Data Pipelines with Polars: Step-by-Step Guide](https://towardsdatascience.com/data-pipelines-with-polars-step-by-step-guide-f5474accacc4) - A tutorial that explains how to build data pipelines with Polars by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐10)](https://github.com/aruberts/tutorials/tree/main/polars).
 
 ### Resources / Blog posts
 
@@ -146,25 +181,25 @@
 *   [Polars vs Pandas. Inside an AWS Lambda](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/) - A blog post that covers the topic of using Polars vs Pandas inside an AWS Lambda to do data processing by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐3)](https://github.com/danielbeach/polarsVpandasOnAwsLambda).
 *   [DuckDB vs Polars for Data Engineering](https://www.confessionsofadataguy.com/duckdb-vs-polars-for-data-engineering/) - A blog post that compares Polars and DuckDB with pipelines for Data Engineering by [@danielbeach](https://github.com/danielbeach).
 
-## [16. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [20. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Adminhtml / Backend
 
 *   [Disable Stock Reservation (⭐184)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 
-## [17. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [21. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Projects / Wallets
 
 *   [GoPlausible](https://github.com/GoPlausible) - Proof of anything protocol, built on Algorand. [Create or claim your first PLAUS on Algorand!](https://goplausible.com).
 
-## [18. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [22. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
 *   [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
 
-## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Theory of Concepts
 
@@ -174,13 +209,13 @@
 
 *   [Investigating the effect of Mental Set on Insight Problem Solving](https://www.researchgate.net/profile/Gary-Jones-14/publication/23152585_Investigating_the_Effect_of_Mental_Set_on_Insight_Problem_Solving/links/0fcfd50abb767b1102000000/Investigating-the-Effect-of-Mental-Set-on-Insight-Problem-Solving.pdf) - ***Experimental Psychology***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11054712671934144981\&hl=en\&as_sdt=0,5)].
 
-## [20. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [24. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Conferences / Games
 
 *   [Elm Camp](https://elm.camp/)
 
-## [21. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [25. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 

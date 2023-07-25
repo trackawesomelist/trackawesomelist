@@ -69,6 +69,8 @@ A curated list of awesome tools, utils and projects using Playwright
 *   [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 *   [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - A plugin that helps you optimize the speed and efficiency of web applications by measuring and analyzing the performance of ANY tested flow using Playwright.
 *   [playwright-python-language-injection (⭐0)](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
+*   [playwright-ui5 (⭐3)](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
+*   [playwright-xpath (⭐3)](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 
 ## Reporters
 
@@ -82,7 +84,7 @@ A curated list of awesome tools, utils and projects using Playwright
 
 *   [Demo.Playwright (⭐173)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
 *   [playwright-jest-examples (⭐89)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐148k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [VS Code (⭐149k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 *   [TypeScript (⭐93k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
 *   [Elastic APM JS agent (⭐257)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 *   [Blockstack (⭐246)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
