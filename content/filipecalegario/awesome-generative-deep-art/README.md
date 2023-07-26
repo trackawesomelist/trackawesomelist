@@ -6,6 +6,20 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 26, 2023](/content/2023/07/26/README.md)
+
+### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
+
+*   \[🔥🔥🔥] [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
+
+### Inbox: Large Language Models (LLMs) / LLMOps
+
+*   [Eden AI](https://www.edenai.co/?referral=partner-producthunt8\&ref=producthunt): provides a unique API connected to the AI engines
+
+### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
+
+*   [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
+
 ## [Jul 25, 2023](/content/2023/07/25/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository

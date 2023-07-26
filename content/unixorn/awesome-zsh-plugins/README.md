@@ -6,6 +6,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Jul 26, 2023](/content/2023/07/26/README.md)
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [laconic (⭐0)](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
+
 ## [Jul 25, 2023](/content/2023/07/25/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -153,7 +159,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [show-git-user (⭐3)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
+*   [show-git-user (⭐2)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
 *   [wsl (⭐0)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
 *   [zsh-watch (⭐0)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
 
@@ -201,7 +207,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐4)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐462)](https://github.com/sigoden/argc) and [jq (⭐25k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐3)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐474)](https://github.com/sigoden/argc) and [jq (⭐25k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

@@ -10,11 +10,17 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
+*   \[🔥🔥🔥] [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 *   [A simple guide to fine-tuning Llama 2 | Brev docs](https://brev.dev/blog/fine-tuning-llama-2)
+
+### Inbox: Large Language Models (LLMs) / LLMOps
+
+*   [Eden AI](https://www.edenai.co/?referral=partner-producthunt8\&ref=producthunt): provides a unique API connected to the AI engines
 
 ### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
 *   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
+*   [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
 
 ### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
 

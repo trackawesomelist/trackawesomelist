@@ -6,6 +6,13 @@ A curated list for when naming things is done right.
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
+
+### Machine Learning and Artificial Intelligence
+
+*   [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) - Minimizing a cost function by iteratively computing the gradient and moving in the direction of steepest descent.
+*   [Hallucination](https://en.wikipedia.org/wiki/Hallucination_\(artificial_intelligence\)) - A confident response by an AI that does not seem to be justified by its training data.
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Theoretical Computer Science
@@ -14,7 +21,7 @@ A curated list for when naming things is done right.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
-### Machine Learning
+### Machine Learning and Artificial Intelligence
 
 *   [Training](https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets) - The process of showing the machine a bunch of examples, until it learns what we want from it.
 
@@ -130,7 +137,7 @@ A curated list for when naming things is done right.
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
-### Machine Learning
+### Machine Learning and Artificial Intelligence
 
 *   [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
 
@@ -169,7 +176,7 @@ A curated list for when naming things is done right.
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
-### Machine Learning
+### Machine Learning and Artificial Intelligence
 
 *   [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not.
 

@@ -6,6 +6,16 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Jul 26, 2023](/content/2023/07/26/README.md)
+
+### Sensors / Accelerometer Digital
+
+*   [msa301-micropython-driver (⭐1)](https://github.com/wojciech-szmyt/msa301-micropython-driver) - Homebrew MicroPython driver for MSA301 3-axis accelerometer. Tested on Raspberry Pico.
+
+### Shells / On Host
+
+*   [mpr (⭐5)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
+
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
 ### Motion / Servo
@@ -70,11 +80,11 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / APIs
 
-*   [micropython-linenotify (⭐4)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+*   [micropython-linenotify (⭐5)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 
 ### Communications / ESP-NOW
 
-*   [mesh-espnow-micropython (⭐0)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
+*   [mesh-espnow-micropython (⭐2)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
 
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 

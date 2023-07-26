@@ -102,7 +102,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-basicdweet (⭐1)](https://github.com/jacklinquan/micropython-basicdweet) - A python module for very basic APIs of the free dweet service.
 *   [micropython-dweeter (⭐2)](https://github.com/jacklinquan/micropython-dweeter) - A python module for messaging through the free dweet service.
 *   [micropython-cryptodweet (⭐1)](https://github.com/jacklinquan/micropython-cryptodweet) - A python module for very basic APIs of the free dweet service with encryption.
-*   [micropython-linenotify (⭐4)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
+*   [micropython-linenotify (⭐5)](https://github.com/PerfecXX/micropython-linenotify) - MicroPython library for sending notifications to Line Notify with ESP8266 and ESP32.
 
 #### Authentication
 
@@ -155,7 +155,7 @@ Other places you can look for MicroPython Libraries:
 
 #### ESP-NOW
 
-*   [mesh-espnow-micropython (⭐0)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
+*   [mesh-espnow-micropython (⭐2)](https://github.com/shariltumin/mesh-espnow-micropython) - Dynamic Secure Mesh for Collaborative Nodes of IoT devices.
 
 #### Ethernet
 
@@ -748,6 +748,7 @@ Other places you can look for MicroPython Libraries:
 *   [Micropython\_MC3479 (⭐0)](https://github.com/jposada202020/Micropython_MC3479) - MicroPython Driver for the MC3479 Accelerometer.
 *   [MicroPython\_MMA8451 (⭐0)](https://github.com/jposada202020/MicroPython_MMA8451) - MicroPython module for the MMA8451 3-axis accelerometer.
 *   [MicroPython\_MMA8452Q (⭐0)](https://github.com/jposada202020/MicroPython_MMA8452Q) - MicroPython Driver for the NXP MMA8452Q Accelerometer.
+*   [msa301-micropython-driver (⭐1)](https://github.com/wojciech-szmyt/msa301-micropython-driver) - Homebrew MicroPython driver for MSA301 3-axis accelerometer. Tested on Raspberry Pico.
 
 #### Air Quality
 
@@ -1178,6 +1179,7 @@ Other places you can look for MicroPython Libraries:
 *   [mpremote (⭐17k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 *   [MPRemoteEditor (⭐2)](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
 *   [uPyExplorer (⭐6)](https://github.com/RetepRelleum/uPyExplorer) - Explorer for MicroPython Device.
+*   [mpr (⭐5)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
 
 ## Miscellaneous
 

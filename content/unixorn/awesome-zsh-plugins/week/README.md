@@ -14,6 +14,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [laconic (⭐0)](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
 *   [nerdps1 (⭐3)](https://github.com/joknarf/nerdps1) - Reminiscent of powerline. Requires a nerdfont. Includes decorators for user\@hostname, `git` information, truncated current directory, python virtualenv, exit status of last command run and the time.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
@@ -107,7 +108,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [fast-alias-tips (⭐1)](https://github.com/decayofmind/zsh-fast-alias-tips) - Helps remember the aliases you defined and forgot about. Ported from [djui/alias-tips (⭐713)](https://github.com/djui/alias-tips). Active fork of [sei40kr/zsh-fast-alias-tips (⭐59)](https://github.com/sei40kr/zsh-fast-alias-tips).
 *   [iterm2-shell-integration (⭐36)](https://github.com/gnachman/iterm2-shell-integration) - Shell integration and utilities for iTerm2.
-*   [show-git-user (⭐3)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
+*   [show-git-user (⭐2)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
 *   [wsl (⭐0)](https://github.com/florentinl/omz-wsl) - Adds helper functions to make it easier to work in ZSH when running inside WSL.
 *   [zsh-watch (⭐0)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
 
@@ -130,7 +131,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [argc-completions (⭐4)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐462)](https://github.com/sigoden/argc) and [jq (⭐25k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐3)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐474)](https://github.com/sigoden/argc) and [jq (⭐25k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 *   [fluxcd (⭐0)](https://github.com/l-umaca/omz-fluxcd-plugin) - Adds tab completion for the [FluxCD command line](https://fluxcd.io/flux/cmd/) tool, as well as some aliases for the most common flux commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

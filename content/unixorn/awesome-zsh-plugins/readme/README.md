@@ -1182,7 +1182,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [shell-fns (⭐0)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
 *   [shellfirm (⭐679)](https://github.com/kaplanelad/shellfirm) - Shellfirm is a handy utility to help avoid running dangerous commands without an extra step of approval. When risky patterns is detected you will immediately get a small prompt challenge that will verify your action.
 *   [shift-select (⭐58)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
-*   [show-git-user (⭐3)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
+*   [show-git-user (⭐2)](https://github.com/luisprgr/zsh-show-git-user) - When you need to work with multiple `git` users on the same machine this plugin will show which `git` user name is active in your prompt.
 *   [show-path (⭐1)](https://github.com/redxtech/zsh-show-path) - Provides a function shows the `$PATH` line by line.
 *   [simpleserver (⭐14)](https://github.com/sathish09/zsh_plugins/tree/master/simpleserver) - Plugin to easily start python `SimpleHTTPServer` and `SimpleHTTPSServer`.
 *   [singularityenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-singularityenv) - Provides a `singularityenv_prompt_info` function which returns the current singularity environment name
@@ -1408,7 +1408,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [ansible-server (⭐3)](https://github.com/viasite-ansible/zsh-ansible-server) - Completions for [viasite-ansible/ansible-server (⭐14)](https://github.com/viasite-ansible/ansible-server).
 *   [antibody-completion (⭐0)](https://github.com/sinetoami/antibody-completion) - This plugin provides completion for [Antibody (⭐1.7k)](https://github.com/getantibody/antibody) plugin manager.
 *   [appspec (⭐6)](https://github.com/perlpunk/App-AppSpec-p5) - Generating completions for Bash and ZSH from YAML specs
-*   [argc-completions (⭐4)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐462)](https://github.com/sigoden/argc) and [jq (⭐25k)](https://github.com/stedolan/jq) to add ZSH tab completions.
+*   [argc-completions (⭐3)](https://github.com/sigoden/argc-completions) - Uses [argc (⭐474)](https://github.com/sigoden/argc) and [jq (⭐25k)](https://github.com/stedolan/jq) to add ZSH tab completions.
 *   [autopkg-zsh-completion (⭐9)](https://github.com/fuzzylogiq/autopkg-zsh-completion) - Completions for autopkg.
 *   [autorestic (⭐3)](https://github.com/naegling/zsh-autorestic) - automatically installs [Restic (⭐818)](https://github.com/cupcakearmy/autorestic/)'s completions for you, and keeps them up to date as your autorestic version changes.
 *   [aws-completions (⭐5)](https://github.com/eastokes/aws-plugin-zsh) - Adds completion support for `awscli` to manage AWS profiles/regions and display them in the prompt.
@@ -2004,6 +2004,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [kumavis (⭐0)](https://github.com/kumavis/kumavis-zsh-theme) - Agnoster fork optimized for solarized terminals. Requires powerline-compatible font.
 *   [kw (⭐1)](https://github.com/Kwpolska/kw.zsh-theme) - Colorful theme with `git` and `hg` status information, ability to add host-specific colors to hostname.
 *   [kyuu (⭐1)](https://github.com/arturoalviar/kyuu-zsh-theme) - A simple theme with the first character being 九(kyuu), the number 9. The primary color is blue with a magenta accent. Includes `git` status decorations.
+*   [laconic (⭐0)](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
 *   [lagune (⭐1)](https://github.com/noplay/lagune) - A minimal ZSH theme.
 *   [lambda (cdimascio) (⭐59)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda (⭐161k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
 *   [lambda (halfo) (⭐462)](https://github.com/halfo/lambda-mod-zsh-theme/) - A ZSH theme optimized for `git` users who use unicode-compatible fonts and terminal applications.

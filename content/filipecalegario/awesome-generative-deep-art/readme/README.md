@@ -150,6 +150,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Large Language Models (LLMs)
 
+*   \[🔥🔥🔥] [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 *   [A simple guide to fine-tuning Llama 2 | Brev docs](https://brev.dev/blog/fine-tuning-llama-2)
 *   [microsoft/semantic-kernel (⭐11k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
 *   [CoPrompt](https://www.coprompt.io/login): platform for teams to use ChatGPT together
@@ -230,6 +231,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### LLMOps
 
+*   [Eden AI](https://www.edenai.co/?referral=partner-producthunt8\&ref=producthunt): provides a unique API connected to the AI engines
 *   [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
 
 ### ChatGPT
@@ -816,6 +818,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Video AI tools
 
+*   [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
 *   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 *   [Nathan Lands on Twitter: "AI video has started to produce mindblowing results and could eventually disrupt Hollywood / Twitter](https://twitter.com/NathanLands/status/1659195191591596033): Twitter thread with examples of Generative AI tools for video
 *   [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [\[dev platform\]](https://platform.stability.ai/docs/features/animation)

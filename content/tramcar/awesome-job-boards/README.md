@@ -4,6 +4,12 @@
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Jul 26, 2023](/content/2023/07/26/README.md)
+
+### eCommerce
+
+*   [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
+
 ## [Jul 21, 2023](/content/2023/07/21/README.md)
 
 ### Programming / Aggregator
@@ -19,10 +25,6 @@
 ### Blockchain
 
 *   [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs.
-
-### eCommerce
-
-*   \[eComPortal] (<https://www.ecomportal.co/>) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
 ### Tech / Aggregator
 
