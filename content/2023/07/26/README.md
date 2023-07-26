@@ -1,18 +1,42 @@
 # Awesome List Updates on Jul 26, 2023
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Follow : Official / Talks and videos
+
+*   [Marco Edward Gorelli (@MarcoGorelli)](https://github.com/MarcoGorelli) - Contributor to Polars projects
+*   [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
+*   [Etienne Bacher (@etiennebacher)](https://github.com/etiennebacher) - Contributor to R Polars project
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Browsers / File Sharing
+
+*   [Station](https://getstation.com/) - An open-source browser providing a single place for all of your web applications. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/getstation/desktop-app/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Note Taking / Diagnostics
+
+*   [serenevoid/kiwi.nvim (⭐22)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
+
+### Utility / Diagnostics
+
+*   [gaborvecsei/usage-tracker.nvim (⭐13)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
+
+## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### eCommerce
 
 *   [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
-## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Sensors / Accelerometer Digital
 
@@ -22,14 +46,14 @@
 
 *   [mpr (⭐5)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
 
-## [3. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Machine Learning and Artificial Intelligence
 
 *   [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) - Minimizing a cost function by iteratively computing the gradient and moving in the direction of steepest descent.
 *   [Hallucination](https://en.wikipedia.org/wiki/Hallucination_\(artificial_intelligence\)) - A confident response by an AI that does not seem to be justified by its training data.
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -43,7 +67,7 @@
 
 *   [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
 
-## [5. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [8. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / EHR
 
@@ -84,7 +108,7 @@
 
 *   [MedicalGPT (⭐1k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

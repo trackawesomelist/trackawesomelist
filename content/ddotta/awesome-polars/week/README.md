@@ -18,6 +18,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [Polars vs Pandas. Inside an AWS Lambda](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/) - A blog post that covers the topic of using Polars vs Pandas inside an AWS Lambda to do data processing by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐3)](https://github.com/danielbeach/polarsVpandasOnAwsLambda).
 *   [DuckDB vs Polars for Data Engineering](https://www.confessionsofadataguy.com/duckdb-vs-polars-for-data-engineering/) - A blog post that compares Polars and DuckDB with pipelines for Data Engineering by [@danielbeach](https://github.com/danielbeach).
 
+### Follow : Official / Talks and videos
+
+*   [Marco Edward Gorelli (@MarcoGorelli)](https://github.com/MarcoGorelli) - Contributor to Polars projects
+*   [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
+*   [Etienne Bacher (@etiennebacher)](https://github.com/etiennebacher) - Contributor to R Polars project
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Libraries/Packages/Scripts / Python
@@ -286,4 +292,3 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [Danny van Kooten (@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation
 *   [Søren Havelund Welling (@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation
 *   [Alexander Beedie (@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
-*   [Marco Edward Gorelli (@MarcoGorelli )](https://github.com/MarcoGorelli) - Contributor to Polars projects

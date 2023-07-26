@@ -6,6 +6,14 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jul 26, 2023](/content/2023/07/26/README.md)
+
+### Follow : Official / Talks and videos
+
+*   [Marco Edward Gorelli (@MarcoGorelli)](https://github.com/MarcoGorelli) - Contributor to Polars projects
+*   [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
+*   [Etienne Bacher (@etiennebacher)](https://github.com/etiennebacher) - Contributor to R Polars project
+
 ## [Jul 25, 2023](/content/2023/07/25/README.md)
 
 ### Resources / Tutorials & workshops
@@ -353,4 +361,3 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [Danny van Kooten (@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation
 *   [Søren Havelund Welling (@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation
 *   [Alexander Beedie (@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
-*   [Marco Edward Gorelli (@MarcoGorelli )](https://github.com/MarcoGorelli) - Contributor to Polars projects
