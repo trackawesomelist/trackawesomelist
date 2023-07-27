@@ -1,12 +1,64 @@
 # Awesome List Updates on Jul 24 - Jul 30, 2023
 
-33 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [1. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+
+### Code Analysis
+
+*   [RefactorFirst (⭐288)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
+
+### Distribution
+
+*   [jlink.online (⭐43)](https://github.com/AdoptOpenJDK/jlink.online) - Builds optimized runtimes over HTTP.
+
+### Miscellaneous
+
+*   [jOOX (⭐479)](https://github.com/jooq/joox) - Simple wrapper for the org.w3c.dom package, to allow for fluent XML document creation and manipulation with an API inspired by jQuery.
+
+### Security / Other
+
+*   [Topaz](https://www.topaz.sh) - Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Cloud management solutions
+
+*   [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes 1 deployment server, 1 static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
+
+### Authentication, Authorization and User Management
+
+*   [Cloud-IAM](https://www.cloud-iam.com/) — Keycloak Identity and Access Management as a Service. Free up to 100 users and 1 realm.
+
+## [3. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+
+### Epic Fantasy / [Art of the Adept](https://www.goodreads.com/series/269818-art-of-the-adept) (2019) *by [Michael G. Manning](https://www.goodreads.com/author/show/5021072.Michael_G_Manning)* [4.4]
+
+*   [The Choice of Magic](https://www.goodreads.com/book/show/51279226-the-choice-of-magic)
+*   [Secrets of Spellcraft](https://www.goodreads.com/book/show/52748703-secrets-and-spellcraft)
+*   [Scholar of Magic](https://www.goodreads.com/book/show/53497057-scholar-of-magic)
+*   [Disciple of War](https://www.goodreads.com/book/show/56329571-disciple-of-war)
+*   [The Wizard's Crown](https://www.goodreads.com/book/show/61167144-the-wizard-s-crown)
+
+### Epic Fantasy / [Tortall](https://www.goodreads.com/series/50262-tortall) (1983) *by [Tamora Pierce](https://en.wikipedia.org/wiki/Tamora_Pierce)* [4.3]
+
+*   [Beka Cooper](https://www.goodreads.com/series/44532-beka-cooper)
+*   [The Song of the Lioness](https://www.goodreads.com/series/43928-song-of-the-lioness)
+*   [The Immortals](https://www.goodreads.com/series/49863-immortals)
+*   [The Protector of the Small](https://www.goodreads.com/series/43815-protector-of-the-small)
+*   [Tricksters](https://www.goodreads.com/series/43688-daughter-of-the-lioness)
+
+## [4. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
+
+### Virtualisation / Docker
+
+*   [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS
+
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -47,7 +99,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -58,19 +110,19 @@
 
 *   [Circles](http://circles.software) \[iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
 
-## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Elementsworn](https://satan-bouchuncoin.itch.io/elementsworn) - Readapt Ironsworn to the the *Avatar: The Last Airbender* setting.
 
-## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Hash functions
 
 *   [SHA3](https://en.wikipedia.org/wiki/SHA-3) - Cryptographic hash function that produces a fixed-size output, typically 224, 256, 384, or 512 bits, from variable-size input data. It is part of the SHA-3 family of cryptographic algorithms designed to resist attacks from quantum computers and offers security properties such as pre-image resistance, second pre-image resistance, and collision resistance.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Browsers / File Sharing
 
@@ -80,13 +132,13 @@
 
 *   [GrandPerspective](https://grandperspectiv.sourceforge.net) - A small utility that visualizes disk usage by way of tree maps. It lets you quickly spot which files and folders take up the most space. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://git.code.sf.net/p/grandperspectiv/source) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://sourceforge.net/projects/grandperspectiv/files/grandperspective/) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/grandperspective/id1111570163)
 
-## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### eCommerce
 
 *   [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [11. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Accelerometer Digital
 
@@ -96,14 +148,14 @@
 
 *   [mpr (⭐5)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
 
-## [8. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [12. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Machine Learning and Artificial Intelligence
 
 *   [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) - Minimizing a cost function by iteratively computing the gradient and moving in the direction of steepest descent.
 *   [Hallucination](https://en.wikipedia.org/wiki/Hallucination_\(artificial_intelligence\)) - A confident response by an AI that does not seem to be justified by its training data.
 
-## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [13. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -149,14 +201,14 @@
 
 *   [OpenBoxes (⭐504)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
 
-## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [14. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
 *   [playwright-ui5 (⭐3)](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 *   [playwright-xpath (⭐3)](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
 
-## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Networking
 
@@ -166,7 +218,7 @@
 
 *   [Hex Monscape (⭐40)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -182,13 +234,13 @@
 
 *   [gaborvecsei/usage-tracker.nvim (⭐13)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### C++ / Non-X86
 
 *   [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) (HTML)
 
-## [14. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / Telegram
 
@@ -198,13 +250,13 @@
 
 *   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
 *   [openiddict (⭐3.6k)](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 
-## [16. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [20. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### UI Testing
 
@@ -214,13 +266,13 @@
 
 *   [Stacktrace](https://stacktracepodcast.fm)
 
-## [17. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [21. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS-Bridge / Outline Processor Markup Language
 
 *   <https://rss-bridge.org/bridge01/> (Official instance)
 
-## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [22. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -240,13 +292,13 @@
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 
-## [19. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [23. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Security / React
 
 *   [GraphQL Cop (⭐212)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -261,6 +313,10 @@
 *   [Kasm Workspaces](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/kasmtech)) `GPL-3.0` `Docker`
 *   [Open-Meteo](https://open-meteo.com/) - Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ([Demo](https://open-meteo.com/en/docs), [Source Code (⭐1.2k)](https://github.com/open-meteo/open-meteo)) `AGPL-3.0` `Docker`
 
+### Software / Search Engines
+
+*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases. (Fork of Searx). ([Source Code (⭐5k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
+
 ### Software / Software Development - Low Code
 
 *   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐228)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
@@ -269,19 +325,19 @@
 
 *   Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/m/selfhosted on kbin.social](https://kbin.social/m/selfhosted), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 
-## [21. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Standards
 
 *   [JSend (⭐1.2k)](https://github.com/omniti-labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
 
-## [22. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [26. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Vector Creation
 
 *   [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
 
-## [23. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [27. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Tools / Software / Pixel Art
 
@@ -294,19 +350,19 @@
     *   🔥 - Hot! Amazing Resource!
     *   🌎 - Website
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [vue-plugin-boilerplate (⭐0)](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
 
-## [25. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [29. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Diagramming
 
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.2k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 
-## [26. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -317,7 +373,7 @@
 *   [laconic (⭐0)](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
 *   [nerdps1 (⭐3)](https://github.com/joknarf/nerdps1) - Reminiscent of powerline. Requires a nerdfont. Includes decorators for user\@hostname, `git` information, truncated current directory, python virtualenv, exit status of last command run and the time.
 
-## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [31. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -335,25 +391,25 @@
 *   [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
 *   [Etienne Bacher (@etiennebacher)](https://github.com/etiennebacher) - Contributor to R Polars project
 
-## [28. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [32. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Adminhtml / Backend
 
 *   [Disable Stock Reservation (⭐184)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 
-## [29. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [33. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Projects / Wallets
 
 *   [GoPlausible](https://github.com/GoPlausible) - Proof of anything protocol, built on Algorand. [Create or claim your first PLAUS on Algorand!](https://goplausible.com).
 
-## [30. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
 *   [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
 
-## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Theory of Concepts
 
@@ -363,13 +419,13 @@
 
 *   [Investigating the effect of Mental Set on Insight Problem Solving](https://www.researchgate.net/profile/Gary-Jones-14/publication/23152585_Investigating_the_Effect_of_Mental_Set_on_Insight_Problem_Solving/links/0fcfd50abb767b1102000000/Investigating-the-Effect-of-Mental-Set-on-Insight-Problem-Solving.pdf) - ***Experimental Psychology***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11054712671934144981\&hl=en\&as_sdt=0,5)].
 
-## [32. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [36. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Conferences / Games
 
 *   [Elm Camp](https://elm.camp/)
 
-## [33. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [37. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 

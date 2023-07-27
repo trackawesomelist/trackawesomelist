@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/RichardLitt/awesome-fantasy/week/README.md) / [Overview](/content/RichardLitt/awesome-fantasy/readme/README.md) ]
 
+## [Jul 27, 2023](/content/2023/07/27/README.md)
+
+### Epic Fantasy / [Art of the Adept](https://www.goodreads.com/series/269818-art-of-the-adept) (2019) *by [Michael G. Manning](https://www.goodreads.com/author/show/5021072.Michael_G_Manning)* [4.4]
+
+*   [The Choice of Magic](https://www.goodreads.com/book/show/51279226-the-choice-of-magic)
+*   [Secrets of Spellcraft](https://www.goodreads.com/book/show/52748703-secrets-and-spellcraft)
+*   [Scholar of Magic](https://www.goodreads.com/book/show/53497057-scholar-of-magic)
+*   [Disciple of War](https://www.goodreads.com/book/show/56329571-disciple-of-war)
+*   [The Wizard's Crown](https://www.goodreads.com/book/show/61167144-the-wizard-s-crown)
+
+### Epic Fantasy / [Tortall](https://www.goodreads.com/series/50262-tortall) (1983) *by [Tamora Pierce](https://en.wikipedia.org/wiki/Tamora_Pierce)* [4.3]
+
+*   [Beka Cooper](https://www.goodreads.com/series/44532-beka-cooper)
+*   [The Song of the Lioness](https://www.goodreads.com/series/43928-song-of-the-lioness)
+*   [The Immortals](https://www.goodreads.com/series/49863-immortals)
+*   [The Protector of the Small](https://www.goodreads.com/series/43815-protector-of-the-small)
+*   [Tricksters](https://www.goodreads.com/series/43688-daughter-of-the-lioness)
+
 ## [Mar 15, 2023](/content/2023/03/15/README.md)
 
 ### Epic Fantasy / [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.4]

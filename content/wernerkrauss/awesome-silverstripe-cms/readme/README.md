@@ -2,7 +2,7 @@
 
 Useful resources for Silverstripe CMS and framework
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wernerkrauss/awesome-silverstripe-cms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wernerkrauss/awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms) · ⭐ 40 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wernerkrauss/awesome-silverstripe-cms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wernerkrauss/awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms) · ⭐ 46 · 🏷️ Content Management Systems
 
 [ [Daily](/content/wernerkrauss/awesome-silverstripe-cms/README.md) / [Weekly](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md) / Overview ]
 
@@ -110,37 +110,37 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 
 ### I18N (Internationalisation)
 
-*   [Fluent (⭐92)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
+*   [Fluent (⭐90)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
 *   [Autotranslate (⭐4)](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
 
 ### Site Search
 
 *   [Silverstripe Searchable (⭐13)](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
 *   [Searchable DataObjects (⭐25)](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
-*   [Fulltext Search (⭐44)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
+*   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
 *   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 instance for local development.
 *   [Solr search (⭐10)](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
 
 ### Development Helpers
 
-*   [Debugbar (⭐51)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
+*   [Debugbar (⭐54)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
 *   [IdeAnnotator (⭐43)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
-*   [Populate (⭐22)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
+*   [Populate (⭐24)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 *   [Mock DataObjects (⭐18)](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
-*   [Version Truncator (⭐35)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
-*   [UserSwitcher (⭐15)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
-*   [Masquerade (⭐14)](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
+*   [Version Truncator (⭐34)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
+*   [UserSwitcher (⭐16)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
+*   [Masquerade (⭐15)](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 
 ### Fancy Form Fields
 
-*   [Markdown Field (⭐10)](https://github.com/Silverstripers/markdownfield) -  Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.
+*   [Markdown Field (⭐11)](https://github.com/Silverstripers/markdownfield) -  Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.
 *   [Code Editor Field (⭐25)](https://github.com/nathancox/silverstripe-codeeditorfield) -  Gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML.
 
 ## Tools
 
 ### Management
 
-*   [SSPak (⭐44)](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
+*   [SSPak (⭐45)](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
 *   [SSPy (⭐1)](https://github.com/Firesphere/silverstripe-sspy) - Python version of SSPak, that can handle assets more than 2GB.
 
 ### IDE Plugins
@@ -151,6 +151,13 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 
 ### Virtualisation
 
+#### Docker
+
+*   [ddev setup](https://firesphere.dev/articles/ddevelopment-environment/) - Howto setup ddev for use with Silverstripe CMS
+*   [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) -  Apache + PHP Docker image with pre-installed PHP modules for Silverstripe support.
+*   [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
+*   [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
+
 #### Vagrant
 
 There is no official box like Laravel has its homestead box. However, there are a few good boxes out there for Vagrant you could use:
@@ -160,10 +167,4 @@ There is no official box like Laravel has its homestead box. However, there are 
 *   [Laravel Homestead (⭐3.8k)](https://github.com/laravel/homestead) - Prepackaged box for local development.
 *   [Scotchbox](https://box.scotch.io) - Popular LAMP/LEMP stack for local development.
 *   [Zauberfisch Vagrant Boxes (⭐6)](https://github.com/Zauberfisch/vagrant-boxes) -  Preconfigured Vagrant boxes for SS3 and SS4.
-
-#### Docker
-
-*   [brettt89/silverstripe-web](https://hub.docker.com/r/brettt89/silverstripe-web) -  Apache + PHP Docker image with pre-installed PHP modules for SilverStripe support.
-*   [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
-*   [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
 
