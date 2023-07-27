@@ -6,6 +6,16 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 [ Daily / [Weekly](/content/kakoni/awesome-healthcare/week/README.md) / [Overview](/content/kakoni/awesome-healthcare/readme/README.md) ]
 
+## [Jul 27, 2023](/content/2023/07/27/README.md)
+
+### Contents / Machine learning
+
+*   [PyHealth (⭐678)](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
+
+### Contents / Logistics
+
+*   [OpenBoxes (⭐504)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
+
 ## [Jul 26, 2023](/content/2023/07/26/README.md)
 
 ### Contents / EHR
@@ -177,7 +187,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Contents / Machine learning
 
-*   [MONAI (⭐4.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+*   [MONAI (⭐4.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
 
 ## [Mar 09, 2022](/content/2022/03/09/README.md)
 

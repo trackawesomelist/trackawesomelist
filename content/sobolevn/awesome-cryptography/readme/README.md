@@ -98,6 +98,7 @@ A curated list of cryptography resources and links.
 *   [MD5](https://en.wikipedia.org/wiki/MD5) - Widely used hash function producing a 128-bit hash value. MD5 was initially designed to be used as a cryptographic hash function, but it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
 *   [SHA1](https://en.wikipedia.org/wiki/SHA-1) -  Cryptographic hash function designed by the NSA. SHA-1 produces a 160-bit hash value known as a message digest. SHA-1 is no longer considered secure against well-funded opponents.
 *   [SHA2](https://en.wikipedia.org/wiki/SHA-2) - Set of hash functions designed by the NSA. SHA-256 and SHA-512 are novel hash functions computed with 32-bit and 64-bit words, respectively. They use different shift amounts and additive constants, but their structures are otherwise virtually identical, differing only in the number of rounds.
+*   [SHA3](https://en.wikipedia.org/wiki/SHA-3) - Cryptographic hash function that produces a fixed-size output, typically 224, 256, 384, or 512 bits, from variable-size input data. It is part of the SHA-3 family of cryptographic algorithms designed to resist attacks from quantum computers and offers security properties such as pre-image resistance, second pre-image resistance, and collision resistance.
 
 ### Articles
 
@@ -196,7 +197,7 @@ A curated list of cryptography resources and links.
 
 *   [=nil; Crypto3 (⭐50)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 *   [Botan](https://botan.randombit.net/) - Cryptography library written in `C++11`.
-*   [cryptopp (⭐4k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.1k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 *   [HElib (⭐3k)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
 *   [s2n (⭐4.3k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
@@ -250,7 +251,6 @@ A curated list of cryptography resources and links.
 ### Go
 
 *   [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-*   [cryptoballot (⭐218)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 *   [dkeyczar (⭐112)](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 *   [gocrypto (⭐151)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 *   [goThemis (⭐1.7k)](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
@@ -384,6 +384,7 @@ A curated list of cryptography resources and links.
 ### Rust
 
 *   [BLAKE3 (⭐4k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+*   [cryptoballot (⭐218)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 *   [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
 *   [mundane (⭐1.1k)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
 *   [ockam (⭐3.4k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.

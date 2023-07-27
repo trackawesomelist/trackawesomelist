@@ -253,7 +253,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 *   [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
 *   [MedicalGPT (⭐1k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
-*   [MONAI (⭐4.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+*   [MONAI (⭐4.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
+*   [PyHealth (⭐678)](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
 
 ### Asset Management
 
@@ -262,5 +263,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Logistics
 
 *   [ID3C (⭐22)](https://github.com/seattleflu/id3c) - Data logistics system enabling real-time genomic epidemiology.
+*   [OpenBoxes (⭐504)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
 *   [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
 

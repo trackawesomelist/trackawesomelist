@@ -6,6 +6,12 @@ A curated list of cryptography resources and links.
 
 [ [Daily](/content/sobolevn/awesome-cryptography/README.md) / Weekly / [Overview](/content/sobolevn/awesome-cryptography/readme/README.md) ]
 
+## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
+
+### Algorithms / Hash functions
+
+*   [SHA3](https://en.wikipedia.org/wiki/SHA-3) - Cryptographic hash function that produces a fixed-size output, typically 224, 256, 384, or 512 bits, from variable-size input data. It is part of the SHA-3 family of cryptographic algorithms designed to resist attacks from quantum computers and offers security properties such as pre-image resistance, second pre-image resistance, and collision resistance.
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### JavaScript / Git
@@ -656,7 +662,7 @@ A curated list of cryptography resources and links.
 
 ### C++ / Git
 
-*   [cryptopp (⭐4k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+*   [cryptopp (⭐4.1k)](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 
 ### C-sharp / Git
 
@@ -777,7 +783,6 @@ A curated list of cryptography resources and links.
 ### Go / Git
 
 *   [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
-*   [cryptoballot (⭐218)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 *   [gocrypto (⭐151)](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell / Git
@@ -819,6 +824,7 @@ A curated list of cryptography resources and links.
 
 ### Rust / Git
 
+*   [cryptoballot (⭐218)](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 *   [octavo (⭐140)](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
 *   [ring (⭐3.2k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
 *   [rust-openssl (⭐1.2k)](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.

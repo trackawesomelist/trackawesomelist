@@ -46,6 +46,11 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Contents / Machine learning
 
 *   [MedicalGPT (⭐1k)](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
+*   [PyHealth (⭐678)](https://github.com/sunlabuiuc/PyHealth) - A Deep Learning Python Toolkit for Healthcare Application.
+
+### Contents / Logistics
+
+*   [OpenBoxes (⭐504)](https://github.com/openboxes/openboxes) - an Open Source Inventory and Supply Chain Management System.
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
@@ -177,7 +182,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Contents / Machine learning
 
-*   [MONAI (⭐4.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+*   [MONAI (⭐4.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
