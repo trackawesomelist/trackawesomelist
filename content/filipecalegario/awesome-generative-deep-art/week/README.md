@@ -13,6 +13,10 @@ A curated list of Generative AI tools, works, models, and references
 *   \[🔥🔥🔥] [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 *   [A simple guide to fine-tuning Llama 2 | Brev docs](https://brev.dev/blog/fine-tuning-llama-2)
 
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
+
+*   [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
+
 ### Inbox: Large Language Models (LLMs) / LLMOps
 
 *   [Eden AI](https://www.edenai.co/?referral=partner-producthunt8\&ref=producthunt): provides a unique API connected to the AI engines
@@ -21,6 +25,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 *   [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
+
+### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+
+*   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 
 ### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
 

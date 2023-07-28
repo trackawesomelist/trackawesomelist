@@ -8,6 +8,10 @@
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
+### Nodes & Consensus Participation / Wallets
+
+*   [AlloCTRL (⭐7)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
+
 ### Projects / Wallets
 
 *   [GoPlausible](https://github.com/GoPlausible) - Proof of anything protocol, built on Algorand. [Create or claim your first PLAUS on Algorand!](https://goplausible.com).
@@ -20,7 +24,7 @@
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [AlgoRun (⭐23)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
@@ -48,7 +52,7 @@
 *   [algokit-beaker-default-template (⭐4)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
 *   [algokit-tealish-template (⭐0)](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit community template for quick starting a smart contract project with tealish and algojig.
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [AlgoNode](https://algonode.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
 
@@ -277,7 +281,7 @@
 
 *   [ASC Builder](https://ascbuilderapp.com) - A GUI (drag and drop) tool for developing & deploying Algorand smart contracts developed by [Algoknox](https://twitter.com/Algoknox).
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
@@ -307,7 +311,7 @@
 
 *   [perawallet-connect (⭐57)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [Algorand Node UI (⭐26)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 
@@ -467,7 +471,7 @@
 
 *   [optio-labs/teal-debugger-extension (⭐14)](https://github.com/optio-labs/teal-debugger-extension) - Debug teal with minimal AVM configuration inside VSCode.
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [Algorand - The Undocumented Docs (⭐5)](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 

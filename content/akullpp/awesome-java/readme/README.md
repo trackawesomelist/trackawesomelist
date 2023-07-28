@@ -246,6 +246,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Choco](https://choco-solver.org) - Off-the-shelf constraint satisfaction problem solver that uses constraint programming techniques.
 *   [JaCoP (⭐206)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
 *   [OptaPlanner](https://www.optaplanner.org) - Business planning and resource scheduling optimization solver.
+*   [Timefold (⭐183)](https://github.com/TimefoldAI/timefold-solver) - Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
 
 ### CSV
 
@@ -1306,6 +1307,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [TheServerSide.com](http://www.theserverside.com)
 *   [Vanilla Java](https://vanilla-java.github.io)
 *   [Voxxed](https://www.voxxed.com)
+*   [Java Weekly](https://discu.eu/weekly/java/)
 
 ## Contributing
 

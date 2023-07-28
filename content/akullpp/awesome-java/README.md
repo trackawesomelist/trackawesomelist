@@ -6,6 +6,16 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ Daily / [Weekly](/content/akullpp/awesome-java/week/README.md) / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
+## [Jul 28, 2023](/content/2023/07/28/README.md)
+
+### Constraint Satisfaction Problem Solver
+
+*   [Timefold (⭐183)](https://github.com/TimefoldAI/timefold-solver) - Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
+
+### Websites / Other
+
+*   [Java Weekly](https://discu.eu/weekly/java/)
+
 ## [Jul 27, 2023](/content/2023/07/27/README.md)
 
 ### Code Analysis

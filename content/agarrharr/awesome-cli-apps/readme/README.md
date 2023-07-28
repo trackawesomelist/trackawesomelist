@@ -18,7 +18,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -107,13 +107,13 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 
 *   [cmus (⭐5k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-*   [itunes-remote (⭐424)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+*   [itunes-remote (⭐426)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
 *   [somafm-cli (⭐124)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 *   [mpd (⭐1.9k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 *   [ncmpcpp (⭐1.8k)](https://github.com/arybczak/ncmpcpp) - mpd client.
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
-*   [musikcube (⭐3.6k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+*   [musikcube (⭐3.7k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 *   [beets (⭐12k)](https://github.com/beetbox/beets) - Music library manager and tagger.
 *   [spotify-tui (⭐15k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 *   [swaglyrics-for-spotify (⭐305)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
@@ -173,7 +173,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [is-up-cli (⭐352)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 *   [reachable (⭐24)](https://github.com/italolelis/reachable) - Check if a domain is up.
 *   [loadtest (⭐2.4k)](https://github.com/alexfernandez/loadtest) - Run load tests.
-*   [diff2html-cli (⭐438)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [diff2html-cli (⭐440)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Text Editors
 
@@ -183,7 +183,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [kakoune (⭐8.9k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 *   [micro (⭐22k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 *   [o (⭐305)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-*   [helix (⭐23k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
+*   [helix (⭐24k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
 ### Frontend Development
 
@@ -218,12 +218,12 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [k9s (⭐21k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 *   [PingMe (⭐652)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 *   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐22k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-*   [Discharge (⭐533)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+*   [Discharge (⭐534)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 *   [updatecli (⭐313)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ### Docker
 
-*   [lstags (⭐306)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
+*   [lstags (⭐307)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐3.5k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐27k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-shell (⭐382)](https://github.com/Trendyol/docker-shell) - Simple interactive docker interface.
@@ -287,7 +287,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [Timewarrior (⭐1k)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 *   [Watson (⭐2.3k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 *   [utt (⭐274)](https://github.com/larose/utt) - Simple time tracking tool.
-*   [Bartib (⭐438)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐448)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ### Note Taking and Lists
 
@@ -295,7 +295,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [geeknote (⭐392)](https://github.com/jeffkowalski/geeknote) - Evernote client.
 *   [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐660)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐667)](https://github.com/simeg/eureka) - Input and store your ideas.
 *   [sncli (⭐382)](https://github.com/insanum/sncli) - Simplenote client.
 *   [td-cli (⭐171)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 *   [taskell (⭐1.6k)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
@@ -308,7 +308,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 
 *   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system on the terminal
 *   [moeda (⭐131)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
-*   [cash-cli (⭐205)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+*   [cash-cli (⭐206)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 *   [cointop (⭐3.7k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 *   [ticker (⭐4.6k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
@@ -334,10 +334,10 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [aria2 (⭐31k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 *   [bitly-client (⭐48)](https://github.com/specious/bitly-client) - Bitly client.
 *   [deadlink (⭐126)](https://github.com/nschloe/deadlink) - Find dead links in files.
-*   [crawley (⭐143)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐146)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 *   [kill-tabs (⭐379)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 *   [alex (⭐4.6k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
-*   [clevercli (⭐49)](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
+*   [clevercli (⭐52)](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
 
 ### macOS
 
@@ -345,7 +345,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [osx-wifi-cli (⭐86)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
 *   [active-win-cli (⭐52)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 *   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
-*   [dark-mode (⭐637)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+*   [dark-mode (⭐638)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Terminal Sharing Utilities
 
@@ -379,7 +379,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 
 *   [has (⭐531)](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 *   [Ultimate Plumber (⭐8k)](https://github.com/akavel/up) - Write Linux pipes with live previews.
-*   [fkill-cli (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
+*   [fkill-cli (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Simple cross-platform process killer.
 *   [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 *   [undollar (⭐143)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 *   [pipe\_exec (⭐58)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
@@ -402,7 +402,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [grip (⭐6.1k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 *   [mdv (⭐1.7k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 *   [glow (⭐13k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
-*   [gtree (⭐129)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐137)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ### Security
 
@@ -446,12 +446,12 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [explainshell](https://www.explainshell.com/) - Type a snippet to see the help text for each argument.
 *   [howdoi (⭐10k)](https://github.com/gleitz/howdoi) - Instant coding answers.
 *   [how2 (⭐5.7k)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
-*   [The Fuck (⭐78k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+*   [The Fuck (⭐79k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 *   [tldr (⭐45k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 *   [Wat (⭐477)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐358)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐13k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
-*   [yai (⭐318)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐329)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## Data Manipulation
 
@@ -535,6 +535,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [google-drive-upload (⭐652)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 *   [gdrive-downloader (⭐273)](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
 *   [portal (⭐905)](https://github.com/ZinoKader/portal) - Send files between computers.
+*   [shbin (⭐26)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 
 ### Directory Listing
 
@@ -564,7 +565,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 *   [fselect (⭐3.6k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 *   [fd (⭐28k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
-*   [broot (⭐8.8k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
+*   [broot (⭐8.9k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 *   [rare (⭐212)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 *   [skim (⭐4.3k)](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
 *   [ast-grep (⭐2.5k)](https://github.com/ast-grep/ast-grep) - A tool for code structrual search, linting and rewriting.
@@ -596,7 +597,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 
 *   [CLI GitHub (⭐425)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 *   [Gistup (⭐490)](https://github.com/mbostock/gistup) - Manage GitHub gists.
-*   [hub (⭐22k)](https://github.com/github/hub) - Make git easier to use with GitHub.
+*   [hub (⭐23k)](https://github.com/github/hub) - Make git easier to use with GitHub.
 *   [git-labelmaker (⭐565)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
 ### Emoji
@@ -652,7 +653,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 *   [text-meme (⭐99)](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
 *   [dankcli (⭐47)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 *   [ricksay (⭐49)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
-*   [pokeget (⭐20)](https://github.com/talwat/pokeget) - Display sprites of pokemon.
+*   [pokeget (⭐23)](https://github.com/talwat/pokeget) - Display sprites of pokemon.
 
 ### Emoji
 
@@ -662,7 +663,7 @@ Inspired by the [awesome (⭐261k)](https://github.com/sindresorhus/awesome) lis
 
 ## Other Awesome Lists
 
-*   [awesome-git-addons (⭐1.7k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+*   [awesome-git-addons (⭐1.8k)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 *   [awesome-shell (⭐28k)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 *   [terminals-are-sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 *   [awesome-zsh-plugins (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.

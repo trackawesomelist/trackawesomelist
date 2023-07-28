@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Jul 28, 2023](/content/2023/07/28/README.md)
+
+### Nodes & Consensus Participation / Wallets
+
+*   [AlloCTRL (⭐7)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
+
 ## [Jul 24, 2023](/content/2023/07/24/README.md)
 
 ### Projects / Wallets
@@ -20,7 +26,7 @@
 
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [AlgoRun (⭐23)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
 
@@ -43,7 +49,7 @@
 
 ## [May 19, 2023](/content/2023/05/19/README.md)
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [AlgoNode](https://algonode.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
 
@@ -297,7 +303,7 @@
 
 ## [Aug 12, 2022](/content/2022/08/12/README.md)
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
@@ -335,7 +341,7 @@
 
 *   [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer (supports Sandbox in `localhost`).
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [Algorand Node UI (⭐26)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 
@@ -537,7 +543,7 @@
 
 *   [swift-algorand-sdk (⭐18)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
-### Other Development Tools / Nodes and Indexers
+### Nodes & Consensus Participation / Wallets
 
 *   [Algorand - The Undocumented Docs (⭐5)](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 

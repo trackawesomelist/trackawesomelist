@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 28, 2023](/content/2023/07/28/README.md)
+
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
+
+*   [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
+
+### Inbox: Developing + AI / Generative Adversarial Networks (GANs)
+
+*   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
+
 ## [Jul 26, 2023](/content/2023/07/26/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository

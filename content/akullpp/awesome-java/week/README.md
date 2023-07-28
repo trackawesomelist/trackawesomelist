@@ -12,6 +12,10 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 *   [RefactorFirst (⭐288)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 
+### Constraint Satisfaction Problem Solver
+
+*   [Timefold (⭐183)](https://github.com/TimefoldAI/timefold-solver) - Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
+
 ### Distribution
 
 *   [jlink.online (⭐43)](https://github.com/AdoptOpenJDK/jlink.online) - Builds optimized runtimes over HTTP.
@@ -23,6 +27,10 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Security / Other
 
 *   [Topaz](https://www.topaz.sh) - Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.
+
+### Websites / Other
+
+*   [Java Weekly](https://discu.eu/weekly/java/)
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
