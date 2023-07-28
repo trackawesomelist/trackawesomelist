@@ -14,6 +14,7 @@ Curated list of resources on HashiCorp's Terraform
 
 ### Tools / Vendor supported providers
 
+*   [tfmake (⭐9)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
 *   [tftui (⭐29)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
@@ -306,8 +307,8 @@ Curated list of resources on HashiCorp's Terraform
 *   [terraform-docs (⭐3.6k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
 *   [terrascan (⭐4.1k)](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
 *   [tfaction (⭐190)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
-*   [tfsec (⭐6.1k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
 *   [tflint (⭐4k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+*   [tfsec (⭐6.1k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
 *   [validIaC (⭐202)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 
 ## [Apr 18 - Apr 24, 2022](/content/2022/16/README.md)

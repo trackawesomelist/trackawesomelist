@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jul 28, 2023](/content/2023/07/28/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-popper-lite (⭐0)](https://github.com/jambonn/vue-popper-lite) - A popover component based on [popper.js tree shaking](https://popper.js.org/docs/v2/#popper-lite-tree-shaking) for Vue 3 written by TypeScript.
+
 ## [Jul 25, 2023](/content/2023/07/25/README.md)
 
 ### Resources / Examples
@@ -48,11 +54,11 @@
 *   [tanstack-table (⭐22k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐3)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
 *   [vue-skia (⭐126)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
-*   [@kolirt/vue-web3-auth (⭐4)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
+*   [@kolirt/vue-web3-auth (⭐7)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
 
-*   [tanstack-query (⭐35k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
+*   [tanstack-query (⭐36k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
 
 ## [Jul 06, 2023](/content/2023/07/06/README.md)
 
@@ -662,7 +668,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [@formkit/auto-animate (⭐8.1k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
+*   [@formkit/auto-animate (⭐8.2k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 
 ## [May 17, 2022](/content/2022/05/17/README.md)
 
@@ -2083,7 +2089,7 @@
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐672)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐677)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
@@ -2489,7 +2495,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [tsParticles (⭐5.6k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [tsParticles (⭐5.7k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ### Components & Libraries / Utilities
 
@@ -4451,7 +4457,7 @@
 *   [vuex-module-generator (⭐91)](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
 *   [vuex-declaration (⭐2)](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
 *   [vuex-up (⭐4)](https://github.com/Hokid/vuex-up) - Brings mixing and services injector features to module vuex.
-*   [effector (⭐4.2k)](https://github.com/zerobias/effector) — Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
+*   [effector (⭐4.3k)](https://github.com/zerobias/effector) — Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
 *   [nano-state-vue](https://gitlab.com/sophosoft/nano-state-vue) - Efficient, effective, and extensible state management: less is more
 *   [universal-model-vue (⭐26)](https://github.com/universal-model/universal-model-vue) - Unified state management for Vue (and also for Angular/React/Svelte)
 *   [vue-states (⭐149)](https://github.com/sumcumo/vue-states) - State management system for Vue with same API as Vue components
@@ -7138,7 +7144,7 @@
 
 ### Resources / Official Resources
 
-*   [GitHub Repo (⭐204k)](https://github.com/vuejs/vue)
+*   [GitHub Repo (⭐205k)](https://github.com/vuejs/vue)
 
 ## [Oct 06, 2016](/content/2016/10/06/README.md)
 
@@ -7231,7 +7237,7 @@
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐204k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐205k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -7240,4 +7246,4 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐204k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐205k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)

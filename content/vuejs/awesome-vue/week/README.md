@@ -12,6 +12,10 @@
 
 *   [vue-plugin-boilerplate (⭐0)](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
 
+### Components & Libraries / UI Components
+
+*   [vue-popper-lite (⭐0)](https://github.com/jambonn/vue-popper-lite) - A popover component based on [popper.js tree shaking](https://popper.js.org/docs/v2/#popper-lite-tree-shaking) for Vue 3 written by TypeScript.
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Components & Libraries / UI Components
@@ -36,11 +40,11 @@
 *   [tanstack-table (⭐22k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐3)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
 *   [vue-skia (⭐126)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
-*   [@kolirt/vue-web3-auth (⭐4)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
+*   [@kolirt/vue-web3-auth (⭐7)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
 
-*   [tanstack-query (⭐35k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
+*   [tanstack-query (⭐36k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -567,7 +571,7 @@
 ### Components & Libraries / UI Utilities
 
 *   [v-route-generate (⭐8)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
-*   [@formkit/auto-animate (⭐8.1k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
+*   [@formkit/auto-animate (⭐8.2k)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 
 ### Components & Libraries / Utilities
 
@@ -1623,7 +1627,7 @@
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐672)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐677)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
@@ -1895,7 +1899,7 @@
 
 *   [vue3-highcharts (⭐44)](https://github.com/smithalan92/vue3-highcharts) - A Highcharts.JS wrapper component for Vue 3
 *   [echarts-for-vue (⭐74)](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
-*   [tsParticles (⭐5.6k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [tsParticles (⭐5.7k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ### Components & Libraries / Frameworks
 
@@ -3672,7 +3676,7 @@
 *   [vuex-module-generator (⭐91)](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
 *   [vuex-declaration (⭐2)](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
 *   [vuex-up (⭐4)](https://github.com/Hokid/vuex-up) - Brings mixing and services injector features to module vuex.
-*   [effector (⭐4.2k)](https://github.com/zerobias/effector) — Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
+*   [effector (⭐4.3k)](https://github.com/zerobias/effector) — Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
 *   [nano-state-vue](https://gitlab.com/sophosoft/nano-state-vue) - Efficient, effective, and extensible state management: less is more
 *   [universal-model-vue (⭐26)](https://github.com/universal-model/universal-model-vue) - Unified state management for Vue (and also for Angular/React/Svelte)
 *   [vue-states (⭐149)](https://github.com/sumcumo/vue-states) - State management system for Vue with same API as Vue components
@@ -5861,7 +5865,7 @@
 
 ### Resources / Official Resources
 
-*   [GitHub Repo (⭐204k)](https://github.com/vuejs/vue)
+*   [GitHub Repo (⭐205k)](https://github.com/vuejs/vue)
 
 ### Resources / Tutorials
 
@@ -5947,7 +5951,7 @@
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐204k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐205k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -5956,4 +5960,4 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐204k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐205k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
