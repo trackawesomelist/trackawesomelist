@@ -241,6 +241,7 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [yaocccc/nvim-hl-mdcodeblock.lua (⭐17)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
 *   [kiran94/edit-markdown-table.nvim (⭐17)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 *   [richardbizik/nvim-toc (⭐2)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
+*   [Zeioth/markmap.nvim (⭐56)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 
 ### Language
 
@@ -292,6 +293,7 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [s1n7ax/nvim-search-and-replace (⭐47)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
 *   [roobert/search-replace.nvim (⭐156)](https://github.com/roobert/search-replace.nvim) - Brings better features to the native search and replace experience.
 *   [AckslD/muren.nvim (⭐231)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
+*   [windwp/nvim-spectre (⭐1.1k)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
 
 ### Fuzzy Finder
 
@@ -329,7 +331,6 @@ You can find them listed on the [Neovim wiki (⭐67k)](https://github.com/neovim
 *   [shaeinst/penvim (⭐37)](https://github.com/shaeinst/penvim) - Project's Root Directory and Documents Indentation detector with project based config loader.
 *   [nyngwang/NeoRoot.lua (⭐69)](https://github.com/nyngwang/NeoRoot.lua) - Change your current working directory to the buffer your cursor is on, and try to go up 2 levels but stop after it encounters one of the project roots you define.
 *   [windwp/nvim-projectconfig (⭐86)](https://github.com/windwp/nvim-projectconfig) - Load Neovim config depend on project directory.
-*   [windwp/nvim-spectre (⭐1.1k)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
 *   [ahmedkhalf/project.nvim (⭐930)](https://github.com/ahmedkhalf/project.nvim) - An all in one Neovim plugin that provides superior project management.
 *   [klen/nvim-config-local (⭐100)](https://github.com/klen/nvim-config-local) - Secure load local config files from working directories.
 *   [cljoly/telescope-repo.nvim](https://cj.rs/telescope-repo-nvim/) - Telescope picker to jump to any repository (git or other) on the file system.
@@ -637,6 +638,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [yagiziskirik/AirSupport.nvim (⭐6)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
 *   [aPeoplesCalendar/apc.nvim (⭐13)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 *   [malbertzard/inline-fold.nvim (⭐25)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+*   [chrisgrieser/nvim-origami (⭐2)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
 
 ### Terminal Integration
 
@@ -700,6 +702,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [idanarye/nvim-moonicipal (⭐11)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
 *   [MarcHamamji/runner.nvim (⭐23)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 *   [google/executor.nvim (⭐58)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+*   [Zeioth/compiler.nvim (⭐158)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
 
 ### Neovim Lua Development
 
@@ -1020,6 +1023,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [jonathandion/web-dev.nvim (⭐52)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 *   [linrongbin16/lin.nvim (⭐19)](https://github.com/linrongbin16/lin.nvim) - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
 *   [doctorfree/nvim-lazyman (⭐66)](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and modular configuration, supports over 40 preconfigured configurations.
+*   [NormalNvim/NormalNvim (⭐118)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
 
 ## External
 

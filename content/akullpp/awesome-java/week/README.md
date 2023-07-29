@@ -12,13 +12,41 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 *   [RefactorFirst (⭐288)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 
+### Code Generators
+
+*   [Avaje Http Server](https://avaje.io/http/) - Generates Lightweight JAX-RS style http servers using Javalin or Helidon (Nima) SE.
+
+### Configuration
+
+*   [avaje config](https://avaje.io/config/) - Loads yaml and properties files, supports dynamic configuration, plugins, file-watching and config event listeners.
+
 ### Constraint Satisfaction Problem Solver
 
 *   [Timefold (⭐183)](https://github.com/TimefoldAI/timefold-solver) - Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
 
+### Database
+
+*   [OpenDJ (⭐303)](https://github.com/OpenIdentityPlatform/OpenDJ) - LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
+
+### Dependency Injection
+
+*   [Avaje Inject](https://avaje.io/inject/) - Microservice-focused compile-time injection framework without reflection.
+
+### Distributed Applications
+
+*   [OpenIG (⭐49)](https://github.com/OpenIdentityPlatform/OpenIG) - High-performance reverse proxy server with specialized session management and credential replay functionality.
+
 ### Distribution
 
 *   [jlink.online (⭐43)](https://github.com/AdoptOpenJDK/jlink.online) - Builds optimized runtimes over HTTP.
+
+### HTTP Clients
+
+*   [Avaje Http Client](https://avaje.io/http-client) - A wrapper on JDK 11's HttpClient that adds Feign-like interface among other enhancements.
+
+### JSON
+
+*   [Avaje Jsonb](https://avaje.io/jsonb/) - Reflection-free Json binding via source code generation with Jackson-like annotations.
 
 ### Miscellaneous
 
@@ -26,6 +54,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Security / Other
 
+*   [OpenAM (⭐634)](https://github.com/OpenIdentityPlatform/OpenAM) - Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
 *   [Topaz](https://www.topaz.sh) - Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.
 
 ### Websites / Other

@@ -540,6 +540,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Critical Views about Generative AI
 
+*   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
 *   [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 *   [Hollywood studios proposed AI contract that would give them likeness rights ‘for the rest of eternity’ - The Verge](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
 *   [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
@@ -802,7 +803,11 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [AI Image to sound \[Melobytes.com\]](https://melobytes.com/en/app/ai_image2sound)
 *   [archinetai/audio-diffusion-pytorch (⭐1.5k)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
-## Inbox: Text-to-speech (TTS) tools and Avatars
+## Inbox: Speech-to-text (STT) and spoken content analysis
+
+*   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
+
+## Inbox: Text-to-speech (TTS) and avatars
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 *   [Shaunwei/RealChar (⭐3.3k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime

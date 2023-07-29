@@ -6,6 +6,24 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 29, 2023](/content/2023/07/29/README.md)
+
+### Markdown and LaTeX / Diagnostics
+
+*   [Zeioth/markmap.nvim (⭐56)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+
+### Utility / Diagnostics
+
+*   [chrisgrieser/nvim-origami (⭐2)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
+
+### Code Runner / Diagnostics
+
+*   [Zeioth/compiler.nvim (⭐158)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
+
+### Preconfigured Configuration / Diagnostics
+
+*   [NormalNvim/NormalNvim (⭐118)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
+
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
 ### Utility / Diagnostics
@@ -1159,6 +1177,7 @@ Collections of awesome neovim plugins.
 *   [rktjmp/highlight-current-n.nvim (⭐76)](https://github.com/rktjmp/highlight-current-n.nvim) - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
 *   [gaborvecsei/memento.nvim (⭐44)](https://github.com/gaborvecsei/memento.nvim) - Keeps track of your visited file history after a buffer is closed. Reopen files more easily.
 *   [ray-x/sad.nvim (⭐132)](https://github.com/ray-x/sad.nvim) - Space Age seD in neovim. Batch file edit tool, a wrapper for [sad (⭐1.2k)](https://github.com/ms-jpq/sad)
+*   [windwp/nvim-spectre (⭐1.1k)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
 
 ### File Explorer / Diagnostics
 
@@ -1180,7 +1199,6 @@ Collections of awesome neovim plugins.
 *   [shaeinst/penvim (⭐37)](https://github.com/shaeinst/penvim) - Project's Root Directory and Documents Indentation detector with project based config loader.
 *   [nyngwang/NeoRoot.lua (⭐69)](https://github.com/nyngwang/NeoRoot.lua) - Change your current working directory to the buffer your cursor is on, and try to go up 2 levels but stop after it encounters one of the project roots you define.
 *   [windwp/nvim-projectconfig (⭐86)](https://github.com/windwp/nvim-projectconfig) - Load Neovim config depend on project directory.
-*   [windwp/nvim-spectre (⭐1.1k)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
 *   [ahmedkhalf/project.nvim (⭐930)](https://github.com/ahmedkhalf/project.nvim) - An all in one Neovim plugin that provides superior project management.
 *   [klen/nvim-config-local (⭐100)](https://github.com/klen/nvim-config-local) - Secure load local config files from working directories.
 *   [cljoly/telescope-repo.nvim](https://cj.rs/telescope-repo-nvim/) - Telescope picker to jump to any repository (git or other) on the file system.

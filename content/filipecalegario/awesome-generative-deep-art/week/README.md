@@ -21,6 +21,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Eden AI](https://www.edenai.co/?referral=partner-producthunt8\&ref=producthunt): provides a unique API connected to the AI engines
 
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
+
 ### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
 *   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
@@ -30,7 +34,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
+
+*   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
+
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 
@@ -65,7 +73,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Remini - AI Photo Enhancer](https://remini.ai/): photo and video enhancer
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Shaunwei/RealChar (⭐3.3k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 *   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
@@ -756,7 +764,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥] [weihaox/awesome-gan-inversion (⭐983)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
 
@@ -820,7 +828,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
@@ -851,7 +859,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 *   [neonbjb/tortoise-tts (⭐8.1k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
@@ -1344,7 +1352,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [LOVO AI](https://www.lovo.ai/): AI Voiceover & Text to Speech Platform with human-like voices
 *   [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
 *   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]

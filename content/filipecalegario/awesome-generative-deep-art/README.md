@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 29, 2023](/content/2023/07/29/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
+
+### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
+
+*   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
+
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
@@ -40,7 +50,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 
@@ -79,7 +89,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Remini - AI Photo Enhancer](https://remini.ai/): photo and video enhancer
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Shaunwei/RealChar (⭐3.3k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 *   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
@@ -928,7 +938,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
 
@@ -1022,7 +1032,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
@@ -1082,7 +1092,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 
@@ -1105,7 +1115,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Stable Diffusion KLMC2 Animation.ipynb forked](https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb): fork by [@DigThatData](https://twitter.com/DigThatData)
 *   [Stable Diffusion KLMC2 Animation.ipynb](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G): notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [neonbjb/tortoise-tts (⭐8.1k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 
@@ -1446,7 +1456,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Runway ML](http://runwayml.com/): AI video creation suite
 *   [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 
-### Inbox: Text-to-speech (TTS) tools and Avatars / Generative Adversarial Networks (GANs)
+### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
 *   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
 *   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]

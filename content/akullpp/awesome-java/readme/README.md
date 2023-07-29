@@ -195,6 +195,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *   [ADT4J (⭐137)](https://github.com/sviperll/adt4j) - JSR-269 code generator for algebraic data types.
 *   [Auto (⭐10k)](https://github.com/google/auto) - Generates factory, service, and value classes.
+*   [Avaje Http Server](https://avaje.io/http/) - Generates Lightweight JAX-RS style http servers using Javalin or Helidon (Nima) SE.
 *   [Bootify ![c]](https://bootify.io) - Browser-based Spring Boot app generation with JPA model and REST API.
 *   [FreeBuilder (⭐808)](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
 *   [Geci (⭐122)](https://github.com/verhas/javageci) - Discovers files that need generated code, updates automatically and writes to the source with a convenient API.
@@ -227,6 +228,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Libraries that provide external configuration.*
 
+*   [avaje config](https://avaje.io/config/) - Loads yaml and properties files, supports dynamic configuration, plugins, file-watching and config event listeners.
 *   [centraldogma (⭐537)](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
 *   [cfg4j (⭐548)](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps written in Java.
 *   [config (⭐6k)](https://github.com/lightbend/config) - Configuration library supporting Java properties, JSON or its human optimized superset HOCON.
@@ -304,6 +306,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [MapDB](http://www.mapdb.org) - Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
 *   [MariaDB4j (⭐757)](https://github.com/vorburger/MariaDB4j) - Launcher for MariaDB that requires no installation or external dependencies.
 *   [Modality (⭐11)](https://github.com/arkanovicz/modality) - Lightweight ORM with database reverse engineering features.
+*   [OpenDJ (⭐303)](https://github.com/OpenIdentityPlatform/OpenDJ) - LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
 *   [Querydsl](http://www.querydsl.com) - Typesafe unified queries.
 *   [QueryStream (⭐13)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
 *   [QuestDB (⭐12k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
@@ -331,6 +334,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *Libraries that help to realize the [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control) paradigm.*
 
 *   [Apache DeltaSpike](https://deltaspike.apache.org) - CDI extension framework.
+*   [Avaje Inject](https://avaje.io/inject/) - Microservice-focused compile-time injection framework without reflection.
 *   [Dagger](https://dagger.dev/) - Compile-time injection framework without reflection.
 *   [Feather (⭐343)](https://github.com/zsoltherpai/feather) - Ultra-lightweight, JSR-330-compliant dependency injection library.
 *   [Governator (⭐820)](https://github.com/Netflix/governator) - Extensions and utilities that enhance Google Guice.
@@ -368,6 +372,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [JGroups](http://www.jgroups.org) - Toolkit for reliable messaging and cluster creation.
 *   [Quasar](http://docs.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 *   [resilience4j (⭐8.9k)](https://github.com/resilience4j/resilience4j) - Functional fault tolerance library.
+*   [OpenIG (⭐49)](https://github.com/OpenIdentityPlatform/OpenIG) - High-performance reverse proxy server with specialized session management and credential replay functionality.
 *   [ScaleCube Services (⭐587)](https://github.com/scalecube/scalecube-services) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
 *   [Zuul (⭐13k)](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
@@ -496,6 +501,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *   [Apache HttpComponents](https://hc.apache.org/) - A toolset of low-level Java components focused on HTTP and associated protocols.
 *   [Async Http Client (⭐6.1k)](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous HTTP and WebSocket client library.
+*   [Avaje Http Client](https://avaje.io/http-client) - A wrapper on JDK 11's HttpClient that adds Feign-like interface among other enhancements.
 *   [Feign (⭐8.9k)](https://github.com/OpenFeign/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
 *   [Google HTTP Client (⭐1.3k)](https://github.com/googleapis/google-http-java-client) - Pluggable HTTP transport abstraction with support for java.net.HttpURLConnection, Apache HTTP Client, Android, Google App Engine, XML, Gson, Jackson and Protobuf.
 *   [methanol (⭐193)](https://github.com/mizosoft/methanol) - HTTP client extensions library.
@@ -560,6 +566,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Libraries for serializing and deserializing JSON to and from Java objects.*
 
+*   [Avaje Jsonb](https://avaje.io/jsonb/) - Reflection-free Json binding via source code generation with Jackson-like annotations.
 *   [DSL-JSON (⭐920)](https://github.com/ngs-doo/dsl-json) - JSON library with advanced compile time databinding.
 *   [Genson](http://genson.io) - Powerful and easy-to-use Java-to-JSON conversion library.
 *   [Gson (⭐22k)](https://github.com/google/gson) - Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
@@ -981,6 +988,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Keywhiz (⭐2.6k)](https://github.com/square/keywhiz) - System for distributing and managing secrets.
 *   [Nbvcxz (⭐266)](https://github.com/GoSimpleLLC/nbvcxz) - Advanced password strength estimation.
 *   [OACC](http://oaccframework.org) - Provides permission-based authorization services.
+*   [OpenAM (⭐634)](https://github.com/OpenIdentityPlatform/OpenAM) - Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
 *   [OTP-Java (⭐126)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 *   [pac4j (⭐2.3k)](https://github.com/pac4j/pac4j) - Security engine.
 *   [Passay](http://www.passay.org/) - Enforce password policy by validating candidate passwords against a configurable rule set.

@@ -6,6 +6,40 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ Daily / [Weekly](/content/akullpp/awesome-java/week/README.md) / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
+## [Jul 29, 2023](/content/2023/07/29/README.md)
+
+### Code Generators
+
+*   [Avaje Http Server](https://avaje.io/http/) - Generates Lightweight JAX-RS style http servers using Javalin or Helidon (Nima) SE.
+
+### Configuration
+
+*   [avaje config](https://avaje.io/config/) - Loads yaml and properties files, supports dynamic configuration, plugins, file-watching and config event listeners.
+
+### Database
+
+*   [OpenDJ (⭐303)](https://github.com/OpenIdentityPlatform/OpenDJ) - LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
+
+### Dependency Injection
+
+*   [Avaje Inject](https://avaje.io/inject/) - Microservice-focused compile-time injection framework without reflection.
+
+### Distributed Applications
+
+*   [OpenIG (⭐49)](https://github.com/OpenIdentityPlatform/OpenIG) - High-performance reverse proxy server with specialized session management and credential replay functionality.
+
+### HTTP Clients
+
+*   [Avaje Http Client](https://avaje.io/http-client) - A wrapper on JDK 11's HttpClient that adds Feign-like interface among other enhancements.
+
+### JSON
+
+*   [Avaje Jsonb](https://avaje.io/jsonb/) - Reflection-free Json binding via source code generation with Jackson-like annotations.
+
+### Security / Other
+
+*   [OpenAM (⭐634)](https://github.com/OpenIdentityPlatform/OpenAM) - Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
+
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
 ### Constraint Satisfaction Problem Solver
