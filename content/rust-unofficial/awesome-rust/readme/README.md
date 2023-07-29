@@ -128,7 +128,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [alacritty (⭐48k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 *   [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor, in Rust. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 *   [asm-cli-rust (⭐262)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-*   [broot (⭐8.8k)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+*   [broot (⭐8.9k)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 *   [cloudflare/boringtun (⭐5.3k)](https://github.com/cloudflare/boringtun) — A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 *   [datafusion (⭐3.8k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 *   [denoland/deno (⭐90k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
@@ -153,7 +153,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [Servo (⭐23k)](https://github.com/servo/servo) — A prototype web browser engine
 *   [shoes (⭐60)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 *   [shuttle (⭐3.3k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
-*   [Sniffnet (⭐7.9k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
+*   [Sniffnet (⭐10k)](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 *   [SWC (⭐28k)](https://github.com/swc-project/swc) — super-fast TypeScript / JavaScript compiler
 *   [tiny (⭐858)](https://github.com/osa1/tiny) — A terminal IRC client
 *   [trust-dns](https://crates.io/crates/trust-dns) — A DNS-server [![Build Status](https://github.com/bluejekyll/trust-dns/workflows/test/badge.svg?branch=main)](https://github.com/bluejekyll/trust-dns/actions?query=workflow%3Atest)
@@ -221,10 +221,11 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 
 ### Database
 
-*   [Atomic-Server (⭐441)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐456)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 *   [CozoDB (⭐2.5k)](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast! [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
 *   [Databend (⭐6.2k)](https://github.com/datafuselabs/databend) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture [![Release](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml/badge.svg)](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml)
-*   [DB3 Network (⭐283)](https://github.com/dbpunk-labs/db3) — DB3 is a community-driven blockchain layer2 decentralized database network ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/dbpunk-labs/db3/ci.yml?branch=main\&style=flat-square)
+*   [DB3 Network (⭐291)](https://github.com/dbpunk-labs/db3) — DB3 is a community-driven blockchain layer2 decentralized database network ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/dbpunk-labs/db3/ci.yml?branch=main\&style=flat-square)
+*   [GreptimeDB (⭐2.9k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/GreptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/GreptimeTeam/greptimedb/actions/workflows/develop.yml)
 *   [indradb](https://crates.io/crates/indradb) — Rust based graph database
 *   [Lucid (⭐331)](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 *   [Materialize (⭐5.2k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/tests)
@@ -237,7 +238,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [seppo0010/rsedis (⭐1.7k)](https://github.com/seppo0010/rsedis) — A Redis reimplementation in Rust
 *   [Skytable (⭐1.7k)](https://github.com/skytable/skytable) — A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
 *   [sled](https://crates.io/crates/sled) — A (beta) modern embedded database [![Build Status](https://github.com/spacejam/sled/workflows/Rust/badge.svg?branch=master)](https://github.com/spacejam/sled/actions?workflow=Rust)
-*   [SurrealDB (⭐21k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
+*   [SurrealDB (⭐22k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 *   [TerminusDB (⭐331)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
 *   [tikv (⭐13k)](https://github.com/tikv/tikv) — A distributed KV database in Rust [![Build Status](https://ci.pingcap.net/job/tikv_ghpr_test/badge/icon)](https://ci.pingcap.net/job/tikv_ghpr_test/)
 *   [vorot93/libmdbx-rs (⭐65)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
@@ -256,7 +257,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
     *   [Ruffle (⭐13k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
 *   Gameboy
     *   [Gekkio/mooneye-gb (⭐841)](https://github.com/Gekkio/mooneye-gb) —
-    *   [joamag/boytacean (⭐540)](https://github.com/joamag/boytacean) — GameBoy Color emulator written in Rust that runs on the Web using WebAssembly.
+    *   [joamag/boytacean (⭐544)](https://github.com/joamag/boytacean) — GameBoy Color emulator written in Rust that runs on the Web using WebAssembly.
     *   [mohanson/gameboy (⭐1.3k)](https://github.com/mohanson/gameboy) — Full featured Cross-platform GameBoy emulator. Forever boys!.
     *   [mvdnes/rboy (⭐534)](https://github.com/mvdnes/rboy) —
 *   Gameboy Advance
@@ -340,11 +341,11 @@ See also [A comparison of operating systems written in Rust (⭐544)](https://gi
 
 ### Payments
 
-*   [hyperswitch (⭐4.4k)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+*   [hyperswitch (⭐4.5k)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
 
 ### Productivity
 
-*   [Bartib (⭐438)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐448)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 *   [espanso (⭐7.7k)](https://github.com/espanso/espanso) — A cross-platform Text Expander written in Rust[![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 *   [eureka](https://crates.io/crates/eureka) — A CLI tool to input and store your ideas without leaving the terminal
 *   [illacloud/illa (⭐156)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
@@ -416,7 +417,7 @@ See also [A comparison of operating systems written in Rust (⭐544)](https://gi
 *   [mmstick/fontfinder (⭐263)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 *   [mmstick/tv-renamer (⭐147)](https://github.com/mmstick/tv-renamer) — A tv series renaming application with an optional GTK3 frontend.
 *   [mxseev/logram (⭐90)](https://github.com/mxseev/logram) — Push log files' updates to Telegram
-*   [nickgerace/gfold (⭐241)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐245)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 *   [nivekuil/rip (⭐1k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
 *   [nushell/nushell (⭐26k)](https://github.com/nushell/nushell) - A new type of shell
 *   [ogham/exa (⭐22k)](https://github.com/ogham/exa) — A replacement for 'ls'
@@ -446,7 +447,7 @@ See also [A comparison of operating systems written in Rust (⭐544)](https://gi
 *   [amp](https://amp.rs) — Inspired by Vi/Vim.
 *   [emacs-ng (⭐1.5k)](https://github.com/emacs-ng/emacs-ng) — Complementing the C codebase with rust code to introduce new features.
 *   [gchp/iota (⭐1.6k)](https://github.com/gchp/iota) — A simple text editor
-*   [helix (⭐23k)](https://github.com/helix-editor/helix) — A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
+*   [helix (⭐24k)](https://github.com/helix-editor/helix) — A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
 *   [ilai-deutel/kibi (⭐1.2k)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 *   [Lapce (⭐26k)](https://github.com/lapce/lapce) — A modern editor with a backend written in Rust. Taking inspiration from the discontinued [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor).
 *   [mathall/rim (⭐569)](https://github.com/mathall/rim) — Vim-like text editor written in Rust
@@ -457,7 +458,7 @@ See also [A comparison of operating systems written in Rust (⭐544)](https://gi
 
 *   [dominikwilkowski/cfonts (⭐1.4k)](https://github.com/dominikwilkowski/cfonts) \[[cfonts](https://crates.io/crates/cfonts)] — Sexy ANSI fonts for the console ![build badge](https://github.com/dominikwilkowski/cfonts/actions/workflows/testing.yml/badge.svg)
 *   [grex (⭐6.1k)](https://github.com/pemistahl/grex) — A command-line tool and library for generating regular expressions from user-provided test cases
-*   [jqnatividad/qsv (⭐593)](https://github.com/jqnatividad/qsv) \[[qsv](https://crates.io/crates/qsv)] — A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml)
+*   [jqnatividad/qsv (⭐615)](https://github.com/jqnatividad/qsv) \[[qsv](https://crates.io/crates/qsv)] — A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml)
 *   [Lisprez/so\_stupid\_search (⭐147)](https://github.com/Lisprez/so_stupid_search) — A simple and fast string search tool for human beings
 *   [Melody (⭐4.1k)](https://github.com/yoav-lavi/melody) - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
 *   [phiresky/ripgrep-all (⭐5.6k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -510,7 +511,7 @@ See also [A comparison of operating systems written in Rust (⭐544)](https://gi
 ### Web
 
 *   [cfal/tobaru (⭐123)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
-*   [LemmyNet/lemmy (⭐11k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+*   [LemmyNet/lemmy (⭐12k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 *   [libreddit (⭐4.8k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
 *   [MASQ-Project/Node (⭐141)](https://github.com/MASQ-Project/Node) — MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 *   [Plume-org/Plume (⭐2k)](https://github.com/Plume-org/Plume) — ActivityPub federating blogging application
@@ -520,7 +521,7 @@ See also [A comparison of operating systems written in Rust (⭐544)](https://gi
 
 *   [emanuele-em/man-in-the-middle-proxy (⭐268)](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/man-in-the-middle-proxy/actions/workflows/rust.yml)
 *   [mufeedvh/binserve (⭐864)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
-*   [orhun/rustypaste (⭐450)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
+*   [orhun/rustypaste (⭐461)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
 *   [ronanyeah/rust-hasura (⭐137)](https://github.com/ronanyeah/rust-hasura) — A demonstration of how a Rust GraphQL server can be used as a remote schema with [Hasura](https://hasura.io/) ![Rust](https://github.com/ronanyeah/rust-hasura/workflows/Rust/badge.svg?branch=master)
 *   [static-web-server (⭐751)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 *   [svenstaro/miniserve (⭐4.8k)](https://github.com/svenstaro/miniserve) — A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
@@ -551,7 +552,7 @@ See also [A comparison of operating systems written in Rust (⭐544)](https://gi
 *   [ptags (⭐114)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
 *   [Racer (⭐3.4k)](https://github.com/racer-rust/racer) — code completion for Rust
 *   [Rust Search Extension (⭐1.1k)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
-*   [rust-lang/rustfix (⭐834)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
+*   [rust-lang/rustfix (⭐835)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
 *   [Rustup (⭐5.4k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 *   [scriptisto (⭐306)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
@@ -710,7 +711,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     *   [rust-lang/rust-enhanced (⭐732)](https://github.com/rust-lang/rust-enhanced) — official Rust package
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐531)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐542)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust-tools.nvim (⭐1.9k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
     *   [rust.vim (⭐3.6k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
@@ -727,7 +728,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 ### Profiling
 
-*   [Bencher (⭐110)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐127)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 *   [bheisler/criterion.rs (⭐3.6k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust
 *   [Bytehound (⭐3.6k)](https://github.com/koute/bytehound) — A memory profiler for Linux
 *   [ellisonch/rust-stopwatch (⭐77)](https://github.com/ellisonch/rust-stopwatch) — A stopwatch library
@@ -1072,7 +1073,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Data visualization
 
-*   [blitzarx1/egui\_graphs (⭐152)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget for rust powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+*   [blitzarx1/egui\_graphs (⭐168)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget for rust powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 *   [djduque/pgfplots (⭐93)](https://github.com/djduque/pgfplots) \[[pgfplots](https://crates.io/crates/pgfplots)] — A Rust library to generate publication-quality figures. [![build](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml/badge.svg)](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml)
 *   [igiagkiozis/plotly (⭐781)](https://github.com/igiagkiozis/plotly) — Plotly for Rust.
 *   [mazznoer/colorgrad-rs (⭐231)](https://github.com/mazznoer/colorgrad-rs) \[[colorgrad](https://crates.io/crates/colorgrad)] — Rust color scales library for data visualization, charts, games, maps, generative art and others.
@@ -1128,7 +1129,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐1.5k)](https://github.com/rust-rocksdb/rust-rocksdb) — RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐21k)](https://github.com/surrealdb/surrealdb) — SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐22k)](https://github.com/surrealdb/surrealdb) — SurrealDB embedded document-graph database
     *   [UnQLite](https://unqlite.org/)
         *   [zitsen/unqlite.rs (⭐106)](https://github.com/zitsen/unqlite.rs) — UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)
@@ -1179,7 +1180,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [gklijs/schema\_registry\_converter (⭐74)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] — to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
     *   [kafka-rust/kafka-rust (⭐985)](https://github.com/kafka-rust/kafka-rust) —
 *   Beanstalkd
-    *   [schickling/rust-beanstalkd (⭐45)](https://github.com/schickling/rust-beanstalkd) — [Beanstalkd (⭐6.3k)](https://github.com/beanstalkd/beanstalkd) bindings
+    *   [schickling/rust-beanstalkd (⭐45)](https://github.com/schickling/rust-beanstalkd) — [Beanstalkd (⭐6.4k)](https://github.com/beanstalkd/beanstalkd) bindings
 *   HDFS
     *   [hyunsik/hdfs-rs (⭐31)](https://github.com/hyunsik/hdfs-rs) \[[hdfs](https://crates.io/crates/hdfs)] — libhdfs bindings
 *   Other
@@ -1290,7 +1291,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Finance
 
-*   [avhz/RustQuant (⭐166)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+*   [avhz/RustQuant (⭐226)](https://github.com/avhz/RustQuant) \[[RustQuant](https://crates.io/crates/RustQuant)] — A quantitative finance library. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 *   [d-e-s-o/apca (⭐86)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
 ### Functional Programming
@@ -1314,7 +1315,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   Challonge
     *   [vityafx/challonge-rs (⭐2)](https://github.com/vityafx/challonge-rs) \[[challonge](https://crates.io/crates/challonge)] — Client library for the Challonge REST API. Helps to organize tournaments. [![CI](https://github.com/vityafx/challonge-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/vityafx/challonge-rs/actions/workflows/ci.yml)
 *   Corange
-    *   [lucidscape/corange-rs (⭐45)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) bindings
+    *   [lucidscape/corange-rs (⭐45)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.7k)](https://github.com/orangeduck/Corange) bindings
 *   Entity-Component Systems (ECS)
     *   [amethyst/specs (⭐2.3k)](https://github.com/amethyst/specs) — Specs Parallel ECS
     *   [legion (⭐1.5k)](https://github.com/amethyst/legion) — A feature rich high performance ECS library with minimal boilerplate [![build badge](https://github.com/amethyst/legion/workflows/CI/badge.svg?branch=master)](https://github.com/amethyst/legion/actions)
@@ -1424,7 +1425,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [saurvs/nfd-rs (⭐155)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.6k)](https://github.com/mlabbe/nativefiledialog) bindings
 *   [Sciter](https://sciter.com/)
     *   [sciter-sdk/rust-sciter (⭐781)](https://github.com/sciter-sdk/rust-sciter) — Sciter bindings [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
-*   [slint-ui/slint (⭐9k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+*   [slint-ui/slint (⭐9.1k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 *   [tauri-apps/tauri (⭐66k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐2.7k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 *   [tauri-apps/wry (⭐2.7k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 *   [xilem (⭐1.8k)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐9k)](https://github.com/linebender/druid).
@@ -1584,7 +1585,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [duckscript](https://crates.io/crates/duckscript) — [Simple, extendable and embeddable scripting language. (⭐418)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
 *   [fleabitdev/gamelisp (⭐369)](https://github.com/fleabitdev/glsp) — A Lisp-like scripting language for Rust game development
 *   [gluon-lang/gluon (⭐2.9k)](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
-*   [kcl (⭐605)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+*   [kcl (⭐650)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 *   [metacall/core (⭐1.3k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
 *   [mun (⭐1.6k)](https://github.com/mun-lang/mun) — A compiled, statically-typed scripting language with first class hot reloading support
 *   [murarth/ketos (⭐734)](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
@@ -1697,7 +1698,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
     *   [handlebars-rust (⭐1.1k)](https://github.com/sunng87/handlebars-rust) — an Iron web framework middleware.
     *   [hyperium/hyper (⭐12k)](https://github.com/hyperium/hyper) — an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
     *   [Iron (⭐6.1k)](https://github.com/iron/iron) — A middleware-based server framework
-    *   [Juniper (⭐5.2k)](https://github.com/graphql-rust/juniper) — GraphQL server library for Rust
+    *   [Juniper (⭐5.3k)](https://github.com/graphql-rust/juniper) — GraphQL server library for Rust
     *   [miketang84/sapper (⭐624)](https://github.com/miketang84/sapper) — A lightweight web framework built on async hyper, implemented in Rust language.
     *   [Nickel (⭐3k)](https://github.com/nickel-org/nickel.rs/) — inspired by [Express](http://expressjs.com/)
     *   [Ogeon/rustful (⭐871)](https://github.com/Ogeon/rustful) — A RESTful web framework for Rust

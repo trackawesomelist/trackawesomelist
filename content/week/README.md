@@ -326,17 +326,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Gravitee.io API Management (⭐35)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
 
-#### [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Concepts / Theory of Concepts
-
-*   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)]. Gentner's theory on similarity judgement by attributes and relations.
-
-##### Meta-Level Considerations / The Aha! Moment
-
-*   [Investigating the effect of Mental Set on Insight Problem Solving](https://www.researchgate.net/profile/Gary-Jones-14/publication/23152585_Investigating_the_Effect_of_Mental_Set_on_Insight_Problem_Solving/links/0fcfd50abb767b1102000000/Investigating-the-Effect-of-Mental-Set-on-Insight-Problem-Solving.pdf) - ***Experimental Psychology***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11054712671934144981\&hl=en\&as_sdt=0,5)].
-
-#### [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+#### [31. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ##### Books
 
@@ -347,7 +337,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [tfmake (⭐9)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
 *   [tftui (⭐29)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 
-#### [33. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [32. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Resources / Examples
 
@@ -357,7 +347,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vue-popper-lite (⭐0)](https://github.com/jambonn/vue-popper-lite) - A popover component based on [popper.js tree shaking](https://popper.js.org/docs/v2/#popper-lite-tree-shaking) for Vue 3 written by TypeScript.
 
-#### [34. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [33. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Cloud management solutions
 
@@ -371,7 +361,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Expose](https://expose.dev/) - Expose local sites via secure tunnels. Free plan includes EU Server, Random subdomains and Single user.
 
-#### [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### AI / Diagnostics
 
@@ -401,7 +391,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [NormalNvim/NormalNvim (⭐118)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
 
-#### [36. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+#### [35. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ##### Tools - Security / React
 
@@ -411,7 +401,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI. <a name="databases" />
 
-#### [37. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### GTFS Analysis Tools / Ruby
 
@@ -421,7 +411,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [GTFS Realtime Display](https://git.wtf-eg.de/dancesWithCycles/gtfs-rt-display) - Analyse, monitor and maintain GTFS Realtime data. [Example instances](https://www.swingbe.de/activity/gtfs-rt-display/)
 
-#### [38. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [37. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -457,7 +447,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 
-#### [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Projects / Examples
 
@@ -503,7 +493,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [40. Awesome Java](/content/akullpp/awesome-java/README.md)
+#### [39. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ##### Code Analysis
 
@@ -558,6 +548,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Java Weekly](https://discu.eu/weekly/java/)
 
+#### [40. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Database
+
+*   [GreptimeDB (⭐2.9k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/GreptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/GreptimeTeam/greptimedb/actions/workflows/develop.yml)
+
+#### [41. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Concepts / Theory of Concepts
+
+*   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)]. Gentner's theory on similarity judgement by attributes and relations.
+
+##### Meta-Level Considerations / The Aha! Moment
+
+*   [Investigating the effect of Mental Set on Insight Problem Solving](https://www.researchgate.net/profile/Gary-Jones-14/publication/23152585_Investigating_the_Effect_of_Mental_Set_on_Insight_Problem_Solving/links/0fcfd50abb767b1102000000/Investigating-the-Effect-of-Mental-Set-on-Insight-Problem-Solving.pdf) - ***Experimental Psychology***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11054712671934144981\&hl=en\&as_sdt=0,5)].
+
+##### Science Logology / Philosophy of Science
+
+*   [A Computational Inflection for Scientific Discovery](https://dl.acm.org/doi/abs/10.1145/3576896) - ***Communications of the ACM***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1756108647531090189\&hl=en\&as_sdt=0,5)].
+
 ---
 
 - Next: [Jul 17 - Jul 23, 2023](&#x2F;content&#x2F;2023&#x2F;29&#x2F;README.md)
@@ -571,10 +581,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 69K 📝 07&#x2F;28 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 62K 📝 07&#x2F;27 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 7. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 173K 📝 07&#x2F;14 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
-8. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 37K 📝 07&#x2F;29 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-9. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source ⭐ 75K 📝 07&#x2F;20 ](https://github.com/papers-we-love/papers-we-love)) - Papers from the computer science community to read and discuss.
-10. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K 📝 07&#x2F;25 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-11. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 36K 📝 07&#x2F;22 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 36K 📝 07&#x2F;29 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+9. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 37K 📝 07&#x2F;29 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+10. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source ⭐ 75K 📝 07&#x2F;20 ](https://github.com/papers-we-love/papers-we-love)) - Papers from the computer science community to read and discuss.
+11. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K 📝 07&#x2F;25 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 12. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 36K 📝 07&#x2F;20 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 13. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 07&#x2F;29 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 14. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 263K 📝 06&#x2F;29 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
@@ -1270,7 +1280,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 5.2K, 📝 21&#x2F;06&#x2F;11 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 431, 📝 22&#x2F;01&#x2F;06 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K, 📝 06&#x2F;28 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 36K, 📝 07&#x2F;22 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 36K, 📝 07&#x2F;29 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 8.6K, 📝 22&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 218, 📝 21&#x2F;10&#x2F;27 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 
@@ -1325,7 +1335,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 169, 📝 07&#x2F;25 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 169, 📝 07&#x2F;29 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 14K, 📝 04&#x2F;05 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 7.1K, 📝 22&#x2F;08&#x2F;12 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 65, 📝 05&#x2F;26 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

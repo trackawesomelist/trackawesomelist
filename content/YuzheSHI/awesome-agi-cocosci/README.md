@@ -6,11 +6,17 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jul 29, 2023](/content/2023/07/29/README.md)
+
+### Science Logology / Philosophy of Science
+
+*   [A Computational Inflection for Scientific Discovery](https://dl.acm.org/doi/abs/10.1145/3576896) - ***Communications of the ACM***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1756108647531090189\&hl=en\&as_sdt=0,5)].
+
 ## [Jul 25, 2023](/content/2023/07/25/README.md)
 
 ### Concepts / Theory of Concepts
 
-*   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)]. Gentner's theory on humans' similarity judgement by attributes and relations.
+*   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)]. Gentner's theory on similarity judgement by attributes and relations.
 
 ## [Jul 24, 2023](/content/2023/07/24/README.md)
 
