@@ -11,6 +11,7 @@
 ### Files and Directories / File Sync/Sharing
 
 *   [shbin (⭐26)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+*   [sharing (⭐1.6k)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
@@ -225,7 +226,7 @@
 
 ### Development / Text Editors
 
-*   [neovim (⭐67k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐68k)](https://github.com/neovim/neovim) - Modern vim.
 *   [o (⭐305)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 *   [helix (⭐24k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
@@ -893,7 +894,7 @@
 *   [doing (⭐1k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐43)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐824)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐825)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
 *   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.

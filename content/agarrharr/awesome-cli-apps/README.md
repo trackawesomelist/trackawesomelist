@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jul 30, 2023](/content/2023/07/30/README.md)
+
+### Files and Directories / File Sync/Sharing
+
+*   [sharing (⭐1.6k)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
+
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
 ### Files and Directories / File Sync/Sharing
@@ -229,7 +235,7 @@
 
 ### Development / Text Editors
 
-*   [neovim (⭐67k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐68k)](https://github.com/neovim/neovim) - Modern vim.
 *   [helix (⭐24k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
@@ -929,7 +935,7 @@
 *   [doing (⭐1k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐43)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐824)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐825)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
 *   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.

@@ -179,7 +179,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 
 *   [emacs (⭐4k)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
 *   [vim (⭐31k)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
-*   [neovim (⭐67k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐68k)](https://github.com/neovim/neovim) - Modern vim.
 *   [kakoune (⭐8.9k)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 *   [micro (⭐22k)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 *   [o (⭐305)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
@@ -273,7 +273,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐43)](https://github.com/specious/meetup-cli) - Meetup.com client.
 *   [NeoMutt](https://neomutt.org) - Email client.
-*   [terjira (⭐824)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐825)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
 *   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
@@ -536,6 +536,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [gdrive-downloader (⭐273)](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
 *   [portal (⭐905)](https://github.com/ZinoKader/portal) - Send files between computers.
 *   [shbin (⭐26)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+*   [sharing (⭐1.6k)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 
 ### Directory Listing
 
