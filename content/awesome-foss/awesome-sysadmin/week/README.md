@@ -8,15 +8,26 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
+### Software / Configuration Management
+
+*   [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code (⭐58k)](https://github.com/ansible/ansible))
+*   [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code (⭐7.3k)](https://github.com/chef/chef))
+*   [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐7k)](https://github.com/puppetlabs/puppet))
+*   [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code (⭐13k)](https://github.com/saltstack/salt))
+
 ### Software / Diagramming
 
 *   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.2k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
+
+### Websites / Web
+
+*   [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source\&grouping=category) - Compilation of software and tools for cloud computing.
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
-*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐4.2k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
+*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐4.3k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -60,7 +71,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Queuing
 
-*   [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue. ([Source Code (⭐6.3k)](https://github.com/beanstalkd/beanstalkd)) `MIT` `C`
+*   [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue. ([Source Code (⭐6.4k)](https://github.com/beanstalkd/beanstalkd)) `MIT` `C`
 *   [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code (⭐25k)](https://github.com/apache/kafka)) `Apache-2.0` `Java`
 *   [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code (⭐24k)](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
 *   [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code (⭐11k)](https://github.com/rabbitmq/rabbitmq-server)) `Erlang`
@@ -145,7 +156,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [dashdot (⭐1.6k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
+*   [dashdot (⭐1.6k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -218,7 +229,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code (⭐2.3k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
+*   [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code (⭐2.3k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 *   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6.4k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
 *   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐907)](https://github.com/sensu/sensu-go))
@@ -284,12 +295,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / Identity Management - Single Sign-On (SSO)
 
 *   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐17k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
-
-## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
-
-### Software / Cloud Orchestration
-
-*   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐14k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -541,13 +546,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
 
-## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
-
-### Software / Cloud Orchestration
-
-*   [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python.
-*   [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
-
 ## [Nov 27 - Dec 03, 2017](/content/2017/48/README.md)
 
 ### Software / Automation
@@ -580,55 +578,15 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / Cloning
 
 *   [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
-*   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Sorce Code (⭐913)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
+*   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code (⭐913)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 ### Software / Cloud Computing
 
+*   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code (⭐81)](https://github.com/CloudSlang/score))
 *   [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code (⭐1.4k)](https://github.com/apache/cloudstack))
 *   [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code (⭐2.4k)](https://github.com/cobbler/cobbler))
-*   [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
-*   [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
-*   [OpenStack](https://www.openstack.org/) - Build private and public clouds.
-*   [The Foreman](http://theforeman.org/) - Complete lifecycle management tool for physical and virtual servers. FOSS.
-*   [Tsuru](https://tsuru.io) - Tsuru is an extensible Platform as a Service software.
-
-### Software / Virtualization
-
-*   [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
-*   [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
-*   [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
-*   [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
-*   [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
-*   [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
-*   [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
-*   [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution.
-*   [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
-*   [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
-*   [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
-*   [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
-
-### Software / Cloud Orchestration
-
-*   [BOSH](http://bosh.io/docs/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
-*   [Cloud Foundry](https://www.cloudfoundry.org/) - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
-*   [Cloudify](http://getcloudify.org/) - TOSCA-based cloud orchestration software platform written in Python and YAML.
-*   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐53)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
-*   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐100k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
-*   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
-*   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
-*   [Rundeck](http://rundeck.org/) - Simple orchestration tool.
-*   [Spruce (⭐387)](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis (⭐53)](https://github.com/starkandwayne/genesis).
-
-### Software / Configuration Management
-
-*   [Salt](http://saltstack.com/) - It's written in Python.
-*   [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
-*   [CFEngine](https://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
-*   [Chef](https://www.chef.io/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
-*   [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
-*   [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
+*   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([SOurce Code (⭐465)](https://github.com/andrewchilds/overcast))
 
 ### Software / Configuration Management Database
 
@@ -636,6 +594,10 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
 *   [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
 *   [netbox (⭐13k)](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool
+
+### Software / Configuration Management
+
+*   [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code (⭐439)](https://github.com/cfengine/core))
 
 ### Software / Control Panels
 
@@ -774,6 +736,21 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
 *   [Mercurial](https://www.mercurial-scm.org/) - Another distributed revision control.
 *   [Subversion](http://subversion.apache.org/) - Client-server revision control system.
+
+### Software / Virtualization
+
+*   [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
+*   [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
+*   [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
+*   [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
+*   [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
+*   [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
+*   [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+*   [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution.
+*   [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
+*   [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
+*   [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
+*   [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
 
 ### Software / VPN
 

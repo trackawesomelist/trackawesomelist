@@ -33,7 +33,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
     *   [Client management](#client-management)
     *   [Cloning](#cloning)
     *   [Cloud Computing](#cloud-computing)
-    *   [Cloud Orchestration](#cloud-orchestration)
     *   [Code Review](#code-review)
     *   [Configuration Management Database](#configuration-management-database)
     *   [Configuration Management](#configuration-management)
@@ -161,46 +160,27 @@ Managing software on desktop computers.
 *Cloning software.*
 
 *   [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
-*   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Sorce Code (⭐913)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
+*   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code (⭐913)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 ### Cloud Computing
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
+[Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
+
+**Please visit [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source\&grouping=category)**
+
+*   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code (⭐81)](https://github.com/CloudSlang/score))
 *   [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code (⭐1.4k)](https://github.com/apache/cloudstack))
 *   [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code (⭐2.4k)](https://github.com/cobbler/cobbler))
-*   [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
-*   [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
-*   [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
-*   [OpenStack](https://www.openstack.org/) - Build private and public clouds.
-*   [The Foreman](http://theforeman.org/) - Complete lifecycle management tool for physical and virtual servers. FOSS.
-*   [Tsuru](https://tsuru.io) - Tsuru is an extensible Platform as a Service software.
-
-### Cloud Orchestration
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-*   [BOSH](http://bosh.io/docs/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
-*   [Cloud Foundry](https://www.cloudfoundry.org/) - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
-*   [Cloudify](http://getcloudify.org/) - TOSCA-based cloud orchestration software platform written in Python and YAML.
-*   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐53)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
-*   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐100k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
-*   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
-*   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐14k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
-*   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
-*   [Rundeck](http://rundeck.org/) - Simple orchestration tool.
-*   [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
-*   [Spruce (⭐387)](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis (⭐53)](https://github.com/starkandwayne/genesis).
-*   [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python.
-*   [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
+*   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([SOurce Code (⭐465)](https://github.com/andrewchilds/overcast))
 
 ### Code Review
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-**Please visit [awesome-selfhosted/Software Development - Project Management (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
+**Please visit [awesome-selfhosted/Software Development - Project Management (⭐141k)](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
 
 ### Configuration Management Database
 
@@ -219,14 +199,13 @@ Configuration management database (CMDB) software.
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Configuration management tools.*
+[Configuration management (CM)](https://en.wikipedia.org/wiki/Configuration_management) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
 
-*   [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
-*   [CFEngine](https://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
-*   [Chef](https://www.chef.io/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
-*   [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
-*   [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
-*   [Salt](http://saltstack.com/) - It's written in Python.
+*   [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code (⭐58k)](https://github.com/ansible/ansible))
+*   [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code (⭐439)](https://github.com/cfengine/core))
+*   [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code (⭐7.3k)](https://github.com/chef/chef))
+*   [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐7k)](https://github.com/puppetlabs/puppet))
+*   [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code (⭐13k)](https://github.com/saltstack/salt))
 
 ### Continuous Integration & Continuous Deployment
 
@@ -274,7 +253,7 @@ Configuration management database (CMDB) software.
 
 **Please visit [dbdb.io - Database of Databases](https://dbdb.io/)**
 
-*See also: [awesome-selfhosted/Database Management (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#database-management)*
+*See also: [awesome-selfhosted/Database Management (⭐141k)](https://github.com/awesome-selfhosted/awesome-selfhosted#database-management)*
 
 ### Deployment Automation
 
@@ -305,7 +284,7 @@ Configuration management database (CMDB) software.
 
 *Network distributed filesystems.*
 
-*See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers)*
+*See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers (⭐141k)](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers)*
 
 *   [Ceph](https://ceph.com/) - Distributed object, block, and file storage platform. ([Source Code (⭐12k)](https://github.com/ceph/ceph)) `LGPL-3.0` `C++`
 *   [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code (⭐503)](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
@@ -329,7 +308,7 @@ Configuration management database (CMDB) software.
 
 *DNS servers.*
 
-*See also: [awesome-selfhosted/DNS (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)*
+*See also: [awesome-selfhosted/DNS (⭐141k)](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)*
 
 *Related: [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)*
 
@@ -349,7 +328,7 @@ Configuration management database (CMDB) software.
 
 *DNS server control panels, web interfaces and domain management tools*
 
-*See also: [awesome-selfhosted/DNS (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)*
+*See also: [awesome-selfhosted/DNS (⭐141k)](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)*
 
 *Related: [DNS - Servers](#dns---servers)*
 
@@ -423,7 +402,7 @@ Configuration management database (CMDB) software.
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 *   [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code (⭐17k)](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
-*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐4.2k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
+*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐4.3k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
 *   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐17k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
 ### IT Asset Management
@@ -470,14 +449,14 @@ Configuration management database (CMDB) software.
 *Related: [Metrics & Metric Collection](#metrics--metric-collection)*
 
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐328)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
-*   [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code (⭐2.3k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
+*   [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code (⭐2.3k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 *   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
 *   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.4k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 *   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code (⭐5.5k)](https://github.com/arachnys/cabot)) `MIT` `Python`
 *   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code (⭐1.4k)](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 *   [cadvisor (⭐15k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code (⭐15k)](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
 *   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.1k)](https://github.com/tribe29/checkmk)) `Python/PHP`
-*   [dashdot (⭐1.6k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.io)) `MIT` `Nodejs/Docker`
+*   [dashdot (⭐1.6k)](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 *   [EdMon (⭐5)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 *   [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code (⭐334)](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
 *   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6.4k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
@@ -510,7 +489,7 @@ Configuration management database (CMDB) software.
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐141k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 ### Metrics & Metric Collection
 
@@ -569,14 +548,14 @@ Configuration management database (CMDB) software.
 
 *Web-based project management and bug tracking systems*
 
-**Please visit [awesome-selfhosted/Project Management (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
+**Please visit [awesome-selfhosted/Project Management (⭐141k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
 
 ### Queuing
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 *   [ActiveMQ](https://activemq.apache.org/) - Java message broker. ([Source Code (⭐2.2k)](https://github.com/apache/activemq)) `Apache-2.0` `Java`
-*   [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue. ([Source Code (⭐6.3k)](https://github.com/beanstalkd/beanstalkd)) `MIT` `C`
+*   [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue. ([Source Code (⭐6.4k)](https://github.com/beanstalkd/beanstalkd)) `MIT` `C`
 *   [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code (⭐692)](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
 *   [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code (⭐25k)](https://github.com/apache/kafka)) `Apache-2.0` `Java`
 *   [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code (⭐24k)](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
@@ -587,7 +566,7 @@ Configuration management database (CMDB) software.
 
 [Remote Desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) client software.
 
-*See also: [awesome-selfhosted/Remote Access (⭐139k)](https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access)*
+*See also: [awesome-selfhosted/Remote Access (⭐141k)](https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access)*
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
@@ -752,6 +731,7 @@ Configuration management database (CMDB) software.
 
 ## Websites
 
+*   [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source\&grouping=category) - Compilation of software and tools for cloud computing.
 *   [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki which has really nice written articles valid for other distros.
 *   [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 *   [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
