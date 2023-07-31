@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 31, 2023](/content/2023/07/31/README.md)
+
+### Authentication, Authorization and User Management
+
+*   [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
+
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers

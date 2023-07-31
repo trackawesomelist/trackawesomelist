@@ -2,35 +2,145 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.3K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
-## [Jul 19, 2023](/content/2023/07/19/README.md)
+## [Jul 31, 2023](/content/2023/07/31/README.md)
 
 ### Code & Database Assistant
 
-- Name: [Hiphops AI](https://www.hiphops.io/ai)
+- Name: [Hiphops AI](https://www.hiphops.io/ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Inject AI Anywhere In Your Dev Workflow
+  Title: Inject AI Anywhere in Your Dev Workflow.
 
   Description: Hiphops AI lets you integrate generative AI anywhere in your development workflow so you can fully automate you development, testing, deployment and release process.
 
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Kyligence Copilot](https://kyligence.io/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Excel Your KPIs With the AI Copilot for Data.
+
+  Description: Meet Kyligence Copilot – Your AI copilot for Data. Just chat, ask, and discover. Our AI-driven chatbot understands your business metrics, allowing you to evaluate your KPIs, provide recommendations, creating data products in natural language, without the need for technical expertise.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Rome AI](https://www.romehq.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Query Your Data in a Conversational Way.
+
+  Description: Rome AI connects with your data source, analyze and allows conversational discussions with your own data! Rome is an AI powered no-code data enablement and analytics layer, empowering non-technical employees to become superhuman data analysts.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Content Generation & Seo
+
+- Name: [Writery AI](https://www.aiwritery.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: AI-powered Writing Platform That Has Immensely Transformed the Way to Create Written Content. Write Your Article From a Topic or Keyword.
+
+  Description: Our free AI writing generator has optimized for the best SEO practices and can produce high-quality, original content for a blog post/article from a topic or keyword. We offer a range of options to suit your blog content needs, including four task types (blog outline, blog introduction, blog headline, and blog ideas), and over 14 different tones and 23 languages to choose from.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [beehiiv AI](https://www.beehiiv.com/create/ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Artificial Intelligence Built for Newsletter Operators.
+
+  Description: AI Writing Assistant - Describe an idea of what you want to write, select the tone and length. AI Text Tools - Select existing text to auto-correct, auto-complete, or regenerate altogether. AI Image Tools - Generate beautiful images with nothing but your imagination. Describe the image and bring it to life. AI Translator - Seamlessly translate your content into multiple languages.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Fun
+
+- Name: [Nudify.online](https://www.nudify.online?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Undress Anybody With Our FREE Service.
+
+  Description: Just choose age, body type, quality and get a result in a few seconds.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Organization & Automation
+
+- Name: [Adaptify SEO Agent](https://adaptify.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Automated SEO Marketing.
+
+  Description: Builds a profile of your busines your customers and your competitors on Google. Then generates a keyword strategy and long-form content that ranks well on Google.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Spoke](https://www.spoke.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Spoke Cuts Through Workplace Noise With Powerful AI That Prioritizes and Summarizes Across Tools ⚡️.
+
+  Description: Cut through the noise. Spoke is the OS for tomorrow’s teams. Aggregate, prioritize, and summarize across your tools to create the context for work. Instant context for all your channels & threads - Private & secure AI to summarize any conversation or topic, so you never miss an important update - free to use, directly within Slack.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Research Assistant
+
+- Name: [Afforai Build](https://afforai.com/build?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Your AI Reading Copilot. Must-Have Tools for Text Analysis, Research, and Document Search.
+
+  Description: Drafting Reports Too many documents to read through? Afforai will analyze and draft up a full report for you as well as answer any questions about the documents. Spreadsheet Query - Use Afforai to extract important information from reports and spreadsheets using natural language query. Web Scraping - Afforai can scrape through multiple websites and extract key information.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Sales & Marketing
+
+- Name: [AdInsights](https://adinsights.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Use AI to Generate Intelligent Action Items From Digital Ad Campaign Data.
+
+  Description: Input the primary objective for the analysis, Upload 1+ digital ad campaign data for each platform, Receive intelligent actionable items to execute on.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Translation & Transcript
+
+- Name: [TranscriptLOL](https://transcript.lol?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Transcribe Any Audio or Video From 1500+ Platforms.
+
+  Description: Transcribe and Translate any Video or Podcast. Ask questions and get answers using only transcript as context  — no hallucinations! Get summary of the video or podcast and a list of all topics discussed. Works on videos without transcripts. Identifies speakers in the Transcript. The transcripts have much higher accuracy than YouTube or other auto generated captions!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Writing Assistant
+
+- Name: [Afforai Ask](https://afforai.com/ask?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Supercharge Writing Tasks With AI.
+
+  Description: Business - Quick Email and Document Writer can help you create professional emails and documents. Employment - Make your hiring process easier with our AI-powered tool that generates job descriptions. Job seekers can create standout resumes and cover letters. Technical - Afforai helps you draft essay and reports given your main points quickly and easily.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ## [Jul 14, 2023](/content/2023/07/14/README.md)
-
-### Upcoming ProductHunt Launches 🚀
-
-- Date: July 15
-
-  Name: [CustomQR AI](https://ai-collection.org/en/application/customqr-ai/)
-
-  ProductHunt Link: <https://www.producthunt.com/products/customqr-ai>
-
-
 
 ### Art & Image Generator
 
@@ -7918,7 +8028,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Taskade](http://www.taskade.com/?via=beth0)
 
-  Title: Taskade - AI Outliner & Mind Map - AI Outlining and Mind Mapping for Teams.
+  Title: A Second Brain for You and Your Teams. Five AI-powered Tools in One to Supercharge Your Team Productivity. With Taskade, All Your Work Is in Sync in One Unified Workspace.
 
   Description: Taskade is the first collaborative AI writer and outliner for teams with built-in task management and video chat. Create mind maps, task lists, and take structured notes in real-time with your team.
 
