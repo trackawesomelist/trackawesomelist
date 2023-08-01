@@ -6,6 +6,30 @@
 
 [ [Daily](/content/RichardLitt/awesome-fantasy/README.md) / Weekly / [Overview](/content/RichardLitt/awesome-fantasy/readme/README.md) ]
 
+## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
+
+### Epic Fantasy / [Chronicles of the Unhewn Throne](https://www.goodreads.com/series/116397-chronicle-of-the-unhewn-throne) (2014) *by [Brian Staveley](https://en.wikipedia.org/wiki/Brian_Staveley)* [4.1]
+
+*   [The Emperor's Blades](https://www.goodreads.com/book/show/17910124-the-emperor-s-blades)
+*   [The Providence of Fire](https://www.goodreads.com/book/show/24450384-the-providence-of-fire)
+*   [The Last Mortal Bond](https://www.goodreads.com/book/show/27565716-the-last-mortal-bond)
+
+### Epic Fantasy / [Redwall](https://www.goodreads.com/series/40340-redwall) (1986) *by [Brian Jacques](https://en.wikipedia.org/wiki/Brian_Jacques)* [4.1] :fire:
+
+*   [Redwall](https://www.goodreads.com/book/show/20209935-redwall) \[4.1] :fire:
+*   [Mossflower](https://www.goodreads.com/book/show/19473270-mossflower) \[4.1]
+*   [Mattimeo](https://www.goodreads.com/book/show/19300221-mattimeo) \[4.1]
+*   [Mariel](https://www.goodreads.com/book/show/20189089-mariel-of-redwall) \[4.1]
+*   ... 21 total
+
+### Epic Fantasy / [The Demon Cycle](https://www.goodreads.com/series/46817-the-demon-cycle) (2008) *by [Peter V. Brett](https://en.wikipedia.org/wiki/Peter_V._Brett)* [4.2] :fire:
+
+*   [The Warded Man](https://www.goodreads.com/book/show/24809182-o-protegido) :fire:
+*   [The Desert Spear](https://www.goodreads.com/book/show/17411982-pustinjsko-koplje)
+*   [The Daylight War](https://www.goodreads.com/book/show/16163983-the-daylight-war)
+*   [The Skull Throne](https://www.goodreads.com/book/show/24516043-the-skull-throne)
+*   [The Core](https://www.goodreads.com/book/show/36179561-the-core)
+
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
 ### Epic Fantasy / [Art of the Adept](https://www.goodreads.com/series/269818-art-of-the-adept) (2019) *by [Michael G. Manning](https://www.goodreads.com/author/show/5021072.Michael_G_Manning)* [4.4]
