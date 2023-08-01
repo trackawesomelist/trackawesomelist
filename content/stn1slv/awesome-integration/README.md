@@ -6,6 +6,12 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Aug 01, 2023](/content/2023/08/01/README.md)
+
+### Projects / Messaging
+
+*   [BlazingMQ (⭐1.8k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
+
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
 ### Projects / API Management

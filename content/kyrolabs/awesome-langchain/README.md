@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Aug 01, 2023](/content/2023/08/01/README.md)
+
+### Other LLM Frameworks / Articles
+
+*   [LLMFlow (⭐207)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+
 ## [Jul 31, 2023](/content/2023/07/31/README.md)
 
 ### Ports to other languages

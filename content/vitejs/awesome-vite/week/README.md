@@ -34,9 +34,21 @@
 
 *   [vite-plugin-cli-copy (⭐1)](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
 
+### Vue / Routing
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-routes (⭐0)](https://github.com/Vanilla-IceCream/vite-plugin-vue-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
+
 ### Vue / Ecosystem
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-i18n-autoimport (⭐1)](https://github.com/PengBoUESTC/vite-plugin-i18n-autoimport) - Auto import i18n config file for components.
+
+### Fastify / Integrations
+
+*   [vite-plugin-fastify (⭐2)](https://github.com/Vanilla-IceCream/vite-plugin-fastify) - Fastify plugin for Vite with Hot-module Replacement.
+
+### Fastify / Routing
+
+*   [vite-plugin-fastify-routes (⭐0)](https://github.com/Vanilla-IceCream/vite-plugin-fastify-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
 
 ### Frameworks / Community
 

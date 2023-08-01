@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Aug 01, 2023](/content/2023/08/01/README.md)
+
+### Vue / Routing
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-routes (⭐0)](https://github.com/Vanilla-IceCream/vite-plugin-vue-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
+
+### Fastify / Integrations
+
+*   [vite-plugin-fastify (⭐2)](https://github.com/Vanilla-IceCream/vite-plugin-fastify) - Fastify plugin for Vite with Hot-module Replacement.
+
+### Fastify / Routing
+
+*   [vite-plugin-fastify-routes (⭐0)](https://github.com/Vanilla-IceCream/vite-plugin-fastify-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
+
 ## [Jul 31, 2023](/content/2023/07/31/README.md)
 
 ### Templates / React

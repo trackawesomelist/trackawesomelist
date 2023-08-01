@@ -493,6 +493,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   ![v23] [vite-plugin-pages (⭐1.5k)](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 *   ![v3] [v-route-generate (⭐8)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
 *   ![v3] [unplugin-vue-router (⭐661)](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
+*   ![v3] [vite-plugin-vue-routes (⭐0)](https://github.com/Vanilla-IceCream/vite-plugin-vue-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
 
 #### Loaders
 
@@ -603,6 +604,18 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 *   [@nxext/angular-vite (⭐1)](https://github.com/nxext/nxext-experimental/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
+
+<hr>
+
+### Fastify
+
+#### Integrations
+
+*   [vite-plugin-fastify (⭐2)](https://github.com/Vanilla-IceCream/vite-plugin-fastify) - Fastify plugin for Vite with Hot-module Replacement.
+
+#### Routing
+
+*   [vite-plugin-fastify-routes (⭐0)](https://github.com/Vanilla-IceCream/vite-plugin-fastify-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
 
 <hr>
 

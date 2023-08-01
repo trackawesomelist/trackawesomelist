@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 01, 2023](/content/2023/08/01/README.md)
+
+### Advanced Console UIs
+
+*   [bubble-table (⭐229)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [GoNB (⭐259)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+
 ## [Jul 25, 2023](/content/2023/07/25/README.md)
 
 ### Networking
@@ -17,10 +27,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Hex Monscape (⭐40)](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture.
 
 ## [Jul 21, 2023](/content/2023/07/21/README.md)
-
-### Advanced Console UIs
-
-*   [bubble-table](https://github.com/Everras/bubble-table) - An interactive table component for bubbletea.
 
 ### Goroutines
 
@@ -40,7 +46,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Caches
 
-*   [gocache (⭐2)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
+*   [gocache (⭐3)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
 
 ### Logging
 
@@ -48,7 +54,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [gofn (⭐17)](https://github.com/tiendc/gofn) - High performance utitlity functions written using Generics for Go 1.18+.
+*   [gofn (⭐24)](https://github.com/tiendc/gofn) - High performance utitlity functions written using Generics for Go 1.18+.
 
 ## [Jun 18, 2023](/content/2023/06/18/README.md)
 
@@ -72,7 +78,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Distributed Systems
 
-*   [Temporal (⭐335)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
+*   [Temporal (⭐345)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
 
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
@@ -2769,7 +2775,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gosms (⭐1.4k)](https://github.com/haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS.
 *   [gotoprom (⭐106)](https://github.com/cabify/gotoprom) - Type-safe metrics builder wrapper library for the official Prometheus client.
 *   [gountries (⭐390)](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
-*   [gtree (⭐129)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
+*   [gtree (⭐137)](https://github.com/ddddddO/gtree) - Provide CLI, Package and Web for tree output and directories creation from Markdown or programmatically.
 *   [health (⭐683)](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 *   [health (⭐444)](https://github.com/dimiro1/health) - Easy to use, extensible health check library.
 *   [healthcheck (⭐256)](https://github.com/etherlabsio/healthcheck) - An opinionated and concurrent health-check HTTP handler for RESTful services.
@@ -3557,7 +3563,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Banjo (⭐21)](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
 *   [Echo (⭐26k)](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
-*   [Fiber (⭐27k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
+*   [Fiber (⭐28k)](https://github.com/gofiber/fiber) - An Express.js inspired web framework build on Fasthttp.
 *   [Fireball (⭐59)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐389)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐444)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
@@ -3777,7 +3783,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Ddosify (⭐7.6k)](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 *   [DepCharge (⭐23)](https://github.com/centerorbit/depcharge) - Helps orchestrating the execution of commands across the many dependencies in larger projects.
 *   [docker-go-mingw (⭐36)](https://github.com/x1unix/docker-go-mingw) - Docker image for building Go binaries for Windows with MinGW toolchain.
-*   [Dockerfile-Generator (⭐151)](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
+*   [Dockerfile-Generator (⭐154)](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
 *   [dogo (⭐257)](https://github.com/liudng/dogo) - Monitoring changes in the source file and automatically compile and run (restart).
 *   [drone-jenkins (⭐37)](https://github.com/appleboy/drone-jenkins) - Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
 *   [drone-scp (⭐123)](https://github.com/appleboy/drone-scp) - Copy files and artifacts via SSH using a binary, docker or Drone CI.
@@ -3807,7 +3813,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [kool (⭐629)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐100k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐774)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
-*   [lstags (⭐306)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
+*   [lstags (⭐307)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐29)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐284)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Moby (⭐66k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
@@ -3851,7 +3857,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [dp (⭐84)](https://github.com/scryinfo/dp) - Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.
 *   [drive (⭐6.6k)](https://github.com/odeke-em/drive) - Google Drive client for the commandline.
 *   [Duplicacy (⭐4.7k)](https://github.com/gilbertchen/duplicacy) - A cross-platform network and cloud backup tool based on the idea of lock-free deduplication.
-*   [Gebug (⭐619)](https://github.com/moshebe/gebug) - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
+*   [Gebug (⭐621)](https://github.com/moshebe/gebug) - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
 *   [gfile (⭐705)](https://github.com/Antonito/gfile) - Securely transfer files between two computers, without any third party, over WebRTC.
 *   [Go Package Store (⭐895)](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
 *   [go-peerflix (⭐455)](https://github.com/Sioro-Neoku/go-peerflix) - Video streaming torrent client.
