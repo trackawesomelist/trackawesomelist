@@ -6,6 +6,13 @@
 
 [ [Daily](/content/aorumbayev/awesome-algorand/README.md) / Weekly / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
+
+### AlgoKit Templates / Official
+
+*   [algokit-react-frontend-template (⭐1)](https://github.com/algorandfoundation/algokit-react-frontend-template) - Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.
+*   [algokit-fullstack-template (⭐3)](https://github.com/algorandfoundation/algokit-fullstack-template) - Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.
+
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
 ### Nodes & Consensus Participation / Wallets
@@ -18,7 +25,7 @@
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
-### AlgoKit Templates
+### AlgoKit Templates / Community
 
 *   [algokit-goracle-template (⭐2)](https://github.com/GoracleNetwork/algokit_default_template) - Algokit community template for quick starting a smart contract project interacting with goracle.
 
@@ -47,9 +54,12 @@
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
-### AlgoKit Templates
+### AlgoKit Templates / Official
 
-*   [algokit-beaker-default-template (⭐4)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
+*   [algokit-beaker-default-template (⭐4)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts. Also serves as a reference for template builders on implementing smart-contract-only algokit templates.
+
+### AlgoKit Templates / Community
+
 *   [algokit-tealish-template (⭐0)](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit community template for quick starting a smart contract project with tealish and algojig.
 
 ### Nodes & Consensus Participation / Wallets

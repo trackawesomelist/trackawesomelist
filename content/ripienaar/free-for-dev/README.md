@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 02, 2023](/content/2023/08/02/README.md)
+
+### Crash and Exception Handling
+
+*   [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
+
 ## [Jul 31, 2023](/content/2023/07/31/README.md)
 
 ### Authentication, Authorization and User Management

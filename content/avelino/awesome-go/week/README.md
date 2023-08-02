@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [bubble-table (⭐229)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 
+### Utilities
+
+*   [dive (⭐37k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
+
 ### Other Software / Libraries for creating HTTP middlewares
 
 *   [GoNB (⭐259)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).

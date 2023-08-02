@@ -34,7 +34,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 🤖 You can enhance your experience by interacting with the AI chat bot available at [AwesomeAlgo Search](https://chat.awesomealgo.com/). It's designed to answer any questions you might have regarding resources in this repository and readme 😊.
 
-> **Additionally**, enhance your accessibility with the AwesomeAlgo Search desktop version, which can be downloaded [here (⭐144)](https://github.com/aorumbayev/awesome-algorand/releases/tag/v0.1.0).
+> **Additionally**, enhance your accessibility with the AwesomeAlgo Search desktop version, which can be downloaded [here (⭐151)](https://github.com/aorumbayev/awesome-algorand/releases/tag/v0.1.0).
 
 ## Contents
 
@@ -156,7 +156,16 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 ### AlgoKit Templates
 
-*   [algokit-beaker-default-template (⭐4)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
+> AlgoKit templates are a set of starter and production-ready baseline templates for developing and deploying Algorand applications. They are designed to be used as a starting point for developers to quickly bootstrap their projects and focus on the business logic of their applications. Refer to [Creating AlgoKit Templates (⭐125)](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/tutorials/algokit-template.md) for a general guide on how to create your own AlgoKit templates.
+
+#### Official
+
+*   [algokit-beaker-default-template (⭐4)](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts. Also serves as a reference for template builders on implementing smart-contract-only algokit templates.
+*   [algokit-react-frontend-template (⭐1)](https://github.com/algorandfoundation/algokit-react-frontend-template) - Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.
+*   [algokit-fullstack-template (⭐3)](https://github.com/algorandfoundation/algokit-fullstack-template) - Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.
+
+#### Community
+
 *   [algokit-tealish-template (⭐0)](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit community template for quick starting a smart contract project with tealish and algojig.
 *   [algokit-goracle-template (⭐2)](https://github.com/GoracleNetwork/algokit_default_template) - Algokit community template for quick starting a smart contract project interacting with goracle.
 

@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 02, 2023](/content/2023/08/02/README.md)
+
+### Utilities
+
+*   [dive (⭐37k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
+
 ## [Aug 01, 2023](/content/2023/08/01/README.md)
 
 ### Advanced Console UIs

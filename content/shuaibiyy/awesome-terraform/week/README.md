@@ -6,6 +6,18 @@ Curated list of resources on HashiCorp's Terraform
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
+
+### Community Modules / Miscellaneous
+
+*   [terraform-kubestack (⭐568)](https://github.com/kbst/terraform-kubestack) - Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.
+*   [terraform-nixos (⭐263)](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
+*   [typhoon (⭐1.8k)](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform.
+
+### Tools / Vendor supported providers
+
+*   [terraform-aws-clickops-notifier (⭐139)](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
+
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
 ### Books
@@ -520,7 +532,7 @@ Curated list of resources on HashiCorp's Terraform
 
 ### Tools / Vendor supported providers
 
-*   [gaia (⭐755)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
+*   [gaia (⭐755)](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 

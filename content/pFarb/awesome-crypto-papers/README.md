@@ -6,6 +6,16 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 [ Daily / [Weekly](/content/pFarb/awesome-crypto-papers/week/README.md) / [Overview](/content/pFarb/awesome-crypto-papers/readme/README.md) ]
 
+## [Aug 02, 2023](/content/2023/08/02/README.md)
+
+### Specific topics / Public key cryptography: General and DLP
+
+*   [Secure Communications Over Insecure Channels ](http://www.ralphmerkle.com/1974/PuzzlesAsPublished.pdf) - Paper by R. Merkle,   predated "New directions in cryptography" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system.
+
+### Specific topics / Public key cryptography: Elliptic-curve crypto
+
+*   [Recommendations for Discrete Logarithm-Based Cryptography: Elliptic Curve Domain Parameters (NIST SP 800-186)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186.pdf) - Official NIST guide how securely implement elliptic curves. It also includes math shortcuts, optimizations and possible security risk of wrong algorithm implementation. [(February 2023)](https://csrc.nist.gov/pubs/sp/800/186/final)
+
 ## [May 02, 2023](/content/2023/05/02/README.md)
 
 ### Specific topics / Public key cryptography: General and DLP
@@ -64,7 +74,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 
-*   [Recommendations for Discrete Logarithm-Based Cryptography: Elliptic Curve Domain Parameters (NIST SP 800-186)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186-draft.pdf) - Official NIST guide how securely implement elliptic curves. It also includes math shortcuts, optimizations and possible security risk of wrong algorithm implementation. [(October 2019)](https://csrc.nist.gov/publications/detail/sp/800-186/draft)
 *   [Biased Nonce Sense: Lattice Attacks against Weak ECDSA Signatures in Cryptocurrencies](https://eprint.iacr.org/2019/023.pdf) - Computing private keys by analyzing and exploiting biases in ECDSA nonces.
 *   [Minerva: The curse of ECDSA nonces](https://eprint.iacr.org/2020/728.pdf) - Exploiting timing/bit-length leaks for recovering private keys from ECDSA signatures
 *   [LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage](https://eprint.iacr.org/2020/615.pdf) - Breaking 160-bit curve ECDSA using less than one bit leakage.
@@ -106,7 +115,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Specific topics / Public key cryptography: General and DLP
 
-*   [How to Share a Secret (⭐5)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
+*   [How to Share a Secret (⭐6)](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
 
 ## [Jan 05, 2022](/content/2022/01/05/README.md)
 
@@ -248,7 +257,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 *   [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.
 *   [RFC 2631: Diffie-Hellman Key Agreement](https://tools.ietf.org/html/rfc2631) - An explanation of the Diffie-Hellman methon in more engineering terms.
 *   [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - Rather education explanation of every bit behind RSA.
-*   [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf) - Paper by R. Merkle,   predated "New directions in cryptography" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system.
 *   [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.
 *   [The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited](https://eprint.iacr.org/2005/307.pdf) - by K. Bentahar.
 

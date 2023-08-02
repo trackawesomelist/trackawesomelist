@@ -2601,6 +2601,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Death (⭐190)](https://github.com/vrecan/death) - Managing go application shutdown with signals.
 *   [Deepcopier (⭐413)](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
 *   [delve (⭐593)](https://github.com/derekparker/delve) - Go debugger.
+*   [dive (⭐37k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
 *   [dlog (⭐17)](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
 *   [EaseProbe (⭐1.9k)](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
 *   [equalizer (⭐43)](https://github.com/reugn/equalizer) - Quota manager and rate limiter collection for Go.

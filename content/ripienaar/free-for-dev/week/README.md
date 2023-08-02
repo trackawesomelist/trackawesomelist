@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
 
+### Crash and Exception Handling
+
+*   [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
+
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
 ### Cloud management solutions
