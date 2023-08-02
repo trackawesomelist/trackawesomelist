@@ -227,6 +227,8 @@ to get their code to run with any up-to-date version of Flame.
 
 *   [Sky Academy](https://www.dong.digital/skyacademy/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.skyacademy), [iOS](https://apps.apple.com/us/app/sky-academy/id1571488252) - Learn to recognize all the constellations and brightest stars from a gold medal winner of the International Astronomy Olympiad. By [Dong Digital][3].
 
+*   [Mathonaut](https://mathonaut.skyost.eu/) - [Android](https://play.google.com/store/apps/details?id=fr.skyost.mathonaut), [iOS](https://apps.apple.com/app/id1673790210) - A platform game in which you play around math. By [Skyost](https://skyost.eu)
+
 #### Metroidvania
 
 <!--lint ignore double-link-->
@@ -288,12 +290,12 @@ to get their code to run with any up-to-date version of Flame.
 
 ## Non-English Content
 
-*   [Mandarin Chinese (中文) (⭐743)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
-*   [Spanish (Español) (⭐743)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+*   [Mandarin Chinese (中文) (⭐753)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Spanish (Español) (⭐753)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## Contributing
 
-[Please read the contribution guidelines (⭐743)](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
+[Please read the contribution guidelines (⭐753)](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
 
 <!-- Add ref links here -->
 

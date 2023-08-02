@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ [Daily](/content/flame-engine/awesome-flame/README.md) / Weekly / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
+
+### App Releases / Educational
+
+*   [Mathonaut](https://mathonaut.skyost.eu/) - [Android](https://play.google.com/store/apps/details?id=fr.skyost.mathonaut), [iOS](https://apps.apple.com/app/id1673790210) - A platform game in which you play around math. By [Skyost](https://skyost.eu)
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### App Releases / Simulation
@@ -128,7 +134,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Non-English Content / Simulation
 
-*   [Spanish (Español) (⭐743)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+*   [Spanish (Español) (⭐753)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 
@@ -272,7 +278,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Non-English Content / Simulation
 
-*   [Mandarin Chinese (中文) (⭐743)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Mandarin Chinese (中文) (⭐753)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Aug 02, 2023](/content/2023/08/02/README.md)
+
+### Other LLM Frameworks / Articles
+
+*   \[Ax]\(A comprehensive AI framework for TypeScript): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/ax-ai/ax?style=social)
+
 ## [Aug 01, 2023](/content/2023/08/01/README.md)
 
 ### Other LLM Frameworks / Articles

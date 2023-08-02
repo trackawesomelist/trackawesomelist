@@ -1,37 +1,93 @@
 # Awesome List Updates on Jul 31 - Aug 06, 2023
 
-23 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [Financial-Models-Numerical-Methods (⭐4.7k)](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Blog posts
+
+*   [Pandas vs Polars: A database speed test. Who wins?](https://levelup.gitconnected.com/pandas-v-polars-a-database-speed-test-who-wins-f316182a8bca) - A blog post that compares the run-time of reading a database into a dataframe using Pandas versus using Polars by [Thomas Reid](https://medium.com/@thomas_reid).
+
+## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+
+### Talks
+
+*   [2022 Secure digital transformation via keycloak's FAPI - DevConf.cz Mini | June 2022](https://www.youtube.com/watch?v=Ao15PH2BAw0)
+
+### Example Projects
+
+*   [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI (⭐2)](https://github.com/mposolda/fapi-demo/tree/main)
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Utilities
+
+*   [rust-parallel (⭐12)](https://github.com/aaronriekenberg/rust-parallel) - Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs. [![Crate](https://img.shields.io/crates/v/rust-parallel.svg?logo=rust)](https://crates.io/crates/rust-parallel) [![Build Status](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml/badge.svg)](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml)
+
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Communication / Collaboration and Team Tools
+
+*   [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/mattermost/mattermost)
+
+## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+
+### Hosted Notebook Solutions
+
+*   [qBraid Lab](https://docs.qbraid.com/en/latest/lab/getting_started.html) - JupyterLab deployment providing curated software tools and integrations for quantum computing.
+
+## [7. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+
+### App Releases / Educational
+
+*   [Mathonaut](https://mathonaut.skyost.eu/) - [Android](https://play.google.com/store/apps/details?id=fr.skyost.mathonaut), [iOS](https://apps.apple.com/app/id1673790210) - A platform game in which you play around math. By [Skyost](https://skyost.eu)
+
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [containers (⭐0)](https://github.com/redxtech/zsh-containers) - provides aliases and better interoperability between \[podman(<https://podman.io>)] and [docker](https://docker.com) commands based on which you have installed.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [git-kali (⭐0)](https://github.com/Green0wl/zsh-git-kali-prompt) - Based on [An informative `git` prompt for kali (⭐1.7k)](https://github.com/olivierverdier/zsh-git-prompt). Includes decorators for `git` status, username\@host, and the current directory.
+
+## [9. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Web3 and Blockchain
 
 *   [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
 
-## [2. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [10. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Websocket Client (⭐70)](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 
-## [3. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [11. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [Ubiquity (⭐41)](https://github.com/opensourcecheemsburgers/ubiquity) - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
 
-## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### AlgoKit Templates / Official
 
 *   [algokit-react-frontend-template (⭐1)](https://github.com/algorandfoundation/algokit-react-frontend-template) - Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.
 *   [algokit-fullstack-template (⭐3)](https://github.com/algorandfoundation/algokit-fullstack-template) - Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.
 
-## [5. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [13. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Public key cryptography: General and DLP
 
@@ -41,7 +97,7 @@
 
 *   [Recommendations for Discrete Logarithm-Based Cryptography: Elliptic Curve Domain Parameters (NIST SP 800-186)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186.pdf) - Official NIST guide how securely implement elliptic curves. It also includes math shortcuts, optimizations and possible security risk of wrong algorithm implementation. [(February 2023)](https://csrc.nist.gov/pubs/sp/800/186/final)
 
-## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community Modules / Miscellaneous
 
@@ -53,7 +109,7 @@
 
 *   [terraform-aws-clickops-notifier (⭐139)](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
 
-## [7. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
@@ -67,19 +123,19 @@
 
 *   [GoNB (⭐259)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 
-## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [16. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Messaging
 
 *   [BlazingMQ (⭐1.8k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 
-## [10. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [18. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -89,13 +145,13 @@
 *   [XenomatiX](https://www.xenomatix.com/) - XenomatiX offers true solid-state lidar sensors based on a multi-beam lasers concept. XenomatiX is headquartered in Leuven, Belgium.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/@XenomatiXTruesolidstatelidar)
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [sqlx-ts (⭐44)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
 
-## [12. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [20. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Driver / Desktop GUI Automation (non-browser-centric)
 
@@ -105,7 +161,7 @@
 
 *   [TestGrid](https://www.testgrid.io/) - End to End testing of mobile apps & websites on 1000+ real browsers & OS. Request Free Trial.
 
-## [13. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [21. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Libraries / C#
 
@@ -132,7 +188,7 @@
     *   💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
     *   💸 [Stable Diffusion (⭐58k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
 
-## [14. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [22. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [Chronicles of the Unhewn Throne](https://www.goodreads.com/series/116397-chronicle-of-the-unhewn-throne) (2014) *by [Brian Staveley](https://en.wikipedia.org/wiki/Brian_Staveley)* [4.1]
 
@@ -156,7 +212,7 @@
 *   [The Skull Throne](https://www.goodreads.com/book/show/24516043-the-skull-throne)
 *   [The Core](https://www.goodreads.com/book/show/36179561-the-core)
 
-## [15. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [23. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Code & Database Assistant
 
@@ -290,13 +346,13 @@
 
 
 
-## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [24. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / OpenStreetMap
 
 *   [Overture Maps](https://overturemaps.org/) - A joint mapping consortium looking to power current and next-generation map products by creating reliable, easy-to-use, and interoperable open map data. Builds on OpenStreetMap and other datasets to expand access to open data.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization and User Management
 
@@ -306,7 +362,7 @@
 
 *   [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
 
-## [18. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -362,13 +418,13 @@
 
 *   [vite-run (⭐25)](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Note Taking / Diagnostics
 
 *   [ada0l/obsidian/ (⭐3)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
 
-## [20. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [28. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
@@ -390,8 +446,9 @@
 *   [Marvin (⭐3.1k)](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)
 *   [LMQL (⭐2k)](https://github.com/eth-sri/lmql): A programming language for large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social)
 *   [LLMFlow (⭐207)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+*   \[Ax]\(A comprehensive AI framework for TypeScript): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/ax-ai/ax?style=social)
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Build tools
 
@@ -423,13 +480,13 @@
 
 *   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
 
-## [22. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [30. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Productivity
 
 *   [Openreads (⭐375)](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
 
-## [23. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [31. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
