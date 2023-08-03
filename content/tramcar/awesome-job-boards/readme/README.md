@@ -2,7 +2,7 @@
 
 null
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 800 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 811 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / Overview ]
 
@@ -38,6 +38,7 @@ A curated list of awesome niche job boards.
 *   [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 *   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
 *   [Best AI Jobs](https://bestaijobs.com) - Best AI Jobs from 100+ AI Startups
+*   [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
 
 ## Big Data
 
@@ -69,9 +70,7 @@ A curated list of awesome niche job boards.
 *   [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 *   [Behance](https://www.behance.net/joblist)
 *   [Coroflot](https://www.coroflot.com/design-jobs)
-*   [IXDA](https://www.ixda.org/jobs/)
 *   [Jobs for Designers](https://dribbble.com/jobs)
-*   [Krop](https://www.krop.com/creative-jobs/)
 *   [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 *   [UX Jobs Board](https://www.uxjobsboard.com)
 *   [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
@@ -154,7 +153,6 @@ A curated list of awesome niche job boards.
 *   [Drupal Jobs](https://jobs.drupal.org/)
 *   [jobs.wordpress.net](https://jobs.wordpress.net/)
 *   [LaraJobs](https://larajobs.com/)
-*   [WPhired](https://www.wphired.com/) - WordPress Jobs
 *   [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
 ### Python

@@ -1,8 +1,14 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 800 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 811 · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Aug 03, 2023](/content/2023/08/03/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
 
 ## [Jul 26, 2023](/content/2023/07/26/README.md)
 
@@ -124,10 +130,6 @@
 
 *   [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform.
 *   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
-
-### Design
-
-*   [IXDA](https://www.ixda.org/jobs/)
 
 ### Programming / JavaScript
 
@@ -408,10 +410,6 @@
 
 *   [Coroflot](https://www.coroflot.com/design-jobs)
 
-### Programming / PHP
-
-*   [WPhired](https://www.wphired.com/) - WordPress Jobs
-
 ### Remote / TypeScript
 
 *   [We Work Remotely](https://weworkremotely.com/)
@@ -441,12 +439,6 @@
 ### Programming / PHP
 
 *   [jobs.wordpress.net](https://jobs.wordpress.net/)
-
-## [Apr 08, 2017](/content/2017/04/08/README.md)
-
-### Design
-
-*   [Krop](https://www.krop.com/creative-jobs/)
 
 ## [Apr 07, 2017](/content/2017/04/07/README.md)
 
