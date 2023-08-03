@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 03, 2023](/content/2023/08/03/README.md)
+
+### CI and CD
+
+*   [bytebase.com](https://www.bytebase.com/) — Database CI/CD and DevOps. Free under 20 users and 10 database instances
+
 ## [Aug 02, 2023](/content/2023/08/02/README.md)
 
 ### Crash and Exception Handling

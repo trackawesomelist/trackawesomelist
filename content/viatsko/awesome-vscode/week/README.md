@@ -2,9 +2,22 @@
 
 🎨 A curated list of delightful VS Code packages and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/viatsko/awesome-vscode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) · ⭐ 21K · 🏷️ Editors
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/viatsko/awesome-vscode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) · ⭐ 23K · 🏷️ Editors
 
 [ [Daily](/content/viatsko/awesome-vscode/README.md) / Weekly / [Overview](/content/viatsko/awesome-vscode/readme/README.md) ]
+
+## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
+
+### [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab) / More
+
+*   Syntax highlighting
+*   Code snippets
+*   Commenting
+*   Code folding
+*   Automatic code completion
+*   Source code formatting (document formatting)
+*   Code navigation
+*   Code analysis, such as continuous code checking and automatic fixes
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
@@ -57,7 +70,7 @@
 
 ### C++
 
-*   [CQuery (⭐51)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
+*   [CQuery (⭐52)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
 
@@ -308,7 +321,7 @@
 
 ### Linters / More
 
-*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐6.9k)](https://github.com/xojs/xo).
+*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐7.3k)](https://github.com/xojs/xo).
 
 ## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
 
@@ -332,13 +345,13 @@
 
 ### Linters / More
 
-*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.5k)](https://github.com/prettier/prettier-vscode).
+*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.8k)](https://github.com/prettier/prettier-vscode).
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
 ### C++
 
-*   [C/C++ Clang Command Adapter (⭐118)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+*   [C/C++ Clang Command Adapter (⭐122)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 
 ## [May 01 - May 07, 2017](/content/2017/18/README.md)
 
@@ -358,7 +371,7 @@
 
 ### Libraries / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
-*   [vscode-test-content (⭐3)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+*   [vscode-test-content (⭐5)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
 ## [Feb 13 - Feb 19, 2017](/content/2017/7/README.md)
 
@@ -372,7 +385,7 @@
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
-*   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+*   [Open in Code (⭐878)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ## [Feb 08 - Feb 14, 2016](/content/2016/6/README.md)
 

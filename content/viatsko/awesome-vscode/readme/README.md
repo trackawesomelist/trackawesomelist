@@ -2,7 +2,7 @@
 
 🎨 A curated list of delightful VS Code packages and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/viatsko/awesome-vscode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) · ⭐ 21K · 🏷️ Editors
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/viatsko/awesome-vscode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) · ⭐ 23K · 🏷️ Editors
 
 [ [Daily](/content/viatsko/awesome-vscode/README.md) / [Weekly](/content/viatsko/awesome-vscode/week/README.md) / Overview ]
 
@@ -63,6 +63,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
         *   [Facebook Flow](#facebook-flow)
         *   [TypeScript](#typescript)
         *   [Debugger for Chrome](#debugger-for-chrome-1)
+    *   [MATLAB](#matlab)
     *   [Markdown](#markdown)
         *   [markdownlint](#markdownlint)
         *   [Markdown All in One](#markdown-all-in-one)
@@ -235,10 +236,10 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
 # Official
 
 *   [Official website](https://code.visualstudio.com/)
-*   [Source code (⭐139k)](https://github.com/microsoft/vscode) on GitHub
+*   [Source code (⭐149k)](https://github.com/microsoft/vscode) on GitHub
 *   [Releases (stable channel)](https://code.visualstudio.com/download)
 *   [Releases (insiders channel)](https://code.visualstudio.com/insiders)
-*   [Monthly iteration plans (⭐139k)](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+)
+*   [Monthly iteration plans (⭐149k)](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+)
 
 # Syntax
 
@@ -266,6 +267,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 *   [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 *   [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 *   [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
+*   [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
 *   [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 *   [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
 *   [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
@@ -279,7 +281,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 *   [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 *   [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 *   [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
-*   [Wenyan (⭐265)](https://github.com/antfu/wenyan-lang-vscode)
+*   [Wenyan (⭐270)](https://github.com/antfu/wenyan-lang-vscode)
 *   [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 # Migrating from other editors
@@ -314,7 +316,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).
 
-Make sure to visit it at [Microsoft/vscode-recipes (⭐5.5k)](https://github.com/Microsoft/vscode-recipes)
+Make sure to visit it at [Microsoft/vscode-recipes (⭐5.7k)](https://github.com/Microsoft/vscode-recipes)
 
 # Lint and IntelliSense
 
@@ -358,8 +360,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 *   [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) - Provides C/C++ language IDE features for VS Code using clangd: code completion, compile errors and warnings, go-to-definition and cross references, include management, code formatting, simple refactorings.
 *   [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 *   [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
-*   [C/C++ Clang Command Adapter (⭐118)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
-*   [CQuery (⭐51)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
+*   [C/C++ Clang Command Adapter (⭐122)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+*   [CQuery (⭐52)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
 #### More
 
@@ -446,7 +448,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 *   [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
     ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
-See the difference between these two [here (⭐120)](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
+See the difference between these two [here (⭐122)](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
 ### Linters
 
@@ -454,11 +456,11 @@ See the difference between these two [here (⭐120)](https://github.com/michaelg
 
 *   [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 
-*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐6.9k)](https://github.com/xojs/xo).
+*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐7.3k)](https://github.com/xojs/xo).
 
 *   [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA (⭐20k)](https://github.com/avajs/ava).
 
-*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.5k)](https://github.com/prettier/prettier-vscode).
+*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.8k)](https://github.com/prettier/prettier-vscode).
 
 *   [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
 
@@ -486,11 +488,33 @@ See the difference between these two [here (⭐120)](https://github.com/michaelg
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
+## [MATLAB](https://marketplace.visualstudio.com/items?itemName=MathWorks.language-matlab)
+
+> This extension provides support for editing MATLAB® code in Visual Studio® Code and includes features such as syntax highlighting, code analysis, navigation support, and more.
+
+Without MATLAB installed:
+
+*   Syntax highlighting
+*   Code snippets
+*   Commenting
+*   Code folding
+
+![Without MATLAB Installed](https://github.com/mathworks/MATLAB-extension-for-vscode/raw/HEAD/public/BasicFeatures.gif)
+
+With MATLAB installed:
+
+*   Automatic code completion
+*   Source code formatting (document formatting)
+*   Code navigation
+*   Code analysis, such as continuous code checking and automatic fixes
+
+![MATLAB Installed](https://github.com/mathworks/MATLAB-extension-for-vscode/raw/HEAD/public/AdvancedFeatures.gif)
+
 ## Markdown
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint (⭐3.4k)](https://github.com/DavidAnson/markdownlint).
+> Linter for [markdownlint (⭐3.9k)](https://github.com/DavidAnson/markdownlint).
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1011,7 +1035,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
 
-## [shell-format (⭐307)](https://github.com/foxundermoon/vs-shell-format)
+## [shell-format (⭐384)](https://github.com/foxundermoon/vs-shell-format)
 
 > shell script & Dockerfile & dotenv format
 
@@ -1469,7 +1493,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Libraries
 
-*   [vscode-test-content (⭐3)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+*   [vscode-test-content (⭐5)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 *   [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
 
 ## Tools
@@ -1477,7 +1501,7 @@ A list of Twitter accounts for various people in the VS Code Community
 *   [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 *   [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 *   [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-*   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+*   [Open in Code (⭐878)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
