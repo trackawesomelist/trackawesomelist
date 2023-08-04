@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Aug 04, 2023](/content/2023/08/04/README.md)
+
+### Themes
+
+*   [tmux-snazzy (⭐0)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
+
 ## [Aug 03, 2023](/content/2023/08/03/README.md)
 
 ### Tools and session management

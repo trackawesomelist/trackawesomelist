@@ -8,6 +8,14 @@ Curated List of React Components & Libraries.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
+### Table
+
+*   [mantine-datatable (⭐614)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+
+### Menu
+
+*   [mantine-contextmenu (⭐49)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
+
 ### Miscellaneous
 
 *   [react-mrz-scanner (⭐0)](https://github.com/tony-xlh/react-mrz-scanner) - A React component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.

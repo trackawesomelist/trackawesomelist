@@ -77,18 +77,19 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 ## Themes
 
 *   [catppuccin (⭐340)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
-*   [tmux-dark-notify (⭐12)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
-*   [tmux-base16-statusline (⭐26)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐69)](https://github.com/chriskempson/base16-shell)
-*   [tmux-colors-solarized (⭐1.1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
-*   [tmux-power (⭐378)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
-*   [tmux-themepack (⭐1.6k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
-*   [tomorrow (⭐36)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐14k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
 *   [dracula/tmux (⭐479)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 *   [nord tmux (⭐960)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
+*   [tmux-base16-statusline (⭐26)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐69)](https://github.com/chriskempson/base16-shell)
+*   [tmux-colors-solarized (⭐1.1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
+*   [tmux-dark-notify (⭐12)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
 *   [tmux-gruvbox (⭐402)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 *   [tmux-nova (⭐112)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
-*   [tokyo-night-tmux (⭐91)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
+*   [tmux-power (⭐378)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-snazzy (⭐0)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
+*   [tmux-themepack (⭐1.6k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
 *   [tmux-tokyo-night (⭐38)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
+*   [tokyo-night-tmux (⭐91)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
+*   [tomorrow (⭐36)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐14k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
 
 ## Status Bar
 

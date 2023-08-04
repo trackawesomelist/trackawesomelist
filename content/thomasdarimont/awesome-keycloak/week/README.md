@@ -12,6 +12,10 @@ A curated list of resources for learning about http://www.keycloak.org
 
 *   [2022 Secure digital transformation via keycloak's FAPI - DevConf.cz Mini | June 2022](https://www.youtube.com/watch?v=Ao15PH2BAw0)
 
+### Community Extensions
+
+*   [rciam/keycloak-group-management (⭐5)](https://github.com/rciam/keycloak-group-management)
+
 ### Example Projects
 
 *   [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI (⭐2)](https://github.com/mposolda/fapi-demo/tree/main)

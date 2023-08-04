@@ -12,6 +12,10 @@ A list of awesome resources for tmux
 
 *   [tmux-nav-master (⭐0)](https://github.com/TheSast/tmux-nav-master) Easy cross-navigation between tmux and other terminal applications.
 
+### Themes
+
+*   [tmux-snazzy (⭐0)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
+
 ### Plugins
 
 *   [tmux-keylocker (⭐0)](https://github.com/TheSast/tmux-keylocker) Lock away your tmux keybinds temporarely.

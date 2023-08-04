@@ -6,6 +6,32 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Aug 04, 2023](/content/2023/08/04/README.md)
+
+### Code & Database Assistant
+
+- Name: [Swimm AI](https://swimm.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Your Code Documentation Superpower.
+
+  Description: Create documentaion structures, Generate code explanations and Enhance document visibility with Swimm AI.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Web Design
+
+- Name: [Uizard](https://uizard.io/)
+
+  Title: Uizard - App, Web, & Ui Design Made Easy - Powered by AI.
+
+  Description: Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Jul 31, 2023](/content/2023/07/31/README.md)
 
 ### Code & Database Assistant
@@ -7848,20 +7874,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: The Way the World Makes Resumes. The Smartest GPT-powered Resume Builder.
 
   Description: Rezi is the only resume platform that uses leading AI to automate every aspect of creating a hirable resume—writing, editing, formatting, and optimizing.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [May 26, 2023](/content/2023/05/26/README.md)
-
-### Web Design
-
-- Name: [Uizard](https://get.uizard.io/SH7)
-
-  Title: Uizard - App, Web, & Ui Design Made Easy - Powered by AI.
-
-  Description: Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!.
 
   Offer Free Version: :white\_check\_mark:
 

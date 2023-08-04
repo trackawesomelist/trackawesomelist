@@ -154,6 +154,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 *   [Opportunity Atlas](https://www.opportunityatlas.org/) - These [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0\&topic=0\&paper_id=1652#resource-listing) allow you to analyze social mobility and a variety of other outcomes from life expectancy to patent rates by neighborhood, college, parental income level, and racial background.
 *   [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) - An interactive map that layers georectified Home Owners' Loan Corporation (HOLC) maps onto a modern basemap of the United States. These color-coded HOLC maps were a physical embodiment of the real estate practice known as *redlining*. Additional Information: License: CC BY-NC-SA 4.0, Geographic Coverage: Major Metropolitan Areas in the Lower 48 US States (1935-1940).
 *   [Justice40](https://screeningtool.geoplatform.gov/en/methodology) - The purpose of the tool is to help Federal agencies identify disadvantaged communities that are marginalized, underserved, and overburdened by pollution. Combines multiple data sources at the census tract level across eight categories of criteria.
+*   [USDOT Equitable Transportation Community Explorer](https://experience.arcgis.com/experience/0920984aa80a4362b8778d779b090723/page/ETC-Explorer---Homepage/) - The U.S. DOT Equitable Transportation Community (ETC) Explorer is an interactive web application that uses 2020 Census Tracts and data, to explore the cumulative burden communities experience, as a result of underinvestment in transportation, in the following five components: Transportation Insecurity, Climate and Disaster Risk Burden, Environmental Burden, Health Vulnerability, and Social Vulnerability.
 
 ### Health
 
@@ -555,7 +556,7 @@ This page is registered as an [awesome-list](https://github.com/topics/awesome-l
 *   [awesome-gis (⭐3.6k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 *   [awesome-agriculture (⭐1k)](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
 *   [awesome-geojson (⭐2k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
-*   [ai-collection (⭐5.2k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
+*   [ai-collection (⭐5.3k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
 
 ### Other Technology Resource Aggregators
 

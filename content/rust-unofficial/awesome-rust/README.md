@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 04, 2023](/content/2023/08/04/README.md)
+
+### Applications / Productivity
+
+*   [Furtherance (⭐167)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
+
+### Applications / System tools
+
+*   [atuin (⭐11k)](https://github.com/atuinsh/atuin) \[[atuin](https://crates.io/crates/atuin)] — Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
+
 ## [Aug 02, 2023](/content/2023/08/02/README.md)
 
 ### Applications / Utilities
@@ -16,7 +26,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [GreptimeDB (⭐2.9k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/GreptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/GreptimeTeam/greptimedb/actions/workflows/develop.yml)
+*   [GreptimeDB (⭐2.9k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml)
 
 ## [Jul 22, 2023](/content/2023/07/22/README.md)
 
@@ -61,7 +71,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐126)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐133)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Finance
 
@@ -94,12 +104,6 @@ A curated list of Rust code and resources.
 ### Libraries / Artificial Intelligence
 
 *   [coreylowman/dfdx (⭐1.2k)](https://github.com/coreylowman/dfdx) — CUDA accelearted machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
-
-## [Jun 26, 2023](/content/2023/06/26/README.md)
-
-### Applications / System tools
-
-*   [ellie/atuin (⭐11k)](https://github.com/ellie/atuin) \[[atuin](https://crates.io/crates/atuin)] — Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 
 ## [Jun 22, 2023](/content/2023/06/22/README.md)
 

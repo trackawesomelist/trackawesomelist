@@ -226,6 +226,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [MagicLink Authenticator by p2-inc (⭐113)](https://github.com/p2-inc/keycloak-magic-link)
 *   [Keycloak Metrics based on Micrometer (⭐18)](https://github.com/kokuwaio/keycloak-event-metrics)
 *   [softwarefactory-project/keycloak-filter-provider-users (⭐6)](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
+*   [rciam/keycloak-group-management (⭐5)](https://github.com/rciam/keycloak-group-management)
 
 ## Integrations
 

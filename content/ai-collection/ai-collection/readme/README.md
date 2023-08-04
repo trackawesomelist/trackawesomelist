@@ -32,7 +32,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=908" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=909" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=42" />
@@ -53,11 +53,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 Translations:
 
-*   Русский: [README.ru.md (⭐5.2k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
-*   Chinese (Simplified) 简体中文）: [README.zh-CN.md (⭐5.2k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
-*   Français: [README.fr.md (⭐5.2k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
-*   español: [README.es.md (⭐5.2k)](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
-*   Hindi हिंदी: [README.hi.md (⭐5.2k)](https://github.com/ai-collection/ai-collection/blob/main/README.hi.md)
+*   Русский: [README.ru.md (⭐5.3k)](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
+*   Chinese (Simplified) 简体中文）: [README.zh-CN.md (⭐5.3k)](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
+*   Français: [README.fr.md (⭐5.3k)](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
+*   español: [README.es.md (⭐5.3k)](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
+*   Hindi हिंदी: [README.hi.md (⭐5.3k)](https://github.com/ai-collection/ai-collection/blob/main/README.hi.md)
 
 ***
 
@@ -65,6 +65,18 @@ Translations:
     <h5>Top Picks</h5>
     <p>AI Collection's top picks are</p>
 </div>
+
+<div align="center">
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
+        <img width="500" src="https://ai-collection.b-cdn.net/webp_small_screenshot_1919.webp" alt="Swimm AI" border="0"/>
+    </a>
+    <h4>Your Code Documentation Superpower</h4>
+    <p>Create documentaion structures, Generate code explanations and Enhance document visibility with Swimm AI</p>
+    <a href="https://ai-collection.org/redirect/swimm-ai/?utm_source=aicollection&utm_medium=free-pub&utm_campaign=toppicks" target="_blank"><b>Get Started with Swimm AI</b></a>
+    <br />
+</div>
+
+<br>
 
 <div align="center">
     <a href="https://ai-collection.org/redirect/customqr-ai/?utm_source=aicollection&utm_medium=github&utm_campaign=toppicks" target="_blank" style="outline:none;border:none;">
@@ -412,6 +424,7 @@ Translations:
 | [Programminghelper](http://www.programming-helper.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)             | Home.                                                                                            | Generate code with AI just by typing a text description. AI will create the code for you. A tool that helps you with a wide range of tasks. All in one place.                                                                                                                                 |   :grey\_question:   |
 | [QueryGenie](http://sqlgenie-co.web.app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)                           | Write Db Queries Faster!.                                                                        | Generate database queries from plain-english description using AI.                                                                                                                                                                                                                            |   :grey\_question:   |
 | [Rome AI](https://www.romehq.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)                                   | Query Your Data in a Conversational Way.                                                         | Rome AI connects with your data source, analyze and allows conversational discussions with your own data! Rome is an AI powered no-code data enablement and analytics layer, empowering non-technical employees to become superhuman data analysts.                                           | :white\_check\_mark: |
+| [Swimm AI](https://swimm.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)                                      | Your Code Documentation Superpower.                                                              | Create documentaion structures, Generate code explanations and Enhance document visibility with Swimm AI.                                                                                                                                                                                     | :white\_check\_mark: |
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)                   | TLDR – Explain Code in Plain English.                                                            | TLDR is an IDE plugin that leverages AI to explain code in plain english.                                                                                                                                                                                                                     |   :grey\_question:   |
 | [Tabnine](http://www.tabnine.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)                                  | AI Assistant for Software Developers - Tabnine.                                                  | Whether you are part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.                                                                                                                                                       |   :grey\_question:   |
 | [Text2SQL](http://www.text2sql.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)                                | Text2Sql.Ai - Generate SQL Queries With AI for Free!.                                            | .                                                                                                                                                                                                                                                                                             | :white\_check\_mark: |
@@ -1195,7 +1208,7 @@ Translations:
 | [Magician](http://magician.design?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)              | Magician for Figma.                                                           | A magical design tool for Figma powered by AI.                                                                                                                                             |   :grey\_question:   |
 | [Piggy](https://piggy.to/magic?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)                 | Mobile Content Creator.                                                       | Creating stunning content on your phone just got easy.                                                                                                                                     | :white\_check\_mark: |
 | [Stunning.so](https://stunning.so/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)             | Build Websites With AI.                                                       | Build stunning websites in 30 seconds including copy & even images powered by AI.                                                                                                          | :white\_check\_mark: |
-| [Uizard](https://get.uizard.io/SH7)                                                                                   | Uizard - App, Web, & Ui Design Made Easy - Powered by AI.                     | Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!. | :white\_check\_mark: |
+| [Uizard](https://uizard.io/)                                                                                          | Uizard - App, Web, & Ui Design Made Easy - Powered by AI.                     | Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!. | :white\_check\_mark: |
 | [welovenocode](http://www.welovenocode.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)     | Hire Top No-Code and Low-Code Talent to Build Your Website Fast & Affordably. | Work with reliable, vetted experts who built multi-million dollar products.                                                                                                                |          :x:         |
 
 <!--End of Web Design 39-->

@@ -6,6 +6,16 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Aug 04, 2023](/content/2023/08/04/README.md)
+
+### Table
+
+*   [mantine-datatable (⭐614)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+
+### Menu
+
+*   [mantine-contextmenu (⭐49)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
+
 ## [Aug 03, 2023](/content/2023/08/03/README.md)
 
 ### Miscellaneous

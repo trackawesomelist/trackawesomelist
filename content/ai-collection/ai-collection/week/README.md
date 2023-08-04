@@ -37,6 +37,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
+- Name: [Swimm AI](https://swimm.ai/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Your Code Documentation Superpower.
+
+  Description: Create documentaion structures, Generate code explanations and Enhance document visibility with Swimm AI.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ### Content Generation & Seo
 
@@ -123,6 +132,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Transcribe Any Audio or Video From 1500+ Platforms.
 
   Description: Transcribe and Translate any Video or Podcast. Ask questions and get answers using only transcript as context  — no hallucinations! Get summary of the video or podcast and a list of all topics discussed. Works on videos without transcripts. Identifies speakers in the Transcript. The transcripts have much higher accuracy than YouTube or other auto generated captions!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Web Design
+
+- Name: [Uizard](https://uizard.io/)
+
+  Title: Uizard - App, Web, & Ui Design Made Easy - Powered by AI.
+
+  Description: Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -7836,20 +7857,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: The Way the World Makes Resumes. The Smartest GPT-powered Resume Builder.
 
   Description: Rezi is the only resume platform that uses leading AI to automate every aspect of creating a hirable resume—writing, editing, formatting, and optimizing.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-## [May 22 - May 28, 2023](/content/2023/21/README.md)
-
-### Web Design
-
-- Name: [Uizard](https://get.uizard.io/SH7)
-
-  Title: Uizard - App, Web, & Ui Design Made Easy - Powered by AI.
-
-  Description: Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!.
 
   Offer Free Version: :white\_check\_mark:
 
