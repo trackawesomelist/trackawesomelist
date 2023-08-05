@@ -2,7 +2,7 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 556 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 570 · 🏷️ Business
 
 [ [Daily](/content/wardley-maps-community/awesome-wardley-maps/README.md) / [Weekly](/content/wardley-maps-community/awesome-wardley-maps/week/README.md) / Overview ]
 
@@ -49,7 +49,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads (⭐272)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐276)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
@@ -175,7 +175,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Mapping
 
-*   [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐191)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐17)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 *   [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
@@ -188,7 +188,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Doctrine Assessement
 
-*   [Doctrine (⭐47)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐49)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ### Commercial Enterprise Platforms
 
@@ -196,12 +196,17 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Tools & Scripts
 
-*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
-*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
-*   [Q\&A with Simon Wardley Videos](https://simongpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of Simon's videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
-*   [Q\&A with Wardley Community Videos](https://wardleygpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of the community videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
-*   [Chat with WardleyGPT](https://wardleychatbot.streamlit.app/) - An OpenAI/Streamlit/Python application to have a chat with WardleyGPT.
+### AI
+
+*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
+*   [Q\&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Ask Simon's book anything. Have a chat with the book.
+*   [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
+*   [Learn Wardley Mapping Bot](https://wardleymapbot.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
+
+### Development
+
 *   [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
+*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON.
 
 ## Templates
 

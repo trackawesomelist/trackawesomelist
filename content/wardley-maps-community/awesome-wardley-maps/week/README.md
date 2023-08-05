@@ -2,9 +2,17 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 556 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 570 · 🏷️ Business
 
 [ [Daily](/content/wardley-maps-community/awesome-wardley-maps/README.md) / Weekly / [Overview](/content/wardley-maps-community/awesome-wardley-maps/readme/README.md) ]
+
+## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
+
+### Tools & Scripts / AI
+
+*   [Q\&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Ask Simon's book anything. Have a chat with the book.
+*   [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
+*   [Learn Wardley Mapping Bot](https://wardleymapbot.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -14,7 +22,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 
-### Tools & Scripts / Commercial Enterprise Platforms
+### Tools & Scripts / Development
 
 *   [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
 
@@ -25,17 +33,17 @@ Wardley maps community hub. Useful Wardley mapping resources
 *   [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411) - Blog post on how to create a question & answer application AI app using OpenAI, Streamlit and Python. Full source code provided.
 *   [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0) - Blog post on how to create a Wardley Map chatbot using OpenAI, Streamlit and Python. Full source code provided.
 
-### Tools & Scripts / Commercial Enterprise Platforms
+### Tools & Scripts / AI
 
-*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the onlinewardleymaps wm format to JSON.
-*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - An OpenAI/Streamlit/Python application to chat to your Wardley Map. It pulls your Wardley Map from onlinewardleymaps and you can have an AI chat with your map.
-*   [Q\&A with Simon Wardley Videos](https://simongpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of Simon's videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
-*   [Q\&A with Wardley Community Videos](https://wardleygpt.streamlit.app/) - An OpenAI/Streamlit/Python application to ask any question about Wardley Mapping from any of the community videos on YouTube. It pulls the transscripts from YouTube and you can have an AI chat with the video.
-*   [Chat with WardleyGPT](https://wardleychatbot.streamlit.app/) - An OpenAI/Streamlit/Python application to have a chat with WardleyGPT.
+*   [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
+
+### Tools & Scripts / Development
+
+*   [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
-### Templates / Commercial Enterprise Platforms
+### Templates / Development
 
 *
 
@@ -201,7 +209,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Apps / Mapping
 
-*   [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐191)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
@@ -210,7 +218,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 *   [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐17)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 
-### Templates / Commercial Enterprise Platforms
+### Templates / Development
 
 *   [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
 
@@ -280,7 +288,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 ### Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads (⭐272)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐276)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
@@ -499,7 +507,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Apps / Doctrine Assessement
 
-*   [Doctrine (⭐47)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐49)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ## [Dec 02 - Dec 08, 2019](/content/2019/48/README.md)
 
