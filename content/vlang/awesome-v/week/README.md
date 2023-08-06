@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ [Daily](/content/vlang/awesome-v/README.md) / Weekly / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
+
+### Database clients
+
+*   [redis (⭐2)](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### User Interface toolkits
@@ -16,7 +22,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Editors
 
-*   [polygon-editor (⭐4)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
+*   [polygon-editor (⭐5)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -26,13 +32,13 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Web
 
-*   [vest (⭐0)](https://github.com/alexferl/vest) - A REST client in V.
+*   [vest (⭐1)](https://github.com/alexferl/vest) - A REST client in V.
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
 ### Networking
 
-*   [vibe (⭐7)](https://github.com/tobealive/vibe) - A libcurl binding with an easy-access layer for fast and reliable requests.
+*   [vibe (⭐7)](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 
 ### Text processing
 
@@ -94,7 +100,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [bartender (⭐43)](https://github.com/tobealive/bartender) - Gluten free bars for V term apps.
+*   [bartender (⭐43)](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
