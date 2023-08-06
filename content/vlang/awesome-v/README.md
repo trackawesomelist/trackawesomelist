@@ -12,6 +12,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [redis (⭐2)](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
 
+### Text processing
+
+*   [lexical\_uuid (⭐0)](https://github.com/Coachonko/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
+
 ## [Jul 23, 2023](/content/2023/07/23/README.md)
 
 ### User Interface toolkits

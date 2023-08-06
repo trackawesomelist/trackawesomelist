@@ -272,6 +272,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [v-regex (⭐15)](https://github.com/spytheman/v-regex) - A simple regex library for V.
 *   [vxml (⭐10)](https://github.com/walkingdevel/vxml) - Pure V library for parsing XML to a DOM.
 *   [whisker (⭐28)](https://github.com/hungrybluedev/whisker) - Fast, robust template engine for V inspired by mustache.
+*   [lexical\_uuid (⭐0)](https://github.com/Coachonko/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
 ### User Interface toolkits
 

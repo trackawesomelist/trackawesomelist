@@ -304,6 +304,7 @@ You can find them listed on the [Neovim wiki (⭐68k)](https://github.com/neovim
 *   [jvgrootveld/telescope-zoxide (⭐201)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [echasnovski/mini.nvim#mini.fuzzy (⭐2.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐273)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
+*   [linrongbin16/fzfx.nvim (⭐2)](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance.
 
 ### File Explorer
 
@@ -836,12 +837,12 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [altermo/ultimate-autopair.nvim (⭐110)](https://github.com/altermo/ultimate-autopair.nvim) - Autopair with extensions.
 *   [utilyre/sentiment.nvim (⭐86)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
 *   [monaqa/dial.nvim (⭐593)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
-*   [HiPhish/rainbow-delimiters.nvim (⭐92)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
+*   [HiPhish/rainbow-delimiters.nvim (⭐125)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
 *   [AckslD/nvim-revJ.lua (⭐106)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
 *   [Pocco81/TrueZen.nvim (⭐844)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
 *   [Pocco81/HighStr.nvim (⭐248)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
 *   [Pocco81/AutoSave.nvim (⭐438)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
-*   [okuuva/auto-save.nvim (⭐14)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
+*   [okuuva/auto-save.nvim (⭐22)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
 *   [tmillr/sos.nvim (⭐13)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
 *   [folke/zen-mode.nvim (⭐1k)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
 *   [haringsrob/nvim\_context\_vt (⭐313)](https://github.com/haringsrob/nvim_context_vt) - Shows virtual text of the current context.

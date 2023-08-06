@@ -2,7 +2,7 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 861 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 956 · 🏷️ Front-End Development
 
 [ [Daily](/content/lvwzhen/tools/README.md) / [Weekly](/content/lvwzhen/tools/week/README.md) / Overview ]
 
@@ -33,7 +33,7 @@ Tools Online
 
 ### Placeholder
 
-*   [placehold.it](http://placehold.it/)
+*   [placehold.it](https://place-hold.it/)
 *   [temp.im](http://temp.im/)
 *   [lorempixel](http://lorempixel.com/)
 *   [dummyimage](http://dummyimage.com/)
@@ -142,7 +142,7 @@ Tools Online
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [webfonts](http://www.fonts.com/web-fonts)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐357)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
 *   [FontSquirrel](http://www.fontsquirrel.com/)
 *   [Fontface Ninja](http://fontface.ninja/)
 *   [Easy Fonts](https://pagecdn.com/lib/easyfonts)
@@ -206,4 +206,5 @@ Tools Online
 ### Tools collection
 
 *   [SmallDev.tools](https://smalldev.tools/)
+*   [Hreflang checker](https://localizely.com/hreflang-checker/)
 

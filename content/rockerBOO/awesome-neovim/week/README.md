@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [aznhe21/actions-preview.nvim (⭐72)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 
+### Fuzzy Finder / Diagnostics
+
+*   [linrongbin16/fzfx.nvim (⭐2)](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance.
+
 ### Note Taking / Diagnostics
 
 *   [ada0l/obsidian/ (⭐3)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
@@ -75,8 +79,8 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [HiPhish/rainbow-delimiters.nvim (⭐92)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
-*   [okuuva/auto-save.nvim (⭐14)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
+*   [HiPhish/rainbow-delimiters.nvim (⭐125)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
+*   [okuuva/auto-save.nvim (⭐22)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
 *   [00sapo/visual.nvim (⭐113)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
 
 ### Formatting / Diagnostics

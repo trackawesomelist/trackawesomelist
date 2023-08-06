@@ -2,9 +2,19 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 861 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 956 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
+
+## [Aug 06, 2023](/content/2023/08/06/README.md)
+
+### Placeholder
+
+*   [placehold.it](https://place-hold.it/)
+
+### Tools collection
+
+*   [Hreflang checker](https://localizely.com/hreflang-checker/)
 
 ## [Jan 20, 2023](/content/2023/01/20/README.md)
 
@@ -335,7 +345,6 @@ Tools Online
 
 ### Placeholder
 
-*   [placehold.it](http://placehold.it/)
 *   [temp.im](http://temp.im/)
 *   [lorempixel](http://lorempixel.com/)
 *   [dummyimage](http://dummyimage.com/)
@@ -399,7 +408,7 @@ Tools Online
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐357)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 
