@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
+
+### Learning
+
+*   🎬 [10 Tailwind CSS Tips and Tricks](https://www.youtube.com/watch?v=aSlK3GhRuXA) - 10 Tailwind CSS tricks you should know.
+
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### UI Libraries, Components & Templates
@@ -428,7 +434,6 @@
 
 ### Plugins
 
-*   🛑💼 [Caret Color (⭐5)](https://github.com/GraxMonzo/tailwind-caret-color) - Adds `caret` color utilities.
 *   🛑🧬 [Pseudo (⭐40)](https://github.com/Log1x/tailwindcss-pseudo) - Adds custom variants to Tailwind CSS's configuration.
 
 ## [Jul 05 - Jul 11, 2021](/content/2021/27/README.md)
@@ -597,10 +602,6 @@
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 
-### Plugins
-
-*   🛑💼 [Caret Color (⭐12)](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
-
 ### Tools
 
 *   🔧 [create-tailwind-plugin (⭐20)](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
@@ -623,7 +624,6 @@
 
 ### Plugins
 
-*   🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
 *   🛑💼💙 [Line Clamp (⭐1.1k)](https://github.com/tailwindlabs/tailwindcss-line-clamp) - Provides utilities for visually truncating text after a fixed number of lines.
 
 ## [Jan 04 - Jan 10, 2021](/content/2020/53/README.md)
@@ -855,14 +855,12 @@
 *   🎨🌍🔧 [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
 *   🎨🌍🔧 [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
 *   🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
-*   🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
 *   🔼🌍 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 *   🔼 [Tailwindo (⭐1k)](https://github.com/awssat/tailwindo) - Bootstrap to Tailwind CSS converter.
 *   🔼 [Tailupgrade (⭐6)](https://github.com/virkillz/tailupgrade) - Conversion tool for upgrading HTML files from Tailwind CSS v0.x to v1.0.
 *   🔼 [Tailwind Shift (⭐120)](https://github.com/awssat/tailwind-shift) - Upgrade tool for upgrading from Tailwind CSS v0.7 to v1.0.
 *   🔼 [RustyWind (⭐338)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 *   🅰 [react-native-tailwindcss (⭐551)](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
-*   🅰 [typed-tailwind (⭐415)](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
 *   💼 [Gatsby Plugin (⭐47)](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
 *   💼 [Gridsome Plugin (⭐103)](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Tailwind CSS integration for Gridsome.
 *   💼 [Alfred Workflow (⭐114)](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.

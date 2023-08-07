@@ -6,6 +6,16 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Aug 07, 2023](/content/2023/08/07/README.md)
+
+### Games
+
+*   [Puzzle Vibes (⭐6)](https://github.com/Larpon/puzzle_vibes) - A jigsaw-like puzzle game written in V using `shy`.
+
+### Game development
+
+*   [shy (⭐9)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
+
 ## [Aug 06, 2023](/content/2023/08/06/README.md)
 
 ### Database clients

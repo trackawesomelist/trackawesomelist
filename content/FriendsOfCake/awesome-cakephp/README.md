@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Aug 07, 2023](/content/2023/08/07/README.md)
+
+### Code Analysis
+
+*   [IdeHelperExtra plugin (⭐2)](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for plugins or custom use cases.
+
 ## [Aug 04, 2023](/content/2023/08/04/README.md)
 
 ### Authentication and Authorization
