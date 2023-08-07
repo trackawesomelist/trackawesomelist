@@ -37,24 +37,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   🎬 [10 Tailwind CSS Tips and Tricks](https://www.youtube.com/watch?v=aSlK3GhRuXA) - 10 Tailwind CSS tricks you should know.
 
-#### [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
-
-*   [The state of AI in 2023: Generative AI’s breakout year | McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year#/)
-
-##### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
-
-*   [ComicsMaker.ai](https://www.comicsmaker.ai): Stable diffusion-based comic book generator with support for text2img, img2img, inpainting and controlnet
-
-#### [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Android / Libraries
 
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-#### [6. Awesome V](/content/vlang/awesome-v/README.md)
+#### [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Games
 
@@ -63,6 +53,45 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Game development
 
 *   [shy (⭐9)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
+
+#### [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+
+##### Apps / Forms
+
+*   [Wagtail Formation (⭐0)](https://github.com/mwesterhof/wagtail_formation) - Fully dynamic and easy to use CMS-able forms for wagtail
+
+#### [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+
+##### Examples / Showcases / Personal
+
+*   [Agency OS (⭐36)](https://github.com/directus-community/agency-os) - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
+*   [Nextus (⭐9)](https://github.com/luochuanyuewu/nextus) - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
+
+#### [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+
+*   [The state of AI in 2023: Generative AI’s breakout year | McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year#/)
+
+##### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
+
+*   [The TextFX project](https://textfx.withgoogle.com/): "AI-powered tools for rappers, writers and wordsmiths" (partnership between Lupe Fiasco and Google)
+
+##### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
+
+*   [geekan/MetaGPT (⭐7.2k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+
+##### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
+
+*   [ComicsMaker.ai](https://www.comicsmaker.ai): Stable diffusion-based comic book generator with support for text2img, img2img, inpainting and controlnet
+
+##### Courses and Educational Materials / Deforum
+
+*   [Google Cloud Skills Boost: Generative AI learning path](https://www.cloudskillsboost.google/journeys/118): curated content on Generative AI "from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud"
+
+##### Discussions and Philosophy / Papers Collections
+
+*   [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9)
 
 ### [Aug 06, 2023](/content/2023/08/06/README.md)
 
@@ -259,13 +288,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 40. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 3K 📝 08&#x2F;04 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
 41. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 59K 📝 07&#x2F;05 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 42. [Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md) - ([Source ⭐ 3.5K 📝 08&#x2F;02 ](https://github.com/markusschanta/awesome-jupyter)) - A curated list of awesome Jupyter projects, libraries and resources
-43. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 07&#x2F;19 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-44. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.7K 📝 08&#x2F;07 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
-45. [Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md) - ([Source ⭐ 4.7K 📝 07&#x2F;27 ](https://github.com/sobolevn/awesome-cryptography)) - A curated list of cryptography resources and links.
-46. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.1K 📝 07&#x2F;31 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
-47. [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source ⭐ 6.3K 📝 07&#x2F;23 ](https://github.com/awesome-lists/awesome-bash)) - A curated list of delightful Bash scripts and resources.
-48. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 7.3K 📝 07&#x2F;21 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
-49. [Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md) - ([Source ⭐ 2.5K 📝 07&#x2F;30 ](https://github.com/jaredthecoder/awesome-vehicle-security)) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
+43. [Awesome Wagtail](/content/springload/awesome-wagtail/README.md) - ([Source ⭐ 1.8K 📝 08&#x2F;07 ](https://github.com/springload/awesome-wagtail)) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+44. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 07&#x2F;19 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
+45. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.7K 📝 08&#x2F;07 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
+46. [Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md) - ([Source ⭐ 4.7K 📝 07&#x2F;27 ](https://github.com/sobolevn/awesome-cryptography)) - A curated list of cryptography resources and links.
+47. [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.1K 📝 07&#x2F;31 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
+48. [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source ⭐ 6.3K 📝 07&#x2F;23 ](https://github.com/awesome-lists/awesome-bash)) - A curated list of delightful Bash scripts and resources.
+49. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 7.3K 📝 07&#x2F;21 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 50. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.2K 📝 08&#x2F;07 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
 
 ## All Tracked List
@@ -385,14 +414,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Content Management Systems
 
 - [Awesome](/content/craftcms/awesome/README.md) - ([Source ⭐ 491, 📝 02&#x2F;02 ](https://github.com/craftcms/awesome)) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
-- [Awesome Directus](/content/directus-community/awesome-directus/README.md) - ([Source ⭐ 287, 📝 07&#x2F;22 ](https://github.com/directus-community/awesome-directus)) - A curated list of awesome things related to Directus
+- [Awesome Directus](/content/directus-community/awesome-directus/README.md) - ([Source ⭐ 302, 📝 08&#x2F;07 ](https://github.com/directus-community/awesome-directus)) - A curated list of awesome things related to Directus
 - [Awesome Drupal](/content/nirgn975/awesome-drupal/README.md) - ([Source ⭐ 79, 📝 18&#x2F;07&#x2F;05 ](https://github.com/nirgn975/awesome-drupal)) - Useful resources for Drupal CMS 💧
 - [Awesome Plone](/content/collective/awesome-plone/README.md) - ([Source ⭐ 29, 📝 04&#x2F;28 ](https://github.com/collective/awesome-plone)) - Add-ons and resources for the CMS Plone
 - [Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md) - ([Source ⭐ 29, 📝 16&#x2F;04&#x2F;07 ](https://github.com/refinerycms-contrib/awesome-refinerycms)) - A collection of awesome Refinery CMS extensions, resources and shiny things.
 - [Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md) - ([Source ⭐ 46, 📝 07&#x2F;27 ](https://github.com/wernerkrauss/awesome-silverstripe-cms)) - Useful resources for Silverstripe CMS and framework
 - [Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md) - ([Source ⭐ 62, 📝 07&#x2F;17 ](https://github.com/MartinMiles/awesome-sitecore)) - Awesome lists of useful Sitecore tools, extensions and GitHub repositories 
 - [Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md) - ([Source ⭐ 202, 📝 22&#x2F;08&#x2F;04 ](https://github.com/umbraco-community/awesome-umbraco)) - A curated list of awesome Umbraco packages, resources and tools
-- [Awesome Wagtail](/content/springload/awesome-wagtail/README.md) - ([Source ⭐ 1.7K, 📝 02&#x2F;16 ](https://github.com/springload/awesome-wagtail)) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [Awesome Wagtail](/content/springload/awesome-wagtail/README.md) - ([Source ⭐ 1.8K, 📝 08&#x2F;07 ](https://github.com/springload/awesome-wagtail)) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 
 ### Databases
 
