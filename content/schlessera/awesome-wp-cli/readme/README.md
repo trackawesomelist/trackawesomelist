@@ -2,7 +2,7 @@
 
 A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/schlessera/awesome-wp-cli/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) · ⭐ 167 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/schlessera/awesome-wp-cli/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) · ⭐ 170 · 🏷️ Miscellaneous
 
 [ [Daily](/content/schlessera/awesome-wp-cli/README.md) / [Weekly](/content/schlessera/awesome-wp-cli/week/README.md) / Overview ]
 
@@ -41,7 +41,7 @@ Everything relevant that is directly part of the official WP-CLI team.
     *   [Good first issues](https://make.wordpress.org/cli/good-first-issues/) - List of issues on that are limited in scope and complexity.
 *   [WP-CLI GitHub organization](https://github.com/wp-cli) - Canonical home of the WP-CLI source code.
     *   [WP-CLI framework repository (⭐4.7k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
-    *   [WP-CLI bundle repository (⭐72)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
+    *   [WP-CLI bundle repository (⭐74)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
     *   [WP-CLI tests repository (⭐30)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
 
 ## Third-party packages
@@ -53,15 +53,15 @@ Unofficial third-party packages.
 Ways of searching for third-party packages you can use.
 
 *   [Packagist.org search by WP-CLI package type](https://packagist.org/?type=wp-cli-package) - Composer packages filtered by type `wp-cli-package`.
-*   [GitHub.com search for WP-CLI integrations](https://github.com/search?q=WP_CLI%3A%3Aadd_command%28+NOT+Akismet_CLI+NOT+elementor+NOT+WordCamp_CLI_Miscellaneous+NOT+W3TotalCache_Command+extension%3Aphp+language%3APHP+-org%3Awp-cli+-path%3Avendor+-path%3Awp-content+-path%3Apublic+-path%3Adeployer+-path%3Aweb+-path%3Asrc%2Fvendor+-path%3Aapp+-path%3Awordpress+-filename%3Aentity-command.php+-filename%3Aclass-wc-cli.php+-filename%3Awp-cli-bp.php+fork%3Afalse+-filename%3Aextension-command.php+-filename%3Acron-command.php+-filename%3Awp-seo-main.php+-path%3Aplugins+-path%3Adata+-path%3Abackup+-path%3Ademo+-path%3Awordcamp.org+-path%3Awordpress.org+-filename%3Alanguage-command.php+-filename%3Aredirection-cli.php+-path%3Athemes+-path%3Alibrary+-filename%3Aeval-command+-filename%3Arole-command+-filename%3Awidget-command+-filename%3Acache-command.php+-path%3Awp-app+-path%3Apublic_html+-filename%3Aqueue.php+-path%3AmyWeb+-path%3Adocroot+-path%3Awebsite\&type=Code) - Heavily pre-filtered search for repositories that use `WP_CLI::add_command()`.
+*   [GitHub.com search for WP-CLI integrations](https://github.com/search?q=WP_CLI%3A%3Aadd_command%28+NOT+Akismet_CLI+NOT+elementor+NOT+WordCamp_CLI_Miscellaneous+NOT+W3TotalCache_Command+path%3A*.php+language%3APHP+-org%3Awp-cli+-path%3Avendor+-path%3Awp-content+-path%3Apublic+-path%3Adeployer+-path%3Aweb+-path%3Asrc%2Fvendor+-path%3Aapp+-path%3Awordpress+-path%3Aentity-command.php+-path%3Aclass-wc-cli.php+-path%3Awp-cli-bp.php+NOT+is%3Afork+-path%3Aextension-command.php+-path%3Acron-command.php+-path%3Awp-seo-main.php+-path%3Aplugins+-path%3Adata+-path%3Abackup+-path%3Ademo+-path%3Awordcamp.org+-path%3Awordpress.org+-path%3Alanguage-command.php+-path%3Aredirection-cli.php+-path%3Athemes+-path%3Alibrary+-path%3Aeval-command+-path%3Arole-command+-path%3Awidget-command+-path%3Acache-command.php+-path%3Awp-app+-path%3Apublic_html+-path%3Aqueue.php+-path%3AmyWeb+-path%3Adocroot+-path%3Awebsite\&type=code) - Heavily pre-filtered search for repositories that use `WP_CLI::add_command()`.
 
 ### Notable packages
 
 Third-party packages that are commonly useful.
 
-*   [Yoast/wp-cli-faker (⭐55)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
-*   [aaemnnosttv/wp-cli-login-command (⭐266)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
-*   [schlessera/wp-cli-psysh (⭐21)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
+*   [Yoast/wp-cli-faker (⭐59)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
+*   [aaemnnosttv/wp-cli-login-command (⭐269)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
+*   [schlessera/wp-cli-psysh (⭐23)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
 *   [php-stubs/wp-cli-stubs (⭐15)](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
 
 ## Tutorials & guides

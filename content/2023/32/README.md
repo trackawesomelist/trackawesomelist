@@ -1,25 +1,68 @@
 # Awesome List Updates on Aug 07 - Aug 13, 2023
 
-8 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Game Engine
+
+*   [quakeforge (⭐24)](https://github.com/quakeforge/quakeforge) - Actively maintained branch of the original Quake engine code with 20+ years of development. \[GPL-2.0]
+*   [ezEngine (⭐952)](https://github.com/ezEngine/ezEngine) - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. \[MIT] [website](https://ezengine.net/)
+
+### Graph
+
+*   [Graaf (⭐7)](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. \[MIT] [website](https://bobluppes.github.io/graaf/)
+
+## [2. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### Sensors / Motion Inertial
+
+*   [MicroPython\_BMI270 (⭐0)](https://github.com/jposada202020/MicroPython_BMI270) - MicroPython Driver for the Bosch BMI270 Accelerometer/Gyro Sensor.
+
+### Sensors / Temperature Digital
+
+*   [MicroPython\_PCT2075 (⭐0)](https://github.com/jposada202020/MicroPython_PCT2075) - MicroPython Driver for the NXP Semiconductors PCT2075 Temperature Sensor.
+
+## [3. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+
+### For Electron / Other
+
+*   [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
+
+## [4. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
+
+### Third-party packages / Package discovery
+
+*   [GitHub.com search for WP-CLI integrations](https://github.com/search?q=WP_CLI%3A%3Aadd_command%28+NOT+Akismet_CLI+NOT+elementor+NOT+WordCamp_CLI_Miscellaneous+NOT+W3TotalCache_Command+path%3A*.php+language%3APHP+-org%3Awp-cli+-path%3Avendor+-path%3Awp-content+-path%3Apublic+-path%3Adeployer+-path%3Aweb+-path%3Asrc%2Fvendor+-path%3Aapp+-path%3Awordpress+-path%3Aentity-command.php+-path%3Aclass-wc-cli.php+-path%3Awp-cli-bp.php+NOT+is%3Afork+-path%3Aextension-command.php+-path%3Acron-command.php+-path%3Awp-seo-main.php+-path%3Aplugins+-path%3Adata+-path%3Abackup+-path%3Ademo+-path%3Awordcamp.org+-path%3Awordpress.org+-path%3Alanguage-command.php+-path%3Aredirection-cli.php+-path%3Athemes+-path%3Alibrary+-path%3Aeval-command+-path%3Arole-command+-path%3Awidget-command+-path%3Acache-command.php+-path%3Awp-app+-path%3Apublic_html+-path%3Aqueue.php+-path%3AmyWeb+-path%3Adocroot+-path%3Awebsite\&type=code) - Heavily pre-filtered search for repositories that use `WP_CLI::add_command()`.
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Maps and Global Positioning System (GPS)
+
+*   [OpenRouteService](https://openrouteservice.org/) - Selfhosted route service with directions, isochrones, time-distance matrix, route optimization, etc. ([Demo](https://openrouteservice.org/dev/#/api-docs/introduction), [Source Code (⭐1.1k)](https://github.com/GIScience/openrouteservice)) `GPL-3.0` `Docker/Java`
+
+### Software / Miscellaneous
+
+*   [Loggit](https://loggit.net) - End-to-end encrypted and simple life tracking & logging. ([Demo](https://app.loggit.net), [Source Code (⭐6)](https://github.com/BrunoBernardino/loggit-web)) `AGPL-3.0` `Deno`
+
+## [6. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Examples / Showcases / Personal
 
 *   [Agency OS (⭐36)](https://github.com/directus-community/agency-os) - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
 *   [Nextus (⭐9)](https://github.com/luochuanyuewu/nextus) - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
 
-## [2. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [7. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Forms
 
 *   [Wagtail Formation (⭐0)](https://github.com/mwesterhof/wagtail_formation) - Fully dynamic and easy to use CMS-able forms for wagtail
 
-## [3. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [8. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Games
 
@@ -29,14 +72,7 @@
 
 *   [shy (⭐9)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Android / Libraries
-
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -62,20 +98,24 @@
 
 *   [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9)
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Learning
 
 *   🎬 [10 Tailwind CSS Tips and Tricks](https://www.youtube.com/watch?v=aSlK3GhRuXA) - 10 Tailwind CSS tricks you should know.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [zplug-blame (⭐0)](https://github.com/jkcdarunday/zplug-blame) - A [zplug (⭐5.5k)](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [chaos (⭐0)](https://github.com/kusamaxi/chaos-zsh) - Inspired by dogenpunk and smt themes, optimized for Git users and Python developers. Includes decorators for `git` status, python virtual environment, background jobs, error status of last command, user\@hostname and current directory.
 *   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐161k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Code Analysis
 

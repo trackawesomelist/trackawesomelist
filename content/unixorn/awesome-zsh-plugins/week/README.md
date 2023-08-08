@@ -8,6 +8,10 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [zplug-blame (⭐0)](https://github.com/jkcdarunday/zplug-blame) - A [zplug (⭐5.5k)](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
+
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [chaos (⭐0)](https://github.com/kusamaxi/chaos-zsh) - Inspired by dogenpunk and smt themes, optimized for Git users and Python developers. Includes decorators for `git` status, python virtual environment, background jobs, error status of last command, user\@hostname and current directory.
@@ -69,7 +73,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [agnoster-multiline (⭐0)](https://github.com/mxkrsv/agnoster-multiline) - Based on [Agnoster (⭐3.8k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for current directory and `git` status. Requires a font with powerline and `git` glyphs. Automatically disables non-ascii glyphs on linux ttys.
 *   [bira (⭐0)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐161k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
-*   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme, includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
+*   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme inspired by Windows CMD prompt. Includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
 *   [riverside (⭐0)](https://github.com/skippyr/riverside) - A more portable descendent of [River Dreams (⭐2)](https://github.com/skippyr/river_dreams) inspired by robbyrussell and kafeitu. Includes decorators for `git` status, user\@hostname, current directory and the current python virtual environment.
 *   [zunder (⭐0)](https://github.com/Warbacon/zunder-prompt) - Simple and fast ZSH prompt based on [gitstatus (⭐1.5k)](https://github.com/romkatv/gitstatus).
 
@@ -2346,7 +2350,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [garden (⭐1)](https://github.com/fecat233/garden) - Works better with a dark terminal background, includes `git` status decorations.
 *   [garrett (⭐155)](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it.
 *   [gawaine (⭐3)](https://github.com/nicolaracco/gawaine.zsh-theme) - Nicola Racco's theme. Requires `rvm` & `git` plugins.
-*   [gbt (⭐537)](https://github.com/jtyr/gbt) - Go Bullet Train is a very customizable prompt builder inspired by Bullet Train that runs much faster. Includes many different status cars.
+*   [gbt (⭐537)](https://github.com/jtyr/gbt) - Go Bullet Train is a very customizable prompt builder inspired by Bullet Train and [oh-my-zsh (⭐161k)](https://github.com/robbyrussell/oh-my-zsh) that runs much faster. Includes many different status cars. Includes a [prompt-forwarding (⭐537)](https://github.com/jtyr/gbt#prompt-forwarding) feature than enables the user to forward their user-defined prompt to a remote machine and have the same-looking prompt across all machines via SSH but also in Docker, Kubectl, Vagrant, MySQL or in Screen without the need to install anything remotely.
 *   [geometryHostInfo (⭐1)](https://github.com/Fuzen-py/GeometryHostInfo) - Adds host info to the [geometry (⭐887)](https://github.com/geometry-zsh/geometry) theme.
 *   [geometry (⭐887)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
 *   [ghoti (⭐0)](https://github.com/lonr/ghoti) - Mimics the `fish-shell` default prompt. Includes `git` decorations.

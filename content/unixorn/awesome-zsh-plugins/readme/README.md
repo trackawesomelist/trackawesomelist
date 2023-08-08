@@ -1379,6 +1379,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [znvm (⭐0)](https://github.com/Ajnasz/znvm) - A [nodejs](https://nodejs.org) version manager for ZSH similar to [nvm.sh (⭐69k)](https://github.com/nvm-sh/nvm) but faster.
 *   [zoo (⭐2)](https://github.com/salamantos/zoo_sh) - Casual theme with animal emoji. Includes decorators for current directory, time and `git` status.
 *   [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide) - A fast alternative to `cd` that learns your habits.
+*   [zplug-blame (⭐0)](https://github.com/jkcdarunday/zplug-blame) - A [zplug (⭐5.5k)](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
 *   [zpy (⭐42)](https://github.com/AndydeCleyre/zpy) - Manage Python Environments, dependencies, and isolated app installations, with a ZSH frontend to [pip-tools (⭐7k)](https://github.com/jazzband/pip-tools).
 *   [zredis-cmd (⭐4)](https://github.com/z-shell/zredis-cmd) - Utilizes variable sharing done by [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) plugin to implement remote command execution.
 *   [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) - Adds [Redis](https://redis.io/) database support, with `database_key` <-> `shell_variable` binding. Supports all data types.
@@ -1863,7 +1864,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [garden (⭐1)](https://github.com/fecat233/garden) - Works better with a dark terminal background, includes `git` status decorations.
 *   [garrett (⭐155)](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it.
 *   [gawaine (⭐3)](https://github.com/nicolaracco/gawaine.zsh-theme) - Nicola Racco's theme. Requires `rvm` & `git` plugins.
-*   [gbt (⭐537)](https://github.com/jtyr/gbt) - Go Bullet Train is a very customizable prompt builder inspired by Bullet Train that runs much faster. Includes many different status cars.
+*   [gbt (⭐537)](https://github.com/jtyr/gbt) - Go Bullet Train is a very customizable prompt builder inspired by Bullet Train and [oh-my-zsh (⭐161k)](https://github.com/robbyrussell/oh-my-zsh) that runs much faster. Includes many different status cars. Includes a [prompt-forwarding (⭐537)](https://github.com/jtyr/gbt#prompt-forwarding) feature than enables the user to forward their user-defined prompt to a remote machine and have the same-looking prompt across all machines via SSH but also in Docker, Kubectl, Vagrant, MySQL or in Screen without the need to install anything remotely.
 *   [gentoo (⭐1)](https://github.com/ikelos/gentoo-zsh-theme) - Breaks out the oh-my-zsh `gentoo` theme into a separate repository for non-omz users.
 *   [geometryHostInfo (⭐1)](https://github.com/Fuzen-py/GeometryHostInfo) - Adds host info to the [geometry (⭐887)](https://github.com/geometry-zsh/geometry) theme.
 *   [geometry (⭐887)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
@@ -2143,7 +2144,7 @@ If you're using [Antigen (⭐7.6k)](https://github.com/zsh-users/antigen), you c
 *   [noon (⭐0)](https://github.com/silky/noon.zsh-theme) - Has light and dark variants, shows `git` information.
 *   [nord (⭐9)](https://github.com/TyWR/Nord-zsh) - Includes `git` status decorations and displays the active conda environment.
 *   [normanius (⭐0)](https://github.com/normanius/normanius-zsh-theme) - Derived from [bira (⭐161k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes decorators for `git` status, `user@host`, python `virtualenv`, and ruby `rvm` version.
-*   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme, includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
+*   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme inspired by Windows CMD prompt. Includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
 *   [nothing (⭐30)](https://github.com/eendroroy/nothing) - Lightning fast and really simple because it has almost nothing in it.
 *   [nova (⭐0)](https://github.com/body20002/nova) - Includes `git` status decroations. Overrides `LS_COLORS` and `LSCOLORS` settings.
 *   [nox (⭐10)](https://github.com/kbrsh/nox) - Dark theme, displays the current working directory and git status.
