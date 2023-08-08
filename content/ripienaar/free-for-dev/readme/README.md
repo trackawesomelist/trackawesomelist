@@ -217,7 +217,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [IP.City](https://ip.city) — 100 free IP geolocation requests per day
 *   [A11yWatch](https://a11ywatch.com) - Powerful web accessibility tool at scale. Free site-wide web acessibility testing and beyond that resets daily.
 *   [Abstract API](https://www.abstractapi.com) — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.
-*   [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.
 *   [Apify](https://www.apify.com/) — Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
 *   [API Mocha](https://apimocha.com) - Completely free online API mocking for testing and prototyping.  Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.
 *   [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML required. Free plan comes with 50 images/month and 3 templates.
@@ -1139,7 +1138,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
 *   [nextdns.io](https://nextdns.io) - DNS based firewall, 300K free queries monthly
 *   [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
-*   [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
 *   [sslip.io](https://sslip.io/) — Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
 *   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting, free for 5 domains.
 *   [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
@@ -1166,6 +1164,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Tebi](https://tebi.io/) - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.
 *   [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
 *   [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB download per month.
+*   [Spheron](https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w\.r.t AWS).
 
 **[⬆️ Back to Top](#table-of-contents)**
 

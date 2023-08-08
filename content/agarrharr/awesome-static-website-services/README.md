@@ -2,9 +2,19 @@
 
 📄 🛠 A curated list of awesome static websites services
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-static-website-services/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) · ⭐ 1.6K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-static-website-services/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) · ⭐ 1.7K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/agarrharr/awesome-static-website-services/week/README.md) / [Overview](/content/agarrharr/awesome-static-website-services/readme/README.md) ]
+
+## [Aug 08, 2023](/content/2023/08/08/README.md)
+
+### Code
+
+*   [Indiepen](https://indiepen.tech/) - A privacy-friendly solution to embed front-end code examples.
+
+### Functions as a Service
+
+*   [Cloud 66](https://www.cloud66.com/) - Build and deploy static websites to your own cloud account.
 
 ## [Nov 10, 2022](/content/2022/11/10/README.md)
 
@@ -55,7 +65,7 @@
 
 ### Comments
 
-*   [giscus (⭐3.3k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
+*   [giscus (⭐5.5k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
 
 ## [May 02, 2021](/content/2021/05/02/README.md)
 
@@ -71,7 +81,7 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Azure Static Web Apps (⭐68)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
+*   [Awesome Azure Static Web Apps (⭐77)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ## [Mar 27, 2021](/content/2021/03/27/README.md)
 
@@ -132,17 +142,17 @@
 
 ### Search / Provided by the Host
 
-*   [itemsjs (⭐268)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
-*   [minisearch (⭐1.7k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
-*   [flexsearch (⭐9k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+*   [itemsjs (⭐300)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+*   [minisearch (⭐3.2k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+*   [flexsearch (⭐10k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
 *   [static-search (⭐23)](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
 *   [elasticlunr](http://elasticlunr.com/docs/index.html) - Lightweight full-text search engine developed in JavaScript for browser search and offline search based on Lunr.js
-*   [tinysearch (⭐2.1k)](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
+*   [tinysearch (⭐2.5k)](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
 *   [js-search](https://www.npmjs.com/package/js-search) - Client-side searches of JavaScript and JSON objects, ES5 compatible and does not require jQuery or any other third-party libraries
-*   [search-index (⭐1.3k)](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
+*   [search-index (⭐1.4k)](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
 *   [fuzzysearch (⭐2.7k)](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
-*   [fuzzy (⭐804)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
+*   [fuzzy (⭐815)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 *   [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 
 ## [Jun 28, 2020](/content/2020/06/28/README.md)
@@ -254,8 +264,8 @@
 
 ### Forms / Normal Forms
 
-*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐124)](https://github.com/sindresorhus/ama) for an example.
-*   [Utterences (⭐7.2k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
+*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐128)](https://github.com/sindresorhus/ama) for an example.
+*   [Utterences (⭐8.1k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 
 ## [Mar 01, 2018](/content/2018/03/01/README.md)
 
@@ -313,7 +323,7 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Static Hosting (⭐245)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Static Hosting (⭐268)](https://github.com/b-long/awesome-static-hosting)
 
 ## [Feb 09, 2017](/content/2017/02/09/README.md)
 

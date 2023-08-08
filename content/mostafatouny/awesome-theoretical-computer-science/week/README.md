@@ -2,9 +2,19 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 392 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 463 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
+
+## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
+
+### Books
+
+*   [Sipser. Introduction to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
+
+### Workshops / Monograph
+
+*   [Simons Institute. Information Theory Program](https://simons.berkeley.edu/programs/inftheory2015) - It aims to strengthen the ties between computation and communication communities. It explores (1) information theoretic techniques in complexity theory and combinatorics, (2) Coding theory and applications, and (3) information theory, machine learning, and big data.
 
 ## [May 08 - May 14, 2023](/content/2023/19/README.md)
 
@@ -127,8 +137,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Network Groups / Monograph
 
-*   [Mathematics (⭐7.1k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐2.3k)](https://github.com/ossu/math) and [CS (⭐138k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   [Mathematics (⭐7.4k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   P.S. See also [Math (⭐2.7k)](https://github.com/ossu/math) and [CS (⭐146k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -182,15 +192,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 *   [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) ([Homework](https://www.cs.cmu.edu/~odonnell/15455-s17/)) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
 
-### Workshops / Monograph
-
-*   [Simons Institute. Informaiton Theory Program](https://simons.berkeley.edu/programs/inftheory2015) - It aims to strengthen the ties between computation and communication communities. It explores (1) information theoretic techniques in complexity theory and combinatorics, (2) Coding theory and applications, and (3) information theory, machine learning, and big data.
-*   [Simons Institute. Foundations of Deep Learning Program](https://simons.berkeley.edu/programs/dl2019) - Aligning and focusing theoretical and applied researchers on the common purpose of building empirically relevant theoretical foundations of deep learning. Specifically, the intention was to identify and make progress on challenges that, on one hand, are key to guiding the real-world use of deep learning and, on the other hand, can be approached using theoretical methodology.
-*   [Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - Identifying a set of core techniques and principles that form a foundation for the subject.
-*   [Foundations of Machine Learning](https://simons.berkeley.edu/programs/machinelearning2017) - Aims to grow the reach and impact of computer science theory within machine learning.
-*   [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
-*   [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288) - Formal methods and machine learning can inform each other from deductive and inductive reasoning perspectives.  This talk aims to facilitate the dialogue between the two communities by establishing some fundamental concepts in learning theory.
-
 ### Conferences / Monograph
 
 *   [Compression+Computation 2022](https://sites.google.com/view/compression-computation-2022/program) - It bridges the gap of Theoretical Computer Science and Bioinformatics communities, On new data compression techniques, and computation over compressed data.
@@ -207,6 +208,14 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 *   [Vazirani & Kearns. An Introduction to Computational Learning Theory](https://mitpress.mit.edu/books/introduction-computational-learning-theory) - Emphasizing issues of computational efficiency, It introduces a number of central topics in computational learning theory.
 *   [Shalev-Shwartz. Understanding Machine Learning: From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6) - It provides an extensive theoretical account of the fundamental ideas underlying machine learning and the mathematical derivations that transform these principles into practical algorithms.
+
+### Workshops / Monograph
+
+*   [Simons Institute. Foundations of Deep Learning Program](https://simons.berkeley.edu/programs/dl2019) - Aligning and focusing theoretical and applied researchers on the common purpose of building empirically relevant theoretical foundations of deep learning. Specifically, the intention was to identify and make progress on challenges that, on one hand, are key to guiding the real-world use of deep learning and, on the other hand, can be approached using theoretical methodology.
+*   [Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - Identifying a set of core techniques and principles that form a foundation for the subject.
+*   [Foundations of Machine Learning](https://simons.berkeley.edu/programs/machinelearning2017) - Aims to grow the reach and impact of computer science theory within machine learning.
+*   [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
+*   [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288) - Formal methods and machine learning can inform each other from deductive and inductive reasoning perspectives.  This talk aims to facilitate the dialogue between the two communities by establishing some fundamental concepts in learning theory.
 
 ### Blog Posts and Essays / Monograph
 
@@ -264,7 +273,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 *   [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 *   [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 *   [Handbook of Theoretical Computer Science. Volume B: Formal Methods and Semantics](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-2-vol-set) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
-*   [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
 *   [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
 *   [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 
@@ -452,7 +460,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Popular Science Books / Monograph
 
 *   [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
-*   [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
+*   [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and the interpretation of quantum mechanics.
 *   [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality presents a startlingly integrated, rational and optimistic world view – the result of taking seriously the deepest ideas of modern science and the philosophy of science.
 *   [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - The world of computation according to Turing, an interactive tutoring program, as told to star-crossed lovers: a novel.
 *   [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) -  A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine.
@@ -468,6 +476,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 *   [PolyTCS](https://polytcs.wordpress.com/) - A project which promotes massive collaborations to solve theoretical computer science problems.
 *   [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
-*   [Algorithms (⭐14k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Cryptography (⭐4.5k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-*   [Quantum Computing (⭐2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+*   [Algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
+*   [Cryptography (⭐4.8k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Quantum Computing (⭐2.1k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing

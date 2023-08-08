@@ -8,6 +8,10 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
+### AI
+
+*   [emlearn-micropython (⭐1)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+
 ### Sensors / Motion Inertial
 
 *   [MicroPython\_BMI270 (⭐0)](https://github.com/jposada202020/MicroPython_BMI270) - MicroPython Driver for the Bosch BMI270 Accelerometer/Gyro Sensor.

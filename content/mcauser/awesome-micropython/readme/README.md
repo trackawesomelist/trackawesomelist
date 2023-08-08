@@ -67,6 +67,7 @@ Other places you can look for MicroPython Libraries:
 *   [MicroMLP (⭐157)](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
 *   [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network for MicroPython.
 *   [upython-chat-gpt (⭐5)](https://github.com/karlsoderby/upython-chat-gpt) - ChatGPT for MicroPython.
+*   [emlearn-micropython (⭐1)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
 
 ### Audio
 

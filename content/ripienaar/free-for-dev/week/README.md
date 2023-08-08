@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
+
+### IaaS
+
+*   [Spheron](https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w\.r.t AWS).
+
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### CI and CD
@@ -3001,7 +3007,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data and ML
 
 *   [Abstract API](https://www.abstractapi.com) — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.
-*   [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.
 *   [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.
 *   [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
 *   [monkeylearn.com](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month.
@@ -3679,7 +3684,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
 *   [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
 *   [duckdns.org](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-*   [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
 *   [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
 *   [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
 
