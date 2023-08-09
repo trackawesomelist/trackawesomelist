@@ -32,6 +32,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9)
 
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [AI Scams, Spam, Hacking, Are Ruining the Internet](https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8)
+
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository

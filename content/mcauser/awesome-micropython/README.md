@@ -6,11 +6,13 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
-## [Aug 08, 2023](/content/2023/08/08/README.md)
+## [Aug 09, 2023](/content/2023/08/09/README.md)
 
 ### AI
 
 *   [emlearn-micropython (⭐1)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+
+## [Aug 08, 2023](/content/2023/08/08/README.md)
 
 ### Sensors / Motion Inertial
 

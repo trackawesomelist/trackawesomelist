@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Aug 09, 2023](/content/2023/08/09/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [AI Scams, Spam, Hacking, Are Ruining the Internet](https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8)
+
 ## [Aug 07, 2023](/content/2023/08/07/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository

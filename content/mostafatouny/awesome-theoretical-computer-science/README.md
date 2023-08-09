@@ -6,7 +6,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 [ Daily / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
 
-## [Aug 08, 2023](/content/2023/08/08/README.md)
+## [Aug 09, 2023](/content/2023/08/09/README.md)
 
 ### Books
 

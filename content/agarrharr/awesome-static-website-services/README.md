@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-static-website-services/week/README.md) / [Overview](/content/agarrharr/awesome-static-website-services/readme/README.md) ]
 
-## [Aug 08, 2023](/content/2023/08/08/README.md)
+## [Aug 09, 2023](/content/2023/08/09/README.md)
 
 ### Code
 
@@ -142,7 +142,7 @@
 
 ### Search / Provided by the Host
 
-*   [itemsjs (⭐300)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+*   [itemsjs (⭐301)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
 *   [minisearch (⭐3.2k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 *   [flexsearch (⭐10k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
