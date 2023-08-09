@@ -12,7 +12,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch (⭐4.6k)](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lists.
 
 ## More awesome resources
 
@@ -165,6 +165,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ## CMS
 
 *   [Factor](https://factor.dev) - The Javascript CMS (TypeScript supported natively)
+*   [Graphweaver (⭐40)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## Tools
 

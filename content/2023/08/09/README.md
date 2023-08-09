@@ -1,18 +1,52 @@
 # Awesome List Updates on Aug 09, 2023
 
-6 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Tools / Platforms
+
+*   [Mona (⭐76)](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Ax (⭐727)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
+
+## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Captchas
+
+*   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.2k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Gaming Software / System Related Tools
+
+*   [Ryujinx](https://ryujinx.org/) - The Open-source Nintendo Switch Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Ryujinx/Ryujinx)
+
+## [4. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+
+### IDE and Code Editing
+
+*   [GitHub Codespaces](https://www.github.com/codespaces/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click. Free personal plan subscription for as long as you are a student via [Github Student Developer Pack](https://education.github.com/pack).
+
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### CMS / Playground
+
+*   [Graphweaver (⭐40)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+
+## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### AI
 
 *   [emlearn-micropython (⭐1)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Desktop
 
@@ -62,13 +96,13 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
 *   [AI Scams, Spam, Hacking, Are Ruining the Internet](https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8)
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -78,7 +112,7 @@
 
 *   [Spheron](https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w\.r.t AWS).
 
-## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [10. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Code
 
@@ -88,7 +122,7 @@
 
 *   [Cloud 66](https://www.cloud66.com/) - Build and deploy static websites to your own cloud account.
 
-## [6. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Books
 

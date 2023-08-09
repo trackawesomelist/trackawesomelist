@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
+
+### Captchas
+
+*   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.2k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
+
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### Cloud Storage

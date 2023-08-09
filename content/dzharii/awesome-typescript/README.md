@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Aug 09, 2023](/content/2023/08/09/README.md)
+
+### CMS / Playground
+
+*   [Graphweaver (⭐40)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+
 ## [Aug 01, 2023](/content/2023/08/01/README.md)
 
 ### Tools / Playground
