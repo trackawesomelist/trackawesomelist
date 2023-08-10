@@ -2,7 +2,7 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 7.3K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 7.4K · 🏷️ Theory
 
 [ [Daily](/content/rossant/awesome-math/README.md) / [Weekly](/content/rossant/awesome-math/week/README.md) / Overview ]
 
@@ -98,7 +98,7 @@ A curated list of awesome mathematics resources.
 
 ## Learn to Learn
 
-*   [Understanding Mathematics (⭐880)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐915)](https://github.com/nelson-brochado/understanding-math)
 
 ## Youtube Series
 
@@ -164,7 +164,7 @@ A curated list of awesome mathematics resources.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books (⭐293k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐295k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Magazines
@@ -181,7 +181,7 @@ A curated list of awesome mathematics resources.
 *   [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
 *   [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
 *   [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
-*   [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
+*   [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 *   [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
 
 ## Misc
@@ -268,7 +268,7 @@ A curated list of awesome mathematics resources.
 *   [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 *   [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 *   [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
-*   [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
+*   [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
 ### Algebraic Number Theory
 
@@ -320,7 +320,7 @@ A curated list of awesome mathematics resources.
 *   [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 *   [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 *   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐484)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐488)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 *   [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 *   [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 *   [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -609,7 +609,7 @@ A curated list of awesome mathematics resources.
 
 # Related Awesome Lists
 
-*   [Theoretical Computer Science (⭐438)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐452)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 # License
 

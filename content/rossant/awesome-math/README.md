@@ -2,9 +2,15 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 7.3K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 7.4K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
+
+## [Aug 10, 2023](/content/2023/08/10/README.md)
+
+### Number Theory / Surreal Numbers
+
+*   [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
 ## [Jul 21, 2023](/content/2023/07/21/README.md)
 
@@ -84,7 +90,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐438)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐452)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 18, 2022](/content/2022/02/18/README.md)
 
@@ -131,7 +137,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐293k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐295k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 19, 2021](/content/2021/08/19/README.md)
 
@@ -411,7 +417,7 @@ A curated list of awesome mathematics resources
 
 ### Blogs
 
-*   [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
+*   [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 
 ## [Nov 30, 2018](/content/2018/11/30/README.md)
 
@@ -475,10 +481,6 @@ A curated list of awesome mathematics resources
 *   [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - Peter Freyd
 *   [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - P. J. Higgins
 *   [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
-
-### Number Theory / Surreal Numbers
-
-*   [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
 ### Algebra / Abstract Algebra
 
@@ -747,13 +749,13 @@ A curated list of awesome mathematics resources
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐484)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐488)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [Sep 07, 2016](/content/2016/09/07/README.md)
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐880)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐915)](https://github.com/nelson-brochado/understanding-math)
 
 ## [Aug 09, 2016](/content/2016/08/09/README.md)
 

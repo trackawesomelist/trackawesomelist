@@ -6,6 +6,12 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Aug 10, 2023](/content/2023/08/10/README.md)
+
+### API / Samples
+
+*   [Graphweaver (⭐40)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+
 ## [Aug 04, 2023](/content/2023/08/04/README.md)
 
 ### API / Samples
@@ -137,12 +143,6 @@ Everything that makes working with databases easier
 
 *   [Tooljet (⭐20k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
-## [Jun 08, 2022](/content/2022/06/08/README.md)
-
-### GUI
-
-*   [Arctype](https://arctype.com) - The SQL client and database management tool that's fun to use.
-
 ## [Jun 04, 2022](/content/2022/06/04/README.md)
 
 ### GUI
@@ -186,7 +186,7 @@ Everything that makes working with databases easier
 
 ### Application platforms / Samples
 
-*   [Appsmith (⭐28k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
+*   [Appsmith (⭐29k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 
 ### SQL / Über SQL
 
@@ -263,7 +263,7 @@ Everything that makes working with databases easier
 
 ### Schema / Changes
 
-*   [Atlas (⭐3.3k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Atlas (⭐3.4k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 *   [Reshape (⭐1.5k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
 *   [sqldef (⭐1.6k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
@@ -333,7 +333,7 @@ Everything that makes working with databases easier
 
 ### API / Samples
 
-*   [Datasette (⭐8k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐8.1k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 
 ### Application platforms / Samples
 
@@ -461,7 +461,7 @@ Everything that makes working with databases easier
 
 ### Schema / Changes
 
-*   [Bytebase (⭐6.3k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐6.4k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
 ## [Jul 15, 2021](/content/2021/07/15/README.md)
 

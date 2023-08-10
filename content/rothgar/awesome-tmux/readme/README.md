@@ -73,6 +73,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmuxpair (⭐42)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 *   [twm (⭐5)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 *   [vim-tmux-navigator (⭐4.3k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+*   [xpanes (⭐1.8k)](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
 
 ## Themes
 
@@ -155,7 +156,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-1password (⭐235)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 *   [tmux-jump (⭐262)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 *   [tmux-power-zoom (⭐26)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
-*   [tmux-session-wizard (⭐60)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐53k)](https://github.com/junegunn/fzf) & [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐60)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐54k)](https://github.com/junegunn/fzf) & [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide).
 *   [tmux-simple-git-status (⭐23)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 *   [tmux-spotify (⭐87)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 *   [tmux-super-fingers (⭐61)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.

@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ [Daily](/content/rothgar/awesome-tmux/README.md) / Weekly / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
+
+### Tools and session management
+
+*   [xpanes (⭐1.8k)](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
+
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### Tools and session management
@@ -119,7 +125,7 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-session-wizard (⭐60)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐53k)](https://github.com/junegunn/fzf) & [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐60)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐54k)](https://github.com/junegunn/fzf) & [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide).
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 

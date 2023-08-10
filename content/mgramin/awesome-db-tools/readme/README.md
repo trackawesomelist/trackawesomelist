@@ -98,7 +98,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ## GUI
 
 *   [Adminer (⭐5.7k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
-*   [Arctype](https://arctype.com) - The SQL client and database management tool that's fun to use.
 *   [Azure Data Studio (⭐7.2k)](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 *   [Beekeeper Studio (⭐13k)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 *   [DbGate (⭐2.7k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
@@ -158,8 +157,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Changes
 
 *   [2bass (⭐38)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [Atlas (⭐3.3k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
-*   [Bytebase (⭐6.3k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Atlas (⭐3.4k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Bytebase (⭐6.4k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 *   [flyway (⭐7.3k)](https://github.com/flyway/flyway) - Database migration tool.
 *   [gh-ost (⭐11k)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 *   [liquibase (⭐4k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
@@ -214,7 +213,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 Building API for your Data
 
-*   [Datasette (⭐8k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+*   [Datasette (⭐8.1k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 *   [DreamFactory (⭐1.4k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 *   [Hasura GraphQL Engine (⭐30k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
@@ -227,12 +226,13 @@ Building API for your Data
 *   [resquel (⭐113)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 *   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
 *   [VulcanSQL (⭐317)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
+*   [Graphweaver (⭐40)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 
 ## Application platforms
 
 Low-code and no-code platforms for application building
 
-*   [Appsmith (⭐28k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
+*   [Appsmith (⭐29k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 *   [Budibase (⭐19k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
 *   [ILLA Cloud (⭐7k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 *   [Nhost (⭐6.8k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
