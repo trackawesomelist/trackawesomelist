@@ -203,6 +203,7 @@ Thanks to all [contributors (⭐3.4k)](https://github.com/zudochkin/awesome-news
 *   [Embedsys Weekly](https://embedsysweekly.com/). A weekly selection of embedded software and hardware articles.
 *   [Big Tech Digest](https://bigtechdigest.substack.com/). A manually curated newsletter aggregating the latest tech articles from Big Tech and startup engineering blogs for Software Engineers and AI/ML folks.
 *   [Console](https://console.dev/). A free weekly email digest of the best tools for developers.
+*   [Integration Digest](https://wearecommunity.io/collections/DLY4smPzao). A monthly curated newsletter aggregating the latest news in API Management, iPaaS, ESB, integration frameworks, message brokers, etc.
 
 ### ObjectiveC
 
@@ -242,7 +243,7 @@ Thanks to all [contributors (⭐3.4k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐612)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐620)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 

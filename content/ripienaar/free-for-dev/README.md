@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 10, 2023](/content/2023/08/10/README.md)
+
+### Monitoring
+
+*   [sitesure.net](https://sitesure.net) - Website and cron monitoring - 2 monitors free
+
 ## [Aug 09, 2023](/content/2023/08/09/README.md)
 
 ### Tools for Teams and Collaboration
@@ -2033,7 +2039,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data and ML
 
-*   [Public-Apis Github Repo (⭐249k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐252k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
