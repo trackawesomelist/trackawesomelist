@@ -2,7 +2,7 @@
 
 Awesome online talks and screencasts
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 5.8K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 5.9K · 🏷️ Theory
 
 [ [Daily](/content/JanVanRyswyck/awesome-talks/README.md) / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / Overview ]
 
@@ -18,18 +18,18 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 ### Categories
 
-*   [Software Development (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#software-development)
-*   [Object-Oriented Programming (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
-*   [Functional Programming (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
-*   [Software Design (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#software-design)
-*   [Web Development (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#web-development)
-*   [Test-Driven Development (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
-*   [Methodologies (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
-*   [Computer History (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
-*   [Databases (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#databases)
-*   [Security (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#security)
-*   [Cognitive Development (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
-*   [Cryptocurrencies (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
+*   [Software Development (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#software-development)
+*   [Object-Oriented Programming (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
+*   [Functional Programming (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
+*   [Software Design (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#software-design)
+*   [Web Development (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#web-development)
+*   [Test-Driven Development (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
+*   [Methodologies (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
+*   [Computer History (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
+*   [Databases (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#databases)
+*   [Security (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#security)
+*   [Cognitive Development (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
+*   [Cryptocurrencies (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
 
@@ -51,7 +51,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 *   [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** \[23:07]
 *   [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** \[36:35]
 *   [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** \[1:10:14]
-*   [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** \[43:46]
+*   [The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U) by **Mark Rendle** \[1:00:40]
 *   [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** \[36:00]
 *   [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** \[01:02:52]
 *   [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** \[05:11]

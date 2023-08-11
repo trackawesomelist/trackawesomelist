@@ -2,9 +2,15 @@
 
 Awesome online talks and screencasts
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 5.8K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 5.9K · 🏷️ Theory
 
 [ [Daily](/content/JanVanRyswyck/awesome-talks/README.md) / Weekly / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
+
+## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
+
+### Software Development
+
+*   [The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U) by **Mark Rendle** \[1:00:40]
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -388,10 +394,6 @@ Awesome online talks and screencasts
 *   [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) by **Douglas Crockford** \[01:00:52]
 
 ## [Jul 27 - Aug 02, 2015](/content/2015/30/README.md)
-
-### Software Development
-
-*   [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** \[43:46]
 
 ### Web Development
 
