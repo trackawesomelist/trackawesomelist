@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Aug 11, 2023](/content/2023/08/11/README.md)
+
+### Tools / Low-code
+
+*   [Flowise (⭐12k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [TextAI (⭐4.4k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
+
 ## [Aug 09, 2023](/content/2023/08/09/README.md)
 
 ### Tools / Platforms
@@ -27,10 +37,6 @@
 ### Ports to other languages
 
 *   [LangChainJSDotNet (⭐4)](https://github.com/iassafc/LangChainJSDotNet): Use the official LangChain.js library in .NET ![GitHub Repo stars](https://img.shields.io/github/stars/iassafc/LangChainJSDotNet?style=social)
-
-### Tools / Low-code
-
-*   [Flowise  (⭐12k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 
 ### Open Source Projects / Knowledge Management
 

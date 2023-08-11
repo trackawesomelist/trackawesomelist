@@ -8,6 +8,10 @@
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
+### Tools / Low-code
+
+*   [Flowise (⭐12k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
+
 ### Tools / Platforms
 
 *   [Mona (⭐76)](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
@@ -15,16 +19,13 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Ax (⭐727)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
+*   [TextAI (⭐4.4k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### Ports to other languages
 
 *   [LangChainJSDotNet (⭐4)](https://github.com/iassafc/LangChainJSDotNet): Use the official LangChain.js library in .NET ![GitHub Repo stars](https://img.shields.io/github/stars/iassafc/LangChainJSDotNet?style=social)
-
-### Tools / Low-code
-
-*   [Flowise  (⭐12k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 
 ### Open Source Projects / Knowledge Management
 
