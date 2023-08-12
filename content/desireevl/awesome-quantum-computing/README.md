@@ -2,15 +2,30 @@
 
 A curated list of awesome quantum computing learning and developing resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/desireevl/awesome-quantum-computing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) · ⭐ 1.9K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/desireevl/awesome-quantum-computing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) · ⭐ 2.1K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/desireevl/awesome-quantum-computing/week/README.md) / [Overview](/content/desireevl/awesome-quantum-computing/readme/README.md) ]
+
+## [Aug 12, 2023](/content/2023/08/12/README.md)
+
+### Learning
+
+*   [Black Opal](https://q-ctrl.com/black-opal) - An interactive platform for learning the fundamentals of quantum computing.
+
+### Development Tools
+
+*   [Boulder Opal](https://q-ctrl.com/boulder-opal) - Python toolset for automating and optimizing quantum hardware performance.
+*   [Fire Opal](https://q-ctrl.com/fire-opal) - Python package for improving the quality of quantum algorithm results.
+
+### Videos
+
+*   [Ph/CS 219A at Caltech: Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) - Lectures for the first term of a course on quantum computation taught at Caltech in Fall 2020, by John Preskill.
 
 ## [Jul 25, 2022](/content/2022/07/25/README.md)
 
 ### Content in Non-English Languages
 
-*   [Quantum Computing in Portuguese (⭐47)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+*   [Quantum Computing in Portuguese (⭐65)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
 
 ## [Jul 16, 2022](/content/2022/07/16/README.md)
 
@@ -22,7 +37,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Covalent (⭐179)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
+*   [Covalent (⭐503)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 
 ## [Jan 16, 2022](/content/2022/01/16/README.md)
 
@@ -203,7 +218,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Paddle Quantum (⭐405)](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
+*   [Paddle Quantum (⭐478)](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
 
 ## [May 22, 2020](/content/2020/05/22/README.md)
 
@@ -215,13 +230,13 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Tequila (⭐267)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+*   [Tequila (⭐320)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
 ## [May 02, 2020](/content/2020/05/02/README.md)
 
 ### Development Tools
 
-*   [Blueqat (⭐355)](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
+*   [Blueqat (⭐359)](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
 
 ## [Apr 22, 2020](/content/2020/04/22/README.md)
 
@@ -260,7 +275,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [PennyLane (⭐1.6k)](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
+*   [PennyLane (⭐1.9k)](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 
 ## [Mar 04, 2020](/content/2020/03/04/README.md)
 
@@ -294,7 +309,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 *   [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) - Youtube channel focusing on quantum computing topics and general technology.
 *   [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
-*   [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/\~odonnell/quantum18/).
+*   [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - A series of lectures on quantum computing by [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
 
 ## [Dec 09, 2019](/content/2019/12/09/README.md)
 
@@ -344,7 +359,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Quantum++ (⭐390)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
+*   [Quantum++ (⭐445)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
 
 ## [Jul 20, 2019](/content/2019/07/20/README.md)
 
@@ -356,7 +371,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 *   [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
 *   [pyQuil (⭐1.3k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
-*   [Qiskit.js (⭐106)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
+*   [Qiskit.js (⭐110)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 
 ## [Jun 14, 2019](/content/2019/06/14/README.md)
 
@@ -394,8 +409,8 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [NISQAI (⭐35)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
-*   [Qurry (⭐22)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
+*   [NISQAI (⭐36)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
+*   [Qurry (⭐23)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 
 ## [Apr 28, 2019](/content/2019/04/28/README.md)
 
@@ -417,7 +432,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Learning
 
-*   [Qiskit Tutorials (⭐2k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
+*   [Qiskit Tutorials (⭐2.2k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
 
 ### Community
 
@@ -500,7 +515,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Learning
 
-*   [Quantum Katas (⭐4k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
+*   [Quantum Katas (⭐4.3k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 
 ## [Jul 28, 2018](/content/2018/07/28/README.md)
 
@@ -522,7 +537,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Cirq (⭐3.6k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+*   [Cirq (⭐3.9k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 *   [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
 
 ## [Jun 06, 2018](/content/2018/06/06/README.md)
@@ -535,7 +550,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Learning
 
-*   [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/\~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
+*   [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 
 ### Blogs
 
@@ -552,7 +567,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [Quipper](https://www.mathstat.dal.ca/\~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
+*   [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 
 ## [Jan 30, 2018](/content/2018/01/30/README.md)
 
@@ -568,7 +583,7 @@ A curated list of awesome quantum computing learning and developing resources.
 
 ### Development Tools
 
-*   [QCL](http://tph.tuwien.ac.at/\~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
+*   [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 
 ## [Jan 27, 2018](/content/2018/01/27/README.md)
 
