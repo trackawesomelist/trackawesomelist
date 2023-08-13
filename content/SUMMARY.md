@@ -2016,6 +2016,7 @@
 - [Days](daily/README.md)
   - [2023](2023/month/README.md)
     - [8](2023/8/day/README.md)
+      - [Aug 13, 2023](2023/08/13/README.md)
       - [Aug 12, 2023](2023/08/12/README.md)
       - [Aug 11, 2023](2023/08/11/README.md)
       - [Aug 10, 2023](2023/08/10/README.md)

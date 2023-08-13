@@ -1,18 +1,24 @@
 # Awesome List Updates on Aug 07 - Aug 13, 2023
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [1. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+
+### Softwares / Launchers
+
+*   [Prism](https://prismlauncher.org) - A fork of MultiMC, capable of downloading modpacks and other resources directly from CurseForge and FTB.
+
+## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Networking
 
 *   [event (⭐144)](https://github.com/cheng-zhongliang/event) - Simple I/O event notification library wirtten in Golang.
 
-## [2. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Icons / Icons Packages and Collections
 
@@ -25,13 +31,13 @@
 
 *   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 
-## [3. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [4. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### API
 
 *   [Steambase](https://github.com/Steambase) - Steam data tools and insights. [Website](https://steambase.io/).
 
-## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -46,15 +52,7 @@
 
 *   [Ph/CS 219A at Caltech: Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) - Lectures for the first term of a course on quantum computation taught at Caltech in Fall 2020, by John Preskill.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Projects
 
@@ -78,7 +76,7 @@
 
 ### Kotlin JavaScript / Build Tools
 
-*   [Kotlin/kotlin-frontend-plugin (⭐568)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+*   [Kotlin/kotlin-frontend-plugin (⭐566)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
 
 ### Kotlin JavaScript / Integration
 
@@ -88,13 +86,13 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Scraping
 
 *   [SearchApi](https://www.searchapi.io/) - Real-time Google SERP API.
 
-## [7. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [8. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Articles / Other external resources
 
@@ -104,19 +102,19 @@
     -[Email Subscription Workflow - Ruby on Rails](https://dev.to/justalever/email-subscription-workflow-ruby-on-rails-406n)
     -[Mastering Low Level Caching in Rails](https://dev.to/honeybadger/mastering-low-level-caching-in-rails-15ce)
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Games
 
 *   [ECSx](https://hexdocs.pm/ecsx/initial_setup.html) - An Entity-Component-System framework providing a battle ship game as a tutorial ([read more on Dockyard blog](https://dockyard.com/blog/2023/07/06/ecsx-a-new-approach-to-game-development-in-elixir)).
 
-## [9. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
 *   [The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U) by **Mark Rendle** \[1:00:40]
 
-## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2023
 
@@ -127,7 +125,7 @@
 
 *   [When the Umpire is also a Player: Bias in Private Label Product Recommendations on E-commerce Marketplaces](https://arxiv.org/pdf/2102.00141.pdf) - (FAccT) *Do Amazon private label products get an unfair share of recommendations and are therefore advantaged compared to 3rd party products?*
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -166,37 +164,37 @@
 
 *   [neo4j-labs/graph (⭐294)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
 
-## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [Importality (⭐39)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others (Godot 4.x).
 
-## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
 *   [Integration Digest](https://wearecommunity.io/collections/DLY4smPzao). A monthly curated newsletter aggregating the latest news in API Management, iPaaS, ESB, integration frameworks, message brokers, etc.
 
-## [14. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [15. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Number Theory / Surreal Numbers
 
 *   [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
-## [15. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [16. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [xpanes (⭐1.8k)](https://github.com/greymd/tmux-xpanes) Awesome tmux-based terminal divider
 
-## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [17. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### API / Samples
 
 *   [Graphweaver (⭐40)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 
-## [17. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [18. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Low-code
 
@@ -212,25 +210,25 @@
 *   [TextAI (⭐4.4k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 *   [AgentFlow (⭐172)](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
 
-## [18. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [19. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Captchas
 
 *   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.2k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Gaming Software / System Related Tools
 
 *   [Ryujinx](https://ryujinx.org/) - The Open-source Nintendo Switch Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Ryujinx/Ryujinx)
 
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [21. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
 *   [GitHub Codespaces](https://www.github.com/codespaces/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click. Free personal plan subscription for as long as you are a student via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -244,7 +242,7 @@
 
 *   [Spheron](https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w\.r.t AWS).
 
-## [22. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [23. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Code
 
@@ -254,7 +252,7 @@
 
 *   [Cloud 66](https://www.cloud66.com/) - Build and deploy static websites to your own cloud account.
 
-## [23. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [24. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Books
 
@@ -264,7 +262,7 @@
 
 *   [Simons Institute. Information Theory Program](https://simons.berkeley.edu/programs/inftheory2015) - It aims to strengthen the ties between computation and communication communities. It explores (1) information theoretic techniques in complexity theory and combinatorics, (2) Coding theory and applications, and (3) information theory, machine learning, and big data.
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
@@ -275,7 +273,7 @@
 
 *   [Graaf (⭐7)](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. \[MIT] [website](https://bobluppes.github.io/graaf/)
 
-## [25. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [26. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### AI
 
@@ -289,19 +287,19 @@
 
 *   [MicroPython\_PCT2075 (⭐0)](https://github.com/jposada202020/MicroPython_PCT2075) - MicroPython Driver for the NXP Semiconductors PCT2075 Temperature Sensor.
 
-## [26. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [27. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
 
-## [27. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
+## [28. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
 
 ### Third-party packages / Package discovery
 
 *   [GitHub.com search for WP-CLI integrations](https://github.com/search?q=WP_CLI%3A%3Aadd_command%28+NOT+Akismet_CLI+NOT+elementor+NOT+WordCamp_CLI_Miscellaneous+NOT+W3TotalCache_Command+path%3A*.php+language%3APHP+-org%3Awp-cli+-path%3Avendor+-path%3Awp-content+-path%3Apublic+-path%3Adeployer+-path%3Aweb+-path%3Asrc%2Fvendor+-path%3Aapp+-path%3Awordpress+-path%3Aentity-command.php+-path%3Aclass-wc-cli.php+-path%3Awp-cli-bp.php+NOT+is%3Afork+-path%3Aextension-command.php+-path%3Acron-command.php+-path%3Awp-seo-main.php+-path%3Aplugins+-path%3Adata+-path%3Abackup+-path%3Ademo+-path%3Awordcamp.org+-path%3Awordpress.org+-path%3Alanguage-command.php+-path%3Aredirection-cli.php+-path%3Athemes+-path%3Alibrary+-path%3Aeval-command+-path%3Arole-command+-path%3Awidget-command+-path%3Acache-command.php+-path%3Awp-app+-path%3Apublic_html+-path%3Aqueue.php+-path%3AmyWeb+-path%3Adocroot+-path%3Awebsite\&type=code) - Heavily pre-filtered search for repositories that use `WP_CLI::add_command()`.
 
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -311,20 +309,20 @@
 
 *   [Loggit](https://loggit.net) - End-to-end encrypted and simple life tracking & logging. ([Demo](https://app.loggit.net), [Source Code (⭐6)](https://github.com/BrunoBernardino/loggit-web)) `AGPL-3.0` `Deno`
 
-## [29. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [30. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Examples / Showcases / Personal
 
 *   [Agency OS (⭐36)](https://github.com/directus-community/agency-os) - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
 *   [Nextus (⭐9)](https://github.com/luochuanyuewu/nextus) - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
 
-## [30. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [31. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Forms
 
 *   [Wagtail Formation (⭐0)](https://github.com/mwesterhof/wagtail_formation) - Fully dynamic and easy to use CMS-able forms for wagtail
 
-## [31. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Games
 
@@ -334,7 +332,7 @@
 
 *   [shy (⭐9)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
 
-## [32. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -368,13 +366,13 @@
 
 *   [AI Scams, Spam, Hacking, Are Ruining the Internet](https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8)
 
-## [33. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [34. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Learning
 
 *   🎬 [10 Tailwind CSS Tips and Tricks](https://www.youtube.com/watch?v=aSlK3GhRuXA) - 10 Tailwind CSS tricks you should know.
 
-## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -387,7 +385,7 @@
 *   [lildragon (⭐0)](https://github.com/skippyr/lildragon) - Dragon-themed. Includes decorators for `git` status, current directory & username. Requires a font with emoji glyphs.
 *   [xbira (⭐0)](https://github.com/ITAxReal/xbira) - Based on [bira (⭐161k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes decorators for `git` status, user\@hostname, exit status of last command run and the current directory.
 
-## [35. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [36. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Code Analysis
 

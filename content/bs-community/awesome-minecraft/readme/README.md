@@ -2,7 +2,7 @@
 
 📝 The curated list of awesome things related to Minecraft.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bs-community/awesome-minecraft/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) · ⭐ 332 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bs-community/awesome-minecraft/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) · ⭐ 342 · 🏷️ Gaming
 
 [ [Daily](/content/bs-community/awesome-minecraft/README.md) / [Weekly](/content/bs-community/awesome-minecraft/week/README.md) / Overview ]
 
@@ -77,12 +77,12 @@
 
 ## Mod Loaders
 
-*   [Minecraft Forge (⭐6.2k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+*   [Minecraft Forge (⭐6.3k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 *   [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
 *   [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
 *   [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 *   [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - A Mod Loader for 1.13-1.13.2 (even Snapshots).
-*   [Meddle (⭐27)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
+*   [Meddle (⭐28)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 *   [RopeMC (⭐8)](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
 ## Mods
@@ -91,13 +91,13 @@
 
 *   [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 *   [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
-*   [Sodium (for Fabric) (⭐4.1k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+*   [Sodium (for Fabric) (⭐4.2k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 *   [Iris (for Fabric)](https://irisshaders.net/) - A Fabric mod which is based upon Sodium to add Shader support.
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
 ### Skins And Capes
 
-*   [Custom Skin Loader (⭐429)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐443)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 *   [Universal Skin Mod (⭐28)](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
 
 ### Maps
@@ -117,9 +117,9 @@
 *   [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) - Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.
 *   [Botania (⭐1.2k)](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic.
 *   [Thermal Foundation + Dynamics + Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) - A server-friendly and content-rich blend of magic and technology! Title is three different mod names, but of the same series and usually played together.
-*   [Railcraft (⭐497)](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
+*   [Railcraft (⭐498)](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
 *   [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions) - Actually Additions is a technology mod that adds various utilities like multitools, item magnets, atomic reconstructors and so on.
-*   [Applied Energistics 2 (⭐1.2k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.
+*   [Applied Energistics 2 (⭐1.3k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.
 *   [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) - One of the best tech mod there is, but really overpowered in the late game. Adds things like a Draconic Power Core which no one has been able to fill yet...
 *   [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - A large ender themed mod, that just adds lots of new fun things.
 *   [Galacticraft](https://micdoodle8.com/mods/galacticraft) - A mod that adds rockets and new planets to explore. Expandable with addons.
@@ -139,7 +139,7 @@
 *   [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 *   [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) - Adds nuclear reactors with the fictional fuel 'yellorium'. A carry on of the original Big Reactors.
 *   [Zetta Industries](https://www.curseforge.com/minecraft/mc-mods/zetta-industries) - A mod which adds the main multiblock of a big battery.
-*   [Applied Energistics 2 (⭐1.2k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
+*   [Applied Energistics 2 (⭐1.3k)](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 
 ### Magic
 
@@ -182,10 +182,10 @@
 ## Server Plugins
 
 *   [AntiCheatReloaded (⭐101)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
-*   [ViaVersion (⭐997)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+*   [ViaVersion (⭐1k)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 *   [AdvancedKitsReloaded (⭐10)](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.
-*   [WorldGuard (⭐746)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
-*   [CraftBook (⭐288)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
+*   [WorldGuard (⭐760)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
+*   [CraftBook (⭐292)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 *   [Connect](https://connect.minekube.com/) - Open shared Minecraft network for advertising public and local host servers.
 
 ## Resource Packs
@@ -209,7 +209,7 @@
 
 ## Web Applications
 
-*   [Blessing Skin Server (⭐671)](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+*   [Blessing Skin Server (⭐688)](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 *   [yoshino (⭐9)](https://github.com/idawnlight/yoshino) - A lite & fast Minecraft skin server, written in php. ([Live Demo](https://skin.lim-light.com/))
 *   [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
@@ -219,11 +219,11 @@
 
 *   [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
 *   [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
-*   [Docker-Minecraft (⭐6.8k)](https://github.com/itzg/docker-minecraft-server) - A self-hosted Minecraft server using Docker containers.
+*   [Docker-Minecraft (⭐7k)](https://github.com/itzg/docker-minecraft-server) - A self-hosted Minecraft server using Docker containers.
 *   [Glowstone](https://glowstone.net/) - Formerly known as Spout and BukkitContrib. Spigot Server alternative written from scratch with performance similar to Paper.
 *   [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
-*   [Legendary-Java-Minecraft-Geyser-Floodgate (⭐58)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) - PaperMC server with out of the box Geyser and Floodgate support using docker.
-*   [minecraft-docker (⭐1)](https://github.com/tywil04/minecraft-docker) - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate (⭐58)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) that embeds a discord bot for easy starting and stopping of the server.
+*   [Legendary-Java-Minecraft-Geyser-Floodgate (⭐63)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) - PaperMC server with out of the box Geyser and Floodgate support using docker.
+*   [minecraft-docker (⭐1)](https://github.com/tywil04/minecraft-docker) - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate (⭐63)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) that embeds a discord bot for easy starting and stopping of the server.
 *   [Minestom](https://minestom.net/) - Lightweight from-scratch server implementation.
 *   [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
 *   [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
@@ -232,14 +232,14 @@
 *   [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
 *   [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.
 *   [Thermos](https://cyberdynecc.github.io/Thermos/install) - A server implementing the Forge and Bukkit API for 1.7.10.
-*   [Gate (⭐331)](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Go.
+*   [Gate (⭐360)](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Go.
 
 ### Libraries
 
-*   [CraftLib (⭐70)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
-*   [MCProtocolLib (⭐653)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
+*   [CraftLib (⭐76)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
+*   [MCProtocolLib (⭐661)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
 *   [node-minecraft-protocol (⭐1.1k)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
-*   [go-mcproto (⭐33)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
+*   [go-mcproto (⭐36)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
 
 ### Utilities
 
@@ -249,8 +249,9 @@
 
 ### Launchers
 
-*   [MultiMC (⭐3.9k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-*   [HMCL (⭐5.3k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+*   [MultiMC (⭐4k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+*   [Prism](https://prismlauncher.org) - A fork of MultiMC, capable of downloading modpacks and other resources directly from CurseForge and FTB.
+*   [HMCL (⭐5.5k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## Development
 
@@ -258,7 +259,7 @@
 *   [SchematicWebViewer (⭐47)](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
 *   [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
 *   [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
-*   [BON 2 (⭐175)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
+*   [BON 2 (⭐178)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
 *   [Bearded Octo Nemesis (⭐130)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
 ## License
