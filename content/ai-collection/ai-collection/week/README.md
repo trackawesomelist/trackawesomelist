@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
+
+### Chat Bot
+
+- Name: [LLM App (⭐158)](https://github.com/pathwaycom/llm-app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Python library to build your AI chatbot.
+
+  Description: Build an AI chatbot that answers questions using your own private data in real-time. Simply add llm-app to your Python project's dependencies to get started for free.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### Code & Database Assistant
