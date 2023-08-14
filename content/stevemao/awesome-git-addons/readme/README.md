@@ -2,7 +2,7 @@
 
 :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stevemao/awesome-git-addons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) · ⭐ 1.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stevemao/awesome-git-addons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) · ⭐ 1.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/stevemao/awesome-git-addons/README.md) / [Weekly](/content/stevemao/awesome-git-addons/week/README.md) / Overview ]
 
@@ -17,7 +17,7 @@ A curated list of add-ons that extend/enhance the git CLI.
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) list thing.
 
 **Note**: Some of the commands may not work out of the box. You might need to run a post install script to add aliases or add them manually.
 
@@ -73,6 +73,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
 *   [git-jump](#git-jump)
 *   [git-project](#git-project)
 *   [git-branchcut](#git-branchcut)
+*   [git-spend](#git-spend)
 
 ## [git-extras (⭐16k)](https://github.com/tj/git-extras)
 
@@ -439,7 +440,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
     $ git psykorebase --continue
     $ git psykorebase master feature
 
-## [gitflow (AVH Edition) (⭐5.2k)](https://github.com/petervanderdoes/gitflow-avh)
+## [gitflow (AVH Edition) (⭐5.4k)](https://github.com/petervanderdoes/gitflow-avh)
 
 ### flow init
 
@@ -492,7 +493,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
     master    fast-forwarding...
     returning to 4.0
 
-## [hub (⭐22k)](https://github.com/github/hub)
+## [hub (⭐23k)](https://github.com/github/hub)
 
 ### clone
 
@@ -631,7 +632,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
 
 ![68747470733a2f2f7261772e6769746875622e636f6d2f6b34727468696b2f6769742d63616c2f6d61737465722f73637265656e73686f74732f696d67322e706e67](https://cloud.githubusercontent.com/assets/6316590/12465623/17d828ea-c023-11e5-8077-2e9a284defd6.png)
 
-## [git-hooks (⭐386)](https://github.com/git-hooks/git-hooks)
+## [git-hooks (⭐398)](https://github.com/git-hooks/git-hooks)
 
     $ git hooks --install
     $ git hooks
@@ -647,7 +648,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
 
     /GitHub/git-hooks/.githooks:
 
-## [git-imerge (⭐2.5k)](https://github.com/mhagger/git-imerge)
+## [git-imerge (⭐2.6k)](https://github.com/mhagger/git-imerge)
 
 ### imerge start
 
@@ -746,7 +747,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
     $ git imerge reparent
     67ebc0e6517ac791de6699453b71d2c7fd81ffcd
 
-## [git-issue (⭐687)](https://github.com/dspinellis/git-issue)
+## [git-issue (⭐709)](https://github.com/dspinellis/git-issue)
 
 ### Initialize issue repository
 
@@ -913,7 +914,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
     7dfa5b7 - An issue entered from the editor
     e6a95c9 - New issue entered from the command line
 
-## [git-lfs (⭐11k)](https://github.com/github/git-lfs)
+## [git-lfs (⭐12k)](https://github.com/github/git-lfs)
 
     $ git lfs track "*.mp3"
     Tracking *.mp3
@@ -933,7 +934,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
     Listing tracked paths
         *.mp3 (.gitattributes)
 
-## [git-now (⭐146)](https://github.com/iwata/git-now)
+## [git-now (⭐164)](https://github.com/iwata/git-now)
 
     $ git now
     [master 1bd9ce8] [from now] 2015/08/27 10:39:10
@@ -959,7 +960,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
            "repository": "gulpjs/gulp",
            "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
 
-## [git-plus (⭐169)](https://github.com/tkrajina/git-plus)
+## [git-plus (⭐180)](https://github.com/tkrajina/git-plus)
 
 ### multi
 
@@ -992,7 +993,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
           3.64 days: master
          11.63 days: dev
 
-## [git-test (⭐190)](https://github.com/spotify/git-test)
+## [git-test (⭐200)](https://github.com/spotify/git-test)
 
     $ git test -v
     4.0 ^origin/4.0 ^origin/master will test        2 commits
@@ -1055,26 +1056,26 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
     $ git unpublish master
     Unpublishing master.
 
-## [git-when-merged (⭐389)](https://github.com/mhagger/git-when-merged)
+## [git-when-merged (⭐408)](https://github.com/mhagger/git-when-merged)
 
     $ git when-merged a2c9e695ecf3600f21fa731e705fd1a0503632d9
     refs/heads/master                      5a2ec1b1a6633f830bd4a2b1daab578c062e6975
     $ git when-merged HEAD
     refs/heads/master                      Commit is directly on this branch.
 
-## [git-playback (⭐121)](https://github.com/jianli/git-playback)
+## [git-playback (⭐126)](https://github.com/jianli/git-playback)
 
     $ git playback README.md
 
 ![](https://camo.githubusercontent.com/9abe1d2de474dbc0d1ad4f48acf9e954ff0d0b30/68747470733a2f2f7261772e6769746875622e636f6d2f6a69616e6c692f6769742d706c61796261636b2f6d61737465722f616e696d6174696f6e2e676966)
 
-## [git-branch-status (⭐27)](https://github.com/alexdavid/git-branch-status)
+## [git-branch-status (⭐29)](https://github.com/alexdavid/git-branch-status)
 
     $ git branch-status
      4.0       [57 ahead and 38 behind master]    [up to date with origin/4.0]
      master    [current branch]                   [1 ahead of origin/master]
 
-## [git-open (⭐3k)](https://github.com/paulirish/git-open)
+## [git-open (⭐3.2k)](https://github.com/paulirish/git-open)
 
     $ git open
     > open https://github.com/REMOTE_ORIGIN_USER/CURRENT_REPO/tree/CURRENT_BRANCH
@@ -1085,7 +1086,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
     $ git open upstream master
     > open https://github.com/REMOTE_UPSTREAM_USER/CURRENT_REPO/tree/master
 
-## [git-my (⭐31)](https://github.com/davidosomething/git-my)
+## [git-my (⭐32)](https://github.com/davidosomething/git-my)
 
     $ git my
 
@@ -1100,7 +1101,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
       ......................... defunct-ios-app-nag
       .....[local]............. factor-bundles
 
-## [git-ink (⭐14)](https://github.com/davidosomething/git-ink)
+## [git-ink (⭐17)](https://github.com/davidosomething/git-ink)
 
     $ git ink
 
@@ -1120,7 +1121,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
     • sass-lint ............................................. 2015-10-14
         - module does not work
 
-## [recursive-blame (⭐65)](https://github.com/scottgonzalez/recursive-blame)
+## [recursive-blame (⭐66)](https://github.com/scottgonzalez/recursive-blame)
 
     $ git recursive-blame version package.json
 
@@ -1180,7 +1181,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
 
 ![git word-blame on this README](https://user-images.githubusercontent.com/1469823/57202569-0247eb00-6fa7-11e9-8549-f55d81299fab.png)
 
-## [git-fire (⭐4.1k)](https://github.com/qw3rtman/git-fire)
+## [git-fire (⭐4.2k)](https://github.com/qw3rtman/git-fire)
 
     $ git fire
     Switched to a new branch 'fire-master-maochenyan@gmail.com-1451379915'
@@ -1196,26 +1197,26 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
 
     Leave building!
 
-## [git-town (⭐2.1k)](https://github.com/Originate/git-town)
+## [git-town (⭐2.2k)](https://github.com/Originate/git-town)
 
 TBD - PR Welcome!
 
-## [git-blame-someone-else (⭐9.4k)](https://github.com/jayphelps/git-blame-someone-else)
+## [git-blame-someone-else (⭐10k)](https://github.com/jayphelps/git-blame-someone-else)
 
     $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
     Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 
-## [diff-so-fancy (⭐16k)](https://github.com/so-fancy/diff-so-fancy)
+## [diff-so-fancy (⭐17k)](https://github.com/so-fancy/diff-so-fancy)
 
     $ git dsf
 
 ![diff-highlight vs diff-so-fancy](https://user-images.githubusercontent.com/3429760/32387617-44c873da-c082-11e7-829c-6160b853adcb.png)
 
-## [git-stats (⭐6k)](https://github.com/IonicaBizau/git-stats)
+## [git-stats (⭐6.2k)](https://github.com/IonicaBizau/git-stats)
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret (⭐3k)](https://github.com/sobolevn/git-secret)
+## [git-secret (⭐3.3k)](https://github.com/sobolevn/git-secret)
 
 ### git secret init
 
@@ -1261,7 +1262,7 @@ TBD - PR Welcome!
 
 TBD - PR Welcome!
 
-## [git-fixup (⭐208)](https://github.com/keis/git-fixup)
+## [git-fixup (⭐220)](https://github.com/keis/git-fixup)
 
     $ git diff --cached -U0
     diff --git a/README.md b/README.md
@@ -1275,19 +1276,19 @@ TBD - PR Welcome!
     24aa3d9c10cc02fe813dc83d1ac792cc2e7d705d [F] add screenshot of git-stats <maochenyan@gmail.com>
     6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
 
-## [git-recent (⭐900)](https://github.com/paulirish/git-recent)
+## [git-recent (⭐915)](https://github.com/paulirish/git-recent)
 
     $ git recent
 
 ![git-recent screenshot](https://cloud.githubusercontent.com/assets/39191/17446638/039d4cee-5aff-11e6-9e11-4294f0020513.png)
 
-## [git-interactive-rebase-tool (⭐1.2k)](https://github.com/MitMaro/git-interactive-rebase-tool)
+## [git-interactive-rebase-tool (⭐1.3k)](https://github.com/MitMaro/git-interactive-rebase-tool)
 
     $ git rebase -i master
 
 ![git-interactive-rebase-tool screenshot](https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/git-interactive-rebase-demo.gif)
 
-## [git-fiddle (⭐207)](https://github.com/felixSchl/git-fiddle)
+## [git-fiddle (⭐204)](https://github.com/felixSchl/git-fiddle)
 
     $ git fiddle -h
     git-fiddle
@@ -1308,7 +1309,7 @@ TBD - PR Welcome!
                              `git config fiddle.messages`.
       [args...]              These arguments are passed verbatim to git-rebase.
 
-## [git-user (⭐37)](https://github.com/gesquive/git-user)
+## [git-user (⭐43)](https://github.com/gesquive/git-user)
 
     # add a work profile for Henry
     $ git user add work "Dr. Henry Jekyll" henry@jekyll.com
@@ -1341,11 +1342,11 @@ TBD - PR Welcome!
       home: Edward Hyde <hyde@night.com>
       work: Dr. Henry Jekyll <henry@jekyll.com>
 
-## [gitsome (⭐7.3k)](https://github.com/donnemartin/gitsome)
+## [gitsome (⭐7.4k)](https://github.com/donnemartin/gitsome)
 
 TBD - PR Welcome!
 
-## [git-hound (⭐297)](https://github.com/ezekg/git-hound)
+## [git-hound (⭐301)](https://github.com/ezekg/git-hound)
 
 TBD - PR Welcome!
 
@@ -1366,7 +1367,7 @@ TBD - PR Welcome!
     $ git recall -f
     # Fetch commits beforehand.
 
-## [git-standup (⭐7.2k)](https://github.com/kamranahmedse/git-standup)
+## [git-standup (⭐7.4k)](https://github.com/kamranahmedse/git-standup)
 
     $ git standup
     2f50b39c - docs(commit messages): use commitizen to generate Conventional Commits (12 hours ago) <Steve Mao>
@@ -1379,7 +1380,7 @@ TBD - PR Welcome!
     a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
     6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 
-## [commitizen (⭐14k)](https://github.com/commitizen/cz-cli)
+## [commitizen (⭐16k)](https://github.com/commitizen/cz-cli)
 
     $ git cz
     cz-cli@2.9.6, cz-conventional-changelog@1.2.0
@@ -1397,7 +1398,7 @@ TBD - PR Welcome!
       perf:     A code change that improves performance
       test:     Adding missing tests or correcting existing tests
 
-## [git-fresh (⭐492)](https://github.com/imsky/git-fresh)
+## [git-fresh (⭐498)](https://github.com/imsky/git-fresh)
 
 TBD - PR Welcome!
 
@@ -1499,7 +1500,7 @@ TBD - PR Welcome!
     =======================================================================================================================
     01234567890ABCDEF | VALIDSIG   | ULTIMATE  | Sat Nov 10 13:16:10 EST 2018 | Steve Mao <maochenyan@gmail.com>
 
-## [git-profile (⭐7)](https://github.com/dm3ch/git-profile-manager)
+## [git-profile (⭐9)](https://github.com/dm3ch/git-profile-manager)
 
 ### add a work profile
 
@@ -1527,15 +1528,15 @@ TBD - PR Welcome!
 
 Currently there will be no output in case of success
 
-## [git-revise (⭐633)](https://github.com/mystor/git-revise)
+## [git-revise (⭐678)](https://github.com/mystor/git-revise)
 
 TBD - PR Welcome!
 
-## [filter-repo (⭐4.6k)](https://github.com/newren/git-filter-repo)
+## [filter-repo (⭐6.1k)](https://github.com/newren/git-filter-repo)
 
 TBD - PR Welcome!
 
-## [git-jump (⭐163)](https://github.com/mykolaharmash/git-jump)
+## [git-jump (⭐182)](https://github.com/mykolaharmash/git-jump)
 
 Interactive UI and fuzzy-search for Git branches.
 
@@ -1577,7 +1578,7 @@ Interactive UI and fuzzy-search for Git branches.
       3|  ⭐  milk
       4|  ✅  love
 
-## [git-branchcut (⭐5)](https://github.com/dlsrb6342/git-branchcut)
+## [git-branchcut (⭐6)](https://github.com/dlsrb6342/git-branchcut)
 
 ### Delete branches with string pattern
 
@@ -1592,6 +1593,18 @@ Interactive UI and fuzzy-search for Git branches.
     Switched to branch 'main'
     Deleted branch bugfix/test (was e2afad6).
     Deleted branch too-old-branch (was 1d3f82d).
+
+## [git-spend (⭐7)](https://github.com/Goutte/git-spend)
+
+Collect and sum the `/spend <duration>` directives found in commit messages.
+
+    $ git spend sum
+    3 weeks 2 days 1 hour 37 minutes
+
+### Filter by author, range, and more
+
+    $ git spend sum --author stevemao --author antoine@goutenoir.com --since tags/v1.0.0
+    1 week 3 hours
 
 ## License
 

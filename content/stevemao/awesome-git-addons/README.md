@@ -2,9 +2,25 @@
 
 :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevemao/awesome-git-addons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) · ⭐ 1.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevemao/awesome-git-addons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) · ⭐ 1.8K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/stevemao/awesome-git-addons/week/README.md) / [Overview](/content/stevemao/awesome-git-addons/readme/README.md) ]
+
+## [Aug 14, 2023](/content/2023/08/14/README.md)
+
+### [git-spend](https://github.com/Goutte/git-spend)
+
+### Delete branches with day-offset
+
+    $ git branchcut execute -o 7
+    Switched to branch 'main'
+    Deleted branch bugfix/test (was e2afad6).
+    Deleted branch too-old-branch (was 1d3f82d).
+
+Collect and sum the `/spend <duration>` directives found in commit messages.
+
+    $ git spend sum
+    3 weeks 2 days 1 hour 37 minutes
 
 ## [Oct 02, 2021](/content/2021/10/02/README.md)
 
@@ -1415,12 +1431,10 @@ TBD - PR Welcome!
 
 ### License
 
-### Delete branches with day-offset
+### Filter by author, range, and more
 
-    $ git branchcut execute -o 7
-    Switched to branch 'main'
-    Deleted branch bugfix/test (was e2afad6).
-    Deleted branch too-old-branch (was 1d3f82d).
+    $ git spend sum --author stevemao --author antoine@goutenoir.com --since tags/v1.0.0
+    1 week 3 hours
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
