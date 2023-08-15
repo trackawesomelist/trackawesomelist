@@ -206,6 +206,7 @@ You can find them listed on the [Neovim wiki (⭐68k)](https://github.com/neovim
 *   [gennaro-tedesco/nvim-jqx (⭐244)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
 *   [nanotee/sqls.nvim (⭐137)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
 *   [dmmulroy/tsc.nvim (⭐148)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
+*   [chuwy/ucm.nvim (⭐4)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
 
 #### Golang
 

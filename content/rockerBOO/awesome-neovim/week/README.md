@@ -16,6 +16,7 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Diagnostics
 
 *   [roobert/f-string-toggle.nvim (⭐8)](https://github.com/roobert/f-string-toggle.nvim) - Toggle python f-strings.
+*   [chuwy/ucm.nvim (⭐4)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
 
 ### Web Development / Diagnostics
 

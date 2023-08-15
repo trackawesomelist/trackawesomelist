@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 15, 2023](/content/2023/08/15/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [chuwy/ucm.nvim (⭐4)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
+
 ## [Aug 14, 2023](/content/2023/08/14/README.md)
 
 ### (requires Neovim 0.5)
