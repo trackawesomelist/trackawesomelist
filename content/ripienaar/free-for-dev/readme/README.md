@@ -599,6 +599,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [knapsackpro.com](https://knapsackpro.com) - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.
 *   [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL.  Temporary URL and email address is always free.
 *   [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components and design system to iterate faster, design better and simplify the development process. Unlimited Projects with 5 years free maintenance.
+*   [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks, http requests during integration with a unique URL. Completely free, can create unlimited number of URLs and receive requests.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -751,7 +752,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Monitoring
 
-*   [Airbrake.io](https://www.airbrake.io/) - Get started with Free Forever Error and Performance Monitoring - no credit card required! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2) Projects, 7,500 Errors per month, 50,000 Performance Events, and 7 days data retention.
 *   [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10 minutes interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
 *   [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
 *   [appneta.com](https://www.appneta.com/) — Free with 1-hour data retention
@@ -853,6 +853,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails per day.
 *   [EmailOctopus](https://emailoctopus.com) - Up to 2,500 subscribers and 10,000 emails per month free
 *   [EmailJS](https://www.emailjs.com/) – This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
+*   [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
 *   [Emailvalidation.io](https://emailvalidation.io) - 100 free email verifications per month
 *   [fakermail.com](https://fakermail.com/) — Free, temporary email for testing with last 100 email accounts stored.
 *   [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
@@ -1215,7 +1216,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
 *   [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with free plan allows unlimited networks with up to 5 peoples
 *   [localhost.run](https://localhost.run/) — Expose locally running servers over a tunnel to a public URL.
-*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐16k)](https://github.com/localtunnel/localtunnel).
+*   [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source (⭐17k)](https://github.com/localtunnel/localtunnel).
 *   [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
 *   [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)
 *   [segment.com](https://segment.com/) — Hub to translate and route events to other third-party services. 100,000 events/month free
@@ -1787,7 +1788,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
 *   [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
 *   [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-*   [github.com — FOSS for Dev (⭐858)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐864)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
