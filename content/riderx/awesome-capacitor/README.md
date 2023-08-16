@@ -6,6 +6,15 @@
 
 [ Daily / [Weekly](/content/riderx/awesome-capacitor/week/README.md) / [Overview](/content/riderx/awesome-capacitor/readme/README.md) ]
 
+## [Aug 16, 2023](/content/2023/08/16/README.md)
+
+### [Aparajita’s plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
+
+*   [Biometric Auth (⭐42)](https://github.com/aparajita/capacitor-biometric-auth) – Easy access to native biometric auth APIs on iOS and Android.
+*   [Dark Mode (⭐13)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
+*   [Logger (⭐13)](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
+*   [Secure Storage (⭐47)](https://github.com/aparajita/capacitor-secure-storage) – Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
+
 ## [Aug 02, 2023](/content/2023/08/02/README.md)
 
 ### Other plugins

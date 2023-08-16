@@ -12,6 +12,12 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Generative AI for Strategy & Innovation](https://www.hbritalia.it/userUpload/ebook_Generative_AI_inglese.pdf): an experiment about management theories with ChatGPT by Harvard Business Review Italia
 
+### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
+
+*   [a16z-infra/ai-town (⭐1.8k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+*   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
+*   [joonspk-research/generative\_agents - Generative Agents (⭐10k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior
+
 ### Inbox: Large Language Models (LLMs) / LangChain
 
 *   [Embedchain (⭐3.9k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset

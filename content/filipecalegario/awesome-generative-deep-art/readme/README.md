@@ -204,6 +204,9 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### Autonomous LLM Agents
 
+*   [a16z-infra/ai-town (⭐1.8k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+*   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
+*   [joonspk-research/generative\_agents - Generative Agents (⭐10k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior
 *   [AgentBench: Evaluating LLMs as Agents](https://huggingface.co/papers/2308.03688): Hugging Face paper page on a benchmark to evaluate LLMs agents
 *   [geekan/MetaGPT (⭐21k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 *   [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
