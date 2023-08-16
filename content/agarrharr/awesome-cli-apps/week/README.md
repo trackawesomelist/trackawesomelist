@@ -6,6 +6,12 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
+
+### Productivity / Finance
+
+*   [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### Development / Devops
@@ -28,7 +34,7 @@
 
 ### Files and Directories / File Sync/Sharing
 
-*   [shbin (⭐26)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+*   [shbin (⭐27)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 *   [sharing (⭐1.6k)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
@@ -41,11 +47,11 @@
 
 ### Utilities / Calendars
 
-*   [clevercli (⭐52)](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
+*   [clevercli (⭐57)](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
 
 ### Command Line Learning / Internet Speedtest
 
-*   [yai (⭐329)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐334)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ### Files and Directories / File Managers
 
@@ -61,7 +67,7 @@
 
 ### Utilities / Markdown
 
-*   [gtree (⭐137)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐138)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 
@@ -108,8 +114,8 @@
 *   [add-gitignore (⭐589)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 *   [is-up-cli (⭐351)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 *   [reachable (⭐23)](https://github.com/italolelis/reachable) - Check if a domain is up.
-*   [loadtest (⭐2.4k)](https://github.com/alexfernandez/loadtest) - Run load tests.
-*   [diff2html-cli (⭐440)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [loadtest (⭐2.5k)](https://github.com/alexfernandez/loadtest) - Run load tests.
+*   [diff2html-cli (⭐445)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Development / Frontend Development
 
@@ -119,7 +125,7 @@
 ### Development / Devops
 
 *   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐22k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-*   [Discharge (⭐534)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+*   [Discharge (⭐535)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 
 ### Development / HTTP Server
 
@@ -158,7 +164,7 @@
 
 ### Development / Devops
 
-*   [pm2 (⭐39k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
+*   [pm2 (⭐40k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 
 ### Development / Release
 
@@ -238,7 +244,7 @@
 
 ### Utilities / Calendars
 
-*   [crawley (⭐146)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐155)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
@@ -296,7 +302,7 @@
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐448)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐455)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -322,7 +328,7 @@
 
 ### Productivity / Finance
 
-*   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system on the terminal
+*   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system.
 
 ### Productivity / Calendars
 
@@ -440,7 +446,7 @@
 ### Productivity / Note Taking and Lists
 
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐667)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐672)](https://github.com/simeg/eureka) - Input and store your ideas.
 
 ### Command Line Learning / Internet Speedtest
 
@@ -549,9 +555,9 @@
 
 ### Data Manipulation / Processors
 
-*   [jq (⭐25k)](https://github.com/stedolan/jq) - JSON processor.
+*   [jq (⭐26k)](https://github.com/stedolan/jq) - JSON processor.
 *   [yq (⭐2.3k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐4.4k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [dasel (⭐4.5k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 *   [yaml-cli (⭐83)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 *   [ramda-cli (⭐559)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 
@@ -664,7 +670,7 @@
 
 ### Productivity / Note Taking and Lists
 
-*   [dnote (⭐2.5k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+*   [dnote (⭐2.6k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 
 ### Utilities / Theming and Customization
 
@@ -746,7 +752,7 @@
 
 ### Utilities / macOS
 
-*   [dark-mode (⭐638)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+*   [dark-mode (⭐639)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Utilities / System Interaction Utilities
 
@@ -858,7 +864,7 @@
 ### Entertainment / Music
 
 *   [cmus (⭐5k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
-*   [itunes-remote (⭐426)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+*   [itunes-remote (⭐425)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 
 ### Entertainment / Social Media
 
@@ -895,10 +901,10 @@
 *   [doing (⭐1k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐42)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐825)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐828)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
-*   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+*   [Buku (⭐5.8k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 
 ### Productivity / Time Tracking
 
@@ -913,7 +919,7 @@
 ### Productivity / Finance
 
 *   [moeda (⭐132)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
-*   [cash-cli (⭐206)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+*   [cash-cli (⭐207)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 *   [cointop (⭐3.7k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 
 ### Productivity / Presentations
@@ -934,7 +940,7 @@
 
 ### Utilities / Terminal Sharing Utilities
 
-*   [localtunnel (⭐16k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
+*   [localtunnel (⭐17k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 *   [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
 *   [OverTime (⭐406)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
@@ -1054,7 +1060,7 @@
 *   [happyfinder (⭐330)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐31)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 *   [ripgrep (⭐39k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
-*   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+*   [fzf (⭐54k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
 ### Images / Image Conversion
 

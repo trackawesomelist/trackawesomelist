@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 16, 2023](/content/2023/08/16/README.md)
+
+### Functional
+
+*   [go-functional (⭐180)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
+
 ## [Aug 12, 2023](/content/2023/08/12/README.md)
 
 ### Networking
@@ -1870,7 +1876,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [cobra (⭐33k)](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions.
 *   [commandeer (⭐170)](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 *   [complete (⭐891)](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
-*   [Dnote (⭐2.5k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
+*   [Dnote (⭐2.6k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 *   [elvish (⭐5.1k)](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 *   [env (⭐106)](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
 *   [flag (⭐126)](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand.

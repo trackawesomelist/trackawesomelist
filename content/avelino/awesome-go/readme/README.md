@@ -395,7 +395,7 @@ Please take a quick gander at the [contribution guidelines (⭐106k)](https://gi
 *   [command-chain (⭐45)](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
 *   [commandeer (⭐170)](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 *   [complete (⭐891)](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
-*   [Dnote (⭐2.5k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
+*   [Dnote (⭐2.6k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 *   [elvish (⭐5.1k)](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 *   [env (⭐106)](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
 *   [flag (⭐126)](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand.
@@ -1127,6 +1127,7 @@ additional ordered map implementations.
 *   [fp-go (⭐242)](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
 *   [fpGo (⭐324)](https://github.com/TeaEntityLab/fpGo) - Monad, Functional Programming features for Golang.
 *   [fuego (⭐141)](https://github.com/seborama/fuego) - Functional Experiment in Go.
+*   [go-functional (⭐180)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
 *   [go-underscore (⭐1.3k)](https://github.com/tobyhede/go-underscore) - Useful collection of helpfully functional Go collection utilities.
 *   [gofp (⭐139)](https://github.com/rbrahul/gofp) - A lodash like powerful utility library for Golang.
 *   [mo (⭐1.7k)](https://github.com/samber/mo) - Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...).

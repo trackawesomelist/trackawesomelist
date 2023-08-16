@@ -18,7 +18,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -107,7 +107,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 
 *   [cmus (⭐5k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-*   [itunes-remote (⭐426)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
+*   [itunes-remote (⭐425)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
 *   [somafm-cli (⭐124)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 *   [mpd (⭐1.9k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
@@ -171,8 +171,8 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [add-gitignore (⭐589)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 *   [is-up-cli (⭐351)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 *   [reachable (⭐23)](https://github.com/italolelis/reachable) - Check if a domain is up.
-*   [loadtest (⭐2.4k)](https://github.com/alexfernandez/loadtest) - Run load tests.
-*   [diff2html-cli (⭐440)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+*   [loadtest (⭐2.5k)](https://github.com/alexfernandez/loadtest) - Run load tests.
+*   [diff2html-cli (⭐445)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Text Editors
 
@@ -210,13 +210,13 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [htconvert (⭐184)](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
 *   [SAWS (⭐5.1k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 *   [s3cmd (⭐4.2k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
-*   [pm2 (⭐39k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
+*   [pm2 (⭐40k)](https://github.com/Unitech/pm2) - Production Process Manager for Node.js.
 *   [ops (⭐1.1k)](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 *   [flog (⭐909)](https://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 *   [k9s (⭐22k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 *   [PingMe (⭐655)](https://github.com/kha7iq/pingme) - Send messages/alerts to multiple messaging platforms & email.
 *   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS (⭐22k)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-*   [Discharge (⭐534)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
+*   [Discharge (⭐535)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 *   [updatecli (⭐320)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
 
 ### Docker
@@ -271,10 +271,10 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [ffscreencast (⭐1.7k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐42)](https://github.com/specious/meetup-cli) - Meetup.com client.
 *   [NeoMutt](https://neomutt.org) - Email client.
-*   [terjira (⭐825)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐828)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐10)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
-*   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+*   [Buku (⭐5.8k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 *   [papis (⭐1.2k)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 *   [pubs (⭐239)](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
@@ -285,7 +285,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [Timewarrior (⭐1k)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 *   [Watson (⭐2.3k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 *   [utt (⭐275)](https://github.com/larose/utt) - Simple time tracking tool.
-*   [Bartib (⭐448)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐455)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ### Note Taking and Lists
 
@@ -293,20 +293,23 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [geeknote (⭐392)](https://github.com/jeffkowalski/geeknote) - Evernote client.
 *   [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
-*   [eureka (⭐667)](https://github.com/simeg/eureka) - Input and store your ideas.
+*   [eureka (⭐672)](https://github.com/simeg/eureka) - Input and store your ideas.
 *   [sncli (⭐382)](https://github.com/insanum/sncli) - Simplenote client.
 *   [td-cli (⭐171)](https://github.com/darrikonn/td-cli) - A TODO manager to organize and manage your TODO's across multiple projects.
 *   [taskell (⭐1.6k)](https://github.com/smallhadroncollider/taskell) - Interactive kanban board/task manager.
 *   [taskbook (⭐8.8k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-*   [dnote (⭐2.5k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+*   [dnote (⭐2.6k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 *   [nb (⭐5.6k)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 *   [obs (⭐168)](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
 
 ### Finance
 
-*   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system on the terminal
+See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overview of relevant tools.
+
+*   [ledger](https://ledger-cli.org/) - Powerful, double-entry accounting system.
+*   [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 *   [moeda (⭐132)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
-*   [cash-cli (⭐206)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
+*   [cash-cli (⭐207)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 *   [cointop (⭐3.7k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 *   [ticker (⭐4.6k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
@@ -332,10 +335,10 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [aria2 (⭐31k)](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 *   [bitly-client (⭐48)](https://github.com/specious/bitly-client) - Bitly client.
 *   [deadlink (⭐127)](https://github.com/nschloe/deadlink) - Find dead links in files.
-*   [crawley (⭐146)](https://github.com/s0rg/crawley) - Unix-way web crawler.
+*   [crawley (⭐155)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 *   [kill-tabs (⭐379)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 *   [alex (⭐4.6k)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
-*   [clevercli (⭐52)](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
+*   [clevercli (⭐57)](https://github.com/clevercli/clevercli) - Collection of ChatGTP powered utilities.
 
 ### macOS
 
@@ -343,12 +346,12 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [osx-wifi-cli (⭐87)](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
 *   [active-win-cli (⭐54)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 *   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
-*   [dark-mode (⭐638)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+*   [dark-mode (⭐639)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 
 ### Terminal Sharing Utilities
 
 *   [gotty (⭐18k)](https://github.com/yudai/gotty) - Share your terminal as a web application.
-*   [localtunnel (⭐16k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
+*   [localtunnel (⭐17k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 *   [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 *   [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
 *   [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
@@ -400,7 +403,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [grip (⭐6.1k)](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 *   [mdv (⭐1.7k)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 *   [glow (⭐13k)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
-*   [gtree (⭐137)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+*   [gtree (⭐138)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 
 ### Security
 
@@ -449,7 +452,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [Wat (⭐479)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 *   [teachcode (⭐361)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 *   [navi (⭐13k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
-*   [yai (⭐329)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+*   [yai (⭐334)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
 ## Data Manipulation
 
@@ -457,9 +460,9 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 
 ### Processors
 
-*   [jq (⭐25k)](https://github.com/stedolan/jq) - JSON processor.
+*   [jq (⭐26k)](https://github.com/stedolan/jq) - JSON processor.
 *   [yq (⭐2.3k)](https://github.com/kislyuk/yq) - YAML processor.
-*   [dasel (⭐4.4k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
+*   [dasel (⭐4.5k)](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 *   [yaml-cli (⭐83)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 *   [ramda-cli (⭐559)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 *   [xq (⭐613)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
@@ -533,7 +536,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [google-drive-upload (⭐654)](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 *   [gdrive-downloader (⭐273)](https://github.com/Akianonymus/gdrive-downloader) - Download files/folders from Google Drive.
 *   [portal (⭐918)](https://github.com/ZinoKader/portal) - Send files between computers.
-*   [shbin (⭐26)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
+*   [shbin (⭐27)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 *   [sharing (⭐1.6k)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 
 ### Directory Listing
@@ -561,7 +564,7 @@ Inspired by the [awesome (⭐262k)](https://github.com/sindresorhus/awesome) lis
 *   [happyfinder (⭐330)](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 *   [find-up-cli (⭐31)](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories.
 *   [ripgrep (⭐39k)](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches your current directory for a regex pattern.
-*   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+*   [fzf (⭐54k)](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 *   [fselect (⭐3.6k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 *   [fd (⭐28k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 *   [broot (⭐8.9k)](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
