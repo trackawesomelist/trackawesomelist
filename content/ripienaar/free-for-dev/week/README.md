@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
+### APIs, Data and ML
+
+*   [PDF Factory](https://pdf-factory.com) - PDF Automation API, visual template editor, dynamic data integration and PDF rendering with an API. Free plan comes with 1 template, 100 PDFs/month.
+
 ### Testing
 
 *   [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks, http requests during integration with a unique URL. Completely free, can create unlimited number of URLs and receive requests.
@@ -3752,7 +3756,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [clevebrush.com](https://www.cleverbrush.com/) — Free Graphics Design / Photo Collage App, also they offer paid integration of it as component.
 *   [cloudconvert.com](https://cloudconvert.com/) — Convert anything to anything. 208 supported formats including videos to gif.
-*   [designer.io](https://www.designer.io/) — Design tool for UI, illustrations and more. Has a native app. Free.
 *   [figma.com](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects.
 *   [landen.co](https://www.landen.co) — Generate, edit and publish beautiful websites and landing pages for your startup. All without code. Free tier allows you to have one website, fully customizable and published on the web.
 *   [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
