@@ -2,7 +2,7 @@
 
 A curated list of awesome OpenGL libraries, debuggers and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/eug/awesome-opengl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 eug/awesome-opengl](https://github.com/eug/awesome-opengl) · ⭐ 1.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/eug/awesome-opengl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 eug/awesome-opengl](https://github.com/eug/awesome-opengl) · ⭐ 1.9K · 🏷️ Miscellaneous
 
 [ [Daily](/content/eug/awesome-opengl/README.md) / [Weekly](/content/eug/awesome-opengl/week/README.md) / Overview ]
 
@@ -31,7 +31,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *OpenGL articles (non-tutorials)*
 
-*   [(2014) Ray tracing with OpenGL Compute Shaders (⭐395)](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
+*   [(2014) Ray tracing with OpenGL Compute Shaders (⭐419)](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
 *   [(2014) Things that drive me nuts about OpenGL](http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html) by **Rich Geldreich** - Constructive (or not) criticism of GL API.
 *   [(2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
 *   [(2010) What is OpenGL?](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) by **Joe Groff** - Brief introduction to the building blocks of OpenGL.
@@ -55,13 +55,13 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 *Debugging and profiling libraries*
 
 *   [apitrace](http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
-*   [CodeXL (⭐974)](https://github.com/GPUOpen-Tools/CodeXL) - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
+*   [CodeXL (⭐986)](https://github.com/GPUOpen-Tools/CodeXL) - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
 *   [GL-SL Debugger](http://glsl-debugger.github.io) - Tool for debugging OpenGL programs.
-*   [GLIntercept (⭐454)](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows.
+*   [GLIntercept (⭐481)](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows.
 *   [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
 *   [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Development platform for graphics applications.
-*   [RenderDoc (⭐6.8k)](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
-*   [tracy (⭐4.4k)](https://github.com/wolfpld/tracy) - A real time remote telemetry frame profiler for games and other applications.
+*   [RenderDoc (⭐7.7k)](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
+*   [tracy (⭐6.1k)](https://github.com/wolfpld/tracy) - A real time remote telemetry frame profiler for games and other applications.
 *   [vogl (⭐1.4k)](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
 ## GLSL Editors
@@ -69,7 +69,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 *Online GLSL Editors*
 
 *   [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2k)](https://github.com/stackgl/glslify).
+*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2.1k)](https://github.com/stackgl/glslify).
 *   [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 *   [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 *   [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer
@@ -78,31 +78,32 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Useful libraries for OpenGL applications*
 
-*   [assimp (⭐8.3k)](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
+*   [assimp (⭐9.4k)](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
 *   [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
 *   [fltk](https://www.fltk.org/) - C++ Toolkit to generate UI widgets portably. [LGPLv2](https://www.fltk.org/COPYING.php)
 *   [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
 *   [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
-*   [GLFM (⭐452)](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
+*   [GLFM (⭐502)](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
 *   [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
-*   [Magnum (⭐4.2k)](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL.
+*   [Magnum (⭐4.5k)](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL.
 *   [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
 *   [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 *   [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
 *   [SDL](http://www.libsdl.org) - Designed to provide low level access to multimedia and graphics hardware.
 *   [SFML](http://www.sfml-dev.org) - Simple interface to ease the development of games and multimedia applications.
 *   [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
-*   [Pangolin (⭐1.8k)](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
-*   [morphologica (⭐134)](https://github.com/ABRG-Models/morphologica) - OpenGL graphics engine for data visualization, especially of numerical simulations.
+*   [Pangolin (⭐2k)](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
+*   [morphologica (⭐187)](https://github.com/ABRG-Models/morphologica) - OpenGL graphics engine for data visualization, especially of numerical simulations.
+*   [raylib (⭐14k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 
 ## Profile Loaders
 
 *Profile loaders for OpenGL*
 
-*   [gl3w (⭐636)](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader.
-*   [glad (⭐2.7k)](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs.
+*   [gl3w (⭐666)](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader.
+*   [glad (⭐3.2k)](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs.
 *   [glbindify (⭐3)](https://github.com/nnesse/glbindify) - Command line tool to generate C bindings for OpenGL, wgl, and glX.
-*   [glbinding (⭐750)](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety.
+*   [glbinding (⭐791)](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety.
 *   [GLEW](http://glew.sourceforge.net) - Mature cross-platform library to load OpenGL extensions.
 
 ## References
@@ -110,7 +111,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 *OpenGL references*
 
 *   [docs.GL](http://docs.gl) - It is an alternative documentation for OpenGL.
-*   [OpenGL API Tables](http://web.eecs.umich.edu/\~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
+*   [OpenGL API Tables](http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
 *   [OpenGL Cheat Sheet](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
 *   [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
 *   [OpenGL Wiki](https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
@@ -140,12 +141,12 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *OpenGL tutorial websites*
 
-*   [3D Game Shaders For Beginners (⭐14k)](https://github.com/lettier/3d-game-shaders-for-beginners) by **David Lettier**
+*   [3D Game Shaders For Beginners (⭐16k)](https://github.com/lettier/3d-game-shaders-for-beginners) by **David Lettier**
 *   [Learn OpenGL](https://learnopengl.com) by **Joey de Vries**
 *   [Learning Modern 3D Graphics Programming](https://bitbucket.org/alfonse/gltut/wiki/Home) by **Jason L. McKesson**
 *   [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) by **Light House 3D**
 *   [Modern OpenGL](http://www.tomdalling.com/blog/category/modern-opengl) by **Tom Dalling**
-*   [OpenGL Examples (⭐2k)](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
+*   [OpenGL Examples (⭐2.1k)](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
 *   [OpenGL Step by Step](http://ogldev.atspace.co.uk) by **Etay Meiri**
 *   [OpenGL Tutorial](https://open.gl) by **Alexander Overvoorde**
 *   [OpenGL Tutorial](http://antongerdelan.net/opengl/index.html) by **Anton Gerdelan**
@@ -156,11 +157,11 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Similar awesome lists*
 
-*   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-*   [awesome-computer-vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
-*   [awesome-webgl (⭐1.1k)](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
-*   [awesome-vulkan (⭐2.6k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
-*   [gamedev (⭐10k)](https://github.com/ellisonleao/magictools) - A awesome list about game development.
+*   [awesome (⭐264k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+*   [awesome-computer-vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+*   [awesome-webgl (⭐1.2k)](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
+*   [awesome-vulkan (⭐2.9k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+*   [gamedev (⭐12k)](https://github.com/ellisonleao/magictools) - A awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
 
 ## License
@@ -171,5 +172,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐1.7k)](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐1.9k)](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.
 

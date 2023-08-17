@@ -6,17 +6,18 @@ A curated list for awesome kubernetes sources :ship::tada:
 
 [ [Daily](/content/ramitsurana/awesome-kubernetes/README.md) / Weekly / [Overview](/content/ramitsurana/awesome-kubernetes/readme/README.md) ]
 
+## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
+
+### Featured On
+
+*   [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained-dde470707cb2)
+*   [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
+
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
 ### Featured On
 
 *   [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
-
-## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
-
-### Featured On
-
-*   [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
@@ -81,7 +82,7 @@ A curated list for awesome kubernetes sources :ship::tada:
 *   [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 *   [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 *   [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
-*   [Docker Kubernetes Lab Handbook (⭐199)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
+*   [Docker Kubernetes Lab Handbook (⭐201)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 *   [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 *   [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 *   [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)

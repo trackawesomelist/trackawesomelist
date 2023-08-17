@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Aug 17, 2023](/content/2023/08/17/README.md)
+
+### Reports Generation
+
+*   [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs and more.
+
 ## [Aug 12, 2023](/content/2023/08/12/README.md)
 
 ### Scraping
