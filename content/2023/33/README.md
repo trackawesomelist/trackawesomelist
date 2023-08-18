@@ -1,49 +1,79 @@
 # Awesome List Updates on Aug 14 - Aug 20, 2023
 
-29 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [1. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+
+### Preparedness training and wargaming / Firewall appliances or distributions
+
+*   [Stratus Red Team](https://stratus-red-team.cloud/) - Emulate offensive attack techniques in a granular and self-contained manner against a cloud environment; think "Atomic Red Team™ for the cloud."
+
+## [2. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+
+### Maps / Web Maps
+
+*   [Streets GL (⭐389)](https://github.com/StrandedKitty/streets-gl) OpenStreetMap 3D renderer powered by WebGL2 ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
+
+### Libraries / Python
+
+*   [overpy (⭐210)](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
+*   [overpassforge (⭐1)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
+*   [humanized\_opening\_hours (⭐24)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
+
+## [3. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Can Tecim (⭐0)](https://github.com/cantecim/ama) - Software Engineer, former CTO, TypeScript and Node.js lover, open source contributor, remote worker based in Istanbul, Turkey.
+
+## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+
+### Sitecore Send
+
+*   [Sitecore Send Postman Collection (⭐3)](https://github.com/neilkillen/SitecoreSendPostmanCollection) - A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.
+
+## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
 
-## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [6. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Exploit Development Tools / Zealandia
 
 *   [H26Forge (⭐187)](https://github.com/h26forge/h26forge) - Domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant video files.
 
-## [3. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [7. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Libraries
 
 *   [raylib (⭐14k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 
-## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [8. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained-dde470707cb2)
 *   [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
 
-## [5. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Blog Series
 
 *   [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of *Image Processing* algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [10. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Reports Generation
 
 *   [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs and more.
 
-## [7. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [11. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### InDesign
 
@@ -57,13 +87,13 @@
 
 *   [Penpot](https://penpot.app/) - Penpot is an Open Source design and prototyping platform for product teams.
 
-## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Converters / Ruby
 
 *   [UK2GTFS](https://itsleeds.github.io/UK2GTFS/) - R package that converts UK format TransXchange (bus, metro, tram, ferry) and CIF (rail) timetables to GTFS.
 
-## [9. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [13. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Aparajita’s plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
 
@@ -72,13 +102,17 @@
 *   [Logger (⭐13)](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
 *   [Secure Storage (⭐47)](https://github.com/aparajita/capacitor-secure-storage) – Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
-## [10. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Functional
 
 *   [go-functional (⭐180)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
 
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+### Utilities
+
+*   [yogo (⭐31)](https://github.com/antham/yogo) - Check yopmail mails from command line.
+
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -107,20 +141,28 @@
 
 *   [The "Voice Cloning AIs" they never tell you about (and how they work)](https://www.youtube.com/watch?v=vhArHsfsLAQ): Youtube video by @bycloud summarizing the available technologies for voice cloning
 
-## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ask (⭐38)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
 *   [kubectlenv (⭐0)](https://github.com/rafalmasiarek/oh-my-zsh-kubectlenv-plugin) - Easily switch between multiple `kubectl` versions.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Entertainment / Music
+
+*   [radio-active (⭐165)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
+
+### Productivity / HTTP Client
+
+*   [fjira (⭐22)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ### Productivity / Finance
 
 *   [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
-## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -135,13 +177,13 @@
 
 *   [oxc (⭐1.5k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
-## [15. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [19. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Research Tools / Crypto Currencies
 
 *   [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 
-## [16. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [20. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
@@ -151,7 +193,7 @@
 
 *   [Llama2 Embedding Server (⭐390)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -165,29 +207,19 @@
 
 *   [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
 
-## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Mail
 
 *   [MailKitSimplified (⭐24)](https://github.com/danzuep/MailKitSimplified) - A fully-featured fluent wrapper for MailKit that makes sending *and receiving* emails as simple as possible.
 
-## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Recipe Management
 
 *   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐3.5k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 
-## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -198,7 +230,7 @@
 *   [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
 *   [topicwizard (⭐21)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
 
-## [22. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [25. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Numerical Libraries & Data Structures
 
@@ -269,19 +301,33 @@
 *   [Hands-On Machine Learning for Algorithmic Trading (⭐1.1k)](https://github.com/packtpublishing/hands-on-machine-learning-for-algorithmic-trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
 *   [financialnoob-misc (⭐22)](https://github.com/financialnoob/misc) - Codes from @financialnoob's posts
 
-## [23. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [26. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Database clients
 
 *   [vredis (⭐3)](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
 
-## [24. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [27. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+
+### Ballerina / React
+
+*   [graphql (⭐83)](https://github.com/ballerina-platform/module-ballerina-graphql) - Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions.
+*   [graphql CLI (⭐48)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
+
+### Ballerina Samples / React
+
+*   [Ballerina GraphQL Examples (⭐83)](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples)
+*   [Convert Weather REST API to GraphQL API (⭐3)](https://github.com/ThisaruGuruge/weather-rest-api-to-graphql)
 
 ### CMS / React
 
 *   [Graphweaver](https://graphweaver.com/) - Turn multiple datasources into a single GraphQL API.
 
-## [25. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+### Posts / React
+
+*   [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
+
+## [28. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-spend](https://github.com/Goutte/git-spend)
 
@@ -297,14 +343,14 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
     $ git spend sum
     3 weeks 2 days 1 hour 37 minutes
 
-## [26. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [29. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Tools
 
 *   [Polkadot Vault](https://signer.parity.io/) (formerly Parity Signer) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 *   [Uptest Runtime upgrade tool (⭐5)](https://github.com/uptest-sc/uptest) - Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.
 
-## [27. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [30. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Chat Bot
 
@@ -318,7 +364,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -346,7 +392,11 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [roobert/tabtree.nvim (⭐1)](https://github.com/roobert/tabtree.nvim) - Jump between significant code elements, such as brackets, quotes, etc.
 
-## [29. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+### Editing Support / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.operators (⭐2.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+
+## [32. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 

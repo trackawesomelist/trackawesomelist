@@ -8,6 +8,14 @@
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
+### Entertainment / Music
+
+*   [radio-active (⭐165)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
+
+### Productivity / HTTP Client
+
+*   [fjira (⭐22)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+
 ### Productivity / Finance
 
 *   [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -73,7 +81,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐52k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐54k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Productivity / Note Taking and Lists
 
@@ -634,7 +642,7 @@
 
 *   [alder (⭐212)](https://github.com/aweary/alder) - Minimal `tree` with colors.
 *   [exa (⭐22k)](https://github.com/ogham/exa) - Improved version of `ls`.
-*   [tre (⭐537)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [tre (⭐544)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 *   [ll (⭐42)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)

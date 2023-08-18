@@ -118,6 +118,7 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
 *   [spotify-tui (⭐15k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 *   [swaglyrics-for-spotify (⭐305)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 *   [dzr (⭐143)](https://github.com/yne/dzr) - deezer.com player.
+*   [radio-active (⭐165)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 
 ### Social Media
 
@@ -135,7 +136,7 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
 *   [mps-youtube (⭐7.6k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 *   [mpv](https://mpv.io) - Superior video player.
 *   [editly (⭐4.2k)](https://github.com/mifi/editly) - Declarative video editing.
-*   [yt-dlp (⭐52k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐54k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Movies
 
@@ -277,6 +278,7 @@ Inspired by the [awesome (⭐264k)](https://github.com/sindresorhus/awesome) lis
 *   [Buku (⭐5.8k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 *   [papis (⭐1.2k)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 *   [pubs (⭐239)](https://github.com/pubs/pubs) - Scientific bibliography manager.
+*   [fjira (⭐22)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ### Time Tracking
 
@@ -543,7 +545,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 *   [alder (⭐212)](https://github.com/aweary/alder) - Minimal `tree` with colors.
 *   [exa (⭐22k)](https://github.com/ogham/exa) - Improved version of `ls`.
-*   [tre (⭐537)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [tre (⭐544)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 *   [ll (⭐42)](https://github.com/antonmedv/ll) - `ls` with git status.
 *   [lsd (⭐10k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 

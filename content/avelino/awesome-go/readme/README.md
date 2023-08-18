@@ -60,7 +60,7 @@ We use the *[Golang Bridge (⭐377)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐175k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐177k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -336,7 +336,7 @@ Please take a quick gander at the [contribution guidelines (⭐106k)](https://gi
 *   [asciigraph (⭐2.3k)](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 *   [aurora (⭐1.3k)](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
 *   [box-cli-maker (⭐373)](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
-*   [bubble-table (⭐229)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+*   [bubble-table (⭐234)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 *   [bubbles (⭐3.7k)](https://github.com/charmbracelet/bubbles) - TUI components for bubbletea.
 *   [bubbletea (⭐19k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 *   [cfmt (⭐95)](https://github.com/mingrammer/cfmt) - Contextual fmt inspired by bootstrap color classes.
@@ -946,7 +946,7 @@ additional ordered map implementations.
 *   [rpcx (⭐7.7k)](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 *   [Semaphore (⭐85)](https://github.com/jexia/semaphore) - A straightforward (micro) service orchestrator.
 *   [sleuth (⭐367)](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ (⭐8.7k)](https://github.com/zeromq/libzmq)).
-*   [Temporal (⭐345)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
+*   [Temporal (⭐354)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
 *   [torrent (⭐4.9k)](https://github.com/anacrolix/torrent) - BitTorrent client package.
 
 **[⬆ back to top](#contents)**
@@ -2089,7 +2089,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-gt (⭐10)](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language.
 *   [godesim (⭐21)](https://github.com/soypat/godesim) - Extended/multivariable ODE solver framework for event-based simulations with simple API.
 *   [goent (⭐33)](https://github.com/kzahedi/goent) - GO Implementation of Entropy Measures.
-*   [gograph (⭐32)](https://github.com/hmdsefi/gograph) -  A golang generic graph library that provides mathematical graph-theory and algorithms.
+*   [gograph (⭐32)](https://github.com/hmdsefi/gograph) - A golang generic graph library that provides mathematical graph-theory and algorithms.
 *   [gohistogram (⭐172)](https://github.com/VividCortex/gohistogram) - Approximate histograms for data streams.
 *   [gonum (⭐6.8k)](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more.
 *   [gonum/plot (⭐2.5k)](https://github.com/gonum/plot) - gonum/plot provides an API for building and drawing plots in Go.
@@ -2639,7 +2639,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [goctx (⭐4)](https://github.com/zerosnake0/goctx) - Get your context value with high performance.
 *   [godaemon (⭐491)](https://github.com/VividCortex/godaemon) - Utility to write daemons.
 *   [godropbox (⭐4.1k)](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications from Dropbox.
-*   [gofn (⭐24)](https://github.com/tiendc/gofn) - High performance utitlity functions written using Generics for Go 1.18+.
+*   [gofn (⭐25)](https://github.com/tiendc/gofn) - High performance utitlity functions written using Generics for Go 1.18+.
 *   [gohper (⭐255)](https://github.com/cosiner/gohper) - Various tools/modules help for development.
 *   [golarm (⭐50)](https://github.com/msempere/golarm) - Fire alarms with system events.
 *   [golog (⭐59)](https://github.com/mlimaloureiro/golog) - Easy and lightweight CLI tool to time track your tasks.
@@ -2744,6 +2744,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [wifiqr (⭐236)](https://github.com/reugn/wifiqr) - Wi-Fi QR Code Generator.
 *   [wuzz (⭐10k)](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
 *   [xferspdy (⭐99)](https://github.com/monmohan/xferspdy) - Xferspdy provides binary diff and patch library in golang.
+*   [yogo (⭐31)](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
 **[⬆ back to top](#contents)**
 
@@ -3111,7 +3112,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Ddosify (⭐7.7k)](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 *   [DepCharge (⭐23)](https://github.com/centerorbit/depcharge) - Helps orchestrating the execution of commands across the many dependencies in larger projects.
 *   [docker-go-mingw (⭐37)](https://github.com/x1unix/docker-go-mingw) - Docker image for building Go binaries for Windows with MinGW toolchain.
-*   [Dockerfile-Generator (⭐154)](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
+*   [Dockerfile-Generator (⭐155)](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
 *   [dogo (⭐257)](https://github.com/liudng/dogo) - Monitoring changes in the source file and automatically compile and run (restart).
 *   [drone-jenkins (⭐37)](https://github.com/appleboy/drone-jenkins) - Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
 *   [drone-scp (⭐124)](https://github.com/appleboy/drone-scp) - Copy files and artifacts via SSH using a binary, docker or Drone CI.
@@ -3206,7 +3207,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [GoDocTooltip (⭐13)](https://github.com/diankong/GoDocTooltip) - Chrome extension for Go Doc sites, which shows function description as tooltip at function list.
 *   [Gokapi (⭐758)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 *   [GoLand](https://jetbrains.com/go) - Full featured cross-platform Go IDE.
-*   [GoNB (⭐259)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+*   [GoNB (⭐274)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 *   [Gor (⭐18k)](https://github.com/buger/gor) - Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.
 *   [Guora (⭐654)](https://github.com/meloalright/guora) - A self-hosted Quora like web application written in Go.
 *   [hoofli (⭐6)](https://github.com/dnnrly/hoofli) - Generate PlantUML diagrams from Chrome or Firefox network inspections.

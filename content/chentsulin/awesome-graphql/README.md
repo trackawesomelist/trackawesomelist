@@ -6,6 +6,22 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Aug 18, 2023](/content/2023/08/18/README.md)
+
+### Ballerina / React
+
+*   [graphql (⭐83)](https://github.com/ballerina-platform/module-ballerina-graphql) - Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions.
+*   [graphql CLI (⭐48)](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
+
+### Ballerina Samples / React
+
+*   [Ballerina GraphQL Examples (⭐83)](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples)
+*   [Convert Weather REST API to GraphQL API (⭐3)](https://github.com/ThisaruGuruge/weather-rest-api-to-graphql)
+
+### Posts / React
+
+*   [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
+
 ## [Aug 14, 2023](/content/2023/08/14/README.md)
 
 ### CMS / React
