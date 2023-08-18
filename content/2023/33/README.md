@@ -1,18 +1,47 @@
 # Awesome List Updates on Aug 14 - Aug 20, 2023
 
-32 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Libraries / Filesystem
+
+*   Operations
+    *   [Camino (⭐323)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [ParthJadhav/Rust\_Search (⭐94)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [pop-os/dbus-udisks2 (⭐15)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [pop-os/sys-mount (⭐37)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
+    *   [vitiral/path\_abs (⭐48)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
+    *   [webdesus/fs\_extra (⭐198)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
+
+## [2. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+
+### Applications and Platforms / Aggregators & Dashboards
+
+*   [BiomarkerDash (⭐1)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+
+### Open Source Projects / Wealth
+
+*   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
+*   [TimelineBuilder (⭐45)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+
+## [3. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+
+### Softwares / Launchers
+
+*   [XMCL (⭐430)](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
+
+## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
 *   [Stratus Red Team](https://stratus-red-team.cloud/) - Emulate offensive attack techniques in a granular and self-contained manner against a cloud environment; think "Atomic Red Team™ for the cloud."
 
-## [2. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [5. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
@@ -24,56 +53,56 @@
 *   [overpassforge (⭐1)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
 *   [humanized\_opening\_hours (⭐24)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
-## [3. Amas](/content/sindresorhus/amas/week/README.md)
+## [6. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Can Tecim (⭐0)](https://github.com/cantecim/ama) - Software Engineer, former CTO, TypeScript and Node.js lover, open source contributor, remote worker based in Istanbul, Turkey.
 
-## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Sitecore Send
 
 *   [Sitecore Send Postman Collection (⭐3)](https://github.com/neilkillen/SitecoreSendPostmanCollection) - A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.
 
-## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
 
-## [6. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Exploit Development Tools / Zealandia
 
 *   [H26Forge (⭐187)](https://github.com/h26forge/h26forge) - Domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant video files.
 
-## [7. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [10. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Libraries
 
 *   [raylib (⭐14k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 
-## [8. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [11. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained-dde470707cb2)
 *   [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
 
-## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [12. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Blog Series
 
 *   [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of *Image Processing* algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
-## [10. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [13. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Reports Generation
 
 *   [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs and more.
 
-## [11. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [14. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### InDesign
 
@@ -87,13 +116,13 @@
 
 *   [Penpot](https://penpot.app/) - Penpot is an Open Source design and prototyping platform for product teams.
 
-## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Converters / Ruby
 
 *   [UK2GTFS](https://itsleeds.github.io/UK2GTFS/) - R package that converts UK format TransXchange (bus, metro, tram, ferry) and CIF (rail) timetables to GTFS.
 
-## [13. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [16. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Aparajita’s plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
 
@@ -102,7 +131,7 @@
 *   [Logger (⭐13)](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
 *   [Secure Storage (⭐47)](https://github.com/aparajita/capacitor-secure-storage) – Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
-## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Functional
 
@@ -110,9 +139,14 @@
 
 ### Utilities
 
+*   [go-qr (⭐1)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
 *   [yogo (⭐31)](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
-## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [kubeshark (⭐9.4k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
+
+## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -141,14 +175,14 @@
 
 *   [The "Voice Cloning AIs" they never tell you about (and how they work)](https://www.youtube.com/watch?v=vhArHsfsLAQ): Youtube video by @bycloud summarizing the available technologies for voice cloning
 
-## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ask (⭐38)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
 *   [kubectlenv (⭐0)](https://github.com/rafalmasiarek/oh-my-zsh-kubectlenv-plugin) - Easily switch between multiple `kubectl` versions.
 
-## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
@@ -162,7 +196,7 @@
 
 *   [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
-## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -177,13 +211,13 @@
 
 *   [oxc (⭐1.5k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
-## [19. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [22. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Research Tools / Crypto Currencies
 
 *   [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 
-## [20. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
@@ -193,7 +227,11 @@
 
 *   [Llama2 Embedding Server (⭐390)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
-## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+### Open Source Projects / Knowledge Management
+
+*   [examor (⭐13)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
+
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -207,19 +245,19 @@
 
 *   [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
 
-## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Mail
 
 *   [MailKitSimplified (⭐24)](https://github.com/danzuep/MailKitSimplified) - A fully-featured fluent wrapper for MailKit that makes sending *and receiving* emails as simple as possible.
 
-## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Recipe Management
 
 *   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐3.5k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -230,7 +268,7 @@
 *   [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
 *   [topicwizard (⭐21)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
 
-## [25. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [28. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Numerical Libraries & Data Structures
 
@@ -301,13 +339,13 @@
 *   [Hands-On Machine Learning for Algorithmic Trading (⭐1.1k)](https://github.com/packtpublishing/hands-on-machine-learning-for-algorithmic-trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
 *   [financialnoob-misc (⭐22)](https://github.com/financialnoob/misc) - Codes from @financialnoob's posts
 
-## [26. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [29. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Database clients
 
 *   [vredis (⭐3)](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
 
-## [27. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [30. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Ballerina / React
 
@@ -327,7 +365,7 @@
 
 *   [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
 
-## [28. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [31. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-spend](https://github.com/Goutte/git-spend)
 
@@ -343,14 +381,14 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
     $ git spend sum
     3 weeks 2 days 1 hour 37 minutes
 
-## [29. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [32. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Tools
 
 *   [Polkadot Vault](https://signer.parity.io/) (formerly Parity Signer) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 *   [Uptest Runtime upgrade tool (⭐5)](https://github.com/uptest-sc/uptest) - Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.
 
-## [30. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [33. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Chat Bot
 
@@ -364,7 +402,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 
 
-## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -396,7 +434,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [echasnovski/mini.nvim#mini.operators (⭐2.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 
-## [32. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [35. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 

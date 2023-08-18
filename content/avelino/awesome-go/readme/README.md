@@ -2631,6 +2631,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-lock (⭐94)](https://github.com/viney-shih/go-lock) - go-lock is a lock library implementing read-write mutex and read-write trylock without starvation.
 *   [go-pkg (⭐6)](https://github.com/chenquan/go-pkg) - A go toolkit.
 *   [go-problemdetails (⭐17)](https://github.com/mvmaasakkers/go-problemdetails) - Go package for working with Problem Details.
+*   [go-qr (⭐1)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
 *   [go-rate (⭐389)](https://github.com/beefsack/go-rate) - Timed rate limiter for Go.
 *   [go-sitemap-generator (⭐205)](https://github.com/ikeikeikeike/go-sitemap-generator) - XML Sitemap generator written in Go.
 *   [go-trigger (⭐234)](https://github.com/sadlil/go-trigger) - Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project.
@@ -3145,13 +3146,13 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [ko (⭐6.2k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 *   [kool (⭐631)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐101k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
+*   [kubeshark (⭐9.4k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
 *   [KubeVela (⭐5.5k)](https://github.com/kubevela/kubevela) - Cloud native application delivery.
 *   [kwatch (⭐777)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
 *   [lstags (⭐307)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐30)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐285)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Mantil (⭐104)](https://github.com/mantil-io/mantil) - Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.
-*   [Mizu (⭐9.4k)](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices, multiprotocol support: HTTP1.1, HTTP/2, AMQP, Kafka, Redis.
 *   [Moby (⭐66k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
 *   [Mora (⭐312)](https://github.com/emicklei/mora) - REST server for accessing MongoDB documents and meta data.
 *   [ostent (⭐177)](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB.

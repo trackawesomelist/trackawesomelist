@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/bs-community/awesome-minecraft/week/README.md) / [Overview](/content/bs-community/awesome-minecraft/readme/README.md) ]
 
+## [Aug 18, 2023](/content/2023/08/18/README.md)
+
+### Softwares / Launchers
+
+*   [XMCL (⭐430)](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
+
 ## [Aug 13, 2023](/content/2023/08/13/README.md)
 
 ### Softwares / Launchers

@@ -10,7 +10,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
+*   [go-qr (⭐1)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
 *   [yogo (⭐31)](https://github.com/antham/yogo) - Check yopmail mails from command line.
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [kubeshark (⭐9.4k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
 
 ## [Aug 16, 2023](/content/2023/08/16/README.md)
 
@@ -1713,10 +1718,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [mailx (⭐7)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 
 ## [Feb 15, 2022](/content/2022/02/15/README.md)
-
-### DevOps Tools / Libraries for creating HTTP middlewares
-
-*   [Mizu (⭐9.4k)](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices, multiprotocol support: HTTP1.1, HTTP/2, AMQP, Kafka, Redis.
 
 ### Other Software / Libraries for creating HTTP middlewares
 

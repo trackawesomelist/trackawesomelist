@@ -1,24 +1,64 @@
 # Awesome List Updates on Aug 18, 2023
 
-8 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Open Source Projects / Knowledge Management
+
+*   [examor (⭐13)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Filesystem
+
+*   Operations
+    *   [Camino (⭐323)](https://github.com/camino-rs/camino) \[[camino](https://crates.io/crates/camino)] - Like Rust's std::path::Path, but UTF-8.
+    *   [ParthJadhav/Rust\_Search (⭐94)](https://github.com/ParthJadhav/Rust_Search) \[[rust\_search](https://crates.io/crates/rust_search)] - Blazingly fast file search library built in Rust.
+    *   [pop-os/dbus-udisks2 (⭐15)](https://github.com/pop-os/dbus-udisks2) \[[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
+    *   [pop-os/sys-mount (⭐37)](https://github.com/pop-os/sys-mount) \[[sys-mount](https://crates.io/crates/sys-mount)] — High level abstraction for the `mount` / `umount2` system calls.
+    *   [vitiral/path\_abs (⭐48)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
+    *   [webdesus/fs\_extra (⭐198)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
+
+## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+
+### Applications and Platforms / Aggregators & Dashboards
+
+*   [BiomarkerDash (⭐1)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+
+### Open Source Projects / Wealth
+
+*   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
+*   [TimelineBuilder (⭐45)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+
+## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+
+### Softwares / Launchers
+
+*   [XMCL (⭐430)](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
+
+## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
 *   [Stratus Red Team](https://stratus-red-team.cloud/) - Emulate offensive attack techniques in a granular and self-contained manner against a cloud environment; think "Atomic Red Team™ for the cloud."
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Utilities
 
+*   [go-qr (⭐1)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
 *   [yogo (⭐31)](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
-## [3. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [kubeshark (⭐9.4k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
+
+## [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Maps / Web Maps
 
@@ -30,7 +70,7 @@
 *   [overpassforge (⭐1)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
 *   [humanized\_opening\_hours (⭐24)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
-## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Ballerina / React
 
@@ -46,19 +86,19 @@
 
 *   [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
 
-## [5. Amas](/content/sindresorhus/amas/README.md)
+## [9. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Can Tecim (⭐0)](https://github.com/cantecim/ama) - Software Engineer, former CTO, TypeScript and Node.js lover, open source contributor, remote worker based in Istanbul, Turkey.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.operators (⭐2.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
@@ -68,7 +108,7 @@
 
 *   [fjira (⭐22)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
-## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Sitecore Send
 

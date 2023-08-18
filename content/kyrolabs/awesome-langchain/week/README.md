@@ -16,6 +16,10 @@
 
 *   [Llama2 Embedding Server (⭐390)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
+### Open Source Projects / Knowledge Management
+
+*   [examor (⭐13)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
+
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
 ### Tools / Low-code

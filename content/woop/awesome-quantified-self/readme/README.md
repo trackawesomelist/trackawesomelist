@@ -2,7 +2,7 @@
 
 :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 1.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / [Weekly](/content/woop/awesome-quantified-self/week/README.md) / Overview ]
 
@@ -99,6 +99,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
 *   [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
 *   [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack\&hl=en) - Multi-purpose tracker (Android).
+*   [BiomarkerDash (⭐1)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Automation
 
@@ -224,11 +225,11 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐4.6k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐4.7k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 *   [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 *   [Actual](https://actualbudget.com/) - Personal home budget software.
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
-*   [Firefly III (⭐10k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐11k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## Devices and Wearables
 
@@ -270,14 +271,16 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 ## Open Source Projects
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Heedy (⭐363)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐371)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐145)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Fluxtream (⭐148)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 *   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 *   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
-*   [QS Ledger (⭐884)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
-*   [Awesome Biomarkers (⭐254)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
-*   [health-records (⭐19)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
+*   [QS Ledger (⭐908)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [Awesome Biomarkers (⭐289)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [health-records (⭐21)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
+*   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
+*   [TimelineBuilder (⭐45)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
 ## License
 
