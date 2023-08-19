@@ -2,9 +2,71 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.4K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
+
+## [Aug 19, 2023](/content/2023/08/19/README.md)
+
+### Content Generation & Seo
+
+- Name: [Phrasion](https://phrasion.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Writer Blog Posts 2X Faster - With the Same Quality as Today!.
+
+  Description: Having tried many (all?) copywriting AI tools for blog writing, we found that most would create too short (<1k words) blogs posts. Additionally, posts were simple not good enough to engage readers and rank well on search engines. Hence, we set out to create a hybrid human-AI approach to empower content writers rather than replace them.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Creators Toolkit
+
+- Name: \[B12 No-Code AI]\(<https://www.b12.io/no-code-ai/> ?utm\_source=aicollection\&utm\_medium=github\&utm\_campaign=aicollection)
+
+  Title: B12’s No-Code AI Enables Anyone to Build Custom AI Tools in Minutes. Go From Using AI to Creating Your Own AI Tool in Minutes With No Expertise.
+
+  Description: Unlock new everyday efficiencies for everything from attracting leads, discovering new ideas, analyzing data, and tackling tasks specific to your industry.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Gift Ideas
+
+- Name: [OUTERMODE](https://outermode.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Gift Ideas Powered by AI 🎁.
+
+  Description: AI-Powered Gift Ideas Tool is the solution to all your gift-giving dilemmas, making the process not just easy, but genuinely enjoyable. By leveraging the power of Artificial Intelligence, the tool analyzes provided information to generate personalized gift suggestions tailored to the recipient’s tastes and preferences.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Translation & Transcript
+
+- Name: [Wavel AI](https://wavel.ai/)
+
+  Title: Wavel AI - Best AI Dubbing and Translation Tool.
+
+  Description: Get accurate ai dubbing and translation for your AUDIO & VIDEO with the latest speech synthesis technology.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Web Design
+
+- Name: [B12 AI Website Builder](https://www.b12.io/ai-website-builder/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Build Your Website in 60 Seconds With the Easiest AI Website Builder.
+
+  Description: Our AI-powered website builder instantly generates your client-ready online presence, with tools, content, and images specifically for your industry.
+
+  Offer Free Version: :white\_check\_mark:
+
+
 
 ## [Aug 14, 2023](/content/2023/08/14/README.md)
 
@@ -12,7 +74,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [LLM App (⭐158)](https://github.com/pathwaycom/llm-app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Python library to build your AI chatbot.
+  Title: Python Library to Build Your AI Chatbot.
 
   Description: Build an AI chatbot that answers questions using your own private data in real-time. Simply add llm-app to your Python project's dependencies to get started for free.
 

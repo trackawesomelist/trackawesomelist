@@ -531,6 +531,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [rafcamlet/tabline-framework.nvim (⭐92)](https://github.com/rafcamlet/tabline-framework.nvim) - User-friendly framework for building your dream tabline in a few lines of code.
 *   [nanozuki/tabby.nvim (⭐402)](https://github.com/nanozuki/tabby.nvim) - A minimal, configurable, Neovim style tabline. Use your Neovim tabs as workspace multiplexer.
 *   [roobert/bufferline-cycle-windowless.nvim (⭐20)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
+*   [mg979/tabline.nvim (⭐13)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
 
 #### Cursorline
 
@@ -910,6 +911,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [LudoPinelli/comment-box.nvim (⭐213)](https://github.com/LudoPinelli/comment-box.nvim) - Clarify and beautify your comments using boxes and lines.
 *   [JoosepAlviste/nvim-ts-context-commentstring (⭐857)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
 *   [LucasTavaresA/SingleComment.nvim (⭐5)](https://github.com/LucasTavaresA/SingleComment.nvim) - Always single line, comment sensitive, indentation preserving commenting.
+*   [Zeioth/dooku.nvim (⭐6)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 
 ### Formatting
 

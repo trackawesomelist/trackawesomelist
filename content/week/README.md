@@ -24,28 +24,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [amrebada/go-modules (⭐2)](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
 
-#### [2. Ai Collection](/content/ai-collection/ai-collection/README.md)
-
-##### Chat Bot
-
-- Name: [LLM App (⭐158)](https://github.com/pathwaycom/llm-app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Python library to build your AI chatbot.
-
-  Description: Build an AI chatbot that answers questions using your own private data in real-time. Simply add llm-app to your Python project's dependencies to get started for free.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-#### [3. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+#### [2. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ##### Tools
 
 *   [Polkadot Vault](https://signer.parity.io/) (formerly Parity Signer) - Upcycle an unused mobile phone into an air-gapped hardware wallet.
 *   [Uptest Runtime upgrade tool (⭐5)](https://github.com/uptest-sc/uptest) - Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.
 
-#### [4. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
+#### [3. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
 ##### [git-spend](https://github.com/Goutte/git-spend)
 
@@ -61,13 +47,13 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
     $ git spend sum
     3 weeks 2 days 1 hour 37 minutes
 
-#### [5. Awesome V](/content/vlang/awesome-v/README.md)
+#### [4. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Database clients
 
 *   [vredis (⭐3)](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
 
-#### [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Python / Numerical Libraries & Data Structures
 
@@ -138,7 +124,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 *   [Hands-On Machine Learning for Algorithmic Trading (⭐1.1k)](https://github.com/packtpublishing/hands-on-machine-learning-for-algorithmic-trading) - Hands-On Machine Learning for Algorithmic Trading, published by Packt
 *   [financialnoob-misc (⭐22)](https://github.com/financialnoob/misc) - Codes from @financialnoob's posts
 
-#### [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+#### [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ##### Python / Natural Language Processing
 
@@ -149,26 +135,26 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 *   [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
 *   [topicwizard (⭐21)](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
 
-#### [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+#### [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ##### Research Tools / Crypto Currencies
 
 *   [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
 
-#### [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### Mail
 
 *   [MailKitSimplified (⭐24)](https://github.com/danzuep/MailKitSimplified) - A fully-featured fluent wrapper for MailKit that makes sending *and receiving* emails as simple as possible.
 
-#### [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ask (⭐38)](https://github.com/Licheam/zsh-ask) - Serves as a ChatGPT API frontend, enabling you to interact with ChatGPT directly from the ZSH shell using only `cURL` and `jq`.
 *   [kubectlenv (⭐0)](https://github.com/rafalmasiarek/oh-my-zsh-kubectlenv-plugin) - Easily switch between multiple `kubectl` versions.
 
-#### [11. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+#### [10. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ##### [Aparajita’s plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
 
@@ -177,7 +163,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 *   [Logger (⭐13)](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
 *   [Secure Storage (⭐47)](https://github.com/aparajita/capacitor-secure-storage) – Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
-#### [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data and ML
 
@@ -191,13 +177,13 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
 
-#### [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### GTFS Converters / Ruby
 
 *   [UK2GTFS](https://itsleeds.github.io/UK2GTFS/) - R package that converts UK format TransXchange (bus, metro, tram, ferry) and CIF (rail) timetables to GTFS.
 
-#### [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -226,7 +212,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [The "Voice Cloning AIs" they never tell you about (and how they work)](https://www.youtube.com/watch?v=vhArHsfsLAQ): Youtube video by @bycloud summarizing the available technologies for voice cloning
 
-#### [15. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [14. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### InDesign
 
@@ -240,13 +226,13 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [Penpot](https://penpot.app/) - Penpot is an Open Source design and prototyping platform for product teams.
 
-#### [16. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [15. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Reports Generation
 
 *   [Image-Charts](https://www.image-charts.com/) - Chart as Image API for reports, PDFs and more.
 
-#### [17. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [16. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
@@ -261,50 +247,50 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [oxc (⭐1.5k)](https://github.com/web-infra-dev/oxc) — The Oxidation Compiler is creating a suite of high-performance tools for the JavaScript / TypeScript language re-written in Rust.
 
-#### [18. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+#### [17. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ##### Blog Series
 
 *   [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of *Image Processing* algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
-#### [19. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+#### [18. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ##### Featured On
 
 *   [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained-dde470707cb2)
 *   [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
 
-#### [20. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+#### [19. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ##### Libraries
 
 *   [raylib (⭐14k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 
-#### [21. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+#### [20. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ##### Exploit Development Tools / Zealandia
 
 *   [H26Forge (⭐187)](https://github.com/h26forge/h26forge) - Domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant video files.
 
-#### [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+#### [21. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ##### Online services
 
 *   [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
 
-#### [23. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+#### [22. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ##### Sitecore Send
 
 *   [Sitecore Send Postman Collection (⭐3)](https://github.com/neilkillen/SitecoreSendPostmanCollection) - A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.
 
-#### [24. Amas](/content/sindresorhus/amas/README.md)
+#### [23. Amas](/content/sindresorhus/amas/README.md)
 
 ##### Ask these people anything!
 
 *   [Can Tecim (⭐0)](https://github.com/cantecim/ama) - Software Engineer, former CTO, TypeScript and Node.js lover, open source contributor, remote worker based in Istanbul, Turkey.
 
-#### [25. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+#### [24. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ##### Ballerina / React
 
@@ -324,7 +310,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
 
-#### [26. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+#### [25. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ##### Maps / Web Maps
 
@@ -336,13 +322,13 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 *   [overpassforge (⭐1)](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
 *   [humanized\_opening\_hours (⭐24)](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 
-#### [27. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+#### [26. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ##### Preparedness training and wargaming / Firewall appliances or distributions
 
 *   [Stratus Red Team](https://stratus-red-team.cloud/) - Emulate offensive attack techniques in a granular and self-contained manner against a cloud environment; think "Atomic Red Team™ for the cloud."
 
-#### [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+#### [27. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ##### Applications and Platforms / Aggregators & Dashboards
 
@@ -353,7 +339,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 *   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
 *   [TimelineBuilder (⭐45)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
-#### [29. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [28. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Libraries / Filesystem
 
@@ -365,7 +351,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
     *   [vitiral/path\_abs (⭐48)](https://github.com/vitiral/path_abs) \[[path\_abs](https://crates.io/crates/path_abs)] — Absolute serializable path types and associated methods.
     *   [webdesus/fs\_extra (⭐198)](https://github.com/webdesus/fs_extra) — expanding opportunities standard library std::fs and std::io
 
-#### [30. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [29. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Functional
 
@@ -380,7 +366,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [kubeshark (⭐9.4k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
 
-#### [31. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [30. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Ports to other languages
 
@@ -394,7 +380,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [examor (⭐13)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
 
-#### [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+#### [31. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ##### Entertainment / Music
 
@@ -408,47 +394,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [hledger](https://hledger.org/) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
-#### [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### (requires Neovim 0.5)
-
-*   [roobert/action-hints.nvim (⭐11)](https://github.com/roobert/action-hints.nvim) - Show information about the word under the cursor in the statusline or as virtual text.
-*   [roobert/hoversplit.nvim (⭐2)](https://github.com/roobert/hoversplit.nvim) - Automatically updated documentation and information about code symbols in a split window.
-
-##### Programming Languages Support / Diagnostics
-
-*   [roobert/f-string-toggle.nvim (⭐8)](https://github.com/roobert/f-string-toggle.nvim) - Toggle python f-strings.
-*   [chuwy/ucm.nvim (⭐4)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
-
-##### Web Development / Diagnostics
-
-*   [roobert/tailwindcss-colorizer-cmp.nvim (⭐199)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
-
-##### Syntax / Diagnostics
-
-*   [roobert/surround-ui.nvim (⭐24)](https://github.com/roobert/surround-ui.nvim) - Helper or training aid for kylechui/nvim-surround.
-
-##### Tabline / Diagnostics
-
-*   [roobert/bufferline-cycle-windowless.nvim (⭐20)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
-
-##### Media / Diagnostics
-
-*   [niuiic/code-shot.nvim (⭐0)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
-
-##### Git / Diagnostics
-
-*   [9seconds/repolink.nvim (⭐2)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
-
-##### Motion / Diagnostics
-
-*   [roobert/tabtree.nvim (⭐1)](https://github.com/roobert/tabtree.nvim) - Jump between significant code elements, such as brackets, quotes, etc.
-
-##### Editing Support / Diagnostics
-
-*   [echasnovski/mini.nvim#mini.operators (⭐2.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
-
-#### [34. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+#### [32. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ##### Shader Packs / Building
 
@@ -458,7 +404,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [XMCL (⭐430)](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 
-#### [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Bookmarks and Link Sharing
 
@@ -468,13 +414,13 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐3.5k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
 
-#### [36. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+#### [34. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ##### Scripts / GitHub
 
 *   [GitHub Star History (⭐0)](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
 
-#### [37. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+#### [35. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ##### Mobile
 
@@ -482,7 +428,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
     <img src="https://github.com/BergenSoft/scriptable_premiumsim/raw/main/Preview.jpg" width="200"/>
 
-#### [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Projects / Desktop
 
@@ -532,6 +478,125 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
+#### [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [roobert/action-hints.nvim (⭐11)](https://github.com/roobert/action-hints.nvim) - Show information about the word under the cursor in the statusline or as virtual text.
+*   [roobert/hoversplit.nvim (⭐2)](https://github.com/roobert/hoversplit.nvim) - Automatically updated documentation and information about code symbols in a split window.
+
+##### Programming Languages Support / Diagnostics
+
+*   [roobert/f-string-toggle.nvim (⭐8)](https://github.com/roobert/f-string-toggle.nvim) - Toggle python f-strings.
+*   [chuwy/ucm.nvim (⭐4)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
+
+##### Web Development / Diagnostics
+
+*   [roobert/tailwindcss-colorizer-cmp.nvim (⭐199)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
+
+##### Syntax / Diagnostics
+
+*   [roobert/surround-ui.nvim (⭐24)](https://github.com/roobert/surround-ui.nvim) - Helper or training aid for kylechui/nvim-surround.
+
+##### Tabline / Diagnostics
+
+*   [roobert/bufferline-cycle-windowless.nvim (⭐20)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
+*   [mg979/tabline.nvim (⭐13)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
+
+##### Media / Diagnostics
+
+*   [niuiic/code-shot.nvim (⭐0)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
+
+##### Git / Diagnostics
+
+*   [9seconds/repolink.nvim (⭐2)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
+
+##### Motion / Diagnostics
+
+*   [roobert/tabtree.nvim (⭐1)](https://github.com/roobert/tabtree.nvim) - Jump between significant code elements, such as brackets, quotes, etc.
+
+##### Editing Support / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.operators (⭐2.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+
+##### Comment / Diagnostics
+
+*   [Zeioth/dooku.nvim (⭐6)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
+
+#### [38. Ai Collection](/content/ai-collection/ai-collection/README.md)
+
+##### Chat Bot
+
+- Name: [LLM App (⭐158)](https://github.com/pathwaycom/llm-app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Python Library to Build Your AI Chatbot.
+
+  Description: Build an AI chatbot that answers questions using your own private data in real-time. Simply add llm-app to your Python project's dependencies to get started for free.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Content Generation & Seo
+
+- Name: [Phrasion](https://phrasion.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Writer Blog Posts 2X Faster - With the Same Quality as Today!.
+
+  Description: Having tried many (all?) copywriting AI tools for blog writing, we found that most would create too short (<1k words) blogs posts. Additionally, posts were simple not good enough to engage readers and rank well on search engines. Hence, we set out to create a hybrid human-AI approach to empower content writers rather than replace them.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Creators Toolkit
+
+- Name: \[B12 No-Code AI]\(<https://www.b12.io/no-code-ai/> ?utm\_source=aicollection\&utm\_medium=github\&utm\_campaign=aicollection)
+
+  Title: B12’s No-Code AI Enables Anyone to Build Custom AI Tools in Minutes. Go From Using AI to Creating Your Own AI Tool in Minutes With No Expertise.
+
+  Description: Unlock new everyday efficiencies for everything from attracting leads, discovering new ideas, analyzing data, and tackling tasks specific to your industry.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Gift Ideas
+
+- Name: [OUTERMODE](https://outermode.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Gift Ideas Powered by AI 🎁.
+
+  Description: AI-Powered Gift Ideas Tool is the solution to all your gift-giving dilemmas, making the process not just easy, but genuinely enjoyable. By leveraging the power of Artificial Intelligence, the tool analyzes provided information to generate personalized gift suggestions tailored to the recipient’s tastes and preferences.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+##### Translation & Transcript
+
+- Name: [Wavel AI](https://wavel.ai/)
+
+  Title: Wavel AI - Best AI Dubbing and Translation Tool.
+
+  Description: Get accurate ai dubbing and translation for your AUDIO & VIDEO with the latest speech synthesis technology.
+
+  Offer Free Version: :grey\_question:
+
+
+
+##### Web Design
+
+- Name: [B12 AI Website Builder](https://www.b12.io/ai-website-builder/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Build Your Website in 60 Seconds With the Easiest AI Website Builder.
+
+  Description: Our AI-powered website builder instantly generates your client-ready online presence, with tools, content, and images specifically for your industry.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ---
 
 - Next: [Aug 07 - Aug 13, 2023](&#x2F;content&#x2F;2023&#x2F;32&#x2F;README.md)
@@ -549,8 +614,8 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 9. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 48K 📝 08&#x2F;08 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 10. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 08&#x2F;18 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 11. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 14K 📝 08&#x2F;17 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
-12. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 17K 📝 08&#x2F;15 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 11K 📝 08&#x2F;19 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 11K 📝 08&#x2F;19 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 17K 📝 08&#x2F;15 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
 14. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 12K 📝 08&#x2F;18 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
 15. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 08&#x2F;19 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 16. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 12K 📝 08&#x2F;17 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
@@ -563,14 +628,14 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 23. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 26K 📝 08&#x2F;06 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
 24. [Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md) - ([Source ⭐ 12K 📝 08&#x2F;12 ](https://github.com/neutraltone/awesome-stock-resources)) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 25. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 08&#x2F;11 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-26. [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K 📝 08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
-27. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 173K 📝 07&#x2F;14 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
-28. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 37K 📝 07&#x2F;29 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-29. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 4.5K 📝 08&#x2F;18 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-30. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source ⭐ 75K 📝 07&#x2F;20 ](https://github.com/papers-we-love/papers-we-love)) - Papers from the computer science community to read and discuss.
-31. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K 📝 07&#x2F;25 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-32. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 11K 📝 08&#x2F;07 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
-33. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.3K 📝 08&#x2F;14 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+26. [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.4K 📝 08&#x2F;19 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+27. [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K 📝 08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
+28. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 173K 📝 07&#x2F;14 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
+29. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 37K 📝 07&#x2F;29 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+30. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 4.5K 📝 08&#x2F;18 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+31. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source ⭐ 75K 📝 07&#x2F;20 ](https://github.com/papers-we-love/papers-we-love)) - Papers from the computer science community to read and discuss.
+32. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K 📝 07&#x2F;25 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+33. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 11K 📝 08&#x2F;07 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 34. [Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md) - ([Source ⭐ 3.5K 📝 08&#x2F;18 ](https://github.com/fabacab/awesome-cybersecurity-blueteam)) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 35. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 7.4K 📝 08&#x2F;10 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 36. [Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md) - ([Source ⭐ 5.9K 📝 08&#x2F;11 ](https://github.com/JanVanRyswyck/awesome-talks)) - Awesome online talks and screencasts
@@ -975,7 +1040,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 ### Miscellaneous
 
-- [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.3K, 📝 08&#x2F;14 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+- [Ai Collection](/content/ai-collection/ai-collection/README.md) - ([Source ⭐ 5.4K, 📝 08&#x2F;19 ](https://github.com/ai-collection/ai-collection)) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 2.9K, 📝 07&#x2F;25 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md) - ([Source ⭐ 4.5K, 📝 07&#x2F;20 ](https://github.com/mendel5/alternative-front-ends)) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Amas](/content/sindresorhus/amas/README.md) - ([Source ⭐ 1.4K, 📝 08&#x2F;18 ](https://github.com/sindresorhus/amas)) - Awesome & Marvelous Amas

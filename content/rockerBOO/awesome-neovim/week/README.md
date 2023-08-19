@@ -29,6 +29,7 @@ Collections of awesome neovim plugins.
 ### Tabline / Diagnostics
 
 *   [roobert/bufferline-cycle-windowless.nvim (⭐20)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
+*   [mg979/tabline.nvim (⭐13)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
 
 ### Media / Diagnostics
 
@@ -45,6 +46,10 @@ Collections of awesome neovim plugins.
 ### Editing Support / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.operators (⭐2.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+
+### Comment / Diagnostics
+
+*   [Zeioth/dooku.nvim (⭐6)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 

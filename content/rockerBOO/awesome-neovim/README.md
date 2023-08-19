@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Aug 19, 2023](/content/2023/08/19/README.md)
 
+### Tabline / Diagnostics
+
+*   [mg979/tabline.nvim (⭐13)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
+
 ### Media / Diagnostics
 
 *   [niuiic/code-shot.nvim (⭐0)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
@@ -15,6 +19,10 @@ Collections of awesome neovim plugins.
 ### Git / Diagnostics
 
 *   [9seconds/repolink.nvim (⭐2)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
+
+### Comment / Diagnostics
+
+*   [Zeioth/dooku.nvim (⭐6)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 
 ## [Aug 18, 2023](/content/2023/08/18/README.md)
 

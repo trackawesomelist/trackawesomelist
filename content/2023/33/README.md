@@ -466,9 +466,69 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 - Name: [LLM App (⭐158)](https://github.com/pathwaycom/llm-app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Python library to build your AI chatbot.
+  Title: Python Library to Build Your AI Chatbot.
 
   Description: Build an AI chatbot that answers questions using your own private data in real-time. Simply add llm-app to your Python project's dependencies to get started for free.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Content Generation & Seo
+
+- Name: [Phrasion](https://phrasion.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Writer Blog Posts 2X Faster - With the Same Quality as Today!.
+
+  Description: Having tried many (all?) copywriting AI tools for blog writing, we found that most would create too short (<1k words) blogs posts. Additionally, posts were simple not good enough to engage readers and rank well on search engines. Hence, we set out to create a hybrid human-AI approach to empower content writers rather than replace them.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Creators Toolkit
+
+- Name: \[B12 No-Code AI]\(<https://www.b12.io/no-code-ai/> ?utm\_source=aicollection\&utm\_medium=github\&utm\_campaign=aicollection)
+
+  Title: B12’s No-Code AI Enables Anyone to Build Custom AI Tools in Minutes. Go From Using AI to Creating Your Own AI Tool in Minutes With No Expertise.
+
+  Description: Unlock new everyday efficiencies for everything from attracting leads, discovering new ideas, analyzing data, and tackling tasks specific to your industry.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Gift Ideas
+
+- Name: [OUTERMODE](https://outermode.com/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Gift Ideas Powered by AI 🎁.
+
+  Description: AI-Powered Gift Ideas Tool is the solution to all your gift-giving dilemmas, making the process not just easy, but genuinely enjoyable. By leveraging the power of Artificial Intelligence, the tool analyzes provided information to generate personalized gift suggestions tailored to the recipient’s tastes and preferences.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Translation & Transcript
+
+- Name: [Wavel AI](https://wavel.ai/)
+
+  Title: Wavel AI - Best AI Dubbing and Translation Tool.
+
+  Description: Get accurate ai dubbing and translation for your AUDIO & VIDEO with the latest speech synthesis technology.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Web Design
+
+- Name: [B12 AI Website Builder](https://www.b12.io/ai-website-builder/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Build Your Website in 60 Seconds With the Easiest AI Website Builder.
+
+  Description: Our AI-powered website builder instantly generates your client-ready online presence, with tools, content, and images specifically for your industry.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -497,6 +557,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 ### Tabline / Diagnostics
 
 *   [roobert/bufferline-cycle-windowless.nvim (⭐20)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
+*   [mg979/tabline.nvim (⭐13)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
 
 ### Media / Diagnostics
 
@@ -513,6 +574,10 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 ### Editing Support / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.operators (⭐2.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-operators.md) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+
+### Comment / Diagnostics
+
+*   [Zeioth/dooku.nvim (⭐6)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 
 ## [38. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
