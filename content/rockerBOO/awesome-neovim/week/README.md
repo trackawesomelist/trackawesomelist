@@ -30,6 +30,14 @@ Collections of awesome neovim plugins.
 
 *   [roobert/bufferline-cycle-windowless.nvim (⭐20)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
 
+### Media / Diagnostics
+
+*   [niuiic/code-shot.nvim (⭐0)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
+
+### Git / Diagnostics
+
+*   [9seconds/repolink.nvim (⭐2)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
+
 ### Motion / Diagnostics
 
 *   [roobert/tabtree.nvim (⭐1)](https://github.com/roobert/tabtree.nvim) - Jump between significant code elements, such as brackets, quotes, etc.

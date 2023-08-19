@@ -8,6 +8,10 @@
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
+### Shader Packs / Building
+
+*   [White Wolf Shader (⭐0)](https://github.com/NotSnipc/WhiteWolfShaders) - Shader pack for Bedrock Edition focused on improving your gameplay experience.
+
 ### Softwares / Launchers
 
 *   [XMCL (⭐430)](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.

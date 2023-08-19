@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 19, 2023](/content/2023/08/19/README.md)
+
+### Media / Diagnostics
+
+*   [niuiic/code-shot.nvim (⭐0)](https://github.com/niuiic/code-shot.nvim) - Take a picture of the code.
+
+### Git / Diagnostics
+
+*   [9seconds/repolink.nvim (⭐2)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
+
 ## [Aug 18, 2023](/content/2023/08/18/README.md)
 
 ### Editing Support / Diagnostics

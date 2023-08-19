@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/bs-community/awesome-minecraft/week/README.md) / [Overview](/content/bs-community/awesome-minecraft/readme/README.md) ]
 
+## [Aug 19, 2023](/content/2023/08/19/README.md)
+
+### Shader Packs / Building
+
+*   [White Wolf Shader (⭐0)](https://github.com/NotSnipc/WhiteWolfShaders) - Shader pack for Bedrock Edition focused on improving your gameplay experience.
+
 ## [Aug 18, 2023](/content/2023/08/18/README.md)
 
 ### Softwares / Launchers
