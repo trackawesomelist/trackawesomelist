@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Aug 20, 2023](/content/2023/08/20/README.md)
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [Kubek](https://kubek.seeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐40)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
+
 ## [Aug 19, 2023](/content/2023/08/19/README.md)
 
 ### Software / Bookmarks and Link Sharing
@@ -218,7 +224,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Kubek](https://kubek.seeroycloud.tk) - Web management panel for Minecraft servers. ([Source Code (⭐40)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 *   [Lodestone (⭐529)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
 *   [SourceBans++](https://sbpp.github.io/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐305)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 

@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [LinkWarden](https://linkwarden.app/) - A self-hosted bookmark + archive manager to store your useful links. ([Source Code (⭐2k)](https://github.com/linkwarden/linkwarden)) `MIT` `Docker/Nodejs`
 
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [Kubek](https://kubek.seeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐40)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
+
 ### Software / Recipe Management
 
 *   [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code (⭐3.5k)](https://github.com/mealie-recipes/mealie)) `MIT` `Python`
@@ -189,7 +193,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Kubek](https://kubek.seeroycloud.tk) - Web management panel for Minecraft servers. ([Source Code (⭐40)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 *   [Lodestone (⭐529)](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayers. `AGPL-3.0` `Docker/Rust`
 *   [SourceBans++](https://sbpp.github.io/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐305)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 

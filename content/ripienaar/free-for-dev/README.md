@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 20, 2023](/content/2023/08/20/README.md)
+
+### DNS
+
+*   [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).
+
 ## [Aug 17, 2023](/content/2023/08/17/README.md)
 
 ### APIs, Data and ML

@@ -307,7 +307,7 @@ See also [Games Made With Piston (⭐4.4k)](https://github.com/PistonDevelopers/
 *   [ivanceras/svgbob (⭐3.6k)](https://github.com/ivanceras/svgbob) — converts ASCII diagrams into SVG graphics
 *   [Limeth/euclider (⭐204)](https://github.com/Limeth/euclider) — A real-time 4D CPU ray tracer
 *   [RazrFalcon/resvg (⭐2.1k)](https://github.com/RazrFalcon/resvg) — An SVG rendering library.
-*   [rustq/vue-skia (⭐133)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐139)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [turnage/valora](https://crates.io/crates/valora) — A library for generative fine art ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
 *   [Twinklebear/tray\_rust (⭐506)](https://github.com/Twinklebear/tray_rust) — A ray tracer
 
@@ -349,7 +349,7 @@ See also [A comparison of operating systems written in Rust (⭐556)](https://gi
 *   [Bartib (⭐455)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 *   [espanso (⭐7.9k)](https://github.com/espanso/espanso) — A cross-platform Text Expander written in Rust[![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 *   [eureka](https://crates.io/crates/eureka) — A CLI tool to input and store your ideas without leaving the terminal
-*   [Furtherance (⭐167)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
+*   [Furtherance (⭐170)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
 *   [illacloud/illa (⭐159)](https://github.com/illacloud/illa) \[[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder written with Rust.
 *   [LLDAP (⭐2.7k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 *   [pier-cli/pier (⭐439)](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
@@ -431,7 +431,7 @@ See also [A comparison of operating systems written in Rust (⭐556)](https://gi
 *   [pueue (⭐3.7k)](https://github.com/nukesor/pueue) — Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
 *   [qarmin/cakawka (⭐12k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 *   [redox-os/ion (⭐1.4k)](https://github.com/redox-os/ion) — Next-generation system shell
-*   [sharkdp/bat (⭐42k)](https://github.com/sharkdp/bat) — A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
+*   [sharkdp/bat (⭐43k)](https://github.com/sharkdp/bat) — A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 *   [sharkdp/fd (⭐28k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 *   [sitkevij/hex (⭐438)](https://github.com/sitkevij/hex) — A colorized hexdump terminal utility.
 *   [supercilex/fuc (⭐235)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
@@ -1216,6 +1216,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [stalwartlabs/mail-auth (⭐62)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 *   [stalwartlabs/mail-parser (⭐199)](https://github.com/stalwartlabs/mail-parser) \[[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 *   [stalwartlabs/mail-send (⭐163)](https://github.com/stalwartlabs/mail-send) \[[mail-send](https://crates.io/crates/mail-send)] - E-mail builder and SMTP client library with DKIM support [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
+*   [tweedegolf/mailcrab (⭐548)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
 
 ### Encoding
 
@@ -1781,6 +1782,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
     *   [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
     *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
     *   [Idiomatic Rust (⭐5k)](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+    *   [Learn Rust by 500 lines code (⭐89)](https://github.com/cuppar/rtd) — Learn Rust by 500 lines code, build a Todo Cli Application from scratch.
     *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) — in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
     *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
     *   [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.

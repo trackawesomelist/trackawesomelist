@@ -20,6 +20,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
 
+### DNS
+
+*   [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).
+
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
 ### Tools for Teams and Collaboration

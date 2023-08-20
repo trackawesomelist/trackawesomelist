@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 20, 2023](/content/2023/08/20/README.md)
+
+### Libraries / Email
+
+*   [tweedegolf/mailcrab (⭐548)](https://github.com/tweedegolf/mailcrab) — Email test server for development.
+
 ## [Aug 18, 2023](/content/2023/08/18/README.md)
 
 ### Libraries / Filesystem
@@ -65,7 +71,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [Furtherance (⭐167)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
+*   [Furtherance (⭐170)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
 
 ### Applications / System tools
 
@@ -126,7 +132,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐133)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐139)](https://github.com/rustq/vue-skia) — Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Finance
 
@@ -209,6 +215,7 @@ A curated list of Rust code and resources.
     *   [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
     *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
     *   [Idiomatic Rust (⭐5k)](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+    *   [Learn Rust by 500 lines code (⭐89)](https://github.com/cuppar/rtd) — Learn Rust by 500 lines code, build a Todo Cli Application from scratch.
     *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) — in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
     *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
     *   [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
@@ -2255,7 +2262,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [sharkdp/bat (⭐42k)](https://github.com/sharkdp/bat) — A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
+*   [sharkdp/bat (⭐43k)](https://github.com/sharkdp/bat) — A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 
 ### Libraries / Distributed systems
 
