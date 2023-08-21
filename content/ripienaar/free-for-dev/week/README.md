@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
 
+### Miscellaneous
+
+*   [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs free of charge.
+
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### APIs, Data and ML
@@ -984,10 +988,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Messaging and Streaming
 
 *   [Scramjet Cloud Platform Beta](https://www.scramjet.org/#join-beta) - An end-to-end stream processing platform in free beta and offering 15 petabyte-seconds of free compute after the beta ends.
-
-### Miscellaneous
-
-*   [Cronit](https://cronit.app) - Online cronjobs service. Free plan includes 100 job execution per month
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 

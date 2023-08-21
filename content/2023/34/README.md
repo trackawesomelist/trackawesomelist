@@ -1,12 +1,48 @@
 # Awesome List Updates on Aug 21 - Aug 27, 2023
 
-3 awesome lists updated this week.
+7 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+
+## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+
+### JupyterLab Extensions
+
+*   [jupyter-ai (⭐1.8k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
+
+## [3. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+
+### Contents / Components
+
+*   [Plotery](https://shelacek.bitbucket.io/plotery) - Fast and lightweight charting library.
+*   [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
+
+## [4. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+
+### In Portuguese
+
+*   [Adrenaline](https://open.spotify.com/show/2Yj0uF6UjYLhJzclj2jXaE) - Podcast que aborda temas de tecnologia, games e cultura geek.
+*   [Dash](https://jogabilida.de/category/podcasts/podcast-games/dash/) - Podcast sobre games em que cada episódio explora um game, tema, franquia ou desenvolvedor a fundo, servindo até como um mini-doc em áudio.
+*   [Elemencast](https://elemencast.github.io/) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
+*   [Laravel Portugal Live](https://laravel.pt/) - Os membros do Laravel Portugal reunem-se para falar sobre Laravel, PHP, a comunidade Portuguesa, ideias e muito mais. @joselaborges
+*   [Leadercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - Entrevistas tratando de assuntos como liderança e empreendedorismo.
+*   [Like a Boss](https://www.likeaboss.com.br/) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
+*   [Matando Robôs Gigantes](https://matandorobosgigantes.com/) - Podcast que trata de cultura pop, tecnologia, quadrinhos, filmes e mais.
+*   [Nerd Show Cast](https://open.spotify.com/show/454WlbRaPRlAC3qFZRXpPF) - Podcast que explora o universo nerd e tecnológico.
+*   [Quero Ouvir (Coisa de Nerd – Leon e Nilce)](https://podcasts.apple.com/br/podcast/quero-ouvir/id1474392512) - Programa de comentários sobre filmes, tecnologia e entretenimento.
+*   [SciCast](https://open.spotify.com/show/0qfFcilKpNKkXy8TbZ4moP) - Podcast que explora a ciência e temas relacionados, incluindo tecnologia.
+*   [Showmetech](https://open.spotify.com/show/57lV7FKAvxwAJ3HIZNCmI6) - Podcast abrangendo notícias de tecnologia e inovações.
+*   [Sinapse](https://open.spotify.com/show/59fUC0CFgoMfiLDXCuhjUM)- Podcast sobre neurociência e temas interdisciplinares.
+
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -88,13 +124,17 @@
 
 *   [JSON Schema (⭐2.9k) (⭐2.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
 *   [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+### Miscellaneous
+
+*   [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs free of charge.
+
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

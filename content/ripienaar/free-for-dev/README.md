@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
 
+### Miscellaneous
+
+*   [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs free of charge.
+
 ## [Aug 20, 2023](/content/2023/08/20/README.md)
 
 ### DNS
@@ -1218,12 +1222,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tools for Teams and Collaboration
 
 *   [Quidlo Timesheets](https://www.quidlo.com/timesheets) - A simple timesheet and time tracking app for teams. Free plan has time tracking and generating reports features, it is available for up to 10 users.
-
-## [Aug 07, 2022](/content/2022/08/07/README.md)
-
-### Miscellaneous
-
-*   [Cronit](https://cronit.app) - Online cronjobs service. Free plan includes 100 job execution per month
 
 ## [Aug 01, 2022](/content/2022/08/01/README.md)
 

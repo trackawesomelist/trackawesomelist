@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Aug 21, 2023](/content/2023/08/21/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+
 ## [Aug 18, 2023](/content/2023/08/18/README.md)
 
 ### Open Source Projects / Knowledge Management
