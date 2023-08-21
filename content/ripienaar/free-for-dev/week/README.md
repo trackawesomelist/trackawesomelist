@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
+
+### Design and UI
+
+*   [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
+
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### APIs, Data and ML
