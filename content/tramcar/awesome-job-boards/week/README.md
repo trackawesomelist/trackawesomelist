@@ -1,8 +1,18 @@
 # Track Awesome Job Boards Updates Weekly
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 811 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 827 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / Weekly / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
+
+### Big Data
+
+*   [AiJobsTracker](https://www.aijobstracker.com/) - live aggregator of 300+ AI-first companies's job boards, updated daily.
+
+### Various / United Kingdom
+
+*   [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
@@ -345,7 +355,6 @@
 
 ### Tech / Aggregator
 
-*   [Free & Open Source Jobs](https://www.fossjobs.net/)
 *   [Relocate.me](https://relocate.me/) - Verified relocation packages
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
@@ -381,12 +390,6 @@
 ### InfoSec
 
 *   [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
-
-## [Apr 15 - Apr 21, 2019](/content/2019/15/README.md)
-
-### Programming / Full-Stack
-
-*   [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 

@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Aug 22, 2023](/content/2023/08/22/README.md)
+
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+
+*   [Early days of AI - by Elad Gil](https://blog.eladgil.com/p/early-days-of-ai): thoughts about AI as "an entirely new era and discontinuity from the past"
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [The human costs of the AI boom | TechCrunch](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
+
 ## [Aug 17, 2023](/content/2023/08/17/README.md)
 
 ### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
@@ -166,7 +176,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
-*   [Shaunwei/RealChar (⭐4.4k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
+*   [Shaunwei/RealChar (⭐4.8k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 *   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
 *   [AI Voice Generator](https://www.aivoicegenerator.org): free online AI-powered text-to-speech generator that creates voice overs with natural, realistic voices
 
@@ -237,7 +247,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [wolfia-app/gpt-code-search (⭐138)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+*   [wolfia-app/gpt-code-search (⭐146)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
 ## [Jul 03, 2023](/content/2023/07/03/README.md)
 
@@ -413,7 +423,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
-*   [Vercel for AI agents (⭐5.3k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
+*   [Vercel for AI agents (⭐5.4k)](https://github.com/e2b-dev/e2b): "help developers to build, deploy, and monitor AI agents, focusing on specialized AI agents that build software for you - your personal software developers"
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
@@ -431,7 +441,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [e2b-dev/e2b (⭐5.3k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
+*   [e2b-dev/e2b (⭐5.4k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 
 ## [May 18, 2023](/content/2023/05/18/README.md)
 
@@ -447,7 +457,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
-*   [brexhq/prompt-engineering (⭐6.7k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
+*   [brexhq/prompt-engineering (⭐6.9k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 
 ## [May 12, 2023](/content/2023/05/12/README.md)
 
@@ -503,7 +513,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Multimodal Embedding Space / Generative Adversarial Networks (GANs)
 
-*   [facebookresearch/ImageBind (⭐6.8k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐6.9k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 ### Online Tools and Applications / Generative Adversarial Networks (GANs)
 
@@ -533,15 +543,15 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Music and Audio projects / Generative Adversarial Networks (GANs)
 
-*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐9k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
+*   [AudioGPT | arxiv](https://arxiv.org/abs/2304.12995): Understanding and Generating Speech, Music, Sound, and Talking Head [\[code\] (⭐9.1k)](https://github.com/AIGC-Audio/AudioGPT) [\[demo\]](https://huggingface.co/spaces/AIGC-Audio/AudioGPT)
 
 ## [Apr 28, 2023](/content/2023/04/28/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐5.9k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
+*   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐6.1k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 *   [hpcaitech/ColossalAI (⭐32k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
-*   [microsoft/LoRA (⭐5.9k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
+*   [microsoft/LoRA (⭐6.1k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 
 ### Courses and Educational Materials / Deforum
 
@@ -555,11 +565,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Galleries
 
-*   [kyrolabs/awesome-langchain (⭐4.4k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
+*   [kyrolabs/awesome-langchain (⭐4.6k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 
 ### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
-*   [neuml/txtai (⭐4.4k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+*   [neuml/txtai (⭐4.7k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 
 ## [Apr 21, 2023](/content/2023/04/21/README.md)
 
@@ -592,9 +602,9 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
 *   [AgentGPT](https://agentgpt.reworkd.ai/): "assemble, configure, and deploy autonomous AI Agents in your browser"
-*   [yoheinakajima/babyagi (⭐16k)](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
-*   [Torantulino/Auto-GPT (⭐146k)](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
-*   [microsoft/JARVIS (⭐21k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
+*   [yoheinakajima/babyagi (⭐17k)](https://github.com/yoheinakajima/babyagi): an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks
+*   [Torantulino/Auto-GPT (⭐147k)](https://github.com/Torantulino/Auto-GPT): "an experimental open-source attempt to make GPT-4 fully autonomous"
+*   [microsoft/JARVIS (⭐22k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 *   [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
 ## [Apr 11, 2023](/content/2023/04/11/README.md)
@@ -607,7 +617,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [lm-sys/FastChat (⭐26k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
+*   [lm-sys/FastChat (⭐27k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
 
 ## [Apr 09, 2023](/content/2023/04/09/README.md)
 
@@ -617,7 +627,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [pgosar/ChatGDB (⭐870)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+*   [pgosar/ChatGDB (⭐872)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 
 ## [Apr 07, 2023](/content/2023/04/07/README.md)
 
@@ -667,7 +677,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Hypertechniques / References Collection about Stable Diffusion
 
-*   [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [\[unofficial repo\] (⭐54)](https://github.com/cloneofsimo/promptplusplus) [\[arxiv\]](https://arxiv.org/abs/2303.09522) [\[page\]](https://prompt-plus.github.io/)
+*   [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [\[unofficial repo\] (⭐55)](https://github.com/cloneofsimo/promptplusplus) [\[arxiv\]](https://arxiv.org/abs/2303.09522) [\[page\]](https://prompt-plus.github.io/)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
@@ -685,7 +695,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐20k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
+*   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐22k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
 *   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
 
 ## [Mar 23, 2023](/content/2023/03/23/README.md)
@@ -952,11 +962,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [openai/openai-cookbook (⭐45k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+*   [openai/openai-cookbook (⭐47k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ### Miscellaneous / Auxiliary tools and concepts
 
-*   [chaiNNer-org/chaiNNer (⭐2.8k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
+*   [chaiNNer-org/chaiNNer (⭐2.9k)](https://github.com/chaiNNer-org/chaiNNer): A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks
 
 ## [Feb 01, 2023](/content/2023/02/01/README.md)
 
@@ -1035,11 +1045,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
-*   \[🔥] [weihaox/awesome-gan-inversion (⭐996)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+*   \[🔥] [weihaox/awesome-gan-inversion (⭐1k)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
 ### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
 
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐149)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐151)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 
 ### People and works / Artists and Artworks
 
@@ -1173,7 +1183,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Galleries
 
-*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐297)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐299)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
@@ -1192,7 +1202,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Text-to-speech (TTS) and avatars / Generative Adversarial Networks (GANs)
 
-*   [neonbjb/tortoise-tts (⭐8.4k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
+*   [neonbjb/tortoise-tts (⭐8.6k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
@@ -1248,7 +1258,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Stable Diffusion / For text-to-image
 
-*   [DETEXTIFY (⭐151)](https://github.com/iuliaturc/detextify): A Python library to remove unwanted pseudo-text from images generated by your favorite generative AI models (Stable Diffusion, Midjourney, DALL·E)
+*   [DETEXTIFY (⭐155)](https://github.com/iuliaturc/detextify): A Python library to remove unwanted pseudo-text from images generated by your favorite generative AI models (Stable Diffusion, Midjourney, DALL·E)
 
 ### Image Synthesis / Promptism
 
