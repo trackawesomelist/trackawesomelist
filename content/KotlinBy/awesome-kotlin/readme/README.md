@@ -139,7 +139,7 @@ Here is the awesome badge for your project:
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
 *   [RookieTree/DaMaiHelper (⭐512)](https://github.com/RookieTree/DaMaiHelper) - 大麦抢票辅助
-*   [CCBlueX/LiquidBounce (⭐966)](https://github.com/CCBlueX/LiquidBounce) - A free mixin-based injection hacked client for Minecraft using the Fabric API
+*   [deniscerri/ytdlnis (⭐793)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 *   [JetBrains/compose-multiplatform-ios-android-template (⭐1.2k)](https://github.com/JetBrains/compose-multiplatform-ios-android-template) - Compose Multiplatform iOS+Android Application project template
 *   [z-huang/InnerTune (⭐1.8k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 *   [MatsuriDayo/NekoBoxForAndroid (⭐2k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
@@ -148,62 +148,57 @@ Here is the awesome badge for your project:
 *   [saikou-app/saikou (⭐4.1k)](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
 *   [ReVanced/revanced-patches (⭐4.1k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 *   [recloudstream/cloudstream (⭐4.2k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-*   [JunkFood02/Seal (⭐4.6k)](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 *   [RikkaApps/Shizuku (⭐4.6k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+*   [JunkFood02/Seal (⭐4.6k)](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 *   [androidx/androidx (⭐4.7k)](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
-*   [vfsfitvnm/ViMusic (⭐4.9k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
+*   [vfsfitvnm/ViMusic (⭐5k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 *   [libre-tube/LibreTube (⭐5.9k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-*   [ethereum-lists/chains (⭐6.6k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
-*   [ankidroid/Anki-Android (⭐6.8k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 *   [skydoves/Pokedex (⭐6.9k)](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 *   [Shabinder/SpotiFlyer (⭐9k)](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 *   [pppscn/SmsForwarder (⭐9.9k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 *   [android/nowinandroid (⭐12k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+*   [JetBrains/compose-multiplatform (⭐13k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 *   [gedoor/legado (⭐17k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 *   [android/compose-samples (⭐17k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 *   [2dust/v2rayNG (⭐23k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [Kr328/ClashForAndroid (⭐26k)](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
+*   [JetBrains/kotlin (⭐45k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
 *   [sahaj-nano/nano-demo-calculator-app (⭐19)](https://github.com/sahaj-nano/nano-demo-calculator-app) - Demo app to test and get used to the demo envrionment
-*   [maxrave-dev/SimpMusic (⭐169)](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
-*   [deniscerri/ytdlnis (⭐793)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
-*   [mozilla-mobile/firefox-android (⭐894)](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects.
-*   [d4rken-org/sdmaid-se (⭐898)](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-*   [lavalink-devs/Lavalink (⭐1.3k)](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
+*   [Nilsen84/lcqt2 (⭐45)](https://github.com/Nilsen84/lcqt2)
+*   [EranBoudjnah/CleanArchitectureForAndroid (⭐71)](https://github.com/EranBoudjnah/CleanArchitectureForAndroid) - Clean Architecture for Android - a sample project
+*   [Droid-ify/client (⭐1.6k)](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
+*   [rumboalla/apkupdater (⭐1.6k)](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 *   [ReVanced/revanced-patcher (⭐2.1k)](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
-*   [osfans/trime (⭐2.2k)](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 *   [PaperMC/Folia (⭐2.4k)](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
+*   [Netflix/dgs-framework (⭐2.7k)](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 *   [tiann/KernelSU (⭐4.1k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+*   [Kotlin/kotlinx.serialization (⭐4.7k)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
+*   [chrisbanes/tivi (⭐6k)](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
 *   [YiiGuxing/TranslationPlugin (⭐10k)](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
+*   [alibaba/p3c (⭐29k)](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 *   [shadowsocks/shadowsocks-android (⭐34k)](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 *   [android/architecture-samples (⭐43k)](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-*   [JetBrains/kotlin (⭐45k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [droidknights/DroidKnights2023\_App (⭐64)](https://github.com/droidknights/DroidKnights2023_App) - 국내 최대 규모 안드로이드 컨퍼런스 드로이드나이츠 2023 앱
-*   [Aspw-w/NightX-Client (⭐100)](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
-*   [qyinter/yuanshenlink (⭐123)](https://github.com/qyinter/yuanshenlink)
-*   [EranBoudjnah/CleanArchitectureForAndroid (⭐71)](https://github.com/EranBoudjnah/CleanArchitectureForAndroid) - Clean Architecture for Android - a sample project
-*   [DroidKaigi/conference-app-2023 (⭐318)](https://github.com/DroidKaigi/conference-app-2023)
-*   [nightscout/AndroidAPS (⭐498)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
-*   [getsentry/sentry-java (⭐1k)](https://github.com/getsentry/sentry-java) - A Sentry SDK for Java, Android and other JVM languages.
-*   [mpv-android/mpv-android (⭐1.4k)](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
-*   [Droid-ify/client (⭐1.6k)](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
-*   [wikimedia/apps-android-wikipedia (⭐2k)](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
-*   [VREMSoftwareDevelopment/WiFiAnalyzer (⭐2.2k)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
-*   [vector-im/element-android (⭐3k)](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
-*   [skydoves/chatgpt-android (⭐3.2k)](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
-*   [apollographql/apollo-kotlin (⭐3.5k)](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
-*   [mobile-dev-inc/maestro (⭐4.2k)](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
-*   [Kotlin/kotlinx.serialization (⭐4.7k)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
-*   [chrisbanes/tivi (⭐6k)](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
+*   [android/platform-samples (⭐385)](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
+*   [VegaBobo/DSU-Sideloader (⭐760)](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
+*   [flipperdevices/Flipper-Android-App (⭐858)](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
+*   [d4rken-org/sdmaid-se (⭐898)](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+*   [patrykandpatrick/vico (⭐1.1k)](https://github.com/patrykandpatrick/vico) - A light and extensible chart library for Android.
+*   [jing332/tts-server-android (⭐1.4k)](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
+*   [Swordfish90/Lemuroid (⭐1.4k)](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
+*   [KieronQuinn/TapTap (⭐3k)](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
+*   [owncloud/android (⭐3.6k)](https://github.com/owncloud/android) - :phone: The ownCloud Android App
+*   [Ehviewer-Overhauled/Ehviewer (⭐4k)](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
+*   [yairm210/Unciv (⭐5.8k)](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+*   [ethereum-lists/chains (⭐6.6k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
+*   [yujincheng08/BiliRoaming (⭐7.3k)](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 *   [ktorio/ktor (⭐11k)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
-*   [Kotlin/kotlinx.coroutines (⭐12k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-*   [square/leakcanary (⭐29k)](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-*   [square/okhttp (⭐44k)](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+*   [tachiyomiorg/tachiyomi (⭐24k)](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -357,9 +352,9 @@ Here is the awesome badge for your project:
 *   [EranBoudjnah/TestIt (⭐37)](https://github.com/EranBoudjnah/TestIt) - Generate unit testing boilerplate from kotlin files.
 *   [tyro/arbitrater (⭐39)](https://github.com/tyro/arbitrater) - Arbitrater is a library for creating arbitrary (randomized) instances of classes by reflection for use in testing.
 *   [qwertukg/SeleniumBuilder (⭐51)](https://github.com/qwertukg/SeleniumBuilder) - DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin builder style.
-*   [Trendyol/stove4k (⭐62)](https://github.com/Trendyol/stove4k) - The easiest way of writing e2e tests for your back-end API with all physical dependencies in Kotlin.
 *   [permissions-dispatcher/kompile-testing (⭐70)](https://github.com/permissions-dispatcher/kompile-testing) - Testing tools for kotlinc and kapt.
 *   [EPadronU/balin (⭐73)](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
+*   [Trendyol/stove4k (⭐62)](https://github.com/Trendyol/stove4k) - The easiest way of writing e2e tests for your back-end API with all physical dependencies in Kotlin.
 *   [xgouchet/Elmyr (⭐80)](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
 *   [dmcg/minutest (⭐102)](https://github.com/dmcg/minutest) - Simple, Expressive, Extensible Testing for Kotlin on the JVM
 *   [karumi/KotlinSnapshot (⭐161)](https://github.com/karumi/KotlinSnapshot) - Verify your data with snapshot testing.
@@ -606,8 +601,8 @@ Here is the awesome badge for your project:
 *   [debop/koda-time (⭐83)](https://github.com/debop/koda-time) - Joda Time Extensions in Kotlin. (From Java 8 use java.time instead)
 *   [ivanisidrowu/KtRssReader (⭐84)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
 *   [spoptchev/scientist (⭐86)](https://github.com/spoptchev/scientist) - A kotlin library for refactoring code. Port of GitHub's scientist.
-*   [vendelieu/telegram-bot (⭐92)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 *   [kunalsheth/units-of-measure (⭐92)](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
+*   [vendelieu/telegram-bot (⭐92)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 *   [KotUniL (⭐93)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
 *   [KotlinNLP/SimpleDNN (⭐93)](https://github.com/KotlinNLP/SimpleDNN) - SimpleDNN is a machine learning lightweight open-source library part of KotlinNLP and has been designed to support relevant neural network architectures in natural language processing tasks.
 *   [kohesive/solr-undertow (⭐96)](https://github.com/kohesive/solr-undertow) - Solr Standalone Tiny and High performant server.
@@ -616,8 +611,8 @@ Here is the awesome badge for your project:
 *   [TicketmasterMobileStudio/actions-on-google-kotlin (⭐118)](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin) - Port of official Node.js SDK to Kotlin. Complete with all features and tests and nearly identical API.
 *   [kohesive/klutter (⭐143)](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository.
 *   [Kotlin/kotlinx.reflect.lite (⭐146)](https://github.com/Kotlin/kotlinx.reflect.lite) - Lightweight library allowing to introspect basic stuff about Kotlin symbols.
-*   [krud-dev/shapeshift (⭐156)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
 *   [fork-handles/tuples4k (⭐156)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
+*   [krud-dev/shapeshift (⭐156)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
 *   [MehdiK/Humanizer.jvm (⭐163)](https://github.com/MehdiK/Humanizer.jvm) - Humanizer.jvm meets all your jvm needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 *   [holgerbrandl/kravis (⭐177)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
 *   [just-ai/jaicf-kotlin (⭐223)](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development.
@@ -695,8 +690,8 @@ Here is the awesome badge for your project:
 *   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 *   [Jonatino/JOGL2D (⭐29)](https://github.com/Jonatino/JOGL2D) - Zero-overhead 2D rendering library for JOGL using Kotlin.
 *   [kotlin-graphics/gli (⭐30)](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
-*   [soywiz/kaifu2x (⭐32)](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
 *   [kotlin-graphics/openvr (⭐32)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
+*   [soywiz/kaifu2x (⭐32)](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
 *   [java-opengl-labs/learn-OpenGL (⭐36)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
 *   [dananas/kotlin-glsl (⭐38)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
 *   [kotlin-graphics/bullet (⭐39)](https://github.com/kotlin-graphics/bullet) - bullet port
@@ -704,8 +699,8 @@ Here is the awesome badge for your project:
 *   [kotlin-graphics/kotlin-unsigned (⭐73)](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
 *   [nwillc/ksvg (⭐74)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
 *   [kotlin-graphics/assimp (⭐89)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
-*   [java-opengl-labs/modern-jogl-examples (⭐100)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 *   [openrndr/orx (⭐101)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
+*   [java-opengl-labs/modern-jogl-examples (⭐100)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 *   [kotlin-graphics/glm (⭐114)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
 *   [markaren/three.kt (⭐192)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 *   [data2viz/data2viz (⭐393)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
@@ -728,8 +723,8 @@ Here is the awesome badge for your project:
 *   [kyonifer/koma (⭐272)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
 *   [JetBrains/lets-plot-kotlin (⭐337)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
 *   [breandan/kotlingrad (⭐496)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
-*   [Kotlin/multik (⭐544)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
 *   [Kotlin/dataframe (⭐544)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
+*   [Kotlin/multik (⭐544)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
 *   [mipt-npm/kmath (⭐546)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
 *   [Kotlin/kotlin-jupyter (⭐941)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
 *   [JetBrains/KotlinDL](https://jetbrains.github.io/KotlinDL/) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
@@ -839,7 +834,7 @@ Here is the awesome badge for your project:
 *   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
 *   [pintowar/sudoscan (⭐6)](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
 *   [russellbanks/HashHash (⭐28)](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
-*   [krud-dev/ostara (⭐245)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
+*   [krud-dev/ostara (⭐248)](https://github.com/krud-dev/ostara) - A desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator.
 
 ### <a name="projects-examples"></a>Examples <sup>[Back ⇈](#projects-examples-subcategory)</sup>
 

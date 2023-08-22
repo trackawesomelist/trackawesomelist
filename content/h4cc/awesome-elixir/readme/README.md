@@ -522,7 +522,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 *   [aescmac (⭐8)](https://github.com/kleinernik/elixir-aes-cmac) - AES CMAC ([RFC 4493](https://tools.ietf.org/html/rfc4493)) in Elixir.
 *   [cipher (⭐59)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-*   [cloak (⭐521)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
+*   [cloak (⭐520)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
 *   [comeonin (⭐1.3k)](https://github.com/riverrun/comeonin) - Password hashing (argon2, bcrypt, pbkdf2\_sha512) library for Elixir.(<https://hexdocs.pm/comeonin/api-reference.html>).
 *   [crypto\_rsassa\_pss (⭐10)](https://github.com/potatosalad/erlang-crypto_rsassa_pss) - RSASSA-PSS Public Key Cryptographic Signature Algorithm for Erlang.
 *   [elixir\_tea (⭐2)](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
@@ -847,6 +847,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [plug\_session\_memcached (⭐14)](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
 *   [plug\_statsd (⭐49)](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
+*   [pluggable (⭐7)](https://github.com/mruoss/pluggable) - Build `plug`-like pipelines with your own token (instead of `%Plug.Conn{}`).
 *   [plugs (⭐18)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 *   [plugsnag (⭐67)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 *   [raygun (⭐18)](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
@@ -1240,7 +1241,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [download (⭐33)](https://github.com/asiniy/download) - Download files from the internet easily.
 *   [eio (⭐12)](https://github.com/falood/eio) - Elixir server of engine.io.
 *   [ExPcap (⭐28)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
-*   [Firezone (⭐4.6k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐4.7k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
 *   [hades (⭐24)](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
 *   [mac (⭐5)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
@@ -1507,7 +1508,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [ca (⭐16)](https://github.com/synrc/ca) - Certificate Authority.
 *   [clamxir (⭐9)](https://github.com/ramortegui/clamxir) - ClamAV wrapper for elixir.
 *   [code\_signing (⭐5)](https://github.com/benknowles/code_signing) - Signing and verifying BEAM files with Ed25519 signatures.
-*   [Ockam (⭐3.4k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐3.5k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 *   [pwned (⭐21)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 *   [safetybox (⭐19)](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 *   [site\_encrypt (⭐421)](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
@@ -2067,6 +2068,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *   [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
 *   [Elixir Code Smells (⭐1.3k)](https://github.com/lucasvegi/Elixir-Code-Smells) - A catalog of Elixir-specific code smells that can harm the quality of software developed using this language.
 *   [Elixir Functional Programming (⭐360)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Refactorings (⭐0)](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
 *   [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
 *   [Elixir Tab (⭐103)](https://github.com/efexen/elixir-tab) - Chrome Extension which helps you learn the Elixir core lib.
 *   [Elixir vs Ruby | How Switching To Elixir Made Our Team Better](https://foxbox.com/blog/elixir-vs-ruby/) - Long-form post that explains in detail when and why you should choose Elixir over Ruby.
