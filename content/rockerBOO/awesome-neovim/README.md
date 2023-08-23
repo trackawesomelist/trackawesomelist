@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 23, 2023](/content/2023/08/23/README.md)
+
+### AI / Diagnostics
+
+*   [CamdenClark/flyboy (⭐11)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
+
 ## [Aug 19, 2023](/content/2023/08/19/README.md)
 
 ### Tabline / Diagnostics
@@ -67,13 +73,13 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [linrongbin16/fzfx.nvim (⭐2)](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance.
+*   [linrongbin16/fzfx.nvim (⭐43)](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance.
 
 ## [Aug 05, 2023](/content/2023/08/05/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [aznhe21/actions-preview.nvim (⭐72)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
+*   [aznhe21/actions-preview.nvim (⭐103)](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 
 ### Keybinding / Diagnostics
 
@@ -141,44 +147,44 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [okuuva/auto-save.nvim (⭐22)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
+*   [okuuva/auto-save.nvim (⭐28)](https://github.com/okuuva/auto-save.nvim) - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
 
 ## [Jul 21, 2023](/content/2023/07/21/README.md)
 
 ### Editing Support / Diagnostics
 
-*   [HiPhish/rainbow-delimiters.nvim (⭐125)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
-*   [00sapo/visual.nvim (⭐113)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
+*   [HiPhish/rainbow-delimiters.nvim (⭐143)](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters with Tree-sitter.
+*   [00sapo/visual.nvim (⭐119)](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvimdev/lspsaga.nvim (⭐2.9k)](https://github.com/nvimdev/lspsaga.nvim) - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
+*   [nvimdev/lspsaga.nvim (⭐3k)](https://github.com/nvimdev/lspsaga.nvim) - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nvimdev/zephyr-nvim (⭐300)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
+*   [nvimdev/zephyr-nvim (⭐302)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
 
 ### Startup / Diagnostics
 
-*   [nvimdev/dashboard-nvim (⭐1.6k)](https://github.com/nvimdev/dashboard-nvim) - A minimalist dashboard, inspired by doom-emacs.
+*   [nvimdev/dashboard-nvim (⭐1.7k)](https://github.com/nvimdev/dashboard-nvim) - A minimalist dashboard, inspired by doom-emacs.
 
 ### Formatting / Diagnostics
 
-*   [elentok/format-on-save.nvim (⭐54)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
+*   [elentok/format-on-save.nvim (⭐79)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [AlexvZyl/nordic.nvim (⭐307)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
+*   [AlexvZyl/nordic.nvim (⭐331)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
 
 ## [Jul 17, 2023](/content/2023/07/17/README.md)
 
 ### Formatting / Diagnostics
 
-*   [niuiic/format.nvim (⭐25)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
+*   [niuiic/format.nvim (⭐28)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
 
 ## [Jul 16, 2023](/content/2023/07/16/README.md)
 
@@ -220,7 +226,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [zootedb0t/citruszest.nvim (⭐17)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+*   [zootedb0t/citruszest.nvim (⭐24)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
 
 ## [Jun 29, 2023](/content/2023/06/29/README.md)
 
@@ -274,7 +280,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [linrongbin16/gitlinker.nvim (⭐18)](https://github.com/linrongbin16/gitlinker.nvim) - Generate sharable file permalinks (with line ranges) for git host websites, a fork of "ruifm's gitlinker", refactored with pattern based rule engine, windows support and other enhancements.
+*   [linrongbin16/gitlinker.nvim (⭐19)](https://github.com/linrongbin16/gitlinker.nvim) - Generate sharable file permalinks (with line ranges) for git host websites, a fork of "ruifm's gitlinker", refactored with pattern based rule engine, windows support and other enhancements.
 
 ## [Jun 13, 2023](/content/2023/06/13/README.md)
 
@@ -296,21 +302,21 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/dropbar.nvim (⭐452)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
+*   [Bekaboo/dropbar.nvim (⭐467)](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box.
 
 ### Competitive Programming / Diagnostics
 
-*   [Dhanus3133/Leetbuddy.nvim (⭐67)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
+*   [Dhanus3133/Leetbuddy.nvim (⭐78)](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim.
 
 ## [Jun 01, 2023](/content/2023/06/01/README.md)
 
 ### Utility / Diagnostics
 
-*   [yagiziskirik/AirSupport.nvim (⭐6)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
+*   [yagiziskirik/AirSupport.nvim (⭐7)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
 
 ### Code Runner / Diagnostics
 
-*   [google/executor.nvim (⭐63)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+*   [google/executor.nvim (⭐74)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 
 ## [May 29, 2023](/content/2023/05/29/README.md)
 
@@ -424,7 +430,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [VidocqH/lsp-lens.nvim (⭐122)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
+*   [VidocqH/lsp-lens.nvim (⭐132)](https://github.com/VidocqH/lsp-lens.nvim) - Display function references above function definition like IDEA codelens.
 
 ## [Apr 27, 2023](/content/2023/04/27/README.md)
 

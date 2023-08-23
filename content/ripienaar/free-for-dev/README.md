@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 23, 2023](/content/2023/08/23/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [OnlineInterview.io](https://onlineinterview.io/) - Free code interview platform, with embedded video chat, drawing board, and online code editor where you can compile and run your code on the browser. You can create a remote interview room with just one click.
+
+### CDN and Protection
+
+*   [LightCDN](https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S) requests.
+
 ## [Aug 21, 2023](/content/2023/08/21/README.md)
 
 ### Design and UI

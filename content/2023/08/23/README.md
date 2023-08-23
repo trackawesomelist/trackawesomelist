@@ -1,18 +1,64 @@
 # Awesome List Updates on Aug 23, 2023
 
-5 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Utilities
+
+*   [air (⭐11k)](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [OnlineInterview.io](https://onlineinterview.io/) - Free code interview platform, with embedded video chat, drawing board, and online code editor where you can compile and run your code on the browser. You can create a remote interview room with just one click.
+
+### CDN and Protection
+
+*   [LightCDN](https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S) requests.
+
+## [3. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+
+### Tools
+
+*   [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
+
+## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+
+### General Section / Svelte
+
+*   [Grok](https://grok.computer). Free daily summary of the internet for software engineers. [Archive](https://grok.computer/newsletter)
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### AI / Diagnostics
+
+*   [CamdenClark/flyboy (⭐11)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
+
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Development / HTTP Client
+
+*   [curlie (⭐2.4k)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
+
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+
+### Security Auditing Services / Wallets
+
+*   [Tenset Security](https://x.com/tenset_security) - Comprising a team of Web3 Security Researchers, Tenset Security is dedicated to leaving no stone unturned in their pursuit of security excellence. They have a [proven track record of success](https://twitter.com/algoworld_nft/status/1691891473166279042) in discovering high-severity vulnerabilities specifically within Algorand projects, emphasizing their expertise and commitment to the Algorand ecosystem.
+
+## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
 *   [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -30,20 +76,20 @@
 
 *   [NDJSON (⭐579) (⭐577)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [3. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+## [10. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [Ostinato](https://ostinato.org/): Ostinato is a versatile packet crafter, pcap editor/player and traffic generator with an intuitive GUI. Add-ons include high-speed 10/25/40G traffic generation and scripting/ automation Python APIs. Works on all platforms - Windows, MacOS, Linux and the labbing platforms - CML, EVE-NG and GNS3.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Misc
 
 *   [kpspemu/kpspemu (⭐68)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
 *   [chrislo27/RhythmHeavenRemixEditor (⭐418)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Games - Administrative Utilities & Control Panels
 

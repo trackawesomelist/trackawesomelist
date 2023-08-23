@@ -2,9 +2,15 @@
 
 🕶️A curated list of awesome tools for dealing with CSV.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/secretGeek/AwesomeCSV/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) · ⭐ 454 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/secretGeek/AwesomeCSV/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) · ⭐ 542 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/secretGeek/AwesomeCSV/week/README.md) / [Overview](/content/secretGeek/AwesomeCSV/readme/README.md) ]
+
+## [Aug 23, 2023](/content/2023/08/23/README.md)
+
+### Tools
+
+*   [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
 
 ## [Jun 01, 2022](/content/2022/06/01/README.md)
 
@@ -45,7 +51,7 @@
 
 ### Generate Table Schema / Treat CSV as SQL
 
-*   [PSKit Query (⭐34)](https://github.com/dfinke/PSKit#sql-query) — Powershell module lets you run simple queries over objects, including imported with csv
+*   [PSKit Query (⭐36)](https://github.com/dfinke/PSKit#sql-query) — Powershell module lets you run simple queries over objects, including imported with csv
 
 ## [Oct 03, 2019](/content/2019/10/03/README.md)
 
@@ -88,7 +94,7 @@
 
 ### Tools
 
-*   [Rainbow CSV plugins (⭐455)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim (⭐455)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
+*   [Rainbow CSV plugins (⭐518)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim (⭐518)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 
 ## [Feb 27, 2019](/content/2019/02/27/README.md)
 
@@ -119,9 +125,9 @@
 ### Tools
 
 *   [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
-*   [d3-dsv (⭐382)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
+*   [d3-dsv (⭐403)](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
 *   [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
-*   [XSV (⭐8.7k)](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
+*   [XSV (⭐9.5k)](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
 *   [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 *   [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
 *   [awk by example (⭐10k)](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk.
@@ -131,15 +137,15 @@
 *   [Tad](https://www.tadviewer.com) - A fast free cross-platform CSV viewer.
 *   [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) - A tiny library for making charts from csv data.
 *   [CSV Tools](https://onlinecsvtools.com/) - A collection of useful CSV utilities.
-*   [graph-cli (⭐737)](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
+*   [graph-cli (⭐759)](https://github.com/mcastorina/graph-cli) - Flexible command line tool to create graphs from CSV data.
 *   [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) - Online tool to create insert/update/delete etc from CSV data.
-*   [C#: kbCSV (⭐75)](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
-*   [csvprintf (⭐34)](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
+*   [C#: kbCSV (⭐77)](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
+*   [csvprintf (⭐37)](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
 *   [Mockaroo](https://www.mockaroo.com/) - Random data generator for CSV / JSON / SQL / Excel.
 
 ### Tools / Repair or Validate CSV
 
-*   [Csvlint.go (⭐163)](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
+*   [Csvlint.go (⭐175)](https://github.com/Clever/csvlint) - Command line tool for validating CSV files against RFC 4180.
 
 ### Generate Table Schema / Treat CSV as SQL
 
@@ -148,7 +154,7 @@
 
 ### Generate Table Schema / Convert to or from CSV
 
-*   [CSV to Table (⭐1k)](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
+*   [CSV to Table (⭐1.1k)](https://github.com/vividvilla/csvtotable) - Convert CSV files to searchable and sortable HTML table.
 
 ### Generate Table Schema / CSV <-> JSON
 
@@ -167,7 +173,7 @@
 *   [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 *   [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 *   [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-*   [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
+*   [awesome-public-datasets (⭐56k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 
 ### Conferences / CSV <-> JSON
 
@@ -184,6 +190,6 @@
 
 ### META: Other similar lists / CSV <-> JSON
 
-*   [structured-text-tools (⭐6.4k)](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
+*   [structured-text-tools (⭐6.7k)](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 *   [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 *   [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.

@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
+
+### Utilities
+
+*   [air (⭐11k)](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
+
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### Functional
@@ -193,7 +199,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [portal (⭐922)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
+*   [portal (⭐941)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
 
 ### Style Guides / Libraries for creating HTTP middlewares
 
@@ -467,7 +473,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Game Development
 
-*   [Harfang3D (⭐354)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐34)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐358)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐34)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -677,7 +683,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Schema Migration
 
-*   [bytebase (⭐6.4k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐6.7k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
@@ -960,7 +966,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐758)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐773)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [May 09 - May 15, 2022](/content/2022/19/README.md)
 
@@ -2947,11 +2953,11 @@ A curated list of awesome Go frameworks, libraries and software
 *   [dummy (⭐175)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 *   [Easegress (⭐5.5k)](https://github.com/megaease/easegress) - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
 *   [etcd (⭐44k)](https://github.com/coreos/etcd) - Highly-available key value store for shared configuration and service discovery.
-*   [Euterpe (⭐489)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
+*   [Euterpe (⭐491)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
 *   [Fider (⭐2.4k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 *   [Flagr (⭐2.2k)](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 *   [flipt (⭐2.7k)](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
-*   [go-feature-flag (⭐766)](https://github.com/thomaspoignant/go-feature-flag) - A feature flag solution, with only a YAML file in the backend (S3, GitHub, HTTP, local file ...), no server to install, just add a file in a central system and refer to it.
+*   [go-feature-flag (⭐791)](https://github.com/thomaspoignant/go-feature-flag) - A feature flag solution, with only a YAML file in the backend (S3, GitHub, HTTP, local file ...), no server to install, just add a file in a central system and refer to it.
 *   [go-proxy-cache (⭐96)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 *   [jackal (⭐1.4k)](https://github.com/ortuman/jackal) - An XMPP server written in Go.
 *   [lets-proxy2 (⭐80)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
@@ -2963,7 +2969,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [psql-streamer (⭐52)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [riemann-relay (⭐2)](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
 *   [RoadRunner (⭐7.3k)](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
-*   [SFTPGo (⭐6.6k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+*   [SFTPGo (⭐6.7k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [simple-jwt-provider (⭐34)](https://github.com/leberKleber/simple-jwt-provider) - Simple and lightweight provider which exhibits JWTs, supports login, password-reset (via mail) and user management.
 *   [Trickster (⭐1.9k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 
@@ -3671,7 +3677,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [terraform-provider-openapi (⭐254)](https://github.com/dikhan/terraform-provider-openapi) - Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed.
 *   [traefik (⭐44k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 *   [trubka (⭐330)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
-*   [uTask (⭐947)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
+*   [uTask (⭐959)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐22k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 *   [webhook (⭐9.2k)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
 *   [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.

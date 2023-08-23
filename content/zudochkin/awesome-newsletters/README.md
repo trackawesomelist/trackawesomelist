@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Aug 23, 2023](/content/2023/08/23/README.md)
+
+### General Section / Svelte
+
+*   [Grok](https://grok.computer). Free daily summary of the internet for software engineers. [Archive](https://grok.computer/newsletter)
+
 ## [Aug 10, 2023](/content/2023/08/10/README.md)
 
 ### General Section / Svelte
