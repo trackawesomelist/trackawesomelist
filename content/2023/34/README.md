@@ -1,12 +1,50 @@
 # Awesome List Updates on Aug 21 - Aug 27, 2023
 
-14 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Software / Make your life easier
+
+*   [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
+
+## [2. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+
+### Traffic Analysis/Inspection
+
+*   [Ostinato](https://ostinato.org/): Ostinato is a versatile packet crafter, pcap editor/player and traffic generator with an intuitive GUI. Add-ons include high-speed 10/25/40G traffic generation and scripting/ automation Python APIs. Works on all platforms - Windows, MacOS, Linux and the labbing platforms - CML, EVE-NG and GNS3.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐6.3k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++`
+
+### Software / Miscellaneous
+
+*   [Fasten Health (⭐822)](https://github.com/fastenhealth/fasten-onprem/) `⚠` - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. `GPL-3.0` `Go/Docker`
+
+### Software / Pastebins
+
+*   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐493)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker`
+
+### Software / Software Development - API Management
+
+*   [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. ([Source Code (⭐40)](https://github.com/exogee-technology/graphweaver)) `MIT` `Nodejs`
+
+### Software / Software Development - Project Management
+
+*   [rgit (⭐15)](https://github.com/w4/rgit) - An ultra-fast & lightweight cgit clone. ([Demo](https://git.inept.dev/)) `WTFPL` `Rust/Docker`
+
+### Software / Task Management & To-do Lists
+
+*   [AppFlowy](https://appflowy.io/) - With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. ([Source Code (⭐38k)](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`
+
+## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Big Data
 
@@ -16,7 +54,7 @@
 
 *   [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
 
-## [2. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [5. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Testing
 
@@ -26,7 +64,7 @@
 
 *   [entype (⭐1)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -36,13 +74,13 @@
 
 *   [The human costs of the AI boom | TechCrunch](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
 *   [micro-gl (⭐65)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -52,7 +90,12 @@
 
 *   [Elixir Refactorings (⭐0)](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐68)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐418)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
 
 ### Projects / Desktop
 
@@ -102,32 +145,32 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 
-## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [11. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
 
-## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [12. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyter-ai (⭐1.8k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 
-## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [13. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Plotery](https://shelacek.bitbucket.io/plotery) - Fast and lightweight charting library.
 *   [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -144,18 +187,18 @@
 *   [Showmetech](https://open.spotify.com/show/57lV7FKAvxwAJ3HIZNCmI6) - Podcast abrangendo notícias de tecnologia e inovações.
 *   [Sinapse](https://open.spotify.com/show/59fUC0CFgoMfiLDXCuhjUM)- Podcast sobre neurociência e temas interdisciplinares.
 
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
 *   [Gravitee.io API Management (⭐43) (⭐41)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐752) (⭐750)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+*   [WSO2 API Manager (⭐753) (⭐750)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 
 ### Projects / API Design
 
 *   [Dredd (⭐4k) (⭐4k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
 *   [OpenAPI-GUI (⭐1.2k) (⭐1.3k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
-*   [OpenAPI Diff (⭐635) (⭐634)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Diff (⭐634) (⭐634)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [OpenAPI Style Validator (⭐169) (⭐171)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 *   [Spectral (⭐2k) (⭐2k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 
@@ -167,7 +210,7 @@
 
 ### Projects / API Gateway
 
-*   [Apinto (⭐893) (⭐890)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
+*   [Apinto (⭐894) (⭐890)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
 *   [Ocelot (⭐7.7k) (⭐7.8k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 
 ### Projects / API Testing
@@ -234,7 +277,7 @@
 ### Resources / Data Formats
 
 *   [Apache Avro (⭐2.5k) (⭐2.6k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
-*   [NDJSON (⭐578) (⭐577)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [NDJSON (⭐579) (⭐577)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [XML](https://www.w3.org/TR/xml11/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
 *   [YAML (⭐259) (⭐259)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
@@ -246,7 +289,7 @@
 
 *   [JSON Schema (⭐2.9k) (⭐2.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
@@ -256,7 +299,7 @@
 
 *   [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs free of charge.
 
-## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

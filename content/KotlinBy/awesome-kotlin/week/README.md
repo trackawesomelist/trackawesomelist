@@ -8,6 +8,11 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐68)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐418)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
 ### Projects / Desktop
 
 *   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
@@ -287,17 +292,17 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Projects / Misc
 
-*   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
-*   [krzema12/fsynth (⭐11)](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
-*   [madhead/tyzenhaus (⭐12)](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
-*   [Poweranimal/PowerCollections (⭐16)](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
-*   [AngryJKirk/familybot (⭐110)](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
-*   [lice-lang/lice (⭐126)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
-*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐143)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
-*   [ruslanys/telegraff (⭐149)](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
-*   [borisf/classyshark-bytecode-viewer (⭐200)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
-*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
 *   [quicktype/quicktype (⭐10k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
+*   [lice-lang/lice (⭐126)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
+*   [borisf/classyshark-bytecode-viewer (⭐200)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐143)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
+*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
+*   [Poweranimal/PowerCollections (⭐16)](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
+*   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
+*   [ruslanys/telegraff (⭐149)](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
+*   [krzema12/fsynth (⭐11)](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
+*   [AngryJKirk/familybot (⭐110)](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
+*   [madhead/tyzenhaus (⭐12)](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
 
 ### Projects / Desktop
 
@@ -305,9 +310,9 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [ice1000/dev-kt (⭐94)](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
 *   [ruslanys/vkmusic (⭐34)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
 *   [datalisk/datalisk](https://github.com/datalisk/datalisk) - A file sync and storage application with end-to-end encryption and multi-platform support.
-*   [yschimke/okurl (⭐122)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
 *   [pintowar/sudoscan (⭐6)](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
 *   [russellbanks/HashHash (⭐28)](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
+*   [yschimke/okurl (⭐122)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
 
 ### Projects / Examples
 
@@ -437,7 +442,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [antoniolg/Bandhook-Kotlin (⭐1.9k)](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
 *   [antoniolg/Kotlin-for-Android-Developers (⭐2.6k)](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
 *   [damianpetla/kotlin-dagger-example (⭐532)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
-*   [dodyg/AndroidRivers (⭐321)](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
 *   [MakinGiants/banjen (⭐11)](https://github.com/MakinGiants/banjen) - Android app to help to tune a banjo.
 *   [inaka/kotlillon (⭐33)](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
 *   [MakinGiants/todayhistory (⭐29)](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history.
@@ -478,6 +482,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [PatilShreyas/NotyKT (⭐1.5k)](https://github.com/PatilShreyas/NotyKT) - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
 *   [Marwa-Eltayeb/CurrencyExchange (⭐9)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
 *   [AmrDeveloper/Linkhub (⭐124)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
+*   [dodyg/AndroidRivers (⭐321)](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
 
 ### Android / Extensions
 

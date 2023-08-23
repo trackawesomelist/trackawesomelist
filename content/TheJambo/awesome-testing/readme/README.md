@@ -43,6 +43,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Make your life easier
 
+*   [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
 *   [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
 *   [BareTail](https://www.baremetalsoft.com/baretail/) - Brings the tail linux command to Windows, coloured lines and REGEX search and loads of other features.
 *   [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - We all have to mess with proxies, this makes it a lot easier when using Test/Prod/localhost proxies.
@@ -53,27 +54,27 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
 *   [TestLink (⭐1.3k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
-*   [recheck-web (⭐258)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
-*   [Kiwi TCMS (⭐862)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐8.7k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
-*   [QA Wolf (⭐3.2k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
+*   [recheck-web (⭐261)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
+*   [Kiwi TCMS (⭐870)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
+*   [Captura (⭐8.8k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
+*   [QA Wolf (⭐3.3k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 *   [Synth (⭐1.2k)](https://github.com/getsynth/synth) - Open Source test data generator.
 *   [Requestly](https://requestly.io/) - A lightweight proxy as a browser extension & desktop app to intercept & modify network requests. You can Modify Headers, Redirect Url, Mock API response, Delay/Throttle requests, etc.
 *   [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for testing and robotic process automation (RPA).
 *   [wopee.io](https://wopee.io/) - Autonomous testing platform providing bot for autonomous visual regression testing.
-*   [DeepfakeHTTP (⭐481)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
-*   [Keploy (⭐2k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
+*   [DeepfakeHTTP (⭐485)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
+*   [Keploy (⭐2.1k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
 *   [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 *   [Touca (⭐435)](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
-*   [test-each (⭐105)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+*   [test-each (⭐106)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 *   [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
-*   [RestQA (⭐72)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+*   [RestQA (⭐74)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
 
 ### Web3 and Blockchain
 
 *   [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
 *   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
-*   [Foundry (⭐6.3k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+*   [Foundry (⭐6.4k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 *   [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
 *   [Robot Framework Solidity Testing Toolkit (⭐6)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
 *   [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
@@ -104,7 +105,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Training (Includes developer training for automation testers)
 
-*   [Learn to Code (⭐3.3k)](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
+*   [Learn to Code (⭐3.4k)](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
 *   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 *   [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 *   [Coursera](https://www.coursera.org/) - Online courses from top universities.
@@ -128,20 +129,20 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Must Read
 
-*   [Falsehoods (⭐21k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+*   [Falsehoods (⭐22k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐45k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐857)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐861)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Useful References
 
-*   [The Original (⭐262k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-*   [Learn to Code (⭐3.3k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [The Original (⭐266k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [Learn to Code (⭐3.4k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 *   [Application Security (⭐5.7k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
-*   [Selenium (⭐919)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
+*   [Selenium (⭐925)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐10k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 *   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
-*   [Awesome Cucumber (⭐42)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
-*   [Awesome JMeter (⭐625)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome Cucumber (⭐41)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
+*   [Awesome JMeter (⭐634)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 *   [How They Test (⭐5.4k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## QA and Testing Road Map

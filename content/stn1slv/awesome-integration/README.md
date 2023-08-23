@@ -6,26 +6,38 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Aug 23, 2023](/content/2023/08/23/README.md)
+
+### Projects / API Management
+
+*   [WSO2 API Manager (⭐753) (⭐750)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐634) (⭐634)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+
+### Projects / API Gateway
+
+*   [Apinto (⭐894) (⭐890)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
+
+### Resources / Data Formats
+
+*   [NDJSON (⭐579) (⭐577)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+
 ## [Aug 22, 2023](/content/2023/08/22/README.md)
 
 ### Projects / API Management
 
 *   [Gravitee.io API Management (⭐43) (⭐41)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐752) (⭐750)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐635) (⭐634)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [OpenAPI Style Validator (⭐169) (⭐171)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
 ### Projects / API Documentation
 
 *   [DapperDox (⭐378) (⭐377)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
 *   [OpenAPI Explorer (⭐215) (⭐212)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-
-### Projects / API Gateway
-
-*   [Apinto (⭐893) (⭐890)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
 
 ### Projects / API Testing
 
@@ -45,10 +57,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Workflow engine
 
 *   [Temporal (⭐7.9k) (⭐7.9k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐578) (⭐577)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
 ## [Aug 21, 2023](/content/2023/08/21/README.md)
 
