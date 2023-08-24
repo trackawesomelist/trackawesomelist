@@ -1,60 +1,84 @@
 # Awesome List Updates on Aug 21 - Aug 27, 2023
 
-23 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [1. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Greece 🇬🇷
+
+### Saarbrücken
+
+<img src="https://github.com/karlhorky/awesome-speakers/raw/main/./avatars/ThorstenHans" height="70px" width="70px" align="left" alt="" />
+
+**Thorsten Hans**\
+Topics: Containers, Azure, Kubernetes, Rust, Wasm\
+<https://twitter.com/ThorstenHans>
+
+## [2. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+
+### Manufacturers
+
+*   [MicroVision](https://microvision.com/) - A pioneer in MEMS-based laser beam scanning technology, the main focus is on building Automotive grade Lidar sensors
+    *   [YouTube channel :red\_circle:](https://www.youtube.com/user/mvisvideo)
+    *   GitHub organization :octocat:]\(<https://github.com/MicroVision-Inc>)
+
+## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Utilities
 
 *   [air (⭐11k)](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
 
-## [2. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [4. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
 *   [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
 
-## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
 *   [Grok](https://grok.computer). Free daily summary of the internet for software engineers. [Archive](https://grok.computer/newsletter)
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
 *   [CamdenClark/flyboy (⭐11)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [askfiy/visual\_studio\_code (⭐64)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / HTTP Client
 
 *   [curlie (⭐2.4k)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Security Auditing Services / Wallets
 
 *   [Tenset Security](https://x.com/tenset_security) - Comprising a team of Web3 Security Researchers, Tenset Security is dedicated to leaving no stone unturned in their pursuit of security excellence. They have a [proven track record of success](https://twitter.com/algoworld_nft/status/1691891473166279042) in discovering high-severity vulnerabilities specifically within Algorand projects, emphasizing their expertise and commitment to the Algorand ecosystem.
 
-## [7. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [9. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
 
-## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [10. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [Ostinato](https://ostinato.org/): Ostinato is a versatile packet crafter, pcap editor/player and traffic generator with an intuitive GUI. Add-ons include high-speed 10/25/40G traffic generation and scripting/ automation Python APIs. Works on all platforms - Windows, MacOS, Linux and the labbing platforms - CML, EVE-NG and GNS3.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -80,7 +104,7 @@
 
 *   [AppFlowy](https://appflowy.io/) - With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. ([Source Code (⭐38k)](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`
 
-## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Big Data
 
@@ -90,7 +114,7 @@
 
 *   [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Testing
 
@@ -100,7 +124,7 @@
 
 *   [entype (⭐1)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -110,13 +134,17 @@
 
 *   [The human costs of the AI boom | TechCrunch](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
+
+*   [Kombai](https://kombai.com/): generate UI code per component from Figma
+
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
 *   [micro-gl (⭐65)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
 
-## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -126,7 +154,16 @@
 
 *   [Elixir Refactorings (⭐0)](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
 
-## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [17. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
 
 ### Projects / Misc
 
@@ -181,32 +218,33 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 
-## [17. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [19. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+*   [LLMStack (⭐99)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
-## [18. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [20. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyter-ai (⭐1.8k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 
-## [19. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [21. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Plotery](https://shelacek.bitbucket.io/plotery) - Fast and lightweight charting library.
 *   [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
 
-## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [22. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -223,7 +261,7 @@
 *   [Showmetech](https://open.spotify.com/show/57lV7FKAvxwAJ3HIZNCmI6) - Podcast abrangendo notícias de tecnologia e inovações.
 *   [Sinapse](https://open.spotify.com/show/59fUC0CFgoMfiLDXCuhjUM)- Podcast sobre neurociência e temas interdisciplinares.
 
-## [21. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [23. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -325,7 +363,7 @@
 
 *   [JSON Schema (⭐2.9k) (⭐2.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -343,7 +381,7 @@
 
 *   [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs free of charge.
 
-## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

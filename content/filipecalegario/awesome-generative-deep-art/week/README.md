@@ -16,6 +16,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The human costs of the AI boom | TechCrunch](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
 
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
+
+*   [Kombai](https://kombai.com/): generate UI code per component from Figma
+
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository

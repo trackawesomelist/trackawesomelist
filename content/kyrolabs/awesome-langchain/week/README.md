@@ -11,6 +11,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+*   [LLMStack (⭐99)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
@@ -39,7 +40,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Ax (⭐727)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
-*   [TextAI (⭐4.4k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
+*   [TextAI (⭐4.7k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 *   [AgentFlow (⭐172)](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
@@ -180,7 +181,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SuperAGI (⭐12k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
-*   [e2b (⭐5.3k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐5.4k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.5k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 *   [TermGPT (⭐352)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
 
@@ -333,7 +334,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [AudioGPT (⭐9k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐9.1k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 

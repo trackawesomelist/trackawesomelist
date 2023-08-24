@@ -159,7 +159,7 @@ List of non-official ports of LangChain to other languages.
 ### Other / Chatbots
 
 *   [DB GPT (⭐6k)](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
-*   [AudioGPT (⭐9k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐9.1k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 *   [Paper QA (⭐2.9k)](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 *   [Chat Langchain (⭐3.3k)](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
 *   [Langchain Chat (⭐855)](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat. ![GitHub Repo stars](https://img.shields.io/github/stars/zahidkhawaja/langchain-chat-nextjs?style=social)
@@ -244,7 +244,7 @@ List of non-official ports of LangChain to other languages.
 *   [PromptFlow (⭐236)](https://github.com/InsuranceToolkits/promptflow): Create executable flowcharts that link LLMs (Large Language Models), Prompts, Python functions, and conditional logic together. ![GitHub Repo stars](https://img.shields.io/github/stars/InsuranceToolkits/promptflow?style=social)
 *   [OpenLM (⭐326)](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript (⭐186)](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
 *   [Dust (⭐662)](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
-*   [e2b (⭐5.3k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐5.4k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SuperAGI (⭐12k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
 *   [SmartGPT (⭐1.5k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 *   [TermGPT (⭐352)](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
@@ -263,10 +263,11 @@ List of non-official ports of LangChain to other languages.
 *   [LMQL (⭐2.1k)](https://github.com/eth-sri/lmql): A programming language for large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social)
 *   [LLMFlow (⭐423)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 *   [Ax (⭐727)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
-*   [TextAI (⭐4.4k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
+*   [TextAI (⭐4.7k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 *   [AgentFlow (⭐172)](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
 *   [Outlines (⭐1.6k)](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
 *   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+*   [LLMStack (⭐99)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
 ## Complement to this list
 

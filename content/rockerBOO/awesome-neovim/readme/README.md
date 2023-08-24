@@ -376,6 +376,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [rafamadriz/neon (⭐146)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
 *   [tomasiser/vim-code-dark (⭐868)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
 *   [Mofiqul/vscode.nvim (⭐481)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
+*   [askfiy/visual\_studio\_code (⭐64)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 *   [marko-cerovac/material.nvim (⭐812)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [bluz71/vim-nightfly-colors (⭐652)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 *   [bluz71/vim-moonfly-colors (⭐648)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.

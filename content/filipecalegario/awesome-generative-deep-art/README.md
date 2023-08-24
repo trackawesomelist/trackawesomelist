@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Aug 24, 2023](/content/2023/08/24/README.md)
+
+### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
+
+*   [Kombai](https://kombai.com/): generate UI code per component from Figma
+
 ## [Aug 22, 2023](/content/2023/08/22/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository

@@ -2,9 +2,17 @@
 
 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/szenergy/awesome-lidar/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) · ⭐ 575 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/szenergy/awesome-lidar/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) · ⭐ 586 · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/szenergy/awesome-lidar/week/README.md) / [Overview](/content/szenergy/awesome-lidar/readme/README.md) ]
+
+## [Aug 24, 2023](/content/2023/08/24/README.md)
+
+### Manufacturers
+
+*   [MicroVision](https://microvision.com/) - A pioneer in MEMS-based laser beam scanning technology, the main focus is on building Automotive grade Lidar sensors
+    *   [YouTube channel :red\_circle:](https://www.youtube.com/user/mvisvideo)
+    *   GitHub organization :octocat:]\(<https://github.com/MicroVision-Inc>)
 
 ## [Aug 01, 2023](/content/2023/08/01/README.md)
 
@@ -23,27 +31,27 @@
 *   [LGSVL / SVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2. *Note:* LG has made the difficult decision to [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) active development of SVL Simulator.
     *   [GitHub repository :octocat: (⭐2.1k)](https://github.com/lgsvl/simulator)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/LGSVLSimulator)
-*   [OSSDC SIM (⭐67)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
-    *   [GitHub repository :octocat: (⭐67)](https://github.com/OSSDC/OSSDC-SIM)
+*   [OSSDC SIM (⭐68)](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
+    *   [GitHub repository :octocat: (⭐68)](https://github.com/OSSDC/OSSDC-SIM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=fU_C38WEwGw)
 *   [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
-    *   [GitHub repository :octocat: (⭐328)](https://github.com/tier4/AWSIM)
+    *   [GitHub repository :octocat: (⭐338)](https://github.com/tier4/AWSIM)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=FH7aBWDmSNA)
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome ROS 2 :octocat: (⭐1.3k)](https://github.com/fkromer/awesome-ros2#readme)
+*   [Awesome ROS 2 :octocat: (⭐1.4k)](https://github.com/fkromer/awesome-ros2#readme)
 
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
 ### Algorithms / Basic matching algorithms
 
 *   [Iterative closest point (ICP) :red\_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
-    *   [GitHub repository :octocat: (⭐190)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
+    *   [GitHub repository :octocat: (⭐192)](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
     *   [GitHub repository :octocat: (⭐1.4k)](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
     *   [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher: Comparing ICP variants on real-world data sets.
 *   [KISS-ICP :red\_circle:](https://www.youtube.com/watch?v=kMMH8rA1ggI) - In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done the Right Way.
-    *   [GitHub repository :octocat: (⭐933)](https://github.com/PRBonn/kiss-icp)
+    *   [GitHub repository :octocat: (⭐961)](https://github.com/PRBonn/kiss-icp)
     *   [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
@@ -54,19 +62,19 @@
     *   [GitHub repository :octocat: (⭐1.1k)](https://github.com/QingyongHu/RandLA-Net)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=Ar3eY_lwzMk)
 *   [Automatic labelling :newspaper:](https://arxiv.org/pdf/2108.13757.pdf) - Automatic labelling of urban point clouds using data fusion
-    *   [GitHub repository :octocat: (⭐125)](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing)
+    *   [GitHub repository :octocat: (⭐126)](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=qMj_WM6D0vI)
 
 ## [Oct 19, 2022](/content/2022/10/19/README.md)
 
 ### Algorithms / Ground segmentation
 
-*   [Plane Seg :octocat: (⭐134)](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
+*   [Plane Seg :octocat: (⭐135)](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
 *   [LineFit Graph :newspaper:](https://ieeexplore.ieee.org/abstract/document/5548059)- Line fitting-based fast ground segmentation for horizontal 3D LiDAR data
-    *   [GitHub repository :octocat: (⭐506)](https://github.com/lorenwel/linefit_ground_segmentation)
+    *   [GitHub repository :octocat: (⭐510)](https://github.com/lorenwel/linefit_ground_segmentation)
 *   [Patchwork :newspaper:](https://arxiv.org/pdf/2108.05560.pdf)- Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data
-    *   [GitHub repository :octocat: (⭐341)](https://github.com/LimHyungTae/patchwork)
+    *   [GitHub repository :octocat: (⭐351)](https://github.com/LimHyungTae/patchwork)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
 *   [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
     *   [GitHub repository :octocat: (⭐204)](https://github.com/url-kaist/patchwork-plusplus-ros)
@@ -78,7 +86,7 @@
 
 *   [Boreas Dataset](https://www.boreas.utias.utoronto.ca/) - The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow. The Boreas data-taking platform features a unique high-quality sensor suite with a 128-channel Velodyne Alpha Prime lidar, a 360-degree Navtech radar, and accurate ground truth poses obtained from an Applanix POSLV GPS/IMU.
     *   [Paper 📰](https://arxiv.org/abs/2203.10168)
-    *   [GitHub repository :octocat: (⭐62)](https://github.com/utiasASRL/pyboreas)
+    *   [GitHub repository :octocat: (⭐64)](https://github.com/utiasASRL/pyboreas)
 
 ## [Aug 15, 2022](/content/2022/08/15/README.md)
 
@@ -100,7 +108,7 @@
 
 ### Datasets
 
-*   [Brno Urban Dataset :octocat: (⭐134)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
+*   [Brno Urban Dataset :octocat: (⭐135)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
@@ -108,7 +116,7 @@
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome LIDAR-Camera calibration :octocat: (⭐616)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
+*   [Awesome LIDAR-Camera calibration :octocat: (⭐636)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 
 ## [May 16, 2022](/content/2022/05/16/README.md)
 
@@ -125,14 +133,14 @@
 ### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 
 *   [Removert :newspaper:](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
-    *   [GitHub repository :octocat: (⭐413)](https://github.com/irapkaist/removert)
+    *   [GitHub repository :octocat: (⭐420)](https://github.com/irapkaist/removert)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Algorithms / Object detection and object tracking
 
 *   [urban\_road\_filter :newspaper:](https://doi.org/10.3390/s22010194)-
     Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
-    *   [GitHub repository :octocat: (⭐215)](https://github.com/jkk-research/urban_road_filter)
+    *   [GitHub repository :octocat: (⭐220)](https://github.com/jkk-research/urban_road_filter)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
 
 ## [Jan 05, 2022](/content/2022/01/05/README.md)
@@ -140,7 +148,7 @@
 ### Algorithms / Semantic segmentation
 
 *   [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
-    *   [GitHub repository :octocat: (⭐475)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐480)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 
 ### Related awesome / Object detection and object tracking
@@ -152,7 +160,7 @@
 ### Algorithms / Semantic segmentation
 
 *   [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
-    *   [GitHub repository :octocat: (⭐475)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐480)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 
 ## [Nov 18, 2021](/content/2021/11/18/README.md)
@@ -187,7 +195,7 @@
 ### Others / Object detection and object tracking
 
 *   [Semantic Segmentation Editor :octocat: (⭐1.6k)](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory, point cloud annotator / labeling.
-*   [3D Bounding Box Annotation Tool :octocat: (⭐492)](https://github.com/walzimmer/3d-bat) - 3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.
+*   [3D Bounding Box Annotation Tool :octocat: (⭐498)](https://github.com/walzimmer/3d-bat) - 3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams, point cloud annotator / labeling.
     *   [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 
@@ -218,7 +226,7 @@
 *   [Awesome point cloud analysis :octocat: (⭐3.8k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
 *   [Awesome robotics :octocat: (⭐3.4k)](https://github.com/Kiloreux/awesome-robotics#readme)
 *   [Awesome robotics libraries :octocat: (⭐1.9k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome artificial intelligence :octocat: (⭐8k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome artificial intelligence :octocat: (⭐8.1k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome machine learning :octocat: (⭐60k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome deep learning :octocat: (⭐21k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
@@ -236,8 +244,8 @@
 
 ### Others / Object detection and object tracking
 
-*   [Bpy :octocat: (⭐850)](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
-*   [Photogrammetry importer :octocat: (⭐727)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
+*   [Bpy :octocat: (⭐858)](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
+*   [Photogrammetry importer :octocat: (⭐732)](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
 
 ## [Dec 23, 2020](/content/2020/12/23/README.md)
 
@@ -245,7 +253,7 @@
 
 *   [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
     *   [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
-    *   [GitHub repository :octocat: (⭐278)](https://github.com/Ford/AVData)
+    *   [GitHub repository :octocat: (⭐279)](https://github.com/Ford/AVData)
 *   [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
     *   [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
@@ -266,11 +274,11 @@
 ### Libraries
 
 *   [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
-    *   [GitHub repository :octocat: (⭐8.7k)](https://github.com/PointCloudLibrary/pcl)
+    *   [GitHub repository :octocat: (⭐8.8k)](https://github.com/PointCloudLibrary/pcl)
 *   [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
     *   [GitHub repository :octocat: (⭐18k)](https://github.com/rusty1s/pytorch_geometric)
 *   [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-    *   [GitHub repository :octocat: (⭐7.5k)](https://github.com/facebookresearch/pytorch3d)
+    *   [GitHub repository :octocat: (⭐7.6k)](https://github.com/facebookresearch/pytorch3d)
 *   [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
     *   [GitHub repository :octocat: (⭐1.3k)](https://github.com/daavoo/pyntcloud)
 
@@ -283,10 +291,10 @@
 ### Algorithms / Semantic segmentation
 
 *   [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
-    *   [GitHub repository :octocat: (⭐255)](https://github.com/PRBonn/rangenet_lib)
+    *   [GitHub repository :octocat: (⭐258)](https://github.com/PRBonn/rangenet_lib)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
 *   [PolarNet :newspaper:](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
-    *   [GitHub repository :octocat: (⭐335)](https://github.com/edwardzhou130/PolarSeg)
+    *   [GitHub repository :octocat: (⭐337)](https://github.com/edwardzhou130/PolarSeg)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 *   [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
     *   [GitHub repository :octocat: (⭐1.5k)](https://github.com/charlesq34/frustum-pointnets)
@@ -301,10 +309,10 @@
 *   [Cartographer :octocat: (⭐6.6k)](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 *   [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
-    *   [GitHub repository :octocat: (⭐777)](https://github.com/PRBonn/semantic_suma/)
+    *   [GitHub repository :octocat: (⭐785)](https://github.com/PRBonn/semantic_suma/)
     *   [YouTube video :red\_circle:](https://youtu.be/uo3ZuLuFAzk)
 *   [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
-    *   [GitHub repository :octocat: (⭐582)](https://github.com/PRBonn/OverlapNet)
+    *   [GitHub repository :octocat: (⭐588)](https://github.com/PRBonn/OverlapNet)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 
 ### Algorithms / Object detection and object tracking
@@ -316,7 +324,7 @@
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
 *   [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
-    *   [GitHub repository :octocat: (⭐105)](https://github.com/peiyunh/WYSIWYG)
+    *   [GitHub repository :octocat: (⭐107)](https://github.com/peiyunh/WYSIWYG)
 
 ### Simulators / Object detection and object tracking
 
@@ -350,14 +358,14 @@
 
 ### Others / Object detection and object tracking
 
-*   [Pointcloudprinter :octocat: (⭐143)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
+*   [Pointcloudprinter :octocat: (⭐144)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 
 ## [Nov 05, 2020](/content/2020/11/05/README.md)
 
 ### Libraries
 
 *   [Kaolin](https://kaolin.readthedocs.io/en/latest/) - Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.
-    *   [GitHub repository :octocat: (⭐3.8k)](https://github.com/NVIDIAGameWorks/kaolin/)
+    *   [GitHub repository :octocat: (⭐3.9k)](https://github.com/NVIDIAGameWorks/kaolin/)
     *   [Paper :newspaper:](https://arxiv.org/pdf/1911.05063.pdf)
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit.
     *   [GitHub repository :octocat: (⭐1.9k)](https://github.com/pyvista/pyvista)
@@ -390,7 +398,7 @@
 ### Libraries
 
 *   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-    *   [GitHub repository :octocat: (⭐9.2k)](https://github.com/intel-isl/Open3D)
+    *   [GitHub repository :octocat: (⭐9.3k)](https://github.com/intel-isl/Open3D)
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 
 ### Frameworks
@@ -481,7 +489,7 @@
 
 *   [Velodyne](https://velodynelidar.com/) - Ouster and Velodyne announced the successful completion of their *merger* of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VelodyneLiDAR)
-    *   [ROS driver :octocat: (⭐577)](https://github.com/ros-drivers/velodyne)
+    *   [ROS driver :octocat: (⭐578)](https://github.com/ros-drivers/velodyne)
 *   [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/Ouster-lidar)
     *   [GitHub organization :octocat:](https://github.com/ouster-lidar)

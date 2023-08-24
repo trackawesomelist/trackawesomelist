@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [CamdenClark/flyboy (⭐11)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [askfiy/visual\_studio\_code (⭐64)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### (requires Neovim 0.5)

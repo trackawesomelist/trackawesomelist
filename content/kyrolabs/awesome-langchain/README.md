@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Aug 24, 2023](/content/2023/08/24/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [LLMStack (⭐99)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
+
 ## [Aug 21, 2023](/content/2023/08/21/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
@@ -44,7 +50,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [TextAI (⭐4.4k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
+*   [TextAI (⭐4.7k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 
 ## [Aug 09, 2023](/content/2023/08/09/README.md)
 
@@ -237,7 +243,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SuperAGI (⭐12k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
-*   [e2b (⭐5.3k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐5.4k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.5k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 
 ### Open Source Projects / Other / Chatbots
@@ -475,7 +481,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [AudioGPT (⭐9k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐9.1k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
