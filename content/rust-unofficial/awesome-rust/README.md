@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 24, 2023](/content/2023/08/24/README.md)
+
+### Libraries / eBPF
+
+*   [aya/aya-rs (⭐2k)](https://github.com/aya-rs/aya) — A Rust library for the Rust programming language, built with a focus on developer experience and operability.
+*   [libbpf/libbpf-rs (⭐485)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling for the Rust ecosystem.
+
 ## [Aug 20, 2023](/content/2023/08/20/README.md)
 
 ### Libraries / Email

@@ -1084,12 +1084,14 @@ additional ordered map implementations.
 *   [currency (⭐412)](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
 *   [currency (⭐52)](https://github.com/bnkamalesh/currency) - High performant & accurate currency computation package.
 *   [decimal (⭐5.3k)](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers.
+*   [decimal (⭐1)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
 *   [fpdecimal (⭐24)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
 *   [fpmoney (⭐20)](https://github.com/nikolaydubina/fpmoney) - Fast and simple ISO4217 fixed-point decimal money.
 *   [go-finance (⭐150)](https://github.com/alpeb/go-finance) - Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 *   [go-finance (⭐13)](https://github.com/pieterclaerhout/go-finance) - Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers.
 *   [go-finnhub (⭐79)](https://github.com/m1/go-finnhub) - Client for stock market, forex and crypto data from finnhub.io. Access real-time financial market data from 60+ stock exchanges, 10 forex brokers, and 15+ crypto exchanges.
 *   [go-money (⭐1.3k)](https://github.com/rhymond/go-money) - Implementation of Fowler's Money pattern.
+*   [money (⭐0)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 *   [ofxgo (⭐117)](https://github.com/aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client).
 *   [orderbook (⭐347)](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang.
 *   [payme (⭐22)](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments.
@@ -2048,6 +2050,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [jsonpath (⭐18)](https://github.com/AsaiYusuke/jsonpath) - A query library for retrieving part of JSON based on JSONPath syntax.
 *   [jsonql (⭐269)](https://github.com/elgs/jsonql) - JSON query expression library in Golang.
 *   [jsonslice (⭐79)](https://github.com/bhmj/jsonslice) - Jsonpath queries with advanced filters.
+*   [mql (⭐17)](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
 *   [rql (⭐296)](https://github.com/a8m/rql) - Resource Query Language for REST API.
 *   [rqp (⭐56)](https://github.com/timsolov/rest-query-parser) - Query Parser for REST API. Filtering, validations, both `AND`, `OR` operations are supported directly in the query.
 *   [straf (⭐34)](https://github.com/SonicRoshan/straf) - Easily Convert Golang structs to GraphQL objects.

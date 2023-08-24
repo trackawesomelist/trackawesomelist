@@ -6,6 +6,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 24, 2023](/content/2023/08/24/README.md)
+
+### Financial
+
+*   [decimal (⭐1)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
+*   [money (⭐0)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
+
+### Query Language
+
+*   [mql (⭐17)](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
+
 ## [Aug 23, 2023](/content/2023/08/23/README.md)
 
 ### Utilities
