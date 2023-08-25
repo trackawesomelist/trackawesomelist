@@ -4,6 +4,12 @@
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Aug 25, 2023](/content/2023/08/25/README.md)
+
+### Big Data
+
+*   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
+
 ## [Aug 22, 2023](/content/2023/08/22/README.md)
 
 ### Big Data

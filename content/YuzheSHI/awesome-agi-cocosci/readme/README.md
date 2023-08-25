@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 169 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 177 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / Overview ]
 
@@ -94,7 +94,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
         *   [Literature Visualization](#literature-visualization)
         *   [Scientific Writing](#scientific-writing)
         *   [Science Education](#science-education)
-        *   [Democratization](#democratization)
+        *   [Democratization of Science](#democratization-of-science)
     *   [Theory of Mind](#theory-of-mind)
     *   [Analogy](#analogy)
     *   [Causality](#causality)
@@ -447,7 +447,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Generative Model
 
-*   [Generative Modeling Explained (⭐36)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
+*   [Generative Modeling Explained (⭐37)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
 
 *   [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***Chapman and Hall/CRC***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689\&hl=en\&as_sdt=0,5)]. Don Rubin's introductory book on Bayesian models.
 
@@ -561,7 +561,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425\&hl=en\&as_sdt=0,5)]. Russel Epstein's review on evidence suggesting that both map-like and graph-like representations exist in the mind/brain that rely on partially overlapping neural systems.
 
-*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐16)](https://github.com/HuthLab/speechmodeltutorial)].
+*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐18)](https://github.com/HuthLab/speechmodeltutorial)].
 
 *   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308\&hl=en\&as_sdt=0,5)]. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals.
 
@@ -847,7 +847,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [When to Trust Your Model: Model-Based Policy Optimization](https://proceedings.neurips.cc/paper_files/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4248859125840907707\&hl=en\&as_sdt=0,5)]. \[[Post](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)].
 
-*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)].
+*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐111)](https://github.com/pokaxpoka/sunrise)].
 
 *   [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910\&hl=en\&as_sdt=0,5)]. Richard Sutton's perspective on the future directions of reinforcement learning research.
 
@@ -909,7 +909,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf) - ***ICML'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=18074632043038701502\&hl=en\&as_sdt=0,5)].
 
-*   [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288\&hl=en\&as_sdt=0,5)]. \[[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. \[[Code (⭐88)](https://github.com/AbductiveLearning/ABL-HED)]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.
+*   [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288\&hl=en\&as_sdt=0,5)]. \[[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. \[[Code (⭐90)](https://github.com/AbductiveLearning/ABL-HED)]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.
 
 *   [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) - ***Science China Information Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8541635351775190855\&hl=en\&as_sdt=0,5)].
 
@@ -989,15 +989,15 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐837)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐842)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐568)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[code (⭐573)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 \*[Back to Top](#c)
 
 #### Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐7.8k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐8k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 
@@ -1011,7 +1011,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526\&hl=en\&as_sdt=0,5)].
 
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐127)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐129)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
@@ -1371,7 +1371,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 \*[Back to Top](#c)
 
-#### Democratization
+#### Democratization of Science
 
 *   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7#Sec1) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)].
 
@@ -1597,7 +1597,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Intuitive Physics
 
-*   [Intuitive Physics Reading List (⭐7)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
+*   [Intuitive Physics Reading List (⭐8)](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) - ***GitHub***. A reading list on intuitive physics, maintained actively by Shiqian Li.
 
 *   [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=12085981794958916203)]. Hongjing Lu's review on intuitive physics.
 
@@ -1937,7 +1937,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
 
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐961)](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐965)](https://github.com/JosephKJ/OWOD)].
 
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
@@ -2104,17 +2104,17 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 ### MIT
 
-*   [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***NSF***.
+*   [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***MIT***.
 
-*   [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***Department of Brain and Cognitive Sciences, CSAIL, MIT***.
+*   [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***Department of Brain and Cognitive Sciences, CSAIL, MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***MIT***.
 
-*   [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe) - ***MIT***, [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+*   [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe) - ***Department of Brain and Cognitive Sciences, MIT***, [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***MIT***.
 
-*   [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***MIT***, [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+*   [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***Department of Brain and Cognitive Sciences, MIT***, [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***MIT***.
 
-*   [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
+*   [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***MIT***.
 
-*   [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
+*   [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***MIT***.
 
 \*[Back to Top](#c)
 
@@ -2122,37 +2122,39 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***Computer Science Department, Human-Centered AI Institute, Stanford***, [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***Stanford***.
 
-*   [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Department of Psychology, Computer Science Department, Stanford***.
+*   [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Department of Psychology, Computer Science Department, Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***Stanford***.
 
-*   [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
+*   [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Department of Psychology, Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Stanford***.
 
-*   [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Department of Psychology, Stanford***.
+*   [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Department of Psychology, Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***Stanford***.
 
-*   [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Computer Science Department, Stanford***.
+*   [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Computer Science Department, Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***Stanford***.
 
 *   [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***Department of Communication, Stanford***, [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***Stanford***.
 
 *   [Jiajun Wu](https://jiajunwu.com/) - ***Computer Science Department, Stanford***.
 
+*   [Judith Fan](https://profiles.stanford.edu/judith-fan) - ***Department of Psychology, Stanford***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***Stanford***.
+
 \*[Back to Top](#c)
 
 ### Princeton
 
-*   [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Department of Psychology, Princeton***.
+*   [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Department of Psychology, Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Princeton***.
 
-*   [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
+*   [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Princeton***.
 
 \*[Back to Top](#c)
 
 ### Harvard
 
-*   [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke) - ***Harvard***, [Harvard Laboratory for Developmental Studies](https://www.harvardlds.org/) - ***Department of Psychology, Harvard***.
+*   [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke) - ***Department of Psychology, Harvard***, [Harvard Laboratory for Developmental Studies](https://www.harvardlds.org/) - ***Harvard***.
 
-*   [Tomer Ullman](https://www.tomerullman.org/) - ***Harvard***, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/) - ***Department of Psychology, Harvard***.
+*   [Tomer Ullman](https://www.tomerullman.org/) - ***Department of Psychology, Harvard***, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/) - ***Harvard***.
 
-*   [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Department of Psychology, Harvard***.
+*   [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***Department of Psychology, Harvard***, [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***Harvard***.
 
-*   [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Department of Psychology, Harvard***.
+*   [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Department of Psychology, Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Harvard***.
 
 \*[Back to Top](#c)
 
@@ -2164,31 +2166,29 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/) - ***Department of Statistics, UCLA***.
 
-*   [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
+*   [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***Department of Statistics, Department of Psychology, UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***UCLA***.
 
-*   [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, Department of Statistics, UCLA***.
+*   [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***Department of Psychology, Department of Statistics, UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***UCLA***.
 
-*   [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
+*   [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***Department of Computer Science, UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***UCLA***.
 
 \*[Back to Top](#c)
 
 ### UC Berkeley
 
-*   [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
+*   [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***Department of Electrical Engineering and Computer Science, UC Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***UC Berkeley***.
 
-*   [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***UCB***, [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***Department of Psychology, UCB***.
+*   [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***Department of Psychology, UC Berkeley***, [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***UC Berkeley***.
 
-*   [Alison Gopnik](http://alisongopnik.com/) - ***UCB***, [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***Department of Psychology, UCB***.
+*   [Alison Gopnik](http://alisongopnik.com/) - ***Department of Psychology, UC Berkeley***, [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***UC Berkeley***.
 
-*   [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/) - ***UCB***, [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***Department of Psychology, UCB***.
+*   [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/) - ***Department of Psychology, UC Berkeley***, [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***UC Berkeley***.
 
-*   [Celeste Kidd](http://www.celestekidd.com/) - ***UCB***, [Kidd Lab](https://www.kiddlab.com/) - ***Department of Psychology, UCB***.
+*   [Celeste Kidd](http://www.celestekidd.com/) - ***Department of Psychology, UC Berkeley***, [Kidd Lab](https://www.kiddlab.com/) - ***UC Berkeley***.
 
 \*[Back to Top](#c)
 
 ### UCSD
-
-*   [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***UCSD***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***UCSD***.
 
 *   [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
 
@@ -2218,7 +2218,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
-*   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***.
+*   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***, [Computation and Decision-Making Lab](https://codec-lab.github.io/) - ***SIT***.
 
 \*[Back to Top](#c)
 

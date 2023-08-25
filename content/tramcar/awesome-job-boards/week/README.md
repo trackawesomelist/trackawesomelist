@@ -9,6 +9,7 @@
 ### Big Data
 
 *   [AiJobsTracker](https://www.aijobstracker.com/) - live aggregator of 300+ AI-first companies's job boards, updated daily.
+*   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
 
 ### Various / United Kingdom
 
