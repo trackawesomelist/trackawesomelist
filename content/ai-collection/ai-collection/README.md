@@ -6,6 +6,42 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Aug 26, 2023](/content/2023/08/26/README.md)
+
+### Code & Database Assistant
+
+- Name: [WiseGPT](https://www.dhiwise.com/?utm_source=community\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: WiseGPT (Powered by DhiWise) is first-ever promptless GenAI plugin designed for mobile and frontend developers. It automates complex processes, saves time, and boosts developer productivity. You can generate personalized, production-ready code that seamlessly aligns with and reflects your individual coding style.
+
+  Description: :white\_check\_mark:
+
+
+
+### Organization & Automation
+
+- Name: [Keploy](https://www.keploy.io/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: AI Generated Tests that actually work!
+
+  Description: Keploy is a functional testing toolkit for developers. It generates E2E tests for APIs (KTests) along with mocks or stubs(KMocks) by recording real API calls. KTests can be imported as mocks for consumers and vice-versa.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Research Assistant
+
+- Name: [Synthical](https://synthical.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: AI-powered collaborative research environment
+
+  Description: Use it to get recommendations of articles based on reading history, simplify complex scientific terms, find out what articles are trending, search articles by meaning, not just keywords, create and share folders of articles, see lists of articles from specific companies and universities, add bookmarks and highlights.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Aug 19, 2023](/content/2023/08/19/README.md)
 
 ### Content Generation & Seo
@@ -41,18 +77,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: AI-Powered Gift Ideas Tool is the solution to all your gift-giving dilemmas, making the process not just easy, but genuinely enjoyable. By leveraging the power of Artificial Intelligence, the tool analyzes provided information to generate personalized gift suggestions tailored to the recipient’s tastes and preferences.
 
   Offer Free Version: :white\_check\_mark:
-
-
-
-### Translation & Transcript
-
-- Name: [Wavel AI](https://wavel.ai/)
-
-  Title: Wavel AI - Best AI Dubbing and Translation Tool.
-
-  Description: Get accurate ai dubbing and translation for your AUDIO & VIDEO with the latest speech synthesis technology.
-
-  Offer Free Version: :grey\_question:
 
 
 

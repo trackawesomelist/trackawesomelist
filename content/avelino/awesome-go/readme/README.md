@@ -408,7 +408,7 @@ Please take a quick gander at the [contribution guidelines (⭐106k)](https://gi
 *   [go-getoptions (⭐47)](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
 *   [gocmd (⭐65)](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 *   [hiboot cli (⭐179)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
-*   [job (⭐128)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
+*   [job (⭐129)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
 *   [kingpin (⭐3.4k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
 *   [liner (⭐986)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 *   [mcli (⭐15)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
@@ -716,7 +716,7 @@ additional ordered map implementations.
 
 ### Database Schema Migration
 
-*   [atlas (⭐3.4k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐3.5k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐43)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [bytebase (⭐6.7k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 *   [darwin (⭐135)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
@@ -2633,6 +2633,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-health (⭐92)](https://github.com/Talento90/go-health) - Health package simplifies the way you add health check to your services.
 *   [go-httpheader (⭐43)](https://github.com/mozillazg/go-httpheader) - Go library for encoding structs into Header fields.
 *   [go-lock (⭐94)](https://github.com/viney-shih/go-lock) - go-lock is a lock library implementing read-write mutex and read-write trylock without starvation.
+*   [go-pattern-match (⭐69)](https://github.com/PhakornKiong/go-pattern-match) - A Pattern matching library inspired by ts-pattern.
 *   [go-pkg (⭐6)](https://github.com/chenquan/go-pkg) - A go toolkit.
 *   [go-problemdetails (⭐17)](https://github.com/mvmaasakkers/go-problemdetails) - Go package for working with Problem Details.
 *   [go-qr (⭐1)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
