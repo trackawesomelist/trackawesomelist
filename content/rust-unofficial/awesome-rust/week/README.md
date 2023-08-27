@@ -8,6 +8,15 @@ A curated list of Rust code and resources.
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
+### Applications / Emulators
+
+*   Nintendo DS
+    *   [dust (⭐109)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator written in Rust
+
+### Applications / Utilities
+
+*   [suckit (⭐613)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
+
 ### Libraries / eBPF
 
 *   [aya/aya-rs (⭐2k)](https://github.com/aya-rs/aya) — A Rust library for the Rust programming language, built with a focus on developer experience and operability.
@@ -33,7 +42,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [doprz/dipc (⭐101)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
+*   [doprz/dipc (⭐107)](https://github.com/doprz/dipc) — Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
 
 ### Applications / Utilities
 
@@ -41,20 +50,20 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [mu-arch/skyfolder (⭐63)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
+*   [mu-arch/skyfolder (⭐69)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
 
 ### Development tools / Web Servers
 
-*   [frolic (⭐95)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
+*   [frolic (⭐134)](https://github.com/FrolicOrg/Frolic)  — An API layer to build customer facing dashboards 10x faster
 
 ### Libraries / Artificial Intelligence
 
-*   [huggingface/candle (⭐3.5k)](https://github.com/huggingface/candle) \[[candle-core](https://crates.io/crates/candle-core)]- a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
+*   [huggingface/candle (⭐7.5k)](https://github.com/huggingface/candle) \[[candle-core](https://crates.io/crates/candle-core)]- a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
 
 ### Libraries / Compression
 
 *   [7z](https://7-zip.org/7z.html)
-    *   [dyz1990/sevenz-rust (⭐58)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
+    *   [dyz1990/sevenz-rust (⭐60)](https://github.com/dyz1990/sevenz-rust) \[[sevenz-rust](https://crates.io/crates/sevenz-rust)] — A 7z decompressor/compressor written in pure rust. [![Rust](https://github.com/dyz1990/sevenz-rust/workflows/Rust/badge.svg?branch=main)](https://github.com/dyz1990/sevenz-rust/actions)
 
 ### Libraries / Cryptography
 
@@ -66,7 +75,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Graph algorithms
 
-*   [neo4j-labs/graph (⭐294)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
+*   [neo4j-labs/graph (⭐298)](https://github.com/neo4j-labs/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/neo4j-labs/graph/CI/main?label=CI)](https://github.com/neo4j-labs/graph/actions/workflows/rust.yml)
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
@@ -92,7 +101,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [shoes (⭐68)](https://github.com/cfal/shoes) - A multi-protocol proxy server
+*   [shoes (⭐69)](https://github.com/cfal/shoes) - A multi-protocol proxy server
 
 ### Development tools / Embedded
 
@@ -125,7 +134,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Finance
 
-*   [d-e-s-o/apca (⭐90)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
+*   [d-e-s-o/apca (⭐91)](https://github.com/d-e-s-o/apca) \[[apca](https://crates.io/crates/apca)] — Opinionated and comprehensive bindings to the [Alpaca API](https://alpaca.markets/) for stock trading and more. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
 ### Libraries / Scripting
 
@@ -135,7 +144,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Cryptocurrencies
 
-*   [cairo-vm (⭐387)](https://github.com/lambdaclass/cairo-vm) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
+*   [cairo-vm (⭐396)](https://github.com/lambdaclass/cairo-vm) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
@@ -169,11 +178,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Games
 
-*   [mtkennerly/ludusavi (⭐1.2k)](https://github.com/mtkennerly/ludusavi) — Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
+*   [mtkennerly/ludusavi (⭐1.3k)](https://github.com/mtkennerly/ludusavi) — Backup tool for PC game saves [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
 
 ### Applications / Productivity
 
-*   [LLDAP (⭐2.7k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
+*   [LLDAP (⭐2.8k)](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 
 ### Applications / Routing protocols
 
@@ -182,7 +191,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Security tools
 
-*   [cotp (⭐111)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+*   [cotp (⭐114)](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 
 ### Libraries / Email
 
@@ -294,7 +303,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐477)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐494)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 
 ### Libraries / Data structures
 
@@ -349,7 +358,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐142)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐152)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ### Libraries / Video
 
@@ -981,7 +990,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐476)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
+*   [orhun/rustypaste (⭐494)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
 
 ### Development tools / Web Servers
 
@@ -1220,7 +1229,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [sharkdp/fd (⭐28k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐29k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -1811,7 +1820,7 @@ A curated list of Rust code and resources.
 *   [m4b/bingrep (⭐1.6k)](https://github.com/m4b/bingrep) — Greps through binaries from various OSs and architectures, and colors them.
 *   [mxseev/logram (⭐92)](https://github.com/mxseev/logram) — Push log files' updates to Telegram
 *   [nivekuil/rip (⭐1k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
-*   [ogham/exa (⭐22k)](https://github.com/ogham/exa) — A replacement for 'ls'
+*   [ogham/exa (⭐23k)](https://github.com/ogham/exa) — A replacement for 'ls'
 
 ### Applications / Text editors
 
@@ -2257,7 +2266,7 @@ A curated list of Rust code and resources.
 *   [ddh (⭐413)](https://github.com/darakian/ddh) — Fast duplicate file finder
 *   [fselect](https://crates.io/crates/fselect) — Find files with SQL-like queries
 *   [lotabout/rargs (⭐414)](https://github.com/lotabout/rargs) \[[rargs](https://crates.io/crates/rargs)] — xargs + awk with pattern matching support
-*   [lotabout/skim (⭐4.3k)](https://github.com/lotabout/skim) — A fuzzy finder in pure rust
+*   [lotabout/skim (⭐4.4k)](https://github.com/lotabout/skim) — A fuzzy finder in pure rust
 *   [mitnk/cicada (⭐938)](https://github.com/mitnk/cicada) — A bash-like Unix shell
 *   [mmstick/tv-renamer (⭐147)](https://github.com/mmstick/tv-renamer) — A tv series renaming application with an optional GTK3 frontend.
 *   [redox-os/ion (⭐1.4k)](https://github.com/redox-os/ion) — Next-generation system shell

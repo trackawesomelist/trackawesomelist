@@ -2,15 +2,29 @@
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fcambus/nginx-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) · ⭐ 3.3K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/fcambus/nginx-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) · ⭐ 3.4K · 🏷️ Back-End Development
 
 [ [Daily](/content/fcambus/nginx-resources/README.md) / Weekly / [Overview](/content/fcambus/nginx-resources/readme/README.md) ]
+
+## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
+
+### Nginx + njs
+
+*   [njs scripting language reference and examples](https://nginx.org/en/docs/njs/)
+*   [Collection of njs use cases (⭐5)](https://github.com/f5devcentral/nginx-njs-usecases)
+*   [JavaScript embedded on NGINX - Getting started with njs](https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/)
+*   [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
+*   [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.nginx.com/blog/make-nginx-config-even-more-modular-reusable-njs-0-7-7/)
+*   [Diagnostic logging with the NGINX JavaScript module](https://www.nginx.com/blog/diagnostic-logging-nginx-javascript-module/)
+*   [How to log request headers with NGINX and njs](https://wildwolf.name/how-to-log-request-headers-with-nginx-and-njs/)
+*   [Using NGINX as an Object Storage Gateway via njs](https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/)
+*   [Easy HTTPS with NGINX and ACME via njs](https://steinkamp.us/posts/2023-08-10_easy-https-with-nginx)
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
 ### Configuration
 
-*   [Nginx common configuration - Universal config and snippets (⭐573)](https://github.com/tldr-devops/nginx-common-configuration)
+*   [Nginx common configuration - Universal config and snippets (⭐576)](https://github.com/tldr-devops/nginx-common-configuration)
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
@@ -23,7 +37,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 ### Configuration
 
 *   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-*   [Gixy - Nginx configuration static analyzer (⭐7.6k)](https://github.com/yandex/gixy)
+*   [Gixy - Nginx configuration static analyzer (⭐8k)](https://github.com/yandex/gixy)
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 
@@ -40,7 +54,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### Nginx + Lua
 
-*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐135)](https://github.com/fabiocicerchia/nginx-lua)
+*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐142)](https://github.com/fabiocicerchia/nginx-lua)
 
 ## [Jun 08 - Jun 14, 2020](/content/2020/23/README.md)
 
@@ -99,7 +113,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 *   [Adding OAuth Support to Nginx via Lua](https://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/)
 *   [Scripting libdrizzle with Lua inside Nginx](https://agentzh.org/misc/slides/libdrizzle-lua-nginx.pdf)
 *   [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
-*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐43)](https://github.com/pirogoeth/lsso)
+*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐45)](https://github.com/pirogoeth/lsso)
 *   [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
 
 ### OpenResty
@@ -182,7 +196,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### Tengine
 
-*   [Difference between OpenResty and Tengine (⭐11k)](https://github.com/openresty/openresty/issues/54)
+*   [Difference between OpenResty and Tengine (⭐12k)](https://github.com/openresty/openresty/issues/54)
 
 ## [Oct 03 - Oct 09, 2016](/content/2016/40/README.md)
 
@@ -228,7 +242,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 ### Hacks
 
 *   [Nginx JSON hacks](https://web.archive.org/web/20140921162448/http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html)
-*   [Capture and delay unwanted requests (⭐26)](https://github.com/p0pr0ck5/lua-resty-tarpit)
+*   [Capture and delay unwanted requests (⭐25)](https://github.com/p0pr0ck5/lua-resty-tarpit)
 
 ### Nginx + Lua
 
@@ -278,7 +292,7 @@ A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
 ### Configuration
 
-*   [Nginx HTTP server boilerplate configs (⭐10k)](https://github.com/h5bp/server-configs-nginx)
+*   [Nginx HTTP server boilerplate configs (⭐11k)](https://github.com/h5bp/server-configs-nginx)
 
 ### APIs
 

@@ -1,12 +1,68 @@
 # Awesome List Updates on Aug 21 - Aug 27, 2023
 
-32 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [1. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### Communications / Radio
+
+*   [pico\_jjy\_tx (⭐0)](https://github.com/elehobica/pico_jjy_tx) - JJY transmitter for Raspberry Pi Pico W.
+*   [pico\_dcf77\_tx (⭐0)](https://github.com/elehobica/pico_dcf77_tx) - DCF77 transmitter for Raspberry Pi Pico W.
+
+### Sensors / Motion Inertial
+
+*   [MicroPython\_LSM6DSOX (⭐0)](https://github.com/jposada202020/MicroPython_LSM6DSOX) - MicroPython Library for the ST LSM6DSOX accelerometer/gyro Sensor.
+
+## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Editors
+
+*   [django-ace (⭐120)](https://github.com/django-ace/django-ace) - ACE integration for Django.
+
+## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+
+### Samples
+
+*   [Simple Animation Blender (⭐4)](https://github.com/Red1C3/Simple-Animation-Blender) - A real-time 1D animation blender and player using Vulkan as graphical back end and ImGui for GUI. \[MIT]
+
+## [4. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 版本控制
+
+*   [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 廖雪峰
+
+### Java
+
+*   [Java 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
+*   [Spring 2.0核心技术与最佳实践](https://michaelliao.github.io/download/pdf/Spring%202.0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf) (PDF)
+
+### JavaScript
+
+*   [JavaScript 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
+
+### Python / Symfony
+
+*   [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
+
+## [5. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+
+### Nginx + njs
+
+*   [njs scripting language reference and examples](https://nginx.org/en/docs/njs/)
+*   [Collection of njs use cases (⭐5)](https://github.com/f5devcentral/nginx-njs-usecases)
+*   [JavaScript embedded on NGINX - Getting started with njs](https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/)
+*   [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
+*   [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.nginx.com/blog/make-nginx-config-even-more-modular-reusable-njs-0-7-7/)
+*   [Diagnostic logging with the NGINX JavaScript module](https://www.nginx.com/blog/diagnostic-logging-nginx-javascript-module/)
+*   [How to log request headers with NGINX and njs](https://wildwolf.name/how-to-log-request-headers-with-nginx-and-njs/)
+*   [Using NGINX as an Object Storage Gateway via njs](https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/)
+*   [Easy HTTPS with NGINX and ACME via njs](https://steinkamp.us/posts/2023-08-10_easy-https-with-nginx)
+
+## [6. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Code & Database Assistant
 
@@ -42,44 +98,53 @@
 
 
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Stanford / Commonsense Knowledgebase
 
 *   [Judith Fan](https://profiles.stanford.edu/judith-fan) - ***Department of Psychology, Stanford***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***Stanford***.
 
-## [3. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [8. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Notes and Tasks
 
 *   [Obsidian](https://obsidian.md) - Obsidian is the private and flexible note‑taking app. Closed source but has no trackers (website / apps) and E2EE sync.
 
-## [4. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Select
 
 *   [react-mobile-picker (⭐229)](https://github.com/adcentury/react-mobile-picker) - [demo](https://react-mobile-picker.vercel.app/) - An iOS like select box component.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Emulators
+
+*   Nintendo DS
+    *   [dust (⭐109)](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator written in Rust
+
+### Applications / Utilities
+
+*   [suckit (⭐613)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 
 ### Libraries / eBPF
 
 *   [aya/aya-rs (⭐2k)](https://github.com/aya-rs/aya) — A Rust library for the Rust programming language, built with a focus on developer experience and operability.
 *   [libbpf/libbpf-rs (⭐485)](https://github.com/libbpf/libbpf-rs) — A minimal and opinionated eBPF tooling for the Rust ecosystem.
 
-## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [11. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Data Manipulation / Pipelines
 
 *   [Hamilton (⭐819)](https://github.com/DAGWorks-Inc/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
 
-## [7. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [12. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Community
 
 *   [BlurHash (⭐2)](https://github.com/pixielabs/directus-extension-blurhash/) - A Directus extension that generates blurhashes for uploaded images.
 
-## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [13. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Greece 🇬🇷
 
@@ -91,7 +156,7 @@
 Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 <https://twitter.com/ThorstenHans>
 
-## [9. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [14. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -99,7 +164,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/mvisvideo)
     *   GitHub organization :octocat:]\(<https://github.com/MicroVision-Inc>)
 
-## [10. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Financial
 
@@ -115,19 +180,19 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 *   [air (⭐11k)](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
 *   [go-pattern-match (⭐69)](https://github.com/PhakornKiong/go-pattern-match) - A Pattern matching library inspired by ts-pattern.
 
-## [11. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [16. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
 *   [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
 
-## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [17. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
 *   [Grok](https://grok.computer). Free daily summary of the internet for software engineers. [Archive](https://grok.computer/newsletter)
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -137,31 +202,31 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [askfiy/visual\_studio\_code (⭐64)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 
-## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / HTTP Client
 
 *   [curlie (⭐2.4k)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 
-## [15. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [20. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Security Auditing Services / Wallets
 
 *   [Tenset Security](https://x.com/tenset_security) - Comprising a team of Web3 Security Researchers, Tenset Security is dedicated to leaving no stone unturned in their pursuit of security excellence. They have a [proven track record of success](https://twitter.com/algoworld_nft/status/1691891473166279042) in discovering high-severity vulnerabilities specifically within Algorand projects, emphasizing their expertise and commitment to the Algorand ecosystem.
 
-## [16. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [21. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
 
-## [17. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [22. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [Ostinato](https://ostinato.org/): Ostinato is a versatile packet crafter, pcap editor/player and traffic generator with an intuitive GUI. Add-ons include high-speed 10/25/40G traffic generation and scripting/ automation Python APIs. Works on all platforms - Windows, MacOS, Linux and the labbing platforms - CML, EVE-NG and GNS3.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Games - Administrative Utilities & Control Panels
 
@@ -187,7 +252,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [AppFlowy](https://appflowy.io/) - With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. ([Source Code (⭐38k)](https://github.com/AppFlowy-IO/appflowy)) `AGPL-3.0` `Rust/Dart/Docker`
 
-## [19. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [24. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Big Data
 
@@ -198,7 +263,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
 
-## [20. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [25. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Testing
 
@@ -208,7 +273,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [entype (⭐1)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
 
-## [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -222,13 +287,13 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
 *   [micro-gl (⭐65)](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. \[CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
 
-## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -238,25 +303,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [Elixir Refactorings (⭐0)](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
 
-## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐68)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐418)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -298,33 +345,33 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [25. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [30. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🌍🔧 [Tailwind Box Shadows Generator](https://manuarora.in/boxshadows) - Box Shadows generator.
 
-## [26. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [31. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
 *   [LLMStack (⭐99)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
-## [27. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [32. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyter-ai (⭐1.8k)](https://github.com/jupyterlab/jupyter-ai) - Work with generative AIs (wide range of models supported) as a conversational assistant in JupyterLab.
 
-## [28. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [33. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Plotery](https://shelacek.bitbucket.io/plotery) - Fast and lightweight charting library.
 *   [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
 
-## [29. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -341,7 +388,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 *   [Showmetech](https://open.spotify.com/show/57lV7FKAvxwAJ3HIZNCmI6) - Podcast abrangendo notícias de tecnologia e inovações.
 *   [Sinapse](https://open.spotify.com/show/59fUC0CFgoMfiLDXCuhjUM)- Podcast sobre neurociência e temas interdisciplinares.
 
-## [30. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [35. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -443,7 +490,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [JSON Schema (⭐2.9k) (⭐2.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -461,7 +508,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 
 *   [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs free of charge.
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
