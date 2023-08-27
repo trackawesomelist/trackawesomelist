@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
+### (requires Neovim 0.5) / Diagnostics
+
+*   [piersolenski/wtf.nvim (⭐31)](https://github.com/piersolenski/wtf.nvim) - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
+
 ### AI / Diagnostics
 
 *   [CamdenClark/flyboy (⭐11)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
@@ -15,6 +19,15 @@ Collections of awesome neovim plugins.
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [askfiy/visual\_studio\_code (⭐64)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [Verf/deepwhite.nvim (⭐13)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐125)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
+
+### Utility / Diagnostics
+
+*   [GCBallesteros/NotebookNavigator.nvim (⭐38)](https://github.com/GCBallesteros/NotebookNavigator.nvim) - Navigate and execute code cells.
+
+### Formatting / Diagnostics
+
+*   [stevearc/conform.nvim (⭐23)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 

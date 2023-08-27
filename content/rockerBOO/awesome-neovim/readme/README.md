@@ -177,6 +177,7 @@ You can find them listed on the [Neovim wiki (⭐68k)](https://github.com/neovim
 *   [\~whynothugo/lsp\_lines.nvim](https://git.sr.ht/~whynothugo/lsp_lines.nvim) - Render diagnostics using virtual lines on top of the real line of code.
 *   [onsails/diaglist.nvim (⭐156)](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix, buffer diagnostics in loclist.
 *   [folke/trouble.nvim (⭐3.5k)](https://github.com/folke/trouble.nvim) - A pretty diagnostics list to help you solve all the trouble your code is causing.
+*   [piersolenski/wtf.nvim (⭐31)](https://github.com/piersolenski/wtf.nvim) - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
 *   [folke/lsp-colors.nvim (⭐426)](https://github.com/folke/lsp-colors.nvim) - A plugin that adds missing LSP diagnostics highlight groups for color schemes that don't yet support the builtin LSP client.
 
 ### Completion
@@ -465,6 +466,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [zootedb0t/citruszest.nvim (⭐24)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
 *   [2nthony/vitesse.nvim (⭐25)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 *   [xero/miasma.nvim (⭐45)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
+*   [Verf/deepwhite.nvim (⭐13)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐125)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
 
 #### Lua Colorscheme
 
@@ -652,6 +654,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [aPeoplesCalendar/apc.nvim (⭐13)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 *   [malbertzard/inline-fold.nvim (⭐49)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
 *   [chrisgrieser/nvim-origami (⭐39)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
+*   [GCBallesteros/NotebookNavigator.nvim (⭐38)](https://github.com/GCBallesteros/NotebookNavigator.nvim) - Navigate and execute code cells.
 
 ### Terminal Integration
 
@@ -931,6 +934,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [bennypowers/svgo.nvim (⭐1)](https://github.com/bennypowers/svgo.nvim) - Optimize SVG files.
 *   [niuiic/format.nvim (⭐28)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
 *   [elentok/format-on-save.nvim (⭐79)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
+*   [stevearc/conform.nvim (⭐23)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
 
 #### Indent
 
