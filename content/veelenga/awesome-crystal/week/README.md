@@ -6,6 +6,12 @@
 
 [ [Daily](/content/veelenga/awesome-crystal/README.md) / Weekly / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
+
+### HTML Builders
+
+*   [to\_html (⭐1)](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
+
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
 ### C bindings

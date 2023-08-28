@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
+
+### Learning
+
+*   🎬 [Responsive Framer Motion with Tailwind CSS](https://www.youtube.com/watch?v=xSuxsfn13xg) - Learn how CSS variables can bridge the gap between Framer Motion and Tailwind CSS.
+
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
 ### Tools
@@ -764,7 +770,6 @@
 *   💙 [Discussions (⭐71k)](https://github.com/tailwindcss/tailwindcss/discussions) - Official place to connect with other community members about Tailwind.
 *   💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
 *   [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
-*   [Built With Tailwind](https://builtwithtailwind.com/) - Community-driven collection of awesome websites built with Tailwind CSS.
 
 ### UI Libraries, Components & Templates
 
@@ -921,10 +926,8 @@
 *   🧪 [Tailwind Dark Mode Theme Switcher (⭐182)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
 *   🧪 [Acquia (⭐20)](https://github.com/opdavies/rebuilding-acquia) - Acquia's hosting dashboard rebuilt with Vue.js and Tailwind CSS.
 *   🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
-*   🧪 [Toggle switch (⭐60)](https://github.com/TowelSoftware/tailwindcss-toggle) - Switch using Tailwind CSS.
 *   🧪 [“Open” landing page (⭐123)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
 *   🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
-*   🔧 [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - How to setup Tailwind CSS with PostCSS and Webpack.
 *   🔧 [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - How to use Tailwind CSS with CSS-in-JS.
 *   🔧 [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
 *   🔧 [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - How to setup Tailwind CSS in Sage.
@@ -943,7 +946,6 @@
 *   🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
 *   🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
 *   🎓 [Building real-world UIs using Tailwind CSS (⭐98)](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Building UIs of Shopify, Spotify, Netlify and Atlassian.
-*   🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Rebuilding FreshBooks with Tailwind CSS.
 *   🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
 *   🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) - Creating a login page with Tailwind CSS.
 *   🎓 [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) - Building a Vue.js component in a Laravel project.

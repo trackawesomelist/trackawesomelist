@@ -323,6 +323,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 *   [blueprint (⭐33)](https://github.com/gunbolt/blueprint) - Write reusable and testable HTML templates in plain Crystal
 *   [form\_builder.cr (⭐32)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+*   [to\_html (⭐1)](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
 *   [Water (⭐26)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## HTML/XML Parsing
