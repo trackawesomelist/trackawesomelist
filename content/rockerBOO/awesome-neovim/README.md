@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 28, 2023](/content/2023/08/28/README.md)
+
+### Register / Diagnostics
+
+*   [desdic/macrothis.nvim (⭐1)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
+
+### Code Runner / Diagnostics
+
+*   [jaytyrrell13/static.nvim (⭐2)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
+
 ## [Aug 27, 2023](/content/2023/08/27/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
@@ -1708,7 +1718,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐563)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐570)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 
@@ -2163,7 +2173,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [AckslD/nvim-gfold.lua (⭐35)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐246)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐35)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐247)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ## [Feb 22, 2022](/content/2022/02/22/README.md)
 
@@ -2689,7 +2699,7 @@ Collections of awesome neovim plugins.
 
 ### Completion / Diagnostics
 
-*   [simrat39/rust-tools.nvim (⭐1.9k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
+*   [simrat39/rust-tools.nvim (⭐2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 
 ## [May 21, 2021](/content/2021/05/21/README.md)
 

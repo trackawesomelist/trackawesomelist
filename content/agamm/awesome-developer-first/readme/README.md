@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 579 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 591 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐579)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐591)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -228,6 +228,7 @@ For the latest additions [click here (⭐579)](https://github.com/agamm/awesome-
 *Location services.*
 
 *   [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+*   [OpenCage](https://opencagedata.com/) - Forward and reverse geocoding API based on open data.
 *   [PlaceKit](https://placekit.io/) - Locations search API.
 *   [Radar](https://radar.io/) - Geofencing and geo APIs.
 *   [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
@@ -414,5 +415,5 @@ For the latest additions [click here (⭐579)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐579)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐591)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

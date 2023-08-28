@@ -187,7 +187,7 @@ You can find them listed on the [Neovim wiki (⭐68k)](https://github.com/neovim
     *   [lukas-reineke/cmp-under-comparator (⭐137)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
 *   [echasnovski/mini.nvim#mini.completion (⭐2.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 *   [vigoux/complementree.nvim (⭐40)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
-*   [simrat39/rust-tools.nvim (⭐1.9k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
+*   [simrat39/rust-tools.nvim (⭐2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 *   [zbirenbaum/copilot.lua (⭐1.3k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐6k)](https://github.com/github/copilot.vim).
 
 ### AI
@@ -282,6 +282,7 @@ You can find them listed on the [Neovim wiki (⭐68k)](https://github.com/neovim
 *   [tversteeg/registers.nvim (⭐541)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 *   [acksld/nvim-neoclip.lua (⭐745)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
 *   [tenxsoydev/karen-yank.nvim (⭐65)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
+*   [desdic/macrothis.nvim (⭐1)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
 
 ### Marks
 
@@ -719,6 +720,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [MarcHamamji/runner.nvim (⭐26)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 *   [google/executor.nvim (⭐74)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 *   [Zeioth/compiler.nvim (⭐172)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
+*   [jaytyrrell13/static.nvim (⭐2)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 
 ### Neovim Lua Development
 
@@ -755,7 +757,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ### Dependency Management
 
 *   [vuki656/package-info.nvim (⭐280)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
-*   [Saecki/crates.nvim (⭐563)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐570)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git
 
@@ -767,7 +769,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [tanvirtin/vgit.nvim (⭐524)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 *   [sindrets/diffview.nvim (⭐2.6k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 *   [kdheepak/lazygit.nvim (⭐788)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
-*   [AckslD/nvim-gfold.lua (⭐35)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐246)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐35)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐247)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 *   [akinsho/git-conflict.nvim (⭐576)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
 *   [aaronhallaert/advanced-git-search.nvim (⭐193)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 *   [linrongbin16/gitlinker.nvim (⭐19)](https://github.com/linrongbin16/gitlinker.nvim) - Generate sharable file permalinks (with line ranges) for git host websites, a fork of "ruifm's gitlinker", refactored with pattern based rule engine, windows support and other enhancements.

@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Aug 28, 2023](/content/2023/08/28/README.md)
+
+### Discussions and Philosophy / Papers Collections
+
+*   [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
+
 ## [Aug 27, 2023](/content/2023/08/27/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI

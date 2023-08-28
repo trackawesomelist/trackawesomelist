@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 28, 2023](/content/2023/08/28/README.md)
+
+### Messaging and Streaming
+
+*   [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
+
+### Other Free Resources
+
+*   [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
+
 ## [Aug 23, 2023](/content/2023/08/23/README.md)
 
 ### Tools for Teams and Collaboration
@@ -2071,7 +2081,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data and ML
 
-*   [Public-Apis Github Repo (⭐252k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐253k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -3055,10 +3065,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [StackBy](https://stackby.com/) — One tool that brings together flexibility of spreadsheets, power of databases and built-in integrations with your favorite business apps. Free plan includes unlimited users, 10 stacks, 2GB attachment per stack.
 
 ## [Mar 26, 2021](/content/2021/03/26/README.md)
-
-### Testing
-
-*   [Bird Eats Bug](https://www.birdeatsbug.com/) — Report bugs faster (and better). Record your screen with Bird browser extension, it will auto-capture technical data that engineers need to debug. Free tier suitable for small teams.
 
 ### Issue Tracking and Project Management
 
