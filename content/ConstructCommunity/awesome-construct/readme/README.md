@@ -2,7 +2,7 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 51 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 60 · 🏷️ Gaming
 
 [ [Daily](/content/ConstructCommunity/awesome-construct/README.md) / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / Overview ]
 
@@ -19,7 +19,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 This list includes all the best tools, tutorials and examples related to the awesome game development engines [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
 
-[How to contribute? (⭐51)](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
+[How to contribute? (⭐60)](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
 <p align="center">  
    :sparkles: <a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">Compare Construct 2 and Construct 3</a>  :sparkles:
@@ -69,6 +69,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 ## Export
 
 *   [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW\.js.
+*   [AppPlayer-Electron (⭐3)](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 *   [Chowdren](https://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
 ## Plugins/Behaviors/Effects

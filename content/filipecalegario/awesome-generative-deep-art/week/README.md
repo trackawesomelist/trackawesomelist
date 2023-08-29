@@ -12,6 +12,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
 
+### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
+
+*   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
+
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
@@ -46,7 +50,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / LLMOps
 
-*   [LLM App (⭐158)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐177)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### Courses and Educational Materials / Deforum
 

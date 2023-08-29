@@ -253,7 +253,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 *   [Eden AI](https://www.edenai.co/?referral=partner-producthunt8\&ref=producthunt): provides a unique API connected to the AI engines
 *   [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
-*   [LLM App (⭐158)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐177)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### ChatGPT
 
@@ -834,6 +834,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Speech-to-text (STT) and spoken content analysis
 
+*   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 *   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
 
 ## Inbox: Text-to-speech (TTS) and avatars

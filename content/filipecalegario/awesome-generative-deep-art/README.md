@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Aug 29, 2023](/content/2023/08/29/README.md)
+
+### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
+
+*   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
+
 ## [Aug 28, 2023](/content/2023/08/28/README.md)
 
 ### Discussions and Philosophy / Papers Collections
@@ -62,7 +68,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / LLMOps
 
-*   [LLM App (⭐158)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐177)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### Courses and Educational Materials / Deforum
 

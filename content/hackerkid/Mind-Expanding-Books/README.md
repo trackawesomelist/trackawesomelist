@@ -6,6 +6,242 @@
 
 [ Daily / [Weekly](/content/hackerkid/Mind-Expanding-Books/week/README.md) / [Overview](/content/hackerkid/Mind-Expanding-Books/readme/README.md) ]
 
+## [Aug 29, 2023](/content/2023/08/29/README.md)
+
+### Startups and Business
+
+- Name: The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!
+
+  Author: M.J. DeMarco
+
+  Goodreads Rating: [4.28](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane)
+
+  Year Published: 2011
+
+
+- Name: Crucial Conversations: Tools for Talking When Stakes Are High
+
+  Author: Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
+
+  Goodreads Rating: [4.05](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+
+  Year Published: 2002
+
+
+
+### Philosophy And Psychology
+
+- Name: The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
+
+  Author: Eric Jorgenson
+
+  Goodreads Rating: [4.64](https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant)
+
+  Year Published: 2020
+
+
+- Name: The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living
+
+  Author: Ryan Holding, Stephan Hanselman
+
+  Goodreads Rating: [4.34](https://www.goodreads.com/book/show/29093292-the-daily-stoic)
+
+  Year Published: 2016
+
+
+- Name: The Magic of Thinking Big
+
+  Author: David J. Schwartz
+
+  Goodreads Rating: [4.23](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big)
+
+  Year Published: 1959
+
+
+- Name: The Way of the Monk
+
+  Author: Gaur Gopal Das
+
+  Goodreads Rating: [4.10](https://www.goodreads.com/book/show/45712959-the-way-of-the-monk)
+
+  Year Published: 2020
+
+
+- Name: The Subtle Art Of Not Giving a F\@ck: A Counterintuitive Approach to Living a Good Life
+
+  Author: Mark Manson
+
+  Goodreads Rating: [3.91](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
+
+  Year Published: 2017
+
+
+- Name: The Age of Em: Work, Love and Life When Robots Rule the Earth
+
+  Author: Robin Hanson
+
+  Goodreads Rating: [3.41](https://www.goodreads.com/book/show/26831944-the-age-of-em)
+
+  Year Published: 2016
+
+
+
+### Autobiographies and Biographies
+
+- Name: Man Without Fear
+
+  Author: Rajat Gupta
+
+  Goodreads Rating: [4.20](https://www.goodreads.com/en/book/show/44334846-mind-without-fear)
+
+  Year Published: 2019
+
+
+
+### History
+
+- Name: Bloodlands: Europe Between Hitler and Stalin
+
+  Author: Timothy Snyder
+
+  Goodreads Rating: [4.36](https://www.goodreads.com/book/show/6572270-bloodlands)
+
+  Year Published: 2010
+
+
+- Name: The Soul of a New Machine
+
+  Author: Tracy Kidder
+
+  Goodreads Rating: [4.12](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)
+
+  Year Published: 1981
+
+
+
+### Logic and Problem Solving
+
+- Name: Thinking Forth: A Language and Philosophy for Solving Problems
+
+  Author: Leo Brodie
+
+  Goodreads Rating: [3.96](https://www.goodreads.com/book/show/2995657-thinking-forth)
+
+  Year Published: 1984
+
+
+
+### Politics
+
+- Name: On Tyranny: Twenty Lessons from the Twentieth Century
+
+  Author: Timothy Snyder
+
+  Goodreads Rating: [4.20](https://www.goodreads.com/book/show/33917107-on-tyranny)
+
+  Year Published: 2017
+
+
+
+### Fiction / Fantasy
+
+- Name: The Stormlight Archive
+
+  Author: Brandon Sanderson
+
+  Goodreads Rating: [4.81](https://www.goodreads.com/book/show/39904817-stormlight-archive-4-book-set?ac=1\&from_search=true\&qid=QO2o6tRJg4\&rank=1)
+
+  Year Published: 2007
+
+
+- Name: Of Fire and Stars Book
+
+  Author: Audrey Coulthurst
+
+  Goodreads Rating: [3.76](https://www.goodreads.com/book/show/25164304-of-fire-and-stars)
+
+  Year Published: 2016
+
+
+
+### Fiction / Mystery
+
+- Name: Angels & Demons
+
+  Author: Dan Brown
+
+  Goodreads Rating: [3.93](https://www.goodreads.com/book/show/960.Angels_Demons)
+
+  Year Published: 2000
+
+
+
+### Fiction / Science Fiction
+
+- Name: Project Hail Mary
+
+  Author: Andy Weir
+
+  Goodreads Rating: [4.52](https://www.goodreads.com/book/show/54493401-project-hail-mary)
+
+  Year Published: 2021
+
+
+- Name: Roadside Picnic
+
+  Author: Arkady Strugatsky, Boris Strugatsky
+
+  Goodreads Rating: [4.16](https://www.goodreads.com/book/show/331256.Roadside_Picnic)
+
+  Year Published: 1972
+
+
+- Name: Contact
+
+  Author: Carl Sagan
+
+  Goodreads Rating: [4.14](https://www.goodreads.com/book/show/61666.Contact)
+
+  Year Published: 1985
+
+
+
+### Fiction / Horror
+
+- Name: London (Surviving The Evacuation #1)
+
+  Author: Frank Tayell
+
+  Goodreads Rating: [3.86](https://www.goodreads.com/book/show/18655852-london)
+
+  Year Published: 2013
+
+
+
+### Health / Miscellaneous
+
+- Name: Breath: The New Science of a Lost Art
+
+  Author: James Nestor
+
+  Goodreads Rating: [4.15](https://www.goodreads.com/book/show/48890486-breath)
+
+  Year Published: 2020
+
+
+
+### Design / Miscellaneous
+
+- Name: Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation
+
+  Author: Tim Brown
+
+  Goodreads Rating: [3.88](https://www.goodreads.com/book/show/6671664-change-by-design)
+
+  Year Published: 2009
+
+
+
 ## [Aug 28, 2023](/content/2023/08/28/README.md)
 
 ### History

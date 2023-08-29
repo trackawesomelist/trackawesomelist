@@ -2,9 +2,15 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 51 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 60 · 🏷️ Gaming
 
 [ [Daily](/content/ConstructCommunity/awesome-construct/README.md) / Weekly / [Overview](/content/ConstructCommunity/awesome-construct/readme/README.md) ]
+
+## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
+
+### Export
+
+*   [AppPlayer-Electron (⭐3)](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
