@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/RichardLitt/awesome-fantasy/week/README.md) / [Overview](/content/RichardLitt/awesome-fantasy/readme/README.md) ]
 
+## [Aug 29, 2023](/content/2023/08/29/README.md)
+
+### Epic Fantasy / [Temeraire](https://www.goodreads.com/series/43272-temeraire) (2006) *by [Naomi Novik](https://en.wikipedia.org/wiki/Naomi_Novik)* [4.06]
+
+*   His Majesty's Dragon
+*   Throne of Jade
+*   Black Powder War
+*   Empire of Ivory
+*   Victory of Eagles
+*   Tongues of Serpents
+*   Crucible of Gold
+*   Blood of Tyrants
+*   League of Dragons
+
 ## [Aug 01, 2023](/content/2023/08/01/README.md)
 
 ### Epic Fantasy / [Chronicles of the Unhewn Throne](https://www.goodreads.com/series/116397-chronicle-of-the-unhewn-throne) (2014) *by [Brian Staveley](https://en.wikipedia.org/wiki/Brian_Staveley)* [4.1]

@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Aug 29, 2023](/content/2023/08/29/README.md)
+
+### Monitoring
+
+*   [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
+
 ## [Aug 28, 2023](/content/2023/08/28/README.md)
 
 ### GEO

@@ -2,7 +2,7 @@
 
 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 638 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 697 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/steven2358/awesome-blockchain-ai/README.md) / [Weekly](/content/steven2358/awesome-blockchain-ai/week/README.md) / Overview ]
 
@@ -54,11 +54,12 @@ This list explores awesome projects that exploit the properties of blockchain te
 *   [Oraichain](https://orai.io/) - Oraichain is the world's first intelligent and secure solution for emerging Web3, scalable Dapps, and decentralized AI.
 *   [Bittensor](https://bittensor.com/) - Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. [Related resources.](https://taostats.io/links/)
 *   [Alethea AI](https://alethea.ai/) - A research and development studio building at the intersection of Generative AI and Blockchain.
+*   [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
 
 ### Blockchain projects for AI algorithms
 
 *   [Danku (⭐147)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
-*   [Decentralized & Collaborative AI on Blockchain (⭐500)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+*   [Decentralized & Collaborative AI on Blockchain (⭐511)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ## Blockchains for data
 

@@ -2,9 +2,15 @@
 
 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 638 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 697 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/steven2358/awesome-blockchain-ai/week/README.md) / [Overview](/content/steven2358/awesome-blockchain-ai/readme/README.md) ]
+
+## [Aug 29, 2023](/content/2023/08/29/README.md)
+
+### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
+
+*   [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
 
 ## [Jun 06, 2023](/content/2023/06/06/README.md)
 
@@ -90,7 +96,7 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 ### Blockchains for AI algorithms / Blockchain projects for AI algorithms
 
 *   [Danku (⭐147)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
-*   [Decentralized & Collaborative AI on Blockchain (⭐500)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+*   [Decentralized & Collaborative AI on Blockchain (⭐511)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ### Blockchains for AI in medicine / Blockchain projects for AI algorithms
 

@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 29, 2023](/content/2023/08/29/README.md)
 
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
+
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
 
 *   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation

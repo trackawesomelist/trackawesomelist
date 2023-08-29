@@ -1,12 +1,98 @@
 # Awesome List Updates on Aug 29, 2023
 
-4 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Interpreters/Compilers
+
+*   [cotowali (⭐576)](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
+
+### Utilities
+
+*   [emoji-mart-desktop (⭐7)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
+
+### User Interface toolkits
+
+*   [V-WebUI (⭐64)](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
+*   [webview (⭐25)](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
+
+### Online IDEs with V / IntelliJ & CLion & GoLand etc
+
+*   [VOSCA V Playground](https://play.vosca.dev)
+
+## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+### Resources / Protocols
+
+*   [OpenMessaging (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
+
+## [3. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+
+### Tools
+
+*   [Magento 2 Url Data Integrity Checker (⭐244)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
+*
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Communication - Video Conferencing
+
+*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos.html), [Source Code (⭐7.3k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
+
+### Software / Feed Readers
+
+*   [RSSHub](https://docs.rsshub.app) - An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ([Demo](https://rsshub.app), [Source Code (⭐26k)](https://github.com/DIYgod/RSSHub)) `MIT` `Nodejs/Docker`
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### CMS
+
+*   [TinaCMS](https://tina.io/) — Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX and JSON. Basic offer is free with two users available.
+
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vanilla
+
+*   [vite-vanilla-js-template (⭐0)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
+
+## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
+
+### Epic Fantasy / [Temeraire](https://www.goodreads.com/series/43272-temeraire) (2006) *by [Naomi Novik](https://en.wikipedia.org/wiki/Naomi_Novik)* [4.06]
+
+*   His Majesty's Dragon
+*   Throne of Jade
+*   Black Powder War
+*   Empire of Ivory
+*   Victory of Eagles
+*   Tongues of Serpents
+*   Crucible of Gold
+*   Blood of Tyrants
+*   League of Dragons
+
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Note Taking / Diagnostics
+
+*   [IlyasYOY/obs.nvim (⭐15)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
+
+## [9. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+
+### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
+
+*   [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
+
+## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Monitoring
+
+*   [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
+
+## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -242,7 +328,7 @@
 
 
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -314,13 +400,17 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
 
 *   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
-## [4. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
+## [14. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 
 ### Export
 

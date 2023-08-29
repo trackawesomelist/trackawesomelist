@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [OpenCage](https://opencagedata.com/) - Forward and reverse geocoding API based on open data.
 
+### Monitoring
+
+*   [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
+
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### Reports Generation
