@@ -1,18 +1,55 @@
 # Awesome List Updates on Aug 30, 2023
 
-5 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### C, C++
+
+*   NEW [endatabas (⭐20)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
+    *   built in Common Lisp and Rust.
+    *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
+
+## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+
+### Tools & Software / Utilities
+
+*   [httpreserve.info](https://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
+*   [HTTPreserve linkstat (⭐5)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
+
+## [3. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+
+### Connectivity Maps
+
+*   [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world.
+*   [Telegeography Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) - Map of cloud infastructure providers around the world.
+
+### Periodic Global Connectivity Reports
+
+*   We Are Social ([2023](https://wearesocial.com/ca-en/blog/2023/01/digital-2023/)) ([2022](https://wearesocial.com/uk/blog/2022/01/digital-2022-another-year-of-bumper-growth-2/)) ([2021](https://wearesocial.com/uk/blog/2021/01/digital-2021-uk/)) Annual report by Hootsuite on internet and social media adoption.
+*   Mobile Gender Gap Report from GSMA - ([2023](https://www.gsma.com/r/wp-content/uploads/2023/07/The-Mobile-Gender-Gap-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
+
+### Regional Connectivity Reports and Data
+
+*   RIA Africa Mobile Pricing (RAMP) Indices Portal - ([Q3 2022](https://researchictafrica.net/research-ict-africa-ramp-index-2/)) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
+
+## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Photoshop / Illustrator
 
 *   [Excalidraw (⭐54k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -98,13 +135,13 @@
 
 *   [OpenMessaging (⭐282) (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
 *   [forms.app](https://forms.app/) — Create online forms with powerful features like conditional logic, automatic score calculator, and AI. Collect up to 100 responses with a free plan, embed your forms on a website, or use them with a link.
 
-## [4. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+## [8. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
 - : [Bento DS](https://bento-ds.com)
 
@@ -241,7 +278,7 @@
 
 
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 

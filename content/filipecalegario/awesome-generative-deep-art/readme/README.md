@@ -146,6 +146,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI Tools Directories
 
+*   [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
 *   [Technologies in LabLab](https://lablab.ai/tech): list of AI tools suggested by [lablab.ai](https://lablab.ai) for their hackathons
 *   [Vondy - Next Generation AI Apps](https://www.vondy.com/): collection of AI tools organized by tasks
 *   [AI Tool Master List](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207): directory maintained by ClickUp
@@ -191,7 +192,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
 *   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419): using langchain to build a app for paper summarization
 *   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
-*   [hwchase17/langchain (⭐59k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [hwchase17/langchain (⭐60k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 *   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
@@ -200,7 +201,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 *   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
 *   [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY\&list=LL\&index=1\&t=17s) by Dr Alan D. Thompson. The following references came from this video description
-*   [Haystack (⭐10k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
+*   [Haystack (⭐11k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 *   [SolidUI (⭐279)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ### Autonomous LLM Agents
@@ -209,7 +210,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
 *   [joonspk-research/generative\_agents - Generative Agents (⭐10k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior
 *   [AgentBench: Evaluating LLMs as Agents](https://huggingface.co/papers/2308.03688): Hugging Face paper page on a benchmark to evaluate LLMs agents
-*   [geekan/MetaGPT (⭐21k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [geekan/MetaGPT (⭐24k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 *   [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
 *   [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 *   [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
@@ -230,7 +231,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### LangChain
 
-*   [Embedchain (⭐3.9k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐4.3k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 *   [FlowiseAI](https://flowiseai.com/): "Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript"
 *   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
 *   [LangChain Docs](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
@@ -241,7 +242,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [neuml/txtai (⭐4.7k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 *   [facebookresearch/faiss (⭐24k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 *   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
-*   \[🔥] [whitead/paper-qa (⭐2.9k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
+*   \[🔥] [whitead/paper-qa (⭐3k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
 *   [Learning Center | Pinecone](https://www.pinecone.io/learn/): Pinecone's guides to vector embeddings
 *   [BLIP+CLIP | CLIP Interrogator | Kaggle](https://www.kaggle.com/code/leonidkulyk/lb-0-45836-blip-clip-clip-interrogator): a Kaggle notebook for image description and captioning (imate-to-text)
@@ -510,12 +511,12 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐583)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐588)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### AI Tools for Searching
 
-*   [whitead/paper-qa (⭐2.9k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐3k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 *   [Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
 
 ### Papers Collections
@@ -884,7 +885,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 *   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
-*   [geekan/MetaGPT (⭐21k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [geekan/MetaGPT (⭐24k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 *   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
 *   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)

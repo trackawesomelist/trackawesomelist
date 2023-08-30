@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
+### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
+
 ### Discussions and Philosophy / Papers Collections
 
 *   [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
@@ -50,7 +54,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / LangChain
 
-*   [Embedchain (⭐3.9k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐4.3k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 
 ### Inbox: Large Language Models (LLMs) / LLMOps
 
@@ -81,7 +85,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [geekan/MetaGPT (⭐21k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [geekan/MetaGPT (⭐24k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
@@ -516,7 +520,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [Haystack (⭐10k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
+*   [Haystack (⭐11k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
 ### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
 
@@ -616,7 +620,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Papers and References / AI Tools for Searching
 
-*   [whitead/paper-qa (⭐2.9k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐3k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
 
@@ -672,7 +676,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
 *   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
-*   [hwchase17/langchain (⭐59k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [hwchase17/langchain (⭐60k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 
@@ -839,7 +843,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐583)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐588)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### Papers and References / Papers Collections

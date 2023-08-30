@@ -1,18 +1,49 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2023
 
-21 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### C, C++
+
+*   NEW [endatabas (⭐20)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
+    *   built in Common Lisp and Rust.
+    *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
+
+## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+
+### Tools & Software / Utilities
+
+*   [httpreserve.info](https://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
+*   [HTTPreserve linkstat (⭐5)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
+
+## [3. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+
+### Connectivity Maps
+
+*   [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world.
+*   [Telegeography Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) - Map of cloud infastructure providers around the world.
+
+### Periodic Global Connectivity Reports
+
+*   We Are Social ([2023](https://wearesocial.com/ca-en/blog/2023/01/digital-2023/)) ([2022](https://wearesocial.com/uk/blog/2022/01/digital-2022-another-year-of-bumper-growth-2/)) ([2021](https://wearesocial.com/uk/blog/2021/01/digital-2021-uk/)) Annual report by Hootsuite on internet and social media adoption.
+*   Mobile Gender Gap Report from GSMA - ([2023](https://www.gsma.com/r/wp-content/uploads/2023/07/The-Mobile-Gender-Gap-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
+
+### Regional Connectivity Reports and Data
+
+*   RIA Africa Mobile Pricing (RAMP) Indices Portal - ([Q3 2022](https://researchictafrica.net/research-ict-africa-ramp-index-2/)) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
+
+## [4. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Photoshop / Illustrator
 
 *   [Excalidraw (⭐54k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -98,7 +129,7 @@
 
 *   [OpenMessaging (⭐282) (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [3. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [6. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Bento DS](https://bento-ds.com)
 
@@ -235,7 +266,7 @@
 
 
 
-## [4. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [7. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
@@ -254,14 +285,14 @@
 
 *   [VOSCA V Playground](https://play.vosca.dev)
 
-## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [8. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
 *   [Magento 2 Url Data Integrity Checker (⭐244)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
 *
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Video Conferencing
 
@@ -271,7 +302,7 @@
 
 *   [RSSHub](https://docs.rsshub.app) - An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ([Demo](https://rsshub.app), [Source Code (⭐26k)](https://github.com/DIYgod/RSSHub)) `MIT` `Nodejs/Docker`
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -282,7 +313,7 @@
 *   [@storybook/builder-vite (⭐80k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
 *   [@builder.io/partytown (⭐12k)](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 
-## [8. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [11. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [Temeraire](https://www.goodreads.com/series/43272-temeraire) (2006) *by [Naomi Novik](https://en.wikipedia.org/wiki/Naomi_Novik)* [4.06]
 
@@ -296,25 +327,25 @@
 *   Blood of Tyrants
 *   League of Dragons
 
-## [9. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
 
-## [10. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [13. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Export
 
 *   [AppPlayer-Electron (⭐3)](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 
-## [11. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [14. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Frameworks
 
 *   [SSProve (⭐43)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
 
-## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
@@ -324,7 +355,7 @@
 
 *   [approx (⭐0)](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
 
-## [13. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -569,7 +600,11 @@
 
 
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
 
 ### Discussions and Philosophy / Papers Collections
 
@@ -583,7 +618,7 @@
 
 *   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CMS
 
@@ -601,7 +636,7 @@
 
 *   [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Register / Diagnostics
 
@@ -615,7 +650,7 @@
 
 *   [jaytyrrell13/static.nvim (⭐2)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 
-## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [20. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### GEO
 
@@ -625,25 +660,25 @@
 
 *   [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 
-## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTML Builders
 
 *   [to\_html (⭐1)](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
 
-## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Artificial Intelligence
 
 *   [Mpt-Instruct-DotNet-S (⭐1)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
 
-## [20. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [23. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [SignalVisualizer (⭐6)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
 
-## [21. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [24. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Learning
 

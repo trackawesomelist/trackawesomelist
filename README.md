@@ -259,6 +259,43 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Excalidraw (⭐54k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
+#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
+
+#### [7. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+
+##### Connectivity Maps
+
+*   [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world.
+*   [Telegeography Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) - Map of cloud infastructure providers around the world.
+
+##### Periodic Global Connectivity Reports
+
+*   We Are Social ([2023](https://wearesocial.com/ca-en/blog/2023/01/digital-2023/)) ([2022](https://wearesocial.com/uk/blog/2022/01/digital-2022-another-year-of-bumper-growth-2/)) ([2021](https://wearesocial.com/uk/blog/2021/01/digital-2021-uk/)) Annual report by Hootsuite on internet and social media adoption.
+*   Mobile Gender Gap Report from GSMA - ([2023](https://www.gsma.com/r/wp-content/uploads/2023/07/The-Mobile-Gender-Gap-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
+
+##### Regional Connectivity Reports and Data
+
+*   RIA Africa Mobile Pricing (RAMP) Indices Portal - ([Q3 2022](https://researchictafrica.net/research-ict-africa-ramp-index-2/)) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
+
+#### [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+
+##### Tools & Software / Utilities
+
+*   [httpreserve.info](https://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
+*   [HTTPreserve linkstat (⭐5)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
+
+#### [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### C, C++
+
+*   NEW [endatabas (⭐20)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
+    *   built in Common Lisp and Rust.
+    *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
+
 ### [Aug 29, 2023](/content/2023/08/29/README.md)
 
 
@@ -547,24 +584,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [RSSHub](https://docs.rsshub.app) - An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ([Demo](https://rsshub.app), [Source Code (⭐26k)](https://github.com/DIYgod/RSSHub)) `MIT` `Nodejs/Docker`
 
-#### [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Discussions and Philosophy / Critical Views about Generative AI
-
-*   [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
-
-##### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
-
-*   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
-
-#### [9. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+#### [8. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ##### Tools
 
 *   [Magento 2 Url Data Integrity Checker (⭐244)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
 *
 
-#### [10. Awesome V](/content/vlang/awesome-v/README.md)
+#### [9. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Interpreters/Compilers
 
@@ -583,17 +610,27 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [VOSCA V Playground](https://play.vosca.dev)
 
-#### [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Templates / Vanilla
 
 *   [vite-vanilla-js-template (⭐0)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 
-#### [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### CMS
 
 *   [TinaCMS](https://tina.io/) — Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX and JSON. Basic offer is free with two users available.
+
+#### [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
+
+##### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
+
+*   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
 ### [Aug 28, 2023](/content/2023/08/28/README.md)
 
@@ -669,13 +706,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [jaytyrrell13/static.nvim (⭐2)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 
-#### [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Discussions and Philosophy / Papers Collections
-
-*   [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
-
-#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Messaging and Streaming
 
@@ -684,6 +715,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Other Free Resources
 
 *   [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
+
+#### [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Discussions and Philosophy / Papers Collections
+
+*   [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
 
 ---
 
@@ -725,22 +762,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 32. [Nginx Resources](/content/fcambus/nginx-resources/README.md) - ([Source ⭐ 3.4K 📝 08&#x2F;27 ](https://github.com/fcambus/nginx-resources)) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 33. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 4.5K 📝 08&#x2F;24 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 34. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 26K 📝 08&#x2F;06 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-35. [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 2.9K 📝 08&#x2F;27 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
-36. [Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md) - ([Source ⭐ 12K 📝 08&#x2F;12 ](https://github.com/neutraltone/awesome-stock-resources)) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
-37. [Alternative Internet](/content/redecentralize/alternative-internet/README.md) - ([Source ⭐ 5K 📝 08&#x2F;20 ](https://github.com/redecentralize/alternative-internet)) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-38. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 4K 📝 08&#x2F;22 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
-39. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3.4K 📝 08&#x2F;23 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
-40. [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K 📝 08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
-41. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 173K 📝 07&#x2F;14 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
-42. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.7K 📝 08&#x2F;29 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
-43. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 37K 📝 07&#x2F;29 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-44. [Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md) - ([Source ⭐ 3.5K 📝 08&#x2F;21 ](https://github.com/markusschanta/awesome-jupyter)) - A curated list of awesome Jupyter projects, libraries and resources
-45. [Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md) - ([Source ⭐ 2.8K 📝 08&#x2F;23 ](https://github.com/caesar0301/awesome-pcaptools)) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
-46. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source ⭐ 75K 📝 07&#x2F;20 ](https://github.com/papers-we-love/papers-we-love)) - Papers from the computer science community to read and discuss.
-47. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K 📝 07&#x2F;25 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-48. [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2K 📝 08&#x2F;24 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
-49. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.2K 📝 08&#x2F;29 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
-50. [Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md) - ([Source ⭐ 1.1K 📝 08&#x2F;29 ](https://github.com/RichardLitt/awesome-fantasy)) - :european_castle: Fantasy literature worth reading
+35. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.3K 📝 08&#x2F;30 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+36. [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 2.9K 📝 08&#x2F;27 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
+37. [Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md) - ([Source ⭐ 12K 📝 08&#x2F;12 ](https://github.com/neutraltone/awesome-stock-resources)) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+38. [Alternative Internet](/content/redecentralize/alternative-internet/README.md) - ([Source ⭐ 5K 📝 08&#x2F;20 ](https://github.com/redecentralize/alternative-internet)) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+39. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 4K 📝 08&#x2F;22 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
+40. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3.4K 📝 08&#x2F;23 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
+41. [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K 📝 08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
+42. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 173K 📝 07&#x2F;14 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
+43. [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.6K 📝 08&#x2F;30 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
+44. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.7K 📝 08&#x2F;29 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
+45. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 37K 📝 07&#x2F;29 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+46. [Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md) - ([Source ⭐ 3.5K 📝 08&#x2F;21 ](https://github.com/markusschanta/awesome-jupyter)) - A curated list of awesome Jupyter projects, libraries and resources
+47. [Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md) - ([Source ⭐ 2.8K 📝 08&#x2F;23 ](https://github.com/caesar0301/awesome-pcaptools)) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
+48. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source ⭐ 75K 📝 07&#x2F;20 ](https://github.com/papers-we-love/papers-we-love)) - Papers from the computer science community to read and discuss.
+49. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.2K 📝 08&#x2F;30 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+50. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 43K 📝 07&#x2F;25 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 
 ## All Tracked List
 
@@ -1156,7 +1193,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Coins](/content/Zheaoli/awesome-coins/README.md) - ([Source ⭐ 3.6K, 📝 21&#x2F;12&#x2F;07 ](https://github.com/Zheaoli/awesome-coins)) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md) - ([Source ⭐ 10K, 📝 21&#x2F;11&#x2F;21 ](https://github.com/lnishan/awesome-competitive-programming)) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md) - ([Source ⭐ 31, 📝 06&#x2F;13 ](https://github.com/inoue0426/awesome-computational-biology)) - Awesome list of computational biology.
-- [Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md) - ([Source ⭐ 80, 📝 05&#x2F;19 ](https://github.com/stevesong/awesome-connectivity-info)) - Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
+- [Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md) - ([Source ⭐ 91, 📝 08&#x2F;30 ](https://github.com/stevesong/awesome-connectivity-info)) - Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 - [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 11K, 📝 07&#x2F;27 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md) - ([Source ⭐ 303, 📝 07&#x2F;19 ](https://github.com/j0hnm4r5/awesome-creative-technology)) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
 - [Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md) - ([Source ⭐ 66, 📝 21&#x2F;05&#x2F;15 ](https://github.com/mourarthur/awesome-credit-modeling)) - A collection of awesome papers, articles and various resources on credit and credit risk modeling
@@ -1178,7 +1215,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Frc](/content/andrewda/awesome-frc/README.md) - ([Source ⭐ 93, 📝 07&#x2F;23 ](https://github.com/andrewda/awesome-frc)) - A curated list of packages and resources regarding the FIRST Robotics Competition.
 - [Awesome Free Software](/content/johnjago/awesome-free-software/README.md) - ([Source ⭐ 1.3K, 📝 07&#x2F;14 ](https://github.com/johnjago/awesome-free-software)) - Curated list of free as in freedom software
 - [Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md) - ([Source ⭐ 186, 📝 22&#x2F;09&#x2F;13 ](https://github.com/sublimino/awesome-funny-markov)) - A curated list of delightfully amusing and facetious Markov chain output.
-- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.2K, 📝 08&#x2F;29 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
+- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.2K, 📝 08&#x2F;30 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
 - [Awesome Geojson](/content/tmcw/awesome-geojson/README.md) - ([Source ⭐ 2K, 📝 07&#x2F;20 ](https://github.com/tmcw/awesome-geojson)) - GeoJSON utilities that will make your life easier.
 - [Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md) - ([Source ⭐ 1.8K, 📝 08&#x2F;14 ](https://github.com/stevemao/awesome-git-addons)) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K, 📝 08&#x2F;18 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
@@ -1250,7 +1287,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.2K, 📝 07&#x2F;07 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md) - ([Source ⭐ 134, 📝 16&#x2F;12&#x2F;11 ](https://github.com/vorpaljs/awesome-vorpal)) - A curated list of delightful Vorpal extensions.
 - [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 2.9K, 📝 08&#x2F;27 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
-- [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.5K, 📝 07&#x2F;14 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
+- [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.6K, 📝 08&#x2F;30 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
 - [Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md) - ([Source ⭐ 2.1K, 📝 19&#x2F;06&#x2F;25 ](https://github.com/nicolesaidy/awesome-web-design)) - 🎨 A curated list of awesome resources for digital designers.
 - [Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md) - ([Source ⭐ 251, 📝 22&#x2F;09&#x2F;28 ](https://github.com/thomasbnt/awesome-web-monetization)) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 - [Awesome Webxr](/content/msub2/awesome-webxr/README.md) - ([Source ⭐ 140, 📝 07&#x2F;20 ](https://github.com/msub2/awesome-webxr)) - All things WebXR.
@@ -1344,7 +1381,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ava](/content/avajs/awesome-ava/README.md) - ([Source ⭐ 333, 📝 22&#x2F;09&#x2F;12 ](https://github.com/avajs/awesome-ava)) - Awesome AVA resources
 - [Awesome C](/content/inputsh/awesome-c/README.md) - ([Source ⭐ 3K, 📝 19&#x2F;10&#x2F;17 ](https://github.com/inputsh/awesome-c)) - Continuing the development of awesome-c list on GitHub
 - [Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md) - ([Source ⭐ 500, 📝 22&#x2F;11&#x2F;18 ](https://github.com/adafruit/awesome-circuitpython)) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
-- [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.2K, 📝 07&#x2F;06 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+- [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.3K, 📝 08&#x2F;30 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [Awesome Clojure](/content/razum2um/awesome-clojure/README.md) - ([Source ⭐ 2.6K, 📝 07&#x2F;15 ](https://github.com/razum2um/awesome-clojure)) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md) - ([Source ⭐ 967, 📝 02&#x2F;03 ](https://github.com/hantuzun/awesome-clojurescript)) - A community driven list of ClojureScript frameworks, libraries and wrappers.
 - [Awesome Cmake](/content/onqtam/awesome-cmake/README.md) - ([Source ⭐ 4.4K, 📝 22&#x2F;05&#x2F;18 ](https://github.com/onqtam/awesome-cmake)) - A curated list of awesome CMake resources, scripts, modules and examples.
