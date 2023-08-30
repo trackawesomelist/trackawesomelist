@@ -12,6 +12,11 @@
 
 *   [vite-vanilla-js-template (⭐0)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 
+### Framework-agnostic Plugins / Integrations
+
+*   [@storybook/builder-vite (⭐80k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
+*   [@builder.io/partytown (⭐12k)](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### Templates / React

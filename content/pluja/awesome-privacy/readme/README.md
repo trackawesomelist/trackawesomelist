@@ -197,7 +197,7 @@ Preinstalled file managers and third-party file manager apps found on the play s
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
-*   [Simple File Manager (⭐1.3k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
+*   [Simple File Manager (⭐1.4k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [Amaze File Manager (⭐4.7k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
 *   [Material Files (⭐3.7k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
@@ -268,9 +268,9 @@ Go to the [Text To Speech](#text-to-speech) section.
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
-*   [Shiori (⭐7.6k)](https://github.com/go-shiori/shiori)
+*   [Shiori (⭐7.8k)](https://github.com/go-shiori/shiori)
 *   [LinkAce (⭐2.1k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐3.8k)](https://github.com/sissbruecker/linkding)
+*   [LinkDing (⭐3.9k)](https://github.com/sissbruecker/linkding)
 
 ### Book and web annotations/highlights management
 
@@ -395,6 +395,7 @@ Apps such as Tinder collect and sell your personal intimate information. Tinder 
 *   [GIMP](https://www.gimp.org/) - A free and open-source raster graphics editor used for image manipulation (retouching) and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks. It is not designed to be used for drawing, though some artists and creators have used it in this way.
 *   [Inkscape](https://inkscape.org/) - A free and open-source vector graphics editor for GNU/Linux, Windows and macOS. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting.
 *   [Krita](https://krita.org/) - A free and open-source raster graphics editor designed primarily for digital art and 2D animation.
+*   [Excalidraw (⭐54k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ### Figma
 
@@ -457,7 +458,7 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 *   [OnionShare (⭐5.7k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 *   [Paperless (⭐7.8k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
     *   [Paperless-ng (⭐5.4k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
-*   [Paperless-ngx (⭐9.5k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐9.6k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
 *   [PairDrop (⭐1.1k)](https://github.com/schlagmichdoch/PairDrop) - An improved version of Snapdrop that also allows you to pair devices and share files outside your network.
 *   [Portal (⭐941)](https://github.com/SpatiumPortae/portal) - A command-line file transfer utility for sending encrypted files from any computer to another.
 *   [QRcp (⭐9.3k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
@@ -694,7 +695,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 ### Self-Hosted
 
 *   [Docker mail server (⭐12k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
-*   [Mailcow: dockerized (⭐6.8k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐6.9k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 *   [Mail-in-a-box (⭐12k)](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 *   [Mox (⭐2.8k)](https://github.com/mjl-/mox) - Modern full-featured open source secure mail server for low-maintenance self-hosted email.
 
@@ -714,7 +715,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 With email aliases, you can finally create a different identity for each website. Defend against spams, phishing and data breach. You can choose self-hosting any of the following options or you can also use their own platform as a service.
 
 *   [SimpleLogin (⭐4k)](https://github.com/simple-login/app)
-*   [AnonAddy (⭐2.4k)](https://github.com/anonaddy/anonaddy)
+*   [AnonAddy (⭐2.5k)](https://github.com/anonaddy/anonaddy)
 
 ## Maps and Navigation
 
@@ -978,7 +979,7 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
 
 These tools are useful when sharing secrets, code snippets or any other kind of text with others in a private way.
 
-*   [PrivateBin (⭐5.2k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+*   [PrivateBin (⭐5.3k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 *   [Yopass (⭐1.3k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
 
 ## Payments
@@ -1071,12 +1072,12 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 *   [Pigallery2](http://bpatrik.github.io/pigallery2/) - A self-hosted directory-first photo gallery website.
 *   [Photoview](https://photoview.github.io/) - Photo gallery for self-hosted personal servers with Facial Recognition.
 *   [Photostructure](https://photostructure.com/) - Self-hosted photo library that makes browsing and sharing a lifetime of memories delightful.
+*   [Stingle Photos](https://stingle.org/) - Open source solution that provides strong security, privacy and encryption to backup your photos.
 
 ### Third-party
 
 *   [Crypt.ee](https://crypt.ee/) - A private and encrypted place for all your photos, documents, notes and more.
 *   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients, [audited](https://ente.io/blog/cryptography-audit/) independently.
-*   [Stingle Photos](https://stingle.org/) - Open source solution that provides strong security, privacy and encryption to backup your photos.
 
 ### Local
 
@@ -1128,10 +1129,10 @@ This section is dedicated to some tools that may help users analyze the privacy 
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
-*   [Whoogle Search (⭐7.7k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+*   [Whoogle Search (⭐7.8k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
 *   [librengine (⭐58)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
-    *   [SearxNG (⭐5.1k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
+    *   [SearxNG (⭐5.2k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
 *   [Brave Search](https://search.brave.com) - A privacy respecting search engine with [its own independent index](https://brave.com/search-independence/).
 
@@ -1264,7 +1265,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 #### Alternative Frontends
 
-*   [Nitter (⭐8.1k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐8.3k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.4k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android (feed no longer available).
         *   *   [Squawker (⭐199)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
@@ -1279,7 +1280,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Reddit alternatives:**
 
 *   [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
-*   [Kbin (⭐681)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Kbin (⭐688)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 *   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 *   [SaidIt](https://saidit.net/) - Open source Reddit clone.
 

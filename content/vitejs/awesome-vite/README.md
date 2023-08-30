@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Aug 30, 2023](/content/2023/08/30/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@storybook/builder-vite (⭐80k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
+*   [@builder.io/partytown (⭐12k)](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+
 ## [Aug 29, 2023](/content/2023/08/29/README.md)
 
 ### Templates / Vanilla

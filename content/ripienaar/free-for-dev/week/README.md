@@ -16,6 +16,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
 
+### Forms
+
+*   [forms.app](https://forms.app/) — Create online forms with powerful features like conditional logic, automatic score calculator, and AI. Collect up to 100 responses with a free plan, embed your forms on a website, or use them with a link.
+
 ### Other Free Resources
 
 *   [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
@@ -985,10 +989,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Quidlo Timesheets](https://www.quidlo.com/timesheets) - A simple timesheet and time tracking app for teams. Free plan has time tracking and generating reports features, it is available for up to 10 users.
 
-### Log Management
-
-*   [humio.com](https://www.humio.com/) — Free up to 16 GB/day with 7 days retention
-
 ### Monitoring
 
 *   [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 5 uptime checks (for static websites and APIs) with a 5 minute interval, 1 browser check with a 15 minute interval. Also provides automated public status pages (with support coming for 3rd party uptime monitoring). Free for up to 3 users, alerts via Slack, Discord, and Email.
@@ -1937,7 +1937,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data and ML
 
 *   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.
-*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
+*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐2k)](https://github.com/julien-lafont/Mocky).
 
 ### Web Hosting
 
@@ -2615,7 +2615,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐864)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐872)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
 
@@ -3187,7 +3187,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
 *   [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
-*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at [https://github.com/xlayers/xlayers (⭐804)](https://github.com/xlayers/xlayers))
+*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at [https://github.com/xlayers/xlayers (⭐805)](https://github.com/xlayers/xlayers))
 
 ## [Jul 06 - Jul 12, 2020](/content/2020/27/README.md)
 

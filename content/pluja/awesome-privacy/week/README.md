@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
+
+### Photoshop / Illustrator
+
+*   [Excalidraw (⭐54k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
 ### Notes and Tasks
@@ -350,7 +356,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Reddit
 
-*   [Kbin (⭐681)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Kbin (⭐688)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 *   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
@@ -371,11 +377,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### File Management and Sharing
 
-*   [Paperless-ngx (⭐9.5k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐9.6k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐6.8k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐6.9k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ### PC / MacOS
 
@@ -416,9 +422,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
 *   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
-*   [Shiori (⭐7.6k)](https://github.com/go-shiori/shiori)
+*   [Shiori (⭐7.8k)](https://github.com/go-shiori/shiori)
 *   [LinkAce (⭐2.1k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐3.8k)](https://github.com/sissbruecker/linkding)
+*   [LinkDing (⭐3.9k)](https://github.com/sissbruecker/linkding)
 
 ### Cloud Storage
 
@@ -435,7 +441,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Pastebin and Secret Sharing
 
 *   [Yopass (⭐1.3k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
-*   [PrivateBin (⭐5.2k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+*   [PrivateBin (⭐5.3k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ### Sonic the Hedgehog
 
@@ -564,7 +570,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Search Engines
 
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
-    *   [SearxNG (⭐5.1k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
+    *   [SearxNG (⭐5.2k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -583,10 +589,13 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Swetrix](https://swetrix.com) - Privacy-focused, fully cookieless and opensource (and selfhostable) web-analytics service.
 
+### Self-hosted
+
+*   [Stingle Photos](https://stingle.org/) - Open source solution that provides strong security, privacy and encryption to backup your photos.
+
 ### Third-party
 
 *   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients, [audited](https://ente.io/blog/cryptography-audit/) independently.
-*   [Stingle Photos](https://stingle.org/) - Open source solution that provides strong security, privacy and encryption to backup your photos.
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
@@ -805,7 +814,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Alternative Frontends
 
-*   [Nitter (⭐8.1k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐8.3k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.4k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android (feed no longer available).
         *   *   [Squawker (⭐199)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
 
@@ -846,7 +855,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Email Alias Services (Anonymous Forwarding)
 
 *   [SimpleLogin (⭐4k)](https://github.com/simple-login/app)
-*   [AnonAddy (⭐2.4k)](https://github.com/anonaddy/anonaddy)
+*   [AnonAddy (⭐2.5k)](https://github.com/anonaddy/anonaddy)
 
 ### FIAT
 
@@ -895,7 +904,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android File Manager
 
-*   [Simple File Manager (⭐1.3k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
+*   [Simple File Manager (⭐1.4k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [Amaze File Manager (⭐4.7k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
 *   [Material Files (⭐3.7k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
@@ -1099,7 +1108,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Search Engines
 
 *   Bing
-*   [Whoogle Search (⭐7.7k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+*   [Whoogle Search (⭐7.8k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
 
 ### YouTube

@@ -294,7 +294,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [MockAPI](https://www.mockapi.io/) — MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/4 resources per project for free.
 *   [Mocki](https://mocki.io) - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to create and use without signup.
 *   [Mocko.dev](https://mocko.dev/) — Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integrations tests.
-*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
+*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐2k)](https://github.com/julien-lafont/Mocky).
 *   [reqres.in](https://reqres.in) - A Free hosted REST-API ready to respond to your AJAX requests.
 *   [microenv.com](https://microenv.com) —  Create fake REST API for developers with possibility to generate code and app in docker container.
 *   [neptune.ai](https://neptune.ai/) - Log, store, display, organize, compare and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
@@ -714,7 +714,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 ## Log Management
 
 *   [bugfender.com](https://bugfender.com/) — Free up to 100k log lines/day with 24 hours retention
-*   [humio.com](https://www.humio.com/) — Free up to 16 GB/day with 7 days retention
 *   [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
 *   [loggly.com](https://www.loggly.com/) — Free for a single user, 200MB/day with 7 days retention
 *   [logz.io](https://logz.io/) — Free up to 1 GB/day, 1 days retention
@@ -978,6 +977,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [formpost.app](https://formpost.app) - Free, unlimited Form to Email service. Setup custom redirect, auto response, webhooks etc for free.
 *   [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
 *   [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.
+*   [forms.app](https://forms.app/) — Create online forms with powerful features like conditional logic, automatic score calculator, and AI. Collect up to 100 responses with a free plan, embed your forms on a website, or use them with a link.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1416,7 +1416,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
 *   [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
 *   [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
-*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at [https://github.com/xlayers/xlayers (⭐804)](https://github.com/xlayers/xlayers))
+*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at [https://github.com/xlayers/xlayers (⭐805)](https://github.com/xlayers/xlayers))
 *   [Grapedrop](https://grapedrop.com/) — Responsive, powerful, SEO optimized web page builder based on GrapesJS Framework. Free for first 5 pages, unlimited custom domains, all features and simple usage.
 *   [Mastershot](https://mastershot.app) - Completely free browser-based video editor. No watermark, up to 1080p export options.
 *   [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. 1 website for free.
@@ -1792,7 +1792,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
 *   [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
 *   [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-*   [github.com — FOSS for Dev (⭐864)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐872)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
