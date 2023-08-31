@@ -132,6 +132,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 *   [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - Interactive map reporting issues that impact the performance of the Internet.
 *   [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.
 *   [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) - Updated:February 28, 2020.
+*   [IPinfo.io - Country Pages](https://ipinfo.io/countries) - Summary of country-level IP data covering top ASNs, important routers, city-level information, carrier IPs, and other IP data.
 
 <!-- END RESOURCE LIST -->  
 

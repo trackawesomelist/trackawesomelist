@@ -22,6 +22,10 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 *   RIA Africa Mobile Pricing (RAMP) Indices Portal - ([Q3 2022](https://researchictafrica.net/research-ict-africa-ramp-index-2/)) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
 
+### Other sources
+
+*   [IPinfo.io - Country Pages](https://ipinfo.io/countries) - Summary of country-level IP data covering top ASNs, important routers, city-level information, carrier IPs, and other IP data.
+
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
 ### Global Connectivity Indexes

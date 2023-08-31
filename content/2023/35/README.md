@@ -1,12 +1,84 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2023
 
-24 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Official documentation
+
+*   [Keynote on Polars at EuroSciPy 2023](https://www.youtube.com/watch?v=GTVm3QyJ-3I\&t=43s) ⏳ `57 min` - Talk by [@ritchie46](https://github.com/ritchie46) that dives into Polars and sees what makes it so efficient.  It will touch on technologies like Arrow, Rust, parallelism, data structures, query optimization and more.
+
+### Libraries/Packages/Scripts / Rust
+
+*   [Polars CLI (⭐32)](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend.
+
+### Resources / Tutorials & workshops
+
+*   [Python Polars: A Lightning-Fast DataFrame Library](https://realpython.com/polars-python/) - A tutorial that shows how to use Polars with Python ecosystem by [@hfhoffman1144](https://github.com/hfhoffman1144). Code used is available on Github [here (⭐4.4k)](https://github.com/realpython/materials/tree/master/python-polars).
+
+### Resources / Talks and videos
+
+*   [Using the Rust Polars DataFrame library in a CLI](https://www.youtube.com/watch?v=CUQaoAcc95M) ⏳ `4 min` - A video that shows how to integrate Polars in a commande line interface by [@paiml](https://github.com/paiml).
+*   [The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame](https://www.youtube.com/watch?v=keCvzMihDfk\&list=PLp0TENYyY8lHJaY4t5bAihnFS5TBUQYV1) ⏳ `10 videos` - A playlist of 10 videos (WIP) that equips you with all the necessary knowledge required to utilize Python Polars Data Frame by [@AmitXShukla](https://github.com/AmitXShukla).
+
+## [2. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+
+### Software / Vector Creation
+
+*   [LineDream](https://linedream.marcrleonard.com/) - A generative art library for Python that can export SVGs.
+
+## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Private Registries / Miscellaneous
+
+*   [nrkno/terraform-registry (⭐50)](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
+*   [petra (⭐30)](https://github.com/devoteamgcloud/petra) - Private Terraform Registry Manager
+*   [philips-labs/terraform-registry (⭐65)](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
+
+### Providers / Community providers
+
+*   [terraform-provider-docker (⭐452)](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
+*   [terraform-provider-value (⭐14)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
+
+### Tools / Community providers
+
+*   [balcony](https://oguzhan-yilmaz.github.io/balcony/) - CLI tool for easy AWS API reads. Also generates Terraform import-blocks, and actual Terraform Resource code.
+*   [burrito](https://padok-team.github.io/burrito/) - Burrito is a TACoS (Terraform Automation Collaboration Software) Kubernetes Operator.
+*   [cfnctl (⭐130)](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
+*   [coretech/terrafile (⭐137)](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
+*   [dxw/terrafile (⭐2)](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
+*   [hatchet](https://docs.hatchet.run/) - An all-in-one Terraform management tool.
+*   [layerform (⭐874)](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
+*   [pytest-terraform (⭐50)](https://github.com/cloud-custodian/pytest-terraform) - pytest terraform plugin with fixtures and offline replay support.
+*   [renovate-config (⭐33)](https://github.com/SpotOnInc/renovate-config) - Sharable Config Presets for Renovatebot, especially useful for DevOps folks.
+*   [stacks (⭐101)](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
+*   [terracove](https://elementtech.github.io/terracove/) - Recursively test a directory tree for Terraform diffs and coverage.
+*   [terraeasy (⭐32)](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
+*   [terraform-cleaner (⭐147)](https://github.com/sylwit/terraform-cleaner) - Tiny utility which detects unused variables in your terraform modules.
+*   [terramagic (⭐35)](https://github.com/miltlima/terramagic) - Wizard tool for create folders and terraform files automated, written in Python !
+*   [terrap-cli (⭐62)](https://github.com/sirrend/terrap-cli) - Terrap - a powerful CLI tool that scans your infrastructure and identifies any required changes.
+*   [terrars (⭐66)](https://github.com/andrewbaxter/terrars) - Terrars is a tool for building Terraform stacks in Rust. This is an alternative to the CDK.
+*   [terrascope (⭐27)](https://github.com/spilliams/terrascope) - Build orchestrator for terraform monorepos.
+*   [terrashine](https://isawan.github.io/terrashine/) - Terrashine is a terraform provider mirror1 implementation that works by automatically caching dependencies as providers are requested.
+*   [tfgen (⭐67)](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY.
+*   [tfrepl (⭐25)](https://github.com/ysoftwareab/tfrepl) - A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.
+*   [tfsort (⭐108)](https://github.com/AlexNabokikh/tfsort) - CLI utility to sort Terraform variables and outputs.
+*   [travelgrunt (⭐63)](https://github.com/ivanilves/travelgrunt) - cd inside \[mono]repos without fatigue!
+
+### Tools / CI
+
+*   [setup-terraform (⭐1.1k)](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
+*   [terraform-plan (⭐44)](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
+
+### Tools / IDE
+
+*   [vscode-terraform-live-graph (⭐194)](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
+
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -14,14 +86,14 @@
     *   built in Common Lisp and Rust.
     *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
 
-## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [httpreserve.info](https://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
 *   [HTTPreserve linkstat (⭐5)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
 
-## [3. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
@@ -37,13 +109,17 @@
 
 *   RIA Africa Mobile Pricing (RAMP) Indices Portal - ([Q3 2022](https://researchictafrica.net/research-ict-africa-ramp-index-2/)) - Pricing information on Voice/SMS basket, 1GB data basket, and Value For Money bundles.
 
-## [4. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+### Other sources
+
+*   [IPinfo.io - Country Pages](https://ipinfo.io/countries) - Summary of country-level IP data covering top ASNs, important routers, city-level information, carrier IPs, and other IP data.
+
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Photoshop / Illustrator
 
 *   [Excalidraw (⭐54k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -129,7 +205,7 @@
 
 *   [OpenMessaging (⭐282) (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [6. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [9. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Bento DS](https://bento-ds.com)
 
@@ -266,7 +342,7 @@
 
 
 
-## [7. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [10. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
@@ -285,14 +361,14 @@
 
 *   [VOSCA V Playground](https://play.vosca.dev)
 
-## [8. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [11. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
 *   [Magento 2 Url Data Integrity Checker (⭐244)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
 *
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Video Conferencing
 
@@ -302,7 +378,7 @@
 
 *   [RSSHub](https://docs.rsshub.app) - An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ([Demo](https://rsshub.app), [Source Code (⭐26k)](https://github.com/DIYgod/RSSHub)) `MIT` `Nodejs/Docker`
 
-## [10. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -313,7 +389,7 @@
 *   [@storybook/builder-vite (⭐80k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
 *   [@builder.io/partytown (⭐12k)](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 
-## [11. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [14. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [Temeraire](https://www.goodreads.com/series/43272-temeraire) (2006) *by [Naomi Novik](https://en.wikipedia.org/wiki/Naomi_Novik)* [4.06]
 
@@ -327,25 +403,25 @@
 *   Blood of Tyrants
 *   League of Dragons
 
-## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [15. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
 
-## [13. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [16. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Export
 
 *   [AppPlayer-Electron (⭐3)](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 
-## [14. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [17. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Frameworks
 
 *   [SSProve (⭐43)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
@@ -355,7 +431,7 @@
 
 *   [approx (⭐0)](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
 
-## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [19. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -600,7 +676,7 @@
 
 
 
-## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI Tools Directories / Contribute to Our Repository
 
@@ -618,7 +694,7 @@
 
 *   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CMS
 
@@ -636,7 +712,7 @@
 
 *   [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Register / Diagnostics
 
@@ -650,7 +726,7 @@
 
 *   [jaytyrrell13/static.nvim (⭐2)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 
-## [20. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### GEO
 
@@ -660,25 +736,25 @@
 
 *   [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 
-## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTML Builders
 
 *   [to\_html (⭐1)](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
 
-## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Artificial Intelligence
 
 *   [Mpt-Instruct-DotNet-S (⭐1)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
 
-## [23. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [SignalVisualizer (⭐6)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
 
-## [24. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Learning
 
