@@ -100,7 +100,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist (⭐215)](ht
 ## UI
 
 Neovim supports a wide variety of UI's.
-You can find them listed on the [Neovim wiki (⭐68k)](https://github.com/neovim/neovim/wiki/Related-projects#gui)
+You can find them listed on the [Neovim wiki (⭐69k)](https://github.com/neovim/neovim/wiki/Related-projects#gui)
 
 ## Starter Templates
 
@@ -196,6 +196,7 @@ You can find them listed on the [Neovim wiki (⭐68k)](https://github.com/neovim
 *   [dpayne/CodeGPT.nvim (⭐695)](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
 *   [jackMort/ChatGPT.nvim (⭐2.5k)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
 *   [CamdenClark/flyboy (⭐11)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
+*   [gsuuon/llm.nvim (⭐39)](https://github.com/gsuuon/llm.nvim) - Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 
 ### Programming Languages Support
 
@@ -208,7 +209,7 @@ You can find them listed on the [Neovim wiki (⭐68k)](https://github.com/neovim
 *   [gennaro-tedesco/nvim-jqx (⭐249)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
 *   [nanotee/sqls.nvim (⭐138)](https://github.com/nanotee/sqls.nvim) - SQL database connection plugin + LSP client.
 *   [dmmulroy/tsc.nvim (⭐155)](https://github.com/dmmulroy/tsc.nvim) - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (TSC) with results loaded into a quickfix list.
-*   [chuwy/ucm.nvim (⭐4)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
+*   [chuwy/ucm.nvim (⭐5)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
 
 #### Golang
 
@@ -1056,7 +1057,7 @@ These tools are used externally to Neovim to enhance the experience.
 
 ### Version Manager
 
-*   [MordechaiHadad/bob (⭐753)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐775)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 *   [NTBBloodbath/nvenv (⭐46)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 *   [shohi/neva (⭐10)](https://github.com/shohi/neva) - A Neovim version manager written in Lua.
 

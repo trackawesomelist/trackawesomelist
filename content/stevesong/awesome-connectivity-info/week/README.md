@@ -25,6 +25,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 ### Other sources
 
 *   [IPinfo.io - Country Pages](https://ipinfo.io/countries) - Summary of country-level IP data covering top ASNs, important routers, city-level information, carrier IPs, and other IP data.
+*   [Cloudflare Radar's Internet Quality Index](https://radar.cloudflare.com/quality) - Estimated country-level internet download speeds and performance.
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 

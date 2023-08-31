@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
+### AI / Diagnostics
+
+*   [gsuuon/llm.nvim (⭐39)](https://github.com/gsuuon/llm.nvim) - Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+
 ### Register / Diagnostics
 
 *   [desdic/macrothis.nvim (⭐1)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
@@ -53,7 +57,7 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Diagnostics
 
 *   [roobert/f-string-toggle.nvim (⭐13)](https://github.com/roobert/f-string-toggle.nvim) - Toggle python f-strings.
-*   [chuwy/ucm.nvim (⭐4)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
+*   [chuwy/ucm.nvim (⭐5)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
 
 ### Web Development / Diagnostics
 
@@ -1635,7 +1639,7 @@ Collections of awesome neovim plugins.
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐753)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐775)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
