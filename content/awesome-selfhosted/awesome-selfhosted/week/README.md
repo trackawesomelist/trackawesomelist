@@ -18,6 +18,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
+*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐1.6k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go`
 *   [Watcharr (⭐8)](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 
 ### Software / Software Development - Project Management
@@ -119,7 +120,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Libreddit (⭐4.8k)](https://github.com/libreddit/libreddit) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
+*   [Libreddit (⭐4.9k)](https://github.com/libreddit/libreddit) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
 
 ### Software / Document Management - E-books
 
@@ -335,7 +336,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / URL Shorteners
 
-*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.jck.cx), [Source Code (⭐75)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
+*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.getlynx.dev), [Source Code (⭐75)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
 
 ### Software / Wikis
 
@@ -2484,7 +2485,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Pastebins
 
-*   [fiche (⭐1.3k)](https://github.com/solusipse/fiche) - Command line pastebin, all you need is netcat. ([Demo](https://termbin.com/)) `MIT` `C`
 *   [mojopaste](https://metacpan.org/dist/App-mojopaste) - Perl based pastebin. ([Demo](https://p.thorsen.pm/), [Source Code (⭐40)](https://github.com/jhthorsen/app-mojopaste)) `Artistic-2.0` `Perl`
 
 ### Software / Photo and Video Galleries

@@ -1,12 +1,33 @@
 # Awesome List Updates on Sep 01, 2023
 
-3 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [LLFn (⭐73)](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
+*   [Lagent (⭐291)](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Miscellaneous
+
+*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐1.6k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go`
+
+## [3. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Community
+
+*   [/r/bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting
+*   [/r/commandline](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
+*   [#bash](https://web.libera.chat/?nick=Guest\&#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
+
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Desktop
 
@@ -56,13 +77,13 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Tools
 
 *   [DDEV (⭐2k)](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
 
-## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Hardware / Opcodes
 

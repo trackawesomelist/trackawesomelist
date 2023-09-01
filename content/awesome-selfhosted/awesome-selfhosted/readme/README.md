@@ -543,7 +543,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 *   [Isso](https://isso-comments.de/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.8k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 *   [kbin](https://kbin.pub/) - Federated content aggregator and microblogging platform. ([Source Code (⭐688)](https://github.com/ernestwisniewski/kbin)) `AGPL-3.0` `PHP/Nodejs/Docker`
 *   [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse (alternative to Reddit). ([Source Code (⭐12k)](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Docker/Rust`
-*   [Libreddit (⭐4.8k)](https://github.com/libreddit/libreddit) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
+*   [Libreddit (⭐4.9k)](https://github.com/libreddit/libreddit) `⚠` - Private front-end for Reddit written in Rust. `AGPL-3.0` `Rust`
 *   [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code (⭐2.2k)](https://github.com/loomio/loomio)) `AGPL-3.0` `Docker`
 *   [Mastodon](https://joinmastodon.org/) - Federated microblogging server. ([Source Code (⭐44k)](https://github.com/mastodon/mastodon)) `AGPL-3.0` `Ruby`
 *   [Misago](https://misago-project.org/) - Misago is fully featured modern forum application that is fast, scalable and responsive. ([Source Code (⭐2.4k)](https://github.com/rafalp/Misago)) `GPL-2.0` `Docker`
@@ -1272,6 +1272,7 @@ Software that does not fit in another section.
 *   [asciinema (⭐2.1k)](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
 *   [Baby Buddy (⭐1.7k)](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. ([Demo](https://demo.baby-buddy.net/login/?next=/)) `BSD-2-Clause` `Python`
 *   [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code (⭐11k)](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
+*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐1.6k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go`
 *   [changedetection.io (⭐10k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
 *   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐335)](https://github.com/magicbug/cloudlog)) `MIT` `PHP`
 *   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐1.7k)](https://github.com/apple/cups)) `GPL-2.0` `C`
@@ -1459,7 +1460,6 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 *   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐469)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker`
 *   [Drift (⭐1.2k)](https://github.com/MaxLeiter/drift) - Self-hosted Github Gist clone. ([Demo](https://drift.maxleiter.com/)) `MIT` `Nodejs`
 *   [ExBin (⭐66)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Elixir`
-*   [fiche (⭐1.3k)](https://github.com/solusipse/fiche) - Command line pastebin, all you need is netcat. ([Demo](https://termbin.com/)) `MIT` `C`
 *   [filite (⭐190)](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. `MIT` `Rust`
 *   [FlashPaper (⭐232)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`
 *   [Hasty Paste](https://enchantedcode.co.uk/hasty-paste/) - A place to quickly paste some text and share it. Mostly used for sharing debug logs and such to help developers provide tech support. The project aims to be both fast and minimal. ([Source Code (⭐126)](https://github.com/enchant97/hasty-paste)) `AGPL-3.0` `Docker/Python`
@@ -1959,7 +1959,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 *   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐7.4k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 *   [liteshort](https://git.ikl.sh/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. `MIT` `Python`
 *   [Lstu (⭐192)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl`
-*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.jck.cx), [Source Code (⭐75)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
+*   [Lynx](https://getlynx.dev) - URL shortener with many functions such as multiple accounts, ShareX support and an attractive but simple interface. ([Demo](https://demo.getlynx.dev), [Source Code (⭐75)](https://github.com/Lynx-Shortener/Lynx)) `MIT` `Nodejs/Docker`
 *   [Pastr (⭐7)](https://github.com/hossainalhaidari/pastr) - Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies. ([Demo](https://alhai.de)) `MIT` `Go`
 *   [ReducePy (⭐34)](https://github.com/abdullahselek/ReducePy) - URL shortener service using Tornado and Redis runs on Docker and Kubernetes. `MIT` `Python`
 *   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐2.2k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP`
