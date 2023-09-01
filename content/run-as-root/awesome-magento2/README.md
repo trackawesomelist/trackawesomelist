@@ -6,6 +6,12 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 [ Daily / [Weekly](/content/run-as-root/awesome-magento2/week/README.md) / [Overview](/content/run-as-root/awesome-magento2/readme/README.md) ]
 
+## [Sep 01, 2023](/content/2023/09/01/README.md)
+
+### Tools
+
+*   [DDEV (⭐2k)](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
+
 ## [Aug 29, 2023](/content/2023/08/29/README.md)
 
 ### Tools

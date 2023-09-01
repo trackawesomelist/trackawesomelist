@@ -6,29 +6,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Aug 29, 2023](/content/2023/08/29/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐192)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐56)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐68)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐418)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+## [Sep 01, 2023](/content/2023/09/01/README.md)
 
 ### Projects / Desktop
 
@@ -41,7 +19,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Android / Libraries
 
 *   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐185)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
@@ -88,7 +66,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
-*   [mahozad/wavy-slider (⭐26)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
+*   [mahozad/wavy-slider (⭐30)](https://github.com/mahozad/wavy-slider) - Multiplatform UI widget that recreates the Android 13 squiggly progress bar
 
 ## [Jul 11, 2023](/content/2023/07/11/README.md)
 
@@ -260,8 +238,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Projects / Misc
 
 *   [Poweranimal/PowerCollections (⭐16)](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
-*   [ruslanys/telegraff (⭐149)](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
 *   [AngryJKirk/familybot (⭐110)](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
+*   [ruslanys/telegraff (⭐149)](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
 
 ### Projects / Desktop
 
@@ -567,16 +545,16 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Projects / Web
 
-*   [sdeleuze/spring-boot-kotlin-demo (⭐592)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
+*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
+*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
+*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
+*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
 *   [IRus/kotlin-dev-proxy (⭐20)](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
 *   [ratpack/example-ratpack-gradle-kotlin-app (⭐37)](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
 *   [eddywm/KTFLITE (⭐177)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
-*   [corda/corda (⭐4k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
 *   [mixitconf/mixit (⭐535)](https://github.com/mixitconf/mixit) - MiXiT website
-*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
-*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
-*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
-*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
+*   [sdeleuze/spring-boot-kotlin-demo (⭐592)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
+*   [corda/corda (⭐4k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
 
 ### Projects / Build tools
 
@@ -584,14 +562,14 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Projects / Misc
 
-*   [quicktype/quicktype (⭐10k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
-*   [lice-lang/lice (⭐126)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
-*   [borisf/classyshark-bytecode-viewer (⭐200)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
-*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐143)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
-*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
-*   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
 *   [krzema12/fsynth (⭐11)](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
+*   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
 *   [madhead/tyzenhaus (⭐12)](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
+*   [lice-lang/lice (⭐126)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
+*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐143)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
+*   [borisf/classyshark-bytecode-viewer (⭐200)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
+*   [quicktype/quicktype (⭐10k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
 
 ### Projects / Desktop
 

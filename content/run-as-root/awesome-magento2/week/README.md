@@ -10,6 +10,7 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 ### Tools
 
+*   [DDEV (⭐2k)](https://github.com/ddev/ddev) - A open source tool for launching local web development environments in minutes. It supports PHP, Node.js, and Python.
 *   [Magento 2 Url Data Integrity Checker (⭐244)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
 *
 
