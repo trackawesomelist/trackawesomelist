@@ -21,6 +21,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [V-WebUI (⭐64)](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
 *   [webview (⭐25)](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 
+### Web
+
+*   [west (⭐8)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
+
 ### Online IDEs with V / IntelliJ & CLion & GoLand etc
 
 *   [VOSCA V Playground](https://play.vosca.dev)

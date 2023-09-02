@@ -315,6 +315,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vigest (⭐5)](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
 *   [vweb (⭐34k)](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 *   [vxbloauth (⭐8)](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
+*   [west (⭐8)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 
 ## Other
 

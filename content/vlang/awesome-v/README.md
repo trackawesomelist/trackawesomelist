@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Sep 02, 2023](/content/2023/09/02/README.md)
+
+### Web
+
+*   [west (⭐8)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
+
 ## [Aug 29, 2023](/content/2023/08/29/README.md)
 
 ### Interpreters/Compilers

@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 02, 2023
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Web
+
+*   [west (⭐8)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
+
+## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Analytics
 
@@ -24,7 +30,7 @@
 
 *   [LCActionSheet (⭐818)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -42,7 +48,7 @@
 
 *   [vue-tg (⭐11)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
-## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / CLI tools
 
