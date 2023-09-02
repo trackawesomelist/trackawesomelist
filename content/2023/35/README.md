@@ -1,19 +1,61 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2023
 
-32 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [1. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Analytics
+
+*   [Emerge Tools](https://www.emergetools.com) - Prevent app size & performance regressions on every pull request, get automated insights on how to improve.
+
+### Optimization
+
+*   [SmallStrings (⭐68)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
+
+### Other Testing
+
+*   [ETTrace (⭐286)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
+
+### Alert & Action Sheet
+
+*   [LCActionSheet (⭐818)](https://github.com/iTofu/LCActionSheet) - A simple ActionSheet. WeChat, Weibo and QQ all use similar styles. Fully support Swift.
+
+## [2. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [starfish-vue3-lowcode (⭐150)](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
+
+### Components & Libraries / UI Components
+
+*   [vue-mrz-scanner (⭐0)](https://github.com/tony-xlh/vue-mrz-scanner) - A Vue component to scan MRZ on passports, visa cards, etc. It is based on Dynamsoft Label Recognizer.
+
+### Components & Libraries / Utilities
+
+*   [vuex-composition (⭐5)](https://github.com/echo008/vuex-composition) - A util package to use Vuex with Composition API and Reactivity API easily.
+
+### Components & Libraries / Integrations
+
+*   [vue-tg (⭐11)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+
+## [3. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Terminal / CLI tools
+
+*   [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
+
+## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [LLFn (⭐73)](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
 *   [Lagent (⭐291)](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
 
-## [2. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [5. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Community
 
@@ -21,7 +63,7 @@
 *   [/r/commandline](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
 *   [#bash](https://web.libera.chat/?nick=Guest\&#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Desktop
 
@@ -71,7 +113,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Hardware / Opcodes
 
@@ -85,7 +127,7 @@
 
 *   [Super JetPak DX](https://asobitech.itch.io/super-jetpak-dx)
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Javascript Library Ports
 
@@ -95,7 +137,7 @@
 
 *   [browser-panic-hook (⭐5)](https://github.com/ctron/browser-panic-hook) - A panic handler for browser environments, allowing to fail in an end-user friendly way.
 
-## [6. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official documentation
 
@@ -114,13 +156,13 @@
 *   [Using the Rust Polars DataFrame library in a CLI](https://www.youtube.com/watch?v=CUQaoAcc95M) ⏳ `4 min` - A video that shows how to integrate Polars in a commande line interface by [@paiml](https://github.com/paiml).
 *   [The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame](https://www.youtube.com/watch?v=keCvzMihDfk\&list=PLp0TENYyY8lHJaY4t5bAihnFS5TBUQYV1) ⏳ `10 videos` - A playlist of 10 videos (WIP) that equips you with all the necessary knowledge required to utilize Python Polars Data Frame by [@AmitXShukla](https://github.com/AmitXShukla).
 
-## [7. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [10. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Vector Creation
 
 *   [LineDream](https://linedream.marcrleonard.com/) - A generative art library for Python that can export SVGs.
 
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Private Registries / Miscellaneous
 
@@ -167,7 +209,7 @@
 
 *   [vscode-terraform-live-graph (⭐194)](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -175,14 +217,14 @@
     *   built in Common Lisp and Rust.
     *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
 
-## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [13. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [httpreserve.info](https://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
 *   [HTTPreserve linkstat (⭐5)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
 
-## [11. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [14. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
@@ -203,13 +245,13 @@
 *   [IPinfo.io - Country Pages](https://ipinfo.io/countries) - Summary of country-level IP data covering top ASNs, important routers, city-level information, carrier IPs, and other IP data.
 *   [Cloudflare Radar's Internet Quality Index](https://radar.cloudflare.com/quality) - Estimated country-level internet download speeds and performance.
 
-## [12. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [15. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Photoshop / Illustrator
 
 *   [Excalidraw (⭐54k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [16. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -295,7 +337,7 @@
 
 *   [OpenMessaging (⭐282) (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [14. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [17. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Bento DS](https://bento-ds.com)
 
@@ -432,7 +474,7 @@
 
 
 
-## [15. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [18. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Interpreters/Compilers
 
@@ -451,7 +493,7 @@
 
 *   [VOSCA V Playground](https://play.vosca.dev)
 
-## [16. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
@@ -459,7 +501,7 @@
 *   [Magento 2 Url Data Integrity Checker (⭐244)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
 *
 
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Video Conferencing
 
@@ -478,7 +520,7 @@
 
 *   [Review Board](https://www.reviewboard.org/) - Extensible and friendly code review tool for projects and companies of all sizes. ([Demo](https://demo.reviewboard.org/), [Source Code (⭐1.5k)](https://github.com/reviewboard/reviewboard)) `MIT` `Python`
 
-## [18. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [21. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -497,7 +539,7 @@
 
 *   [vite-ssr-boost (⭐21)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react](https://img.shields.io/badge/-React-4ab2cf)
 
-## [19. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [22. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [Temeraire](https://www.goodreads.com/series/43272-temeraire) (2006) *by [Naomi Novik](https://en.wikipedia.org/wiki/Naomi_Novik)* [4.06]
 
@@ -511,25 +553,25 @@
 *   Blood of Tyrants
 *   League of Dragons
 
-## [20. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [23. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
 
-## [21. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [24. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Export
 
 *   [AppPlayer-Electron (⭐3)](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 
-## [22. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [25. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Frameworks
 
 *   [SSProve (⭐43)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
 
-## [23. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
@@ -539,7 +581,7 @@
 
 *   [approx (⭐0)](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
 
-## [24. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [27. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -784,7 +826,7 @@
 
 
 
-## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI Tools Directories / Contribute to Our Repository
 
@@ -802,7 +844,7 @@
 
 *   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -828,7 +870,7 @@
 
 *   [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -846,7 +888,7 @@
 
 *   [jaytyrrell13/static.nvim (⭐2)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 
-## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [31. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### GEO
 
@@ -856,25 +898,25 @@
 
 *   [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
 
-## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [32. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTML Builders
 
 *   [to\_html (⭐1)](https://github.com/sbsoftware/to_html.cr) - The fastest HTML builder engine for Crystal
 
-## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Artificial Intelligence
 
 *   [Mpt-Instruct-DotNet-S (⭐1)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
 
-## [31. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [34. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [SignalVisualizer (⭐6)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
 
-## [32. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [35. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Learning
 
