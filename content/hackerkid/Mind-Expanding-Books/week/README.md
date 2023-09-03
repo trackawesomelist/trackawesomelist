@@ -97,6 +97,15 @@
   Year Published: 2019
 
 
+- Name: A Sense of the World
+
+  Author: Jason Roberts
+
+  Goodreads Rating: [4.10](https://www.goodreads.com/book/show/126049.A_Sense_of_the_World?from_search=true\&from_srp=true\&qid=L2EvsarKWR\&rank=1)
+
+  Year Published: 2005
+
+
 
 ### History
 

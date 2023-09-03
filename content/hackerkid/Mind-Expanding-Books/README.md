@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/hackerkid/Mind-Expanding-Books/week/README.md) / [Overview](/content/hackerkid/Mind-Expanding-Books/readme/README.md) ]
 
+## [Sep 03, 2023](/content/2023/09/03/README.md)
+
+### Autobiographies and Biographies
+
+- Name: A Sense of the World
+
+  Author: Jason Roberts
+
+  Goodreads Rating: [4.10](https://www.goodreads.com/book/show/126049.A_Sense_of_the_World?from_search=true\&from_srp=true\&qid=L2EvsarKWR\&rank=1)
+
+  Year Published: 2005
+
+
+
 ## [Aug 29, 2023](/content/2023/08/29/README.md)
 
 ### Startups and Business
