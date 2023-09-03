@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 03, 2023](/content/2023/09/03/README.md)
+
+### ORM
+
+*   [go-dbw (⭐8)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
+
 ## [Aug 28, 2023](/content/2023/08/28/README.md)
 
 ### Database Tools
@@ -43,18 +49,18 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [go-qr (⭐1)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
-*   [yogo (⭐31)](https://github.com/antham/yogo) - Check yopmail mails from command line.
+*   [go-qr (⭐2)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.
+*   [yogo (⭐33)](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [kubeshark (⭐9.4k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
+*   [kubeshark (⭐9.5k)](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
 
 ## [Aug 16, 2023](/content/2023/08/16/README.md)
 
 ### Functional
 
-*   [go-functional (⭐180)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
+*   [go-functional (⭐199)](https://github.com/BooleanCat/go-functional) - Functional programming in Go using generics
 
 ## [Aug 12, 2023](/content/2023/08/12/README.md)
 
@@ -72,11 +78,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Advanced Console UIs
 
-*   [bubble-table (⭐234)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+*   [bubble-table (⭐237)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [GoNB (⭐274)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+*   [GoNB (⭐285)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 
 ## [Jul 25, 2023](/content/2023/07/25/README.md)
 
@@ -140,7 +146,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Distributed Systems
 
-*   [Temporal (⭐354)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
+*   [Temporal (⭐359)](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
 
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
@@ -450,7 +456,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Distributed Systems
 
-*   [Dragonfly (⭐1.5k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+*   [Dragonfly (⭐1.6k)](https://github.com/dragonflyoss/Dragonfly2) - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
@@ -3175,7 +3181,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-proxy-cache (⭐98)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 *   [jackal (⭐1.4k)](https://github.com/ortuman/jackal) - An XMPP server written in Go.
 *   [lets-proxy2 (⭐80)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
-*   [minio (⭐40k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
+*   [minio (⭐41k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
 *   [Moxy (⭐10)](https://github.com/sinhashubham95/moxy) - Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
 *   [nginx-prometheus (⭐37)](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
 *   [nsq](https://nsq.io/) - A realtime distributed messaging platform.
@@ -3840,7 +3846,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Ddosify (⭐7.7k)](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 *   [DepCharge (⭐23)](https://github.com/centerorbit/depcharge) - Helps orchestrating the execution of commands across the many dependencies in larger projects.
 *   [docker-go-mingw (⭐37)](https://github.com/x1unix/docker-go-mingw) - Docker image for building Go binaries for Windows with MinGW toolchain.
-*   [Dockerfile-Generator (⭐155)](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
+*   [Dockerfile-Generator (⭐156)](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
 *   [dogo (⭐257)](https://github.com/liudng/dogo) - Monitoring changes in the source file and automatically compile and run (restart).
 *   [drone-jenkins (⭐37)](https://github.com/appleboy/drone-jenkins) - Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
 *   [drone-scp (⭐125)](https://github.com/appleboy/drone-scp) - Copy files and artifacts via SSH using a binary, docker or Drone CI.
@@ -3873,7 +3879,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [lstags (⭐306)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐30)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐287)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
-*   [Moby (⭐66k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
+*   [Moby (⭐67k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
 *   [Mora (⭐312)](https://github.com/emicklei/mora) - REST server for accessing MongoDB documents and meta data.
 *   [ostent (⭐178)](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB.
 *   [Packer (⭐15k)](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.

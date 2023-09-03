@@ -1,12 +1,48 @@
 # Awesome List Updates on Sep 03, 2023
 
-4 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Embedbase (⭐414)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
+
+## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
+
+### Network / Scanning / Pentesting
+
+*   [Cognito Scanner (⭐20)](https://github.com/padok-team/cognito-scanner) - CLI tool to pentest Cognito AWS instance. It implements three attacks: unwanted account creation, account oracle and identity pool escalation
+
+### Network / Monitoring / Logging
+
+*   [Substation (⭐202)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+
+### Network / IDS / IPS / Host IDS / Host IPS
+
+*   [DrKeithJones.com](https://drkeithjones.com) - A blog on cyber security and network security monitoring.
+
+### EBooks / Online resources
+
+*   [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com) - Learn secure coding conventions in Node.js by executing command injection attacks on real-world npm packages and analyzing vulnerable code.
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### ORM
+
+*   [go-dbw (⭐8)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
+
+## [4. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+
+### Neural Natural Language Generation
+
+*   [lightnlg (⭐3)](https://github.com/kasnerz/lightnlg) - A minimalistic codebase for finetuning and interacting with NLG models using PyTorch Lightning.
+
+## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -20,7 +56,7 @@
 
 
 
-## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [6. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Racing
 
@@ -31,7 +67,7 @@
 *   [KeeperFX (⭐303)](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 *   [Ozymandias (⭐35)](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### [zinit-4](https://github.com/psprint/Zinit-4)
 
@@ -44,7 +80,7 @@
 
 *   [A Guide to ZSH Completion With Examples](https://thevaluable.dev/zsh-completion-guide-examples/) - Explains ZSH autocompletion configuration with examples.
 
-## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Engineering / Technology
 

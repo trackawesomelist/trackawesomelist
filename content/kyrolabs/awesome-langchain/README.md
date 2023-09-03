@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Sep 03, 2023](/content/2023/09/03/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Embedbase (⭐414)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
+
 ## [Sep 01, 2023](/content/2023/09/01/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
@@ -29,7 +35,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [examor (⭐13)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
+*   [examor (⭐307)](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
 
 ## [Aug 17, 2023](/content/2023/08/17/README.md)
 
