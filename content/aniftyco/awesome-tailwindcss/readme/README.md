@@ -296,7 +296,6 @@
 *   🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
 *   🧩📁 [Jakarta LTE (⭐144)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 *   🧩📁 [themes.dev](https://www.themes.dev/) - Handcrafted, free and premium Tailwind CSS themes and components.
-*   🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
 *   🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 *   🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 *   🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
@@ -321,6 +320,7 @@
 *   🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
 *   🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
 *   🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
+*   🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.

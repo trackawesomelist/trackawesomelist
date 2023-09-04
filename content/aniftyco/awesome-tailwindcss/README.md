@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Sep 04, 2023](/content/2023/09/04/README.md)
+
+### UI Libraries, Components & Templates
+
+*   🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
+
 ## [Aug 28, 2023](/content/2023/08/28/README.md)
 
 ### Learning
@@ -916,7 +922,6 @@
 *   🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
 *   🧩📁 [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 *   🧩📁 [Treact](https://treact.owaiskhan.me) - React UI templates and components built using Tailwind CSS.
-*   🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
 *   🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 *   🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 *   🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.

@@ -6,18 +6,68 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 [ [Daily](/content/awesome-foss/awesome-sysadmin/README.md) / Weekly / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
+
+### Software / Build and software organization tools
+
+*   [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code (⭐298)](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
+
+### Software / Configuration Management Database
+
+*   [netbox](https://netbox.dev/) - IP address management (IPAM) and data center infrastructure management (DCIM) tool. ([Demo](https://demo.netbox.dev/), [Source Code (⭐13k)](https://github.com/netbox-community/netbox)) `Apache-2.0` `Python`
+
+### Software / Editors
+
+*   [TextMate](https://macromates.com/) - A graphical text editor for OS X. ([Source Code (⭐14k)](https://github.com/textmate/textmate/)) `GPL-3.0` `C++`
+*   [VSCodium](https://vscodium.com/) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions. ([Source Code (⭐21k)](https://github.com/VSCodium/vscodium)) `MIT` `TypeScript`
+
+### Software / Identity Management - Tools and web interfaces
+
+*   [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code (⭐4.5k)](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
+
+### Software / Monitoring
+
+*   [Observium Community Edition](http://www.observium.org/) - Network monitoring and management platform that provides real-time insight into network health and performance. `QPL-1.0` `PHP`
+
+### Software / Newsletters
+
+*   [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code (⭐645)](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
+
+### Software / Version control
+
+*   [Darcs](https://darcs.net/) - Cross-platform version control system, like git, mercurial or svn but with a very different approach: focus on changes rather than snapshots. ([Source Code](https://darcs.net/releases/)) `GPL-2.0` `Haskell`
+*   [Fossil](https://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking. ([Source Code](https://www.fossil-scm.org/home/dir?ci=trunk)) `BSD-2-Clause` `C`
+*   [Git](https://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed. ([Source Code (⭐47k)](https://github.com/git/git)) `GPL-2.0` `C`
+*   [Subversion](https://subversion.apache.org/) - Client-server revision control system.([Source Code](https://svn.apache.org/repos/asf/subversion/trunk/)) `Apache-2.0` `C`
+
+### Software / Virtualization
+
+*   [XCP-ng](https://www.xcp-ng.org/) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). ([Source Code](https://github.com/xcp-ng)) `GPL-2.0` `C`
+
+### List of Licenses / Web
+
+*   `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
+*   `CDDL-1.0` - [Common Development and Distribution License 1.0](https://spdx.org/licenses/CDDL-1.0.html)
+*   `EPL-1.0` - [Eclipse Public License 1.0](https://spdx.org/licenses/EPL-1.0.html)
+*   `GFDL-1.2` - [GNU Free Documentation License 1.2](https://spdx.org/licenses/GFDL-1.2.html)
+*   `LGPL-2.0` - [GNU Library General Public License v2 only](https://spdx.org/licenses/LGPL-2.0.html)
+*   `LGPL-2.1` - [GNU Lesser General Public License v2.1 only](https://spdx.org/licenses/LGPL-2.1.html)
+*   `NLPL` - [No Limit Public License](https://spdx.org/licenses/NLPL.html)
+*   `QPL-1.0` - [Q Public License 1.0](https://spdx.org/licenses/QPL-1.0.html)
+*   `Vim` - [Vim License](https://spdx.org/licenses/Vim.html)
+
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
 ### Software / Configuration Management
 
-*   [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code (⭐58k)](https://github.com/ansible/ansible))
-*   [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code (⭐7.3k)](https://github.com/chef/chef))
-*   [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐7k)](https://github.com/puppetlabs/puppet))
-*   [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code (⭐13k)](https://github.com/saltstack/salt))
+*   [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code (⭐58k)](https://github.com/ansible/ansible)) `GPL-3.0` `Python`
+*   [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code (⭐7.3k)](https://github.com/chef/chef)) `Apache-2.0` `Ruby`
+*   [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐7.1k)](https://github.com/puppetlabs/puppet)) `Apache-2.0` `Ruby/C`
+*   [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code (⭐13k)](https://github.com/saltstack/salt)) `Apache-2.0` `Python`
 
 ### Software / Diagramming
 
-*   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.2k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
+*   [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code (⭐2.3k)](https://github.com/yuzutech/kroki)) `MIT` `Java`
 
 ### Websites / Web
 
@@ -27,7 +77,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
-*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐4.3k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
+*   [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code (⭐4.4k)](https://github.com/goauthentik/authentik)) `MIT` `Python`
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -45,25 +95,25 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Backups
 
-*   [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code (⭐170)](https://github.com/zmanda/amanda)) `MIT` `C`
-*   [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code (⭐857)](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
+*   [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code (⭐173)](https://github.com/zmanda/amanda)) `MIT` `C`
+*   [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code (⭐867)](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 *   [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code (⭐1.6k)](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
-*   [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code (⭐9.6k)](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
-*   [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code (⭐456)](https://github.com/grke/burp)) `AGPL-3.0` `C`
-*   [Duplicati](https://www.duplicati.com) - Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ([Source Code (⭐9.1k)](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
+*   [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code (⭐9.7k)](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
+*   [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code (⭐459)](https://github.com/grke/burp)) `AGPL-3.0` `C`
+*   [Duplicati](https://www.duplicati.com) - Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ([Source Code (⭐9.2k)](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
 *   [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
-*   [Rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally. ([Source Code (⭐914)](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
+*   [Rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally. ([Source Code (⭐922)](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
 *   [Rsnapshot](https://rsnapshot.org/) - Filesystem snapshot utility based on rsync. ([Source Code (⭐2.9k)](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
-*   [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code (⭐539)](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
+*   [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code (⭐550)](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐945)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
-*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐239)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
+*   [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code (⭐952)](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
+*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐238)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
 ### Software / Monitoring
 
-*   [ruptime (⭐43)](https://github.com/alexmyczko/ruptime) - classic system status server ([Source Code (⭐43)](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
+*   [ruptime (⭐46)](https://github.com/alexmyczko/ruptime) - Classic system status server. ([Source Code (⭐46)](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
 
 ### Software / Packaging
 
@@ -72,16 +122,16 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / Queuing
 
 *   [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue. ([Source Code (⭐6.4k)](https://github.com/beanstalkd/beanstalkd)) `MIT` `C`
-*   [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code (⭐25k)](https://github.com/apache/kafka)) `Apache-2.0` `Java`
+*   [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code (⭐26k)](https://github.com/apache/kafka)) `Apache-2.0` `Java`
 *   [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code (⭐24k)](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
-*   [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code (⭐11k)](https://github.com/rabbitmq/rabbitmq-server)) `Erlang`
+*   [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code (⭐11k)](https://github.com/rabbitmq/rabbitmq-server)) `MPL-2.0/Apache-2.0` `Erlang`
 *   [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
 
 ### Software / Remote Desktop Clients
 
-*   [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina))
-*   [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code (⭐4.2k)](https://github.com/TigerVNC/tigervnc))
-*   [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb))
+*   [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina)) `GPL-2.0` `C`
+*   [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code (⭐4.2k)](https://github.com/TigerVNC/tigervnc)) `GPL-2.0` `C++`
+*   [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb)) `GPL-2.0` `Perl`
 
 ### Software / Router
 
@@ -92,38 +142,38 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / Distributed Filesystems
 
 *   [Ceph](https://ceph.com/) - Distributed object, block, and file storage platform. ([Source Code (⭐12k)](https://github.com/ceph/ceph)) `LGPL-3.0` `C++`
-*   [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code (⭐503)](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
+*   [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code (⭐512)](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
 *   [GlusterFS](https://www.gluster.org/) - Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. ([Source Code (⭐4.2k)](https://github.com/gluster/glusterfs)) `GPL-2.0/LGPL-3.0` `C`
 *   [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed file system that provides high-throughput access to application data. ([Source Code (⭐14k)](https://github.com/apache/hadoop)) `Apache-2.0` `Java`
 *   [Kubo (⭐15k)](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. `Apache-2.0/MIT` `Go`
 *   [LeoFS](https://leo-project.net) - Highly available, distributed, replicated eventually consistent object/blob store. ([Source Code (⭐1.5k)](https://github.com/leo-project/leofs)) `Apache-2.0` `Erlang`
 *   [Lustre](https://www.lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing. ([Source Code](https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary)) `GPL-2.0` `C`
-*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐40k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
+*   [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code (⭐41k)](https://github.com/minio/minio)) `AGPL-3.0` `Go`
 *   [MooseFS](https://moosefs.com/) - Fault tolerant, network distributed file system. ([Source Code (⭐1.5k)](https://github.com/moosefs/moosefs)) `GPL-2.0` `C`
 *   [OpenAFS](https://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support. ([Source Code](https://git.openafs.org/?p=openafs.git;a=summary)) `IPL-1.0` `C`
 *   [Openstack Swift](https://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store. ([Source Code](https://opendev.org/openstack/swift)) `Apache-2.0` `Python`
-*   [XtreemFS](https://www.xtreemfs.org/) - Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. ([Source Code (⭐324)](https://github.com/xtreemfs/xtreemfs)) `BSD-3-Clause` `Java`
+*   [XtreemFS](https://www.xtreemfs.org/) - Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. ([Source Code (⭐326)](https://github.com/xtreemfs/xtreemfs)) `BSD-3-Clause` `Java`
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
 ### Software / Distributed Filesystems
 
-*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐8.3k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
+*   [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code (⭐8.4k)](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
 
 ### Software / Monitoring
 
-*   [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code (⭐49k)](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
+*   [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code (⭐50k)](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
 
 ### Software / Metrics & Metric Collection
 
-*   [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code (⭐12k)](https://github.com/elastic/beats)) `Apache-2.0`
+*   [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code (⭐12k)](https://github.com/elastic/beats)) `Apache-2.0` `Go`
 *   [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code (⭐2.9k)](https://github.com/collectd/collectd)) `MIT` `C`
 *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
-*   [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code (⭐56k)](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
+*   [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code (⭐57k)](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
 *   [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code (⭐5.7k)](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
-*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐879)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
+*   [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code (⭐894)](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
 *   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `Nodejs` `MIT`
-*   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐508)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
+*   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code (⭐509)](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
 *   [Telegraf (⭐13k)](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
@@ -131,7 +181,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / DNS - Control Panels & Domain Management
 
 *   [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code (⭐356)](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
-*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐525)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
+*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐530)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
@@ -147,10 +197,10 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 *   [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
-*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐345)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+*   [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code (⭐349)](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
 *   [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code (⭐3.1k)](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
-*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.3k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
-*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐56)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
+*   [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code (⭐2.4k)](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
+*   [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code (⭐57)](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
@@ -163,7 +213,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / Log Management
 
 *   [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code (⭐12k)](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
-*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐16k)](https://github.com/allinurl/goaccess)) `MIT` `C`
+*   [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐17k)](https://github.com/allinurl/goaccess)) `MIT` `C`
 *   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐1.8k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
 
 ### Software / Web
@@ -179,24 +229,24 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Identity Management - LDAP
 
-*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐144)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
-*   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐125)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
+*   [389 Directory Server](https://www.port389.org/) - Enterprise-class Open Source LDAP server for Linux. ([Source Code (⭐153)](https://github.com/389ds/389-ds-base)) `GPL-3.0` `C`
+*   [Apache Directory Server](https://directory.apache.org/apacheds/) - Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views. ([Source Code (⭐126)](https://github.com/apache/directory-server)) `Apache-2.0` `Java`
 *   [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools). ([Source Code](https://pagure.io/freeipa)) `GPL-3.0` `Python/C/JavaScript`
 *   [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ([Source Code (⭐1.9k)](https://github.com/FreeRADIUS/freeradius-server)) `GPL-2.0` `C`
-*   [lldap (⭐2.7k)](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
+*   [lldap (⭐2.8k)](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
 *   [OpenLDAP](https://www.openldap.org/) - Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients). ([Source Code](https://git.openldap.org/openldap/openldap)) `OLDAP-2.8` `C`
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Software / VPN
 
-*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds.
+*   [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code (⭐798)](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
 ### Software / Backups
 
-*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐106)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+*   [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code (⭐109)](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 
 ### Software / Identity Management - Single Sign-On (SSO)
 
@@ -204,7 +254,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [Status (⭐32)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+*   [Status (⭐34)](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 
 ### Software / Software Containers
 
@@ -225,24 +275,24 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Mail Clients
 
-*   [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file))
+*   [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file)) `MPL-2.0` `C/C++`
 
 ### Software / Monitoring
 
 *   [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code (⭐2.3k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
-*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6.4k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+*   [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code (⭐6.5k)](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 *   [Linux Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
-*   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐907)](https://github.com/sensu/sensu-go))
+*   [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code (⭐909)](https://github.com/sensu/sensu-go)) `MIT` `Go`
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
 ### Software / ChatOps
 
-*   [Errbot](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code (⭐2.9k)](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
+*   [Errbot](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code (⭐3k)](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.8k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
+*   [Woodpecker](https://woodpecker-ci.org/) - Community fork of Drone that uses Docker containers. ([Source Code (⭐2.9k)](https://github.com/woodpecker-ci/woodpecker)) `Apache-2.0` `Go`
 
 ### Software / Router
 
@@ -254,9 +304,9 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Control Panels
 
-*   [Cockpit](http://cockpit-project.org/) - web-based graphical interface for servers. ([Source Code (⭐8.6k)](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
+*   [Cockpit](http://cockpit-project.org/) - web-based graphical interface for servers. ([Source Code (⭐8.7k)](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
 *   [ISPConfig](http://www.ispconfig.org) - Manage Linux servers directly through your browser. ([Source Code](https://git.ispconfig.org/ispconfig/ispconfig3)) `BSD-3-Clause` `PHP`
-*   [Sentora](http://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code (⭐604)](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
+*   [Sentora](http://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code (⭐606)](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
 *   [VestaCP](http://vestacp.com/) - Open-Source hosting control panel. ([Source Code (⭐2.8k)](https://github.com/serghey-rodin/vesta)) `GPL-3.0` `PHP/Shell/Other`
 *   [Virtualmin](http://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
 *   [Webmin](http://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code (⭐2.8k)](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
@@ -269,7 +319,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code (⭐30k)](https://github.com/docker/compose)) `Apache-2.0` `Go`
 *   [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code (⭐3.1k)](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
-*   [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC. ([Source Code (⭐4k)](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
+*   [LXD](https://linuxcontainers.org/lxd/) - a container "hypervisor" and a better UX for LXC. ([Source Code (⭐939)](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -300,8 +350,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Editors
 
-*   [Atom Community (⭐648)](https://github.com/atom-community/atom) - A fork of [atom (⭐59k)](https://github.com/atom/atom) A hackable text editor from Github.
-*   [VSCodium (⭐21k)](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
+*   [Atom Community (⭐662)](https://github.com/atom-community/atom) - A fork of [atom (⭐60k)](https://github.com/atom/atom) A hackable text editor from Github. `MIT` `JavaScript`
 
 ### Software / Packaging
 
@@ -311,7 +360,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.1k)](https://github.com/tribe29/checkmk)) `Python/PHP`
+*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.1k)](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
@@ -319,21 +368,21 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 *   [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
-*   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐666)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
+*   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐671)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
 *   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Source Code (⭐2k)](https://github.com/allegro/ralph), [Demo (⭐2k)](https://github.com/allegro/ralph#live-demo)) `Apache-2.0` `Python/Docker`
-*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐8.4k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
+*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐8.5k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
 ### Software / Monitoring
 
-*   [Scrutiny (⭐3.3k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+*   [Scrutiny (⭐3.4k)](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
 ### Software / VPN
 
-*   [Headscale (⭐14k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+*   [Headscale (⭐15k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -345,13 +394,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / VPN
 
-*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall.
-
-## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
-
-### Software / Identity Management - Tools and web interfaces
-
-*   [ZITADEL (⭐4.1k)](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
+*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐4.8k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
@@ -363,14 +406,13 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Backups
 
-*   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and
-    coordinate many different backup utilities. `GPL-2.0` `Shell`
+*   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. `GPL-2.0` `Shell`
 
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.2k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
+*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.3k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 
 ### Software / Distributed Filesystems
 
@@ -386,7 +428,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / VPN
 
-*   [Nebula (⭐12k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
+*   [Nebula (⭐12k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
 
 ## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
 
@@ -398,66 +440,60 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Diagramming
 
-*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
+*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐36k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
 ### Software / Diagramming
 
-*   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
-*   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
+*   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. ([Source Code (⭐1k)](https://github.com/cidrblock/drawthe.net)) `MIT` `JavaScript`
+*   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code (⭐2.8k)](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
 
 ## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
 
 ### Software / VPN
 
-*   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
+*   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. ([Source Code](https://www.wireguard.com/repositories/)) `GPL-2.0` `C`
 
 ## [Mar 16 - Mar 22, 2020](/content/2020/11/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐6.9k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
+*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 
 ## [Nov 18 - Nov 24, 2019](/content/2019/46/README.md)
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [octoDNS (⭐2.7k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+*   [octoDNS (⭐2.8k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
 ### Software / IT Asset Management
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.3k)](https://github.com/glpi-project/glpi))
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.3k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
 
 ## [Nov 11 - Nov 17, 2019](/content/2019/45/README.md)
 
 ### Software / Build and software organization tools
 
-*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐3.6k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
 ### Software / Monitoring
 
-*   [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS. ([Source Code (⭐64k)](https://github.com/netdata/netdata)) `GPL-3.0` `C`
-
-## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
-
-### Software / Virtualization
-
-*   [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
+*   [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS. ([Source Code (⭐65k)](https://github.com/netdata/netdata)) `GPL-3.0` `C`
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐5.5k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 
 ## [Jul 22 - Jul 28, 2019](/content/2019/29/README.md)
 
 ### Software / Automation
 
-*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐459)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
+*   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code (⭐461)](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 
 ### Software / Backups
 
@@ -465,7 +501,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [easy-rsa (⭐3.6k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
+*   [easy-rsa (⭐3.7k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
 
 ### Repositories / Web
 
@@ -475,7 +511,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
+*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.6k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 
@@ -489,8 +525,8 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.9k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
 *   [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code (⭐57)](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
 *   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐21k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐259)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
-*   [PHP Censor (⭐665)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
+*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐265)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
+*   [PHP Censor (⭐666)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 
@@ -498,7 +534,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐155)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐157)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 
 ## [Dec 24 - Dec 30, 2018](/content/2018/52/README.md)
 
@@ -506,23 +542,11 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 *   [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code (⭐11k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 
-## [Aug 27 - Sep 02, 2018](/content/2018/35/README.md)
-
-### Software / Version control
-
-*   [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
-
 ## [Jul 23 - Jul 29, 2018](/content/2018/30/README.md)
 
 ### Software / Monitoring
 
 *   [EdMon (⭐5)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
-
-## [May 21 - May 27, 2018](/content/2018/21/README.md)
-
-### Software / Identity Management - Tools and web interfaces
-
-*   [OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
 
 ## [Apr 09 - Apr 15, 2018](/content/2018/15/README.md)
 
@@ -534,17 +558,17 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / VPN
 
-*   [sshuttle (⭐10k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
+*   [sshuttle (⭐10k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
 
 ## [Jan 22 - Jan 28, 2018](/content/2018/4/README.md)
 
 ### Software / Backups
 
-*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐39k)](https://github.com/rclone/rclone)) `MIT` `Go`
+*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐40k)](https://github.com/rclone/rclone)) `MIT` `Go`
 
 ### Software / Editors
 
-*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
+*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐23k)](https://github.com/zyedidia/micro)) `MIT` `Go`
 
 ## [Nov 27 - Dec 03, 2017](/content/2017/48/README.md)
 
@@ -558,46 +582,43 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Backups
 
-*   [Shield (⭐313)](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
+*   [Shield (⭐314)](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
 
 ### Software / Build and software organization tools
 
-*   [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way.
-*   [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
-*   [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
+*   [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code (⭐409)](https://github.com/TACC/Lmod)) `MIT` `Lua`
 
 ### Software / ChatOps
 
-*   [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code (⭐444)](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
+*   [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code (⭐449)](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
 *   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code (⭐16k)](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
 
 ### Software / Client management
 
-*   [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code (⭐9.2k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+*   [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code (⭐9.3k)](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
 ### Software / Cloning
 
 *   [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
-*   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code (⭐913)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
+*   [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code (⭐925)](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 ### Software / Cloud Computing
 
-*   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code (⭐81)](https://github.com/CloudSlang/score))
-*   [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code (⭐1.4k)](https://github.com/apache/cloudstack))
-*   [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code (⭐2.4k)](https://github.com/cobbler/cobbler))
-*   [Genesis (⭐53)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
-*   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([SOurce Code (⭐465)](https://github.com/andrewchilds/overcast))
+*   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code (⭐81)](https://github.com/CloudSlang/score)) `Apache-2.0` `Java`
+*   [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code (⭐1.5k)](https://github.com/apache/cloudstack)) `Apache-2.0` `Java/Python`
+*   [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code (⭐2.5k)](https://github.com/cobbler/cobbler)) `GPL-2.0` `Python`
+*   [Genesis (⭐53)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
+*   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([Source Code (⭐465)](https://github.com/andrewchilds/overcast)) `MIT` `Nodejs`
 
 ### Software / Configuration Management Database
 
-*   [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
-*   [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
-*   [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
-*   [netbox (⭐13k)](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool
+*   [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge. ([Source Code (⭐570)](https://github.com/tumblr/collins)) `Apache-2.0` `Docker/Scala`
+*   [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB. `AGPL-3.0` `PHP`
+*   [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool. ([Source Code](https://sourceforge.net/projects/itop/files/)) `AGPL-3.0` `PHP`
 
 ### Software / Configuration Management
 
-*   [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code (⭐439)](https://github.com/cfengine/core))
+*   [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code (⭐439)](https://github.com/cfengine/core)) `GPL-3.0` `C`
 
 ### Software / Control Panels
 
@@ -606,11 +627,11 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Deployment Automation
 
-*   [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
-*   [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
-*   [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
-*   [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
-*   [Vlad the Deployer (⭐353)](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
+*   [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based). ([Source Code (⭐13k)](https://github.com/capistrano/capistrano)) `MIT` `Ruby`
+*   [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ([Source Code (⭐14k)](https://github.com/fabric/fabric)) `BSD-2-Clause` `Python`
+*   [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based). ([Source Code (⭐4.3k)](https://github.com/mina-deploy/mina)) `MIT` `Ruby`
+*   [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code (⭐2.9k)](https://github.com/munki/munki)) `Apache-2.0` `Python`
+*   [Vlad the Deployer (⭐353)](https://github.com/seattlerb/vlad) - Deployment automation (rake based). `MIT` `Ruby`
 
 ### Software / Distributed Filesystems
 
@@ -623,33 +644,31 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate))
+*   [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate)) `Apache-2.0` `Python`
 *   [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
 
 ### Software / Editors
 
-*   [Brackets](http://brackets.io/) - Code editor for web designers and front-end developers.
-*   [Eclipse](http://www.eclipse.org/) - IDE written in Java with an extensible plug-in system.
-*   [Geany](http://www.geany.org/) - GTK2 text editor.
-*   [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
-*   [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
-*   [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages.
-*   [jotgit (⭐207)](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
-*   [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
-*   [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
-*   [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
-*   [TextMate (⭐14k)](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
-*   [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
+*   [Brackets](http://brackets.io/) - Code editor for web designers and front-end developers. ([Source Code (⭐1.1k)](https://github.com/brackets-cont/brackets)) `MIT` `JavaScript`
+*   [Eclipse](http://www.eclipse.org/) - IDE written in Java with an extensible plug-in system. ([Source Code](https://git.eclipse.org/c/)) `EPL-1.0` `Java`
+*   [Geany](http://www.geany.org/) - GTK2 text editor. ([Source Code (⭐2.7k)](https://github.com/geany/geany)) `GPL-2.0` `C/C++`
+*   [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more. ([Source Code (⭐4k)](https://github.com/emacs-mirror/emacs)) `GPL-3.0` `C`
+*   [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview. ([Source Code (⭐1.6k)](https://github.com/rhiokim/haroopad)) `GLP-3.0` `JavaScript`
+*   [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages. ([Demo](http://demo.icecoder.net), [Source Code (⭐1.4k)](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
+*   [jotgit (⭐207)](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing. `MIT` `Nodejs`
+*   [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE. ([Source Code](https://invent.kde.org/kdevelop/kdevelop)) `GFDL-1.2` `C++`
+*   [Nano](http://nano-editor.org) - Easy to use, customizable text editor. ([Source Code](https://git.savannah.gnu.org/cgit/nano.git/tree/)) `GPL-3.0` `C`
+*   [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows. ([Source Code (⭐20k)](https://github.com/notepad-plus-plus/notepad-plus-plus)) `GPL-2.0` `C++`
+*   [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing. ([Source Code (⭐33k)](https://github.com/vim/vim)) `Vim` `C`
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
-*   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
-*   [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
-*   [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
-*   [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites.
-*   [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
-*   [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
+*   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. ([Source Code](https://gitlab.com/bounca/bounca/)) `Apache-2.0` `Python`
+*   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code (⭐146)](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
+*   [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code (⭐182)](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
+*   [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code (⭐374)](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
+*   [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Source Code](https://git.linux-kernel.at/oliver/ivatar/)) `AGPL-3.0` `Python`
+*   [Samba](https://www.samba.org/) - Active Directory and CIFS protocol implementation. ([Source Code](https://download.samba.org/pub/samba/)) `GPL-3.0` `C`
 
 ### Software / Log Management
 
@@ -657,59 +676,54 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Mail Clients
 
-*   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree))
-*   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code (⭐2.9k)](https://github.com/imapsync/imapsync))
-*   [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt))
-*   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code (⭐88)](https://github.com/sylpheed-mail/sylpheed))
+*   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree)) `GPL-3.0` `C`
+*   [ImapSync](http://imapsync.lamiral.info/) - Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code (⭐2.9k)](https://github.com/imapsync/imapsync)) `NLPL` `Perl`
+*   [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt)) `GPL-2.0` `C`
+*   [Sylpheed](http://sylpheed.sraoss.jp/en/) - Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code (⭐91)](https://github.com/sylpheed-mail/sylpheed)) `GPL-2.0` `C`
 
 ### Software / Monitoring
 
-*   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐328)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
-*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.4k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
+*   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐327)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
+*   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange. ([Source Code (⭐3.4k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 *   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code (⭐5.5k)](https://github.com/arachnys/cabot)) `MIT` `Python`
 *   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code (⭐1.4k)](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
-*   [cadvisor (⭐15k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code (⭐15k)](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
-*   [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code (⭐334)](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
+*   [cadvisor (⭐15k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. ([Source Code (⭐15k)](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
+*   [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code (⭐336)](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
 *   [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support. ([Source Code (⭐3.3k)](https://github.com/librenms/librenms)) `GPL-3.0` `PHP`
 *   [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems. ([Source Code](https://bitbucket.org/tildeslash/monit/src/master/)) `AGPL-3.0` `C`
 *   [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool. ([Source Code (⭐1.8k)](https://github.com/munin-monitoring/munin)) `GPL-2.0` `Perl/Shell`
 *   [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features. ([Source Code (⭐134)](https://github.com/naemon/naemon-core)) `GPL-2.0` `C`
 *   [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code (⭐1.3k)](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
-*   [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 *   [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
-*   [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
-*   [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code (⭐2.1k)](https://github.com/phpservermon/phpservermon))
-*   [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code (⭐1.3k)](https://github.com/phpsysinfo/phpsysinfo))
-*   [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
-*   [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code (⭐4.2k)](https://github.com/riemann/riemann))
-*   [rtop (⭐2.1k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code (⭐2.1k)](https://github.com/rapidloop/rtop))
-*   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code (⭐387)](https://github.com/sni/Thruk))
-*   [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse))
+*   [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. ([Source Code (⭐893)](https://github.com/performancecopilot/pcp)) `LGPL-2.1/GPL-2.0` `C`
+*   [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code (⭐2.1k)](https://github.com/phpservermon/phpservermon)) `GPL-3.0` `PHP`
+*   [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code (⭐1.3k)](https://github.com/phpsysinfo/phpsysinfo)) `GPL-2.0` `PHP`
+*   [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code (⭐4.2k)](https://github.com/riemann/riemann)) `EPL-1.0` `Java`
+*   [rtop (⭐2.1k)](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on SSH. ([Source Code (⭐2.1k)](https://github.com/rapidloop/rtop)) `MIT` `Go`
+*   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code (⭐385)](https://github.com/sni/Thruk)) `GPL-1.0` `Perl`
+*   [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse)) `GPL-2.0` `C`
 
 ### Software / Network Configuration Management
 
-*   [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances. ([Source Code (⭐1.8k)](https://github.com/GNS3/gns3-gui/)) `GPL-3.0` `Python`
+*   [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances. ([Source Code (⭐1.9k)](https://github.com/GNS3/gns3-gui/)) `GPL-3.0` `Python`
 *   [Oxidized (⭐2.4k)](https://github.com/ytti/oxidized) - Network device configuration backup tool. `Apache-2.0` `Ruby`
-*   [phpIPAM](http://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code (⭐1.9k)](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
-*   [RANCID](http://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code (⭐92)](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
-*   [rConfig](http://www.rconfig.com/) - Network device configuration management tool. ([Source Code (⭐20)](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
+*   [phpIPAM](http://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code (⭐2k)](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
+*   [RANCID](http://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code (⭐93)](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
+*   [rConfig](http://www.rconfig.com/) - Network device configuration management tool. ([Source Code (⭐22)](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
 
 ### Software / Newsletters
 
-*   [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
-*   [Lewsnetter (⭐318)](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
-*   [LibreMailer (⭐24)](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
-*   [phpList](https://www.phplist.com/) - Newsletter manager written in PHP.
+*   [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
 
 ### Software / Packaging
 
 *   [omnibus-ruby (⭐1.3k)](https://github.com/chef/omnibus) - Easily create full-stack installers for your project across a variety of platforms. `Apache-2.0` `Ruby`
-*   [tito (⭐370)](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
+*   [tito (⭐369)](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
 
 ### Software / Queuing
 
 *   [ActiveMQ](https://activemq.apache.org/) - Java message broker. ([Source Code (⭐2.2k)](https://github.com/apache/activemq)) `Apache-2.0` `Java`
-*   [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code (⭐692)](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
+*   [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code (⭐696)](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
 
 ### Software / Service Discovery
 
@@ -718,64 +732,57 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Software Containers
 
-*   [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code (⭐4.1k)](https://github.com/lxc/lxc)) `GPL-2.0` `C`
+*   [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code (⭐4.2k)](https://github.com/lxc/lxc)) `GPL-2.0` `C`
 
 ### Software / Troubleshooting
 
-*   [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
-*   [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
-*   [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
-*   [perf-tools (⭐9.1k)](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace.
-*   [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
-*   [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
+*   [grml](https://grml.org) - bootable Debian Live CD with powerful CLI tools. ([Source Code](https://github.com/grml/)) `GPL-3.0` `Shell`
+*   [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. ([Source Code (⭐32k)](https://github.com/mitmproxy/mitmproxy)) `MIT` `Python`
+*   [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping. ([Source Code (⭐2.4k)](https://github.com/traviscross/mtr)) `GPL-2.0` `C`
+*   [perf-tools (⭐9.2k)](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace. `GPL-2.0` `Shell`
+*   [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze. ([Source Code (⭐7.4k)](https://github.com/draios/sysdig)) `Apache-2.0` `Docker/Lua/C`
+*   [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer. ([Source Code](https://gitlab.com/wireshark/wireshark)) `GPL-2.0` `C`
 
 ### Software / Version control
 
-*   [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
-*   [Git](http://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed.
-*   [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
-*   [Mercurial](https://www.mercurial-scm.org/) - Another distributed revision control.
-*   [Subversion](http://subversion.apache.org/) - Client-server revision control system.
+*   [Mercurial](https://www.mercurial-scm.org/) - Distributed source control management tool. ([Source Code](https://repo.mercurial-scm.org/hg/file/tip)) `GPL-2.0` `Python/C/Rust`
 
 ### Software / Virtualization
 
-*   [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
-*   [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
-*   [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
-*   [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
-*   [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
-*   [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
-*   [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
-*   [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution.
-*   [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
-*   [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
-*   [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
-*   [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
+*   [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen. ([Source Code (⭐428)](https://github.com/ganeti/ganeti)) `BSD-2-Clause` `Python/Haskell`
+*   [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure. ([Source Code](https://git.kernel.org/pub/scm/virt/kvm/kvm.git/)) `GPL-2.0/LGPL-2.0` `C`
+*   [OpenNebula](http://opennebula.org/) - Build and manage enterprise clouds for virtualized services, containerized applications and serverless computing. ([Source Code (⭐1k)](https://github.com/OpenNebula/one)) `Apache-2.0` `C++`
+*   [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks. ([Source Code](https://github.com/oVirt)) `Apache-2.0` `Java`
+*   [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration. ([Source Code (⭐15k)](https://github.com/hashicorp/packer)) `MPL-2.0` `Go`
+*   [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution. ([Source Code](https://git.proxmox.com/)) `GPL-2.0` `Perl/Shell`
+*   [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer. ([Source Code](https://gitlab.com/qemu-project/qemu)) `LGPL-2.1` `C`
+*   [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments. ([Source Code (⭐25k)](https://github.com/hashicorp/vagrant)) `BUSL-1.1` `Ruby`
+*   [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation. ([Source Code](https://www.virtualbox.org/browser/vbox)) `GPL-3.0/CDDL-1.0` `C++`
+*   [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures. ([Source Code](http://xenbits.xenproject.org/gitweb/?p=xen.git;a=tree;hb=HEAD)) `GPL-2.0` `C`
 
 ### Software / VPN
 
-*   [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
-*   [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
-*   [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
-*   [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
-*   [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
-*   [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+*   [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
+*   [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code (⭐9k)](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
+*   [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features ([Source Code (⭐10k)](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
+*   [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code (⭐1.8k)](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
+*   [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN. ([Source Code](https://www.tinc-vpn.org/git/tinc)) `GPL-2.0` `C`
 
 ### Software / Web
 
-*   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐48k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go`
+*   [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code (⭐49k)](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go`
 *   [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `GPL-2.0` `C`
 
 ### Communities / Forums / Web
 
-*   [ArsTechnica OpenForum](http://arstechnica.com/civis/) – IT Forum which is attached to a large news site.
+*   [ArsTechnica OpenForum](http://arstechnica.com/civis/) - IT Forum which is attached to a large news site.
 *   [Reddit](https://www.reddit.com) - Really, really large bulletin board system.
     *   [/r/Linux](https://www.reddit.com/r/linux) - News and information about Linux.
     *   [/r/LinuxQuestions](https://www.reddit.com/r/linuxquestions)
     *   [/r/SysAdmin](https://www.reddit.com/r/sysadmin/)
-*   [Spiceworks Community](https://community.spiceworks.com/start) – General enterprise IT news and small articles.
-*   [StackExchange Network](https://stackexchange.com/sites#technology) – Q\&A communities.
-    *   [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
+*   [Spiceworks Community](https://community.spiceworks.com/start) - General enterprise IT news and small articles.
+*   [StackExchange Network](https://stackexchange.com/sites#technology) - Q\&A communities.
+    *   [Server Fault](https://serverfault.com/) - StackExchange community for system and network administrators.
 
 ### Repositories / Web
 

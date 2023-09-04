@@ -6,6 +6,44 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Sep 04, 2023](/content/2023/09/04/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-json-server (⭐0)](https://github.com/yracnet/vite-plugin-json-server) - A seamless integration of JSON Server library.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [unplugin-vue-images (⭐1)](https://github.com/vtrbo/unplugin-vue-images) - Use the image resource as a component.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [unplugin-zip-pack (⭐0)](https://github.com/iamspark1e/unplugin-zip-pack) - Zip your dist with filter function support.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-html-injection (⭐2)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-module-list (⭐0)](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
+
+### Vue / Integrations
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐291)](https://github.com/vitejs/vite-plugin-vue) - Official Vue 3 support.
+
+### React / Routing
+
+*   [generouted (⭐608)](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+
+### React / SSG
+
+*   [vite-react-ssg (⭐5)](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
+
+### Solid / Routing
+
+*   [generouted (⭐608)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+
 ## [Aug 31, 2023](/content/2023/08/31/README.md)
 
 ### Templates / React
@@ -158,7 +196,6 @@
 
 ### Vue / Integrations
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue (⭐291)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐291)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
 *   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2 (⭐481)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
 *   ![v2](https://img.shields.io/badge/-v2-42b883) [@vitejs/plugin-vue2-jsx (⭐45)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
@@ -481,10 +518,6 @@
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-optimize-css-modules (⭐14)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
-
-### React / Community
-
-*   [CRA to Nx + Vite tool (⭐19k)](https://github.com/nrwl/nx/tree/master/packages/cra-to-nx) - An automated tool to convert a Create React App project to use Nx + Vite + Vitest.
 
 ## [Dec 12, 2022](/content/2022/12/12/README.md)
 
@@ -1533,12 +1566,6 @@
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-simple-gql (⭐21)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
-
-## [Nov 11, 2021](/content/2021/11/11/README.md)
-
-### Framework-agnostic Plugins / Integrations
-
-*   [vite-esbuild-typescript-checker](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
 
 ## [Nov 08, 2021](/content/2021/11/08/README.md)
 

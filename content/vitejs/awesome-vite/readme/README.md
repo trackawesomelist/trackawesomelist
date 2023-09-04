@@ -272,7 +272,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-wasm-pack (⭐175)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐5.4k)](https://github.com/rustwasm/wasm-pack), the simple way.
 *   [vite-plugin-comlink (⭐121)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐10k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 *   [vite-plugin-sass-dts (⭐81)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
-*   [vite-esbuild-typescript-checker](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
 *   [vite-plugin-simple-gql (⭐21)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
 *   [vite-plugin-ali-oss (⭐20)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 *   [vite-plugin-webfont-dl (⭐188)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
@@ -312,6 +311,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-svg-spritemap (⭐11)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 *   [vite-plugin-dc (⭐1)](https://github.com/dvgis/vite-plugin-dc) - Integration with @dvgis/dc-sdk library.
 *   [@spiriit/vite-plugin-svg-spritemap (⭐2)](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+*   [vite-plugin-json-server (⭐0)](https://github.com/yracnet/vite-plugin-json-server) - A seamless integration of JSON Server library.
 *   [vite-plugin-react-mpa (⭐0)](https://github.com/dingff/vite-plugin-react-mpa) - An out-of-the-box MPA.
 *   [vite-plugin-auto-mpa-html (⭐0)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 *   [vite-plugin-cloudflare-functions (⭐18)](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
@@ -334,6 +334,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-gltf (⭐106)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
 *   [vite-plugin-importmap (⭐2)](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
 *   [vite-plugin-thumbhash (⭐6)](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
+*   [unplugin-vue-images (⭐1)](https://github.com/vtrbo/unplugin-vue-images) - Use the image resource as a component.
 
 #### Bundling
 
@@ -358,6 +359,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-clean (⭐8)](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
 *   [vite-plugin-css-injected-by-js (⭐243)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 *   [vite-plugin-copy-dts (⭐30)](https://github.com/biggerstar/vite-plugin-copy-dts) - Merge declare module and declare global to target d.ts.
+*   [unplugin-zip-pack (⭐0)](https://github.com/iamspark1e/unplugin-zip-pack) - Zip your dist with filter function support.
 
 #### Transformers
 
@@ -403,6 +405,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-leader-line (⭐0)](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
 *   [vite-plugin-generate-html (⭐1)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
 *   [vite-plugin-turbo-console (⭐35)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
+*   [vite-plugin-html-injection (⭐2)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
 
 #### Helpers
 
@@ -454,6 +457,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-vitepress-auto-sidebar (⭐25)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 *   [vite-plugin-global-const (⭐2)](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
 *   [vite-plugin-cli-copy (⭐1)](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
+*   [vite-plugin-module-list (⭐0)](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
 
 #### Testing
 
@@ -485,7 +489,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-*   ![v3] [@vitejs/plugin-vue (⭐291)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
+*   ![v3] [@vitejs/plugin-vue (⭐291)](https://github.com/vitejs/vite-plugin-vue) - Official Vue 3 support.
 *   ![v3] [@vitejs/plugin-vue-jsx (⭐291)](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
 *   ![v2] [@vitejs/plugin-vue2 (⭐481)](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
 *   ![v2] [@vitejs/plugin-vue2-jsx (⭐45)](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
@@ -547,6 +551,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 *   [vite-preset-react (⭐41)](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
 
+#### Routing
+
+*   [generouted (⭐608)](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+
 #### Loaders
 
 *   [vite-plugin-svgr (⭐352)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
@@ -562,6 +570,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 *   [vite-plugin-react-inspector (⭐134)](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
 *   [vite-plugin-react-click-to-component (⭐17)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+
+#### SSG
+
+*   [vite-react-ssg (⭐5)](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
 
 <!--lint ignore double-link-->
 
@@ -592,6 +604,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [vite-plugin-solid (⭐366)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 *   [vite-plugin-solid-markdown (⭐7)](https://github.com/xbmlz/vite-plugin-solid-markdown) - Compile markdown files to Solid components.
 *   [vite-plugin-solid-svg (⭐45)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+
+#### Routing
+
+*   [generouted (⭐608)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 <hr>
 
@@ -797,7 +813,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### React
 
 *   [CRA migration guide (⭐56)](https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md) - A step-by-step guide for migrating a project from Create React App.
-*   [CRA to Nx + Vite tool (⭐19k)](https://github.com/nrwl/nx/tree/master/packages/cra-to-nx) - An automated tool to convert a Create React App project to use Nx + Vite + Vitest.
 
 ## Projects Using Vite.js
 
