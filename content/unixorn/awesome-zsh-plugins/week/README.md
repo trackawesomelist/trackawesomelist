@@ -6,6 +6,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [neo++](https://gitlab.com/migoa/neo) - Simpler, more intuitive, and less clustered than the one above.
+
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
 ### [zinit-4](https://github.com/psprint/Zinit-4)

@@ -2138,6 +2138,7 @@ If you're using [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen), you c
 *   [nctu (⭐4)](https://github.com/leovincentseles/nctu.zsh-theme) - Lightweight theme with an emphasis on speed. Includes `git` status decorations.
 *   [neewbie (⭐0)](https://github.com/neewbee/neewbee.zsh-theme) - Minimal theme with `git` decorations. Based on [robbyrussell (⭐162k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell).
 *   [neo (⭐3)](https://github.com/Saeed-MFarahani/Neo-ZSH-Theme/) - Includes decorators for `git` status, current directory, user\@hostname, time, and whether running as root.
+*   [neo++](https://gitlab.com/migoa/neo) - Simpler, more intuitive, and less clustered than the one above.
 *   [neon-potato (⭐0)](https://github.com/algosuna/neon-potato) - Colorful and minimalist theme. Includes `git` decorations.
 *   [neon (⭐13)](https://github.com/sahariko/neon) - A pretty and minimal ZSH theme with `git` decorations.
 *   [nerdish](https://gitlab.com/nyarla/zsh-theme-nerdish) - A prompt theme for ZSH which uses \[Nerd Fonts]\([https://github.com/ryanoasis/nerd-fonts (⭐46k)](https://github.com/ryanoasis/nerd-fonts).

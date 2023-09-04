@@ -2,9 +2,23 @@
 
 The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ai-collection/ai-collection/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) · ⭐ 5.5K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
+
+## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
+
+### Avatars
+
+- Name: [BetterPic](https://www.betterpic.io)
+
+  Title: Generate AI Headshots and Portraits
+
+  Description: Get professional headshots in minutes with our AI-photographer. Headshots made easy: pick styles, upload photos, and receive hundreds of results. Done in less than 2 hours.
+
+  Offer Free Version: :x:
+
+
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
@@ -12,9 +26,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [WiseGPT](https://www.dhiwise.com/?utm_source=community\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: WiseGPT (Powered by DhiWise) is first-ever promptless GenAI plugin designed for mobile and frontend developers. It automates complex processes, saves time, and boosts developer productivity. You can generate personalized, production-ready code that seamlessly aligns with and reflects your individual coding style.
+  Title: First Ever Promptless GenAI for developers
 
-  Description: :white\_check\_mark:
+  Description: WiseGPT (Powered by DhiWise) is first-ever promptless GenAI plugin designed for mobile and frontend developers. It automates complex processes, saves time, and boosts developer productivity. You can generate personalized, production-ready code that seamlessly aligns with and reflects your individual coding style.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 
@@ -46,7 +62,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ### Chat Bot
 
-- Name: [LLM App (⭐158)](https://github.com/pathwaycom/llm-app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+- Name: [LLM App (⭐177)](https://github.com/pathwaycom/llm-app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Python Library to Build Your AI Chatbot.
 
