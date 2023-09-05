@@ -12,6 +12,10 @@
 
 *   [zon2nix (⭐21)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
+### NixOS Modules / Zig
+
+*   [NixVim (⭐412)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
 ### Resources / Learning
@@ -261,7 +265,6 @@
 ### NixOS Modules / Zig
 
 *   [Home Manager (⭐4.7k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
-*   [NixVim (⭐411)](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Sep 05, 2023](/content/2023/09/05/README.md)
+
+### NixOS Modules / Zig
+
+*   [NixVim (⭐412)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+
 ## [Sep 04, 2023](/content/2023/09/04/README.md)
 
 ### Programming Languages / Zig
@@ -274,7 +280,6 @@
 ### NixOS Modules / Zig
 
 *   [Home Manager (⭐4.7k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
-*   [NixVim (⭐411)](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
 ## [Mar 12, 2022](/content/2022/03/12/README.md)
 
