@@ -329,18 +329,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [neo++](https://gitlab.com/migoa/neo) - Simpler, more intuitive, and less clustered than the one above.
 *   [rei (⭐0)](https://github.com/arturoalviar/rei-zsh-theme) - A simple theme with the first character 零(rei), the number 0. Includes `git` status decorations.
 
-#### [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Tools for Teams and Collaboration
-
-*   [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
-*   [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
-
-##### Tunneling, WebRTC, Web Socket Servers and Other Routers
-
-*   [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
-
-#### [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Discussions and Philosophy / Papers Collections
 
@@ -350,13 +339,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ChatGPT is fun, but not an author | Science](https://www.science.org/doi/10.1126/science.adg7879)
 
-#### [16. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+#### [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ##### FreshRSS / Outline Processor Markup Language
 
 *   <https://titrvar.com/p> by [Titrvar تیتروار](https://titrvar.com/)
 
-#### [17. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [16. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -409,13 +398,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [NDJSON (⭐585) (⭐585)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐263) (⭐263)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [18. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
+#### [17. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
 
 ##### How To Use
 
 *   Try out [Exercism](https://exercism.org/tracks/common-lisp).
 
-#### [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### no-std crates / WIP
 
@@ -424,6 +413,21 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Firmware projects / WIP
 
 *   [BillMcok (⭐4)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
+
+#### [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Tools for Teams and Collaboration
+
+*   [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
+*   [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
+
+##### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
+
+##### Payment and Billing Integration
+
+*   [Moesif API Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. Free tier offers 30,000 events/month.
 
 #### [20. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 

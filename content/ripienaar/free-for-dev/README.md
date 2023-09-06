@@ -17,6 +17,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
 
+### Payment and Billing Integration
+
+*   [Moesif API Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. Free tier offers 30,000 events/month.
+
 ## [Aug 31, 2023](/content/2023/08/31/README.md)
 
 ### APIs, Data and ML

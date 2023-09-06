@@ -100,6 +100,10 @@
 
 *   [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
 
+### Payment and Billing Integration
+
+*   [Moesif API Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. Free tier offers 30,000 events/month.
+
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
