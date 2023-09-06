@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Sep 06, 2023](/content/2023/09/06/README.md)
+
+### Firmware projects / WIP
+
+*   [BillMcok (⭐4)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
+
 ## [Sep 04, 2023](/content/2023/09/04/README.md)
 
 ### no-std crates / WIP

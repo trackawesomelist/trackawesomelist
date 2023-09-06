@@ -2,9 +2,15 @@
 
 A curated list of awesome Common Lisp learning resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/GustavBertram/awesome-common-lisp-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 GustavBertram/awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning) · ⭐ 150 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/GustavBertram/awesome-common-lisp-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 GustavBertram/awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning) · ⭐ 175 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/GustavBertram/awesome-common-lisp-learning/week/README.md) / [Overview](/content/GustavBertram/awesome-common-lisp-learning/readme/README.md) ]
+
+## [Sep 06, 2023](/content/2023/09/06/README.md)
+
+### How To Use
+
+*   Try out [Exercism](https://exercism.org/tracks/common-lisp).
 
 ## [May 19, 2021](/content/2021/05/19/README.md)
 
@@ -34,7 +40,7 @@ A curated list of awesome Common Lisp learning resources
 *   For advanced users
     *   [Articulate Common Lisp](http://articulate-lisp.com) - A HOWTO for putting together a Lisp environment, and has information on [useful libraries](http://articulate-lisp.com/project/abcs.html) and how to [structure projects](http://articulate-lisp.com/project/new-project.html).
     *   If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
-    *   The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell (⭐1.5k)](https://github.com/roswell/roswell/wiki), or on Docker.
+    *   The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell (⭐1.7k)](https://github.com/roswell/roswell/wiki), or on Docker.
 
 ### Online References
 
@@ -52,16 +58,16 @@ A curated list of awesome Common Lisp learning resources
 
 ### Online Books
 
-*   [Common Lisp: A Gentle Introduction to Symbolic Computation by David S. Touretzky](http://www.cs.cmu.edu/\~dst/LispBook/) - a good introduction for people new to programming. Contains code for really useful utilities like [DTRACE](http://www.cs.cmu.edu/\~dst/Lisp/dtrace/) and [SDRAW](http://www.cs.cmu.edu/\~dst/Lisp/sdraw/).
-*   [Common Lisp: An interactive approach by Stuart C. Shapiro](https://www.cse.buffalo.edu/\~shapiro/Commonlisp/) - A textbook that teaches mainly through the use of exercises.
+*   [Common Lisp: A Gentle Introduction to Symbolic Computation by David S. Touretzky](http://www.cs.cmu.edu/~dst/LispBook/) - a good introduction for people new to programming. Contains code for really useful utilities like [DTRACE](http://www.cs.cmu.edu/~dst/Lisp/dtrace/) and [SDRAW](http://www.cs.cmu.edu/~dst/Lisp/sdraw/).
+*   [Common Lisp: An interactive approach by Stuart C. Shapiro](https://www.cse.buffalo.edu/~shapiro/Commonlisp/) - A textbook that teaches mainly through the use of exercises.
 *   [Practical Common Lisp by Peter Seibel](http://www.gigamonkeys.com/book/) - A great introduction for experienced programmers, and tries to highlight from the very beginning what makes CL different to other languages.
-*   [Common Lisp Koans (⭐2.9k)](https://github.com/google/lisp-koans) - Not exactly a book, but a set of koans to help you learn the language.
+*   [Common Lisp Koans (⭐3k)](https://github.com/google/lisp-koans) - Not exactly a book, but a set of koans to help you learn the language.
 *   [On Lisp by Paul Graham](http://www.paulgraham.com/onlisp.html) - A great book for intermediately experienced Lispers.
 *   [Let Over Lambda by Doug Hoyte](https://letoverlambda.com) - An advanced book on Lisp Macros.
     *   The first six chapters are available online.
     *   [Comments on Let Over Lambda](https://www.reddit.com/r/lisp/comments/3actsc/let_over_lambda/) - Several people recommend that you be comfortable with On Lisp before reading this book, and that the start is slow.
     *   [The chapter on closures](https://letoverlambda.com/index.cl/guest/chap2.html) - Has several non-trivial examples, and demonstrates the power of this feature.
-*   [Paradigms of Artificial Intelligence Programming by Peter Norvig (⭐6.4k)](https://github.com/norvig/paip-lisp) - Has many interesting applications of Lisp, but is no longer a good reference for AI.
+*   [Paradigms of Artificial Intelligence Programming by Peter Norvig (⭐6.9k)](https://github.com/norvig/paip-lisp) - Has many interesting applications of Lisp, but is no longer a good reference for AI.
 
 ### Offline Books
 
@@ -121,6 +127,5 @@ A curated list of awesome Common Lisp learning resources
 *   Get a Lisp environment.
 *   Bookmark the [The Common Lisp Hyperspec](http://www.lispworks.com/documentation/common-lisp.html).
 *   Download and work through a Lisp book of an appropriate level. Type the examples and play with the code. Feel free to switch books and try a different one.
-*   Try out [Exercism](http://exercism.io/languages/common-lisp/about).
 *   Learn about [Quicklisp](https://www.quicklisp.org/beta/).
 *   At some point, read your Lisp implementation's manual.

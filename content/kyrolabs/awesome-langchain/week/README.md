@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kyrolabs/awesome-langchain/README.md) / Weekly / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
+
+### Open Source Projects / Other / Chatbots
+
+*   [Recommender (⭐7)](https://github.com/vishwasg217/recommender): Create captivating email marketing campaigns tailored to your business needs ![GitHub Repo stars](https://img.shields.io/github/stars/vishwasg217/recommender?style=social)
+
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
@@ -18,7 +24,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+*   [SimpleAIChat (⭐2.7k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
 *   [LLMStack (⭐99)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)

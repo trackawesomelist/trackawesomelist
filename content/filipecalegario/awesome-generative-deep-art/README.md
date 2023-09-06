@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 06, 2023](/content/2023/09/06/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [ChatGPT is fun, but not an author | Science](https://www.science.org/doi/10.1126/science.adg7879)
+
 ## [Sep 05, 2023](/content/2023/09/05/README.md)
 
 ### Discussions and Philosophy / Papers Collections

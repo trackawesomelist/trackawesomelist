@@ -12,6 +12,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI Art and its Impact on Artists](https://dl.acm.org/doi/10.1145/3600211.3604681): paper published in the Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
 
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [ChatGPT is fun, but not an author | Science](https://www.science.org/doi/10.1126/science.adg7879)
+
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
 ### Generative AI Tools Directories / Contribute to Our Repository

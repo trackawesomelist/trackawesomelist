@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Sep 06, 2023](/content/2023/09/06/README.md)
+
+### Open Source Projects / Other / Chatbots
+
+*   [Recommender (⭐7)](https://github.com/vishwasg217/recommender): Create captivating email marketing campaigns tailored to your business needs ![GitHub Repo stars](https://img.shields.io/github/stars/vishwasg217/recommender?style=social)
+
 ## [Sep 03, 2023](/content/2023/09/03/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
@@ -29,7 +35,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [SimpleAIChat (⭐2.6k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+*   [SimpleAIChat (⭐2.7k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
 
 ## [Aug 18, 2023](/content/2023/08/18/README.md)
 

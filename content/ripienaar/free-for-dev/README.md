@@ -6,6 +6,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 06, 2023](/content/2023/09/06/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
+*   [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
+
 ## [Aug 31, 2023](/content/2023/08/31/README.md)
 
 ### APIs, Data and ML
@@ -2660,7 +2671,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
-*   [Bridgecrew](https://bridgecrew.io/) — Infrastructure as code (IaC) security powered by the open source tool - [Checkov (⭐5.8k)](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.
+*   [Bridgecrew](https://bridgecrew.io/) — Infrastructure as code (IaC) security powered by the open source tool - [Checkov (⭐5.9k)](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.
 
 ## [Jul 26, 2021](/content/2021/07/26/README.md)
 
@@ -3307,7 +3318,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Messaging and Streaming
 
-*   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.
+*   [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
 
 ## [Feb 27, 2021](/content/2021/02/27/README.md)
 
@@ -5219,10 +5230,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Code Quality
 
 *   [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
-
-### BaaS
-
-*   [pushtechnology.com](https://www.pushtechnology.com/) — Real-time Messaging for browsers, smartphones and everyone. 100 concurrent connections. Free 10 GB data/month
 
 ## [Aug 23, 2018](/content/2018/08/23/README.md)
 

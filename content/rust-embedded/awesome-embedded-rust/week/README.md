@@ -12,6 +12,10 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [Slint](https://crates.io/crates/slint): Declarative GUI framework that works on microcontrollers. [![crates.io](https://img.shields.io/crates/v/slint.svg)](https://crates.io/crates/slint)
 
+### Firmware projects / WIP
+
+*   [BillMcok (⭐4)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
+
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Driver crates / Other
