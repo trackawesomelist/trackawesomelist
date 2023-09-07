@@ -6,6 +6,28 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Sep 07, 2023](/content/2023/09/07/README.md)
+
+### Templates / Vue 3
+
+*   [vue3-quick-start (⭐3)](https://github.com/wforguo/vue3-quick-start) - Building an engineered Vue 3 project, integrated with `Vite` + `Vue3` + `TypeScript` + `ESLint` + `Prettier` + `Commitizen` + `Husky` + `LintStaged` + `CommitLint` + `AutoImport` + `ReleaseIt`.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-meta-env (⭐2)](https://github.com/wei-design/vite-plugin-meta-env) - Define dynamic env variables in import.meta.env.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-php (⭐1)](https://github.com/donnikitos/vite-plugin-php) - Load and process PHP-entry files instead of default index.html.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-singlefile (⭐507)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [unplugin-inject-preload (⭐0)](https://github.com/Applelo/unplugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
+
 ## [Sep 04, 2023](/content/2023/09/04/README.md)
 
 ### Framework-agnostic Plugins / Integrations
@@ -873,12 +895,6 @@
 
 *   [vite-plugin-shopify (⭐126)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
-## [Jul 23, 2022](/content/2022/07/23/README.md)
-
-### Framework-agnostic Plugins / Transformers
-
-*   [vite-plugin-inject-preload (⭐18)](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
-
 ## [Jul 20, 2022](/content/2022/07/20/README.md)
 
 ### Templates / React
@@ -1311,7 +1327,7 @@
 
 ### Templates / Vue 3
 
-*   [vite-boot (⭐165)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
+*   [vite-boot (⭐164)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 
 ## [Mar 13, 2022](/content/2022/03/13/README.md)
 

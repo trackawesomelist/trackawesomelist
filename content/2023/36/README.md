@@ -1,24 +1,46 @@
 # Awesome List Updates on Sep 04 - Sep 10, 2023
 
-24 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### SQL Query Builders
+
+*   [Hotcoal (⭐6)](https://github.com/motrboat/hotcoal) - Secure your handcrafted SQL against injection.
+
+## [2. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+
+### Databases / Compound
+
+*   [Rhea](https://www.rhea-db.org/) - Database of chemical reactions.
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Utility / Diagnostics
+
+*   [subnut/nvim-ghost.nvim (⭐105)](https://github.com/subnut/nvim-ghost.nvim) - GhostText support with zero dependencies.
+
+### Git / Diagnostics
+
+*   [NeogitOrg/neogit (⭐2.5k)](https://github.com/NeogitOrg/neogit) - A Magit clone that may change some things to fit the Vim philosophy.
+
+## [4. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Video and Audio Conferencing
 
 *   [Chitchatter](https://chitchatter.im/) - Secure P2P chat that is serverless, decentralized, and ephemeral. Supports text, audio, video, screen, and file sharing.
 
-## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Users
 
 *   [django-improved-user (⭐124)](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -36,25 +58,25 @@
 
 *   [stats (⭐18k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. \[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")]
 
-## [4. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [7. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
 *   [minimal-tmux-status (⭐1)](https://github.com/niksingh710/minimal-tmux-status/): Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)
 
-## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Open Source Projects / Other / Chatbots
 
 *   [Recommender (⭐7)](https://github.com/vishwasg217/recommender): Create captivating email marketing campaigns tailored to your business needs ![GitHub Repo stars](https://img.shields.io/github/stars/vishwasg217/recommender?style=social)
 
-## [6. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
+## [9. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
 ### How To Use
 
 *   Try out [Exercism](https://exercism.org/tracks/common-lisp).
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -107,13 +129,13 @@
 *   [NDJSON (⭐585) (⭐585)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐263) (⭐263)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### FreshRSS / Outline Processor Markup Language
 
 *   <https://titrvar.com/p> by [Titrvar تیتروار](https://titrvar.com/)
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -128,25 +150,25 @@
 
 *   [Moesif API Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. Free tier offers 30,000 events/month.
 
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
 *   [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Jake VanderPlas
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Project Management
 
 *   [Forgejo](https://forgejo.org) `⚠` - A lightweight software forge focused on scaling, federation, and privacy (fork of Gitea). ([Demo](https://next.forgejo.org), [Source Code](https://codeberg.org/forgejo/forgejo/), [Clients](https://codeberg.org/forgejo-contrib/delightful-forgejo)) `MIT` `Docker/Go`
 
-## [12. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [15. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Web Frameworks
 
 *   [Jaspr](https://docs.page/schultek/jaspr) - Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -160,7 +182,7 @@
 
 *   [nfiles (⭐12)](https://github.com/atlas-engineer/nfiles) - File persistence, watching, data synchronization, (per user profile) path resolution, and structured data retrieval. Has pre-defined classes for configuration files, remote fetched files, data files, Lisp-readable files and many others. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Discussions and Philosophy / Papers Collections
 
@@ -170,7 +192,7 @@
 
 *   [ChatGPT is fun, but not an author | Science](https://www.science.org/doi/10.1126/science.adg7879)
 
-## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
@@ -180,19 +202,19 @@
 
 *   [BillMcok (⭐4)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
 
-## [16. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [19. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Tutorials / Hardware Offload
 
 *   [eBPF Developer Tutorial - Learn eBPF by examples](https://eunomia.dev/tutorials/) - Start with eBPF basics and progress to advanced topics using 20+ hands-on tutorials and examples. Covers performance, networking, and security with libbpf and CO-RE. Available in Chinese and English.
 
-## [17. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 
-## [18. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [21. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
@@ -206,22 +228,30 @@
 
 *   [IDURAR ERP/CRM (⭐1.3k)](https://github.com/idurar/idurar-erp-crm) - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
-## [19. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [22. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vue3-quick-start (⭐3)](https://github.com/wforguo/vue3-quick-start) - Building an engineered Vue 3 project, integrated with `Vite` + `Vue3` + `TypeScript` + `ESLint` + `Prettier` + `Commitizen` + `Husky` + `LintStaged` + `CommitLint` + `AutoImport` + `ReleaseIt`.
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-json-server (⭐0)](https://github.com/yracnet/vite-plugin-json-server) - A seamless integration of JSON Server library.
+*   [vite-plugin-meta-env (⭐2)](https://github.com/wei-design/vite-plugin-meta-env) - Define dynamic env variables in import.meta.env.
 
 ### Framework-agnostic Plugins / Loaders
 
+*   [vite-plugin-php (⭐1)](https://github.com/donnikitos/vite-plugin-php) - Load and process PHP-entry files instead of default index.html.
 *   [unplugin-vue-images (⭐1)](https://github.com/vtrbo/unplugin-vue-images) - Use the image resource as a component.
 
 ### Framework-agnostic Plugins / Bundling
 
 *   [unplugin-zip-pack (⭐0)](https://github.com/iamspark1e/unplugin-zip-pack) - Zip your dist with filter function support.
+*   [vite-plugin-singlefile (⭐507)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
 
 ### Framework-agnostic Plugins / Transformers
 
+*   [unplugin-inject-preload (⭐0)](https://github.com/Applelo/unplugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 *   [vite-plugin-html-injection (⭐2)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
@@ -244,7 +274,7 @@
 
 *   [generouted (⭐608)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
-## [20. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [23. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Automation
 
@@ -421,13 +451,13 @@
 
 *   [Ops School](https://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 
-## [21. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [24. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [hyogwa (⭐37)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 
-## [22. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [25. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Development / Discovery
 
@@ -441,7 +471,7 @@
 
 *   [NixVim (⭐412)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
-## [23. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [26. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Avatars
 
@@ -455,7 +485,7 @@
 
 
 
-## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

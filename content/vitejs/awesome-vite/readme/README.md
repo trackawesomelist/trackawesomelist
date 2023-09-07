@@ -101,7 +101,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
 *   [vue3-ts-vite-vitest-todo (⭐10)](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
 *   [vue3-tailwind3-website-starter](https://github.com/feitian124/vue3-tailwind3-website-starter.git) - Vue3 / Vite / TailwindCSS website starter template, with guides on each page.
-*   [vite-boot (⭐165)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
+*   [vite-boot (⭐164)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 *   [Vue Naive (⭐948)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 *   [vue-admin-box (⭐1.5k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 *   [vivu-npm (⭐41)](https://github.com/logustra/vivu-npm) - Starter template to build component library.
@@ -133,6 +133,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-style-vw-loader (⭐1)](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
 *   [vue3-ts-pinia-vant (⭐53)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
 *   [antdv-pro (⭐232)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
+*   [vue3-quick-start (⭐3)](https://github.com/wforguo/vue3-quick-start) - Building an engineered Vue 3 project, integrated with `Vite` + `Vue3` + `TypeScript` + `ESLint` + `Prettier` + `Commitizen` + `Husky` + `LintStaged` + `CommitLint` + `AutoImport` + `ReleaseIt`.
 
 #### Vue 2
 
@@ -317,6 +318,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-cloudflare-functions (⭐18)](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
 *   [@storybook/builder-vite (⭐80k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
 *   [@builder.io/partytown (⭐12k)](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+*   [vite-plugin-meta-env (⭐2)](https://github.com/wei-design/vite-plugin-meta-env) - Define dynamic env variables in import.meta.env.
 
 #### Loaders
 
@@ -334,6 +336,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-gltf (⭐106)](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
 *   [vite-plugin-importmap (⭐2)](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
 *   [vite-plugin-thumbhash (⭐6)](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
+*   [vite-plugin-php (⭐1)](https://github.com/donnikitos/vite-plugin-php) - Load and process PHP-entry files instead of default index.html.
 *   [unplugin-vue-images (⭐1)](https://github.com/vtrbo/unplugin-vue-images) - Use the image resource as a component.
 
 #### Bundling
@@ -360,6 +363,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-css-injected-by-js (⭐243)](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 *   [vite-plugin-copy-dts (⭐30)](https://github.com/biggerstar/vite-plugin-copy-dts) - Merge declare module and declare global to target d.ts.
 *   [unplugin-zip-pack (⭐0)](https://github.com/iamspark1e/unplugin-zip-pack) - Zip your dist with filter function support.
+*   [vite-plugin-singlefile (⭐507)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
 
 #### Transformers
 
@@ -387,7 +391,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-head (⭐7)](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
 *   [vite-plugin-html-env (⭐75)](https://github.com/lxs24sxl/vite-plugin-html-env) - Injection of environment variables in `index.html`.
 *   [vite-plugin-html-inject (⭐26)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
-*   [vite-plugin-inject-preload (⭐18)](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
+*   [unplugin-inject-preload (⭐0)](https://github.com/Applelo/unplugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 *   [vite-plugin-document (⭐7)](https://github.com/JiangWeixian/vite-plugin-document) - Use `Document.tsx` as html template.
 *   [@vituum/vite-plugin-handlebars (⭐3)](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
 *   [@vituum/vite-plugin-pug (⭐4)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.

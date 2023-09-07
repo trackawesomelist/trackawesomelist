@@ -2,9 +2,15 @@
 
 Awesome list of computational biology.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 31 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 35 · 🏷️ Miscellaneous
 
 [ [Daily](/content/inoue0426/awesome-computational-biology/README.md) / Weekly / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
+
+## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
+
+### Databases / Compound
+
+*   [Rhea](https://www.rhea-db.org/) - Database of chemical reactions.
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
@@ -34,11 +40,12 @@ Awesome list of computational biology.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
-### Databases / Genome
+### Databases / Interaction
 
-*   [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
-*   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
-*   [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
+*   Drug (-Cell line) Response
+    *   [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
+    *   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
+    *   [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -87,21 +94,21 @@ Awesome list of computational biology.
 
 ### Preprocess / Interaction
 
-*   [Chemistry Development Kit (⭐417)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐2.1k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐428)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐2.2k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DeepPurpose (⭐758)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DeepPurpose (⭐800)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
 
 ### Machine Learning Tasks and Models / Drug Target Interaction
 
-*   [NeoDTI (⭐65)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐66)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Machine Learning Tasks and Models / Compound Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐102)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [TransformerCPI (⭐117)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -119,7 +126,8 @@ Awesome list of computational biology.
     *   [Therapeutics Data Commons](https://tdcommons.ai/) - A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction.
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
+    *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DRKG (⭐485)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DRKG (⭐503)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.

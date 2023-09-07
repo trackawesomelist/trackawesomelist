@@ -8,20 +8,28 @@
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
+### Templates / Vue 3
+
+*   [vue3-quick-start (⭐3)](https://github.com/wforguo/vue3-quick-start) - Building an engineered Vue 3 project, integrated with `Vite` + `Vue3` + `TypeScript` + `ESLint` + `Prettier` + `Commitizen` + `Husky` + `LintStaged` + `CommitLint` + `AutoImport` + `ReleaseIt`.
+
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-json-server (⭐0)](https://github.com/yracnet/vite-plugin-json-server) - A seamless integration of JSON Server library.
+*   [vite-plugin-meta-env (⭐2)](https://github.com/wei-design/vite-plugin-meta-env) - Define dynamic env variables in import.meta.env.
 
 ### Framework-agnostic Plugins / Loaders
 
+*   [vite-plugin-php (⭐1)](https://github.com/donnikitos/vite-plugin-php) - Load and process PHP-entry files instead of default index.html.
 *   [unplugin-vue-images (⭐1)](https://github.com/vtrbo/unplugin-vue-images) - Use the image resource as a component.
 
 ### Framework-agnostic Plugins / Bundling
 
 *   [unplugin-zip-pack (⭐0)](https://github.com/iamspark1e/unplugin-zip-pack) - Zip your dist with filter function support.
+*   [vite-plugin-singlefile (⭐507)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
 
 ### Framework-agnostic Plugins / Transformers
 
+*   [unplugin-inject-preload (⭐0)](https://github.com/Applelo/unplugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 *   [vite-plugin-html-injection (⭐2)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
@@ -761,7 +769,6 @@
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-html-inject (⭐26)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
-*   [vite-plugin-inject-preload (⭐18)](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 
 ### Symfony / Community
 
@@ -1073,7 +1080,7 @@
 
 ### Templates / Vue 3
 
-*   [vite-boot (⭐165)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
+*   [vite-boot (⭐164)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 
 ### Open Source / Community
 

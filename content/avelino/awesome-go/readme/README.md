@@ -718,7 +718,7 @@ additional ordered map implementations.
 
 *   [atlas (⭐3.5k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐43)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
-*   [bytebase (⭐6.7k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐6.8k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 *   [darwin (⭐137)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 *   [dbmate (⭐3.7k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
 *   [go-fixtures (⭐29)](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
@@ -774,6 +774,7 @@ additional ordered map implementations.
 *   [godbal (⭐58)](https://github.com/xujiajun/godbal) - Database Abstraction Layer (dbal) for go. Support SQL builder and get result easily.
 *   [goqu (⭐2k)](https://github.com/doug-martin/goqu) - Idiomatic SQL builder and query library.
 *   [gosql (⭐29)](https://github.com/twharmon/gosql) - SQL Query builder with better null values support.
+*   [Hotcoal (⭐6)](https://github.com/motrboat/hotcoal) - Secure your handcrafted SQL against injection.
 *   [igor (⭐112)](https://github.com/galeone/igor) - Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.
 *   [jet (⭐1.5k)](https://github.com/go-jet/jet) - Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure.
 *   [ormlite (⭐11)](https://github.com/pupizoid/ormlite) - Lightweight package containing some ORM-like features and helpers for sqlite databases.
@@ -982,7 +983,7 @@ additional ordered map implementations.
 *   [hermes (⭐2.7k)](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails.
 *   [mailchain (⭐140)](https://github.com/mailchain/mailchain) - Send encrypted emails to blockchain addresses written in Go.
 *   [mailgun-go (⭐656)](https://github.com/mailgun/mailgun-go) - Go library for sending mail with the Mailgun API.
-*   [MailHog (⭐12k)](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
+*   [MailHog (⭐13k)](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
 *   [Mailpit (⭐2.9k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 *   [mailx (⭐8)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 *   [SendGrid (⭐922)](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
@@ -1153,7 +1154,7 @@ additional ordered map implementations.
 *   [go3d (⭐285)](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
 *   [gonet (⭐1.2k)](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
 *   [goworld (⭐2.4k)](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping.
-*   [Harfang3D (⭐358)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐34)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐395)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐34)](https://github.com/harfang3d/harfang-go)).
 *   [Leaf (⭐5k)](https://github.com/name5566/leaf) - Lightweight game server framework.
 *   [nano (⭐2.5k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.4k)](https://github.com/oakmound/oak) - Pure Go game engine.
@@ -2198,11 +2199,11 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [dummy (⭐175)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 *   [Easegress (⭐5.5k)](https://github.com/megaease/easegress) - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
 *   [etcd (⭐44k)](https://github.com/coreos/etcd) - Highly-available key value store for shared configuration and service discovery.
-*   [Euterpe (⭐491)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
+*   [Euterpe (⭐494)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
 *   [Fider (⭐2.4k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 *   [Flagr (⭐2.2k)](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 *   [flipt (⭐2.8k)](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
-*   [go-feature-flag (⭐791)](https://github.com/thomaspoignant/go-feature-flag) - A feature flag solution, with only a YAML file in the backend (S3, GitHub, HTTP, local file ...), no server to install, just add a file in a central system and refer to it.
+*   [go-feature-flag (⭐805)](https://github.com/thomaspoignant/go-feature-flag) - A feature flag solution, with only a YAML file in the backend (S3, GitHub, HTTP, local file ...), no server to install, just add a file in a central system and refer to it.
 *   [go-proxy-cache (⭐98)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 *   [jackal (⭐1.4k)](https://github.com/ortuman/jackal) - An XMPP server written in Go.
 *   [lets-proxy2 (⭐80)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
@@ -3179,7 +3180,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [tf-profile (⭐119)](https://github.com/datarootsio/tf-profile) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 *   [traefik (⭐44k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 *   [trubka (⭐330)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
-*   [uTask (⭐959)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
+*   [uTask (⭐970)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐22k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 *   [wait-for (⭐15)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
 *   [webhook (⭐9.2k)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
@@ -3213,7 +3214,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [GoBoy (⭐2.5k)](https://github.com/Humpheh/goboy) - Nintendo Game Boy Color emulator written in Go.
 *   [gocc (⭐578)](https://github.com/goccmack/gocc) - Gocc is a compiler kit for Go written in Go.
 *   [GoDocTooltip (⭐13)](https://github.com/diankong/GoDocTooltip) - Chrome extension for Go Doc sites, which shows function description as tooltip at function list.
-*   [Gokapi (⭐773)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐784)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 *   [GoLand](https://jetbrains.com/go) - Full featured cross-platform Go IDE.
 *   [GoNB (⭐285)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 *   [Gor (⭐18k)](https://github.com/buger/gor) - Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.
@@ -3237,7 +3238,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Orbit (⭐176)](https://github.com/gulien/orbit) - A simple tool for running commands and generating files from templates.
 *   [peg (⭐921)](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 *   [Plik (⭐1.3k)](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
-*   [portal (⭐941)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
+*   [portal (⭐954)](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another.
 *   [protoncheck (⭐4)](https://github.com/servusdei2018/protoncheck) - ProtonMail module for waybar/polybar/yabar/i3blocks.
 *   [restic (⭐21k)](https://github.com/restic/restic) - De-duplicating backup program.
 *   [sake (⭐608)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.
@@ -3470,7 +3471,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 *   [Awesome Golang Workshops (⭐484)](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
 *   [Awesome Remote Job (⭐26k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
-*   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
+*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 *   [awesome-go-extra (⭐21)](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
 *   [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - Software Engineer and Blogs @ codewithmukesh.com.
 *   [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.
