@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Sep 07, 2023](/content/2023/09/07/README.md)
+
+### Third-Party Packages / Users
+
+*   [django-improved-user (⭐124)](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
+
 ## [Aug 27, 2023](/content/2023/08/27/README.md)
 
 ### Third-Party Packages / Editors
@@ -605,7 +611,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / ECommerce
 
-*   [saleor (⭐58)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
+*   [saleor (⭐67)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
 *   [django-shop (⭐3k)](https://github.com/awesto/django-shop) - Django-based shop system.
 *   [shuup (⭐2.1k)](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 *   [django-oscar (⭐5.8k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.

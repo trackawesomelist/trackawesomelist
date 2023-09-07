@@ -256,7 +256,7 @@ Go to the [Text To Speech](#text-to-speech) section.
 #### Midjourney
 
 *   [Stable Diffusion (⭐29k)](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models.
-    *   [Stable Diffusion Web UI (⭐97k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
+    *   [Stable Diffusion Web UI (⭐101k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
 
 ## Bookmarking
 
@@ -498,7 +498,7 @@ If you need an app for **menstrual cycle tracking** please don't use any apps li
 
 ### Medical health
 
-*   [Fasten (⭐822)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
+*   [Fasten (⭐860)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
 
 ## Fonts
 
@@ -765,7 +765,7 @@ With email aliases, you can finally create a different identity for each website
 *   [Koel](https://koel.dev/) - a personal music streaming server that works.
 *   [Nuclear](https://nuclear.js.org/) - Modern music player focused on streaming from free sources.
 *   [Navidrome](https://navidrome.org/) - Lightweight, fast and self-contained personal music streamer.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐6.2k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐6.7k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [mucke (⭐130)](https://github.com/moritz-weber/mucke) - A music player for local files with unique custom playback options.
 
 **Spotify alternative clients**
@@ -787,11 +787,11 @@ With email aliases, you can finally create a different identity for each website
 **Youtube Music alternative clients**
 
 *   [Beatbump (⭐820)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
-*   [ViMusic (⭐5k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐5.1k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 **Deezer alternative clients**
 
-*   [dzr (⭐143)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐148)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 #### Podcasts
 
@@ -1100,7 +1100,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
     *   [ClassyShark3xodus](https://f-droid.org/en/packages/com.oF2pks.classyshark3xodus/) - Checks apk(s) for known trackers (provided by Exodus) +other warnings and specs.
 *   [Plexus](https://plexus.techlore.tech/) - Remove the fear of Android app compatibility on de-Googled devices. Find if an app will work on a De-Googled device.
 *   [Netguard](https://netguard.me/) - A simple way to block access to the internet per application.
-*   [RethinkDNS + Firewall (⭐1.6k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+*   [RethinkDNS + Firewall (⭐1.7k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
 
 ## Remote Access and Control
 
@@ -1286,7 +1286,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Privacy respecting Reddit clients:**
 
-*   [Libreddit (⭐4.8k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+*   [Libreddit (⭐4.9k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
 *   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐3.5k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐450)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
@@ -1412,6 +1412,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [BigBlueButton](https://bigbluebutton.org/) - BigBlueButton is a web conferencing system designed for online learning.
+*   [Chitchatter](https://chitchatter.im/) - Secure P2P chat that is serverless, decentralized, and ephemeral. Supports text, audio, video, screen, and file sharing.
 *   [Jam (⭐1.2k)](https://github.com/jam-systems/jam) - Jam is your own open source Clubhouse for mini conferences, friends, communities.
 *   [Jami](https://jami.net/) - P2P audio and video conferences.
 *   [Jitsi Meet](https://meet.jit.si/) - More secure, more flexible, and completely free video conferencing. **No account needed, no installation needed**.

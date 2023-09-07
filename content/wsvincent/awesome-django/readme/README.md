@@ -184,7 +184,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### ECommerce
 
-*   [saleor (⭐58)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
+*   [saleor (⭐67)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
 *   [django-shop (⭐3k)](https://github.com/awesto/django-shop) - Django-based shop system.
 *   [shuup (⭐2.1k)](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 *   [django-oscar (⭐5.8k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
@@ -333,6 +333,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Users
 
 *   [django-allauth (⭐8.2k)](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
+*   [django-improved-user (⭐124)](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 *   [django-organizations (⭐1.2k)](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
 *   [django-cas-ng (⭐357)](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
 

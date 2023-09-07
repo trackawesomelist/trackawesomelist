@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Sep 07, 2023](/content/2023/09/07/README.md)
+
+### Video and Audio Conferencing
+
+*   [Chitchatter](https://chitchatter.im/) - Secure P2P chat that is serverless, decentralized, and ephemeral. Supports text, audio, video, screen, and file sharing.
+
 ## [Aug 30, 2023](/content/2023/08/30/README.md)
 
 ### Photoshop / Illustrator
@@ -83,11 +89,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Midjourney
 
 *   [Stable Diffusion (⭐29k)](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models.
-    *   [Stable Diffusion Web UI (⭐97k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
+    *   [Stable Diffusion Web UI (⭐101k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
 
 ### Medical health
 
-*   [Fasten (⭐822)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
+*   [Fasten (⭐860)](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics.
 
 ### Audio
 
@@ -302,7 +308,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Reddit
 
-*   [Libreddit (⭐4.8k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+*   [Libreddit (⭐4.9k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
 
 ## [Oct 23, 2022](/content/2022/10/23/README.md)
 
@@ -568,7 +574,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   [ViMusic (⭐5k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐5.1k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 ## [Jul 28, 2022](/content/2022/07/28/README.md)
 
@@ -669,7 +675,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Android
 
-*   [RethinkDNS + Firewall (⭐1.6k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+*   [RethinkDNS + Firewall (⭐1.7k)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
 
 ## [May 07, 2022](/content/2022/05/07/README.md)
 
@@ -1266,7 +1272,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐6.2k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐6.7k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [Oct 29, 2021](/content/2021/10/29/README.md)
 
@@ -1331,7 +1337,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Audio
 
-*   [dzr (⭐143)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐148)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 ## [May 27, 2021](/content/2021/05/27/README.md)
 

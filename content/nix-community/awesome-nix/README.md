@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Sep 07, 2023](/content/2023/09/07/README.md)
+
+### Development / Discovery
+
+*   [flakelight (⭐25)](https://github.com/accelbread/flakelight) - A modular flake framework aiming to minimize boilerplate.
+
 ## [Sep 05, 2023](/content/2023/09/05/README.md)
 
 ### NixOS Modules / Zig

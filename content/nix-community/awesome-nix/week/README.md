@@ -8,6 +8,10 @@
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
+### Development / Discovery
+
+*   [flakelight (⭐25)](https://github.com/accelbread/flakelight) - A modular flake framework aiming to minimize boilerplate.
+
 ### Programming Languages / Zig
 
 *   [zon2nix (⭐21)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
