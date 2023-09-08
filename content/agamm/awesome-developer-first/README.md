@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Sep 08, 2023](/content/2023/09/08/README.md)
+
+### Deployment Hosting
+
+*   [Quix](https://quix.io/) - One tool to build and run event streaming applications.
+
 ## [Aug 29, 2023](/content/2023/08/29/README.md)
 
 ### Monitoring

@@ -2,21 +2,28 @@
 
 🛠Helpful items for making open source hardware projects.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 158 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 266 · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/delftopenhardware/awesome-open-hardware/week/README.md) / [Overview](/content/delftopenhardware/awesome-open-hardware/readme/README.md) ]
+
+## [Sep 08, 2023](/content/2023/09/08/README.md)
+
+### Projects
+
+*   [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
+*   [FarmBot](https://farm.bot/pages/open-source) - automated gardening machine to grow vegetables.
 
 ## [Jan 21, 2023](/content/2023/01/21/README.md)
 
 ### Projects
 
-*   [Open Gamma Detector (⭐120)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐181)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 
 ## [Oct 24, 2022](/content/2022/10/24/README.md)
 
 ### Projects
 
-*   [Open-Source-Rover (⭐7.2k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
+*   [Open-Source-Rover (⭐7.4k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -33,7 +40,7 @@
 
 ### Related awesome
 
-*   [Awesome Electronics (⭐4.5k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐5k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## [Jun 23, 2022](/content/2022/06/23/README.md)
 
@@ -59,7 +66,7 @@
 
 ### Projects
 
-*   [OpenMV (⭐2k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
+*   [OpenMV (⭐2.2k)](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
 
 ## [Jan 28, 2022](/content/2022/01/28/README.md)
 
@@ -117,7 +124,7 @@
 *   [OpenBCI](https://openbci.com/) - Brain computer interface.
 *   [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 *   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
-*   [openUC2 (⭐342)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+*   [openUC2 (⭐374)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 *   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
 
 ### Talks
@@ -159,10 +166,10 @@
 
 *   [Building open source hardware](https://books.google.nl/books?id=wg27BQAAQBAJ\&lpg=PP1\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) - Book by Alicia Gibb, on building open source hardware from 2014.
 *   [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ\&lpg=PP1\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.
-*   [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ\&lpg=PA93\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) -  Book by Dale Dougherty, how the maker movement is chaning our schools, our jobs, and our minds.
+*   [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ\&lpg=PA93\&dq=open%20source%20hardware\&pg=PP1##v=onepage\&q=open%20source%20hardware\&f=false) -  Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 *   [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 
 ### Related awesome
 
-*   [Awesome Open Electronics (⭐399)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-*   [Awesome Open (⭐62)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+*   [Awesome Open Electronics (⭐452)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open (⭐69)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [subnut/nvim-ghost.nvim (⭐105)](https://github.com/subnut/nvim-ghost.nvim) - GhostText support with zero dependencies.
 
+### Dependency Management / Diagnostics
+
+*   [piersolenski/telescope-import.nvim (⭐5)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+
 ### Git / Diagnostics
 
 *   [NeogitOrg/neogit (⭐2.5k)](https://github.com/NeogitOrg/neogit) - A Magit clone that may change some things to fit the Vim philosophy.
@@ -46,7 +50,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [askfiy/visual\_studio\_code (⭐64)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐94)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 *   [Verf/deepwhite.nvim (⭐13)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐125)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
 
 ### Utility / Diagnostics
