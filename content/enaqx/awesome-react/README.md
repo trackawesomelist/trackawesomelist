@@ -12,6 +12,10 @@ A collection of awesome things regarding React ecosystem
 
 *   [shadcn-ui (⭐30k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 
+### React Awesome Components
+
+*   [puck (⭐2.5k)](https://github.com/measuredco/puck) - The visual editor for React
+
 ## [Jun 23, 2023](/content/2023/06/23/README.md)
 
 ### React State Management and Data Fetching

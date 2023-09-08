@@ -169,6 +169,7 @@ A collection of awesome things regarding the React ecosystem.
 *   [heart-switch (⭐431)](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 *   [kbar (⭐4.2k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 *   [tagify (⭐3k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
+*   [puck (⭐2.5k)](https://github.com/measuredco/puck) - The visual editor for React
 
 #### React Components Sandboxes
 

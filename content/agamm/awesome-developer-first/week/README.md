@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [Quix](https://quix.io/) - One tool to build and run event streaming applications.
 
+### Testing
+
+*   [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. ![Firecamp](https://img.shields.io/github/contributors-anon/firecamp-dev/firecamp?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
 ### GEO

@@ -19,6 +19,10 @@
 
 *   [shadcn-ui (⭐30k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 
+### React Awesome Components
+
+*   [puck (⭐2.5k)](https://github.com/measuredco/puck) - The visual editor for React
+
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Listing
@@ -37,6 +41,10 @@
 ### Deployment Hosting
 
 *   [Quix](https://quix.io/) - One tool to build and run event streaming applications.
+
+### Testing
+
+*   [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. ![Firecamp](https://img.shields.io/github/contributors-anon/firecamp-dev/firecamp?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [6. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -273,9 +281,11 @@
 ### Templates / Vue 3
 
 *   [vue3-quick-start (⭐3)](https://github.com/wforguo/vue3-quick-start) - Building an engineered Vue 3 project, integrated with `Vite` + `Vue3` + `TypeScript` + `ESLint` + `Prettier` + `Commitizen` + `Husky` + `LintStaged` + `CommitLint` + `AutoImport` + `ReleaseIt`.
+*   [antd-vue3-admin (⭐3)](https://github.com/Zuojiangtao/antd-vue3-admin) - A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4.
 
 ### Framework-agnostic Plugins / Integrations
 
+*   [vite-plugin-remix (⭐12)](https://github.com/yracnet/vite-plugin-remix) - Seamless integration of the Remix/Remixjs framework.
 *   [vite-plugin-json-server (⭐0)](https://github.com/yracnet/vite-plugin-json-server) - A seamless integration of JSON Server library.
 *   [vite-plugin-meta-env (⭐2)](https://github.com/wei-design/vite-plugin-meta-env) - Define dynamic env variables in import.meta.env.
 
@@ -313,6 +323,10 @@
 ### Solid / Routing
 
 *   [generouted (⭐608)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+
+### Frameworks / Community
+
+*   [vite-plugin-vercel (⭐52)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
 
 ## [28. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 

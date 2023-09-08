@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Sep 08, 2023](/content/2023/09/08/README.md)
+
+### Templates / Vue 3
+
+*   [antd-vue3-admin (⭐3)](https://github.com/Zuojiangtao/antd-vue3-admin) - A starter template based on Vue3, Vite4, TS5 and Ant-Design-Vue4.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-remix (⭐12)](https://github.com/yracnet/vite-plugin-remix) - Seamless integration of the Remix/Remixjs framework.
+
+### Frameworks / Community
+
+*   [vite-plugin-vercel (⭐52)](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
+
 ## [Sep 07, 2023](/content/2023/09/07/README.md)
 
 ### Templates / Vue 3
