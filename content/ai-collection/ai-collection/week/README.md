@@ -20,6 +20,18 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 
 
+### Text To Speech
+
+- Name: [Wavel AI](https://wavel.ai/)
+
+  Title: Transform text into lifelike speech with our cutting-edge text-to-speech technology.
+
+  Description: Experience natural-sounding speech with Wavel's text-to-speech solution.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
 ### Code & Database Assistant

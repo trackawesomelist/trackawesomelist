@@ -6,6 +6,20 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Sep 09, 2023](/content/2023/09/09/README.md)
+
+### Text To Speech
+
+- Name: [Wavel AI](https://wavel.ai/)
+
+  Title: Transform text into lifelike speech with our cutting-edge text-to-speech technology.
+
+  Description: Experience natural-sounding speech with Wavel's text-to-speech solution.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Sep 04, 2023](/content/2023/09/04/README.md)
 
 ### Avatars
