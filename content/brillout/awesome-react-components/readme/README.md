@@ -410,6 +410,7 @@ Please review our [contributing guidelines (⭐37k)](https://github.com/brillout
 
 ### Miscellaneous
 
+*   [puck (⭐2.5k)](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
 *   [react-advanced-news-ticker (⭐39)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 *   [react-avatar-generator (⭐57)](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 *   [react-awesome-query-builder (⭐1.6k)](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
@@ -655,7 +656,7 @@ Please review our [contributing guidelines (⭐37k)](https://github.com/brillout
 *   [react-anime (⭐1.5k)](https://github.com/stelatech/react-anime) - A super easy animation library.
 *   [react-flip-move (⭐4k)](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 *   [react-gsap-enhancer (⭐720)](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
-*   [react-tsparticles (⭐5.7k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐5.8k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 *   [react-motion (⭐22k)](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 *   [react-mt-svg-lines (⭐357)](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
 *   [react-router-transition (⭐2.6k)](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
@@ -839,7 +840,7 @@ Please review our [contributing guidelines (⭐37k)](https://github.com/brillout
 *   [resourcerer (⭐79)](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
 *   [synergies (⭐9)](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
 *   [zustand](https://zustand.surge.sh/) - [docs (⭐34k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
-*   [teaful (⭐691)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
+*   [teaful (⭐692)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ### Form Logic
 
@@ -862,7 +863,7 @@ Please review our [contributing guidelines (⭐37k)](https://github.com/brillout
 *   [react-router (⭐51k)](https://github.com/reactjs/react-router) - A complete routing library for React.
 *   [redux-first-history (⭐406)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 *   [universal-router (⭐1.7k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
-*   [wouter (⭐5.4k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
+*   [wouter (⭐5.5k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
 
 ### Props from server
 

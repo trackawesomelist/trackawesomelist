@@ -6,6 +6,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 09, 2023](/content/2023/09/09/README.md)
+
+### Commenting Platforms
+
+*   [Remarkbox](https://www.remarkbox.com/) - Open source hosted comments platform ,pay what you can for "One moderator on a few domains with complete control over behavior & appearance"
+*   [IntenseDebate](https://intensedebate.com/) - A feature-rich comment system for WordPress, Tumblr, Blogger and many other website platforms.
+
 ## [Sep 06, 2023](/content/2023/09/06/README.md)
 
 ### Tools for Teams and Collaboration
@@ -2659,12 +2666,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Geokeo api](https://geokeo.com) - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries
 
-## [Jul 29, 2021](/content/2021/07/29/README.md)
-
-### Managed Data Services
-
-*   [Macrometa](https://www.macrometa.com/) - a noSQL database, Pub/Sub, event processing, and serverless edge computing platform for building geo-distributed and real-time applications. Free dev account gives access to 10,000 Operations/Day & 200MB Storage.
-
 ## [Jul 28, 2021](/content/2021/07/28/README.md)
 
 ### Tools for Teams and Collaboration
@@ -4159,7 +4160,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Commenting Platforms
 
-*   [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.
 *   [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
 *   [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
 

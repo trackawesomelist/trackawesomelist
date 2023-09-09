@@ -6,6 +6,12 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Sep 09, 2023](/content/2023/09/09/README.md)
+
+### Miscellaneous
+
+*   [puck (⭐2.5k)](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
+
 ## [Aug 25, 2023](/content/2023/08/25/README.md)
 
 ### Form Components / Select
@@ -398,7 +404,7 @@ Curated List of React Components & Libraries.
 
 ### Data Store / Mouse Events
 
-*   [teaful (⭐691)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
+*   [teaful (⭐692)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ## [Nov 12, 2021](/content/2021/11/12/README.md)
 
@@ -609,7 +615,7 @@ Curated List of React Components & Libraries.
 ### Router / Mouse Events
 
 *   [redux-first-history (⭐406)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
-*   [wouter (⭐5.4k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
+*   [wouter (⭐5.5k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
 
 ## [Feb 13, 2021](/content/2021/02/13/README.md)
 
@@ -788,7 +794,7 @@ Curated List of React Components & Libraries.
 
 ### UI Animation / Syntax Highlight
 
-*   [react-tsparticles (⭐5.7k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
+*   [react-tsparticles (⭐5.8k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 
 ## [Aug 05, 2020](/content/2020/08/05/README.md)
 
