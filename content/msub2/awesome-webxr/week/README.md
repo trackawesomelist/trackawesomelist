@@ -2,22 +2,33 @@
 
 All things WebXR.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 134 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 142 · 🏷️ Miscellaneous
 
 [ [Daily](/content/msub2/awesome-webxr/README.md) / Weekly / [Overview](/content/msub2/awesome-webxr/readme/README.md) ]
+
+## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
+
+### Companies and Cooperatives / Reddit
+
+*   [MetaVRse](https://metavrse.com/) - Enterprise-focused metaverse creation company. Parent company of MetaVRse Engine, MetaVRse Studio, and MetaVRse Properties such as TheMall.
+
+### Development / Engines
+
+*   [MetaVRse Engine](https://metavrse.com/engine) - Web-based tool designed to make XR and 3D content creation. No-code/low-code template system, automatic embedding for business and education.
+    *   [Official Documentation](https://metavrse.com/api/index.html)
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
 ### Development / Frameworks and Libraries
 
-*   [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements. Support will be included in release 1.8.3. Until then, build from master branch of the [GitHub repository (⭐785)](https://github.com/x3dom/x3dom).
+*   [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
     *   [Official Documentation](https://doc.x3dom.org/)
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
 ### Development / Frameworks and Libraries
 
-*   [Spaces VR (⭐158)](https://github.com/musehq/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
+*   [Spaces VR (⭐166)](https://github.com/musehq/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
 
 ### Monetization / Other
 
@@ -82,7 +93,7 @@ All things WebXR.
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐610)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐633)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [May 09 - May 15, 2022](/content/2022/19/README.md)
 
@@ -102,7 +113,7 @@ All things WebXR.
 
 ### Avatars
 
-*   [Exokit Avatars (⭐62)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐6)](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐63)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐6)](https://github.com/msub2/avatars).
 
 ### Companies and Cooperatives / Reddit
 
@@ -270,8 +281,8 @@ All things WebXR.
 *   [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
     *   [Official Documentation](https://developer.playcanvas.com/en/)
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
-    *   [WebXR Export (⭐756)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR (⭐510)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [WebXR Export (⭐794)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
+    *   [SimpleWebXR (⭐524)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
 
@@ -281,9 +292,9 @@ All things WebXR.
     *   [Official Documentation](https://aframe.io/docs/)
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
-*   [JanusWeb (⭐162)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐164)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
-*   [react-three-fiber (⭐23k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐1.6k)](https://github.com/pmndrs/react-xr) as well.
+*   [react-three-fiber (⭐24k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐1.7k)](https://github.com/pmndrs/react-xr) as well.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 

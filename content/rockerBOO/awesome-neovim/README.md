@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 10, 2023](/content/2023/09/10/README.md)
+
+### Plugin Manager
+
+*   [roobert/activate.nvim (⭐13)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
+
 ## [Sep 08, 2023](/content/2023/09/08/README.md)
 
 ### Dependency Management / Diagnostics

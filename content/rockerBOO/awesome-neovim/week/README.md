@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
+### Plugin Manager
+
+*   [roobert/activate.nvim (⭐13)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
+
 ### Utility / Diagnostics
 
 *   [subnut/nvim-ghost.nvim (⭐105)](https://github.com/subnut/nvim-ghost.nvim) - GhostText support with zero dependencies.

@@ -116,6 +116,7 @@ You can find them listed on the [Neovim wiki (⭐69k)](https://github.com/neovim
 *   [NTBBloodbath/cheovim (⭐298)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 *   [chiyadev/dep (⭐87)](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
 *   [folke/lazy.nvim (⭐7k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
+*   [roobert/activate.nvim (⭐13)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 
 ### LSP
 

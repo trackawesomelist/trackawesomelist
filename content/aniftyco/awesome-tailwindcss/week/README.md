@@ -10,6 +10,7 @@
 
 ### UI Libraries, Components & Templates
 
+*   📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
 *   🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
@@ -36,7 +37,7 @@
 
 *   🧩 [Windstatic](https://windstatic.com) - Set of 161 elements & layouts made with Tailwind CSS and Alpine.js.
 *   🧩 [TailwindFlex](https://tailwindflex.com) - Free library of Tailwind CSS examples.
-*   📁 [Astro Template Cactus (⭐312)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
+*   📁 [Astro Template Cactus (⭐343)](https://github.com/chrismwilliams/astro-theme-cactus) - Tailwind CSS Astro starter template.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
@@ -61,7 +62,7 @@
 
 ### IDE Extensions
 
-*   [LSP support for Emacs (⭐139)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
+*   [LSP support for Emacs (⭐142)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
 
 ### Tools
 
@@ -97,7 +98,7 @@
 
 ### Plugins
 
-*   💼 [TailwindCSS 3D (⭐69)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
+*   💼 [TailwindCSS 3D (⭐75)](https://github.com/sambauers/tailwindcss-3d) - Adds 3D `transform` utilities and animations.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 
@@ -121,18 +122,18 @@
 ### UI Libraries, Components & Templates
 
 *   🧩 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
-*   📁 [Astro Template Resume (⭐3)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
+*   📁 [Astro Template Resume (⭐4)](https://github.com/fortezhuo/fortezhuo.my.id) - Eye-catching resume template built with Astro, Tailwind CSS.
 
 ### Starters & Themes
 
-*   🚀 [Angular-Tailwind (⭐62)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Angular-Tailwind (⭐75)](https://github.com/luciano-work/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 *   🚀 [Vue-Resume (⭐4)](https://github.com/luciano-work/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### IDE Extensions
 
-*   [CSS to TailwindCSS converter for Code (⭐29)](https://github.com/Jackardios/vscode-css-to-tailwindcss) - CSS to Tailwind CSS converter extension for Visual Studio Code.
+*   [CSS to TailwindCSS converter for Code (⭐31)](https://github.com/Jackardios/vscode-css-to-tailwindcss) - CSS to Tailwind CSS converter extension for Visual Studio Code.
 
 ### UI Libraries, Components & Templates
 
@@ -148,7 +149,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Flowbite Admin Dashboard (⭐822)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+*   📁 [Flowbite Admin Dashboard (⭐882)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -176,11 +177,11 @@
 
 ### Tools
 
-*   💼 [Tailiscope.nvim (⭐42)](https://github.com/danielvolchek/tailiscope.nvim) - Tailwind CSS cheat sheet integrated in Neovim.
+*   💼 [Tailiscope.nvim (⭐43)](https://github.com/danielvolchek/tailiscope.nvim) - Tailwind CSS cheat sheet integrated in Neovim.
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Admin One React (⭐220)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
+*   📁 [Admin One React (⭐241)](https://github.com/justboil/admin-one-react-tailwind) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
@@ -210,7 +211,7 @@
 
 ### Starters & Themes
 
-*   🚀 [AstroWind (⭐1.2k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
+*   🚀 [AstroWind (⭐1.3k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -232,7 +233,7 @@
 
 ### Tools
 
-*   💼 [Tails Devtools (⭐196)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
+*   💼 [Tails Devtools (⭐199)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -245,7 +246,7 @@
 
 ### Plugins
 
-*   💼 [Grid Areas (⭐72)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
+*   💼 [Grid Areas (⭐76)](https://github.com/SavvyWombat/tailwindcss-grid-areas) - Adds `grid-areas` and `grid-area` utilities.
 
 ### Tools
 
@@ -267,7 +268,7 @@
 
 ### Open-Source Projects
 
-*   [GitProfile (⭐951)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
+*   [GitProfile (⭐978)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
@@ -277,7 +278,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite-Boot (⭐165)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
+*   🚀 [Vite-Boot (⭐164)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 
 ### Open-Source Projects
 
@@ -287,7 +288,7 @@
 
 ### Plugins
 
-*   🧬 [FormKit (⭐3.2k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [FormKit (⭐3.5k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -305,7 +306,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐45)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
+*   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐48)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
@@ -317,13 +318,13 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐184)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐186)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
 ### Plugins
 
-*   🧬 [Container Queries (⭐81)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
+*   🧬 [Container Queries (⭐82)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -335,7 +336,7 @@
 *   🛑💼 [Text Decoration Color (⭐11)](https://github.com/ahmadawais/tailwind-text-decoration-color) - Adds `text-decoration-color` utilities.
 *   🛑💼 [Downwind CSS Text Decoration (⭐8)](https://github.com/downwindcss/text-decoration) - Adds composable `text-decoration` utilities.
 *   🛑💼 [Capitalize first letter (⭐3)](https://github.com/riderx/capitalize-first-tailwind) - Adds `capitalize-first` utilities.
-*   🛑💼 [Aspect Ratio (⭐250)](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities.
+*   🛑💼 [Aspect Ratio (⭐249)](https://github.com/webdna/tailwindcss-aspect-ratio) - Adds `aspect-ratio` utilities.
 *   🛑💼 [Shadow Outline Colors (⭐9)](https://github.com/octoper/tailwindcss-shadow-outline-colors) - Adds `box-shadow` utilities based on configured colors.
 *   🛑💼 [Alpha (⭐71)](https://github.com/bradlc/tailwindcss-alpha) - Adds alpha color variant utilities.
 *   🛑🧬 [Direction (⭐218)](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
@@ -364,7 +365,7 @@
 ### Plugins
 
 *   🎨🧬 [Themeable (⭐46)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
-*   💼🧬 [Radix (⭐1.8k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   💼🧬 [Radix (⭐1.9k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
 ## [Nov 15 - Nov 21, 2021](/content/2021/46/README.md)
 
@@ -389,8 +390,8 @@
 ### UI Libraries, Components & Templates
 
 *   📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-*   📚 [tails-ui (⭐192)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
-*   📚 [tails (⭐32)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
+*   📚 [tails-ui (⭐193)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
+*   📚 [tails (⭐33)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 *   📁 [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - Free Tailwind CSS and React UI kit.
@@ -405,24 +406,24 @@
 ### Tools
 
 *   🌍 [Flowrift](https://flowrift.com) - Beautifully designed Tailwind CSS UI blocks.
-*   💼 [clb (⭐135)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
+*   💼 [clb (⭐139)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 *   🧩 [Tailwind Datepicker (⭐128)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 *   🧩 [Tailwind Typeahead (⭐20)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
-*   📁 [OhMySMTP Templates (⭐181)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
+*   📁 [OhMySMTP Templates (⭐184)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 
 ## [Sep 20 - Sep 26, 2021](/content/2021/38/README.md)
 
 ### Plugins
 
-*   💼 [Fluid Type (⭐255)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
+*   💼 [Fluid Type (⭐261)](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
 
 ### Starters & Themes
 
-*   🚀 [Next JS Boilerplate (⭐4.6k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
+*   🚀 [Next JS Boilerplate (⭐4.7k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
@@ -440,7 +441,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Tailmin (⭐52)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
+*   📁 [Tailmin (⭐56)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
@@ -468,13 +469,13 @@
 
 ### Starters & Themes
 
-*   📟 [new-tailwind-app (⭐247)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+*   📟 [new-tailwind-app (⭐248)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
 ### Starters & Themes
 
-*   📟 [Next.js PWA (⭐76)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
+*   📟 [Next.js PWA (⭐77)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -499,7 +500,7 @@
 ### Tools
 
 *   💼 [Tailwind CSS Figma Kit (⭐732)](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
-*   💼 [Tailwind CSS Figma Plugin (⭐264)](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
+*   💼 [Tailwind CSS Figma Plugin (⭐263)](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 
 ### Starters & Themes
 
@@ -515,13 +516,13 @@
 
 ### Open-Source Projects
 
-*   [Ubuntu 20.04 (⭐3.1k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
+*   [Ubuntu 20.04 (⭐3.2k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
 ### Plugins
 
-*   🧩 [CSS Variables (⭐163)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
+*   🧩 [CSS Variables (⭐164)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables (Dark Mode supported).
 *   🛑💼 [Filters (⭐162)](https://github.com/benface/tailwindcss-filters) - Adds `filter` utilities.
 *   🛑💼 [CSS Filters (⭐24)](https://github.com/Larsklopstra/tailwindcss-css-filters) - Adds `filter` and `backdrop-filter` utilities with defaults.
 *   🛑💼 [Blend Mode (⭐66)](https://github.com/hacknug/tailwindcss-blend-mode) - Adds `blend-mode` utilities.
@@ -543,13 +544,13 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Tailwind Cards (⭐514)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
+*   🧩 [Tailwind Cards (⭐518)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
 ## [Mar 08 - Mar 14, 2021](/content/2021/10/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐372)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐371)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
 
@@ -565,7 +566,7 @@
 
 ### Plugins
 
-*   💼 [Content Placeholder (⭐108)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
+*   💼 [Content Placeholder (⭐109)](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 
 ## [Feb 08 - Feb 14, 2021](/content/2021/6/README.md)
 
@@ -581,7 +582,7 @@
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐158)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐159)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 *   🧬 [Pseudo selectors (⭐38)](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
 
 ### Tools
@@ -602,7 +603,7 @@
 ### Tools
 
 *   🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-*   💼 [@ngneat/tailwind (⭐607)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+*   💼 [@ngneat/tailwind (⭐608)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 
 ### UI Libraries, Components & Templates
 
@@ -656,7 +657,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐192)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐194)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -670,7 +671,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐681)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐683)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
@@ -688,8 +689,8 @@
 
 ### Plugins
 
-*   💙💼 [Aspect Ratio (⭐843)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
-*   💙 [Forms (⭐3.4k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
+*   💙💼 [Aspect Ratio (⭐846)](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
+*   💙 [Forms (⭐3.5k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 *   🛑🧩💙 [Custom Forms (⭐1.6k)](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
 
 ## [Nov 09 - Nov 15, 2020](/content/2020/45/README.md)
@@ -700,18 +701,18 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [V-Dashboard (⭐817)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
+*   📁 [V-Dashboard (⭐826)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 ### Starters & Themes
 
-*   🚀 [Vite + React + Tailwind Starter (⭐206)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
+*   🚀 [Vite + React + Tailwind Starter (⭐207)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩📁 [Jakarta LTE (⭐144)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
-*   📁 [Resume (⭐42)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
+*   📁 [Resume (⭐43)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
 *   📁 [Simple Light (⭐2.3k)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
@@ -748,7 +749,7 @@
 
 ### Plugins
 
-*   💼 [Leading Trim (⭐67)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.3k)](https://github.com/seek-oss/capsize).
+*   💼 [Leading Trim (⭐69)](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize (⭐1.3k)](https://github.com/seek-oss/capsize).
 
 ## [Sep 21 - Sep 27, 2020](/content/2020/38/README.md)
 
@@ -758,7 +759,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Eleventy Starter (⭐254)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
+*   🚀 [Eleventy Starter (⭐256)](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) - Production-ready, SEO-friendly blog starter using Tailwind CSS.
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 
@@ -772,8 +773,8 @@
 ### Useful Links
 
 *   💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
-*   💙 [Repository (⭐71k)](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
-*   💙 [Discussions (⭐71k)](https://github.com/tailwindcss/tailwindcss/discussions) - Official place to connect with other community members about Tailwind.
+*   💙 [Repository (⭐72k)](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
+*   💙 [Discussions (⭐72k)](https://github.com/tailwindcss/tailwindcss/discussions) - Official place to connect with other community members about Tailwind.
 *   💙 [Heroicons](https://heroicons.com/) - Beautiful, hand-crafted SVG icons.
 *   [Tailwind Weekly](https://tailwindweekly.com/) - Weekly newsletter about all things Tailwind CSS.
 
@@ -791,7 +792,7 @@
 *   🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 *   🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
 *   📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
-*   📁 [Tailwind Admin (⭐438)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
+*   📁 [Tailwind Admin (⭐439)](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
 
 ### IDE Extensions
 
@@ -799,56 +800,56 @@
 *   [Styled Snippets for Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Snippet extension for Visual Studio Code.
 *   [Headwind for Code (⭐1.3k)](https://github.com/heybourn/headwind) - Class sorter extension for Visual Studio Code.
 *   [Shades for Code (⭐68)](https://github.com/bourhaouta/vscode-tailwindshades) - Color palette generator extension for Visual Studio Code.
-*   [IntelliSense for Neovim (⭐338)](https://github.com/iamcco/coc-tailwindcss) - IntelliSense extension for Neovim.
+*   [IntelliSense for Neovim (⭐337)](https://github.com/iamcco/coc-tailwindcss) - IntelliSense extension for Neovim.
 
 ### Plugins
 
 *   💙🧩 [Typography (⭐3.2k)](https://github.com/tailwindlabs/tailwindcss-typography) - Adds a `prose` class for beautiful typographic defaults.
-*   🎨🧬 [Theming (⭐482)](https://github.com/innocenzi/tailwindcss-theming) - Theming using CSS variables, with dark mode support.
+*   🎨🧬 [Theming (⭐484)](https://github.com/innocenzi/tailwindcss-theming) - Theming using CSS variables, with dark mode support.
 *   🎨🧬 [Multi Theme (⭐504)](https://github.com/estevanmaito/tailwindcss-multi-theme) - Adds theme variants based on a single `theme` property.
-*   🎨🧬 [Theme Swapper (⭐249)](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
-*   💼 [Custom Native (⭐66)](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities.
+*   🎨🧬 [Theme Swapper (⭐252)](https://github.com/crswll/tailwindcss-theme-swapper) - Theming using CSS variables, with media queries support.
+*   💼 [Custom Native (⭐65)](https://github.com/SirNavith/tailwindcss-custom-native) - Leverages Tailwind CSS's configuration to allow the creation of utilities.
 *   💼 [Image Rendering (⭐79)](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
-*   💼 [Elevation (⭐154)](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
+*   💼 [Elevation (⭐157)](https://github.com/jonaskay/tailwindcss-elevation) - Adds [Material UI `elevation`](https://material.io/design/environment/elevation.html) utilities.
 *   💼 [Writing Mode (⭐11)](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
-*   💼 [Border Gradients (⭐222)](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities.
-*   💼 [RFS (⭐48)](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
+*   💼 [Border Gradients (⭐223)](https://github.com/cossssmin/tailwindcss-border-gradients) - Adds `border-image` gradient utilities.
+*   💼 [RFS (⭐49)](https://github.com/aerni/tailwindcss-rfs) - Adds [`RFS`](https://github.com/twbs/rfs) utilities.
 *   💼 [List Reset (⭐1)](https://github.com/opdavies/tailwindcss-list-reset) - Adds back the `list-reset` class that was removed prior to Tailwind CSS 1.0.
-*   💼 [Fluid (⭐117)](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
-*   💼 [Typography (⭐249)](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
+*   💼 [Fluid (⭐118)](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
+*   💼 [Typography (⭐247)](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
 *   💼 [Triangle After (⭐20)](https://github.com/chrisrowe/tailwindcss-triangle-after) - Adds CSS triangles utilities.
-*   💼 [Scrims (⭐40)](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities.
+*   💼 [Scrims (⭐41)](https://github.com/brettgullan/tailwindcss-scrims) - Adds scrims utilities.
 *   💼 [Truncate Multiline (⭐94)](https://github.com/jhta/tailwindcss-truncate-multiline) - Adds utilities to truncate multi-line text elements.
 *   💼 [CSS Logical Properties (⭐19)](https://github.com/omarkhatibco/tailwind-css-logical-properties) - Generate utilities for CSS Logical Properties.
 *   💼 [Tooltip Arrows After (⭐44)](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - Adds CSS utilities for tooltip arrows with configurable border and background.
-*   💼 [Bidirectional (⭐329)](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
+*   💼 [Bidirectional (⭐332)](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
 *   💼 [Background SVG (⭐16)](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Inject SVGs as background images with color variants.
 *   💼 [Brand Colors (⭐69)](https://github.com/praveenjuge/tailwindcss-brand-colors) - Adds various brand colors for background, border and text.
-*   💼 [Bootstrap Grid (⭐142)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
-*   🧬 [Touch (⭐51)](https://github.com/SteadfastCollective/tailwindcss-touch) - Adds `touch` variants.
+*   💼 [Bootstrap Grid (⭐144)](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
+*   🧬 [Touch (⭐52)](https://github.com/SteadfastCollective/tailwindcss-touch) - Adds `touch` variants.
 *   🧬 [Localized (⭐9)](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
 *   🧬 [Padded Radius (⭐20)](https://github.com/locksten/tailwindcss-padded-radius) - Adds variants for matching nested border radii.
-*   🧬 [Fluid (⭐29)](https://github.com/soberwp/tailwindcss-fl) - Generates `fl:` variants.
-*   🧩 [Debug Screens (⭐513)](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
-*   🧩 [Heropatterns (⭐182)](https://github.com/AndreaMinato/tailwind-heropatterns) - Adds [Hero Patterns](https://www.heropatterns.com) components.
-*   🧩 [Responsive Embed (⭐84)](https://github.com/drdogbot7/tailwindcss-responsive-embed) - Adds a `responsive-embed` component.
+*   🧬 [Fluid (⭐30)](https://github.com/soberwp/tailwindcss-fl) - Generates `fl:` variants.
+*   🧩 [Debug Screens (⭐518)](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
+*   🧩 [Heropatterns (⭐185)](https://github.com/AndreaMinato/tailwind-heropatterns) - Adds [Hero Patterns](https://www.heropatterns.com) components.
+*   🧩 [Responsive Embed (⭐83)](https://github.com/drdogbot7/tailwindcss-responsive-embed) - Adds a `responsive-embed` component.
 *   🧩 [Bootstrap Tables (⭐96)](https://github.com/drehimself/tailwindcss-tables) - Adds table components based on Bootstrap's tables.
 *   🧩 [Card (⭐43)](https://github.com/NathanHeffley/tailwindcss-card) - Adds card components.
 *   🧩 [Skip link (⭐14)](https://github.com/opdavies/tailwindcss-skip-link) - Adds a *Skip to main content* accessible component.
 *   🧩 [Colors to CSS Variables (⭐28)](https://github.com/n1kk/tailwind-color-vars) - Exports color configuration to CSS Custom Properties.
 *   🧩 [CSS Variables (⭐135)](https://github.com/omarkhatibco/tailwind-css-variables) - Exports configuration to CSS Custom Properties.
-*   🛑💼 [benface's gradients (⭐287)](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
+*   🛑💼 [benface's gradients (⭐289)](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
 *   🛑💼 [lorisleiva's gradients (⭐286)](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
 *   🛑💼 [Visually Hidden (⭐14)](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
 *   🛑💼 [Object Fit (⭐7)](https://github.com/hendrikeng/tailwindcss-object-fit) - Adds `object-fit` utilities.
 *   🛑💼 [Object Position (⭐1)](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
 *   🛑💼 [Accessibility (⭐38)](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
 *   🛑💼 [Layout (⭐17)](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
-*   🛑💼 [Grid (⭐119)](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities.
+*   🛑💼 [Grid (⭐118)](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities.
 *   🛑💼 [Transforms (⭐99)](https://github.com/benface/tailwindcss-transforms) - Adds `transform` utilities.
 *   🛑💼 [benface's transitions (⭐191)](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
 *   🛑💼 [webdna's transitions (⭐38)](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
-*   🛑💼 [glhd's transitions (⭐87)](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
+*   🛑💼 [glhd's transitions (⭐86)](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 *   🛑💼 [Cursor Extended (⭐7)](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
 *   🛑🧬 [CSS Alpha Colors (⭐22)](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
 *   🛑🧩 [Spinner (⭐172)](https://github.com/aniftyco/tailwindcss-spinner) - Adds a spinner component.
@@ -865,25 +866,25 @@
 *   🔼 [Tailwindo (⭐1k)](https://github.com/awssat/tailwindo) - Bootstrap to Tailwind CSS converter.
 *   🔼 [Tailupgrade (⭐6)](https://github.com/virkillz/tailupgrade) - Conversion tool for upgrading HTML files from Tailwind CSS v0.x to v1.0.
 *   🔼 [Tailwind Shift (⭐120)](https://github.com/awssat/tailwind-shift) - Upgrade tool for upgrading from Tailwind CSS v0.7 to v1.0.
-*   🔼 [RustyWind (⭐344)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
+*   🔼 [RustyWind (⭐351)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 *   🅰 [react-native-tailwindcss (⭐550)](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
 *   💼 [Gatsby Plugin (⭐47)](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
 *   💼 [Gridsome Plugin (⭐103)](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Tailwind CSS integration for Gridsome.
 *   💼 [Alfred Workflow (⭐114)](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
 *   💼 [ng-tailwindcss (⭐200)](https://github.com/tehpsalmist/ng-tailwindcss) - CLI tool for integrating Tailwind CSS into Angular-CLI projects.
-*   💼 [vue-cli-plugin-tailwind (⭐209)](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
+*   💼 [vue-cli-plugin-tailwind (⭐210)](https://github.com/forsartis/vue-cli-plugin-tailwind) - Vue CLI plugin that adds Tailwind CSS to a project.
 *   💼 [@nuxtjs/tailwindcss (⭐1.4k)](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 *   💼 [preact-cli-tailwind (⭐32)](https://github.com/agneym/preact-cli-tailwind) - Tailwind CSS integration for Preact.
 *   💼🔧 [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - Zeplin extension that generates Tailwind configurations.
 *   💼🔧 [@tailwindcssinjs/macro (⭐375)](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
 *   💼🔧 [twin.macro (⭐7.5k)](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
 *   💼🔧 [Tailwind Config Viewer (⭐1.7k)](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
-*   💼🔧 [Laravel Form Components (⭐778)](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
+*   💼🔧 [Laravel Form Components (⭐780)](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
 *   🔧 [re-tailwind (⭐120)](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 *   🔧 [Protoship Codegen](https://protoship.io) - Code generator that creates Tailwind CSS based HTML & CSS from Sketch designs.
 *   🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
 *   🌍 [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS class names cheat sheet.
-*   🌍 [Tailwind Cheat Sheet (⭐34k)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
+*   🌍 [Tailwind Cheat Sheet (⭐35k)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
 *   🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 
 ### Starters & Themes
@@ -893,22 +894,22 @@
 *   📟💼 [Laravel Front-end Preset (⭐1.1k)](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for Laravel.
 *   📟💼 [Laravel Dark Front-end Preset (⭐42)](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for Laravel.
 *   🚀 [Create React App with EmotionJS (⭐28)](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
-*   📟 [Create React App with TypeScript (⭐110)](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
+*   📟 [Create React App with TypeScript (⭐109)](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
 *   🚀 [Tailwind CSS Boilerplate (⭐104)](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
-*   🚀 [Jekyll Starter (⭐244)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
+*   🚀 [Jekyll Starter (⭐243)](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
 *   🚀 [Jekyll Starter (⭐110)](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
 *   🚀 [Gulp Starter (⭐98)](https://github.com/simonswiss/tailwind-starter) - Gulp starter using Tailwind CSS.
-*   🚀 [Gatsby Starter (⭐500)](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
+*   🚀 [Gatsby Starter (⭐498)](https://github.com/taylorbryant/gatsby-starter-tailwind) - Gatsby starter using Tailwind CSS.
 *   🚀 [Gatsby Starter Simplicity (⭐27)](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) - Gatsby starter using Tailwind CSS.
 *   🚀 [Gatsby Starter + Emotion JS (⭐39)](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
 *   🚀 [Gatsby Starter Opinionated (⭐0)](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) - Gatsby starter using Tailwind CSS and opinionated goodies.
 *   🚀 [Create React App Boilerplate (⭐110)](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
-*   🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano (⭐10)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
+*   🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano (⭐11)](https://github.com/saadeghi/create-react-app-tailwindcss) - CRA boilerplate using CSS Nano.
 *   🚀 [Dogpatch (⭐49)](https://github.com/jack-pallot/dogpatch) - WordPress starter using Webpack, Vue, Babel and Tailwind CSS.
-*   🚀 [Next.js Starter (⭐349)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
+*   🚀 [Next.js Starter (⭐353)](https://github.com/oddstronaut/tailwind-next) - Next.js boilerplate using Tailwind CSS.
 *   🚀 [Sapper & Svelte Starter (⭐79)](https://github.com/EricPKerr/sapper-tailwindcss-starter) - Svelte boilerplate using Sapper, Tailwind CSS, Purge CSS, Prettier and ESLint.
 *   🚀 [Netlify Lambda Starter (⭐8)](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
-*   🚀 [Hugo Theme Starter with Tailwind CSS (⭐355)](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
+*   🚀 [Hugo Theme Starter with Tailwind CSS (⭐359)](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - Hugo theme starter using Tailwind CSS.
 *   🚀 [Eleventy Web Starter (⭐312)](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, Webpack and PostCSS.
 *   🚀 [Nanoc Starter (⭐9)](https://github.com/arkency/nanoc-parcel-tailwind-starter) - Nanoc starter using Tailwind CSS.
 *   🚀 [PostCSS and Browsersync Boilerplate (⭐30)](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) - Boilerplate using CSS Nano.
@@ -921,9 +922,9 @@
 
 *   [Goodwork (⭐1.9k)](https://github.com/iluminar/goodwork) - Project Management & Collaboration tool.
 *   [Todolist (⭐142)](https://github.com/guillaumebriday/todolist-frontend-vuejs) - To-do list application using Tailwind CSS.
-*   [LeagueStats (⭐366)](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
+*   [LeagueStats (⭐370)](https://github.com/vkaelin/LeagueStats) - Statistics website for League of Legends players.
 *   [SapperCommerce (⭐1.2k)](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
-*   [Misiki Books (⭐15)](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
+*   [Misiki Books (⭐16)](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 
 ### Learning
 
@@ -931,7 +932,7 @@
 *   🧪 [Tailwind Dark Mode Theme Switcher (⭐182)](https://github.com/huphtur/tailwind-theme-switcher) - Switching themes with CSS Custom Properties and Tailwind CSS.
 *   🧪 [Acquia (⭐20)](https://github.com/opdavies/rebuilding-acquia) - Acquia's hosting dashboard rebuilt with Vue.js and Tailwind CSS.
 *   🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
-*   🧪 [“Open” landing page (⭐123)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
+*   🧪 [“Open” landing page (⭐124)](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
 *   🔧 [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
 *   🔧 [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - How to use Tailwind CSS with CSS-in-JS.
 *   🔧 [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
