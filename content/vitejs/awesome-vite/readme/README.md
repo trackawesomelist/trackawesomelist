@@ -56,6 +56,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [create-electron-vite (⭐95)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 *   [create-vite-app (⭐170)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 *   [create-nx-workspace (⭐19k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
+*   [bati (⭐20)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 
 ### Templates
 
@@ -366,6 +367,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-copy-dts (⭐30)](https://github.com/biggerstar/vite-plugin-copy-dts) - Merge declare module and declare global to target d.ts.
 *   [unplugin-zip-pack (⭐0)](https://github.com/iamspark1e/unplugin-zip-pack) - Zip your dist with filter function support.
 *   [vite-plugin-singlefile (⭐507)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
+*   [vite-plugin-node-polyfills (⭐116)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
 
 #### Transformers
 
@@ -831,7 +833,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [îles (⭐991)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 *   [Astro (⭐33k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 *   [Hathora (⭐526)](https://github.com/hathora/hathora) - Multiplayer game framework.
-*   [Nhost (⭐6.9k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 *   [Ladle (⭐2.2k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐361)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐225)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
@@ -851,7 +853,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [vite-vue3-lowcode (⭐2.7k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 *   [Context Note (⭐659)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 *   [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
-*   [react-keyboard-navigator (⭐21)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐22)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 *   [pointer-lock-movement (⭐12)](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 *   [vite-run (⭐44)](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
 

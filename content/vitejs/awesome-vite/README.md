@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Sep 11, 2023](/content/2023/09/11/README.md)
+
+### Get Started
+
+*   [bati (⭐20)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-node-polyfills (⭐116)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
+
 ## [Sep 08, 2023](/content/2023/09/08/README.md)
 
 ### Templates / Vue 3
@@ -1014,7 +1024,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-keyboard-navigator (⭐21)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+*   [react-keyboard-navigator (⭐22)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 
 ## [Jun 30, 2022](/content/2022/06/30/README.md)
 
@@ -1061,7 +1071,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐6.9k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [Jun 15, 2022](/content/2022/06/15/README.md)
 

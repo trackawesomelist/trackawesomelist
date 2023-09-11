@@ -6,6 +6,16 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 [ [Daily](/content/coq-community/awesome-coq/README.md) / Weekly / [Overview](/content/coq-community/awesome-coq/readme/README.md) ]
 
+## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
+
+### Projects / Plugins
+
+*   [coq-waterproof (⭐20)](https://github.com/impermeable/coq-waterproof) - Plugin for writing Coq proof scripts in a style that resembles non-mechanized mathematical proof.
+
+### Resources / Course Material
+
+*   [Program Logics (⭐31)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
+
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 
 ### Projects / Frameworks
@@ -67,7 +77,7 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 ### Resources / Course Material
 
-*   [Mechanized Semantics (⭐47)](https://github.com/xavierleroy/cdf-mech-sem) - Coq sources for a course on programming language semantics at Collège de France.
+*   [Mechanized Semantics (⭐47)](https://github.com/xavierleroy/cdf-mech-sem) - Companion Coq sources for a course on programming language semantics at Collège de France.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 

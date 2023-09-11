@@ -6,6 +6,23 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ Daily / [Weekly](/content/ai-collection/ai-collection/week/README.md) / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Sep 11, 2023](/content/2023/09/11/README.md)
+
+### Writing Assistant
+
+- Name: [HIX.AI](https://hix.ai/?ref=aicollection?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: The Most Powerful, All-in-One
+
+
+- Name: AI Writing Copilot.
+
+  Title: IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality copies for ads, emails, blogs, and more in seconds with HIX.AI, the most powerful, all-in-one AI writing copilot on the market.
+
+  Description: :white\_check\_mark:
+
+
+
 ## [Sep 10, 2023](/content/2023/09/10/README.md)
 
 ### Art & Image Generator
