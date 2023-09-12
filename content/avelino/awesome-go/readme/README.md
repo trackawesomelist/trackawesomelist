@@ -716,7 +716,7 @@ additional ordered map implementations.
 
 ### Database Schema Migration
 
-*   [atlas (⭐3.5k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐3.6k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐43)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [bytebase (⭐6.8k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 *   [darwin (⭐137)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
@@ -1086,14 +1086,14 @@ additional ordered map implementations.
 *   [currency (⭐417)](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
 *   [currency (⭐52)](https://github.com/bnkamalesh/currency) - High performant & accurate currency computation package.
 *   [decimal (⭐5.3k)](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers.
-*   [decimal (⭐1)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
+*   [decimal (⭐3)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
 *   [fpdecimal (⭐23)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
 *   [fpmoney (⭐20)](https://github.com/nikolaydubina/fpmoney) - Fast and simple ISO4217 fixed-point decimal money.
 *   [go-finance (⭐152)](https://github.com/alpeb/go-finance) - Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 *   [go-finance (⭐13)](https://github.com/pieterclaerhout/go-finance) - Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers.
 *   [go-finnhub (⭐79)](https://github.com/m1/go-finnhub) - Client for stock market, forex and crypto data from finnhub.io. Access real-time financial market data from 60+ stock exchanges, 10 forex brokers, and 15+ crypto exchanges.
 *   [go-money (⭐1.4k)](https://github.com/rhymond/go-money) - Implementation of Fowler's Money pattern.
-*   [money (⭐0)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
+*   [money (⭐1)](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 *   [ofxgo (⭐117)](https://github.com/aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client).
 *   [orderbook (⭐349)](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang.
 *   [payme (⭐23)](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments.
@@ -1694,6 +1694,7 @@ additional ordered map implementations.
 *   [golang-templates/seed (⭐392)](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 *   [insidieux/inizio (⭐16)](https://github.com/insidieux/inizio) - Golang project layout generator with plugins.
 *   [modern-go-application (⭐1.6k)](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
+*   [nunu (⭐616)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 *   [pagoda (⭐901)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
 *   [scaffold (⭐142)](https://github.com/catchplay/scaffold) - Scaffold generates a starter Go project layout. Lets you focus on business logic implemented.
 *   [wangyoucao577/go-project-layout (⭐22)](https://github.com/wangyoucao577/go-project-layout) - Set of practices and discussions on how to structure Go project layout.
@@ -2053,7 +2054,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [jsonpath (⭐18)](https://github.com/AsaiYusuke/jsonpath) - A query library for retrieving part of JSON based on JSONPath syntax.
 *   [jsonql (⭐269)](https://github.com/elgs/jsonql) - JSON query expression library in Golang.
 *   [jsonslice (⭐79)](https://github.com/bhmj/jsonslice) - Jsonpath queries with advanced filters.
-*   [mql (⭐17)](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
+*   [mql (⭐21)](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
 *   [rql (⭐303)](https://github.com/a8m/rql) - Resource Query Language for REST API.
 *   [rqp (⭐57)](https://github.com/timsolov/rest-query-parser) - Query Parser for REST API. Filtering, validations, both `AND`, `OR` operations are supported directly in the query.
 *   [straf (⭐34)](https://github.com/SonicRoshan/straf) - Easily Convert Golang structs to GraphQL objects.
@@ -2636,7 +2637,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-health (⭐92)](https://github.com/Talento90/go-health) - Health package simplifies the way you add health check to your services.
 *   [go-httpheader (⭐43)](https://github.com/mozillazg/go-httpheader) - Go library for encoding structs into Header fields.
 *   [go-lock (⭐99)](https://github.com/viney-shih/go-lock) - go-lock is a lock library implementing read-write mutex and read-write trylock without starvation.
-*   [go-pattern-match (⭐69)](https://github.com/PhakornKiong/go-pattern-match) - A Pattern matching library inspired by ts-pattern.
+*   [go-pattern-match (⭐77)](https://github.com/PhakornKiong/go-pattern-match) - A Pattern matching library inspired by ts-pattern.
 *   [go-pkg (⭐6)](https://github.com/chenquan/go-pkg) - A go toolkit.
 *   [go-problemdetails (⭐16)](https://github.com/mvmaasakkers/go-problemdetails) - Go package for working with Problem Details.
 *   [go-qr (⭐2)](https://github.com/piglig/go-qr) - A native, high-quality and minimalistic QR code generator.

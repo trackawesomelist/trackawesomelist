@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
+### Plugin Manager
+
+*   [lewis6991/pckr.nvim (⭐116)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [judaew/ronny.nvim (⭐0)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
@@ -2264,10 +2268,6 @@ Collections of awesome neovim plugins.
 *   [tanvirtin/vgit.nvim (⭐531)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
-
-### Plugin Manager
-
-*   [wbthomason/packer.nvim (⭐7k)](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config.
 
 ### (requires Neovim 0.5)
 

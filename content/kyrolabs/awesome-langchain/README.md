@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Sep 12, 2023](/content/2023/09/12/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Promptfoo (⭐927)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
+
 ## [Sep 06, 2023](/content/2023/09/06/README.md)
 
 ### Open Source Projects / Other / Chatbots
@@ -29,7 +35,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMStack (⭐99)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
+*   [LLMStack (⭐360)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
 
 ## [Aug 21, 2023](/content/2023/08/21/README.md)
 
@@ -69,7 +75,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [TextAI (⭐4.7k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
+*   [TextAI (⭐5k)](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)
 
 ## [Aug 09, 2023](/content/2023/08/09/README.md)
 
@@ -145,9 +151,9 @@
 
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
-### Tools / Agents
+### Open Source Projects / Other / Chatbots
 
-*   [Autonomous HR Chatbot (⭐114)](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
+*   [Autonomous HR Chatbot (⭐114)](https://github.com/stepanogil/autonomous-hr-chatbot) An autonomous HR agent that can answer user queries using tools ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 
 ## [Jul 03, 2023](/content/2023/07/03/README.md)
 

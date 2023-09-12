@@ -8,18 +8,50 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
+### Art & Image Generator
+
+- Name: Unlimited fun with the best AI app.
+
+  Title: The Artwork of the Future
+
+
+- Name: Enter a prompt, pick an art style and WOMBO Dream turns your idea into an AI-powered painting in seconds.
+
+  Title: :white\_check\_mark:
+
+
+
+### Productivity & Personal Growth
+
+- Name: [SlideSpeak](https://slidespeak.co?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: SlideSpeak - Summarize PowerPoint, Word, PDF with AI.
+
+  Description: SlideSpeak is a ChatGPT powered Chatbot that allows you to summarize documents, ask questions and much more. Simply upload your files and you can use the chat to ask anything. Our AI is super quick and you don't have to connect any OpenAI API key.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Vacation & Trip Planner
+
+- Name: [Travel Blog Name Ideas Generator](https://travelfeed.io/tools/travel-blog-name-ideas-generator?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Travel Blog Name Ideas Generator: Find the perfect Travel Blog Name!.
+
+  Description: Unlock the perfect travel blog name with TravelFeed's Blog Name Ideas Generator! Toss in a keyword—maybe your own name—and watch as our AI dazzles you with a slew of snazzy suggestions. Love a name? Snap-check its .com domain and TravelFeed username availability. Dive into your blogging journey with a name that's as adventurous as you are!.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ### Writing Assistant
 
-- Name: [HIX.AI](https://hix.ai/?ref=aicollection?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+- Name: [Chatchat for jobs done](https://www.chatchat.bio?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: The Most Powerful, All-in-One
+  Title: No need for to much think but clear output from our AI service for your job.
 
-
-- Name: AI Writing Copilot.
-
-  Title: IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality copies for ads, emails, blogs, and more in seconds with HIX.AI, the most powerful, all-in-one AI writing copilot on the market.
-
-  Description: :white\_check\_mark:
+  Description: 🚀 ChatChat.Bio: Your One-Stop AI Service!
 
 
 
@@ -554,27 +586,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Uizard - App, Web, & Ui Design Made Easy - Powered by AI.
 
   Description: Design stunning websites, web apps, mobile app, interfaces, wireframes, prototypes, mockups in minutes. Visualize and communicate your ideas effortlessly. No design experience required!.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-
-### Writing Assistant
-
-- Name: [Elephas](https://gumroad.com/a/411783379/ntmtp?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Elephas - Personal AI Writing Assistant for Mac, Iphone, Ipad.
-
-  Description: Save hours every day. The world's first AI writer that works across your Mac, iPhone, and iPad.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [FireTexts](https://www.firetexts.co/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Never Waste Time Thinking of the Perfect Text Again.
-
-  Description: Unleash the power of AI and create the perfect text message for a birthday, thank you, flirting, rejection or any other situation. We use ChatGPT and custom inputs to craft the perfect text for any occasion.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -1342,15 +1353,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [AnimeMaker](http://animediffusion.graydient.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: AI Anime Maker /// AI Anime Maker / Animemaker.Net.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
 - Name: [Apeture](https://lexica.art/aperture?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: .
@@ -1383,6 +1385,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Craft AI Art Like Never Before.
 
   Description: artbreeder collager - Make a simple collage from shapes and images, describe it with a prompt, and watch as Artbreeder brings it to life. breed portraits and more - Splicer lets you create images by mixing them together and editing their genes. Create portraits, landscapes, paintings, and more — then watch as others take your art in exciting new directions.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Artroom](http://artroom.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Artroom AI - Unleash Your Creativity with cutting-edge AI Art generating platform.
+
+  Description: Immerse yourself in our cutting-edge AI Art generating platform, where you can unleash your creativity and bring your artistic visions to life like never before. Create new images, edit existing ones, enhance them, and improve the quality with the assistance of our advanced AI algorithms.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -1542,11 +1553,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Dreambooth](http://dream.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: High Quality Artwork in Seconds.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
+  Title: High Quality Artwork in Seconds - Create more with Dream
 
 
 - Name: [Dreamlike](http://dreamlike.art?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -5413,159 +5420,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Eilla](http://eilla.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Eilla AI - AI Content Generation Assistant.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [EssayBar](http://www.essay.bar?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Essaybar — Revolutionize Your Writing With AI-Crafted Essays!.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [FreewriteAI](http://freewriterai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: The AI Writing Tool for Everyone.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Instascribe](https://instascribe.app/?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Instascribe Is an AI-powered App That Creates Personalised Captions for Your Instagram Photos.
-
-  Description: Just select an image, pick from an array of caption styles or define your own, and adjust options such as tone of voice, language, and message length. The app's AI then generates a unique caption that suits your image and preferences, streamlining your social media posting process.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Paragraph AI](http://paragraphai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Paragraphai • Best AI Writing App • Free AI Writing Assistant Tool.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Paraphraser](http://paraphrasetool.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Free Paraphrasing for All Languages.
-
-  Description: .
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Paraphraser AI](http://app.yaara.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Yaara — AI-Powered Writing Assistant.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Quillbot Paraphraser](https://try.quillbot.com/aicollection?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: QuillBot's AI-powered Paraphrasing Tool Will Enhance Your Writing.
-
-  Description: Your words matter, and our paraphrasing tool is designed to ensure you use the right ones. With two free modes and five Premium modes to choose from, you can use QuillBot’s online Paraphraser to rephrase any text in a variety of ways.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Rizz!](http://rizzai.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Unleash the Power of Infinite Rizz!.
-
-  Description: The world's most powerful text AI, built into your keyboard.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Rytr](http://rytr.me?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Rytr - Best AI Writer, Content Generator & Writing Assistant.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [SmartScribe](http://www.smartscribe.app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Smartscribe - AI Writing Assistant - Writing Made Easy.
-
-  Description: SmartScribe helps solve the complexities of writing through the use of Artificial Intelligence.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Thundercontent](http://thundercontent.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Write Articles With AI-Assistant — Thundercontent.
-
-  Description: Thundercontent uses artificial intelligence to help you write unique articles on any topic at the speed of light. Scale your content strategy. Overcome writer's block.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Typly](http://typly.app?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Typly - Conversation Level Next!.
-
-  Description: Typly is the ultimate cutting edge AI keyboard that helps you to answer all your messages with a single click!🚀.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [WebCopilot](http://www.webcopilot.co?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Webcopilot.Co \~ Notion AI Writing Assistant.
-
-  Description: Write your Notion pages with AI. Speed up your writing process and focus on what matters. Free Forever.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Whiskey AI](http://beta.whiskeyai.xyz?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Whiskey Will Help You Generate the Content You Want.
-
-  Description: Whiskey has been designed for students, journalists and professionals to be able to express their thoughts into well-written text formats with minimal effort and time.
-
-  Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Wordtune](http://www.wordtune.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Wordtune - Your Personal Writing Assistant & Editor.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Writefull Academizer](http://x.writefull.com?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Where AI 💛 Academic Writing.
-
-  Description: At Writefull, we love to experiment with AI to help academic writing. This is the place where we publish some of our experiments.
-
-  Offer Free Version: :white\_check\_mark:
-
-
 
 ### Other
 
@@ -5806,15 +5660,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - Name: [Artflow](http://artflow.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Artflow.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Artroom](http://artroom.ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Artroom AI.
 
   Description: .
 

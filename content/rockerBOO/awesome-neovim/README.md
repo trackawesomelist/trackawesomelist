@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 12, 2023](/content/2023/09/12/README.md)
+
+### Plugin Manager
+
+*   [lewis6991/pckr.nvim (⭐116)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
+
 ## [Sep 11, 2023](/content/2023/09/11/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
@@ -2742,10 +2748,6 @@ Collections of awesome neovim plugins.
 *   [simrat39/rust-tools.nvim (⭐2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 
 ## [May 21, 2021](/content/2021/05/21/README.md)
-
-### Plugin Manager
-
-*   [wbthomason/packer.nvim (⭐7k)](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config.
 
 ### (requires Neovim 0.5)
 
