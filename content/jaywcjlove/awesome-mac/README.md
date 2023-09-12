@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Sep 12, 2023](/content/2023/09/12/README.md)
+
+### Developer Tools / Virtualization
+
+*   [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
+
+### Utilities / Quality of Life Improvements
+
+*   [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
+
 ## [Sep 11, 2023](/content/2023/09/11/README.md)
 
 ### Proxy and VPN Tools / File Sharing
@@ -234,7 +244,7 @@
 
 ### Developer Tools / Virtualization
 
-*   [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Apr 09, 2023](/content/2023/04/09/README.md)
 

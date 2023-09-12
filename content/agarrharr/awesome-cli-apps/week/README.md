@@ -6,6 +6,12 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
+
+### Files and Directories / File Sync/Sharing
+
+*   [ncp (⭐22)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### Files and Directories / Directory Listing

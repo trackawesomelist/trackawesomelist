@@ -541,6 +541,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [portal (⭐955)](https://github.com/ZinoKader/portal) - Send files between computers.
 *   [shbin (⭐28)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 *   [sharing (⭐1.6k)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
+*   [ncp (⭐22)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 
 ### Directory Listing
 

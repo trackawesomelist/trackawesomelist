@@ -1,12 +1,55 @@
 # Awesome List Updates on Sep 11 - Sep 17, 2023
 
-10 awesome lists updated this week.
+15 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Miscellaneous
+
+*   [cl-raylib (⭐3)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
+*   [glfw (⭐5)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
+
+## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water | AP News](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)
+
+## [3. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+
+### Video Collections
+
+*   [Visuality DDD webinars](https://youtube.com/playlist?list=PLvMNoWK93wtnu9JcSEYnFRgzqbxtLtZZ4) - A YouTube collection of webinars focused on DDD in Ruby on Rails
+
+### Community Resources
+
+*   [DDD in Ruby on Rails](https://www.visuality.pl/posts/introduction-to-ddd-in-ruby-on-rails) - A collection of articles on Domain-Driven Design in Ruby on Rails
+
+### Libraries and Frameworks / PHP
+
+*   [PHP Glossary (⭐2)](https://github.com/javanile/php-glossary) - Apply a Term Analysis to extract domain terms vs out-of-scope terms in a DDD manner.
+
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Files and Directories / File Sync/Sharing
+
+*   [ncp (⭐22)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### Python / Natural Language Processing
+
+*   [CometLLM (⭐193)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
+
+### Python / General-Purpose Machine Learning
+
+*   [CometML (⭐125)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
+
+## [6. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Plugins
 
@@ -16,13 +59,13 @@
 
 *   [Program Logics (⭐31)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
 
-## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 
-## [3. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [8. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Writing Assistant
 
@@ -39,13 +82,13 @@
 
 
 
-## [4. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [9. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
@@ -55,19 +98,23 @@
 
 *   [vite-plugin-node-polyfills (⭐116)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [judaew/ronny.nvim (⭐0)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
 
-## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Other / iOS
 
 *   🔧 [Dynaboard](https://dynaboard.com) - Generate low-code web apps from Firebase using AI.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / Virtualization
+
+*   [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
 
 ### Proxy and VPN Tools / File Sharing
 
@@ -78,13 +125,17 @@
 
 *   [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
 
-## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+### Utilities / Quality of Life Improvements
+
+*   [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
+
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [CodeSonar from GrammaTech](https://codesecure.com/our-products/codesonar/) :copyright: — Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
 
-## [10. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [15. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 

@@ -8,6 +8,10 @@
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
+### Developer Tools / Virtualization
+
+*   [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
+
 ### Proxy and VPN Tools / File Sharing
 
 *   [RerouteMe](https://naden.co) - An easy one-click macOS Proxy Configuration app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -16,6 +20,10 @@
 ### Utilities / Menu Bar Tools
 
 *   [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
+
+### Utilities / Quality of Life Improvements
+
+*   [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
@@ -206,7 +214,7 @@
 
 ### Developer Tools / Virtualization
 
-*   [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
