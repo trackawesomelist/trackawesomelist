@@ -2,9 +2,27 @@
 
 curated list of awesome resources, pointers, and tips related to veganism
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 53 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 56 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/sdassow/awesome-veganism/week/README.md) / [Overview](/content/sdassow/awesome-veganism/readme/README.md) ]
+
+## [Sep 13, 2023](/content/2023/09/13/README.md)
+
+### Restaurants
+
+*   Amsterdam, Netherlands
+    *   [Koffie Ende Koeck](https://koffieendekoeck.nl/) - Small vegan cafe, with nice brunch, and awesome vegan high tea.
+    *   [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly with Asian kitchen and some dutch classics.
+    *   [Mooshka](https://www.mooshka.nl/) - Stylish place with nice atmosphere, and a great variety of tasty dishes and drinks.
+    *   [TerraZen Centre](http://terrazencentre.com/) - Chill vibe and mouth-watering dishes with Caribbean and Japanese influence, really close to central station.
+    *   [Trevi's Plant Based Italian Food](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing and authentic food, feels and tastes like in Italy.
+    *   [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more.
+    *   [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts.
+*   Duisburg, Germany
+    *   [Falafel 1001](https://www.falafel1001-duisburg.de/) - Amazing arabic dishes, delicious ingredients and spices, big portions, and very good prices.
+    *   [Krümelküche](http://www.kruemelkueche.de/) - Cosy place with a nice selection of main dishes, burgers, cakes, and good drinks.
+*   Essen, Germany
+    *   [Peace Food](https://www.facebook.com/peacefoodessen) - Relaxed atmosphere, big selection of really good vietnamese dishes, and offering refreshing home-made drinks.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -154,16 +172,6 @@ curated list of awesome resources, pointers, and tips related to veganism
 
 ### Restaurants
 
-*   Amsterdam, Netherlands
-    *   [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes.
-    *   [Koffie Ende Koeck](https://koffieendekoeck.nl/) - Small vegan cafe, with nice brunch, and awesome vegan high tea.
-    *   [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly with Asian kitchen and some dutch classics.
-    *   [Mooshka](https://www.mooshka.nl/) - Stylish place with nice atmosphere, and a great variety of tasty dishes and drinks.
-    *   [Mr. & Mrs. Watson](https://watsonsfood.com/) - Relaxed atmosphere, nice drinks, and great dishes.
-    *   [TerraZen Centre](http://terrazencentre.com/) - Chill vibe and mouth-watering dishes with Caribbean and Japanese influence, really close to central station.
-    *   [Trevi's Plant Based Italian Food](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing and authentic food, feels and tastes like in Italy.
-    *   [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more.
-    *   [Yemayá's Vegan Corner](https://yemaya.estate/) - Super tasty food driven by sustainable local community efforts.
 *   Köln, Germany
     *   [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality.
 *   London, UK
@@ -174,7 +182,6 @@ curated list of awesome resources, pointers, and tips related to veganism
 ### Shops
 
 *   [VEGA-LIFE](https://www.vega-life.nl/) - Shoes, fashion, lifestlye products, 20+ years around.
-*   [Vegabond](https://vegabond.nl/) - Fully vegan store, in-house deli, and catering in Amsterdam, Netherlands.
 *   [Vegan Mission](https://www.veganmission.nl/) - Online store for Belgium and the Netherlands.
 *   [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food.
 

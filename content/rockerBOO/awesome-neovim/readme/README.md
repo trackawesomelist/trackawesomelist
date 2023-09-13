@@ -284,7 +284,7 @@ You can find them listed on the [Neovim wiki (⭐69k)](https://github.com/neovim
 *   [tversteeg/registers.nvim (⭐544)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 *   [acksld/nvim-neoclip.lua (⭐752)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager Neovim plugin with telescope integration.
 *   [tenxsoydev/karen-yank.nvim (⭐67)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
-*   [desdic/macrothis.nvim (⭐1)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
+*   [desdic/macrothis.nvim (⭐9)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
 
 ### Marks
 
@@ -471,6 +471,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [xero/miasma.nvim (⭐47)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
 *   [Verf/deepwhite.nvim (⭐20)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐139)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
 *   [judaew/ronny.nvim (⭐0)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
+*   [ribru17/bamboo.nvim (⭐118)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
 #### Lua Colorscheme
 
@@ -725,7 +726,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [MarcHamamji/runner.nvim (⭐27)](https://github.com/MarcHamamji/runner.nvim) - A customizable Lua code runner.
 *   [google/executor.nvim (⭐75)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 *   [Zeioth/compiler.nvim (⭐186)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
-*   [jaytyrrell13/static.nvim (⭐2)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
+*   [jaytyrrell13/static.nvim (⭐8)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 
 ### Neovim Lua Development
 
@@ -762,7 +763,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ### Dependency Management
 
 *   [vuki656/package-info.nvim (⭐282)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
-*   [Saecki/crates.nvim (⭐570)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐578)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 *   [piersolenski/telescope-import.nvim (⭐5)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ### Git

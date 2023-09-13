@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 13, 2023](/content/2023/09/13/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [ribru17/bamboo.nvim (⭐118)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+
 ## [Sep 12, 2023](/content/2023/09/12/README.md)
 
 ### Plugin Manager
@@ -56,11 +62,11 @@ Collections of awesome neovim plugins.
 
 ### Register / Diagnostics
 
-*   [desdic/macrothis.nvim (⭐1)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
+*   [desdic/macrothis.nvim (⭐9)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
 
 ### Code Runner / Diagnostics
 
-*   [jaytyrrell13/static.nvim (⭐2)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
+*   [jaytyrrell13/static.nvim (⭐8)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 
 ## [Aug 27, 2023](/content/2023/08/27/README.md)
 
@@ -1764,7 +1770,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐570)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐578)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 

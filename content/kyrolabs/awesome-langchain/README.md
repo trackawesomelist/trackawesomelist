@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Sep 13, 2023](/content/2023/09/13/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Rivet (⭐842)](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
+*   [RestGPT (⭐763)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
+
 ## [Sep 12, 2023](/content/2023/09/12/README.md)
 
 ### Other LLM Frameworks / Videos Playlists

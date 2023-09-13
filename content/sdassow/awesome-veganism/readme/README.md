@@ -2,7 +2,7 @@
 
 curated list of awesome resources, pointers, and tips related to veganism
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 53 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sdassow/awesome-veganism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism) · ⭐ 56 · 🏷️ Miscellaneous
 
 [ [Daily](/content/sdassow/awesome-veganism/README.md) / [Weekly](/content/sdassow/awesome-veganism/week/README.md) / Overview ]
 
@@ -66,11 +66,9 @@ This list is an attempt to create a community driven approach to guarantee no-no
 *This category is strictly limited to fully vegan / 100% plant-based restaurants.*
 
 *   Amsterdam, Netherlands
-    *   [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes.
     *   [Koffie Ende Koeck](https://koffieendekoeck.nl/) - Small vegan cafe, with nice brunch, and awesome vegan high tea.
     *   [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly with Asian kitchen and some dutch classics.
     *   [Mooshka](https://www.mooshka.nl/) - Stylish place with nice atmosphere, and a great variety of tasty dishes and drinks.
-    *   [Mr. & Mrs. Watson](https://watsonsfood.com/) - Relaxed atmosphere, nice drinks, and great dishes.
     *   [TerraZen Centre](http://terrazencentre.com/) - Chill vibe and mouth-watering dishes with Caribbean and Japanese influence, really close to central station.
     *   [Trevi's Plant Based Italian Food](https://www.trevisamsterdam.nl/) - Cozy Italian, lovely vibe, amazing and authentic food, feels and tastes like in Italy.
     *   [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - High quality burgers, fancy hotdogs, Dutch specialties like Bitterballen, cocktails, and more.
@@ -85,11 +83,18 @@ This list is an attempt to create a community driven approach to guarantee no-no
 *   Bonn, Germany
     *   [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria.
 
+*   Duisburg, Germany
+    *   [Falafel 1001](https://www.falafel1001-duisburg.de/) - Amazing arabic dishes, delicious ingredients and spices, big portions, and very good prices.
+    *   [Krümelküche](http://www.kruemelkueche.de/) - Cosy place with a nice selection of main dishes, burgers, cakes, and good drinks.
+
 *   Eindhoven, Netherlands
     *   [Bar Bistro Calypso](https://www.bistrocalypso.nl/) - Cosiest livingroom in town, with tasty no-nonsense dishes and good drinks.
     *   [Bij Albrecht](https://www.bijalbrecht.nl/) - Vegan and organic food experience with seasonal produce.
     *   [Jungle Café & Catering](https://www.junglecafecatering.nl) - Vegan coffeebar & lunchroom for young and old. Also offers catering & take away.
     *   [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts.
+
+*   Essen, Germany
+    *   [Peace Food](https://www.facebook.com/peacefoodessen) - Relaxed atmosphere, big selection of really good vietnamese dishes, and offering refreshing home-made drinks.
 
 *   Hilversum, Netherlands
     *   [Mr. Vegan Foodbar](https://www.mrveganfoodbar.nl/) - Amazing selection of delicious soups, bowls, curries, quality junk food, and tasty snacks.
@@ -115,7 +120,6 @@ This list is an attempt to create a community driven approach to guarantee no-no
 ## Shops
 
 *   [VEGA-LIFE](https://www.vega-life.nl/) - Shoes, fashion, lifestlye products, 20+ years around.
-*   [Vegabond](https://vegabond.nl/) - Fully vegan store, in-house deli, and catering in Amsterdam, Netherlands.
 *   [Vegan Mission](https://www.veganmission.nl/) - Online store for Belgium and the Netherlands.
 *   [veggie4u](https://webshop.veggie4u.nl/) - Dutch webshop with big selection of food.
 *   [veganized](https://www.veganized.es/gb/) - Spanish (Malaga) store with mens, womens and children clothes.
