@@ -6,15 +6,21 @@ A curated list of small, focused npm packages.
 
 [ Daily / [Weekly](/content/parro-it/awesome-micro-npm-packages/week/README.md) / [Overview](/content/parro-it/awesome-micro-npm-packages/readme/README.md) ]
 
+## [Sep 13, 2023](/content/2023/09/13/README.md)
+
+### Modules / Tools
+
+*   [npm-deprecated-check (⭐9)](https://github.com/KID-joker/npm-deprecated-check) - Check for deprecated packages and recommend alternative packages.
+
 ## [Jul 15, 2023](/content/2023/07/15/README.md)
 
 ### Modules / Array
 
-*   [fast-cartesian (⭐54)](https://github.com/ehmicky/fast-cartesian) - Fast cartesian product.
+*   [fast-cartesian (⭐55)](https://github.com/ehmicky/fast-cartesian) - Fast cartesian product.
 
 ### Modules / Other
 
-*   [nanoid (⭐21k)](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+*   [nanoid (⭐22k)](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
 ## [Sep 15, 2021](/content/2021/09/15/README.md)
 
@@ -54,14 +60,14 @@ A curated list of small, focused npm packages.
 
 ### Modules / Math
 
-*   [my-prime (⭐3)](https://github.com/jinnatul/my-prime) - A good way to tell if a number is prime or not.
+*   [my-prime (⭐2)](https://github.com/jinnatul/my-prime) - A good way to tell if a number is prime or not.
 
 ## [Aug 19, 2020](/content/2020/08/19/README.md)
 
 ### Modules / Math
 
 *   [is-even (⭐179)](https://github.com/jonschlinkert/is-even) - A good way to tell if a number is even or not (avoids type issues). Uses `is-odd` and `is-number` under the hood.
-*   [is-odd (⭐268)](https://github.com/jonschlinkert/is-odd) - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
+*   [is-odd (⭐271)](https://github.com/jonschlinkert/is-odd) - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
 *   [easy-math.js (⭐7)](https://github.com/kingzez/easy-math.js) - A tiny easy math library including addition, multiplication, subtraction, and division.
 
 ## [Jul 25, 2020](/content/2020/07/25/README.md)
@@ -80,7 +86,7 @@ A curated list of small, focused npm packages.
 
 ### Modules / Browser
 
-*   [copee (⭐139)](https://github.com/styfle/copee) - Copy text from browser to clipboard...natively!
+*   [copee (⭐138)](https://github.com/styfle/copee) - Copy text from browser to clipboard...natively!
 
 ## [Apr 11, 2018](/content/2018/04/11/README.md)
 
@@ -92,7 +98,7 @@ A curated list of small, focused npm packages.
 
 ### Modules / Stream
 
-*   [syncthrough (⭐77)](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
+*   [syncthrough (⭐76)](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
 
 ## [Feb 11, 2018](/content/2018/02/11/README.md)
 
@@ -104,13 +110,13 @@ A curated list of small, focused npm packages.
 
 ### Modules / Date & Time
 
-*   [twas (⭐244)](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
+*   [twas (⭐245)](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
 
 ## [Dec 20, 2017](/content/2017/12/20/README.md)
 
 ### Modules / String
 
-*   [striptags (⭐481)](https://github.com/ericnorris/striptags) - An implementation of PHP's strip\_tags in Node.js.
+*   [striptags (⭐485)](https://github.com/ericnorris/striptags) - An implementation of PHP's strip\_tags in Node.js.
 
 ## [Dec 18, 2017](/content/2017/12/18/README.md)
 
@@ -122,11 +128,11 @@ A curated list of small, focused npm packages.
 
 ### Modules / Array
 
-*   [group-array (⭐53)](https://github.com/doowb/group-array) - Group array of objects into lists.
+*   [group-array (⭐54)](https://github.com/doowb/group-array) - Group array of objects into lists.
 
 ### Modules / Date & Time
 
-*   [time-stamp (⭐111)](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
+*   [time-stamp (⭐112)](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
 
 ## [Nov 30, 2017](/content/2017/11/30/README.md)
 
@@ -144,7 +150,7 @@ A curated list of small, focused npm packages.
 
 ### Modules / String
 
-*   [strip-ansi (⭐359)](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
+*   [strip-ansi (⭐369)](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 
 ### Modules / Function
 
@@ -154,7 +160,7 @@ A curated list of small, focused npm packages.
 
 ### Modules / Object
 
-*   [deep-object-diff (⭐926)](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
+*   [deep-object-diff (⭐945)](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
 ## [Oct 27, 2017](/content/2017/10/27/README.md)
 
@@ -172,19 +178,19 @@ A curated list of small, focused npm packages.
 
 ### Modules / Stream
 
-*   [is-stream (⭐106)](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream.
+*   [is-stream (⭐107)](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream.
 
 ## [Oct 12, 2017](/content/2017/10/12/README.md)
 
 ### Modules / Function
 
-*   [throttle-debounce (⭐958)](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
+*   [throttle-debounce (⭐973)](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 
 ## [Sep 26, 2017](/content/2017/09/26/README.md)
 
 ### Modules / CLI
 
-*   [png-to-ico (⭐140)](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
+*   [png-to-ico (⭐141)](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 
 ## [Sep 12, 2017](/content/2017/09/12/README.md)
 
@@ -230,7 +236,7 @@ A curated list of small, focused npm packages.
 
 ### Modules / Browser
 
-*   [image-promise (⭐143)](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
+*   [image-promise (⭐144)](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
 *   [get-media-size (⭐12)](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 
 ## [Jul 18, 2016](/content/2016/07/18/README.md)
@@ -255,7 +261,7 @@ A curated list of small, focused npm packages.
 
 ### Modules / Stream
 
-*   [pump (⭐897)](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
+*   [pump (⭐895)](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
 
 ## [May 02, 2016](/content/2016/05/02/README.md)
 
@@ -287,7 +293,7 @@ A curated list of small, focused npm packages.
 
 ### Modules / Array
 
-*   [unordered-array-remove (⭐118)](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
+*   [unordered-array-remove (⭐117)](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
 
 ## [Apr 02, 2016](/content/2016/04/02/README.md)
 
@@ -322,7 +328,7 @@ A curated list of small, focused npm packages.
 ### Modules / Promise
 
 *   [sleep-promise (⭐81)](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
-*   [is-promise (⭐278)](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
+*   [is-promise (⭐277)](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
 
 ### Modules / Generators
 
@@ -338,7 +344,7 @@ A curated list of small, focused npm packages.
 
 ### Modules / Promise
 
-*   [promise-all-props (⭐11)](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties.
+*   [promise-all-props (⭐10)](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties.
 
 ## [Mar 03, 2016](/content/2016/03/03/README.md)
 
@@ -354,20 +360,20 @@ A curated list of small, focused npm packages.
 
 ### Modules / Math
 
-*   [is-number (⭐229)](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
+*   [is-number (⭐232)](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
 
 ## [Feb 28, 2016](/content/2016/02/28/README.md)
 
 ### Modules / CLI
 
-*   [username (⭐141)](https://github.com/sindresorhus/username) - Get the username of the current user.
+*   [username (⭐142)](https://github.com/sindresorhus/username) - Get the username of the current user.
 
 ## [Feb 27, 2016](/content/2016/02/27/README.md)
 
 ### Modules / Object
 
 *   [has-value (⭐27)](https://github.com/jonschlinkert/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.
-*   [stringify-object (⭐297)](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
+*   [stringify-object (⭐298)](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 
 ### Modules / Browser
 
@@ -384,9 +390,9 @@ A curated list of small, focused npm packages.
 ### Modules / File System
 
 *   [du (⭐29)](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
-*   [file-size (⭐233)](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
-*   [tmp (⭐718)](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
-*   [fs-promise (⭐172)](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
+*   [file-size (⭐231)](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
+*   [tmp (⭐723)](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
+*   [fs-promise (⭐171)](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 
 ## [Feb 19, 2016](/content/2016/02/19/README.md)
 
@@ -412,11 +418,11 @@ A curated list of small, focused npm packages.
 
 ### Modules / CLI
 
-*   [abbrev (⭐157)](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
+*   [abbrev (⭐158)](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
 
 ### Modules / Module management
 
-*   [pkg-conf (⭐114)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+*   [pkg-conf (⭐113)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 *   [normalize-pkg (⭐18)](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
 ## [Feb 11, 2016](/content/2016/02/11/README.md)
@@ -447,7 +453,7 @@ A curated list of small, focused npm packages.
 
 ### Articles
 
-*   [One-line node modules (⭐127)](https://github.com/sindresorhus/ama/issues/10)
+*   [One-line node modules (⭐128)](https://github.com/sindresorhus/ama/issues/10)
 *   [Module best practices (⭐1.5k)](https://github.com/mattdesl/module-best-practices)
 
 ### Modules / Array
@@ -455,49 +461,49 @@ A curated list of small, focused npm packages.
 *   [is-sorted (⭐21)](https://github.com/dcousens/is-sorted) - A small module to check if an Array is sorted.
 *   [array-first (⭐11)](https://github.com/jonschlinkert/array-first) - Get the first element or first n elements of an array.
 *   [array-last (⭐34)](https://github.com/jonschlinkert/array-last) - Return the last element in an array.
-*   [arr-flatten (⭐61)](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays.
+*   [arr-flatten (⭐60)](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays.
 *   [dedupe (⭐24)](https://github.com/seriousManual/dedupe) - Remove duplicates from an array.
 *   [array-range (⭐25)](https://github.com/mattdesl/array-range) - Creates a new array with given range.
-*   [arr-diff (⭐45)](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
+*   [arr-diff (⭐44)](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
 *   [filled-array (⭐41)](https://github.com/sindresorhus/filled-array) - Returns an array filled with the specified input
 
 ### Modules / String
 
-*   [decamelize (⭐226)](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
+*   [decamelize (⭐229)](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn\_rainbow.
 *   [to-camel-case (⭐36)](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case.
 *   [to-capital-case (⭐11)](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case.
 *   [to-constant-case (⭐4)](https://github.com/ianstormtaylor/to-constant-case) - Convert a string to a constant case.
 *   [to-dot-case (⭐5)](https://github.com/ianstormtaylor/to-dot-case) - Convert a string to a dot case.
-*   [to-no-case (⭐16)](https://github.com/ianstormtaylor/to-no-case) - Remove an existing case from a string.
+*   [to-no-case (⭐17)](https://github.com/ianstormtaylor/to-no-case) - Remove an existing case from a string.
 *   [to-pascal-case (⭐3)](https://github.com/ianstormtaylor/to-pascal-case) - Convert a string to a pascal case.
 *   [to-sentence-case (⭐6)](https://github.com/ianstormtaylor/to-sentence-case) - Convert a string to a sentence case.
 *   [to-snake-case (⭐26)](https://github.com/ianstormtaylor/to-snake-case) - Convert a string to a snake case.
-*   [to-space-case (⭐5)](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
+*   [to-space-case (⭐6)](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
 *   [to-title-case (⭐17)](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
 
 ### Modules / Date & Time
 
-*   [pretty-ms (⭐924)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
+*   [pretty-ms (⭐929)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 *   [hirestime (⭐16)](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
 
 ### Modules / Object
 
-*   [map-obj (⭐173)](https://github.com/sindresorhus/map-obj) - Map object keys and values into a new object.
-*   [filter-obj (⭐89)](https://github.com/sindresorhus/filter-obj) - Filter object keys and values into a new object.
-*   [object-values (⭐23)](https://github.com/sindresorhus/object-values) - Get the values of an object.
+*   [map-obj (⭐178)](https://github.com/sindresorhus/map-obj) - Map object keys and values into a new object.
+*   [filter-obj (⭐91)](https://github.com/sindresorhus/filter-obj) - Filter object keys and values into a new object.
+*   [object-values (⭐26)](https://github.com/sindresorhus/object-values) - Get the values of an object.
 *   [object-pairs (⭐2)](https://github.com/eush77/object-pairs) - Turn an object into list of \[key, value] pairs for mapping, iterating or other purposes.
 *   [zipmap (⭐4)](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
 *   [just-pluck (⭐11)](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
-*   [deep-equal (⭐729)](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
-*   [deep-assign (⭐249)](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
+*   [deep-equal (⭐732)](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
+*   [deep-assign (⭐248)](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
 *   [set-value (⭐260)](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
-*   [get-value (⭐223)](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
+*   [get-value (⭐230)](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
 *   [flatkeys (⭐3)](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
 
 ### Modules / Function
 
 *   [curry (⭐314)](https://github.com/dominictarr/curry) - A curry function without anything too clever.
-*   [once (⭐215)](https://github.com/isaacs/once) - Run a function exactly one time.
+*   [once (⭐216)](https://github.com/isaacs/once) - Run a function exactly one time.
 *   [deep-bind (⭐8)](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
 
 ### Modules / Stream
@@ -506,7 +512,7 @@ A curated list of small, focused npm packages.
 *   [through2-filter (⭐35)](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
 *   [through2-map (⭐70)](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
 *   [stream-spigot (⭐15)](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.
-*   [concat-stream (⭐569)](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
+*   [concat-stream (⭐570)](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
 *   [JSONStream (⭐1.9k)](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify
 
 ### Modules / File System
@@ -521,14 +527,14 @@ A curated list of small, focused npm packages.
 
 ### Modules / Semver
 
-*   [semver (⭐4.7k)](https://github.com/npm/node-semver) - The semantic version parser used by npm.
+*   [semver (⭐4.8k)](https://github.com/npm/node-semver) - The semantic version parser used by npm.
 *   [semver-max (⭐3)](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
 
 ### Modules / Other
 
 *   [node-mime (⭐2k)](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
 
-### Related lists / Other
+### Related lists / Tools
 
-*   [awesome-nodejs (⭐52k)](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+*   [awesome-nodejs (⭐53k)](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
 *   [awesome-npm (⭐4.3k)](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.

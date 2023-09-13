@@ -21,6 +21,10 @@
 
 *   [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
 
+### Utilities / Productivity
+
+*   [Linear Mouse](https://linearmouse.app/) - Full control of mouse. Change the speed, scrolling direction, pointer type and much more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/linearmouse/linearmouse)
+
 ### Utilities / Quality of Life Improvements
 
 *   [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.

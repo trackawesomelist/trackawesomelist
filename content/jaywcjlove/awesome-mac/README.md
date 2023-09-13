@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Sep 13, 2023](/content/2023/09/13/README.md)
+
+### Utilities / Productivity
+
+*   [Linear Mouse](https://linearmouse.app/) - Full control of mouse. Change the speed, scrolling direction, pointer type and much more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/linearmouse/linearmouse)
+
 ## [Sep 12, 2023](/content/2023/09/12/README.md)
 
 ### Developer Tools / Virtualization
