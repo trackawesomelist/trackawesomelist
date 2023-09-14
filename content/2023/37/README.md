@@ -1,12 +1,30 @@
 # Awesome List Updates on Sep 11 - Sep 17, 2023
 
-31 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Utility
+
+*   [vhs (⭐1)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Web Hosting
+
+*   [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime, security, and providing an additional access point for users.
+
+## [3. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+
+### Music Programming
+
+*   [Topos](https://topos.raphaelforment.fr) - a web based live coding environment (WebAudio / MIDI)
+
+## [4. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Accounting & Finance
 
@@ -8279,13 +8297,14 @@
 
 
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Understanding the Polars nested column types](https://www.rhosignal.com/posts/nested-dtypes/?s=09) - A blog post that helps to understand how nested column types works in Polars by [@braaannigan](https://github.com/braaannigan).
+*   [Polars vs DuckDB for Delta Lake ops](https://wolliq.medium.com/polars-vs-duckdb-for-delta-lake-ops-54353107a032) - A blog post that compares Polars to DuckDB using Delta Lake by [@wolliq](https://github.com/wolliq).
 
-## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -8299,19 +8318,19 @@
 
 *   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐8)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 
-## [4. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [7. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
 *   [CAPA (⭐3.3k)](https://github.com/mandiant/capa) - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
 
-## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [8. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Tools
 
 *   [npm-deprecated-check (⭐9)](https://github.com/KID-joker/npm-deprecated-check) - Check for deprecated packages and recommend alternative packages.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -8397,7 +8416,12 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### .NET Conf 2023 (November 14-16, 2023).
+
+*   .NET Conf has been a virtual event since the beginning, and this year we’re celebrating our 13th online conference. We always strive to create a world class, engaging, virtual experience for all our attendees no matter where they are. Over the years we've expanded our content and our reach. We now draw over 100 thousand live viewers and sponsor hundreds of local events around the world.
+*   More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor\&utm_medium=github).
 
 ### Games
 
@@ -8415,13 +8439,13 @@
 *   [Announcing .NET 8 RC1](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-rc1/) - September 12, 2023 - This release includes a new AOT mode for both Android and WASM, System.Text.Json improvements, and Azure Managed Identity support for containers. Now is great time to pick up and test .NET 8 if you haven’t yet.
 *   [.NET Blazor Overview and Upcoming .NET 8 Changes](https://www.sitepoint.com/net-blazor-overview/) - September 5, 2023 - This article introduces .NET Blazor, a powerful framework that unifies client-side and server-side development paradigms and offers enhanced performance and improved tooling.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [11. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Game Development
 
 *   [Raylib-cr (⭐46)](https://github.com/sol-vin/raylib-cr) - Direct bindings to [Raylib](https://raylib.com), which supports Linux, Windows, and Mac
 
-## [9. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [12. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
@@ -8435,7 +8459,7 @@
 
 *   [Purchases (⭐74)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -8489,7 +8513,7 @@
 
 *   [OpenMessaging (⭐281) (⭐282)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [11. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+## [14. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
 ### Restaurants
 
@@ -8507,7 +8531,7 @@
 *   Essen, Germany
     *   [Peace Food](https://www.facebook.com/peacefoodessen) - Relaxed atmosphere, big selection of really good vietnamese dishes, and offering refreshing home-made drinks.
 
-## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [15. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
@@ -8525,7 +8549,7 @@
 
 *   [glances](https://nicolargo.github.io/glances/) - Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. ([Source Code (⭐23k)](https://github.com/nicolargo/glances))) `GPL-3.0` `Python`
 
-## [13. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [16. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -8533,44 +8557,48 @@
 *   [Promptfoo (⭐927)](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 *   [RestGPT (⭐763)](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [17. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
 *   [Shakapacker (⭐344)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Project Layout
 
 *   [nunu (⭐616)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 
-## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Search Engines
 
 *   [Sosse](https://sosse.readthedocs.io/en/stable/) - Selenium based search engine and crawler with offline archiving. ([Source Code](https://gitlab.com/biolds1/sosse)) `AGPL-3.0` `Python/Docker`
 
-## [17. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [20. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Tutorials
 
 *   [Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles](https://code.tutsplus.com/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449t)
 
-## [18. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
 *   [cl-raylib (⭐3)](https://github.com/bohonghuang/claw-raylib) NEW in 2023 - fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
 *   [glfw (⭐5)](https://github.com/shirakumo/glfw) NEW in 2023 - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
 
-## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [22. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+
+*   \[🔥] [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): a visual story by Financial Times
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
 *   [Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water | AP News](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)
 
-## [20. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [23. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Video Collections
 
@@ -8584,13 +8612,13 @@
 
 *   [PHP Glossary (⭐2)](https://github.com/javanile/php-glossary) - Apply a Term Analysis to extract domain terms vs out-of-scope terms in a DDD manner.
 
-## [21. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Sync/Sharing
 
 *   [ncp (⭐22)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 
-## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -8600,7 +8628,7 @@
 
 *   [CometML (⭐125)](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 
-## [23. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [26. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Plugins
 
@@ -8610,19 +8638,19 @@
 
 *   [Program Logics (⭐31)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
 
-## [24. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [RaspiBolt](https://raspibolt.org/) - Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi.
 
-## [25. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [28. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 
-## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
@@ -8632,7 +8660,7 @@
 
 *   [vite-plugin-node-polyfills (⭐116)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -8643,13 +8671,13 @@
 *   [judaew/ronny.nvim (⭐0)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
 *   [ribru17/bamboo.nvim (⭐118)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
-## [28. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [31. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Other / iOS
 
 *   🔧 [Dynaboard](https://dynaboard.com) - Generate low-code web apps from Firebase using AI.
 
-## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
@@ -8672,13 +8700,13 @@
 
 *   [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 
-## [30. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [33. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [CodeSonar from GrammaTech](https://codesecure.com/our-products/codesonar/) :copyright: — Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
 
-## [31. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [34. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 

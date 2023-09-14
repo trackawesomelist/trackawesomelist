@@ -6,6 +6,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Sep 14, 2023](/content/2023/09/14/README.md)
+
+### .NET Conf 2023 (November 14-16, 2023).
+
+*   .NET Conf has been a virtual event since the beginning, and this year we’re celebrating our 13th online conference. We always strive to create a world class, engaging, virtual experience for all our attendees no matter where they are. Over the years we've expanded our content and our reach. We now draw over 100 thousand live viewers and sponsor hundreds of local events around the world.
+*   More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor\&utm_medium=github).
+
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 
 ### Games

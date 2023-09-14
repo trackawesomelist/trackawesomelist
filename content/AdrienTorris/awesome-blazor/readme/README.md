@@ -42,6 +42,13 @@ Thanks @jsakamoto for this! [Source code (⭐192)](https://github.com/jsakamoto/
 *   [Community](#community)
 *   [Other Languages](#other-languages)
 
+## .NET Conf 2023 (November 14-16, 2023).
+
+[<img src="https://pbs.twimg.com/media/F56yqMVWYAg-LTA?format=jpg&name=medium" align="center" width="100%">](https://www.dotnetconf.net/?utm_source=awesome-blazor\&utm_medium=github)
+
+*   .NET Conf has been a virtual event since the beginning, and this year we’re celebrating our 13th online conference. We always strive to create a world class, engaging, virtual experience for all our attendees no matter where they are. Over the years we've expanded our content and our reach. We now draw over 100 thousand live viewers and sponsor hundreds of local events around the world.
+*   More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor\&utm_medium=github).
+
 ## Introduction
 
 ### What is Blazor?

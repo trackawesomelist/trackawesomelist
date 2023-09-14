@@ -11,6 +11,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Resources / Blog posts
 
 *   [Understanding the Polars nested column types](https://www.rhosignal.com/posts/nested-dtypes/?s=09) - A blog post that helps to understand how nested column types works in Polars by [@braaannigan](https://github.com/braaannigan).
+*   [Polars vs DuckDB for Delta Lake ops](https://wolliq.medium.com/polars-vs-duckdb-for-delta-lake-ops-54353107a032) - A blog post that compares Polars to DuckDB using Delta Lake by [@wolliq](https://github.com/wolliq).
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 

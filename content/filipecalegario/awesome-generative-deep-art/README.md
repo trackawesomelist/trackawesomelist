@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 14, 2023](/content/2023/09/14/README.md)
+
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+
+*   \[🔥] [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): a visual story by Financial Times
+
 ## [Sep 12, 2023](/content/2023/09/12/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
@@ -44,7 +50,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Generative Adversarial Networks (GANs)
 
-*   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
+*   [facebookresearch/seamless\_communication (⭐5.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
 ## [Aug 28, 2023](/content/2023/08/28/README.md)
 
@@ -98,11 +104,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / LangChain
 
-*   [Embedchain (⭐4.3k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐5k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 
 ### Inbox: Large Language Models (LLMs) / LLMOps
 
-*   [LLM App (⭐177)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐180)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### Courses and Educational Materials / Deforum
 
@@ -133,7 +139,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
 
-*   [geekan/MetaGPT (⭐24k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [geekan/MetaGPT (⭐26k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
@@ -205,7 +211,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [microsoft/semantic-kernel (⭐12k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
+*   [microsoft/semantic-kernel (⭐13k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
 
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
@@ -929,7 +935,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
-*   [hwchase17/langchain (⭐60k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [hwchase17/langchain (⭐62k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 
@@ -1135,7 +1141,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐588)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐590)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### Papers and References / Papers Collections

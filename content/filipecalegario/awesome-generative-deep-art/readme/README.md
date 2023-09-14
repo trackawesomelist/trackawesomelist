@@ -105,6 +105,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## The Generative AI Area: history, maps, and definitions
 
+*   \[🔥] [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): a visual story by Financial Times
 *   [Early days of AI - by Elad Gil](https://blog.eladgil.com/p/early-days-of-ai): thoughts about AI as "an entirely new era and discontinuity from the past"
 *   [The Next Token of Progress: 4 Unlocks on the Generative AI Horizon | Andreessen Horowitz](https://a16z.com/2023/06/23/the-next-token-of-progress-4-unlocks-on-the-generative-ai-horizon/)
 *   [The state of AI in 2023: Generative AI’s breakout year | McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year#/)
@@ -167,7 +168,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 *   \[🔥🔥🔥] [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 *   [A simple guide to fine-tuning Llama 2 | Brev docs](https://brev.dev/blog/fine-tuning-llama-2)
-*   [microsoft/semantic-kernel (⭐12k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
+*   [microsoft/semantic-kernel (⭐13k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
 *   [CoPrompt](https://www.coprompt.io/login): platform for teams to use ChatGPT together
 *   \[🔥🔥🔥] [Emerging Architectures for LLM Applications | Andreessen Horowitz](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/): "a reference architecture for the emerging LLM app stack"
 *   [Advanced Guide to ChatGPT](https://aaditsh.notion.site/aaditsh/Advanced-Guide-to-ChatGPT-b8d5901b8bba44f580bb0c0835644567): guide by Neatprompts.com
@@ -193,7 +194,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
 *   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419): using langchain to build a app for paper summarization
 *   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
-*   [hwchase17/langchain (⭐60k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
+*   [hwchase17/langchain (⭐62k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
 *   [Godly](https://godly.ai): Instant context for GPT3
 *   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
@@ -211,7 +212,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
 *   [joonspk-research/generative\_agents - Generative Agents (⭐12k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior
 *   [AgentBench: Evaluating LLMs as Agents](https://huggingface.co/papers/2308.03688): Hugging Face paper page on a benchmark to evaluate LLMs agents
-*   [geekan/MetaGPT (⭐24k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [geekan/MetaGPT (⭐26k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 *   [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
 *   [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 *   [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
@@ -232,7 +233,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ### LangChain
 
-*   [Embedchain (⭐4.3k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [Embedchain (⭐5k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
 *   [FlowiseAI](https://flowiseai.com/): "Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript"
 *   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
 *   [LangChain Docs](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
@@ -255,7 +256,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 *   [Eden AI](https://www.edenai.co/?referral=partner-producthunt8\&ref=producthunt): provides a unique API connected to the AI engines
 *   [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
-*   [LLM App (⭐177)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐180)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### ChatGPT
 
@@ -512,7 +513,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐588)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐590)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
 *   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
 
 ### AI Tools for Searching
@@ -840,7 +841,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Inbox: Speech-to-text (STT) and spoken content analysis
 
-*   [facebookresearch/seamless\_communication (⭐4.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
+*   [facebookresearch/seamless\_communication (⭐5.1k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 *   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
 
 ## Inbox: Text-to-speech (TTS) and avatars
@@ -889,7 +890,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 *   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
-*   [geekan/MetaGPT (⭐24k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [geekan/MetaGPT (⭐26k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 *   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
 *   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
