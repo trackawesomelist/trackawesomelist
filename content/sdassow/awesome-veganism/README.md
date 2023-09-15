@@ -6,6 +6,12 @@ curated list of awesome resources, pointers, and tips related to veganism
 
 [ Daily / [Weekly](/content/sdassow/awesome-veganism/week/README.md) / [Overview](/content/sdassow/awesome-veganism/readme/README.md) ]
 
+## [Sep 15, 2023](/content/2023/09/15/README.md)
+
+### Shoes
+
+*   [Adidas](https://www.adidas.com/us/vegan-shoes) - Various models of vegan shoes.
+
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 
 ### Restaurants
@@ -160,10 +166,6 @@ curated list of awesome resources, pointers, and tips related to veganism
 
 *   [Happily Ever Esther](https://www.grandcentralpublishing.com/titles/steve-jenkins/happily-ever-esther/9781538728123/) - Wonderful true life tale, with a lot of love and compassion, and it's hilarious.
 *   [That's Not My Momma's Milk!](https://veganpublishers.com/multimedia-archive/thats-not-my-mommas-milk/) - Really simple book, really easy to grasp and makes anyone of any age think, by exploring the animal kingdom and where baby animals get their milk from.
-
-### Shoes
-
-*   [Adidas Superstar Vegan](https://www.adidas.com/us/superstar-vegan-shoes/FW2295.html) - New and vegan version model of old school skater shoes.
 
 ### Bakeries
 
