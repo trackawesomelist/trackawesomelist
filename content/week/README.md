@@ -8616,13 +8616,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [eza-community/eza (⭐680)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
-#### [32. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
-
-##### Type / React
-
-*   [graphql-to-type (⭐0)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
-
-#### [33. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+#### [32. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ##### Shoes
 
@@ -8644,25 +8638,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   Essen, Germany
     *   [Peace Food](https://www.facebook.com/peacefoodessen) - Relaxed atmosphere, big selection of really good vietnamese dishes, and offering refreshing home-made drinks.
 
-#### [34. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+#### [33. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ##### Open Source / Other
 
 *   [PikaTorrent (⭐152)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 
-#### [35. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+#### [34. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ##### WWDC Students Submissions
 
 *   [2022 (⭐49)](https://github.com/wwdc/2023)
 
-#### [36. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+#### [35. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ##### Storage / Database
 
 *   [micropg\_lite (⭐1)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
 
-#### [37. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [36. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Databases Implemented in Go
 
@@ -8672,7 +8666,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [nunu (⭐616)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 
-#### [38. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+#### [37. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ##### Papers / 2023
 
@@ -8683,28 +8677,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Auditing radicalization pathways on ](https://dl.acm.org/doi/pdf/10.1145/3351095.3372879) - (FAT\*) *Studies the reachability of radical channels from each others, using random walks on static channel recommendations.*
 
-#### [39. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [38. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
 *   [Understanding the Polars nested column types](https://www.rhosignal.com/posts/nested-dtypes/?s=09) - A blog post that helps to understand how nested column types works in Polars by [@braaannigan](https://github.com/braaannigan).
 *   [Polars vs DuckDB for Delta Lake ops](https://wolliq.medium.com/polars-vs-duckdb-for-delta-lake-ops-54353107a032) - A blog post that compares Polars to DuckDB using Delta Lake by [@wolliq](https://github.com/wolliq).
 
-#### [40. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [39. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Free Courses
 
 *   [MLSys-NYU-2022 (⭐163)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 *   [Hands-on Train and Deploy ML (⭐447)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
-#### [41. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+#### [40. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ##### Libraries / Python
 
 *   [AtlasQ (⭐5)](https://github.com/certego/AtlasQ) - MongoDB Atlas Search wrapper with MongoEngine syntax
 *   [Flask-MongoEngine (⭐830)](https://github.com/MongoEngine/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
 
-#### [42. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Miscellaneous
 
@@ -8714,7 +8708,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Sosse](https://sosse.readthedocs.io/en/stable/) - Selenium based search engine and crawler with offline archiving. ([Source Code](https://gitlab.com/biolds1/sosse)) `AGPL-3.0` `Python/Docker`
 
-#### [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [42. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Links / Resources
 
@@ -8847,7 +8841,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [44. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [43. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Developer Tools / Virtualization
 
@@ -8870,13 +8864,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 
-#### [45. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Integrated Development Environment
-
-*   [Anjuta DevStudio](https://sourceforge.net/projects/anjuta/) - The GNOME IDE. \[GPL3]
-
-#### [46. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+#### [44. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ##### IR Tools Collection / Memory Analysis Tools
 
@@ -8885,6 +8873,34 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### IR Tools Collection / Sandboxing/Reversing Tools
 
 *   [CAPA (⭐3.3k)](https://github.com/mandiant/capa) - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.
+
+#### [45. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+
+##### Type / React
+
+*   [graphql-to-type (⭐0)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
+
+##### Miscellaneous / React
+
+*   [goctopus (⭐68)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
+
+##### Posts / React
+
+*   [How to Test your GraphQL Endpoints](https://escape.tech/blog/8-most-common-graphql-vulnerabilities/)
+
+##### Tutorials / React
+
+*   [GraphQL Security Academy](https://escape.tech/academy/) - a free and interactive platform to learn GraphQL security: how to find, exploit and fix GraphQL vulnerabilities.
+
+#### [46. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### CSV
+
+*   [ssp (⭐40)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
+
+##### Integrated Development Environment
+
+*   [Anjuta DevStudio](https://sourceforge.net/projects/anjuta/) - The GNOME IDE. \[GPL3]
 
 ---
 
@@ -8896,8 +8912,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 297K 📝 09&#x2F;06 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 108K 📝 09&#x2F;15 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 73K 📝 09&#x2F;14 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 63K 📝 09&#x2F;13 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-6. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 49K 📝 09&#x2F;16 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+5. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 49K 📝 09&#x2F;16 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 63K 📝 09&#x2F;13 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 7. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 60K 📝 09&#x2F;12 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 37K 📝 09&#x2F;15 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 9. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 58K 📝 09&#x2F;08 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
@@ -8906,7 +8922,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 12. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 37K 📝 09&#x2F;09 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 13. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 69K 📝 09&#x2F;02 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 14. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 20K 📝 09&#x2F;13 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
-15. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 09&#x2F;15 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
+15. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 09&#x2F;16 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 16. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 44K 📝 09&#x2F;02 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 17. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 09&#x2F;16 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 18. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 11K 📝 09&#x2F;15 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
@@ -9382,7 +9398,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.3K, 📝 09&#x2F;14 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
 - [Awesome Geojson](/content/tmcw/awesome-geojson/README.md) - ([Source ⭐ 2K, 📝 07&#x2F;20 ](https://github.com/tmcw/awesome-geojson)) - GeoJSON utilities that will make your life easier.
 - [Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md) - ([Source ⭐ 1.8K, 📝 08&#x2F;14 ](https://github.com/stevemao/awesome-git-addons)) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K, 📝 09&#x2F;15 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
+- [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K, 📝 09&#x2F;16 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 - [Awesome Gulp](/content/alferov/awesome-gulp/README.md) - ([Source ⭐ 593, 📝 18&#x2F;08&#x2F;20 ](https://github.com/alferov/awesome-gulp)) - :tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp
 - [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 58K, 📝 22&#x2F;08&#x2F;27 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Awesome Homematic](/content/homematic-community/awesome-homematic/README.md) - ([Source ⭐ 157, 📝 21&#x2F;01&#x2F;16 ](https://github.com/homematic-community/awesome-homematic)) - A curated list of Homematic related links :sparkles:

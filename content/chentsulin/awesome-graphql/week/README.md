@@ -12,6 +12,18 @@ Awesome list of GraphQL
 
 *   [graphql-to-type (⭐0)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
 
+### Miscellaneous / React
+
+*   [goctopus (⭐68)](https://github.com/Escape-Technologies/goctopus) - an incredibly fast GraphQL discovery & fingerprinting toolbox.
+
+### Posts / React
+
+*   [How to Test your GraphQL Endpoints](https://escape.tech/blog/8-most-common-graphql-vulnerabilities/)
+
+### Tutorials / React
+
+*   [GraphQL Security Academy](https://escape.tech/academy/) - a free and interactive platform to learn GraphQL security: how to find, exploit and fix GraphQL vulnerabilities.
+
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### Ballerina / React
