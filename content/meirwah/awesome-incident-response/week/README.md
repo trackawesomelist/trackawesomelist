@@ -8,6 +8,10 @@ A curated list of tools for incident response
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
+### IR Tools Collection / Memory Analysis Tools
+
+*   \[MemProcFS] ([https://github.com/ufrisk/MemProcFS (⭐2.2k)](https://github.com/ufrisk/MemProcFS)) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
 *   [CAPA (⭐3.3k)](https://github.com/mandiant/capa) - detects capabilities in executable files. You run it against a PE, ELF, .NET module, or shellcode file and it tells you what it thinks the program can do.

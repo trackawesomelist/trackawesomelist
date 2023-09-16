@@ -6,6 +6,12 @@ A curated list of tools for incident response
 
 [ Daily / [Weekly](/content/meirwah/awesome-incident-response/week/README.md) / [Overview](/content/meirwah/awesome-incident-response/readme/README.md) ]
 
+## [Sep 16, 2023](/content/2023/09/16/README.md)
+
+### IR Tools Collection / Memory Analysis Tools
+
+*   \[MemProcFS] ([https://github.com/ufrisk/MemProcFS (⭐2.2k)](https://github.com/ufrisk/MemProcFS)) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
