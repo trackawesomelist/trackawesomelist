@@ -17,6 +17,10 @@ Collections of awesome neovim plugins.
 *   [judaew/ronny.nvim (⭐0)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
 *   [ribru17/bamboo.nvim (⭐118)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
+### Utility / Diagnostics
+
+*   [LintaoAmons/scratch.nvim (⭐91)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### Plugin Manager
@@ -39,7 +43,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [gsuuon/llm.nvim (⭐39)](https://github.com/gsuuon/llm.nvim) - Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+*   [gsuuon/llm.nvim (⭐70)](https://github.com/gsuuon/llm.nvim) - Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 
 ### Register / Diagnostics
 
@@ -47,7 +51,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Diagnostics
 
-*   [IlyasYOY/obs.nvim (⭐15)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
+*   [IlyasYOY/obs.nvim (⭐28)](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
 
 ### Code Runner / Diagnostics
 
@@ -80,25 +84,25 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [roobert/action-hints.nvim (⭐24)](https://github.com/roobert/action-hints.nvim) - Show information about the word under the cursor in the statusline or as virtual text.
-*   [roobert/hoversplit.nvim (⭐17)](https://github.com/roobert/hoversplit.nvim) - Automatically updated documentation and information about code symbols in a split window.
+*   [roobert/action-hints.nvim (⭐31)](https://github.com/roobert/action-hints.nvim) - Show information about the word under the cursor in the statusline or as virtual text.
+*   [roobert/hoversplit.nvim (⭐28)](https://github.com/roobert/hoversplit.nvim) - Automatically updated documentation and information about code symbols in a split window.
 
 ### Programming Languages Support / Diagnostics
 
-*   [roobert/f-string-toggle.nvim (⭐13)](https://github.com/roobert/f-string-toggle.nvim) - Toggle python f-strings.
+*   [roobert/f-string-toggle.nvim (⭐18)](https://github.com/roobert/f-string-toggle.nvim) - Toggle python f-strings.
 *   [chuwy/ucm.nvim (⭐5)](https://github.com/chuwy/ucm.nvim) - Navigating [Unison](https://unison-lang.org/) projects.
 
 ### Web Development / Diagnostics
 
-*   [roobert/tailwindcss-colorizer-cmp.nvim (⭐209)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
+*   [roobert/tailwindcss-colorizer-cmp.nvim (⭐218)](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - Add vscode-style TailwindCSS completion to nvim-cmp.
 
 ### Syntax / Diagnostics
 
-*   [roobert/surround-ui.nvim (⭐36)](https://github.com/roobert/surround-ui.nvim) - Helper or training aid for kylechui/nvim-surround.
+*   [roobert/surround-ui.nvim (⭐42)](https://github.com/roobert/surround-ui.nvim) - Helper or training aid for kylechui/nvim-surround.
 
 ### Tabline / Diagnostics
 
-*   [roobert/bufferline-cycle-windowless.nvim (⭐26)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
+*   [roobert/bufferline-cycle-windowless.nvim (⭐31)](https://github.com/roobert/bufferline-cycle-windowless.nvim) - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
 *   [mg979/tabline.nvim (⭐19)](https://github.com/mg979/tabline.nvim) - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
 
 ### Media / Diagnostics
@@ -111,7 +115,7 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [roobert/tabtree.nvim (⭐19)](https://github.com/roobert/tabtree.nvim) - Jump between significant code elements, such as brackets, quotes, etc.
+*   [roobert/tabtree.nvim (⭐21)](https://github.com/roobert/tabtree.nvim) - Jump between significant code elements, such as brackets, quotes, etc.
 
 ### Editing Support / Diagnostics
 
@@ -143,31 +147,31 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [Robitx/gp.nvim (⭐55)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
-*   [dpayne/CodeGPT.nvim (⭐695)](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
+*   [Robitx/gp.nvim (⭐69)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.
+*   [dpayne/CodeGPT.nvim (⭐700)](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
 *   [jackMort/ChatGPT.nvim (⭐2.5k)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Zeioth/markmap.nvim (⭐82)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐85)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 
 ### Note Taking / Diagnostics
 
-*   [serenevoid/kiwi.nvim (⭐73)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
+*   [serenevoid/kiwi.nvim (⭐83)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
 
 ### Utility / Diagnostics
 
-*   [gaborvecsei/usage-tracker.nvim (⭐30)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
-*   [malbertzard/inline-fold.nvim (⭐55)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
-*   [chrisgrieser/nvim-origami (⭐51)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
+*   [gaborvecsei/usage-tracker.nvim (⭐33)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
+*   [malbertzard/inline-fold.nvim (⭐63)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+*   [chrisgrieser/nvim-origami (⭐55)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
 
 ### Code Runner / Diagnostics
 
-*   [Zeioth/compiler.nvim (⭐186)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
+*   [Zeioth/compiler.nvim (⭐200)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [NormalNvim/NormalNvim (⭐135)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
+*   [NormalNvim/NormalNvim (⭐144)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
@@ -177,7 +181,7 @@ Collections of awesome neovim plugins.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [richardbizik/nvim-toc (⭐16)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
+*   [richardbizik/nvim-toc (⭐18)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -190,7 +194,7 @@ Collections of awesome neovim plugins.
 
 ### Quickfix / Diagnostics
 
-*   [ashfinal/qfview.nvim (⭐31)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
+*   [ashfinal/qfview.nvim (⭐37)](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view with consistent path-shorten and folding.
 
 ### Editing Support / Diagnostics
 
@@ -212,11 +216,11 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [xero/miasma.nvim (⭐47)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
+*   [xero/miasma.nvim (⭐52)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
 
 ### Tabline / Diagnostics
 
-*   [tomiis4/BufferTabs.nvim (⭐43)](https://github.com/tomiis4/BufferTabs.nvim) - Simple and Fancy tabline.
+*   [tomiis4/BufferTabs.nvim (⭐51)](https://github.com/tomiis4/BufferTabs.nvim) - Simple and Fancy tabline.
 
 ### Debugging / Diagnostics
 
@@ -224,7 +228,7 @@ Collections of awesome neovim plugins.
 
 ### Fennel / Diagnostics
 
-*   [Olical/nfnl (⭐73)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
+*   [Olical/nfnl (⭐95)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -241,7 +245,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [aPeoplesCalendar/apc.nvim (⭐14)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
+*   [aPeoplesCalendar/apc.nvim (⭐15)](https://github.com/aPeoplesCalendar/apc.nvim) - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 
 ### Motion / Diagnostics
 
@@ -255,7 +259,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [chrisgrieser/nvim-dr-lsp (⭐9)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
+*   [chrisgrieser/nvim-dr-lsp (⭐11)](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
 
 ### File Explorer / Diagnostics
 
@@ -263,7 +267,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sonjiku/yawnc.nvim (⭐6)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
+*   [sonjiku/yawnc.nvim (⭐7)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
 *   [sekke276/dark\_flat.nvim (⭐28)](https://github.com/sekke276/dark_flat.nvim) - A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
 
 ### Git / Diagnostics
@@ -288,7 +292,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Diagnostics
 
-*   [milanglacier/yarepl.nvim (⭐56)](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
+*   [milanglacier/yarepl.nvim (⭐59)](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
@@ -325,7 +329,7 @@ Collections of awesome neovim plugins.
 
 ### Remote Development / Diagnostics
 
-*   [OscarCreator/rsync.nvim (⭐22)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
+*   [OscarCreator/rsync.nvim (⭐23)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -367,20 +371,20 @@ Collections of awesome neovim plugins.
 
 ### Starter Templates
 
-*   [tokiory/neovim-boilerplate (⭐44)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐31)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐49)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐40)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [kiran94/edit-markdown-table.nvim (⭐20)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
+*   [kiran94/edit-markdown-table.nvim (⭐22)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 
 ### Search / Diagnostics
 
-*   [AckslD/muren.nvim (⭐272)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
+*   [AckslD/muren.nvim (⭐274)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 
 ### File Explorer / Diagnostics
 
-*   [kelly-lin/ranger.nvim (⭐79)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐14k)](https://github.com/ranger/ranger) integration for neovim.
+*   [kelly-lin/ranger.nvim (⭐80)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐14k)](https://github.com/ranger/ranger) integration for neovim.
 
 ### Comment / Diagnostics
 
@@ -388,11 +392,11 @@ Collections of awesome neovim plugins.
 
 ### Indent / Diagnostics
 
-*   [nvimdev/indentmini.nvim (⭐55)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
+*   [nvimdev/indentmini.nvim (⭐58)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
 
 ### Workflow / Diagnostics
 
-*   [m4xshen/hardtime.nvim (⭐430)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
+*   [m4xshen/hardtime.nvim (⭐487)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
 *   [antonk52/bad-practices.nvim (⭐64)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
@@ -417,7 +421,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Diagnostics
 
-*   [Mr-LLLLL/interestingwords.nvim (⭐22)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
+*   [Mr-LLLLL/interestingwords.nvim (⭐23)](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 
 ### Colorscheme Creation / Diagnostics
 
@@ -429,7 +433,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [hbac.nvim (⭐117)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
+*   [hbac.nvim (⭐118)](https://github.com/axkirillov/hbac.nvim) - Automatically close buffers you are not working on.
 *   [ecthelionvi/NeoComposer.nvim (⭐284)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 
 ### Formatting / Diagnostics
@@ -440,7 +444,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [tomasky/bookmarks.nvim (⭐54)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
+*   [tomasky/bookmarks.nvim (⭐55)](https://github.com/tomasky/bookmarks.nvim) - Bookmarks with global file storage, written in Lua.
 
 ### Utility / Diagnostics
 
@@ -448,11 +452,11 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [chomosuke/term-edit.nvim (⭐118)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
+*   [chomosuke/term-edit.nvim (⭐136)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
 
 ### Git / Diagnostics
 
-*   [aaronhallaert/advanced-git-search.nvim (⭐198)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
+*   [aaronhallaert/advanced-git-search.nvim (⭐202)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 
 ### Editing Support / Diagnostics
 
@@ -480,16 +484,16 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [SmiteshP/nvim-navbuddy (⭐509)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
+*   [SmiteshP/nvim-navbuddy (⭐516)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/deadcolumn.nvim (⭐139)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
-*   [ecthelionvi/NeoColumn.nvim (⭐62)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+*   [Bekaboo/deadcolumn.nvim (⭐151)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [ecthelionvi/NeoColumn.nvim (⭐65)](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
 
 ### Utility / Diagnostics
 
-*   [nvim-early-retirement (⭐120)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
+*   [nvim-early-retirement (⭐128)](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
@@ -527,7 +531,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [zdcthomas/yop.nvim (⭐65)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
+*   [zdcthomas/yop.nvim (⭐66)](https://github.com/zdcthomas/yop.nvim) - Easily create your own operators (like `d` and `y`).
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
@@ -537,17 +541,17 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/flatten.nvim (⭐254)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+*   [willothy/flatten.nvim (⭐262)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
 
 ### Editing Support / Diagnostics
 
 *   [utilyre/sentiment.nvim (⭐117)](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.
-*   [willothy/moveline.nvim (⭐90)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
+*   [willothy/moveline.nvim (⭐93)](https://github.com/willothy/moveline.nvim) - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 *   [echasnovski/mini.nvim#mini.splitjoin (⭐2.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-splitjoin.md) - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
 
 ### Indent / Diagnostics
 
-*   [shellRaining/hlchunk.nvim (⭐142)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+*   [shellRaining/hlchunk.nvim (⭐154)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -557,7 +561,7 @@ Collections of awesome neovim plugins.
 
 ### Register / Diagnostics
 
-*   [tenxsoydev/karen-yank.nvim (⭐67)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
+*   [tenxsoydev/karen-yank.nvim (⭐68)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
 
 ### Motion / Diagnostics
 
@@ -567,11 +571,11 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [LeonHeidelbach/trailblazer.nvim (⭐178)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
+*   [LeonHeidelbach/trailblazer.nvim (⭐181)](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nyoom-engineering/oxocarbon.nvim (⭐737)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
+*   [nyoom-engineering/oxocarbon.nvim (⭐758)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 *   [embark-theme/vim (⭐586)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
 
 ### Bars and Lines / Diagnostics
@@ -619,7 +623,7 @@ Collections of awesome neovim plugins.
 ### Neovim Lua Development / Diagnostics
 
 *   [folke/neodev.nvim (⭐1.4k)](https://github.com/folke/neodev.nvim) - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
-*   [nvim-neorocks/luarocks-tag-release (⭐30)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
+*   [nvim-neorocks/luarocks-tag-release (⭐31)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ### Editing Support / Diagnostics
 
@@ -1668,7 +1672,7 @@ Collections of awesome neovim plugins.
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐775)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐804)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 

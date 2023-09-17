@@ -8781,6 +8781,10 @@
 *   [judaew/ronny.nvim (⭐0)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
 *   [ribru17/bamboo.nvim (⭐118)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 
+### Utility / Diagnostics
+
+*   [LintaoAmons/scratch.nvim (⭐91)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+
 ## [44. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Other / iOS

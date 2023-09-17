@@ -37,6 +37,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [objc (⭐1)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 
+#### [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Utility / Diagnostics
+
+*   [LintaoAmons/scratch.nvim (⭐91)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+
 ### [Sep 16, 2023](/content/2023/09/16/README.md)
 
 
@@ -112,7 +118,60 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
 
-#### [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [4. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+
+##### Shoes
+
+*   [Adidas](https://www.adidas.com/us/vegan-shoes) - Various models of vegan shoes.
+
+#### [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+
+##### Open Source / Other
+
+*   [PikaTorrent (⭐152)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+
+#### [6. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+
+##### WWDC Students Submissions
+
+*   [2022 (⭐49)](https://github.com/wwdc/2023)
+
+#### [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+
+##### Storage / Database
+
+*   [micropg\_lite (⭐1)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
+
+#### [8. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Databases Implemented in Go
+
+*   [LinDB (⭐2.7k)](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
+
+#### [9. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+##### Papers / 2023
+
+*   [Modeling rabbit‑holes on YouTube](https://link.springer.com/epdf/10.1007/s13278-023-01105-9?sharing_token=h-O-asHI49VUWS9FxN1Gsve4RwlQNchNByi7wbcMAY6I98PKW1PqhFQJ_JqQyk3TrB05qDb3LUzMDmKOgrupccQliViDle-rwKEi2MZ8xBViaAQhyN41oZBKLLeXchoeIW2kklVHC094I5KD8pxja4-if6-iB0uAI1FnqnYoxjU%3D) - (SNAM) *Models the trapping dynamics of users in rabbit holes in YouTube, and provides a measure of this enclosure.*
+*   [Auditing YouTube’s Recommendation Algorithm for Misinformation Filter Bubbles](https://dl.acm.org/doi/full/10.1145/3568392) - (Transactions on Recommender Systems) *What it takes to “burst the bubble,” i.e., revert the bubble enclosure from recommendations.*
+
+##### Papers / 2020
+
+*   [Auditing radicalization pathways on ](https://dl.acm.org/doi/pdf/10.1145/3351095.3372879) - (FAT\*) *Studies the reachability of radical channels from each others, using random walks on static channel recommendations.*
+
+#### [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+
+##### Type / React
+
+*   [graphql-to-type (⭐0)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
+
+#### [11. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+
+##### LLMs
+
+*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐113)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
+
+#### [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Cryptocurrencies
 
@@ -125,59 +184,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Applications / System tools
 
 *   [eza-community/eza (⭐680)](https://github.com/eza-community/eza) — A replacement for 'ls'
-
-#### [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
-
-##### Shoes
-
-*   [Adidas](https://www.adidas.com/us/vegan-shoes) - Various models of vegan shoes.
-
-#### [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
-
-##### Open Source / Other
-
-*   [PikaTorrent (⭐152)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
-
-#### [7. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
-
-##### WWDC Students Submissions
-
-*   [2022 (⭐49)](https://github.com/wwdc/2023)
-
-#### [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
-
-##### Storage / Database
-
-*   [micropg\_lite (⭐1)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
-
-#### [9. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Databases Implemented in Go
-
-*   [LinDB (⭐2.7k)](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
-
-#### [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
-
-##### Papers / 2023
-
-*   [Modeling rabbit‑holes on YouTube](https://link.springer.com/epdf/10.1007/s13278-023-01105-9?sharing_token=h-O-asHI49VUWS9FxN1Gsve4RwlQNchNByi7wbcMAY6I98PKW1PqhFQJ_JqQyk3TrB05qDb3LUzMDmKOgrupccQliViDle-rwKEi2MZ8xBViaAQhyN41oZBKLLeXchoeIW2kklVHC094I5KD8pxja4-if6-iB0uAI1FnqnYoxjU%3D) - (SNAM) *Models the trapping dynamics of users in rabbit holes in YouTube, and provides a measure of this enclosure.*
-*   [Auditing YouTube’s Recommendation Algorithm for Misinformation Filter Bubbles](https://dl.acm.org/doi/full/10.1145/3568392) - (Transactions on Recommender Systems) *What it takes to “burst the bubble,” i.e., revert the bubble enclosure from recommendations.*
-
-##### Papers / 2020
-
-*   [Auditing radicalization pathways on ](https://dl.acm.org/doi/pdf/10.1145/3351095.3372879) - (FAT\*) *Studies the reachability of radical channels from each others, using random walks on static channel recommendations.*
-
-#### [11. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
-
-##### Type / React
-
-*   [graphql-to-type (⭐0)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
-
-#### [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
-
-##### LLMs
-
-*   [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor (⭐113)](https://github.com/iusztinpaul/hands-on-llms) - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
 
 ---
 
@@ -200,10 +206,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 13. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 69K 📝 09&#x2F;02 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 14. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 20K 📝 09&#x2F;13 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
 15. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 09&#x2F;16 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-16. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 44K 📝 09&#x2F;02 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-17. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 11K 📝 09&#x2F;15 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-18. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 09&#x2F;12 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-19. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K 📝 09&#x2F;13 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+16. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K 📝 09&#x2F;17 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+17. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 44K 📝 09&#x2F;02 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+18. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 11K 📝 09&#x2F;15 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+19. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 09&#x2F;12 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 20. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 09&#x2F;13 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 21. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 12K 📝 09&#x2F;12 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
 22. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 09&#x2F;11 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -431,7 +437,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K, 📝 09&#x2F;13 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K, 📝 09&#x2F;17 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 950, 📝 22&#x2F;04&#x2F;30 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
