@@ -10,6 +10,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Utility
 
+*   [objc (⭐1)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 *   [vhs (⭐1)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)

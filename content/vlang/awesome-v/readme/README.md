@@ -296,6 +296,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Utility
 
+*   [objc (⭐1)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 *   [range (⭐33)](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 *   [ssh-config (⭐3)](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
 *   [vaker (⭐18)](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
