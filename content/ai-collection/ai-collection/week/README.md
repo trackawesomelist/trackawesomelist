@@ -6,6 +6,89 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 [ [Daily](/content/ai-collection/ai-collection/README.md) / Weekly / [Overview](/content/ai-collection/ai-collection/readme/README.md) ]
 
+## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
+
+### Chat Bot
+
+- Name: [Build Chatbot](https://www.thataicollection.com/redirect/build-chatbot?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Unveiling the World's #1 AI Chatbot - Auto-Trained on Your Private Data, Supporting All File Formats.
+
+  Description: Build Chatbot is a unique no-code chatbot builder empowering businesses and individuals alike to create their own personalized chatbot in a few easy steps. It's a powerful AI tool that effortlessly extracts precise information from various file formats like PDFs, CSV, DOCX files, URLs, and even audio and video files.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [Claude](https://www.thataicollection.com/redirect/claude?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Claude is a next-generation AI assistant for your tasks, no matter the scale.
+
+  Description: Claude Our most powerful model, which excels at a wide range of tasks from sophisticated dialogue and creative content generation to detailed instruction.  Good for: Complex reasoning Creativity Thoughtful dialogue Coding Detailed content creation.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Gaming
+
+- Name: [Rosebud AI](https://www.thataicollection.com/redirect/rosebud-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Rosebud AI - AI Generated Consistent Game Assets in Minutes.
+
+  Description: Concept and Create Rapidly with your AI Powered Asset Collaborator. Create: Props, Character Portraits, Isometric Tiles, Character Sprites, Concept Art, Environment, GUIs, Infinite Variations and more.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Photo & Image Editing
+
+- Name: [OurBabyAI](https://www.thataicollection.com/redirect/ourbabyai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: See Your Future Baby in AI-Generated Photos with Parents' Photos or 4D Ultrasound Scan.
+
+  Description: Simply upload photos and let our AI magically generate your future baby's image. See Your Baby With Parents' Photos  Delivered Within A Day #1 Baby Generator With 90% Match Rate Rated 4.8 🌟 by 5,500+ happy customers.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Productivity & Personal Growth
+
+- Name: [Bongocat](https://www.thataicollection.com/redirect/bongocat?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Bongocat is an AI-integrated content management system, a blog that can write itself.
+
+  Description: Creating your Bongocat site is an easy no-code process. With a few clicks and a little setup, your new blog site is live and ready to start creating high-quality AI-generated content that you can review, edit and publish in minutes.
+
+  Offer Free Version: :grey\_question:
+
+
+
+### Search Engines
+
+- Name: [SEOify](https://www.thataicollection.com/redirect/seoify?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: SEOify AI SEO Automated Assistant Tool to Help Rankings in Google.
+
+  Description: Introducing SEOify: Revolutionize your website's SEO with our cutting-edge AI-powered platform. Unlock the full potential of your site through automated, real-time optimization based on industry standards. Effortlessly enhance your rankings and organic traffic, thanks to our intelligent AI-driven SEO tool.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
+### Translation & Transcript
+
+- Name: [RIVERSIDE](https://www.thataicollection.com/redirect/riverside?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Audio & Video Transcription. Powered by AI. Transcribe audio & video to text with 99% accuracy. ‍Available in 100+ languages and free of charge.
+
+  Description: Writes on the mark. Harness advanced algorithms and AI to convert your audio to text with absolute accuracy, word for word, to the last syllable, idiom, and nuance.  Native in 100+ languages. Automatic transcriptions in 100 different languages and idioms, multiplied by any accent or regional particulars you throw at it.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
 ### Accounting & Finance
@@ -705,9 +788,9 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 - Name: [Mage Space](https://www.thataicollection.com/redirect/mage-space?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
-  Title: Create Anything.
+  Title: mage.space - Create Anything - Explore Anything.
 
-  Description: .
+  Description: Explore images from different creators and categories such as Fantasy Art, Anime, Characters, Landscape, Cyberpunk, Space, Paintings, Pop Art, Cubism, Architecture, Interior Design.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -728,6 +811,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
   Offer Free Version: :grey\_question:
+
+
+- Name: [Neuralblender](https://www.thataicollection.com/redirect/neuralblender?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: NeuralBlender uses state-of-the-art AI technology to generate images from text inp.
+
+  Description: Let’s blend some art Ask the AI everything and create new sick art from text input. Explore Featured Community Art, or create your own.
+
+  Offer Free Version: :white\_check\_mark:
 
 
 - Name: [Neuralcanvas](https://www.thataicollection.com/redirect/neuralcanvas?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -771,6 +863,24 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: Mind-Blowing Art From Your Photos, by Partly AI.
 
   Description: Transform your photos into works of art with the help of AI magic!.
+
+  Offer Free Version: :grey\_question:
+
+
+- Name: [Patience](https://www.thataicollection.com/redirect/patience?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: PatienceAI - Create art with 500+ AI models & styles.
+
+  Description: Patience.ai can connect to AUTOMATIC1111's Stable Diffusion Web UI to generate images on your computer instead of in the cloud. If you are signed in, the images you generate are then saved to your Patience.ai collection. Local generation is 100% free.
+
+  Offer Free Version: :white\_check\_mark:
+
+
+- Name: [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: PatterndAI - Generate unique patterns for your product using AI!.
+
+  Description: Integrate PatternedAI in your business! Get early access to PatternedAI Enterprise. Join selected clients in transforming workflows and driving growth.
 
   Offer Free Version: :grey\_question:
 
@@ -2722,6 +2832,15 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
+- Name: [SwagAI](https://www.thataicollection.com/redirect/swagai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
+
+  Title: Spruce up your boring wardrobe with AI-generated swag.
+
+  Description: SwagAI - AI generated images on t-shirts. $1 from every sale goes towards animal conservation and anti-poaching organizations.
+
+  Offer Free Version: :grey\_question:
+
+
 - Name: [Visualhound](https://www.thataicollection.com/redirect/visualhound?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Visualhound - Prototype Your Fashion Design Ideas With AI.
@@ -3599,7 +3718,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
   Title: Stop Searching for the Song You Need. Create It.
 
-  Description: Royalty-free music, AI generated for you.
+  Description: Unimaginable possibilities, Unlimited music, Simply choose the mood, the genre and the length. Our AI will generate beautiful songs for you. Generate beats like Fivio Foreign and create your own tracks.
 
   Offer Free Version: :white\_check\_mark:
 
@@ -7198,15 +7317,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :white\_check\_mark:
 
 
-- Name: [Neuralblender](https://www.thataicollection.com/redirect/neuralblender?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Neuralblender.Com.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Neuralframes](https://www.thataicollection.com/redirect/neuralframes?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Neural Frames.
@@ -7257,15 +7367,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Title: にじジャーニー.
 
   Description: 魔法でイラストをつくろう.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [NMKD Stable Diffusion](https://www.thataicollection.com/redirect/nmkd-stable-diffusion?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: N00Mkrad - Itch.Io.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -7342,29 +7443,11 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Offer Free Version: :grey\_question:
 
 
-- Name: [Patience](https://www.thataicollection.com/redirect/patience?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Patience - AI Art With Stable Diffusion.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
 - Name: [Pattern Maker AI](https://www.thataicollection.com/redirect/pattern-maker-ai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Generate Seamless Patterns Using Artificial Intelligence.
 
   Description: Generate seamless vector patterns using artificial intelligence.
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [PatternedAI](https://www.thataicollection.com/redirect/patternedai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Patternai.
-
-  Description: .
 
   Offer Free Version: :grey\_question:
 
@@ -7412,15 +7495,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
   Description: Upload your photo to create a professional-looking profile picture and a matching background cover.
 
   Offer Free Version: :white\_check\_mark:
-
-
-- Name: [Phase](https://www.thataicollection.com/redirect/phase?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Welcome to Phase!.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
 
 
 - Name: [Photoleap](https://www.thataicollection.com/redirect/photoleap?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
@@ -7921,24 +7995,6 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - Name: [Supernormal](https://www.thataicollection.com/redirect/supernormal?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
 
   Title: Supernormal - AI That Writes Your Meeting Notes.
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [SwagAI](https://www.thataicollection.com/redirect/swagai?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: .
-
-  Description: .
-
-  Offer Free Version: :grey\_question:
-
-
-- Name: [Synth Run](https://www.thataicollection.com/redirect/synth-run?utm_source=aicollection\&utm_medium=github\&utm_campaign=aicollection)
-
-  Title: Synth.
 
   Description: .
 

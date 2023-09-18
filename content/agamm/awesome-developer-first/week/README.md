@@ -2,9 +2,15 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 591 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 603 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
+
+### Integrations
+
+*   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. ![Revert](https://img.shields.io/github/contributors-anon/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 

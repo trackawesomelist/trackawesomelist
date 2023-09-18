@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 18, 2023](/content/2023/09/18/README.md)
+
+### Quickfix / Diagnostics
+
+*   [yorickpeterse/nvim-pqf (⭐29)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+
+### Session / Diagnostics
+
+*   [coffebar/neovim-project (⭐1)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+
+### Split and Window / Diagnostics
+
+*   [yorickpeterse/nvim-window (⭐10)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
+
 ## [Sep 17, 2023](/content/2023/09/17/README.md)
 
 ### Utility / Diagnostics
@@ -1490,7 +1504,6 @@ Collections of awesome neovim plugins.
 ### Quickfix / Diagnostics
 
 *   [kevinhwang91/nvim-bqf (⭐1.3k)](https://github.com/kevinhwang91/nvim-bqf) - The goal of nvim-bqf is to make Neovim's quickfix window better.
-*   [gitlab.com/yorickpeterse/nvim-pqf](https://gitlab.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 
 ### Test / Diagnostics
 
@@ -1576,7 +1589,6 @@ Collections of awesome neovim plugins.
 ### Split and Window / Diagnostics
 
 *   [\~henriquehbr/ataraxis.lua](https://sr.ht/~henriquehbr/ataraxis.lua) - A zen mode for improving code readability on Neovim.
-*   [gitlab.com/yorickpeterse/nvim-window](https://gitlab.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 *   [sindrets/winshift.nvim (⭐377)](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
 *   [beauwilliams/focus.nvim (⭐536)](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids.
 *   [anuvyklack/windows.nvim (⭐425)](https://github.com/anuvyklack/windows.nvim) - Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!

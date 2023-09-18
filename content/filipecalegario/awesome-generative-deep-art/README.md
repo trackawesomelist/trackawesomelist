@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 18, 2023](/content/2023/09/18/README.md)
+
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+
+*   [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f)
+
 ## [Sep 14, 2023](/content/2023/09/14/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository

@@ -8,9 +8,47 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
+### APIs, Data and ML
+
+*   [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 50 credits per month for free.
+*   [Mockfly](https://www.mockfly.dev/) — Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. Free tier offers 500 requests per day.
+*   [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.
+*   [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. Free plan includes 100 cloud scrape credits.
+
+### CI and CD
+
+*   [CircleCI](https://circleci.com/) — Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, and ARM executors as well as local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, and up to 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
+
+### Testing
+
+*   [welltested.ai](https://welltested.ai) - Generate unit and integration tests within minutes using AI for mobile languages like Flutter. Free forever for developers.
+
+### Authentication, Authorization and User Management
+
+*   [Kinde](https://kinde.com/) - Simple, powerful authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
+*   [Stytch](https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).
+
+### Monitoring
+
+*   [Wachete](https://www.wachete.com) - monitor 5 pages, checks every 24 hours.
+
+### Email
+
+*   [EtherealMail](https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered.
+
+### Feature Toggles Management Platforms
+
+*   [Toggled.dev](https://www.toggled.dev) - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.
+
 ### Forms
 
 *   [Screeb](https://screeb.app/) - In-app surveys and product analytics for decoding user behavior. Forever free plan allows 500 monthly active users, unlimited responses and events, many integrations, export, and periodic reports.
+
+### BaaS
+
+*   [IFTTT](https://ifttt.com) — Automate your favorite apps and devices. Free 2 Applets
+*   [Integrately](https://integrately.com) — Automate your tedious tasks with a single click. Free 100 Tasks, 15 Minute
+    Update Time, 5 active automations, webhooks.
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
@@ -635,13 +673,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [downtimemonkey.com](https://downtimemonkey.com/) — 60 uptime monitors, 5 minute interval. Email, Slack alerts.
 
+### Feature Toggles Management Platforms
+
+*   [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
+
 ### CDN and Protection
 
 *   [Stellate](https://stellate.co/) - Stellate is blazing fast, reliable CDN for your GraphQL API and Free for 2 services.
-
-### Analytics, Events and Statistics
-
-*   [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -832,6 +870,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
+### Feature Toggles Management Platforms
+
+*   [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.
+
 ### Managed Data Services
 
 *   [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system and a message queue. 1 instance free per project, 5000 records and 5000 calls/month free, 3 developers included. No credit-card required.
@@ -839,10 +881,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Design and UI
 
 *   [Branition](https://branition.com/colors) - Hand curated color pallets best fitted for brands.
-
-### Analytics, Events and Statistics
-
-*   [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -2254,7 +2292,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### BaaS
 
-*   [getstream.io](https://getstream.io/) — Build scalable newsfeeds, activity streams, chat and messaging in a few hours instead of weeks
+*   [getstream.io](https://getstream.io/) — Build scalable In-App Chat, Messaging, Video & Audio, and Feeds in a few hours instead of weeks
 
 ### Design and UI
 
@@ -2801,13 +2839,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
 
+### Feature Toggles Management Platforms
+
+*   [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
+
 ### Forms
 
 *   [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.
-
-### Analytics, Events and Statistics
-
-*   [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 
@@ -3631,7 +3669,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
 *   [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
 *   [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
-*   [circleci.com](https://circleci.com/) — Free for one concurrent build
 *   [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
 
 ### Testing
@@ -3713,6 +3750,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
 *   [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
 *   [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
+
+### Feature Toggles Management Platforms
+
+*   [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.
 
 ### Forms
 
@@ -3881,7 +3922,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Miscellaneous
 
-*   [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.
 *   [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
 *   [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
 *   [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization

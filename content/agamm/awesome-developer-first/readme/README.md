@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 591 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 603 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ A curated list of awesome developer-first tools products.
 # Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome developer-first products.\
-I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).\
+(Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).\
 You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :)
 
 The definition of developer-first for this repo is:
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐591)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐603)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -254,6 +254,7 @@ For the latest additions [click here (⭐591)](https://github.com/agamm/awesome-
 *Integration management systems or products that ease integration development.*
 
 *   [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+*   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. ![Revert](https://img.shields.io/github/contributors-anon/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 *   [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 
 ## Localization
@@ -418,5 +419,5 @@ For the latest additions [click here (⭐591)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐591)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐603)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

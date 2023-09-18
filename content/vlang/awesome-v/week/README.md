@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ [Daily](/content/vlang/awesome-v/README.md) / Weekly / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
+
+### Discord
+
+*   [discordwebhook (⭐0)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
+
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
 ### Utility
