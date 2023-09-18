@@ -6,6 +6,12 @@
 
 [ [Daily](/content/stoeffel/awesome-fp-js/README.md) / Weekly / [Overview](/content/stoeffel/awesome-fp-js/readme/README.md) ]
 
+## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
+
+### Libraries / Algebraic Data Types
+
+*   [sweet-monads (⭐276)](https://github.com/JSMonk/sweet-monads) - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
+
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### Libraries
@@ -308,10 +314,6 @@
 ### Resources / Articles
 
 *   [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) - A simple introduction by @ericelliott to functional principles and vocabulary.
-
-### Resources / Examples and Exercises
-
-*   [Functional Programming for Beginners](http://paqmind.com/courses/fp-beginner/) – Dozens of exercises with solutions and explanations.
 
 ## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
 

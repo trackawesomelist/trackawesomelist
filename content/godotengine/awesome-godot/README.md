@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Sep 18, 2023](/content/2023/09/18/README.md)
+
+### Plugins and scripts / Various Godot versions
+
+*   [Simplified Flight Simulation library (⭐41)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
+
 ## [Sep 15, 2023](/content/2023/09/15/README.md)
 
 ### Plugins and scripts / Various Godot versions

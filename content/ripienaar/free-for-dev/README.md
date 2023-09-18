@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 18, 2023](/content/2023/09/18/README.md)
+
+### Forms
+
+*   [Screeb](https://screeb.app/) - In-app surveys and product analytics for decoding user behavior. Forever free plan allows 500 monthly active users, unlimited responses and events, many integrations, export, and periodic reports.
+
 ## [Sep 14, 2023](/content/2023/09/14/README.md)
 
 ### Web Hosting
@@ -1370,7 +1376,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data and ML
 
-*   [A11yWatch](https://a11ywatch.com) - Powerful web accessibility tool at scale. Free site-wide web acessibility testing and beyond that resets daily.
+*   [A11yWatch](https://a11ywatch.com) - Powerful web accessibility tool at scale. Free site-wide web accessibility testing and beyond that resets daily.
 
 ### Tools for Teams and Collaboration
 
@@ -1857,7 +1863,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### IDE and Code Editing
 
-*   [PHPSandbox](https://phpsandbox.io/) — Online developement environment for PHP.
+*   [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP.
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
 
