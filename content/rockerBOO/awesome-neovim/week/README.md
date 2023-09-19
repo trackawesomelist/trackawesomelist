@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
+### (requires Neovim 0.5)
+
+*   [Wansmer/symbol-usage.nvim (⭐43)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+
 ### Utility / Diagnostics
 
 *   [luckasRanarison/nvim-devdocs (⭐142)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
@@ -16,6 +20,10 @@ Collections of awesome neovim plugins.
 
 *   [yorickpeterse/nvim-pqf (⭐29)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 
+### Editing Support / Diagnostics
+
+*   [chrisgrieser/nvim-puppeteer (⭐2)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+
 ### Session / Diagnostics
 
 *   [coffebar/neovim-project (⭐1)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
@@ -23,6 +31,10 @@ Collections of awesome neovim plugins.
 ### Split and Window / Diagnostics
 
 *   [yorickpeterse/nvim-window (⭐10)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
+
+### Preconfigured Configuration / Diagnostics
+
+*   [chrisgrieser/nvim-kickstart-python (⭐2)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 

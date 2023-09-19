@@ -8,9 +8,21 @@ Collections of awesome neovim plugins.
 
 ## [Sep 19, 2023](/content/2023/09/19/README.md)
 
+### (requires Neovim 0.5)
+
+*   [Wansmer/symbol-usage.nvim (⭐43)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+
 ### Utility / Diagnostics
 
 *   [luckasRanarison/nvim-devdocs (⭐142)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+
+### Editing Support / Diagnostics
+
+*   [chrisgrieser/nvim-puppeteer (⭐2)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+
+### Preconfigured Configuration / Diagnostics
+
+*   [chrisgrieser/nvim-kickstart-python (⭐2)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 
