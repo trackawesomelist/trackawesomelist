@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 19, 2023](/content/2023/09/19/README.md)
+
+### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [Altern](https://altern.ai) - The place to discover new AI tools and products.
+
+### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
+
+*   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
+
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository

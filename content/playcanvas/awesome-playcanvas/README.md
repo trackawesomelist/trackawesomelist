@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Sep 19, 2023](/content/2023/09/19/README.md)
+
+### Extensions and Utilities
+
+*   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
+
 ## [Sep 15, 2023](/content/2023/09/15/README.md)
 
 ### Extensions and Utilities
@@ -442,7 +448,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Create a Space Shooter](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066) - Recreate Asteroids in this Tutsplus tutorial.
 *   [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
 *   [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
-*   [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One's PlayCanvas themed blog.
 
 ### Extensions and Utilities
 
@@ -450,7 +455,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [playcanvas-p2.js (⭐20)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 *   [playcanvas-spine (⭐43)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 *   [playcanvas-tween (⭐51)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
-*   [Pirron One](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
 *   [Sublime Completions (⭐5)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
 ### Technical Demos

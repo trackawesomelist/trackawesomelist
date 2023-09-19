@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 19, 2023](/content/2023/09/19/README.md)
+
+### Utility / Diagnostics
+
+*   [luckasRanarison/nvim-devdocs (⭐142)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 
 ### Quickfix / Diagnostics

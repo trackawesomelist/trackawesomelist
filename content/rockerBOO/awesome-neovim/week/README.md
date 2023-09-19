@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
+### Utility / Diagnostics
+
+*   [luckasRanarison/nvim-devdocs (⭐142)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+
 ### Quickfix / Diagnostics
 
 *   [yorickpeterse/nvim-pqf (⭐29)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.

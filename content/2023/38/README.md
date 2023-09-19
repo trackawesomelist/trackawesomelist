@@ -1,25 +1,75 @@
 # Awesome List Updates on Sep 18 - Sep 24, 2023
 
-13 awesome lists updated this week.
+18 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### VPN Services / Telegram
+
+*   [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
+
+## [2. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+
+### :package: Packers / After 2010
+
+*   [Squishy](https://logicoma.io/squishy/) - Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables.
+
+## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+
+### Languages
+
+*   [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Blogging Platforms
+
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐110)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+
+### Software / Learning and Courses
+
+*   [INGInious](https://inginious.org/?lang=en) `⚠` - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐181)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
+
+### Software / Search Engines
+
+*   [Websurfx (⭐347)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+
+## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### Extensions and Utilities
+
+*   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
+
+## [6. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+
+### Standard Fantasy / [The Second Apocalypse](https://www.goodreads.com/series/83561-the-second-apocalypse) by [R. Scott Bakker](https://en.wikipedia.org/wiki/R._Scott_Bakker)
+
+*   [The Darkness that Comes Before](https://www.goodreads.com/book/show/301538.The_Darkness_That_Comes_Before) \[3.82]
+*   [The Warrior Prophet](https://www.goodreads.com/book/show/18877.The_Warrior_Prophet) \[3.97]
+*   [The Thousandfold Thought](https://www.goodreads.com/book/show/13806.The_Thousandfold_Thought) \[3.94]
+*   [The Judging Eye](https://www.goodreads.com/book/show/4117865-the-judging-eye) \[4.01]
+*   [The White Luck Warrior](https://www.goodreads.com/book/show/7704943-the-white-luck-warrior) \[4.11]
+*   [The Great Ordeal](https://www.goodreads.com/book/show/27160926-the-great-ordeal) \[4.07]
+*   [The Unholy Consult](https://www.goodreads.com/book/show/9968073-the-unholy-consult) \[3.88]
+
+## [7. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Discord
 
 *   [discordwebhook (⭐0)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community / Interfaces to other package managers
 
 *   [asdf-sbcl (⭐17)](https://github.com/smashedtoatoms/asdf-sbcl), a plugin for the universal package manager.
 *   📹 [this Youtube video](https://www.youtube.com/watch?v=lGS4sr6AzKw) (by 40ants, 2023) on how to use alien-works-delivery and linux-packaging.
 
-## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Reinforcement Learning / NLP
 
@@ -34,85 +84,13 @@
 
 *   [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Functional Programming / Runner
 
 *   [sweet-monads (⭐276)](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐191)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐56)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐70)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐420)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐66)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐238)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐566)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐320)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [6. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [11. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Chat Bot
 
@@ -195,13 +173,25 @@
 
 
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
 *   [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f)
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [Altern](https://altern.ai) - The place to discover new AI tools and products.
+
+### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
+
+*   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
+
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Utility / Diagnostics
+
+*   [luckasRanarison/nvim-devdocs (⭐142)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 
 ### Quickfix / Diagnostics
 
@@ -215,19 +205,19 @@
 
 *   [yorickpeterse/nvim-window (⭐10)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Integrations
 
 *   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. ![Revert](https://img.shields.io/github/contributors-anon/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
-## [10. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [15. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Translations
 
 *   [French (⭐1)](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -271,13 +261,13 @@
 *   [Integrately](https://integrately.com) — Automate your tedious tasks with a single click. Free 100 Tasks, 15 Minute
     Update Time, 5 active automations, webhooks.
 
-## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [17. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [Simplified Flight Simulation library (⭐41)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 
-## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :free: Free Courses / Chrome Extensions
 

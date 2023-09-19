@@ -6,6 +6,20 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Sep 19, 2023](/content/2023/09/19/README.md)
+
+### Software / Blogging Platforms
+
+*   [Mataroa](https://mataroa.blog/) - Mataroa is a naked blogging platform for minimalists. ([Source Code (⭐110)](https://github.com/mataroa-blog/mataroa)) `MIT` `Python`
+
+### Software / Learning and Courses
+
+*   [INGInious](https://inginious.org/?lang=en) `⚠` - Intelligent grader that allows secured and automated testing of code made by students. ([Source Code (⭐181)](https://github.com/UCL-INGI/INGInious), [Clients (⭐3)](https://github.com/UCL-INGI/INGInious-plugins)) `AGPL-3.0` `Python/Docker`
+
+### Software / Search Engines
+
+*   [Websurfx (⭐347)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
+
 ## [Sep 16, 2023](/content/2023/09/16/README.md)
 
 ### Software / Miscellaneous
@@ -28,7 +42,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐1.6k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go`
+*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐1.7k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go`
 
 ## [Aug 31, 2023](/content/2023/08/31/README.md)
 
@@ -553,12 +567,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Webarchive (⭐41)](https://github.com/derfenix/webarchive) - Lightweight self-hosted *wayback machine* that creates HTML and PDF files from your bookmarks. `BSD-3-Clause` `Go`
 
-## [Apr 17, 2023](/content/2023/04/17/README.md)
-
-### Software / Search Engines
-
-*   [Gigablast (⭐1.5k)](https://github.com/gigablast/open-source-search-engine) - Open-source search engine. `Apache-2.0` `C++`
-
 ## [Apr 16, 2023](/content/2023/04/16/README.md)
 
 ### Software / Self-hosting Solutions
@@ -621,7 +629,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Genealogy
 
-*   [Gramps Web](https://gramps-project.github.io/web/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/web/), [Source Code (⭐50)](https://github.com/gramps-project/gramps-webapi)). `AGPL-3.0` `Docker`
+*   [Gramps Web](https://gramps-project.github.io/web/) - Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/web), [Source Code (⭐50)](https://github.com/gramps-project/gramps-webapi)) `AGPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
@@ -1186,7 +1194,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Proxy
 
-*   [Pomerium](https://www.pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth\_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code (⭐3.6k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
+*   [Pomerium](https://www.pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth\_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code (⭐3.7k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
 
 ### Software / Recipe Management
 
@@ -1212,7 +1220,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / E-commerce
 
-*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://demo.medusajs.com/a/orders?offset=0\&limit=15), [Source Code (⭐20k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
+*   [MedusaJs](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ([Demo](https://next.medusajs.com/), [Source Code (⭐20k)](https://github.com/medusajs/medusa)) `MIT` `Nodejs`
 
 ## [Sep 14, 2022](/content/2022/09/14/README.md)
 
@@ -1794,10 +1802,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [OpenSearch](https://opensearch.org) - Open source distributed and RESTful search engine. ([Source Code (⭐7.5k)](https://github.com/opensearch-project/OpenSearch)) `Apache-2.0` `Java`
 *   [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Source Code (⭐3k)](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java`
 
-### Software / Software Development - Project Management
-
-*   [GitPrep (⭐897)](https://github.com/yuki-kimoto/gitprep) - Portable Github clone. ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) `Artistic-2.0` `Perl`
-
 ## [Jun 22, 2022](/content/2022/06/22/README.md)
 
 ### Software / Blogging Platforms
@@ -2085,9 +2089,9 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Apr 23, 2022](/content/2022/04/23/README.md)
 
-### Software / Communication - Custom Communication Systems
+### Software / Booking and Scheduling
 
-*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Source Code (⭐2.4k)](https://github.com/lukevella/Rallly)) `AGPL-3.0` `Nodejs`
+*   [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code (⭐2.5k)](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Content Management Systems (CMS)
 
@@ -2442,7 +2446,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Feedpushr (⭐286)](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go`
 *   [Goeland (⭐130)](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
-*   [PolitePol (⭐355)](https://github.com/taroved/pol) - Online tool for creation of RSS feeds for any web page. ([Demo](https://politepol.com)) `MIT` `Python`
 *   [RSS Fulltext Proxy (⭐107)](https://github.com/Kombustor/rss-fulltext-proxy) - Mirrors RSS feeds to return the full content of the items, extracted from the website. `MIT` `Nodejs`
 *   [RSS2EMail (⭐292)](https://github.com/rss2email/rss2email) - Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. `GPL-2.0` `Python`
 
@@ -2690,10 +2693,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Node RED](https://nodered.org/) - Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. ([Source Code (⭐17k)](https://github.com/node-red/node-red)) `Apache-2.0` `Nodejs`
 *   [openHAB](https://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code (⭐810)](https://github.com/openhab/openhab-core)) `EPL-2.0` `Java`
 
-### Software / Knowledge Management Tools
-
-*   [Mindmaps (⭐2.7k)](https://github.com/drichard/mindmaps) - Open source, offline capable, mind mapping application. ([Demo](https://www.mindmaps.app)) `AGPL-3.0` `HTML5`
-
 ### Software / Learning and Courses
 
 *   [ILIAS](https://www.ilias.de) - ILIAS is the Learning Management System that can cope with anything you throw at it. ([Demo](https://demo.ilias.de), [Source Code (⭐347)](https://github.com/ILIAS-eLearning/ILIAS)) `GPL-3.0` `PHP`
@@ -2872,10 +2871,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Note-taking & Editors
 
 *   [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code (⭐7.1k)](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`
-
-### Software / Photo and Video Galleries
-
-*   [Photo Stream (⭐397)](https://github.com/waschinski/photo-stream) - Minimalist self-hosted photo stream. ([Demo](https://floremotion.de/)) `MIT` `Ruby`
 
 ## [Jul 31, 2021](/content/2021/07/31/README.md)
 
@@ -3134,10 +3129,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Awesome Sysadmin (⭐20k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 
 ## [Jun 23, 2021](/content/2021/06/23/README.md)
-
-### Software / Communication - XMPP - Servers
-
-*   [jackal (⭐1.4k)](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go/Docker`
 
 ### Software / Note-taking & Editors
 
@@ -3646,10 +3637,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code (⭐386)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
 
 ## [May 23, 2020](/content/2020/05/23/README.md)
-
-### Software / Photo and Video Galleries
-
-*   [Fussel (⭐224)](https://github.com/cbenning/fussel) - Self-hosted, no-backend static photo gallery. Face tag recognition, albums and more. ([Demo](https://benninger.ca/fussel-demo/)) `MIT` `Python/Docker`
 
 ### Software / Task Management & To-do Lists
 
@@ -4464,7 +4451,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐1.7k)](https://github.com/apple/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐732)](https://github.com/OpenPrinting/cups/commits/master)) `GPL-2.0` `C`
 
 ## [May 16, 2018](/content/2018/05/16/README.md)
 
@@ -4725,10 +4712,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Note-taking & Editors
 
 *   [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown support. ([Source Code (⭐334)](https://github.com/cloudron-io/meemo)) `MIT` `Nodejs`
-
-### Software / Password Managers
-
-*   [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code (⭐12k)](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
 
 ### Software / Pastebins
 

@@ -161,6 +161,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [There's An AI For That](https://theresanaiforthat.com/): AI database
 *   [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 *   [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
+*   [Altern](https://altern.ai) - The place to discover new AI tools and products.
 
 ## Inbox: Large Language Models (LLMs)
 
@@ -304,6 +305,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
+*   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
 *   \[🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
 *   \[🔥🔥🔥] [Prompt Engineering | Lil'Log](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): prompt engineering learning notes by Lilian Weng
 *   \[🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering

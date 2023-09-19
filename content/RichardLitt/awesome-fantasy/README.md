@@ -6,6 +6,18 @@
 
 [ Daily / [Weekly](/content/RichardLitt/awesome-fantasy/week/README.md) / [Overview](/content/RichardLitt/awesome-fantasy/readme/README.md) ]
 
+## [Sep 19, 2023](/content/2023/09/19/README.md)
+
+### Standard Fantasy / [The Second Apocalypse](https://www.goodreads.com/series/83561-the-second-apocalypse) by [R. Scott Bakker](https://en.wikipedia.org/wiki/R._Scott_Bakker)
+
+*   [The Darkness that Comes Before](https://www.goodreads.com/book/show/301538.The_Darkness_That_Comes_Before) \[3.82]
+*   [The Warrior Prophet](https://www.goodreads.com/book/show/18877.The_Warrior_Prophet) \[3.97]
+*   [The Thousandfold Thought](https://www.goodreads.com/book/show/13806.The_Thousandfold_Thought) \[3.94]
+*   [The Judging Eye](https://www.goodreads.com/book/show/4117865-the-judging-eye) \[4.01]
+*   [The White Luck Warrior](https://www.goodreads.com/book/show/7704943-the-white-luck-warrior) \[4.11]
+*   [The Great Ordeal](https://www.goodreads.com/book/show/27160926-the-great-ordeal) \[4.07]
+*   [The Unholy Consult](https://www.goodreads.com/book/show/9968073-the-unholy-consult) \[3.88]
+
 ## [Aug 29, 2023](/content/2023/08/29/README.md)
 
 ### Epic Fantasy / [Temeraire](https://www.goodreads.com/series/43272-temeraire) (2006) *by [Naomi Novik](https://en.wikipedia.org/wiki/Naomi_Novik)* [4.06]

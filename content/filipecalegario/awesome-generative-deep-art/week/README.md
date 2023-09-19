@@ -12,6 +12,14 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f)
 
+### Generative AI Tools Directories / Contribute to Our Repository
+
+*   [Altern](https://altern.ai) - The place to discover new AI tools and products.
+
+### Prompt Engineering | Prompt Design | Prompt Craft / Text-related Generative Tools
+
+*   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
+
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
