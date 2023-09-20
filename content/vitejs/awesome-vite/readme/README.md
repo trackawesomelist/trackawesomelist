@@ -202,7 +202,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-tinybase-react (⭐0)](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
 *   [vite-tinybase-ts-react (⭐4)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
 *   [vite-react\_best\_practices-template (⭐94)](https://github.com/CodelyTV/vite-react_best_practices-template) - Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting.
-*   [vite-react-ssr-boost-template (⭐9)](https://github.com/Lomray-Software/vite-template) - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
+*   [vite-react-ssr-boost-template (⭐10)](https://github.com/Lomray-Software/vite-template) - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
 
 #### Svelte
 
@@ -414,7 +414,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-leader-line (⭐0)](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
 *   [vite-plugin-generate-html (⭐1)](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
 *   [vite-plugin-turbo-console (⭐37)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
-*   [vite-plugin-html-injection (⭐2)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
+*   [vite-plugin-html-injection (⭐3)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
 
 #### Helpers
 
@@ -466,7 +466,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-vitepress-auto-sidebar (⭐26)](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 *   [vite-plugin-global-const (⭐2)](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
 *   [vite-plugin-cli-copy (⭐1)](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
-*   [vite-plugin-module-list (⭐0)](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
+*   [vite-plugin-module-list (⭐2)](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
 
 #### Testing
 
@@ -475,6 +475,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vitest-mock-extended (⭐94)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 *   [cypress-vite (⭐62)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 *   [vitest-preview (⭐273)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
+*   [vite-plugin-doctest (⭐17)](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 
 <hr>
 
@@ -562,7 +563,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Routing
 
-*   [generouted (⭐608)](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+*   [generouted (⭐629)](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 #### Loaders
 
@@ -582,7 +583,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### SSG
 
-*   [vite-react-ssg (⭐5)](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
+*   [vite-react-ssg (⭐7)](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
 
 <!--lint ignore double-link-->
 
@@ -616,7 +617,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Routing
 
-*   [generouted (⭐608)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+*   [generouted (⭐629)](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 <hr>
 
@@ -722,7 +723,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [ssr (⭐2.4k)](https://github.com/zhangyuang/ssr) - A Server Side Rendering framework combined with Webpack/Vite. ![react] ![vue3] ![vue2]
 *   [vavite (⭐354)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 *   [vue-ssr (⭐7)](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3]
-*   [vite-ssr-boost (⭐21)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react]
+*   [vite-ssr-boost (⭐25)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react]
 
 ### Frameworks
 

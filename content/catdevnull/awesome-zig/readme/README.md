@@ -99,6 +99,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [dantecatalfamo/brainfuck-zig (⭐6)](https://github.com/dantecatalfamo/brainfuck-zig) - Brainfuck interpreter.
 *   [dantecatalfamo/mruby-zig (⭐29)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
 *   [dantecatalfamo/wren-zig (⭐24)](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
+*   [fulcrum-so/ziggy-pydust (⭐88)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
 *   [fubark/cyber (⭐847)](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 ## Concurrency
@@ -169,7 +170,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [fubark/cosmic (⭐295)](https://github.com/fubark/cosmic) - GUI toolkit.
 *   [batiati/IUPforZig (⭐93)](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 *   [andrewrk/zig-sdl (⭐64)](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
-*   [Snektron/vulkan-zig (⭐294)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
+*   [Snektron/vulkan-zig (⭐301)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
 *   [Avokadoen/zig\_vulkan (⭐40)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 *   [andrewrk/zig-vulkan-triangle (⭐76)](https://github.com/andrewrk/zig-vulkan-triangle) - Simple triangle displayed using Vulkan, GLFW, and Zig.
 *   [kassane/QML-zig (⭐52)](https://github.com/kassane/qml_zig) - QML bindings.
@@ -253,7 +254,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [nektro/zigmod (⭐588)](https://github.com/nektro/zigmod) - Zig package manager.
 *   [cheetah/asdf-zig (⭐19)](https://github.com/cheetah/asdf-zig) - Zig plugin for the ASDF package manager.
 *   [mattnite/ezpkg (⭐21)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
-*   [nix-community/zon2nix (⭐21)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [nix-community/zon2nix (⭐40)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## Parser
 

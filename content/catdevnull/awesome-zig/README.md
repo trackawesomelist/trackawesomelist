@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Sep 20, 2023](/content/2023/09/20/README.md)
+
+### Compilers and interpreters
+
+*   [fulcrum-so/ziggy-pydust (⭐88)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
+
 ## [Sep 10, 2023](/content/2023/09/10/README.md)
 
 ### Concurrency
@@ -22,7 +28,7 @@ A list of awesome projects related to Zig
 ### Zig development tools / Package managers
 
 *   [mattnite/ezpkg (⭐21)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
-*   [nix-community/zon2nix (⭐21)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [nix-community/zon2nix (⭐40)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ### Parser / Package managers
 
@@ -344,7 +350,7 @@ A list of awesome projects related to Zig
 
 ### GUI
 
-*   [Snektron/vulkan-zig (⭐294)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
+*   [Snektron/vulkan-zig (⭐301)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
 *   [Avokadoen/zig\_vulkan (⭐40)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 
 ## [Jan 22, 2022](/content/2022/01/22/README.md)
