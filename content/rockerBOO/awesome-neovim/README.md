@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 20, 2023](/content/2023/09/20/README.md)
+
+### Utility / Diagnostics
+
+*   [sontungexpt/url-open (⭐2)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
+
+### Terminal Integration / Diagnostics
+
+*   [willothy/wezterm.nvim (⭐49)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
+
 ## [Sep 19, 2023](/content/2023/09/19/README.md)
 
 ### (requires Neovim 0.5)

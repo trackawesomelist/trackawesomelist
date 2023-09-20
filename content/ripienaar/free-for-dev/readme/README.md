@@ -167,6 +167,17 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     *   Log Analysis - 500MB of daily log
     *   Full, detailed list - <https://www.ibm.com/cloud/free/>
 
+*   [Cloudflare](https://www.cloudflare.com/)
+    *   [Application Services](https://www.cloudflare.com/plans/) - Free DNS for unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and pagerules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding
+    *   [Zero Trust & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - Up to 50 Users, 24 hours of activity logging, 3 network locations
+    *   [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) -  You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More feature (TCP tunnel, Load balancing , VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.
+    *   [Workers](https://developers.cloudflare.com/workers/) - Deploy serverless code for free on Cloudflare's global network.100k requests per day.
+    *   [Workers KV](https://developers.cloudflare.com/kv) - 100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data
+    *   [R2](https://developers.cloudflare.com/r2/) - 10 GB per month, 1 million Class A operations per month, 10 million Class B operations per month
+    *   [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
+    *   [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. 500 builds per month, 100 custom domains, Integrated SSL, unlimited free seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
+    *   [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Cloud management solutions
@@ -485,6 +496,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Hygraph](https://hygraph.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
 *   [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).
 *   [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
+*   [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1025,16 +1037,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 *   [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
 *   [cdnjs.com](https://cdnjs.com/) — Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 11% of all websites, powered by Cloudflare.
-*   [Cloudflare](https://www.cloudflare.com/)
-    *   CDN along with free SSL
-    *   Free DNS for unlimited number of domains
-    *   Firewall rules and pagerules
-    *   Analytics
-    *   Email forwarding
-    *   Free Unmetered Rate Limiting - 1 rule per domain
-    *   [Cloudflare Pages](https://pages.cloudflare.com/) — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
-    *   [Cloudflare Workers](https://workers.cloudflare.com/) — Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
-    *   [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) -  You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More feature (TCP tunnel, Load balancing , VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.
 *   [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
 *   [Stellate](https://stellate.co/) - Stellate is blazing fast, reliable CDN for your GraphQL API and Free for 2 services.
 *   [jsdelivr.com](https://www.jsdelivr.com/) — A free, fast, and reliable CDN for open source. Supports npm, GitHub, WordPress, Deno, and more.
@@ -1831,6 +1833,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Other Free Resources
 
+*   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 *   [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
 *   [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
 *   [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).

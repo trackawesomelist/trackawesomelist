@@ -13,9 +13,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month.
 *   [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any frontend. Developer plan allows 100 orders per month and up to 1,000 SKUs for free.
 
+### CMS
+
+*   [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
+
 ### Design and UI
 
 *   [Float UI](https://floatui.com/) - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers.
+
+### Other Free Resources
+
+*   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 
 ## [Sep 19, 2023](/content/2023/09/19/README.md)
 
@@ -2214,18 +2222,18 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Dec 08, 2021](/content/2021/12/08/README.md)
 
-### CDN and Protection
+### Major Cloud Providers
 
 *   [Cloudflare](https://www.cloudflare.com/)
-    *   CDN along with free SSL
-    *   Free DNS for unlimited number of domains
-    *   Firewall rules and pagerules
-    *   Analytics
-    *   Email forwarding
-    *   Free Unmetered Rate Limiting - 1 rule per domain
-    *   [Cloudflare Pages](https://pages.cloudflare.com/) — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
-    *   [Cloudflare Workers](https://workers.cloudflare.com/) — Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
+    *   [Application Services](https://www.cloudflare.com/plans/) - Free DNS for unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and pagerules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding
+    *   [Zero Trust & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - Up to 50 Users, 24 hours of activity logging, 3 network locations
     *   [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) -  You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More feature (TCP tunnel, Load balancing , VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.
+    *   [Workers](https://developers.cloudflare.com/workers/) - Deploy serverless code for free on Cloudflare's global network.100k requests per day.
+    *   [Workers KV](https://developers.cloudflare.com/kv) - 100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data
+    *   [R2](https://developers.cloudflare.com/r2/) - 10 GB per month, 1 million Class A operations per month, 10 million Class B operations per month
+    *   [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
+    *   [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. 500 builds per month, 100 custom domains, Integrated SSL, unlimited free seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
+    *   [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
 
 ## [Dec 06, 2021](/content/2021/12/06/README.md)
 

@@ -14,7 +14,12 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
+*   [sontungexpt/url-open (⭐2)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 *   [luckasRanarison/nvim-devdocs (⭐142)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+
+### Terminal Integration / Diagnostics
+
+*   [willothy/wezterm.nvim (⭐49)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
 
 ### Quickfix / Diagnostics
 

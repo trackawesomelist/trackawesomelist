@@ -12,6 +12,10 @@ A curated list of awesome developer-first tools products.
 
 *   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. ![Revert](https://img.shields.io/github/contributors-anon/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
+### Natural Language Processing
+
+*   [CometLLM (⭐193)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### Deployment Hosting

@@ -629,6 +629,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [axieax/urlview.nvim (⭐178)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
 *   [nkakouros-original/numbers.nvim (⭐29)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
 *   [ghillb/cybu.nvim (⭐266)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
+*   [sontungexpt/url-open (⭐2)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 *   [crusj/bookmarks.nvim (⭐118)](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
 *   [xiyaowong/virtcolumn.nvim (⭐60)](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
 *   [m-demare/attempt.nvim (⭐69)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
@@ -671,6 +672,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [LoricAndre/OneTerm.nvim (⭐42)](https://github.com/LoricAndre/OneTerm.nvim) - Plugin framework for running commands in the terminal.
 *   [nikvdp/neomux (⭐284)](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 *   [willothy/flatten.nvim (⭐262)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+*   [willothy/wezterm.nvim (⭐49)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
 *   [akinsho/nvim-toggleterm.lua (⭐2.9k)](https://github.com/akinsho/nvim-toggleterm.lua) - A Neovim Lua plugin to help easily manage multiple terminal windows.
 *   [norcalli/nvim-terminal.lua (⭐171)](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode which leverages conceal and highlights your buffer with the correct color codes.
 *   [numToStr/FTerm.nvim (⭐637)](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in Lua.

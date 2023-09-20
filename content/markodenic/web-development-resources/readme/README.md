@@ -2,7 +2,7 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.9K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.2K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / [Weekly](/content/markodenic/web-development-resources/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ This is an awesome project about Web Development resources. ⚡
 
 Resources are added frequently! ⚡
 
-Enjoy!
+Enjoy! :)
 
 If you like this repo, be sure to ⭐ it.
 
@@ -198,6 +198,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://startup.jobs/remote-jobs>    |
 | <https://remotescout.ch>              |
 | <https://devemploy.com>               |
+| <https://www.remote.io>               |
 
 [⬆ back to top](#table-of-contents)
 

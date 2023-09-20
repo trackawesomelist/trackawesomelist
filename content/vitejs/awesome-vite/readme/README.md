@@ -57,6 +57,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [create-vite-app (⭐172)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 *   [create-nx-workspace (⭐19k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
 *   [bati (⭐20)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+*   [create-awesome-node-app (⭐24)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 
 ### Templates
 
@@ -203,6 +204,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-tinybase-ts-react (⭐4)](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
 *   [vite-react\_best\_practices-template (⭐94)](https://github.com/CodelyTV/vite-react_best_practices-template) - Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting.
 *   [vite-react-ssr-boost-template (⭐10)](https://github.com/Lomray-Software/vite-template) - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
+*   [vite-react-ts-shadcn-starter (⭐0)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
+*   [template-tauri-vite-react-ts-tailwind (⭐0)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
 
 #### Svelte
 
@@ -322,6 +325,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [@storybook/builder-vite (⭐80k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
 *   [@builder.io/partytown (⭐12k)](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 *   [vite-plugin-meta-env (⭐2)](https://github.com/wei-design/vite-plugin-meta-env) - Define dynamic env variables in import.meta.env.
+*   [vite-plugin-dynamic-proxy (⭐0)](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
 
 #### Loaders
 

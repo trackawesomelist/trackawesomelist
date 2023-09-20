@@ -17,6 +17,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.
 *   [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. Free plan includes 100 cloud scrape credits.
 
+### CMS
+
+*   [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
+
 ### Code Generation
 
 *   [Metalama](https://www.postsharp.net/metalama) - Only for C#. Metalama generates the boilerplate the code on the fly, during compilation, so that your source code remains clean. It is completely free for open-source projects, and their commercial-friendly free tier includes 3 aspects.
@@ -75,6 +79,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Design and UI
 
 *   [Float UI](https://floatui.com/) - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers.
+
+### Other Free Resources
+
+*   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
@@ -1782,6 +1790,19 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
+### Major Cloud Providers
+
+*   [Cloudflare](https://www.cloudflare.com/)
+    *   [Application Services](https://www.cloudflare.com/plans/) - Free DNS for unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and pagerules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding
+    *   [Zero Trust & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - Up to 50 Users, 24 hours of activity logging, 3 network locations
+    *   [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) -  You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More feature (TCP tunnel, Load balancing , VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.
+    *   [Workers](https://developers.cloudflare.com/workers/) - Deploy serverless code for free on Cloudflare's global network.100k requests per day.
+    *   [Workers KV](https://developers.cloudflare.com/kv) - 100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data
+    *   [R2](https://developers.cloudflare.com/r2/) - 10 GB per month, 1 million Class A operations per month, 10 million Class B operations per month
+    *   [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
+    *   [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. 500 builds per month, 100 custom domains, Integrated SSL, unlimited free seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
+    *   [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
+
 ### Source Code Repos
 
 *   [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
@@ -1801,16 +1822,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### CDN and Protection
 
-*   [Cloudflare](https://www.cloudflare.com/)
-    *   CDN along with free SSL
-    *   Free DNS for unlimited number of domains
-    *   Firewall rules and pagerules
-    *   Analytics
-    *   Email forwarding
-    *   Free Unmetered Rate Limiting - 1 rule per domain
-    *   [Cloudflare Pages](https://pages.cloudflare.com/) — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
-    *   [Cloudflare Workers](https://workers.cloudflare.com/) — Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
-    *   [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) -  You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More feature (TCP tunnel, Load balancing , VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.
 *   [UNPKG](https://unpkg.com/) — CDN for everything on npm
 
 ### PaaS

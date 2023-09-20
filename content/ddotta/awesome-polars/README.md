@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Sep 20, 2023](/content/2023/09/20/README.md)
+
+### Official documentation
+
+*   [Talk about Polars at EuroPython Conference 2023](https://www.youtube.com/watch?v=UwRlFtSd_-8) ⏳ `28 min` - Talk by [@ritchie46](https://github.com/ritchie46) that introduces Polars and some of its design decisions.
+
 ## [Sep 19, 2023](/content/2023/09/19/README.md)
 
 ### Resources / Blog posts

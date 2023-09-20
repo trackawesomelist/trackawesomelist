@@ -8,6 +8,19 @@
 
 ## [Sep 20, 2023](/content/2023/09/20/README.md)
 
+### Get Started
+
+*   [create-awesome-node-app (⭐24)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
+
+### Templates / React
+
+*   [vite-react-ts-shadcn-starter (⭐0)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
+*   [template-tauri-vite-react-ts-tailwind (⭐0)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-dynamic-proxy (⭐0)](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
+
 ### Framework-agnostic Plugins / Testing
 
 *   [vite-plugin-doctest (⭐17)](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.

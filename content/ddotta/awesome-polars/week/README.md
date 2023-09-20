@@ -8,6 +8,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
+### Official documentation
+
+*   [Talk about Polars at EuroPython Conference 2023](https://www.youtube.com/watch?v=UwRlFtSd_-8) ⏳ `28 min` - Talk by [@ritchie46](https://github.com/ritchie46) that introduces Polars and some of its design decisions.
+
 ### Resources / Blog posts
 
 *   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
