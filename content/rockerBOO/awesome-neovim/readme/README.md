@@ -536,7 +536,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [alvarosevilla95/luatab.nvim (⭐170)](https://github.com/alvarosevilla95/luatab.nvim) - A simple tabline written in Lua.
 *   [johann2357/nvim-smartbufs (⭐31)](https://github.com/johann2357/nvim-smartbufs) - Smart buffer management.
 *   [kdheepak/tabline.nvim (⭐229)](https://github.com/kdheepak/tabline.nvim) - A "buffer and tab" tabline.
-*   [noib3/cokeline.nvim (⭐382)](https://github.com/noib3/cokeline.nvim) - A Neovim bufferline for people with addictive personalities.
+*   [willothy/nvim-cokeline (⭐387)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
 *   [tomiis4/BufferTabs.nvim (⭐51)](https://github.com/tomiis4/BufferTabs.nvim) - Simple and Fancy tabline.
 *   [echasnovski/mini.nvim#mini.tabline (⭐2.7k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-tabline.md) - Module of `mini.nvim` for minimal tabline showing listed buffers in case of one tab and falling back to default otherwise.
 *   [rafcamlet/tabline-framework.nvim (⭐92)](https://github.com/rafcamlet/tabline-framework.nvim) - User-friendly framework for building your dream tabline in a few lines of code.

@@ -8,6 +8,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Sep 21, 2023](/content/2023/09/21/README.md)
 
+### Design and UI
+
+*   [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
+*   [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools
+
 ### Analytics, Events and Statistics
 
 *   [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.

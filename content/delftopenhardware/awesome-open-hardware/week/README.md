@@ -6,6 +6,12 @@
 
 [ [Daily](/content/delftopenhardware/awesome-open-hardware/README.md) / Weekly / [Overview](/content/delftopenhardware/awesome-open-hardware/readme/README.md) ]
 
+## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
+
+### Projects
+
+*   [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
+
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### Projects

@@ -1,18 +1,43 @@
 # Awesome List Updates on Sep 18 - Sep 24, 2023
 
-32 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Financial Instruments and Pricing
+
+*   [Kelly-Criterion (⭐70)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
+
+### Python / Trading & Backtesting
+
+*   [QSTrader (⭐2.5k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
+
+## [2. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+
+### Projects
+
+*   [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
+
+## [3. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+
+### Extensions / Community
+
+*   [Media AI Bundle (⭐44)](https://github.com/Arood/directus-extension-media-ai-bundle) - Two operations to perform image description and OCR.
+*   [Directus Copilot (⭐37)](https://github.com/programmarchy/directus-extension-copilot/) - A bundle including a panel to ask data-aware questions in a chat interface.
+*   [OpenAI Automatic Translation (⭐34)](https://github.com/timio23/directus-operation-auto-translate/) - An operaiton to automatically translate new items via OpenAI.
+*   [Machine Learning Operations (⭐8)](https://github.com/karamokoisrael/directus-hackathon-submission/) - A set of extensions to train, test and use machine learning models.
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/saber/id1671523739)[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/adil192/saber)
 
-## [2. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Geocoding
 
@@ -42,31 +67,31 @@
 
 
 
-## [3. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [6. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Libraries and Frameworks
 
 *   [horcrux (⭐4.1k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 
 *   [commata (⭐4)](https://github.com/furfurylic/commata) - Just another header-only C++17 CSV parser. \[Unlicense]
 
-## [5. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Dependency Injection
 
 *   [gontainer (⭐13)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
 
-## [6. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [9. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Uncategorized
 
 *   [ACG2vec (⭐389)](https://github.com/OysterQAQ/ACG2vec) - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
 
-## [7. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [10. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Remote Jobs:
 
@@ -74,7 +99,7 @@
 
 
 
-## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [11. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Learn / Notebooks
 
@@ -84,13 +109,13 @@
 
 *   [LangStream (⭐105)](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents.  ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)
 
-## [9. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [12. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Compilers and interpreters
 
 *   [fulcrum-so/ziggy-pydust (⭐88)](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
 
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -151,13 +176,13 @@
 *   [Bonita (⭐138) (⭐137)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Cadence (⭐7.3k) (⭐7.3k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 
-## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
 *   [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
 
-## [12. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [15. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics / Geometry
 
@@ -165,7 +190,7 @@
     *   📚 [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures and more.
     *   📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) - Apple's private API for manipulation of UIView meshes. \[[Source (⭐4)](https://github.com/olegtyshcneko/CAMeshTransform)]
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
@@ -184,7 +209,7 @@
 
 *   [vite-plugin-doctest (⭐17)](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official documentation
 
@@ -194,25 +219,25 @@
 
 *   [Enhancing Data Analytics with Polars and MinIO](https://medium.com/learning-the-computers/enhancing-data-analytics-with-polars-and-minio-a04053fff093) - A blog post that explains how to use Polars with Minio’s open-source object storage by [@IndexSeek](https://github.com/IndexSeek).
 
-## [15. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### VPN Services / Telegram
 
 *   [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
 
-## [16. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [19. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :package: Packers / After 2010
 
 *   [Squishy](https://logicoma.io/squishy/) - Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables.
 
-## [17. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [20. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Blogging Platforms
 
@@ -226,13 +251,13 @@
 
 *   [Websurfx (⭐347)](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
 
-## [19. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [22. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 
-## [20. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [23. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Standard Fantasy / [The Second Apocalypse](https://www.goodreads.com/series/83561-the-second-apocalypse) by [R. Scott Bakker](https://en.wikipedia.org/wiki/R._Scott_Bakker)
 
@@ -244,20 +269,45 @@
 *   [The Great Ordeal](https://www.goodreads.com/book/show/27160926-the-great-ordeal) \[4.07]
 *   [The Unholy Consult](https://www.goodreads.com/book/show/9968073-the-unholy-consult) \[3.88]
 
-## [21. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [24. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Discord
 
 *   [discordwebhook (⭐0)](https://github.com/ysdragon/discordwebhook) - Super simple interface to send discord messages through webhooks.
 
-## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community / Interfaces to other package managers
 
 *   [asdf-sbcl (⭐17)](https://github.com/smashedtoatoms/asdf-sbcl), a plugin for the universal package manager.
 *   📹 [this Youtube video](https://www.youtube.com/watch?v=lGS4sr6AzKw) (by 40ants, 2023) on how to use alien-works-delivery and linux-packaging.
 
-## [23. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [26. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+
+### Machine Learning / General Purpose Machine Learning
+
+*   [Shogun (⭐3k)](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox.
+
+### Machine Learning / Automated Machine Learning
+
+*   [AutoKeras (⭐8.9k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning.
+
+### Machine Learning / Gradient Boosting
+
+*   [NGBoost (⭐1.5k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
+*   [TensorFlow Decision Forests (⭐614)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+
+### Deep Learning / Others
+
+*   [transformers (⭐112k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+
+### Natural Language Processing / Others
+
+*   [KerasNLP (⭐566)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
+
+### Computer Vision / Others
+
+*   [KerasCV (⭐830)](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="MXNet based">
 
 ### Reinforcement Learning / Others
 
@@ -276,13 +326,17 @@
 
 *   [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
 
-## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+### Feature Engineering / General
+
+*   [OpenFE (⭐545)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
+
+## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Functional Programming / Runner
 
 *   [sweet-monads (⭐276)](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
 
-## [25. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
+## [28. Ai Collection](/content/ai-collection/ai-collection/week/README.md)
 
 ### Chat Bot
 
@@ -365,7 +419,7 @@
 
 
 
-## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
 
@@ -379,7 +433,7 @@
 
 *   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -388,6 +442,10 @@
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [cryptomilk/nightcity.nvim (⭐5)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
+
+### Tabline / Diagnostics
+
+*   [willothy/nvim-cokeline (⭐387)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
 
 ### Utility / Diagnostics
 
@@ -423,7 +481,7 @@
 
 *   [chrisgrieser/nvim-kickstart-python (⭐2)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
-## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [31. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Integrations
 
@@ -433,13 +491,13 @@
 
 *   [CometLLM (⭐193)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 
-## [29. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [32. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Translations
 
 *   [French (⭐1)](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -512,6 +570,8 @@
 ### Design and UI
 
 *   [Float UI](https://floatui.com/) - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers.
+*   [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
+*   [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools
 
 ### Analytics, Events and Statistics
 
@@ -521,14 +581,14 @@
 
 *   [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
 
-## [31. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [34. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [BoxCam2D (⭐14)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 *   [Simplified Flight Simulation library (⭐41)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 
-## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [35. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :free: Free Courses / Chrome Extensions
 
