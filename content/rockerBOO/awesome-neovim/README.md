@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 21, 2023](/content/2023/09/21/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [cryptomilk/nightcity.nvim (⭐5)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
+
+### Terminal Integration / Diagnostics
+
+*   [mikesmithgh/kitty-scrollback.nvim (⭐46)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
+
+### Git / Diagnostics
+
+*   [chrisgrieser/nvim-tinygit (⭐4)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
+
 ## [Sep 20, 2023](/content/2023/09/20/README.md)
 
 ### Utility / Diagnostics

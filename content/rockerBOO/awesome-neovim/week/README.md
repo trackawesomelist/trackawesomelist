@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [Wansmer/symbol-usage.nvim (⭐43)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [cryptomilk/nightcity.nvim (⭐5)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
+
 ### Utility / Diagnostics
 
 *   [sontungexpt/url-open (⭐2)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
@@ -20,10 +24,15 @@ Collections of awesome neovim plugins.
 ### Terminal Integration / Diagnostics
 
 *   [willothy/wezterm.nvim (⭐49)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
+*   [mikesmithgh/kitty-scrollback.nvim (⭐46)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 
 ### Quickfix / Diagnostics
 
 *   [yorickpeterse/nvim-pqf (⭐29)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+
+### Git / Diagnostics
+
+*   [chrisgrieser/nvim-tinygit (⭐4)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
 
 ### Editing Support / Diagnostics
 

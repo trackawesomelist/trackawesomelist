@@ -473,6 +473,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [Verf/deepwhite.nvim (⭐20)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐139)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.3k)](https://github.com/rougier/elegant-emacs).
 *   [judaew/ronny.nvim (⭐0)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
 *   [ribru17/bamboo.nvim (⭐118)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [cryptomilk/nightcity.nvim (⭐5)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 
 #### Lua Colorscheme
 
@@ -685,6 +686,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [nyngwang/NeoTerm.lua (⭐55)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 *   [idanarye/nvim-channelot (⭐5)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
 *   [chomosuke/term-edit.nvim (⭐136)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
+*   [mikesmithgh/kitty-scrollback.nvim (⭐46)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 
 ### Debugging
 
@@ -786,6 +788,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [aaronhallaert/advanced-git-search.nvim (⭐202)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 *   [linrongbin16/gitlinker.nvim (⭐21)](https://github.com/linrongbin16/gitlinker.nvim) - Generate sharable file permalinks (with line ranges) for git host websites, a fork of "ruifm's gitlinker", refactored with pattern based rule engine, windows support and other enhancements.
 *   [9seconds/repolink.nvim (⭐8)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
+*   [chrisgrieser/nvim-tinygit (⭐4)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
 
 #### GitHub
 

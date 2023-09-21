@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Sep 21, 2023](/content/2023/09/21/README.md)
+
+### Plugins and scripts / Various Godot versions
+
+*   [BoxCam2D (⭐14)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
+
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 
 ### Plugins and scripts / Various Godot versions
@@ -255,12 +261,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Various Godot versions
 
 *   [obs-websocket-gd (⭐55)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
-
-## [Oct 03, 2021](/content/2021/10/03/README.md)
-
-### Plugins and scripts / Various Godot versions
-
-*   [BoxCam2D (⭐14)](https://github.com/samdaiya/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 
 ## [Sep 15, 2021](/content/2021/09/15/README.md)
 
