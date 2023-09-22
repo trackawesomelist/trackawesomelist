@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gontainer (⭐13)](https://github.com/NVIDIA/gontainer) - A dependency injection service container for Go projects.
 
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [PipeCD (⭐825)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
+
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
 ### Databases Implemented in Go

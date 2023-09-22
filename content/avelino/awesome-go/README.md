@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 22, 2023](/content/2023/09/22/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [PipeCD (⭐825)](https://github.com/pipe-cd/pipecd) - A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applications.
+
 ## [Sep 20, 2023](/content/2023/09/20/README.md)
 
 ### Dependency Injection
